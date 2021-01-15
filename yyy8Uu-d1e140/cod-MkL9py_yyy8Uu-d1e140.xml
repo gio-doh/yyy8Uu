@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 3 [Hanau, 1615]</title>
+        <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 3 [Hanau, 1615]</title>
+          <date when="2021-01-15">January 15, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-01-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#H" n="2"/>
+        <cb ed="#H" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yyy8Uu-d1e140">
+        <head xml:id="yyy8Uu-d1e140-Hd1e103">Caput 3</head>
+        <head xml:id="yyy8Uu-d1e140-Hd1e106" type="question-title">In quo de Theologia archetypa</head>
+        <p xml:id="yyy8Uu-d1e140-d1e109">
+          <lb ed="#H" n="99"/>CAPUT III. 
+          <lb ed="#H" n="100"/>In quo de Theologia archetypa.
+        </p>
+        <p xml:id="yyy8Uu-d1e140-d1e116">
+          <lb ed="#H" n="101"/>THEOLOGIA vera vel archetypa est, vel ectypa. 
+          <lb ed="#H" n="102"/>Haec divisio est analogica; quia Theologia archetypa
+          pri<lb ed="#H" n="103" break="no"/>mo &amp; principaliter Theologia est &amp; dicitur: Theologia ectypa 
+          <lb ed="#H" n="104"/>secundario &amp; ad similitudinem archetypae. Ea enim ratio est
+          Theole<lb ed="#H" n="105" break="no"/>giae, quae sapientiae, bonitatis, justitiae, potentiae, aliarumque
+          qualita<lb ed="#H" n="106" break="no"/>tum in creatura rationali a Deo creatarum, quarum archetypu: 
+          <lb ed="#H" n="107"/>est in Deo, aut potius quarum archetypus Deitas est, imago autem &amp; 
+          <lb ed="#H" n="108"/>similitudo in creatura rationali. Omnes quippe verae virtutes
+          men<lb ed="#H" n="109" break="no"/>ti creatae quodammodo imprimuntur a forma illius aeternae
+          immuta<lb ed="#H" n="110" break="no"/>bilisque substantiae, quae est Deus. Sicut igitur sapientia, bonitas,
+          justi<lb ed="#H" n="111" break="no"/>tia, potentia, &amp;c. vel archetypa est, vel ectypa, illa in Deo exsistens, 
+          <lb ed="#H" n="112"/>haec in creaturis rationalibus expressa: ita etiam Theologia. Sic
+          Theo<lb ed="#H" n="113" break="no"/>logia nostra ad Deum nostros animos attollit &amp; cum ipso unit.
+          Tho<lb ed="#H" n="114" break="no"/>mas <ref xml:id="yyy8Uu-d1e140-Rd1e148"><name xml:id="yyy8Uu-d1e140-Nd1e149" ref="#Aquinas">Aquinas</name> in prima parte Summae Theologiae</ref> &amp; in <ref xml:id="yyy8Uu-d1e140-Rd1e153">Expositione
+            su<lb ed="#H" n="115" break="no"/>per <name xml:id="yyy8Uu-d1e140-Nd1e157" ref="#Boethius">Boetium</name> <title>de Trinitate</title></ref>: Item <ref xml:id="yyy8Uu-d1e140-Rd1e163">Johannes Duns Scotus, in Prolog. 
+              <lb ed="#H" n="116"/>Sententiarum, quaest. tertia, folio octavo, columna quarta, &amp;
+              cla<lb ed="#H" n="117" break="no"/>rius folio decimo, columna secunda</ref>, &amp; passim, meminerunt
+          Theo<lb ed="#H" n="118" break="no"/>logiae Dei, Theologiae in se, Theologiae beatorum, Theologiae viae seu
+          via<lb ed="#H" n="119" break="no"/>torum seu nostrae. Similiter <ref xml:id="yyy8Uu-d1e140-Rd1e175"><name xml:id="yyy8Uu-d1e140-Nd1e176">Pelbartus de Themeswar</name> in aureo
+            Ro<lb ed="#H" n="120" break="no"/>sario Theologiae ad sententiarum quatuor libros, Questionum
+            prooe<lb ed="#H" n="121" break="no"/>mialium septima. §. 25.</ref>
+        </p>
+        <p xml:id="yyy8Uu-d1e140-d1e185">
+          <lb ed="#H" n="122"/>Esse Theologiam in Deo, certum est: nam
+        </p>
+        <p xml:id="yyy8Uu-d1e140-d1e191">
+          <lb ed="#H" n="123"/>I. Sapientia rerum divinarum est in Deo. At Theologia est
+          sa<lb ed="#H" n="124" break="no"/>pientia rerum divinarum. Ergo Theologia est in Deo.
+        </p>
+        <p xml:id="yyy8Uu-d1e140-d1e198">
+          <lb ed="#H" n="125"/>II. Omnes perfectiones, quae sunt in nobis, sunt etiam in Deo. 
+          <lb ed="#H" n="126"/>At Theologia est perfectio in nobis: Ergo Theologia est in Deo. 
+          <lb ed="#H" n="127"/>Haec Theologia est archetypa, &amp; sic describitur.
+        </p>
+        <p xml:id="yyy8Uu-d1e140-d1e207">
+          <lb ed="#H" n="128"/>Theologia archetypa, est sapientia rerum divinarum, in Deo
+          re<lb ed="#H" n="129" break="no"/>sidens, essentialis ipsi &amp; increata.
+        </p>
+        <p xml:id="yyy8Uu-d1e140-d1e214">
+          <lb ed="#H" n="130"/>Haec &amp; Theologia <foreign xml:lang="gr">ωρολοταςος</foreign> prototypa: a Scholasticis
+          usita<lb ed="#H" n="131" break="no"/>te Theologia Dei, item Theologia exemplaris dicitur, ad quam velut,  
+          <lb ed="#H" n="132"/>ad ideam &amp; exemplar primigenium, primarium &amp; immutabile
+          ex<lb ed="#H" n="133" break="no"/>pressa ac conformata est velut effigies Theologia creata, quam
+          divi<lb ed="#H" n="134" break="no"/>nam Theologiam nos adoramus, ac non investigamus: &amp; pars est. 
+          <lb ed="#H" n="135"/>ut ita dicamus, sapientiae Dei essentialis.
+        </p>
+        <p xml:id="yyy8Uu-d1e140-d1e233">
+          <lb ed="#H" n="136"/>Quum oporteat in omni disciplina vocum ipsarum cognoscere 
+          <lb ed="#H" n="137"/>usum, a quo provehimur in rerum ipsarum perceptionem: ita etiam 
+          <lb ed="#H" n="138"/>hoc loco explicandum quid archetypi voce significetur, unde facilius 
+          <lb ed="#H" n="139"/>intelligetur quid sit archetypa Theologii. <foreign>Apχιτθπος</foreign>, est exemplar 
+          <lb ed="#H" n="140"/>primigenium, forma primigenia, typus primus, idea, exemplar
+          pri<lb ed="#H" n="141" break="no"/>mitivum, ad cujus similitudinem alia effecta sunt ac velut effigiata: 
+          <lb ed="#H" n="142"/>ut ostendit insignis locus Philonis Judaei in libro <foreign>ωοι φι το χειορον τῳ  
+            <lb ed="#H" n="143"/>χρείτιονε φιλεῖν ἐπικθε τα</foreign>, id est, de eo, quod deterius potiori insidiare 
+          <lb ed="#H" n="144"/>soleat: <foreign>δξχετυπον υξυ φυσεως λογικῆσ ὀ θεός οσι, μιμημα α α ἀπεικονισμος 
+            <lb ed="#H" n="145"/>ἄνθρωπος</foreign>, id est, archetypum rationalis naturae Deus est, homo
+          ve<lb ed="#H" n="146" break="no"/>ro imago &amp; effigies. Idem declavat locus <name xml:id="yyy8Uu-d1e140-Nd1e268">Clementis Alexandrini</name>, qui  
+          <lb ed="#H" n="147"/>libro quinto Stromatum, pagina ducentesima trigesimanona ait de 
+          <lb ed="#H" n="148"/>Deo hominis creatore: <foreign>ας ἐτεχιι τουσει αυον αρχετυπῳ χώυδος ἐουτῳ</foreign>, 
+          <lb ed="#H" n="149"/>hoc est, qui ipsum est fabricatus seipso usus archetypo: Citat autem 
+          <lb ed="#H" n="150"/>hoc ex <name xml:id="yyy8Uu-d1e140-Nd1e283">Eutyso Pythagoreo</name>: idque sic paulo ante explicat: <foreign>Τὸν δημικρ¬ 
+            <lb ed="#H" n="151"/>ρον αυτῳ χζωμδμον πααγαειγμαλε ποιησον τ αυτρωτον</foreign>, hoc est, Opificem  
+          <lb ed="#H" n="152"/>seipso usum exemplari, fecisse hominem. Ostendit idem <name xml:id="yyy8Uu-d1e140-Nd1e293">Basilij
+            Ma<lb ed="#H" n="153" break="no"/>gni</name> locus, libro secundo adversus Eunomium pag trecentesimasexta 
+          <lb ed="#H" n="154"/>editionis Dialogorum quinque <name xml:id="yyy8Uu-d1e140-Nd1e301">Athanasij</name> de Trinitate &amp; librorum. 
+          <lb ed="#H" n="155"/>quatuor <name xml:id="yyy8Uu-d1e140-Nd1e306">Basilij</name> adverjus Eunomium, excusa ab <name xml:id="yyy8Uu-d1e140-Nd1e309">Henrico Stephano</name> 
+          <lb ed="#H" n="156"/>in octavo Anno 1570. <foreign>vοεῖν δε εἰκονα γ ζεκ γ αοθγτα, ακγρασ τεχθεηλεισ 
+            <lb ed="#H" n="157"/>τοθλασ υσεπεν α ωζγαθεισαν ωρος το λοχι τθπον, αλλα σωθπαρχεσαν και 
+            <lb ed="#H" n="158"/>πaρθγεσηκηαν αι ωρολοτθκῳ θπσκσοθκ, γ εινα τι αρχετθπον, χσαν, σοα 
+            <lb ed="#H" n="159"/>εκτθποθειραν δα μιμεσεως, αλλα, σσεχεν σφραγιδι κνσ της ολης φυσε¬ 
+            <lb ed="#H" n="160"/>ωσ φ Πατζασ ενπεσημανθεισης τις Υιῳ</foreign> hoc est, Imaginem Dei
+          incon<lb ed="#H" n="161" break="no"/>spicui cogitare, non quae, sicut artificiosae illae, postea sit ad
+          exempla<lb ed="#H" n="162" break="no"/>tis normam elaborata, sed quae simul ac ipsum exemplar substitit,
+          si<lb ed="#H" n="163" break="no"/>mul exstiterit, simul cum ea substiterit, &amp; simul ac fuit ipsum
+          arche<lb ed="#H" n="164" break="no"/>typum, fuerit: imaginem, inquam, non imitatione efformatam, sed 
+          <lb ed="#H" n="165"/>tota Patris natura in Filio, quasi in sigillo quodam impressa. <name xml:id="yyy8Uu-d1e140-Nd1e336">Cle¬ 
+            <lb ed="#H" n="166"/>mens Alexandrinus</name> Protreptico ad Graecos Filium Dei vocat φωος 
+          <lb ed="#H" n="167"/>δζχετυπον φὼς <name xml:id="yyy8Uu-d1e140-Nd1e344">Theodoretus</name> sermone secundo de curatione
+          Graeca<lb ed="#H" n="168" break="no"/>rum affectionum, pag. vigesima ait: <foreign>φωιῆ ακηκοασ, ειδος ι εχ εωρα¬ 
+            <lb ed="#H" n="169"/>κas, μηδενα κη τυπον καζαεκδυσκς, κ τό δξχιτυπον  εσκ επιςασιμ</foreign>, id est 
+          <lb ed="#H" n="170"/>vocem audivisti, speciem vero non vidisti. Nullum igitur typum
+          com<lb ed="#H" n="171" break="no"/>paraveris, cujus archetypum haud nosti. Et Sermone duodecimo
+          vo<lb ed="#H" n="172" break="no"/>cat <foreign>αρχετθπα τῆς δοετῆς</foreign>, exemplaria virtutis, ad quarum
+          imitatio<lb ed="#H" n="173" break="no"/>nem <foreign>depingintur εικνες</foreign>. In caput tertium ad Colossenses ait: A typo 
+          <lb ed="#H" n="174"/>ad archetypi, id est, a figura ad exemplar conueitit sermonem. Nam 
+          <lb ed="#H" n="175"/>in baptismo docet esse figuram novi hominis quem induimus; in
+          Chri<lb ed="#H" n="176" break="no"/>sto archetypum.
+        </p>
+        <p xml:id="yyy8Uu-d1e140-d1e377">
+          <lb ed="#H" n="177"/>Theologia ergo propriissime est illa notitia, quae est in mente
+          di<lb ed="#H" n="178" break="no"/>vina de rebus divinis. Isto modo solus Deus dicitur Theologus, ac 
+          <lb ed="#H" n="179"/>proinde Deus intelligitur esse primus, optimus &amp; perfectissimus 
+          <lb ed="#H" n="180"/>Theologus.
+        </p>
+        <p xml:id="yyy8Uu-d1e140-d1e389">
+          <lb ed="#H" n="181"/>Eaque est sapientia formalis, absoluta seu perfectissima, insi¬ 
+          <!--cod-MkL9py-0028.xml-->
+          <pb ed="#H" n="3"/>
+          <cb ed="#H" n="a"/>
+          <lb ed="#H" n="1"/>nita, tota simul, incommunicabilis, &amp; sui imaginem quandam
+          so<lb ed="#H" n="2" break="no"/>lummodo cum creaturis rationalibus communicans.
+        </p>
+        <p xml:id="yyy8Uu-d1e140-d1e405">
+          <lb ed="#H" n="3"/>Formalis est: quia essentialis est &amp; forma Dei seu Deitatis, quae 
+          <lb ed="#H" n="4"/>purissima forma est: <quote xml:id="yyy8Uu-d1e140-Qd1e411" source="http://scta.info/resource/jdso8u-d1e110"><!--prol, p3, q. 1, para 152 (see http://www.logicmuseum.com/wiki/Authors/Duns_Scotus/Ordinatio/Ordinatio_I/Prologus/P3Q1/A3) -->Solus enim Deus est sibi soli naturaliter notus</quote>. 
+          <lb ed="#H" n="5"/><ref xml:id="yyy8Uu-d1e140-Rd1e416">Ioh. Duns Scotus, Prolog. Sentent. quaest. tertia, folio octavo. B.</ref>
+        </p>
+        <p xml:id="yyy8Uu-d1e140-d1e420">
+          <lb ed="#H" n="6"/>Perfectissima est: quia non est tantum de omnibus, sed est etiam 
+          <lb ed="#H" n="7"/>omnis cognitio, quae potest haberi a Deo de eis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

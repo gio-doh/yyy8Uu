@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 4 [Hanau, 1615]</title>
+        <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 4 [Hanau, 1615]</title>
+          <date when="2021-01-15">January 15, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-01-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#H" n="3"/>
+        <cb ed="#H" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yyy8Uu-d1e160">
+        <head xml:id="yyy8Uu-d1e160-Hd1e103">Caput 4</head>
+        <head xml:id="yyy8Uu-d1e160-Hd1e106" type="question-title">In quo agitur de theologia ectypa</head>
+        <p xml:id="yyy8Uu-d1e160-d1e109">
+          <lb ed="#H" n="8"/>CAPUT IV. 
+          <lb ed="#H" n="9"/>In quo agitur de Theologia ectypa.
+        </p>
+        <p xml:id="yyy8Uu-d1e160-d1e116">
+          <lb ed="#H" n="10"/>THEOLOGIA ectypa, est sapientia rerum divinarum, a Deo ex 
+          <lb ed="#H" n="11"/>archetypo ipsius expressa atque informata per
+          communica<lb ed="#H" n="12" break="no"/>tionem gratiosam ad gloriam ipsius.
+        </p>
+        <p xml:id="yyy8Uu-d1e160-d1e125">
+          <lb ed="#H" n="13"/><quote xml:id="yyy8Uu-d1e160-Qd1e128" source="http://scta.info/resource/jddfo-d1e118"><foreign xml:lang="gr">Δηλακηα των πζαγματαιν εστ τα ονομγ ζοε</foreign></quote>, ait <ref xml:id="yyy8Uu-d1e160-Rd1e132">Damascenus lib. 1. 
+            <lb ed="#H" n="14"/>Orthod. fid. cap. 13</ref>. Proinde etiam hoc loco explicandum, quae nam 
+          <lb ed="#H" n="15"/>dicantur ectypa. <ref xml:id="yyy8Uu-d1e160-Rd1e139"><name xml:id="yyy8Uu-d1e160-Nd1e140">Clemens Alexandrinus</name> libro octavo
+            Stroma<lb ed="#H" n="16" break="no"/>tum, pag. trecentesim. trigesim. prima Editionis Commolianae</ref>, in 
+          <lb ed="#H" n="17"/>hunc modum loquitur: <quote xml:id="yyy8Uu-d1e160-Qd1e149"><foreign>Τεια εςι ωει τλυι φωυλθι ζα τε ονομαζα, συμζο¬ 
+            <lb ed="#H" n="18"/>λα ὄνζα των νοημγιταιν καλα ζο ωροεζουμδυον, κατ´ ἐποκολοθ τηαγ ξ και ταιν  
+            <lb ed="#H" n="19"/>ματοαειρθμν &amp;α ὄτεξον κ, ζα γογμαα, όμθεόμαζα ζα εκτοπμμαζα τάίν τατο 
+            <lb ed="#H" n="20"/>xelρθμοιν διζα. φεν ἀιλμαι α ζα γόόμαζα ζα ἀυεζα ἰκ, lα τα τόα πότια τα 
+            <lb ed="#H" n="21"/>τεἰν τθρκεερθεῶεν α τάσιν ἰγγόγεθες τάπτιο, δαα ἰκ ι ζ ζα ὀγόμαζα, lα ζα 
+            <lb ed="#H" n="22"/>Δλαεκτης ζας Δlαφιρης. Tειτόν , ζα πξτόκει ρόμα πξαγμαζα, ἀπν ημν 
+            <lb ed="#H" n="23"/>ζα Vογμαζα εοτργθντς</foreign></quote>. hoc est: In voce tria versantur, nempe &amp;
+          no<lb ed="#H" n="24" break="no"/>mina quae sunt signa eorum quae animo cogitantur, principaliter, per 
+          <lb ed="#H" n="25"/>consequentia autem, etiam subjectorum: Secundo autem cogitata,
+          quae<lb ed="#H" n="26" break="no"/>res subjectas referunt &amp; exprimunt. Unde sunt omnibus eadem
+          co<lb ed="#H" n="27" break="no"/>gitata, propterea quod ex rebus subjectis eadem forma &amp; typus
+          in<lb ed="#H" n="28" break="no"/>generetur omnibus: non itidem etiam nomina, propter diversos 
+          <lb ed="#H" n="29"/>sermones. Tertium autem, sunt res subiectae, ex quibus nobis
+          impri<lb ed="#H" n="30" break="no"/>muntur cogitata.
+        </p>
+        <p xml:id="yyy8Uu-d1e160-d1e183">
+          <lb ed="#H" n="31"/>Sic Ectypa dicuntur opera, quae ex archetypo seu prototypo
+          for<lb ed="#H" n="32" break="no"/>mata sunt. Hac voce utitur Plinius etiam libro trigesimosexto
+          Na<lb ed="#H" n="33" break="no"/>turalis historiae, cap. duodecimo. Et libro trigesimoseptimo, cap.
+          de<lb ed="#H" n="34" break="no"/>cimo ait: Hae sunt gemmae, quae ad ectypas sculpturas aptantur.  
+          <lb ed="#H" n="35"/>Theologia archetypa est prima idea Theologiae, a qua ideatur (ut 
+          <lb ed="#H" n="36"/>hac voce utari) &amp; exprimitur Theologia ectypa: sicuti veritas &amp;
+          bo<lb ed="#H" n="37" break="no"/>nitas essentialis in Deo est archetypa &amp; prima idea veri &amp; boni, a 
+          <lb ed="#H" n="38"/>qua omne creatum verum ac bonum ideatur. Theologia archetypa  
+          <lb ed="#H" n="39"/>est exemplar: ectypa est exemplum, quod exemplari convenire,
+          re<lb ed="#H" n="40" break="no"/>spondere &amp; simile esse debet. Ita Theologia ectypa in creatura
+          ratio<lb ed="#H" n="41" break="no"/>nali est pars imaginis &amp; similituainis Dei, ad quam illa creata est 
+          <lb ed="#H" n="42"/>Eaque vel in se consideratur vel ut est in creaturis rationalibus. 
+          <lb ed="#H" n="43"/>Theologia ectypa in se, est tota sapientia rerum divinarum cum 
+          <lb ed="#H" n="44"/>creaturis rationalibus communicabilis, in hac &amp; in futura vita, pro 
+          <lb ed="#H" n="45"/>modo Dei illam communicantis.
+        </p>
+        <p xml:id="yyy8Uu-d1e160-d1e218">
+          <lb ed="#H" n="46"/>Ergo Theologiae ectypae in se consideratae nomine intelligitur 
+          <lb ed="#H" n="47"/>non tantum quicquid jam sapientiae rerum divinarum a Deo cum 
+          <lb ed="#H" n="48"/>creaturis rationalibus communicatum est, sed etiam quicquid
+          um<lb ed="#H" n="49" break="no"/>quam in hoc &amp; in futuro seculo cum illis communicabitur &amp;
+          com<lb ed="#H" n="50" break="no"/>municari potest pro modo illo, qui Deo pro gratiosa voluntate sua 
+          <lb ed="#H" n="51"/>placet, de sua inexhausta plenitudine: sic ut haec Theologia sit
+          tan<lb ed="#H" n="52" break="no"/>quam fons plenissimus omnis spiritualis sapientiae apud Deum
+          sca<lb ed="#H" n="53" break="no"/>turiens, ex quo promuntur thesauri cum creaturis rationalibus a 
+          <lb ed="#H" n="54"/>Deo communicandi per gratiam. <ref xml:id="yyy8Uu-d1e160-Rd1e239">Psal. <sic>36</sic>. 10.</ref> <quote xml:id="yyy8Uu-d1e160-Qd1e245" source="http://scta.info/resource/ps35_10">Quandoquidem
+            pe<lb ed="#H" n="55" break="no"/>nes te est fons vitae, in luce tua fruamur luce</quote>.
+        </p>
+        <p xml:id="yyy8Uu-d1e160-d1e251">
+          <lb ed="#H" n="56"/>Theologia ectypa consideratur est in creaturis rationalibus, est 
+          <lb ed="#H" n="57"/>sapientia rerum divinarum eum cresturis rationalibus
+          communi<lb ed="#H" n="58" break="no"/>cata pro modo seu captu ipsarum, ut illae Deum recte agnoscentes, 
+          <lb ed="#H" n="59"/>&amp; ex animo diligentes, cum eo beate in aeternum vivant, idque ad 
+          <lb ed="#H" n="60"/>cum glorificandum. Dicitur etiam Theologia ectypa generalis in subjecto. 
+          <lb ed="#H" n="61"/>Est enim talis cognitio, qualem intellectus creatus natus est
+          re<lb ed="#H" n="62" break="no"/>cipere &amp; habere de illo objecto Theologico: sicuti unumquodque 
+          <lb ed="#H" n="63"/>recipitur pro modo &amp; captu recipientis. Nam modus hoc loco non 
+          <lb ed="#H" n="64"/>est forma Theologiae, non via comprehensionis &amp; perceptionis
+          il<lb ed="#H" n="65" break="no"/>lius: sed quantitas comprehensionis &amp; perceptionis illius, sed
+          men<lb ed="#H" n="66" break="no"/>sura cadens in quodvis individuum creaturae rationalis. <ref xml:id="yyy8Uu-d1e160-Rd1e277" target="http://scta.info/resource/io3_34">Iohan. 3. v. 
+            <lb ed="#H" n="67"/>34</ref>. Et <ref xml:id="yyy8Uu-d1e160-Rd1e282" target="http://scta.info/resource/IIcor10_13">2. Corinth. 10. v. 13.</ref> <ref xml:id="yyy8Uu-d1e160-Rd1e285" target="http://scta.info/resource/rom12_3 http://scta.info/resource/rom12_6">Rom. 12. ver. 3, 6</ref>. Et <ref xml:id="yyy8Uu-d1e160-Rd1e288" target="http://scta.info/resource/Icor12_7">I. Corinth. 12. 
+              <lb ed="#H" n="68"/>v. 7</ref>. &amp; sequentibus. <ref xml:id="yyy8Uu-d1e160-Rd1e293" target="http://scta.info/resource/eph4_7">Ephes. 4. v. 7</ref>.
+        </p> 
+        <p xml:id="yyy8Uu-d1e160-d1e297">
+          <lb ed="#H" n="69"/>Deinde Theologiae cum creaturis rationalibus communicatae 
+          <lb ed="#H" n="70"/>fines sunt duo: primarius &amp; summus est glorificatio Dei tanquam 
+          <lb ed="#H" n="71"/>summi boni: secundarius &amp; subordinatus est beatitudo
+          creatura<lb ed="#H" n="72" break="no"/>rum rationalium. Ad hos sines Theologia vera creaturas rationales 
+          <lb ed="#H" n="73"/>perducit.  
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

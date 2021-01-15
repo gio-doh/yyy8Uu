@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 2 [Hanau, 1615]</title>
+        <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 2 [Hanau, 1615]</title>
+          <date when="2021-01-15">January 15, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-01-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#H" n="1"/>
+        <cb ed="#H" n="c"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yyy8Uu-d1e120">
+        <head xml:id="yyy8Uu-d1e120-Hd1e103">Caput 2</head>
+        <head xml:id="yyy8Uu-d1e120-Hd1e106" type="question-title">
+          An Theologia vera sit, quid sit, et quod
+          subiectum eius.</head>
+        <p xml:id="yyy8Uu-d1e120-d1e109">
+          <lb ed="#H" n="118"/>CAPUT II 
+          <lb ed="#H" n="119"/>An Theologia vera sit, quid sit, &amp; quod
+          subie<lb ed="#H" n="120" break="no"/>ctum eius.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e118">
+          <lb ed="#H" n="121"/>POSTQVAM nomen Theologiae declaratum est definitione <foreign>συν¬ 
+            <lb ed="#H" n="122"/>ματριος</foreign>, &amp; distinctum significationibus: sequitur jam rei ipsius 
+          <!--cod-MkL9py-0027.xml-->
+          <pb ed="#H" n="2"/>
+          <cb ed="#H" n="a"/>
+          <lb ed="#H" n="1"/>tractatio, in qua primo ostendendum, An sit Theolegia vera?
+          Dein<lb ed="#H" n="2" break="no"/>de, quid sit? tum quotuplex sit, &amp; quae ista consequuntur. Hoc capite  
+          <lb ed="#H" n="3"/>explicandum, an sit Theologia vera, quid sit, &amp; quod ejus subjectum, 
+          <lb ed="#H" n="4"/>circa quod versatur. 
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e143">
+          <lb ed="#H" n="5"/>THEOLOGIAM VERAM ESSE, probatur tum ex testimonii, 
+          <lb ed="#H" n="6"/>tum rationibus.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e151">
+          <lb ed="#H" n="7"/>Ex testimoniis tum divinis, tum humanis.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e156">
+          <lb ed="#H" n="8"/>Diuina testimonia sunt, <ref xml:id="yyy8Uu-d1e120-Rd1e160">Job. 12. v. 13</ref>. <quote xml:id="yyy8Uu-d1e120-Qd1e163" source="http://scta.info/resource/iob12_13">Penes Deum est sapientia 
+            <lb ed="#H" n="9"/>&amp; fortitudo: illius est consilium &amp; intelligentia</quote>. <ref xml:id="yyy8Uu-d1e120-Rd1e168">Rom. 11. 33</ref>. <quote xml:id="yyy8Uu-d1e120-Qd1e171" source="http://scta.info/resource/rom11_33" synch="1-7">O
+              pro<lb ed="#H" n="10" break="no"/>fundas divitias tum sapientiae tum cognitionis Dei!</quote> <ref xml:id="yyy8Uu-d1e120-Rd1e177">Deut. 4 vers. 6.</ref> 
+          <lb ed="#H" n="11"/>Haec est sapientia vestra &amp; prudentia vestra ante oculos populorum: 
+          <lb ed="#H" n="12"/>qui audientes omnia statuta ista, dicent: tantum gens istae maxima 
+          <lb ed="#H" n="13"/>populus sapiens est &amp; prudens. Si est sapientia rerum divinarum, est 
+          <lb ed="#H" n="14"/>&amp; Theologia. At sapientiam rerum divinarum esse, testatur
+          Scri<lb ed="#H" n="15" break="no"/>ptura. Ergo &amp; hanc esse testatur.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e191">
+          <lb ed="#H" n="16"/>Humana testimonia sunt duo: unum est generale, nimirum
+          uni<lb ed="#H" n="17" break="no"/>versalis consensus omnium populorum: nam quod universalis
+          con<lb ed="#H" n="18" break="no"/>sensus omnium populorum esse testatur, id profecto est.
+          Cognosci<lb ed="#H" n="19" break="no"/>tur vero ille ex scriptis Philosophorum, Historicorum, Poetarum 
+          <lb ed="#H" n="20"/>Gentilium &amp; oraculorum: ut pluribus explicat <name xml:id="yyy8Uu-d1e120-Nd1e204">Iustinus Martyr</name> in 
+          <lb ed="#H" n="21"/>Paraenesi seu cohortatione ad Graecos; <name xml:id="yyy8Uu-d1e120-Nd1e209">Clemens Alexandrinus</name>
+          pas<lb ed="#H" n="22" break="no"/>sim in Protreptico ad Graecos &amp; in libris Stromatum: Lactantius in 
+          <lb ed="#H" n="23"/>libris divinarum institutionum adversus Gentes; Theodoretus in
+          ser<lb ed="#H" n="24" break="no"/>monibus seu libris de curatione Graecarum affectionum: 
+          <ref xml:id="yyy8Uu-d1e120-Rd1e219"><name xml:id="yyy8Uu-d1e120-Nd1e220">Augusti<lb ed="#H" n="25" break="no"/>nus</name> in libris de Civitate Dei</ref>, &amp;c. Omnes enim etiam Gentiles
+          agno<lb ed="#H" n="26" break="no"/>verunt, esse veram Theologiam: etsi errarunt in decisione quae illa sit.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e229">
+          <lb ed="#H" n="27"/>Alterum humanum testimonium est speciale, nempe Ecclesiae 
+          <lb ed="#H" n="28"/>Dei, quae Theologiam esse agnoscit, &amp; sibi de ea gratulatur.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e236">
+          <lb ed="#H" n="29"/>Rationes vero istae sunt:
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e241">
+          <lb ed="#H" n="30"/>I. Si Deus est, Theologiam esse necesse est: Antecedens verum: 
+          <lb ed="#H" n="31"/>est: Ergo &amp; consequens. Conexi probatio: Si Deus sapiens est,
+          Theo<lb ed="#H" n="32" break="no"/>logiam esse necesse est: At si Deus est, sapiens est. Ergo si Deus est, 
+          <lb ed="#H" n="33"/>Theologiam esse necesse est.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e253">
+          <lb ed="#H" n="34"/>II. Si Deus est principium omnis boni in natura, Theologiam 
+          <lb ed="#H" n="35"/>esse necesse est. Prius est: Ergo &amp; posterius.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e260">
+          <lb ed="#H" n="36"/>III Si Deus loquitur non solum res singulares, verum etiam
+          u<lb ed="#H" n="37" break="no"/>niversales, ad veram ipsius cognitionem pertinentes: tum esse
+          Theo<lb ed="#H" n="38" break="no"/>logiam necesse est Quod antecedit verum est: Ergo &amp; quod sequitur.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e269">
+          <lb ed="#H" n="39"/>IV. Si Deus agit, ut Deus, erga creaturas omnes, imprimens 
+          <lb ed="#H" n="40"/>aliis obscura majestatis suae vestigia, aliis claram imaginem, tum esse  
+          <lb ed="#H" n="41"/>Theologiam necesse est. Illud est. Ergo &amp; istud 
+          <lb ed="#H" n="42"/>Sic probatum est, Theologiam este, nunc sequitur, quid sit
+          Theo<lb ed="#H" n="43" break="no"/>logia vera. 
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e282">
+          <lb ed="#H" n="44"/>THEOLOGIA VERA, est sapientia rerum divinarum.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e287">
+          <lb ed="#H" n="45"/>Haec univoce Theologia appellatur. Vera dicitur, quia est una; 
+          <lb ed="#H" n="46"/>plus enim uno verum esse non potest: &amp; quia ejus &amp; ab eo est, qui est 
+          <lb ed="#H" n="47"/>ipsa veritas, mentirique nescius: &amp; quia sui vere studiosos efficit
+          vera<lb ed="#H" n="48" break="no"/>ces, quando a Spiritu Sancto in omnem veritatem ducuntur, &amp;
+          ve<lb ed="#H" n="49" break="no"/>ritate sanctificantur: &amp; quia <foreign>τῆ παναρμονιαᾳ</foreign> seu concentu omnium. 
+          <lb ed="#H" n="50"/>partium dulcissimo &amp; admitando, qui veritatis proprius index est, 
+          <lb ed="#H" n="51"/>perpetuo constat. Eadem etiam <foreign>Θεισ φια</foreign> nominata est.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e311">
+          <lb ed="#H" n="52"/>Descriptionis hujus duae sunt partes. Prima parte docetur,
+          Theo<lb ed="#H" n="53" break="no"/>logiam veram esse sapientiam Itaque sapientia latius patet quam 
+          <lb ed="#H" n="54"/>Theologia: nam Sapientia est rerum altissimarum, divinarum &amp; 
+          <lb ed="#H" n="55"/>humanarum, causarumque quibus illae continentur, cognitio
+          perfe<lb ed="#H" n="56" break="no"/>ctissima: ut definitur a <name xml:id="yyy8Uu-d1e120-Nd1e324">Clemente Alexandrino</name> Stromatum lib.
+          pri<lb ed="#H" n="57" break="no"/>mo, pagina centesima vigesimasecunda editionis Commeliniana
+          Grae<lb ed="#H" n="58" break="no"/>cae. De ea sapientia legitur <ref xml:id="yyy8Uu-d1e120-Rd1e331" target="http://scta.info/resource/eph3_10">Ephes 3 v. 10</ref>. Vt nota nunc fiat per
+          Eccle<lb ed="#H" n="59" break="no"/>siam imperius ac potestatibus quae in coelis sunt, multiformis illa
+          sapi<lb ed="#H" n="60" break="no"/>entia Dei.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e340">
+          <lb ed="#H" n="61"/>Porro Theologiam esse sapientiam, docuerunt etiam
+          Schola<lb ed="#H" n="62" break="no"/>stici praecipui, veluti <ref xml:id="yyy8Uu-d1e120-Rd1e346"><name xml:id="yyy8Uu-d1e120-Nd1e347">Thomas Aquinas</name>, <title>Summae</title> parte prima, quaest. 
+            <lb ed="#H" n="63"/>prima artic. sexto.</ref> <quote xml:id="yyy8Uu-d1e120-Qd1e356"><name xml:id="yyy8Uu-d1e120-Nd1e357">Iohan. Duns Scotus</name> Prologo Sententiar quaest. 
+              <lb ed="#H" n="64"/>quarta, folio decimo, columna quarta, editionis Venetae Anni 1506</quote>. 
+          <lb ed="#H" n="65"/>ait, <quote xml:id="yyy8Uu-d1e120-Qd1e366" source="http://scta.info/resource/jdso8u-d1e149"><!-- (prologue part 4, q. 1 (para. 213 in this section see: http://www.logicmuseum.com/wiki/Authors/Duns_Scotus/Ordinatio/Ordinatio_I/Prologus/P4Q1 -->Magis tamen proprie dici potest, quod Theologia secundum se est 
+            <lb ed="#H" n="66"/>sapientia</quote>. Quanquam nomine sapientiae interdum intelligitur sola 
+          <lb ed="#H" n="67"/>cognitio rerum divinarum, ut <ref xml:id="yyy8Uu-d1e120-Rd1e374">1. Cor 2 vers. 6</ref>. <quote xml:id="yyy8Uu-d1e120-Qd1e377" source="http://scta.info/resource/Icor2_6">Sapientiam loquimur 
+            <lb ed="#H" n="68"/>inter perfectos: sapientiam autem non seculi hujus, neque principum 
+            <lb ed="#H" n="69"/>seculi huius qui abolentur</quote>.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e385">
+          <lb ed="#H" n="70"/>Altera descriptionis parte docetur, quodnam sit Theologiae
+          ve<lb ed="#H" n="71" break="no"/>verae subjectum seu obiectum citca quod illa versatur. Illud sunt res 
+          <lb ed="#H" n="72"/>divinae, hoc est, Deus, &amp; quicquid est Dei, quatenus illud ordinatur  
+          <lb ed="#H" n="73"/>&amp; refertur ad Deum, veluti pertinens ad cognitionem &amp; cultum 
+          <lb ed="#H" n="74"/>ejus, nimirum omne bonum a Deo ortum in natura, sermones &amp;
+          a<lb ed="#H" n="75" break="no"/>ctiones operaque Dei.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e401">
+          <lb ed="#H" n="76"/>Subjectum Theologiae est infinitum nemini cognitum, nisi
+          qua<lb ed="#H" n="77" break="no"/>tenus sese retegit: Unde &amp; ipsa infinite &amp; supra omnem analogiam 
+          <lb ed="#H" n="78"/>caeteris disciplinis supereminet.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e410">
+          <lb ed="#H" n="79"/>Tractat quidem Theologia non tantum de Deo, verum etiam 
+          <lb ed="#H" n="80"/>de Angelis, hominibus &amp; aliis creaturis, sed non aequaliter. Nam de 
+          <lb ed="#H" n="81"/>Deo tractat principaliter, ut de subjecto suo: de creaturis autem, ut 
+          <lb ed="#H" n="82"/>faciunt ad manifestationem subjecti, hoc est, ut ad recte
+          cognoscen<lb ed="#H" n="83" break="no"/>dum atque colendum DEUM ordinantur &amp; referuntur. Theologia
+          igi<lb ed="#H" n="84" break="no"/>tur non est de Angelis, nec de aliis creaturis ut de subjecto, sed ad 
+          <lb ed="#H" n="85"/>manifestationem subjecti: sic ut sit de omnibus quae sunt, quantum 
+          <lb ed="#H" n="86"/>ad respectus quos habent ad DEUM. <ref xml:id="yyy8Uu-d1e120-Rd1e429"><name xml:id="yyy8Uu-d1e120-Nd1e430" ref="#Scotus">Ioh. Duns Scotus</name> Doctor
+            Subti<lb ed="#H" n="87" break="no"/>lis appellatus in Prolog. Sententiar, quaestione tertia, folio decimo,
+            co<lb ed="#H" n="88" break="no"/>lumna secunda, editionis Venetae Anni 1506</ref>. nuper allegatae.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e439">
+          <lb ed="#H" n="89"/>Idem manifestum est ex principiis Theologiae, hoc est,
+          Scriptu<lb ed="#H" n="90" break="no"/>ris Saeris, quarum summa sunt articuli fidei &amp; praecepta Decalogi 
+          <lb ed="#H" n="91"/>Articuli autem fidei sunt de Deo Patre, Filio, &amp; Spiritu Sancto, ejus. 
+          <lb ed="#H" n="92"/>que domo Ecclesia Sancta Catholica &amp; beneficiis Dei in ipsam, De¬ 
+          <!--cod-MkL9py-0027.xml-->
+          <cb ed="#H" n="b"/>
+          <lb ed="#H" n="93"/>calogus praecipit amorem in Deum, &amp; in proximum propter Deum. 
+          <lb ed="#H" n="94"/>Idem autem est subjectum principiorum &amp; totius scientiae, cum
+          to<lb ed="#H" n="95" break="no"/>ta scientia virtute contineatur in principiis.
+        </p>
+        <p xml:id="yyy8Uu-d1e120-d1e461">
+          <lb ed="#H" n="96"/>Tum nobilissimae scientiae est nobilissunum subjectum: At
+          Theo<lb ed="#H" n="97" break="no"/>logia est nobilissima scientiat Ergo Theologiae est nobilissimum
+          sub<lb ed="#H" n="98" break="no"/>jectum, nempe Deus, &amp; quicquid est Dei.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
