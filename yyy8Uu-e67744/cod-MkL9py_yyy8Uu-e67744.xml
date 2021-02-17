@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="144"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e67744"> <!-- l2-c10 -->
+            <head xml:id="yyy8Uu-e67744-Hd1e109">Caput 10</head>
+            <p xml:id="yyy8Uu-e67744-d1e112">
+               <lb ed="#H" n="148"/>CAPUT X. 
+      <lb ed="#H" n="149"/>In quo de infinitate Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e119">
+               <lb ed="#H" n="150"/>NPINITAS DEI, est essentialis proprietas Dei, per quam nec 
+      <lb ed="#H" n="151"/>tempore, nec loco, nec ulla alia re finiri &amp; mensurari: sed sua 
+      es<lb ed="#H" n="152" break="no"/>sentia &amp; natura, actu, simpliciter, &amp; per se infinitus, immensus &amp; 
+      <lb ed="#H" n="153"/>incomprehensibilis esse significatur  
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e130">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Insinitum bifariam dicitur: privative nimirum &amp; negative 
+      <lb ed="#H" n="155"/>Privative infinitum dicitur quod finem quidem non habet, sed 
+      sua<lb ed="#H" n="156" break="no"/>pte natura potuit tamen, aut etiamnum potest habere: Quo sensu 
+      o<lb ed="#H" n="157" break="no"/>mnem quantitatem, tum continuam tum discretam dicunt 
+      Philosophi<lb ed="#H" n="158" break="no"/>esse infinitam: quia reipsa finem non habet, semper enim aliquid  
+      <lb ed="#H" n="159"/>addi a nobis potest: sua tamen natura finem habere potest. 
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e149">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Hoc modo Deus non dicitur infinitus; primo, quia in Deum non 
+      <lb ed="#H" n="161"/>cadit quantitas proprie accepta: omne autem infinitum privative in 
+      <lb ed="#H" n="162"/>sola est quantitate vel continua vel discreta: Secundo, quia omnis 
+      pri<lb ed="#H" n="163" break="no"/>vatio imperfectionem significat: omnis autem imperfectio aliena est: 
+      <lb ed="#H" n="164"/>a Deo 
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e165">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Negative infinitum dicitur quod naturaliter nec habet, nec habere 
+      <lb ed="#H" n="166"/>potest initium &amp; finem ullum: cui naturaliter nullus est finis. Talis 1 
+      <lb ed="#H" n="167"/>infinitas nullis creaturis competit: omnia enim sicut initium 
+      habuc<lb ed="#H" n="168" break="no"/>runt, sic sua natura certum habent vel habere possunt finem; quia 
+      <lb ed="#H" n="169"/>Deus omnia creavit in numero, pondere &amp; mensur;. 
+      <lb ed="#H" n="170"/>Infinitas Dei, est essentialis proprtetas Dei nempe primi ordinis: 
+      <lb ed="#H" n="171"/>quia sui creatam similitudinem non admittit, in nullam prorsus 
+      crea<lb ed="#H" n="172" break="no"/>turam cadit nec quicquam ejus ἀνειλορον in ulla re creata reperitur. 
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e187">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Deinde dicitur in descriptione, quod per eam signifiretur, Deum 
+      <lb ed="#H" n="174"/>nec tempore finiri &amp; mensurari: hinc intelligitur esse aeternus. 
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e196">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>Tertio dicitur, quod per eam significetur, Deum nec loco finiri: 
+      un<lb ed="#H" n="176" break="no"/>de cognoscitur esse omniprae sens. 
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e205">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Quarto dicitur, quod per eam significetur, Deum nec ulla alia res 
+      <lb ed="#H" n="178"/>iniri, nimirum potentia scientia, ec. unde omnipotens &amp; omniscius 
+      <lb ed="#H" n="179"/>esse innuitur.  
+      <!--cod-MkL9py-0172.xml-->
+      <pb ed="#H" n="145"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Quinto dicitur, quad significetur esse infinitus sua essentia. Nam 
+      <lb ed="#H" n="2"/>Philosophi docent, infinitum trium generum esse, nimirum 
+      secun<lb ed="#H" n="3" break="no"/>dum substantiam, secundum quantitatem &amp; secundum qualitatem, 
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e229">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Secundum substantiam, vt si ea sit simplicissima &amp; nullo 
+      modo<lb ed="#H" n="5" break="no"/>composita: ita sit ut nulla substantia creata sit infinita, quia omnes 
+      a<lb ed="#H" n="6" break="no"/>iquo modo compositae sunt, ad minimum ex actu &amp; potentia, item 
+      <lb ed="#H" n="7"/>ex esse &amp; essentia. 
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e243">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Infinitum secundum quantitatem duplex est, vel secundum quam 
+      <lb ed="#H" n="9"/>titatem continuam, vel secundum quantitatem discretam. 
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e252">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Secundum quantitatem continuam infinita dicitur magnitudo, 
+      <lb ed="#H" n="11"/>nempe linea, superficies &amp; corpus, cui semper aliquid addi potest, ac 
+      <lb ed="#H" n="12"/>proinde reipsa finem non habet, etsi actu tale infinitum non 
+      reper<lb ed="#H" n="13" break="no"/>ritur.  
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e265">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Secundum quantitatem discretam dicitur numerus infinitus. 
+      <lb ed="#H" n="15"/>qui in infinitum augeri potest accessione unitatum, quo sensu stellae 
+      <lb ed="#H" n="16"/>&amp; arenae maris dicuntur esse infinitae: at tale infinitum actu in rebus 
+      <lb ed="#H" n="17"/>creatis nullum dari potest, quia omnis rei creatae substantia est 
+      sini<lb ed="#H" n="18" break="no"/>ta, cum sit composita 
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e281">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Infinitum secundum qualitatem, est quod potentia &amp; virtute in 
+      <lb ed="#H" n="20"/>inita est praeditum. At virtus infinita, in substantia finita esse non 
+      <lb ed="#H" n="21"/>potest. 
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e292">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>am Deus non est infinitus secundum quantitatem continuam 
+      <lb ed="#H" n="23"/>non enim est corpus naturale seu quantum, nec magnitudo vel res 
+      <lb ed="#H" n="24"/>mensurabilis: Nec secundum quantitatem discretam, quia est dριo 
+      <lb ed="#H" n="25"/>ud seu numero unus seu una essentia singularis &amp; individua: Nec 
+      se<lb ed="#H" n="26" break="no"/>cundum qualitatem, quia in Deo non est accidens vel qualitas ulla 
+      <lb ed="#H" n="27"/>Relinquitur ergo ut sit infinitus substantia. 
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e310">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Sexto dicitur, quod sit infinitus actu: nam in Philosophia 
+      infi<lb ed="#H" n="29" break="no"/>nitum rursus duplex est, vel δυναμει, vel ευτελιχεια, hoc est, potentia, 
+      <lb ed="#H" n="30"/>vel actu¬ 
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e322">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Infinitum potentia, est quod infinitas formas recipere potest. 
+      <lb ed="#H" n="32"/>ita materiam primam dicunt Philosophi esse ἀπειρον, infinitam, 
+      qua<lb ed="#H" n="33" break="no"/>ienus potest recipere omnes &amp; infinitas formas: Hoc modo Deus 
+      <lb ed="#H" n="34"/>non est infinitus; quia in eo nulla est potentia passiva: sed est 
+      purissi<lb ed="#H" n="35" break="no"/>ma ἐντελέχεια, est purissimus actus. Quare asserimus Deum esse 
+      in<lb ed="#H" n="36" break="no"/>finitum actu, imo actum ipsum infinitum. 
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e340">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Septimo dicitur, quod Deus sit infinitus simpliciter. Nam 
+      infini<lb ed="#H" n="38" break="no"/>tum itorum est duplex: καζαλ, vel ἀπλώς μαζακ, secundum quid in 
+      <lb ed="#H" n="39"/>finitum, dicitur omne corpus naturale quatenus propter materiam 
+      <lb ed="#H" n="40"/>ad infinitas accidentales formas recipiendas accommodatum &amp; 
+      a<lb ed="#H" n="41" break="no"/>ptum natum est. Hoc modo Deus non dicitur infinitus, quia in Deo. 
+      <lb ed="#H" n="42"/>nulla est materia, nulla potentia passiva: Sed est infinitus aτλώς, 
+      sim<lb ed="#H" n="43" break="no"/>pliciter, imo simplicissime, quia est ευτελίχεια purissima, omnibus 
+      <lb ed="#H" n="44"/>εθτελεχειαις Metaphysicis longissime purior, cum sit substantia 
+      hy<lb ed="#H" n="45" break="no"/>perphysica, imo ἐτα θπεευσιος 
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e364">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>etavo dicitur, quod Deus sit per se infinitus. Nam infinitum 
+      <lb ed="#H" n="47"/>adhuc dupliciter dicitur: per aliud, vel per se. Per aliud dicitur 
+      hu<lb ed="#H" n="48" break="no"/>manitatis Christi meritum &amp; satisfactio &amp; λυτρον pro nobis 
+      persolu<lb ed="#H" n="49" break="no"/>tum esse infinitae virtutis, quam virtute infinita factum etiam est, ut 
+      ex<lb ed="#H" n="50" break="no"/>piata sint peccata mundi. Quomodo vero infinitae est virtutis? Non 
+      <lb ed="#H" n="51"/>per &amp; propter humanitatem, sed per &amp; propter infinitam Deitatem 
+      <lb ed="#H" n="52"/>cui humanitas Christi est hypostatice unita. Sic non sentimus Deum 
+      <lb ed="#H" n="53"/>esse infinitum, sed per se &amp; suapte natura est infinitus: quia est 
+      pri<lb ed="#H" n="54" break="no"/>mum principium universale, effectivum rerum omnium, quod ipsie 
+      <lb ed="#H" n="55"/>Philosophi, licet circa naturam principij errarent, dixerunt debere 
+      <lb ed="#H" n="56"/>esse infinitum¬ 
+      </p>
+            <p xml:id="yyy8Uu-e67744-d1e393">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Ita explicata est descriptio infinitatis Dei. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

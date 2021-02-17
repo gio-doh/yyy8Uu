@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="NaN"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e13217"> <!-- l4-c3 -->
+            <head xml:id="yyy8Uu-e13217-Hd1e109">Caput 3</head>
+            <p xml:id="yyy8Uu-e13217-d1e112">
+               <lb ed="#H" n="51"/>CAPUT III 
+      <lb ed="#H" n="52"/>In quo de essentialibus operibus Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e13217-d1e119">
+               <lb ed="#H" n="53"/>TSSENTIALIA opera Dei, sunt quae proficiscuntur ab essentia 
+      di<lb ed="#H" n="54" break="no"/>vina communi Patri, Filio &amp; Spiritui S. &amp; desinunt in creatura. 
+      <lb ed="#H" n="55"/>quae &amp; ipsa commune est opus Patris, Filii &amp; Spiritus S. ita 
+      u<lb ed="#H" n="56" break="no"/>secundum unitatem essentiae fiant communiter a Patre, Filio &amp; 
+      Spi<lb ed="#H" n="57" break="no"/>ritu S. &amp; communiter in creaturam dirigatur. Differentia qua 
+      opo<lb ed="#H" n="58" break="no"/>ra Dei essentialia a personalibus distinguuntur, est quod principium 
+      <lb ed="#H" n="59"/>eorum absolute est essentia divina, operans virtute divina, 
+      communi<lb ed="#H" n="60" break="no"/>ter ad omnes personas se habente: sicut personalium operum 
+      princi<lb ed="#H" n="61" break="no"/>pium est persona secundum propriam suam relationem operans 
+      </p>
+            <p xml:id="yyy8Uu-e13217-d1e141">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Propterea essentialia opera sunt totius Trinitatis simpliciter in 
+      <lb ed="#H" n="63"/>divisa, quoad utrumque terminum, hoc est, sunt totius essentiae &amp; 
+      con<lb ed="#H" n="64" break="no"/>munia omnibus tribus personis sive terminum a quo, sive terminum. 
+      <lb ed="#H" n="65"/>ad quem spectes. Nam ut communis &amp; eadem est voluntas omnium. 
+      <lb ed="#H" n="66"/>personarum Deitatis in se, sicut communis &amp; eadem est essentia: it 
+      <lb ed="#H" n="67"/>etiam communia sunt opera essentialia: sed servata ut personarum 
+      <lb ed="#H" n="68"/>ipsarum, sic actionum personalium proprietate &amp; distinctione atque 
+      <lb ed="#H" n="69"/>ordine personali in agendo. Ut enim Filius est a Patre, Spiritus S.
+      a<lb ed="#H" n="70" break="no"/>Patre &amp; Filio: ita Pater agit immediate per Filium; &amp; Filius agit a 
+      <lb ed="#H" n="71"/>Patre, Gen. 19. 24. Jer. 34. 12. &amp; Pater &amp; Filius agunt per Spiritum 
+      <lb ed="#H" n="72"/>S. in eodem opere efficiendo. Pater enim est efficax, sed per Filium&amp; 
+      <lb ed="#H" n="73"/>Spiritum S. Joh. 5. v. 19. Filius nihil facit sine Patre &amp; Spiritus Sancto, 
+      </p>
+            <p xml:id="yyy8Uu-e13217-d1e173">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Caeterum Pater agit perFilium, non tanquam per instrumentur. 
+      <lb ed="#H" n="75"/>aut administrum operationis, sed tanquam per socium eadem 
+      sapi<lb ed="#H" n="76" break="no"/>entia, voluntate, potentia &amp; autoritate simul operantem. Eadem 
+      <lb ed="#H" n="77"/>ratione agit Pater &amp; Filius per Spiritum S. Sicut personalis 
+      opera<lb ed="#H" n="78" break="no"/>tio in essentia singularis est: ita operatio essentialis est conmunis. Qui 
+      <lb ed="#H" n="79"/>propter essentialis actio eadem tribuitur Patri, Filio &amp; Spirit: i S 
+      <lb ed="#H" n="80"/>Eadem, inquam, non solum genere aut specie, sed etiam numero seu 
+      <lb ed="#H" n="81"/>individuo, quia unius essentiae communis est operatio, non persona. 
+      <lb ed="#H" n="82"/>singularis. Quod non ita est intelligendum, quasi tres causas ejusdem 
+      <lb ed="#H" n="83"/>operis constitueremus. Sicut enim Patris, Filii &amp; Spiritus S. una est, 
+      <lb ed="#H" n="84"/>&amp; simplex natura atque essentia; ita ipsi sunt una causa cujusque 
+      operi<lb ed="#H" n="85" break="no"/>essentialis. Ut autem actio sit una eademque numero, non requititur 
+      <lb ed="#H" n="86"/>ut agens unum sit singulare ὑριςτάκζηνον, aut una hypostasis; sed 
+      hae<lb ed="#H" n="87" break="no"/>requiruntur duo, actus unus sive communiter, sive singulariter 
+      agen<lb ed="#H" n="88" break="no"/>tium, &amp; effectus unus. Nam causa efficiens non est de substantia 
+      a<lb ed="#H" n="89" break="no"/>ctionis, licet sit principium ejus: principium enim latius patet, quam 
+      <lb ed="#H" n="90"/>causa efficiens: 
+      <!--cod-MkL9py-0264.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>Quodlibet opus essentiale est unum principio communi, essentia 
+      <lb ed="#H" n="92"/>divina illa, licet non principio singulari: est unum actu, unum effectu, 
+      </p>
+            <p xml:id="yyy8Uu-e13217-d1e223">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>Si homines duo, puta Pater quispiam &amp; Filius ejus, in eodem sest 
+      <lb ed="#H" n="94"/>opere occupent (instrumentorum exempla taceo) unum idemque est. 
+      <lb ed="#H" n="95"/>utriusque opus: multo magis unum idemque est opus essentiale Patris. 
+      <lb ed="#H" n="96"/>Filii &amp; Spiritus S. Quin etiam causae secundae &amp; Dei simul cum ea 
+      o<lb ed="#H" n="97" break="no"/>perantis unum idemque est opus: multo magis Patris, Filii, &amp; Spiritus 
+      <lb ed="#H" n="98"/>Sancti una est actic¬ 
+      </p>
+            <p xml:id="yyy8Uu-e13217-d1e241">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Samosateniani contra negant, unam &amp; eandem esse operationem: 
+      <lb ed="#H" n="100"/>Patris &amp; Filii: utuntur autem isto argumentor 
+      <lb ed="#H" n="101"/>Ejus qui a se operatur, &amp; eius qui nehil potest a se facere, nisi quod  
+      <lb ed="#H" n="102"/>prius alterum viderit facientem:, non est eadem operatio 
+      </p>
+            <p xml:id="yyy8Uu-e13217-d1e254">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>At Patris &amp; Filij est talis operatio: Pater a seipso operatur, Filius 
+      <lb ed="#H" n="104"/>vero nihil potest a se operari, nisi quod prius viderit Patrem 
+      facien<lb ed="#H" n="105" break="no"/>tem: ut est Johan. 5. 19. 
+      </p>
+            <p xml:id="yyy8Uu-e13217-d1e265">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Ergo Patris &amp; Filij operatio, non est una &amp; eadem, 
+      <lb ed="#H" n="107"/>RESPOND. Propositio est duntaxat particularis: nam quaedam 
+      <lb ed="#H" n="108"/>operatio est eadem ab iis qui a se principium habent; quaedam vero 
+      <lb ed="#H" n="109"/>ab iis quorum hic principium a nemine habet, alter ab altero. 
+      Assum<lb ed="#H" n="110" break="no"/>tio est ambigua ea parte ubi dicitur, Filium non posse a semetipso opera 
+      <lb ed="#H" n="111"/>i. Nam hoc de Filio intelligi potest vel secundum Deitatem qua est 
+      <lb ed="#H" n="112"/>Deus, vel secundum personam qua est Filius a Patre genitus, vel 
+      se<lb ed="#H" n="113" break="no"/>cundum humanam naturam quam assumsit. Si intelligatur 
+      secun<lb ed="#H" n="114" break="no"/>dum Deitatem quam est Deus, falsa est assumtionis pars illa: Nam sicit 
+      <lb ed="#H" n="115"/>ut Christus quatenus Deus est, a seipso est, quia Deitas qua Deus est 
+      <lb ed="#H" n="116"/>seipsa est: ita quicquid facit quatenus Deus est, a seipso facit. Sin 
+      in<lb ed="#H" n="117" break="no"/>telligatur de eo quatenus est Filius a Patre genitus, ita quatenus est 
+      <lb ed="#H" n="118"/>Filius a Patre agit. Sed hoc nihil adimit unitati &amp; identitati 
+      opera<lb ed="#H" n="119" break="no"/>tionis, sicut nec essentiae. Nihil autem impedit quin dictum apud 
+      Jo<lb ed="#H" n="120" break="no"/>hannem intelligi possit de Christo secundum naturam humanam &amp; 
+      <lb ed="#H" n="121"/>Oeconomiam voluntatiam operante, secundum quam nihil facit? 
+      <lb ed="#H" n="122"/>nisi a Patre mandatum faciendi acceperit.  
+      </p>
+            <p xml:id="yyy8Uu-e13217-d1e307">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Hactenus prima distributio operum Dei. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

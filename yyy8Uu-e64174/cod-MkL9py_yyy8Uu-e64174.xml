@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="340"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e64174"> <!-- l6-c4 -->
+            <head xml:id="yyy8Uu-e64174-Hd1e109">Caput 4</head>
+            <p xml:id="yyy8Uu-e64174-d1e112">
+               <lb ed="#H" n="73"/>CAPUT IV. 
+      <lb ed="#H" n="74"/>In quo de malo afflictionis
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e119">
+               <lb ed="#H" n="75"/>ALUM afflictionis, est malum quod patitur creatura 
+      ratio<lb ed="#H" n="76" break="no"/>[nalis aeterno eoque justo decreto Dei, cedens in gloriam Dei, 
+      <lb ed="#H" n="77"/>&amp; electorum salutem. Dicitur synecdochice miseria, quum 
+      <lb ed="#H" n="78"/>alioquin hac voce etiam peccatum comprehendatur: &amp; metaphorice. 
+      <lb ed="#H" n="79"/>cal imitas, item noculum seu calix ira Dei passim in Scriptura 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e132">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Estque si fines consideres, vel poena divina, vel exploratio, vel 
+      mar<lb ed="#H" n="81" break="no"/>tyrium, vel pretium redemtionis pro nobis. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e142">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Poena diuvinitus imposita, est afflictio, cum Deus illos qui peccarum; 
+      <lb ed="#H" n="83"/>aliquo bono, quod ad felicitatem illorum pertinebat, juste privat, ad 
+      <lb ed="#H" n="84"/>puniendum peccatum ipsorum, Gen. 3. v. 6, 7. Ps. 107. 10. &amp; sequenti 
+      <lb ed="#H" n="85"/>bus Jes. 5. v. 13. Vocatur usitate malum poenae, malum supplicii: &amp; 
+      saepis<lb ed="#H" n="86" break="no"/>sime malum absque additione ulla, ut Jes. 45. 7. dicitur Deus creare. 
+      <!--cod-MkL9py-0367.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="87"/>malum, quod de malo poenae accipiendum. Metonymice dicitur ira 
+      <lb ed="#H" n="88"/>Dei, Rom. 1. 18. indignatio Dei Psalm. 30. v. 6. synecdochice visitatio,  
+      <lb ed="#H" n="89"/>Jerem. 6. v. 6. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e168">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Malum poenae alio respectu etiam bonum est: nam quatenus est 
+      <lb ed="#H" n="91"/>declaratio justitiae Dei, rationem boni moralis habet; quatenus item 
+      <lb ed="#H" n="92"/>servit correctioni eorum qui peccant, &amp; cautioni seu 
+      admonitioni<lb ed="#H" n="93" break="no"/>aliis ne peccent. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e181">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>Autor ejus Deus est, ut dicitur Amos 3. 6. An erit malum in 
+      civi<lb ed="#H" n="95" break="no"/>tate quod Iehova non efficiat? non quod poena sit ens quoddam, ut alis 
+      <lb ed="#H" n="96"/>entia quae Deus fecit: improprie enim Deus dicitur poenam efficere, 
+      <lb ed="#H" n="97"/>quum poena sua natura nihil aliud sit, quam privatio boni, quam 
+      sub<lb ed="#H" n="98" break="no"/>tractio benedictionis divinae. Deus ergo poena immittit, benedictio 
+      <lb ed="#H" n="99"/>nem a terra subtrahendo: caelos ne pluant, Solem ne adjuvet 
+      genera<lb ed="#H" n="100" break="no"/>tionem rerum impediendo, bonam valetudinem subtrahendo, 
+      pacen<lb ed="#H" n="101" break="no"/>auferendo. Quapropter poena est bona: quia a Deo inflicta, quia 
+      justa<lb ed="#H" n="102" break="no"/>quia in gloriam Dei &amp; electorum salutem cedit 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e205">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Causa propter quam a Deo imponitur est peccatum, Gen. 1. v. 17. 
+      <lb ed="#H" n="104"/>Quo die comederis de fructu arboris scientiae boni &amp; mali, morte 
+      morie<lb ed="#H" n="105" break="no"/>ris, &amp; c. 3. v. 16, 17, 18, 19. Prov. 19. 3. &amp; locis innumeris. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e216">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Estque PRIMo vel nuda tantum poena, vel simul etiam peccatum 
+      <lb ed="#H" n="107"/>Nuda tantum poena, est qua Deus simpliciter punit peccata; qualis 
+      <lb ed="#H" n="108"/>poena erat ejectio Adami &amp; Evae ex Paradiso, item diluvium: qualis 
+      <lb ed="#H" n="109"/>item erit abjectio impiorum in ignem aeternum 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e229">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Poena quae simul etiam peccatum est, dicitur illa quae respectu Dei 
+      <lb ed="#H" n="111"/>judicis totius mundi est judicium justissimum, respectu autem malo 
+      <lb ed="#H" n="112"/>rum angelorum vel hominum, per quos &amp; quibus Deus poenam illam 
+      <lb ed="#H" n="113"/>infligit, est peccatum ipsorum vel causa peccati. Qualis erat poena quam 
+      <lb ed="#H" n="114"/>Deus inflixit impio Regi Pharaoni cum induravit cor illius. Talis 
+      e<lb ed="#H" n="115" break="no"/>rat poena, quam Deus inflixit impio Regi Achabo, quum indidit 
+      spi<lb ed="#H" n="116" break="no"/>ritum mendacii ori omnium Prophetarum Achabi. 1. Reg. 22. v. 23. 
+      <lb ed="#H" n="117"/>Qualis poena est peccatorum concatenatio quum quis peccata peccatis 
+      <lb ed="#H" n="118"/>addit, sic ut posterius peccatum sit simul poena prioris peccati. Sic pec- 
+      <lb ed="#H" n="119"/>catum haereditarium est simul poena &amp; peccatum. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e256">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>SECUNDO poena est vel castigatio paterna, vel vindicta divina, Jer. 
+      <lb ed="#H" n="121"/>46. 28. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e265">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Poenae nomen, lata significatione, etiam castigationibus piorum 
+      tri<lb ed="#H" n="123" break="no"/>buitur. Calvinus Instit. lib. 3. c. 4. sect. trigesima prima: Si observassent 
+      <lb ed="#H" n="124"/>(quod minime praetereundum erat) duo esse divini judicii genera 
+      <lb ed="#H" n="125"/>onge aliam in hac Davidis correptione vidissent poenae formam, 
+      <lb ed="#H" n="126"/>quam quae ad ultionem tendere putanda sit Sic <name xml:id="yyy8Uu-e64174-Nd1e280">Oecolampadius</name> 
+               <lb ed="#H" n="127"/>Commentariis in 22. Ezechielis, poenam aliam dicit esse correctionis. 
+      <lb ed="#H" n="128"/>aliam maledictionis: 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e288">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>Stricta autem significatione pro afflictione hoc fine inflicta, ut 
+      satisfa<lb ed="#H" n="130" break="no"/>ciat justitiae Dei, poenae nomen non competit afflictioni piorum seu 
+      rena<lb ed="#H" n="131" break="no"/>torum: nam calamitates quae fidelibus eveniunt, non sunt nuωρiαs &amp; 
+      ul<lb ed="#H" n="132" break="no"/>tiones ad illos perdendos, sed sunt necessariae πυιδειαι, quibus erudiuntur 
+      <lb ed="#H" n="133"/>ne cum hoc mundo pereant. 1. Corinth. 11. v. 32. Proinde afflictio piis 
+      eve<lb ed="#H" n="134" break="no"/>niens, rectius dicitur castigatio. Unde Chrysostomus homil. 28. in 1. ad 
+      Co<lb ed="#H" n="135" break="no"/>rinthios ait; Non punimur, non poenas damus, sed erudimur. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e308">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>Castigatio paterna, est poena, qua Deus electos propter peccata 
+      cor<lb ed="#H" n="137" break="no"/>ripit, ut eos ad resipiscentiam excitet, corrigat, &amp; cautiores 
+      tardiores<lb ed="#H" n="138" break="no"/>que ad peccandum in posterum reddat, utque sic eos erudiat ne cum 
+      <lb ed="#H" n="139"/>hoc mundo condemnentur. Jes. 2. v. 17. Ps. 119. v. 71. 1. Cor. 11. v. 32. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e321">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Ita parentes parvulorum suorum, conjuges conjugum, alii alios 
+      <lb ed="#H" n="141"/>rum qui eis chari aut utiles &amp; necessarii sunt, doloribus ac mortibus 
+      <lb ed="#H" n="142"/>flagellantur a Deo ut emendentur? 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e332">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Hanc vocant Patres disciplinam severiorem. Aug. tom. 4. pag. 842. 
+      <lb ed="#H" n="144"/>Castigatio electorum, est poena, late sumta voce poenae: Eadem 
+      <lb ed="#H" n="145"/>non est poena, stricte sumta voce poenae: 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e344">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>I. Quia non adhibetur electis eo fine, ut per eam satisfiat justitiae 
+      <lb ed="#H" n="147"/>Dei: seu, quod idem est, quia non est compensatio peccati: non 
+      adhi<lb ed="#H" n="148" break="no"/>betur pro purgandis praeteritis peccatis, sed pro futuris vitandis 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e355">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>2. Quia non est destructio electorum. 3. Quia est tantum 
+      tem<lb ed="#H" n="150" break="no"/>poralis. Poena autem stricte accepto vocabulo non est temporalis, sed 
+      <lb ed="#H" n="151"/>eterna &amp; infinita. Qui temporaliter puniuntur propter peccata, illis  
+      <lb ed="#H" n="152"/>quoque in aeternum puniendi sunt: Temporales quippe poenae sunt, 
+      <lb ed="#H" n="153"/>initium aeternatum. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e371">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Castigationis piorum causa efficientes impellentes, aliae sunt 
+      respe<lb ed="#H" n="155" break="no"/>ctu Dei; aliae respectu hominum 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e380">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Respectu Dei, est justitia ejus, sed cum misericordia conjuncta, qui 
+      <lb ed="#H" n="157"/>sit ut secundum ἐπεείκειαν Deus cum electis agat, castigans eos 
+      leni<lb ed="#H" n="158" break="no"/>ter, tanquam Pater filios. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e391">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>Respectu hominum electorum, qui castigantur, causa est peccatum 
+      i<lb ed="#H" n="160" break="no"/>ipsorum, sive originale tantum, sive etiam actuale. Miche. 7. v. 9. Iram 
+      <lb ed="#H" n="161"/>Iehovae portabo, quia peccavi in eum. Exemplo est vir Dei 1. Reg. 13. v. 24. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e402">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Respectu hominum, per quos tanquam flagella Dei electi interdum 
+      ca<lb ed="#H" n="163" break="no"/>stigantur, est illorum invidia, ira, odium, ambitio, avaritia, cupiditas 
+      <lb ed="#H" n="164"/>regnandi: sicut populum Judaicum castigavit Deus per Babylonios, 
+      <lb ed="#H" n="165"/>qui moti fuerunt avaritia &amp; libidine dominandi. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e416">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Castigationis piorum fines sunt: I. Ut ea admoneantur electi suae 
+      <lb ed="#H" n="167"/>immunditiei nativae, &amp; lapsuum peccatorumque a se commissorum, 
+      <lb ed="#H" n="168"/>2. Chron. 17. v. 2. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e427">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>II. Ut sit testimonium divinae justitiae, per quod Deus nos &amp; alios 
+      <lb ed="#H" n="170"/>vult certos fieri de sua justitia, se vere irasci peccatis &amp; non solum in hac 
+      <lb ed="#H" n="171"/>vita, verum etiam post hanc vitam morte aeterna ea puniturum, nis 
+      <lb ed="#H" n="172"/>resipiscamus, &amp; nos ad Deum convertamus. 2. Chron. 12. v. 6. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e440">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>III. Ut ea pii excitentur ad resipiscentiam, &amp; revocentur in viam 
+      <lb ed="#H" n="174"/>terae pietatis &amp; justitiae, Jes. 26. v. 9. quum iudicia tua exstant in terra 
+      <lb ed="#H" n="175"/>iustitiam tuam discunt incolae orbis habitabilis. Hebr. 12. 10. Deus nos 
+      <lb ed="#H" n="176"/>castigat ad commodum nostrum, ut participes simus sanctimonia 
+      <lb ed="#H" n="177"/>ipsius 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e456">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>IV. Ut ea revocati ad Deum, non condemnemur cum hoc mundo, 
+      <!--cod-MkL9py-0368.xml-->
+      <pb ed="#H" n="341"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>I. Corinth. 11. vers. 32. Dum iudicamur, a Domino erudimur, ne cum 
+      <lb ed="#H" n="2"/>mundo condemnemur. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e474">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>V. Ut carnem nostram domet &amp; nos in officio retineat, ne exsul 
+      <lb ed="#H" n="4"/>tabundi insolescamus: sicut Paulus sibi dicit, ne revelationum 
+      excel<lb ed="#H" n="5" break="no"/>entia supra modum efferretur, datum σκολοπα carni suae &amp; angelum 
+      <lb ed="#H" n="6"/>Satanam a quo colaphis caederetur, 2. Cor. 12. v. 7. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e487">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>VI. Ut illa sit nobis verus commentarius Sacrae Scripturae: quia 
+      <lb ed="#H" n="8"/>pravitatem nostram quam Scriptura ostendit, non ita intelligeremus. 
+      <lb ed="#H" n="9"/>neque liberationem divinam quam eadem Scriptura praedicat, non 
+      <lb ed="#H" n="10"/>ita acceptaremus, ut nec ad consolationem quam eadem tradie, ita 
+      se<lb ed="#H" n="11" break="no"/>tio attenderemus, nisi interdum a Deo castigaremur. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e504">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>VII. Ut nos admoneat de mortalitate nostra, Psalm. 90. 3. 
+      <lb ed="#H" n="13"/>Nam morbis, moeroribus &amp; luctu redigit nos eo usque ut simus 
+      <lb ed="#H" n="14"/>contriti. Et quo saepius castigamur, eo frequentius de mortalitate 
+      <lb ed="#H" n="15"/>nostra admonemur. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e517">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>IIX. Ut nos admoneat de fine mundi. 
+      <lb ed="#H" n="17"/>IX. Ut in nobis excitet desiderium aeternae vitae, in qua non 
+      <lb ed="#H" n="18"/>amplius peccabimus, nec amplius propter peccata 
+      castigabi<lb ed="#H" n="19" break="no"/>mur. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e530">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Castigationis piorum effecta sunt praeclara: Nam consolatur eos 
+      <lb ed="#H" n="21"/>quibus imponitur, Psalm. 23. vers. 4. Virga tua &amp; pedum tuum ipsa 
+      <lb ed="#H" n="22"/>consolantur me. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e541">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Fructum tranquillum justitiae reddit iis qui per eam fuerint 
+      exer<lb ed="#H" n="24" break="no"/>citati, Hebr. 12. vers. 11. Nam qui castigatione emendati sunt, studen 
+      <lb ed="#H" n="25"/>justitiae &amp; fructus ejus ferunt, quos pax consequitur, sicut arbores 
+      pu<lb ed="#H" n="26" break="no"/>tatae &amp; a stolonibus purgatae fructus ferunt amoenos &amp; utiles. Psalm. 
+      <lb ed="#H" n="27"/>1. v. 3. Jesa. 61. v. 3. Jet. 17 8. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e557">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Peccata piorum abrumpit: quemadmodum destructa urbe Jero 
+      <lb ed="#H" n="29"/>soymorum cum templo a Nebucadnezare, desiit fastus roboris 
+      po<lb ed="#H" n="30" break="no"/>puli Judaici, Ezech. 33. v. 28. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e568">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Castigatio piorum, si subjectum locum spectes sit tantum in his 
+      <lb ed="#H" n="32"/>terris 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e578">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Est filiorum Dei ad vitam aeternam electorum, quos Deus dilis 
+      <lb ed="#H" n="34"/>git, Proverb. 3. versicul. 11. Eruditionem Iehovae, fili mi, ne spernito; 
+      ne<lb ed="#H" n="35" break="no"/>que taedeat te correctionis eius. Hebr. 12. vers. 5, 6, 7. 8, 9. Et obliti estis 
+      <lb ed="#H" n="36"/>adhortationis, quae vobis tanquam filiis loquitur, Fili mi, ne negligito 
+      <lb ed="#H" n="37"/>pastigationem Domini, neque remissus esto, quum ab eo argueris. Quem 
+      <lb ed="#H" n="38"/>enim Dominus diligit, castigat: flagellat autem quemcunque filium 
+      agi<lb ed="#H" n="39" break="no"/>noscit. Si castigationem sustinetis, Deus sese vobis exhibet ut filiis: quis  
+      <lb ed="#H" n="40"/>enim est filius quem non cast, get pateri Quod si estis absque castigatione, 
+      <lb ed="#H" n="41"/>cuius participes sunt omnes, nempe supposititia estis, non filii. Deinde 
+      cor<lb ed="#H" n="42" break="no"/>porum nostrorum patres habuimus castigatores, &amp; eos reveriti sumus; 
+      <lb ed="#H" n="43"/>innon multo magis subiiciemur patri spirituum, &amp; vivemus? Rom. 8. 
+      <lb ed="#H" n="44"/>v. 28, 29, 30. Novimus autem, iis qui diligunt Deum, omnia simul 
+      ad<lb ed="#H" n="45" break="no"/>jumento esse ad bonum: iis videlicet, qui ex proposito ipsius vocati sunt. 
+      <lb ed="#H" n="46"/>Nam quos praenovit etiam praedestinavit conformandos imagini filii sui: 
+      <lb ed="#H" n="47"/>ut is sit primogenitus inter multos fratres. Quos vero praedestinavit: eo 
+      <lb ed="#H" n="48"/>etiam vocavit: &amp; quos vocavit, eos etiam iustificavit: quos autem 
+      iusti<lb ed="#H" n="49" break="no"/>ficavit: eos etiam glorificavit. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e620">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Si adiuncta consideres, est quidem in praesens acerba &amp; tristis, 
+      ve<lb ed="#H" n="51" break="no"/>rum salutaris, ad Hebraeos 12. vers. 11. est brevis, temporaria, 
+      momen<lb ed="#H" n="52" break="no"/>tanes. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e631">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Si dissentanea spectes, non est vindicta: non affert nobis ullum 
+      no<lb ed="#H" n="54" break="no"/>cumentum. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e640">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Comparatur igni quo excoquimur &amp; purgamur tanquam autum 
+      <lb ed="#H" n="56"/>&amp; argentum. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e649">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Hucusque de castigatione. 
+      <lb ed="#H" n="58"/>Vindicta divina, est poena, quam Deus ulciscitur peccata 
+      improbo<lb ed="#H" n="59" break="no"/>rum, ut eos destruat, Ps. 1. v. 6. Agnoscit Iehova viam iustorum: at 
+      via<lb ed="#H" n="60" break="no"/>improborum peritura est. Et 3. v. 8. Surge Iehova, fac salvum me Deus 
+      <lb ed="#H" n="61"/>mi, qui percussisti omnes inimicos meos maxillam; dentes improborum. 
+      <lb ed="#H" n="62"/>confregisti. Et 5. v. 7. Perditurus es loquentem mendacium: virum 
+      san<lb ed="#H" n="63" break="no"/>guinarium &amp; dolosum abominatur Iehova. Ps. 18. 28. &amp; 24. v. 17, 22, &amp; 
+      <lb ed="#H" n="64"/>119. 21 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e671">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Vindicta divina est duplex: Spiritualis vel corporalis. 
+      <lb ed="#H" n="66"/>Spiritualis, est quae ad res spirituales seu animam pertinet. 
+      <lb ed="#H" n="67"/>Vindicta spiritualis duplex est: Desertio divina perpetua &amp; 
+      Indura<lb ed="#H" n="68" break="no"/>tio divina. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e685">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Desertio divina perpetua, est vindicta divina spiritualis, quam Deus 
+      <lb ed="#H" n="70"/>reprobos abiicit, privans illos donis quibus ornati fuerant &amp; traden 
+      <lb ed="#H" n="71"/>eos in potestatem Satanae, qui eos magis magisque impellit in pec- 
+      <lb ed="#H" n="72"/>catum, ita ut a Deo prorsus abalienentur, Jes. 2. 6. Jesa. 59. v. 2. 1. Sam, 
+      <lb ed="#H" n="73"/>28. 15,16. Act. 7. 42. Rom. 1. 24, 28. Exemplum in Judaeis reprobis 
+      <lb ed="#H" n="74"/>quos Deus abjecit, de quibus Rom. 11 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e703">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>Desertio haec vocatur desertio poenae seu vindictae, &amp; peccatum illa 
+      se<lb ed="#H" n="76" break="no"/>quitur. De hac desertione dicitur: A Deo deserti, Deum priores deserunt 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e712">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Distinguenda est a desertione temporaria, quae est vel explorationis: 
+      <lb ed="#H" n="78"/>vel correctionis, vel exactionis poenae pro humano genere. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e721">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Desertio explorationis, est qua Deus hominem deserit tantum quo- 
+      <lb ed="#H" n="80"/>ad auxilium &amp; confirmationem, omittendo nimirum 
+      confirmatio<lb ed="#H" n="81" break="no"/>nem creaturae &amp; non conferendo gratiam secundam, quam prima 
+      gra<lb ed="#H" n="82" break="no"/>tia efficax reddatur ad constanter resistendum tentationibus &amp; ad 
+      per<lb ed="#H" n="83" break="no"/>severandum in bono. Haec desertio potest iis accidere, qui Deum ipsi 
+      <lb ed="#H" n="84"/>nondum deseruerunt, ut primis parentibus nostris in Paradiso, qui  
+      <lb ed="#H" n="85"/>acceperant a Deo posse quod vellent, quamvis non acceperant velle 
+      <lb ed="#H" n="86"/>quod possent, ut loquitur Augustinus de correptione &amp; gratia. cap. 11. 
+      <lb ed="#H" n="87"/>Hac deseruerat Ezechiam Regem Juda, ut legitur 2. Chron. 32 v. 2. 
+      <lb ed="#H" n="88"/>Agentem cum legatis Principum Babyloniae, qui miserant ad eum ut in 
+      <lb ed="#H" n="89"/>quirerent de prodigio illo quod fuerat in terra, dereliquit eum Deus: 
+      ten<lb ed="#H" n="90" break="no"/>tando eum ut experiretur quicquid erat ei in animo. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e752">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Desertio correctionis seu emendationis, est qua Deus ad tempus ca¬ 
+      <!--cod-MkL9py-0368.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>lamitatibus sinit premi Ecclesiam, aut aliquem fidelium, aut sinit eam 
+      <lb ed="#H" n="93"/>in peccata labi, ut corrigatur &amp; emendetur. De qua Jes. 54 7. Ad 
+      mo<lb ed="#H" n="94" break="no"/>mentum parvum dereliquera te, sed miserationibus magnis congregabo te. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e770">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Desertio exactionis poenae pro humano genere, est qua Deus Christum 
+      <lb ed="#H" n="96"/>secundum naturam humanam, in magno illo agone passionis, in 
+      sum<lb ed="#H" n="97" break="no"/>mis illis &amp; horribilibus animae angustiis, quibus abjecti &amp; derelict 
+      <lb ed="#H" n="98"/>a Deo urgentur, ad tempus quamvis pusillum deseruit gratiosam 
+      prae<lb ed="#H" n="99" break="no"/>sentiam suam occultando, &amp; auxilium potenten que liberationem 
+      <lb ed="#H" n="100"/>differendo, ut hoc modo exigeret poenam mortis animae (quae mors 
+      <lb ed="#H" n="101"/>nihil est aliud quam deseri a Deo in summis angustiis &amp; terroribus 
+      <lb ed="#H" n="102"/>animae) in qua nobis in aeternum fuisset manendum, nisi Christus 
+      il<lb ed="#H" n="103" break="no"/>lam pro nobis subeundo justitiae Dei satisfecisset. Psalm. 22. 2. Matt. 
+      <lb ed="#H" n="104"/>27. 46. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e797">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Induratio divina, est vindicta divina spiritualis, quam Deus non 
+      qui<lb ed="#H" n="106" break="no"/>dem corda mollia indurat, nec novum vitium illis infundit, nam id 
+      <lb ed="#H" n="107"/>credere impium est; sed animos impiorum antea natura duros &amp; 
+      bo<lb ed="#H" n="108" break="no"/>no destitutos, sibi &amp; diabolo impellendos permittit &amp; occasione 
+      <lb ed="#H" n="109"/>mandati magis iritat malum quod in ipsis est &amp; justo judicio in 
+      ma<lb ed="#H" n="110" break="no"/>lum, quo ipsi feruntur ultro, amplius ad finem usque impellit, ita ut 
+      <lb ed="#H" n="111"/>excaecati, &amp; in reprobum sensum traditi, furenter in exitium suum 
+      ru<lb ed="#H" n="112" break="no"/>ant. Exod. 4. 21 Rom. 9. 18. Jes. 6. 9, 10. Matth. 13. 14, 15. Joh. 12. v. 39. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e819">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>0. Rom. 11. v. 8. 
+      <lb ed="#H" n="114"/>Hujusmodi induratio est judicium Dei sic ut volente Deo 
+      indu<lb ed="#H" n="115" break="no"/>rentur &amp; excaecentur homines, qui mox duritici &amp; caecitatis suae 
+      poe<lb ed="#H" n="116" break="no"/>nas daturi sunt,  
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e832">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Falluntur plurimum, qui Dei tantum permissu, non etiam 
+      volun<lb ed="#H" n="118" break="no"/>tate fieri tntem indurationem, &amp; excaecationem dicunt: Deus enim 
+      <lb ed="#H" n="119"/>palam pronunciat, se indurare, se excaecare; Exod. 4. 21. ego indurab 
+      <lb ed="#H" n="120"/>cor eius, ut nolit dimittere populum illum. INDURABO, inquit, nempe 
+      <lb ed="#H" n="121"/>non tantum permittendo, sed etiam meo Spiritu eum destituendo 
+      <lb ed="#H" n="122"/>consilia &amp; actiones ejus in finem mihi propositum dirigendo, &amp; 
+      qui<lb ed="#H" n="123" break="no"/>buscunque modis usurus sum ejus malitiam exacerbando. Sic Deus 
+      <lb ed="#H" n="124"/>causa est indurationis ut judicii sui justissimi, Pharat autem est causa 
+      <lb ed="#H" n="125"/>peccati. Ut ergo tale cor haberet Phurao quod patientia Dei non 
+      move<lb ed="#H" n="126" break="no"/>retur ad pietatem, sed etiam ad impietatem vitii proprii fuit. Quod vero 
+      <lb ed="#H" n="127"/>facta sunt ea, quibus cor suo vitio tam malignum resisteret iussionibus 
+      <lb ed="#H" n="128"/>Dei, hoc est enim quod dicitur induratum, quia non flexibiliter 
+      consen<lb ed="#H" n="129" break="no"/>tiebat, sed inflexibiliter resistebat: dispensationis fuit divinae, qua tali 
+      <lb ed="#H" n="130"/>cordi non solum iusta, sed evidenter iusta poena parabatur, qua timentes 
+      <lb ed="#H" n="131"/>Deum corrigerentur, ait Augustinus lib. 1. Quaestion. super Exodum 
+      <lb ed="#H" n="132"/>capite 18 
+      <lb ed="#H" n="133"/>Indurantur autem improbi dupliciter, aut per se, aut por accides. 
+      Per<lb ed="#H" n="134" break="no"/>e, principio interno, scilicet voluntate sua ipsorum: Per accidens, 
+      prin<lb ed="#H" n="135" break="no"/>cipio aliunde accedente &amp; movente internum illud principium quo- 
+      <lb ed="#H" n="136"/>dammodo aut instrumenta illius, diabolo nimirum movente 
+      volun<lb ed="#H" n="137" break="no"/>ates illorum, unde illae motae feruntur in malum, &amp; Deo tantum 
+      of<lb ed="#H" n="138" break="no"/>ferente se, illos que permittente principio interno, id est, voluntati 
+      i<lb ed="#H" n="139" break="no"/>psorum: ita accedente principio externo voluntas illorum suo 
+      vitio<lb ed="#H" n="140" break="no"/>induratur.  
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e889">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Vindicta corporalis, est vindicta quam Deus ab impiis in rebus 
+      <lb ed="#H" n="142"/>corporalibus exigit, Jer 5. v 15, 16, 17. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e898">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Rursus vindicta vel temporalis est, vel aternm. 
+      <lb ed="#H" n="144"/>Una quidem poena est impiorum, sed quae partes habet: 
+      tempora<lb ed="#H" n="145" break="no"/>les enim poenae sunt initium aeternatum. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e909">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>Vindicta temporaiis, est poena quae in hac vita infligitur impiis ut 
+      il<lb ed="#H" n="147" break="no"/>la tanquam praeludio ad dirissimam, quae tandem eos manet, 
+      gehen<lb ed="#H" n="148" break="no"/>nam apparentur. Jes. 66. 15, 16. Exempla plurima sunt in historia sacra 
+      <lb ed="#H" n="149"/>&amp; prophana: veluti diluvium universale, consumtio Sodomae &amp; 
+      Go<lb ed="#H" n="150" break="no"/>morrhae. Pharaonis &amp; exercitus ÆEgyptii submersio in mari tubro, 
+      im<lb ed="#H" n="151" break="no"/>piorum Israelitatum interitus in deserto; Saulis infelix exitus, item 
+      <lb ed="#H" n="152"/>Sennacheribi; Herodis Ascalonitae cujus exitus horrendus describitur 
+      <lb ed="#H" n="153"/>a Joseph. Antiq. Judaic. l. 8 c. 17. &amp; l.1. de bello Judaico, c 21. Herodis 
+      <lb ed="#H" n="154"/>Antipae qui Johannem Baptistam interemit, qui regno exutus a 
+      Cajo<lb ed="#H" n="155" break="no"/>Caligula Imperatore &amp; in exsilium misus cum Herodiade in summa 
+      <lb ed="#H" n="156"/>rerum omnium egestate vitam finivit. Herodis Agrippae qui 
+      Jaco<lb ed="#H" n="157" break="no"/>bum interfecit, Act. 12. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e941">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Improbi subito intercuntes in hac vita, similes sunt fumo 
+      evames<lb ed="#H" n="159" break="no"/>centi, &amp; cerae liquescenti igne. Ps. 69. 3. Vindicta aterna, est poena quae 
+      <lb ed="#H" n="160"/>impios, in inferno in perpetuum sine ullo fine manebit. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e952">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Thomas Aquinas Quest, disput. de malo, quest. 5 art. 3. &amp; alii 
+      Scho<lb ed="#H" n="162" break="no"/>lastici, poenam aternam statuunt duplicam, unam sensus, altera 
+      damni<lb ed="#H" n="163" break="no"/>Poenam sensus vocant, quae cum dolore &amp; cruciatu est: Poenam damni 
+      <lb ed="#H" n="164"/>quae sine sensis doloris est, quae nullum dolorem neque extra neque intra 
+      <lb ed="#H" n="165"/>incutit. Sed ista distinctio falsa est. Omnis enim poena est cum sensu 
+      do<lb ed="#H" n="166" break="no"/>loris, &amp; qui damnantur, ii non damni modo, sed etiam sensus poenam 
+      per<lb ed="#H" n="167" break="no"/>petiuntur. Nam si intelligunt se esse in poena, non possunt non dolere: si se 
+      <lb ed="#H" n="168"/>puniri nesciunt, non ea poena putanda est, ut supra dictum 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e974">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>Poenatum quas Deus impiis infligit, fines sunt: 1. Ut in illis Deus 
+      <lb ed="#H" n="170"/>suae justitiae &amp; potentiae gloriam manifestet, Lev. 10. v. 3. Ps. 58. v. 12. 
+      <lb ed="#H" n="171"/>Jes. 5. v. 16. Ezech. 30. v. 16. Rom. 11. v. 22. Vide benignitate &amp; 
+      severi<lb ed="#H" n="172" break="no"/>tati Dei: in eos quide qui ceciderunt severitate, &amp;c. Exod. 9. v. 16. Rom. 
+      <lb ed="#H" n="173"/>9. v 17. dicit Scriptura Pharaoni; ad hoc ipsum excitavi te, ut ostendam 
+      <lb ed="#H" n="174"/>in te potentiam meam, &amp; ut annuncietur nomen meum in tota terra. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e992">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>Hunc finem Deus apud Ezechielem saepe repetit, cum ait, se 
+      judi<lb ed="#H" n="176" break="no"/>cia sua effecturum, ut experiantur &amp; cognoscant omnes se esse Iehovam 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1001">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>2. Ut ex impiorum poenis credentes evadant sapientiores, hoc est; 
+      <lb ed="#H" n="178"/>cognoscant Deum &amp; concipiant timorem Dei, verbum ejus diligant  
+      <lb ed="#H" n="179"/>ab ejus judiciis timeant &amp; a peccatis sibi caveant. Num. 26. v. 10. A 
+      <lb ed="#H" n="180"/>periens terra os suum abserpsit eos &amp; quae erant Rorachi moriente coeti 
+      <lb ed="#H" n="181"/>illo, quum absumsit ignis ducentes quinquaginta viros, fueruntque i1 
+      <lb ed="#H" n="182"/>signum. 1. Cor. 10. v. 5. &amp; sequentibus. 3. Ut ex illis fideles 
+      consola<lb ed="#H" n="183" break="no"/>tionem percipiant, &amp; opera Dei puaedicent, in Deo laetentur &amp; fidu¬ 
+      <!--cod-MkL9py-0369.xml-->
+      <pb ed="#H" n="342"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>ciam collocent: Ezech. 35. v. 11. Psalm. 52. 7, 8. Deus fortis 
+      demolitu<lb ed="#H" n="2" break="no"/>rus est te in aeternum: abripiet te &amp; avellet te a tentorio eradicabitque 
+      <lb ed="#H" n="3"/>te e terra viventium vchementissime. Quod videntes iusti 
+      reverebun<lb ed="#H" n="4" break="no"/>tur. Psalm. 68. v. 4. &amp; Psalm. 119. v. 119. Psalm. 64. v. 8, 9, 10, 11. 
+      Pro<lb ed="#H" n="5" break="no"/>verb. 11. v. 10. Quum pereunt improbi, cantus exercetur.  
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1038">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Poenae impiorum amplam consolationis materiam fidelibus sub 
+      <lb ed="#H" n="7"/>ministrant, quia testantur Deo curae esse genus humanum, &amp; in eo 
+      <lb ed="#H" n="8"/>maxime pios quos mirifice liberat, improbos reprimendo vel 
+      depri<lb ed="#H" n="9" break="no"/>mendo vel penitus e medio tollendo Psalm. 58. v. 11. &amp; 9. v. 12. &amp; 119. 
+      <lb ed="#H" n="10"/>v. 52. &amp; v. 119, 1: 0. Tanqua scoriae facis ut cessent omnes improbi terrae, 
+      <lb ed="#H" n="11"/>idcirco diligo testimonia tua. Horret pavore tui caro mea: adeo a iudiciis. 
+      <lb ed="#H" n="12"/>tuis timeo. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1059">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>. Ut testentur non esse vanas &amp; irritas comminationes Dei in 
+      <lb ed="#H" n="14"/>Lege propositas. Nam exempla poenatum ostendunt, Deum bona 
+      <lb ed="#H" n="15"/>fide certo praestare quicquid est comminatus impiis peccatoribus 
+      <lb ed="#H" n="16"/>Ezech. 6. v. 16. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1072">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>5. Ut per eas separentur probi ab improbis, refundendo totam 
+      <lb ed="#H" n="18"/>rempublicam, velut adulterinus nummus refunditur. Jes. 1. v. 25. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1081">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>6. Ut sint documenta benignitatis Dei sempiternae erga 
+      Eccle<lb ed="#H" n="20" break="no"/>siam, cujus bono impios punit &amp; e medio tollit, Psalm. 136. 10, 15. 
+      <lb ed="#H" n="21"/>17, 18. 19, 26. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1092">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>7. Ut per eas abrumpantur scelera cum abominationibus 
+      omni<lb ed="#H" n="23" break="no"/>bus. Ezech. 16 v. 43. item cap. 23. v. 48. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1101">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>8. Ut ex poenis omnes improbi discant &amp; sciant Deum summe 
+      <lb ed="#H" n="25"/>dominari in Ecclesia Dei, usque ad fines terrae. Psalm. 59. v. 14. Ezech. 
+      <lb ed="#H" n="26"/>6v. 12, 13, 14. Non omnes sinit Deus in hac vita impune abire, ne 
+      cun<lb ed="#H" n="27" break="no"/>cta prorsus absque ulla esse providentia suspicemur. Ideo poena 
+      nomi<lb ed="#H" n="28" break="no"/>natur eruditio stultorum: Prov. 7. 22. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1117">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>9. Ut sint testimonia irae Dei adversus peccata &amp; futuri olim judi 
+      <lb ed="#H" n="30"/>cii in omnes peccatores qui non resipuerunt, tametsi multi impune 
+      <lb ed="#H" n="31"/>usque ad vitae finem evadant, 2 Thessal. 1. v. 5, 6, 7. 8, 9. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1129">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Poenae improborum quorundam etiam in hac vita sunt diuturna 
+      <lb ed="#H" n="33"/>propter sequentes rationes 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1138">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>1. Ut carum non obliviscantur fideles. Psalm. 59. v. 12. 
+      <lb ed="#H" n="35"/>2. Ut illae tandem improbis invitis extorqueant confessionem 
+      <lb ed="#H" n="36"/>nequitiae suae; Psalm. 59. v. 13: 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1149">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Caeterum non ab omnibus Deus in hac vita exigit ultionem, 
+      no<lb ed="#H" n="38" break="no"/>resurrectionis spem abjiciamus, ac judicium quoque desperemus 
+      fu<lb ed="#H" n="39" break="no"/>turum, utpote omnibus hic reddentibus rationem 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1160">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Hactenus de poena: sequitur de exploratione di¬ 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1167">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>vina &amp; martyrio. 
+      <lb ed="#H" n="42"/>Exploratio seu tentatio divina, Graece δοκιμασια &amp; δοκίμιον, est 
+      af<lb ed="#H" n="43" break="no"/>dictio piorum, per quam Deus eorum fidem in promissiones divinas 
+      <lb ed="#H" n="44"/>&amp; obedientia erga praecepta Legis praesenti vel imminente malo 
+      ex<lb ed="#H" n="45" break="no"/>lorat, &amp; patientiam exercet eamque omnibus spectandam, 
+      cogno<lb ed="#H" n="46" break="no"/>scendam &amp; imitanda proponit. Gen. 22. v. 1 &amp; sequentibus Deut. 8. 
+      <lb ed="#H" n="47"/>v. 2. Psalm. 66. v 10. &amp; 105. v. 19. Jacobi. 1. ver. 1, 12. 1. Petr. 1. v. 6, 7. 
+      <lb ed="#H" n="48"/>Actor 20 v. 19. 1. Cor. 10. v. 13. 1. Petr. 4. v. 12. 
+      <lb ed="#H" n="49"/>Saepe hominem affligit Deus, non tam ob peccata quae commise 
+      <lb ed="#H" n="50"/>rit, quam ut ejus fidem probe: &amp; patientiam exerceat: sicut Medicut 
+      <lb ed="#H" n="51"/>saepe medicamentum aut potionem subministi at cuipiam, non tam 
+      <lb ed="#H" n="52"/>ad curandum jam contractum morbum, quam ad valetudinem 
+      bo<lb ed="#H" n="53" break="no"/>nam tuendam &amp; morbos praecavendos. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1200">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Eaque vel interna est vel externa, vel vtraque coniuncta. 
+      <lb ed="#H" n="55"/>Interna duplex: animi angestia, vel spiritus &amp; carnis lucta: ut 
+      appa<lb ed="#H" n="56" break="no"/>ret ex Abrah imi exemplo, quum jussus esset filium Isaacum offerre 
+      <lb ed="#H" n="57"/>in sacrificium, Genes. 22. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1214">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Externa, ut afflictio corporis per morbos aut plagas 
+      <lb ed="#H" n="59"/>Interdum utraque est conjuncta, ut conspicitur in exemplo Josepb 
+      <lb ed="#H" n="60"/>Patriarchae &amp; Jobi 
+      <lb ed="#H" n="61"/>Martyrium, est crux seu afflictio propter Christum ad perhiben 
+      <lb ed="#H" n="62"/>dum sanctum testimonium ipsi veritatique ipsius. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1230">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Voca ur perpessio Christi. 2 Cotinth. 1. versicul. 5. quia est afflictio 
+      <lb ed="#H" n="64"/>quam ob Christum perpetimur: &amp; quam in nobis perpetitur 
+      Chri<lb ed="#H" n="65" break="no"/>stus: &amp; quam conformes reddimur imagini Christi. Item persecutio 
+      o<lb ed="#H" n="66" break="no"/>veritatem &amp; iustitiam 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1243">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Estque vel cruentum vel incruentum. 
+      <lb ed="#H" n="68"/>Martyrium cruentum, est sanguinis &amp; vitae profusio, propter 
+      Chri<lb ed="#H" n="69" break="no"/>stum, ad veritatem Dei, tanquam extremo &amp; indubitato testimonio¬. 
+      <lb ed="#H" n="70"/>finaliter confirmandam. Joh. 21. 18. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1256">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Martyrium incruentum, est calumniarum, ignominiae carceris, 
+      ex<lb ed="#H" n="72" break="no"/>filii &amp; aliorum periculorum perpessio veritatis causa. 2. Cor. 4. 8. &amp; 6. 
+      <lb ed="#H" n="73"/>4, 8. &amp; 12 v. 10. 1. Petr. 4. v. 14. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1267">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Explorationis divinae &amp; martyrii fines sunt: 1. ut Capiti nostro 
+      <lb ed="#H" n="75"/>Christo conformes fiamus in passione &amp; morte. Roman. 8. 17, 29. 
+      <lb ed="#H" n="76"/>Philip. 3. 10. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1278">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>2. Ut alii fideles inde consolationem &amp; exemplum patientiae ad 
+      <lb ed="#H" n="78"/>perseverantiae capiant, &amp; in fide confirmentur. 2. Cor. 1. v. 6. &amp; cap. 4. 
+      <lb ed="#H" n="79"/>v. 12, 15. Coloss 1. v. 24. 2. Tim. 2. 9, 10. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1290">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>3. Ne confidamus in nobis ipsis. 2 Cor. 1. v. 9. 
+      <lb ed="#H" n="81"/>4. Ut confidamus in Deo, qui mortuos suscitat. 2. Cor. 1. v. 9. 
+      <lb ed="#H" n="82"/>5. Ut nos &amp; una alii nobiscum &amp; pro nobis Deum tanto 
+      arden<lb ed="#H" n="83" break="no"/>tius invocemus, 2. Cor. 2. 11 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1303">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>6. Ut piis liberatis Deus celebretur per multos gratiarum 
+      actio<lb ed="#H" n="85" break="no"/>ne pro nobis 2. Cor. 1. v. 11, 
+      <lb ed="#H" n="86"/>7. Ut afflictionibus, velut igne quodam, excoquamur &amp; perficia. 
+      <lb ed="#H" n="87"/>mur ut tandem salutem consequamur. Psalmo 66. versic 10. 1. Petr. 
+      <lb ed="#H" n="88"/>1. 7. Cor. 1., 32. 
+      <!--cod-MkL9py-0369.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>8. Ut sint certum testimonium, justi illius judicii futuri 2. 
+      Thesi<lb ed="#H" n="90" break="no"/>1. 7. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1327">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>9. Ut ne fidamus mundo, vel ab ipso pacem exspectemus. 
+      <lb ed="#H" n="92"/>10. Ut exercitatio illa per explorationem &amp; martyria sit nobis 
+      ve<lb ed="#H" n="93" break="no"/>rus commentarius Scripturae Sacrae. Nam reddit nos attentiores ad 
+      <lb ed="#H" n="94"/>consolationes illas quas Spiritus Dei in Scriptura tradit.  
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1340">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Hec de exploratione divina &amp; mar¬ 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1347">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>tyrio 
+      <lb ed="#H" n="97"/>Αὕτζον seu precium redemtionis pro nobis, est afflictio quam solus 
+      <lb ed="#H" n="98"/>Christus Dominus loco nostro pertulit in anima &amp; corpore ad satis. 
+      <lb ed="#H" n="99"/>faciendum pro nobis justitiae Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1360">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Interdum una eademque afflictio simul est castigatio paterna ob 
+      <lb ed="#H" n="101"/>eccatum ut homo emendetur, &amp; exploratio qua exerceatur &amp; 
+      pro<lb ed="#H" n="102" break="no"/>betur fides, charitas, spes, patientia misericordia; ut quum fideles 
+      pa<lb ed="#H" n="103" break="no"/>rentes habent liberos aegrotantes, aut cum fideles ipsi adulti 
+      aegro<lb ed="#H" n="104" break="no"/>tant vel aliis modis affliguntur. Parvuli fidelium cur morbis 
+      crucian<lb ed="#H" n="105" break="no"/>tur aut etiam moriuntur? Ut majorum duritia contundatur, 
+      miseri<lb ed="#H" n="106" break="no"/>cordia probetur? 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1381">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>Interdum una eademque afflictio est simul castigatio paterna, 
+      ex<lb ed="#H" n="108" break="no"/>loratio &amp; martyrium: ut cum fideles patiuntur persequutionem ob 
+      <lb ed="#H" n="109"/>Evangelium Jesu Christi. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1392">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Hactenus distinctio afflictionis peccatum consequu¬ 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1399">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>tae, si fines eius spectes 
+      <lb ed="#H" n="112"/>Ex effectis sumitur distributio generis in species 
+      <lb ed="#H" n="113"/>Species vero afflictionis plurimae sunt: ut privatio tot insignium 
+      <lb ed="#H" n="114"/>donorum animae &amp; corporis, quibus homo ante lapsum ornatus fuit, 
+      <lb ed="#H" n="115"/>obscuratio imaginis Dei ad quam erat conditus, pravitas &amp; corruptio 
+      <lb ed="#H" n="116"/>totius naturae peccatum sequuta, morbi innumerabiles, damna 
+      infi<lb ed="#H" n="117" break="no"/>nita, insecta noxia humano generi &amp; pecoribus post lapsum Adami &amp; 
+      <lb ed="#H" n="118"/>Evae a Deo immissa ad poenam hominum, ut muscae, vespae, cimices, 
+      <lb ed="#H" n="119"/>pediculi, &amp;c. bellicae clades, fames, pestis, persequutio ab hostibus, 
+      re<lb ed="#H" n="120" break="no"/>rumpublicarum eversio, inopia, infamia, anxietas animi, curae cor 
+      <lb ed="#H" n="121"/>exedentes, vita laboriosa, aerumnosa ac brevis, &amp; mille formae aliarum 
+      <lb ed="#H" n="122"/>calamitatum, quarum omnium coronis mors est 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1430">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Attamen ad ternatium docendi causa revocari possunt: aliae enim 
+      <lb ed="#H" n="124"/>pertinent ad principium, aliae ad medium, aliae ad finem vitae hominis: 
+      <lb ed="#H" n="125"/>uniuscuiusque. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1441">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>Si principium vitae hominis consideres, nascitur homo vere miser. 
+      <lb ed="#H" n="127"/>conceptus &amp; formatus in peccato, orbatus animae &amp; corporis bonis, 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1450">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>quae haereditatio jure possidere debebat, carens justitia &amp; sanctitate 
+      <lb ed="#H" n="129"/>originali, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1460">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>Si medium vitae hominis spectes, innumeris malis is est expositus 
+      <lb ed="#H" n="131"/>internis &amp; externis, exsul extra Paradisum, hospes &amp; inquilinus in 
+      <lb ed="#H" n="132"/>his terris: terram maledictam esse sentit ex sterilitate ejus &amp; duro 
+      la<lb ed="#H" n="133" break="no"/>bore quo colenda est: morbis variis est obnoxius, ἀτυχιματα &amp; 
+      fata<lb ed="#H" n="134" break="no"/>difficilia experitur, &amp;c. Mephiboseth ex casu claudicavit, Achaxia rex 
+      <lb ed="#H" n="135"/>Israelitatum per quendam clathrum in coenaculo suo cecidit &amp; 
+      ae<lb ed="#H" n="136" break="no"/>grotavit 2. Reg. 1. v. 2. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1480">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Si finem vitae intuearis, certa homini mors imminet, &amp; corporis in 
+      <lb ed="#H" n="138"/>pulverem terrae resolutio: sit tandem esca vermium. Multi etiam 
+      tra<lb ed="#H" n="139" break="no"/>gicos &amp; ignominiosos vitae exitus habent  
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1491">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Mors autem primo est duplex: spiritualis &amp; corporalis 
+      <lb ed="#H" n="141"/>Mors spiritualis, est privatio communionis cum Deo, &amp; gratiae 
+      <lb ed="#H" n="142"/>Dei creaturam rationalem in aeternum vivificantis Unde anima Dei: 
+      <lb ed="#H" n="143"/>luxari dicitur ab eo, quem Deus tanquam abalienatum a 
+      commu<lb ed="#H" n="144" break="no"/>nione ipsius abscindit, Jerem. 6. v. 8. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1507">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Ea appellatur etiam mors animae: non quod sit animae interitus aut 
+      <lb ed="#H" n="146"/>extinctio, sed quod sit separatio animae a Deo, &amp; sensus ac terror 
+      hor<lb ed="#H" n="147" break="no"/>ribilis irae &amp; judicii divini in anima deserta atque abjecta a Deo. Sic 
+      <lb ed="#H" n="148"/>enim est mortuus Adamus, adhuc corpore vivens in Paradiso, juxta 
+      <lb ed="#H" n="149"/>comminationem divinam, statim ubi de fructu verito ederat. Sic ad 
+      <lb ed="#H" n="150"/>Ephes 2. 1 per peccatum dicuntur mortui, qui in illo absque 
+      conver<lb ed="#H" n="151" break="no"/>sione ad Deum vivunt: &amp; c. 5 v. 14. jubetur surgere a mortuis, qui 
+      revo<lb ed="#H" n="152" break="no"/>catur a peccatis ad Deum, &amp; justificatus regeneratur: &amp; Paulus Rom. 
+      <lb ed="#H" n="153"/>7. se agnitione peccati sui &amp; irae Dei mortuum fuisse dici: 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1531">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Mors corporalis, est privatio vitae corporis, facta per animae ab ille 
+      <lb ed="#H" n="155"/>separationem propter peccatum  
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1540">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Ea homini integro naturale non fuit nec fuisset: 1. Quia est 
+      stipen<lb ed="#H" n="157" break="no"/>dium peccati, 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1550">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>2. Quia quicquid homini in statu integro naturalis fuit, a Deo 
+      <lb ed="#H" n="159"/>creatum est. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1559">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>3. Quia est infirmitas quam in hac natura patimur. 
+      <lb ed="#H" n="161"/>4. Quia mors contra naturam est &amp; contra ordinem a Deo in 
+      hu<lb ed="#H" n="162" break="no"/>mano genere principio creationis constitutum 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1570">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>I. Quia si mors, etiamsi homo non peccasset, naturalis fuisset; cur  
+      <lb ed="#H" n="164"/>non etiam morbus, senectus &amp; ipsa ignorantia; 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1579">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Estque mortis spiritualis appendix, tunc quidem cum Adamus pec- 
+      <lb ed="#H" n="166"/>casset dilata ex Dei misericordia, ut genus humanum servaretur. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1588">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Mors autem haec electis &amp; credentibus in Jesum Christum non est 
+      <lb ed="#H" n="168"/>pro peccatis satisfactio; sed est peccati abolitio, &amp; transitus in vitam 
+      <lb ed="#H" n="169"/>aeternam. Joh. 5. v. 24. Philip 123. Rom. 2. 24. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1599">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Secundo mors vel prima est, vel secunda 
+      <lb ed="#H" n="171"/>Mors trima, est in quam primo per peccatum homo incidit: de qua 
+      <lb ed="#H" n="172"/>iam dictum 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1611">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Mors secunda, est cui tum animae tum corpora damnatorum, id est. 
+      <lb ed="#H" n="174"/>toti homines addicuntur &amp; traduntur in aeternum, Matth. 10. v. 28. 
+      <lb ed="#H" n="175"/>Haec est horribilis &amp; tremenda illa mors, quae omnes damnatos 
+      ma<lb ed="#H" n="176" break="no"/>nebit: stagnum videlicet aeterni ignis infernalis. Apoc. 20. 14. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1624">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Fideles vero ab illa non laeduntur, Apoc. 2. v. 12 &amp; 20. 
+      <!--cod-MkL9py-0370.xml-->
+      <pb ed="#H" n="343"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>SI SUBJEETA spectes, afflictio peccatum consequuta, vel interna 
+      <lb ed="#H" n="2"/>est, vel externa Interna, anim: ae est: externa, corporis. Nam poena. 
+      <lb ed="#H" n="3"/>peccati non solo corporis cruciatu aut vitae hujus mortalitate 
+      meti<lb ed="#H" n="4" break="no"/>enda atque desinienda, sed animae etiam afflictione gravissima, nempo 
+      <lb ed="#H" n="5"/>ignorantia Dei &amp; rerum divinarum, mala conscientia, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1648">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Rursus e subjectis duplex est: publica &amp; privata 
+      <lb ed="#H" n="7"/>Publica ufflictio, est cujus sensus uno eodemque tempore ad plures 
+      <lb ed="#H" n="8"/>pertinet, cujusmodi est A luvium, vistatio urbium per terraemotum 
+      <lb ed="#H" n="9"/>aut per incendia, bellum, clades publica, malae bestiae, pestis, ficcitas 
+      diu<lb ed="#H" n="10" break="no"/>turna, 1. Reg. 17. pluvia intempestiva seu nimis diuturna, unde terra 
+      <lb ed="#H" n="11"/>nascentia laauntur, fames, tyrannis, persequutio, Ecclesiarum 
+      disper<lb ed="#H" n="12" break="no"/>sio, bonorum Principum obitus, communis servitus, seu commune 
+      exsi<lb ed="#H" n="13" break="no"/>lium omnium aut multorum, haeresis, schisma. Exemplum est in 
+      sub<lb ed="#H" n="14" break="no"/>versione regni Israelitici, item regni Judaici. Pii Principis obitus est 
+      <lb ed="#H" n="15"/>plerunje publicarum calamitatum primordium, ut Josiae pii regis 
+      <lb ed="#H" n="16"/>Judae exemplum ostendit 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1677">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Privata afflictio, est cujus sensus ad singulos pertinet, ut morbus 
+      <lb ed="#H" n="18"/>dolor, amissio honorum &amp; boni status, mopia, infamia, mors; &amp; si quid 
+      <lb ed="#H" n="19"/>velut domo clausum, in uno singuloque homine consideramus 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1688">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Distinctio haec afflictionum non est vana: quia gravior est afflictio 
+      <lb ed="#H" n="21"/>publica, quam privata: &amp; revera aliter is luget &amp; alio quodam sensu 
+      <lb ed="#H" n="22"/>qui cladem patriae, qui exsilium, exitiumque multorum, quam qui  
+      <lb ed="#H" n="23"/>unius suum.  Gravissimus certe dolor est videre, patriam non una; 
+      <lb ed="#H" n="24"/>clade premi, passim agros vastari, diripi, oppida incendi, everti, 
+      homi<lb ed="#H" n="25" break="no"/>nes capi, caedismatronas pol ui, virgines vitiari, &amp; quae alia comitati 
+      <lb ed="#H" n="26"/>solent bellum: 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1708">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Hujusmodi dolorem hauserut &amp; testati sunt etiam Prophetae ipsi 
+      <lb ed="#H" n="28"/>deplorantes &amp; lamentantes publicis calamitates patriae, velut Jer. 
+      o<lb ed="#H" n="29" break="no"/>4. 19. 29. Viscera mea, viscera mea, doleo, praecordia mea, fremit mihi 
+      co<lb ed="#H" n="30" break="no"/>meum, non possum silere: Nam sonum buccinae audis anima mea, clango 
+      <lb ed="#H" n="31"/>tem belli, Contritionem super contritionem proclamari, quia vastanda 
+      <lb ed="#H" n="32"/>est tota haec terra: repente vastabuntur tentoria mea, momento aulaei 
+      <lb ed="#H" n="33"/>mea Et in Threnis seu Lamentationibus capitibus quinque 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1729">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Amplius e subjectis afflictio est hominum omnium ordinum 
+      <lb ed="#H" n="35"/>summi, medii &amp; infimit 
+      </p>
+            <p xml:id="yyy8Uu-e64174-d1e1738">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Nam ne Reges quidem exemti sunt afflictioni: nulla exceptio 
+      <lb ed="#H" n="37"/>eos a poena tuetur, nullum privilegium contra morbos, contra mor 
+      <lb ed="#H" n="38"/>tem habent:  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

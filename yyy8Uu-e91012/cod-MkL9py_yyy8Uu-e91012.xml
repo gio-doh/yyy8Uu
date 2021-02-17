@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 32</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 32</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="192"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e91012"> <!-- l2-c32 -->
+            <head xml:id="yyy8Uu-e91012-Hd1e109">Caput 32</head>
+            <p xml:id="yyy8Uu-e91012-d1e112">
+      <!--cod-MkL9py-0219.xml-->
+               <pb ed="#H" n="192"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>CAPUT XXXII. 
+      <lb ed="#H" n="2"/>In quo secunda distinctio propriorum attribu¬ 
+      <lb ed="#H" n="3"/>torum Dei traditur.
+    </p>
+            <p xml:id="yyy8Uu-e91012-d1e128">
+               <lb ed="#H" n="4"/>Hucusque prima distinctio attributorum 
+      <lb ed="#H" n="5"/>DEI propriorum.
+    </p>
+            <p xml:id="yyy8Uu-e91012-d1e135">
+               <lb ed="#H" n="6"/>ECUNDO propria attributa DEI vel absolata sunt vel 
+      rela<lb ed="#H" n="7" break="no"/>Qoo¬  
+      </p>
+            <p xml:id="yyy8Uu-e91012-d1e143">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Absoluta attributa Dei, sunt quae Deo ab aeterno competunt 
+      et<lb ed="#H" n="9" break="no"/>iam absque creaturarum respectu, qualia sunt quae secundum essenti 
+      <lb ed="#H" n="10"/>am Deo conveniunt: cujusmodi sunt nomina lehova, Tah, El, 
+      Elo<lb ed="#H" n="11" break="no"/>him. &amp; pleraque supra enumerata. 
+      </p>
+            <p xml:id="yyy8Uu-e91012-d1e156">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Relativa attributa Dei, sunt quae lo tempore Deo competunt cum 
+      <lb ed="#H" n="13"/>telatione quadam ad creaturas, reali quidem in creaturis, sed rationis 
+      <lb ed="#H" n="14"/>duntaxat in Deo; qualia sunt omnia quae non secundum essentiam 
+      <lb ed="#H" n="15"/>Deo competunt, sed certum aliquod in creaturis ipsis opus Dei &amp; 
+      in<lb ed="#H" n="16" break="no"/>eas beneicivis, significant; ac proinde distinguuntur in Deo, non 
+      <lb ed="#H" n="17"/>essentiae sed eifectuum ratione: ut cum Deus dicitur Creator, 
+      Guber<lb ed="#H" n="18" break="no"/>nator mundi, Dominus coeli &amp; terrae; Deus noster, Redemtor noster, 
+      Li<lb ed="#H" n="19" break="no"/>berator noster, custos uniuscujusque. custos Israelis, Psal. 121. 3. 4. Rex, Ps. 
+      <lb ed="#H" n="20"/>5. v. 3. Vindex Israeiis, Sanctus Israelis, Sanctificator, Iudex totius 
+      mun<lb ed="#H" n="21" break="no"/>di. Sic relativa attributa Dei sunt, cum dicitur quod sit adorandus 
+      re<lb ed="#H" n="22" break="no"/>ligiose, ac proinde adoratur, quod sit laudandus &amp; celebrandus, 
+      benedi<lb ed="#H" n="23" break="no"/>ctus, elatus supra omnes Gentes, Psal. 113. 4. quod sic laudatus, Psal. 18. 
+      <lb ed="#H" n="24"/>4. Laudatum invocabo Iehovam: quod nemo ei par sit, Ps. 113. 5. quo- 
+      <lb ed="#H" n="25"/>sit superior Lege &amp; Dominus Legis, quod sit mirificus. Ps. 86. 9. ac 
+      sum<lb ed="#H" n="26" break="no"/>matim tota illa majestas Dei, quae ei respectu creaturarum &amp; supra 
+      <lb ed="#H" n="27"/>eas adscribitur, est attributum ejus relativum 
+      </p>
+            <p xml:id="yyy8Uu-e91012-d1e195">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Etsi autem talia tribuantur Deo cum relatione tantum rationis, si 
+      <lb ed="#H" n="29"/>Deum spectes: nam mutatio non sit ulla in Deo, sed tantum in 
+      crea<lb ed="#H" n="30" break="no"/>turis: tamen realiter, id est, vere Deo comperunt: nam vere est 
+      crea<lb ed="#H" n="31" break="no"/>tor, vere redemtor, &amp;c. Hoc potest ex similibus exemplis intelligi 
+      <lb ed="#H" n="32"/>Quum columna dicitur alicui dextra aut sinistra, &amp; Sol est tibi supra 
+      <lb ed="#H" n="33"/>zenith aut non; nulla sit in columna aut in Sole mutatio, sed tantum in 
+      <lb ed="#H" n="34"/>hom, ne ad columnam sese convertente, in te peregrinante ultra 
+      AE<lb ed="#H" n="35" break="no"/>quatorem: &amp; tamen reipsa dicitur columna dextra aut sinistra, &amp; 
+      Sc<lb ed="#H" n="36" break="no"/>reipsa dicitur esse supra zenith, aut non. Idem de Deo fatendum est. 
+      <lb ed="#H" n="37"/>etsi nulla in eo mutatio contingat  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

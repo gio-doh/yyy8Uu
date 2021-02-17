@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 28</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 28</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="185"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e87771"> <!-- l2-c28 -->
+            <head xml:id="yyy8Uu-e87771-Hd1e109">Caput 28</head>
+            <p xml:id="yyy8Uu-e87771-d1e112">
+               <lb ed="#H" n="83"/>CAPUT XIIX. 
+      <lb ed="#H" n="84"/>In quo de Sanctitate Dei.
+    </p>
+            <p xml:id="yyy8Uu-e87771-d1e119">
+               <lb ed="#H" n="85"/>TANCTITAS Dei, est proprietas ejus essentialis, per quam intele 
+      <lb ed="#H" n="86"/>CPligitur naturam ejus esse universe &amp; perfectissime justam, in quo 
+      <lb ed="#H" n="87"/>prorsus nihil vitii, nmhil iniqui, nihil mali, nihil labis inest, ac 
+      pro<lb ed="#H" n="88" break="no"/>inde esse etiam summe puram &amp; castam, amantemque &amp; causam 
+      purita<lb ed="#H" n="89" break="no"/>tis &amp; castitatis in creaturis rationalibus, contra autem summe abhone 
+      <!--cod-MkL9py-0212.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>rentem ab omni impuritate &amp; immunditie sive interna sive externa; 
+      <lb ed="#H" n="91"/>eamque severissime detestantem &amp; punientem; Exod. 15. 11. Quis est 
+      <lb ed="#H" n="92"/>sicut ti, magnificus sanctitate? Synecdochice sanctitatis nomine 
+      uni<lb ed="#H" n="93" break="no"/>versa iustitia Dei intelligitur? 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e145">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>Sanctus opponitur injusto, iniquo; prophano, inquinato, polluto, 
+      <lb ed="#H" n="95"/>contaminato, libidinoso: idemque est quod justus, aequus, purus, castus, 
+      <lb ed="#H" n="96"/>incontaminatus, impollutus, exsors vitiorum &amp; sordium 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e157">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>Axiomata. 
+      <lb ed="#H" n="98"/>I. Deus est sanctus non tantum essentia sua, &amp; per se, sed etiam 
+      ef<lb ed="#H" n="99" break="no"/>fectu, quod nos sanctificat &amp; a peccatorum sordibus emundet, &amp; 
+      ta<lb ed="#H" n="100" break="no"/>es esse velit, qualis ipse est. Hinc in Scriptura appellatur Sanctus 
+      Is<lb ed="#H" n="101" break="no"/>raelis, Jesa. 40. 25. &amp; capite 4 1. 20. Sanctus lacobi, Jesa. 29. 23. 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e173">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>II. Deus solus est vere &amp; proprie sanctus: sicut Channa Samuelis 
+      <lb ed="#H" n="103"/>mater ait 1. Sam. 2. v. 2, Nullus est sanctus, ut Iehova: 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e182">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Vsus in didascalia, 
+      <lb ed="#H" n="105"/>Ex eo quod Deus noster essentia sua &amp; effectis summe sanctus est 
+      <lb ed="#H" n="106"/>confirmatur. 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e193">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>I. Deum nostrum esse verum Deum, &amp; discernendum a diis 
+      gen<lb ed="#H" n="108" break="no"/>ilium, quos ipsimet Poetae Gentiles fatentur esse impuros, 
+      libidino<lb ed="#H" n="109" break="no"/>sos, scortatores &amp; adulteros, ac proinde non esse Deos. Ne de multi 
+      <lb ed="#H" n="110"/>dicam, exemplo sit Iuppiter, quem maximum Deorum Gentiles 
+      fa<lb ed="#H" n="111" break="no"/>iunt: Is uxorem habuit sororem germanam Iunonem: ea non 
+      con<lb ed="#H" n="112" break="no"/>tentus stupravit Danaen, postquam aureos numos in sinum ejus in 
+      <lb ed="#H" n="113"/>fudisset, quae stupri merces fuit: At Poetae, qui quasi de Deo loque 
+      <lb ed="#H" n="114"/>bantur, ne autoritatem creditae majestatis infrihgerent; finxerunt 
+      <lb ed="#H" n="115"/>ipsum in auteo imbre delapsum: eadem figura qua imbres ferreos 
+      di<lb ed="#H" n="116" break="no"/>cunt, cum multitudinem telorum sagittarumque describunt. 
+      Ra<lb ed="#H" n="117" break="no"/>puisse dicitur in aquila Catamitum, qui poeticus color est: nam aut 
+      <lb ed="#H" n="118"/>per legionem rapuit, cujus insigne aquila est: aut navis, in qua est 
+      im<lb ed="#H" n="119" break="no"/>positus, tutelam habuit in aquila figuratam: sicut tautum, cum 
+      ra<lb ed="#H" n="120" break="no"/>puit &amp; transvexit Europam. Eodem modo convertisse in bovem 
+      tra<lb ed="#H" n="121" break="no"/>ditur lo Inachi filiam: Ganymedem deperiit. Sed de impuro &amp; 
+      libi<lb ed="#H" n="122" break="no"/>dinoso isto Jove, aliisque diis, plura Gentilibus exprobrarunt Iustinus 
+      <lb ed="#H" n="123"/>Martyr, Athenagoras Atheniensis Philosophus Christianus, 
+      Tertullia<lb ed="#H" n="124" break="no"/>nus, Lactantius &amp; alii Patres Ecclesiastici: 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e237">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>II. Confirmatur inde, Deum nostrum discernendum esse a 
+      diabo<lb ed="#H" n="126" break="no"/>lo caeterisque spiritibus immundis &amp; obscoenis. Vult enim Deus 
+      <lb ed="#H" n="127"/>discerni a diabolo &amp; impuris daemoniis 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e248">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>III. Confirmatur hinc, Deum esse autorem sanctitatis, castitatis 
+      <lb ed="#H" n="129"/>&amp; puritatis in creaturis rationalibus; angelis &amp; hominibus. 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e258">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>IV. Confirmatur hinc, Deum esse hostem impuritatis &amp; 
+      obscon<lb ed="#H" n="131" break="no"/>nitatis, omniumque libidinum vagarum: 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e267">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>Vsus in ἔλεγχῳ. 
+      <lb ed="#H" n="133"/>I. Deus est sanctus: Non est igitur autor peccati, non probat 
+      va<lb ed="#H" n="134" break="no"/>gas libidines, non delectatur impuritate, Habac. 1. v. 13. Puriores 
+      ocu<lb ed="#H" n="135" break="no"/>is, quam ut adspicias malum &amp; intueri molestiam non potet 
+      <lb ed="#H" n="136"/>II. Deus est sanctus: Ergo non parcit impuris &amp; libidinosis. 
+      Ex<lb ed="#H" n="137" break="no"/>emplo est David, cui Deus non pepercit, sed propter adulterium cum 
+      <lb ed="#H" n="138"/>Batliseba commissum severe eum punivit: 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e287">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>III: Deus est sanctus: Non est igitur similiis diis gentilium, qui  
+      <lb ed="#H" n="140"/>turpitudine &amp; stupris sunt infames 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e296">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>IV. Deus est sanctus: Ergo conram eo nemo hominum in se 
+      con<lb ed="#H" n="142" break="no"/>sideratus potest consistere: Fassi id sunt Bethschemeschitae, 1. Sam, 6 
+      <lb ed="#H" n="143"/>v. 20. Quis possit consistere coram Iehova Deo sanctissimo isto. 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e307">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Vsus in ἐπανορυώσς 
+      <lb ed="#H" n="145"/>I. Dei sanctitas nostram impuritatem arguit: nam qui ad 
+      imagi<lb ed="#H" n="146" break="no"/>nem Dei quae complectitur etiam sanctitatem &amp; justitiam conditi 
+      su<lb ed="#H" n="147" break="no"/>mus, ab eo quam longissime discessimus. Longius a Deo absumus, 
+      <lb ed="#H" n="148"/>quam a terrae profundissimo centro coeli distat summitas. Ideo cum 
+      <lb ed="#H" n="149"/>Scriptura Deum sanctum praedicat, nostram impuritatem damnat,  
+      <lb ed="#H" n="150"/>nullam in nobis inveniri sanctitatis guttam indicat: Ea est miseria 
+      no<lb ed="#H" n="151" break="no"/>stra a natura 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e329">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>II. Dei sanctitas nostram superbiam contundit. Nam (quae 
+      inge<lb ed="#H" n="153" break="no"/>nita est nobis omnibus superbia) semper nobis videmur sancti, 
+      nisi<lb ed="#H" n="154" break="no"/>nanifestis argumentis foeditatis &amp; impuritatis nostrae 
+      convinca<lb ed="#H" n="155" break="no"/>mur. Non autem convincimur, si in nos duntaxat ipsos respicimus 
+      <lb ed="#H" n="156"/>&amp; non in Deum quoque, imo praecipue in Deum, qui unita est 
+      regu<lb ed="#H" n="157" break="no"/>la, ad quam exigendum est istud judicium 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e348">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>III. Dei sanctitas nostram hypocrisium detegit. Nam quia ad 
+      hy<lb ed="#H" n="159" break="no"/>pocrisiu natura propensi sumus omnes, ideo inanis quaedam 
+      sancti<lb ed="#H" n="160" break="no"/>tatis species pro sanctitate ipsa nobis abunde satisfacit. Et quia 
+      ni<lb ed="#H" n="161" break="no"/>hil intra nos vel circum apparet, quod non sit plurima obscoenitate 
+      <lb ed="#H" n="162"/>inquinatum: quod paulo minus foedum est, pro purissimo arridet: 
+      <lb ed="#H" n="163"/>quam diu mentem nostram intra humanae pollutionis fines 
+      conti<lb ed="#H" n="164" break="no"/>nemus. Summa: quantisper in reputanda nostra safictitate, extra nos 
+      <lb ed="#H" n="165"/>ad Deum non respicimus, propria sanctitate pulchre contenti nobis 
+      <lb ed="#H" n="166"/>suavissime blandimur, &amp; tantum non semidei videmur. 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e372">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>IV. Sanctitas Dei in¬primis condemnat Antichristum, qui, cum 
+      <lb ed="#H" n="168"/>sit sceleratus, libidinosus, imputus scortator &amp; Sodomita, tamen 
+      su<lb ed="#H" n="169" break="no"/>perbissime titulum sanctissimi Patris sibi tribui vult &amp; gaudet 
+      Euse<lb ed="#H" n="170" break="no"/>bius Caesariensis Episcopus libro octavo de demonstratione Evangeli 
+      <lb ed="#H" n="171"/>ca, Demonstrat. secunda, docet, nullum hominem sanctum 
+      sancto<lb ed="#H" n="172" break="no"/>rum aut sanctissimum appellandum 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e390">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>V. Sanctitas Dei nostram nobis indignitatem ob oculos ponit, &amp; 
+      <lb ed="#H" n="174"/>exprobrat, quo nobis ipsis serio displiceamus: Ac sane quoties Deum 
+      <lb ed="#H" n="175"/>per preces adimus, conscientia nostra nos accusare possit: quid tu in 
+      <lb ed="#H" n="176"/>vocas Deum sanctum, qui es impurus? quid tu accedis ad sanctum Is 
+      <lb ed="#H" n="177"/>raelis, coram quo pollutum nihil consistit: Indigni certe sumus, qui cora 
+      <lb ed="#H" n="178"/>sanctissimo Deo nostro compareamus: Huc facit quod Josua populo 
+      <lb ed="#H" n="179"/>Israelitico dicit ci24. 19: Non potestis colere Iehovam, ga Deus sanctus est; 
+      <!--cod-MkL9py-0213.xml-->
+      <pb ed="#H" n="186"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Sic Jesaias cum Seraphinos audivisset clamantes ad se invicem 
+      <lb ed="#H" n="2"/>Sanctus, sanctus, sanctus est Iehova exercituum, implet totam hanc 
+      ter<lb ed="#H" n="3" break="no"/>ram gloria eius: &amp; commoti essent postes liminum a voce inclamantes 
+      <lb ed="#H" n="4"/>&amp; domus ipsa impleta esset fumo: dixit: Hei mihi quod exscindor, quia 
+      <lb ed="#H" n="5"/>vir pollutus labiis sum, &amp; in medio populi polluti labiis habito: cum 
+      Re<lb ed="#H" n="6" break="no"/>gem illum Iehovam exercituum viderint oculi mei, Jesa. 6. v. 3, 4, 5. 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e429">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Sed videamus usum in Πανθειαιῳ 
+      <lb ed="#H" n="8"/>I. Deus est sanctus: Ergo sancte, pure, caste, amandus &amp; 
+      colen<lb ed="#H" n="9" break="no"/>dus 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e440">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>II. Deus est sanctus: Laudibus igitur efferendus, I. Cor. 16. 10. 
+      <lb ed="#H" n="11"/>Psal. 99. 9. Exaltate Iehovam Deum nostrum &amp; incurvate vos ad 
+      <lb ed="#H" n="12"/>montem sanctitatis eiusi quia sanctus est Iehova Deus noster, Psal. 
+      15o<lb ed="#H" n="13" break="no"/>I. Laudate Deum fortem de sanctitate eius. Exemplo beatorum 
+      an<lb ed="#H" n="14" break="no"/>gelorum, quorum exclamat alter ad alterum, Sanctus, sanctus, sanctu 
+      <lb ed="#H" n="15"/>est Iehova exercituum. Jes. 6. 3. Apoc. 3. v. 8. Psal. 71. 22. Etiam 
+      ego<lb ed="#H" n="16" break="no"/>celebraturus sum te instrumento nablii, fidemque tuam Deus mi: psallam 
+      <lb ed="#H" n="17"/>tibi cithara, o sancte Israelis 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e462">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>III. Deus est sanctus: Ergo &amp; nos qui filii Dei sumus, sancti 
+      si<lb ed="#H" n="19" break="no"/>mus, nobisque religiose caveamus ne nos ullis peccatis polluamus &amp; 
+      <lb ed="#H" n="20"/>abominabiles Deo reddamus. Quo pertinet exhortatio in 
+      Scriptu<lb ed="#H" n="21" break="no"/>ris saepe inculcata, veluti Lev. 11. v. 44. Ego Iehova sum Deus vester 
+      <lb ed="#H" n="22"/>ut sanctificetis vos, &amp; sitis sancti, quia ego sanctus sum. Similiter 
+      Levi<lb ed="#H" n="23" break="no"/>19. 2. &amp; c. 20. v. 26. 2. Pet. 1. v. 15, 16. Sicut is qui vos vocavit 
+      san<lb ed="#H" n="24" break="no"/>ctus est, ipsi quoque sancti in omni conversatione reddamini: Propterea 
+      <lb ed="#H" n="25"/>quod scriptum est: Sancti estote, nam ego sanctus sum 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e485">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>IV. Deus est sanctus: Ergo non est exacerbandus, Psal 78. 41. 
+      <lb ed="#H" n="27"/>V. Deus est sanctus: Ergo est a nobis sancto corde, sancto ore 
+      <lb ed="#H" n="28"/>sanctis precibus invocandus. In precibus cogitandum nobis qualem 
+      <lb ed="#H" n="29"/>Deum invocemus, nempe sanctum &amp; castum, sicut Christus ipse orat  
+      <lb ed="#H" n="30"/>Joh. 17. 11. Pater sancte serva eos per nomen tuum. Noti sunt versus 
+      <lb ed="#H" n="31"/>Philippi Melanchthonis: 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e503">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Casta Deus mens est, casta vult mente vocari, 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e510">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Et castas jussit pondus habere preces: 
+      <lb ed="#H" n="34"/>VI. Deus est sanctus: Ergo illius nomen sanctificandum, sancte 
+      <lb ed="#H" n="35"/>usurpandum &amp; nequaquam polluendum, nequaquam 
+      prophanan<lb ed="#H" n="36" break="no"/>dum. 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e523">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Vsus in consolatione. 
+      <lb ed="#H" n="38"/>I. Deus est sanctus: Ergo non perdet Ecclesiam suam quam 
+      san<lb ed="#H" n="39" break="no"/>ctificavit, non perdet fideles suos Oseae c. 11. v. 9. Non perficiam aestum, 
+      <lb ed="#H" n="40"/>irae meae, non perdam amplius Ephraimum: quia Deus fortis sum, ac non 
+      <lb ed="#H" n="41"/>vir, in medio tui sanctus, non autem invasurus civitatem. Habac. 1. 
+      <lb ed="#H" n="42"/>vers. 12. Iehova Deus meus est, sanctus meus, non moriemus. 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e541">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>II. Deus est sanctus: Ergo vindicabit sanguinem nostrum &amp; 
+      o<lb ed="#H" n="44" break="no"/>mnium fidelium a persequutoribus fusum, ideo orant martyres, ut i 
+      <lb ed="#H" n="45"/>quamprimum fiat, Apoc. 6. v. 10. Usquequo Domine qui sanctus es &amp; 
+      <lb ed="#H" n="46"/>verax, non judicus &amp; sanguinem nostrum vindicas, eum reposcendo 
+      ab<lb ed="#H" n="47" break="no"/>iis qui habitant in terra: 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e557">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>III. Deus est sanctus: Ergo sancte praestabit promissam opem &amp; 
+      <lb ed="#H" n="49"/>salutem, Psal. 22. v. 4. Atqui senctus es, permanens, pfecta laus Israelis. 
+      </p>
+            <p xml:id="yyy8Uu-e87771-d1e567">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Tantum de uoluntate Dei: sequitur de ejus Potentia. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

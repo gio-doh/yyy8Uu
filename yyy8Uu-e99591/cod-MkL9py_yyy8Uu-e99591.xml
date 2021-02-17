@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 21</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 21</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="410"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e99591"> <!-- l6-c21 -->
+            <head xml:id="yyy8Uu-e99591-Hd1e109">Caput 21</head>
+            <p xml:id="yyy8Uu-e99591-d1e112">
+               <lb ed="#H" n="91"/>CAPUT XXI. 
+      <lb ed="#H" n="92"/>De descensu Christi ad inferos.
+    </p>
+            <p xml:id="yyy8Uu-e99591-d1e119">
+               <lb ed="#H" n="93"/>NSymbolo Apostolico quale jam habemus, post sepulturam 
+      <lb ed="#H" n="94"/>Christi adiicitur articulus de descensu Christi ad inferos. Eu enim 
+      <lb ed="#H" n="95"/>sic profitemur, quum dicimus de Christo; Descendit ad inferos 
+      <lb ed="#H" n="96"/>Quae verba quidem initio in Symbolis non exstiterunt: nam 
+      Gle<lb ed="#H" n="97" break="no"/>mens I. Episcopus Romanus in praedicationis Apostolicae 
+      expositio<lb ed="#H" n="98" break="no"/>ne, constitutionum Apostolicarum libro sexto cap. undecimo, ut 
+      ha<lb ed="#H" n="99" break="no"/>betur tomo primo Conciliorum Coloniae excusorum, procurante 
+      <lb ed="#H" n="100"/>Laurentio Surio Monacho pagina nonagesima, verba illa non 
+      ha<lb ed="#H" n="101" break="no"/>bet: ut nec pagina centesima trigesima nona in epistola ad Jacobum 
+      <lb ed="#H" n="102"/>fratrem Domini, in qua Symboli articulos refert: nec Ireneus libro 
+      <lb ed="#H" n="103"/>primo adversus haereses, capite secundo recitans summam fidei 
+      Apo<lb ed="#H" n="104" break="no"/>stolicae: nec Tertullianus ter Symbolum fidei Christianae repetens 
+      <lb ed="#H" n="105"/>nempe libro de velandis virginibus, cap. primo: item libro de 
+      Prae<lb ed="#H" n="106" break="no"/>scriptionibus adversus haereticos, cap. decimotertio: Item libro d 
+      <lb ed="#H" n="107"/>Trinitate adversus Praxean, cap. secundo: Nec illa habet Iustinus 
+      <lb ed="#H" n="108"/>Martyr fidei Christianae rationem reddens in Apologia pro 
+      Chri<lb ed="#H" n="109" break="no"/>stianis: Nec Origenes, initio librorum ωοιαρχῳν, id est, de principiis 
+      <lb ed="#H" n="110"/>Nec Angustinus in libro de fide &amp; Symbolo, item in quatuor libris 
+      <lb ed="#H" n="111"/>de Symbolo ad Catechumenos, cum totum Symbolum quitquies 
+      <lb ed="#H" n="112"/>exponat: Nec Cyrillus in epistola ad Nestorium. Ruffinus Aquile 
+      <lb ed="#H" n="113"/>jensis Presbyter in explicatione Symboli monet, non haberi in 
+      Sym<lb ed="#H" n="114" break="no"/>bolo Romanae Ecclesiae, nec apud Orientales, ut refert ipsemet 
+      Bel<lb ed="#H" n="115" break="no"/>larminus in Controversia de Christo, libro quarto qui est de Christi 
+      <lb ed="#H" n="116"/>anima, cap. sexto. Nec illa verba habet Leo I. Papa Romanus 
+      Sym<lb ed="#H" n="117" break="no"/>pbolum explicans in celeberrima illa ad Flavianum Episcopum 
+      Con<lb ed="#H" n="118" break="no"/>stantinopolitanum epistolam contra Eutychetis haeresim, quae epistola 
+      <lb ed="#H" n="119"/>exstat primo tomo Conciliorum pagina septingentes. triges. quinta 
+      <lb ed="#H" n="120"/>ut nec epistolam nonages. quinta quae est ad Leonem Augustum 
+      pagi<lb ed="#H" n="121" break="no"/>gina octingentes. decimatertia. Nec Gregorius Magnus Papa 
+      Ro<lb ed="#H" n="122" break="no"/>manus, cujus Symbolum subjectum est vitae &amp; Epitaphio ejus 
+      tom<lb ed="#H" n="123" break="no"/>rimo operum ejus Basileae excusorum Anno quinquagesimo prime 
+      <lb ed="#H" n="124"/>seculi superioris, in secundo ternione, nempe B. facie secunda. Nec 
+      <lb ed="#H" n="125"/>Damasus Papa, cujus Symbolum recitatur tomo primo 
+      Concilio<lb ed="#H" n="126" break="no"/>rum pag. quadringentes. sexages. prima. Quin etiam verba illa non 
+      <lb ed="#H" n="127"/>habentur in laudatissimo illo Niceno Symbolo: nec in Symbolo 
+      Sar<lb ed="#H" n="128" break="no"/>dicensis Concilii, quod recitatur eodem tomo primo conciliorum 
+      <lb ed="#H" n="129"/>pag. quadringentes. viges. tertia: nec in Symbolo Concilii primi 
+      Con<lb ed="#H" n="130" break="no"/>stantinopolitani, eodem tomo pag. quadringentes. octoges. nona: nec 
+      <lb ed="#H" n="131"/>in Symbolo Concilii primi Toletani, eodem tomo pagina 
+      quingen<lb ed="#H" n="132" break="no"/>tes. viges. tertia: nec in Symbolo Concilii Ephesini, eodem tomo 
+      pag<lb ed="#H" n="133" break="no"/>sexcentes. quinta: Nec in Symbolo Concilii Toletani VI. tomo 
+      se<lb ed="#H" n="134" break="no"/>cundo Concil. pag. septingentes. quadrages. prima &amp; secunda: nec in 
+      <lb ed="#H" n="135"/>Symbolo Concilii Toletani XI. eodem tomo pagina octingentes. 
+      <lb ed="#H" n="136"/>octoges. prima &amp; secunda: nec in Symbolo Concilii Mediolanensis. 
+      <lb ed="#H" n="137"/>eodem tomo, pag. octingentes. nonages. nona: nec in Symbolo 
+      Aga<lb ed="#H" n="138" break="no"/>thonis Papae Romani &amp; Romanae Synodi centum vigintiquinque 
+      <lb ed="#H" n="139"/>Episcoporum, eodem tomo secundo Concil. pag. nongentes. vigesa 
+      <lb ed="#H" n="140"/>tertia: nec in Symbolo Sophronij Episcopi Constantinopolitani, 
+      eo<lb ed="#H" n="141" break="no"/>dem tomo pag. nongentes. septuages. quinta: nec in Symbolo 
+      Con<lb ed="#H" n="142" break="no"/>cil. Francofordiae ad Moenum celebrati, tomo tertio Concil. pag. 
+      du<lb ed="#H" n="143" break="no"/>centes. quinquages. prima: nec in Symbolo Concilii VVormatiensis, 
+      <lb ed="#H" n="144"/>eodem tomo tertio Conciliorum, pag. quingentes. viges. prima 
+      <lb ed="#H" n="145"/>nec habetur in Symbolo quod refertur libro primo capitulorum 
+      <lb ed="#H" n="146"/>Caroli Magni &amp; Ludovici Pij cap. octogesimo secundo: nec in 
+      Sym<lb ed="#H" n="147" break="no"/>bolo quod recitatur in Edictis Justiniani Imperatoris Codice de 
+      <lb ed="#H" n="148"/>Summa Trinitate I. 5. &amp; 6. nec in Symbolo quod recitatur in Edicto 
+      <lb ed="#H" n="149"/>Constantini Imperatoris, tomo primo Conciliorum pag. trecentes. 
+      <lb ed="#H" n="150"/>decimanona &amp; vigesima: nec in Symbolo Tharasui Episcopi 
+      Con<lb ed="#H" n="151" break="no"/>stantinopolitani, tomo tertio Concil. pagina octoges. prima: nec in 
+      <lb ed="#H" n="152"/>Symbolo Rabani Magnentij Mauri, quod proponit libro secundo 
+      <lb ed="#H" n="153"/>de institutione Clericorum, cap. quinquagesimo septimo. Sed non 
+      <lb ed="#H" n="154"/>addo plura Symbola in quibus particula haec de descensu Christi ad 
+      <lb ed="#H" n="155"/>inferos omittitur? 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e258">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Nos vero libentissime eam amplectimur &amp; secundum Scripturas 
+      <lb ed="#H" n="157"/>ita declaramus, quod descensus Christi ad inferos, sit voluntaria 
+      de<lb ed="#H" n="158" break="no"/>missio suiipsius ad sufferendum atque eluctandum dolores inferni, 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e270">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>uibus constrictos nos teneri in aeternum oportebat, nisi gratia &amp; 
+      <lb ed="#H" n="160"/>potentia Christi subvenisset, Hic, inquam, descensus Christi est 
+      pro<lb ed="#H" n="161" break="no"/>ectio suiipsius in gravissimos dolores inferni qui nobis aeternum 
+      pa<lb ed="#H" n="162" break="no"/>tiendi fuissent, absque illo fuisset vindice &amp; Servatore nostro: est 
+      de<lb ed="#H" n="163" break="no"/>mersiosui in profundissimam illam abyssum irae Dei adversus pec 
+      <lb ed="#H" n="164"/>cata nostra: ingressio in angustias inenarrabiles infernalesque 
+      terro<lb ed="#H" n="165" break="no"/>res &amp; cruciatus animae, quales experiuntur damnati, &amp; experientur 
+      <lb ed="#H" n="166"/>aeternum in infernoe. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e292">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Hic descensus ad inferos aequipollentibus locutionibus praedictus 
+      <lb ed="#H" n="168"/>fuit. Psalm. 69. 3. Demersus sum in lutum profundissimum, ubi 
+      no<lb ed="#H" n="169" break="no"/>est consistendi locus: ingressus sum in profunditates aquarum, &amp; 
+      flu<lb ed="#H" n="170" break="no"/>ctus aquae inundavit me. Psalm. 116. vers. 3. Circumdederunt me 
+      <lb ed="#H" n="171"/>dolores mortis &amp; angores inferni obvenerunt mihi; angustiam &amp; 
+      <lb ed="#H" n="172"/>moerorem inveni. Psalm. 4c. 3. gratias agit David ut typus, Christus 
+      <lb ed="#H" n="173"/>vero ut veritas typi, quod Deus eduncrit eum e lacu tumultuoso, &amp; 
+      <lb ed="#H" n="174"/>luto coenoso, &amp; Psalm. 86. vers. 13. quod cripuerit eum ab inserno 
+      imo<lb ed="#H" n="175" break="no"/>Ergo Christus descensurus erat in insernum imum, hoc est, in 
+      vora<lb ed="#H" n="176" break="no"/>ginem profundissimai angorum animae insernalium 
+      <!--cod-MkL9py-0438.xml-->
+      <pb ed="#H" n="411"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Tunc autem Christus descendit ad inferos, cum in horto luctatus 
+      <lb ed="#H" n="2"/>est cum judicio &amp; ira Dei aeternaeque mortis horrore &amp; totus sudore, 
+      <lb ed="#H" n="3"/>sanguineo fluxit: &amp; exsecratio factus est pro nobis in cruce¬ 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e331">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Ac proinde vivus ad inferos descendit &amp; gehennae cruciatus 
+      gu<lb ed="#H" n="5" break="no"/>stavit, non autem mortuus. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e340">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Unde intelligitur Christum descendisse ad inferos non secundum 
+      <lb ed="#H" n="7"/>locum, nempe substantia animae in locum damnatis destinatum ex 
+      <lb ed="#H" n="8"/>corpore migrando, quia illa ingressus est Paradisum, illam deposuit, 
+      <lb ed="#H" n="9"/>in manus Patris: sed secundum virtutem qua inferos ejusque dolore 
+      <lb ed="#H" n="10"/>in se expugnavit nostro bono¬ 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e356">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>In symbolo quidem Apostolico articulus de descensu Christi ad 
+      <lb ed="#H" n="12"/>inferos post articulum de sepultura ponitur, sed id fit ideo, ut primo 
+      <lb ed="#H" n="13"/>recitentur quae externe Christo expresse in corpore evenerunt, dein 
+      <lb ed="#H" n="14"/>de demum quae interne in anima. Et controversiae motae ab Arianis 
+      <lb ed="#H" n="15"/>&amp; Apollinaristis, qui animam humanam a Christo assumtam 
+      nega<lb ed="#H" n="16" break="no"/>bant, satis testantur circa illa tempora articulum de descensu 
+      Christi<lb ed="#H" n="17" break="no"/>ad inferos Symbolo insertum, non ut novus articulus fidei constitue 
+      <lb ed="#H" n="18"/>retur; antea ignoratus: sed ut haeresis Arianorum &amp; 
+      Apollinarista<lb ed="#H" n="19" break="no"/>rum excluderetur, quum Patres orthodoxi statuerent, ex nulla 
+      rema<lb ed="#H" n="20" break="no"/>gis &amp; firmius probari posse, animam humanam a Christo assumtam. 
+      <lb ed="#H" n="21"/>quam ex descensu ad inferos. Animam enim Christi statuerunt de 
+      <lb ed="#H" n="22"/>scendisse ad inferos, non corpus, quod &amp; in cruce mortuum 
+      pependi<lb ed="#H" n="23" break="no"/>&amp; postea in sepulcro jacuit donec resuscitaretur ex mortuis. Ac ut ad 
+      <lb ed="#H" n="24"/>nostram ex positionem articuli hujus redeamus, anima Christi 
+      pro<lb ed="#H" n="25" break="no"/>prie &amp; per se cruciatus infernales est experta, cum demersa fuit in 
+      <lb ed="#H" n="26"/>tristitiam inenarrabilem &amp; dolores mortis spiritualis &amp; inferni: 
+      cor<lb ed="#H" n="27" break="no"/>bus vero secundum συμπαθειαν sive consensum partium 
+      humanita<lb ed="#H" n="28" break="no"/>is essentialium suo item modo expertum est cruciatus infernales. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e400">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Sines seu usus descensus Christi ad inferos sunt:  
+      <lb ed="#H" n="30"/>I. Ut Christus per passionem animae, nostras animas redimeret.  
+      <lb ed="#H" n="31"/>Non enim soli corporali morti, id est, separationi animae a corpore 
+      <lb ed="#H" n="32"/>verum etiam morti spirituali seu χιικῆ, id est, desertioni animae a 
+      <lb ed="#H" n="33"/>Deo, salus nostra accepta ferenda est: cujus mortis spiritualis vim 
+      a<lb ed="#H" n="34" break="no"/>nima Christi oixoγρμιxώs sensit, quemadmodum voce magna in cru  
+      <lb ed="#H" n="35"/>testatus est exclamans: Deus mi, Deus mi, cur deseruisti me. Matth. 
+      <lb ed="#H" n="36"/>27. 46. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e423">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>II. Ut in se inferos expugnaret pro nobis, &amp; nos a descensu ad 
+      <lb ed="#H" n="38"/>inferos liberatos ab aeternis angoribus &amp; cruciatibus inferni 
+      immu<lb ed="#H" n="39" break="no"/>nes praestaret, 1. Cor. 15. v. 7. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e434">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>III. Ut in tentationibus &amp; anxietatibus animi consolationem E 
+      <lb ed="#H" n="41"/>haberemus, quod Dominus noster Jesus Christus in animi angustias 
+      <lb ed="#H" n="42"/>&amp; terrores inenarrabiles conjectus fuit, ne ab ullis angoribus animi 
+      <lb ed="#H" n="43"/>absorberemur, sed certo sciremus, quantumvis in illis versemur, inde 
+      <lb ed="#H" n="44"/>tamen emersuros &amp; quasi e profundis inferis exituros, 1. Sam. 2. v. 6. 
+      <lb ed="#H" n="45"/>Iehova morte afficit, &amp; in vitam restituit: facit descendere ad 
+      infe<lb ed="#H" n="46" break="no"/>ros, &amp; educit, id est, sinit pios devenire in angores animae ingentes 
+      <lb ed="#H" n="47"/>quasi illa in cruciatus infernales detruderetur, &amp; inde cripit: ac 
+      proin<lb ed="#H" n="48" break="no"/>de ut sic nobis adimeret metum, qui naturaliter omnes homines 
+      mor<lb ed="#H" n="49" break="no"/>tem cogitantes vel morituros angit &amp; urget: quandoquidem ipsi 
+      <lb ed="#H" n="50"/>Dominus cum mortis horrore &amp; cum inferorum doloribus, 
+      conser<lb ed="#H" n="51" break="no"/>tis manibus luctando, retulit de illis victoriam &amp; triumphum egit: 
+      <lb ed="#H" n="52"/>nostro bono, Hebr. 2. 15. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e467">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Haec nostra est de hujus articuli expositione sententia. Interim 
+      ta<lb ed="#H" n="54" break="no"/>men non negamus, prout diversus est usus phraseos istius, descenderet 
+      <lb ed="#H" n="55"/>ad inferos, posse etiam recte dici, Christum descendisse ad inferos 
+      <lb ed="#H" n="56"/>dum post sepulturam veram velut in potestatem sepulcri venit, in quo 
+      <lb ed="#H" n="57"/>usque ad tertium diem detentus &amp; sic consociatus est annumeratuso 
+      <lb ed="#H" n="58"/>mortuis pro quibus mortuus fuerat, ac si jam non amplius esset, Hoc 
+      <lb ed="#H" n="59"/>non pugnat cum nostra sententia, quia ipsum sequutum est 
+      passio<lb ed="#H" n="60" break="no"/>nem &amp; mortem Christi. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e489">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Nec diffitemur, Christum descendisse ad inferos virtute, quatenus 
+      <lb ed="#H" n="62"/>potestatibus tenebrarum &amp; inferorum demonstravit virtutem suam 
+      <lb ed="#H" n="63"/>divina easque superavit &amp; nullum jus in electos sibi a Patre ab aeterno 
+      da<lb ed="#H" n="64" break="no"/>tos habere validissime manifestavit. Sic Patres Christum ad inferos 
+      <lb ed="#H" n="65"/>descendisse senserunt &amp; allegoriis a re bellica petitis illustrarunt  
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e505">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Haec etiam sententia cum nostra expositione non pugnat, quum 
+      <lb ed="#H" n="67"/>subordinatae sint &amp; se mutuo consequantur. Nam primo Christus 
+      <lb ed="#H" n="68"/>Satanam, mortem &amp; inferos justitia vicit, pro nobis Legi &amp; justitiae 
+      <lb ed="#H" n="69"/>Dei perfectissime satisfaciendo: deinde potentia sua eosdem 
+      hoste<lb ed="#H" n="70" break="no"/>debellavit, atque sic ad inferos descendit virtute sua victrice, non 
+      au<lb ed="#H" n="71" break="no"/>tem substantia animae. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e523">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Papistae in hoc articulo inter se dissentiunt, ut manifestum est 
+      ex<lb ed="#H" n="73" break="no"/>controversia Bellarmini de Christo, libro quarto qui est de 
+      Christ<lb ed="#H" n="74" break="no"/>anima. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e535">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>Nam primo vetus Romana Ecclesia hunc articulum fidei non 
+      ha<lb ed="#H" n="76" break="no"/>buit in suo symbolo, ut ipsemet Bellarminus ex Ruffino refert capite 
+      <lb ed="#H" n="77"/>sexto libri quarti de Christo: hodierna autem Ecclesia Romana eum 
+      <lb ed="#H" n="78"/>habet 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e548">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Deinde in ejus expositione inter se mire dissentiunt, sic ut 
+      inter<lb ed="#H" n="80" break="no"/>pretationes illorum conciliari nequeant, ut videre est in eodem libro 
+      <lb ed="#H" n="81"/>Bellarmini, cap. 15. &amp; 16. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e559">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>plurimi ex illis &amp; hoc tempore plerique contendunt Christum 
+      <lb ed="#H" n="83"/>substantia animae suae in carcerem infernalem localiter descendisse 
+      <lb ed="#H" n="84"/>quod nos pernegamus. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e570">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>Opinionem suam Papani conantur firmare ex aliquot Scripturae 
+      <lb ed="#H" n="86"/>locis, quae a corruptelis illorum ordine vindicabimus 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e579">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Primus locus, qui tamen(ut ωροθεραπειᾳ utens Bellarminus 
+      fate<lb ed="#H" n="88" break="no"/>tur) non convincit, sed probabiliter suadet, est Psalm. 106. vers. 16. ve. 
+      <lb ed="#H" n="89"/>juxta Hebraeam supputationem Psalm. 107. v. 16. Contrivit porta. 
+      <lb ed="#H" n="90"/>chalybeas &amp; vectes ferreos confregit. Addit Bellarminus, certum esse  
+      <lb ed="#H" n="91"/>his verbis ad literam tractari de liberatione ab AEgypto¬ 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e595">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>RESP. Primo, probabilibus fides Christiana nec nititur, nec nit 
+      <!--cod-MkL9py-0438.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>debit, ut Tho nas Aquinas ipsemet agnoscit, ne illa ludibriis 
+      infide<lb ed="#H" n="94" break="no"/>ium exponatur. Deinde neque necessario, neque probabiliter locus 
+      <lb ed="#H" n="95"/>hic de deicensu substantiae animae Christi ad inferos intelligi potest. 
+      <lb ed="#H" n="96"/>quia de re prorsus alia agit. Nec praejudicat nobis, quod Patres a 
+      <lb ed="#H" n="97"/>Bellarmino citati videantur eum ad descensum Christi ad inferos 
+      ac<lb ed="#H" n="98" break="no"/>commodare: nam haec Patrum mens non fuit, ut locum hunc propie 
+      <lb ed="#H" n="99"/>de descensu Christi ad inferos intelligendum statuerent: sed illi 
+      alle<lb ed="#H" n="100" break="no"/>jorice de victoria Christi loquentes, ad illam celebrandam, &amp; 
+      huju<lb ed="#H" n="101" break="no"/>&amp; aliorum locorum verba accommodarunt, quae ad literam longe 
+      <lb ed="#H" n="102"/>alium sensum habent,  
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e629">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Tertio Patres adducti loquuntur de iis quae Christus fecit per 
+      di<lb ed="#H" n="104" break="no"/>vinam potentiam, non quae per substantiam animae. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e638">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Quarto hic versus non tractat de liberatione populi Israelitici ex 
+      <lb ed="#H" n="106"/>ÆEgypto. Nam David Psalmo 107. bonitatem &amp; benignitatem Dei 
+      <lb ed="#H" n="107"/>celebrat ex effectis seu operibus providentiae divinae, quae opera 
+      con<lb ed="#H" n="108" break="no"/>spiciuntur maxime in tot periculis &amp; mutationibus quibus vita 
+      hu<lb ed="#H" n="109" break="no"/>mana est obnoxia, in quibus Deus suos vera file ad eum confugien 
+      <lb ed="#H" n="110"/>tes eripit tunc tum interitus illis imminere videtur. Hoc contextur 
+      <lb ed="#H" n="111"/>manifeste ostendit, &amp; sic interpretatur Lyranus: Cajetanus 
+      simplici<lb ed="#H" n="112" break="no"/>ter de liberatione ex carcere interpretabatur. Nec de descensu anima 
+      <lb ed="#H" n="113"/>Christi ad inferos hunc locum accipiunt Basilius Magnus, 
+      Augusti<lb ed="#H" n="114" break="no"/>nus, Theodoretus in commentariis suis. Basilius Magnus 
+      interpre<lb ed="#H" n="115" break="no"/>tatur de liberatione ex captivitate Babylonica: Augustinus de libe 
+      <lb ed="#H" n="116"/>ratione ex iniquitatibus: Theodoretus portas aereas &amp; vectes ferreos. 
+      <lb ed="#H" n="117"/>interpretatur mala ineluctabilia, &amp; versum totum accipit de 
+      libera<lb ed="#H" n="118" break="no"/>tione ex Babylonica captivitate 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e673">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Secundus locus est Ecclesiastici 24. ubi sic loquitur Sapientia Dei, 
+      <lb ed="#H" n="120"/>Penetrabo omnes inferiores partes terrae &amp; inspiciam omnes 
+      dormie<lb ed="#H" n="121" break="no"/>tes, &amp;c. Sed ipsemet Bellarminus fatetur hunc locum non 
+      convin<lb ed="#H" n="122" break="no"/>cere nos (quos falso haereticos vocat, quum per Dei gratiam vere 
+      <lb ed="#H" n="123"/>Catholici simus) tum quia hunc librum non recipimus pro vere 
+      Ca<lb ed="#H" n="124" break="no"/>nonico, tum etiam quia haec verba desunt in Graeco textu. Ait tamen 
+      <lb ed="#H" n="125"/>habere hunc locum autoritatem suam apud Catholicos  
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e693">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>RESPON. Primo petit Bellarminus principium: qui 
+      argumen<lb ed="#H" n="127" break="no"/>tum probationis adfert quod nullo modo est authenticum. Deinde 
+      <lb ed="#H" n="128"/>suam ipse causam laedit, dum fatetur, hunc locum a textu Graeco ab 
+      <lb ed="#H" n="129"/>esse: est ergo ab aliquo falsatore librorum veterum infarctus 
+      praete<lb ed="#H" n="130" break="no"/>nentem primi scriptoris libri. Tertio, quicunque verbum humanum 
+      <lb ed="#H" n="131"/>&amp; supposititium habent pro verbo Dei, non sunt vere Catholici 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e711">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>Tertius locus est Matth. 12. 40. Sicut fuit Ionas in ventre ceto 
+      <lb ed="#H" n="133"/>tribus diebus &amp; tribus noctibus, sic erit Filius hominis in corde terrae. 
+      <lb ed="#H" n="134"/>Ergo anima Christi a corpore separata triduo apud inferos 
+      commo<lb ed="#H" n="135" break="no"/>rata est 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e724">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>RESP. Negamus per cor terrae intelligendum infernum 
+      tor<lb ed="#H" n="137" break="no"/>quendis damnatis destinatum. Nam cor terrae &amp; rei cujusque, phrasi 
+      <lb ed="#H" n="138"/>Hebraica dicitur quicquid duobus extremis illius citcumcluditur  
+      <lb ed="#H" n="139"/>atque ita in corde terrae esse dicitur, qui in sepulcro est in terra 
+      exca<lb ed="#H" n="140" break="no"/>vato. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e741">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Replicat Bellarminus, cor esse in profundissimo loco animalis, 
+      se<lb ed="#H" n="142" break="no"/>pulcrum autem esse prope superficiem terrae: &amp; Christi sepulcrum 
+      vi<lb ed="#H" n="143" break="no"/>deri fuisse supra terram, quia fuerit excisum in lapide supra terram. 
+      <lb ed="#H" n="144"/>exstans. Item, sicut Ionas fuit vivus in ventre ceti, ita aliquid vivit 
+      <lb ed="#H" n="145"/>debuisse esse in corde terrae, quod non de corpore mortuo, sed de anima 
+      <lb ed="#H" n="146"/>vivente &amp; per triduum in inferno commorante intelligit oporteat. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e759">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>RESPON. Primo falsum est, cor animalis, exempli gratia piscis. 
+      <lb ed="#H" n="148"/>in loco profundissimo ipsius esse, quam tem Bellarminum 
+      Cartusia<lb ed="#H" n="149" break="no"/>ni monachi docere potuerunt &amp; docet Arist. lib. 2. de histor. animal 
+      <lb ed="#H" n="150"/>cap. 17. Cor hominis est in medio pectore si corpus ejus spectes, &amp; 
+      <lb ed="#H" n="151"/>conus ejus versus sinistrum latus se extendit. Deinde Christi 
+      sepul<lb ed="#H" n="152" break="no"/>6 
+      <lb ed="#H" n="153"/>angelistae docent: ideo praegrandis lapis advolutus fuit ad ostium 
+      il<lb ed="#H" n="154" break="no"/>lius, Matth. 27. vers. 60. &amp; feminae solicitae fuerunt quis lapidem 
+      ipsi<lb ed="#H" n="155" break="no"/>devoluturus esset ab ostio monumenti Marc. 16. 3. tum discipulorum 
+      <lb ed="#H" n="156"/>alter visurus se incurvavit, non tamen introivit in monumentum, 
+      <lb ed="#H" n="157"/>Petrus autem introivit in monumentum, Johan. 20. 4, 5. ut postea &amp; 
+      <lb ed="#H" n="158"/>ilter discipulus vers. 8. Sepulcrum igitur Christi non exstabat supra 
+      <lb ed="#H" n="159"/>terram. Tertio etsi corpus mortuum in sepulcro jacuit, fuit tamer 
+      <lb ed="#H" n="160"/>corpus viventis, corpus Principis vitae. Ut igitur Jonas vivus in 
+      ven<lb ed="#H" n="161" break="no"/>tre ceti fuit: ita &amp; Christus princeps vitae in sepulcro. Quare irrita 
+      <lb ed="#H" n="162"/>Bellarmini conclusio de anima 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e798">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>Instat Bellarminus &amp; Patrum autoritatem adducit. Hieronymus 
+      <lb ed="#H" n="164"/>in caput 2. Ionae: Sicut cor, inquit, in medio est animalis, ita 
+      infer<lb ed="#H" n="165" break="no"/>nus in medio terrae esse perhibetur. Eodem modo ait hunc locum ex 
+      <lb ed="#H" n="166"/>plicari ab Irenaeo lib. 5. circa finem, a Tertulliano lib. de anima, cap. 
+      <lb ed="#H" n="167"/>I. a Nysseno orat. 1. de resurrectione, ab Ambrosio in cap. 4. ad 
+      E<lb ed="#H" n="168" break="no"/>phesios. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e816">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>RESP. Quod ad Hieronymum attinet, is medium terrae aequi 
+      <lb ed="#H" n="170"/>voce dicit locum intra terram conclusum: Deinde non asserit 
+      Hie<lb ed="#H" n="171" break="no"/>tonymus, sed opinionem aliorum refert: perhibetur, inquit. Irenaus 
+      <lb ed="#H" n="172"/>lib. 5. cap. ult. non docet, animam Christi fuisse in carcere 
+      infernali<lb ed="#H" n="173" break="no"/>Tertullianus citato libro &amp; capite nihil tale habet in editione 
+      Fra<lb ed="#H" n="174" break="no"/>nelterana, sed in cap. quinquages. quinto ea sunt ad quae Bellarminus 
+      <lb ed="#H" n="175"/>respicit: Sed male Tertullianus locum hunc exponit colligens 
+      inde<lb ed="#H" n="176" break="no"/>errorem non ferendum, omnem animam a corpore separatam apud 
+      <lb ed="#H" n="177"/>inferos sequestrari in diem Domini. Et talibus allegationibus 
+      Bel<lb ed="#H" n="178" break="no"/>larminus vicerit: 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e842">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>Quartus locus est Actor. 2. vers. 27. Non relinques animam meam 
+      <lb ed="#H" n="180"/>in inserno, qui exstat etiam Psalm. 16. ver. 10. Pet animam contendit. 
+      <lb ed="#H" n="181"/>Bellarminus intelligendam animam Christi, hoc est, alteram 
+      par<lb ed="#H" n="182" break="no"/>tem humanae naturae Christi spiritualem a corpore separatam: quia 
+      <lb ed="#H" n="183"/>ψVuxi nonnisi animam proprie significet: Pet insernum vero hic 
+      con<lb ed="#H" n="184" break="no"/>tendit intelligi locum damnatis cruciandis destinatum, quia ἀδοσ 
+      <!--cod-MkL9py-0439.xml-->
+      <pb ed="#H" n="412"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>qua voce Actor. 2. vox Hebraea I redditur, significet semper 
+      <lb ed="#H" n="2"/>infernum, nunquam sepulcrum, capite duodecimo, sectione octava. 
+      <lb ed="#H" n="3"/>Inde colligit, Christi animam a corpore separatam vere &amp; localiter 
+      <lb ed="#H" n="4"/>ad inferos, hoc est, locum gehennae descendisse 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e875">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>RESP. Nomine animae hominis proprie intelligi partem 
+      alte<lb ed="#H" n="6" break="no"/>tam hominis spiritualem, nemo dubitat, sed hoc in loco CFristum 
+      <lb ed="#H" n="7"/>ipsum animam suam David vocat. Nam Petrus Apostolus Actor. 2 
+      <lb ed="#H" n="8"/>allegans haec verba, ostendit Davidem non de se ea dicere, sed de 
+      <lb ed="#H" n="9"/>Christo vers. 24 25. &amp; apertius vers 31. Praescius loquutus est de 
+      re<lb ed="#H" n="10" break="no"/>surrectione Christi, non derelictam esse apud inferos animam ejus 
+      <lb ed="#H" n="11"/>neque carnem ejus sensisse corruptionem. Similiter Apostolus Paulus 
+      <lb ed="#H" n="12"/>ait, Davidem non de se, sed de Christo loqui, ut videre est Actor. 13. v. 
+      <lb ed="#H" n="13"/>35. &amp; seqq. Ideo &amp; alias dicit, Non sines Sanctum illum tuum sentira 
+      <lb ed="#H" n="14"/>corruptionem. Nam David quidem postquam atate sua inservivit. 
+      <lb ed="#H" n="15"/>Dei consilio, obdormivit, &amp; appositus est patribus suis, sensitque 
+      corru<lb ed="#H" n="16" break="no"/>ptionem: At is quem Deus excitavit, non sensit corruptionem 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e907">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Quocirca David per animam suam hoc loco intelligit Christum 
+      <lb ed="#H" n="18"/>Dominum, qui revera est anima &amp; vita illa nostra, Coloss. 3. vers. 4. 
+      <lb ed="#H" n="19"/>quia ipse vivit in nobis, sicut Paulus ait Galat. 2. vers. 20. Una cum 
+      <lb ed="#H" n="20"/>Christo crucifixus sum. Vivo autem non amplius ego, sed vivit in 
+      me<lb ed="#H" n="21" break="no"/>Christus: &amp; vitam quam nunc vivo in carne, vivo per fidem illam 
+      <lb ed="#H" n="22"/>Filij Dei, qui dilexit me, &amp; tradidit semetipsum pro me. Ipse est 
+      <lb ed="#H" n="23"/>Princeps vitae, quem Judaei interemerunt, ut legitur Acto. cap. 
+      tertio<lb ed="#H" n="24" break="no"/>vers. 15. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e929">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Deinde infernum, hoc loco significare locum cruciandis reprobis 
+      <lb ed="#H" n="26"/>destigatum, negatur. Probatio est falsa, nempe vocem ἀδης semper 
+      <lb ed="#H" n="27"/>significare infernum, nunquam sapulcrum. Nam vox Graeca δuς 
+      <lb ed="#H" n="28"/>respondet Hebraeae yJN&amp; Scheoi, &amp; a Graeco interprete sic verti 
+      <lb ed="#H" n="29"/>tur pluribus locis, in quibus nequaquam locus tormentorum 
+      sempi<lb ed="#H" n="30" break="no"/>ternorum intelligendus, sed sepulcrum: ut 1. Reg. 2. ver. 6. ait 
+      Davie<lb ed="#H" n="31" break="no"/>Salomoni de Jacob. κια καταgεις τυν πολιαν ἀυτοεν ειεηνη εἰς αδς id est 
+      <lb ed="#H" n="32"/>non deduces canitiem ejus pacifice ad inferos, ut Vulgata Latina 
+      ha<lb ed="#H" n="33" break="no"/>bet, vers. 9. de Semejo, ιι μαlαgεις τοθ πολιαν ἀυτο εν αjματι εις αδς, 
+      <lb ed="#H" n="34"/>hoc est, &amp; deduces canos ejus cum sanguine ad inferos, juxta 
+      Vulga<lb ed="#H" n="35" break="no"/>tam Latinam: Quis dixerit aut concesserit, Davidem hic locum, 
+      <lb ed="#H" n="36"/>tormentorum aeternorum intellexisse? quae res nec Regem pium 
+      de<lb ed="#H" n="37" break="no"/>cet, nec politicae &amp; judiciariae Magistratuum cognitionis est. Item 
+      <lb ed="#H" n="38"/>Job. 14. vers. 13. ait Jobus: cι γαρ ὄφιλον ἐν δδη με εφυλαςας, iκρθψας δ 
+      <lb ed="#H" n="39"/>με εκσαν ωαυσηταί σκν οργη, hoc est, O utinam in inferno me 
+      custo<lb ed="#H" n="40" break="no"/>dias: vel ut Vulgata habet: Quis mihi hoc tribuat, ut in inferno 
+      pro<lb ed="#H" n="41" break="no"/>tegus me, &amp; abscondas me donec pertranseat furor tuus? Quis dixerit:  
+      <lb ed="#H" n="42"/>aut concesserit, hic per αδυν seu infernum intellexisseJobum locum damna. 
+      <lb ed="#H" n="43"/>tis in aeternum cruciandis destinatum? hoc n furentis fuisset, ac non 
+      vit<lb ed="#H" n="44" break="no"/>religiosi piique optatum. Et c. 17. 13. ait: ἑαν χαρ ὑομεινω, αδης μα ο σικος, 
+      <lb ed="#H" n="45"/>ενδε γνοφῳ εστρωιαιμιη σρωμον, hoc est, Si sustinuero, infernus don mea 
+      <lb ed="#H" n="46"/>est, &amp; tenebris stratus est lectulus meus: Et vers. ult. ἡ μP ἐκ φ εἰς ἀδυι 
+      <lb ed="#H" n="47"/>ατα ητοντο id est, an mecum in infernum descendent? Vulgata 
+      ha<lb ed="#H" n="48" break="no"/>bet: In profundissimum infernum descendent omnia mea: Absit, ut 
+      hae<lb ed="#H" n="49" break="no"/>duo loca aliter quam de sepulcro interpretemur. Similiter Psalm. 6. 
+      <lb ed="#H" n="50"/>vers. 5. ὅτι σσκ εστιν ἐν τῶ θυνάτῳ ο μνημονουων σε, εν δε τῶ δοη τίς ἔζομο¬ 
+      <lb ed="#H" n="51"/>λογκ λπαισοι; Quoniam non est in morte qui memor sit tui: in inferno 
+      <lb ed="#H" n="52"/>autem quis confitebitur tibi? Et Jesa. 38. vers. 18. 8 7α9 oί ἐν ἀι α ἀἰνὸ¬ 
+      <lb ed="#H" n="53"/>συσί σε, κδι oι λσκθαγοθες δυ λογήσυθί σε, hoc est, non enim qui in 
+      infer<lb ed="#H" n="54" break="no"/>no sunt laudabunt te, neque mortui benedicent tibi. Eodem cap. 38. 
+      <lb ed="#H" n="55"/>vers. 10. ait de se Ezechias rex pius: ἔιω ει πα εν τῶ υψει τῶν ημερῶν μ 
+      <lb ed="#H" n="56"/>πορδισομαι ἐν ωυλαις ἀὼς. Psalm. 140. vers. 9. δεσκορσισθη τα ήσα 
+      <lb ed="#H" n="57"/>ημῶν παργ τον ἀολν: Dissipata sunt ossa nostro secus infernum. Quid  
+      <lb ed="#H" n="58"/>pluribus opus est? Haec loca sufficienter docent, quod vox Hebraea 
+      <lb ed="#H" n="59"/>γολον, &amp; Graeca &amp;δns, &amp; Latina infernus non semper in sacris lite 
+      <lb ed="#H" n="60"/>tis significet locum damnatorum, sed saepe sepulcrum. Similiter 
+      <lb ed="#H" n="61"/>accipitur Actor. 2. v. 27. &amp; 31. pro sepulero. Non potest igitur ex hoc 
+      <lb ed="#H" n="62"/>loco colligi, animam Christi a corpore per mortem separatam, in 
+      lo<lb ed="#H" n="63" break="no"/>cum damnatorum descendisse. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1018">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Replicat Bellarminus eodem capite duodecimo citati libri sect? 
+      <lb ed="#H" n="65"/>decimatertia: Animam opponi carni a Petro in hujus loci citatione 
+      <lb ed="#H" n="66"/>Actor. 2. vers. 31. Proinde animam hic proprie accipi pro altera parte 
+      <lb ed="#H" n="67"/>bumana naturae Christi. Ergo si caro fuit in sepulcro, tum animam 
+      <lb ed="#H" n="68"/>necesse est fuisse in inferno, hoc est, in loco damnatis destinato &amp; 
+      <lb ed="#H" n="69"/>limbo¬ 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1036">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>RESPOND. Nego antecedens: Nam anima hoc loco non 
+      oppo<lb ed="#H" n="71" break="no"/>nitur carni. Quorum enim alterum est explicatio alterius, ea non 
+      <lb ed="#H" n="72"/>sunt opposita: Atqui posteriore membro hujus versus explicat 
+      Da<lb ed="#H" n="73" break="no"/>vid prius membrum, ut ostendat se per animam suam intelligere 
+      <lb ed="#H" n="74"/>Sanctum illum qui dat mundo vitam: &amp; non derelinquere inferno. 
+      <lb ed="#H" n="75"/>idem esse quod non sinere carnem ejus videre corruptionem, ac 
+      pro<lb ed="#H" n="76" break="no"/>inde ex mortuis excitare. Petrus autem, haec verba allegaus vers. 31. 
+      <lb ed="#H" n="77"/>interpretem simul agit, &amp; quum Synecdochice in Psalmo dicatur,  
+      <lb ed="#H" n="78"/>non fines Sanctum illum tuum videre corruptionem, proprie id 
+      se<lb ed="#H" n="79" break="no"/>cundum carnem intelligendum docet.  
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1062">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Quapropter interpretatione Bellarminiana rejecta, Petri &amp; 
+      Pau<lb ed="#H" n="81" break="no"/>li interpretationem retineamus. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1071">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Quintus locus est Roman. 10. 7. Ne dicas in corde tuo; Quis 
+      de<lb ed="#H" n="83" break="no"/>scendet in abyssum, id est, Christum a mortuis revocare? Ergo 
+      Chri<lb ed="#H" n="84" break="no"/>stus post mortem fuit in abysso. Non potest autem, ait Bellarminus 
+      <lb ed="#H" n="85"/>nemine abyssi intelligi status damnatorum, nam in illo secundum 
+      <lb ed="#H" n="86"/>alvinum fuit Christus adhuc vivens, hic autem agitur de loco ubi 
+      <lb ed="#H" n="87"/>erat solum quumaesset mortuus. Neque potest intelligi sepulcrum: 
+      <lb ed="#H" n="88"/>Nam abyssus profundissimam voraginem significat, qualis non est 
+      se<lb ed="#H" n="89" break="no"/>pulcrum, P Praeterea facile erat in sepulcrum descendere, at hic 
+      poni<lb ed="#H" n="90" break="no"/>tur tanquam res homini viventi impossibilis; descendere in abyssum. 
+      <lb ed="#H" n="91"/>Denique eppenitur hosc loco abyssus coelo, tanquam terrae superficies 
+      <!--cod-MkL9py-0439.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>sit media inter abyssum &amp; coelum: nam praecedit: Quis adscender in 
+      <lb ed="#H" n="93"/>coelum, id est, Christum deducere: Et continuo sequitur per 
+      antithe<lb ed="#H" n="94" break="no"/>sim: Quis descendet in abyssum, id est, Christum a mortuis 
+      revoca<lb ed="#H" n="95" break="no"/>re? Fuit igitur Christus post mortem &amp; ante resurrectionem in 
+      <lb ed="#H" n="96"/>abysso, quae longissime abest a coelo, id est, in profundissimis terrae 
+      par<lb ed="#H" n="97" break="no"/>tibus. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1116">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>RESPOND. Ex figurato antecedente &amp; dicto secundum quid, 
+      <lb ed="#H" n="99"/>male infertur consequens proprium &amp; dictum simpliciter. Abyssus 
+      <lb ed="#H" n="100"/>enim hic figurate appellatur mare, ut videre est Deuter. 30. vers. 13 
+      <lb ed="#H" n="101"/>Sententia autem Apostoli Pauli, a qua Bellarminus prorsus aberrat.  
+      <lb ed="#H" n="102"/>naec est. Ut nobis acquiescendum est in revelatione arcanorum salus 
+      <lb ed="#H" n="103"/>tis facta per Christum: Qui enim ulterius scrutari cupit, quae ad 
+      fi<lb ed="#H" n="104" break="no"/>dem, justitiam, salutemque electorum pertinent, is non secus facit? 
+      <lb ed="#H" n="105"/>quam si Christum juberet iterum de coelo descendere; aut a mortuit. 
+      <lb ed="#H" n="106"/>remeare: Ita nobis acquiescendum est in justitia a Christo praestitat. 
+      <lb ed="#H" n="107"/>qui enim adhuc perplexo est animo &amp; quaerit quis in coelum 
+      adscen<lb ed="#H" n="108" break="no"/>dere poterit vel nos ex inferis eruere, is perinde facit ac si Christum 
+      <lb ed="#H" n="109"/>ex alto deducere, vel ex mortuis reducere vellet, id est, non 
+      credi<lb ed="#H" n="110" break="no"/>Christum jam descendisse de coelo &amp; hominem factum propter nos 
+      <lb ed="#H" n="111"/>homines &amp; propter nostram salutem; non credit, Christum jam 
+      <lb ed="#H" n="112"/>mortuum pro nobis esse &amp; Legi satisfecisse pro nobis; &amp; ex mortui. 
+      <lb ed="#H" n="113"/>resurrexisse. Atqui verbum fidei, id est, Evangelium docet, omnia 
+      <lb ed="#H" n="114"/>haec jam facta esse &amp; per Christum impleta, ut de justitia nostra &amp; 
+      sa<lb ed="#H" n="115" break="no"/>lute aeterna minime debeamus dubitare 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1160">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>Replicat Bellarminus: nomine abyssi non intelligitur status 
+      da<lb ed="#H" n="117" break="no"/>mnatorum, nec sepulcrum: ergo infernus qui longissime abest a coelo. 
+      <lb ed="#H" n="118"/>id est, in profundissimis terrae partibus. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1171">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>RESP. Neque nos nomine abyssi statum damnatorum vel se 
+      <lb ed="#H" n="120"/>ulcrum hoc loco intelligimus: Neque etiam infernus, ut 
+      Bellarmi<lb ed="#H" n="121" break="no"/>nus vult, intelligi potest, quia Apostoli ea mens non est, &amp; Mosis 
+      au<lb ed="#H" n="122" break="no"/>toritas refragatur. Apostoli enim sententia est, post adventum 
+      Chri<lb ed="#H" n="123" break="no"/>sti in carne &amp; peractum redemtionis nostrae opus, non licere dicere 
+      <lb ed="#H" n="124"/>&amp; cogitate apud se, quis Legem sit impleturus, quum a Christo esse 
+      <lb ed="#H" n="125"/>impletam doceat Evangelium, idque eorum loco, qui vera fide 
+      Chri<lb ed="#H" n="126" break="no"/>stum amplectentur. Deinde non opponit Paulus coelum abysso, ut  
+      <lb ed="#H" n="127"/>summum insimo, sed forma loquendi a Mose sumta vult, non esse 
+      cu<lb ed="#H" n="128" break="no"/>altitudinem ipsam coeli, aut extimas terras longe lateque 
+      transuavi<lb ed="#H" n="129" break="no"/>gato Oceano petamus, haec nihil ad rem pertinere nec juvare posset 
+      <lb ed="#H" n="130"/>sed in Christo acquiescendum, in quo est justitia quam coram Deo 
+      con<lb ed="#H" n="131" break="no"/> 
+            </p>
+            <p xml:id="yyy8Uu-e99591-d1e1204">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>Sextus locus est Ephes. 4. vers. 9. Qui adscendit ipse est &amp; qui 
+      de<lb ed="#H" n="133" break="no"/>cendit in inferiores partes terrae. Ergo Christus substantia animae sus 
+      <lb ed="#H" n="134"/>descendit in verum infernum qui est in inferioribus partibus terrae; 
+      <lb ed="#H" n="135"/>RESP. Ex male intellecto loco vitiosum ducitur consequens. 
+      <lb ed="#H" n="136"/>Nam Christus descendit in inferiores partes terrae, non loci 
+      muta<lb ed="#H" n="137" break="no"/>tione, sed carnis assumtione &amp; patefactione sui in ea; descendit, 
+      nimi<lb ed="#H" n="138" break="no"/>rum in sua incarnatione in insimas partes terrae, id est, in partes 
+      hu<lb ed="#H" n="139" break="no"/>us terrae, quae sunt inferipres respectu superiorum partium mundi, 
+      <lb ed="#H" n="140"/>id est, coelorum, ut satis ostendit Lyranus, alia expositione veluti 
+      reje<lb ed="#H" n="141" break="no"/>cta ob ejus infirmitatem. Non enim inferior pars terrae opponitus 
+      <lb ed="#H" n="142"/>superiori parti terrae; vel non opponuntur partes terrae inter se: sec 
+      <lb ed="#H" n="143"/>terra ὕψεs, sublimi, excelso, alto, id est, insima haec sedes nostra 
+      coelo<lb ed="#H" n="144" break="no"/>vel etiam partibus coeli superioribus. Non aliter quam nos, locum 
+      <lb ed="#H" n="145"/>munc Pauli interpretatur Leo I. Papa Romanus in celeberrima illa 
+      <lb ed="#H" n="146"/>ad Flavianum epistola his verbis: Ingreditur haec mundi insima 
+      Fi<lb ed="#H" n="147" break="no"/>lius Dei, de coelesti sede descendens &amp; a paterna gloria non recedens. 
+      <lb ed="#H" n="148"/>novo ordine, nova nativitate generatus. Haec Leonis magni 
+      inter<lb ed="#H" n="149" break="no"/>pretatio catholica merito anteferenda corruptelae Jesuiticae. Replicat,  
+      <lb ed="#H" n="150"/>Bellarminus, inferiorem partem terrae non significare totam terram. 
+      <lb ed="#H" n="151"/>sed unam partem, eamque aliis inferiorem. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1252">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>RESP. Paulus Apostol. comparat inter se non partes terrae, sed 
+      <lb ed="#H" n="153"/>mundi, quarum aliae sunt superiores, aliae inferiores: Superiores 
+      par<lb ed="#H" n="154" break="no"/>tes sunt coeli, inferiores partes sunt terrae: coeli igitur &amp; terrae hic est 
+      <lb ed="#H" n="155"/>compatatio. Hoc perspicuum est ex contextu Pauli: Illud 
+      Ascen<lb ed="#H" n="156" break="no"/>dit, quid est nisi quod etiam descenderat prius (seu primum) in 
+      infe<lb ed="#H" n="157" break="no"/>riores seu insimas partes terrae? Nam quum dixisset, Christum 
+      descen<lb ed="#H" n="158" break="no"/>disse in sublime, captivam duxisse captivitatem &amp; dedisse dona 
+      homi<lb ed="#H" n="159" break="no"/>nibus, hoc ipsum confirmat eo, quia idem etiam prius descenderat de 
+      <lb ed="#H" n="160"/>coelo in haec infima mundi. Nullus enim adscendit in coelum, nisi qui 
+      <lb ed="#H" n="161"/>descendit e coelo, nempe Filius hominis qui est in coelo, ut Dominus 
+      <lb ed="#H" n="162"/>ipse ait Johan. 3. vers. 13. Idem igitur adscendit, qui prius descenderat  
+      <lb ed="#H" n="163"/>non e corpore seu cruce in imum infernum, SEP E CAELO in 
+      ter<lb ed="#H" n="164" break="no"/>ram. Simililis oppositio est Jes. 44. 23. Cantate coeli, facere Iehovam 
+      <lb ed="#H" n="165"/>haec, clangite ima terrae. Vulgata Latina habet, extrema terrae, sed ex 
+      <lb ed="#H" n="166"/>Hebraeo sonat, ima seu, profundissima terrae, ut Vatablus 
+      red<lb ed="#H" n="167" break="no"/>didit 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1291">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Instat, pro se facere quod sequitur, ut impleret omnia: voluisse 
+      <lb ed="#H" n="169"/>enimChristum descendere usque ad verum infernum, sicut descendes 
+      <lb ed="#H" n="170"/>rat in terras, ut praesens visitaret omnes partes regni sui, quod 
+      tripar<lb ed="#H" n="171" break="no"/>titum est, juxta illud Philipp. 2. 10. Ut in nomine Jesu omne 
+      genu<lb ed="#H" n="172" break="no"/>flectatur coelestium, terrestrium &amp; infernorum. Ubi Graece est κατα¬ 
+      <lb ed="#H" n="173"/>χδενιον id est, subterraneorum, qua voce non possunt intelligi cadave 
+      <lb ed="#H" n="174"/>ra, quae sunt in sepuleris: illa enim etsi subterranca sunt, tamen non 
+      <lb ed="#H" n="175"/>possunt in nomine Iesu genua flectere, hoc est, honorem illi praestare. 
+      <lb ed="#H" n="176"/>Sunt ergo in locis subterruneis aliqui spiritus, qui Christo 
+      reveren<lb ed="#H" n="177" break="no"/>tiam exhibere debent &amp; ad eum locum Christus descendit, ut se 
+      to<lb ed="#H" n="178" break="no"/>tius mundi Regem ac Dominum declavet. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1321">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>RESP. Primo nequaquam pro Papistis faciunt verba Pauli se 
+      <lb ed="#H" n="180"/>quentia: nam illud, ut impleret omnia, idem est, quod ut cumularet 
+      <lb ed="#H" n="181"/>donis suis universam Ecclesiam, e quibus donis sunt Apostolis 
+      <lb ed="#H" n="182"/>Prophetae, Evangelistae, Pastores &amp; Doctores: qua de re supra 
+      se<lb ed="#H" n="183" break="no"/>undo libro capiduodecimo fol. 148. Quid hoc ad loca subterranca. 
+      <!--cod-MkL9py-0440.xml-->
+      <pb ed="#H" n="413"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>in quibus Bellarminus infernales sedes collocat? num in illis etiam 
+      <lb ed="#H" n="2"/>Christus ministerium praedicandi instituit? Cur igitur Jesuitae non 
+      <lb ed="#H" n="3"/>descendunt ad inferos, (sicut navigant in Indias,) ut spiritibus qui  
+      <lb ed="#H" n="4"/>sunt apud inferos praedicent? Deinde locus Philipp. 2. ver. 10. multo 
+      <lb ed="#H" n="5"/>minus Papistis favet: nam illo nihil aliud docetur, quam Christo eve 
+      <lb ed="#H" n="6"/>cto &amp; collocato ad dexteram Dei Patris, omnes creaturas rationales 
+      <lb ed="#H" n="7"/>Angelos, homines &amp; daemones subjectos esse ut Domino &amp; Judici. 
+      <lb ed="#H" n="8"/>De subjectione eorum hic Paulus loquitur, non de descensu anima 
+      <lb ed="#H" n="9"/>Christi ad inferos. De subjectione exponit <name xml:id="yyy8Uu-e99591-Nd1e1362">Tertullianus</name> seu Nova. 
+      <lb ed="#H" n="10"/>tianus de Trinitate cap. 15. <name xml:id="yyy8Uu-e99591-Nd1e1367">Ruffinus</name> in expositione Symboli: 
+      Am<lb ed="#H" n="11" break="no"/>brosius in caput secundum episto. ad Philippenses: Chrysostomus 
+      ho<lb ed="#H" n="12" break="no"/>mil. 7. in epist. ad Philipp. item <name xml:id="yyy8Uu-e99591-Nd1e1375">Haymo</name>, <name xml:id="yyy8Uu-e99591-Nd1e1378">Hugo</name>, <name xml:id="yyy8Uu-e99591-Nd1e1381">Cajetanus</name> in glossis ac 
+      <lb ed="#H" n="13"/>hunc locum. Thomas Aquinas in cap. 2. epist. ad Philippenses, 
+      lectio<lb ed="#H" n="14" break="no"/>ne tertia hunc locum sic explanat: Ponitur duplex veneratio scilicet.  
+      <lb ed="#H" n="15"/>in subjectione operis &amp; in confessione oris ibi: Et omnis lingua, &amp;c. 
+      <lb ed="#H" n="16"/>Dicitergo: &amp; dedit illi nomen quod est supra omne nomen, etiam 
+      se<lb ed="#H" n="17" break="no"/>cundum quod homo: Ideo subdit, Ut in nomine Iesu, quod est nomet 
+      <lb ed="#H" n="18"/>hominis, omne genu flectatur, Philipp. 2. &amp; Jesa. 45. Mihi curvabitur 
+      <lb ed="#H" n="19"/>omne genu, &amp;c. Sed hic erravit <name xml:id="yyy8Uu-e99591-Nd1e1399">Origenes</name>; qui cum audivit quod omne 
+      <lb ed="#H" n="20"/>genu flectatur, quod est reverentiam exhibere, credidit futurum 
+      quan<lb ed="#H" n="21" break="no"/>doque, quod omnis creatura rationalis sive Angeli, sive homines, sivi 
+      <lb ed="#H" n="22"/>demones subijcerentur Christo subjectione charitatis. Sed contra hoc  
+      <lb ed="#H" n="23"/>est illud Matt. 25. Ite maledicti in ignem aeternum. &amp;c. Sed dicendum 
+      <lb ed="#H" n="24"/>est, quod est duplex subjectio: una uoluntaria &amp; alia involuntaria. 
+      <lb ed="#H" n="25"/>Et est futurum, quod omnes angeli sancti Christo subijciantur 
+      vo<lb ed="#H" n="26" break="no"/>luntarie: &amp; ideo dicit, omne genu flectatur, &amp; ponitur signum 
+      pro<lb ed="#H" n="27" break="no"/>signato. Psalmus: Adorate eum omnes angeli ejus. Item quod 
+      homi<lb ed="#H" n="28" break="no"/>nes, Psalmus: Omnes gentes quascunque fecisti venient &amp; adorabunt. 
+      <lb ed="#H" n="29"/>coram te Domine, glorificabunt nomen tuum, &amp;c. Et quod demones 
+      <lb ed="#H" n="30"/>licet involuntarie, Jac. 2. Demones credunt &amp; contremiscunt, &amp;c. 
+      <lb ed="#H" n="31"/>Deinde quum dicit: Et omnis lingua confiteatur, &amp;c. Ponitur exhi 
+      <lb ed="#H" n="32"/>bitio reverentiae in confessione oris. Omnis lingua, scilicet coelestium, 
+      <lb ed="#H" n="33"/>terrestrium &amp; infernorum. Non de confessione laudis dicitur hoc res 
+      <lb ed="#H" n="34"/>spectu infernorum:, sed de coacta quae sit per recognitionem Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1436">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>Septimus locus est 1. Petr. 3. vers. 19, 20. Christus semel pro 
+      pecca<lb ed="#H" n="36" break="no"/>tis nostris mortuus est, justus pro injustis, ut nos offerret Deo, 
+      mortifi<lb ed="#H" n="37" break="no"/>catus quidem carne, vivificatus autem spiritu, in quo his qui in 
+      car<lb ed="#H" n="38" break="no"/>cere erant spiritibus veniens praedicavit, qui increduli fuerant 
+      ali<lb ed="#H" n="39" break="no"/>quando, quando exspectabant Dei patientiam in diebus Noe 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1452">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Huic loco Octavus jungitur ex capite 4. vers. 6. Ideo &amp; mortuis, 
+      <lb ed="#H" n="41"/>praedicatum est Evangelium, ut judicentur quidem secundum 
+      homi<lb ed="#H" n="42" break="no"/>nem in carne, vivant autem secundum Deum in spiritu. Inde collis 
+      <lb ed="#H" n="43"/>git Bellarminus, Christum substantia animae ad inferos descendisse &amp; 
+      <lb ed="#H" n="44"/>ibi in carcere inferni sanctis Patribus praedicasse, eosque inde 
+      li<lb ed="#H" n="45" break="no"/>berasse 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1470">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>RESP. Quod ad septimum locum attinet: Primo, per spiritum 
+      <lb ed="#H" n="47"/>non intelligit Petrus in eo loco animam Christi: quia hoc spiritu fuit. 
+      <lb ed="#H" n="48"/>vivificatus, hoc est, ex mortuis resuscitatus: sed Christus fuit ex mor 
+      <lb ed="#H" n="49"/>tuis resuscitatus, non potentia animae, sed Deitatis suae virtute. 
+      Spiri<lb ed="#H" n="50" break="no"/>tu illo, per quem Christus spiritibus praedicavit, est vivificatus: At 
+      ani<lb ed="#H" n="51" break="no"/>ma Christus non est vivificatus, (quia vivificatio, hoc est, 
+      resuscitatio<lb ed="#H" n="52" break="no"/>sui ex mortuis fuit opus Deitatis ipsius;) Ergo anima non est ille 
+      spi<lb ed="#H" n="53" break="no"/>ritus, per quem Christus spiritibus praedicavit.  
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1492">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Deinde, non intelligitur etiam hoc loco descensus Christi ad 
+      infe<lb ed="#H" n="55" break="no"/>ros vel liberadorum vel docendorum sanctorum patrum causa: quia 
+      <lb ed="#H" n="56"/>eos spiritus, quibus Christum praedicasse Petrus dicit, in carcere est 
+      <lb ed="#H" n="57"/>ait, sed Pontificii docent, Christum ex carcere eos eduxisse: dissentium 
+      <lb ed="#H" n="58"/>igitur Papistae a Petro. Quin spiritus illi fuerunt olim 
+      immorigeri<lb ed="#H" n="59" break="no"/>Ergo ipsorum liberandorum causa Christus non descendit ad 
+      infe<lb ed="#H" n="60" break="no"/>ros: quia super immorigeros manet ira Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1512">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Augustinus tomo secundo, epistola nonagesimanona quae est ad 
+      <lb ed="#H" n="62"/>Evodium, explicans hunc Petri locum, docet spiritum, quo vivificat 
+      <lb ed="#H" n="63"/>tus est Christus, esse Deitatem: deinde Christum spiritu praedicasse 
+      <lb ed="#H" n="64"/>immorigeris, non apud inferos, sed tempore Noc 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1526">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Clemens Alexandrinus Stromat. 6. τοιχἐν αδι κατεχομδυοις, id est 
+      <lb ed="#H" n="66"/>iis qui in inferno detinentur: Ita Clemens praesenti tempore explicat:  
+      <lb ed="#H" n="67"/>ita etiam Oecumenius: ergo spiritus illi e carcere infernali non sunt,  
+      <lb ed="#H" n="68"/>liberati. Veniens praedicavit, id est, descendens e coelo non mutando 
+      <lb ed="#H" n="69"/>locum, sed virtute sua divina praesentiam suam patefaciendo: sicut de 
+      <lb ed="#H" n="70"/>Deo dicitur Gen. 11. vers. 5. Descendit Iehova ad videndum urbem 
+      <lb ed="#H" n="71"/>illam: non descendit autem loci mutatione. Sensus igitur Apostoli 
+      <lb ed="#H" n="72"/>Petri est, Spiritum Christi omni tempore homines ad resipiscentiam 
+      <lb ed="#H" n="73"/>invitasse, atque adeo &amp; rebelles illos, qui in diebus Noe patientia Dei 
+      <lb ed="#H" n="74"/>abutebantur: qui tamen non auscultarunt, non paruerunt; unde in 
+      <lb ed="#H" n="75"/>carcere detinentur, poenis utique illigati aeternis. Sed quoniam 
+      Au<lb ed="#H" n="76" break="no"/>gustinus in epistola ad Evodium hunc Petri Apostoli locum 
+      expli<lb ed="#H" n="77" break="no"/>cans ait eum non utique de descensu Christi ad inferos, sed de ejus 
+      <lb ed="#H" n="78"/>Deitate jam olim &amp; ab ipso adeo mundi exordio efficaciter sese 
+      hu<lb ed="#H" n="79" break="no"/>mano generi exiibente &amp; exserente intelligendum: operaepretium 
+      <lb ed="#H" n="80"/>visum est verba Augustini adducere, Nec moveat ad impediendum 
+      <lb ed="#H" n="81"/>istum intellectum, quod eundem Christum dixit Apostolus Petrus. 
+      <lb ed="#H" n="82"/>praedicasse illis in carcere conclusis, qui quonda non crediderant in 
+      die<lb ed="#H" n="83" break="no"/>bus Noe, ut ideo non arbitremur hoc intelligendum, quia illo tempore 
+      <lb ed="#H" n="84"/>nondum venerat Christus. Nondum enim venerat scilicet in carno 
+      <lb ed="#H" n="85"/>sicut venit quando post haec in terra visus est, &amp; cum hominibus 
+      con<lb ed="#H" n="86" break="no"/>versatus est. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1578">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Verumtamen ab initio generis humani, vel ad arguendos malos, 
+      <lb ed="#H" n="88"/>sicut ad Cain, ac prius adi¬sum Adam uxoremque ejus, vel ad 
+      con<lb ed="#H" n="89" break="no"/>solandos bonos, vel ad utrosque admonendos, ut alij ad salutem suam, 
+      <lb ed="#H" n="90"/>crederent, alij ad poenam suam non eroderent, ipse utique non in 
+      car<lb ed="#H" n="91" break="no"/>ne, sed in spiritu veniebat, visis connenis allequeus quos volebat sicut 
+      <lb ed="#H" n="92"/>volebat. Quod autem dixi, in spiritu veniebat, Et ipse quidem Fi¬ 
+      <!--cod-MkL9py-0440.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>lius in substantia Deitatis, quoniam corpus nex est, utique spiritus 
+      <lb ed="#H" n="94"/>est. Sed quid facit Filius sine Spiritu Sancto, velsine Patre, quum in 
+      <lb ed="#H" n="95"/>soparabilia sint omnia opera Trinitatis: Ipsa quoque Scripturae 
+      ver<lb ed="#H" n="96" break="no"/>ba, de quibus agitur, satis hoc ut puto indicant eis qui diligenter at 
+      <lb ed="#H" n="97"/>tendunt: Quia Christus, inquit, semelpro peccatis nostris mortuus est; 
+      <lb ed="#H" n="98"/>justus pro injustis, ut nos adducat Deo, mortificatus quidem carnea 
+      <lb ed="#H" n="99"/>vivificatus autem spiritu, In quo&amp; his qui in carcere conclusi 
+      eran<lb ed="#H" n="100" break="no"/>spiritibus adveniens praediravit qui increduli suerant aliquando, 
+      <lb ed="#H" n="101"/>quando exspectabat Dei patientia in diebus Noe, quum fabricare. 
+      <lb ed="#H" n="102"/>tur arca¬ 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1622">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Iam ut arbitror attenditur forma verborum, Christus 
+      mortifica<lb ed="#H" n="104" break="no"/>tus carne, vivificatus autem spiritu. In quo spiritu adveniens 
+      prae<lb ed="#H" n="105" break="no"/>dicavit &amp; illis spiritibus qui increduli fuerant aliquando in 
+      die<lb ed="#H" n="106" break="no"/>bus Noe, quoniam priusquam veniret in carne pro nobis moriturus. 
+      <lb ed="#H" n="107"/>quod semel fecit, saepe antea veniebat in spiritu ad quos volebat, visit 
+      <lb ed="#H" n="108"/>eos admonens sicut volebat, utique in spiritu, quo spiritu &amp; vivisi 
+      <lb ed="#H" n="109"/>catus est, qui in passione esset carne mortificatus. Quid est enim quo- 
+      <lb ed="#H" n="110"/>vivificatus est spiritu, nisi quod eadem caro, qua solam fuerat mortisi. 
+      <lb ed="#H" n="111"/>catus, vivificante spiritu resurrexit 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1646">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Bellarminus Augustinum modeste proponentem sententiam sua 
+      <lb ed="#H" n="113"/>adversus aliorum opinionem, impudentissima audacia refellere est 
+      <lb ed="#H" n="114"/>ausus. Sed rectius olim judicavit Thomas Aquinas, qui sententiam 
+      <lb ed="#H" n="115"/>Augustini praetulit opinioni Damasceni, Summae parte tertia, quae 
+      <lb ed="#H" n="116"/>stione quinquagesimasecunda, articulo secundo: Dicendum quod 
+      il<lb ed="#H" n="117" break="no"/>lud quod ibi Petrus dicit ab aliquibus refertur ad descensum Christi ad 
+      <lb ed="#H" n="118"/>inferos: sicut exponentes verbum illud ijs qui carcere conclusi erant 
+      <lb ed="#H" n="119"/>in inferno, spiritu, id est, secundum animam Christus veniens 
+      praedi<lb ed="#H" n="120" break="no"/>cavit qui increduli fuerant aliquando: Unde &amp; Damascenus dicit:  
+      <lb ed="#H" n="121"/>in 3. libro: quod sicut iis qui in terra sunt evangelizavit, ita &amp; ijs qui  
+      <lb ed="#H" n="122"/>sunt in inferno: non quidem ut incredulos ad fidem converteret 
+      <lb ed="#H" n="123"/>sed ut eorum infidelitatem confutaret: quia etiam ipsa praedicatio  
+      <lb ed="#H" n="124"/>nihil aliud intelligi potest quam manifestatio diuvinitatis ejus 
+      quae<lb ed="#H" n="125" break="no"/>manifestata est infernalibus per virtuosum descensum Christi ad 
+      in<lb ed="#H" n="126" break="no"/>feros; Augustinus tamen melius exponit in epistola ad Evodium, ut 
+      <lb ed="#H" n="127"/>referatur non ad descensum Christi ad inferos, sed ad operationem 
+      <lb ed="#H" n="128"/>diuvinitatis ejus quam exercuit a principio mandi: ut sit sensus: &amp; 
+      <lb ed="#H" n="129"/>iis qui in carcere conclusi erant, veniens scilicet in corpore mortalis. 
+      <lb ed="#H" n="130"/>quod est quidam carcer animae: Spiritu suae diuvinitatis veniens 
+      prae<lb ed="#H" n="131" break="no"/>dicavit per internas inspirationes: &amp; etiam exteriores 
+      admonitio<lb ed="#H" n="132" break="no"/>nes per ora sanctorum: ijs, inquam, praedicavit, qui increduli fuerant 
+      <lb ed="#H" n="133"/>aliquando Noe scilicet praedicante, quando exspectabant Dei 
+      patien<lb ed="#H" n="134" break="no"/>tiam, per quam differebatur poena diluvij: unde subdit: in diebus Non 
+      <lb ed="#H" n="135"/>quum fabricaretur 
+      arca<lb ed="#H" n="136" break="no"/>Idem Thomas Aquinas in Epist. Canonicas hunc locum sic 
+      expo<lb ed="#H" n="137" break="no"/>uit: In quo spiritu veniens ipse Christus per inspirationem in 
+      ter<lb ed="#H" n="138" break="no"/>ram, quamvis nondum per carnem assumtam. Et mox: Praedicavit. 
+      <lb ed="#H" n="139"/>non in persona propria, sed per Noe &amp; alios sanctos illius temporis. 
+      Si<lb ed="#H" n="140" break="no"/>niliter Lyranus: Spiritu veniens praedicavit, scilicet per Noe, cui in 
+      <lb ed="#H" n="141"/>biravit facere arcam &amp; praedicare poenitentiam. Licet enim non 
+      <lb ed="#H" n="142"/>fuerat adhuc humanitas Christi, tamen suppositum est aternum. 
+      <lb ed="#H" n="143"/>Hebr. decimotertio: Iesus Christus heri &amp; hodie ipse, &amp; in secula. 
+      <lb ed="#H" n="144"/>Et: Isto modo(inquit) exponit Glossa &amp; Doctores communiter passum. 
+      <lb ed="#H" n="145"/>istum 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1724">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>Quod igitur opus tribuit Petrus Deitati Christi, &amp; quidem opus 
+      <lb ed="#H" n="147"/>tempore Noachi factum, imperite a Bellarmino tribuitur animae 
+      <lb ed="#H" n="148"/>Christi a corpore separatae in cruce. Itaque hic locus Bellarminum 
+      <lb ed="#H" n="149"/>non juvat: de quo etiam videatur supra folio centesimo nonagesimo. 
+      <lb ed="#H" n="150"/>primo. 
+      <lb ed="#H" n="151"/>Octavus locus adductus ex 1. Petr. 4. vers. 6. opinioni Papistarum 
+      <lb ed="#H" n="152"/>itidem non favet. Nam quum Petrus ait: Idcirco mortuis quoque 
+      prae<lb ed="#H" n="153" break="no"/>dicatum fuit Evangelium, per mortuos intelliguntur ij qui nunc sunt:  
+      <lb ed="#H" n="154"/>mortui, vel qui mortui erant, cum Petrus ista scriberet, sed tunc quum 
+      <lb ed="#H" n="155"/>eis praedicaretur vivebant,  
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1750">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Sic Ruth. 1. vers. 8. Benignitatem exercitistis erga mortuos, id est, 
+      <lb ed="#H" n="157"/>filios meos &amp; maritos vestros, qui nunc susnt mortui, vel qui mortui 
+      <lb ed="#H" n="158"/>erant, quum Naomi ista loqueretur ad suas nurus, sed tunc quum 
+      er<lb ed="#H" n="159" break="no"/>a eos exercerent uxores earum benignitatem, ipsi vivebant  
+      <lb ed="#H" n="160"/>Hoc eodem sensu dicuntur mortui praecedente v. 5. ad judicant 
+      <lb ed="#H" n="161"/>dum vivos &amp; mortuos, hoc est, qui nunc sunt quidem mortui, sed  
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1769">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>uum judicabuntur, viveni 
+      <lb ed="#H" n="163"/>Imo Petrus non alio respexit in adjuncta hac ratione, quam ad 
+      <lb ed="#H" n="164"/>praecedentis versus finem, in quo mortuorum fecerat mentionem: 
+      <lb ed="#H" n="165"/>qui reddituri sunt, inquit, ratione ei qui paratus est ad judicandum 
+      <lb ed="#H" n="166"/>vivos &amp; mortuos. Et continue subiicit: nam idcirco mortuis quoque 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1785">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>angelizatum fuit. 
+      <lb ed="#H" n="168"/>Praeterea finis qui adiicitur nostram interpretationem confirmat,  
+      <lb ed="#H" n="169"/>Bellarmini opinionem refellit: Vt judicarentur quidem (ait Petius 
+      <lb ed="#H" n="170"/>secundum homines, in carne, viverent autem secundum Deum, in 
+      <lb ed="#H" n="171"/>spiritu. Hoc quis non animadvertit pertinere ad homines viventes. 
+      <lb ed="#H" n="172"/>in corpore, non autem ad spiritus qui sunt in inferno? Quomodo enim 
+      <lb ed="#H" n="173"/>judicati fuissent in carne, quam non amplius habebant, si apud 
+      infe<lb ed="#H" n="174" break="no"/>ros demum Evangelium illis praedicatum fuit? neque vero de judicio 
+      <lb ed="#H" n="175"/>universali id intelligi potest, in quo credentes Evangelio Christi 
+      no<lb ed="#H" n="176" break="no"/>adicabuntur in carne ut in spiritu vivant: sed anima &amp; corpore 
+      simu<lb ed="#H" n="177" break="no"/>lene beati reddentur.  
+      <lb ed="#H" n="178"/>Ex his satis evident reliquet, Papanam opinionem de locali descensus 
+      <lb ed="#H" n="179"/>animae Christi ad inferos ex Scriptura Sacra stabiliri non posse. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1818">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>Eandem opinionem frustra nititur probare ex traditione Patrum 
+      <lb ed="#H" n="181"/>Ecclesiasticorum. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1827">
+               <lb ed="#H" n="182"/>
+               <pc type="indent"/>Primo ait eam probari ex Symbolo Apostolorum, ubi post expressam, 
+      <lb ed="#H" n="183"/>sepulturam habetur, Descendit ad inferos. Hinc colligit; Sepeliri &amp; 
+      <!--cod-MkL9py-0441.xml-->
+      <pb ed="#H" n="414"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>descendere ad inferos nin esse unum &amp; idem: nec posse dici posteriorem 
+      <lb ed="#H" n="2"/>sententiam esse repetitionem prioris, quum Syibolum sit compendium 
+      <lb ed="#H" n="3"/>fidei brevissimum, in quo summum vitium esset aliquid repeti: nec 
+      <lb ed="#H" n="4"/>posse esse pesteriorem sententiam explicationem prioris, quia 
+      ex<lb ed="#H" n="5" break="no"/>plicaretur notum per ignotum 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1853">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>RESPON. Primo peccat Bellarminus ignoratione elenchi, quia 
+      <lb ed="#H" n="7"/>non probat id quod probandum erat. Istud enim ostedere debebat, 
+      <lb ed="#H" n="8"/>Christi animam localiter descendisse ad inferos. Nam descendere ad 
+      <lb ed="#H" n="9"/>inferos non esse idem in Syrubolo quod sepeliri, ultro largimur.  
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1866">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Deinde rationes quas adfert sunt infirmae: nam quum olim in 
+      Ro<lb ed="#H" n="11" break="no"/>manae Ecclesiae Symbolo non fuerit articulus de descensu Christi ad 
+      <lb ed="#H" n="12"/>inferos, sed successu demum temporis insertus sit, vel idem est cum 
+      <lb ed="#H" n="13"/>articulis praecedentibus de passione &amp; sepultura Christi; vel si non est 
+      <lb ed="#H" n="14"/>idem, tum posterior Ecclesia Christiana plures fidei articulos haber 
+      <lb ed="#H" n="15"/>&amp; credit, quam prima &amp; Apostolica Ecclesia habuit &amp; credidit. 
+      At<lb ed="#H" n="16" break="no"/>hoc posterius est absurdum: Ergo verba haec de descensu Christi ad 
+      <lb ed="#H" n="17"/>inferos adjecta sunt, ut cum Ariani &amp; Apollinaristae negarent, 
+      Chri<lb ed="#H" n="18" break="no"/>stum animam humanam assumsisse &amp; in ea passum esse, illis anima 
+      <lb ed="#H" n="19"/>Christi humana &amp; passio animae assereretur, quum Christus ad 
+      infe<lb ed="#H" n="20" break="no"/>ros descenderit, id autem proprie non potuerit, nisi anima fieri. Ac 
+      <lb ed="#H" n="21"/>proinde in his verbis, Descendit ad inferos, non est repetitio articul 
+      <lb ed="#H" n="22"/>praecedentis, sed determinatio unius circumstantiae passionis &amp; mor 
+      <lb ed="#H" n="23"/>tis Christi, nempe quod animam attinet, quam Ariani &amp; 
+      Apollinari<lb ed="#H" n="24" break="no"/>stae negabant, &amp; passionem mortemque Deitati &amp; corpori Christi. 
+      <lb ed="#H" n="25"/>attribuebant. Insuper repeti aliquid in Symbolo non est vitium, 
+      ne<lb ed="#H" n="26" break="no"/>dum summum vitium: nam in Symbolo Niceno quum dicatur, 
+      Fi<lb ed="#H" n="27" break="no"/>lium Dei ex Patre natum, repetitur idem aliis verbis sequentibus, 
+      <lb ed="#H" n="28"/>Deum de Deo, lumen de lumine, Deum verum de Deo vero; genitum 
+      <lb ed="#H" n="29"/>non factum. Et mox, quum dicitur, qui propter nos homines, aliis ver 
+      <lb ed="#H" n="30"/>bis mox repetitur, &amp; propter nostram salutem. Item dicitur, &amp; 
+      in<lb ed="#H" n="31" break="no"/>carnatus est, idem repetitur in his verbis, &amp; homo factus est. Et hoc 
+      <lb ed="#H" n="32"/>idem Symbolum Synodus Tridentina agnoscit.  
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1922">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Quod ad Conciliorum &amp; Patrum Ecclesiasticorum testimonia 
+      atti<lb ed="#H" n="34" break="no"/>net, ex us opinio Papistarum non potest probari: tum quia 
+      probatio<lb ed="#H" n="35" break="no"/>nes ab autoritate Conciliorum &amp; Patrum sine Scripturis divinitus 
+      <lb ed="#H" n="36"/>inspiratis non sunt sufficientes; tum quia multa eorum testimonia 
+      <lb ed="#H" n="37"/>adducuntur male. Nam vel agunt de descensu animae ad inferos 
+      vir<lb ed="#H" n="38" break="no"/>tuali, non loceli, de quo posteriore jam inter nos &amp; Papistas est 
+      con<lb ed="#H" n="39" break="no"/>troversia: vel nomen inferni seu inferorum generaliter accipiunt 
+      pro<lb ed="#H" n="40" break="no"/>quolibet animarum loco ipsi destinato dum a nobis absunt in 
+      resur<lb ed="#H" n="41" break="no"/>rectionis venturae corporum exspectatione, qui locus Graece gδns 
+      di<lb ed="#H" n="42" break="no"/>citur, quasi ἀιδῆς τόπος, invisibilis locus; eo quod nobis in hac vita 
+      si<lb ed="#H" n="43" break="no"/>inconspicuus, quomodo necesse est accipi loca Irenaei lib. 5. cap. ulti 
+      <lb ed="#H" n="44"/>mo &amp; Tertulliani lib. de anima cap. 55. Si enim stricte vox inferni 
+      ac<lb ed="#H" n="45" break="no"/>cipiatur in locis istorum Patrum, omnino tribuendus erit eis errora  
+      <lb ed="#H" n="46"/>quem Bellarminus ipse improbat, animas piorum e corpore 
+      exeun<lb ed="#H" n="47" break="no"/>tes non videre Deum ante diem ultimae resurrectionis, ac proinde 
+      <lb ed="#H" n="48"/>beatitudine privatas esse. Vel agunt Patres de victoria Christi eam 
+      <lb ed="#H" n="49"/>que triumphalibus verbis allegorice exornant petitis allegoriis 
+      ex<lb ed="#H" n="50" break="no"/>victoriis &amp; triumphis corporalibus eo fine ut animos auditorum 
+      per<lb ed="#H" n="51" break="no"/>moverent: vel de persona Christi per divinam potentiam operante: 
+      <lb ed="#H" n="52"/>potestates infernales debellante loquuntur: vel figurate loquuntur  
+      <lb ed="#H" n="53"/>de inferno, non proprie: vel sui seculi communi opinione quae multos 
+      <lb ed="#H" n="54"/>invaserat abrepti statuerunt quod Scriptura Sacra nullibi docet. 
+      <lb ed="#H" n="55"/>quibus nos adstipulari non tenemur. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1977">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Praeter testimonium Patrum adfert Bellarminus cap. decimosex. 
+      <lb ed="#H" n="57"/>to rationem a fine petitam, cujus ista est sententia: Si animae justore 
+      <lb ed="#H" n="58"/>ante adscensionem Christi in coelum non fuerunt in coelo, sed adhuc 
+      <lb ed="#H" n="59"/>in carcere inferni: tum necesse fuit animam Christi localiter eo 
+      de<lb ed="#H" n="60" break="no"/>scendere, ut animas justorum ex eo carcere educeret &amp; in coelum 
+      de<lb ed="#H" n="61" break="no"/>duceret. Quod antecedit verum est;. Ergo &amp; quod sequitur.  
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e1995">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>RESP. Assumtum est falsum: nam animas piorum fuisse 
+      ante<lb ed="#H" n="63" break="no"/>adscensionem Christi in coelo testantur exempla Enochi &amp; Eliae, qui  
+      <lb ed="#H" n="64"/>cum animabus &amp; corporibus vivi translati sunt in coelum Genes. 5. 
+      <lb ed="#H" n="65"/>pers. 24. Hebr. 11. v. 5. 1. Macha. 2. v. 58. Elias gelo affectus Legis 
+      as<lb ed="#H" n="66" break="no"/>sumtus est in coelum usque: testatur exemplum latronis in cruce 
+      con<lb ed="#H" n="67" break="no"/>versi, cujus anima eodem die e corpore migravit in Paradisum 
+      coe<lb ed="#H" n="68" break="no"/>lestem. juxta promissionem Christi; Amen dico tibi, Hodie mecum 
+      <lb ed="#H" n="69"/>eris in Paradiso. Testatur Ecclesiastes qui cap. 12. v. 9. ait: Redeunte 
+      <lb ed="#H" n="70"/>pulvere ipso in terram quemadmodum fuerat, spiritus redit ad Deii 
+      <lb ed="#H" n="71"/>qui dederat illum 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2021">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Sed Bellarminus assumtum conatur probare capite 
+      undecimo<lb ed="#H" n="73" break="no"/>aliquot argumentis, quae ordine recensebimus &amp; quanta fieri poter 
+      <lb ed="#H" n="74"/>rit brevitate refellemus. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2032">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>I. Prorsus inauditum est in Ecclesia Dei, animas fidelium fuisse. 
+      <lb ed="#H" n="76"/>in coelo ante Christi adscensionem. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2041">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>RESPOND. Falsum hoc est, ut ex praecedenti responsione 
+      li<lb ed="#H" n="78" break="no"/>quet  
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2051">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>II. Genes. 37. vers. 35. ait Iacobus: Descensurus sum ad filium, 
+      <lb ed="#H" n="80"/>meum lugens in infernum: Ergo animae piorum ante adscensionem 
+      <lb ed="#H" n="81"/>Christi in coelum non fuerunt in coelo, sed in inferno, nempe in limbo 
+      <lb ed="#H" n="82"/>Patrum. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2064">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>RESPOND. Ex ambiguo ἀλόρος argumentatur Bellarminus 
+      <lb ed="#H" n="84"/>nam in hoc loco Genescos descendere in infernum, idem est quod 
+      <lb ed="#H" n="85"/>mori, idque per metonymiam adjuncti, quia qui moriuntur, ordina 
+      <lb ed="#H" n="86"/>rie sepeliuntur, quasi diceret Jacobus, tantus est hic luctus, ut mortem 
+      <lb ed="#H" n="87"/>sit mihi acceleraturus &amp; me cito in sepulcrum detrusurus: brevi moriar 
+      <lb ed="#H" n="88"/>&amp; sequar filium meum. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2082">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>III. Luc. 16. v. 26. Abrahamus &amp; Lazarus in eadem voragine. 
+      <lb ed="#H" n="90"/>fuerunt, in qua &amp; divitis epulonis anima, licet multum inter se 
+      di<lb ed="#H" n="91" break="no"/>stantes. Ergo Abrahami &amp; Lazari animae fuerunt in inferno, &amp; non 
+      <lb ed="#H" n="92"/>in coelo. Probatur antecedens: quia dives cum in inserno esset, vidit. 
+      <!--cod-MkL9py-0441.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>a longe animam Lazari in sinu Abrahae, &amp; cum Abrahamo 
+      loquu<lb ed="#H" n="94" break="no"/>tus est, &amp; audivit, inter loca ipsorum magnum hiatum esse, quia id 
+      <lb ed="#H" n="95"/>significat χσμα, ex quo apparet, nihil solidi fuisse interjectum 
+      inte<lb ed="#H" n="96" break="no"/>locum damnatorum &amp; sinum Abrahae. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2108">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>RESP. Primo ex parabolis inferre conclusionem propriam est 
+      <lb ed="#H" n="98"/>ἀλόγον: quia mutato genere praedicationis nihil sequitur. Jam autem 
+      <lb ed="#H" n="99"/>Dominum Luc.16. parabolice loquutum esse confirmat Athanasius 
+      <lb ed="#H" n="100"/>quaest. 21. ad Antiocnium. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2121">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Item Chrysostomus in Commentariis super primum caput ad 
+      <lb ed="#H" n="102"/>B 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2130">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Deinde falsum est antecedens. Abrahamus enim &amp; Lazarus non 
+      <lb ed="#H" n="104"/>fuerunt apud inferos, etsi dives epulo in inferis exsistens eos 
+      videri<lb ed="#H" n="105" break="no"/>κο ταν εννοημαιικμν σθεσιν, sed vidit eos procul exsistentes, non 
+      ergo<lb ed="#H" n="106" break="no"/>erant apud inferos: &amp; vidit sublatis oculis, ipsi ergo erant sursum, sed 
+      <lb ed="#H" n="107"/>in locis superis. Neque etiam chasma significat hiatum, a cujus extre 
+      <lb ed="#H" n="108"/>mo uno ad alterum nihil solidi interjectum est: quia est hiatus coelis 
+      <lb ed="#H" n="109"/>convexi, &amp; tamen interjectam habet terram: est hiatus terrae, qui 
+      in<lb ed="#H" n="110" break="no"/>terjectam habet aquam, est hiatus inter duo extrema hominis oro 
+      <lb ed="#H" n="111"/>niantis labra, inter quae tamen intervenit lingua. Tum Lazari &amp; 
+      e<lb ed="#H" n="112" break="no"/>pulonis animae nequaquam fuerunt in eadem voragine: nam inter 
+      <lb ed="#H" n="113"/>pios &amp; impios magnus hiatus est, magna vorago, ut Abrahamus 
+      te<lb ed="#H" n="114" break="no"/>statur. Unde Augustinus ait epistola nonagesimanona quae est ad 
+      <lb ed="#H" n="115"/>Evodium: Non utique sinus ille Abrahae, id est, secretae cujusdam quie  
+      <lb ed="#H" n="116"/>tis habitatio, aliqua pars inferorum esse credenda est: quanquam in 
+      <lb ed="#H" n="117"/>his ipsis tanti verbis magistri, ibi ait dixisse Abraham, inter nos &amp; 
+      <lb ed="#H" n="118"/>vos chaos magnum firmatum est, satis ut opinor appareat non esse 
+      <lb ed="#H" n="119"/>quandam partem, &amp; quasi membrum inferorum tantae illius 
+      felici<lb ed="#H" n="120" break="no"/>tatis sinum. Chaos enim magnum, quid est nisi quidam hiatus, mul 
+      <lb ed="#H" n="121"/>sum ea separans, inter quae non solum est, verum etiam firmatus est. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2177">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Papistas refutat responsum Abrahami: nam inter quos magnus 
+      <lb ed="#H" n="123"/>niatus seu vorago est, ii non sunt in eadem voragine: Inter animas 
+      <lb ed="#H" n="124"/>Lazari &amp; divitis epulonis magnus hiatus sive vorago fuit: Ergo non 
+      <lb ed="#H" n="125"/>fuerunt in eadem voragine 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2190">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>IV. 1. Reg. 28. seu juxta textum Hebraeum 1. Sam. 28. 13. dicit 
+      <lb ed="#H" n="127"/>tur, animam Samuelis apparentem Sauli de terra adscendere visam: 
+      <lb ed="#H" n="128"/>Ergo illa fuit apud inferos &amp; non in coelo 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2201">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>RESP. Negatur antecedens: nam mulier Pythonissa non vidie. 
+      <lb ed="#H" n="130"/>veram Samuelis animam quae est invisibilis, nec verum Samuelem 
+      <lb ed="#H" n="131"/>sed spectrum seu daemonem sub specie Samuelis: Nam loquitur  
+      <lb ed="#H" n="132"/>Scriptura, δαζαστικως, id est, secundum opinionem Pythonissae. Non 
+      <lb ed="#H" n="133"/>enim fuisse verum Samuelem, agnoscunt &amp; docent orthodoxi 
+      Pa<lb ed="#H" n="134" break="no"/>tres. Iustinus Martyr Quaest. &amp; Respons. ad Orthodoxos 
+      quinqua<lb ed="#H" n="135" break="no"/>gesimasecunda quaest. &amp; respons. Tertullianus libro de anima, cap. 
+      <lb ed="#H" n="136"/>quinquagesimo septimo. Ecllarminus ait, fuisse verum Samuelem 
+      <lb ed="#H" n="137"/>&amp; praevenisse incantationem, quod falsum est. Nam Pythonissam 
+      u<lb ed="#H" n="138" break="no"/>sam esse magica evocatione Samuelis ostendit vers. 11. &amp; 12. &amp; 15. 
+      <lb ed="#H" n="139"/>Palliatus ille senex a Pythonissa evocatus bis vocatur imago Samue 
+      <lb ed="#H" n="140"/>lis, libro secundo de doctr. Christiana, cap. vigesimotertio: a Hiero 
+      <lb ed="#H" n="141"/>nymo autem appellatur phantasma, Commentar. in Matt. 6. In ipse  
+      <lb ed="#H" n="142"/>ure Canonico, Causa vigesima sexta. Quest. quinta, cap. Nec mirum 
+      <lb ed="#H" n="143"/>diserte docetur, non fuisse verum Samuelem, sed Satanam habitum  
+      <lb ed="#H" n="144"/>Samuelis mentientem: Idem statuit glossa ordinaria in hunc 
+      lo<lb ed="#H" n="145" break="no"/>cum 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2243">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>V. 1. Petr. 3. 19. Iis qui in carcere erant spiritibus praedicavit, qui  
+      <lb ed="#H" n="147"/>increduli fuerunt aliquando, quando exspectabamt Dei patientiam 
+      <lb ed="#H" n="148"/>in diebus Noe. Hic dicuntur animae fuisse in carcere: non ergo in 
+      <lb ed="#H" n="149"/>coelo. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2256">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>RESP. Primo versio est vitiosa, unde consequentiae eruuntur 
+      <lb ed="#H" n="151"/>falsae. Nam verbum substantivum erant infarsit vetus interpres 
+      con<lb ed="#H" n="152" break="no"/>tra mentem Petri, qui in Graeco textu habet, ἐν φκιτοῆς ἐν φθλακῆ 
+      <lb ed="#H" n="153"/>τθδυνμασε πορώυθεις εκηρθXεν. Verti igitur debet, In quo nempe spirite 
+      <lb ed="#H" n="154"/>&amp; iis spiritibus qui in carcere, nimirum sunt, profectus praedicavit. 
+      <lb ed="#H" n="155"/>Nam praesens verbum subintelligendum docet Clemens 
+      Alexan<lb ed="#H" n="156" break="no"/>drinus in Stromatibus. Agit igitur hic locus non de piorum 
+      spiriti<lb ed="#H" n="157" break="no"/>bus, de quibus jam quaeritur, sed de spiritibus impiorum, qui etiam 
+      <lb ed="#H" n="158"/>num detinentur in inferno. Idque multo manifestius est ex versu 
+      se<lb ed="#H" n="159" break="no"/>quente, in quo ait Petrus, spiritus illos fuisse immorigeros tempore 
+      <lb ed="#H" n="160"/>Noe: non ergo fuerunt spiritus piorum 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2285">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>VI. Zach. 9. vers. 11. Tu autem in sanguine Testamenti eduxisti 
+      <lb ed="#H" n="162"/>vinctos e lacu, in quo non erat aqua. Ergo animae piorum fuerunt in 
+      <lb ed="#H" n="163"/>inferno, in limbo Patrum, ac proinde non in coelo 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2297">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>RESP. Primo vitiosa est versio, quia in illa est oratio 
+      Propheta<lb ed="#H" n="165" break="no"/>Zachariae ad Messiam, quum in textu Hebraeo sit oratio Dei ipsius 
+      <lb ed="#H" n="166"/>ad Ecclesiam. Nam Pronomen Athin Hebraeo est femininum: 
+      affixa<lb ed="#H" n="167" break="no"/>item in Beritech, id est, federis tui, &amp; in afirajch, hoc est, vinctos tuos 
+      <lb ed="#H" n="168"/>feminina sunt. Certo ergo est certius, haec esse Dei verba ad filiam 
+      <lb ed="#H" n="169"/>Tzijonis: non autem Prophetae ad Messiam. Praeterea in textu 
+      He<lb ed="#H" n="170" break="no"/>braeo non est Schillachta, id est, emisisti: Sed Schillachti, hoc est, 
+      emi<lb ed="#H" n="171" break="no"/>si, verbum primae, non secundae personae: Deus ergo de se loquitur  
+      <lb ed="#H" n="172"/>quod emiserit vinctos Judaeos e lacu 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2321">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Deinde lacus in quo non est aqua non est infernus, non est limbus 
+      <lb ed="#H" n="174"/>Patrum, sed carcer Babylonicus, seu captivitas Babylonica, quae erat  
+      <lb ed="#H" n="175"/>figura captivitatis spiritualis in mortis voragine. Sententia igitur? 
+      <lb ed="#H" n="176"/>est; Tu autem(nempe, o filia Tzijonis, o Ecclesia mea,) in sanguine 
+      <lb ed="#H" n="177"/>sedoris tui, id est, quae adspersa, lota &amp; mundata es sanguine federis 
+      <lb ed="#H" n="178"/>recum initi in manu Mediatoris Christi, emisi vinctos tuos e cisterna. 
+      <lb ed="#H" n="179"/>in qua nullae sunt aquae, hoc est, liberos dimisi captivos tuos ex 
+      carce<lb ed="#H" n="180" break="no"/>re Babylonico, in quo nullum solatium, nullum refrigerium erat: ac 
+      <lb ed="#H" n="181"/>proinde amplius te liberabo per Christum spiritualiter; cujus 
+      spiri<lb ed="#H" n="182" break="no"/>tualis liberationis per Christi sanguinem futurae, typus fuit illa 
+      cor<lb ed="#H" n="183" break="no"/>poralis liberatio ex captivitate Babylonica¬ 
+      <!--cod-MkL9py-0442.xml-->
+      <pb ed="#H" n="415"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>REPLIC. Locus Lachariae agit de Christo in carne exhibito per 
+      <lb ed="#H" n="2"/>sanguinem suum fideles liberante, ad quem sit apostrophe. Deinde in 
+      <lb ed="#H" n="3"/>quo sanguine Testamenti liberati sunt Iudaeie Babylone 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2363">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>RESP. Primo, apostrophe est ad Ecclesiam. Deinde: In sanguim 
+      <lb ed="#H" n="5"/>Testamenti Christi etiam Judaei e Babylone sunt liberati: Nam 
+      san<lb ed="#H" n="6" break="no"/>guis Christi omnium beneficiorum Dei in utroque Testamento 
+      cau<lb ed="#H" n="7" break="no"/>sa est. Proinde Matthaeus Evangelista totum hunc locum ad 
+      Christi<lb ed="#H" n="8" break="no"/>adventum &amp; Ecclesiae in Christi sanguine redemtionem refert. 
+      Prae<lb ed="#H" n="9" break="no"/>terea corporalis liberatio populi Judaici ex captivitate Babylonica 
+      <lb ed="#H" n="10"/>fuit typus spiritualis liberationis per Christum. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2383">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>His additur ab aliis locus VII. ex Hebr. 9. vers. 8. Hoc declavant 
+      <lb ed="#H" n="12"/>Spiritu Sancto, nondum patefactam fuisse viam ad sacrarium, 
+      prio<lb ed="#H" n="13" break="no"/>re Tabernaculo adhuc consistente. Ergo nullae adhuc animae in coelum 
+      <lb ed="#H" n="14"/>venerant. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2396">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>RESP. Homonymia est in verbo patefieri, quod antagonistae ac 
+      <lb ed="#H" n="16"/>cipiunt pro reserari, aperiri; quum hoc loco significet manifestari; 
+      <lb ed="#H" n="17"/>palam annunciari, &amp; praedicari, ut ostendit verbum Graecum τεφαι
+      e<lb ed="#H" n="18" break="no"/>pώο; unde &amp; Vulgata Versio habet, nondum propalatam esse 
+      san<lb ed="#H" n="19" break="no"/>ctorum viam, adhuc priore Tabernaculo habente statum. Coelum 
+      <lb ed="#H" n="20"/>enim fuit reseratum sanctis Veteris Testamenti virtute &amp; efficacia 
+      <lb ed="#H" n="21"/>sanguinis Christi, per quem suo tempore Christus erat ingressurus 
+      <lb ed="#H" n="22"/>in coeleste Sacrarium, etsi id nondum mundo manifestum fuit, doneo 
+      <lb ed="#H" n="23"/>Christus est exhibitus, in carne conspicuus factus, justificatus in 
+      spi<lb ed="#H" n="24" break="no"/>ritu &amp; gentibus praedicatus. Durante Veteri Testamento, vita 
+      san<lb ed="#H" n="25" break="no"/>ctorum, scilicet Christus, qui dicit Johan. 14. Ego sum via, nondum 
+      <lb ed="#H" n="26"/>venerat. Ipse enim est ostium, per quod patet introitus in sancta 
+      san<lb ed="#H" n="27" break="no"/>ctorum, Johan. 10. Ego sum ostium. Sed non erat propalatus, quia 
+      <lb ed="#H" n="28"/>adhuc latebat sub figuris literae obumbratus; Hebr. 10. Umbram. 
+      <lb ed="#H" n="29"/>hubens lex futurorum, ut exponit hunc locum Thomas Aquinas in 
+      <lb ed="#H" n="30"/>Explanatione epistolae ad Hebraeos. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2435">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>VIII. Patres communi consensu docent, animas piorum non 
+      ve<lb ed="#H" n="32" break="no"/>nisse in coelum ante Christi adscensionem: ut Irenaeus libr. 5. circa 
+      fi<lb ed="#H" n="33" break="no"/>nem: Tertullianus libro 4. contra Marcionem, &amp;c. 
+      <lb ed="#H" n="34"/>RESP. Petitio est principii, quia probatio petitur ex principio 
+      a<lb ed="#H" n="35" break="no"/>lieno &amp; non ex Sacra Scriptura quae sola est principium probandi 
+      do<lb ed="#H" n="36" break="no"/>gmata religionis Christianae. Deinde non est in eo consensus 
+      univer<lb ed="#H" n="37" break="no"/>salis Patrum: nam autor primi libri Machabaeorum cap. secundo 
+      <lb ed="#H" n="38"/>docet, Eliam in coelum assumtum. Et Augustinus epistolam nonage 
+      <lb ed="#H" n="39"/>simanona ad Evodium animas piorum in inferno fuisse negat, ut &amp; 
+      <lb ed="#H" n="40"/>sinum Abrahae in inferno fuisse negat. Nec contrarium affirmat 
+      li<lb ed="#H" n="41" break="no"/>pro 20. de Civitate Dei cap. 15. sed ibi tantum ex suppositione 
+      opi<lb ed="#H" n="42" break="no"/>nionis aliorum argumentatur: Si non absurde credi videtur, &amp;c. 
+      <lb ed="#H" n="43"/>Est ne hoc affirmare? Suppositio est alienae opinionis, valens ad 
+      per<lb ed="#H" n="44" break="no"/>sonam in argumentando: non autem affirmatio ex propria 
+      senten<lb ed="#H" n="45" break="no"/>tia ad rei veritatem asserendam. Tertio Patrum quos Bellarminus 
+      <lb ed="#H" n="46"/>allegat testimonia dissimiliter habent &amp; quaedam ex eis ne Papistae 
+      <lb ed="#H" n="47"/>quidem ipsi admiserint simpliciter &amp; inprimis duo posita a 
+      Bellar<lb ed="#H" n="48" break="no"/>mino primo loco. Nam Irenaeus libro quinto, cap. ultimo ita 
+      loqui<lb ed="#H" n="49" break="no"/>tur, ut videatur arcere omnes piorum animas a visione Dei usque ad 
+      <lb ed="#H" n="50"/>empus resurrectionis. Idem de Tertulliano verum est, qui simul 
+      fa<lb ed="#H" n="51" break="no"/>bulosa de campis Elysiis admiscet. Verba ejus lib. 4. adversus 
+      Mar<lb ed="#H" n="52" break="no"/>cionem haec sunt: Unde apparet (inquit) sapienti cuique qui 
+      aliquan<lb ed="#H" n="53" break="no"/>do Elysios audierit, esse aliquam localem determinationem, quae sinus 
+      <lb ed="#H" n="54"/>dicta sit Abrahae, ad recipiendas animas filiorum ejus etiam ex 
+      natio<lb ed="#H" n="55" break="no"/>nibus Patris scilicet multarum nationum, in Abrahae censum 
+      depus<lb ed="#H" n="56" break="no"/>tandarum, ex eadem fide, qua &amp; Abraham Deo credidit nullo 
+      sub<lb ed="#H" n="57" break="no"/>jugo Legis, nec in signo circumcisionis. Eam itaque regionem sinum 
+      di<lb ed="#H" n="58" break="no"/>co Abrahae, etsi non coelestem, sublimiorem tamen inferis, interim 
+      re<lb ed="#H" n="59" break="no"/>frigerium praebituram animabus justorum donec consummatio res 
+      <lb ed="#H" n="60"/>rum resurrectionem omnium plenitudine mercedis expungat. Quid 
+      <lb ed="#H" n="61"/>his testimoniis Bellarminus vincat: 
+      <lb ed="#H" n="62"/>Ex his patet, Papistas minime probare posse, animas piorum 
+      Ve<lb ed="#H" n="63" break="no"/>teris Testamenti ex hoc mundo migrantes non statim venisse in 
+      <lb ed="#H" n="64"/>coelum. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2514">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Nostram vero sententiam probamus sequentibus argumentis: 
+      <lb ed="#H" n="66"/>I. Quia morientes justi pacem ingrediebantur, hoc est, 
+      prosperi<lb ed="#H" n="67" break="no"/>tatem omnem, ut docet Jesaias cap. 57. vers. 2. Iustus perit, &amp; nemo 
+      <lb ed="#H" n="68"/>homo reponit in corde: homines, inquam, benigni recipiuntur, 
+      nemi<lb ed="#H" n="69" break="no"/>ne advertente, ante adventum ipsius mali recipi justum; Ingredi 
+      pa<lb ed="#H" n="70" break="no"/>cem. Sic Luc. 2. v. 29. Simeon ille justus ait: Nunc dimittis servum 
+      <lb ed="#H" n="71"/>tuum Domine, secundum verbum tuum, cum pace¬ 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2534">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>II. Quia de spiritibus piorum dicitur in libro Ecclesiastae cap. 12. 
+      <lb ed="#H" n="73"/>vers. 9. quod redeant ad Deum qui dederat ipsum. Redire autem ad 
+      <lb ed="#H" n="74"/>Deum, non est descendere ad inferos, aut in limbum inferni, sed in 
+      <lb ed="#H" n="75"/>coelum recip¬ 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2547">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>III. Quia transferebantur fideles in civitatem illam habentem 
+      <lb ed="#H" n="77"/>fundamenta, cujus artifex &amp; conditor est Deus, quam 
+      exspectave<lb ed="#H" n="78" break="no"/>rant: migrabant in patriam quam quaerebant, recipiebantur in 
+      me<lb ed="#H" n="79" break="no"/>liorem, hoc est, coelestem patriam, quam expetebant: in urbem quam 
+      <lb ed="#H" n="80"/>paraverat illis Deus, Hebr. 11. v. 10. &amp; sequentibus 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2563">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>IV. Quia fideles veteris Testamenti fuerunt participes per fidem 
+      <lb ed="#H" n="82"/>redemtionis &amp; salutis aeternae per Christum non minus atque fideles. 
+      <lb ed="#H" n="83"/>Novi Testamenti. Nam Jesus est Christus, heri &amp; hodic item &amp; 
+      in<lb ed="#H" n="84" break="no"/>secula Hebr. 13. v. 8. Et Agnus ille mactatus est a jacto mundi funda 
+      <lb ed="#H" n="85"/>mento, Apoc. 13. ver. 8. Certe satisfactio Christi ab initio mundi vere 
+      <lb ed="#H" n="86"/>fidelibus salutem attulit animarum: Salus autem animarum non 
+      a<lb ed="#H" n="87" break="no"/>libi est quam in coelo. Obtulit quidem Christus Deo &amp; Patri 
+      com<lb ed="#H" n="88" break="no"/>plementum satisfactionis destinato tempore: at credentibus indea 
+      <lb ed="#H" n="89"/>principio mundi praestitit fructum satisfactionis illius. Nam &amp; ille 
+      <lb ed="#H" n="90"/>pro omnibus sibi datis ab aeterno, id est, pro electis hominibus fidet 
+      <lb ed="#H" n="91"/>jussit, &amp; Pater sathabuit fidejussione illius, ut credentes ante 
+      incar<lb ed="#H" n="92" break="no"/>nationem Christi solam fiducia ac virtute satisfactionis futurae in pos¬ 
+      <!--cod-MkL9py-0442.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>sessionem salutis mitterentur. Certe justum est, si reus in judicio 
+      hu<lb ed="#H" n="94" break="no"/>mano satisdet, ut liber sit a carcere. Si homines acceptant 
+      futisdatio<lb ed="#H" n="95" break="no"/>nem &amp; reum satisdantem carceri non mancipant: cur non faciat 
+      ini<lb ed="#H" n="96" break="no"/>sericors Deus? Ergo sicut vi sponsionis alienae quae suo demum 
+      tem<lb ed="#H" n="97" break="no"/>pore a sponsore est implenda, reus carcerem non ingreditur, sed 
+      li<lb ed="#H" n="98" break="no"/>pertate fruitur: ita virtute sponsionis Christi quae ino tempore ad 
+      <lb ed="#H" n="99"/>implenda erat, credentes inde ab initio mundi salutem aeternam 
+      ob<lb ed="#H" n="100" break="no"/>tinuerunt positam in beatitudine &amp; vindicatione ab omni malo 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2615">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>V. Quia exempla piorum idae videnter evincunt: Nam Enochi, 
+      <lb ed="#H" n="102"/>Abrahami, Mosis, Davidis, Eliae, Lazari pij mendici illius, latronis in 
+      <lb ed="#H" n="103"/>cruce conversi, &amp; aliorum animae fuerunt ante adscensionem Christi 
+      <lb ed="#H" n="104"/>in coelo 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2628">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Ex his consequitur, Christum anima sua localiter ad inferos 
+      libe<lb ed="#H" n="106" break="no"/>tandorum Patrum causa non descendisse: Ac proinde Papistarum 
+      o<lb ed="#H" n="107" break="no"/>pinionem de descensu Christi ad inferos erroneam esse. 
+      </p>
+            <p xml:id="yyy8Uu-e99591-d1e2640">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>Hactenus fuit de humiliatione Christi: sequitur de eius 
+      <lb ed="#H" n="109"/>exaltatione.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

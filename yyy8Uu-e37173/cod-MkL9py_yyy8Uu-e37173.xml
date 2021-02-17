@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 38</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 38</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="80"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e37173"> <!-- l1-c38 -->
+            <head xml:id="yyy8Uu-e37173-Hd1e109">Caput 38</head>
+            <p xml:id="yyy8Uu-e37173-d1e112">
+               <lb ed="#H" n="35"/>CAPUT XXXVIII. 
+      <lb ed="#H" n="36"/>In quo de editione Graeca Novi Testamenti 
+      <lb ed="#H" n="37"/>agitur
+    </p>
+            <p xml:id="yyy8Uu-e37173-d1e121">
+               <lb ed="#H" n="38"/>VTRES quaestiones de Graeca editione Novi Testamenti praeci¬ 
+      <lb ed="#H" n="39"/>pue occurrunt.
+    </p>
+            <p xml:id="yyy8Uu-e37173-d1e128">
+               <lb ed="#H" n="40"/>Prima est, qui sint autores ejus? Secunda vero, an tota 
+      Graec<lb ed="#H" n="41" break="no"/>ab illis sit initio scripta? Tertia denique, an sit authentica; 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e136">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Quod ad primam quaestionem attinet, ea nec admodum necessaris 
+      <lb ed="#H" n="43"/>nec valde difficilis est. Nam constat libros omnes Novi Testamenti 
+      <lb ed="#H" n="44"/>scriptos esse ab iis Apostolis vel Evangelistis, quorum nomina in 
+      ti<lb ed="#H" n="45" break="no"/>tulis singulorum librorum vel Epistolarum praefiguntur. Id autem 
+      <lb ed="#H" n="46"/>constat unicuique fideli verbum Dei legenti vel audienti tum ex 
+      testi<lb ed="#H" n="47" break="no"/>monio Scripturae, cujus partas sunt tituli singulis libris illius &amp; 
+      Epi<lb ed="#H" n="48" break="no"/>stolis praefixi: tum ex testimonio interno Spiritus sancti flectentis 
+      <lb ed="#H" n="49"/>corda ad credendum toti Scripturae tanquam divinae &amp; Canonicae, 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e158">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Papistae contra contendunt, ex Scripturis haberi non posse, sed ex 
+      <lb ed="#H" n="51"/>sola traditione Ecclesiae, libros illos vere esse illorum Apostolorum 
+      <lb ed="#H" n="52"/>vel Evangelistarum quib. adscribuntur, &amp; non supposititios: Bellarm, 
+      <lb ed="#H" n="53"/>lib. 4. de Verbo Dei, cap. 4. sectione16. &amp; sequentibus 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e171">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>At ex Scripturis haberi non posse, falsum est: quum exordia 
+      libro<lb ed="#H" n="55" break="no"/>rum &amp; Epistolarum, ex quibus id habetur, sint partes Scripturae. 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e180">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Ex sola traditione Ecclesiae id haberi, itidem falsum. Interim libem 
+      <lb ed="#H" n="57"/>ter fatemur, id etiam ex Ecclesiae traditione nos habere: quia 
+      Eccle<lb ed="#H" n="58" break="no"/>sia hos libros quos habemus, ex quo accepit, per manus tradidit 
+      po<lb ed="#H" n="59" break="no"/>steris, &amp; historice testata est, illorum Apostolorum atque Evangelista. 
+      <lb ed="#H" n="60"/>rum esse, quorum nomina prae se ferunt; idque adhuc Ecclesia facit &amp; 
+      <lb ed="#H" n="61"/>factura est usque ad finem mundi. Haec autem traditio non est dogma 
+      <lb ed="#H" n="62"/>aliquod non scriptum, quomodo vox traditionis a Papistis plerunque 
+      <lb ed="#H" n="63"/>asurpatur, sed opus officii quod Ecclesiae a Deo est impositum: illa e 
+      <lb ed="#H" n="64"/>nim debet in posteritatem tradere libros Scripturae S. &amp; suo testime 
+      <lb ed="#H" n="65"/>nio illos posteris commendare 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e206">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Quod ad secundam quaestionem attinet, An totum Novum 
+      Testa<lb ed="#H" n="67" break="no"/>mentum initio Graece fuerit scriptum? nos affirmamus. 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e215">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Novi enim Testamenti editio authentica debuit Graeca esse 
+      <lb ed="#H" n="69"/>I. Ut omnes nationes ejus lectione &amp; praedicatione ad Ecclesiam 
+      <lb ed="#H" n="70"/>Christi adducerentur. Nam quanquam eo tempore Romani 
+      impe<lb ed="#H" n="71" break="no"/>rium latissimum obtinebant: linguam tamen Graecorum, quam 
+      La<lb ed="#H" n="72" break="no"/>tinorum, latius patuisse, testis est ipse Cicero, in oratione pro 
+      Archi<lb ed="#H" n="73" break="no"/>Poeta. 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e234">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>II. Ut Gentium idololatriam, Graecorumque Philosophiam &amp; sa 
+      <lb ed="#H" n="75"/>pientiam facilius redargneret. 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e243">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Contra objicit Bellarminus lib. 2. de Verbo Dei, cap. 7. 
+      <lb ed="#H" n="77"/>Evangelium Matthai &amp; Epistola ad Hebraeos sunt scripta primo 
+      He<lb ed="#H" n="78" break="no"/>braice: Marci vero liber Latine ab ipso Marco Romaescriptus est, ac de 
+      <lb ed="#H" n="79"/>inde ab eodem Aquilejae in Graecam linguam conversus: 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e256">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Ergo Novum Testamentum totum Graece initio non est scriptum, 
+      <lb ed="#H" n="81"/>Antecedentis tria sunt memora: unum de Evangelio Matthaei, al 
+      <lb ed="#H" n="82"/>terum de epistola Pauli ad Hebraeos, tertium de Evangelio Marci¬ 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e267">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Probatur prius membrum testimonio Irenaei libro tertio capite 
+      pri<lb ed="#H" n="84" break="no"/>mo: Athanasii in Synopsi, item Hieronymi, qui affirmat in Praefatione 
+      <lb ed="#H" n="85"/>in quatuor Evangelistas ad Damasum a Matthaeo Evangelium 
+      He<lb ed="#H" n="86" break="no"/>praicis literis editum esse: Item in Catalogo Matthai seu libro de scri¬ 
+      <!--cod-MkL9py-0105.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="87"/>ptoribus Ecclesiasticis in Matthaeo, aitque ipsum exemplar Hebraicum suo, 
+      <lb ed="#H" n="88"/>tempore servari in Caesariensi Bibliotheca, quam Pamphylus Martyr: 
+      <lb ed="#H" n="89"/>exstruxerat. Idem scribit in caput 11. Oseae. Idem dicit Bellarminus 
+      sen<lb ed="#H" n="90" break="no"/>tire omne. 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e293">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>RESP. Primo, Evangelium Matthaei Hebraice scriptum non 
+      <lb ed="#H" n="92"/>est: quia Apostolorum tempore, Judaei Hebraice quidem, sed non 
+      <lb ed="#H" n="93"/>pure, verum admistis aliis linguis, ineprimis Syra loquebantur: Ergo 
+      <lb ed="#H" n="94"/>alia lingua potius Matthaeus scripsisset, quam Hebraica. 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e306">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>II. Graece potius scripsit Matthaeus, tum quia eo tempore Graeca 
+      <lb ed="#H" n="96"/>lingua erat ipsis etiam Judaeis cognita: tum quia etiam Apostoli alii  
+      <lb ed="#H" n="97"/>Graece scripserunt, non modo quae cunctis promiscue, sed &amp; quae 
+      Ju<lb ed="#H" n="98" break="no"/>daeis peculiariter inscripta funt, ut Jacobus &amp; Petrus 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e320">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>III. Probatio petit principium: nam quae sancti illi patres de 
+      <lb ed="#H" n="100"/>Matthaei Evangelio Hebraeo leguntur scripsisse, ea ab incerta 
+      tradi<lb ed="#H" n="101" break="no"/>tione sunt, nec justa videtur causa, cur ita facere autores oporteret 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e331">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Probatio secundi membri de Epistola ad 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e338">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Hebraeos. 
+      <lb ed="#H" n="104"/>Hieronymus in Catalogo in Paulo ait, epistolam ad Hebraeos 
+      Hebra<lb ed="#H" n="105" break="no"/>ice esse scriptam: 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e349">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Ergo: &amp;c. 
+      <lb ed="#H" n="107"/>RESP. Primo, Epistola ad Hebraeos non est scripta Hebraice; 
+      <lb ed="#H" n="108"/>quia etsi tum temporis erat purus sermo Hebraeus in Scriptura: non 
+      <lb ed="#H" n="109"/>erat tamen vernaculus, nec in usu populari: erant enim variae dialecti 
+      <lb ed="#H" n="110"/>in populo, Syriaca, Chaldaica, Hierosolymitana, Samaritana &amp; aliae; 
+      <lb ed="#H" n="111"/>quae etiam pro ratione locorum quibus Judaei erant dissiti, jam eo 
+      <lb ed="#H" n="112"/>empore mutationes &amp; corruptiones plurimas induerant: quibus 
+      re<lb ed="#H" n="113" break="no"/>bus jam tum effectum erat, ut nec lingua Hebraica a plurimis, nec 
+      <lb ed="#H" n="114"/>dialectus haec aut illa ab his aut illis intelligeretur. Certe 
+      Hebraea<lb ed="#H" n="115" break="no"/>lingua proprie dicta, per illud tempus nec vernacula, nec communis 
+      <lb ed="#H" n="116"/>fuit, neutroque modo vulgaris: sic ut ne ii quidem Hebraei, qui in 
+      Ju<lb ed="#H" n="117" break="no"/>daea tum erant, bene sciverint Hebraice 
+      <lb ed="#H" n="118"/>Hebraei maxime qui in minore Asia degebant, linguam Graecam 
+      <lb ed="#H" n="119"/>tanquam in illa regione popularem intelligebant. Graeca, inquam,i 
+      <lb ed="#H" n="120"/>lingua plerisque Hebraeorum tum communis fuit atque etiam 
+      vernacu<lb ed="#H" n="121" break="no"/>la, ex qua Hellenistae dicti, quia Graeco sermone ut communi aut 
+      et<lb ed="#H" n="122" break="no"/>iam vulgari utebantur.  
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e391">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Secundo, quia caeteris quoque Gentibus, apud quas lingua Graeca 
+      <lb ed="#H" n="124"/>g tum usitata erat, simul consultum Apostolus esse voluit  
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e400">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Instantia. 
+      <lb ed="#H" n="126"/>At verisimilius est ad Hebraeos Hebraice scripsisse Apostolum. 
+      <lb ed="#H" n="127"/>RESP. Non magis certe, quam si quis diceret ad Romanos 
+      Ro<lb ed="#H" n="128" break="no"/>mane, hoc est, Latine ipsum scripsisse. Cur autem Graece ad Roma. 
+      <lb ed="#H" n="129"/>nos, &amp; non Latine scripsit? Quia etsi tum imperium penes 
+      Roma<lb ed="#H" n="130" break="no"/>nos erat, plerasque tamen orbis terrarum partes Graecorum sermo 
+      ob<lb ed="#H" n="131" break="no"/>tinebat. Quod igitur de Epistola ad Romanos Graece scripta; idem 
+      <lb ed="#H" n="132"/>de epistola ad Hepraeos optimo jure dici potest. 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e423">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>Probatio tertii membri de Evange¬ 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e430">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>lio Marci. 
+      <lb ed="#H" n="135"/>Illud Latine a Marco scriptum initio, docet <name xml:id="yyy8Uu-e37173-Nd1e438">Adrianus Finus</name> libr. 6. 
+      <lb ed="#H" n="136"/>flagelli Iudaeorum, cap. 80, &amp; lib. 8. cap. 62. &amp; qui Finum secutus est, 
+      <lb ed="#H" n="137"/>
+               <name xml:id="yyy8Uu-e37173-Nd1e446">Petrus Antonius Beuter</name> annotat, octava &amp; nona, ad S. Scripturam. In 
+      <lb ed="#H" n="138"/>vita quoque 8. Petri, quae in pontificali Damasi primum locum tenet, iden 
+      <lb ed="#H" n="139"/>satis aperte indicatur  
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e454">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>RESP. Petitur principium: nam autoritas Fini est dubia, ac 
+      pro<lb ed="#H" n="141" break="no"/>inde etiam Beuteri Finum sequentis. Quicquid ambo scribunt, 
+      niti<lb ed="#H" n="142" break="no"/>tur mera conjectura, vix ratione aut specie ulla probabili. Nam quis 
+      <lb ed="#H" n="143"/>praeter Damasum (si Damasus est) traditionis istius autor? Fabulam 
+      <lb ed="#H" n="144"/>verbis illius audiamus: Hic (puta Romae) scripsit (Petrus) duas 
+      epi<lb ed="#H" n="145" break="no"/>stolas quae Catholica aut Canonica nominantur, &amp; Evangelium Marci, 
+      <lb ed="#H" n="146"/>quia Marcus auditor ejus fuit, &amp; filius a baptismo. Enfestivum 
+      com<lb ed="#H" n="147" break="no"/>mentum, non Marci, sed Petri Evangelium esse, &amp; duabus de causis 
+      <lb ed="#H" n="148"/>ravibus scil. illis Marco adscribi. Quasi vero plus fidei &amp; autoritatis 
+      <lb ed="#H" n="149"/>Evangelio accederet a Marco, quam a Petro. Subjungamus alteram 
+      <lb ed="#H" n="150"/>fabulam, quae cum hac in eodem est contextu posita. Post omnem (
+      in<lb ed="#H" n="151" break="no"/>quit) quatuor Evangeliorum fontem, quae ad interrogationem &amp; 
+      testi<lb ed="#H" n="152" break="no"/>monium ejus (Petri,) firmata sunt, dum alius Graece, alius Hebraice, 
+      a<lb ed="#H" n="153" break="no"/>lius Latine scribentes consonant, omnia ejus testimonio sunt firmata 
+      <lb ed="#H" n="154"/>Gravem scriptorem, qui non potest prae vehementia spiritus quin ide 
+      <lb ed="#H" n="155"/>bis dicat temere in comprehensione una. Prudentem &amp; verum 
+      scri<lb ed="#H" n="156" break="no"/>ptorem, qui Petrum anno post passionem Domini XXXVIII. 
+      <lb ed="#H" n="157"/>mattyrio coronatum scribat &amp; tamen quatuor Evangelia testimonio. 
+      <lb ed="#H" n="158"/>suo firmasse; cum Johannes Evangelista anno post passionem 
+      Do<lb ed="#H" n="159" break="no"/>mini LXVI. perhibeatur Evangelium scripsisse &amp; anno LXVIII 
+      <lb ed="#H" n="160"/>ut Eusebius, Hieronymus &amp; alii referunt, obiisse. Quis fabulas istas 
+      <lb ed="#H" n="161"/>Damaso, ab infallibili Pontificis Romani pectore, a plenitudine 
+      sci<lb ed="#H" n="162" break="no"/>entiae profectas credat? Atqui haec causa est, cur Hieronymus libr. de 
+      <lb ed="#H" n="163"/>scriptoribus Ecclesiasticis in Petro scribat de hac fabula, dicitur, in 
+      <lb ed="#H" n="164"/>Marco vero diversam historiam adferat, cui magis fidem videtur 
+      ha<lb ed="#H" n="165" break="no"/>buisse. Alibi <name xml:id="yyy8Uu-e37173-Nd1e514">Bellarminus</name> ipse serio statuit Scripturas sacras non 
+      Lati<lb ed="#H" n="166" break="no"/>ne, sed vel Hebraice vel Graece a Prophetis &amp; Apostolis scriptas fuis. 
+      <lb ed="#H" n="167"/>se lib. 1. de Sacramentis, cap. 7. sect. 9. Ita secum ipse pugnat.  
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e523">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Ad TERTIAM QUAESTIONEM; An Graeca editio 
+      Novi<lb ed="#H" n="169" break="no"/>Testamenti sit authentica? jam respondendum est, 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e532">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Nos authenticam simpliciter esse dicimus, nixi argumentis 
+      supr<lb ed="#H" n="171" break="no"/>jam commemoratis, quae hoc loco repetere non est necesse 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e541">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Bellarminus autem libro secundo de Verbo Dei, capit, septimo, 
+      se<lb ed="#H" n="173" break="no"/>ctione quinta &amp; sequentibus concedit esse summae autoritatis, sed  
+      <!--cod-MkL9py-0106.xml-->
+      <pb ed="#H" n="81"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Audet vero affirmare, esse alicubi corruptam, saltem negligentia 
+      li<lb ed="#H" n="2" break="no"/>pratiorum, sic ut neque sit necessarium, neque tutum corrigere, quio 
+      <lb ed="#H" n="3"/>quid ab ea in versione Latina dissentit. Affirmationem suam conatur 
+      <lb ed="#H" n="4"/>aliquot exemplis planam facere 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e566">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Primo ait 1. Cor. 15. v. 47. legendum esse: Primus homo de terra 
+      <lb ed="#H" n="6"/>errenus, secundus homo de coelo coelestis: ut non solum Latina versio. 
+      <lb ed="#H" n="7"/>habeat, sed etiam Galvinus probet cap. 7. Inst 5. 12. At Graecos 
+      con<lb ed="#H" n="8" break="no"/>stanter legure, secundus homo Dominus de coelo, σ δδυτερος αυορωπος 
+      <lb ed="#H" n="9"/>νρνος εζ α 2νο. Quam depravationem ait mansisse vitio scriptorum 
+      <lb ed="#H" n="10"/>ex corruptionibus Marcionis, ut pateat ex Tertullian. libr. quinto in 
+      <lb ed="#H" n="11"/>Marcionem 
+      <lb ed="#H" n="12"/>RESP. Primo. Negatur esse corruptum Graecum hujus loc 
+      <lb ed="#H" n="13"/>textum. Optime enim respondent membra, si substantiae &amp; 
+      qualita<lb ed="#H" n="14" break="no"/>tum antithesin dicamus fieri in hunc modum. o πξῶτος αυδζω πος 
+      <lb ed="#H" n="15"/>nempe καν ἔσίανι, εκ γῆς, χρικος (nimirum κγποιθτηζαδ ὀδδυτερος αυ¬ 
+      <lb ed="#H" n="16"/>Sποςπνρν&amp; videl. καῖ ἐσιανι, ἔκ αανοIscil. κ ποιο ] Nam 
+      <lb ed="#H" n="17"/>κνριος, DOMINUS, hic est Jehova ex Graecorum usu, idemque Dei 
+      <lb ed="#H" n="18"/>Filius. Non abs reita scripsit Paulus; sed Bellarminus Scripturam 
+      <lb ed="#H" n="19"/>flagellat abs re: quam <name xml:id="yyy8Uu-e37173-Nd1e602">Calvinus</name> non putavit temere mutandam, ut 
+      <lb ed="#H" n="20"/>iste facit, sed recte exponendam. Loci sunt Institut. lib. 2. cap. 12. &amp; I3 
+      <lb ed="#H" n="21"/>&amp; lib. 4. cap. 17. Sed nusquam haec Pauli verba nisi religiose a 
+      Calvi<lb ed="#H" n="22" break="no"/>no adducuntur. Deinde depravatum esse hunc locum in Greca 
+      editio<lb ed="#H" n="23" break="no"/>ne a Marcione in nulla editione Tertulliani reperitur, licet exstent 
+      <lb ed="#H" n="24"/>plures, Rhenani, Gelenii, Pammelii, &amp;c. Tertio, Vulgata potius 
+      ver<lb ed="#H" n="25" break="no"/>sio Latina hujus loci est corrupta, quia in ea evanuit DOMINU S 
+      <lb ed="#H" n="26"/>quo nomine Paulus secundum hominem non temere insignivit, sed  
+      <lb ed="#H" n="27"/>ut ostenderet, eum non esse quo ad substantiam merum hominem, ut 
+      <lb ed="#H" n="28"/>fuit primus homo; sed etiam DOMINUM, sed Jehovam, qui e 
+      coe<lb ed="#H" n="29" break="no"/>lis, hoc est, coelestis est quoad qualitatem, quum quoad humanam 
+      <lb ed="#H" n="30"/>naturam sit ita sanctificatus per Spiritum sanctum, ut absque 
+      omni<lb ed="#H" n="31" break="no"/>peccato sit conceptus &amp; natus &amp; in terris conversatus, plenus gratia, 
+      <lb ed="#H" n="32"/>veritate, justitia, sanctitate. Sic vindicatum est primum exemplum a 
+      <lb ed="#H" n="33"/>Bellarmini accusatione 
+      <lb ed="#H" n="34"/>1. Socundo ait 1. Cor. 7. 33, 34. Latinam vulgatam habere: Qui cum 
+      u<lb ed="#H" n="35" break="no"/>core est, solicitus est, quae sunt mundi, quomodo placeat uxore, &amp; divisus 
+      <lb ed="#H" n="36"/>est. Et mulier innupta &amp; virgo cogitat quae Domini sunt, &amp;c. Graecos 
+      <lb ed="#H" n="37"/>vero codices longe aliter habere, nam illud di visus est, conjungunt  
+      <lb ed="#H" n="38"/>cum sequentibus, sic, μιμιρισαι η γυνη κι η παρθενος, divisa est uxor &amp; 
+      <lb ed="#H" n="39"/>virgo. Quam lectionem B. Hieronymus in libr. 1. contra Iovinianum 
+      <lb ed="#H" n="40"/>affirmat non esse Apostolicae veritatis 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e652">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>RESP. Primo negatur editionem Graecam esse corruptam. 
+      Se<lb ed="#H" n="42" break="no"/>cundo testimonium Hieronymi non est hoc loco idoneum: nam 
+      set<lb ed="#H" n="43" break="no"/>viebat tum Hieronymus causae suae quam per contentionis aestum 
+      de<lb ed="#H" n="44" break="no"/>fendebat. At idem alibi extra contentionis aestum hanc lectionem 
+      <lb ed="#H" n="45"/>Graecam agnoscit, scribens in Helvidium, &amp; ad Eustochium de 
+      ser<lb ed="#H" n="46" break="no"/>vanda virginitate. Agnoscunt item alii omnes Patres &amp; sensu 
+      mani<lb ed="#H" n="47" break="no"/>festissimo. Tertio vulgata Latina hic vitiosa est &amp; quo ad 
+      Grammati<lb ed="#H" n="48" break="no"/>cam &amp; quo ad sententiam. Quae enim Grammatica docet recte 
+      Lati<lb ed="#H" n="49" break="no"/>ne dici, solicitus est quae sunt mundi, pro, solicitus est de iis quae sun 
+      <lb ed="#H" n="50"/>mundi? Si vero sententiam spectes, quid sibi vult illud, &amp; divisus esti 
+      <lb ed="#H" n="51"/>num is qui cum uxore est, divisus est? Tum in Graeco non est, &amp; 
+      us<lb ed="#H" n="52" break="no"/>μιρισται, sed absque copulativa particula iS, Er: quae praefixa verbo 
+      <lb ed="#H" n="53"/>hic mutat sententiam. Adhaec in sequenti versu Latinae editionis 
+      se<lb ed="#H" n="54" break="no"/>quitur, &amp; mulier innupta &amp; virgo, &amp;c. Illud innupta infarctum est, 
+      <lb ed="#H" n="55"/>cum nec in textu Graeco sit, nec ei congruat. Sic vindicatum est 
+      secun<lb ed="#H" n="56" break="no"/>dum exemplum. 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e691">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Tertio ait Bellarminus Rom. 12. v. 11. vulgatam Latinam habere, 
+      <lb ed="#H" n="58"/>Domino servientes, Graecos autem non habere xυριῳ, sed κιρο 
+      olu<lb ed="#H" n="59" break="no"/>λobosles, id est, tempori servientes. Latinam autem lectionem esse 
+      veris<lb ed="#H" n="60" break="no"/>simam patet tum ex Hieronymo epist, ad Marcellam, quae incipit Post 
+      <lb ed="#H" n="61"/>priorem epistolam, ubi dicit, in emendatis Graecis codicibus haberi non 
+      <lb ed="#H" n="62"/>κἄιργ sed κωριῳ: tum ex Origene, Chrysostomo, Theophylacto &amp; 
+      <lb ed="#H" n="63"/>aliis Graecis Patribus, qui sic legerunt &amp; explicaverunt in suis 
+      com<lb ed="#H" n="64" break="no"/>mentariis, 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e713">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>RESP. Quod paucorum fuit aut est exemplarium, male omnibus 
+      <lb ed="#H" n="66"/>exemplaribus tribuitur: &amp; ἀλόγος ex particulari adstruitur universale. 
+      <lb ed="#H" n="67"/>Sic probari corruptionem Novi Testamenti Graeci oportuit scilicet. 
+      <lb ed="#H" n="68"/>Hoccine Catholici hominis officium aut factum 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e726">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Quarto ait Bellarminus constare, in plurimis Graecis codicibus deesse 
+      <lb ed="#H" n="70"/>multas verae Scripturae partes, ut historiam adulterae Ioh. 8. ultim, caput  
+      <lb ed="#H" n="71"/>Marci, testimonium pulcherrimum de S. Trinit. 1. Ioh. 5. v. 7. &amp; alia. 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e737">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>RESP. Ex particulari argumentatur Bellarminus universaliter: 
+      <lb ed="#H" n="73"/>Desunt multa in plurimis Graeiis codicibus: Ergo in omnibus. Nege 
+      <lb ed="#H" n="74"/>mus defuisse ista in orthodoxorum peritiorum libris: etsi defuerint  
+      <lb ed="#H" n="75"/>in haereticorum vel imperitiorum codicibus quos ab haereticis 
+      ha<lb ed="#H" n="76" break="no"/>buerunt. Historiam de adultera Joh. 8. Novatiani atque Cathari 
+      ex<lb ed="#H" n="77" break="no"/>punxerant: ultimum caput Marci imperiti omittebant, qui a 
+      Mani<lb ed="#H" n="78" break="no"/>chaeorum impietate in caput illud scelerate infarcta abhorrebant  
+      <lb ed="#H" n="79"/>Versum septimum I. Joh. 5. Ariani expunxerunt. Per istos saepe cor 
+      <lb ed="#H" n="80"/>rupti libri illabebantur in manus imperitiorum, ut factum superiore 
+      <lb ed="#H" n="81"/>seculo per Papistas, qui Vetus Testamentum Gen. 3. v. 15. 
+      corrupe<lb ed="#H" n="82" break="no"/>runt, mutato N IrThu in PPrT hith imposito circulo notae Masse 
+      <lb ed="#H" n="83"/>reticae, ac si esset αυπσοιχια vaν pro jod &amp; legendum esset PoysI, hi 
+      <lb ed="#H" n="84"/>IPSA: in opere regio Bibliorum interlinearium ex prima editione 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e771">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>Quinto ait Bcellarmius constare, quadam in omnibus Graecis codi 
+      <lb ed="#H" n="86"/>cibus inveniri, quae non sunt partes divinae Scripturae, ut Matth. 6. 
+      Ora<lb ed="#H" n="87" break="no"/>tioni Dominicae additur: Quia tuum est regnum &amp; potentia &amp; 
+      glori<lb ed="#H" n="88" break="no"/>in secula, quae verba non esse de textu, sed addita a Graecis, ex duobus 
+      in<lb ed="#H" n="89" break="no"/>telligi possit: Primo ex eo quod Tertullianus, Cyprianus, Ambrosius 
+      <lb ed="#H" n="90"/>Hieronymus, Augustinus, orationem Dominicam exponunt, &amp; 
+      ta<lb ed="#H" n="91" break="no"/>men nullam horum verborum mentionem faciant, cum omnes isti Grae¬ 
+      <!--cod-MkL9py-0106.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>dem haec verba, sed non continuant cum oratione Dominica. 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e797">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>RESP. Primo falsum est verba illa; Quia tuum est regnum &amp; 
+      po<lb ed="#H" n="94" break="no"/>tentia &amp; gloria in secula; non esse parttem divinae scripturae. Secunde 
+      <lb ed="#H" n="95"/>rationes Bellarmini nullae sunt:  
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e808">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Prima est ex puris particularibus: Aliqui Patres Latini verba illa 
+      <lb ed="#H" n="97"/>non habent, &amp; exponunt: Ergo non sut pars Scripturae. Hi Patres 
+      La<lb ed="#H" n="98" break="no"/>tini non exposuerunt: quia non habebant in versione sua Latina 
+      ve<lb ed="#H" n="99" break="no"/>communi usu, nec visum est illis utile commoveri de ea re ecclesiam 
+      <lb ed="#H" n="100"/>suam, postquam diu fuissent omissa, quemadmodum &amp; Hieronymus 
+      <lb ed="#H" n="101"/>dicebat olim in causa simili, nimirum cum ageretur de versione 
+      <lb ed="#H" n="102"/>LXX:Quod enim semel aures hominum occupaverat, &amp; nascentis. 
+      <lb ed="#H" n="103"/>Ecclesiae roboraverat fidem, justum erat etiam nestro silentio 
+      comproba<lb ed="#H" n="104" break="no"/>ri. At verba illa habet Graeca editio Novi Testamenti communiter. 
+      <lb ed="#H" n="105"/>habet versio Syra: habet Chrysostomus &amp; copiose exponit homil. vi. 
+      <lb ed="#H" n="106"/>gesima in Matthaeum, habet author operis imperfecti in Matthaeum, 
+      <lb ed="#H" n="107"/>habet Theophylactus &amp; Graeci alij, quorum non minor est in hac 
+      re<lb ed="#H" n="108" break="no"/>quam Latinorum autoritas. Secunda ratio petit principium, est 
+      gla<lb ed="#H" n="109" break="no"/>dius plumbeus. Nam quanta est hujus liturgiae vel apud Romanos 
+      <lb ed="#H" n="110"/>ipsos autoritas? quam non adeo antiquam, particularem &amp; sibi 
+      im<lb ed="#H" n="111" break="no"/>probatam sciunt. Hoc argumento sane apud Graecos probent, eosque 
+      <lb ed="#H" n="112"/>suo gladio, si possunt, jugulent: at contra nos, qui liturgiam illam non 
+      <lb ed="#H" n="113"/>acceptamus, infirmum est admodum. Si enim haec ratio in hoc 
+      ar<lb ed="#H" n="114" break="no"/>gumento valet, cur non in caeteris? sin autem in caeteris non valet,  
+      <lb ed="#H" n="115"/>(non valet autem), ex particulari nihil conficitur.  
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e856">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>INSTANT alii: Lacas capit. und. verba illa non habet: Ergo in 
+      <lb ed="#H" n="117"/>Matthaeo ab alio sunt infarcta. RESP. Negatur consequentia, quae 
+      <lb ed="#H" n="118"/>non valet a testimonio particulari negante. Lucas alia quoque mul 
+      <lb ed="#H" n="119"/>ia non habet quae Matthaeus, quae Johannes habet: num igitur illa in 
+      <lb ed="#H" n="120"/>Matthaeo &amp; Johanne ab alio erunt infarcta: 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e872">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>INSTANTamplius: Si oratio Dominica apud Lucam est 
+      perfe<lb ed="#H" n="122" break="no"/>cta, tum apud Matthaeum est superflua illa appendix, quam Lucas omit. 
+      <lb ed="#H" n="123"/>tit. Antecedens est verum: Ergo &amp; consequens. 
+      </p>
+            <p xml:id="yyy8Uu-e37173-d1e883">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>RESP. Negatur sumti consequentia: nam etsi sit perfecta 
+      ora<lb ed="#H" n="125" break="no"/>tio Dominica apud Lucam, quoad petitiones; tamen non impedit,  
+      <lb ed="#H" n="126"/>quo minus addere potuerit Matthaeus confirmationem &amp; 
+      conclusio<lb ed="#H" n="127" break="no"/>nem. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

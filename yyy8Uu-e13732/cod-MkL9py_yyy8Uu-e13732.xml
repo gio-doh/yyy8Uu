@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="238"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e13732"> <!-- l4-c6 -->
+            <head xml:id="yyy8Uu-e13732-Hd1e109">Caput 6</head>
+            <p xml:id="yyy8Uu-e13732-d1e112">
+               <lb ed="#H" n="48"/>CAPUT VI. 
+      <lb ed="#H" n="49"/>In quo de aeterno consilio &amp; decreto Dei.
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e119">
+               <lb ed="#H" n="50"/>YNTERNA essentialia opera Dei dicuntur actus interni sapientia 
+      <lb ed="#H" n="51"/>&amp; liberrimae voluntatis divinae; nempe aeternum consilium &amp; 
+      de<lb ed="#H" n="52" break="no"/>cretum Dei.
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e128">
+               <lb ed="#H" n="53"/>AETERNUM CONSILIUM DEI, est opus Dei essentiale internum, 
+      <lb ed="#H" n="54"/>udicium quasi mentis &amp; sapientiae divinae de rebus omnibus 
+      qua<lb ed="#H" n="55" break="no"/>voluit fieri ad finem bonum. Ita consilium ad intellectum pertinet 
+      <lb ed="#H" n="56"/>&amp; voluntatem 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e140">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Quaeritur, An Deo consilium pie tribui possit? Johannes Ludovi. 
+      <lb ed="#H" n="58"/>cus Vives vir magni ingenii &amp; judicii, providentiam Dei ait esse 
+      vo<lb ed="#H" n="59" break="no"/>luntatem consilio universa gubernantem. At Julius Caesar Scaligere 
+      <lb ed="#H" n="60"/>de subtilitate ad Cardanum, exercitatione 365, sectione 8. contra ait 
+      <lb ed="#H" n="61"/>Consilio non eget Deus, tanquam medio, aut instrumento, aut idea 
+      <lb ed="#H" n="62"/>ad gubernandum: tam est impia vox in diuvinis consilium, quam 
+      <lb ed="#H" n="63"/>pluralitas Deitatis. Non disceptat, non ratiocinatur, non proponit 
+      <lb ed="#H" n="64"/>non colligit, non cum alio confert, non ab ullo accepit. At quod bona 
+      <lb ed="#H" n="65"/>pace Scaligeri (quem alioquin merito magnifacimus) dixero, non 
+      <lb ed="#H" n="66"/>eo sensu Ludovicus Vives consilium Deo tribuit, quo hominibus 
+      so<lb ed="#H" n="67" break="no"/>lemus, sed quo Scriptura ipsa Deo tribuit, Psalm. 33. 11. Consilium 
+      Ie<lb ed="#H" n="68" break="no"/>hovae in saculum consistit, cogitationes cordis ejus in aetates omnes. 
+      Je<lb ed="#H" n="69" break="no"/>sa. 46. 10, 11. Consilium meum stabit, &amp; omnem delectationem meum 
+      <lb ed="#H" n="70"/>facturus sum. Voco ab Oriente volucrem, e terra longinqua 
+      effecto<lb ed="#H" n="71" break="no"/>rem consilij mei. Sic Actor. 2. 23. Hunc definito illo consilio &amp; 
+      praesti<lb ed="#H" n="72" break="no"/>tuto Dei deditum quum accepissetis, manibus sceleratis cruci affixum 
+      <lb ed="#H" n="73"/>interemistis. Sic Actor. 4. 28. Ut facerent quaecunque manus tua &amp; 
+      <lb ed="#H" n="74"/>consilium tuum prius praedestinavit ut fierent. Et cap. 13. 36. Nam 
+      <lb ed="#H" n="75"/>David quidem postquam aetate sua inservivit Dei consilio, 
+      obdormi<lb ed="#H" n="76" break="no"/>vit. Item cap. 20. 27. Non enim subterfugi quominus annunciarem 
+      <lb ed="#H" n="77"/>vobis omne Dei consilium. Ephes. 1. 11. In ipso, inquam, in quo etiam 
+      <lb ed="#H" n="78"/>in sortem adsciti sumus, quum essemus praedestinati secundum 
+      prae<lb ed="#H" n="79" break="no"/>ditutum ejus qui agit omnia ex consilio uoluntatis suae. Hebraeor.  
+      <lb ed="#H" n="80"/>6. vers. 17. Qua in reDeus volens ex abundanti haeredibus 
+      promissio<lb ed="#H" n="81" break="no"/>nis ostendere immutabilitatem consilij sui, fidejussit jurejurando 
+      <lb ed="#H" n="82"/>&amp;c. In his &amp; aliis locis consilium Deo tribuitur, sed absque 
+      ratioci<lb ed="#H" n="83" break="no"/>natione, absque consultatione, quae in Deum perfectissime 
+      sapien<lb ed="#H" n="84" break="no"/>tem minime cadit. Ut ergo Scriptura ipsa Deo consilium tribuit: ita; 
+      <lb ed="#H" n="85"/>&amp; Johannes Ludovicus Vives; ita &amp; nos hoc loco¬ 
+      <!--cod-MkL9py-0265.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="86"/>Ambiguitatis autem vitandae causa nominamus aeternum 
+      consi<lb ed="#H" n="87" break="no"/>lium Dei, ut distinguamus primo ab exsequutione seu patefactione 
+      <lb ed="#H" n="88"/>ejus, quae fit in tempore, &amp; consilium metonymice appellatur Jesa. 
+      <lb ed="#H" n="89"/>vers. 19. adveniat consilium Sancti Israelitarum. Et cap. 19. vers. 17. 
+      <lb ed="#H" n="90"/>Erit terra Iudaea AEgypto titubationi; quicunque mentionem fecerit 
+      <lb ed="#H" n="91"/>ejus apud se pavebit, propter consilium Iehovae exercituum, quod 
+      ca<lb ed="#H" n="92" break="no"/>pturus est contra eam 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e227">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>Secundo ut distinguamus a jussis praeceptisque divinis, quae in 
+      <lb ed="#H" n="94"/>tempore dedit vel dat hominibus, ut olim consulentibus cum 
+      per<lb ed="#H" n="95" break="no"/>tirim &amp; Tummim; item per doctrinam verbi sui in Ecclesia traditi, 
+      <lb ed="#H" n="96"/>quo etiamnum nos docet quid sibi placeat &amp; nobis prosit, quo nobis 
+      <lb ed="#H" n="97"/>consulit quid faciendum, quid omittendum; quo significato consilium 
+      <lb ed="#H" n="98"/>usurpatur Psalm. 106. 13. Festinantes obliti sunt operum ejus, non 
+      <lb ed="#H" n="99"/>perdurarunt ad consilium ejus. Psal. 106. 11. Consilium excelsi 
+      spre<lb ed="#H" n="100" break="no"/>verunt, id est, verbum Dei, quo eos docebat voluntatem suam, quo 
+      <lb ed="#H" n="101"/>nis consulebat. Sic Proverb. 1. vers. 25. Abstrahitis vos ab omni 
+      cen<lb ed="#H" n="102" break="no"/>silio meo. Et vers. 30. Non acquieverunt consilio meo, sed 
+      contemse<lb ed="#H" n="103" break="no"/>runt omnem correctionem meam. Jere. 23. vers. 22. Quod si stetissent 
+      <lb ed="#H" n="104"/>in consilio meo, utique pronunciaturos fuisse verba mea populo meo 
+      <lb ed="#H" n="105"/>&amp; revocaturos eos a via sua mala, &amp; a malignitate actionum 
+      sua<lb ed="#H" n="106" break="no"/>rum. Zachar. 6. vers. 13. Eritque Sacerdos in solio suo, &amp; consiliumpe 
+      <lb ed="#H" n="107"/>cis erit inter utrosque. Ubi nomine consilii Dei intelligitur 
+      Evange<lb ed="#H" n="108" break="no"/>ium seu doctrina Evangelii de Jesu Christo Servatore mundi: ut &amp; 
+      <lb ed="#H" n="109"/>Luc. 7. vers. 30. Pharisaei vero &amp; Legis interpretes consilium Dei 
+      a<lb ed="#H" n="110" break="no"/>spernati sunt adversus semetipsos, non baptizati ab eo, id est, 
+      Evange<lb ed="#H" n="111" break="no"/>lium Dei de Jesu Christo repudiarunt magno suo malo; &amp; baptismum, 
+      <lb ed="#H" n="112"/>gratiae novum signum non expetiverunt. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e275">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>AETERNUM DECRETUM DEI, est opus Dei essentiale internum. 
+      <lb ed="#H" n="114"/>actus nimirum divinae voluntatis, quo Deus tanquam is qui est 
+      sapi<lb ed="#H" n="115" break="no"/>entissimus &amp; penes quem est summa ac liberrima autoritas, tum 
+      con<lb ed="#H" n="116" break="no"/>stituit apud se ab aeterno, ut fierent quaecunque facta sunt, quaecunque 
+      <lb ed="#H" n="117"/>fiunt, &amp; adhuc fient: tum singula ordinavit in bonum finem, ut &amp; 
+      me<lb ed="#H" n="118" break="no"/>dia ipsa, per quae ad cum finem pervenitur, una cum omnibus 
+      cir<lb ed="#H" n="119" break="no"/>cumstantiis 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e295">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>Nominamus aeternum decretum Dei, ut illud distinguamus tum 
+      <lb ed="#H" n="121"/>a praeceptis Dei in tempore datis Ecclesiae, quae vocantur decreta in 
+      <lb ed="#H" n="122"/>vulgata Latina versione 3. Reg. 8. 61. Sit quoque cor nostrum 
+      perse<lb ed="#H" n="123" break="no"/>ctum cum Domino Deo nostro, ut ambulemus in decretis ejus: &amp; 
+      cu<lb ed="#H" n="124" break="no"/>stodiamus mandata ejus: tum a ritibus Mofaicis, qui decreta 
+      appella<lb ed="#H" n="125" break="no"/>ur in vulgata versione Latina &amp; Erasmiana, Eph. 2. 15. Legem 
+      man<lb ed="#H" n="126" break="no"/>latorum decretis evacuans, ut duos condat in semetipso in unum 
+      <lb ed="#H" n="127"/>novum hominem, Et Col. 2. 14. Delens quod adversus nos erat 
+      chi<lb ed="#H" n="128" break="no"/>rographum decreti. Ubi Graecea Paulo δογματα vocantur, quae 
+      He<lb ed="#H" n="129" break="no"/>raei CPDH chastim vocant, statuta ceremonialia seu ritualia; 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e321">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>Partes aeterni decreti Dei duae sunt: nimirum omnium quae 
+      futu<lb ed="#H" n="131" break="no"/>ra erant praefinitio: &amp; ordinatio primum finis, deinde mediorum &amp; 
+      <lb ed="#H" n="132"/>circumstantiarum. Finis enim prior est mediis in intentione, (si non 
+      <lb ed="#H" n="133"/>tempore, saltem ordine,) posterior autem ex secutione. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e334">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Unde omnes res quae fiunt in tempore, dicuntur fuisse in Deo 
+      ab<lb ed="#H" n="135" break="no"/>aeterno, non sua essentia reali non substantia formali, sed cognitione 
+      <lb ed="#H" n="136"/>&amp; decreto: non per esse formale, sed per esse virtuale 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e346">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Ista autem duo, nempe aeternum consilium &amp; decretum, ordine &amp; 
+      <lb ed="#H" n="138"/>onceptus nostri ratione distinguuntur; quum in nobis differat 
+      ju<lb ed="#H" n="139" break="no"/>dicium mentis a proposito seu decreto voluntatis: reipsa autem in 
+      <lb ed="#H" n="140"/>Deo sunt unum, propter simplicissimam essentiam Dei, 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e359">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Unde consilium &amp; decretum Dei passim in Scriptura Sacra 
+      pro<lb ed="#H" n="142" break="no"/>eodem sumuntur, ut &amp; deinceps a nobis Scripturam Sacram 
+      sequen<lb ed="#H" n="143" break="no"/>ibus: &amp; appellantur ωρισμδη οUλη, definitum consilium, Actor: 
+      <lb ed="#H" n="144"/>vers. 22. Eυδεκια τοῦ θεο, κι ωροθθετο ἐν αυτῳ, beneplacitum Dei quod 
+      <lb ed="#H" n="145"/>proposuit in seipso, Ephes. 1. 9. ἡ χειρ κι ἡ φκλη τοῦ θεοό, manus &amp; 
+      consi<lb ed="#H" n="146" break="no"/>lium Dei, Actor. 4. 28. Hpoθεσις, propositum, praestitutum, Roman. 9. 
+      <lb ed="#H" n="147"/>vers. 11. Dicitur a Patribus mysterium consilij diuvini. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e379">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Vocantur etiam ωρονοια θεό, providentia Dei, nimirum quatenus 
+      <lb ed="#H" n="149"/>illa est actio Dei interna: &amp; ωροορισμoς, praedestinatio, &amp; Fati a 
+      qui<lb ed="#H" n="150" break="no"/>busdam: item sententia: de quibus vocibus est paulo pluribus 
+      a<lb ed="#H" n="151" break="no"/>gendum. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e392">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Vox Graeca ωρονcias &amp; Latina providentiae tribus modis 
+      usurpa<lb ed="#H" n="153" break="no"/>tur: vel de interno opere mentis, vel de externo, vel de utroque 
+      con<lb ed="#H" n="154" break="no"/>junctim, 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e403">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Quum de interno opere mentis accipitur, significat primo ωρογνο¬ 
+      <lb ed="#H" n="156"/>nν, ut nominatur Actor. 2. vers. 23. id est, cognitionem, per quam 
+      fu<lb ed="#H" n="157" break="no"/>turum aliquid videtur, antequam fiat, &amp; sic ad intellectum refertur.  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e414">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Secundo significat curam prospiciendi alicui; atque sic ad 
+      volum<lb ed="#H" n="159" break="no"/>tatem spectat, ut Actor. 24. 3. ait Tertullus Orator ad Felicem 
+      Prae<lb ed="#H" n="160" break="no"/>sidem; quae recte ac feliciter in hac gente providentia tua gest. 
+      <lb ed="#H" n="161"/>sunt.  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e428">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Quum vero de externo opere accipitur, significat actu curam 
+      ha<lb ed="#H" n="163" break="no"/>bere alicujus &amp; prospicere ei, quemadmodum Abrahamus Isaaco de 
+      <lb ed="#H" n="164"/>pecude ad holocaustum quaerenti respondit, Genes. 22. 8. Deus ipse  
+      <lb ed="#H" n="165"/>providebit seu prospiciet sibi de parva pecude ad holocaustum. Et v. 
+      <lb ed="#H" n="166"/>14. legitur; Propterea vocavit Abraham nomen loci illius, Iehova 
+      <lb ed="#H" n="167"/>providebit: ex quo dici solet hodie, in monte Iehovae providebitur? 
+      <lb ed="#H" n="168"/>Nam ex eo quod ibi Abrahamo contigit, proverbium manavit. 
+      <lb ed="#H" n="169"/>quo docemur in rebus perplexis, quarum nullus cernitur exitus, ad 
+      <lb ed="#H" n="170"/>Dei providentiam recurrendum, qua providetur rebus omnibus suo 
+      <lb ed="#H" n="171"/>loco, tempore, &amp; modo quo oportet, ut olim factum est in monte 
+      <lb ed="#H" n="172"/>quum Abrahamus Isaacum Deo immolare vellet. Hoc significato 
+      <lb ed="#H" n="173"/>usurpatur I. Timoth. 5. vers. 8. εἰ δε τῆς τῶν ἰδέον α προνοσί: Si quis 
+      ve<lb ed="#H" n="174" break="no"/>ro suis non providet, &amp;c. Roman. 12. 17. Hρονε αμενοι καλα ενώπιον  
+      <lb ed="#H" n="175"/>παντον ανξρωπον, Providentes seu procurantes honesta coram 
+      omni<lb ed="#H" n="176" break="no"/>bus hominibus. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e465">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Quum denique vox Providentia de interno &amp; externo opere. 
+      <!--cod-MkL9py-0266.xml-->
+      <pb ed="#H" n="239"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>tbijunctim usurpatur, significat praecognitionem rerum, 
+      volunta<lb ed="#H" n="2" break="no"/>xem &amp; curam prospiciendi, &amp; actionem ipsam qua res sapienter 
+      cu<lb ed="#H" n="3" break="no"/>rantur &amp; reguntur.  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e485">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Graeci ωρονοιαν etiam vocarunt ἀδραστειαν, ab a privativa 
+      particu<lb ed="#H" n="5" break="no"/>Ia &amp; διδρασκῳ, quod est fugio: eo quod providentiam nihil effugiat,  
+      <lb ed="#H" n="6"/>Appellarunt eandem πυπσυμενλιν, quam vocem Chrysippus 
+      interpre<lb ed="#H" n="7" break="no"/>tatur πεπερασμδυlν κι σαυτετελεσμδυν δενίκκσιν, hoc est, perfectam 
+      <lb ed="#H" n="8"/>transactamque rerum guhbernationem, ut refert Theodoretus 
+      Cy<lb ed="#H" n="9" break="no"/>rensis Episcopus, de curatione Graecarum affectionum, sermone 
+      se<lb ed="#H" n="10" break="no"/>libro sexto, qui est de Providentia Dei: ubi simul declarat quid 
+      Gen<lb ed="#H" n="11" break="no"/>tilibs sit ἀμαρμδιη, μσιρα, χρδνος, &amp; ternarius Parcarum ἀἀχεσις, Aπξο. 
+      <lb ed="#H" n="12"/>πος, Xλωθα, quid item φυσις, αυκγκη, τυχη: quae ibi requirantur.  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e509">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Sic providentia Dei, interdum pro interno opere, nempe 
+      decreto<lb ed="#H" n="14" break="no"/>Dei; interdum pro externo opere, nimirum exsequutione decreti 
+      <lb ed="#H" n="15"/>Dei: interdum pro utroque simul accipitur? 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e520">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Hoc loco, quum consilium &amp; decretum Dei dicimus appellar 
+      <lb ed="#H" n="17"/>providentiam, de interno opere providentiae vocem intelligimus, &amp; 
+      <lb ed="#H" n="18"/>ab exsecutione ejus distinguimus 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e531">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Quod ad vocem Graecam ωροορισμς &amp; Latinam 
+      Praedestinatio<lb ed="#H" n="20" break="no"/>nis attinet, usurpatur ea duobus modis: generaliter &amp; specialiter. 
+      Ge<lb ed="#H" n="21" break="no"/>neraliter significat quodvis decretum Dei ad quascunque res 
+      perti<lb ed="#H" n="22" break="no"/>nens; ut Actor. 4. vers. 27, 28. legitur, Herodem &amp; Pontium Pilatum 
+      <lb ed="#H" n="23"/>cum Gentibus &amp; populis Israelis fecisse, quae manus Dei &amp; consilium 
+      <lb ed="#H" n="24"/>ejus ωροωρισε γννεος, hoc est, praedestinaverat seu prius definiverat.  
+      <lb ed="#H" n="25"/>ut fierent. Sic Paulus ait 1. Corinth. 2. vers. 7. quod Deus sapientiam 
+      <lb ed="#H" n="26"/>latentem in mysterio ωροωρισεν, hoc est, praedestinavit seu praefinivit 
+      <lb ed="#H" n="27"/>ante secula ad gloriam nostram: specialiter vero significat decretum. 
+      <lb ed="#H" n="28"/>ad creaturas rationales pertinens, de quo qaulo post. Hoc loco 
+      ge<lb ed="#H" n="29" break="no"/>nerali significatione accipitur, cum decreto Dei oμώσnμο statuitur.  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e561">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>FATUM vero non tantum a Gentilibus, sed etiam a Christiani 
+      <lb ed="#H" n="31"/>hibusdam decretum divinum intelligitur, sic dictum a fando: nec 
+      a<lb ed="#H" n="32" break="no"/>liud proprie est quam dictum aut jussum divinum. Gentiles 
+      omitto<lb ed="#H" n="33" break="no"/>M. Minucu Felicis Octavius Christianus, Quid aliud (inquit) est 
+      <lb ed="#H" n="34"/>fatum, quam quod de unoquoque nostrum Deus fatus est? qui cum 
+      <lb ed="#H" n="35"/>possit praescire materiam, pro meritis &amp; qualitatibus singulorum 
+      et<lb ed="#H" n="36" break="no"/>iam fata determinat. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e581">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Augustinus quinto libro de Civitate Dei, cap. octavo: Qui vero 
+      <lb ed="#H" n="38"/>non astrorum constitutionem, sicuti est quum quicquid concipitus 
+      <lb ed="#H" n="39"/>vel nascitur vel inchoatur, sed omnium connexionem seriemque 
+      <lb ed="#H" n="40"/>rausarum, qua sit omne quod fit, fati nomine appellant: non multum 
+      <lb ed="#H" n="41"/>cum eis de verbi controversia laborandum atque certandum est: 
+      <lb ed="#H" n="42"/>Quandoquidem ipsum causarum ordinem, &amp; quandam 
+      connexio<lb ed="#H" n="43" break="no"/>nem, Dei summi tribuunt uoluntati &amp; potestati, qui optime &amp; 
+      ve<lb ed="#H" n="44" break="no"/>racissime creditur, &amp; cuncta scire antequam fiant: &amp; nihil 
+      inordi<lb ed="#H" n="45" break="no"/>natum relinquere, a quo sunt omnes potestates: quamvis ab illo non 
+      <lb ed="#H" n="46"/>sint omnium voluntates. Ipsam itaque praecipue Dei summi 
+      volunta<lb ed="#H" n="47" break="no"/>tem, cujus potestas insuperabiliter per cuncta porrigitur, eos appellare 
+      <lb ed="#H" n="48"/>fatum sic probatur. Annei Senecae sunt, ni fallor, hi versus 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e612">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>Duc me Pater summique dominator poli 
+      <lb ed="#H" n="50"/>Quocunque placuit, nulla parendi mora est. 
+      <lb ed="#H" n="51"/>Adsum impiger, comitabor gemens 
+      <lb ed="#H" n="52"/>Malusque patiar facere, quod licuit bono, 
+      <lb ed="#H" n="53"/>Ducunt uolentem fata, nolentem trahunt 
+      <lb ed="#H" n="54"/>Nempe evidentissime hoc ultimo versu, ea fata appellavit, quae sui 
+      <lb ed="#H" n="55"/>pra dixerat summi Patris uoluntatem: Cui se paratum obedire 
+      di<lb ed="#H" n="56" break="no"/>cit, ut volens ducatur, nec nolens trahatur: quoniam scilicet ducunt 
+      <lb ed="#H" n="57"/>volentem fata, nolentem trahunt. Illi quoque versus Homerici 
+      huic<lb ed="#H" n="58" break="no"/>sententiae suffragantur, quos Cicero in Latinum vertit: 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e638">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Tales sunt hominum mentes, qualis Pater ipse 
+      <lb ed="#H" n="60"/>suppiter auctiferas lustravit lumine terras. 
+      <lb ed="#H" n="61"/>Nec in hac quaestione autoritatem haberet poitica sententia: Sed 
+      <lb ed="#H" n="62"/>quoniam Stoicos dicit, vim fati asserentes, istos ex Homero versus 
+      so<lb ed="#H" n="63" break="no"/>lere usurpare, non de illius Poetae, sed istorum Philosophorum 
+      opinio<lb ed="#H" n="64" break="no"/>ne tractatur, quum per istos versus, quos disputationi adhibent 
+      <lb ed="#H" n="65"/>quam de faro habent, quid sentiant esse fatum apertissime 
+      declava<lb ed="#H" n="66" break="no"/>tur, quoniam Iovem appellant, quem summum Deum putant, a quo 
+      <lb ed="#H" n="67"/>connexionem dicunt pendere fatorum. Et capite nono: Ordinem 
+      <lb ed="#H" n="68"/>causarum ubi voluntas Dei plurimum potest, neque negamus, neque 
+      <lb ed="#H" n="69"/>fati vocabulo nuncupamus, nisi forte ut fatum a fando dictum in 
+      <lb ed="#H" n="70"/>telligamus, id est, a loquendo. Non enim abnuere possumus esse scriptum 
+      <lb ed="#H" n="71"/>in literis sanctis: Semel loquutus est Deus, duo haec audivi: quoniam 
+      <lb ed="#H" n="72"/>potestas est Dei; &amp; tibi Domine misericordia, quia tu reddes unicui  
+      <lb ed="#H" n="73"/>que secudum opera ejus. Quod enim dictum est: Semel loquutus est; 
+      <lb ed="#H" n="74"/>intelligitur immobiliter, hoc est, incommutabiliter est loquutus, sicut 
+      <lb ed="#H" n="75"/>novit incommutabiliter omnia quae futura sunt, &amp; quae ipse facturus 
+      <lb ed="#H" n="76"/>est. Hac itaque ratione possemus a fando Fatum appellare, nisi hoc 
+      <lb ed="#H" n="77"/>nomen jam in alia re soleret intelligi, quo corda hominum nolumus 
+      <lb ed="#H" n="78"/>inclinari. Gregorius Nyssenus libro de Fato, cap. 4. Neque (inquit) 
+      vo<lb ed="#H" n="79" break="no"/>luntatem Dei servire necessitati fas est dicere: etenim necessitatis est? 
+      <lb ed="#H" n="80"/>conditor. Nam necessitatem sane imposuit astris; ut semper secundum 
+      <lb ed="#H" n="81"/>idem moveantur, &amp; mare circumterminavit: &amp; universalibus &amp; 
+      <lb ed="#H" n="82"/>generalibus necessarium terminum imposuit. Quem si Fatum 
+      voca<lb ed="#H" n="83" break="no"/>re volunt: eo quod ubique &amp; semper secundum necessitatem sit, ut 
+      o<lb ed="#H" n="84" break="no"/>mnia per fuccessionem sint in generatione, &amp; corrumpantur, nihil 
+      <lb ed="#H" n="85"/>curamus. De nominibus enim non velitamur adversus eos. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e701">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Isidorus Etymologiarum seu Originum octavo lib. cap. ult, eo 
+      <lb ed="#H" n="87"/>dem nomine utitur. Quin &amp; Thomas Aquinas libellum de Fato 
+      <lb ed="#H" n="88"/>scripsit &amp; inscripsit.  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e712">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Attamen ut omnis ambiguitas nominis hujus evitetur, sciendum 
+      <lb ed="#H" n="90"/>t, duplex esse Fatum: Philosophicum &amp; Christianum 
+      <lb ed="#H" n="91"/>Philosophicum est triplex: Mathemnticum. Physicum, Stoicum. 
+      <lb ed="#H" n="92"/>Fatum Mathematicum dicitur quod ligat &amp; nectit firnmiter actio¬ 
+      <!--cod-MkL9py-0266.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>nes omnes eventusque ad vim siderum &amp; posituram stellarum: 
+      dici<lb ed="#H" n="94" break="no"/>tur esse necessitas, quae ex coelorum &amp; siderum constellationibus 
+      o<lb ed="#H" n="95" break="no"/>riatur. Istud vocant Mathematici coeleste fatum: ejusque autores 
+      <lb ed="#H" n="96"/>Chaldaei &amp; Astrologi fuerunt, qui causam statumque &amp; motus, 
+      muta<lb ed="#H" n="97" break="no"/>iones, interitumque hominum &amp; regnorum in stellarum positione 
+      <lb ed="#H" n="98"/>consistere sibi &amp; aliis falso persuadent: quod fatum refutat 
+      Augusti<lb ed="#H" n="99" break="no"/>nus libro quinto de Civitate Dei, capitibrsprimis aliquot, &amp; fatuum 
+      <lb ed="#H" n="100"/>vanumque esse evincit: ut &amp; Iohannes Picus Comes Mirandulanus 
+      <lb ed="#H" n="101"/>in lib. 12. quos adversus Astrologos scripsit: &amp;, Thomas Erastus, 
+      Me<lb ed="#H" n="102" break="no"/>dicus excellentissimus. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e752">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Fatum Physicum seu naturale vocatur ordo causarum naturalium, 
+      <lb ed="#H" n="104"/>quae (nisi impediantur) vi &amp; natura sua certum eundemque 
+      produ<lb ed="#H" n="105" break="no"/>cunt effectum. Quale fatum statuit Aristoteles &amp; Theophrastus. 
+      E<lb ed="#H" n="106" break="no"/>hiorum mente, quod homo hominengignit, Fato sit: quod moritur 
+      ab<lb ed="#H" n="107" break="no"/>internis &amp; sine aliena vi causis, Fato. Quod autem homo serpentem. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e768">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>ignit aut monstrum, praeter Fatum: itemque quod giadio occiditur 
+      <lb ed="#H" n="109"/>aut igne. Ergo quod ex causis naturalibus definitis eoque necessariis 
+      <lb ed="#H" n="110"/>rovenit in Natura necessario, id a Fato esse dici solet. Hoc Fatum 
+      <lb ed="#H" n="111"/>Physicum improbari non potest: est enim necessitas &amp; ordo 
+      natura<lb ed="#H" n="112" break="no"/>lis, ex naturalibus principiis proficiscens 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e784">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Fatum Stoicum seu violentum vocatur naturaiis necessitas &amp; 
+      or<lb ed="#H" n="114" break="no"/>do rerum omnium actionumque, ab eterno aliis ad alias 
+      consequen<lb ed="#H" n="115" break="no"/>tibus, immutabili manente earum complicatione &amp; serie quam nul 
+      <lb ed="#H" n="116"/>a ac ne quidem divina vis rumpat. Inde concluserunt Stoici, natura 
+      <lb ed="#H" n="117"/>liter omnia fieri necessario &amp; inevitabili necessitate: quod Fatum 
+      <lb ed="#H" n="118"/>neerito est rejectum &amp; explosum 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e802">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Fatum Christianum, quod etiam Theologicum &amp; verum Fatum: 
+      <lb ed="#H" n="120"/>appellant, est aeternum, sed liberrimum Dei decretum, quo singula 
+      <lb ed="#H" n="121"/>quae fieri debuerunt &amp; debent, suo ordine, loco, tempores firmiter: 
+      <lb ed="#H" n="122"/>iunt praefinita. Hoc quidam dicunt idem esse quod Providentiam 
+      di<lb ed="#H" n="123" break="no"/>vinam ab aeterno omnia providentem disponentemque: alii 
+      distin<lb ed="#H" n="124" break="no"/>guunt a Providentia divina, quam non aliter capiunt aut considerat,  
+      <lb ed="#H" n="125"/>quam ut in Deo vis sit &amp; potestas omnia videndi, sciendi, 
+      guber<lb ed="#H" n="126" break="no"/>nandi. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e824">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Fatum Christianum a Stoico plurimum distat. Nam primo 
+      Stoi<lb ed="#H" n="128" break="no"/>ci Deum Fato subjiciunt, nec Juppiter ipse apud Homerum, cum 
+      <lb ed="#H" n="129"/>maxime vellet, Sarpedonem suum cripuit ejus vinclis: at Christiani 
+      <lb ed="#H" n="130"/>Fatum subjiciunt Deo, qui liberrimus omnium rerum autor &amp; 
+      a<lb ed="#H" n="131" break="no"/>ctor est, &amp; naturalem cursum rerum interrumpere, sistere &amp; mutare 
+      <lb ed="#H" n="132"/>potest quando vult. Hoc docuit Phoenix ille Cermaniae, bonorum. 
+      <lb ed="#H" n="133"/>amore &amp; improborum odio clarissimus PHILIPPUS 
+      MELANCH<lb ed="#H" n="134" break="no"/>THON versibus hisce¬ 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e846">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>Non Deus est Numen Parcarum carcere clausum, 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e854">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>Quale putabatur Stoicus esse Deus: 
+      <lb ed="#H" n="137"/>Ille potest Solis currus inhibere volantes 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e863">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>Ille velut scopulos flumina stare facit. 
+      <lb ed="#H" n="139"/>Secundo Stoici affirmant, seriem causarum omnium esse 
+      natura<lb ed="#H" n="140" break="no"/>lem, quasi sua natura simul essent connexaetat Christiani dicunt, 
+      cau<lb ed="#H" n="141" break="no"/>sas rerum a divino consilio esse conjunctas &amp; ab illo semper hanc 
+      <lb ed="#H" n="142"/>conjunctionem &amp; seriem pendere. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e879">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Tertio Stoici dicunit, connexionem, causarum esse reipsa aeternam. 
+      <lb ed="#H" n="144"/>at Christiani docent eam factam esse &amp; sieri tempore divinitus 
+      de<lb ed="#H" n="145" break="no"/>stinato. Etsi enim earum series ab aeterno est a Deo praecognita &amp; 
+      <lb ed="#H" n="146"/>praefinita: secundae tamen cause non sunt aeternae; origo enim us 
+      cer<lb ed="#H" n="147" break="no"/>te cum munde 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e895">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Quarto Stoici contendunt, omnes causas naturaliter &amp; naturalis 
+      <lb ed="#H" n="149"/>bus viribus agere &amp; producere effecta omnia necessario, atque ita 
+      <lb ed="#H" n="150"/>tollunt τὸ ἐυδεχρμδνον, Contingentiam: Christiani contra statuunt, 
+      <lb ed="#H" n="151"/>multas esse causas, quae sua natura non producunt effecta necessario 
+      <lb ed="#H" n="152"/>sed contingenter ipsarum respectu, etiamsi respectu divini consili 
+      <lb ed="#H" n="153"/>necessario agant. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e913">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Quinto Stoici vim inferunt voluntati violentam: Christiani 
+      ne<lb ed="#H" n="155" break="no"/>gant voluntatem cogi, selumque Deum in hominum agere 
+      volunta<lb ed="#H" n="156" break="no"/>tes, non cogendo tamen, sed absque violentia flectendo quo vult  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e924">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>Siquis igitur sana &amp; vera significatione nomen Fati usurpet 
+      pro<lb ed="#H" n="158" break="no"/>decreto Dei liberrimo, quale Scriptura S. asserit, mente quidem a 
+      <lb ed="#H" n="159"/>eritate divina non aberrat; nominis tamen periculum, quum de 
+      re<lb ed="#H" n="160" break="no"/>bus divinis sermo est, evitare praestat, saltem apud eos, quorum anime 
+      <lb ed="#H" n="161"/>vel ad Mathematicum vel ad Stoicum Fatum inclinant, ut olim 
+      in<lb ed="#H" n="162" break="no"/>clinabant Manichaei, &amp; hodies(pudor Christiani nominis 
+      PAstrolo<lb ed="#H" n="163" break="no"/>gorum fere vulgus atque eis dedit. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e945">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Tantum de nomine Fati. 
+      <lb ed="#H" n="165"/>Sententia vero decretum Dei ab Arnobio dicitur libro 
+      prime<lb ed="#H" n="166" break="no"/>adversus Gentes, pag. viges. quinta: Dedidimus nos Deo, cujus nuta 
+      <lb ed="#H" n="167"/>&amp; arbitrio omne quod est, constat, &amp; in sententiae suae perpetuitate. 
+      <lb ed="#H" n="168"/>lefixum est. Attamen Gregorius Magnus sententiam a consilio 
+      di<lb ed="#H" n="169" break="no"/>vino distinguit, quum ait; Novit Dominus mutare sententiam, sed  
+      <lb ed="#H" n="170"/>nunquam novit mutare consilium. Vocat enim Gregorins 
+      senten<lb ed="#H" n="171" break="no"/>tiam, denunciationem eventus alicujus juxta hominum merita, 
+      ver<lb ed="#H" n="172" break="no"/>uxta rationem causarum secundarum prolatam, attamen cum 
+      con<lb ed="#H" n="173" break="no"/>ditione resipiscentiae: vel voluntatis potentiaeque divinae; qualis erat 
+      <lb ed="#H" n="174"/>sententia Ninevitis denunciata, post quadraginta dies Nineven 
+      sub<lb ed="#H" n="175" break="no"/>versum iri, Jon. 3. 5. qualis sententia Regi Ezechiae aegrotanti 
+      lethali<lb ed="#H" n="176" break="no"/>ter fuit denunciata per Jesaiam Prophetam, futurum ut brevi 
+      more<lb ed="#H" n="177" break="no"/>vetur ac non viveret, 2. Reg. 20. 1. &amp; Jesa. 38. 1. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e980">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>His &amp; similibus nominibus aeternum consilium &amp; decretum Dei, 
+      <lb ed="#H" n="179"/>appellari consuevit. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e989">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>Definitioni &amp; nomenclaturae eius subnectimus. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e996">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>distributiones. 
+      <lb ed="#H" n="182"/>AEternum decretum seu consilium Dei est PRIMo vel beneplacit: 
+      <lb ed="#H" n="183"/>ti Dei vel signi. 
+      <!--cod-MkL9py-0267.xml-->
+      <pb ed="#H" n="240"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Decretum beneplaciti Dei, est quo Deus ab aeterno decrevit id 
+      <lb ed="#H" n="2"/>quod vult voluntate beneplaciti: diciturque decretum efficiens, quo 
+      <lb ed="#H" n="3"/>Deus non tantum ab aeterno constituit efficere bonum vel per se vel 
+      <lb ed="#H" n="4"/>per alios, verum etiam destinato tempore exsequitur; &amp; moderatur  
+      <lb ed="#H" n="5"/>in universum omnia dirigitque ad bonum finem secundum infinitam 
+      <lb ed="#H" n="6"/>potentia suam. De hoc decreto dicitur, Ephes. 1. 11. Deus agit omnia 
+      <lb ed="#H" n="7"/>ex consilio voluntatis suae. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1029">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Vocatur etiam decretum Dei potens &amp; ενεογηίικον, hoc est, efficax  
+      <lb ed="#H" n="9"/>quo agit voluntas Dei intus, quod agit potentia foris: quia 
+      volunta<lb ed="#H" n="10" break="no"/>tis unus &amp; idem actus internus simul atque externus est, internus. 
+      <lb ed="#H" n="11"/>agens quasi formaliter, quod agit externus materialiter in qualibe 
+      <lb ed="#H" n="12"/>creatura DEI 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1045">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Illudque duobus modis exserit operationem suam, tum 
+      efficien<lb ed="#H" n="14" break="no"/>do in singulis quod sui operis est: tum ordinando omnia, etiam 
+      quae<lb ed="#H" n="15" break="no"/>sui operis non sunt, cum aliis atque ad suum finem dirigendo 
+      produ<lb ed="#H" n="16" break="no"/>cendoque. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1059">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Decretum ergo beneplaciti divini dicitureνεργητικὸν ἀπλώςκαταη 
+      <lb ed="#H" n="18"/>ενεργητικον, id est, efficax dupliciter, vel ἀπλός, simpliciter: vel καταη,  
+      <lb ed="#H" n="19"/>secundum quid seu aliquatenus. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1070">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Decretum εναργτικον ἀωλώς, dicitur ratione tum effectionis tum 
+      <lb ed="#H" n="21"/>regiminis ordinationisque; quo decreto nimirum res divinitus &amp; fi 
+      <lb ed="#H" n="22"/>unt, diriguntur ordinanturque ac speciatim ad bona restringitur, id 
+      <lb ed="#H" n="23"/>est, ad substantias &amp; accidentia illarum quae Deus facturus erat  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1083">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Decretum ενεργηιικον καταη, dicitur ratione regiminis solum; qui  
+      <lb ed="#H" n="25"/>decreto nimirum plurima antequam fiant Deus constituit, &amp; guber 
+      <lb ed="#H" n="26"/>nare sive principium illorum in consiliis &amp; voluntatibus situm, sivi 
+      <lb ed="#H" n="27"/>perfectionem in eventu consistentem spectes, &amp; ordinare ad bonos 
+      <lb ed="#H" n="28"/>fines; &amp; quum fiunt &amp; facta sunt ad fines destinatos dirigit: &amp; hoc de 
+      <lb ed="#H" n="29"/>cretum etiam peccatis congruit, quorum etsi Deus autor non est; 
+      ta<lb ed="#H" n="30" break="no"/>men eorum ordinator est &amp; gubernator tum quoad principium tum 
+      <lb ed="#H" n="31"/>quoad consummationem illorum 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1105">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Decretum igitur Dei est εναργητικὸν etiam respectu peccatorum 
+      <lb ed="#H" n="33"/>non quod Deus decreverit peccata facere, sed quod decreverit pec 
+      <lb ed="#H" n="34"/>cata sic gubernate &amp; ordinare quoad circumstantias, &amp; dirigere ad 
+      <lb ed="#H" n="35"/>bonos fines, ne diaboli &amp; homines peccantes vel movere se adversus 
+      <lb ed="#H" n="36"/>quemquam, vel quicquam conari aut aggredi, aliisque nocere &amp; 
+      pro<lb ed="#H" n="37" break="no"/>libidine &amp; cupiditate sua furere possint. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1123">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Qua propter quum efficax esse decretum respectu peccatorum 
+      di<lb ed="#H" n="39" break="no"/>citur, tantum otiosae &amp; a gubernatione vacuae permissioni, quam 
+      qui<lb ed="#H" n="40" break="no"/>dam imprudenter statuunt, opponitur; quum certum sit, peccantibus 
+      <lb ed="#H" n="41"/>diabolis aut hominibus Deum nequaquam tanquam otiosum 
+      spe<lb ed="#H" n="42" break="no"/>ctatorem in theatro aliquo sedere, sed divina sua sapientia ac 
+      poten<lb ed="#H" n="43" break="no"/>tia omnia gubernater 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1141">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Sic fuit de decreto beneplaciti Dei. 
+      <lb ed="#H" n="45"/>Decretum signi, est quo Deus ab aeterno decrevit id quod vult 
+      vo<lb ed="#H" n="46" break="no"/>luntate signi¬ 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1153">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Cujus species sunt; decretum praecipiens, &amp; decretum permittens: 
+      <lb ed="#H" n="48"/>Decretum praecipiens, est quo Deus ab aeterno constituit res 
+      faci<lb ed="#H" n="49" break="no"/>endas imperate quas, pbat fieri, aut fugiendas vitare, quas improbati  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1164">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Decretum permittens, est quo Deus ab aeterno constituit permit. 
+      <lb ed="#H" n="51"/>tere fieri, quaecunque permitti¬ 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1173">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>Hoc decreto Deus decrevit permittere non tantum bona aut 
+      me<lb ed="#H" n="53" break="no"/>dia, sed etiam peccatum: sic enim legitur Act. 2. v. 23. Hunc definito 
+      <lb ed="#H" n="54"/>consitio, &amp; providentia Dei deditum quum accepissetis, manibus 
+      sce<lb ed="#H" n="55" break="no"/>leratis cruci affixum interemistis. Et c. 4. v. 27, 28. Coacti sunt enim 
+      <lb ed="#H" n="56"/>vere adversus sanctum Filium tuum Iesum quem unxisti, Herodes 
+      <lb ed="#H" n="57"/>&amp; Pontius Filatus cum gentibus &amp; populis Israel. Ut facerent quae 
+      <lb ed="#H" n="58"/>cunque manus tua &amp; consilium tuum prius definierat facienda. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1193">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Quamvis autem Deus decreverit permittere peccatum: tamen id 
+      <lb ed="#H" n="60"/>a nullo decreto Dei est, nec efficiente, nec praecipiente, nec permitte 
+      <lb ed="#H" n="61"/>te, etsi fiat decreto permittente seu secundum decretum permittens 
+      <lb ed="#H" n="62"/>Aliud enim est esse a decreto, aliud esse secundum decretum: illud 
+      <lb ed="#H" n="63"/>enim causam; hoc vero antecedens notat, etiamsi non sit causa, sed  
+      <lb ed="#H" n="64"/>cantummodo adjunctum quod antecedit.  
+      <lb ed="#H" n="65"/>eAxiomata de decreto Dei, pertinentia ad primam hanc 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1213">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>distributionem. 
+      <lb ed="#H" n="67"/>I. Decretum Dei est sapientissimum: quia promanat a 
+      sapienti<lb ed="#H" n="68" break="no"/>Dei, omnium Angelorum &amp; hominum mentibus incoprehensibili 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1224">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>II. Decretum Dei est liberrimum: quia est actio voluntatis Dei. 
+      <lb ed="#H" n="70"/>ac proinde ejus causa efficiens est liberrima voluntas Dei, quae ab alio 
+      <lb ed="#H" n="71"/>non pendet aut regitur: ideo ipsum decretum saepe voluntas Dei 
+      Me<lb ed="#H" n="72" break="no"/>tonymice appellatur. Extra Deum autem causa ejus efficiens nulla. 
+      <lb ed="#H" n="73"/>prorsus est, nulla esse potuit. Nam decretum Dei est aeternum, id est 
+      <lb ed="#H" n="74"/>actus ab aeterno in Deo exsistens: quicquid enim Deus decrevit, ab 
+      <lb ed="#H" n="75"/>aeterno decrevit: sicut dicit Apostolus Jacobus in Concilio 
+      Jerosoly<lb ed="#H" n="76" break="no"/>mitano Act. 15. v. 18. Nota sunt Deo ab aevo omnia opera sua. Et 
+      Pau<lb ed="#H" n="77" break="no"/>us I. Cor. 2. v. 7. Loquimur sapientiam Dei in mysterio, occultam 
+      il<lb ed="#H" n="78" break="no"/>iam quam praefinierat Deus ante secula ad gloriam nostram. Deinde 
+      <lb ed="#H" n="79"/>aeternum decretum Dei reipsa nihil est aliud, quam ipsamet essentia. 
+      <lb ed="#H" n="80"/>Dei decernens; ratione tantum ab ea differt: Ejus igitur causa 
+      effici<lb ed="#H" n="81" break="no"/>ens extra Deum dari non potest. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1258">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>III. Decretum Dei est absolutum, quod omnes causas secundas, 
+      <lb ed="#H" n="83"/>omnia media antegreditur; non autem est conditionale, id est, cujus 
+      <lb ed="#H" n="84"/>causa efficiens sit coditio aliqua, quae in creaturis exstitura erat. Nam 
+      <lb ed="#H" n="85"/>impossibile est, ut ejus, quod in Deo est ab aeterno, causa efficiens sit 
+      <lb ed="#H" n="86"/>conditio temporaria, seu quae certo demum tempore in hominibus 
+      <lb ed="#H" n="87"/>vel aliis creaturis futura erat: sic enim causa efficiens esset posterior: 
+      <lb ed="#H" n="88"/>suo effectu tempore. Decretum ergo Dei est absolutum, quia est se 
+      <lb ed="#H" n="89"/>cundum propositum Dei, sine respectu personarum &amp; operum, ut 
+      <!--cod-MkL9py-0267.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>causarum efficientium decreti: quia fuit in Deo, antequam non solum 
+      <lb ed="#H" n="91"/>Angeli &amp; homines aliquid fecissent, sed etiam antequam essent, 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1289">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>Quod si absolutum decretum Dei accipiatur pro decreto non 
+      re<lb ed="#H" n="93" break="no"/>velato in verbo Dei, vel quod nihil habeat subordinatum, quod 
+      me<lb ed="#H" n="94" break="no"/>rum solumque agat sine mediis, (quale decretum a nobis statui de 
+      <lb ed="#H" n="95"/>salute hominum aeterna, quidam calumniantur;) ac proinde 
+      oppo<lb ed="#H" n="96" break="no"/>natur decreto ordinato: nos tale decretum non agnoscimus. Fater 
+      <lb ed="#H" n="97"/>mur enim, (ut exempli gratia hoc dicamus,) Deum ut ab aeterno de 
+      <lb ed="#H" n="98"/>crevit nos amare &amp; servare: sic amare &amp; benedicere nobis in Christo, 
+      <lb ed="#H" n="99"/>vocare ad Christum, justificare &amp; servare per Christum fide 
+      appre<lb ed="#H" n="100" break="no"/>hensum. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1313">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Qui autem decretum Dei conditionale dicunt, cujus exsequutio  
+      <lb ed="#H" n="102"/>fit interveniente conditione aliqua in creaturis, illi improprie loquun  
+      <lb ed="#H" n="103"/>tur; quia decreto tribuunt id quod est exsequutionis proprium, at 
+      <lb ed="#H" n="104"/>que ita decretum cum exsequutione ejus confundunt. Deinde 
+      rem<lb ed="#H" n="105" break="no"/>denominant ex accidente temporario: quum rerum denominatio ex 
+      <lb ed="#H" n="106"/>causa potius facienda, 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1331">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>IV. Decreti divini finis est gloria Dei &amp; complementum 
+      volun<lb ed="#H" n="108" break="no"/>tatis ejus in rebus creatis omnibus. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1340">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>V. Decreti divini effectus proprius &amp; necessarius est praesentia 
+      <lb ed="#H" n="110"/>Dei definita rerum futurarum. Quaecunque enim Deus decrevit, ea 
+      <lb ed="#H" n="111"/>dem futura praescivit. Prius decrevit si ordinem causae spectemus 
+      <lb ed="#H" n="112"/>postea praescivit. Itaque non res futurae, sed aeternum de futuris 
+      de<lb ed="#H" n="113" break="no"/>cretum, praescientiae divinae causa est: sic ut praescientiae divine 
+      limita<lb ed="#H" n="114" break="no"/>tio non proveniat a conditione rerum quae praevidentur, sed a 
+      volun<lb ed="#H" n="115" break="no"/>tate &amp; decreto Dei tanquam principio determinationis futurorum. 
+      <lb ed="#H" n="116"/>Temporale enim aeterni neque causa, neque limitatio esse potest. 
+      No<lb ed="#H" n="117" break="no"/>ergo quia futura erant, Deus ea praescivit: sed ideo praescivit, quia 
+      de<lb ed="#H" n="118" break="no"/>creverat ut fierent 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1366">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Deinde aeterni decreti Dei effectus sunt tum res omnes quae in 
+      te<lb ed="#H" n="120" break="no"/>pore factae sunt, siunt &amp; fient: tum ordo earum cum omnibus causis se 
+      <lb ed="#H" n="121"/>cundis seu mediis &amp; circumstantiis. Res omnes quum dicimus, tum 
+      <lb ed="#H" n="122"/>substantias, tum creata accidentia, tum eventus illarum bonos 
+      ma<lb ed="#H" n="123" break="no"/>losque intelligimus; sed peccatum excludimus, quod non est Res 
+      <lb ed="#H" n="124"/>Ordinem vero intelligimus neque naturalem, neque eternum seu ab 
+      <lb ed="#H" n="125"/>aeterno rebus inhaerentem, (Stoicorum enim fatum non 
+      approba<lb ed="#H" n="126" break="no"/>mus,) sed certo tempore institutum a Deo &amp; ab ejus consilio 
+      semper<lb ed="#H" n="127" break="no"/>pendentem. 
+      <lb ed="#H" n="128"/>Itaque decretum Dei est rerum omnium, nulla excepta, &amp; ordinis 
+      <lb ed="#H" n="129"/>llarum ενιργητικὸν seu efficax principium. 
+      <lb ed="#H" n="130"/>OBIICIUNT quidam: Quicunque docet, decretum Dei esse effica; 
+      <lb ed="#H" n="131"/>principium rerum omnium, necessario statuit, decretum Dei, etiam pec- 
+      <lb ed="#H" n="132"/>cati principium esse. At prius docent Doctores Ecclesiarum 
+      refor<lb ed="#H" n="133" break="no"/>matarum seu Evangelicarum in Gallia, Germania, Anglia, &amp;c. 
+      <lb ed="#H" n="134"/>Ergo etiam posterius statuant necesse est. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1406">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>RESPONP. Major propositio negatur: nam &amp; Spiritus Sanctus 
+      <lb ed="#H" n="136"/>ipse per Apostolum Paulum docet, decretum esse efficax rerum 
+      o<lb ed="#H" n="137" break="no"/>mnium principium; quum dicit Ephes. 1. 11. quod praedestinati simus 
+      <lb ed="#H" n="138"/>secundum propositum τοῦ ταπάντα ενεργονιος κι τυν ζουη το θε¬ 
+      <lb ed="#H" n="139"/>λημαιος αυτο, id est, ejus qui omnia efficit secundum consilium 
+      vo<lb ed="#H" n="140" break="no"/>luntatis suae, 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1424">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>INSTANT. Decretum Dei est ενεργητικον etiam respectu peccatis 
+      <lb ed="#H" n="142"/>rgo est principium &amp; causa efficiens peccatis 
+      <lb ed="#H" n="143"/>RESPOND. Procedit a dicto secundum quid ad dictum 
+      sim<lb ed="#H" n="144" break="no"/>pliciter. Nam decretum Dei est ευργηίικον respectu peccati, non 
+      sim<lb ed="#H" n="145" break="no"/>pliciter quatenus est peccatum, id est, aberratio a Lege Dei: sed 
+      qua<lb ed="#H" n="146" break="no"/>tenus illud Deus gubernat, eique modum imponit, &amp; limites certos 
+      <lb ed="#H" n="147"/>statuit, ne committatur per quoscunque, ubicunque, adversus 
+      quos<lb ed="#H" n="148" break="no"/>cunque, quocunque modo, quovis tempore, &amp; si quae sunt aliae 
+      circum<lb ed="#H" n="149" break="no"/>stantiae &amp; causae secundae; &amp; quatenus illud dirigit ad bonum finem. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1448">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>INSTANTamplius: Decretum Dei est ἐνιργηιιlικον respectu peccati 
+      <lb ed="#H" n="151"/>non tantum quoad eventum, sed etiam quoad principium ejus;: Ergo 
+      <lb ed="#H" n="152"/>ist causa efficiens peccati 
+      <lb ed="#H" n="153"/>RESPOND. Processus est a dicto secundum quid ad dictum 
+      <lb ed="#H" n="154"/>simpliciter. Decretum Dei est eνιργητικον respectu peccati, etiam quo 
+      <lb ed="#H" n="155"/>ad principium ejus, id est, malam voluntatem, non faciendo malam 
+      <lb ed="#H" n="156"/>voluntatem, sed eam gubernando ordinandoque. Deus enim creato 
+      <lb ed="#H" n="157"/>omnium naturarum, bonas voluntates remunerat, malas judicat,  
+      <lb ed="#H" n="158"/>utrasque ordinat.  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1472">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>VI. Decreti divini subjectum seu objectum sunt omnino omnia 
+      <lb ed="#H" n="160"/>quae futura erant, maxima &amp; minima, bona &amp; mala. De bonis nullum 
+      <lb ed="#H" n="161"/>est dubium; nullum etiam de malo poenae. De malo culpae, id est, pec 
+      <lb ed="#H" n="162"/>cato distinguendum. Quatenus est peccatum, id est, aberratio a Legi 
+      <lb ed="#H" n="163"/>divina, decrevit illud Deus decreto permittente, non autem efficient 
+      <lb ed="#H" n="164"/>te: quod vero attinet substantiam aut actionem cui peccatum inest, 
+      <lb ed="#H" n="165"/>quod item gubernationem &amp; ordinationem peccati attinet, ta quo 
+      <lb ed="#H" n="166"/>ad principium, quam quoad eventum &amp; consumationem ejus, 
+      de<lb ed="#H" n="167" break="no"/>creta illa est decreto efficiente. Quod dicimus, firmant Scripturae S 
+      <lb ed="#H" n="168"/>testimonia, e quibus haec producimus. Actor. 2. v. 23. Hunc definite. 
+      <lb ed="#H" n="169"/>illo consilio &amp; praecognitione Dei deditum, quum accepissetis, 
+      mani<lb ed="#H" n="170" break="no"/>bus sceleratis cruci affixum interemistis. Hic Petrus Apostolus 
+      ex<lb ed="#H" n="171" break="no"/>presse docet, ἐκδοσιν, id est, deditionem, seu proditionem quam Judas 
+      <lb ed="#H" n="172"/>Ischariotes Judaeis Christum tradidit, fuisse consilio Dei definitam 
+      <lb ed="#H" n="173"/>&amp; decretum Actor. 4. v. 27, 28. Congregati sunt enim in hac 
+      civita<lb ed="#H" n="174" break="no"/>te vere adversus sanctum Filium tuum Iesum, quem unxisti, Hero 
+      <lb ed="#H" n="175"/>des &amp; Pontius Pilatus, cum Gentibus &amp; populis Israelis, ut facerent 
+      <lb ed="#H" n="176"/>quaecunque manus tua &amp; consilium tuum prius definierat ut fierent. 
+      <lb ed="#H" n="177"/>Hic Apostoli palam dicunt, ea quae hostes CHRISTI fecerunt 
+      <lb ed="#H" n="178"/>definita fuisse consilio Dei ut fierent. 1. Pet. 3. 17. Melius enim est ut 
+      <lb ed="#H" n="179"/>bene agentes, si ita velit Dei uoluntas malis afficiamini, quam mal 
+      <lb ed="#H" n="180"/>agentes. Et 1. Petr. 4. 19. Qui malis afficiuntur ex uoluntate Dei, 
+      <lb ed="#H" n="181"/>tanquam fideli Conditori commendent animas suas benefaciendo. 
+      <!--cod-MkL9py-0268.xml-->
+      <pb ed="#H" n="241"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Hic itidem Petrus dicit, fideles affici malis voluntate Dei, nempe ab 
+      <lb ed="#H" n="2"/>improbis hominibus &amp; persecutoribus. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1537">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>EXCIPIT <name xml:id="yyy8Uu-e13732-Nd1e1543">Petrus Lombardus</name> libro primo Sententiarum, Distin 
+      <lb ed="#H" n="4"/>ctione quadragesima octava, capite secundo &amp; tertio; a Deo 
+      decre<lb ed="#H" n="5" break="no"/>tam tantum passionem Christi &amp; fidelium bonam, non autem actionem 
+      <lb ed="#H" n="6"/>hominum malam. Sed exceptio ista falsa est; quia contradicit aperto 
+      <lb ed="#H" n="7"/>Apostolis affirmantibus, congregatos fuisse hostes Christi, uτ 14. 
+      <lb ed="#H" n="8"/>CERENT, quaecunque manus Dei &amp; consilium ejus prius definierat,  
+      <lb ed="#H" n="9"/>ut FIERENT: Ergo actionem illorum Deus decreverat. Si dixissent 
+      <lb ed="#H" n="10"/>Apostoli, ut pateretur Jesus illa quaecunque manus Dei &amp; consilium 
+      <lb ed="#H" n="11"/>ejus prius definierat ut perferret, tum exceptio colorem aliquem 
+      ha<lb ed="#H" n="12" break="no"/>beret: nec tamen excluderetur actio ipsa quae passionem infert. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1567">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Confirmat veritatem &amp; ratio ex Scriptura petita. Sine 
+      decreto<lb ed="#H" n="14" break="no"/>Dei non sit quicquam; Ergo nec peccatum. Ante cedens certum est, 
+      <lb ed="#H" n="15"/>quia Deus est infinitae sapientiae &amp; potentiae. At si fierent aliqua quae 
+      <lb ed="#H" n="16"/>Deus nullo modo decrevisset, ad illa non pertingeret Dei sapientia &amp; 
+      <lb ed="#H" n="17"/>potentia, atque sic illis utraque finiretur: 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1584">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>VII. Decretum Dei est aternum, hoc est, quod Deus ab aeterne. 
+      <lb ed="#H" n="19"/>apud se constituit. Nam Deus decreta sua non facit demum in 
+      tem<lb ed="#H" n="20" break="no"/>pore, quasi pro re nata consilium capiens, ut homines solent: sed  
+      <lb ed="#H" n="21"/>mnia decreta divina sunt constituta ab aeterno. Nota sunt Deo 
+      ab<lb ed="#H" n="22" break="no"/>aevo omnia opera sua, Act. 15. v. 18. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1600">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>IIX. Decretum Dei antecedit omnes res &amp; eventus quicunqui 
+      <lb ed="#H" n="24"/>fiunt in mundo, etiam bona opera creaturarum rationalium &amp; pec- 
+      <lb ed="#H" n="25"/>cata. Nec enim post opera bona aut peccata ab Angelis &amp; hominibus 
+      <lb ed="#H" n="26"/>peracta, demum Deus decernit quid de Angelis &amp; hominibus bene 
+      <lb ed="#H" n="27"/>vel male operantibus fieri debeat: sed ab aeterno decrevit, quid de illis 
+      <lb ed="#H" n="28"/>fieri vellet.  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1618">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>OBJICITURX: Si decretum Dei antecedit peccata diabolorum &amp; 
+      ho<lb ed="#H" n="30" break="no"/>minum, tum causa est illorum. Sed hoc est absurdum: Ergo &amp; illud 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1627">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>RESP. Negatur consequentia propositionis connexae; quia pars 
+      <lb ed="#H" n="32"/>ejus antecedens simpliciter capitur, quum secundum quid intelligi 
+      <lb ed="#H" n="33"/>debeat. Decretum enim Dei antecedit peccata, non quovis 
+      mo<lb ed="#H" n="34" break="no"/>do, sed tantum ordine, nempe ut adjunctum quoddam 
+      necessa<lb ed="#H" n="35" break="no"/>rium. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1643">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>INSTANTIA: Quicquid antecedit, est causa: Decretum Dei anter 
+      <lb ed="#H" n="37"/>cedit peccata: Ergo decretum Dei est causa peccatorum 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1652">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>RESP. Negatur major universaliter enunciata &amp; simpliciter 
+      in<lb ed="#H" n="39" break="no"/>tellecta. Quicquid antecedit, nempe efficienter, est causa ejus quod 
+      <lb ed="#H" n="40"/>sequitur. Non sic causa intelligi debet, ut quod cuique antecedat, id eo 
+      <lb ed="#H" n="41"/>causa sit: sed quodcunque efficienter antecedat; ait Cicero libro de fato. 
+      <lb ed="#H" n="42"/>Ac paulo post; Nulla igitur earum causa est, quoniam nullam rem, sua; 
+      <lb ed="#H" n="43"/>vi efficit, cuius dicitur causa: nec id. sine quo quippiam non sit, 
+      causo<lb ed="#H" n="44" break="no"/>est, sed id, quod quum accessit, id cuius causa est, efficit necessarios 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1673">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>IX. Decretum Dei est justissimum: quia ejus causa est voluntas 
+      <lb ed="#H" n="46"/>divina, quae est suprema regula omnis justitiae &amp; rectitudinis: a nulla 
+      <lb ed="#H" n="47"/>igitur creatura jure accusatur. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1684">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>X. Decretum Dei est firmum, stabile, constans, αμαζακιθηον, id est 
+      <lb ed="#H" n="49"/>immotum &amp; immutabile, tum ex parte Dei, tum ex parte creatura 
+      <lb ed="#H" n="50"/>rum. Deus enim decretum suum non mutat, nec ejus illum potest. 
+      <lb ed="#H" n="51"/>poenitere; quia nec falli errore confilii sapientissimus, nec mentiri 
+      ve<lb ed="#H" n="52" break="no"/>rissimus, nec superati omnipotens, nec ab ullius creaturae arbitria 
+      <lb ed="#H" n="53"/>pendere αυαιτιος, id est, causae superioris expers, nec mutati simplex 
+      <lb ed="#H" n="54"/>&amp; aeternus potest: sed quicquid semel ab aeterno statuit, illud certe 
+      <lb ed="#H" n="55"/>exsequitur, sic ut in iis quae semel voluit, nihil flectat, nihil fluctuet  
+      <lb ed="#H" n="56"/>ut sequentia testimonia docent. Psal. 33. 11. Consilium Iehovae in 
+      se<lb ed="#H" n="57" break="no"/>culum consistit, cogitationes animi eius in aetates singulas. Numer. 23. 
+      <lb ed="#H" n="58"/>v. 23. Deus fortis non est homo qui mentiatur, aut filius hominis quem 
+      <lb ed="#H" n="59"/>poeniteat: an ipse dixerit, &amp; non faciet? an loquutus fuerit &amp; non 
+      prae<lb ed="#H" n="60" break="no"/>stabit illud? 1. Sam. 15. v. 29. Quin etiam qui est aeternitas Israelis non 
+      <lb ed="#H" n="61"/>committet mendaciter, neque panitebit eum, non enim homo est ut 
+      poeni<lb ed="#H" n="62" break="no"/>teat eum. Prov. 19. v. 21. Jesa. 46. v. 10. Indicantem a principio 
+      fi<lb ed="#H" n="63" break="no"/>nem, &amp; ab antiquitate quae nondum facta sunt, dicentem, Consilium 
+      <lb ed="#H" n="64"/>meum stabit, &amp; omnem delectationem meam facturus sum. Malach. 3. 
+      <lb ed="#H" n="65"/>v. 6. Ego Ieho va non mutor; ideo vos, filii lacobi, non consumti estis. 
+      Ja<lb ed="#H" n="66" break="no"/>cob. 1. 17. Apud quem [Patrem scilicet luminum) non inest 
+      transmu<lb ed="#H" n="67" break="no"/>tatio, aut conversionis obumbratio, Jesa. 14. v. 24, 27. Iuravit Iehovi 
+      <lb ed="#H" n="68"/>exercituum, dicendo: mentiar, nisi quemadmodum proposui mihi ita 
+      <lb ed="#H" n="69"/>fuerit, &amp; quemadmodum consilium inivi, illud exstiterit. Nam Iehovi 
+      <lb ed="#H" n="70"/>exercituum inivit consilium, &amp; quis irritum faciat? &amp; manum eius 
+      ex<lb ed="#H" n="71" break="no"/>tenta, ecquis avertat: Jer. 4. v. 28. Cogitavi, neque poenitet me, neque averta ¬ 
+      <lb ed="#H" n="72"/>me ab eo. Heb. 6. v. 17. ἀμεζιοι τῆς οελῆς, immutabilitas consilii Deo. 
+      <lb ed="#H" n="73"/>adscribitur.  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1745">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Unde etiam decretum Dei ante exsequutionem ejus tam certum. 
+      <lb ed="#H" n="75"/>est, ac si jam effectum esset. Qua de causa tanquam de re jam facta 
+      <lb ed="#H" n="76"/>loquuntur Prophetae, quum decretum Dei de ea commemorant, 
+      Jesa<lb ed="#H" n="77" break="no"/>9. Puer datus est nobis, id est, Deus decrevit dare puerum nobis. 
+      Jer<lb ed="#H" n="78" break="no"/>28. v. 2. Fregi iugum Regis Balylonici, id est, in consilio meo 
+      consti<lb ed="#H" n="79" break="no"/>tutum est frangere. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1763">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Quod vero creaturas attinet, nulla illarum mutare, nulla illarum 
+      <lb ed="#H" n="81"/>impenire, aut retardare, aut praecipitare potest Dei consilium &amp; 
+      de<lb ed="#H" n="82" break="no"/>cretum, illud nulla vis humana elidit, nullum acumen, nullus astu 
+      <lb ed="#H" n="83"/>eludit, sive apertis sive occultis machinationibus &amp; molitionibus: sic 
+      <lb ed="#H" n="84"/>ut mundus primus non potuit avertere vel impedire decretum a Deo. 
+      <lb ed="#H" n="85"/>diluvium: Pharao non potuit mutare vel impedire decretam a Deo. 
+      <lb ed="#H" n="86"/>liberationem populi Israelitici ex servitute AEgyptiaca: Saul non 
+      po<lb ed="#H" n="87" break="no"/>tuit mutare vel impedire quod Deus decreverat de Davide ad res 
+      <lb ed="#H" n="88"/>gnum evehendo: Tyranni non potuerunt impedire decretam a Deo. 
+      <lb ed="#H" n="89"/>ab aeterno praedicationem Evangelii &amp; regni Christi erectionem in 
+      <lb ed="#H" n="90"/>toto mundo. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1792">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>OEJICITUR I. Cuiuscunque rei Deum poenitet, id est mutabile: De 
+      <lb ed="#H" n="92"/>creti sui Deum poenitet: Ergo decretum Dei est mutabile. Assumtio pro¬ 
+      <!--cod-MkL9py-0268.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>batur ex istis locis, Gen. 6. v. 6. Poenituit Iehivam quod fecisset 
+      homi<lb ed="#H" n="94" break="no"/>nem in terra. 1. Sam. 15. v. 10, 11. Fuit verbum Iehovae ad Samuelem; 
+      <lb ed="#H" n="95"/>dicendo: Poenitet me constituisse Saulem regem. Jon. 3. v. 11. Poenitui. 
+      <lb ed="#H" n="96"/>eius mali quo se dixerat affecturum Ninevitas, &amp; non affecit. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1814">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>RESP. Assumtio negatur: &amp; ad eam probandam non faciunt 
+      ad<lb ed="#H" n="98" break="no"/>ducta loca, quae Deum poenituisse decreti sui minime docent, sed hoc  
+      <lb ed="#H" n="99"/>tantum indicant figurato loquendi modo similitudine ab hominibus 
+      <lb ed="#H" n="100"/>petita, Deum res in tempore factas vel denunciatas mutare 
+      consti<lb ed="#H" n="101" break="no"/>tuisse, idque juxta aeteruum decretum. Ut enim Deus decrevit facere: 
+      <lb ed="#H" n="102"/>ut denunciare destinato tempore, quascunque res fecit &amp; facit aut de 
+      <lb ed="#H" n="103"/>nunciavit; ita etiam decrevit mutare res easdem. Ubi ergo in 
+      Scriptu<lb ed="#H" n="104" break="no"/>ra Sacra legitur, quod Deum poenituerit, mutatio rerum ab ipso in 
+      <lb ed="#H" n="105"/>tempore factarum vel denunciatarum significatur, immutabili 
+      decre<lb ed="#H" n="106" break="no"/>to manente divino. Itaque per poenitentiam, quum Deo adscribitur, non 
+      <lb ed="#H" n="107"/>mutabil s in Deo affectus (quum nullum accidens sit in Deo, utpote 
+      <lb ed="#H" n="108"/>simplicissimo &amp; infinito) sed temporarii effectus mutatio, non 
+      teme<lb ed="#H" n="109" break="no"/>raria sed ab aeterno destinata indicatur. Quod autem in Deum 
+      poe<lb ed="#H" n="110" break="no"/>nitentia proprie dicta non cadat, testatur Samuel 1. Sam. 15. v. 29. Qui 
+      <lb ed="#H" n="111"/>est aeternitas Israelis, non committet menduciter, neque poenitibt eum, non 
+      <lb ed="#H" n="112"/>enim homo est ut poeniteat eum. Quum hoc in loco Propheta tam 
+      di<lb ed="#H" n="113" break="no"/>serte neget, quod Deum poeniteat, necesse est alibi figurate 
+      poeniten<lb ed="#H" n="114" break="no"/>tiam ei adscribi. Quovodo enim (ait Theodoretus Quaestionibus in 
+      Ge<lb ed="#H" n="115" break="no"/>nes. c. 7.) poenitentia cadat in eum, qui sua praescientia regit universa? 
+      <lb ed="#H" n="116"/>Quare poenitentia nihil aliud est, quam mutatio dispensationis (id est: 
+      <lb ed="#H" n="117"/>temporariae gubernationis &amp; dispositionis rerum humanarum) eius 
+      <lb ed="#H" n="118"/>Poenitet me, inquit, quod constituerim Saulem regem: pro eo, quod est; 
+      <lb ed="#H" n="119"/>statui illum deponere &amp; alterum creare. Sic in hoc loco, Poenitet me 
+      fe<lb ed="#H" n="120" break="no"/>cisse hominem, hoc est, decrevi perdere hominum genus. Quare 
+      Augusti<lb ed="#H" n="121" break="no"/>nus octavo tomo, in Psal. centes. nonum ait: Poenitentis mutatio 
+      re<lb ed="#H" n="122" break="no"/>rum significatur. Et quinto tomo, libro decimoquinto de civitate Dei, 
+      <lb ed="#H" n="123"/>c. 25. Neque enim ut hominem, ita Deum, cuiusquam facti sui poenitet; 
+      <lb ed="#H" n="124"/>cuius de omnibus rebus tam fixa sententia, quam certa praescientia. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1880">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Et octavo tomo in enarratione Psal. 105. Poenituit eum secundum 
+      <lb ed="#H" n="126"/>multitudinem misericordiae suae. Poenituit dictum est, quia mutavit quod  
+      <lb ed="#H" n="127"/>eos perditurus videbatur. Et apud Deum quidem disposita &amp; fixa 
+      sun<lb ed="#H" n="128" break="no"/>omnia: nec aliud facit quasi consilio repentine, quod non ex aeternitate se 
+      <lb ed="#H" n="129"/>facturum esse praescivit: sed in creatura temporalibus motibus quam 
+      ga<lb ed="#H" n="130" break="no"/>bernat mirabiliter, ipse non temporaliter motus, quasi repentina 
+      volun<lb ed="#H" n="131" break="no"/>tate sua facere dicitur, quod ordinatis rerum causis consilii sui secretissimi 
+      <lb ed="#H" n="132"/>immutabilitate disposuit, qua suis quaeque temporibus agnita agit, ita &amp; 
+      <lb ed="#H" n="133"/>praesentia facit, &amp; futura iam fecit. Scite &amp; nervose Gregorius Magnus 
+      <lb ed="#H" n="134"/>expositione morali in Jobum lib. 20. c. 24. ait de Deo: Quia ipse 
+      im<lb ed="#H" n="135" break="no"/>mutabilis, id quod voluerit, mutat; poenitere dicitur: quamvis rem 
+      mu<lb ed="#H" n="136" break="no"/>tet, consilium non mutet. Sic quum Scriptura ait, poenituisse Deum ejus 
+      <lb ed="#H" n="137"/>mali, quo se dixerat affecturum Ninevitas, nullam consihi divini 
+      mu<lb ed="#H" n="138" break="no"/>tationem arguit, sed sapientem Dei clementiam demonstrat. Siquide 
+      <lb ed="#H" n="139"/>comminatio interitus tacitam exceptionem resipiscentiae habuit, ac 
+      <lb ed="#H" n="140"/>cum ipsum finem directa ut ad resipiscentiam Ninevitae adducerentur.  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1919">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>OEJICITUR II. Deus Regi Ezechiae mortem denunciatam non 
+      in<lb ed="#H" n="142" break="no"/>flixit, 2. Reg. 20. Iesa. 38. Ergo Dei decretum est mutabile. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e1928">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>RESP. Negatur consequentia: quia Deus denunciaverat mortem 
+      <lb ed="#H" n="144"/>Regi Ezechiae, non quod tunc illius terminus ab aeterno decretus 
+      ad<lb ed="#H" n="145" break="no"/>esse:: sed tum quia mortem eo tempore rex Ezechias merebatur, nisi 
+      <lb ed="#H" n="146"/>Deus pro sua clementia longiorem ei vitam indulgeret &amp; donaret, &amp; 
+      <lb ed="#H" n="147"/>in exemplo ejus ostenderet quid possint preces ex vera fide fusae: tum 
+      <lb ed="#H" n="148"/>quia morbus ejus ita periculosus &amp; lethalis erat, ut quod ad causa; 
+      <lb ed="#H" n="149"/>naturales &amp; remediorum naturalium insufficientiam ad morbum 
+      de<lb ed="#H" n="150" break="no"/>pellendum attinet, moriendum ipsi fuerit, nisi Deus pro voluntate sua 
+      <lb ed="#H" n="151"/>propitia, potentia sua divina ei succurreret &amp; morbum remedio 
+      alio<lb ed="#H" n="152" break="no"/>quiu per se insufficienti sanaret. Istud exemplum explicat Augustinus 
+      <lb ed="#H" n="153"/>de Genesi ad literam 6. lib. cap. 17. in hunc modum: Multa 
+      secun<lb ed="#H" n="154" break="no"/>dum inferiores causas futura sunt, sed si ita sunt, &amp; in praescientia Dei. 
+      <lb ed="#H" n="155"/>pere futura sunt. Si autem ibi aliter sunt, ita potius 
+      futu<lb ed="#H" n="156" break="no"/>ra sunt, sicut ibi sunt, ubi qui praescit, falli non potest. Num futur. 
+      <lb ed="#H" n="157"/>dicitur senectus in invene, sed tamen futura non est, si aute moriturus 
+      <lb ed="#H" n="158"/>est: hoc autem ita erit sicut se habent aliae causae, sive in mindo 
+      contex<lb ed="#H" n="159" break="no"/>tae, sive in Dei praescientia reservatae. Nam secundum quasdam futuro 
+      <lb ed="#H" n="160"/>rum causas moriturus erat Ezechias, cui Deus addidit quindecim 
+      anno<lb ed="#H" n="161" break="no"/>ad vitam, id utique faciens quod ante constitutionem mundi se facturum: 
+      <lb ed="#H" n="162"/>esse praesciebat, &amp; in sua uoluntate servabat. Non ergo id fecit quod 
+      futu<lb ed="#H" n="163" break="no"/>rum non erat: hoc enim magis erat futurum quod se facturum esse 
+      prae<lb ed="#H" n="164" break="no"/>sciebat. Nec tamen illi auni additi recte dicerentur, nisi aliquid 
+      addere<lb ed="#H" n="165" break="no"/>tur, quod se aliter in aliis causis habuerat: secundum aliquas igitur 
+      cau<lb ed="#H" n="166" break="no"/>as inferiores iam vitam finierat: secundum illas autem quae sunt in 
+      no<lb ed="#H" n="167" break="no"/>luntate &amp; praescientia Dei qui ex aeternitate noverat quid ille tempore 
+      <lb ed="#H" n="168"/>facturus erat, &amp; hoc vere futurum erat, tunc erat finiturus vitam 
+      quan<lb ed="#H" n="169" break="no"/>do finivit vitam: Quia &amp; si oranti concessum est, etiam sic eum oraturi: 
+      <lb ed="#H" n="170"/>ut tali orationi concedi oporteret, ille utique praesciebat, cuius praescientia 
+      <lb ed="#H" n="171"/>falli non poterat: &amp; ideo quod praesciebat necessario futurum erat. Et 
+      <lb ed="#H" n="172"/>Gregorius Magnus Papa Romanus lib. duodecimo Expositionis 
+      mo<lb ed="#H" n="173" break="no"/>talis in Jobum, capite secundo: Nulla quae in hoc mundo hominibus 
+      <lb ed="#H" n="174"/>fiunt, absque omnipotentis Dei occulto consilio veniunt. Nam cuncta Deus 
+      <lb ed="#H" n="175"/>sequutura praescius, ante secula, decrevit, qualiter per secula disponantur.  
+      <lb ed="#H" n="176"/>Statutum quippeiam homini est, vel quantum hunc miindi prosperitas. 
+      <lb ed="#H" n="177"/>sequatur, vel quantum adversitas feriat, ne electos cius aut immoderata 
+      <lb ed="#H" n="178"/>prosperitas elevet, aut nimia adversitas gravet. Statutim quoque est 
+      quan<lb ed="#H" n="179" break="no"/>tum in ipsa vita mortali temporaliter vivat. Nam &amp; si annos 
+      quinde<lb ed="#H" n="180" break="no"/>cim Ezechiae Regi ad vitam addidit omnipotens Deus, sum cum mort 
+      <lb ed="#H" n="181"/>permisit, tunc eum praescivit esse moriturum. Qua in re questio oritur,  
+      <lb ed="#H" n="182"/>quomodo ei per Prophetam dicatur: Dispone domui tuae, quia morieris 
+      <lb ed="#H" n="183"/>tu &amp; non vives: cui cum mertis sententia dicta est, protinus ad eitis 
+      la<lb ed="#H" n="184" break="no"/>chrymas est vita addita. Sed per Prophetam Dominus dixit, quo tempore 
+      <!--cod-MkL9py-0269.xml-->
+      <pb ed="#H" n="242"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>mori ipse merebatur: per largitatem vero misericordiae, illo eum tempore 
+      <lb ed="#H" n="2"/>ad mortem distalit, quod ante secula ipse praescivit. Nec Propheta igitur 
+      <lb ed="#H" n="3"/>falt:x, quia tempus mortis innotuit, quo vir ille mori merebatur, nec 
+      <lb ed="#H" n="4"/>dominica statuta convulsa sunt, quia ut ex largitate Dei anni vitae 
+      cre<lb ed="#H" n="5" break="no"/>scerent, hoc quoque ante secula praefixum fuit: atque spatium vitae quod 
+      ino<lb ed="#H" n="6" break="no"/>ninate foris est additum, sine augmento in praescientia fuit intus 
+      statu<lb ed="#H" n="7" break="no"/>tum. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2045">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>OBJICITUR III. Deus promissa sua interdum mutavit: Ergo Dei. 
+      <lb ed="#H" n="9"/>decretum est mutabile. Antecedens confirmat promissio Exod. 3. v. 8. 
+      <lb ed="#H" n="10"/>17. de introducendis in terram Cananeam Israelitis, qui tamen in 
+      de<lb ed="#H" n="11" break="no"/>serto perierunt &amp; in terram promissam non sunt ingressi: Promissio 
+      item<lb ed="#H" n="12" break="no"/>de sacerdotio Exod. 28. 43. &amp; cap. 29. 9. Et de regno Saulis 1. Sam, 9. 
+      <lb ed="#H" n="13"/>v. 20. Nam promissiones istas Deus mutavit. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2063">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>RESP. Negatur consequentia, quia antecedens tantum καζακι 
+      ve<lb ed="#H" n="15" break="no"/>rum est, nempe de promissionibus conditionalibus, quas Deus 
+      feci<lb ed="#H" n="16" break="no"/>hominibus, si mandatis divinis morigeros se praeberent. Ut 
+      promis<lb ed="#H" n="17" break="no"/>sio de introducendis Israelitis in terram Canaan, etsi ratione populi, 
+      <lb ed="#H" n="18"/>seu generis Israelitici fuit absoluta ac tandem re comprobata: tamen 
+      <lb ed="#H" n="19"/>si singulas spectes, tacitam habuit conditionem, nimirum si 
+      obedien<lb ed="#H" n="20" break="no"/>tiam Deo debitam praestarent, quam quia non exhibuerunt plerique 
+      <lb ed="#H" n="21"/>in deserto ceciderunt; qua de re Num. 14. v. 27. &amp; sequentibus, Psala 
+      <lb ed="#H" n="22"/>95. v. 7. &amp; sequentibus, Hebr. 3. v.16. &amp; sequentibus. Sic 
+      explica<lb ed="#H" n="23" break="no"/>tur promissio Sacerdotii, 1. Sam. 2. v. 30. Dictum Iehovae Dei 
+      Israe<lb ed="#H" n="24" break="no"/>lis, dixeram quidem, domus tua, ut domus patris tus, indesinenter ibunt. 
+      <lb ed="#H" n="25"/>coram me usque in saculum: at nunc, dictum Iehovae, absit mihi; nam 
+      <lb ed="#H" n="26"/>honorantes me honorabo, contemtores autem mei leves fient. Ergo 
+      <lb ed="#H" n="27"/>promissio de Sacerdotii perpetuitate erat facta domui Heli cum hac 
+      <lb ed="#H" n="28"/>conditione, si domus Heli honoraret Jehovam: quam conditionem: 
+      <lb ed="#H" n="29"/>quia domus Heli non servavit, peccatis suis promissionem illam 
+      ab<lb ed="#H" n="30" break="no"/>rupit. Sic intelligenda &amp; promissio de regno Saulis, ut explicatur I. 
+      <lb ed="#H" n="31"/>Sam. 13. v. 13. Tum dicit Samuel Sauli, Stulte gessisti te: non observasti 
+      <lb ed="#H" n="32"/>mandatum Iehovae Dei tui, quod mandavit tibi, iam certe stabilivisset. 
+      <lb ed="#H" n="33"/>Iehova regnum tuum apud Israelitas usque in saculum. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2111">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>OBJICITURIV. Deus Testamentum vetus &amp; ceremonias Mofaica. 
+      <lb ed="#H" n="35"/>cum tota poltia Mofaica abrogavit: Ergo Dei decretum est mutabile. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2121">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>RESP. Negatur consequentia: quia antecedens ita intelligitur, ad 
+      <lb ed="#H" n="37"/>si ceremoniae Mosaicae cum politia Mosis fuissent a Deo ideo instituta ut 
+      <lb ed="#H" n="38"/>ad finem usque mundi durarent. Atqui haec omnia mutata sunt, non 
+      <lb ed="#H" n="39"/>mutata decreti divini ratione, quo factum ut ista a Deo mutata sint. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2134">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Quin quicquid Deus in tempore facit, ab aeterno decrevit se facturi¬ 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2141">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>OBJICITURV. Se improbi homines moriuntur ante terminum ipsi 
+      <lb ed="#H" n="42"/>a Deo constitutum, tum decretum Dei est mutabile. Quod antecedit 
+      ve<lb ed="#H" n="43" break="no"/>rum est, ut dicitur Psal. 55. 24. homines sanguinarii &amp; dolosi non 
+      per<lb ed="#H" n="44" break="no"/>ducent ad dimidium dies suos. Verum igitur est &amp; quod sequitur  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2154">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>RESP. Negatur assumtum: nec illud probari potest ex loco addu 
+      <lb ed="#H" n="46"/>cto, cum David non loquatur in eo de decreto Dei, sed verborum 
+      Da<lb ed="#H" n="47" break="no"/>vidis haec est sententia: Homines sanguinarii &amp; dolosi, quum sibi lon 
+      <lb ed="#H" n="48"/>gissimam vitam polliceantur, ne quidem ad dimidium ejus pertingunt: 
+      <lb ed="#H" n="49"/>cum sperent se quam diutissime victuros, spe sua frustrantur, nam 
+      <lb ed="#H" n="50"/>contra spem suam citius abripiuntur. Qui autem hinc colligunt, 
+      im<lb ed="#H" n="51" break="no"/>probos citius mori, quam ipsis a Deo decretum sit, ut inde sequatur  
+      <lb ed="#H" n="52"/>decreta Dei esse mutabilia, simpliciter accipiunt, quod καγ ο inteliis 
+      <lb ed="#H" n="53"/>gendum erat, ex hypothesi nimirum crudelium tyrannorum &amp; 
+      perse<lb ed="#H" n="54" break="no"/>quutorum Ecclesie. Hi enim sibi persuadent, se diutissime icturos, &amp; 
+      <lb ed="#H" n="55"/>res quas animo conceperunt effecturos: Non attingunt autem 
+      dimi<lb ed="#H" n="56" break="no"/>dium temporis quod sibi imaginabantur, sed a Deo interficiuntur? 
+      <lb ed="#H" n="57"/>Fideles vero sciunt se mortales esse parant se quotidie, &amp; moriuntur 
+      <lb ed="#H" n="58"/>roinde justo tepore &amp; bene, sive id fiat in juventute, sive in senecture 
+      <lb ed="#H" n="59"/>OBJICITUR VI. Si liberi obedientes parentibus &amp; alii homines 
+      pii<lb ed="#H" n="60" break="no"/>obtine ta Deo prolongationem vitae: tum decretum Dei est mutabili 
+      <lb ed="#H" n="61"/>Antecedens confirmat promissio addita quinto praecepto Decalogi, 
+      <lb ed="#H" n="62"/>Exod. 20. 12. Honora puatrem tuum &amp; matrem tuam, ut prolongentus 
+      <lb ed="#H" n="63"/>dies tui super terram illam, quam Iehova Deus tuus dat tibi. Et exem 
+      <lb ed="#H" n="64"/>plum Ezechiae qui precibus impetravit prolongationem vitae suae ad 
+      <lb ed="#H" n="65"/>annos quindecim, 2. Reg. 20. 6. Jesa. 38. 5. Ergo verum est &amp; 
+      con<lb ed="#H" n="66" break="no"/>sequens. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2206">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>RESP. Negatur consequentia connexa propositionis: nam ex 
+      pro<lb ed="#H" n="68" break="no"/>longatione vitae non sequitur decreti divini, sed rerum quae in mundo 
+      <lb ed="#H" n="69"/>sunt &amp; fiunt, veluti vitae &amp; mortis humanae pro ratione causarum se 
+      <lb ed="#H" n="70"/>cundarum mutatio, quae &amp; ipsa est a Deo decreta. Nam si merita 
+      ho<lb ed="#H" n="71" break="no"/>minum spectemus &amp; cujusque. hominis naturam per se imnecilla, 
+      dia<lb ed="#H" n="72" break="no"/>boli furorem, &amp; hominum vitae aliorum inhiantium consisia ac eona 
+      <lb ed="#H" n="73"/>tus, morborum quibus interdum homines corripiuntur gravitatem 
+      <lb ed="#H" n="74"/>singulis momentis unicuique moriendum esset: sed causas hasce 
+      secur<lb ed="#H" n="75" break="no"/>das &amp; alias mutat Deus. &amp; vitam longiore unicuique, ac inprimis pui 
+      <lb ed="#H" n="76"/>largitur &amp; conservat, donec terminum ab aeterno constitutum 
+      atti<lb ed="#H" n="77" break="no"/>gerint.  
+      <lb ed="#H" n="78"/>OEJICITURVII. Si decretum Dei est immutabile, tum idem est; 
+      <lb ed="#H" n="79"/>quod Fatum Scoicum. At hoc est absurdum 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2239">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Ergo &amp; illud 
+      <lb ed="#H" n="81"/>RESPONDIO. Connexum est falsum: decretum enim 
+      <lb ed="#H" n="82"/>Dei non est Fatum Stoicum, sed longissime distat ab illo. Nam 
+      Fa<lb ed="#H" n="83" break="no"/>tum Stoicum dicitur talis omnium causarum &amp; effectuum connexio; 
+      <lb ed="#H" n="84"/>cujus immutabilitas ex ipsarum causarum natura pendeat, ita ut 
+      ne<lb ed="#H" n="85" break="no"/>que causae secundae aliter agere possint, quam agunt, neque 
+      prima<lb ed="#H" n="86" break="no"/>aliter agere possit, quam agunt secundae: at Decretum Dei talis 
+      cau<lb ed="#H" n="87" break="no"/>sarum &amp; effectuum connexio non, est, quae Deo legem modum 
+      ve<lb ed="#H" n="88" break="no"/>agendi sua natui a immutabilem imponat, &amp; Deum causis secundia 
+      <lb ed="#H" n="89"/>aliiget 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2266">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Ex his quae ad objecta respondimus, planum est, frustra ea decret. 
+      <lb ed="#H" n="91"/>divini immutabilitati &amp; veritati opponi: 
+      <!--cod-MkL9py-0269.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>directurus erat. Discerni igitur debet blasphemum dogma 
+      Stoico<lb ed="#H" n="93" break="no"/>aeterno decrevit omnia quae fierent in tempore, quae ipse ad fines suos 
+      <lb ed="#H" n="94"/>ter ac moderator omnium, pro sua sapientia ac libera voluntate 
+      ab<lb ed="#H" n="95" break="no"/>decretum Dei tale quid non est, sed est actio liberrima Dei, qui 
+      arbi<lb ed="#H" n="96" break="no"/>sarum nexu &amp; implicita quadam serie, quae in natura contineatur: at 
+      <lb ed="#H" n="97"/>cari nequit. Nam Fatum Stoicum dicitur necessitas ex perpetuo cau¬ 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2292">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>XVI. Decretum Dei disparatur a Fato Stoico: quod satis 
+      incul<lb ed="#H" n="99" break="no"/>Ethnicorum voces quibus piorum mentes occupari non debent. Ac 
+      <lb ed="#H" n="100"/>fortunam &amp; fortuitos casus non admittit. Fortuna &amp; Casus sunt:  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2303">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>XV. Decretum Dei adversatur Fortunae &amp; fortuitis casibus: 
+      <lb ed="#H" n="102"/>liter seipsum, hoc est, suam essentiam, sapientiam, bonitatem, justi¬ 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2312">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Sequitur axioma undecimum. 
+      <lb ed="#H" n="104"/>XI. AEternum decretum Dei est necessarium, id est. Quicquid 
+      <lb ed="#H" n="105"/>Deus ab aeterno decrevit, id destinato tempore necessario impletur  
+      <lb ed="#H" n="106"/>nec aliter se habere potest quam ut impleatur, non quod Deus 
+      ali<lb ed="#H" n="107" break="no"/>per decernere &amp; facere non potuerit, sed quia sic ipsi placuit, sic 
+      vo<lb ed="#H" n="108" break="no"/>luit, ut dicitur Psalm. 115. v. 3. Deus noster in caelis est, omnia quaecurque 
+      <lb ed="#H" n="109"/>voluit, fecit. Quod si non eveniret id quod Deus decrevit, id eo 
+      fie<lb ed="#H" n="110" break="no"/>ret nomine, quod Deus decretum exsequi, aut non possit, aut nolit  
+      <lb ed="#H" n="111"/>At prius omnipotentiae, alterum sapientiae &amp; constantiae voluntatis 
+      <lb ed="#H" n="112"/>llius e diametro adversatur. Absit autem ut statuamus, Deum 
+      de<lb ed="#H" n="113" break="no"/>crevisse, quod non possit efficere: aut aliud voluisse ab aeterno, aliud 
+      <lb ed="#H" n="114"/>nunc velle 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2343">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>XII. AEternum decretum Dei est arcanum &amp; occulvum 
+      homi<lb ed="#H" n="116" break="no"/>nibus tantisper dum revelatione per verbum Dei aut exsecutione ipsa 
+      <lb ed="#H" n="117"/>innotescat. Quicquid Deus decrevit, vel ex revelatione Dei per 
+      ver<lb ed="#H" n="118" break="no"/>bum; vel ex eventu cognoscitur, quum impossibile sit quicquam 
+      eve<lb ed="#H" n="119" break="no"/>nire quod Deus non decreverit.  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2359">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>XIII. Decretum Dei differt a voluntate divina essentiali. I. Quia 
+      <lb ed="#H" n="121"/>decretum est effectus voluntatis: quicquid enim decrevit Deus, ideo 
+      <lb ed="#H" n="122"/>decrevit quia voluit, sicut Paulus Apostolus Ephes. 1. vers. 11. ait, 
+      <lb ed="#H" n="123"/>quod Deus operetur omnia ex censilio uoluntatis suae. 
+      Metonymi<lb ed="#H" n="124" break="no"/>ce autem decretum voluntas nominatur. 2. Quia essentialis 
+      vo<lb ed="#H" n="125" break="no"/>luntas Dei latius patet, quam decretum. Deus enim vult principa 
+      <lb ed="#H" n="126"/>tiam, potentiam, gloriam aliasque suas essentiales proprietates &amp; 
+      <lb ed="#H" n="127"/>haec non potest non velle necessitate naturae, liberrima tamen ab 
+      <lb ed="#H" n="128"/>omni coactione: deinde vult opera sua interna &amp; externa; 
+      persona<lb ed="#H" n="129" break="no"/>lia quidem opera interna, necessitate itidem naturae; interna vero 
+      <lb ed="#H" n="130"/>essentialia &amp; omnia externa opera, voluntate omnino liberrima; 
+      <lb ed="#H" n="131"/>quia poterat illa non velle aut aliter velle. Vult igitur Deus seipsum: 
+      <lb ed="#H" n="132"/>sed non decrevit seipsum, non decrevit suam essentiam &amp; personas. 
+      <lb ed="#H" n="133"/>sed natura est, nec potest non esse Jehova, unus essentia trinus 
+      perso<lb ed="#H" n="134" break="no"/>nis &amp; talis esse vult necessarie 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2397">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>XIV. Decretum Dei differt a προγνώσῳ, id est, praescientia 
+      <lb ed="#H" n="136"/>Dei. I. Quia praescientia Dei est actus intelligentiae: Decretum Dei 
+      <lb ed="#H" n="137"/>autem est simul actus voluntatis. 2. Quia decreti Dei effectus pro 
+      <lb ed="#H" n="138"/>prius &amp; necessarius est praescientia. Unde Deus omnia praescit 
+      im<lb ed="#H" n="139" break="no"/>mutabiliter ab aeterno. quia praescit ex causa immutabili, quae est 
+      de<lb ed="#H" n="140" break="no"/>cretum ejus aeternum. Praescientia ergo praesupponit decretum 
+      volun<lb ed="#H" n="141" break="no"/>tatis divinae, quod ordine praecedit. Nihil enim futurum est, nisi Deus 
+      <lb ed="#H" n="142"/>id esse velit: nam alioquin impediret. Praescit ergo Deus, quae vult esse. 
+      <lb ed="#H" n="143"/>futura, id est, quae decrevit ut fierent. Metonymice autem decretum. 
+      <lb ed="#H" n="144"/>&amp; προγνωσις pro eodem interdum accipiuntur.  
+      <lb ed="#H" n="145"/>Dei respectu nihil est fortuitum, quia omnia fiunt certo Dei consilio: 
+      <lb ed="#H" n="146"/>nobis hominibus multa sunt fortuita, non quod Fortuna, quam 
+      Gen<lb ed="#H" n="147" break="no"/>ciles pro Dea habuerunt, mundo ac hominibus dominetur, 
+      temere<lb ed="#H" n="148" break="no"/>que omnia sursum deorsum volutet: (abesse enim a Christiano 
+      pe<lb ed="#H" n="149" break="no"/>ctore decet talem vecordiam ac impietatem;) sed quoniam multa 
+      <lb ed="#H" n="150"/>praeter nostram opinionem, spem &amp; exspectationem eveniunt, quo 
+      <lb ed="#H" n="151"/>rum ordo, ratio, finis, necessitas ut plurimum in consilio Dei latet, &amp; 
+      <lb ed="#H" n="152"/>numano captu non comprehenditus; ut si quis in itinere a comitatu 
+      <lb ed="#H" n="153"/>suo aberrans, in latrones incidat &amp; occidatur; decreto Dei ab aeterne 
+      <lb ed="#H" n="154"/>praefinitum fuit, quo terminus vitae cujusque est constitutus, unam cum 
+      <lb ed="#H" n="155"/>omnibus circumstantiis illius, 
+      <lb ed="#H" n="156"/>rum a doctrina Ecclesiae Christi Dogma Stoicorum spoliat Deum 
+      <lb ed="#H" n="157"/>sua libertate &amp; omnipotentia &amp; ordinem ac modum agendi in causis 
+      <lb ed="#H" n="158"/>secundis divina sapientia institutum abolet: nam Deum causis 
+      secan<lb ed="#H" n="159" break="no"/>dis alligat, ut sicut fert earum natura, sic necesse sit Deum per eas 
+      <lb ed="#H" n="160"/>agere: at Ecclesia Christi docet, non Deum ex causarum 
+      secunda<lb ed="#H" n="161" break="no"/>rum, sed causas secundas agere ex Dei tanquam summi &amp; liberrimi 
+      <lb ed="#H" n="162"/>gubernatoris ac Domini praescripto, &amp; ipsius arbitrio subjectas atqui 
+      <lb ed="#H" n="163"/>alligatas esse. Stoici sentiebant, neque Deum, neque causas secundas 
+      <lb ed="#H" n="164"/>quicquam aliter sua natura: gere posse, quam agunt: Ecclesia vero 
+      <lb ed="#H" n="165"/>Christi affirniat, non tantum causas secundas, alias ad certos ac 
+      defi<lb ed="#H" n="166" break="no"/>nitos, alias ad varios &amp; oppositos effectus producendos a Deo 
+      condi<lb ed="#H" n="167" break="no"/>cas atque ordinatas esse, sed ipsum quoque Deum, sive per causas 
+      se<lb ed="#H" n="168" break="no"/>cundas, sive sine illis, sive permutabiles sua natura, sive per 
+      immuta<lb ed="#H" n="169" break="no"/>biles, omnia quorum opposita cum ipsius natura non pugnant, 
+      ve<lb ed="#H" n="170" break="no"/>non decernere vel aliter decernere ab aeterno potuisse: sic autem 
+      <lb ed="#H" n="171"/>decrevisse &amp; efficere: non quia aliter non potuerit, sed quia sic ipsi 
+      <lb ed="#H" n="172"/>placuit. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2484">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Disparatur decretum Dei etiam a Fato Mathematico, quod merum 
+      <lb ed="#H" n="174"/>est figmentum hominum vano:um &amp; f llacium, qui constellationi 
+      <lb ed="#H" n="175"/>siderum adscribunt, quod decreto Dei tribuendum erat  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2495">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>XVII. AEternum decretum Dei non tollit contingentiam 
+      effe<lb ed="#H" n="177" break="no"/>ctuum &amp; eventuum. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2504">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>OEJIC TUR. Quicquid omnibus futuris necessitatem imponit, qua 
+      <lb ed="#H" n="179"/>illa necesse est omnino fieri &amp; evenire, id tollit contingentiam effectuum 
+      <lb ed="#H" n="180"/>&amp; evintuum: AEternum decretum Dei omnibus futuris necessitatem 
+      <lb ed="#H" n="181"/>imponit qua illa necesse est omnino fieri &amp; cvenire: Ergo aternum 
+      de<lb ed="#H" n="182" break="no"/>gretum Dei tellis contangentiam effectuum &amp; eventuam 
+      <!--cod-MkL9py-0270.xml-->
+      <pb ed="#H" n="243"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>RESPONDEO: Distinguendum est. Quicquid omnibus futuris 
+      <lb ed="#H" n="2"/>necessitatem vel imponit, videlicet absolutam, vel coactivam, id tol 
+      <lb ed="#H" n="3"/>lit contingentiam. At aeternum decretum Dei omnibus futuris 
+      ne<lb ed="#H" n="4" break="no"/>cessitatem imponere vel absolutam, vel coactivam; negatur. Nam 
+      <lb ed="#H" n="5"/>decretum Dei sic effectibus &amp; eventibus a se determinatis 
+      necessita<lb ed="#H" n="6" break="no"/>tem imponit, ut causas secundas secundum ipsarum naturam 
+      move<lb ed="#H" n="7" break="no"/>ri &amp; agere velit. Ergo effectus seu eventus qui respectu causarum 
+      <lb ed="#H" n="8"/>secundarum, per quas fiunt &amp; eveniunt, sunt contingentes; respectu 
+      <lb ed="#H" n="9"/>decreti divini sunt necessarii, non necessitate absoluta, nec 
+      necessita<lb ed="#H" n="10" break="no"/>te coactiva seu coactionis, sed tantum necessitate immutabilitatis 
+      <lb ed="#H" n="11"/>seu necessitate ex hypothesi &amp; consequentia. Nihil sua natura tam 
+      <lb ed="#H" n="12"/>contingens etsistit, ut non tribus modis ex hypothesi sit necessarium 
+      <lb ed="#H" n="13"/>decreto diviho, praescientia Dei infallibili &amp; exsistentia. Nam quio 
+      <lb ed="#H" n="14"/>quid Deus decrevit &amp; definito praescivit futurum, necesse est fieri &amp; 
+      <lb ed="#H" n="15"/>evenire. Quicquid etiam exsistit, qua exsistit sadde, quicquid 
+      futu<lb ed="#H" n="16" break="no"/>rum, quam futurum) necessarium est: quia alias duo 
+      contradicto<lb ed="#H" n="17" break="no"/>tia simul essent vera, quod naturae repugnat &amp; veritati Dei, in quo 
+      <lb ed="#H" n="18"/>non est simul Etiam &amp; Non, ut Paulus Apostolus docet, 2. 
+      Co<lb ed="#H" n="19" break="no"/>tinth. 1. 18, 20. 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2567">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>XIIX. Decretum Dei comparatur cum scripto verissimo, ex usus 
+      <lb ed="#H" n="21"/>forensi. Dan. 10. 21. Indicabo tibi id quod exaratum est in scripto 
+      ve<lb ed="#H" n="22" break="no"/>rissimo, id est, quod constitutum est in decreto Dei aeterno. 
+      Com<lb ed="#H" n="23" break="no"/>paratur etiam libro, &amp; nominatur liber Dei Psal. 156.16. Apoc. 5. 1 
+      <lb ed="#H" n="24"/>&amp; cap. 10.  
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2583">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Sic fuit prima distributio aeterni consilii &amp; decretis 
+      </p>
+            <p xml:id="yyy8Uu-e13732-d1e2591">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>diuvini: sequitur secunda. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

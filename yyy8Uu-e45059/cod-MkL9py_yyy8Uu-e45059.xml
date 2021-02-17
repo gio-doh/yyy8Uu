@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 23</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 23</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="301"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e45059"> <!-- l5-c23 -->
+            <head xml:id="yyy8Uu-e45059-Hd1e109">Caput 23</head>
+            <p xml:id="yyy8Uu-e45059-d1e112">
+               <lb ed="#H" n="156"/>CAPUT XXIII 
+      <lb ed="#H" n="157"/>In quo de Sole, Luna &amp; aliis stellis.
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e119">
+               <lb ed="#H" n="158"/>ARTO die, atque ita post plantas demum, creatae sunt 
+      Stel<lb ed="#H" n="159" break="no"/>Plae, quae sunt corpora solida, creata ex materia condensata 
+      coe<lb ed="#H" n="160" break="no"/>Ali stellati &amp; collocata in eo, ut in ea corpora veluti receptacula. 
+      <lb ed="#H" n="161"/>ac vehicula lux primo die creata transferretur &amp; distribueretur, ad 
+      <lb ed="#H" n="162"/>raebendum lumen his rebus inferioribus, in quas efficacia sua 
+      a<lb ed="#H" n="163" break="no"/>gunt; unde etiam appellantur a Mose luminaria, id est, non lux ipsa 
+      <lb ed="#H" n="164"/>sed corpora in quibus lux est, quae lucem habent &amp; continent, ad 
+      lu<lb ed="#H" n="165" break="no"/>men praebendum. Disserunt enim luminare, lux &amp; lumen. 
+      Lumi<lb ed="#H" n="166" break="no"/>tare, est corpus ipsum stellae: lux imposita est luminari: lumen ex 
+      <lb ed="#H" n="167"/>splendor emanans e luce stellae cujusque per aerem. Sed 
+      metonymi<lb ed="#H" n="168" break="no"/>ce alterum pro altero poni consuevit. 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e145">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>Luminaria coeli primo vel magna sunt, vel 
+      minora<lb ed="#H" n="170" break="no"/>Magna illa luminaria sunt Sul &amp; Luna: quae magna dicuntur non 
+      <lb ed="#H" n="171"/>quoad quantitatem substantiae: nam tametsi Sol usagnitudine 
+      cor<lb ed="#H" n="172" break="no"/>poris reliquas onines stellas superet, tamen illae longe majores sunt, 
+      <lb ed="#H" n="173"/>quantitate quam Luna: sed partim, quoad magnitudinem 
+      effectio<lb ed="#H" n="174" break="no"/>num &amp; ultilitatum ad has res inferiores pertinentium. Solis enim &amp; 
+      <lb ed="#H" n="175"/>Lunae effectiones atque utilitates sunt majores in inferiore hoc 
+      <lb ed="#H" n="176"/>mundo, quam aliarum stellarum: partim quoad δυgαν seu opinio¬ 
+      <!--cod-MkL9py-0329.xml-->
+      <pb ed="#H" n="302"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>niem communem vulgi, quod de rebus loquitur non ut sunt, sed ut 
+      vi<lb ed="#H" n="2" break="no"/>dentur esse, &amp; ad cujus captum Spiritus Sanctus in his talibus sese 
+      ac<lb ed="#H" n="3" break="no"/>commodare dignatur.  
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e181">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Magna luminaria sunt duo, alterum majus, alterum minus 
+      <lb ed="#H" n="5"/>Luminare majus: est Sol ad praefecturam diei creatus &amp; ad 
+      ma<lb ed="#H" n="6" break="no"/>jora officia effectaque producenda a Deo destinatus quam Luna. 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e192">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Luminare minus, est Luna ad praefecturam noctis creata, sed 
+      mi<lb ed="#H" n="8" break="no"/>nor quantitate substantiae &amp; specie &amp; efficacitate quam Sol.  
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e201">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>Luminaria minora intelliguntur a Mose caeterae stellae, praeter 
+      <lb ed="#H" n="10"/>Solem &amp; Lunam, omnes: non quod substantiae quantitate 
+      superen<lb ed="#H" n="11" break="no"/>tur a Luna, sed quantitate virium &amp; communi sententia vulgi. 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e212">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Deinde luminaria coeli vel asteres sunt vel astra. 
+      <lb ed="#H" n="13"/>Aster, est stella singularis seu unica. Astrum vero aut sidus, es 
+      <lb ed="#H" n="14"/>quiddam ex pluribus stellis coagmentatum in formam signi seu 
+      ima<lb ed="#H" n="15" break="no"/>ginis cujusdam. Haec distinctio innuitur Jes. 13. 10. &amp; Jobi 9. v. 7. &amp; 9. 
+      <lb ed="#H" n="16"/>&amp; cap. 38. 31, 32, 33. Ex quibus locis etiam deducitur plura esse signe 
+      <lb ed="#H" n="17"/>imagines stellarum: &amp; Astronomi quidem stellas fixas in 
+      quadragin<lb ed="#H" n="18" break="no"/>ta signa seu imagines redegerunt, quorum signorum duodecim sunt, 
+      <lb ed="#H" n="19"/>in Zodiaco: caetera in alterutra Zodiaci parte consistunt, eaque vel 
+      <lb ed="#H" n="20"/>Septentrionalia sunt, numero viginti &amp; unum; vel Australia seu 
+      me<lb ed="#H" n="21" break="no"/>ridionalia, numero quindecim 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e238">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Luminarium coelestium usus naturalis a Mose statuitur triplex:  
+      <lb ed="#H" n="23"/>Primus, est ut distinguant inter diem &amp; noctem: Diei solus quidem 
+      <lb ed="#H" n="24"/>Sol, velut naturalis &amp; proxima causa praeest: Nocti vero Luna, cujus 
+      <lb ed="#H" n="25"/>caeterae stellae videntur quasi comites esse, quam de causa a Phaenicibus 
+      <lb ed="#H" n="26"/>Luna regina coeli appellabatur, Jere. 44. 19. Secundus, ut signa sint 
+      <lb ed="#H" n="27"/>non particularium rerum &amp; eventuum vel a mera voluntate divine 
+      <lb ed="#H" n="28"/>pendentium, nisi extraordinarie &amp; miraculose, vel ad voluntatem 
+      <lb ed="#H" n="29"/>humanam pertinentium, veluti pietatis vel impietatis, bonorum 
+      ve<lb ed="#H" n="30" break="no"/>malorum morum, pacis vel belli, generis vitae vel mortis, &amp; similium: 
+      <lb ed="#H" n="31"/>sed tum statarum tempestatum, nimirum Veris, AEstatis, Autumne 
+      <lb ed="#H" n="32"/>Hyemis, &amp; naturalium affectionum illarum, nempe caloris, 
+      frigo<lb ed="#H" n="33" break="no"/>ris, humiditatis, ficcitatis, pluviarum, ventorum: tum dierum, quibus 
+      <lb ed="#H" n="34"/>menses constituuntur &amp; novilunia, plenilunia, aliaeque dierum 
+      ratio<lb ed="#H" n="35" break="no"/>nes distinguuntur: tum annorum, in primis Lunarium &amp; Solarium, 
+      <lb ed="#H" n="36"/>quos Sol &amp; Luna inde a principio cursu suo descripserunt. Tertius; 
+      <lb ed="#H" n="37"/>ut praebeant lucem his rebus inferioribus, ac cum luce vim &amp; effica. 
+      <lb ed="#H" n="38"/>citatem naturalem in generatione vel corruptione, augmentatione 
+      <lb ed="#H" n="39"/>vel diminutione, alteratione &amp; motu rerum inferiorum, per 
+      quan<lb ed="#H" n="40" break="no"/>dam influentiam, quam vocant pro natura uniuscuiusque planetae 
+      <lb ed="#H" n="41"/>aut sideris, &amp; conjunctione aut oppositione ipsorum inter se¬ 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e286">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Sidera non sunt principia aut causae praecipuae discriminis diei &amp; 
+      <lb ed="#H" n="43"/>noctis, tempestatum item &amp; dierum annorumque &amp; lucis in his 
+      in<lb ed="#H" n="44" break="no"/>ferioribus: (nam principium istorum omnium est Deus agens in na 
+      <lb ed="#H" n="45"/>tura;) sed sunt instrumenta Deo autori &amp; moderatori naturae 
+      servi<lb ed="#H" n="46" break="no"/>entia, &amp; significantia simpliciter &amp; efficientia instrumentaliter. 
+      Pro<lb ed="#H" n="47" break="no"/>inde sidera seu astra per se nihil possunt, neque agunt quicquam, nisi 
+      <lb ed="#H" n="48"/>quod, &amp; ubi, quando, &amp; quatenus Deus vult  
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e307">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>Stellarum natura, vel efficacia, vel motus, nullis creaturae viribus 
+      <lb ed="#H" n="50"/>mutari aut impediri potest. 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e316">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Stellae non sunt praeditae anima, nec sunt animalia rationalia 
+      <lb ed="#H" n="52"/>Stellarum nulla est harmonia Musica, nisi metaphorice accepta 
+      <lb ed="#H" n="53"/>Stellarum etsi magna vis est in corpora haec inferiora, atque etiam 
+      <lb ed="#H" n="54"/>in eas animae passiones &amp; affectiones quae ex corporis 
+      temperamen<lb ed="#H" n="55" break="no"/>to proficiscuntur: tamen in hominum voluntatem nullam vim 
+      exer<lb ed="#H" n="56" break="no"/>cent, imo nullam habent vim qua homines ad aliquid volendum 
+      ve<lb ed="#H" n="57" break="no"/>nolendum flectant, nedum cogant  
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e336">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Ex astris tantum naturalia praecognosci &amp; praedici possunt: &amp; eo 
+      <lb ed="#H" n="59"/>rum quaedam certo, ut Eclipses Solis &amp; Lunae; quaedam tantum 
+      pro<lb ed="#H" n="60" break="no"/>pabiliter, ut pluvia, serenitas, annonae ubertas vel caritas, morbi 
+      epi<lb ed="#H" n="61" break="no"/>demii, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e349">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Quae vero ex libera voluntate hominis dependent, ea an 
+      futura<lb ed="#H" n="63" break="no"/>sint, nec ne, ex astris praesciri nequit, ideo nec vere praedici¬ 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e358">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Supernaturaliter autem Sol, Luna &amp; caeterae stellae aliis usibus 
+      <lb ed="#H" n="65"/>serviunt. Enarrant enim gloriam Dei, tanquam praecones in sublimi 
+      <lb ed="#H" n="66"/>suggesto constituti, &amp; nos convincunt, esse Deum, eumque esse 
+      sapi<lb ed="#H" n="67" break="no"/>entissimum, optimum &amp; omnipotentem. Talia enim luminaria 
+      fa<lb ed="#H" n="68" break="no"/>cere &amp; in expanso coeli collocare, eorumque motum &amp; efficaciam 
+      <lb ed="#H" n="69"/>moderati vel cohibere pro arbitrio nutu solo potest nemo, nisi Deus 
+      <lb ed="#H" n="70"/>qui solus est sapientissimus, optimus &amp; omnipotens. Hoc 
+      argumen<lb ed="#H" n="71" break="no"/>co gloriam Dei asserit Jobus c. 9. v. 4, 7, 9. Deus est sapiens corde. 
+      <lb ed="#H" n="72"/>&amp; fortis viribus: Quo interdicente Soli, non oritur; qui ante 
+      stella<lb ed="#H" n="73" break="no"/>obsignat viam: Qui jacit Arcturum, Orionem &amp; Pleiadas; ac 
+      pene<lb ed="#H" n="74" break="no"/>tralia Austri. Et Jehova ipse potentiam suam inde asserit Jobi; 8. 31, 
+      <lb ed="#H" n="75"/>32, 33. An constringes delicias Pleiadum? aut lora Orionis dissolves; 
+      <lb ed="#H" n="76"/>Educesne remotiora signa quodque tempore suo? aut Arcturum cum 
+      <lb ed="#H" n="77"/>filijs suis duces? An cognoscis de statutis caeliian disponere potes 
+      domi<lb ed="#H" n="78" break="no"/>natum eius in terra? Unde Deus, circumscriptione quadam 
+      nomi<lb ed="#H" n="79" break="no"/>natur Amos. 5. 8. opifex Pleiadum &amp; Orionis. Quapropter Davit 
+      <lb ed="#H" n="80"/>contemplatione stellarum in admirationem raptus exclamat Psal 
+      <lb ed="#H" n="81"/>8. 2. 4. Iehova Domine noster, quam magnificum est nomen tuum in 
+      <lb ed="#H" n="82"/>universa terra, &amp;c. Quum respicio caelos tuos, opus digitorum 
+      tuo<lb ed="#H" n="83" break="no"/>rum. Lunam &amp; stellas quas statuisti. Et Psalm. 19. vers. 2. 3. 4, 5, 6, 7. 
+      <lb ed="#H" n="84"/>Coeli enarrant gloriam Dei fortis, &amp; opus manuum ejus indicat.  
+      <lb ed="#H" n="85"/>expansum eorum. Dies ad diem eructat sermonem, &amp; nox ad noctem 
+      <lb ed="#H" n="86"/>ostendit scientiam. Non est sermo, neque verba eis; &amp; sine his 
+      intelligi<lb ed="#H" n="87" break="no"/>tur vox eorum. In totam terram prodeunte delineatione eorum, si 
+      <lb ed="#H" n="88"/>mul prodierunt in extremitatem orbis habitabilis sermones eorum; 
+      <lb ed="#H" n="89"/>ex quo Soli disposuit tentorium in eis. Nam est tamquam sponsus 
+      <lb ed="#H" n="90"/>prodies e thalamo suo, latatur tanquam robustus decurjurus viam. 
+      <lb ed="#H" n="91"/>Ab extremitate coelorum exortus ejus, &amp; revolutio ejus ad 
+      extre<lb ed="#H" n="92" break="no"/>mitates eorum est: nec est quod abscondutur a calore ejus 
+      <!--cod-MkL9py-0329.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>Quocirca ex creatione stellarum hortatur nos Psaltes ad 
+      praedi<lb ed="#H" n="94" break="no"/>candas laudes Dei &amp; agnoscendam ejus benignitatem Ps. 136. 7. 8, 9. 
+      <lb ed="#H" n="95"/>Celebrate Iehovam, qui fecit luminaria magna, quia in saculum est. 
+      <lb ed="#H" n="96"/>benignitas ejus: Solem ad dominium obtinendum interdiu, quia in 
+      <lb ed="#H" n="97"/>seculum est benignitas ejus: Lunam cum stellis ad dominia 
+      obtinen<lb ed="#H" n="98" break="no"/>da noctu, quia in seculum est benignitas ejus. Et Psal. 147. 4, 5. 
+      Lau<lb ed="#H" n="99" break="no"/>date Dominum, qui supputat numerum stellarum, quotquot sunt.  
+      <lb ed="#H" n="100"/>nominibus vocans. Magnus est Dominus noster &amp; multis viribus; 
+      <lb ed="#H" n="101"/>cujus intelligentia est innumerabilis. Ipsas quoque stellas hortatur 
+      <lb ed="#H" n="102"/>ut Deum celebrent Psalm 148. 3. Laudate eum Sol &amp; Luna, lauda 
+      <lb ed="#H" n="103"/>te eum omnes stellae lucidae. Ita stellae nos admonent officii quod nos 
+      <lb ed="#H" n="104"/>homines animabus rationalibus ornati Deo debemus 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e456">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Ex carundem stellarum dispositione, quam constanter servant, 
+      con<lb ed="#H" n="106" break="no"/>firmat Deus veritatem suam &amp; stabilitatem promissionum suarum 
+      <lb ed="#H" n="107"/>erem. 31. v. 35, 36. Sic ait Iehova, qui disponit Solem ad lucem 
+      inter<lb ed="#H" n="108" break="no"/>ediu, statuta Lunae &amp; stellarum ad lucem noctu, qui disrumpit mare 
+      <lb ed="#H" n="109"/>&amp; fremunt fluctus ejus; cui nomen est Iehova exercituum: Si 
+      amo<lb ed="#H" n="110" break="no"/>vebuntur statuta ista a conspectu meo, dictum Iehovae, etiam semet 
+      <lb ed="#H" n="111"/>Israelitis cessabunt esse gens in conspectu meo omnibus diebus. 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e477">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Multitudo stellarum Abrahamo, Isaaco &amp; Jacobo erat 
+      symbo<lb ed="#H" n="113" break="no"/>lum multitudinis posterorum ipsorum, Genes. 22. vers. 17. &amp; cap. 26. 
+      <lb ed="#H" n="114"/>4. Exod. 32. v. 13. Deuteron. 1. vers. 10. &amp; nobis quoque est 
+      symbo<lb ed="#H" n="115" break="no"/>lum multitudinis electorum Dei &amp; vere fidelium in regno Christi, 
+      <lb ed="#H" n="116"/>sicut Jehova ait Jerem. 33. v. 22. Vt non potest numerari exercitus 
+      coe<lb ed="#H" n="117" break="no"/>lorum, nec potest mensurari arena maris; ita augebo semen Davidia. 
+      <lb ed="#H" n="118"/>servi mei, &amp; Levitarum ministrantium mihi. 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e497">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Praeterea stellae serviunt Deo ad defensionem Ecclesiae suae &amp; hoc 
+      <lb ed="#H" n="120"/>stium abolitionem: sicut Debora Prophetissa &amp; Baral canunt 
+      Ju<lb ed="#H" n="121" break="no"/>lic. 5. v. 30. E coelis pugnarunt sidera ipsa, e suis aggeribus 
+      pugnave<lb ed="#H" n="122" break="no"/>runt contra Siseram, nimirum tanquam instrumenta Dei efficiendo 
+      <lb ed="#H" n="123"/>imbres, ventos, grandines, procellas. Sic praedicens Jesaias ruinam 
+      <lb ed="#H" n="124"/>Babyloniorum cap. 13. vers. 9, 10, 11. ait; Ecce, dies Iehovae advenit. 
+      <lb ed="#H" n="125"/>saevus &amp; excandescentia &amp; accensa ira: ad disponendum istam 
+      ter<lb ed="#H" n="126" break="no"/>ram in desolationem, ut peccatores ejus perdat ex ea. Nam stellae 
+      co<lb ed="#H" n="127" break="no"/>lorum &amp; sidera eorum non facient ut luceat lux sua, tenebrosus erit 
+      <lb ed="#H" n="128"/>Sol ab exortu suo, &amp; luna splendidam non edet lucem suam. Et anim 
+      <lb ed="#H" n="129"/>advertam in orbis habitabilis malitiam, &amp; in improborum 
+      iniqui<lb ed="#H" n="130" break="no"/>atem; faciamque ut cesset fastus superborum, elationemque 
+      violento<lb ed="#H" n="131" break="no"/>rum deijciam. Similes loci sunt, Ezech. 32. v. 7, 8. Joel 3. vers. 14. 15. 
+      <lb ed="#H" n="132"/>Amos. 8. v. 9. 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e532">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>Eaedem nobis ad humilitatem magistrae sunt. Nam si stellae, quam 
+      <lb ed="#H" n="134"/>vis lucidae, ad puritatem Dei minime accedunt, imo cum Deo colla; 
+      <lb ed="#H" n="135"/>cae non sunt purae; multo minus homo, qui ne quidem cum stellis 
+      lu<lb ed="#H" n="136" break="no"/>ce comparari potest, purus coram Deo fuerit: ac proinde homo sese 
+      <lb ed="#H" n="137"/>coram Deo humiliate &amp; nequaquam de integritate sua gloriari 
+      de<lb ed="#H" n="138" break="no"/>bet. Huc spectavit Bildadus cum diceret Jobi 25. v. 4. 5, 7. Quid 
+      ju<lb ed="#H" n="139" break="no"/>stus esset mortalis comparatus cum Deo forti? cut quid purus esset 
+      <lb ed="#H" n="140"/>natus muliere? En usque ad Lunam, non tamen splenderet: etiam side 
+      <lb ed="#H" n="141"/>ra non pura essent in oculis ejus: Quanto minus mortalis, vermis? &amp; 
+      <lb ed="#H" n="142"/>filius hominis, lumbricus 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e558">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Diversitas claritatis seu decoris stellarum tum a corporibus 
+      ter<lb ed="#H" n="144" break="no"/>renis, tum earundem inter se documento nobis est, corporum 
+      no<lb ed="#H" n="145" break="no"/>strorum resurrectionem ex mortuis &amp; mutationem in melius non 
+      <lb ed="#H" n="146"/>esse rem impossibilem. Sic enim Paulus Apostolus ait 1. Corin. 15. 
+      <lb ed="#H" n="147"/>40, 41, 42. Et sunt corpora coelestia, &amp; sunt corpora terrestria: sed  
+      <lb ed="#H" n="148"/>alius quidem coelestium decor, alius vero terrestrium. Alius decor 
+      <lb ed="#H" n="149"/>Solis, &amp; alius decor Lunae, &amp; alius decor stellarum aliarum; stelle 
+      <lb ed="#H" n="150"/>enim stella praestat decore. Ita erit &amp; resurrectio mortuorum. 
+      seri<lb ed="#H" n="151" break="no"/>tur corpus cum corruptione, suscitatur cum incorruptione, &amp;c. 
+      <lb ed="#H" n="152"/>Earundem stellarum splendor est imago quaedam gloriae futurae, 
+      <lb ed="#H" n="153"/>qua post resurrectionem potientur in coelo vere fideles, qui doctrina 
+      <lb ed="#H" n="154"/>&amp; bono exemplo alios erudierunt tempore inprimis persecutionum 
+      <lb ed="#H" n="155"/>ob cultus divini sinceritatem. Dan. 12. v. 3. Et erudietes, splendebunt 
+      <lb ed="#H" n="156"/>quasi splendore expansi, &amp; justificantes multos, ut stellae, in sempiter.  
+      <lb ed="#H" n="157"/>na secula. 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e595">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Mystice stella matutina est Christus Dominus, Apocal. 22. 16. 
+      <lb ed="#H" n="159"/>&amp; lux gloriae honorisque summi, luci Christi qui Sol justitiae est &amp; 
+      <lb ed="#H" n="160"/>caput nostrum, conjunctissima, quam promittit se daturum vincenti 
+      <lb ed="#H" n="161"/>&amp; observanti usque ad finem opera Christi, Apocal. 2. v. 28. dabo 
+      e<lb ed="#H" n="162" break="no"/>stellam matutinam 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e611">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>Figurate item stella est gloria populi Dei coepta in Davide, 
+      com<lb ed="#H" n="164" break="no"/>pleta in Christo, Num. 24. 17. Orietur stella ex Iacobo 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e621">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Stellae dicuntur figurate viri principes &amp; illustres inter caeteros, qui  
+      <lb ed="#H" n="166"/>administratione sua cum in Republica tum in Ecclesia praelucent: ut 
+      <lb ed="#H" n="167"/>Dan. 8. v. 10. Magnificavit se (nimirum cornu illud parvum, id est 
+      <lb ed="#H" n="168"/>Antiochus Epiphanes) contra exercitum coelisid est contra 
+      Ecclusi<lb ed="#H" n="169" break="no"/>ac populum Dei;) adeo ut deijciens in terram de exercitu illo, &amp; de 
+      <lb ed="#H" n="170"/>stellis ipsis, concularet eus. In Apocalypsi vero Johannis, mystice stel 
+      <lb ed="#H" n="171"/>lae aliquoties dicuntur Episcopi seu docrores Ecclesiarum: ut cap. 1. 
+      <lb ed="#H" n="172"/>v.16. Habebat Christus in dextra sua stellas septem; quod versu 20. 
+      <lb ed="#H" n="173"/>ic declaratur; Mysterium septem stellarum quus vidisti in dextro 
+      <lb ed="#H" n="174"/>mea, &amp; scptem candelabra aurea: Septem illae stelia, Angeli (id est, 
+      E<lb ed="#H" n="175" break="no"/>piscopi, Pastores, doctores) sunt septem Ecclesiarum. 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e650">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Hoc repetitur cap. 2. vers. 1. &amp; cap. 3. vers. 1. &amp; cap. 8. vers.  
+      <lb ed="#H" n="177"/>1o, 11. legitur; Tum Angelus tertius clanxit: &amp; cecidit e 
+      coe<lb ed="#H" n="178" break="no"/>lo stella magna, ardens velut lampas, ceciditque in tertiam partem 
+      flu<lb ed="#H" n="179" break="no"/>minum, &amp; in fontes aquarum. Nomen autem stellae dicitur Absine 
+      <lb ed="#H" n="180"/>thium: versa est igitur tertia pars aquarum in Absinthium: &amp; 
+      <lb ed="#H" n="181"/>multi homines mortui sunt ex aquis, q amara factae essent: Quibus 
+      <lb ed="#H" n="182"/>verbis praedictum fuit, praecipuum quendam Ecclesiae Episcopum a 
+      <lb ed="#H" n="183"/>vera atque orthodoxa Ecclesia se sejuncturum &amp; haereticum evasurum, 
+      <!--cod-MkL9py-0330.xml-->
+      <pb ed="#H" n="303"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>qui amatore erroris erat doctrinam Ecclesiae infecturus eoque mul 
+      <lb ed="#H" n="2"/>torum hominum animas interfecturus: qualis stella fuit Paulus 
+      Sa<lb ed="#H" n="3" break="no"/>mosatenus in Ecclesia Antiochena. Et cap. 9. vers. 1. dicitur, Vidi 
+      stel<lb ed="#H" n="4" break="no"/>lam e coelo cecidisse in terram, id est, Episcopum Romanum qui 
+      an<lb ed="#H" n="5" break="no"/>tea pure docuerat, a vere Catholica Ecclesia defecisse 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e689">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Stellae erraticae in epistola Judae v. 13. quibus comparantur 
+      profan<lb ed="#H" n="7" break="no"/>seductores, non sunt stellae illae, quae ab Astronomis Planetae vocan 
+      <lb ed="#H" n="8"/>tur, nimirum Saturnus, Jupiter, Mars, Sol; Venus, Mercurius, 
+      Luna<lb ed="#H" n="9" break="no"/>quae quamvis nullae (ut ait Plinius) errent minus illis, tamen 
+      erran<lb ed="#H" n="10" break="no"/>tes dicuntur ex opinione &amp; communi judicio sensus: Nam breviore 
+      <lb ed="#H" n="11"/>orbe ac multo propinquiore citcumaguntur, ex quo sit ut multo 
+      ma<lb ed="#H" n="12" break="no"/>gis quam stellae fixae errate videantur. Sed errantes stellae ibi 
+      intelli<lb ed="#H" n="13" break="no"/>guntur ἀσερες δαθεοντες, stellae discurrentes, quae revera stellae non 
+      <lb ed="#H" n="14"/>sunt, sed exhalationes infiammatae in aere in longum ductae 
+      cadenti<lb ed="#H" n="15" break="no"/>bus stellis persimiles, de quibus Aristoteles libro primo de Meteoris 
+      <lb ed="#H" n="16"/>cap. 4. Nam pseudapostoli &amp; pseudodidascali speciosam lucem 
+      praese<lb ed="#H" n="17" break="no"/>ferunt, sed eam mendacem atque instabilem, estque illis caligo in 
+      <lb ed="#H" n="18"/>aeternum servata: quemadmodum stellae discurrentes lucem subito 
+      <lb ed="#H" n="19"/>evanescentem ostendunt, sed mox perpetua nocte conduntur, nec 
+      <lb ed="#H" n="20"/>ullum vestigium sui relinquunt. Sic breviter vitium &amp; exitium 
+      sedu<lb ed="#H" n="21" break="no"/>ctorum repraesentatur. 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e728">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Stellam peculiarem Christo nato Magis visam, legitur Matth. 2. 
+      <lb ed="#H" n="23"/>v. 2, 9, 10. ubi &amp; stella Regis Iudaeorum dicitur: Sic enim Magi, Ubi 
+      <lb ed="#H" n="24"/>est, inquiunt, ille Rex Iudaeorum qui natus est? vidimus enim ejus 
+      <lb ed="#H" n="25"/>stellam in Oriente, &amp; venimus ut adoremus eum. Haec stella Christo 
+      <lb ed="#H" n="26"/>nato in Oriente emicuit, (facta comparatione ad Palaestinam,) &amp; 
+      <lb ed="#H" n="27"/>Magos Astronomiae studiis deditos ad Regis regum incunabul 
+      <lb ed="#H" n="28"/>proficisci jussit, revocans illis in memoriam, tempus adesse quo vati 
+      <lb ed="#H" n="29"/>cinium Num. 24. 17. Orietur stella ex Iacobo, in ipsa veritate sit 
+      im<lb ed="#H" n="30" break="no"/>plendum, sicut jam olim in Davidis regno tanquam typo impler 
+      <lb ed="#H" n="31"/>coeptum erat: &amp; admonens illos de vaticiniis quae Babyloniae Magi 
+      a<lb ed="#H" n="32" break="no"/>Daniele didicerant, quibus decuplo superior fuit Dan. 1. 20. &amp; 
+      qui<lb ed="#H" n="33" break="no"/>bus ille jussu Nebucadnetzaris Magni cum autoritate praefuit, ut 
+      le<lb ed="#H" n="34" break="no"/>gitur Dan. 2. v. 48. Magi igitur secretiore coelestis Numinis afflatur 
+      <lb ed="#H" n="35"/>hanc stellam quasi coeli linguam loquentem agnoverunt, eaque ac 
+      <lb ed="#H" n="36"/>Christum quaerendum sunt permoti. Quaeritur autem, num ea 
+      stella<lb ed="#H" n="37" break="no"/>de numero stellarum ab initio creatarum, an vero Cometa fuerit 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e767">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>RESP. Nec fuit de numero stellarum ab initio creatarum, 
+      <lb ed="#H" n="39"/>nec Cometa. Primo enim stellae initio mundi creatae, singulis diebus 
+      <lb ed="#H" n="40"/>poriuntur &amp; occidunt, a diurna luce Solis absconduntur, noctu sereno 
+      <lb ed="#H" n="41"/>coelo non occultantur, &amp; in aetherea regione sedem habent: at stella 
+      <lb ed="#H" n="42"/>Regis Judaeorum ex quo visa est in Oriente, spectandam se Magis 
+      <lb ed="#H" n="43"/>perpetuo dabat eisque per totum iter praeluxit, donec in Judaeam &amp; 
+      <lb ed="#H" n="44"/>postea ad domum in qua rex Judaeorum erat pervenirent, eadem 
+      in<lb ed="#H" n="45" break="no"/>terdiu lucebat, &amp; noctu quamvis coelo sereno tantisper delituit donec 
+      <lb ed="#H" n="46"/>Magi Jerosolymis nativitatem Christi annunciassent atque ita 
+      stu<lb ed="#H" n="47" break="no"/>porem &amp; supinam negligentiam exprobrassent cum Judaeis 
+      com<lb ed="#H" n="48" break="no"/>muniter tum Sacerdotibus qui pastorum Bethlehemiticorum 
+      ser<lb ed="#H" n="49" break="no"/>mones contemserant, tum rursus Magis apparuit &amp; terris vicina ste 
+      <lb ed="#H" n="50"/>tit supra locum in quo puerulus Jesus erat, ut legitur Matth. 2. vers. 
+      <lb ed="#H" n="51"/>9. &amp; 10 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e802">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>Summa, stella Regis Judaeorum differebat a stellis naturalibus 
+      <lb ed="#H" n="53"/>motu, lumine seu splendore, diuina apparitione, nocturna interdum 
+      <lb ed="#H" n="54"/>occultatione, loco seu situ, quia supra domum in qua puerulus 
+      Je<lb ed="#H" n="55" break="no"/>sus cum matre sua erat, officio quo fungebatur, disparitione totali. 
+      <lb ed="#H" n="56"/>Non igitur fuit e numero stellarum initio factarum: qua de re 
+      Basi<lb ed="#H" n="57" break="no"/>lius Magnus de humana Christi generatione, Chrysostomus 
+      homi<lb ed="#H" n="58" break="no"/>ia sexta in Matthaeum, Augustinus lib. 2. contra Faustum 
+      Mani<lb ed="#H" n="59" break="no"/>chaeum cap. 5. Damascenuis lib. 2. cap. 7. &amp; aliij  
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e825">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>Secundo nec Cometa fuit, ut liquet ex iis quae Physici tradunt de 
+      <lb ed="#H" n="61"/>Cometarum natura &amp; ingenio, motu, evanescentia sub diurno 
+      lu<lb ed="#H" n="62" break="no"/>mine Solis, &amp; distantia a terris; quae in stellam Christi nequaquam  
+      <lb ed="#H" n="63"/>competunt.  
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e838">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Fuit igitur ut veritati maxime consentaneum est, novum quod  
+      <lb ed="#H" n="65"/>dam &amp; insolitum atque extraordinarium prorsus ac proinde 
+      mira<lb ed="#H" n="66" break="no"/>culosum Meteoron, non naturali modo, sed divina virtute e 
+      subcoe<lb ed="#H" n="67" break="no"/>esti materia conflatum &amp; eximiae lucis fulgore radians, quod non 
+      <lb ed="#H" n="68"/>suapte vi, sed eadem virtute divina aut certe sancti alicujus Angelis 
+      <lb ed="#H" n="69"/>ministerio deferebatur: propterea Magis Judaeam ingressis stella 
+      il<lb ed="#H" n="70" break="no"/>la ad tempus vel subtracta fuit vel splendor ejus aliis modis 
+      occulta<lb ed="#H" n="71" break="no"/>tus, ut occasio praeberetur Magis de nato Rege Judaeorum 
+      quaeren<lb ed="#H" n="72" break="no"/>di &amp; ex Scriptura Sacra discendi ubi Christus nasceretur. Ita 
+      stella<lb ed="#H" n="73" break="no"/>illa Magos ad Scripturam divinam adductos ad CHRISTUM 
+      per<lb ed="#H" n="74" break="no"/>duxit.  
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e867">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>Haec de stella Christi nati indice. 
+      <lb ed="#H" n="76"/>Nominatim autem Scriptura Sacra meminit Solis, Lunae, 
+      Hespe<lb ed="#H" n="77" break="no"/>ri seu luciferi, &amp;c. ut intuitu vel consideratione illorum de rebus 
+      di<lb ed="#H" n="78" break="no"/>vinis &amp; ad fidem atque bona opera pertinentibus efficaciter 
+      admo<lb ed="#H" n="79" break="no"/>neamur. Corporalis usus stellarum istarum satis praedicari nequit  
+      <lb ed="#H" n="80"/>sed spiritualis usus multo est amplior. Nam prae caeteris stellis animo, 
+      <lb ed="#H" n="81"/>nostros ad Deum evehunt &amp; ad cognitionem ejus ducunt, de cujus 
+      <lb ed="#H" n="82"/>nos docent divinitate, sapientia, bonitate &amp; potentia, &amp; de rebus aliis 
+      <lb ed="#H" n="83"/>praeclaris 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e891">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>Nam intuitus istarum stellarum docet, ipsas distinguendas a Deo. 
+      <lb ed="#H" n="85"/>Creatore cujus essentia est spiritualis, incorporea, invisibilis, 
+      infini<lb ed="#H" n="86" break="no"/>ta, increata; &amp; qui a nemine agnoscitur, nisi cui se patefecit: ac 
+      proin<lb ed="#H" n="87" break="no"/>de illis cultus divinus non impendendus, sicut Moses docet Deuter.  
+      <lb ed="#H" n="88"/>4. v. 19. Et ne sublatis oculis tuis versus coelum, quum aspexeris 
+      So<lb ed="#H" n="89" break="no"/>lem aut stellas, ullam rvem exercitus coelestis, tum impellaris, &amp; 
+      in<lb ed="#H" n="90" break="no"/>curvans te eis colas ea: quae impertitus est Iehova Deus tuus reliqui-  
+      <lb ed="#H" n="91"/>omnibus populis sub universo coelo. Sensus est: Sol non est Deus, non 
+      <lb ed="#H" n="92"/>stella creata alia; nec cultu divino colenda: quia Sol &amp; aliae stellae sunt,  
+      <!--cod-MkL9py-0330.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>corpora visibilia, certis coeli locis affixa, creata a Jehova Deo tuo &amp; 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e922">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>hominibus data ab eodem ut eis ministrent, non autem homines il 
+      <lb ed="#H" n="95"/>lis dati; &amp; data sunt corpora illa coelestia utenda non uni alicui 
+      popu<lb ed="#H" n="96" break="no"/>lo, sed omnibus sub universo coelo. Quocirca vetuit Deus Solem: 
+      <lb ed="#H" n="97"/>Lunam aliasque stellas adorari, &amp; cultores earum detestatus est &amp; 
+      ca<lb ed="#H" n="98" break="no"/>pitali supplicio puniri voluit Deut. 17. 3. &amp; passim per Prophetas 
+      de<lb ed="#H" n="99" break="no"/>illis questus est &amp; severissimis judiciis eos punivit.  
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e940">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Sol &amp; Luna jubente Deo ad preces Josuae substiterunt, sicut 
+      legi<lb ed="#H" n="101" break="no"/>tur Jos. 10. v. 12, 13, 14. Tunc alloquutus est Iosuae Iehovam, quo die 
+      <lb ed="#H" n="102"/>exposuit Iehova hunc Emoraeum filiis Israelis: &amp; dixit ante oculos. 
+      <lb ed="#H" n="103"/>Israelis, Sol in Gibhone subsiste; &amp; Luna in convalle Ajalonis. 
+      Sub<lb ed="#H" n="104" break="no"/>stitit ergo Sol &amp; Luna stetit, donec vindicata esset gens Israelitica ab 
+      <lb ed="#H" n="105"/>hostibus suis, nonne hoc scriptum est in libro recti? stabat autem 
+      So<lb ed="#H" n="106" break="no"/>in medio coelo neque festinabat ad occasum quasi diem integrum. 
+      Ne<lb ed="#H" n="107" break="no"/>fuit similis diei illi ante eum, vel post eum, auscultante Iehova voc 
+      <lb ed="#H" n="108"/>cujusquam: nam Iehova pugnabat pro Israele. Sol in gratiam 
+      Re<lb ed="#H" n="109" break="no"/>gis Ezechiae retrocessit Jes. 38. 52. Hinc refulget singularis favor Dei 
+      <lb ed="#H" n="110"/>erga Ecclesiam &amp; singulos in ea fideles, quod sicuti ad usum humam 
+      <lb ed="#H" n="111"/>generis quotidiano Solis cursu diem a nocte dividit, &amp; molem illam 
+      <lb ed="#H" n="112"/>ingentem infatigabili pernicitate assidue versat: ita ad 
+      conservatio<lb ed="#H" n="113" break="no"/>nem confirmationemque Ecclesiae suae fidelium singulorum, ad bro 
+      <lb ed="#H" n="114"/>re tepus quum visum est, subsistere vel etiam cursum reflectere jubet 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e978">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Sol nobis est monimentum gratiae ac benignitatis Dei, &amp; felici 
+      <lb ed="#H" n="116"/>atis perpetuae quam fidelibus largitur Deus per Christum &amp; in 
+      ipso<lb ed="#H" n="117" break="no"/>sicut Psalm. 84. v. 12. dicitur; Sol &amp; scutum est Iehova Deus, gratiam 
+      <lb ed="#H" n="118"/>&amp; gloriam dat Iehova: Et Jes. 60. v. 19, 20. Non erit tibi amplius 
+      So<lb ed="#H" n="119" break="no"/>in lucem diurnam; &amp; quod ad splendorem noctis, luna non illustra 
+      <lb ed="#H" n="120"/>hit te: sed erit tibi Iehova luci perpetuae, &amp; Deus tuus ornamento 
+      ti<lb ed="#H" n="121" break="no"/>bi. Non occidet amplius Sol tuus, &amp; Luna tua non recipiet se: nam 
+      <lb ed="#H" n="122"/>lehova tibi erit luci perpetuae, &amp; completi erunt dies luctus tui. Qui 
+      <lb ed="#H" n="123"/>admodum Sol luce sua mundum vivificat, fovet atque exhilarat: 
+      ita<lb ed="#H" n="124" break="no"/>sereno Dei adspectu fideles recreantur, imo non aliter vivunt &amp; 
+      spi<lb ed="#H" n="125" break="no"/>rant, nisi quatenus illis Deus affulget. Cujus Sol Deus est, ejus 
+      pro<lb ed="#H" n="126" break="no"/>speritas est sempiterna &amp; immutabilis, quum perpetuam lucem 
+      ha<lb ed="#H" n="127" break="no"/>beat, nulli mutationi &amp; vicissitudini subjectam 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e1011">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>Ut Sol iste visibilis luce sua tenebras pellit: ita Christus Dominus 
+      <lb ed="#H" n="129"/>peccatorum nostrorum caliginem abigit &amp; lucem justitiae reducit,  
+      <lb ed="#H" n="130"/>nos justitia sua tanquam luce circumfundens: unde Christus Sol 
+      ju<lb ed="#H" n="131" break="no"/>stitiae dicitur Malach. 4. v. 2. Ut unicus in coelo Sol est, qui caetera 
+      si<lb ed="#H" n="132" break="no"/>dera lucida efficit: &amp; sublunaria luce &amp; calore suo illustrat, vivificat &amp; 
+      <lb ed="#H" n="133"/>sovet; ac si Sol non foret, nox esset perpetua: ita unicus est justitiae 
+      <lb ed="#H" n="134"/>Sol, &amp; Dei ac hominum Mediator homo Jesus Christus, qui omnes 
+      <lb ed="#H" n="135"/>sanctos in Ecclesia, radiis sapientiae suae illuminat, vitae suae 
+      benedi<lb ed="#H" n="136" break="no"/>ctione vivificat, gratia sua fovet &amp; conservat, qui etiam regnans ac 
+      <lb ed="#H" n="137"/>dexteram aeterni Patris, pro nobis interpellat solus, quia ipse solus 
+      <lb ed="#H" n="138"/>pro nobis justitiae divinae satisfecit; ac si hic Sol justitiae nobis 
+      exor<lb ed="#H" n="139" break="no"/>tus non esset, tum enimvero in tenebris &amp; umbra mortis omnibus. 
+      <lb ed="#H" n="140"/>contabescendum &amp; pereundum foret. 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e1044">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Sol medius fertur inter stellas, amplissima magnitudine ac 
+      pote<lb ed="#H" n="142" break="no"/>state, nec temporum modo terrarumque sed siderum etiam ipsorum 
+      <lb ed="#H" n="143"/>rector; hic lucem rebus ministrat, aufertque tenebras, hic reliqua 
+      si<lb ed="#H" n="144" break="no"/>dera occultat, hic vices temporum, annumque semper renascentem. 
+      <lb ed="#H" n="145"/>ex usu naturae temperat, hic coeli tristitiam discutit atque etiam 
+      nu<lb ed="#H" n="146" break="no"/>bila humani animi serenat, hic suum lumen caeteris quoque 
+      sideri<lb ed="#H" n="147" break="no"/>bus foenerat, praeclarus, eximius, omnia intuens: ita Christus 
+      versa<lb ed="#H" n="148" break="no"/>tur in medio septem candelabrorum auteorum, id est, Ecclesiarum 
+      <lb ed="#H" n="149"/>suarum in quibus accensa lux Evangelii lucet, eidem data est omni 
+      <lb ed="#H" n="150"/>potestas in coelo &amp; in terra &amp; omnia subjecta pedibus ejus, lucem 
+      <lb ed="#H" n="151"/>fidei cordibus nostris infert &amp; ignorantiae tenebras discutit, cum ipsi 
+      <lb ed="#H" n="152"/>etiam sancti Angeli luce comparari non possunt, nedum homines. 
+      <lb ed="#H" n="153"/>hic tempus gratiae verumque illum annum Jubileum reduxit, hic 
+      ani<lb ed="#H" n="154" break="no"/>morum nostrorum tristitiam discutit, &amp; moerores validissime 
+      sola<lb ed="#H" n="155" break="no"/>tur, hic lumen salvificum beatis Angelis &amp; hominibus communicat 
+      <lb ed="#H" n="156"/>eminens super omnes, caput Ecclesiae, omniscius, &amp;c. Apocal. 1. vers.  
+      <lb ed="#H" n="157"/>16. &amp; cap. 12. 1. 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e1086">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Sol imago est Ecclesiae, Cantic. 6. v. 7. Quae est illa spectata ut 
+      au<lb ed="#H" n="159" break="no"/>rora, pura ut Sol; 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e1095">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Sol praeterea imago est primariorum rectorum in Ecclesia &amp; 
+      <lb ed="#H" n="161"/>Republica, Apocal. 8. v. 12. percussa est tertia pars Solis, ut 
+      obscura<lb ed="#H" n="162" break="no"/>retur, hoc est, tertia pars gubernatorum orbis Christiani, 
+      Episcopo<lb ed="#H" n="163" break="no"/>rum &amp; Magistratuum, caligine haereseos obtenebrata fuit. Et cap. 9. 
+      <lb ed="#H" n="164"/>2. Adscendit fumus ex puteo ut fumus fornacis magne &amp; obscuratus 
+      <lb ed="#H" n="165"/>st Sol, id est, prodiit erronea doctrina &amp; idololatria ex inferno, qui 
+      <lb ed="#H" n="166"/>praecipui quique Ecclesiastici &amp; politici, qui aliis doctrinae &amp; vitae 
+      pu<lb ed="#H" n="167" break="no"/>ritate praelucere debebant, seducti fuerunt  
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e1117">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Est symbolum visionis veritatis, Mich. 3. v. 6. Occidet Sol 
+      super<lb ed="#H" n="169" break="no"/>istos Prophetas, id est, haec vindicta in ipsos divina erit, quod verita 
+      <lb ed="#H" n="170"/>is visio ipsis non 
+      continge<lb ed="#H" n="171" break="no"/>Est symbolum gloriae &amp; prosperitatis qua quis fruitur, Jer. 15. v. 7. 
+      <lb ed="#H" n="172"/>occidet Sol ejus, id est, momento mutabitur clarissima gloria 
+      prospe<lb ed="#H" n="173" break="no"/>ritasque eius in calamitates tenebrosissimas 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e1136">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Est spes liberationis, Amos. 8. v. 9. ait Deus, efficiam ut Sol occidat  
+      <lb ed="#H" n="175"/>ipso meridie &amp; obtenebrabo terram die lucido, id est, efficiam ut sper 
+      <lb ed="#H" n="176"/>liberationis consequendae &amp; adipiscendae laetitiae evanescat eo ipse  
+      <lb ed="#H" n="177"/>tempore quo validissima erit 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e1149">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Est persecutionum &amp; afflictionum aestus, Cantic. 1. v. 6. dicit 
+      spon<lb ed="#H" n="179" break="no"/>sa Ecclesia: Ne respiciatis ad me, quod sim subnigra, quod contuitus 
+      <lb ed="#H" n="180"/>sit me Sol, hoc est, ne offendamini eo quod velut infuscata sim 
+      pecca<lb ed="#H" n="181" break="no"/>tis &amp; afflictionibus, quod persecutione &amp; oppressione, tanquam Sole 
+      <lb ed="#H" n="182"/>correfacta sim, ut Matth. 13. 6. Solis appellatio accipitur.  
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e1165">
+               <lb ed="#H" n="183"/>
+               <pc type="indent"/>Est imago quaedam &amp; gustus gloriae Christi Matt. 17. v. 2. 
+      Trans<lb ed="#H" n="184" break="no"/>formatus est coram eis &amp; fulsit facies ejus ut Solimo &amp; gloriae justo¬ 
+      <!--cod-MkL9py-0331.xml-->
+      <pb ed="#H" n="304"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>rum in coelo, Matth. 13. 34. Tunc justi fulgebunt ut Sol, in regno 
+      Pa<lb ed="#H" n="2" break="no"/>tris sui. Qui habet aures ad audiendum, audiat  
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e1185">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>volis perpetua conversio quam oritur &amp; occidit quotidie, argui 
+      <lb ed="#H" n="4"/>miserabilem hominis vanitatem, qui semel mortuus, ad vitam hanc 
+      <lb ed="#H" n="5"/>nunquam revertitur, ut docet Eccles. cap. 1. v. 3. 4, 5. Quid 
+      emolumen<lb ed="#H" n="6" break="no"/>ti est homini, ex toto labore suo quo laborat sub Sole? Generatio una, 
+      <lb ed="#H" n="7"/>abit, &amp; altera advenit; quavis terra in saculum permaneat. Oritus 
+      <lb ed="#H" n="8"/>Sol, &amp; occidit Sol; iterumque ad locum suum adspirat, ubi oriebatus 
+      <lb ed="#H" n="9"/>Qua comparatione &amp; poeta Gentilis Catullus usus est ad hominis 
+      <lb ed="#H" n="10"/>vanitatem exaggerandam 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e1207">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Soles occidere &amp; redire possunt: 
+      <lb ed="#H" n="12"/>Nobis cum semel occidit brevis 
+      lu<lb ed="#H" n="13" break="no"/>Nox est perpetua una dormienda 
+      <lb ed="#H" n="14"/>Luna est imago Ecclesiae Dei, nam Cantic. 6. v. 7. dicitur de 
+      Ec<lb ed="#H" n="15" break="no"/>lesia quod sit pulera ut Luna. Ut Luna non propria, sed aliena luc 
+      <lb ed="#H" n="16"/>lucet, quandoquidem a radiis Solis collustrata lucem suam inde 
+      ac<lb ed="#H" n="17" break="no"/>cipit: ita Ecclesia lucet, non suo, sed Christi fulgore &amp; summis ejus 
+      <lb ed="#H" n="18"/>dotibus ac beneficiis illustrata. Et queadmodum non semper Luna 
+      ple<lb ed="#H" n="19" break="no"/>no orbe lumen suum nobis ostendit, sed aliquando ita decfescit, ut  
+      <lb ed="#H" n="20"/>nobis illa non amplius superesse videatur, nec tamen unquam 
+      pro<lb ed="#H" n="21" break="no"/>pterea radiis Solis destituitur, quamvis humanis sensibus secus 
+      ap<lb ed="#H" n="22" break="no"/>pareat: ita Ecclesia non semper plenum fulgorem emittit, sed 
+      aliqua<lb ed="#H" n="23" break="no"/>do ita obscuratur, ut nostris oculis non pateat: &amp; nihilominus 
+      cert<lb ed="#H" n="24" break="no"/>est eam semper esse, semperque a Sole illo justitiae, id est, a Christo 
+      il<lb ed="#H" n="25" break="no"/>luminari. De mystica significatione defectus &amp; mutationis Lunae 
+      <lb ed="#H" n="26"/>habet praeclara Ambrosius Hexameron quarto lib. cap. 6. unde 
+      quae<lb ed="#H" n="27" break="no"/>dam decerpsimus: Si miraris quomodo defectum Luna patiatur, cum 
+      <lb ed="#H" n="28"/>tantam vim mutationis habeat suae: considera &amp; in eo magnum est. 
+      <lb ed="#H" n="29"/>mysterium, quod ejus exemplo cognoscis o homo nihil rerum 
+      huma<lb ed="#H" n="30" break="no"/>narum esse posse, &amp; mundanae totius creaturae, quod non aliquand. 
+      <lb ed="#H" n="31"/>rasolvatur. Nam si etiam Luna, cui tantum Dominus commisit 
+      mi<lb ed="#H" n="32" break="no"/>nisterium, ut illuminet orbem terrarum, &amp; crescit &amp; deficit, quia 
+      o<lb ed="#H" n="33" break="no"/>mnia ex nihilo orta usque ad perfectionem venerunt, &amp; iterum 
+      perfe<lb ed="#H" n="34" break="no"/>cta minuuntur: Coelum enim &amp; terra praeteribunt: cur non id 
+      mo<lb ed="#H" n="35" break="no"/>derationis assumimus, ut neque in adversis abijciamus animum: qui  
+      <lb ed="#H" n="36"/>enim omnia fecit ex nihilo, facile te quoque potens est ad summa 
+      perfe<lb ed="#H" n="37" break="no"/>ctaque provehere; &amp; rursum non extollamur in prosperis, neque in potet 
+      <lb ed="#H" n="38"/>state aliqua nos divitiisque jactemus, neque in viribus corporis aut 
+      pul<lb ed="#H" n="39" break="no"/>chritudine gloriemur, in quo est facilis corruptio, crebra mutatio 
+      <lb ed="#H" n="40"/>sed manentem in futurum animi gratiam persequamur? Nam si te 
+      <lb ed="#H" n="41"/>Lunae contristat occasus, quae se semper reparat ae reformat: multo 
+      <lb ed="#H" n="42"/>magis cotristare te debet si anima profectu virtutis impleta cum 
+      fue<lb ed="#H" n="43" break="no"/>rit, postea per inconstantiam mentis atque incuriam a suo deflexa 
+      pro<lb ed="#H" n="44" break="no"/>posito, studia sua saepe commutet: quod est insipientiae &amp; inscientiae. 
+      <lb ed="#H" n="45"/>Pnde &amp; Scriptura ait: Stultus ut Luna mutatur; Et ideo sapiens non 
+      <lb ed="#H" n="46"/>cum Luna mutatur, sed permanebit cum Sole. Unde non Luna est 
+      <lb ed="#H" n="47"/>particeps stultitiae, quia non Luna mutatur ut stultus, sed stultus ut 
+      <lb ed="#H" n="48"/>Luna. Denique semen justi sicut Luna perfecta in aeternum manet, &amp; 
+      <lb ed="#H" n="49"/>testis in coelo fidelis. Aliud enim est fungi ministerio, aliud circum 
+      <lb ed="#H" n="50"/>ferre ingenio, &amp; sensus infirmitate fixam non habere sententiam 
+      Lu<lb ed="#H" n="51" break="no"/>na pro te laborat, &amp; propter uoluntatem Dei subdita est. Vanitatis 
+      <lb ed="#H" n="52"/>enim creatura subjecta est: non sponte, sed propter eum qui subjecit in 
+      <lb ed="#H" n="53"/>spe. Illa ergo non sponte mutatur, tu sponte mutaris, Illa congemiscit 
+      <lb ed="#H" n="54"/>&amp; comparturit in sua mutatione: tu non intelligis, &amp; gratularis 
+      fre<lb ed="#H" n="55" break="no"/>quenter. Illa tuam redemtionem frequenter exspectat, ut a communs 
+      <lb ed="#H" n="56"/>totius creaturae servitio liberetur: tu &amp; tuae redemtioni, &amp; illius 
+      li<lb ed="#H" n="57" break="no"/>bertati affers impedimentum. Tuae ergo, non suae stultitiae est, quod 
+      di<lb ed="#H" n="58" break="no"/>tu exspectaris, &amp; nec sero converteris, adhuc &amp; illa mutatur. Noli er 
+      <lb ed="#H" n="59"/>goLunam oculo tui corporis aestimare, sed mentis vivacitate. Minus 
+      <lb ed="#H" n="60"/>tur Luna ut elementa repleat: Hoc est vere grande mysterium. 
+      Do<lb ed="#H" n="61" break="no"/>navit hoc ei qui omnibus donavit gratiam. Exinanivit eam ut re; 
+      <lb ed="#H" n="62"/>pleat, qui etiam se exinanivit ut omnes repleret. Exinanivit enimse 
+      <lb ed="#H" n="63"/>ut descenderet nobis: descendit nobis, ut ascenderet omnibus. 
+      Ascen<lb ed="#H" n="64" break="no"/>dit enim, inquit, super omnes coelos, ut impleret omnia. Itaque qui  
+      <lb ed="#H" n="65"/>exinanitus advenerat, de plenitudine sua Apostolos adimplevit: Vno 
+      <lb ed="#H" n="66"/>de unus ex his dicit: Nam de plenitudine ejus omnes nos accepimus 
+      <lb ed="#H" n="67"/>Ergo annunciavit Luna mysterium Christi: non mediocris, in qua 
+      <lb ed="#H" n="68"/>signum posuit suum: non medioeris, quae typum dilectae habet Ecclesiae. 
+      <lb ed="#H" n="69"/>quod significat Propheta dicens: Orietur in diebus ejus justitia, &amp; 
+      ab<lb ed="#H" n="70" break="no"/>undantia pacis donec extollatur Luna. Et in Canticis Dominus de 
+      <lb ed="#H" n="71"/>sua sponsa ait: Quaenam est haec prospiciens tanquam diluculum, 
+      spe<lb ed="#H" n="72" break="no"/>ciosa sicut Luna, electa ut Sol: Et merito speciosa sicut Luna Ecclesia; 
+      <lb ed="#H" n="73"/>quae toto mundo refulsit, &amp; tenebras seculi hujus illuminans dicit:  
+      <lb ed="#H" n="74"/>Nox praecessit, dies autem appropinquavit. Pulchre ait, prospiciens, 
+      <lb ed="#H" n="75"/>quasi suos de superiore prospectans, sicut habes: Dominus de caelo 
+      pro<lb ed="#H" n="76" break="no"/>spexit super filios hominum. Prospiciens ergo Ecclesia, sicut Luna 
+      de<lb ed="#H" n="77" break="no"/>jectus habet &amp; ortus frequentes, sed defectibus suis crevit, &amp; his 
+      me<lb ed="#H" n="78" break="no"/>ruit ampliari, dum persequutionibus minuitur, &amp; confessorum 
+      mar<lb ed="#H" n="79" break="no"/>tyrijs coronatur. Haec est vera Luna, quae de fratris sui luce perpetua 
+      <lb ed="#H" n="80"/>lumen sibi immortalitatis &amp; gratiae mutuatur. Fulget enim Ecclesia. 
+      <lb ed="#H" n="81"/>non suo, sed Christi lumine, &amp; splendorem sibi arcessit de sole justitiae, 
+      <lb ed="#H" n="82"/>ut dicat: Vivo autem jam non ego, vivit autem in me Christus. 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e1368">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>PHOSPHORUS seu LucITER stella praeveniens Solem, &amp; 
+      ant<lb ed="#H" n="84" break="no"/>matutinum exoriens, magnitudine alia sidera exsuperans &amp; clarita. 
+      <lb ed="#H" n="85"/>tis tantae ut umus hujus stellae radiis, praeter Solem &amp; Lunam, um 
+      <lb ed="#H" n="86"/>brae reddantur; quam alii Hesperum seu Vesperum quum subsequi  
+      <lb ed="#H" n="87"/>tur Solem, adii stella Veneris, alii Isidis, alii Junonis, alii matris deum 
+      <lb ed="#H" n="88"/>appellavere. Est illustris imavo clarae doctrinae Evangelii de Sole 
+      ju<lb ed="#H" n="89" break="no"/>stitiae Domino nestro Jesu Christo: nam 2. Petr. 1. v. 19. legitur: 
+      Et<lb ed="#H" n="90" break="no"/>habemus firmiorem sermonem Propheticum: quem quod attenditis 
+      <lb ed="#H" n="91"/>velut lucernam splendentem in obscuro loco, recte facitis, denec dies 
+      <lb ed="#H" n="92"/>illuceicat, &amp; lucifer exoriatur in cordibus vestris. Projhei: cus 
+      ser<lb ed="#H" n="93" break="no"/>mo comparatur lucernae in obscuro loco praelucenti, doctrina Ev¬ 
+      <!--cod-MkL9py-0331.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="94"/>angelii autem lucifero, ob claritatem: nam in Evangelio est pleniit 
+      <lb ed="#H" n="95"/>&amp; apertior cognitio Christi, quam sub umbris Legis, 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e1406">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Idem est imago Christi, qui ut Rex &amp; Princeps summa dignitate 
+      <lb ed="#H" n="97"/>&amp; gloria inter omnes homines veluti stella matutina in coelo est 
+      con<lb ed="#H" n="98" break="no"/>spicuus, unde Christus stella matutina dicitur Apocal. 22. 16. 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e1417">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Et cujusvis hominis est imago qui luce gloriae alios homines 
+      an<lb ed="#H" n="100" break="no"/>tecellit: ita Rex Babylonis dicitur lucifer, Jesa. 14. v. 12. Quomodo 
+      de<lb ed="#H" n="101" break="no"/>cidisti de coelis Lucifer, nate Aurora 
+      </p>
+            <p xml:id="yyy8Uu-e45059-d1e1428">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Haec de operibus creationis quarti diei: 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 29</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 29</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="309"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e49055"> <!-- l5-c29 -->
+            <head xml:id="yyy8Uu-e49055-Hd1e109">Caput 29</head>
+            <p xml:id="yyy8Uu-e49055-d1e112">
+               <lb ed="#H" n="176"/>CAPUT XXIX. 
+      <lb ed="#H" n="177"/>In quo de materia hominis. 
+    </p>
+            <p xml:id="yyy8Uu-e49055-d1e119">
+               <lb ed="#H" n="178"/>TATERIA hominis est corpus, quod initin primo homini 
+      Ada<lb ed="#H" n="179" break="no"/>Dmo ex pulvere seu gleba terrae, Evn ex costa Adami factum est, 
+      <!--cod-MkL9py-0337.xml-->
+      <pb ed="#H" n="310"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>caeterorum omnium sit ex uno sanguine Adami &amp; proxime ex 
+      tradu<lb ed="#H" n="2" break="no"/>ce seu ex semine virili &amp; femineo; excepto Christi corpore quod 
+      qui<lb ed="#H" n="3" break="no"/>dem ex sanguine Adami est, verum non ex traduce, non ex semine 
+      vi<lb ed="#H" n="4" break="no"/>rili, sed tantum ex semine foemineo. 
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e141">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Quod corpus hominis primi, nempe Adami e limo seu 
+      pulver<lb ed="#H" n="6" break="no"/>terrae fictum sit, testatur Moses Genes. 2. v. 7. cum ait: Finxit vero 
+      Ie<lb ed="#H" n="7" break="no"/>hova Deus hominem, id est, humanum corpus, de pulvere terrae. Istud 
+      <lb ed="#H" n="8"/>autem sic de corpore Adami dicitur, ut de nostris etiam corporibus, 
+      <lb ed="#H" n="9"/>si remotam &amp; primam eorum materiam spectes, recte affirmetur: nam 
+      <lb ed="#H" n="10"/>in Adami corpore, nostra etiam corpora facta sunt, qui omnes in 
+      A<lb ed="#H" n="11" break="no"/>dami lumbis fuimus, &amp; quorum etiam corpora in pulverem terrae 
+      re<lb ed="#H" n="12" break="no"/>solvuntur, unde primo in Adamo sumta fuerunt: Hoc iam vindicabi 
+      <lb ed="#H" n="13"/>mus ab abusu solvendo quaestionem dubiam: deinde ad usum 
+      accom<lb ed="#H" n="14" break="no"/>modabimus. 
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e168">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>QUaRITUR enim hic, An corpus humanum propterea sit 
+      morta<lb ed="#H" n="16" break="no"/>le, quod e terra desumtum sit, ac proinde, An natura mortale sit &amp; 
+      <lb ed="#H" n="17"/>an moriturus homo fuisset, si non peccasset: Et videtur affirmandum. 
+      <lb ed="#H" n="18"/>quoniam Deus dicit Gen. 3. v. 19. ad Adamum: In sudore vultus tui 
+      <lb ed="#H" n="19"/>vescitor pane, donec revertaris in humum, cum ex ea desumtus 
+      fue<lb ed="#H" n="20" break="no"/>ris: nam pulvis es &amp; in pulverem reverteris. Nam haec ratio, 
+      desum<lb ed="#H" n="21" break="no"/>tus es humo, es pulvis, nonne &amp; ante peccatum locum habebat? 
+      Sic<lb ed="#H" n="22" break="no"/>autem argumentatio formari potest. 
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e190">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Si homo revertitur in humum, cum ex ea desumtus fuerit, Si in 
+      <lb ed="#H" n="24"/>pulverem reuertitur eo quod pulvis est: tum mortalis fuit etiam 
+      an<lb ed="#H" n="25" break="no"/>te peccatum, tum mors ei naturalis fuisset, etiamsi non peccasset. At 
+      <lb ed="#H" n="26"/>prius est: Ergo &amp; posterius. 
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e203">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>RESPONSIO. Primo distinctione opus est: nam aliud est esse 
+      <lb ed="#H" n="28"/>mortale; aliud, morti obnoxium; aliud mortuum, Mortale etiam 
+      duo<lb ed="#H" n="29" break="no"/>bus modis dicitur, vel quod necessitate naturae mori oportet: vel quod 
+      <lb ed="#H" n="30"/>peccati merito mori potest. Primo homini mortalitas non fuit 
+      natu<lb ed="#H" n="31" break="no"/>ralis, id est, corpus hominis non fuit mortale necessitate naturae, quia 
+      <lb ed="#H" n="32"/>erat homo creatus ad vitam: erat creatus ad imaginem Dei, cujus 
+      <lb ed="#H" n="33"/>pars est immortalitas. Unde Concilium Milevitanum, capitulo 
+      pri<lb ed="#H" n="34" break="no"/>mo ait: Quicunque dicit, Adam primum hominem mortalem factum, 
+      <lb ed="#H" n="35"/>ita ut sive peccaret, sive non peccaret, moreretur in corpore, hoc est, 
+      <lb ed="#H" n="36"/>de corpore exiret, non peccati merito, sed necessitate naturae, 
+      anathe<lb ed="#H" n="37" break="no"/>ma sit. 
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e232">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Morti obnoxium dicitur quod in potestatem mortis venit, quo- 
+      <lb ed="#H" n="39"/>morti addictum &amp; subjectum factum est propter peccatum, etiami 
+      <lb ed="#H" n="40"/>actu nondum mortuum sit; verum suo demum tempore actu moria: 
+      <lb ed="#H" n="41"/>tur. Mortuum dicitur quod actu jam vita privatum est 
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e245">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Haec distinctio certa est: nam mortale species est mutabilis: morti 
+      <lb ed="#H" n="43"/>obnoxium species est obnoxij mutationi. Ut igitur se habet mutabile, 
+      <lb ed="#H" n="44"/>ita &amp; mortale quod illius species est. Mutabile autem est quod per se 
+      <lb ed="#H" n="45"/>mutari potest, etiamsi nunquam mutetur. Ita fatendum est, &amp; 
+      Ange<lb ed="#H" n="46" break="no"/>los bonos esse per se mutabiles, si solus Deus per se &amp; natura est 
+      im<lb ed="#H" n="47" break="no"/>mutabilis, ut ait Augustinus primo tomo, de vera religione capite 
+      <lb ed="#H" n="48"/>decimotertio: quod autem mutati non sunt sicut mali angeli, &amp; in 
+      ae<lb ed="#H" n="49" break="no"/>ternum non mutabuntur, id non habent natura, sed ex gratia 
+      Crea<lb ed="#H" n="50" break="no"/>toris 
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e269">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Hac distinctione posita, facise potest solvi quaestio, idque hoc 
+      mo<lb ed="#H" n="52" break="no"/>do: Corpus Adami ante peccatum fuit quidem per se mortale, quia 
+      <lb ed="#H" n="53"/>erat per se mutabile; non fuit tamen moriturum, si non peccasset, sed  
+      <lb ed="#H" n="54"/>pulcnerrima mutatione, sine morte, in aeternam incorruptibilita. 
+      <lb ed="#H" n="55"/>tem a Deo transformatum fuisset. Ac proinde Adamo, si non pec- 
+      <lb ed="#H" n="56"/>casset, moriendum necessitate seu conditione naturae non fuisset: 
+      pro<lb ed="#H" n="57" break="no"/>pter peccatum enim factus est morti obnoxius, &amp; quoad animam 
+      <lb ed="#H" n="58"/>mortuus est spirituali morte statim ac peccavit, quoad corpus suo 
+      et<lb ed="#H" n="59" break="no"/>iam tempore mortuus est corporali morte. Cavenda igitur 
+      haeresi<lb ed="#H" n="60" break="no"/>Pelagianorum, qui asserebant, Adamum etsi non peccasset, moritur 
+      <lb ed="#H" n="61"/>rum fuisse lege &amp; conditione naturae. Hinc inferebant, mortem non 
+      <lb ed="#H" n="62"/>esse poenam peccati: quo posito sequebatur, Christum non esse 
+      mor<lb ed="#H" n="63" break="no"/>tuum propter nostra peccata. Contra istum Pelagianorum errorem 
+      <lb ed="#H" n="64"/>solide disserit AUGUSTINUS septimo tomo, libro de peccatorum 
+      me<lb ed="#H" n="65" break="no"/>ritis &amp; remissione; capite secundo &amp; sequentibus. Quod autem 
+      atti<lb ed="#H" n="66" break="no"/>net dictum Genes. 3. v. 19. ex eo nequaquam sequitur, hominem, 
+      etsi<lb ed="#H" n="67" break="no"/>non peccasset? moriturum fuisse conditione naturae, eo quod ex pul 
+      <lb ed="#H" n="68"/>vere terrae sumtus sit, quum certum sit, mortem esse poenam &amp; sti 
+      <lb ed="#H" n="69"/>pendium peccati, non autem creationis ex limo terrae: sed simul 
+      re<lb ed="#H" n="70" break="no"/> 
+               <lb ed="#H" n="71"/>petenda est ratio condemnationis ab initio posita, Quia auscultasti 
+      <lb ed="#H" n="72"/>voci uxoris tuae &amp; comedisti de fructu vetito, haec feres &amp; propter  
+      <lb ed="#H" n="73"/>peccatum tuum redibis in terram ex qua sumtus es: pulvis es, &amp; in 
+      <lb ed="#H" n="74"/>pulverem resolveris, non autem Deus factus es, quod falso serpens 
+      <lb ed="#H" n="75"/>ille promittebat: Sic ut his postremis verbis Deus ostendat causam 
+      <lb ed="#H" n="76"/>non mortis, sed resolutionis corporis in terram, quia ipsum e terra 
+      <lb ed="#H" n="77"/>sumtum: atque sic originem duntaxat suam homini in mentem 
+      revo<lb ed="#H" n="78" break="no"/>cet &amp; qualis ipsius finis futurus sit declaret, ut a superbia ad humilita; 
+      <lb ed="#H" n="79"/>tem reducat hominem, originis suae &amp; finis cogitatione 
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e338">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Sed videamus jam usum. Quum corpus humanum ex humo sum 
+      <lb ed="#H" n="81"/>tum sit &amp; ex pulvere terrae formatum, docemur inde 
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e347">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Corpus nostrum dum in terris sumus, esse pulvereum, ac proinde 
+      <lb ed="#H" n="83"/>&amp; nos pulvereos: sicut Paulus ait 1:. Corinth. 15. vers. 47. ἐ ωργιπος 
+      <lb ed="#H" n="84"/>αρτρωπος eκ τῆς, χεικος, id est, primus homo e terra, choicus seu pulve 
+      <lb ed="#H" n="85"/>reus: &amp; v. 46. ος ἐ χιικος, οικτοικιρι χικοι, Qualis est pulvereus 
+      il<lb ed="#H" n="86" break="no"/>le, tales &amp; pulverei sunt, χικος, id est, pulvereus dicitur homo pri 
+      <lb ed="#H" n="87"/>mus, ut non tantum materiae ex qua constat declaretur infirmitas 
+      <lb ed="#H" n="88"/>verum etiam corporis animalis qualitates, infirmitatis indices, 
+      signi<lb ed="#H" n="89" break="no"/>ficentur. Proinde homo, si spectes corpus, est ex γης, κατ υσιαν: verum. 
+      <lb ed="#H" n="90"/>ιxoς seu pulvereus, &amp; ποιοτηζα. Hoc notandum propter compara 
+      <lb ed="#H" n="91"/>tionis antapodosin, in qua secundus homo dicitur o Rυριος, κατ ἀσι 
+      <lb ed="#H" n="92"/>αν, (nam Rvριος, Dominus hic idem est quod Jehova ex Graecorum. 
+      <lb ed="#H" n="93"/>usu,) αζ δραγο vero κο ποιοτηζα, quum quo ad humanam naturam sit. 
+      <!--cod-MkL9py-0337.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="94"/>sanctificatus e coelo per Spiritum Sanctum, ac proinde sit 
+      coelesti<lb ed="#H" n="95" break="no"/>quoad qualitatem corporis, non quoad substantiam illius, quae non 
+      <lb ed="#H" n="96"/>e coelo est allata, sed ex sanguine virginis Mariae desumta. 
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e389">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>Redarguitur inde superbia hominis; sicut Jobus ad amicos suos 
+      <lb ed="#H" n="98"/>ait cap. 13. v. 12. Memoriae vestrae sunt similes cineri, tumulis luti 
+      al<lb ed="#H" n="99" break="no"/>tiora vestra. quasi diceret; Quid vos effertis &amp; jactatis coram Deoi 
+      <lb ed="#H" n="100"/>uid me condemnatis? quum quicquid in vobis videtur excellens, 
+      ni<lb ed="#H" n="101" break="no"/>hil sit nisi cinis &amp; lutum. Sic legitur in libro Ecclesiastici cap. 10. v. 7. 
+      <lb ed="#H" n="102"/>8. Qdiosa est coram Domino &amp; hominibus superbia, &amp; ab utrisque 
+      de<lb ed="#H" n="103" break="no"/>icitur delictum injustum. Regnum a gente una ad alteram 
+      transfer<lb ed="#H" n="104" break="no"/>tur propter injuste facta &amp; contumelias, pecuniasque dolo partas: 
+      <lb ed="#H" n="105"/>Quamobrem superbit terra &amp; cinis: 
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e413">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Admonemur inde ut vere humiles simus coram Deo, sicut 
+      Abra<lb ed="#H" n="107" break="no"/>hamus ait Gen. 18. v. 27. Ecce nune cuperem alloqui Dominum, 
+      ta<lb ed="#H" n="108" break="no"/>netsi ego sim pulvis &amp; cinis. Et fideles Jesa. 64. 12. Nos quidem Iutum 
+      <lb ed="#H" n="109"/>sumus, tu vero fictor noster es. Superbire non debet homo quum ex 
+      <lb ed="#H" n="110"/>terra &amp; luto sumtus sit: quia nihil magis absurdum est quam sua 
+      ex<lb ed="#H" n="111" break="no"/>cellentia gloriari illum, qui non solum habitat tugurium luteum, sed  
+      <lb ed="#H" n="112"/>qui est ipse ex parte terra &amp; cinis. Ita vilitas materiae ex qua 
+      desum<lb ed="#H" n="113" break="no"/>tum corpus nostrum, frenum est superbiae, &amp; hortamentum ad 
+      hu<lb ed="#H" n="114" break="no"/>militatem 
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e437">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Admonemur inde nostrae fragilitatis &amp; mortalitatis: sicut 
+      Eli<lb ed="#H" n="116" break="no"/>phax Themanites ait Job. 4. vers. 19. homines habitare domos 
+      argil<lb ed="#H" n="117" break="no"/>laceas, quibus in isto pulvere est fundamentum suum, id est, quae cor¬ 
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e448">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>tra sunt caducissima &amp; velut arenae instabili superstructa. 
+      <lb ed="#H" n="119"/>Admonemur hinc ut modeste agamus cum aliis, ut moderate eos 
+      <lb ed="#H" n="120"/>tractemus, etiamsi pro optima causa disceptaremus adversus illos, 
+      si<lb ed="#H" n="121" break="no"/>cut Elihu ait Job. 33. ver. 6. En ego secundum sermonem tuum agami 
+      <lb ed="#H" n="122"/>pro Deo forti: e luto decisus sum etiam ego. 
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e465">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Consolatio hinc suppeditatur de Dei erga nos bonitate &amp; 
+      miseri<lb ed="#H" n="124" break="no"/>cordia, sicut dicitur Psal. 103. 123, 17. Ut miseretur pater filiorum, 
+      mi<lb ed="#H" n="125" break="no"/>seretur Iehova timentium ipsum. Nam ipse novit figmentum 
+      no<lb ed="#H" n="126" break="no"/>strum, memor pulverem nos esse. 
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e478">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Caeterum cum Scriptura docet, hominem creatum ex terra, non 
+      <lb ed="#H" n="128"/>arida &amp; sicca terra intelligitur, sed cum aliis elementis mista: sic ut h 
+      <lb ed="#H" n="129"/>corpus humanum constet ex quatuor elementis, quatuorque 
+      elemen<lb ed="#H" n="130" break="no"/>torum qualitatibus, miro temperamento inter se permistis. Unde 
+      ap<lb ed="#H" n="131" break="no"/>paret, hominem esse μικρσκοσμον, id est, parvum mundum, etiam quo- 
+      <lb ed="#H" n="132"/>ad corpus, cum in se omnes primas elementaris orbis partes 
+      con<lb ed="#H" n="133" break="no"/>tineat:  
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e498">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Sic explicatum est quod corporis nostri prima materia sit humu 
+      <lb ed="#H" n="135"/>seu oleba terrae ut elementi praedominantis. 
+      </p>
+            <p xml:id="yyy8Uu-e49055-d1e507">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>Quod vero alios omnes homines ex Adamo propagatos attinet. 
+      <lb ed="#H" n="137"/>ex uno sanguine Adami eos omnes esse, testatur Paulus Act. 17. v 26. 
+      <lb ed="#H" n="138"/>Fecitque ex uno sanguine totam gentem hominum. Et Hebr. 2. v. 11. 
+      Et<lb ed="#H" n="139" break="no"/>qui sanctificat &amp; qui sanctificantur, ex uno sunt omnes. Quam ol 
+      <lb ed="#H" n="140"/>causam non erubescit eos vocare fratres, Sic ex una materia, &amp; 
+      secun<lb ed="#H" n="141" break="no"/>dum naturam minime differente est corpus Christi &amp; nostra 
+      corpo<lb ed="#H" n="142" break="no"/>ra: Christi corpus, tanquam primitiae; nostra vero corpora ut ipsa 
+      <lb ed="#H" n="143"/>massa, quae in corpore Christi est sanctificata. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

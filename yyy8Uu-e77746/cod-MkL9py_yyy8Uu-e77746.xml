@@ -1,0 +1,2038 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 15</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 15</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="367"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e77746"> <!-- l6-c15 -->
+            <head xml:id="yyy8Uu-e77746-Hd1e109">Caput 15</head>
+            <p xml:id="yyy8Uu-e77746-d1e112">
+               <lb ed="#H" n="22"/>CAPUT XV. 
+        <lb ed="#H" n="23"/>In quo de assumtione humanae naturae
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e119">
+               <lb ed="#H" n="24"/>OESUMTIO HUMANAE NATURA, est qua λόγος naturam ve¬ 
+      <lb ed="#H" n="25"/>ro corpore humano &amp; vera anima humanam constantem, a 
+      Spi<lb ed="#H" n="26" break="no"/>ritu Sancto formatam &amp; sanctificatam &amp; cum ea omnes 
+      pro<lb ed="#H" n="27" break="no"/>prietates &amp; naturales infirmitates defectusque nostros, ut &amp; omnes. 
+      <lb ed="#H" n="28"/>naturales passiones excepto peccato assumere per gratiosam illam 
+      <lb ed="#H" n="29"/>oeconomiam dignatus est, ut haberet quod offerret Deo pro nobis 
+      <lb ed="#H" n="30"/>&amp; ut naturam nostram totam &amp; infirmitates defectusque ejus 
+      cura<lb ed="#H" n="31" break="no"/>ret, &amp; nobis Dei amicitiam conciliaret, Hebr. 8. vers. 3. Omnis enim 
+      <lb ed="#H" n="32"/>summus Pontifex qui adstat altari, adstat ut offerat oblationes &amp; 
+      <lb ed="#H" n="33"/>victimas: propterea conventens etiam erat huic, ut esset ei aliquid  
+      <lb ed="#H" n="34"/>quod offerret. Philipp. 2. v. 7. Ipse sese inanivit, forma servi accepta. 
+      <lb ed="#H" n="35"/>similis hominibus factus. Hebr. 2. v.16. Non enim utique Angelos 
+      as<lb ed="#H" n="36" break="no"/>sumsit, sed semen Abrahami assumsit.  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e150">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Ergo aeternus Filius Dei assumsit naturam nostram humanam? 
+      <lb ed="#H" n="38"/>I. Ut in ea ipsa natura perfectam causa viceque nostra obedientiam 
+      <lb ed="#H" n="39"/>Deo praestaret ad delendam inobedientiae culpam in qua 
+      inobedien<lb ed="#H" n="40" break="no"/>tia illa commissa &amp; culpa contracta fuerat. Proinde Filius Dei illam 
+      <lb ed="#H" n="41"/>ipsam carnem, quam a nobis accepit, obtulit Deo Patri in sacrificium; 
+      <lb ed="#H" n="42"/>ut reatum nostrum deleret. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e169">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>II. Ut nos assumeremur a Deo &amp; consortes divinae naturae fieret 
+      <lb ed="#H" n="44"/>mus. Nostra natura a Filio Dei assumta, pignus est nostrae cum 
+      Fi<lb ed="#H" n="45" break="no"/>lio Dei societatis. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e180">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>III. Ut quia naturam nostram diabolus deceperat &amp; vicerat, de 
+      <lb ed="#H" n="47"/>ipsa diabolus vicissim vinceretur &amp; sub pedibus etiam nostris 
+      conte<lb ed="#H" n="48" break="no"/>peretur. Vide Theodoreti Sermonem decimum de Providentia, pag. 
+      <lb ed="#H" n="49"/>622. tom. 2. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e193">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Assumsit perfectam naturam humanam tum quoad substantiam 
+      <lb ed="#H" n="51"/>tum quoad accidentia ejus, excepto peccato &amp; accidentibus illis 
+      quae<lb ed="#H" n="52" break="no"/>cum peccato connexa; sic ut non tantum perfectus sit Deus, sed 
+      et<lb ed="#H" n="53" break="no"/>iam perfectus homo, 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e206">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Si substantiam naturae humanae consideremus, totam illam 
+      as<lb ed="#H" n="55" break="no"/>sumsit, omnesque partes essentiales ipsius, corpus &amp; animam, &amp; 
+      u<lb ed="#H" n="56" break="no"/>triusque etiam partes essentiales &amp; integrales omnes; ut sequentia 
+      <lb ed="#H" n="57"/>argumenta evincunt. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e219">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>I. Quia veram naturam humanam assumsit: vera autem non est 
+      <lb ed="#H" n="59"/>set, si perfecta non esset. Dignum etenim fuit, ut in mysterio 
+      redem<lb ed="#H" n="60" break="no"/>tionis hominum, nec voritas deesset perfectioni, nec perfectio veritati. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e230">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>II. Quia utriusque partis naturae humanae attributa &amp; 
+      proprie<lb ed="#H" n="62" break="no"/>tates adscribuntur Christo in Sacris literis, ut Luc. 2. v. 40. Puerus 
+      <lb ed="#H" n="63"/>lus crescebat, &amp; corroborabatur spiritu, implebaturque sapientia: &amp; v 
+      <lb ed="#H" n="64"/>52. Iesus vero proficiebat sapietia, &amp; statura, &amp; gratia apud Deum 
+      <lb ed="#H" n="65"/>&amp; homines. Sicut corporis est crescere &amp; statura proficere, sic anima 
+      <lb ed="#H" n="66"/>est sapientia impleri &amp; proficere. Tum anima sapientia nequaquam  
+      <lb ed="#H" n="67"/>proficeret, si naturalem intelligentiam, quae hominibus rationis 
+      cau<lb ed="#H" n="68" break="no"/>Sam concessa est, non haberet. Luc. 23. v. 43. dixit Jesus latroni 
+      conver<lb ed="#H" n="69" break="no"/>so; Hodie mecum eris in Paradiso: &amp; vers. 46. Quum clamasset 
+      voce<lb ed="#H" n="70" break="no"/>magna Iesus, ait, Pater in manus tuas depono spiritum meum. 
+      Cla<lb ed="#H" n="71" break="no"/>mor organis corporis factus est, corpusque in cruce mansit: anima 
+      <lb ed="#H" n="72"/>autem in Paradisum pervenit. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e262">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>III. Quia Christus est perfectus Mediator inter Deum &amp; 
+      homi<lb ed="#H" n="74" break="no"/>nes; perfectus autem Mediator non esset, si perfectus homo non est 
+      <lb ed="#H" n="75"/>set: imo ne homo quidem esset. Quomodo autem verum maneret,  
+      <lb ed="#H" n="76"/>quod Paulus ait 1. Tim. 2. v. 5. Vnus enim est Deus, unus etiam 
+      Me<lb ed="#H" n="77" break="no"/>diator Dei &amp; hominum, homo Christus Iesus? Qui ergo salutis 
+      aeter<lb ed="#H" n="78" break="no"/>nae esse participes cupiunt, eos tenere oportet, non alium hominem 
+      <lb ed="#H" n="79"/>esse mediatorem inter Deum &amp; homines quam qui totam in se 
+      susce<lb ed="#H" n="80" break="no"/>bit substantiam humanitatis, qui totam in se habet substantiam Dei. 
+      <lb ed="#H" n="81"/>tatis. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e286">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>IV. Quia Christus est Pontifex nonter apud Deum: ergo 
+      perfe<lb ed="#H" n="83" break="no"/>ctus homo, corpore &amp; anima rationali constans. Quod si homo 
+      im<lb ed="#H" n="84" break="no"/>perfectus est, Pontifex non est: si e fectam non habet naturam 
+      hu<lb ed="#H" n="85" break="no"/>manam, nec personam gerere Pontificis &amp; pro peccatis nostris 
+      sacri<lb ed="#H" n="86" break="no"/>ficium offerre potuit; sicut in Lege sacerdotio fungi non poterat, si 
+      <lb ed="#H" n="87"/>quis vel corpus parte aliqua mutilum haberet 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e304">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>V. Quia Christus factus est victima Deo Patri pro nobis: victi 
+      <!--cod-MkL9py-0394.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>ma autem nisi perfecta esse non potuit; quemadmodum in Lege 
+      im<lb ed="#H" n="90" break="no"/>perfectum aut vitiosum pecus ad sacrificium offerre non licuit,  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e320">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>VI. Quia tota natura humana redimenda ac salvanda fuit, quae 
+      <lb ed="#H" n="92"/>tota perierat: sicut Redemtor ipsemet ait Luc. 19. v. 10. Venit Filius 
+      <lb ed="#H" n="93"/>hominis ut quaerat &amp; servet quod perierat. Attendamus quid 
+      perie<lb ed="#H" n="94" break="no"/>rit in hominis lapsu, ut cognoscamus quid quaesitum &amp; servatum 
+      fue<lb ed="#H" n="95" break="no"/>rit hominis coelestis adventu. Consideremus quid in se peccando 
+      <lb ed="#H" n="96"/>saendiderit servus: &amp; apparebit quid suscipiendo redemerit Dominus. 
+      <lb ed="#H" n="97"/>Attendamus quid serpens ille antiquus veneno suo in hominis 
+      sedu<lb ed="#H" n="98" break="no"/>ctione infecerit: ut clareat quid Medicus in hominis susceptione sa 
+      <lb ed="#H" n="99"/>naverit. Nonne ex carne simul animaque compositus, praeceptum Dei 
+      <lb ed="#H" n="100"/>homo primus accepit? Quod si in utraque praeceptum Dei cognoscitur. 
+      <lb ed="#H" n="101"/>accepisse, in utraque debuit obedientiam praecepti servare. Si autem in 
+      <lb ed="#H" n="102"/>utraque fuit parendum praecepto, ab utraque admissa est transgressio. 
+      <lb ed="#H" n="103"/>Quoniam sicut est inchoatum animae cupiditate peccatum, sic est 
+      car<lb ed="#H" n="104" break="no"/>nali comestione perfectum. Et ideo quod totus homo reatum trans 
+      <lb ed="#H" n="105"/>gressionis admisit, totum sibi diabolus captivavit. Quod si totus 
+      te<lb ed="#H" n="106" break="no"/>nebatur captivitatis vinculo, totus eguit liberationis auxilio. Si 
+      au<lb ed="#H" n="107" break="no"/>tem totum debuit liberare pietas, totum debuit suscipere divina 
+      ma<lb ed="#H" n="108" break="no"/>jestas. Totius ergo fuit hominis a Deo suscipienda natura, quoniam 
+      <lb ed="#H" n="109"/>in toto fuit captivitas captivanda, ut tota simul acquireretur de 
+      ca<lb ed="#H" n="110" break="no"/>ptivata captivitate victoria, ut Fulgentius ait libro primo de My 
+      <lb ed="#H" n="111"/>sterio Mediatoris ad Trasimundum Regem. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e370">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Totam igitur substantiam naturae humanae Christus assumsit.  
+      <lb ed="#H" n="113"/>Quod ad partes naturae humanae attinet per se, corpus humanum 
+      <lb ed="#H" n="114"/>verum atque organicum a Sermone illo aeterno est 
+      assumtum<lb ed="#H" n="115" break="no"/>I. Quia Scriptura Sacra aperte id testatur, Hebr. 2. v. 13, 14. Ecce 
+      <lb ed="#H" n="116"/>igo &amp; pueri quos mihi Dedit Deus. Quoniam igitur pueri participe 
+      <lb ed="#H" n="117"/>sunt carnis &amp; sanguinis, ipse quoque consimiliter particeps factus est, 
+      <lb ed="#H" n="118"/>eorundem. &amp; cap. 10. v. 5. Quapropter ingrediens mundum dicit, 
+      Sa<lb ed="#H" n="119" break="no"/>rificium &amp; oblationem noluisti, corpus autem adaptasti mihi. 
+      Mat<lb ed="#H" n="120" break="no"/>26. v. 12. Quod haec unguentum hoc injecit corpori meo, ad 
+      funeran<lb ed="#H" n="121" break="no"/>dum me fecit: &amp; cap. 27. v. 58, 59. Iosephus Arimathaeensis adijt 
+      Pila<lb ed="#H" n="122" break="no"/>tum, &amp; petit corpus Iesu. Tunc Pilatus jussit reddi corpus. Et 
+      Iose<lb ed="#H" n="123" break="no"/>hus cum accepisset corpus, involuit illud sindone pura. Unde Coloss 
+      <lb ed="#H" n="124"/>I. v. 22. nominatur corpus carnis, id est, carneum, ut intelligamus non 
+      <lb ed="#H" n="125"/>fuisse imaginarium 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e405">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>II. Quia Christo tribuuntur ea quae soli corpori vero competunt; 
+      <lb ed="#H" n="127"/>ut passio, mors, resurrectio ex mortuis, palpabilitas, visibilitas, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e415">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>III. Quia in vero corpore humano, vere passibili &amp; mortali 
+      satis<lb ed="#H" n="129" break="no"/>fieri pro nobis judicio Dei oportuit. Veritas satisfactionis pro nobis 
+      <lb ed="#H" n="130"/>hominibus postulat veritatem humani corporis. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e426">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>IV. Quia corporis Christi symbolum est panis Eucharisticus; 
+      <lb ed="#H" n="132"/>qui est substantia: sacramentum autem ejus esse non posset, si corpus 
+      <lb ed="#H" n="133"/>ipsum substantia non esset 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e437">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>V. Quia lues peccati non extra corpus haesit, sed corpori agnata 
+      <lb ed="#H" n="135"/>coalitaque fuit, necessum erat amota corruptione vitam ei indi, ut 
+      <lb ed="#H" n="136"/>quemadmodum in corpore mors exstitisset, ita in eodem vita exsister 
+      <lb ed="#H" n="137"/>ret. Quod si igitur extra corpus mors fuisset, extra corpus etiam 
+      o<lb ed="#H" n="138" break="no"/>portuisset vitam ei subsistere: sin vero in corpore coaluit consertaque 
+      <lb ed="#H" n="139"/>mors fuit, ac veluti cohaerens ei dominabatur: necessum quoque fuit 
+      <lb ed="#H" n="140"/>vitam cum corpore coalescere conserique, ut ita corpus imbutum 
+      vi<lb ed="#H" n="141" break="no"/>ta, corruptionem extruderet. Alioqui, si extra corpus Verbum Dei 
+      <lb ed="#H" n="142"/>constitisset, neque inibi haesisset, mors quidem ab eo maxime pro rei 
+      <lb ed="#H" n="143"/>natura superata fuisset, utpote cui contra vitam nullae vires 
+      suffecis<lb ed="#H" n="144" break="no"/>sent, in corpore tamen prior illa corruptio aeque adhaesisset. 
+      Quapro<lb ed="#H" n="145" break="no"/>ter non immerito Salvator noster corpore amictus fuit, corporique 
+      <lb ed="#H" n="146"/>itam inseruit, ut id non ulterius mortale per mortem remaneret, sed  
+      <lb ed="#H" n="147"/>indutum immortalitate, in posterum perse veraret immortale. In 
+      <lb ed="#H" n="148"/>duta quippe semel corruptione, nunquam resurrexisset nisi vitam in 
+      <lb ed="#H" n="149"/>duisset. Quia mors per se nonnisi in corpore apparere aut exsistere 
+      <lb ed="#H" n="150"/>poterat, ideo ipse corpus induit, ut mortem ibi inventam aboleret. 
+      <lb ed="#H" n="151"/>Quomodo enim Dominus ex toto vitam se esse demonstrasset, nis 
+      <lb ed="#H" n="152"/>id quod mortale erat, vivificasset? Et quemadmodum stipula, quae 
+      <lb ed="#H" n="153"/>naturaliter ab igne consumitur, si ab ea ignem depellas, non 
+      combu<lb ed="#H" n="154" break="no"/>citur quidem, sed tamen ut stipula fuit, ista stipula permanet, 
+      obno<lb ed="#H" n="155" break="no"/>xia igni, ignisque comburendi vim male sibi metuit, ac suspectam 
+      <lb ed="#H" n="156"/>habet: Natura enini ejus appetens est ignis. Hic, si quis stipulam 
+      co<lb ed="#H" n="157" break="no"/>pioso Amianto vestiat, cujus natura dicitur igni resistere, nihil jam 
+      <lb ed="#H" n="158"/>cinde igneum metuet, utpote munita re, quae comburi nequeaty  
+      <lb ed="#H" n="159"/>Idem quoque de corpore nostro &amp; morte sentias. Quod si solo prae 
+      <lb ed="#H" n="160"/>cepto mors ab eo depulsa fuisset, nihilo tamen minus mortale &amp; 
+      cor<lb ed="#H" n="161" break="no"/>ruptibile pro ratione suae naturae remansisset: sed ne hoc fieret, induit 
+      <lb ed="#H" n="162"/>corpus incorporalem omnipotentis Dei rationem, neque jam inde 
+      <lb ed="#H" n="163"/>corruptionem aut mortem exhorrescit, quum habeat vitam pro 
+      in<lb ed="#H" n="164" break="no"/>dumento, &amp; per id corruptionem amoliatur. Necessatio ergo Dei 
+      <lb ed="#H" n="165"/>Sermo corpus assumsit, &amp; humano instrumento usus est, quo corpus 
+      <lb ed="#H" n="166"/>vivificaret: ut quemadmodum in rerum natura ex operibus 
+      cogno<lb ed="#H" n="167" break="no"/>scitur, ita quoque in homine operaretur, &amp; seipsum undecunque 
+      o<lb ed="#H" n="168" break="no"/>stenderet, nihil desertum destitutumque relinquens a sua divinitate 
+      <lb ed="#H" n="169"/>&amp; cognitione. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e520">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Assumsit corpus mortale, ut id quod mortale erat, indueret 
+      im<lb ed="#H" n="171" break="no"/>mortalitatem 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e529">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Contra Cerdoniani, Marcionitae &amp; Manichaei, negarunt, verum 
+      <lb ed="#H" n="173"/>corpus a Filio Dei assumtum, sequentibus usi argumentis: 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e538">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>I. Quali corpore olim Filius apparuit Patribus, tale &amp; ultimis 
+      <lb ed="#H" n="175"/>temporibus ab eo assumtum talique Apostolis aliisque ejus temporibus 
+      <lb ed="#H" n="176"/>hominibus apparuit: At non vero corpore, sed duntaxat in specie set 
+      <lb ed="#H" n="177"/>phantasmate corporis humani olim apparuit Patribus: Ergo non 
+      ve<lb ed="#H" n="178" break="no"/>rum corpus, sed duntaxat species seu phantasma corporis humani 
+      ab<lb ed="#H" n="179" break="no"/>eo ultimis quoque temporibus assumtum, &amp; non vero, sed phantasticos 
+      <lb ed="#H" n="180"/>corpore Apostolis aliisque ejus temporis hominibus apparuit. 
+      <!--cod-MkL9py-0395.xml-->
+      <pb ed="#H" n="368"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>RESP. Primo negatur minur propositio. Nam Filius Dei, quum 
+      <lb ed="#H" n="2"/>Patribus in veteri Testamento apparuit, quanquam nondum home 
+      <lb ed="#H" n="3"/>esset, tamen verum sibi formabat corpus in quo apparebat; idque ex 
+      <lb ed="#H" n="4"/>actionibus &amp; attributis corporis veri liquet, quia ambulabat, edebat, 
+      <lb ed="#H" n="5"/>contrectabatur, sedebat. Postea peracto officio cujus causa a Patre. 
+      <lb ed="#H" n="6"/>mittebatur, corpus illud deponebat: non ergo in corpore phantat 
+      <lb ed="#H" n="7"/>matico apparebat. Deinde dato, sed non concesso, Filium Patribus 
+      <lb ed="#H" n="8"/>olim in corpore phantasmatico apparuisse, non tamen sequeretur,  
+      <lb ed="#H" n="9"/>illum in simili corpore cum Apostolis versatum esse: quia cum 
+      Apo<lb ed="#H" n="10" break="no"/>stolis versans jam factus erat caro, Joh. 1. v. 14. Repertus est ut homo? 
+      <lb ed="#H" n="11"/>Philipp. 2. v. 8. habens corpus visibile oculis corporis, contrectabile 
+      <lb ed="#H" n="12"/>manibus, sicut Johannes dicit 1. epist. 1. v. 1. quod vidimus oculis 
+      no<lb ed="#H" n="13" break="no"/>stris, quod spectavimus, &amp; manus nostrae contrectarunt, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e594">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>II. Spiritus Sanctus apparuit in specie columbae, vel etiam in 
+      cor<lb ed="#H" n="15" break="no"/>pore verae columbae, nec tamen fuit vera columba. Ergo &amp; Christus. 
+      <lb ed="#H" n="16"/>apparuit tantum in specie hominis, vel etiamsi in vero corpore 
+      appa<lb ed="#H" n="17" break="no"/>ruit, propterea tamen verus homo non fuit. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e607">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>RESP. Argumentum est a dissimili. Nam alio modo apparuit  
+      <lb ed="#H" n="19"/>Spiritus Sanctus, alio Filius Dei; Spiritus Sanctus κατ ἔμφασιν, nam 
+      <lb ed="#H" n="20"/>Johannes Baptista vidit eum descendentem quasi columbam super  
+      <lb ed="#H" n="21"/>resum Matth. 3. v.16. Joh. 1. 32. Filius Dei κατ ενσαρκωσιν, quia caro 
+      <lb ed="#H" n="22"/>factus est Johan. 1. v. 14. Alio quippe fine apparuit Spiritus Sanctus, 
+      <lb ed="#H" n="23"/>quam Filius Dei: Spiritus Sanctus quidem, ut specie illa columba 
+      <lb ed="#H" n="24"/>aliquandiu super Jesu manens, certo dosignaret Johanni, hunc Jesum 
+      <lb ed="#H" n="25"/>esse Filium illum Dei &amp; Christum illum Johan. 1. v. 31, 32, 33, 34. non 
+      <lb ed="#H" n="26"/>autem ut servaret columbas; propterea etiam Spiritus Sanctus non 
+      <lb ed="#H" n="27"/>est factus vera columba: at Filius Dei aeternus eo fine apparuit, ut 
+      <lb ed="#H" n="28"/>homines redimeret &amp; tum Judaeos tum Gentes in uno corpore 
+      re<lb ed="#H" n="29" break="no"/>conciliaret Deo per crucem, peremtis inimicitiis per eam, ut dicitur  
+      <lb ed="#H" n="30"/>Ephes. 2. v.16. Propterea verum corpus humanum assumsit, 
+      verus<lb ed="#H" n="31" break="no"/>que homo factus est. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e642">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>III. Angeli apparuerunt tantum in putativis &amp; imaginariis, 
+      <lb ed="#H" n="33"/>corporibus: Ergo &amp; Filius Dei tantum in putativo &amp; imaginario 
+      <lb ed="#H" n="34"/>corpore apparuit homo: 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e653">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>RESP. Primo negatur antecedens; nam Angeli non apparue 
+      <lb ed="#H" n="36"/>runt putativis &amp; imaginariis corporibus vel phantasmatibus, 
+      quem<lb ed="#H" n="37" break="no"/>idmodum Marcion putavit: sed veris &amp; solidis corporibus, &amp; 
+      tali<lb ed="#H" n="38" break="no"/>bus, qualia ab hominibus recte sentientibus &amp; judicantibus esse 
+      cre<lb ed="#H" n="39" break="no"/>debantur, hoc est, vere humanis, ut evincit Tertullianus lib. 3. adver 
+      <lb ed="#H" n="40"/>sus Marcionem &amp; libro de carne Christi adversus Apellem: &amp; 
+      Au<lb ed="#H" n="41" break="no"/>gustinus tertio tomo, de Agone Christiano cap. 22. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e673">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Replicabant: Si Angeli apparuerunt in veris humanis 
+      corpori<lb ed="#H" n="43" break="no"/>bus, tum facti sunt veri homines. At hoc non est: Ergo nec illud. 
+      Pari<lb ed="#H" n="44" break="no"/>ratione non sequetur, Filium Dei factum verum hominem, etiam; 
+      <lb ed="#H" n="45"/>verum corpus humanum assumsisset. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e686">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>RESP. Non sequitur a dissimili. Nam corpora ab Angelis 
+      assum<lb ed="#H" n="47" break="no"/>ta non fuerunt ejusdem generis, cujus Christi Servatoris nostri 
+      cor<lb ed="#H" n="48" break="no"/>pus est; quia Christi corpus natum est, corpora ab Angelis assumt: 
+      <lb ed="#H" n="49"/>nata non fuerunt, ut recte definivit Tertullianus libro tertio 
+      adver<lb ed="#H" n="50" break="no"/>sus Marcionem, &amp; libro de carne Christi adversus Apellem. Non 
+      <lb ed="#H" n="51"/>fuerunt, inquam, nata generatione animali aut humana: quia An 
+      <lb ed="#H" n="52"/>gelis moriendum non erat; quod pulchre explicat Tertullianus libro 
+      <lb ed="#H" n="53"/>de carne Christi, quum ait: Nullus unquam Angelus ideo descendit,  
+      <lb ed="#H" n="54"/>ut crucifigeretur, ut mortem experiretur, ut a morte resuscitaretur.  
+      <lb ed="#H" n="55"/>Si nunquam ejusmodi fuit causa Angelorum corporandorum, habes 
+      <lb ed="#H" n="56"/>causam, cur non nascendo acceperint carnem. Non venerant mori, 
+      <lb ed="#H" n="57"/>ideo nec nasci. At vero Christus mori missus, nasci quoque necessario 
+      <lb ed="#H" n="58"/>habuit, ut mori posset. Non enim mori solet, nisi quod nascitur. 
+      Mu<lb ed="#H" n="59" break="no"/>tuum debitum est inter se, nativitati cum mortalitate. Forma 
+      me<lb ed="#H" n="60" break="no"/>riendi, causa nascendi est. Et libro 3. adversus Marcionem: Angeli 
+      <lb ed="#H" n="61"/>neque ad moriendum pro nobis dispositi, brevem carnis commeatum 
+      <lb ed="#H" n="62"/>non debuerunt nascendo sumsisse, quia nec moriendo deposituri eam 
+      <lb ed="#H" n="63"/>fuerant 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e731">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Sed fuerunt vel ex nihilo a Deo creata: Nam quum relatum non 
+      <lb ed="#H" n="65"/>sit, unde Angeli sumserint carnem, relinquitur intellectui nostro, non 
+      <lb ed="#H" n="66"/>dubitare, hoc esse proprium Angelica potestatis, ex nulla materia 
+      cor<lb ed="#H" n="67" break="no"/>pus sibi sumere, ut eodem libro tradit Tertullianus: ubi etiam pauli. 
+      <lb ed="#H" n="68"/>post subjicit: Quod non est, quum fit, ex nihilo est. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e747">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Vel si de materia necesse fuisset Angelos sumsisse corpora, 
+      credi<lb ed="#H" n="70" break="no"/>bilius utique est, de terrena materia sumsisse; quam de ullo genere 
+      <lb ed="#H" n="71"/>coelestium substantiarum: quum adeo terrenae qualitatis exstiterint, 
+      <lb ed="#H" n="72"/>ut terrenis pabulis pasta sint, ut manibus contrectata, ut aquis 
+      ablu<lb ed="#H" n="73" break="no"/>ta: quemadmodum eodem libro disputat Tertullianus 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e763">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Deinde corpora ab Angelis assumta substantiam Angelicam non 
+      <lb ed="#H" n="75"/>constituebant. Constat enim, ait Tertullianus eodem libro, Angelos 
+      <lb ed="#H" n="76"/>carnem non propriam gestasse, utputa natura substantiae spiritualis 
+      <lb ed="#H" n="77"/>&amp; si corporis alicujus, sui tamen generis, in carnem autem humanam. 
+      <lb ed="#H" n="78"/>transfigurabiles ad tempus, ut videri &amp; congredi cum hominibus. 
+      <lb ed="#H" n="79"/>possenti. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e781">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Ea etiam corpora Angeli non uniebant sibi hypostatice, ideo ipsi 
+      <lb ed="#H" n="81"/>non fiebant homines: sed ut Augustinus ait, tanquam vestes 
+      sume<lb ed="#H" n="82" break="no"/>bant &amp; deponebant, &amp; retinebant tantisper dum cum hominibus 
+      fa<lb ed="#H" n="83" break="no"/>miliariter colloqui, &amp; suum ministerium, ad quod missi erant a Deo. 
+      <lb ed="#H" n="84"/>perficere debebant  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e797">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>IV. Christus factus est tantum in similitudine carnis &amp; 
+      homi<lb ed="#H" n="86" break="no"/>num: Ergo non assumsit verum corpus humanum. Assumtionem 
+      <lb ed="#H" n="87"/>probant inde quod Dan. 7. v. 13. dicitur similis filio hominis. Rom. 
+      <lb ed="#H" n="88"/>8. vers. 3. quod Deus ipsum miserit ἐν αμοιώμαλι σαρκος αμαρlιας, 
+      in<lb ed="#H" n="89" break="no"/>similitudine carnis peccati: &amp; Philipp. 2. vers. 7. ἐαυον εκενώσε μορφσ 
+      <lb ed="#H" n="90"/>δολς λαζών, εν ὀμοιωμαιι ανθρωπον γυοομοτ, ipse sese inanivit, 
+      for<lb ed="#H" n="91" break="no"/>ma servi accepta, in similitudine bominum factus. Et Apocal. 1. v. 13: 
+      <!--cod-MkL9py-0395.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>In medio septem candelabrorum aureorum vidi quendam similem 
+      <lb ed="#H" n="93"/>Filio hominis, indutum talari veste, &amp; praecinctum ad mamillas X, 
+      <lb ed="#H" n="94"/>na aurea. Et cap. 14. v. 14. Aspexi autem, &amp; ecce nubes candida &amp; 
+      <lb ed="#H" n="95"/>super nubem sedebat similis Filio hominis habens impositam capiti suo. 
+      <lb ed="#H" n="96"/>coronam auream, &amp; in manu sua falcem acutam. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e832">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>RESPON. Ad assumtionem probandam dissimilia loca 
+      adducun<lb ed="#H" n="98" break="no"/>tur: nam partim aliena sunt a Thesi quam tractamus, partim ex 
+      am<lb ed="#H" n="99" break="no"/>biguo struitur fallacia. Danieli Filius Dei apparuit similis filio 
+      ho<lb ed="#H" n="100" break="no"/>minis: quia nondum factus erat homo, sed incarnandus praefigura 
+      <lb ed="#H" n="101"/>patur. Alia vero ratione Paulus Roman. 8. vers. 3. missum dicit in 
+      <lb ed="#H" n="102"/>similitudine carnis peccati: quia tametsi nullo peccato contaminata 
+      <lb ed="#H" n="103"/>fuit caro Christi; peccatrix tamen in speciem visa est, quatenus 
+      debi<lb ed="#H" n="104" break="no"/>tam sceleribus nostris poenam sustinuit. Si Apostolus dixisset 
+      simpli<lb ed="#H" n="105" break="no"/>citer, missum esse Christum in similitudine carnis, aliquid haberent 
+      <lb ed="#H" n="106"/>coloris haeretici: nunc quia dicit, missum in similitudine carnis 
+      PEC<lb ed="#H" n="107" break="no"/>CATI, docere hoc tantum voluit; Christum sine peccato conceptum 
+      <lb ed="#H" n="108"/>&amp; natum, carnem tamen habuisse similem carni peccati, quia 
+      pecca<lb ed="#H" n="109" break="no"/>tum nostrum ipsi imputatum propter poenas peccati quas in se 
+      susce<lb ed="#H" n="110" break="no"/>pit, visa fuit &amp; ipsa caro peccati, quamvis non esset: &amp; ita inter pec 
+      <lb ed="#H" n="111"/>catores reputatus est Christus, &amp; victima pro peccato nostro factus. 
+      <lb ed="#H" n="112"/>Idem docet Paulus 2. Corinth. 5. vers. 21. His de causis vera caro 
+      <lb ed="#H" n="113"/>Christi vocata est similitudo carnis, non simpliciter, sed carnis 
+      pec<lb ed="#H" n="114" break="no"/>cati.  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e877">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Hoc scite explicat TERTULLIANUS libro de carne Christi, 
+      capi<lb ed="#H" n="116" break="no"/>se sedecimo, pagina trecentesimaseptima, editionis Franeclteranae, 
+      <lb ed="#H" n="117"/>ibi ait: In similitudinem carnis peccati fuisse Christum Paulus dicit,  
+      <lb ed="#H" n="118"/>non quod similitudinem carnis acceperit, quasi imaginem corporis &amp; 
+      <lb ed="#H" n="119"/>non veritatem, sed similitudinem peccatricis carnis vult intelligi 
+      <lb ed="#H" n="120"/>Quod ipsa non peccatrix caro Christi ejus fuit par, cujus erat 
+      pecca<lb ed="#H" n="121" break="no"/>tum, genere non vitio Adae, quando hinc etiam confirmamus, eam 
+      <lb ed="#H" n="122"/>fuisse in Christo, cujus natura est in homine peccatrix. Et libro 
+      quin<lb ed="#H" n="123" break="no"/>to adversus Marcionem capite decimoquarto, pagina 
+      quadringen<lb ed="#H" n="124" break="no"/>resima septuagesima. Hunc si Pater misit in similitudinem carnis pec- 
+      <lb ed="#H" n="125"/>cati, non ideo phantasma dicetur caro quae in illo videbatur. 
+      Pecca<lb ed="#H" n="126" break="no"/>tum enim carni suprae asscripsit, &amp; illam fecit legem peccati 
+      habitan<lb ed="#H" n="127" break="no"/>tem in membris suis, &amp; adversantem legi sensus: ob hoc igitur 
+      mis<lb ed="#H" n="128" break="no"/>sum Filium in similitudinem carnis peccati, ut peccati carnem 
+      simili<lb ed="#H" n="129" break="no"/>substantia redimeret, id est, carnea, quae peccatrici carni similis esset, 
+      <lb ed="#H" n="130"/>quum peccatrix ipsa non esset, nam &amp; haec erit Dei virtus, in 
+      sub<lb ed="#H" n="131" break="no"/>stantia pari perficere salutem. Non enim magnum, si Spiritus Dei 
+      <lb ed="#H" n="132"/>carnem remediaret, sed si caero consimilis peccatrici, dum caro est, sed  
+      <lb ed="#H" n="133"/>non peccati. Ita similitudo ad titulum peccati pertinebit, non ad 
+      sub<lb ed="#H" n="134" break="no"/>stantiae mendacium. Nam nec addidisset, peccati, si substantiae 
+      simi<lb ed="#H" n="135" break="no"/>litudinem vellet intelligi, ut negaret veritatem. Tantum enim 
+      car<lb ed="#H" n="136" break="no"/>nis posuisset, non &amp; peccati. Quum vero tunc sic struxit, carnis 
+      pec<lb ed="#H" n="137" break="no"/>cati, &amp; substantiam confirmavit, id est carnem, &amp; similitudinem 
+      <lb ed="#H" n="138"/>ad vitium substantiae retulit, id est, ad peccatum. Puta nunc 
+      simi<lb ed="#H" n="139" break="no"/>litudinem substantiae dictam, non ideo negabitur substantiae veritas 
+      <lb ed="#H" n="140"/>Sur ergo similis vera? Quia vera quidem, sed non ex semine de statu 
+      <lb ed="#H" n="141"/>simili, sed vera de censu, non vero dissimilis. Caeterum similitudo in 
+      <lb ed="#H" n="142"/>contrariis nulla est. Spiritus non diceretur carnis similitudo, quia 
+      <lb ed="#H" n="143"/>nec caro similitudinem Spiritus caperet, sed phantasma diceretur, sid 
+      <lb ed="#H" n="144"/>id quod non erat videbatur. Similitudo autem dicitur, quum est 
+      <lb ed="#H" n="145"/>quod videtur. Est enim, dum alterius par est. Phantasma qua hoc  
+      <lb ed="#H" n="146"/>tantum est, non est similitudo 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e951">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Quod vero Philipp. 2. vers. 7. dicit Paulus, Christum in similitus 
+      <lb ed="#H" n="148"/>dine hominum factum, intelligit similitudinis nomine, non ipsam 
+      <lb ed="#H" n="149"/>naturam humanam, sed conditionem abjectam, vilem &amp; infirmam, 
+      <lb ed="#H" n="150"/>qua aliis hominibus CHRISTUS similis fuit factus. Non enim 
+      qua<lb ed="#H" n="151" break="no"/>de sibi corpus Christus sumserit, vult docere: sed quum jure 
+      Deita<lb ed="#H" n="152" break="no"/>tem suam exserere posset, nihil prae se tulisse, nisi quod erat abjecti 
+      <lb ed="#H" n="153"/>contemtique hominis. Nam ut ejus exemplo nos hortetur ad 
+      sub<lb ed="#H" n="154" break="no"/>nissionem, ostendit, quum DEUS esset, potuisse mundo gloriam 
+      <lb ed="#H" n="155"/>suam conspicuam statim proponere: cessisse tamen jure suo &amp; sponte 
+      <lb ed="#H" n="156"/>seipsum exinanisse: quia scilicet formam servi induit &amp; ea 
+      humilita<lb ed="#H" n="157" break="no"/>te contentus, carnis velamine suam Deitatem abscondi passus est, 
+      <lb ed="#H" n="158"/>Hic certe non docet, quid fuerit Christus quoad naturam hominis 
+      <lb ed="#H" n="159"/>sed qualiter se gesserit. Tantum autem abest, ut hinc naturae humanae 
+      <lb ed="#H" n="160"/>veritas destruatur, ut potius ex similibus naturae nostrae 
+      perpessioni<lb ed="#H" n="161" break="no"/>bus Christus verus homo esse ostendatur, quemadmodum JUSTI 
+      <lb ed="#H" n="162"/>IUS MARTXR, in Expositione fidei de recta confessione, pagina 
+      <lb ed="#H" n="163"/>trecentesima prima ait; θεός μόο γουυδος τῆ τῶν τερασιαν ενεργειαᾳ, 
+      <lb ed="#H" n="164"/>ἄνθρωπος δι δεικνυυδος τῆ της φυσεως ομοιοπαθεια, id est, Deus 
+      qui<lb ed="#H" n="165" break="no"/>dem esse intelligitur ex prodigiorum operatione: homo autem ostendi. 
+      <lb ed="#H" n="166"/>tur ex aequalibus naturae nostrae perpessionibus. TERTULLIANUS, 
+      <lb ed="#H" n="167"/>libro quinto adversus Marcionem capite vigesimo, pagina 
+      quadrin<lb ed="#H" n="168" break="no"/>gentesima septuagesimaoctava, acute hoc dissolvit. AEque non 
+      eri<lb ed="#H" n="169" break="no"/>DEUS Christus vere, si nec homo vere fuit in effigie hominis 
+      consti<lb ed="#H" n="170" break="no"/>tutus. Utrobique enim veritas necesse habebit excludi, si effigies &amp; 
+      <lb ed="#H" n="171"/>similitudo &amp; figura, phantasmati vindicabitur (id est, pro 
+      phantas<lb ed="#H" n="172" break="no"/>nate habebitur) quod si in effigie &amp; in imagine, quam Filius Patris 
+      <lb ed="#H" n="173"/>vere Dei praedicatus est, etiam in effigie &amp; imagine hominis, qua 
+      fi<lb ed="#H" n="174" break="no"/>lius hominis, vere hominem inventum, nam &amp; inventum ratione 
+      <lb ed="#H" n="175"/>posuit, id est, certissime hominem: quod enim invenitur constat esse¬ 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1019">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Uterque hic locus Roman. 8. vers. 3. &amp; Philipp. 2. vers. 7. 
+      expli<lb ed="#H" n="177" break="no"/>catur per illum Hebr. 2. vers. 14. Quoniam pueri participes sunt 
+      car<lb ed="#H" n="178" break="no"/>nis &amp; sanguinis, ipse quoque consimiliter particeps factus est 
+      eorun<lb ed="#H" n="179" break="no"/>dem. &amp; vers. 17. Debuit per omnia fratribus similis fieri, ut miseri 
+      <lb ed="#H" n="180"/>cors esset &amp; fidelis Pontifex in iis quae apud Deum agenda forent, ad 
+      <lb ed="#H" n="181"/>expianda peccata populi. Et Hebr. 4. vers. 15. Non enim habemus 
+      <lb ed="#H" n="182"/>Pontificem qui non possit affici sensu infirmitatum nostrarum, sed  
+      <!--cod-MkL9py-0396.xml-->
+      <pb ed="#H" n="369"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>dentatum in omnibus similiter, absque tamen peccato. Ergo 
+      Chri<lb ed="#H" n="2" break="no"/>stus veram carnem assumsit, sicut &amp; nos veram carnem habemus 
+      <lb ed="#H" n="3"/>assumsit carnem affectiones habentem similes cum nostra carne: sed 
+      <lb ed="#H" n="4"/>nssumsit carnem absque peccato, quanquam similem carnis peccat: 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1054">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>coca Apocal. I. vers. 14. &amp; cap. 24. vers. 14. describunt visiones in 
+      <lb ed="#H" n="6"/>ecstasi intellectui &amp; spiritui Johannis oblatas, quae fiunt κατ ἔμφασιν, 
+      <lb ed="#H" n="7"/>non κατ κόρςασιν. Visus est ergo Johanni similis filio hominis, quia 
+      <lb ed="#H" n="8"/>in visione Prophetica: nam Christus corpore suo non in terra tum 
+      <lb ed="#H" n="9"/>erat, sed in coelo, unde prius non descendet quam veniat judicatum  
+      <lb ed="#H" n="10"/>vivos &amp; mortuos 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1072">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Ex his quae dicta sunt certum est, verum humanum corpus a 
+      Chri<lb ed="#H" n="12" break="no"/>sto assumtum esse. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1081">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Sed &amp; vera humana rationalis anima a Christo assumta est, 
+      con<lb ed="#H" n="14" break="no"/>stans intelligentia &amp; uoluntate humana &amp; diversa ab intelligentia 
+      <lb ed="#H" n="15"/>&amp; voluntate divina, ut ex subjectis argumentis patet 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1093">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>I. Quia Christo in Scriptura Sacra tribuitur vera anima 
+      huma<lb ed="#H" n="17" break="no"/>na, id est, spiritus seu essentia spiritualis quae est prima entelechia 
+      cor<lb ed="#H" n="18" break="no"/>poris physici, organici, potentia vitam habentis, constans duabus 
+      fa<lb ed="#H" n="19" break="no"/>cultatibus essent alibus seu partibus, intellectu &amp; voluntate. Matth. 
+      <lb ed="#H" n="20"/>26. vers. 38. dicit Iesus, Undiquaque tristis est anima mea usque ad 
+      <lb ed="#H" n="21"/>mortem. Idem dicit Marc. 14. vers. 34. Johan. 12. v. 27. Nunc anima 
+      <lb ed="#H" n="22"/>mea turbata est. Matth. 27. vers. 50. Iesus quum rursum clamasses 
+      <lb ed="#H" n="23"/>voce magna, emisit spiritum. Luc. 23. vers. 46. Quum clamasset voce 
+      <lb ed="#H" n="24"/>magna Iesus, ait; Pater, in manus tuas depono spiritum meum. Joh. 
+      <lb ed="#H" n="25"/>19. vers. 30, &amp; inclinato capite tradidit spiritum. Luc. 2. vers. 52. 
+      Ie<lb ed="#H" n="26" break="no"/>sus proficiebat sapientia: Ergo assumsit animam cujus intelligentia 
+      <lb ed="#H" n="27"/>diversa est a divina quae non proficit utpote increata: proficere enim 
+      <lb ed="#H" n="28"/>sapientia est proprium creatae intelligentiae. Matth. 26. vers. 39. ait 
+      <lb ed="#H" n="29"/>Christus, Pater mi, si possibile est, abeat a me poculum istude verum 
+      <lb ed="#H" n="30"/>tamen non ut ego volo, sed ut tu: Ergo assumsit Christus animam 
+      ha<lb ed="#H" n="31" break="no"/>bentem voluntatem vere humanam &amp; diversam a voluntate divina¬ 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1132">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>II. Quia Christus habet veram humanam naturam: ergo etiam 
+      <lb ed="#H" n="33"/>animam rationalem, sine qua veritas naturae humanae non constat: 
+      <lb ed="#H" n="34"/>quia per animam rationalem est humana &amp; ab aliorum animalium 
+      <lb ed="#H" n="35"/>naturis essentialiter distinguitur.  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1145">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>III. Quia Christus est factus fratribus similis PEROMNIA 
+      <lb ed="#H" n="37"/>Hebr. 2. vers. 17. id est, tum quod ad naturam; tum quod ad 
+      qualita<lb ed="#H" n="38" break="no"/>tes attiner 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1156">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>IV. Quia Christus venit ut etiam animam nostram redimeret 
+      <lb ed="#H" n="40"/>&amp; servaret; &amp; revera eam redemit &amp; servavit: Ergo eam etiam 
+      assum<lb ed="#H" n="41" break="no"/>sit. Hoc enim in nobis salvavit, quod pro nobis accepit: illam natu 
+      <lb ed="#H" n="42"/>tam fecit participem salutis aeternae quam sibi conjunxit in unitate 
+      <lb ed="#H" n="43"/>personae. Nam nec caro ipsa fuit a Filio Dei assumenda, nisi divina 
+      <lb ed="#H" n="44"/>fuisset assumtione salvanda. Quod si Filius Dei carne non eguit, sed  
+      <lb ed="#H" n="45"/>ut eam salvaret accepit: ita nec anima rationali eguit; sed eam 
+      salvan<lb ed="#H" n="46" break="no"/>dam cum carne suscepit. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1178">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>V. Quia Christus etiam cum anima adscendit in coelum: quia 
+      <lb ed="#H" n="48"/>non aliud est in corpore regnantium, quam quod in Capite praecessit 
+      <lb ed="#H" n="49"/>in coelum. Ideo etiam conversatio nostra in coelis est Philipp. 3. 
+      Co<lb ed="#H" n="50" break="no"/>loss. 3. licet adhuc in terra corpore simus. Ibi fidelis animam suam, 
+      <lb ed="#H" n="51"/>conversari non ambigit, ubi humanam animam in Christo regnati 
+      <lb ed="#H" n="52"/>confidit. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1196">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>VI. Quia Christus est animarum nostrarum pastor 1. Petr. 2. non 
+      <lb ed="#H" n="54"/>esset autem, nisi animam ipse suscepisset, 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1206">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>VII. Quia in anima tentatus est Christus: ergo animam 
+      huma<lb ed="#H" n="56" break="no"/>nam assumsit. Tentatus autem ideo est in anima: ut &amp; nostris 
+      ani<lb ed="#H" n="57" break="no"/>mabus cum tantantur succurreret. Si enim in eo quo tentatus est 
+      <lb ed="#H" n="58"/>tentatis auxilium donat: profecto in quo tentatus non est, tentatis 
+      <lb ed="#H" n="59"/>auxilium non exhibet. Quo conficitur, ut hi qui Christo solam 
+      car<lb ed="#H" n="60" break="no"/>nem humanam assignant, &amp; animam denegant, in sola carne 
+      quae<lb ed="#H" n="61" break="no"/>rant auxilium Christi, in anima vero remaneant illo destituti. Filius 
+      <lb ed="#H" n="62"/>Dei namque hoc adjuvat in homine, quod suscepit pro homine. Quod  
+      <lb ed="#H" n="63"/>si &amp; in anima &amp; in carne consequi Christi expetunt auxilium, 
+      fatean<lb ed="#H" n="64" break="no"/>tur necesse est (sicut veritas habet) &amp; in anima pariter &amp; in carne 
+      ten<lb ed="#H" n="65" break="no"/>ratum. Et anima igitur humana &amp; caro simul est in Christo tentata: 
+      <lb ed="#H" n="66"/>Quod si simul est in Christo &amp; anima &amp; caro tentata, simul est ab eo 
+      <lb ed="#H" n="67"/>utraque suscepta. Et si utramque dignatus est suscipere, utramque 
+      di<lb ed="#H" n="68" break="no"/>gnatus est sine dubitatione salvare. Dignum namque fuit, nostraeque 
+      <lb ed="#H" n="69"/>faluti conveniens, ut Deus verus ex vero Patre solus substantialiter 
+      <lb ed="#H" n="70"/>natus, veram hominis, quam ipse fecit, animam carnemque 
+      suscipe<lb ed="#H" n="71" break="no"/>ret, in utraque cum tentatore pugnaret, in utraque vinceret, ac dein 
+      <lb ed="#H" n="72"/>ceps in utraque tentatis subministraret auxilium, cum in utraque 
+      in<lb ed="#H" n="73" break="no"/>firmis ac morituris victoriae praeberet exemplum 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1252">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Doctrinam hanc prolixe tractat Fulgentius de mysterio Mediato. 
+      <lb ed="#H" n="75"/>ris ad Trasimundum Regem, libro primo, 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1261">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Contra Apollinaris &amp; Arius objiciunt quod dicitur Johan. 1. v. 14. 
+      <lb ed="#H" n="77"/>Verbum caro factum est: Hinc colligunt carnem sed vivam a 
+      Chri<lb ed="#H" n="78" break="no"/>sto assumtam, non autem animam rationalem seu mentem, quae 
+      no<lb ed="#H" n="79" break="no"/>mine carnis non significatur  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1274">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>RESP. In dicto Johannis est synecdoche in Scripturis usitatissima 
+      <lb ed="#H" n="81"/>ut caro pro toto homine accipiatur; sicut Gen. 6. v. 12. Corruperat 
+      o<lb ed="#H" n="82" break="no"/>mnis caro viam suam, id est, omnis homo. Sic Psal. 65. v. 3. O qui ex 
+      <lb ed="#H" n="83"/>audis orationem, ad te usque omnis caro ventura est. &amp; 145. 21. 
+      bene<lb ed="#H" n="84" break="no"/>dicat omnis caro nomini sancto ejus. Jesa. 40. v. 5. Videant omnis caro 
+      <lb ed="#H" n="85"/>pariter, os Iehovae loquutum esse: &amp; cap. 49. 26. ut agnoscat omnis 
+      <lb ed="#H" n="86"/>caro, me Iehovam esse servatorem tuum. Luc. 3. ver. 6. Videbit 
+      omni<lb ed="#H" n="87" break="no"/>caro salutem Dei: &amp; passim in Scriptura. Sicut &amp; anima per Synec- 
+      <lb ed="#H" n="88"/>dochen pro toto homine ponitur, ut Ezech. 18. v. 20. anima quae pec- 
+      <lb ed="#H" n="89"/>caverit, ipsa morietur. Esse autem Synecdochen patet inde, quo 
+      <lb ed="#H" n="90"/>Christus alibi in Scriptura homo esse dicatur  
+      <lb ed="#H" n="91"/>Sic probatum est, quod Filius Dei tetam substantiam naturae, 
+      <!--cod-MkL9py-0396.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>humanae, omnesque partes ejus esentiales assumserit. 
+      <lb ed="#H" n="93"/>Verum non solam substantiam naturae humanae assumsit, sed 
+      et<lb ed="#H" n="94" break="no"/>iam accidentia ejus, nempe tum omnes proprietates &amp; affectiones. 
+      <lb ed="#H" n="95"/>tum defectus &amp; infirmirates animae &amp; corporis, excepto peccato, una 
+      <lb ed="#H" n="96"/>assumsit: quia perfectam naturam humanam &amp; formam servi 
+      assum<lb ed="#H" n="97" break="no"/>sit. Differunt quippe θτια, φυσις κι μρφη, substantia, natura &amp; 
+      for<lb ed="#H" n="98" break="no"/>ma, ut declaratum secundo libro, capite quinto. Substantia est nuda, 
+      <lb ed="#H" n="99"/>essentia, constans in rebus compositis materia &amp; forma. Natura 
+      pre<lb ed="#H" n="100" break="no"/>per essentiam complectitur proprietates essentiales &amp; naturales. 
+      For<lb ed="#H" n="101" break="no"/>ma complectitur praeter essentiam &amp; proprietates etiam alia 
+      acci<lb ed="#H" n="102" break="no"/>dentia quae naturam sequuntur &amp; quibus substantia &amp; natura veluti, 
+      <lb ed="#H" n="103"/>lineamentis conformatur 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1335">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Proprietates humanae quas filius Dei assumsit, quaedam sunt 
+      com<lb ed="#H" n="105" break="no"/>munes naturae totius, quaedam propriae alterutrius partis. Communes. 
+      <lb ed="#H" n="106"/>sunt, esse creatum, esse finitum, &amp;c. Propriae alterutrius sunt quae vel ad 
+      <lb ed="#H" n="107"/>nimae vel corpori soli conveniunt. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1348">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>Rursus proprietates vel essentiales sunt vel accidentariae. 
+      <lb ed="#H" n="109"/>Essentiales proprietates, sunt sine quibus essentia esse nequit citra 
+      <lb ed="#H" n="110"/>ejus destructionem, ut in anima sunt facultates, intelligendi, 
+      volen<lb ed="#H" n="111" break="no"/>di, amandi, &amp;c. nam sine istis anima humana nullo modo esse potest. 
+      <lb ed="#H" n="112"/>In corpore vero sunt, esse organicum: habere distincta membra, 
+      ca<lb ed="#H" n="113" break="no"/>put, brachia, pectus, pedes: habere partem extra partem, caput extra 
+      <lb ed="#H" n="114"/>pedes, pedes extra caput: esse quantitate definitum, loco 
+      citcumscri<lb ed="#H" n="115" break="no"/>ptum, visibile, contrectabile: his enim proprietatibus corpus 
+      huma<lb ed="#H" n="116" break="no"/>num carere nunquam potuit, aut poterit unquanm; siquidem etiam in 
+      <lb ed="#H" n="117"/>corporibus, glorificatis beatorum manebunt, ut planum est ex 1. 
+      <lb ed="#H" n="118"/>Corinth. 15. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1378">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Essentiales proprietates humanae ab essentia naturae humanae 
+      ne<lb ed="#H" n="120" break="no"/>queunt reipsa separari: nam sine illis natura humana desineret esse 
+      <lb ed="#H" n="121"/>humana, sicut recte dicitur, Negatis essentialibus proprietatibus, ne 
+      <lb ed="#H" n="122"/>gantur natur.  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1391">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>QIICITURI. Si ab igne in fornace Babylonica potuit abesse 
+      pro<lb ed="#H" n="124" break="no"/>prietas essentialis, salva ignis essentia: tum etiam a corpore Christi. 
+      <lb ed="#H" n="125"/>possunt abesse proprietates essentiales, salva manente essentia. At 
+      pri<lb ed="#H" n="126" break="no"/>mum est verum: Verum idcirco est &amp; extremum. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1404">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>RESP. Assumtum est falsum, nequaquam enim ab igne in 
+      forna<lb ed="#H" n="128" break="no"/>ce Babylonica separata fuit proprietas ejus essentialis. Ruit ergo 
+      <lb ed="#H" n="129"/>conclusio¬ 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1415">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>Assumti probatio: Vstio separata fuit ab igne: Vstio est proprieta. 
+      <lb ed="#H" n="131"/>essentialis ignis: Ergo proprietas essentialis ignis fuit separata ab igne 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1424">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>RESP. Primo falsa est Major. Ustio enim non fuit separata, sed  
+      <lb ed="#H" n="133"/>duntaxat potentia ditina intra ignem cohibita ac repressa &amp; quidem 
+      <lb ed="#H" n="134"/>non universaliter cohibita respectu cujusvis subjecti, sed tantum 
+      re<lb ed="#H" n="135" break="no"/>spectu sociorum Danielis, ne in ipsorum corpora vel vestimenta 
+      sae<lb ed="#H" n="136" break="no"/>viret. Nec enim ignis ille destitutus fuit vi καυτκις &amp; urendi: imo 
+      eo<lb ed="#H" n="137" break="no"/>dem illo momento, quo sanctis viris pepercit, egit in ligna eaque 
+      com<lb ed="#H" n="138" break="no"/>bussit, &amp; cremavit regios satellites, qui sanctos viros in fornacem 
+      <lb ed="#H" n="139"/>projiciebant 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1446">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Secundo falsa est etiam Minor: nam ustio non est proprietas 
+      es<lb ed="#H" n="141" break="no"/>entialis ignis; sed duntaxat effectum ignis. Essentialis autem 
+      pro<lb ed="#H" n="142" break="no"/>prietas ignis est δυναμις καυσικη, facultas urendi. Haec igitur vis 
+      uren<lb ed="#H" n="143" break="no"/>di ab igne separari non potuit salva essentia ignis. Quin eνiργεια 
+      et<lb ed="#H" n="144" break="no"/>iam seu actus urendi impediri potuit, reprimi, cohiberi, coerceri 
+      po<lb ed="#H" n="145" break="no"/>tuit; separati &amp; tolli non potuie 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1465">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>Instantia: Ignis mansitignis, etsi non esset calidus: Ergo 
+      proprie<lb ed="#H" n="147" break="no"/>tas essentialis ignis abesse potest salva substantia. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1474">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>RESP. Antecedens est falsum: Nam ignis si non sit calidus, sed  
+      <lb ed="#H" n="149"/>vidus non est ignis: sicut Sol si lucem non habet, non est Sol 
+      <lb ed="#H" n="150"/>fris 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1485">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>Exceptio: Si ignis non erit ignis, nisi sit calidus, tum calor erit 
+      for<lb ed="#H" n="152" break="no"/>ma ignis: At posterius est absurdum. Ergo &amp; prius. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1494">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>RESP. Fallax est connexum: Etsi enim calor non sit forma ignis: 
+      <lb ed="#H" n="154"/>tamen forma ignis nunquam est sola nudaque, sed semper armata 
+      ca<lb ed="#H" n="155" break="no"/>lore tanquam qualitate per quam agit. Imo si Deus subtraxisset illis 
+      <lb ed="#H" n="156"/>igni calorem suum, nullum profecto esset miraculum, corpus non 
+      <lb ed="#H" n="157"/>calidum non adurere objectum: ac statuendum, ignem ardentissi 
+      <lb ed="#H" n="158"/>me calidum mansisse, eνεργειαν autem urendi exseruisse in ea 
+      obje<lb ed="#H" n="159" break="no"/>jecta quae uri Deus volebat, ut vincula quibus colligati socij 
+      Danie<lb ed="#H" n="160" break="no"/>is fuerant, ut ligna, ut satellites: martyrum vero &amp; corpora &amp; 
+      vesti<lb ed="#H" n="161" break="no"/>menta aσριστινα reddidisse. Ex his colligitur, quia ab igne proprietas 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1518">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>ejus essentialis in fornace Babylonica sublata non fuit: nec a 
+      corpo<lb ed="#H" n="163" break="no"/>re Christi proprietates ejus essentiales auferri 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1527">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Oujrerrus II. Quicquid non constituit essentiam, id potest ab 
+      <lb ed="#H" n="165"/>separari: Proprietates essentiales non constituunt essentia. Ergo: &amp;c. 
+      <lb ed="#H" n="166"/>ta. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1539">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>RESP. Quicquid non constituit essentiam, id potest ab ea sepaera 
+      <lb ed="#H" n="168"/>ri, scilicet intellectu tantum. Si autem quis statuat, posse reipsa 
+      sepa<lb ed="#H" n="169" break="no"/>tari, tum major negatur. Nam accidens quidem separabile potest. 
+      <lb ed="#H" n="170"/>abstrahi &amp; reipsa &amp; per intellectum, linseparabile &amp; accidens potest 
+      <lb ed="#H" n="171"/>tantum abstrahi intellectu, reipsa ab essentia divelli non potest: muli 
+      <lb ed="#H" n="172"/>to minus potest proprietas essentialis reipsa ab essentia separati. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1557">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Accidentariae proprietates humanae, sunt quae naturam quidem 
+      <lb ed="#H" n="174"/>consequuntur, sed non inseparabiliter; ideo remotis ipsis natura non 
+      <lb ed="#H" n="175"/>lestruitur. Proprietates illae Synecdochice appellantur naturales; 
+      <lb ed="#H" n="176"/>quia essentiales sunt etiam naturales: sed accidetatiae sunt simpliciter 
+      <lb ed="#H" n="177"/>naturales, essentiales autem non sunt tantuinm naturales 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1573">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Accidentariae proprietates humanae sunt duplices: aliae 
+      conveni<lb ed="#H" n="179" break="no"/>entes tantum statui humilitatis, ut corporis gravitas, opacitas, &amp;c. 
+      <lb ed="#H" n="180"/>aliae permanentes etiam in gloria, ut notitia innata, sapientia, 
+      scien<lb ed="#H" n="181" break="no"/>tia, virtus omnis innata voluntati CHRISTI, laetitia &amp; quicquid ad 
+      <lb ed="#H" n="182"/>perfectionem &amp; beatitudinem naturalem naturae humanae pertinet. 
+      <lb ed="#H" n="183"/>Notandum enim est, nos hic non loqui nisi de iis, quae in nostra 
+      na<lb ed="#H" n="184" break="no"/>tura &amp; ex nostra natura, quam Apostolus vocat formam servi Chri¬ 
+      <!--cod-MkL9py-0397.xml-->
+      <pb ed="#H" n="370"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>stus suscepit: non autem de illis bonis &amp; donis habitualibus aut 
+      a<lb ed="#H" n="2" break="no"/>ctualibus, quae porro accepit anima Christi a λόγῳ, quibus fuit 
+      orna<lb ed="#H" n="3" break="no"/>ta, &amp; quibus natura les defectus instauravit atque perfecit. Illa enim 
+      <lb ed="#H" n="4"/>bona ac dona, quae natura Christi humana a λόγῳ cui unita est 
+      acce<lb ed="#H" n="5" break="no"/>pit, pertinent ad ea, quae unionem naturarum consequuta sunt. Ergo 
+      <lb ed="#H" n="6"/>hic tantum de assumtis a Filio Dei in nostra &amp; ex nostra natura 
+      a<lb ed="#H" n="7" break="no"/>gimus. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1615">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Quod utrasque proprietates humanas naturales tum essentiales, 
+      <lb ed="#H" n="9"/>tum accidentarias Christus assumserit, manifestum est ex omnibus 
+      <lb ed="#H" n="10"/>illis locis in quibus naturales proprietates animae humanae &amp; 
+      corpo<lb ed="#H" n="11" break="no"/>ris humani Christo tribuuntur 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1628">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Praeter proprietates naturae humanae, Christus etiam omnes 
+      defe<lb ed="#H" n="13" break="no"/>ctus, infirmitates &amp; affectus nostros, passionesque naturales omnibus. 
+      <lb ed="#H" n="14"/>hominibus communes, sed inculpabiles, eorumque necessitatem 
+      suscipe<lb ed="#H" n="15" break="no"/>re non recusavit, commotus sua φιλανδρωπιαᾳ, &amp; misertus nostrae 
+      im<lb ed="#H" n="16" break="no"/>vers. 15. 
+      <lb ed="#H" n="17"/>becillitatis &amp; mortalitatis 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1646">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Defectus &amp; infirmitates quas Christus assumsit, non appellamus 
+      <lb ed="#H" n="19"/>absentiam alicujus partis vel proprietatis naturae humanae; sed miset 
+      <lb ed="#H" n="20"/>rias, calamitates ac poenas, quae toti naturae humanae, perfecta 
+      ani<lb ed="#H" n="21" break="no"/>ma integroque corpore constanti, accidunt in omnibus hominibus 
+      <lb ed="#H" n="22"/>propter peccatum originale quod ipsis inhaeret: in Christo autem 
+      <lb ed="#H" n="23"/>propter nos, utpote cui peccatum nostrum imputatum, quum ipse 
+      si<lb ed="#H" n="24" break="no"/>ne peccato originali conceptus &amp; natus sit. Hujusmodi defectus &amp; 
+      <lb ed="#H" n="25"/>infirmitates sunt, pati frigus, aestum, famem, sitim, laborem, 
+      defatiga<lb ed="#H" n="26" break="no"/>tionem, somnum, dolores, &amp; iis similes humanas infirmitates, &amp; 
+      de<lb ed="#H" n="27" break="no"/>nique mortem. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1673">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Defectus vero &amp; infirmitates naturales non quasvis suscepit 
+      Chri<lb ed="#H" n="29" break="no"/>stus, sed omnibus hominibus natura communes &amp; inculpabiles. Nam 
+      <lb ed="#H" n="30"/>defectus &amp; infirmitates hominum discerni debent. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1684">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Primo enim defectus vel negative dicuntur, vel privative 
+      <lb ed="#H" n="32"/>Defectus negative dicti; sunt earum rerum quae nec per naturam 
+      <lb ed="#H" n="33"/>adesse possunt, nec per officium adesse debent: atque hi 
+      perfectio<lb ed="#H" n="34" break="no"/>nem potius naturae arguunt, quam imperfectionem; exempli 
+      gra<lb ed="#H" n="35" break="no"/>tia, defectus uolandi: ignoratio negativa, qualis etiam in Sanctis 
+      An<lb ed="#H" n="36" break="no"/>gelis &amp; beatis hominibus est semper; non enim sciunt, neque unquam  
+      <lb ed="#H" n="37"/>scient omnia quaecunque scit Deus. Tales defectus non sunt peccat: 
+      <lb ed="#H" n="38"/>iisque nulla substantia creata vel integerrima caret: quia nulla 
+      ve<lb ed="#H" n="39" break="no"/>integerrima creatura potest habere omnia quae habet Deus. Ideo 
+      de<lb ed="#H" n="40" break="no"/>fectus negative dictos habuit etiam Adamus in statu integritatis 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1710">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>Defectus privative dicti, sunt earum rerum quae ex officio adesse 
+      <lb ed="#H" n="42"/>debebant &amp; per naturam adesse poterant . 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1719">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Suntque vel naturales, vel non naturales. 
+      <lb ed="#H" n="44"/>Natur ales omnibus hominibus communes sunt, &amp; ex 
+      communi<lb ed="#H" n="45" break="no"/>peccato totius naturae in singulis consequuntur, ut fames, sitis, 
+      defa<lb ed="#H" n="46" break="no"/>tigatio, mortalitas corporis, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1732">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Non naturales defectus &amp; infirmitates procedunt a causis 
+      parti<lb ed="#H" n="48" break="no"/>cularibus, sive a principio singulari generante &amp; a virtute (ut vocant)  
+      <lb ed="#H" n="49"/>formativa, ut lepra, epilepsia, &amp;c. sive a culpa ipsius particulari, ut  
+      <lb ed="#H" n="50"/>quum ex crapula aut ingurgitatione innascuntur mala, veluti febres 
+      <lb ed="#H" n="51"/>podagra: sive ex peculiaribus Dei judiciis proficiscuntur, ut lepra 
+      <lb ed="#H" n="52"/>Ueziae Regis, innata fatuitas, mania, &amp; alia id genus, quae non sunt 
+      <lb ed="#H" n="53"/>omnium communia mala, ac proinde non sunt naturales universe 
+      <lb ed="#H" n="54"/>sed personales aut particulares, nec omni, nec semper contingentes. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1754">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Secundo defectus &amp; infirmitates humanae naturae nostrae vel cul  
+      <lb ed="#H" n="56"/>pabiles sunt, vel inculpabile. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1764">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Culpabiles defectus &amp; infirmitates, sunt qui per se vitiosi &amp; 
+      pecca<lb ed="#H" n="58" break="no"/>ta sunt: Damascenus δαοληοως, damnabiles &amp; detestabiles dicit.  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1773">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Inculpabiles, qui sine ullo peccato &amp; vitio sunt; Augustinus vocat,  
+      <lb ed="#H" n="60"/>miserabiles simpliciter: Damascenus aδαολητuς: quales sunt 
+      natu<lb ed="#H" n="61" break="no"/>ralis ignorantia negativa, seu nescientia plurimarum rerum, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1784">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Infirmitates seu defectus humanos privatos seu peculiares qui  
+      <lb ed="#H" n="63"/>busdam, &amp; culpabiles Christus non suscepit, nec suscipere debuit: quia  
+      <lb ed="#H" n="64"/>perfectioni naturae humanae repugnant, &amp; redemtioni nostrae ob 
+      <lb ed="#H" n="65"/>fuissent. Quomodo enim Christus peccata nostra expiare potuisset. 
+      <lb ed="#H" n="66"/>si naturam ullo modo vitiosam assumsisset: 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1800">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Defectus autem &amp; infirmitates naturales animae &amp; corporis, 
+      om<lb ed="#H" n="68" break="no"/>nibus hominibus communes &amp; inculpabiles Christus unam cum 
+      na<lb ed="#H" n="69" break="no"/>tura humana assumsit, ut &amp; paulo ante dictum: quia nec 
+      perfectio<lb ed="#H" n="70" break="no"/>ni scientiae &amp; gratiae ipsius, nec redemtioni nostrae erant 
+      impedi<lb ed="#H" n="71" break="no"/>mento. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1816">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Revera autem Christus illas assumsit. I. Quia debuit per omnia 
+      <lb ed="#H" n="73"/>fratribus similis fieri, Hebr. 2. vers. 17. sed absque peccato, Hebr. 4. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1825">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>II. Quia puerulus crescebat, &amp; corroborabatur spiritu, implebat 
+      <lb ed="#H" n="75"/>turoue sapientia: Luc. 2. v. 40. Nam in Graeco non est τaupns plenus. 
+      <lb ed="#H" n="76"/>sed Participium τληρθμδος, quod praeteriti imperfecti significati 
+      c<lb ed="#H" n="77" break="no"/>nem habet, 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1839">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>III. Quia sapientia proficiebat una cum aetate, Luc. 2. vers. 52. a6 
+      <lb ed="#H" n="79"/>proinde aliquid discebat, quod antea naturaliter nesciebat, 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1848">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>IV. Quia ignorabat ficus non esse in arbore donec sensu 
+      cogno<lb ed="#H" n="81" break="no"/>sceret, Marc 11. v 13. Ignorabat diem horamque judicij, Marc. 13. 
+      <lb ed="#H" n="82"/>v. 32. Ideo Christi humana natura in sese ut forma servi considerata 
+      <lb ed="#H" n="83"/>quaedam naturaliter ignoravit. Agnovit &amp; docuit hoc ipsum vetus. 
+      <lb ed="#H" n="84"/>orthodoxa Ecclesia, cujus testimonia videantur in Symphonia 
+      Ca<lb ed="#H" n="85" break="no"/>tholica, capite nono, thesi septima. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1866">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>V. Quia Matth. 26. v. 39. precatio Christi: Pater mi, si possibili 
+      <lb ed="#H" n="87"/>est, abeat a me poculum istud, verumtamen non ut ego volo, sed ut 
+      tu<lb ed="#H" n="88" break="no"/>profecta fuit ex infirmitate naturae humanae exhorrescentis iram Dei: 
+      <lb ed="#H" n="89"/>unde &amp; ἐπανορεώσει seu correctione Christus usus est, 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1879">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>VI. Quia in lucta cum horribili ira Dei adversus peccata nostra 
+      <lb ed="#H" n="91"/>conspectus est ei Angelus e coelo corroborans eum, Luc. 23. vers. 43. 
+      <lb ed="#H" n="92"/>Virterdivina non egebat corroboratione, sed humana infirmitas. 
+      <!--cod-MkL9py-0397.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>Ex his certum est, quod Christus naturales infirmitates animae 
+      <lb ed="#H" n="94"/>nostrae assumserit. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1899">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Quod corporis infirmitates &amp; defectus naturales assumserit, pater 
+      <lb ed="#H" n="96"/>inde, quia patibilitate &amp; mortalitate nostra citcumcinctus fuit; 
+      fati<lb ed="#H" n="97" break="no"/>gabatur item ex itinere, Joh. 4. v. 6. famem &amp; sitim passus est, sed 
+      o<lb ed="#H" n="98" break="no"/>mnia haec absque peccato. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1912">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Fines &amp; usus propter quos infirmitates nostras naturales 
+      Chri<lb ed="#H" n="100" break="no"/>stus assumserat, hi sunt:  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1922">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>I. Ut etiam per illas veritatem naturae humanae omnibus 
+      exhibe<lb ed="#H" n="102" break="no"/>ret &amp; testatam faceret. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1931">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>II. Ut etiam illas suscipiendo satisfaceret pro peccatis nostris, ut  
+      <lb ed="#H" n="104"/>que &amp; naturam &amp; infirmitates illius curaret in persona sua &amp; 
+      nostra<lb ed="#H" n="105" break="no"/>omnium. Mihi prodest scire, quia propter me suscepit Christus meas. 
+      <lb ed="#H" n="106"/>infirmitates, ait Ambrosius libro secundo de Fide ad Gratianum 
+      Au<lb ed="#H" n="107" break="no"/>gustum, capite quarto, circa medium capitis 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1947">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>III. Ut consolationem adversus infirmitates nostras naturales in 
+      <lb ed="#H" n="109"/>Christo haberemus &amp; cum robore erigeremur &amp; gloriari possemus 
+      <lb ed="#H" n="110"/>cum Paulo, Omnia possum per fortificantem me Iesum Christum. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1958">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>Sententiam nostram de assumtione omnium naturalium &amp; 
+      in<lb ed="#H" n="112" break="no"/>culpabilium infirmitatum, vetus orthodoxa Ecclesia tenuit, quam 
+      <lb ed="#H" n="113"/>Damascenus exponit lib. 3. Orthodoxae fidei, cap. 20. ἐμολογοον οη 
+      <lb ed="#H" n="114"/>πανζα ζα φυσικακαδαοληζα παθε ανθρωπα ανιηαωεν. ολον φο τ ἀνθρ ω¬ 
+      <lb ed="#H" n="115"/>πον κπανζα ζα γ ανθρωπα ανιλαβε, σλκι γ ωμαριιας: Confitemur, 
+      Chri<lb ed="#H" n="116" break="no"/>stum omnes naturales &amp; quae sine crimine sunt passiones hominis 
+      as<lb ed="#H" n="117" break="no"/>sumsisse: totum enim hominem &amp; omnia quae sunt hominis assumsit,  
+      <lb ed="#H" n="118"/>excepto peccato. Eodem facit sententia Ambrosij paulo ante 
+      alle<lb ed="#H" n="119" break="no"/>gata. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e1982">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>Doctrinam hanc verissimam &amp; plenam consolatione 
+      Bellarmi<lb ed="#H" n="121" break="no"/>nus improbe oppugnat, in Controversia de Christo libro quarto qui  
+      <lb ed="#H" n="122"/>est de Christi anima, capite primo &amp; sequentibus, in quibus tum 
+      ar<lb ed="#H" n="123" break="no"/>gumenta aliquot, quibus probamus Christum naturales infirmita; 
+      <lb ed="#H" n="124"/>tes animarum nostrarum assumsisse, refellere; tum contrariam 
+      sen<lb ed="#H" n="125" break="no"/>tentiam asserere conatur. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2000">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>In locis Hebr. 2. ver. 17. &amp; cap. 4. v. 15. Bellarminus particulam 
+      u<lb ed="#H" n="127" break="no"/>niversalem omnia restringit ad ea quae ad perfectionem naturae 
+      per<lb ed="#H" n="128" break="no"/>inent vel ad redemtionem conducunt. Sed primo falsa est restrictio 
+      <lb ed="#H" n="129"/>&amp; non conveniens textui Apostolico, ex quo constat omnes 
+      infirmi<lb ed="#H" n="130" break="no"/>tates naturales nostras a Christo susceptas, praeterquam eas quae 
+      re<lb ed="#H" n="131" break="no"/>demtioni nostrae fuissent adversaturae. Deinde falsum est, quod in 
+      no<lb ed="#H" n="132" break="no"/>bis statuit aliqua ad redemtionem conducentia, quorum nos nihile 
+      <lb ed="#H" n="133"/>habemus plane: quomodo ergo in eis Christus nobis assimulatus 
+      <lb ed="#H" n="134"/>esset: 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2025">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>In loco Luc. 2. v. 40. male approbat Bellarminus vitium vulgati 
+      <lb ed="#H" n="136"/>interpretis, a quo participium τληρυυδνος redditur plenus: quum ex 
+      <lb ed="#H" n="137"/>participio Graeco manifestum sit, in puerulo Christo paulatim 
+      cre<lb ed="#H" n="138" break="no"/>visse sapientiam experimentalem &amp; acquisitam 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2038">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Locum Luc. 2. v. 52. Iesus proficiebat sapientia, interpretando 
+      pla<lb ed="#H" n="140" break="no"/>ne depravat, cum ait, Jesum profecisse opinione hominum, quibus un 
+      <lb ed="#H" n="141"/>dies magis aperiebat sapientiam suam. Atqui revera proficiebat sa 
+      <lb ed="#H" n="142"/>pientia in humanitate sua tum effusione spiritus, tum experimentali 
+      <lb ed="#H" n="143"/>&amp; acquisita scientia. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2054">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>De loco apud Marcum de ignoratione diei &amp; hore judicij dicit 
+      va<lb ed="#H" n="145" break="no"/>rie sentire Patres: quomodo ergo interpretatio Patrum quae tam 
+      va<lb ed="#H" n="146" break="no"/>ria est, regula verae interpretationis Scripturarum erit? Deinde istam 
+      <lb ed="#H" n="147"/>interpretationem ad propositum hujus loci esse dicit, quod Filius 
+      di<lb ed="#H" n="148" break="no"/>catur nescire diem &amp; horam judicij, quia non sciebat ad dicendum 
+      a<lb ed="#H" n="149" break="no"/>liis &amp; quia eos nescientes faciebat. Sed ista interpretatio &amp; falsa in se 
+      <lb ed="#H" n="150"/>est &amp; a consilio Christi aliena. Recte exposuit hunc locum Cyrillus 
+      <lb ed="#H" n="151"/>Alexandrinus libro nono Thesauri, capite quarto, ubi inter alia ad 
+      <lb ed="#H" n="152"/>dit; Oportet misericordiam Dei Verbi admirari, quod non 
+      recusave<lb ed="#H" n="153" break="no"/>rit propter nos ad tantam humilitatem descendere, ut omnia nostra 
+      <lb ed="#H" n="154"/>&amp; ipsam etiam ignorantiam humanam susciperet. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2083">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Ad locum Matth. 26. v. 39. respondet, impiam esse blasphemiam, 
+      <lb ed="#H" n="156"/>quod Christus sine spiritu oraverit, aut correxerit vel revocaverit 
+      o<lb ed="#H" n="157" break="no"/>rationem suam. Atqui Christum sine spiritu orasse, nemo nostrum 
+      <lb ed="#H" n="158"/>dixit, ac ne cogitavit quidem: falsum igitur crimen nobis impingi 
+      <lb ed="#H" n="159"/>ur. Dicere vero Christum usum correctione aut revocatione 
+      quae<lb ed="#H" n="160" break="no"/>est figura Rhetorica, non est blasphemia: quia correctio seu 
+      revoca<lb ed="#H" n="161" break="no"/>tio Rhetorica non est peccatum, sed ad ornatum &amp; evidentiam 
+      ora<lb ed="#H" n="162" break="no"/>tionis facit, ut exempla ostendunt, etiam in Scriptura. Nonne ἐπα¬ 
+      <lb ed="#H" n="163"/>γορθευσει seu correctione usus est Christus Joh. 16 32. Ecce veniet 
+      tem<lb ed="#H" n="164" break="no"/>pus, &amp; jam venit, quum dispergemini unusquisque ad sua, meque solum 
+      <lb ed="#H" n="165"/>relinquetis? Certe in precatione Christi Matth. 26. vers. 39. veteres. 
+      <lb ed="#H" n="166"/>Patres infirmitatem naturae humanae Christi &amp; figuram 
+      Rhetori<lb ed="#H" n="167" break="no"/>cam agnoverunt. Origenes tractatu trigesimoquinto in Matthaeum 
+      <lb ed="#H" n="168"/>in hujus procationis Christi expositione ait: Secundum quod coepit 
+      <lb ed="#H" n="169"/>pavere &amp; tristari, secundum illud &amp; orat calicem passionis transiri 
+      <lb ed="#H" n="170"/>a se, sed non sicut vult, sed sicut vult Pater. Suscipiens enim 
+      natu<lb ed="#H" n="171" break="no"/>ram carnis humanae omnes proprietates implevit, ut non in 
+      phanta<lb ed="#H" n="172" break="no"/>sia habuisse carnem existimaretur, sed in veritate: secundum quod 
+      <lb ed="#H" n="173"/>in hoc loco orat calicem passionis transire a se, sed non sicut vult ipse, 
+      <lb ed="#H" n="174"/>sed sicut vult Pater. Quoniam proprium est omnis hominis fidelis. 
+      <lb ed="#H" n="175"/>primum quidem nolle pati aliquid doloris, maxime quod ducit usque  
+      <lb ed="#H" n="176"/>ad mortem, quia homo est carnalis: si autem sic voluerit Deus, 
+      ac<lb ed="#H" n="177" break="no"/>quiescere etiam contra uoluntatem suam, quia fidelis est, ne 
+      plucvi<lb ed="#H" n="178" break="no"/>deatur in se desperare, quam in Deum sperare. Nam sicut multum 
+      <lb ed="#H" n="179"/>confidere non debemus, ne nostram virtutem videamur profiteri: sic. 
+      <lb ed="#H" n="180"/>multum pusillanimiter agere &amp; diffidere non debemus, ne Dei 
+      adju<lb ed="#H" n="181" break="no"/>toris nostri impotentiam videamur pronunciare. Haec ergo voluntas 
+      <lb ed="#H" n="182"/>quam dicit: Si possibile est, transeat calix iste a me, sed non sicut ego 
+      <lb ed="#H" n="183"/>volo, sed sicut tu: non est secundum substantiam ejus divinam &amp; 
+      <lb ed="#H" n="184"/>impassibilem, sed secundum naturam humanam ejus &amp; infirmam. 
+      <!--cod-MkL9py-0398.xml-->
+      <pb ed="#H" n="371"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Etpaulo post: Pater si possibile est transeat calix iste a me. Rursus 
+      re<lb ed="#H" n="2" break="no"/>vocans desiderium suum, &amp; videns quanta vtilitas mundi totius 
+      es<lb ed="#H" n="3" break="no"/>sset futura per passionem ipsius, dicebat: Sed non sicut ego volo, sed sit 
+      <lb ed="#H" n="4"/>ut tu. Videbat adhuc propter illum calicem passionis, &amp; etiam 
+      Iu<lb ed="#H" n="5" break="no"/>dam qui ex duodecim unus erat, filium fore perditionis. Rursus 
+      in<lb ed="#H" n="6" break="no"/>telligebat per illum calicem passionis, principatus &amp; potestates trium 
+      <lb ed="#H" n="7"/>phandas in corpore suo. Propter hos ergo quos in passione sua nolebat  
+      <lb ed="#H" n="8"/>perire,, dicebat: Pater si possibile est transeat calix iste a me. Propter 
+      <lb ed="#H" n="9"/>salutem autem totius humani generis quae per mortem ejus Deo 
+      fue<lb ed="#H" n="10" break="no"/>rat acquirenda, dicebat quasi recogitans: Sed non sicut ego volo, sed  
+      <lb ed="#H" n="11"/>sicut tu. Et Hieronymus Commentariis ad eundem locum Matthaei 
+      <lb ed="#H" n="12"/>Attamen revertens in semetipsum: quod ex hominis persona 
+      trepi<lb ed="#H" n="13" break="no"/>danter renuerat, ex Dei Filijque confirmas: Verumtamen non sicut 
+      ego<lb ed="#H" n="14" break="no"/>volo; sed sicut tu. Non, inquit, hoc fiat, quod humano affectu loquor  
+      <lb ed="#H" n="15"/>sed propter quod ad terras tua uoluntate descendi. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2192">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Cyrillus item Alexandrinus libro quarto in Johannem cap. 
+      pri<lb ed="#H" n="17" break="no"/>mo: Ea enim ratione qua Verbum Dei Deus est, &amp; ipsa naturaliter 
+      <lb ed="#H" n="18"/>vita, nemo ambiget quod nullo modo mortem formidavit: Caro 
+      au<lb ed="#H" n="19" break="no"/>tem factus, permittit carni ut sua patiatur: &amp; ideo ut vere homo prae 
+      <lb ed="#H" n="20"/>sentem jam in januis mortem timescit, ac dicit: Si possibile Pater est, 
+      <lb ed="#H" n="21"/>transeat a me calix iste: verum quoniam aliter fieri non potest, fiat 
+      <lb ed="#H" n="22"/>non vt ego volo, sed ut tu. Vides quemadmodum natura humana 
+      et<lb ed="#H" n="23" break="no"/>iam in ipso Christo sua patitur &amp; formidat? Sed a conjuncto sibi 
+      Ver<lb ed="#H" n="24" break="no"/>bo ad convenientem Deo fortitudinem &amp; robur reducitur, doceturque 
+      <lb ed="#H" n="25"/>ne quod sibi videtur, sed divinam uoluntatem sequatur: &amp; illo 
+      sem<lb ed="#H" n="26" break="no"/>per tendat, quo voluntas Dei perducit 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2221">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Sic Augustinus secundo tomo, epistolam centesima vigesimaprima 
+      <lb ed="#H" n="28"/>capite decimoquarto: Hujusmodi exemplum praebuit nobis ille Mi 
+      <lb ed="#H" n="29"/>diator, qui cum dixisset: Pater si fieri potest, transeat a me calix iste 
+      <lb ed="#H" n="30"/>humanam in se uoluntatem ex hominis susceptione transformans, 
+      <lb ed="#H" n="31"/>continuo subjecit, Verum non quod ego volo, sed quod tu vis Pater.  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2238">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Ut ergo in Christi humana natura fuit infirmitas &amp; formido ira 
+      <lb ed="#H" n="33"/>Dei absque peccati labe; ita etiam oratio infirmitatis &amp; formidinis 
+      <lb ed="#H" n="34"/>illius index, cujus correctio &amp; revocatio non erat sui ipsius peccantis 
+      <lb ed="#H" n="35"/>correctio &amp; revocatio. Est enim quaedam correctio &amp; revocatio sint 
+      <lb ed="#H" n="36"/>peccato antecedente, nempe revocantium se non a malo, sed a bono 
+      <lb ed="#H" n="37"/>uno ad alterum bonum, aut etiam melius bonum. Ita bonum 
+      natu<lb ed="#H" n="38" break="no"/>rale erat nihil pati doloris, non mori: bonum autem melius erat, 
+      pas<lb ed="#H" n="39" break="no"/>sione &amp; morte sua placare iram Dei &amp; genus humanum redimere. 
+      <lb ed="#H" n="40"/>Bonum naturale Christus voluntate naturali volebat, non 
+      simplici<lb ed="#H" n="41" break="no"/>ter, sed cum conditione, si possibile esset: sed considerato consilio Dei 
+      <lb ed="#H" n="42"/>&amp; vocatione sua volebat potius voluntate electiva quod volebat 
+      Pa<lb ed="#H" n="43" break="no"/>ter. κγ φυσιν volebat a se transire calicem illum quem bibere 
+      debe<lb ed="#H" n="44" break="no"/>bat, sicut naturaliter humana natura aversatur sui destructionem: 
+      <lb ed="#H" n="45"/>κο ωροαιρισιν vero subjiciebat se voluntati Dei Patris ad patiendum 
+      <lb ed="#H" n="46"/>&amp; moriendum pro nobis. Sic Christus a naturali voluntate naturae 
+      <lb ed="#H" n="47"/>suae humanae sese evexit ultro ad voluntatem electivam &amp; 
+      delibera<lb ed="#H" n="48" break="no"/>tam officij sui perficiendi. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2280">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>Manet igitur fixum &amp; firmum, Christum omnes nostras natura 
+      <lb ed="#H" n="50"/>les infirmitates ἀδαολητος, inculpabiles, una cum natura 
+      huma<lb ed="#H" n="51" break="no"/>assumsisse, ut &amp; illas Medicus bonus curaret, inter quas est ignoram 
+      <lb ed="#H" n="52"/>tia negativa aliquarum rerum. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2293">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Suam e contrario sententiam Bellarminus sequentibus 
+      argumen<lb ed="#H" n="54" break="no"/>tis asserere nititur: I. Cujus anima ab ipsa sua creatione sapientia &amp; 
+      <lb ed="#H" n="55"/>gratia fuit plenissima, is ignorantiam non assumsit: At Christi 
+      ani<lb ed="#H" n="56" break="no"/>ma ab ipsa sua creatione sapientia &amp; gratia fuit plenissima, Jes. 11. 2. 
+      <lb ed="#H" n="57"/>&amp;c. Ergo Christus ignorantiam non assumsit 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2309">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>RESP. Conceditur totum recte intellectum: nam Christus 
+      igno<lb ed="#H" n="59" break="no"/>cantiam non assumsit, videlicet privativam, quia illa est peccatum  
+      <lb ed="#H" n="60"/>Est enim ignorantia duplex: negativa &amp; privativa. Ignorantia no 
+      <lb ed="#H" n="61"/>gativa, est earum rerum quas scire ex officio non tenemur, aut non 
+      <lb ed="#H" n="62"/>possumus per naturam quamvis integram: qualis ignorantia in 
+      A<lb ed="#H" n="63" break="no"/>damo integro fuit; quam multa enim ille ignoravit, quae Deus omnia 
+      <lb ed="#H" n="64"/>novit? Certe ignoravit Adamus, sibi insidias strui a Sataffi, se 
+      sedu<lb ed="#H" n="65" break="no"/>ctum iri &amp; innumera alia: quam ignorantiam Scholastici nescien: 
+      <lb ed="#H" n="66"/>tiam dixerunt δαϰριτιϰώς. Haec certe peccatum non est. Ignorantia. 
+      <lb ed="#H" n="67"/>priuntiva, est earum rerum quas quis debet ex officio scire &amp; per 
+      na<lb ed="#H" n="68" break="no"/>turam poterat. Haec habet rationem poenae secundum se, culpae ver 
+      <lb ed="#H" n="69"/>&amp; peccati secundum causam vel effectum ipsius. Jam ignorantiam 
+      <lb ed="#H" n="70"/>negativam Christus assumsit, non autem privativam, quae plenitu 
+      <lb ed="#H" n="71"/>dini sapientiae &amp; gratio: repugnat. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2344">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>II. Qui in ipsa conceptione sui accepit scientiam sine mensura, id 
+      <lb ed="#H" n="73"/>non assumsit ullam ignorantiam: Christus in ipsa conceptione sui 
+      ac<lb ed="#H" n="74" break="no"/>cepit scientiam sine mensura: Ergo non assumsit ullam ignorantiam. 
+      <lb ed="#H" n="75"/>Mssumtio probatur, quia unctus est Spiritu Sancto, ut dicitur Psal 
+      <lb ed="#H" n="76"/>45. 8. Unxit te Deus tuus, &amp; Jes. 61. 1, Spiritus Domini super me 
+      eo<lb ed="#H" n="77" break="no"/>quod unxerit me Actor. 4. 27. Convenerunt vere adversus sanctum 
+      <lb ed="#H" n="78"/>uerum tuum Iesum quem unxisti, &amp;c. 10. 38. Unxit cum Dominus 
+      <lb ed="#H" n="79"/>Spiritu Sancto &amp; virtute: videlicet in ipsa conceptione solummodo 
+      <lb ed="#H" n="80"/>ut patet ex Jes. 11.1. &amp; quia natus est Christus, id est, unctus Luc. 2. &amp; 
+      <lb ed="#H" n="81"/>quia Verbum caro factum est plenum gratiae &amp; veritatis Joh. 1. 14. 
+      <lb ed="#H" n="82"/>non autem anno demum trigesimo aetatis. Et aliter unctus est quam 
+      <lb ed="#H" n="83"/>Iohannes &amp; alij homines quia potuerunt proficere: ipse autem sicut 
+      <lb ed="#H" n="84"/>non potuerit proficere. Nam illi acceperunt gratiam cum mensura, 
+      <lb ed="#H" n="85"/>ipse sine mensura Joh. 3. 34. Non enim secundum mensur a dat Deus 
+      <lb ed="#H" n="86"/>Siritum Filio suo. Joh. 21. 17. Domine tu omnia nosti. Et Col. 2. v. 3. 
+      <lb ed="#H" n="87"/>In quo sunt omnes thesauri scientiae &amp; sapientia Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2383">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>RESP. Distinguenda est propositio major. Qui in ipsa 
+      conceptio<lb ed="#H" n="89" break="no"/>ne sui accepit scientiam, videlicet omnino omnem, sine mensura, is 
+      <lb ed="#H" n="90"/>non assumsit ullam ignorantiam. Est enim duplex scientia, divina &amp; 
+      <lb ed="#H" n="91"/>humana. Divina est increata &amp; solius Deitatis: humana est creata &amp; 
+      <lb ed="#H" n="92"/>humanitatis. Humana autem triplex est: beaia, infui acquisita. 
+      <!--cod-MkL9py-0398.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>seu experimentalis. Scientia beata seu potius beatifica, est actus quo 
+      <lb ed="#H" n="94"/>Deus videtur per essentiam. Scientia infusa seu indita, est habitus 
+      <lb ed="#H" n="95"/>a Spiritu Sancto infusus, quo homo res cognoscit per species intelli 
+      <lb ed="#H" n="96"/>gibiles ipsarum in intellectu possibili cum naturali tum divino 
+      motu<lb ed="#H" n="97" break="no"/>Scientia acquisita seu experimentalis, est habitus quo homo res 
+      co<lb ed="#H" n="98" break="no"/>gnoscit secundum naturam agente intellectu, sive per inventionem. 
+      <lb ed="#H" n="99"/>mtus, sive per apprehensionem foris. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2419">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>am quod ad minorem attinet, Christum in ipsa conceptione 
+      <lb ed="#H" n="101"/>sui accopisse scientiam sine mensura, si de scientia omnino 
+      omni<lb ed="#H" n="102" break="no"/>intelligatur, negatur. Nam divina scientia non est reali 
+      transfusio<lb ed="#H" n="103" break="no"/>ne communicata cum natura humana; sic enim natura humana 
+      fa<lb ed="#H" n="104" break="no"/>cta esset omniscia ac conversa in divinam naturam; qui error est 
+      <lb ed="#H" n="105"/>Eutychis. De humana autem scientia distincte respondendum. 
+      <lb ed="#H" n="106"/>Nam beatam, &amp; infusam scientiam inde a conceptionis suae 
+      primor<lb ed="#H" n="107" break="no"/>dio in natura humana sua possedit Christus per gratiam unionis 
+      per<lb ed="#H" n="108" break="no"/>sonalis. Primum enim qua Deitate est unita humanitas Christi 
+      se<lb ed="#H" n="109" break="no"/>cundum personam, anima Christi per lumen immediate adeoque 
+      per<lb ed="#H" n="110" break="no"/>sonaliter participatum a Deitate &amp; in Deitate, in qua subsistit, suit 
+      <lb ed="#H" n="111"/>lenissima scientia beata illa, idque supra naturam &amp; modum nostrae 
+      <lb ed="#H" n="112"/>animae rationalis. Secundo praeter scientiam illam beatam, praedita. 
+      <lb ed="#H" n="113"/>fuit eadem anima Christi, scientia infusa seu indita per Spiritum 
+      San<lb ed="#H" n="114" break="no"/>ctum quo in ipsa conceptione uncta fuit, idque in summo fine quem 
+      <lb ed="#H" n="115"/>natura humana assequi nunquam potest, secudum rationem 
+      intelle<lb ed="#H" n="116" break="no"/>ctus, quem vocant possibilem. De nac duplici scientia, beata &amp; infusa 
+      <lb ed="#H" n="117"/>minorem concedimus, quia est gratiae ob unionem personalem: 
+      de<lb ed="#H" n="118" break="no"/>buit igitur utraque esse plenissima inde a primordio. Sed quod ad 
+      sci<lb ed="#H" n="119" break="no"/>entiam acquisitam &amp; experimentalem attinet, de eo minor negatur.  
+      <lb ed="#H" n="120"/>Nam scientia acquisita &amp; experimentalis secundum naturam &amp; 
+      ra<lb ed="#H" n="121" break="no"/>tionem intellectus agentis humano modo, successive per 
+      incremen<lb ed="#H" n="122" break="no"/>ta sua procedit, non solum ex parte recipientis animae, verum etiam 
+      <lb ed="#H" n="123"/>ex parte agentis causae, cujus species intellectu agente in anima 
+      infor<lb ed="#H" n="124" break="no"/>matur: atque hac scientia acquisita &amp; experimentali Jesum Christum 
+      <lb ed="#H" n="125"/>credimus affirmamusque revera profecisse, ut Lucas testatur ca. 2. v. 
+      <lb ed="#H" n="126"/>52. Eaque prout efficitur ab intellectu agente, qui non simul totum 
+      <lb ed="#H" n="127"/>agit (hoc enim solius Deitatis est,) sed successive singula, semper 
+      qui<lb ed="#H" n="128" break="no"/>dem fuit perfecta in Christo secundum tempus &amp; modum ipsius, 
+      o<lb ed="#H" n="129" break="no"/>mni imperfectione carens; at non semper fuit perfecta secundum 
+      na<lb ed="#H" n="130" break="no"/>turam simpliciter. Tum enim demum fuit perfecta secundum 
+      natu<lb ed="#H" n="131" break="no"/>tam simpliciter, quum natura ejus ad perfectionem suam evecta est 
+      <lb ed="#H" n="132"/>&amp; collocata ad dexteram Dei in coelis. Ac certe cum scientia acquisi 
+      <lb ed="#H" n="133"/>ta &amp; experimentalis in nobis gradatim augescat, quid verat quo 
+      mi<lb ed="#H" n="134" break="no"/>nus &amp; in Christo in statu humilitatis incrementa acceperit, quum 
+      no<lb ed="#H" n="135" break="no"/>bis secundum naturam debuerit similis fieri per omnia excepto 
+      pec<lb ed="#H" n="136" break="no"/>cato  
+      <lb ed="#H" n="137"/>Quod ad probationem minoris attinet, illa partim aliena est, 
+      par<lb ed="#H" n="138" break="no"/>tim peccat fallacia secundum plura interrogata. Aliena est probatio 
+      <lb ed="#H" n="139"/>minoris, quia congerit dicta de unctione Christi ac proinde de 
+      scien<lb ed="#H" n="140" break="no"/>ia per Spiritum Sanctum in animam Christi infusa, de qua nulla est 
+      <lb ed="#H" n="141"/>nter nos controversia, ut nec de beata scientia: ad scientiam autem 
+      <lb ed="#H" n="142"/>acquisitam illa dicta non pertinent, &amp; quia dictum Joh. 21. v. 17. de 
+      di<lb ed="#H" n="143" break="no"/>vina scientia Christi agit; dictum denique Coloss. 2. v. 3. de omni 
+      sci<lb ed="#H" n="144" break="no"/>en ia ex quo Christus in gloriam evectus est, consummato mysterio 
+      <lb ed="#H" n="145"/>re. ntionis nostrae. An vero inde sequitur, omnem scientiam 
+      omni<lb ed="#H" n="146" break="no"/>n nfuisse humanitati Christi inde a conceptu ipsius? Fallacia 
+      secun<lb ed="#H" n="147" break="no"/>dum plura interrogata dupliciter a Bellarmino committitur: 
+      Prim<lb ed="#H" n="148" break="no"/>quia non distinguit unctionem Christi duplicem, quarum una est 
+      do<lb ed="#H" n="149" break="no"/>norum, altera vocationis respectu: &amp; una posita alteram tollit, impe 
+      <lb ed="#H" n="150"/>rite an sophistice? Nam unctio donorum respectu facta est in 
+      conce<lb ed="#H" n="151" break="no"/>ptione Christi de Spiritu Sancto: unctio vocationis respectu 
+      com<lb ed="#H" n="152" break="no"/>pleta est, quum anno aetatis trigesimo Christus solemniter de coelo 
+      in<lb ed="#H" n="153" break="no"/>auguratus est ad officium docendi Spiritu Sancto descendente 
+      super<lb ed="#H" n="154" break="no"/>eum specie columbae; atque tum vere completa est prophetia Jesaiae 
+      <lb ed="#H" n="155"/>61. 1. ut Christus ipse docet Luc. 4. v. 17, 18, 19, 20, 21. Secundo quia 
+      <lb ed="#H" n="156"/>non distinguit in humanitate Christi naturam a gratia; &amp; naturam 
+      <lb ed="#H" n="157"/>omittit, solum de gratia agit. Christus autem natura profecit &amp; 
+      gra<lb ed="#H" n="158" break="no"/>tia: &amp; naturae ordinem non evertit gratia. Gratiae quidem quod 
+      sci<lb ed="#H" n="159" break="no"/>entia Christi attinet, gradus est triplex: primus est unionis per quam 
+      <lb ed="#H" n="160"/>scientia divina &amp; increata est unita humanitati Christi, ita ut 
+      scienti<lb ed="#H" n="161" break="no"/>illa sit hominis Christi in persona. Secundus gradus est beatitudini 
+      <lb ed="#H" n="162"/>in unione, per quam scientia beata est humaitatis Christi. Tertius 
+      <lb ed="#H" n="163"/>tradus est donorum infusorum animae per Spiritum Sanctum ad 
+      o<lb ed="#H" n="164" break="no"/>bus Mediatoris ab unione, unde scientia infusa est personae Christi 
+      se<lb ed="#H" n="165" break="no"/>cundum humanitatem ejus. Restabat natura, cujus ordo ab 
+      imper<lb ed="#H" n="166" break="no"/>fecto solet ad perfectionem contendere pro mensura sua. Gratiam 
+      <lb ed="#H" n="167"/>ergo sine mensura accepit Christus: sed naturae mensuram 
+      ordinem<lb ed="#H" n="168" break="no"/>que servavit proportionaliter, gratia plenus a principio, natura vero 
+      <lb ed="#H" n="169"/>proficiens. Sua est gratiae; sua naturae ratio. Ad gratiam solum Dei 
+      <lb ed="#H" n="170"/>opus supervenit: ad naturam &amp; scientiam experimentalem seu 
+      ac<lb ed="#H" n="171" break="no"/>quisitam ejus, opus hominis cooperante Dei gratia &amp; virtute 
+      inter<lb ed="#H" n="172" break="no"/>venit. Quapropter hine minime sequitur, Christum ignorantiam 
+      <lb ed="#H" n="173"/>nostram naturalem ac non percato conjunctam, non assumsisset 
+      <lb ed="#H" n="174"/>Huic quippe ignorantiae scientia acquisita seu experimentalis 
+      op<lb ed="#H" n="175" break="no"/>ponitur  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2588">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>III. Argumentum Bellarminus sumit ex testimoniis Patrum 
+      <lb ed="#H" n="177"/>quae omnia impertinenter allegat. Nam quaedam illorum de scientia 
+      <lb ed="#H" n="178"/>beata, quaedam de scientia infuia agunt, de quarum neutra jam 
+      disce<lb ed="#H" n="179" break="no"/>pratur: quaedam de sapientia personae: de qua itidem non agitur: 
+      <lb ed="#H" n="180"/>quaedam de patefactione sapientiae Christi apud homines, quam pater 
+      <lb ed="#H" n="181"/>tactione posita, non negatur profectus &amp; augmentum sapientiae 
+      ac<lb ed="#H" n="182" break="no"/>quisitae in humanitate Christi. Utrumque enim verum est, &amp; 
+      inno<lb ed="#H" n="183" break="no"/>tuisse sapientiam Christi magis magisque hominibus aliis, &amp; 
+      sapien<lb ed="#H" n="184" break="no"/>tiam acquisita in illius anima continuis profectibus auctam esse. So¬ 
+      <!--cod-MkL9py-0399.xml-->
+      <pb ed="#H" n="372"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>phisticatur qui horum uno affirmato alterum negat: ut nihil addam 
+      <lb ed="#H" n="2"/>de mutilatione testimoniorum. 
+      <lb ed="#H" n="3"/>IV. Sianima Christi est anima propria Dei per unionem persona. 
+      <lb ed="#H" n="4"/>lem, tum simuleffudit in illam omnia dona quorum capax erat. A 
+      <lb ed="#H" n="5"/>prius est: Ergo &amp; posterius. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2630">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>RESP. Conceditur totum recte intellectum. Nam omnia dona 
+      <lb ed="#H" n="7"/>quorum capax erat anima Christi, in quibus scientia beata &amp; 
+      infus<lb ed="#H" n="8" break="no"/>continetur, simul effudit in illam; Deitas cui unita est: sed scientia 
+      <lb ed="#H" n="9"/>acquisita non est proprie donum gratiae, quia natura acquititur. 
+      Pro<lb ed="#H" n="10" break="no"/>fecit ergo Jesus non scientiae donativae incremento, nisi κ φανιρωσι 
+      <lb ed="#H" n="11"/>ut Patres orthodoxi statuunt; sed bonorum naturalium, in quibus est, 
+      <lb ed="#H" n="12"/>scientia acquisita seu experimentalis. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2650">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Instat: Sed ita anima Christi aliquando insipiens fuisset, quod est 
+      <lb ed="#H" n="14"/>absurdum. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2659">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>RESP. Negatur consequentia: nam qui sapientia illa privatus est 
+      <lb ed="#H" n="16"/>qua ex officio debebat &amp; per naturam esse poterat praeditus, &amp; in quo 
+      <lb ed="#H" n="17"/>positivum est contrarij habitus nempe insipientiae, is proprie loquen 
+      <lb ed="#H" n="18"/>do est insipiens. Sed in anima Christi nunquam fuit ignorantia 
+      pri<lb ed="#H" n="19" break="no"/>vativa: ergo nec insipientia. Posita autem ignorantia negativa non 
+      <lb ed="#H" n="20"/>sequitur insipientia; 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2677">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Rursus instat: Damascenus ait, eos non credere incarnationem, 
+      <lb ed="#H" n="22"/>qui credunt, animam Christi paulatim profecisse 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2687">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>RESP. Conceditur recte intellectum, nempe qui credunt 
+      ani<lb ed="#H" n="24" break="no"/>mam Christi profecisse scientia donativa, nempe beata &amp; infusa: 
+      no<lb ed="#H" n="25" break="no"/>autem hoc non credimus: nec jam controversia est inter nos de 
+      do<lb ed="#H" n="26" break="no"/>nata scientia, sed de acquisita. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2700">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>V. Si sapientia &amp; gratia Christo homini fuit naturalis, id est, quae 
+      <lb ed="#H" n="28"/>non demum post incarnationem accessit, sed statim in ipsa 
+      incarna<lb ed="#H" n="29" break="no"/>tione ex una Christi natura in alteram abundantissime manavi. 
+      <lb ed="#H" n="30"/>tum ea non profecit Christus. Antecedens verum est: teste 
+      Augusti<lb ed="#H" n="31" break="no"/>no in Enchirid. cap. 40. Ergo &amp; consequens. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2716">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>RESP. Primo fallere conatur Bellarminus aut seipsum fallit hoc 
+      <lb ed="#H" n="33"/>monymia. Nam naturale aut communiter dicitur, aut singulariter: 
+      <lb ed="#H" n="34"/>sicut natura alia communis est, alia singularis. Naturae communis i1 
+      <lb ed="#H" n="35"/>Christo est, quod homo est; singularis, quod θεαγορωπος, Deus- 
+      ho<lb ed="#H" n="36" break="no"/>mo. Sapientia &amp; gratia homini Christo naturalis est natura 
+      singula<lb ed="#H" n="37" break="no"/>ri: sed ex natura communi illud est, quod Christus profecit acquisit:  
+      <lb ed="#H" n="38"/>seu experimentali scientia. Secundo ad probandam assumtionem 
+      te<lb ed="#H" n="39" break="no"/>stimonium Augustini impertinenter allegatur: non enim aut de 
+      to<lb ed="#H" n="40" break="no"/>ta gratia, aut de hac ipsa loquitur Augustinus; sed de gratia 
+      sanctifi<lb ed="#H" n="41" break="no"/>cationis ex eo consequente quod conceptus est Christus de Spiriti 
+      <lb ed="#H" n="42"/>Sancto. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2745">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>VI. Christus homo in incarnatione coepit esse Filius Dei, ergo tum 
+      <lb ed="#H" n="44"/>debuit repleri omnibus donis. RESP. Conceditur totum: sed 
+      scien<lb ed="#H" n="45" break="no"/>tia acquisita non est donum gratiae, sed bonum naturae 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2756">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>VII. Christus homo in irsa incarnatione factus est caput, non 
+      so<lb ed="#H" n="47" break="no"/>lum hominum, sed etiam Angelorum, ut omnes concedunt: Ergo 
+      de<lb ed="#H" n="48" break="no"/>buit tunc repleri sapientia, gratia, &amp; ipsa etiam beatitudine. 
+      Ne<lb ed="#H" n="49" break="no"/>enim conveniebat, ut caput esset minus ornatum, &amp; minus sapiens, 
+      <lb ed="#H" n="50"/>quam sint membra 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2772">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>RESP. Conceditur totum: nam nos hoc ipsum etiam credimus. 
+      <lb ed="#H" n="52"/>Scientia autem acquisita &amp; experimentalis de qua proprie 
+      contro<lb ed="#H" n="53" break="no"/>versia est, non est in illis donis quibus anima Christi in ipsa 
+      incarna<lb ed="#H" n="54" break="no"/>tione repleta fuit.  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2786">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>VIII. Adam creatus est sapientissimus, ut ex eo colligitur, quod  
+      <lb ed="#H" n="56"/>mox a creatione imposuit nomina omnibus animantibus, Gen. 2. 
+      Er<lb ed="#H" n="57" break="no"/>go multo magis secundus Adam debuit in ipsa conceptione 
+      sapientis<lb ed="#H" n="58" break="no"/>simus fieri. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2799">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>RESP. Conceditur totum recte intellectum. Nam omnino 
+      se<lb ed="#H" n="60" break="no"/>cundus Adamus in ipsa conceptione sapientissimus factus est: nam 
+      <lb ed="#H" n="61"/>sapientia beata &amp; infusa statim plenissime repletus fuit. At nunc de 
+      <lb ed="#H" n="62"/>scientia acquisita &amp; experimentali agimus, quam qui Christo 
+      homi<lb ed="#H" n="63" break="no"/>ni detrahit, is negat illum per omnia fratribus fimilem factum in 
+      <lb ed="#H" n="64"/>natura. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2817">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>IX. Fuit haeresis antiqua ACNOITARUM, qui, autore Themistio 
+      <lb ed="#H" n="66"/>Diaecono, ut referunt B. Liberatus in Brevario c. 19. &amp; B. Gregorius 
+      <lb ed="#H" n="67"/>lib. 8. epist. 42. docebant, Christum ignorasse diem judiciij, neque vero 
+      <lb ed="#H" n="68"/>divinitati Christi, sed animae eam ignorantiam tribuebant, ut 
+      pla<lb ed="#H" n="69" break="no"/>num est ex eorum argumento. Sic enim colligebant, Verbum accepi 
+      <lb ed="#H" n="70"/>corruptibile corpus, ut moriendo pro nobis, nos a morte liberaret, 
+      Er<lb ed="#H" n="71" break="no"/>go acce it etiam nostram ignorantiam, ut nos ab ignorantia 
+      libera<lb ed="#H" n="72" break="no"/>ret. Hanc haeresin sequuntur omnes, qui asserunt Christi animam 
+      <lb ed="#H" n="73"/>paulatim didicisse, quae vere innorabat, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2841">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>RESP. Primo melius dixisset Bellarminus Agnoetarum, ut 
+      Grae<lb ed="#H" n="75" break="no"/>ci dixerunt αγιοητίν. Deinde Bellarminus vel ex malitia vel ex 
+      impe<lb ed="#H" n="76" break="no"/>ritia haeresin Agnoetarum nobis impingit. Nam Agnoetae, ut 
+      refe<lb ed="#H" n="77" break="no"/>runt Damascenus &amp; Isidorus de haereticis &amp; Nicephorus lib. 12. cap. 
+      <lb ed="#H" n="78"/>30 &amp; lib. 19. ca. 49. &amp; 50. Gregorius lib. 2. epistola 42. Liberatus in 
+      <lb ed="#H" n="79"/>Breviario cap. 19. fuerunt Eutychiani, qui Christum ex Deo 
+      homi<lb ed="#H" n="80" break="no"/>nem, mutatione Deitatis suae in humanitatem, &amp; rursus ex homine 
+      <lb ed="#H" n="81"/>Deum factum esse fingebant, reversione humanitatis in Deitatem. 
+      <lb ed="#H" n="82"/>Atque hanc humanitatem, id est, Deitatem Verbi, mutatam in 
+      car<lb ed="#H" n="83" break="no"/>nem, volebant ignorasse diem judicij tempore carnis seu humilitatis, 
+      <lb ed="#H" n="84"/>&amp; alia multa, ac non tantum ignorantiae, sed omnibus etiam 
+      infirmi<lb ed="#H" n="85" break="no"/>tatibis, &amp; passionibus humanis obnoxiam fuisse. Adhaec 
+      Agnoeta<lb ed="#H" n="86" break="no"/>rum haeresis dissimiliter ab autoribus refertur: confusionem illam 
+      <lb ed="#H" n="87"/>Bellarminus sequitur. Nam Eutyches primum naturam unam in 
+      <lb ed="#H" n="88"/>Christo affirmavit ex duabus confusis esse: ab eo Eutychiani. Hunc 
+      <lb ed="#H" n="89"/>sequutus Theodosius naturam esse corruptam &amp; corruptibilem i1 
+      <lb ed="#H" n="90"/>Christo dixit: ab eo dicti Theodosiani, &amp; Phthartolatrae, sive (ut 
+      Li<lb ed="#H" n="91" break="no"/>beratus vocat) Corrupticolae. Hunc vero Themistius Diaconus 
+      ex<lb ed="#H" n="92" break="no"/>copit, dicens ergo &amp; animam Christi ignorantem esse: ab eo Themi¬ 
+      <!--cod-MkL9py-0399.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>stiani seu Agnoetae priores. His denique Agnoetae posteriores succet 
+      <lb ed="#H" n="94"/>serunt, qui &amp; Agnoetae simpliciter dicti, etiam secundum divinita; 
+      <lb ed="#H" n="95"/>em ignorantiam tribuentes Christo. Rabanus lib 1. de institutione 
+      <lb ed="#H" n="96"/>cleric. cap ultimo, Agnoetae &amp; Tritheitae, inquit, a Theodosianis 
+      exor<lb ed="#H" n="97" break="no"/>i sunt: ex quibus Agnoeiae ab ignorantia dicti, quia perversitati 
+      a<lb ed="#H" n="98" break="no"/>qua exorti sunt id adjiciunt quod Christi diuvinitas ignoret futura. 
+      <lb ed="#H" n="99"/>quae sunt scriota de die &amp; hora novissima, &amp;c. Contra vero nos 
+      dici<lb ed="#H" n="100" break="no"/>mus; Christum hominem omnia scivisse &amp; scire semper sine ulla 
+      mu<lb ed="#H" n="101" break="no"/>tatione, secundum Deitatem suam: tempore autem humilitatis suae, 
+      <lb ed="#H" n="102"/>secundum humanitatem suam, multa ignorasse propter nos, quorum 
+      <lb ed="#H" n="103"/>in gloria sua nihil ipsi est ignotum 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2915">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Ex his quae dicta sunt, planum est, Christum defectus &amp; 
+      infirmi<lb ed="#H" n="105" break="no"/>tates nostras naturales quae sunt absque peccato assumsisse. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2924">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Sed insuper etiam affectus animi naturales omnes assumsit absque: 
+      <lb ed="#H" n="107"/>tamen peccato, nempe laetitiam &amp; tristitiam, admirationem, 
+      com<lb ed="#H" n="108" break="no"/>niserationem, iram, gelum, metum, &amp;c. ut testimonia sequentia 
+      o<lb ed="#H" n="109" break="no"/>stendunt: Joh. 11. v. 15 Et gaudeo propter vos (ut credatis) me illic non 
+      <lb ed="#H" n="110"/>suisse: sed eamus ad eum. Matth. 26. v.:8 &amp; Marc. 14. v. 54. Dicit ex 
+      <lb ed="#H" n="111"/>lesus: undiquaque tristis est anima mea usque ad mortem, Joh. 11. v: 3. 
+      <lb ed="#H" n="112"/>Infremuit spiritu &amp; turbauit seipsum. Matth. 2. 10. Haec quum 
+      au<lb ed="#H" n="113" break="no"/>divisset Iejus, miratus est: &amp; dixit iis, qui sequebantur, Amen dicet 
+      <lb ed="#H" n="114"/>vobis, ne in Israele quidem tatam fidem inveni: Admiratus est 
+      Chri<lb ed="#H" n="115" break="no"/>stus secundum animam humanam in sese consideratam, cui res nova 
+      <lb ed="#H" n="116"/>fuit, quod tantam sidem in homine Gentili &amp; milite videret. 
+      Secun<lb ed="#H" n="117" break="no"/>dum Deitatem certe id ei ignotum &amp; novum non erat: sed anima per 
+      <lb ed="#H" n="118"/>se &amp; sua natura illud antea ignorabat: inde admiratio Luc. 7. vers. o. 
+      <lb ed="#H" n="119"/>Matth. 9. 36 Quum autem vidisset turbum, commiseratione intime 
+      <lb ed="#H" n="120"/>commotus est , uper eis, quod essent dissipati &amp; disjecti quasi oves non 
+      <lb ed="#H" n="121"/>habentes pastorem. Et cap. 15. v. 32. Iejus autem advocatis discipulis, 
+      <lb ed="#H" n="122"/>suis, dixit, Miseret me hujus turbae, quia ecce tres dies perseveraverunt. 
+      <lb ed="#H" n="123"/>apud me &amp; non est illis quod edant. Hebr. 2. v. 17. Vt misericors esset 
+      <lb ed="#H" n="124"/>&amp; fidelis Pontifex. Marc. 3. v 5. Et intuitus est eos cum ira, quum 
+      do<lb ed="#H" n="125" break="no"/>leret ei propter duritiem cordis eorum, &amp; dixit illi viro, Extende 
+      ma<lb ed="#H" n="126" break="no"/>num tuam. Joh 2. v. 10. Recordati sunt autem ejus discipuli, scriptum 
+      <lb ed="#H" n="127"/>esse: Lelus domus tuae exedit me. Marc. 14. 35. coepit expavescere &amp; 
+      <lb ed="#H" n="128"/>gravissime angi. Et Hebr. 5. v. 7. Qui in diebus carnis suae, 
+      depreca<lb ed="#H" n="129" break="no"/>tionibus &amp; supplicationibus oblatis cum clamore valido &amp; lacrymis 
+      <lb ed="#H" n="130"/>apud eum qui poterat ipsum servare a morte, &amp; exauditis precibus 
+      <lb ed="#H" n="131"/>liberatus ex metu. Ex his manifestum est, affectus animi veluti 
+      gau<lb ed="#H" n="132" break="no"/>dium, tristitiam, &amp;c. a Christo una cum natura humana assumcos 
+      <lb ed="#H" n="133"/>esse. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e2990">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Affectus autem illos animae, qui in nobis sunt naturales, assumsit 
+      <lb ed="#H" n="135"/>Christus propter has causas: I. Ut ex illis etiam innotesceret, ipsum 
+      <lb ed="#H" n="136"/>esse verum hominem, nobis per omnia similem demto peccato. Hanc 
+      <lb ed="#H" n="137"/>causam indicat Paulus Apostolus quum ait Philipp. 2. vers. , 8. quod  
+      <lb ed="#H" n="138"/>Christus factus sit hominibus similis: &amp; habitu inventus ut homo. 
+      <lb ed="#H" n="139"/>Et Hebr. 2. 15. Debuit per omnia fratribus similis fier 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3008">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>II. Ut non tantum in corpore, sed etiam in anima pro nobis pater 
+      <lb ed="#H" n="141"/>retur, &amp; patiendo nostra peccata expiaret: sicut praedictum fuit Jesa. 
+      <lb ed="#H" n="142"/>53. v. 4, 5. Morbos nostros ipse pertulit, &amp; dolores ipsos nostres ba 
+      ula<lb ed="#H" n="143" break="no"/>vit: quamvis nos aestimemus eum plaga affectum, percussum a Deo, &amp; 
+      <lb ed="#H" n="144"/>afflictum. Nam ipse dolore afficitur a defectionibus nostris, atteritur 
+      <lb ed="#H" n="145"/>ab iniquitatibus nostris, castigatio pacis nostrae imponitur ei, &amp; 
+      tu<lb ed="#H" n="146" break="no"/>nice ejus sit curatio nobis. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3028">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>III. Ut inde fiduciam conciperemus, Dominum Jesum nobis 
+      <lb ed="#H" n="148"/>compassurum &amp; succursurum, cum variis calamitatibus tentamur &amp; 
+      <lb ed="#H" n="149"/>turbamur; ac proinde ad thronum gratiae cum fiducia accederemus. 
+      <lb ed="#H" n="150"/>Hanc causam tradit Paulus dicens ad Hebraeos 2. vers. 17. 8. Debuit, 
+      <lb ed="#H" n="151"/>per omnia fratribus similis fieri, ut misericors esset &amp; fidelis Pontifes 
+      <lb ed="#H" n="152"/>in iis quae apud Deum agenda forent, ad expiandum peccata populi. 
+      <lb ed="#H" n="153"/>Nam ex eo quod perpessus fuit quum tentatus est, potest &amp; iis qui 
+      ten<lb ed="#H" n="154" break="no"/>tantur succurrere. Et cap. 4. vers. 15, 16 Non enim nabemus 
+      Pontifi<lb ed="#H" n="155" break="no"/>cem qui non possit affici sensu infirmitatum nostrarum, sed tentatum 
+      <lb ed="#H" n="156"/>in omnibus similiter, absque tamen peccato. Accedamus igitur cum 
+      <lb ed="#H" n="157"/>loquendi libertate ad thronum gratiae, ut consequamur 
+      misericordi<lb ed="#H" n="158" break="no"/>am, &amp; gratiam inveniamus ad opportunum auxitium 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3059">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>IV. Ut exemplum nobis praeberet patientiae in tolerandis malis 
+      <lb ed="#H" n="160"/>omnibus propter gloriam Dei &amp; proximi salutem. Huc facit quod  
+      <lb ed="#H" n="161"/>legitur 1. Pet. 2. v. 2.. quoniam &amp; Christus passus est pro nobis, 
+      relin<lb ed="#H" n="162" break="no"/>quens nobis exemplar, ut subsequeremini vestigia ipsius. Hebr. 12. 
+      <lb ed="#H" n="163"/>vpers. 3. Etenim reputate quis ille sit qui talem jusunuit a 
+      peccatori<lb ed="#H" n="164" break="no"/>bus adversus sese contradictionem, ne vestris animabus fracti 
+      fatis<lb ed="#H" n="165" break="no"/>catis 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3079">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>V. Ut exemplum nobis praeberet recte utendi affectibus animae; 
+      <lb ed="#H" n="167"/>illosque moderandi ne ab ordine justitiae div nitus praescripto nos 
+      <lb ed="#H" n="168"/>transversos agant: ut Paulus ait Philipp. 2. vers. 5. is sit assectus in 
+      vo<lb ed="#H" n="169" break="no"/>bis, qui fuit &amp; in Christo Iesu. Conspiciens Christus perversitatem 
+      <lb ed="#H" n="170"/>&amp; malitiam hominum, irascebatur &amp; gelo commovebatur, cupiens 
+      <lb ed="#H" n="171"/>mala emendare: faciendum idem nobis quoque. Sic dicitur de eo 
+      <lb ed="#H" n="172"/>Johan. 11. v. 38. Iesus ergo rursum fremens apud semetipsum, venit ad 
+      <lb ed="#H" n="173"/>monumentum. Misericordia erga alios commotus est: decet &amp; nos 
+      <lb ed="#H" n="174"/>idem facere. Idem de aliis affectibus statuendum, ut in illis etiam 
+      <lb ed="#H" n="175"/>Christo capiti nostro conformes fiamus, quorum alioquin affectus 
+      <lb ed="#H" n="176"/>ab affectibus Christi ob nativam nostram vitiositatem non parum 
+      <lb ed="#H" n="177"/>discrepant  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3110">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Triplex enim est praecipue differentia, quam affectus in nobis &amp; 
+      in<lb ed="#H" n="179" break="no"/>Christo differunt: 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3120">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>I. Sumitur a principio diverso unde oriuntur. Nostri affectus 
+      <lb ed="#H" n="181"/>proveniunt a carne corrupta &amp; praeveniunt judicium rationis &amp; 
+      ra<lb ed="#H" n="182" break="no"/>tioni non semper obtemperant: in Christo autem erant quidem in 
+      <lb ed="#H" n="183"/>appetitu sensitivo, sed quia sine peccato erat &amp; semper 
+      obtemperaba<lb ed="#H" n="184" break="no"/>rectae rationi, ideo a recta potius ratione quam ab appetitu sensitivo 
+      <!--cod-MkL9py-0400.xml-->
+      <pb ed="#H" n="373"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>excitabantur. Huc facit quod legitur Johan. 11. 33. Infremuit spiritu &amp; 
+      <lb ed="#H" n="2"/>turbavit seipsum, recta nimirum ratione, &amp; sine peccato. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3146">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>II. Sumitur ab objectorum diversitate. Nostri affectus feruntur 
+      <lb ed="#H" n="4"/>plerunque in objecta illicita &amp; mala: Christi autem affectus nunquam  
+      <lb ed="#H" n="5"/>ad malum ferebantur, sed semper ad bonum. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3157">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>III. Sumitur a defectu &amp; repugnantia. Nostri affectus saepe 
+      de<lb ed="#H" n="7" break="no"/>ficiunt a recta ratione, ei repugnant eamque ad se trahunt: at in 
+      Chri<lb ed="#H" n="8" break="no"/>sto sicut a recta ratione excitabantur, ita etiam rectae rationi semper 
+      <lb ed="#H" n="9"/>obtemperabant. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3170">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Sic ratum firmumque maneto, quod non tantum substantiam 
+      na<lb ed="#H" n="11" break="no"/>turae nostrae totam omnesque ejus partes, verum etiam omnes 
+      pro<lb ed="#H" n="12" break="no"/>prietates, infirmitates, defectus, affectusque animae &amp; corporis, absque  
+      <lb ed="#H" n="13"/>peccato Christus assumserit: ac proinde naturam humanam non 
+      <lb ed="#H" n="14"/>qualem Adamus in creatione acceperat; sed qualem ille ad posteros 
+      <lb ed="#H" n="15"/>propagavit, nimirum infirmam, afflictam &amp; mortalem, peccati tamen 
+      <lb ed="#H" n="16"/>expertem assumserit, quia poenas omnium peccatorum nostrorum 
+      i<lb ed="#H" n="17" break="no"/>pse perferre &amp; luere debuit. Nec magis refugit infirmitatem &amp; 
+      igno<lb ed="#H" n="18" break="no"/>rantiam nostram, quam mortem: nec magis in Christo infirmitas &amp; 
+      <lb ed="#H" n="19"/>ignorantia, quam mors vitiosa fuit. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3196">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Assumsit Filius Dei naturam humanam in unitatem personae, non 
+      <lb ed="#H" n="21"/>in unitatem naturae seu essentiae, neque in unitatem realemque 
+      com<lb ed="#H" n="22" break="no"/>municationem essentialium proprietatum ejus; reipsa enim illae nil 
+      <lb ed="#H" n="23"/>sunt aliud, quam ipsa divina essentia. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3209">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Porro Assumsit Filius Dei formam servi propter sequentes 
+      cau<lb ed="#H" n="25" break="no"/>sas: I. Ut nos a servitute diaboli, peccati &amp; mortis liberaret, sicut 
+      di<lb ed="#H" n="26" break="no"/>citur Luc. 1. v. 71. Fore ut nos servaret ex inimicis nostris, &amp; e manu 
+      o<lb ed="#H" n="27" break="no"/>mnium qui oderunt nos. Hebr. 2. v. 15. Et solveret eos qui in metu 
+      mor<lb ed="#H" n="28" break="no"/>tis per omnem vitam suam obnoxii erant servituti. Fulgentius epist. 2. 
+      <lb ed="#H" n="29"/>quae est ad Gallam de statu viduali, pag 24. 27. ait, a Domino pro 
+      libe<lb ed="#H" n="30" break="no"/>ratione nostra humilitatem formae servilis acceptam. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3230">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>II. Ut nos servos Dei faceret, Luc. 1. v 74, 75. Vt sine metu, e 
+      ma<lb ed="#H" n="32" break="no"/>nu inimicorum nostrorum liberati, serviamus ipsi, Cum sanctitate &amp; 
+      <lb ed="#H" n="33"/>iustitia in ipsius conspectu, cunctis vitae nostrae diebus. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3241">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>III. Ut nos dominii sui regalis faceret participes. Apoc. I. v. 6. 
+      Fe<lb ed="#H" n="35" break="no"/>cit nos reges &amp; Sacerdotes Deo &amp; Patri suo. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3250">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>IV. Ut servitutis humilitate ipsi Christo qui pro nobis formam 
+      <lb ed="#H" n="37"/>servi accepit, placere studio haberemus, Daniel. 7. versicul. 14. Rom. 
+      <lb ed="#H" n="38"/>14. 17, 18. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3261">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>V. Ut Christi exemplo alii aliis cupide serviamus ad Gloriam 
+      <lb ed="#H" n="40"/>Dei &amp; mutuam aedificationem. Rom. 15. v. 7. Assumite alii alios, sicut  
+      <lb ed="#H" n="41"/>&amp; Christus assumsit nos in gloriam Dei. Et paulo ante v. 2. 3. 
+      Unusquis<lb ed="#H" n="42" break="no"/>que nostrum placeat proximo in bonum, ad aedificationem. Etenim 
+      Chri<lb ed="#H" n="43" break="no"/>stus non placuit sibiipsi, sed, sicut scriptum est, Convicia eorum qui 
+      convi<lb ed="#H" n="44" break="no"/>ciantur tibi, inciderunt in me. Philip. 2. v. 4, 5, 6, 7, 8. Ne sua quisque 
+      <lb ed="#H" n="45"/>spectate, sed unusquisque etiam quae sunt aliorum. Itaque is sit affectus 
+      <lb ed="#H" n="46"/>in vobis qui fuit &amp; in Christo Iesu: Qui cum esset in forma Dei, non 
+      du<lb ed="#H" n="47" break="no"/>xit esse rapinam, parem esse cum Deo: sed ipse sese inanivit, forma servi 
+      <lb ed="#H" n="48"/>accepta, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3287">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>Assumsit, inquam, naturam humanam, non autem personam seu 
+      <lb ed="#H" n="50"/>ὑφιστάμηνον: &amp; naturam assumsit, non ut ideam extra omnia individua, 
+      <lb ed="#H" n="51"/>nec solam cogitatione comprehensam, neque ut in omnibus 
+      homini<lb ed="#H" n="52" break="no"/>bus pariter exsistentem, sed ἐν τῶ ἀτόμῳ, id est, quae in individuo 
+      cer<lb ed="#H" n="53" break="no"/>to exsistat, quod tamen nunquam per se, &amp; nusquam nisi in 
+      assumen<lb ed="#H" n="54" break="no"/>te λόγῳ exstiterit.  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3305">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Explicatio.  
+      <lb ed="#H" n="56"/>Non assumsit personam, id est, naturae rationalis individuam 
+      perfe<lb ed="#H" n="57" break="no"/>ctamque substantiam, quae non in alio sustentata, sed per se sua propria 
+      <lb ed="#H" n="58"/>subsistentia subsistens, ad aliud etiam dependentiam non habet: haec enim 
+      <lb ed="#H" n="59"/>est definitio personae. Corpus &amp; anima rationalis non sunt persona, sed  
+      <lb ed="#H" n="60"/>partes naturae humanae in quibus persona subsistit: homo autem 
+      compo<lb ed="#H" n="61" break="no"/>situs ex corpore &amp; anima rationali &amp; in iis per se suaque propria 
+      sub<lb ed="#H" n="62" break="no"/>stantia subsistens, est persona. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3328">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Sed assumsit naturam non ἐν ἰδέᾳ, non ἐν ψιλῇ θέορίᾳ consideratam, 
+      <lb ed="#H" n="64"/>nec ἐν τῶ εἴδει, sed ἐν τῶ ἀτόμῳ. Natura enim consideratur aut 
+      extra<lb ed="#H" n="65" break="no"/>subjecta, aut in eis. Extra subjecta rursus dupliciter, vel tanquam idea 
+      <lb ed="#H" n="66"/>Platonica, vel tanquam exsistens in animo. Neutro horum modorum 
+      <lb ed="#H" n="67"/>assumsit Filius Dei humanam naturam. In subjectis consideratur 
+      na<lb ed="#H" n="68" break="no"/>tura etiam dupliciter vel communiter ut est in omnibus individuis eiusdem 
+      <lb ed="#H" n="69"/>speciei: vel singulariter ut est in uno individuo. Priore modo non assumsit 
+      <lb ed="#H" n="70"/>Filius Dei humanam naturam, sed posteriore, nempe singulariter in uno 
+      <lb ed="#H" n="71"/>certo individuo consideratam. Natura singularis etiam duobus modis 
+      <lb ed="#H" n="72"/>consideratur, vel prout jam exsistit in subjecto, vel non exsistit sua 
+      pro<lb ed="#H" n="73" break="no"/>pria subsistentia in subjecto. Priore modo Filius Dei humanam 
+      natu<lb ed="#H" n="74" break="no"/>ram non assumsit, sed posteriore, ut quae nunquam per se &amp; sua propria 
+      <lb ed="#H" n="75"/>subsistentia extra personam Filii Dei substiterit, sed eodem momento quo 
+      <lb ed="#H" n="76"/>creata est, statim in persona Filii Dei in quae exemta fuit, exsistere 
+      coepe<lb ed="#H" n="77" break="no"/>rit: sic ut ne cogitandum quidem sit, humanam Christi naturam vel per 
+      <lb ed="#H" n="78"/>unicum momentum antea substitisse qua assumta est a λόγῳ. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3367">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Quod Filius Dei assumendo naturam humanam, non assumsit 
+      per<lb ed="#H" n="80" break="no"/>sonam, ex sequentibus argumentis planum evadet: 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3376">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>PRIMUM: Si natura humana Christi, non est persona: tum Filius 
+      <lb ed="#H" n="82"/>Dei eam assumendo, non assumsit personam. Antecedens verum est; 
+      <lb ed="#H" n="83"/>Ergo &amp; consequens. Assumtio probatur primo ex testimonio Pauli 
+      <lb ed="#H" n="84"/>Philipp. 2. 7. Forma non est persona. Ratio est evidens; quia forma 
+      <lb ed="#H" n="85"/>communius est quiddam &amp; latius patet, quam persona. At natura 
+      <lb ed="#H" n="86"/>Christi humana est forma, teste Paulo, qui ait, Christum assumsisse 
+      <lb ed="#H" n="87"/>formam servi. Ergo natura Christi humana non est persona. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3396">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Deinde probatur assumtio ex definitione personae. 
+      <lb ed="#H" n="89"/>Persona est naturae rationalis individua perfectaque substantia, que 
+      <lb ed="#H" n="90"/>nοn in alio sustentata, sed per se suaque propria subsistentia subsistens, 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3407">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>ad aliud etiam dependentiam non habet. At humana Christi natura 
+      <!--cod-MkL9py-0400.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>est naturae rationalis individua perfectaque substantia talis quae in 
+      <lb ed="#H" n="93"/>alio sustentatur (nempe in λόγῳ a quo assumta est,) &amp; per se suaque 
+      <lb ed="#H" n="94"/>propria subsistentia nunquam subsistit (sed tantum subsistentia τοῦ λό¬ 
+      <lb ed="#H" n="95"/>γου in quo est concepta,) &amp; ad aliud dependentiam habet, (nempe ad 
+      <lb ed="#H" n="96"/>λόγον.) Ergo humana Christi natura non est persona. 
+      <lb ed="#H" n="97"/>Rationis huius prosyllogismus I. Si natura humana fuisset concepta 
+      <lb ed="#H" n="98"/>extra personam aeterni Sermonis &amp; prius exstitisset quam 
+      assumere<lb ed="#H" n="99" break="no"/>tur; tum Sermo ille non esset caro factus, sed praeter Sermonem illum 
+      <lb ed="#H" n="100"/>aliquis alius. Atqui Sermo ille est caro factus, ut diserte dicitur Joh. 1. 
+      <lb ed="#H" n="101"/>v. 14. non autem praeter &amp; extra Sermonem illum quispiam alius. 
+      Er<lb ed="#H" n="102" break="no"/>go natura humana non fuit concepta extra personam Sermonis 
+      il<lb ed="#H" n="103" break="no"/>lius, nec prius exstitit quam assumeretur. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3444">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Prosyllogiimus II. Si natura humana Christi fuisset concepta extra 
+      <lb ed="#H" n="105"/>personam Sermonis illius &amp; prius exstitisset quam assumeretur; tum 
+      <lb ed="#H" n="106"/>Jesus Christus Filius Dei unigenitus non esset conceptus de Spiritu 
+      <lb ed="#H" n="107"/>Sancto. At Jesus Christus Filius Dei unigenitus est conceptus de 
+      <lb ed="#H" n="108"/>Spiritu Sancto, ut in Symbolo profitemur, Ergo, &amp;c. 
+      <lb ed="#H" n="109"/>SECUNDUM ARGUMENTUM: Si Filius Dei assumendo 
+      <lb ed="#H" n="110"/>naturam humanam assumsisset personam; tum aut personam 
+      divi<lb ed="#H" n="111" break="no"/>nam deposuisset &amp; amisisset, aut persona divina conversa esset in 
+      car<lb ed="#H" n="112" break="no"/>nem, aut esset duae personae. Sed neque personam divinam deposuit &amp; 
+      <lb ed="#H" n="113"/>amisit; quia id quod erat mansit, &amp; quod non erat assumsit. Nec 
+      per<lb ed="#H" n="114" break="no"/>sona divina est conversa in carnem; quia Deus increatus, infinitus &amp; 
+      <lb ed="#H" n="115"/>immutabilis non potest mutari in carnem creatam &amp; finitam. Nec 
+      <lb ed="#H" n="116"/>Filius Dei est duae personae, quia hoc prorsus est ἀδυνάτον, ut unus 
+      <lb ed="#H" n="117"/>idemque Filius sit duae personae. Ergo assumendo naturam 
+      huma<lb ed="#H" n="118" break="no"/>nam non assumsit personam. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3482">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>TERTIUM ARGUMENTUM: Si Sermo ille assumendo 
+      <lb ed="#H" n="120"/>naturam humanam assumsisset personam; tum Sermo ille non esset 
+      <lb ed="#H" n="121"/>homo, nec vere diceretur homo. Nam est prorsus impossibile ut 
+      per<lb ed="#H" n="122" break="no"/>sona una sit altera, aut ut una persona praedicetur de altera, aut unum 
+      <lb ed="#H" n="123"/>suppositum de altero: Abrahamus enim non est Melchisedech: 
+      li<lb ed="#H" n="124" break="no"/>gnum non est lapis. At Sermo ille est homo &amp; vere dicitur homo: 
+      <lb ed="#H" n="125"/>quod fieri nequaquam posset, si Sermo esset persona alia, alia vero 
+      <lb ed="#H" n="126"/>persona homo. Ergo Sermo ille assumendo naturam humanam non 
+      <lb ed="#H" n="127"/>assumsit personam. 
+      <lb ed="#H" n="128"/>QUA RTUM ARGUMENTUM: Si Filius Dei assumendo 
+      <lb ed="#H" n="129"/>naturam humanam assumsisset personam, ac proinde in Christo duae 
+      <lb ed="#H" n="130"/>essent personae, divina &amp; humana; tum de persona divina non possent 
+      <lb ed="#H" n="131"/>dici quae sunt propria hominis, nec de persona humana possent dici 
+      <lb ed="#H" n="132"/>quae sunt propria Dei. Neque enim Deus, qui non sit etiam homo, 
+      <lb ed="#H" n="133"/>dici potest nasci ex matre, pati, crucifigi, mori, sepeliri, resurgere ex 
+      <lb ed="#H" n="134"/>mortuis: aut homo, qui non sit Deus, esse ab aeterno, fuisse in 
+      princi<lb ed="#H" n="135" break="no"/>pio, omnia facere, mortuos vivificare, dare vitam aeternam. Atqui de 
+      <lb ed="#H" n="136"/>uno &amp; eodem Filio Dei praedicantur &amp; quae Dei sunt propria &amp; quae 
+      <lb ed="#H" n="137"/>hominis sunt propria. Nam de eodem Filio Dei dicitur quod sit 
+      na<lb ed="#H" n="138" break="no"/>tus ex Virgine, passus, crucifixus, mortuus, sepultus, &amp;c. &amp; quod sit ab 
+      <lb ed="#H" n="139"/>aeterno, primus ille &amp; ultimus ille, quod in initio caelum &amp; terram &amp; 
+      <lb ed="#H" n="140"/>omnia creaverit, quod mortuos vivificet, quod det vitam aeternam. 
+      <lb ed="#H" n="141"/>Ergo non sunt duae personae in Christo, sed una tantum quae &amp; Deus 
+      <lb ed="#H" n="142"/>&amp; homo est: Ergo Filius Dei assumendo naturam humanam non 
+      <lb ed="#H" n="143"/>assumsit personam. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3541">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>QUINTUM ARGUMENTUM: Si Filius Dei ipse 
+      assumen<lb ed="#H" n="145" break="no"/>do naturam humanam assumsisset personam, tum alia esset persona 
+      <lb ed="#H" n="146"/>quam Christus homo; tum Deus SUO PROPRIO sanguine non 
+      <lb ed="#H" n="147"/>redemisset Ecclesiam, &amp; proprius Filius Dei non esset pro nobis 
+      tra<lb ed="#H" n="148" break="no"/>ditus in mortem. Atqui Deus suo proprio sanguine redemit 
+      Eccle<lb ed="#H" n="149" break="no"/>siam, Actorum 20 vers. 28. &amp; Deus proprio Filio non pepercit, sed  
+      <lb ed="#H" n="150"/>pro nobis omnibus tradidit eum, nempe in mortem, Rom. 8. 32. 
+      Er<lb ed="#H" n="151" break="no"/>go &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3563">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>SEXTUM ARGUMENTUM: Si Filius Dei assumendo 
+      na<lb ed="#H" n="153" break="no"/>turam humanam assumsisset personam, tum Jesus Christus non esset 
+      <lb ed="#H" n="154"/>unus Dominus. Nam duae personae diversissimarum naturarum, &amp; 
+      <lb ed="#H" n="155"/>quarum altera est creata, altera increata; altera finita, altera infinita; 
+      <lb ed="#H" n="156"/>&amp;c. non sunt UNUS DOMINUS. At Filius Dei Jesus Christus 
+      <lb ed="#H" n="157"/>est unus Dominus, I. Corinth. 8. vers 6. Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3581">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>SEPTIMUM: Si unus idemque est Filius Dei, qui descendit de 
+      <lb ed="#H" n="159"/>caelo &amp; qui etiam adscendit in caelum; qui est Deus benedictus in 
+      se<lb ed="#H" n="160" break="no"/>cula &amp; ex Patribus quod ad carnem attinet; qui in forma Dei 
+      exsi<lb ed="#H" n="161" break="no"/>stens, formam servi assumsit similis hominibus factus: tum certe 
+      as<lb ed="#H" n="162" break="no"/>sumendo naturam humanam non assumsit personam. Quod 
+      antece<lb ed="#H" n="163" break="no"/>dit verum est, ut patet ex his testimoniis. Ephes. 4. v. 10. Qui 
+      descende<lb ed="#H" n="164" break="no"/>rat, ipse est qui etiam adscendit longe supra omnes caelos, Roman. 8. vers.  
+      <lb ed="#H" n="165"/>5,6. Optarim ego ipse anathema esse separatum a Christo pro fratribus 
+      <lb ed="#H" n="166"/>meis, qui sunt Israelitae, quorum sunt Patres, &amp; ex quibus est Christus 
+      <lb ed="#H" n="167"/>quod ad carnem attinet, qui est supra omnes Deus benedictus in secula. 
+      <lb ed="#H" n="168"/>Philipp. 2. vers. 6, 7. Christus Jesus ὑπάρχων exsistens in forma Dei, non 
+      <lb ed="#H" n="169"/>duxit esse rapinam, parem esse cum Deo: Sed ipse sese inanivit, forma 
+      ser<lb ed="#H" n="170" break="no"/>vi accepta, similis hominibus factus, &amp; habitu inventus ut homo, &amp;c. 
+      <lb ed="#H" n="171"/>Ergo Filius Dei assumendo naturam humanam non assumsit 
+      perso<lb ed="#H" n="172" break="no"/>nam: ac per consequens, Filius Dei idemque Filius hominis Jesus 
+      <lb ed="#H" n="173"/>Christus una tantum est persona, non duae. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3620">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Contra Nestoriani haeretici contendebant alium esse Filium Dei, 
+      <lb ed="#H" n="175"/>alium Christum Filium hominis &amp; Mariae; ac proinde aliam 
+      perso<lb ed="#H" n="176" break="no"/>nam Filii Dei, aliam vero personam Christi filii hominis &amp; Mariae; 
+      <lb ed="#H" n="177"/>idcirco Mariam non esse θεοτίκον, id est, Dei genitricem, sed tantum  
+      <lb ed="#H" n="178"/>χριστοτίκον, id est, Christi genitricem, atque a Judaeis non Deum, sed 
+      <lb ed="#H" n="179"/>hominem tantum crucifixum. 
+      <lb ed="#H" n="180"/>Argumenta, quibus ad defensionem haereticae suae opinionis 
+      ute<lb ed="#H" n="181" break="no"/>bantur, ista erant: 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3642">
+               <lb ed="#H" n="182"/>
+               <pc type="indent"/>I. Si Maria vere fuit θεοτόκος, id est, Dei genitrix, sequitur animam 
+      <lb ed="#H" n="183"/>&amp; corpus quod genuit, esse Deum, atque ita fieri Deum bimembrem aut  
+      <!--cod-MkL9py-0401.xml-->
+      <pb ed="#H" n="374"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>trimemhrem. At consequens est absurdissimum: Ergo &amp; antecedens At 
+      <lb ed="#H" n="2"/>Propositionis consequentiam sic conabantur probare: quia cum 
+      ge<lb ed="#H" n="3" break="no"/>nuerit hominum tantum, non autem essentiam divinam, consequitur  
+      <lb ed="#H" n="4"/>animam quoque &amp; corpus quod genuit esse Deum, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3667">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>RESP. Negatur connexi consequentia: nam hoc tantum 
+      sequi<lb ed="#H" n="6" break="no"/>tur, Jesum Christum quem Maria genuit, non esse tantum 
+      homi<lb ed="#H" n="7" break="no"/>nem, sed etiam verum Deum in una persona: sicut in Symbolo 
+      profi<lb ed="#H" n="8" break="no"/>temur, nos credete in Jesum Christum Filium Dei unigenitum 
+      Do<lb ed="#H" n="9" break="no"/>minum nostrum, qui conceptus est de Spiritu Sancto, natus ex 
+      Ma<lb ed="#H" n="10" break="no"/>ria Virgine, passus sub Pontio Pilato, crucifixus, &amp;c. Probatio 
+      conse<lb ed="#H" n="11" break="no"/>quentiae evertit ipsam propositionem: nam si Maria non genuit es. 
+      <lb ed="#H" n="12"/>sentiam divinam, quod nos ultro concedimus, tum anima aut corpus 
+      <lb ed="#H" n="13"/>Christi non est Deus. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3691">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>II. Inhabitans &amp; templum quod inhabitatur non sunt una 
+      perso<lb ed="#H" n="15" break="no"/>na, sed duae. At Sermo est inhabitans, natura humana est templum i1n 
+      <lb ed="#H" n="16"/>quo sermo habitat: ut dicitur Joh. 2. v. 9. Solvite templum hoc: &amp; 
+      Co<lb ed="#H" n="17" break="no"/>loss. 2 v. 9. In ipso habitat omnis plenitudo Deitatis corporaliter. Ergo 
+      <lb ed="#H" n="18"/>Sermo &amp; natura humana non sunt una persona, sed duae, 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3707">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>RESP. Major propositio negatur. Inhabitans enim &amp; templum 
+      <lb ed="#H" n="20"/>quod inhabitatur non sunt una natura, sed duae; aliud enim est Sermo 
+      <lb ed="#H" n="21"/>habitans in natura assumta, aliud natura humana in qua tanquam il 
+      <lb ed="#H" n="22"/>templo proprio Sermo ille habitat. Sermo quippe inhubitat in natu 
+      <lb ed="#H" n="23"/>ra assum: a non tanquam in al a persona, sed tanquam in alia 
+      natura<lb ed="#H" n="24" break="no"/>in qua idem Sermo subsistit. Et istud habitate nihil est aliud quam 
+      <lb ed="#H" n="25"/>subsistere 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3727">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>III. In quo diversissimae sunt actiones, in eo duae sunt personae: At in 
+      <lb ed="#H" n="27"/>Christo diversissimae sunt actiones, uti sunt pati &amp; miracula edere: mor 
+      <lb ed="#H" n="28"/> vivificare. Ergo in Christo duae sunt personae. Majoris probatio: quia 
+      <lb ed="#H" n="29"/>actiones sunt suppositerum &amp; personarum. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3740">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>RESP. Mojor est falsa: &amp; probatio ejus exclusive intellecta, quasi  
+      <lb ed="#H" n="31"/>actiones sint tantum suppositorum &amp; personarum, est itidem falsa 
+      <lb ed="#H" n="32"/>Nam actiones ut &amp; passiones sunt &amp; personarum &amp; naturarum: per 
+      <lb ed="#H" n="33"/>sonarum ut suppositorum operantium &amp; patientium; naturarum 
+      ve<lb ed="#H" n="34" break="no"/>ro ut princip orum intrinsecorum &amp; energeticorum &amp; formalium 
+      <lb ed="#H" n="35"/>secundum &amp; per quae supposita aut personae agunt &amp; patiuntur. Pet. 
+      <lb ed="#H" n="36"/>sona est suppositum agens &amp; patiens: naturae in persona sunt princi 
+      <lb ed="#H" n="37"/>pia interna ac formalia, secundum quae &amp; per quae persona agit &amp; 
+      <lb ed="#H" n="38"/>patitur. Naturae sunt principia actionum singularium: persona est 
+      <lb ed="#H" n="39"/>principium commune actionum conmunium &amp; singularium, 
+      secun<lb ed="#H" n="40" break="no"/>dum utramque naturam. Ergo actiones sunt quidem personarum, 
+      <lb ed="#H" n="41"/>sed non tantum personarum quia etiam sunt naturarum. Una igitur 
+      <lb ed="#H" n="42"/>petsona ex duabus naturis composita diversissimas actione: edit 
+      pro<lb ed="#H" n="43" break="no"/>diversitate naturarum: ut in quolibet homine est manifestum. Nam 
+      <lb ed="#H" n="44"/>in quolibet homine sunt diversissimae actiones: animae quidem 
+      intel<lb ed="#H" n="45" break="no"/>ligete, ratiocinari, semper moveri: corporis edere, bibere, dormire: 
+      <lb ed="#H" n="46"/>neque tamen sequitur in quolibet homine duas esse personas seu dua 
+      <lb ed="#H" n="47"/>ὑφιτάμηνο: sed unum idemque ὑφιστάμηνον utrasque actiones edit, 
+      ve<lb ed="#H" n="48" break="no"/>rum secundum diversas naturas. E diversitate igitur actionum, 
+      di<lb ed="#H" n="49" break="no"/>versitas quidem naturarum concluditur, sed minime pluralitas 
+      per<lb ed="#H" n="50" break="no"/>sonarum. Ac proinde &amp; ριαιον argumentum retorquemus. In quo 
+      <lb ed="#H" n="51"/>cunque sunt diversissimae actiones, is est una persona in diversis &amp; 
+      <lb ed="#H" n="52"/>subsistens &amp; operans naturis. Atqui in Christo Jesu sunt diversissimae 
+      <lb ed="#H" n="53"/>actiones: Ergo Christus Jesus est una persona in diversis &amp; subsistem 
+      <lb ed="#H" n="54"/>&amp; operans naturis. Hoc est quod LEO Magnus scribit in episto 
+      <lb ed="#H" n="55"/>la illa celeberrima ad Flavianum Episcopum 
+      Constantinopolita<lb ed="#H" n="56" break="no"/>num: Acit utra que forma cum alierius commuione, quod proprium 
+      <lb ed="#H" n="57"/>est, Verbo scilicet operante quod Verbi est, &amp; Carne exsequente quod  
+      <lb ed="#H" n="58"/>Carnis est. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3808">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>V. Si corpus &amp; anima rationalis simul unita in Christo non sunt,  
+      <lb ed="#H" n="60"/>persona: tum minoris sunt virtutis qua in sint aliis hominibus. At hoc 
+      <lb ed="#H" n="61"/>non est: Ergo nec illud 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3820">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>RESP. Negatur sumti consequentia &amp; datur instantia. Anima 
+      <lb ed="#H" n="63"/>sensitiva in homine, licet per se non sit forma aua ab anima rationali 
+      <lb ed="#H" n="64"/>exsistens, sicut in bi utis: non inde tamen sequitur, eam in homine 
+      m<lb ed="#H" n="65" break="no"/>noris esse virtutis &amp; dignitatis, quam in bruto. Imo nobilius habet  
+      <lb ed="#H" n="66"/>esse in anima rationali, quam in bruto &amp; quam si per se ab illa 
+      sepa<lb ed="#H" n="67" break="no"/>rata subsisteret. Unaquaeque enim res nobilius habet esse, cum 
+      uni<lb ed="#H" n="68" break="no"/>tur rei nobiliori, quam cum per se exsistit. Ita corpus &amp; anima ra 
+      <lb ed="#H" n="69"/>tionalis id est, natura humana in Sermone illo aeterno subsistens lon 
+      <lb ed="#H" n="70"/>ge nobilior est &amp; potentior &amp; dignior, quam si per se subsisteret extra  
+      <lb ed="#H" n="71"/>personam Srmonis illius. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3846">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>V. Corpus &amp; autma coniuncta in quolibet homine sunt persona. 
+      Er<lb ed="#H" n="73" break="no"/>go etiam in Christo. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3855">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>RESP. Negatur antecedens. Nam corpus &amp; anima rationalis 
+      <lb ed="#H" n="75"/>etsi conjuncta, non sunt persona in ullo homine: sed homo ex utroque 
+      <lb ed="#H" n="76"/>compositus est persona subsistens. Corpus &amp; anima sunt ea in quibus 
+      <lb ed="#H" n="77"/>homo subsistit, &amp; ex quibus tanquam partibus natura humana 
+      con<lb ed="#H" n="78" break="no"/>stat Sic in Christo corpus &amp; anima sunt partes naturae humanae, &amp; 
+      <lb ed="#H" n="79"/>in quibus persona subsistit τοῦ λόγῳ 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3873">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>II. S humana Christi natura non est persona, tum Christus non est: 
+      <lb ed="#H" n="81"/>factus fratribus similis per omnia. Atqui factus est fratribus similis per 
+      <lb ed="#H" n="82"/>omnia. Ergo humana Chrsti natura est persona. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3884">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>REPON. Negatur consequentia: nam Christus factus est 
+      <lb ed="#H" n="84"/>nobis si milis per omnia ματαφυην, secundum naturam, &amp; de hac 
+      lo<lb ed="#H" n="85" break="no"/>quitur Apostolus. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3895">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>VII. Si humana Christi natura non est persona, tum homo 
+      praedi<lb ed="#H" n="87" break="no"/>caetur aequivoce de Christo &amp; de nobis. Posterius est absurdum: ergo &amp; 
+      <lb ed="#H" n="88"/>prius 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3907">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>RESP. Negatur sumti consequentia: quia aequivocatio non in 
+      <lb ed="#H" n="90"/>ducitur ex diversitate suppositorum de quibus nomen aliquod prae 
+      <lb ed="#H" n="91"/>dicatur, sed ex diversitate significationis juxta quam praedicatur, seu 
+      <lb ed="#H" n="92"/>ex diversitate formae ac naturae per nomen illud significatae. Atqui 
+      <!--cod-MkL9py-0401.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>nomen hominis cum praedicatur de Christo, oandem piane 
+      signifi<lb ed="#H" n="94" break="no"/>cat naturam humanam, quam significat cum de quocunque alios 
+      <lb ed="#H" n="95"/>homine praedicatur. Non igitur aequivoce de Christo &amp; de nobia 
+      <lb ed="#H" n="96"/>praedicatur  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3933">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>His refutatis manet, Filium Dei assumendo naturam humanam, 
+      <lb ed="#H" n="98"/>non assumsisse personam. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3942">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Si qualitatem spectes, assumsit Filius Dei naturam humanam, 
+      ex<lb ed="#H" n="100" break="no"/>pertem omnis peccati semper, tam originalis, quam actualis. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3951">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>OBIICITURI. Quiceunque fuerunt in Adamo, in illo etiam 
+      <lb ed="#H" n="102"/>peccarunt. Roman. 5. versicul. 12. Per unum hominem peccatum in 
+      <lb ed="#H" n="103"/>nundum introiit ac per peccatum mors: &amp; ita in omnes homines mors 
+      <lb ed="#H" n="104"/>pervasit in quo omnes peccarunt 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3964">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>At Christus quoad carnem fuit in Adamo, ut patet ex Genealogit 
+      <lb ed="#H" n="106"/>quae Luc. 3. deducitur usque ad Adamum. Et Hebr. 2. v. 11. Et qui 
+      san<lb ed="#H" n="107" break="no"/>dificantur ex uno sunt omnes. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3975">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>Ergo &amp; Christus ipse in Adamo peccavit. 
+      <lb ed="#H" n="109"/>RESP. Major negatur. Nam non omnes qui fuerunt in 
+      Ada<lb ed="#H" n="110" break="no"/>mo, in illo peccarunt, sed tantum illi, qui fuerunt in illo tum quoao 
+      <lb ed="#H" n="111"/>substantiam seu carnem, tum quoad modum carnalem per quem 
+      or<lb ed="#H" n="112" break="no"/>dinarie homo ex homine generatur. Sed Christus fuit quidem in 
+      A<lb ed="#H" n="113" break="no"/>damo quoad substantiam naturae humanae, sed non quoad modum 
+      <lb ed="#H" n="114"/>ropagationis per ipsum, quia sine semine virili natus est. Non ergo 
+      <lb ed="#H" n="115"/>peccavit in Adamo, 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e3998">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>II. Caro Adami est caro peccatrix. Caro Christi est caro Adami: 
+      Er<lb ed="#H" n="117" break="no"/>go caro Christi est peccatrix 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e4007">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>RESP. Distinguendum est. Caro Adami est caro peccatrix, per 
+      <lb ed="#H" n="119"/>accidens, non autem per se &amp; quoad naturam ipsam &amp; substantiam. 
+      <lb ed="#H" n="120"/>Caro Christi est caro Adami, non quoad illud accidens, sed tantum 
+      <lb ed="#H" n="121"/>quoad naturam &amp; substantiam. Ergo caro Christi non est peccatrix.  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e4020">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>HI. In quem mors pervenit seu pervasit, is peccavit: In Christum, 
+      <lb ed="#H" n="123"/>mors pervenit seu pervasit: Ergo peccavit. Major probatur ex Rom. 5. 
+      <lb ed="#H" n="124"/>versicul. 12. In omnes homines mors pervenit seu pervasit in quo omnes 
+      <lb ed="#H" n="125"/>peccarunt. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e4033">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>RESP. Negatur minor: nam in Christum mors non pervenit, 
+      <lb ed="#H" n="127"/>non pervasit vi &amp; autoritate sua: est enim stipendium peccati, quod in 
+      <lb ed="#H" n="128"/>Christo non fuit: sed Christus sponte mortem adiit &amp; in se suscepit, ut 
+      <lb ed="#H" n="129"/>nos a peccato &amp; morte liberaret Sic enim dicitur Jesa. 53. oblatus est 
+      <lb ed="#H" n="130"/>quia voluit: &amp; Joh. 10. v. 17, 18. dicit Christus ipse: Ego depono animam 
+      <lb ed="#H" n="131"/>meam ut eam rursus assumam. Nemo tollit eam a me; sed ego depono 
+      a<lb ed="#H" n="132" break="no"/>nimum meam per meipsum. Potestatem habeo deponendi eam, &amp; 
+      pote<lb ed="#H" n="133" break="no"/>statem habeo rursus eam assumendi. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e4055">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Sic expositum est quid Filius Dei assumserit, &amp; 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e4062">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>quale illud sit.  
+      <lb ed="#H" n="136"/>Si ordinem consideres, Filius Dei ita naturam assumsit humanam 
+      <lb ed="#H" n="137"/>ut licet animam simul &amp; corpus eodem temporis momento induerit: 
+      <lb ed="#H" n="138"/>animam tamen rationalem immediate, &amp; per animam corpus 
+      as<lb ed="#H" n="139" break="no"/>sumserit.  
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e4079">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Quod ad tempus attinet, eodem momento assumsit Filius Dei 
+      hu<lb ed="#H" n="141" break="no"/>manam naturam, quo secundum illam conceptus fuit de Spiritu 
+      San<lb ed="#H" n="142" break="no"/>cto. Natura quippe nostra non sic assumta est, ut prius creata, post 
+      as<lb ed="#H" n="143" break="no"/>sumeretur, sed ut ipsa assumtione crearetur, ait Leo Magnus apistola 
+      <lb ed="#H" n="144"/>undecima quae est ad Julianum Episcopum Coensem. 
+      </p>
+            <p xml:id="yyy8Uu-e77746-d1e4095">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Haec de assumtione naturae humanae: 
+      <lb ed="#H" n="146"/>sequitur.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 23</title>
+        <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 23</title>
+          <date when="2021-02-17">February 17, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-17" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#H" n="416"/>
+        <cb ed="#H" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yyy8Uu-e02486"> <!-- l6-c23 -->
+        <head xml:id="yyy8Uu-e02486-Hd1e109">Caput 23</head>
+        <p xml:id="yyy8Uu-e02486-d1e112">
+          <lb ed="#H" n="79"/>CAPUT XXIII. 
+          <lb ed="#H" n="80"/>In quo de Resurrectione Christi ex mortuis.
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e119">
+          <lb ed="#H" n="81"/>IAETERUM exaltatio illa facta est tum per resurrectionem ex 
+          <lb ed="#H" n="82"/>mortuis &amp; gloriosam manifestationem ipsius quadraginta 
+          die<lb ed="#H" n="83" break="no"/>bus in his terris post resurrectionem: tum per adscensionem in 
+          <lb ed="#H" n="84"/>coelum, &amp; sessionem ad dexteram Dei Patris. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e130">
+          <lb ed="#H" n="85"/>
+          <pc type="indent"/>RESURRECTIO Domini Iesu ex mortuis, est primus exaltationis: 
+          <lb ed="#H" n="86"/>gradus, quo morte devicta, divina sua potentia rertio die ex mortuis, 
+          <lb ed="#H" n="87"/>vere in ea ipsa carne quam mortuus fuerat, resurrexit, &amp; jam in 
+          aeter<lb ed="#H" n="88" break="no"/>num Deo vivit, 2. Corinth. 13. v. 4. Nam etsi crucifixus fuit ex 
+          insir<lb ed="#H" n="89" break="no"/>mitate, vivit tamin ex potentia Dei. 1. Petr. 3. ver. 18. Et morte affe¬ 
+          <!--cod-MkL9py-0443.xml-->
+          <cb ed="#H" n="b"/>
+          <lb ed="#H" n="90"/>ctus est caerne, vivificatus autem spiritu, Rom. 6. v. 9, 10. Novimus 
+          <lb ed="#H" n="91"/>quod Christus surrexit a mortuis, &amp; iterum non moritur, &amp; mori 
+          <lb ed="#H" n="92"/>non dominatur ei. Quod enim mortuus est, peccato ipse mortuus est, 
+          <lb ed="#H" n="93"/>semel: &amp; quod vivit, vivit ipse Deo. Et cap. 14. ver. 9. Ad hoc enim 
+          <lb ed="#H" n="94"/>Christus &amp; mortuus est, &amp; resurrexit, &amp; revixit, ut &amp; mortuis &amp; 
+          <lb ed="#H" n="95"/>viventibus dominetur.  
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e164">
+          <lb ed="#H" n="96"/>
+          <pc type="indent"/>Dominum Jesum vere tertio die resurrexisse ex mortuis, 
+          confir<lb ed="#H" n="97" break="no"/>mat primo testimonium sanctorum Angelorum, Matth. 27. v. 5, 6, 7. 
+          <lb ed="#H" n="98"/>Marc. 16. v. 6, 7. Luc. 24. v. 4, 5, 6, secundo, tot apparitiones Christ. 
+          <lb ed="#H" n="99"/>post resurrectionem 1. Corinth. 15. Matthaei 28. Marc. 16. Luc. 24. 
+          <lb ed="#H" n="100"/>Johan. 20. &amp; 21. Actorum 1. tertio testimonium custodum sepulcra 
+          <lb ed="#H" n="101"/>quos Sacerdotes ipsi apposuerant; qua in re singulariter providentia 
+          <lb ed="#H" n="102"/>divina enituit, quod Sacerdotes ex illis ipsis cognoscere vel inviti 
+          co<lb ed="#H" n="103" break="no"/>acti sunt, Jesum ex mortuis potenter resurrexisse, per quos impedire 
+          <lb ed="#H" n="104"/>conati sunt, ne corpus Domini Jesu ab Apostolis furtim noctu 
+          au<lb ed="#H" n="105" break="no"/>ferretur. quarto testimonium Apostolorum, Luc. 24. 34. Actor. 2. v. 
+          <lb ed="#H" n="106"/>24, 32. &amp; cap. 3. v. 15. &amp; cap. 4. v. 10, 33. &amp; cap. 10. v. 40, 41. &amp; cap. 13. 
+          <lb ed="#H" n="107"/>v. 30. &amp; sequentibus aliquot. 1. Corinth. 15. quinto internum 
+          testi<lb ed="#H" n="108" break="no"/>monium Spiritus Sancti in cordibus credentium Evangelio, Johan. 
+          <lb ed="#H" n="109"/>15. vers. 26. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e199">
+          <lb ed="#H" n="110"/>
+          <pc type="indent"/>Causa efficiens princeps resuscitationis &amp; resurrectionis Christi ex 
+          <lb ed="#H" n="111"/>mortuis est Deus Pater, Filius &amp; Spiritus Sanctus, ut ex 
+          sequenti<lb ed="#H" n="112" break="no"/>bus testimoniis liquet:  
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e210">
+          <lb ed="#H" n="113"/>
+          <pc type="indent"/>De Deo Patre, Actor. 2. v. 24. &amp; sequentibus usque ad 33. &amp; cap. 
+          <lb ed="#H" n="114"/>3. v. 15. Principem vitae trucidastis, quem Deus suscitavit a mortuss. 
+          <lb ed="#H" n="115"/>cujus rei nos testes sumus. Et cap. 4. v. 10. Notum sit omnibus vobis &amp; 
+          <lb ed="#H" n="116"/>toti populo Israel, per nomen Iesu Christi Nazareni, quem vos cruci. 
+          <lb ed="#H" n="117"/>ixistis, quem Deus suscitavit a mortuis, per hoc, inquom, istum ad 
+          <lb ed="#H" n="118"/>stare in vestro conspectu sanum. Et cap. 5. v. 30. Deus Patrum 
+          nostro<lb ed="#H" n="119" break="no"/>rum suscitavit Iesum, quem vos interfecistis suspensum in ligno. Et  
+          <lb ed="#H" n="120"/>cap. 10. v. 40. Hunc Deus suscitavit tertio die, fecitque ut is conspicuus 
+          <lb ed="#H" n="121"/>fieret. cap. 13. v. 30. &amp; sequentibus. Rom. 8. v. 11. Si Spiritus ejus 
+          qui<lb ed="#H" n="122" break="no"/>suscitavit Iesum a mortuis habitat in vobis: is qui excitavit 
+          Chri<lb ed="#H" n="123" break="no"/>stum ex mortuis, vivificabit etiam mortalia corpora vestra, per 
+          in<lb ed="#H" n="124" break="no"/>habitantem ipsius Spiritum in vobis. Ephes. 1. v 20. Suscitavit eum 
+          <lb ed="#H" n="125"/>ex mortuis, &amp; collocavit ad dexteram suam in coelis. Coloss. 2. v. 12. 
+          <lb ed="#H" n="126"/>Consepulti cum eo per Baptismum, per quem etiam cum eo suscitati 
+          <lb ed="#H" n="127"/>estis per fidem Dei efficaciter agentis, qui suscitavit eum ex mortuis. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e247">
+          <lb ed="#H" n="128"/>
+          <pc type="indent"/>De Filio Dei, Johan. 10. v. 17, 18. Propterea Pater me diligit, quia 
+          <lb ed="#H" n="129"/>ego depono animam meam, ut eam rursus assumam. Nemo tollit eam  
+          <lb ed="#H" n="130"/>a me, sed ego depono eam per meipsum: potestatem habeo deponendi. 
+          <lb ed="#H" n="131"/>eam &amp; potestatem habeo rursus eam assumendi. Hoc mandatum ac 
+          <lb ed="#H" n="132"/>cepi a Patre meo. Ex quibus testimoniis liquet, Christum non 
+          preca<lb ed="#H" n="133" break="no"/>ria, aut naturae creatae, sed propria suae Deitatis virtute ex mortuis 
+          <lb ed="#H" n="134"/>resurrexisse: quod &amp; diserte docet Petrus 1. epist 3. vers. 18. cum ait 
+          <lb ed="#H" n="135"/>Christum morte quidem affectum carne, vivificatum autem Spiritus 
+          <lb ed="#H" n="136"/>diest, Deitate sua, per quam &amp; olim ad mundum priscum venerat  
+          <lb ed="#H" n="137"/>Spiritu, inquam, illo aeterno per quem se obtulerat inculpatum Deo. 
+          <lb ed="#H" n="138"/>Hebr. 9. vers. 14. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e276">
+          <lb ed="#H" n="139"/>
+          <pc type="indent"/>Unde ex ipsius resurrectione vera ejus Deitas demonstratur, 
+          Ro<lb ed="#H" n="140" break="no"/>nan. 1. v. 4. Declavato Filio Dei potenter secundum Spiritum 
+          sancti<lb ed="#H" n="141" break="no"/>ficationis, per resurrectionem a mortuis. Sensus est, Jesus Christus 
+          <lb ed="#H" n="142"/>Dominus noster qui est factus ex semine Davidis secundum carnem. 
+          <lb ed="#H" n="143"/>est Filius Dei secundum Spiritum sanctificationis, hoc est, secundum. 
+          <lb ed="#H" n="144"/>Deitatem, ac proinde est verus naturalis Deus: quia propria sua 
+          po<lb ed="#H" n="145" break="no"/>tentia &amp; virtute resurrexit ex mortuis. Resurrectio enim hic act. v 
+          <lb ed="#H" n="146"/>capitur, id est, pro effecto Christi: nam si passive acciperetur, valis  
+          <lb ed="#H" n="147"/>dum non esset argumentum, ipsum esse proprium Dei Filium. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e300">
+          <lb ed="#H" n="148"/>
+          <pc type="indent"/>De Spiritu Sancto idem colligimus ex cap. octavo ad Romanos 
+          <lb ed="#H" n="149"/>vers. 11. Si mortalia nostra corpora vivificabuntur per Spiritum Dei 
+          <lb ed="#H" n="150"/>in nobis inhabitantem: tum etiam corpus Christi resuscitatum est 
+          <lb ed="#H" n="151"/>per eundem Spiritum Dei. Quod antecedit verum est, ut Paulus 
+          do<lb ed="#H" n="152" break="no"/>cet: Ergo &amp; quod sequitur. Connexi consequentia est certa: quia 
+          <lb ed="#H" n="153"/>virtus Spiritus Sancti quae sese primum in Capite nostro exseruit, ea 
+          <lb ed="#H" n="154"/>dem in nobis quoque tanquam membris ejus quotidie sese exserit &amp; 
+          <lb ed="#H" n="155"/>in ultimo die validissiine exseret. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e323">
+          <lb ed="#H" n="156"/>
+          <pc type="indent"/>Ex his sequitur, primo resuscitationem Christi ex mortuis esse 
+          o<lb ed="#H" n="157" break="no"/>bus Sacrosanctae Trinitatis indivisum &amp; tribus illis personis 
+          essen<lb ed="#H" n="158" break="no"/>tialiter 
+          commune<lb ed="#H" n="159" break="no"/>Secundo, humanitatem Christi seipsam non excitasse ex mortuis, 
+          <lb ed="#H" n="160"/>seu ad resurrectionem suam non esse cooperatam: alioquin Paulus 
+          <lb ed="#H" n="161"/>minime diceret, Christum per resurrectionem ex mortuis 
+          potenter<lb ed="#H" n="162" break="no"/>esse declaratum Filium Dei secundum Spiritum Sanctificationis, 
+          <lb ed="#H" n="163"/>Rom. 1. v. 4. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e345">
+          <lb ed="#H" n="164"/>
+          <pc type="indent"/>Dominus Jesus peculiari &amp; aliis nequaquam communi ratione. 
+          <lb ed="#H" n="165"/>ex mortuis resurrexit, sed longe alia &amp; prorsus peculiari ratione, 
+          ni<lb ed="#H" n="166" break="no"/>mirum ut princeps vitae, ut primogenitus inter multos fratres, ut 
+          pri<lb ed="#H" n="167" break="no"/>mitiae resurgentium ex mortuis, ut Christus noster: quia 
+          corruptio<lb ed="#H" n="168" break="no"/>nem nullam vidit, sicut Lazarus &amp; alij; &amp; quia primus resurrexit ad 
+          <lb ed="#H" n="169"/>vitam immortalem nunquam amplius moriturus Rom. 6. ver. 9, 10. 
+          <lb ed="#H" n="170"/>&amp; quia resurrectio ejus est nobis causa nostrae resurrectionis ad 
+          vi<lb ed="#H" n="171" break="no"/>tam aeternam. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e367">
+          <lb ed="#H" n="172"/>
+          <pc type="indent"/>Unde Jesus nominatur primogenitus ex mortuis, Apoc. I. vers. 5. &amp; 
+          <lb ed="#H" n="173"/>primitiae, I. Cor. 15. v. 20, 23. quia primus inter resurgentes ex mor 
+          <lb ed="#H" n="174"/>tuis resurrexit ad vitam immortalem: ac propterea ejus resurrectis 
+          <lb ed="#H" n="175"/>est causa resurrectionis aliorum. Sed qui ante ipsum fuerunt a mor 
+          <lb ed="#H" n="176"/>te resuscitati, ut Lazarus &amp; alij, fuerunt ad vitam praesentem &amp; 
+          natu<lb ed="#H" n="177" break="no"/>talem duntaxat suscitati; ideo rursus sunt mortui. Quotquot anter 
+          <lb ed="#H" n="178"/>Christum resurrexerunt, iterum mortui sunt: Christus vero resur.  
+          <lb ed="#H" n="179"/>gens a mortuis, jam nen moritur, ait Gregorius Magnus in 
+          expla<lb ed="#H" n="180" break="no"/>natione sexti Psalmi poenitentialis super verba, Acustodia matutina, 
+          <lb ed="#H" n="181"/>Propterea resurrexit ut Christus ille promissus, &amp; Princeps vitae 
+          <!--cod-MkL9py-0444.xml-->
+          <pb ed="#H" n="417"/>
+          <cb ed="#H" n="a"/>
+          <lb ed="#H" n="1"/>Resurrectionis Christi fines sunt duplices: unus supremus, 
+          ali<lb ed="#H" n="2" break="no"/>subordinat.  
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e404">
+          <lb ed="#H" n="3"/>
+          <pc type="indent"/>Supremus finis ejus est gloria Dei Patris, sicut Paulus ait Rom.6. 
+          <lb ed="#H" n="4"/>v. 4. Suscitatus est Christus ex mortuis in gloriam Patris, Johan. 17. 
+          <lb ed="#H" n="5"/>v. 1. Iesus sustulit oculos suos in coelum, dixitque Pater, venit hora illa: 
+          <lb ed="#H" n="6"/>glorifica Filium tuum, ut &amp; te Filius tuus glorificet 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e417">
+          <lb ed="#H" n="7"/>
+          <pc type="indent"/>Subordinati fines sunt fructus resurrectionis Christi ex mortuis 
+          <lb ed="#H" n="8"/>quorum sunt quatuor: 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e426">
+          <lb ed="#H" n="9"/>
+          <pc type="indent"/>Primus, est certitudo verae ac salvificae fidei in Jesum Christum. 
+          <lb ed="#H" n="10"/>Nam resurrectio Christi ex mortuis validissime confirmat fidem 
+          no<lb ed="#H" n="11" break="no"/>stram de persona &amp; officio Domini nostri Jesu. Est enim signum &amp; 
+          <lb ed="#H" n="12"/>miraculum vere magnum &amp; certissimum quod nobis obsignat, 
+          Do<lb ed="#H" n="13" break="no"/>minum nostrum Jesum esse vere aeternum illum Filium Dei non 
+          ho<lb ed="#H" n="14" break="no"/>minem tantum, sed etiam verum natura Deum: ac proinde duas de 
+          <lb ed="#H" n="15"/>stinctas naturas in una persona habentem: eundem esse revera 
+          pro<lb ed="#H" n="16" break="no"/>missum illum Messiam &amp; Christum, summum Prophetam, summum 
+          <lb ed="#H" n="17"/>Sacerdotem &amp; Regem aeternum nostrum, reformatorem 
+          universa<lb ed="#H" n="18" break="no"/>Ecclesiae Dei &amp; Servatorem omnium verbo Evangelij credentium 
+          <lb ed="#H" n="19"/>&amp; Sacramentis legitime utentium. De persona Christi agunt sequen 
+          <lb ed="#H" n="20"/>tia testimonia, Matth. 12. vers. 39, 40. Gens mala &amp; adulterina se 
+          <lb ed="#H" n="21"/>gnum requirit, sed signum non dabitur ei nisi signum illud Ionae 
+          Pro<lb ed="#H" n="22" break="no"/>phetae. Sicut enim fuit Ionas in ventre ceti tres dies &amp; tres noctes: It; 
+          <lb ed="#H" n="23"/>erit Filius hominis in corde terrae tres dies &amp; tres noctes. Idem 
+          reperi<lb ed="#H" n="24" break="no"/>tur Matth. 16. v. 4. Apostolus Paulus Rom. 1. v. 4. ait, Iesum factum, 
+          <lb ed="#H" n="25"/>ex semine Davidis secundum carnem, declavatum esse Filium Dei 
+          po<lb ed="#H" n="26" break="no"/>tenter secundum Speritum sanctificationisver resurrectionem a 
+          mor<lb ed="#H" n="27" break="no"/>tuis. Resurrectio hic non passive sed active, hoc est, pro effecto 
+          Chri<lb ed="#H" n="28" break="no"/>sti capitur, quia carnem suam propria sua potentia a mortuis 
+          resusci<lb ed="#H" n="29" break="no"/>tavit: ideo resurrectio Christi est τeκαήριον Deitatis ejus, ut pauli 
+          <lb ed="#H" n="30"/>ante dictum. Hoc evidentius exponit ipsemet Dominus Joh. 10. v. 
+          <lb ed="#H" n="31"/>17, 18. Ego depono animam meam, ut eam rursus assumam. Nemo 
+          <lb ed="#H" n="32"/>tollit eam a me, sed ego depono eam per meipsum: potestatem habeo 
+          de<lb ed="#H" n="33" break="no"/>ponendi eam, &amp; potestatem habeo rursus eam assumendi. Hoc 
+          praece<lb ed="#H" n="34" break="no"/>ptum accepi a Patre meo. Sic Paulus idem Actor. 13. vers. 32. &amp; 33. 
+          <lb ed="#H" n="35"/>die resurrectionis Christi impletum esse docet, quod Psalm. 2. vers. 7. 
+          <lb ed="#H" n="36"/>dictum est, Filius meus es, ego hodie genui te. 1. Timoth. 3. vers. 16. 
+          <lb ed="#H" n="37"/>Et sine dubio magnum est pietatis mysterium: Deus conspicuus 
+          fa<lb ed="#H" n="38" break="no"/>ctus est in carne, justificatus est in Spiritu, id est, in aeterna Deitate  
+          <lb ed="#H" n="39"/>1. Petr. 3. vers. 18. Christus morte quidem affectus est carne, 
+          vivifi<lb ed="#H" n="40" break="no"/>catus autem Spiritu. Itaque carne qua conspicuus factus, quam mon 
+          <lb ed="#H" n="41"/>quus erat, etiam resurrexit: Spiritu autem, id est, Deitate sua 
+          car<lb ed="#H" n="42" break="no"/>nem suam resuscitavit. Ita resurrectio Christi a mortuis confirma. 
+          <lb ed="#H" n="43"/>vit nobis, Jesum Christum esse natura verum Deum &amp; verum 
+          homi<lb ed="#H" n="44" break="no"/>nem, &amp; duabus constare naturis, divina atque humanam, vere 
+          distin<lb ed="#H" n="45" break="no"/>ctis etiam post unionem personalem. Nam si post unionem illam 
+          na<lb ed="#H" n="46" break="no"/>tura humana Christi non retinuit suam essentiam &amp; proprietates est 
+          <lb ed="#H" n="47"/>sentiales, tum nec vere passus &amp; mortuus est Christus, nec vere 
+          re<lb ed="#H" n="48" break="no"/>surrexit. Quoniam negatio verae carnis, negatio est etiam verae 
+          pas<lb ed="#H" n="49" break="no"/>sionis &amp; mortis &amp; resurrectionis a mortuis. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e521">
+          <lb ed="#H" n="50"/>
+          <pc type="indent"/>Eadem resurrectio confirmat fidem nostram de officio Domini 
+          <lb ed="#H" n="51"/>Jesu, ut ostendunt testimonia sequentia, Johan. 2. v. 18, 19, 20. 21, 22. 
+          <lb ed="#H" n="52"/>Judaei dixerunt Jesu, repurganti templum Jerosolymitanum 
+          maximo<lb ed="#H" n="53" break="no"/>cum zelo: Quod signum ostendis nobis quod ista facis, id est, quo 
+          mi<lb ed="#H" n="54" break="no"/>raculo confitmas, ex quo possit intelligi autoritas illa coelestis, quae 
+          <lb ed="#H" n="55"/>tibi jus illud tribuat quod soli Messiae Patribus promisso competit. 
+          <lb ed="#H" n="56"/>Nam tu reformationem templi Dei &amp; religionis instituere aude 
+          <lb ed="#H" n="57"/>publicam, in templo exercens liberam potestatem ac si illud tua 
+          do<lb ed="#H" n="58" break="no"/>mus esset. Respondit Iesus ac dixit eis, Destruite templum hoc, &amp; 
+          in<lb ed="#H" n="59" break="no"/>tra triduum excitabo illud: Dixerunt ergo Iudeai, Quadraginta &amp; 
+          <lb ed="#H" n="60"/>sex annis aedificatum est templum istud, &amp; tu intra triduum illud 
+          ex<lb ed="#H" n="61" break="no"/>citabis? At ille loquebatur de templo corporis sui. Postquam ergo 
+          sus<lb ed="#H" n="62" break="no"/>citatus fuit ex mortuis, recordati sunt ejus discipuli quod hoc sibi di 
+          <lb ed="#H" n="63"/>xisset, &amp; crediderunt Scripturae &amp; sermoni quem Iesus dixerat. 
+          Ro<lb ed="#H" n="64" break="no"/>man. 14. v. 9. Ad hoc enim Christus &amp; mortuus est &amp; resurrexit, &amp; 
+          <lb ed="#H" n="65"/>revixit, ut &amp; mortuis &amp; viventibus dominetur 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e560">
+          <lb ed="#H" n="66"/>
+          <pc type="indent"/>Secundus fructus resurrectionis Christi a mortuis est 
+          justificatio<lb ed="#H" n="67" break="no"/>nostri coram Deo: sicut Paulus ait Rom. 4. v. 25. ipsum suscitatum 
+          <lb ed="#H" n="68"/>ad nostri justificationem. Nam resuscitatio Christi ex mortuis est ejus 
+          <lb ed="#H" n="69"/>actualis absolutio a peccatis nostris pro quibus mortuus est. Ut 
+          Pa<lb ed="#H" n="70" break="no"/>ter Christum in mortem tradendo, reipsa in carne illius nostra 
+          pec<lb ed="#H" n="71" break="no"/>cata, quae illi ut sponsori nostro imputata erant, condemnavit. Rom. 
+          <lb ed="#H" n="72"/>8. v. 3. Ita excitando eum a morte, ipso facto absolvit eum a peccatis 
+          <lb ed="#H" n="73"/>nostris ei imputatis, &amp; nos etiam absolvit in eo: sic ut resurrectio 
+          Chri<lb ed="#H" n="74" break="no"/>sti a mortuis sit justificationis nostri coram Deo tum 
+          complemen<lb ed="#H" n="75" break="no"/>tum &amp; causa: tum ratificatio &amp; pignus. Illa in Christo actualiter &amp; 
+          <lb ed="#H" n="76"/>finaliter absoluti sumus a peccatis nostris pro quibus mortuus erat:  
+          <lb ed="#H" n="77"/>illa justitiae illius sempiternae morte Christi partae, efficaciter partici. 
+          <lb ed="#H" n="78"/>pes fimus. Hoc adeo certum est, ut nisi resurrexisset Christus a mortuis 
+          <lb ed="#H" n="79"/>adhuc essemus in peccatis nostris, quemadnmodum Apostolus docet. 
+          <lb ed="#H" n="80"/>I. Corinth. 15. v. 17, 18. Si Christus non est suscitatus, inanis est fidesI 
+          <lb ed="#H" n="81"/>nostra: adhuc estis in peccatis vestris. Nempe &amp; qui obdormierunt in 
+          <lb ed="#H" n="82"/>Christo perierunt. Huc pertinet quod idem ait Rom. 8. v. 34. Quis est 
+          <lb ed="#H" n="83"/>qui condemnet? Christus is est, qui mortuus est, imo vero qui etiam 
+          <lb ed="#H" n="84"/>suscitatus est, qui etiam est ad dexteram Dei, qui etiam interpellat 
+          <lb ed="#H" n="85"/>pro nobis. Quicquid nos immunes reddit a condemnatione aeterna. 
+          <lb ed="#H" n="86"/>illud profecto est causa justificationis nostri coram Deo. At 
+          resurra<lb ed="#H" n="87" break="no"/>ctio Christi ex mortuis nos immunes reddit a condemnatione aeter 
+          <lb ed="#H" n="88"/>na: Ergo est causa justificationis nostri coram Deo, Philipp. 3. v. 7, 8 
+          <lb ed="#H" n="89"/>9, 10. Sed quae mihi erant lucra, ea duxi propter Christum damnum 
+          <lb ed="#H" n="90"/>esse. Quin etiam certe duco omnia damnum esse propter eminentiam 
+          <lb ed="#H" n="91"/>(seu dignitatem) notitiae Christi Iesu Demini mei: propter quem 
+          o<lb ed="#H" n="92" break="no"/>mnibus istis meipsum multavi, eaque duco prostercoribus, ut Christum 
+          <lb ed="#H" n="93"/>lucrifaciam; Et comperiar in eo, non habens neum justitiam quae est. 
+          <!--cod-MkL9py-0444.xml-->
+          <cb ed="#H" n="b"/>
+          <lb ed="#H" n="94"/>ex Leg, sed eam quae est per fidem Christi, justitiam quae est ex Deo jer 
+          <lb ed="#H" n="95"/>fidem. Vt cognoscam eum, &amp; vim resurractionis ejus. Quia virtute 
+          re<lb ed="#H" n="96" break="no"/>surrectionis Christi evadimus ex morte: resurrectione Christi 
+          in<lb ed="#H" n="97" break="no"/>staurata restitutaque est nobis justitia sempiterna propter quam 
+          vi<lb ed="#H" n="98" break="no"/>tam aeternam consequemur. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e640">
+          <lb ed="#H" n="99"/>
+          <pc type="indent"/>Tertius fructus resurrectionis Christi a mortuis est 
+          resurrectio<lb ed="#H" n="100" break="no"/>nostra duplex, prima &amp; secunda. Resurrectio prima est animarum 
+          <lb ed="#H" n="101"/>nostrarum a morte peccati, hoc est, spiritualis regeneratio nostri, qua, 
+          <lb ed="#H" n="102"/>nos jam quoque potentia Christi ad novam ac sanctam vitam 
+          exci<lb ed="#H" n="103" break="no"/>camur. Resurrectio secunda, est corporum nostrorum e pulvere 
+          ter<lb ed="#H" n="104" break="no"/>rae ad vitam aeternam. Utriusque resurrectionis nostrae causa est 
+          re<lb ed="#H" n="105" break="no"/>surrectio Christi. Nam quicquid ad justificationem &amp; 
+          regeneratio<lb ed="#H" n="106" break="no"/>nem nostri factum est, id causa est resurrectionis nostrae ex mortuis 
+          <lb ed="#H" n="107"/>tum primae tum secundae. Justificatio enim &amp; regeneratio nostri est: 
+          <lb ed="#H" n="108"/>causa vitae nostrae spiritualis &amp; aeternae: quum propter justitiam 
+          Chri<lb ed="#H" n="109" break="no"/>sti per quam justificamur coram Deo, vitam aeternam obtineamus. 
+          <lb ed="#H" n="110"/>At resurrectio Christi ex mortuis ad justificationem &amp; 
+          regeneratio<lb ed="#H" n="111" break="no"/>nem nostri facta est. De justificatione id docet Paulus Apostolus 
+          <lb ed="#H" n="112"/>Rom. 4. v. 25. quum ait, Suscitatum Christum ad nostri 
+          justificatio<lb ed="#H" n="113" break="no"/>nem. Ex eadem resurrectione Christi ex mortuis ccepit 
+          regeneratio<lb ed="#H" n="114" break="no"/>nis gratia, ut haec testimonia docent, 1. Petr. 1. v. 3. 4. Benedictus esto 
+          <lb ed="#H" n="115"/>Deus &amp; Pater Demini nestri Iesu Christi, qui ex multa sua 
+          miseri<lb ed="#H" n="116" break="no"/>corlia regenuit nos in spem vivam per resurrectionem Ieju Christi ex: 
+          <lb ed="#H" n="117"/>mortuis. Ad haereditatem quae nec corrumpi potest, nec contaminari, 
+          <lb ed="#H" n="118"/>nec marcescere, vobis in coelis servatam. Ephes. 2. v. 4, 5. ut qui dives 
+          <lb ed="#H" n="119"/>sit misericordia prepter multam charitatem suam qua dilexit nes 
+          <lb ed="#H" n="120"/>Etiam nos quum in peccatis mortui essemus, una vivificavit cum 
+          <lb ed="#H" n="121"/>Christo, cujus gratia estis servati. Coloss. 2. v. 12, 13 Et censepulti 
+          for<lb ed="#H" n="122" break="no"/>baptismum, per quem etiam cum eo suscitati estis per fidem efficacis 
+          il<lb ed="#H" n="123" break="no"/>lius virtutis Dei, qui suscitavit eum ex mortuis. Vosque mortuos i1 
+          <lb ed="#H" n="124"/>offensis &amp; praeputio carnis vestra, cum eo, vivificavit, nobis 
+          condena<lb ed="#H" n="125" break="no"/>tis omnibus offensis. Rom 6. v. 4, 5. Consepulti sumus igitur ei per 
+          ba<lb ed="#H" n="126" break="no"/>tismum in mortem: ut sicut suscitatus est Christus ex mortuis in 
+          <lb ed="#H" n="127"/>gloria Patris, ita &amp; nos nova vita ambulemus. Nam si cum eo 
+          plan<lb ed="#H" n="128" break="no"/>tati coaluimus assimilatione mortis ejus, nimirum etium 
+          resurrectio<lb ed="#H" n="129" break="no"/>nis assimilatione coalescemus. Et v. 8, 9, 10, 11, 12, 13. Quod si 
+          commor<lb ed="#H" n="130" break="no"/>tui sumus Christo, credimus fore ut etiam ipsi convivamus. Vt qui  
+          <lb ed="#H" n="131"/>sciamus Christum suscitatum ex mortuis, nin amplius mori: 
+          mer<lb ed="#H" n="132" break="no"/>tem ei non amplius dominari. Nam quod mortuus est, peccato 
+          mer<lb ed="#H" n="133" break="no"/>tuus est semel: quod autem vivit, vivit Deo. Ita etiam vos colligite, 
+          <lb ed="#H" n="134"/>vos tum mortuos esse peccato, tum vero vivere Deo per Christum 
+          Ie<lb ed="#H" n="135" break="no"/>sum Dominum nostrum. Ne regnato igitur peccatum in mortali vestro 
+          <lb ed="#H" n="136"/>corpore, ut auscultetis ei in cupiditatibus corporis: Neque sistite 
+          mem<lb ed="#H" n="137" break="no"/>bra vestra arma injustitiae peccato: sed sistite vos Deo, ut ex mortuis. 
+          <lb ed="#H" n="138"/>nivos, &amp; membra vestra arma justitiae Deo. 2. Cor. 5. 15. Posthac non 
+          <lb ed="#H" n="139"/>sibi vivant, sed ei qui pro ipsis mortuus est &amp; suscitatus est, Coloss. 3. 
+          <lb ed="#H" n="140"/>v. 1, 2. 3. 4, 5. Itaque si resurrexistis cum Christo superna quaerite, 
+          ub<lb ed="#H" n="141" break="no"/>Christus est ad dexteram Dei sedens. Superna curate, non terrestria, 
+          <lb ed="#H" n="142"/>Nam mortui estis, &amp; vita vestra abscondita est cum Christo in Deo. 
+          <lb ed="#H" n="143"/>Posiquam autem Christus, vita illa nostra manifestus factus fuerit, 
+          <lb ed="#H" n="144"/>tum &amp; vos cum eo patefietis gloriosi. Mortificate igitur membra 
+          ve<lb ed="#H" n="145" break="no"/>stra terrestria, scortationem, impuritatem, mollitiem, cupiditatem 
+          <lb ed="#H" n="146"/>malam, &amp; avaritiam, quae est idololatria 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e749">
+          <lb ed="#H" n="147"/>
+          <pc type="indent"/>Eadem resurrectio Christi Capitis nostri ex mortuis, est causa ac 
+          <lb ed="#H" n="148"/>pignus secundae &amp; gloriosae illius resui rectionis corporum 
+          nostro<lb ed="#H" n="149" break="no"/>rum in ultimo illo die ad vitam aeternam: ut luculenter testimonia 
+          <lb ed="#H" n="150"/>haec docent I. Corinth. 15. 20, 21, 22. Christus suscitatus est ex 
+          mor<lb ed="#H" n="151" break="no"/>tuis, &amp; primitiae corum qui obdormierunt factus est. Quia enim 
+          pe<lb ed="#H" n="152" break="no"/>hominem mors, per hominem quoque resurrectio mortuorum. 
+          Sicu<lb ed="#H" n="153" break="no"/>gnim in Adamo onines moriuntur, ita &amp; in Christo omnes 
+          vivifica<lb ed="#H" n="154" break="no"/>buntur. Vnusquisque autem suo ordine: primitiae Christus, postea quo 
+          <lb ed="#H" n="155"/>sunt Christi in adventu ipsius. Rom. 8. v. 11. Sed si Spiritus ejus 
+          qui<lb ed="#H" n="156" break="no"/>suscitavit Iesum ex mortuis habitat in vobis: is qui excitavit 
+          Chri<lb ed="#H" n="157" break="no"/>stum ex mortuis, vivificabit etiam mortalia corpora vestra per 
+          inha<lb ed="#H" n="158" break="no"/>bitantem ipsius Spiritum in vobis. 1. Thess. 4. v. 14. Si credimus, 
+          Ie<lb ed="#H" n="159" break="no"/>sum mortuum esse &amp; resurrexisse, ita etiam Deus eos qui 
+          obdermie<lb ed="#H" n="160" break="no"/>rint in Iesu, adducet cum eo. Huc facit, quod statim resurrectionem 
+          <lb ed="#H" n="161"/>Christi consequuta est resurrectio multorum sanctorum, qui in 
+          Christi<lb ed="#H" n="162" break="no"/>venturi fide mortui fuerant, qui etiam introierunt in urbem sanctam &amp; 
+          <lb ed="#H" n="163"/>apparuerunt multis, Matth. 27. v. 52, 53. Hoc enim factum est, ut inde 
+          <lb ed="#H" n="164"/>etiam disceremus, Jesum Nazarenum esse verum Christum illum, au 
+          <lb ed="#H" n="165"/>torem vitae aeternee utque resurrectionis corporum nostrorum daretur 
+          <lb ed="#H" n="166"/>exemplum non tantum in Christo, sed etiam in fratribus nostris. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e797">
+          <lb ed="#H" n="167"/>
+          <pc type="indent"/>Resurrectionis igitur Christi virtute, caro nostra resuscirabitur: 
+          <lb ed="#H" n="168"/>Md felientate aeternam, ac proinde illi qui vere credunt in Jesum 
+          Chri<lb ed="#H" n="169" break="no"/>siusn, ex resurrectione ipsius apud aninmos suos de sum carnis resur. 
+          <lb ed="#H" n="170"/>rectione &amp; vita aeterna confirmantur ad certam suam 
+          consolatio<lb ed="#H" n="171" break="no"/>nem adversus mortem corporalem. Davidex resurrectione 
+          Chrisci<lb ed="#H" n="172" break="no"/>quae demum futura erat, confirmatus est de suae carnis resurrectione 
+          <lb ed="#H" n="173"/>ex mortuis, Psal. 16. v. 8, 9, 10, 11. multo magis nos ex resurrectione 
+          <lb ed="#H" n="174"/>Christi jam facta consirinamur de nostrae carnis resurreetione. Hunc 
+          <lb ed="#H" n="175"/>ipsum usum monsirat Paulus 1. Cor. 15. 19. &amp; sequentibus: Rationes 
+          <lb ed="#H" n="176"/>hujus fructus sunt evidentes. Prima, Deus est in Christo mundum 
+          re<lb ed="#H" n="177" break="no"/>concilians sibi, illeque ipse est vita &amp; Dominus mortis. Congrunm erge 
+          <lb ed="#H" n="178"/>est ut qui ipse vita est &amp; Dominus mortis, nobis reddat vita, qui 
+          prin<lb ed="#H" n="179" break="no"/>eam dederat. Secunda. Quia ut ipse constitutus in corpore nostro, 
+          no<lb ed="#H" n="180" break="no"/>stra mitatus est: ita &amp; nos, illo suscepto, ejus immortalitatis 
+          parti<lb ed="#H" n="181" break="no"/>cipes reddimur. Tertia, Quia ut Caput resurrexit ex mortuis: it; 
+          <lb ed="#H" n="182"/>etiam corpus ejus &amp; unumquodque meibrum corporis erit virtute 
+          ca<lb ed="#H" n="183" break="no"/>pitis particeps beatae resurrectonis. Proprie fides est Christianorum 
+          <lb ed="#H" n="184"/>resurrectio mortuorum: hanc in seipso caput nostrum Christus 
+          ostin<lb ed="#H" n="185" break="no"/>dit, &amp; exemplum fidei nobis praestitit, ut hoc sperent; 
+          amhi<lb ed="#H" n="186" break="no"/>praecessit in capite. Rationis hujus principium est, Ut Christus ueit 
+          <!--cod-MkL9py-0445.xml-->
+          <pb ed="#H" n="418"/>
+          <cb ed="#H" n="a"/>
+          <lb ed="#H" n="1"/>meam in inferno, nec sines Sanctum tuum videre corruptionem. Et 
+          <lb ed="#H" n="2"/>xit pro seu suo bono, sed pro nobis. Proinde quod inchoatum est in 
+          <lb ed="#H" n="3"/>Capite, in membris implendum est secundum ordinem &amp; gradum 
+          <lb ed="#H" n="4"/>uniuscujusque, ut ex hoc etiam constet veritas illius quod Paulus 
+          di<lb ed="#H" n="5" break="no"/>cit Ephes. 1. v. 23. Ecclesiam esse corpus Christi &amp; complementum ejus 
+          <lb ed="#H" n="6"/>qui omnia implet in omnibus. Ita resurrectio Christi ex mortuis 
+          con<lb ed="#H" n="7" break="no"/>firmat fidem nostram de resurractione nostra ex mortuis, 1. Cor. 15. 
+          <lb ed="#H" n="8"/>&amp; consolatur nos adversus mortem corporalem, Psal. 16. v. 10. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e869">
+          <lb ed="#H" n="9"/>
+          <pc type="indent"/>Quartus fructus est conservatio nostri ad salutem aeternam, 
+          cu<lb ed="#H" n="10" break="no"/>jus jam nunc quidem fide &amp; spe participes facti sumus, eadem vero 
+          <lb ed="#H" n="11"/>post universale judicium actu &amp; reipsa perfectissime potiemur, &amp; 
+          <lb ed="#H" n="12"/>fruemur in aeternum: hunc fructum sequentia dicta Scripturae Sacrae 
+          <lb ed="#H" n="13"/>proponunt, 1. Petr. 3. v. 20, 21. In Arca Noe paucae, (id est, octo) 
+          ani<lb ed="#H" n="14" break="no"/>mae servatae sunt in aqua. Cui rei nunc respondens exemplar 
+          Bapti<lb ed="#H" n="15" break="no"/>mi nos quoque servat(non quo carnis sordes abjiciuntur, sed stipula. 
+          <lb ed="#H" n="16"/>tio bonae conscientiae apud Deum) per resurrectionem Iesu Christi. 
+          <lb ed="#H" n="17"/>Rom. 5. v. 10. Nam si quum inimici essemus, reconciliati fuimus Deo 
+          <lb ed="#H" n="18"/>per mortem Filij ejus, multo magis reconciliati servabimur per 
+          vi<lb ed="#H" n="19" break="no"/>tam ipsius. Ita per morte Christi jam sumus Deo reconciliati, &amp; per 
+          <lb ed="#H" n="20"/>vitam seu resurrectionem ejus ex mortuis salvi erimus ultima illa die¬ 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e901">
+          <lb ed="#H" n="21"/>
+          <pc type="indent"/>Effecta resurrectionis Christi intelliguntur ex finibus jam 
+          expo<lb ed="#H" n="22" break="no"/>sitia: Nam per resurrectionem suam Christus plene &amp; efficaciter non 
+          <lb ed="#H" n="23"/>liberavit a peccatis 1. Cor. 15. vers. 17. Per eandem contrivit Christus 
+          <lb ed="#H" n="24"/>caput serpentis Genes. 3 v. 18. Per illam destruxit opera diaboli I. Joh 
+          <lb ed="#H" n="25"/>3. v. 8. Per illam judicatus est princeps mundi, sicut fidelibus nocere 
+          <lb ed="#H" n="26"/>amplius non possit Joh. 16. v. 11. Pet illam exarmavit Christus fortem 
+          <lb ed="#H" n="27"/>illum armatum Luc. 11. v. 22. Per illam nos una vivificati &amp; suscitat 
+          <lb ed="#H" n="28"/>sumus Eph. 2. v. 5, 6. nempe in Christo: nam spiritu coepimus 
+          pecca<lb ed="#H" n="29" break="no"/>to mori &amp; vivere Deo, donec opus illud plene perficiatur, cujus spes 
+          <lb ed="#H" n="30"/>certa est atque infallibilis. Per resurrectionem Jesu Christi ex 
+          mor<lb ed="#H" n="31" break="no"/>tuis regenuit nos Deus Pater in spem vivam, ad haereditatem que nec 
+          <lb ed="#H" n="32"/>corrumpi potest, nec contaminari, nec matcescere, nobis in coelis 
+          ser<lb ed="#H" n="33" break="no"/>vatam 1. Petr. 1. v. 3. 4. Per illam servabimur ab ira Rom. 5. v. 9, 10. 
+          <lb ed="#H" n="34"/>Per illam in ultimo die excitabimur ex mortuis &amp; victoria Christi 
+          de<lb ed="#H" n="35" break="no"/>morte &amp; inferno reportata perfruemur, sic ut triumphaturi simus 
+          ac<lb ed="#H" n="36" break="no"/>morti sepulcroque insultantes dicturi, Ubi pestes tuae o mors? ubi 
+          exi<lb ed="#H" n="37" break="no"/>tium tuum o sepulcrum Hose. 13. v. 14. 1. Cor. 15. v. 54. &amp; seqe. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e943">
+          <lb ed="#H" n="38"/>
+          <pc type="indent"/>Resurrectio ergo Christi ex mortuis adfert nobis &amp; certe adferre 
+          <lb ed="#H" n="39"/>debet singulare &amp; magnum gaudium, quo tristitia &amp; timor infidelis 
+          <lb ed="#H" n="40"/>ex cordibus nostris expellatur. Hoc indicat Matthaeus cap. 28. v. 5, 6. 
+          <lb ed="#H" n="41"/>ubi memorat, Angelum dixisse mulieribus, Vos ne timete, scio enim 
+          <lb ed="#H" n="42"/>vos Iesum crucifixum quaerere. Non est hic: resuxrexit enim 
+          proui<lb ed="#H" n="43" break="no"/>dixit. Adeste, videte locum ubi jacebat Dominus. Et ver. 8. dicitur de 
+          <lb ed="#H" n="44"/>mulieribus, quod audito Christum ex mortuis resurrexisse egresse 
+          <lb ed="#H" n="45"/>int cito e monumento cum timore &amp; gaudio magno. Et de Apostolis 
+          <lb ed="#H" n="46"/>legitur Joh. 20. v. 20. Gavisi sunt discipuli, viso Domino. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e967">
+          <lb ed="#H" n="47"/>
+          <pc type="indent"/>Subjecta sequuntur. Resurrexit Dominus e sepulero, sic ut corpores 
+          <lb ed="#H" n="48"/>suo non manserit in illo, sicut Angelus dixit mulieribus Matth. 28. 
+          <lb ed="#H" n="49"/>v.6. Non est hic: resurrexit enim prout dixit. Adeste, videte locum, 
+          <lb ed="#H" n="50"/>ubi jacebat Dominus. Marc. 16 v. 6. Suscitatus est, non est hic: ecce 
+          lo<lb ed="#H" n="51" break="no"/>cus ubi posuerant eum. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e983">
+          <lb ed="#H" n="52"/>
+          <pc type="indent"/>Resurrexit in corpore glorificato quidem &amp; ab omnibus infirmi 
+          <lb ed="#H" n="53"/>tatibus liberato, sed tamen illo ipso corpore quo passus, crucifixus &amp; 
+          <lb ed="#H" n="54"/>mortuus fuerat, retinente proprietates suas essentiales, sic ut illud 
+          <lb ed="#H" n="55"/>etiam in gloria sit visibile, palpabile, organicum, finitum, certis 
+          di<lb ed="#H" n="56" break="no"/>mensionibus terminatum &amp; circumscriptum, habens partem extra 
+          <lb ed="#H" n="57"/>partem, caput extra pedes, sicut Dominus ipse ait post 
+          resurrectio<lb ed="#H" n="58" break="no"/>nem Luc. 24. v. 39, 40. Videte manus meus &amp; pedes meos: nam egi 
+          <lb ed="#H" n="59"/>ipse sum: contrectato me, &amp; videte:nam spiritus carnem &amp; ossa non 
+          <lb ed="#H" n="60"/>habet, sicut me conspicitis habere. Et quum hoc dixisset, ostendit eis 
+          <lb ed="#H" n="61"/>manus ac pedes: 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1009">
+          <lb ed="#H" n="62"/>
+          <pc type="indent"/>Resurrexit pro solis electis hominibus ad vitam aeternam, sicut 
+          pro<lb ed="#H" n="63" break="no"/>illis solis est homo natus, Legi subjectus factus, passus, crucifixus &amp; 
+          <lb ed="#H" n="64"/>mortuus quoad efficaciam. Nam omnes quidem homines mortui: 
+          <lb ed="#H" n="65"/>resurgent ex mortuis in ultimo illo die, etiam reprobi, per Dei 
+          poten<lb ed="#H" n="66" break="no"/>tiam propter veritatem ejus: soli autem electi resurgent per 
+          effica<lb ed="#H" n="67" break="no"/>ciam resurrectionis Christi ad vitam aeternam. Propterea de solis 
+          e<lb ed="#H" n="68" break="no"/>ectis dicitur 1. Cor. 15. v. 22, 23. In Christo omnes vivificabuntur. 
+          V<lb ed="#H" n="69" break="no"/>nusquisque autem ordine suo: primitiae Christus, postea qui sunt 
+          Chri<lb ed="#H" n="70" break="no"/>sti in adventu ipsius 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1033">
+          <lb ed="#H" n="71"/>
+          <pc type="indent"/>Adiuncta. Resurrectio Chisti ex mortuis fuit necessaria: 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1041">
+          <lb ed="#H" n="72"/>
+          <pc type="indent"/>I. Quia decreta erat ab aeterno, Luc. 24. 46. Sic oportebat 
+          Chri<lb ed="#H" n="73" break="no"/>stum resurgere a mortuis tertio die. Act. 2. 24. Quem Deus excitavit. 
+          <lb ed="#H" n="74"/>solutis doloribus mortis, eo quod impossibile erat ipsum ab ea retineri. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1052">
+          <lb ed="#H" n="75"/>
+          <pc type="indent"/>II. Quia erat praedicta per Prophetas, quorum vaticinia oportuit. 
+          <lb ed="#H" n="76"/>impleri, Luc. 24. 46. Quoniam sic scriptum est, &amp; sic oportebat 
+          Chri<lb ed="#H" n="77" break="no"/>cum pati &amp; resurgere a mortuis tertio die. Semen mulieris contere. 
+          <lb ed="#H" n="78"/>caput serpentis, Gen. 3. 15. Gen. 22. In semine tuo benedicentur omnes 
+          <lb ed="#H" n="79"/>Gentes, Ut in morte maledictio: ita in vita benedictio conspicitur: 
+          <lb ed="#H" n="80"/>Psal. 2. ver. 7. Decretum enarraturus sum, Iehova dixit mihi, Filius 
+          <lb ed="#H" n="81"/>meus es, ego hodie genui te. His enim verbis praedicitur resurrectio 
+          <lb ed="#H" n="82"/>Christi ex mortuis, interprete Paulo Act. 13. v. 32, 33. Et nos vobis ev 
+          <lb ed="#H" n="83"/>angeligantes eam promissionem quae Patribus facta est, Deum 
+          videli<lb ed="#H" n="84" break="no"/>cet eam implevisse filiis illorum, nobis, suscitato Iesu: ut etiam in Psali 
+          <lb ed="#H" n="85"/>mo secundo scriptu est, Filius meus es tu, ego hodie genui te. Non quod  
+          <lb ed="#H" n="86"/>tum demum Pater genuerit Filium quum eum suscitavit ex mortuis 
+          <lb ed="#H" n="87"/>sed quod tunc manifeste patefecerit, hunc Jesum qui victor peccati, 
+          <lb ed="#H" n="88"/>mortis &amp; Satanae a sepulcro emersit, esse Filium illum Dei unigenitum 
+          <lb ed="#H" n="89"/>qui in mundum venturus erat. Hoc clarius explicat Paulus quum ait 
+          <lb ed="#H" n="90"/>Rom. 1. ver. 4. Jesum declavatum esse Filium Dei potenter secundum 
+          <lb ed="#H" n="91"/>Spiritum sanctificationis, per resurrectionum ex mortuis. Eadem 
+          re<lb ed="#H" n="92" break="no"/>surrectio Christi praedicta fuit Psal. 16. 10, Non derelinques animam 
+          <!--cod-MkL9py-0445.xml-->
+          <cb ed="#H" n="b"/>
+          <lb ed="#H" n="93"/>mortuus pro se seu suo bono, sed pro nobis: ita etiam non resurre¬ 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1102">
+          <lb ed="#H" n="94"/>
+          <pc type="indent"/>Psal. 118. 22, 23. 24. Jes. 53. 10, 11. Quandoquidem exponebat seipse 
+          sa<lb ed="#H" n="95" break="no"/>crificium pro reatu, videbit semen, prolongabit dies, &amp; delectatio 
+          Ie<lb ed="#H" n="96" break="no"/>hovae per eum prosperabitur. Et cap. 55. 3. Inclinate aurem vestram. 
+          <lb ed="#H" n="97"/>&amp; venite ad me, audite ut vivat anima vestra: &amp; pagam vobiscum 
+          <lb ed="#H" n="98"/>foedus perpetuum, benignitates Davidis certissimas daturus sum. His 
+          <lb ed="#H" n="99"/>verbis praedictam resurrectionem Christi ex mortuis docet Paulus 
+          <lb ed="#H" n="100"/>Apostolus Actor. 13. v. 34. Quod autem (inquit) suscitaverit eum ex 
+          <lb ed="#H" n="101"/>mortuis, non amplius reversurum in sepulcrum, ita dixit, Dabo vobis 
+          <lb ed="#H" n="102"/>firmas illas Davidis beneficetias. Si enim Christus mansisset in 
+          mor<lb ed="#H" n="103" break="no"/>te, non fuisset firmum fedus cum Davide a Deo sancitum. Job 19. 25. 
+          <lb ed="#H" n="104"/>Equidem ego novi Redemtorem meum vivere: Psal. 110. 7. De 
+          tor<lb ed="#H" n="105" break="no"/>rente in via bibet, propterea exaltabit caput.  
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1133">
+          <lb ed="#H" n="106"/>
+          <pc type="indent"/>III. Quia fuit adumbrata figuris, quibus necesse fuit responderes 
+          <lb ed="#H" n="107"/>veritatem: ut Ionae, Matth. 12 39. Adami dormientis quum ex latere 
+          <lb ed="#H" n="108"/>ejus Deus costam desumeret ex qua mulierem exstruxit, &amp; postea 
+          ex<lb ed="#H" n="109" break="no"/>citati, Gen. 2. v. 21, 22. Isaaci impositi rogo &amp; tamen vivi conservati 
+          <lb ed="#H" n="110"/>Gen. 22. Iosephi conjecti in carcerem &amp; postea rursus educti, 
+          Gen<lb ed="#H" n="111" break="no"/>39. 20. &amp; c. 41. v. 14. Simsonis obseratis portis clausi, &amp; effractis 
+          por<lb ed="#H" n="112" break="no"/>tis evadentis, Jud.16. 3. Davidis toties pressi &amp; tandem evecti ad 
+          re<lb ed="#H" n="113" break="no"/>gnum, Psal. 86. v. 1, 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1155">
+          <lb ed="#H" n="114"/>
+          <pc type="indent"/>IV. Quia debuit vitam aeternam dare ovibus suis quas redemerat  
+          <lb ed="#H" n="115"/>oportuit ipsum igitur vitam resumere, Joh. 10. 28. Ego vitam 
+          aeter<lb ed="#H" n="116" break="no"/>nam do eis, nec peribunt in aeternum, neque rapiet eas quisquam e 
+          ma<lb ed="#H" n="117" break="no"/>nu mea 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1168">
+          <lb ed="#H" n="118"/>
+          <pc type="indent"/>V. Quia nisi resurrexisset, meritum ejus non fuisset sufficiens. Nam 
+          <lb ed="#H" n="119"/>si mansisset in morte, id certum fuisset argumentum, eum non 
+          satis<lb ed="#H" n="120" break="no"/>fecisse plene, sed superatum esse a mole peccatorum &amp; a morte: Ubi 
+          <lb ed="#H" n="121"/>enim est mors, ibi peccatum. Unicum peccatum detinuisset Christum 
+          <lb ed="#H" n="122"/>in morte. Resurgendum igitur Christo fuit, ut firmam haberemus 
+          <lb ed="#H" n="123"/>consolationem, ipsum perfecte pro nobis satisfecisse justitiae Dei, 
+          <lb ed="#H" n="124"/>Roman. 4. vers. ult. 1. Cor. 15. v. 17. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1189">
+          <lb ed="#H" n="125"/>
+          <pc type="indent"/>VI. Quia id requirebat dignitas personae ejus, ut cognosceretur 
+          <lb ed="#H" n="126"/>esse revera Dei Filius, Joh. 17. 1. Pater glorifica Filium tuum. Rom. 
+          <lb ed="#H" n="127"/>1. v. 4. Declavatus Filius Dei potenter per resurrectionem ex mortuis. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1200">
+          <lb ed="#H" n="128"/>
+          <pc type="indent"/>VII. Quia id requirebat officium Christi, quod debet esse 
+          perpe<lb ed="#H" n="129" break="no"/>tuum, sicut ipse est perpetuus noster Mediator. Debuit esse 
+          perpe<lb ed="#H" n="130" break="no"/>tuus Propheta &amp; doctor noster &amp; Apostolus nostrae confessionis, qui  
+          <lb ed="#H" n="131"/>nos semper doceret per Spiritum suum Sanctum. Psal. 22. 23. 
+          Enar<lb ed="#H" n="132" break="no"/>rabo nomen tuum fratribus meis, in media congregatione laudabo te. 
+          <lb ed="#H" n="133"/>Debuit esse perpetuus noster Sacerdos, qui semper pro nobis 
+          interce<lb ed="#H" n="134" break="no"/>deret, Psal. 110. 4. Tu es Sacerdos in aeternum, secundum ordine 
+          Mel<lb ed="#H" n="135" break="no"/>chisedech. Rom. 8. 33. Christus is est qui mortuus est, imo vero qui 
+          et<lb ed="#H" n="136" break="no"/>iam resuscitatus est, qui etiam est ad dexteram Dei, qui etiam 
+          postu<lb ed="#H" n="137" break="no"/>lat pro nobis. Debuit esse noster aeternus rex, 2. Sam. 7. v. 13, 14. 
+          Stabi<lb ed="#H" n="138" break="no"/>liam thronum regni ejus usque in sempiternum. Ego ero ei Pater &amp; ipse  
+          <lb ed="#H" n="139"/>erit mihi Filius. Psal. 45. 5. Sedes tua Deus in saculum seculi, virgo 
+          <lb ed="#H" n="140"/>directionis, virga regni tui. Psal. 89. 36. Semel juravi in Sancto meo, 
+          <lb ed="#H" n="141"/>si Davidi mentiar: semen ejus in aeternum manebit, &amp; thronus ejus 
+          <lb ed="#H" n="142"/>sicut Sol in conspectu meo, &amp; sicut Luna perfecta in aeternum. Dan. 7. 
+          <lb ed="#H" n="143"/>27. Altissimi regnum est sempiternum. Luc. 1. 33. Regni ejus non erit 
+          <lb ed="#H" n="144"/>finis. Rom. 14. 9. Ad hoc enim Christus &amp; mortuus est, &amp; resurret 
+          <lb ed="#H" n="145"/>xit &amp; revixit, ut &amp; mortuis &amp; viventibus dominetur.  
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1244">
+          <lb ed="#H" n="146"/>
+          <pc type="indent"/>Ex his omnibus manifestum est, Christum ex mortuis resurgere. 
+          <lb ed="#H" n="147"/>debuisse. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1253">
+          <lb ed="#H" n="148"/>
+          <pc type="indent"/>Quod ad tempus attinet, Christus nec citius nec serius resurgere 
+          <lb ed="#H" n="149"/>ex mortuis debuit, quam tertio die a morte &amp; sepultura sua 
+          <lb ed="#H" n="150"/>I. Quia praedictum id fuit Hoscae 6. v. 2. Vitae restituet nos (
+          nimi<lb ed="#H" n="151" break="no"/>rum Messias) post biduum: die tertio excitabit nos Iin sua nempe 
+          per<lb ed="#H" n="152" break="no"/>sona) &amp; vivemus coram ipso. Nam Christi resarrectio, quae contigit 
+          <lb ed="#H" n="153"/>tertio die, nostrae pignus est resurrectionis. Ad hunc locum volunt:  
+          <lb ed="#H" n="154"/>respexisse Paulum, quum scribit I. Cor. 15. v. 4. Christum suscitatum 
+          <lb ed="#H" n="155"/>tertio die secundum Scripturas. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1275">
+          <lb ed="#H" n="156"/>
+          <pc type="indent"/>II. Quia typo Jonae idem praefiguratum fuit: ut Dominus ipse 
+          ex<lb ed="#H" n="157" break="no"/>posuit Matth. 12. 40. Sicut enim fuit Ionas in ventre ceti tres dies &amp; 
+          <lb ed="#H" n="158"/>tres noctes: ita erit Filius hominis in corde terrae tres dies &amp; tres noctes. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1286">
+          <lb ed="#H" n="159"/>
+          <pc type="indent"/>III. Quia non debuit Christus post mortem illico reviviscere, ut 
+          <lb ed="#H" n="160"/>certo constaret, vere mortuum esse: nec tamen ultra triduum in 
+          mor<lb ed="#H" n="161" break="no"/>te detineri debuit, ne fides discipulorum labasceret. Poterat quidem 
+          <lb ed="#H" n="162"/>statim a morte corpus suum excitare, sed hoc facere nolebat, nec 
+          fe<lb ed="#H" n="163" break="no"/>cit, ne in dubium mors ejus vocaretur, neve gloria 
+          incorruptibilita<lb ed="#H" n="164" break="no"/>tis in incerto haereret. Ultra tertium autem diem in sepultro detiner 
+          <lb ed="#H" n="165"/>non debuit, ne fides discipulorum periclitaretur, neve jure quisquam  
+          <lb ed="#H" n="166"/>suspicari posset, ipsum non idem corpus quod mortuum erat, sed 
+          a<lb ed="#H" n="167" break="no"/>iud circumferre 
+          <lb ed="#H" n="168"/>Resurrexit exacto Sabbatho, id est, finita hebdomade illa qua ipse 
+          <lb ed="#H" n="169"/>passus est, quum lucesceret in primum diem hebdomadis, ut refertur 
+          <lb ed="#H" n="170"/>Matth. 28. v. 1. hoc est, quum primus sequentis septimanae dies jam 
+          <lb ed="#H" n="171"/>coepisset: ut quo die Deus fecit coelum &amp; terra, eodem die terra 
+          gra<lb ed="#H" n="172" break="no"/>tia &amp; coelum gaudio Resurrectionis Domini repleretur: unde hic 
+          <lb ed="#H" n="173"/>dies appellatur a Christianis dies Dominicus Apoc. 1. v. 10. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1324">
+          <lb ed="#H" n="174"/>
+          <pc type="indent"/>Quo die septimanae primus Adamus vivere coepit: eo die 
+          secun<lb ed="#H" n="175" break="no"/>dus Adamus mortuus est. Et quo die septimanae mundus ex istere 
+          <lb ed="#H" n="176"/>coepit, eodem secundus Adamus revixit.  
+          <lb ed="#H" n="177"/>Resurrexit oriente Sole, ut ostenderet se esse verum illum Solem 
+          <lb ed="#H" n="178"/>ustitiae, illuminantem eos qui sedent in tenebris &amp; in umbra mortis 
+          <lb ed="#H" n="179"/>ad dirigendos pedes eorum in viam pacis, ut Zacharias canit Luc. 1. 
+          <lb ed="#H" n="180"/>79. ut ostenderet, se esse illum qui &amp; mortem abolevit &amp; vitam &amp; in 
+          <lb ed="#H" n="181"/>corruptibilitatem in lucem produxit per Evangelium 2. Tim. 1. 10. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1346">
+          <lb ed="#H" n="182"/>
+          <pc type="indent"/>Resurrexit cum terraemotu quo repente patefactum est 
+          sepul<lb ed="#H" n="183" break="no"/>trum, &amp; custodibus, quos attonitos obstupefecerat pavor, nihil videns 
+          <lb ed="#H" n="184"/>tibus, integer e sepulcro ac vivus egressus, ait Lactantius libro quarto 
+          <!--cod-MkL9py-0446.xml-->
+          <pb ed="#H" n="419"/>
+          <cb ed="#H" n="a"/>
+          <lb ed="#H" n="1"/>divinarum institutionum qui est de vera sapientia, capite 
+          decimono<lb ed="#H" n="2" break="no"/>no: I. Ut indicaret, se esse omnipotentem Dominum qui nutu suo tera 
+          <lb ed="#H" n="3"/>ram concutere valeat: ac proinde potenter ex terrae corde exea¬ 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1370">
+          <lb ed="#H" n="4"/>
+          <pc type="indent"/>II. Ut significaretur, quemadmodum terra ob mortem 
+          Christ<lb ed="#H" n="5" break="no"/>exhorruit &amp; contremuit Matth. 27. v. 51, ita eandem postea gestivit 
+          <lb ed="#H" n="6"/>se eum superis reddere &amp; exsultasse ob ejusdem reditum in vitam 
+          <lb ed="#H" n="7"/>Quanto magis nos gaudere decet, quorum bono Christus resurrexit:  
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1383">
+          <lb ed="#H" n="8"/>
+          <pc type="indent"/>HI. Ut Christus testatum faceret, se virtute sua omnipotenti ter 
+          <lb ed="#H" n="9"/>tam in ultimo die concussurum ut mortuos suos reddat 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1392">
+          <lb ed="#H" n="10"/>
+          <pc type="indent"/>Ingens illud saxum quod ostio monumenti antea advolutum 
+          fue<lb ed="#H" n="11" break="no"/>rat, est amotum ministerio Angeli e coelo descendentis Matth. 28. 2. 
+          <lb ed="#H" n="12"/>&amp; nec sigillum quod ostio monumenti appositum fuerat nec 
+          custo<lb ed="#H" n="13" break="no"/>diam militum curantis: ut intelligeremus Angelos Christo taquam 
+          <lb ed="#H" n="14"/>Domino servire, non quod Christus sine opera Angeli non 
+          potuis<lb ed="#H" n="15" break="no"/>set exire e sepulcro, si voluisset: sed quod justitia requirebat, ut qui  
+          <lb ed="#H" n="16"/>mortuus propter peccata nostra in vinculis mortis in sepulcro 
+          vo<lb ed="#H" n="17" break="no"/>untate Patris detinebatur, a Deo Patre absolutus, e sepulero velut  
+          <lb ed="#H" n="18"/>e carcere dimitteretur: sicut qui propter debita in carcere detinetur  
+          <lb ed="#H" n="19"/>solutis debitis, non absque autoritate judicis ex carcere exit &amp; velus 
+          <lb ed="#H" n="20"/>fugit; sed voluntate judicis carcer ei a ministro aperitur ut legitime C 
+          <lb ed="#H" n="21"/>exeat.  
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1423">
+          <lb ed="#H" n="22"/>
+          <pc type="indent"/>Resurrectio Christi ex mortuis primum ab Angelo annunciate 
+          <lb ed="#H" n="23"/>fuit: nam etiam ab Angelo conceptio, ab Angelo nativitas significat 
+          <lb ed="#H" n="24"/>ca, ut a spiritibus qui ministerij causa a Deo mittuntur propter eos 
+          <lb ed="#H" n="25"/>qui haeredes sunt futuri regni coelorum 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1437">
+          <lb ed="#H" n="26"/>
+          <pc type="indent"/>Annunciata primum fuit piis mulieribus quae ungendi 
+          Christi<lb ed="#H" n="27" break="no"/>causa summo mano ad sepulcrum venerant.  
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1446">
+          <lb ed="#H" n="28"/>
+          <pc type="indent"/>I. Quia sicut mulier nempe Eva a Serpente decepta, prima fuit in 
+          <lb ed="#H" n="29"/>lapsu &amp; autor peccati primo Adamo: ita etiam mulier, nempe 
+          Ma<lb ed="#H" n="30" break="no"/>ria Magdalene prima cucurrit ad sepulcrum Christi, prima 
+          Evange<lb ed="#H" n="31" break="no"/>lium de resurrectione secundi Adami ab Angelis audire debuit, ut 
+          il<lb ed="#H" n="32" break="no"/>lam prima Apostolis nunciaret, Joh. 20. v. 1. &amp; sequentibus. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1462">
+          <lb ed="#H" n="33"/>
+          <pc type="indent"/>II. Quia voluit Deus sic ornare pietatem illarum, quarum zelus 
+          <lb ed="#H" n="34"/>pro gloria Christi fervidior erat, quam virorum. 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1471">
+          <lb ed="#H" n="35"/>
+          <pc type="indent"/>III. Quia voluit Deus ex hominibus primum praeconium de 
+          re<lb ed="#H" n="36" break="no"/>surrectione Christi fieri a mulieribus alioquin humilibus instru 
+          <lb ed="#H" n="37"/>mentis, ut &amp; Apostolos expergefaceret, &amp; per mulierculas 
+          pudefa<lb ed="#H" n="38" break="no"/>ceret viros qui sibi antea fortes videbantur.  
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1484">
+          <lb ed="#H" n="39"/>
+          <pc type="indent"/>Resurrectio Christi ex mortuis vera fuit, non phantasmatica, non 
+          <lb ed="#H" n="40"/>imaginaria: 1. quia corpus Christi non masit in sepulcro testibus 
+          An<lb ed="#H" n="41" break="no"/>gelis. 2. quia Christus post resurrectionem edit &amp; bibit cum 
+          discipu<lb ed="#H" n="42" break="no"/>is, Luc. 24. v. 41, 42, 43. Joh. 21. v. 12, 13. Hoc resurrectionis verae 
+          si<lb ed="#H" n="43" break="no"/>gnum Apostoli plurimi fecerunt, sicut Actor. 10. vers. 41. Petrus ait 
+          <lb ed="#H" n="44"/>comedimus ac bibimus una cum eo, posteaqua resurrexit a mortuis. 
+          <lb ed="#H" n="45"/>eAlias circumstantias omitto, quae in homiliis de resurrectione 
+        </p>
+        <p xml:id="yyy8Uu-e02486-d1e1504">
+          <lb ed="#H" n="46"/>
+          <pc type="indent"/>Christi a multis explicatae sunt: sequitur  
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

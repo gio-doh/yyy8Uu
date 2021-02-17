@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 27</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 27</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="183"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e86833"> <!-- l2-c27 -->
+            <head xml:id="yyy8Uu-e86833-Hd1e109">Caput 27</head>
+            <p xml:id="yyy8Uu-e86833-d1e112">
+               <lb ed="#H" n="101"/>CAPUT XXVII. 
+      <lb ed="#H" n="102"/>In quo de veritate Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e119">
+               <lb ed="#H" n="103"/>USTITIA Dei rursus tum veritas est, tum sanctitas 
+      <lb ed="#H" n="104"/>Veritas Dei, variis significatis in Scriptura Sacra usurpatur: 
+      <lb ed="#H" n="105"/>nam vel proprietatem Dei essentialem significat: vel in 
+      menti<lb ed="#H" n="106" break="no"/>bus creaturarum rationalium veram Dei notitiam, ut Rom. 1. v. 18. 
+      <lb ed="#H" n="107"/>dicuntur Philosophi Gentiles veritatem Dei iniusse detinuisse: &amp; v 
+      <lb ed="#H" n="108"/>5. dicuntur Dei veritatem transmutasse in falsitatem: hic enim 
+      al<lb ed="#H" n="109" break="no"/>Apostolo veritas Dei dicuntur προληψεις κι κοιιαι ἵννοίας: id est, 
+      ante<lb ed="#H" n="110" break="no"/>septiones &amp; communes notiones, quae omnibus hominibus natura 
+      <lb ed="#H" n="111"/>sunt insitae, per se notae &amp; evidentes, creatae a Deo in natura omnium. 
+      <lb ed="#H" n="112"/>hominum, ut essent normae veritatis &amp; certitudinis dogmatum  
+      <lb ed="#H" n="113"/>omnium &amp; regulae actionum humanarum: vel significat veram 
+      do<lb ed="#H" n="114" break="no"/>ctrinam salutis a Deo reveleatam, ut Joh. 17. v. 17. Sanctifica eos tuae 
+      <lb ed="#H" n="115"/>veritate, sermo tuus veritas est: 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e150">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>In praesentia primo significato accipitur &amp; sic describitur: 
+      <lb ed="#H" n="117"/>VERITAS DEij est essentialis ejus proprietas, per quam in seipse 
+      <lb ed="#H" n="118"/>summe verus in dictis factisque suis verax, sincerus &amp; fidelis, &amp; 
+      in<lb ed="#H" n="119" break="no"/>creaturis omnis veritatis autor esse inteiligitur, ab omni falso &amp; men 
+      <lb ed="#H" n="120"/>dacio &amp; ab omni simulatione atque oblivione alienissimus 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e167">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>Eaque non est qualitas in Deo inhaerens, sed ipsamet essentia Dei. 
+      <lb ed="#H" n="122"/>unde Deus ipse est sua veritas 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e176">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Idque tum in seipso: tum extra se erga creaturas. 
+      <lb ed="#H" n="124"/>In seipso Deus veritas est tribus modis. 
+      <lb ed="#H" n="125"/>Vno modo essentia sua, quam vere est: &amp; vere talis est, qualis esse 
+      di<lb ed="#H" n="126" break="no"/>citur: Sicut enim falsum est, quod videtur esse, sed non est: ita verum, I. 
+      <lb ed="#H" n="127"/>est id quod vere est. Nam verum convertitur cum Ente, id est, cum 
+      <lb ed="#H" n="128"/>eo, quod est: Unde quicquid est, eo ipso quod est, verum est: &amp; 
+      con<lb ed="#H" n="129" break="no"/>tra, quicquid verum est, eo ipso est, quo verum est. Haec necessario 
+      <lb ed="#H" n="130"/>semper inter se cohaerent, reciprocanturque &amp; inter se commeant: 
+      <lb ed="#H" n="131"/>sicut enim se habet ens, ita eriam verum. Quia autem essentia Dei 
+      <lb ed="#H" n="132"/>vere est, ideo propriissime veritas appellatur. Hinc verus Deus toties 
+      <lb ed="#H" n="133"/>in Scriptura dicitur, ut a falsis discernatur: quemadmodum Azaris 
+      <lb ed="#H" n="134"/>Propheta 2. Chron. 15. 3. ad Asam &amp; tribum Juda ac Binjaminem 
+      <lb ed="#H" n="135"/>ait: Dies multi aguntur Israelis sine Deo vero, &amp; sine Sacerdote 
+      docen<lb ed="#H" n="136" break="no"/>re, ac sine lege. Ubi Deus verus intelligitur Deus Israeli patefactus, qui 
+      <lb ed="#H" n="137"/>olus vere est. Sic Jerem. 10. v. 10. Jehova ab idolis discernitur eo, 
+      <lb ed="#H" n="138"/>quod sit Deus verus, Deus vivens, &amp; Rex sempiternus: a cuius fervore 
+      <lb ed="#H" n="139"/>commovetur terra, neque sustinere possunt indignationem eius. De idolis 
+      <lb ed="#H" n="140"/>vero dicitur v. 14. Falsum est fusile eius, nec Spiritus est in ullo eorum. 
+      <lb ed="#H" n="141"/>Joh. 17. 3. Haec est vita aterna, ut te cognoscant esse illum verum Deum 
+      <lb ed="#H" n="142"/>S quem misisti Iesum Christum. Similiter I. Thess. 1. 9. Siquidem ipsi 
+      <lb ed="#H" n="143"/>de nobis annunciant, qualem ingressum habuerimus ad vos, &amp; 
+      quomo<lb ed="#H" n="144" break="no"/>do converteritis vos ad Deum relictis idolis, ut serviretis Deo vivo &amp; 
+      ve<lb ed="#H" n="145" break="no"/>ro. 1. Joh. 5. 20, 21. Scimus Filium Dei venisse, &amp; dedisse nobis mentem, 
+      <lb ed="#H" n="146"/>ut cognoscamus illum qui verax est: &amp; sumus in verace illo, in Filio eius 
+      <lb ed="#H" n="147"/>Iesu Christo, hic est verus ille Deus, &amp; vita illa aterna. Filioli cavete, 
+      <lb ed="#H" n="148"/>vobis ab idolis. Quibus verbis aeternam Christi asserit Deitatem, 
+      di<lb ed="#H" n="149" break="no"/>citque Christum verum esse Deum &amp; segregatum ab idolis, quae 
+      fu<lb ed="#H" n="150" break="no"/>gienda monet. Sicut autem Deus vere est: ita etiam est vere simpli 
+      <lb ed="#H" n="151"/>cissimus, vere infinitus, vere aeternus, vere immensus, vere perfectus, 
+      <lb ed="#H" n="152"/>vere immutabilis, vere vivus, vere immortalis, vere beatus, vere 
+      sa<lb ed="#H" n="153" break="no"/>piens, vere volens, vere bonus, vere gratiosus, vere φιλανθρωπος, 
+      ver<lb ed="#H" n="154" break="no"/>misericors, vere patiens vere clemens, vere justus vere 
+      po<lb ed="#H" n="155" break="no"/>tens, vere denique omne id, quod de illo in Sacris Scripturis 
+      praedica<lb ed="#H" n="156" break="no"/>tur. Hoc ergo primo modo Deus in seipso veritas est. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e254">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>Secundo Deus in seipso est veritas, quatenus ipse increata, ac idcit 
+      <lb ed="#H" n="158"/>co propriissime prima summa &amp; maxima veritas, &amp; archetypum 
+      im<lb ed="#H" n="159" break="no"/>mutabile, exemplar &amp; idea est rerum verarum omnium quae sunt 
+      ex<lb ed="#H" n="160" break="no"/>tra ipsum: &amp; idcirco ipsae etiam res creatae veritates appellantur, ve 
+      <lb ed="#H" n="161"/>potius, ut aptioribus verbis utar, verae res: quia omnis rerum omnium 
+      <lb ed="#H" n="162"/>veritas fuit in mente Dei seu intellectu divino ab aeterno, ac proinde 
+      <lb ed="#H" n="163"/>ad veritatem Dei seu ad veram illam in mente divina ideam 
+      confor<lb ed="#H" n="164" break="no"/>matae sunt, quae idea in mente divina est talis cognitio, quae ex aeque 
+      <lb ed="#H" n="165"/>respondeat rebus ipsis, ac proinde verissima &amp; certissima, non a rebus 
+      <lb ed="#H" n="166"/>ipsis in Deo producta, sed ipsa est rerum causa, &amp; ab ea pendent 
+      o<lb ed="#H" n="167" break="no"/>mnes aliae veritates, &amp; ipsa est mensura omnis veritatis 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e283">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Tertio est veritas sua in operibus internis personalibus &amp; essentia. 
+      <lb ed="#H" n="169"/>libus. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e292">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>In personalibus, quatenus Pater vere gignit Filium, quaterus 
+      Fi<lb ed="#H" n="171" break="no"/>ius vere nascitur ex Patre, quatenus Spiritus Sanctus vere per aetera 
+      <lb ed="#H" n="172"/>nam spirationem procedit &amp; emanat a Patre &amp; Filic 
+      <lb ed="#H" n="173"/>Sic veritas est in operibus Dei internis essentialibus, quatenus 
+      o<lb ed="#H" n="174" break="no"/>mnia ejus decreta vera sunt. Quicquid enim decrevit ab aeterno, vero 
+      <lb ed="#H" n="175"/>decrevit. Sic Deus est veritas in seipso¬ 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e310">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Idem est veritas extra se erga creaturas suas, tum in operibus 
+      exter<lb ed="#H" n="177" break="no"/>nis, tum in verbis suis. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e320">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Veritas est in omnibus operibus externis, quatenus in illis est alit 
+      <lb ed="#H" n="179"/>nus ab omni mendacio, simulatione &amp; figmento. Unde omnia 
+      opo<lb ed="#H" n="180" break="no"/>ra Dei vera sunt: sicut ii qui victoriam reportabant ex bestia illa &amp; 
+      <lb ed="#H" n="181"/>imagine ejus &amp; charactere ejus, &amp; ex numero nominis ejus, stanter 
+      <!--cod-MkL9py-0211.xml-->
+      <pb ed="#H" n="184"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>opud ipare vitreum &amp; habentes citharas Dei, &amp; qui cantabant 
+      canti<lb ed="#H" n="2" break="no"/>cum Mosis servi Dei &amp; : anticum Agni, dixerunt Apocalyps. 15. v. 1: 
+      <lb ed="#H" n="3"/>Magna &amp; mirabilia sunt opera tua Domine Deus omnipotens, justae &amp; 
+      <lb ed="#H" n="4"/>verae sunt viatuae. Rex sanctorum: Et cap 16. v. 7. audivit Johannes 
+      <lb ed="#H" n="5"/>Angelum e sanctuario dicentem; Etiam Domine Deus omnipotens 
+      <lb ed="#H" n="6"/>vera sunt &amp; iusta iudicia tua. Veritas igitur Dei est in exsecutione 
+      <lb ed="#H" n="7"/>decreti Dei aeterni: vere exsequitur quicquid decrevit &amp; quomod 
+      <lb ed="#H" n="8"/>decrevit. Ac proinde veritas Dei est in creatione, veritas in 
+      conser<lb ed="#H" n="9" break="no"/>vatione, veritas in gubernatione. Quicquid agit, vere agit, nihile 
+      <lb ed="#H" n="10"/>fucate, nihil simulate, nihil ficte &amp; mendaciter: unde vera ejus 
+      ope<lb ed="#H" n="11" break="no"/>ra omnia. nihil falsum, nihil vanum: estque omne opus Dei, 
+      reve<lb ed="#H" n="12" break="no"/>ra id, quod esse apparet, verum caelum, verae nubes, Sol verus, 
+      Luna<lb ed="#H" n="13" break="no"/>vera, atque adeo omnia opera vera, ordinaria atque extraordinatia 
+      <lb ed="#H" n="14"/>Sic vera sunt ejus miracula: At contra, miracula Satanae sunt 
+      falsa<lb ed="#H" n="15" break="no"/>nihil habentia veri; Est enim Satanas praestigiator, mentes homiuum 
+      <lb ed="#H" n="16"/>vanis spectris ludificas. Ideo 2. Thess 2. v. 9. dicitur Antichristi adven 
+      <lb ed="#H" n="17"/>us esse ex efficacitate diaboli, cum potentia omni &amp; signis at pdigiis 
+      men<lb ed="#H" n="18" break="no"/>dacibus Sic vera sunt omnia alia opera; vera Christi incarnatio, ver 
+      <lb ed="#H" n="19"/>nostri ad Christum vocatio, non simulata, non ficta: vera justificatio 
+      <lb ed="#H" n="20"/>vera peccatorum remissio non simulata, vera justitiae Christi imputatio,  
+      <lb ed="#H" n="21"/>non contemtitia, non ficta, non simulata: vera nostri glorificatio: 
+      <lb ed="#H" n="22"/>vera eti merit omnium, qui inde a mundo condito mortui sunt, &amp; 
+      <lb ed="#H" n="23"/>usque ad finem mundi mortui fuerint universalis resusc tatio, verum. 
+      <lb ed="#H" n="24"/>judicium universorum, vera credentium beatificatio, vera infidelium 
+      <lb ed="#H" n="25"/>condemnatio 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e394">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>Denique est Deus sua veritas etiam in verbis suis omnibus: 
+      quae<lb ed="#H" n="27" break="no"/>veritas in verbis nominatur etiam fides Dei, quod immutabiliter 
+      <lb ed="#H" n="28"/>erta sint ac fiant quae ab ipso dicta sunt. Deuteronom. 22. versic. 4. 
+      <lb ed="#H" n="29"/>Rupis illius opus est perfectum, omnes enim viae illius sunt ius. Deus 
+      <lb ed="#H" n="30"/>fortis fidelis; &amp; expers iniquitatis, iustus, &amp; rectus est. Psal. 100. ver. 
+      <lb ed="#H" n="31"/>ilt. Bonus est Iehova, in saculum est benignitas eius: &amp; usque ad 
+      gene<lb ed="#H" n="32" break="no"/>rationem quamque fides eius. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e414">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Nuncupatur etiam constantia Dei: item iustitia dicti. Mandata. 
+      <lb ed="#H" n="34"/>igitur Dei vera sunt: velut mandatum primis parentibus nostris in 
+      <lb ed="#H" n="35"/>Paradiso datum verum fuit, non simulatum, vere interdixit fructu 
+      <lb ed="#H" n="36"/>arboris scientiae boni &amp; mali non simulate. Vere ac non simulate 
+      <lb ed="#H" n="37"/>mandavit Abrahamo, ut Isaacum off rret. Sic verae sunt 
+      commi<lb ed="#H" n="38" break="no"/>nationes Dei, verae promissiones, verae consolationes, vera vaticinia 
+      <lb ed="#H" n="39"/>vera denique oracula omnia, sive Deus ea per se promulgavit, sive 
+      <lb ed="#H" n="40"/>s per Angelos, sive per homines, nempe Prophetas. Christum in 
+      car<lb ed="#H" n="41" break="no"/>ne manifestatum, &amp; Apostolos. Hinc dicitur Psalm. 12. versic. 7. 
+      <lb ed="#H" n="42"/>Dicta Iehovae dicta pura sunt: argentum purgatum in catino lectissi 
+      <lb ed="#H" n="43"/>mo terrae, desoecatum septies. Psalm. 19. vers. 8. 9. Doctrina Iehovi 
+      <lb ed="#H" n="44"/>integra est, restituens animam: t stimonium Iehovae verox: 
+      sapien<lb ed="#H" n="45" break="no"/>tiam afferens imperito: Mandata Iehovae sunt recta, laetificartia 
+      ani<lb ed="#H" n="46" break="no"/>mum: praeceptum Iehovae purum, illustrans oculos. Reverentia 
+      Ieho<lb ed="#H" n="47" break="no"/>ivae munda, consistens in sempiternum: iudicia Iehovae sunt ipsa 
+      veri<lb ed="#H" n="48" break="no"/>tas, iusta sunt pariter. 
+      <lb ed="#H" n="49"/>Hactenus tradita est distinctio veritatis Dei: sequuntur effe¬ 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e456">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>cta, adjuncta, dissentanea, comparata &amp; usus ejus 
+      <lb ed="#H" n="51"/>Effectum veritatis Dei est omnis veritas creata; nimirum 
+      prim<lb ed="#H" n="52" break="no"/>in rebus ipsis quae sunt a Deo productae; Eatenus enim res verae 
+      di<lb ed="#H" n="53" break="no"/>cuntur quatenus conformes sunt primae illi atque increatae veritati seu 
+      <lb ed="#H" n="54"/>ideae in mente divina: Deinde in intellectu creato, Angelico &amp; 
+      huma<lb ed="#H" n="55" break="no"/>no, in quem a reb. transit: Tertio in verbois sive scriptis, sive viva voc 
+      <lb ed="#H" n="56"/>pro atis. Atque hic ordo est natae &amp; patefactae veritatis. Veritas 
+      pro<lb ed="#H" n="57" break="no"/>priissime est in intellectu divino eaque increata: deinde creata veritas 
+      <lb ed="#H" n="58"/>est primo in rebus ipsis, deinde in intellectu creato, tertio in verbis. 
+      Ve<lb ed="#H" n="59" break="no"/>ritas in rebus, est exaequatio rerum intellectarum ad mentem divinam 
+      <lb ed="#H" n="60"/>ntelligentem. Verttas in intellectu creato, est exaequatio mentis 
+      an<lb ed="#H" n="61" break="no"/>gelicae vel humana intelligentis, ac rei intellectae. Veritas in verbis est 
+      <lb ed="#H" n="62"/>exaequatio verborum seu orationis cum mente intelligente &amp; re 
+      in<lb ed="#H" n="63" break="no"/>tellecta: nam oratio vera, est quae non aliud dicit quam est in ment 
+      <lb ed="#H" n="64"/>dicentis. &amp; in re, de qua dicit. Omne ergo verum a Deo est, uti &amp; 
+      <lb ed="#H" n="65"/>amne bonum. Deus est veritas prima ac suprema, unde reliquae 
+      o<lb ed="#H" n="66" break="no"/>mnes ve itates ortum habent &amp; dependent 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e498">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>A veritate DIessentiali ortum habet &amp; dependet inprimis 
+      veri<lb ed="#H" n="68" break="no"/>tas verbi Dei, Legis &amp; Evangeli, doctrina coelestis, comprehensa in 
+      <lb ed="#H" n="69"/>Sacra Scriptura, cujus vera cognitio nobis est pernecessaria ad salu 
+      <lb ed="#H" n="70"/>tem aeternam. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e511">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Quod pertinet ad veritatis Dei adiuncta, est illa I. constans &amp; 
+      sta<lb ed="#H" n="72" break="no"/>bilis, etiamsi homines fiant perfidi, Rom. 3. v. 3. 4. Quid tum enim si in 
+      <lb ed="#H" n="73"/>fidi faerunt quidam? num ipsorum infidelitas fidem Dei inanem reddet? 
+      <lb ed="#H" n="74"/>Absit: imo esto Deus verax, omnis autem homo mendax: sicut scriptum 
+      <lb ed="#H" n="75"/>est, ut tustificeris in sermonibus tuis, &amp; vincas quado tu iudicas. 2. Tim. 
+      <lb ed="#H" n="76"/>213. Si infidi sumas, ille tamen fidus manet, negare seipsum non potest. 
+      <lb ed="#H" n="77"/>Joh 7 v. 28, 29A meipso non veni, sed est verax qui misit me, quem vos 
+      <lb ed="#H" n="78"/>nin nostis: Ego vero novi eum, quia ab ipso sum, &amp; ille me misit. Psal 
+      <lb ed="#H" n="79"/>89. v. 5. Statuo fore ut in saculum benignitas aedificetur: in caelis ipsis 
+      <lb ed="#H" n="80"/>stubilias fidem tuam 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e538">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>II. Est sula aeterna in mente Dei, hoc est, semper est eadem sine 
+      <lb ed="#H" n="82"/>ulla temporis differentia ab aeterno in aeternum. Psal. 117. 2. Invaluit 
+      <lb ed="#H" n="83"/>erga nos benignitas, &amp; fides Iehovae in saculum. Halleluiah. Et Ps. 146. 
+      <lb ed="#H" n="84"/>6. Srvas fidem in seculum. Veritatis creatae est alia ratio: nam quod 
+      <lb ed="#H" n="85"/>olim verum fuit, hodie falsum esse potest Variatis rebus aut carum 
+      <lb ed="#H" n="86"/>circumsiantiis, variatur illarum veritas: ut ante Christi adventum il1 
+      <lb ed="#H" n="87"/>carnam vera erat haec propositio; Christus veniet &amp; assumet carnem 
+      no<lb ed="#H" n="88" break="no"/>stram: nunc eadem falsa est posta Christus in caine manifestatus est. 
+      <lb ed="#H" n="89"/>III II ustratur, magis perspicua sit &amp; quodammodo stabilitur 
+      per<lb ed="#H" n="90" break="no"/>mendacium hominum; unde plus quoqe. gloriae ad Deum redit: quam 
+      <lb ed="#H" n="91"/>non per se, sed per accidens; quum Deus ex eo quod per se malum est, 
+      <!--cod-MkL9py-0211.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>noverit elicere materiam gloriae suae. Id testatur Paulus cum ait Rofia 
+      <lb ed="#H" n="93"/>3. v. 7. Si veritas Dei per meum mendacium redundavit in gloriam 
+      <lb ed="#H" n="94"/>ipsius, cur amplius ego ut peccator condemnor? Deus enim per homini 
+      <lb ed="#H" n="95"/>mendacia, quae alioquin sunt obstacula suae veritati, invenit tamen illi 
+      <lb ed="#H" n="96"/>viam per invia, ut superior evadat, ingenitam naturae nostrae incredus 
+      <lb ed="#H" n="97"/>litatem corrigendo in suis electis, &amp; subjugando eos in suum 
+      obse<lb ed="#H" n="98" break="no"/>quium, qui videbantur indomi:i 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e586">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>IV. Est purissima &amp; perfectissima, cui nihil falsi admistum est, &amp; 
+      <lb ed="#H" n="100"/>nihil veri deest. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e595">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>V Eadem est immutabilis. 
+      <lb ed="#H" n="102"/>VI. Est tantummodo una, quam omnia sunt vera apud Deum. Alia 
+      <lb ed="#H" n="103"/>est ratio veritatis creatae in intellactu creato, exempli causa humano: in 
+      <lb ed="#H" n="104"/>eo enim multae sunt veritates, sicut multae sunt res quae intelliguntur, &amp; 
+      <lb ed="#H" n="105"/>multi modi quibue intelliguntar Una tantum est veritas efficiens &amp; 
+      ex<lb ed="#H" n="106" break="no"/>emplaris, quae est ipse Deus: formalis autem quae humanae menti est 
+      <lb ed="#H" n="107"/>intrinseca, est multiplex, ac proinde formaliter multae sunt veritates 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e615">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>VII. Est bona 
+      <lb ed="#H" n="109"/>IIX Ejus manifestatio est a Deo petenda, exemplo Davidis, qui 
+      <lb ed="#H" n="110"/>Psal. 43. 3. precatur; Mitte lucem tuam &amp; veritatem tuam, ipsae deaus 
+      <lb ed="#H" n="111"/>cant me: adducant me in montem sanctitatis tuae &amp; in tabernacula tua. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e628">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>IX. Est celebranda, cum etiam caelites ipsi eam praedicent, &amp; 
+      Ec<lb ed="#H" n="113" break="no"/>clesiae testificentur, Psal. 89. 6. Celebrant caeli mirabile opus tuum, 
+      Ieho<lb ed="#H" n="114" break="no"/>va: etiam veritatem tuam in congregatione Sanctorum. Psal. 92. 2, 3. 
+      <lb ed="#H" n="115"/>Bonum est celebrare Iehovam, &amp; psallere nomini tuo o excelle, 
+      annun<lb ed="#H" n="116" break="no"/>ciare unoquoque mane benignitatem tuam, &amp; fidem (seu veritatem 
+      <lb ed="#H" n="117"/>tuam quibusque noctibus 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e646">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>X. Est a parentibus praedicanda apud liberos, Jesa. 38 v. 19. 
+      Vi<lb ed="#H" n="119" break="no"/>vens, vivens, ipse declavabit te ut ego hodie (loquitur Chizlija rex 
+      Ju<lb ed="#H" n="120" break="no"/>da;) pater filiis notam faciet fidem (seu veritatem) tuam. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e658">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>XI. Est ubique conspicua, Psal. 36. v. 6. Iehova in caelis est 
+      benigni<lb ed="#H" n="122" break="no"/>tas tua: fides (seu veritas) tua usque ad superiores nubes. Eadem sententia. 
+      <lb ed="#H" n="123"/>repetitur Psal. 57.11 &amp; Psal. 108. 5. Psal. 89. 9. O Iehova Deus 
+      exerti<lb ed="#H" n="124" break="no"/>titum, quis est par tibi robustus Tah? nam fides (seu veritas) tua 
+      circum<lb ed="#H" n="125" break="no"/>vestit te, id est, undequaque exornaris veritate &amp; constantia operum 
+      <lb ed="#H" n="126"/>tuorum: Ubique apparent documenta veritatis tuae &amp; fideit 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e676">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>XII. Est certa electis, qui semper experiuntur Deum veracem &amp; 
+      <lb ed="#H" n="128"/>fidelem esse, sicut Deus promittit Psal. 89. v. 25. Fides (seu veritas) mea 
+      <lb ed="#H" n="129"/>Svenignitas mea affutura est ei, ut in nomine meo extollatur cornis eius. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e687">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>Dissentane 
+      <lb ed="#H" n="131"/>I. Veritas seu fides Dei, quorundam infidorum seu fedifragorum 
+      <lb ed="#H" n="132"/>hominum infidelitate non redditur inanis: sicut testatur Paul. Rom. 
+      <lb ed="#H" n="133"/>3. v. 3. Quid tum enim, si infidi fuerunt quidam?num ipsorum infide 
+      <lb ed="#H" n="134"/>litas fidem Dei inanem reddet ? 2. Tim. 2 v. 13. Si infide sumus, ille 
+      ta<lb ed="#H" n="135" break="no"/>men fidus manet, negare seipsum non potest. Etsi enim is qui fidem 
+      ad<lb ed="#H" n="136" break="no"/>hibet promissioni Dei, obsignat Deum veracem esse: tamen veritaa 
+      <lb ed="#H" n="137"/>Dei non impeditur hominum infidelitate, non evertitur hominum 
+      <lb ed="#H" n="138"/>perfidia ac defectione, non destruitur hominum mendatio. Demone 
+      <lb ed="#H" n="139"/>strat id exemplum Judaeorum. Etsi enim Judaei plurimi perfide 
+      verita<lb ed="#H" n="140" break="no"/>tem Dei rejecerunt &amp; Christum non sunt amplexi: mansit 
+      tamen<lb ed="#H" n="141" break="no"/>Deus verax. Nam fuerunt semper quidam ex gente Judaeorum, qui 
+      <lb ed="#H" n="142"/>Jesum crediderunt &amp; credunt esse Christum illum Filium Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e720">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>II Adversatur veritati Dei hominum incredulitas. Nam qui non 
+      <lb ed="#H" n="144"/>credit Deo, mendacem eum facit (hoc est, fidei &amp; veritatis laudem 
+      <lb ed="#H" n="145"/>illi derogat ut mendaci) quia non credit testimonio, quod testificatur 
+      <lb ed="#H" n="146"/>est Deus de Filio suo, 1. Joh. 3. v. 10. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e733">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Compatata. 
+      <lb ed="#H" n="148"/>Veritas Dei est instar lucis, quae Angelicum &amp; humanum intelleo 
+      <lb ed="#H" n="149"/>ctum illuminat. Eadem est quasi anteambulo Dei, Psal. 89 15. justi 
+      <lb ed="#H" n="150"/>cia &amp; iudicium habitaculo solii tui: benignitas &amp; fides, (seu veritas; 
+      <lb ed="#H" n="151"/>praecunt faciettuae. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e749">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Est instar vestis, quam Deus est indutus, Psal. 89. 9. Veritas tua 
+      cir<lb ed="#H" n="153" break="no"/>cumvestit te. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e759">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Est clypeus &amp; parma illis, qui se sub alas Excelsi &amp; Omnipotentis: 
+      <lb ed="#H" n="155"/>recipiunt, Psal. 91. 4. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e768">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>VSVS. 
+      <lb ed="#H" n="157"/>Consideratio fidei seu veritatis Dei facit primo ad doctrinam 
+      Col<lb ed="#H" n="158" break="no"/>ligimus enim Deum omne quod promisit vel minatur praestare: 
+      sic<lb ed="#H" n="159" break="no"/>ut dicit Samuel ad Saulem. 1 Sam. 19. vers 29. Quin etiam qui est 
+      <lb ed="#H" n="160"/>aeternitas Israelis non committet mendatiter. Colligimus inde 
+      religio<lb ed="#H" n="161" break="no"/>nem nostram esse veram: quia Deus quem colimus est solus verus 
+      <lb ed="#H" n="162"/>Deus, I. Thess 1. 9 Quomodo converteritis vos ad Deum relictis idous, 
+      <lb ed="#H" n="163"/>ut serviretis Deo vivo &amp; vero. Coligimus inde veritatem doctrina 
+      <lb ed="#H" n="164"/>Apostolicae esse certam &amp; firmam, 2. Cor. 1. v. 18. Fidelis Deus noster 
+      <lb ed="#H" n="165"/>ideo sermo noster apud vos non fuit Ettam &amp; Non. Colligimus inde 
+      <lb ed="#H" n="166"/>beatum esse qui omnem suam fideciam in Jehova collocat: quia 
+      Je<lb ed="#H" n="167" break="no"/>hova fidelis est &amp; verax. Psal. 145. v. 5. &amp;c. Beatus est cui auxilio est 
+      <lb ed="#H" n="168"/>Deus lacobi, cuius exspectatio est in Ichova Deo suo: Qui fecit caelos &amp; 
+      <lb ed="#H" n="169"/>terram, mare &amp; quicquid est in eis, qui servat fidem in saculum. 
+      Colli<lb ed="#H" n="170" break="no"/>imus inde, Deum velle, ut omnes ad veritatis cognitionem veniant. 
+      <lb ed="#H" n="171"/>Secundo facit ad refellendam dubitationem de praestatione 
+      promis<lb ed="#H" n="172" break="no"/>sionum Dei Deus nunquam falset: quia est fidus, Psalm. 19. 14, 35. 
+      <lb ed="#H" n="173"/>Benignitatem meam non irritam faciam ab eo, neque mentiar contra 
+      fi<lb ed="#H" n="174" break="no"/>dem meam. Non prophanabo fedus meum &amp; pronunciatum labiorum 
+      <lb ed="#H" n="175"/>neorum non mutaba 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e816">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Tertio facit ad correctionem eorum, qui veritatis studio non ita 
+      <lb ed="#H" n="177"/>ducuntur, ut par est. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e825">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Quari o facit ad multiplicem instructionem. Excitat enim nos 
+      ad<lb ed="#H" n="179" break="no"/>recipiendum Evangelium Christi: Nam qui id recipit, is obsignat  
+      <lb ed="#H" n="180"/>Deum veracem esse, Joh. 3. v. 33. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e836">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>incitat ad laudandum Deum Psal. 36. v. 6. Iehova, in caelis est 
+      be<lb ed="#H" n="182" break="no"/>nignitas tua; fides tua usque ad superiores nubes. Psalmo 57. v. 10, 11 
+      <!--cod-MkL9py-0212.xml-->
+      <pb ed="#H" n="185"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Gelebrabo te in populis Domine, psallam te in nationibus: Magnam est. 
+      <lb ed="#H" n="2"/>isque ad coelos benignitatem tuam, &amp; ad superiores usque nubes veritatem 
+      <lb ed="#H" n="3"/>tuam. Et Psalm. 108. v. 4. &amp; 5. eadem verba repetuntur. Item Psal. 
+      <lb ed="#H" n="4"/>40. 11. Iustitiam tuam non tego in animo meo; fidem tuam &amp; salutem 
+      <lb ed="#H" n="5"/>tuam dico: non caelo benignitatem tuam &amp; veritatem tuam 
+      congrega<lb ed="#H" n="6" break="no"/>tioni multae. Psal. 71. v. 22. Etiam ego celebraturus sum te 
+      instrumen<lb ed="#H" n="7" break="no"/>to nablii, fidemque tuam, Deus mi: psallam tibi cithara, o sancte Iisrat 
+      <lb ed="#H" n="8"/>lis. Psal. 89. 2. In quamque generationem notam faciam fidem tuam in 
+      <lb ed="#H" n="9"/>pre meo. Psal. 93. 3. Recordatus est benignitatis suae, &amp; suae fidei erga 
+      <lb ed="#H" n="10"/>domum Israelis: vident omnes fines terrae salutem Dei nostri. Et Psalm. 
+      <lb ed="#H" n="11"/>100. 4, 5. Ingredimini portas eius cum gratiarum actione; atria eius 
+      <lb ed="#H" n="12"/>cum laude: gratias agite ei, benedicite nomini eius. Nam bonus est 
+      Ie<lb ed="#H" n="13" break="no"/>hova, in saculum est benignitas eius: &amp; usque ad generationem quamo 
+      <lb ed="#H" n="14"/>fides eius. Et Psal. 111. 7. Opera manuum eius sunt veritatis &amp; Iudici: 
+      <lb ed="#H" n="15"/>constantia omnia mandata eius. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e884">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>instruit nos ad dandam Deo gloriam etiam quum nos affligit, sic  
+      <lb ed="#H" n="17"/>ut David Psal. 119. 76. ait; Agnosco Iehova iusta esse iudicia tua, &amp; 
+      to<lb ed="#H" n="18" break="no"/>in fide (seu veritate) afflixisse me, id est, non praeter verbum tuum 
+      <lb ed="#H" n="19"/>dum in ira tua non es oblitus misericordiae tuae, quam promisisti 
+      resi<lb ed="#H" n="20" break="no"/>piscentibus &amp; confugientibus ad te. Fideles non tantum in beneficiis. 
+      <lb ed="#H" n="21"/>Dei, sed etiam in judiciis &amp; afflictionibus agnoscunt &amp; celebrant  
+      <lb ed="#H" n="22"/>fidem veritatemque Dei, ut qui memor sit promissionis suae 
+      nemp<lb ed="#H" n="23" break="no"/>non affligendo fideles gravius quam perferre possint: sicut Paulus 
+      <lb ed="#H" n="24"/>ait 1. Cor. 10. v. 13. Fidelis est Deus qui non sinet vos tentari supra id 
+      <lb ed="#H" n="25"/>quod potestis, sed una cum tentatione praestabit etiam exitum, ut possitis 
+      <lb ed="#H" n="26"/>eam sufferre 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e914">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Exstimulat ad invocandum Deum ut nos servet, Psal. 40. v. 12. 
+      Tu<lb ed="#H" n="28" break="no"/>Iehova ne cohibeas miserationes tuas a me: benignitas tua &amp; veritas 
+      <lb ed="#H" n="29"/>iugiter custodiant me. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e925">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>Excitat in nobis fiduciam impetrandi a Deo postulata. Psal. 115. 1. 
+      <lb ed="#H" n="31"/>Non nobis Domine, non nobis sed nomini tuo da gloriam, propter 
+      beni<lb ed="#H" n="32" break="no"/>gnitatem tuam, propter fidem tuam. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e936">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Animat nos ad bene sperandum de salutis nostrae complemento; 
+      <lb ed="#H" n="34"/>I. Cor. 1. v. 8, 9. Qui Deus etiam confirmabit vos usque ad finem 
+      incul<lb ed="#H" n="35" break="no"/>patos, in diem Domini nostri Iesu Christi: Fidelis est Deus per quem 
+      vo<lb ed="#H" n="36" break="no"/>cati estis in communionem Filii ipsius Domini nostri Iesu Christi. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e949">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Impellit nos ad fidendum Deo &amp; ad totos nos Deo 
+      committen<lb ed="#H" n="38" break="no"/>dos, Psal. trices. tertio, v. 6. In manum tuam depono spiritum meum: 
+      <lb ed="#H" n="39"/>redemisti me, Iehova Deus fortis, verax: Psal. 36. 6, 7. 8. Iehova in coelis 
+      <lb ed="#H" n="40"/>est benignitas tua: fides tua usque ad superiores nubes. Iustitia tua instar 
+      <lb ed="#H" n="41"/>montium Dei, iudicia tua instar abyssi magnae: homines &amp; iumento 
+      <lb ed="#H" n="42"/>conservas Iehova. Quam pretiosa est benignitas tua; Deus; quum filii 
+      <lb ed="#H" n="43"/>hominum ad umbram alarum tuarum sese recipiunt 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e969">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Servit eo, ut confidenter ad nos trahamus, quicquid olim Deus 
+      fi<lb ed="#H" n="45" break="no"/>delibus promisit, Psal. 89. 30. Ubi sunt benignitates idae pristinae, 
+      Do<lb ed="#H" n="46" break="no"/>mine, quas iuraveras Davidi per veritatem tuam? 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e980">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Servit eo ut teneamus confessionem spei non vacillantem: fidelis 
+      <lb ed="#H" n="48"/>enim est qui promisit, Heb 10. v. 23. Ut credamus promissionibus 
+      <lb ed="#H" n="49"/>Dei: sicut per fidem Sara vim ad concipiendum semen accepit, ac praeter 
+      <lb ed="#H" n="50"/>tempus aetatis peperit, quod fidelem esse duxerit eum, qui promiserat.  
+      <lb ed="#H" n="51"/>Heb. 11. v. 11. Serviteo, ut qui malis afficiuntur ex voluntate Dei 
+      <lb ed="#H" n="52"/>Deo tanquam fideli conditori commendent animas suas 
+      benefacien<lb ed="#H" n="53" break="no"/>do, 1. Pet. 4. 19. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e1001">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Pungere nos debet ad amorem &amp; studium veritatis in omnibus 
+      <lb ed="#H" n="55"/>nostris cogitationibus, dictis, factis, quia Deus, cujus nos profitemur. 
+      <lb ed="#H" n="56"/>filios, est verax &amp; fidelis. Sic facit consideratio veritatis Dei ad 
+      insti<lb ed="#H" n="57" break="no"/>tutionem. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e1014">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Denique facit eadem ad consolationem multiplicem ad fidem 
+      no<lb ed="#H" n="59" break="no"/>stram confirmandam, ad sustentandas in magnis tentationibus 
+      con<lb ed="#H" n="60" break="no"/>scientias nostras, &amp; ad vincendum mundum, qui propter veritatem 
+      <lb ed="#H" n="61"/>Dei, quam profitemur, nos ad mortem usque persequitur: Nam 
+      <lb ed="#H" n="62"/>I. Deus est verax &amp; fidelis: Ergo sicut nos vocavit, in communionem. 
+      <lb ed="#H" n="63"/>Jesu Christi, ita in eadem nos conservabit ad finem usque 1. Cor. 1. 
+      <lb ed="#H" n="64"/>v. 8. &amp; 9. 
+      <lb ed="#H" n="65"/>II. Deus est verax: Ergo judicaturus &amp; vindicaturus est sanguinem 
+      <lb ed="#H" n="66"/>martyrum suorum Apoc. 6. v. 10. 11, Clamabant autem voce magna. 
+      <lb ed="#H" n="67"/>dicentes, Vsquequo Domine, qui sanctus es &amp; verax, non iudicas, &amp; 
+      <lb ed="#H" n="68"/>sanguinem nostrum vindicas, eum reposcendo ab iis qui habitant in 
+      ter<lb ed="#H" n="69" break="no"/>ra? Tum datae sunt singulis stolae albae, &amp; dictum est eis, ut requiescerent 
+      <lb ed="#H" n="70"/>adhuc palulum temporis, usquequo compleantur etiam conservi eorum. 
+      <lb ed="#H" n="71"/>&amp; fratres eorum, qui occidendi sunt sicut &amp; ipsi: 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e1049">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>III. Deus est verax ac fidelis: Ergo adversus impios &amp; superbos 
+      <lb ed="#H" n="73"/>nos defensurus est sicut promisit, Psal. 86. v. 14, 15. O Deus superbi 
+      in<lb ed="#H" n="74" break="no"/>surgunt contra me, &amp; coetus violentorum quaerunt animam meam, qui 
+      <lb ed="#H" n="75"/>non proponunt te sibi. Tu autem Domine, Deus fortis, misericors &amp; 
+      gra<lb ed="#H" n="76" break="no"/>tiosus es, longanimis &amp; multus benignitate &amp; fide: Psal. 51. 4. Ala sua; 
+      <lb ed="#H" n="77"/>protecturus est te, quum sub alas ipsius te receperis: clypeus &amp; parma est 
+      <lb ed="#H" n="78"/>fides ipsius. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e1069">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>IV. Deus est verax: Ergo veritas tandem vincet &amp; manebit in 
+      <lb ed="#H" n="80"/>aelernum, &amp; cum veritate qui eam amant &amp; consectantur. 
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e1078">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Tantum de veritate Dei: sequitur de sanctitate  
+      </p>
+            <p xml:id="yyy8Uu-e86833-d1e1085">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>eiusdem.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

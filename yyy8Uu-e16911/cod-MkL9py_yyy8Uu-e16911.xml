@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 27</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 27</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="37"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e16911"> <!-- l1-c27 -->
+            <head xml:id="yyy8Uu-e16911-Hd1e109">Caput 27</head>
+            <p xml:id="yyy8Uu-e16911-d1e112">
+               <lb ed="#H" n="155"/>CAPUT XXVII. 
+      <lb ed="#H" n="156"/>In quo refelluntur argumenta Papistarum, quibus 
+      <lb ed="#H" n="157"/>conantur probare Ecclesiae testimonium 
+      <lb ed="#H" n="158"/>esse praecipuum.
+      </p>
+            <p xml:id="yyy8Uu-e16911-d1e123">
+               <lb ed="#H" n="159"/>AERTIO quaeritur, An testimonium Ecclesiae de divina 
+      autori<lb ed="#H" n="160" break="no"/>tate Scripturae sit praecipuum, luculentissimum &amp; certissimum: 
+      <lb ed="#H" n="161"/>Papistae affirmant his argumentis nixi
+    </p>
+            <p xml:id="yyy8Uu-e16911-d1e132">
+               <lb ed="#H" n="162"/>PRIMUM. Divinum testimonium est praecipuum, 
+      luculentissi<lb ed="#H" n="163" break="no"/>mum, &amp; certissimum. 
+      </p>
+            <p xml:id="yyy8Uu-e16911-d1e140">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Ecclesiae testimonium de autoritate divina Sacrae Scripturae est de 
+      <lb ed="#H" n="165"/>vinum. Ergo, &amp; 
+      </p>
+            <p xml:id="yyy8Uu-e16911-d1e149">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>RESP. Minor propositio simpliciter intellecta est falsa: quia 
+      Ec<lb ed="#H" n="167" break="no"/>clesiae testimonium per se prorsus &amp; mere humanum est, 
+      </p>
+            <p xml:id="yyy8Uu-e16911-d1e158">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Minorem sic probare conantur Papistae: Vox Dei est testimonium 
+      <lb ed="#H" n="169"/>divinum: Ecclesiae testimonium est vox Dei: Ergo Ecclesiae testimonium 
+      <lb ed="#H" n="170"/>est divinum 
+      </p>
+            <p xml:id="yyy8Uu-e16911-d1e169">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>RESP. Est fallacia a dicto secundum quid ad dictum simpliciter  
+      <lb ed="#H" n="172"/>in minore propositione. Ecclesiae testimonium est vox Dei, non 
+      sim<lb ed="#H" n="173" break="no"/>pliciter, sed quatenus Ecclesia doctrinam aliquam a Deo in Scripturis 
+      <lb ed="#H" n="174"/>revelatam edit: tum enim Dei vox dicitur, non propter ipsem loquendi 
+      <lb ed="#H" n="175"/>cationem quae Ecclesiae est, sed propter divinae Scripturae otacula, quae ab σ 
+      <lb ed="#H" n="176"/>Ecclesia proferuntur. Testimonium autem Ecclesiae, quatenus ipsius 
+      <lb ed="#H" n="177"/>Ecclesiae est seu quatenus ab Ecclesia profecta est, vox Dei non est. 
+      </p>
+            <p xml:id="yyy8Uu-e16911-d1e189">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>t Instant adversarii &amp; Ecclesiae vocem esse Dei voce propter tria atunt, 
+      <lb ed="#H" n="179"/>propter doctrinae religionis legitima autoritatem, &amp; infallibile veritaie, 
+      <lb ed="#H" n="180"/>&amp; quia cum Ecclesiae voce Dei Spiritus cooperatur: hinc inferunt, ie m 
+      <lb ed="#H" n="181"/>non esse opus certiore testimonio quam externa Ecclesiae probatione. 
+      <!--cod-MkL9py-0063.xml-->
+      <pb ed="#H" n="38"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>REST. Argumenta ista tria sunt triobolaria. Primum ad hunc 
+      syl<lb ed="#H" n="2" break="no"/>logismum revocari potest: Quaecunque vox conciliat doctrinae religionis: 
+      <lb ed="#H" n="3"/>legitimam autoritatem, ea est vox Dei: Ecclesiae vox conciliat doctrinae 
+      re<lb ed="#H" n="4" break="no"/>ligionis legitimam autoritatem: Ergo vox Ecclesiae est vox Dei, 
+      </p>
+            <p xml:id="yyy8Uu-e16911-d1e217">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>RESP. Minor est falsa: nam doctrina nulla propter Ecclesiam 
+      legi<lb ed="#H" n="6" break="no"/>tima est, sed doctrinam legitimam Dei solius autoritas facit. Qui 
+      e<lb ed="#H" n="7" break="no"/>nim doctrinae ipsius autor est, is solus doctrinae autoritatem conciliat:  
+      <lb ed="#H" n="8"/>Doctrinae autor folus est Deus: Solus ergo doctrinae suae autoritatem 
+      <lb ed="#H" n="9"/>tribuit, non Ecclesia. Neque nunc Deus novas doctrinas condit, sed  
+      <lb ed="#H" n="10"/>quicquid docere Ecclesiam suam instituit, in Scripturas suas contulit 
+      <lb ed="#H" n="11"/>illae sunt thesauri Dominici, illae sunt thesauri Ecclesiae, sicut Basilius 
+      <lb ed="#H" n="12"/>homilia de poenitentia ait: Dicemus de poenitentia ex veteri &amp; 
+      novo<lb ed="#H" n="13" break="no"/>instrumento: hi enim sunt Ecclesiae thesaur. 
+      </p>
+            <p xml:id="yyy8Uu-e16911-d1e242">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Secundum argumentum hoc syllogismo concludi potest: 
+      <lb ed="#H" n="15"/>Quaecunque vox est infallibiliter vera, illa est vox Dei: 
+      <lb ed="#H" n="16"/>Vox Ecclesiae est infallibiliter vera. Ergo, &amp;c. 
+      <lb ed="#H" n="17"/>RESP. Minor est falsa si universaliter accipiatur de quavis voce 
+      Ec<lb ed="#H" n="18" break="no"/>clesiae Nam infallibiliter verum in religione nihil est, nisi quod 
+      pro<lb ed="#H" n="19" break="no"/>fectum a Deo esse constiterit. Quod autem Ecclesia loquitur nisi 
+      ex<lb ed="#H" n="20" break="no"/>tabulis divinis proferatur, a Deo profectum esse non constabit: Ergo 
+      <lb ed="#H" n="21"/>quaecunque vox Ecclesiae ex Sacris literis prolata non fuerit infallibi 
+      <lb ed="#H" n="22"/>liter vera non erit. Nam &amp; Ecclesia male saepenumero Scripturas 
+      <lb ed="#H" n="23"/>interpretata est, &amp; nonnulla Scripturis dissentanea docuit, neque sit 
+      <lb ed="#H" n="24"/>ad veritatem alligata est, ut falli nequeat. Habet enim Ecclesia 
+      libe<lb ed="#H" n="25" break="no"/>rum arbitrium &amp; male agendi &amp; a vero aberrandi, &amp; falsa docendi 
+      <lb ed="#H" n="26"/>quemadinodum ex Ecclesiarum quae exstiterunt hactenus exemplis 
+      <lb ed="#H" n="27"/>manifestum est. Romana autem Ecclesia inprimis veritatum hanc 
+      <lb ed="#H" n="28"/>non tam reliquit, quam prodidit, quod ex ejus tam multis constat 
+      fal<lb ed="#H" n="29" break="no"/>sissimis simul atque absurdissimis doctrinis, propter quas religio 
+      Chri<lb ed="#H" n="30" break="no"/>stiana apud Gentes versa in ludibrium est. 
+      </p>
+            <p xml:id="yyy8Uu-e16911-d1e284">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Tertium argumentum hoc siyllogismo comprehenditur: 
+      <lb ed="#H" n="32"/>Omnis vox cum qua Spiritus Dei cooperatur, est vox Dei. 
+      <lb ed="#H" n="33"/>Cum voce Ecclesiae Spiritus Dei cooperatur. Ergo, &amp;c. 
+      <lb ed="#H" n="34"/>RESP. Minor universe intellecta est falsa. Quando Ecclesia 
+      ver<lb ed="#H" n="35" break="no"/>bum Dei loquitur, tunc cum voce Ecclesiae Spiritus Dei cooperatur: 
+      <lb ed="#H" n="36"/>Sed non cum quavis voce Ecclesiae is cooperatur, cum Ecclesia non 
+      <lb ed="#H" n="37"/>semper verbum Dei annunciet: 
+      </p>
+            <p xml:id="yyy8Uu-e16911-d1e304">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>SECUNDUM. Si Ecclesiae testimonium non audientes aeternae mortis 
+      <lb ed="#H" n="39"/>rei sunt, tum illud est praecipuum, luculentissimum &amp; certissimum. 
+      An<lb ed="#H" n="40" break="no"/>tecedens est verum: Ergo &amp; consequens. 
+      </p>
+            <p xml:id="yyy8Uu-e16911-d1e315">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>RESP. Primo ambigua est propositio connexa, distinguenda 
+      igi<lb ed="#H" n="42" break="no"/>tur. Si Ecclesiae scil. verae &amp; orthodoxae, testimonium nimirum Sacra 
+      <lb ed="#H" n="43"/>Scripturae consentaneum seu ex ea depromtum de salutis aeterna. 
+      <lb ed="#H" n="44"/>fundamento aliquo non audiunt, aeternae mortis rei sunt. Deinde 
+      <lb ed="#H" n="45"/>connexum laborat fallacia τεαρα τόκπυμδνον: etsi enim antecedens 
+      da<lb ed="#H" n="46" break="no"/>retur, tamen consequens istud inde non conficitur.  
+      </p>
+            <p xml:id="yyy8Uu-e16911-d1e333">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>TERTIUM: Deus nos per Ecclesiam docet, non aliters 
+      <lb ed="#H" n="48"/>Ergo nullum est certius testimonium quam Ecclesiae. 
+      <lb ed="#H" n="49"/>RESP. Per retorsionem. Imo si Deus nos docet per Ecclesiam, 
+      <lb ed="#H" n="50"/>major est autoritas Dei quam Ecclesiae: quia major est autoritas ejus 
+      <lb ed="#H" n="51"/>qui docet, quam ejus per quem aliquis docetur.  
+      </p>
+            <p xml:id="yyy8Uu-e16911-d1e349">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>INSTANT: At praeter Dei autoritatem nulla est certior 
+      autori<lb ed="#H" n="53" break="no"/>tas quam Ecclesiae. 
+      </p>
+            <p xml:id="yyy8Uu-e16911-d1e359">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>RESP. Imo est, nempe Scripturae Sacrae, cujus autoritas est in 
+      <lb ed="#H" n="55"/>finite major, quam Ecclesiae: quia Sacra Scriptura est absque omne 
+      <lb ed="#H" n="56"/>dubio verbum Dei viventis. 
+      </p>
+            <p xml:id="yyy8Uu-e16911-d1e370">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Hactenus sententia Papistarum.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

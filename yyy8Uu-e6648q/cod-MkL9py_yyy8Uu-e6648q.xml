@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 15</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 15</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="16"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e6648q"> <!-- l1-c15 -->
+            <head xml:id="yyy8Uu-e6648q-Hd1e109">Caput 15</head>
+            <p xml:id="yyy8Uu-e6648q-d1e112">
+               <lb ed="#H" n="132"/>CAPUT XV. 
+      <lb ed="#H" n="133"/>In quo Scripturae distinctio.
+      </p>
+            <p xml:id="yyy8Uu-e6648q-d1e119">
+               <lb ed="#H" n="134"/>TTrumque autem verbum Dei appellatur Scriptura; internum 
+      <lb ed="#H" n="135"/>quidem, Scriptura cordis, externum vero, Scriptura vtriusque 
+      Te<lb ed="#H" n="136" break="no"/>stamenti
+    </p>
+            <p xml:id="yyy8Uu-e6648q-d1e128">
+               <lb ed="#H" n="137"/>Scriptura cordis, est Scriptura interna, quam Spiritus Sanctus 
+      im<lb ed="#H" n="138" break="no"/>mediate in carneis tabulis cordis filiorum Dei ad vitam aeternam. 
+      <lb ed="#H" n="139"/>praeordinatorum inscribit, ut θεοδίδακζο, hoc est, a Deo docti, credant  
+      <lb ed="#H" n="140"/>ad salutem. Jer. 31. v. 33. &amp; Hebr. 8. v. 10. &amp; cap. 10.16. Hoc illud est 
+      fe<lb ed="#H" n="141" break="no"/>dus quod pangam cum domo Israelis post dies hos, dictum Iehovae, 
+      in<lb ed="#H" n="142" break="no"/>dam legem meam menti eorum, &amp; cordi eorum inscribum eam; &amp; ero 
+      <lb ed="#H" n="143"/>eis Deus &amp; ipsi erunt mihi populus. 2. Cor. 3. v. 3. Dum manifestum 
+      fit<lb ed="#H" n="144" break="no"/>vos esse epistolam Christi subministratam a nobis, inscriptam non 
+      atra<lb ed="#H" n="145" break="no"/>mento, sed Spiritu Dei vivi: non in tabulis lapideis, sed in carneis 
+      tabu<lb ed="#H" n="146" break="no"/>lis cordis. 
+      </p>
+            <p xml:id="yyy8Uu-e6648q-d1e153">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Scriptura Testamenti Veteris &amp; Novi, est Scriptura externa, quae a 
+      <lb ed="#H" n="148"/>Prophetis &amp; Apostolis &amp; Apostolorum comitibus Evangelistis per 
+      <lb ed="#H" n="149"/>chartam &amp; atramentum est consignata: ad tradendam, 
+      propagan<lb ed="#H" n="150" break="no"/>dam &amp; ad posteros transmittendam sanam sapientiae coelestis 
+      doctri<lb ed="#H" n="151" break="no"/>nam. 2. Cor.3 vers. 3. 2. Joh. v. 12. Quum multa haberem vobis 
+      scriben<lb ed="#H" n="152" break="no"/>da, nelui per chartam &amp; atramentum. 3. Joh. v. 13. Multa possem 
+      scri<lb ed="#H" n="153" break="no"/>bere, sed nolo per atramentum &amp; calaman tibi scribere Phil. 3. v. 1. 
+      Ea<lb ed="#H" n="154" break="no"/>dem scribere vobis, me quidem haud piget, vobis autem tutum est, 
+      </p>
+            <p xml:id="yyy8Uu-e6648q-d1e175">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Ex sola Scriptura externa, separata a Scriptura interna &amp; 
+      superio<lb ed="#H" n="156" break="no"/>re lumine, nulla in nobis potest esse fides salvifica. 
+      </p>
+            <p xml:id="yyy8Uu-e6648q-d1e184">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>Haec autem externa Scriptura usitate intelligitur, cum S. Scripte 
+      <lb ed="#H" n="158"/>nominatur.  
+      </p>
+            <p xml:id="yyy8Uu-e6648q-d1e193">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>Eaque alias secundum essentiam consideratur, alias secundum 
+      acci<lb ed="#H" n="160" break="no"/>dens. 
+      </p>
+            <p xml:id="yyy8Uu-e6648q-d1e202">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Scriptura sacra secundum essentiam, est verbum Dei seu doctrina 
+      <lb ed="#H" n="162"/>ipsa coelestis, quae libris sacris continetur, cujusmodi inde ab 
+      initioe<lb ed="#H" n="163" break="no"/>fuit etiam antequam scriberetur &amp; viva tantum voce traderetur.  
+      </p>
+            <p xml:id="yyy8Uu-e6648q-d1e213">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Hoc modo accepta Scriptura fuit prius quam Ecclesia esset. Est  
+      <lb ed="#H" n="165"/>enim aeterna in ipso Deo sapientia: Neque eius notitia tum demum 
+      <lb ed="#H" n="166"/>Ecclesiae patefacta est, quando literis est consignata, sed ejus 
+      patefa<lb ed="#H" n="167" break="no"/>ctio cum ipsa creaturarum rationalium creatione &amp; primordiis 
+      Ec<lb ed="#H" n="168" break="no"/>clesiae coepit. Quin verbum illud est immortale semen ex quo 
+      Eccle<lb ed="#H" n="169" break="no"/>sia nascitur. Non igitur potuit Ecclesia exsistere, nisi verbo Dei prius 
+      <lb ed="#H" n="170"/>tradito. Quapropter S. Scriptura quo ad essentiam, natura ut causa 
+      <lb ed="#H" n="171"/>prior est quam ecclesia, ac proinde antiquior quam Ecclesia 
+      </p>
+            <p xml:id="yyy8Uu-e6648q-d1e236">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Scriptura S, secundum ac idens est verbum Dei, quatenus suo 
+      tem<lb ed="#H" n="173" break="no"/>pore literis exaratum est in libris veteris &amp; novi Testamenti 
+      singula<lb ed="#H" n="174" break="no"/>ri providentia Dei, ut esset veritatis divinae, quae est secundum pieta 
+      <lb ed="#H" n="175"/>tem, ad salutem nostram aeternam necessarium instrumentum. 
+      <!--cod-MkL9py-0042.xml-->
+      <pb ed="#H" n="17"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Eadem Scriptura secundum accidens considerata, hoc est, 
+      quate<lb ed="#H" n="2" break="no"/>nus consignata est in libris, duobus modis Sacra dicitur; proprie &amp; 
+      <lb ed="#H" n="3"/>amproprio 
+      <lb ed="#H" n="4"/>Proprie quidem quae καν ἀληθεαν, hoc est, secundum veritatem seu 
+      <lb ed="#H" n="5"/>vere est sacra, &amp; ita συνωνυμως, hoc est, univoce appellatur  
+      </p>
+            <p xml:id="yyy8Uu-e6648q-d1e267">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Improprie vero quae κατα δέςαν, id est, secundum opinionem 
+      hu<lb ed="#H" n="7" break="no"/>manam est satra &amp; divina, secundum veritatem autem non est, ac 
+      <lb ed="#H" n="8"/>proinde sacra oμωνυμως, id est, aequivoce nominatu 
+      </p>
+            <p xml:id="yyy8Uu-e6648q-d1e278">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>Scriptura proprie, vere &amp; univoce sacra, sunt certi libri qui per 
+      vo<lb ed="#H" n="10" break="no"/>luntatem Dei ex inspiratione Spiritus Sancti sunt a fidis servis Dei 
+      <lb ed="#H" n="11"/>Prophetis, Apostolis &amp; Evangelistis ad id sanctificatis conscripti, ut 
+      <lb ed="#H" n="12"/>in Ecclesia Dei immobile essent fundamentum fidei &amp; religionis 
+      di<lb ed="#H" n="13" break="no"/>vinae. De hac Scriptura agitur 2. Tim. 3. v. 14. 15.16. At tu 
+      mane<lb ed="#H" n="14" break="no"/>to in iis, quae didicisti &amp; quae tibi concredita sunt, sciens a quo didiceris: 
+      <lb ed="#H" n="15"/>Teque a puero sacras literas novisse, quae te possunt sapientem reddere ad 
+      <lb ed="#H" n="16"/>salutem per fidem quae est in Christo Iesu. Tota Scriptura diuvinitus est? 
+      <lb ed="#H" n="17"/>inspirata, &amp; utilis ad doctrinam, ad redargutionem, ad correctionem 
+      <lb ed="#H" n="18"/>ad institutionem in iustitia, ut perfectus sit homo Dei ad omne opus 
+      bo<lb ed="#H" n="19" break="no"/>quu perfecteiustructus.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

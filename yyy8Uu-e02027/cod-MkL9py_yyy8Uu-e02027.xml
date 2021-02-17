@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 22</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 22</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="415"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e02027"> <!-- l6-c22 -->
+            <head xml:id="yyy8Uu-e02027-Hd1e109">Caput 22</head>
+            <p xml:id="yyy8Uu-e02027-d1e112">
+               <lb ed="#H" n="110"/>CAPUT XXII. 
+      <lb ed="#H" n="111"/>In quo de exaltatione Christi.
+    </p>
+            <p xml:id="yyy8Uu-e02027-d1e119">
+               <lb ed="#H" n="112"/>TXALTATIO CHRISTI, est ipsius status, in quo post humilia¬ 
+      <lb ed="#H" n="113"/>Itionem suam, ad summam &amp; ineffabilem gloriam est evectus, ut  
+      <lb ed="#H" n="114"/>nos in ipso exaltatemur. 
+      <lb ed="#H" n="115"/>Haec exaltatio non est tantum humanae naturae Christi: sed est 
+      <lb ed="#H" n="116"/>personae θεανθρωπε secundum utramque naturam. Ut enim Christus. 
+      <lb ed="#H" n="117"/>exinanivit se quoad Deitatem, non exeundo se ea, sed occultando 
+      <lb ed="#H" n="118"/>eam in assumta servi forma: ita rursus quoad eandem exaltatus est, 
+      <lb ed="#H" n="119"/>potenter &amp; plene ipsam patefaciendo in carne glorificata 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e139">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>Exaltatio igitur Christi quoad Deitatem, est plena &amp; potens 
+      ma<lb ed="#H" n="121" break="no"/>nifestatio altitudinis Deitatis, quae antea in carne humili latuerat; &amp; 
+      <lb ed="#H" n="122"/>plena usurpatio gloriae aeternae, quam petiverat a Patre, &amp; quam 
+      a<lb ed="#H" n="123" break="no"/>pud Patrem habuerat, priusquam mundus esset, Joh. 17. v. 5. 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e153">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Haec exaltatio non fuit aliquod Deitatis incrementum aut 
+      acces<lb ed="#H" n="125" break="no"/>sio; sed altitudinis ejus, id est, potentiae, autoritatis, gloriae 
+      manifesta<lb ed="#H" n="126" break="no"/>tio ac declaratio Rom. 1. v. 4. Declavato Filio Dei potenter secundum 
+      <lb ed="#H" n="127"/>Spiritum sanctificationis, per resurrectionem a mortuis. Caeterum. 
+      <lb ed="#H" n="128"/>divina natura non indiguit exaltatione respectu sui; sed in Christo 
+      re<lb ed="#H" n="129" break="no"/>quirebat altitudinis suae manifestationem. 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e171">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>Et hoc sensu recte dicitur, Christo, quoad Deitatem, datam esse 
+      <lb ed="#H" n="131"/>gloriam post resurrectionem ex mortuis 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e180">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>Christus itaque est exaltatus non tantum secundum humanam, 
+      <lb ed="#H" n="133"/>sed etiam secundum divinam naturam. Haec Thesis ordiodoxa, 
+      Ca<lb ed="#H" n="134" break="no"/>tholica atque pia est. 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e191">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>OEIECTIGI. Quod est immutabile, id non est exaltatum: 
+      <lb ed="#H" n="136"/>Deitas est immutabilis: Ergo Deitas non est exaltata 
+      <lb ed="#H" n="137"/>RESP. Committitur ignoratio Elenchi, nam ebjectio non 
+      con<lb ed="#H" n="138" break="no"/>tradicit Thesi; &amp; conceditur tota recte intellecta: Deitas non est 
+      ex<lb ed="#H" n="139" break="no"/>altata, scilicet absolute &amp; secundum se considerata, id est, secundum 
+      <lb ed="#H" n="140"/>naturam suam 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e209">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>REPLICATIO: Si Deitas non est exaltata, tum Christus non est? 
+      <lb ed="#H" n="142"/>exaltatus secundum Deitatem: Illud est: Ergo &amp; hoc. 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e218">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>RESP. Limito propositionem: Si Deitas non est exaltata, scil.  
+      <lb ed="#H" n="144"/>ullo modo, nec secundum naturam suam considerata, nec secundum 
+      <lb ed="#H" n="145"/>voluntatiam illam εἰκονομιαν, tum Christus non est secundum Dei, 
+      <lb ed="#H" n="146"/>catem exaltatus. At Deitatem non esse exaltatam ullo modo, 
+      nega<lb ed="#H" n="147" break="no"/>tur. Etsi enim exaltata non est secundum naturam suam, tamen 
+      Chri<lb ed="#H" n="148" break="no"/>stus exaltatus est secundum illam quantum attinet ad voluntatiam 
+      il<lb ed="#H" n="149" break="no"/>lam Oeconomiam de qua Philipp. 2 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e239">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>QEIECTIO II. Secundum quos Christus ab aete, no in aeternum 
+      <lb ed="#H" n="151"/>est immutabilis, secundum id non est exaltatus: At secundum 
+      divi<lb ed="#H" n="152" break="no"/>nam naturam Christus ab aterno in aeternum est immutabilis: Ergo 
+      <lb ed="#H" n="153"/>secundum divinam naturam non est exaltat as. 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e252">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>RESP. Nego consequentiam, quia sunt quatuor termini ex 
+      ani<lb ed="#H" n="155" break="no"/>biguitate majoris termini. Nam exaltatus in majore propositione 
+      <lb ed="#H" n="156"/>dem est quod altitudinis alicujus accessione auctus; in Conclusione 
+      <lb ed="#H" n="157"/>vero ut &amp; in Thesi nostra idem est, quod palam glorificatus 
+      manife<lb ed="#H" n="158" break="no"/>statione altitudinis, potentiae, autoritatis, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e268">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>REPLIC. Exaltatus idem est inmajore propositione quod in 
+      Con<lb ed="#H" n="160" break="no"/>lusione 
+      <lb ed="#H" n="161"/>RESP. Tum ergo major propositio est falsa &amp; ab adversariis 
+      pro<lb ed="#H" n="162" break="no"/>banda: contradicit certe tot Psalmis in quibus de exaltatione Dei 
+      ex<lb ed="#H" n="163" break="no"/>presse verba fiunt.  
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e284">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>OBIECTIOIII. Secundum quod Christus omnem altitudinem 
+      <lb ed="#H" n="165"/>ab aterno habuit, secundum id non est exaltatus: 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e293">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>At secundum Deitatem Christus omnem altitudinem ab aterne 
+      <lb ed="#H" n="167"/>habuit: 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e302">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Ergo secundum Deitatem non est exaltatus. 
+      <lb ed="#H" n="169"/>RESP. Majorem limito. Secundum quod Christus omnem 
+      alti<lb ed="#H" n="170" break="no"/>udinem ab aeterno habuit, scile ita ut nunquam eam occuliaverit, se 
+      <lb ed="#H" n="171"/>cundum id non est exaltatus. Ad minorem quod attinet, Secundum 
+      <lb ed="#H" n="172"/>Deitatem Christum omnem altitudinem ab aeterno habuisse, ita ut 
+      <lb ed="#H" n="173"/>nunquam eam occultaverit, negatur. Occultavit enim Christus Dei. 
+      <lb ed="#H" n="174"/>tatem suam in carne humili, ut carne illa pati, crucifigi &amp; mori posset. 
+      <lb ed="#H" n="175"/>QBIECTIOIV. Quicquid Christo datum est in tempore, id 
+      tan<lb ed="#H" n="176" break="no"/>tum secundum humanam naturam, &amp; non secundum divinam et. 
+      <lb ed="#H" n="177"/>datum est, 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e329">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>At Christus exaltatus est in tempore 
+      <lb ed="#H" n="179"/>Ergo Christus exaltatus est tantum secundum humanam 
+      natu<lb ed="#H" n="180" break="no"/>ram, &amp; non secundum divinam 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e340">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>RESP. Major est distinguenda: Si incelligatur Christo nihil datum 
+      <!--cod-MkL9py-0443.xml-->
+      <pb ed="#H" n="416"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>esse in tempo re secundum Deitatem, ex quo Deitati, felicitatis, 
+      bea<lb ed="#H" n="2" break="no"/>titudinis, potestatis aut alterius rei incrementum accederet; tum 
+      con<lb ed="#H" n="3" break="no"/>ceditur. Sin vero intelligatur, Christo nihil datum esse in 
+      tempor<lb ed="#H" n="4" break="no"/>secundum divinam naturam, ex quo ad nostram naturam felicitas &amp; 
+      <lb ed="#H" n="5"/>beatitudo perveniret, negatur: Finis enim dationis distinguendus, 
+      <lb ed="#H" n="6"/>Ergo major universaliter enunciata, &amp; absque distinctione accepta 
+      <lb ed="#H" n="7"/>est falsa. 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e369">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Deinde do instantiam. Nam divinae naturae Christi data, aptata, &amp; 
+      <lb ed="#H" n="9"/>personaliter unita est in tempore nostra humana natura, sicut Hebr 
+      <lb ed="#H" n="10"/>2. v.16. dicitur: Semen Abrahae assumsit: Ergo datum est ei semen 
+      A<lb ed="#H" n="11" break="no"/>brahae assumendum. Hebr. 10. v. 5. Corpus autem aptasti mihi: Ergo 
+      <lb ed="#H" n="12"/>corpus ei darum est. Deinde eidem naturae divinae datum est in 
+      tem<lb ed="#H" n="13" break="no"/>pore officium Mediatoris inter Deum &amp; hominen lapsum: Sic 
+      Chri<lb ed="#H" n="14" break="no"/>stus est Mediator noster non tantum secundum humanam, sed etiam 
+      <lb ed="#H" n="15"/>secundum divinam naturam. Datur ei in tempore ab Angelis &amp; 
+      ho<lb ed="#H" n="16" break="no"/>minibus laus, gloria &amp; honor nostrae redemtionis &amp; salvationis A 
+      <lb ed="#H" n="17"/>pocal. 5. v. 13. Idque certe non tantum secundum humanam, sed etiam 
+      <lb ed="#H" n="18"/>secundum divinam naturam, 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e398">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Do &amp; hanc instantiam: DEUS PATER est tantum Deus &amp; non 
+      <lb ed="#H" n="20"/>homo, &amp; tamen ei in tempore data est &amp; datur gloria, laus, honor 
+      <lb ed="#H" n="21"/>gratiarum actio. Apocal. 4. v. 9. Sic Psal. 29. Date vel tribuite Deo 
+      <lb ed="#H" n="22"/>gloriam &amp; laudem. 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e411">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>REPLIC. Orthodoxi Patres veteres majorem hanc simpliciter &amp; 
+      <lb ed="#H" n="24"/>absque distinctione posuerunt: Ergo etiam simpliciter &amp; absque 
+      distin<lb ed="#H" n="25" break="no"/>ctione vera est 
+      <lb ed="#H" n="26"/>RESP. Negatur antecedens: nam Patres orthodoxi docent, ἀλλον, 
+      <lb ed="#H" n="27"/>esse λόγον τ θεότητος καδ ἐαυτυν, αλλον καγ οίκονομιαν, aliam esse 
+      ra<lb ed="#H" n="28" break="no"/>tionem Deitatis secundum se, aliam secundum Oeconomiam. 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e429">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Tantum de exaltatione Christi quoad Deitatem: sequitu 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e437">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>de ejusdem exaltatione quoad humanam naturam. 
+      <lb ed="#H" n="31"/>Exaltatio Christi quoad humanam naturam duas habet partes 
+      <lb ed="#H" n="32"/>Prima, est depositio omnium infirmitatum, quas Christus omnes 
+      <lb ed="#H" n="33"/>una cum humana, natura excepto peccato, assumserat, prout postus 
+      <lb ed="#H" n="34"/>labat ipsius officium. Cujusmodi infirmitates sunt, fames, sitis, 
+      defati<lb ed="#H" n="35" break="no"/>gatio, dolor, ignominia, ignorantia negativa diei ultimi &amp; rerum 
+      a<lb ed="#H" n="36" break="no"/>liarum, patibilitas, mortantas, &amp;c. has omnes plane deposuit, ita ut 
+      <lb ed="#H" n="37"/>iam non amplius sit illis obnoxins. 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e459">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Secunda pars est humanae naturae glorificatio, tum quoad corpus, 
+      <lb ed="#H" n="39"/>tum quoad animam, 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e468">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Corpus enim Christi, est gloriosum redditum, ita ut sit &amp; maneat  
+      <lb ed="#H" n="41"/>in aeternum incorruptibile, impatibile, immortale, auctum robore &amp; 
+      <lb ed="#H" n="42"/>agilitate, resplendans fulgore &amp; gloria coelesti atque divina, id est 
+      <lb ed="#H" n="43"/>congruente corpore DEI 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e481">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Animae vero illius dotes sunt auctae &amp; perfectae, usque ad summam 
+      <lb ed="#H" n="45"/>uae in creatam naturam cadere potest, perfectionem, sive 
+      intelle<lb ed="#H" n="46" break="no"/>ctum spectemus, sive uoluntatem. 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e492">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Quod ad intellectum attinet, scit jam Christus in gloria, sua 
+      hu<lb ed="#H" n="48" break="no"/>mana mente omnia, quaecunque in sua humilitate propter nos 
+      igno<lb ed="#H" n="49" break="no"/>ravit. 
+      <lb ed="#H" n="50"/>Scit jam monumentum judicij extremi: nihil tam arduum, nihi 
+      <lb ed="#H" n="51"/>tam minutum in omnibus operibus Dei, hoc est, suis, praeteritis, prae 
+      <lb ed="#H" n="52"/>sentibus, futuris, quod non in promtu sit, quocunque momento vult, 
+      <lb ed="#H" n="53"/>&amp; quotiescunque vult scire &amp; cogitare intellectu suo humano, ac si 
+      <lb ed="#H" n="54"/>Jobjectum esset oculis &amp; sensibus ipsius corporalibus. 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e514">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Sed haec omnia &amp; quaecunque dici possint, scit &amp; cogitat distinctis &amp; 
+      <lb ed="#H" n="56"/>successivis cogitandi actibus, sive ideis, sive speciebus intelligibilibus 
+      <lb ed="#H" n="57"/>socundum creatae mentis proprietatem essentialem 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e526">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Haec autem omniscientia plurimum differt ab increata Dei 
+      sapien<lb ed="#H" n="59" break="no"/>tia, qua Deus seipsum &amp; omnia opera sua &amp; aliena, uno eterno &amp; 
+      im<lb ed="#H" n="60" break="no"/>mutabili actu ex seipso intuetur. 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e537">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Quod uoluntatem concernit, omnes virtutes tale incrementum 
+      <lb ed="#H" n="62"/>in ea acceperunt, quale potest cadere in creaturam 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e546">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Breviter; Dotes tum corporis, tum animae Christi plures &amp; 
+      majo<lb ed="#H" n="64" break="no"/>tes &amp; perfectiores sunt, quam omnes aliae creaturae possint capere: 
+      <lb ed="#H" n="65"/>quae tamen licet supra naturam sint, non tamen contra naturam sunt,  
+      <lb ed="#H" n="66"/>&amp; proprias atque essentiales naturae humanae &amp; creatae non tollunt,  
+      <lb ed="#H" n="67"/>nec destruunt, ut caro nostra &amp; semen Davidis in coelesti gloria 
+      aeter<lb ed="#H" n="68" break="no"/>num regnet. 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e564">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Duplex ergo est majestas Christi: increata &amp; creata. Illa divinae 
+      <lb ed="#H" n="70"/>haec humanae naturae. Neque eadem esse utriusque naturae majestas 
+      <lb ed="#H" n="71"/>potest, quum Creatori creatura aequari non possit 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e575">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Adiunctum tempus exaltationis &amp; glorificationis Christi, fuit  
+      <lb ed="#H" n="73"/>non ante, sed demum post passionem &amp; mortem &amp; sepulturam, 
+      Luc<lb ed="#H" n="74" break="no"/>24. 26. Nonne haec oportuit patiChristum, &amp; introire in gloria suam, 
+      <lb ed="#H" n="75"/>Eph. 1. 20. Philipp. 2. 7, 8, 9. Hebr. 2. 7, 9, 10. Quemadmodum 
+      Chri<lb ed="#H" n="76" break="no"/>stum sequuta est stella post uterum, ita gloria post sepulcrum, ait 
+      Au<lb ed="#H" n="77" break="no"/>gustinus decimo tomo, Sermone 138. de Tempore 
+      </p>
+            <p xml:id="yyy8Uu-e02027-d1e593">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Haec de exaltatione Christi in communi¬ 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

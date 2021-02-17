@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="11"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e4277z"> <!-- l1-c9 -->
+            <head xml:id="yyy8Uu-e4277z-Hd1e109">Caput 9</head>
+            <p xml:id="yyy8Uu-e4277z-d1e112">
+               <lb ed="#H" n="147"/>CAPUT IX. 
+      <lb ed="#H" n="148"/>De Theologia viatorum seu nostra, quid sit, quis¬  
+      <lb ed="#H" n="149"/>que eius ortus.
+      </p>
+            <p xml:id="yyy8Uu-e4277z-d1e121">
+               <lb ed="#H" n="150"/>PTHEOLOGIA viatorum, est sapientia rerum divinarum: 
+      <lb ed="#H" n="151"/>Christo per Spiritum Sanctum cum hominibus hic in terra 
+      <lb ed="#H" n="152"/>degentibus per gratiosam inspirationem communicata, ut 
+      <lb ed="#H" n="153"/>lumine intellectus contemplentur Deum, &amp; res divinas ipsius 
+      per<lb ed="#H" n="154" break="no"/>sua incrementa, Deumque recte colant, donec in coelo claram &amp; 
+      per<lb ed="#H" n="155" break="no"/>fectam ejus visionem consequantur, ad gloriam ipsius. De hac 
+      dici<lb ed="#H" n="156" break="no"/>tur,, 2 Corinth. 13. vers. 9. Ex parte enim cognoscimus &amp; ex parte. 
+      <lb ed="#H" n="157"/>prophetamus. Et vers. 12. Cernimus enim nunc per speculum &amp; 
+      per<lb ed="#H" n="158" break="no"/>enigma, &amp;c. nunc cognosco ex parte, Ephes. 4. vers. 11, 12, 13. Is igitur 
+      <lb ed="#H" n="159"/>dedit alios quidem, Apostolos, alios vero, Prophetas, alios autem, 
+      Ev<lb ed="#H" n="160" break="no"/>angelisias, alios autem, Pastores &amp; Doctores. Ad compactionem 
+      <lb ed="#H" n="161"/>sanctorum, ad opus ministerij, ad aedificationem corporis Christi. 
+      <lb ed="#H" n="162"/>Donec perveniamus nos omnes in unitatem fidei, &amp; agnitionis Fili 
+      <lb ed="#H" n="163"/>Dei, in virum adultum, ad mensuram plenae staturae Christi. 1. Petr. 
+      <lb ed="#H" n="164"/>I. vers. 8. Quem, cum non videritis, diligitis: in quem, nunc eum non 
+      <lb ed="#H" n="165"/>cernentes, tamen credentes exultatis gaudio ineffabili &amp; 
+      glorioso<lb ed="#H" n="166" break="no"/>reportantes mercedem fidei vestrae salutem animarum. Petrus negat 
+      <lb ed="#H" n="167"/>nos videre JESUM CHRISTUM dum in hac vita sumus, sed 
+      ne<lb ed="#H" n="168" break="no"/>gat &amp; i, secundum quid, nimirum oculis corporis, item respectu 
+      vi<lb ed="#H" n="169" break="no"/>sionis illius, quam in coelo perfruemur, prae qua visio aenigmatica in 
+      <lb ed="#H" n="170"/>his terris non censetur esse visio; quum ea quae in hujus vitae 
+      cali<lb ed="#H" n="171" break="no"/>gine de Deo cognosei ab hominibus possunt, vix sint tenue 
+      in<lb ed="#H" n="172" break="no"/>atium illius sapientiae, quae in vita caelesti nobiscum 
+      communica<lb ed="#H" n="173" break="no"/>Fitur? 
+      <!--cod-MkL9py-0037.xml-->
+      <pb ed="#H" n="12"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Vocatur Theologia viae, seu viatorum, quia nobis hominibus hic 
+      <lb ed="#H" n="2"/>in terra revelata est: Item Theologia inspirata &amp; revelationis: quia 
+      <lb ed="#H" n="3"/>Prophetis &amp; Apostolis in terra degentibus immediate inspirata &amp; 
+      <lb ed="#H" n="4"/>revelata est, &amp; per illos aliis fidelibus manifestata. 
+      </p>
+            <p xml:id="yyy8Uu-e4277z-d1e191">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Synecdochice autem Theologia revelationis appellatur: quia 
+      et<lb ed="#H" n="6" break="no"/>iam anima humana Christi plurima cognoscit per revelationem Dei, 
+      <lb ed="#H" n="7"/>tatis cui est unita: &amp; sancti Angeli ex revelatione mysteria multa 
+      re<lb ed="#H" n="8" break="no"/>rum divinarum cognoverunt &amp; cognoscunt, sicut Danielis octavo &amp; 
+      <lb ed="#H" n="9"/>nono revelatur Angelo Gabrieli mysterium septuaginta septimana. 
+      <lb ed="#H" n="10"/>rum: Ephes. 3. vers. 10. docet Paulus, gratiam praedicandi Evangelium 
+      <lb ed="#H" n="11"/>sibi datam esse, ut nota fieret per Ecclesiam imperiis ac potestatibus, 
+      <lb ed="#H" n="12"/>quae in caelis sunt, multiformis illa sapientia Dei. Sic Petrus ait, 1 
+      <lb ed="#H" n="13"/>Petri 1. vers. 12. Quod in mysteria annunciata in Evangelio cupiant 
+      <lb ed="#H" n="14"/>Angeli introspicere. De qua cognitione Angelorum vide 
+      Hierony<lb ed="#H" n="15" break="no"/>mum Zanchium libro primo de operibus Redemtionis, capite 
+      de<lb ed="#H" n="16" break="no"/>cimo tertio: Et Zachariam Ursinum in volumine primo 
+      Tractatio<lb ed="#H" n="17" break="no"/>num Theologicarum, pagina trecentesima decimaquinta. Et post 
+      <lb ed="#H" n="18"/>hanc vitam patefactione plena &amp; clarissima nos homines 
+      cognosce<lb ed="#H" n="19" break="no"/>mus, quae jam credimus, secundum haec testimonia, I. Johan. 3. vers. 2 
+      <lb ed="#H" n="20"/>Charissimi nunc filii Dei sumus, sed nondum patefactum est quod  
+      <lb ed="#H" n="21"/>erimus: scimus autem fore, ut quum ipse patefactus fuerit, similes ei 
+      <lb ed="#H" n="22"/>simus: quoniam videbimus eum sicuti est. Roman. 8. vers. 18. 19. 
+      <lb ed="#H" n="23"/>Statuo minime esse pares passiones temporis hujus gloriae illi, quae 
+      fu<lb ed="#H" n="24" break="no"/>turum est ut reveletur in nobis. Universa enim creatura exspectate 
+      <lb ed="#H" n="25"/>oculos intendit in revelationem Filiorum Dei. I. Corinth. 1. vers. 7. 
+      <lb ed="#H" n="26"/>Adeo ut nullo dono deficiamini, exspectantes dum reveletur 
+      Domi<lb ed="#H" n="27" break="no"/>nus noster Iesus Christus. 2. Thessal. 1. vers. 7. Vobis vero qui affligi 
+      <lb ed="#H" n="28"/>mini, relaxationem nobiscum, in revelatione Domini Iesu de cael 
+      <lb ed="#H" n="29"/>cum Angelis suis potentibus. 1. Petr. 1. vers. 5. 7. 13. Qui virtutis Dei 
+      <lb ed="#H" n="30"/>praesidio custodimini per fidem, ad salutem paratam revelari 
+      praesti<lb ed="#H" n="31" break="no"/>tuto tempore ultimo: Vt exploratio fidei vestrae multo pretiosior ex 
+      <lb ed="#H" n="32"/>ploratione auri, quod perit &amp; tamen per ignem exploratur, 
+      invenia<lb ed="#H" n="33" break="no"/>tur vobis esse laudi &amp; honori, &amp; gloriae quum revelabitur Iisus 
+      <lb ed="#H" n="34"/>Christus. Quapropter succinctis lumbis mentis vestrae, sobrii ad 
+      fi<lb ed="#H" n="35" break="no"/>nem usque sperate in eam, quae vobis defertur, gratiam, quum revela 
+      <lb ed="#H" n="36"/>bitur Iesus Christus. Et cap. 4. vers. 13. Imo in eo quod consortes 
+      esti<lb ed="#H" n="37" break="no"/>afflictionum Christi, gaudete: ut &amp; quum revelabitur gloria ipsius 
+      <lb ed="#H" n="38"/>gaudeatis exsultantes. Hinc perspicuum est, Theologiam viatorum 
+      <lb ed="#H" n="39"/>per Synecdochen dici revelatam, seu Theologiam revelationis. 
+      </p>
+            <p xml:id="yyy8Uu-e4277z-d1e273">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Porro ortu est divina &amp; supernaturalis, hoc est, procedit ex 
+      prin<lb ed="#H" n="41" break="no"/>cipiis secundum se notis superioris scientiae lumine, quod idem est 
+      <lb ed="#H" n="42"/>hoc loco quod ex divina revelatione, illuminatione &amp; persuasione 
+      <lb ed="#H" n="43"/>supra humanae rationis modum: Hoc lumen caelestis Numinis 
+      affla<lb ed="#H" n="44" break="no"/>tu nostris mentibus infunditur.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

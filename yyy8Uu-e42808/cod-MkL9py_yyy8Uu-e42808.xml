@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 19</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 19</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="NaN"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e42808"> <!-- l5-c19 -->
+            <head xml:id="yyy8Uu-e42808-Hd1e109">Caput 19</head>
+            <p xml:id="yyy8Uu-e42808-d1e112">
+               <lb ed="#H" n="33"/>CAPUT XIX. 
+      <lb ed="#H" n="34"/>De terra
+      </p>
+            <p xml:id="yyy8Uu-e42808-d1e119">
+               <lb ed="#H" n="35"/>PPERRA, est clementum frigidae siccaeque naturae, densum, solis 
+      <lb ed="#H" n="36"/>dum, grave, in medio mundi tanquam fundamentum ipsius 
+      <lb ed="#H" n="37"/>collocatum, eoque in proprio loco immobile atque rotundum 
+      <lb ed="#H" n="38"/>Eam esse a Deo creatam, etiam in symbolo Apostolico profite 
+      <lb ed="#H" n="39"/>mur; quum dicimus, nos credere in Deum Patrem omnipotentem, 
+      <lb ed="#H" n="40"/>creatorem coeli &amp; terrae 
+      </p>
+            <p xml:id="yyy8Uu-e42808-d1e135">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>Materia ex qua constat terra, fuit lutosa massa, in rudi illa ac 
+      in<lb ed="#H" n="42" break="no"/>digesta aquisque circumfusa mole principio creata, innatans &amp; aquis 
+      <lb ed="#H" n="43"/>permista, quas Deus in unum locum confluere jussit, ut terra 
+      exun<lb ed="#H" n="44" break="no"/>dantibus aquis liberata, arida ac sicca appareret, ut Moses docet 
+      Ge<lb ed="#H" n="45" break="no"/>nes. 1. v. 9, 10. non quod tota intus &amp; foris omni penitus aqua &amp; 
+      hu<lb ed="#H" n="46" break="no"/>more destituta sit: nam intra terram cavernae sunt aquae plenae, &amp; 
+      a<lb ed="#H" n="47" break="no"/>quae per venas terrae fluunt siphonumque modo emicant, unde fontes 
+      <lb ed="#H" n="48"/>scaturiunt infiniti &amp; flumina oriuntur in montibus &amp; vallibus: sed 
+      <lb ed="#H" n="49"/>ita aquis detecta est, ut plantae in ea crescere &amp; homines bestiaeque in 
+      <lb ed="#H" n="50"/>ea habitare possint 
+      </p>
+            <p xml:id="yyy8Uu-e42808-d1e162">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Forma terrae rotunda est per se &amp; naturaliter secundum se 
+      consi<lb ed="#H" n="52" break="no"/>derata, etsi alibi sint montes etiam altissimi, alibi valles etiam 
+      pro<lb ed="#H" n="53" break="no"/>fundae, alibi planities amplissimae: sicut pomum rotundum est, etiasi 
+      <lb ed="#H" n="54"/>in eo sint nodi aliquot eminentes. 
+      </p>
+            <p xml:id="yyy8Uu-e42808-d1e175">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Fines terrae naturales explicant naturae indagatores: &amp; usus 
+      me<lb ed="#H" n="56" break="no"/>dicos ostendunt Medici, nos ex Scripturis divinis asserimus, illam crea 
+      <lb ed="#H" n="57"/>tam a Deo non tantum ut ex ea cum aliis elementis concurrente 
+      <lb ed="#H" n="58"/>corpora varia generarentur, sed etiam ut habitationi hominum &amp; 
+      a<lb ed="#H" n="59" break="no"/>liorum animalium terrestrium serviret. Psalm. 115.16. Ipsi coeli, coelo 
+      <lb ed="#H" n="60"/>sunt Iehovae; terraque quam dedit filiis hominum. 
+      </p>
+            <p xml:id="yyy8Uu-e42808-d1e193">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Verum consideratio terrae de Dei sapientia, bonitate &amp; potentia. 
+      <lb ed="#H" n="62"/>nos admonet. Psalm. 24. 1, 2. dicitur, Iehovae est terra &amp; implet eam 
+      <lb ed="#H" n="63"/>orbis habitabilis &amp; habitantes in eo. Nam ipse super maria fundavit 
+      <lb ed="#H" n="64"/>eam, &amp; super flumina stabilivit illam. Et Psalm. 136. 6. Qui 
+      expan<lb ed="#H" n="65" break="no"/>dit terram super aquas: quia in saculum est benignitas ejus. 2. Pet. 3. 
+      <lb ed="#H" n="66"/>v. 5. dicitur terram ex aqua &amp; in aqua consistere, hoc est, aquis in 
+      u<lb ed="#H" n="67" break="no"/>num locum collectis coepisse emergere. Ac proinde mirandum est 
+      <lb ed="#H" n="68"/>quod quum universa haec terrae moles, non supra petras solidas, sed  
+      <lb ed="#H" n="69"/>supra aquas molles instabiles, fluxas posita sit, non continuo cum a 
+      <lb ed="#H" n="70"/>qua ipsa movcatur, &amp; huc atque illuc fluctuet, quod non toties 
+      con<lb ed="#H" n="71" break="no"/>cutiatur, quoties in Oceano est tempestas. Mirandum est &amp; hoc  
+      <lb ed="#H" n="72"/>quod tam ponderosa terrae moles quiescat in mundi medio, nullis 
+      <lb ed="#H" n="73"/>firmis molibus imposita, sed in aqua &amp; aere undique pendens: quum 
+      <lb ed="#H" n="74"/>videamus, minimi etiam ponderis frustulum si elatum dimittatur 
+      <lb ed="#H" n="75"/>nulla alia re sustentatum, decidere, neque manere posse: terra autem 
+      <lb ed="#H" n="76"/>non prorsus delabatur ad ima. Ad hujus rei admirationem vocat Deus 
+      <lb ed="#H" n="77"/>ipse, quum ait Job. 38. 3, 4, 5, 6. Accinge nunc ut vir lumbos tuos; &amp; 
+      <lb ed="#H" n="78"/>quod interrogabote, notum fac mihi. Ubinam eras quum fundaren 
+      <lb ed="#H" n="79"/>terram? indica, si novisti intelligentiam. Quis disposuit mensurus 
+      e<lb ed="#H" n="80" break="no"/>jus; quandoquidem scitus es? aut quis extendit in ea regulam? 
+      Cui<lb ed="#H" n="81" break="no"/>rerbuses ejus dimersae incumbunt? aut quis jecit lapidem angularem 
+      <lb ed="#H" n="82"/>ejus? Et Jes. 40. 12. Quis mensus est pugillo suo aquas, &amp; coelos 
+      spitha<lb ed="#H" n="83" break="no"/>ma extendit, aut complexus est trientali pulverem terrae? &amp; ponde 
+      <lb ed="#H" n="84"/>ravit statera montes, &amp; colles lancibus? O rem admirandam etiam 
+      <lb ed="#H" n="85"/>Gentilibus ipsis: Nam Aristoteles quamvis homo Gentilis, lib. 2. d. 
+      <lb ed="#H" n="86"/>Coelo, cap. 13 ait: Tαχα ἀλογθιιρας διανσιας, το αη θανμαζειν, πῶς ποι 
+      <lb ed="#H" n="87"/>μικρον μδῳ μόριον τῆς γῆς, εαν μιlεωρισθεν ἀφιιῆ, φιρετας κιμδειν oυν 
+      <lb ed="#H" n="88"/>εθελει κι τοπλεῖον, ἀει θατιον: πάσαν δε τυυ γυιὴ, ἵετις αφειη μιιεωρισας, 
+      <lb ed="#H" n="89"/>εικ αν φοροετο, νν αεκριμει τοσοτον δαζος id est: Forsitan est menti 
+      <!--cod-MkL9py-0324.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>vacantis ratione, non admirari, curnam parva quaedam pars terrae, 
+      <lb ed="#H" n="91"/>si clevata dimittatur, fertur quiescereque non solet, majorque semper 
+      ce<lb ed="#H" n="92" break="no"/>terius fertur: universa autem terra, si quispiam ipsam sublimem 
+      e<lb ed="#H" n="93" break="no"/>levatamque demittat, ferri non potest, nunc vero tantum pondus quie  
+      <lb ed="#H" n="94"/>scit. Ita docet Aristoteles, terram immobilem esse. Statuimus 
+      er<lb ed="#H" n="95" break="no"/>go, terram esse immobilem &amp; quiescere in medio mundi, id est, nec 
+      <lb ed="#H" n="96"/>recto motu cieri, volvi &amp; ferri, nec circulari: ac rursus neque natura 
+      <lb ed="#H" n="97"/>si, neque violento, neque praeter naturam. Causa immobilitatis &amp; 
+      <lb ed="#H" n="98"/>stabilitatis terrae intrinseca quidem &amp; naturalis, est nativa terrae 
+      gra<lb ed="#H" n="99" break="no"/>vitas; prima autem ac principalis, est potentia Dei, ut divina eloquia 
+      <lb ed="#H" n="100"/>docent. Jobus cap. 26. v. 7. ait de Deo: Qui extendit Aquilonem 
+      su<lb ed="#H" n="101" break="no"/>per inane: suspendit terram super nihilum, id est, terram in media 
+      <lb ed="#H" n="102"/>mundi sede statuit, ibique immobilem tenet absque fundamento 
+      mo<lb ed="#H" n="103" break="no"/>lis alicujus solidae, absque adminiculo petrarum &amp; saxorum, quibus 
+      <lb ed="#H" n="104"/>ampla aedificia alioquin imponi solent. Psalm. 93. vers. 1. legitur, 
+      Do<lb ed="#H" n="105" break="no"/>minus firmavit orbem terrae, qui non dimovebitur. Et Psa. 104. v. 5. 
+      <lb ed="#H" n="106"/>Fundavit terram super bases ejus, ne dimoveretur in saculum &amp; 
+      in<lb ed="#H" n="107" break="no"/>erpetuum. Et Jesa. 42. v. 5. Sic ait Deus ille fortis Iehova creans 
+      coe<lb ed="#H" n="108" break="no"/>los &amp; extendens eos, firmans terram, &amp;c. 
+      <lb ed="#H" n="109"/>Hac terrae firmitate &amp; stabilitate admonet nos Deus de 
+      stabilita<lb ed="#H" n="110" break="no"/>te decretorum promissorumque suorum, ut Jes. 44. v. 19. legitur: Sic 
+      ai<lb ed="#H" n="111" break="no"/>Iehova vindex tuus, &amp; formator tuus ex utero: ego Iehova facio 
+      o<lb ed="#H" n="112" break="no"/>mnia, extedo coelos solus, expando terram per meipsum. Et c. 48. v. 13: 
+      <lb ed="#H" n="113"/>Manus mea fundavit terram &amp; dexterae mea palmus extendit 
+      coe<lb ed="#H" n="114" break="no"/>los: me vocante ea, consistunt pariter. Admonet nos de potentia sua 
+      <lb ed="#H" n="115"/>in defendenda &amp; conservanda Ecclesia, Ps. 125. v. 1, 2. Qui confidunt, 
+      <lb ed="#H" n="116"/>Iehovae, similes sunt monti Tziionis: qui non dimovetur, in saculum 
+      <lb ed="#H" n="117"/>permanet. Vt Ierosolyma montes circumstant, ita Iehova circumstat 
+      <lb ed="#H" n="118"/>populum suum, ex hoc tempore usque in saculum. 
+      </p>
+            <p xml:id="yyy8Uu-e42808-d1e328">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Praeterea mystice terra significat Ecclesiam, eamque inprimis 
+      re<lb ed="#H" n="120" break="no"/>novatam &amp; instauratam per Christum. Quo pertinet quod legitur 
+      <lb ed="#H" n="121"/>Jesa. 65. 17. Ecce ego creaturus sum coelos novos &amp; terram novam 
+      <lb ed="#H" n="122"/>Et cap. 66. 22. Quemadmodum coeli illi novi &amp; terra ipsa nova 
+      qui<lb ed="#H" n="123" break="no"/>ego facturus sum, constituta sunt coram me, dicit Iehova, ita 
+      consti<lb ed="#H" n="124" break="no"/>turum est semen vestrum &amp; nomen vestrum. 
+      </p>
+            <p xml:id="yyy8Uu-e42808-d1e346">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Effecta terrae, quae ipsa producit, sunt innumera. Est enim mater 
+      <lb ed="#H" n="126"/>omnium foecundissinia, optima, indefessa, patientissima, 
+      contiantissi<lb ed="#H" n="127" break="no"/>ma, fidelissima, liberalissima; ac proinde talis quae omnium oprim 
+      <lb ed="#H" n="128"/>naturam ingeniumque Dei nobis repraesentet. Num intra segignit 
+      <lb ed="#H" n="129"/>exempli gratia, fossilia: extra se, exempli itidem gratna plae atus omni 
+      <lb ed="#H" n="130"/>generis: Eaque in re tum bonitatis liberalitatis quae omine nos 
+      adino<lb ed="#H" n="131" break="no"/>net; tum etiam naturae boni &amp; regenerati cordis, vecoi divini 
+      semen<lb ed="#H" n="132" break="no"/>excipientis &amp; fructum multiplicem proferentis Matth. 15v. 68. Heb 
+      <lb ed="#H" n="133"/>68. v. 7. Admoner item grati animi erga benefactores: nam gratus 
+      a<lb ed="#H" n="134" break="no"/>nimus fertiles agros imitatur &amp; benefactori ubertim beneficia 
+      re<lb ed="#H" n="135" break="no"/>pendit.  
+      <lb ed="#H" n="136"/>Etsi autem nobis propositum non est historiam rerum quas 
+      ter<lb ed="#H" n="137" break="no"/>ra producit, hoc loco contexere &amp; causas illarum atque proprietates 
+      <lb ed="#H" n="138"/>naturales explanare: tamen non erit a nostro instituto alienum, si ea 
+      <lb ed="#H" n="139"/>commemoremus ut opera Dei, &amp; quatenus ad Dei cognitionem &amp; 
+      <lb ed="#H" n="140"/>nostram institutionem faciunt ipsa Scriptura Sacra duce. De Fossi 
+      <lb ed="#H" n="141"/>libus primo loco agemus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

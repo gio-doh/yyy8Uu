@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 26</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 26</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="181"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e85607"> <!-- l2-c26 -->
+            <head xml:id="yyy8Uu-e85607-Hd1e109">Caput 26</head>
+            <p xml:id="yyy8Uu-e85607-d1e112">
+               <lb ed="#H" n="6"/>CAPUT XXVI. 
+      <lb ed="#H" n="7"/>In quo de Iustitia Dei generatim, &amp; speciatim 
+      <lb ed="#H" n="8"/>de Iustitia gratiae &amp; irae
+    </p>
+            <p xml:id="yyy8Uu-e85607-d1e121">
+               <lb ed="#H" n="9" break="no"/>TE ambiguitas nominis errorem pariat, primum αμωγυμία 
+      <lb ed="#H" n="10"/>Mejus dstinguemus. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e128">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Justitia Dei vel pro essentiali attributo ejus sumitur, vel pro 
+      <lb ed="#H" n="12"/>Toperibus Dei justis, vel pro justitia Christi credentibus imputata, vel 
+      <lb ed="#H" n="13"/>pro eo quod praescribit Deus, vel pro spirituali vitae novitate, vel 
+      pro<lb ed="#H" n="14" break="no"/>forma gubernandi rite composita. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e142">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Pro attributo Dei essentiali accipitur Psal. 36. 6, 7. Iehova in 
+      cae<lb ed="#H" n="16" break="no"/>lis est benignitas tua; fides tua usque ad superiores nubes; justitia tua 
+      insta<lb ed="#H" n="17" break="no"/>montium Dei: iudicia tua instar abyssi magnae: homines &amp; iumenta. 
+      <lb ed="#H" n="18"/>conservas Iehova. Haec justitia est essentialis Deo 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e155">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Pro operibus Dei justis accipitur bifariam, vel pro praestatione 
+      <lb ed="#H" n="20"/>promissionum, vel pro judiciis, quae tum adversus pios. tum 
+      adver<lb ed="#H" n="21" break="no"/>sus impios exercet: velut Psal. 119. v. 137. Iustus es Iehova &amp; 
+      rectum<lb ed="#H" n="22" break="no"/>unumquodque iudiciorum tuorum 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e168">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Pro justitia Christi credentibus imputata accipitur, Rom. 1. v. 17. 
+      <lb ed="#H" n="24"/>justitia Dei per illud redigitur ex fide in fidem: sicut scriptum est, justus 
+      <lb ed="#H" n="25"/>autem ex fide vivet. Et cap. 3. 21, 22. Nunc vero absque lege iustitiae 
+      <lb ed="#H" n="26"/>Dei manifesta facta est, comprobata testimonio Legis ac Prophetarum; 
+      <lb ed="#H" n="27"/>Iustitia, inquom, Dei per fidem Iesu Christi in omnes &amp; super omnes 
+      <lb ed="#H" n="28"/>qui credunt: non enim est distinctio. Et c. 10. v. 3. ait de Judaeis: Nam 
+      <lb ed="#H" n="29"/>ignorantes Dei iustitiam &amp; propriam justitiam studentis constituere. 
+      <lb ed="#H" n="30"/>ustitiae Dei non fuerunt subtecti. In hisce dictis iustitia Dei 
+      appel<lb ed="#H" n="31" break="no"/>latur justitia Christi, quae Deo probatur &amp; quam in Evangelio 
+      gra<lb ed="#H" n="32" break="no"/>tis offert fide amplectendam &amp; donat imputatque credentibus in 
+      <lb ed="#H" n="33"/>Christum 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e197">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Pro eo quod praescribit Deus, accipitur Jacobi 1. vers. 20. Ira viro 
+      <lb ed="#H" n="35"/>ustitiam Dei non exsequitur. Psal. 119. 7. Celebrabo te recto animo, 
+      <lb ed="#H" n="36"/>discendo jura iustitiae tuae 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e208">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Pro spirituali vitae novitate, usurpatur Matth. 6. v. 33. Quaerite 
+      pri<lb ed="#H" n="38" break="no"/>mum regnum Dei &amp; justitiam eius, &amp; ista omnia adijcientur vobis. 
+      <lb ed="#H" n="39"/>Sic Psal. 69. 28. Appone poenam ad poenam iniquitatis eorum, &amp; ne 
+      <lb ed="#H" n="40"/>veniant in iustitiam tuam 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e221">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>Pro forma gubernandi rite composita, capitur Psal. 72. 1. O Deus 
+      <lb ed="#H" n="42"/>iudicia tua regi da, &amp; iustitiam tuam filio regis. Sensus enim est: Deus 
+      <lb ed="#H" n="43"/>da ut rex prudenter &amp; juste regnum administret. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e233">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Hae tam diversae acceptiones justitiae Dei sunt distinguendae, no 
+      <lb ed="#H" n="45"/>cum Andrea Osiandro ubique justitia essentialis intelligatur: In 
+      prae<lb ed="#H" n="46" break="no"/>sentia justitiam Dei primo significato accipimus, nempe pro 
+      attribu<lb ed="#H" n="47" break="no"/>to Dei essentiali, ejusque hanc tradimus descriptionem: 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e246">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>JUSTITIA Dei, cum pro essentiali proprietate Dei accipitur, est 
+      <lb ed="#H" n="49"/>voluntas ejus, per quam ipse justus est &amp; omnis justitiae in creaturis 
+      <lb ed="#H" n="50"/>autor. Psal. 84. 11. Iustitiae plena est dextera tua. Deut. 32 v. 4. Rupis 
+      il<lb ed="#H" n="51" break="no"/>lius opus est perfectum, omnes enim viae illius sunt ius: Deus fortis fide 
+      <lb ed="#H" n="52"/>lis, &amp; expers iniquitatis, iustus &amp; rectus est: Vocatur etiam rectitude 
+      <lb ed="#H" n="53"/>Dei seu aequitas. Psal. 52. 16. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e264">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Axiomata. 
+      <lb ed="#H" n="55"/>I. Deus est justus, idque semper: licet homines non semper 
+      intel<lb ed="#H" n="56" break="no"/>ligant, quomodo justus sit 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e275">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Contra objicitur: 
+      <lb ed="#H" n="58"/>Cuius uoluntate bonis mase &amp; malis bene est, is non est iustus: 
+      <lb ed="#H" n="59"/>Dei uoluntate bonis male &amp; malis bene est. 
+      <lb ed="#H" n="60"/>Ergo Deus non est iustus 
+      <lb ed="#H" n="61"/>RESPONDEO Per distinctionem. Cuius uoluntate bonis 
+      ma<lb ed="#H" n="62" break="no"/>le &amp; malis bene ese, videlicet semper, is non est justus: At Dei 
+      volun<lb ed="#H" n="63" break="no"/>tate esse bonis male &amp; malis bene semper; negatur. Nam Deus 
+      dis<lb ed="#H" n="64" break="no"/>fert poenas sceleratorum &amp; promia bonorum in alteram vitam: in 
+      <lb ed="#H" n="65"/>vitat malos lenitate sua ad resipiscentiam: probat &amp; confirmat pios 
+      <lb ed="#H" n="66"/>exercitiis calamitatum: punit &amp; castigat propter peccata multos, qui  
+      <lb ed="#H" n="67"/>humanis judiciis insontes videntur? 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e304">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>II. Solus Deus est essentialiter justus, sic ut essentialis justitia Dei 
+      <lb ed="#H" n="69"/>cum electis non communicetur. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e313">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>III. Deus facit quae Lege sua nobis prohibuit, quia non sibi, sed 
+      <lb ed="#H" n="71"/>nobis Legem tulit. Exempli gratia, non efficit, ne ullum peccatum 
+      <lb ed="#H" n="72"/>hic viventes admittamus, cum tamen facillime possit. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e325">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>IV. Justitiae divinae regula summa, perfectissima &amp; infallibilis, est 
+      <lb ed="#H" n="74"/>voluntas ejus. Nam Deus sibiipsi lex est. Quicquid Deus fieri vult,  
+      <lb ed="#H" n="75"/>eo ipso quoed vult, justum est. Quicquid Deus facit, scit &amp; vult  
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e336">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>V. Ut voluntas Dei est essentia Dei: ita &amp; justitn. Tum sicut Deus 
+      <lb ed="#H" n="77"/>vult per essentiam suam: ita etiam justus est per essentiam suam, non 
+      <lb ed="#H" n="78"/>per aliquam qualitatem inhaerentem 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e347">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Generalis haec consider: tie justitiae Dei docet. quid maxime Deus. 
+      <lb ed="#H" n="80"/>diligat, nimirum justitiam: sicut testatur David Psal. 11. v. 7. Quo- 
+      <lb ed="#H" n="81"/>niam iustus lehova, iuscitius diligis, retum aspicit vultus ipsius. Und 
+      <lb ed="#H" n="82"/>excitamur ad sincere colendain justitiam 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e360">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Discimus etiam hinc, Deum esse autorem omnis justitiae in 
+      crea<lb ed="#H" n="84" break="no"/>tura rationali: Item eos demum, qui justitiae stude at, ex Deo natos 
+      <lb ed="#H" n="85"/>esse, ut qui Deum tanquam Patrem filii referant: Deus enim, justus 
+      <lb ed="#H" n="86"/>est. Haec doctrina traditur 1. Joh. 4. 29. Scitis eum custum esse, nostis, 
+      <!--cod-MkL9py-0208.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="87"/>quicunque exercet iustitiam, ex ipso natum esse. Descriptioni justitiae Dei 
+      <lb ed="#H" n="88"/>&amp; axiomatibus subjicio distributionem. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e382">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Justitia Dei reipsa unica est, quemadmodum unica est essentia: 
+      ra<lb ed="#H" n="90" break="no"/>tione tamen &amp; pro captu nostro considerata, vel universalis est, vel 
+      <lb ed="#H" n="91"/>particularis 
+      <lb ed="#H" n="92"/>Vniversalis justitia Dei, est ordo seu natura mentis &amp; voluntatis 
+      <lb ed="#H" n="93"/>divine, qua Deus immuta hiliter &amp; incffabiliter talia vult &amp; approbat: 
+      <lb ed="#H" n="94"/>facit ipse &amp; efficit in al is, qualia in lege sua praecepit, &amp; omnia quae 
+      <lb ed="#H" n="95"/>cum hoc ordine pugnant nec vult, nec probat, nec operatur nec 
+      effi<lb ed="#H" n="96" break="no"/>cit, nec adjuvat, sed siorribil ter odit atque detestatur. Synecdochic. 
+      <lb ed="#H" n="97"/>Sanctitas Dei dicitur, ita ut subinde in Scriptura Sanctitas Dei &amp; 
+      iusti<lb ed="#H" n="98" break="no"/>tia universalis pro eodem accipiantur. De liac dicitur Psalm. 11. v. ult 
+      <lb ed="#H" n="99"/>Iustus Iehova, justitias diligit: Et Psalm. 5 Quoniam non Deus volensd 
+      <lb ed="#H" n="100"/>iniquitatem tu es. Ideo dicere Deum peccare posse, aut esse autorem 
+      <lb ed="#H" n="101"/>peccati, summa est in Deum justissimum blasphemiae 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e415">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Particulatis iustitia Dei, est immutabilis voluntas ejus, quam suum 
+      <lb ed="#H" n="103"/>cuique tribuit. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e425">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Iustitia commutativa in Deo non est, 1. quia Deus nullius est 
+      debi<lb ed="#H" n="105" break="no"/>tor, Rom. 11. 34. Quis prior dedit ei &amp; retribuetur ei? 2. quia Deus 
+      <lb ed="#H" n="106"/>ex largissima bonitate &amp; liberalitate plus dat, quam nos offerimus. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e436">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>Particularis justitia Dei tum erga se est, tum erga creaturas. 
+      <lb ed="#H" n="108"/>Erga se est, quam sibiipsi tribuit Deus &amp; ab aliis tribui vult eam 
+      glo<lb ed="#H" n="109" break="no"/>tiam, quae Summo Bono debetur: quemadmodum inquit, gloriam 
+      <lb ed="#H" n="110"/>meam alteri non dabo¬ 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e449">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>Particularis iustitia Dei erga creaturas, est quod nulli creaturae nec 
+      <lb ed="#H" n="112"/>vult nec potest facere injuriam, quicquid de ipsa statuat aut faciat.  
+      <lb ed="#H" n="113"/>Psal. 92. v.16. Ad annunciandum rectum esse Iehovam rupem meum, 
+      <lb ed="#H" n="114"/>neque esse ullam iniquitatem in eo¬ 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e462">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Eaque vel disponens est, vel distribuens 
+      <lb ed="#H" n="116"/>Iustitia disponens, est per quam Deus universa &amp; singula justo 
+      or<lb ed="#H" n="117" break="no"/>dine disponit &amp; gubernat, tanquam justissimus mundi Dominus &amp; 
+      <lb ed="#H" n="118"/>Judex 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e475">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Iustitia distrrbuens, est per quam Deus bonum tribuit iis quibus, 
+      <lb ed="#H" n="120"/>promisit, malum vero iis qui merentur.  
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e484">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>Estque vel gratiae, vel irs 
+      <lb ed="#H" n="122"/>Iustitia gratiae divinae, est propensissima &amp; constantissima voluntas 
+      <lb ed="#H" n="123"/>Dei, quam promissa sua fidelissime praestat: Unde etiam iustitia 
+      pro<lb ed="#H" n="124" break="no"/>missionum divinarum dicitur. Hanc declarat Deus, cum 
+      resipiscen<lb ed="#H" n="125" break="no"/>tibus nobis peccata remittit, cum vitam nostram tuetur, cum nos 
+      <lb ed="#H" n="126"/>contra omnem injustam vim defendit, ab oppressione liberat &amp; 
+      in<lb ed="#H" n="127" break="no"/>columes servat. Ita Deus fidem servis suis datam praestando, justum 
+      <lb ed="#H" n="128"/>se probat. De hac justitia loquitur David, Psalmo tricesimoquinto; 
+      <lb ed="#H" n="129"/>vers. vigesimoquarto cum ait: Iudica me secundum iustitiam tuam 
+      <lb ed="#H" n="130"/>hoc est, jus meum assere &amp; defende; servuum tuum in bona causa 
+      <lb ed="#H" n="131"/>defende, quia justus es. Sic Psalmo tricesimosexto, vers. undecimo: 
+      <lb ed="#H" n="132"/>Protende benignitatem tuam erga cognoscentes te, &amp; iustitiam ?nam 
+      er<lb ed="#H" n="133" break="no"/>ga rectos animo. 2. Petri 1. versic. 1. lis qui aeque pretiosam fidem 
+      no<lb ed="#H" n="134" break="no"/>biscum sortiti sunt per iustitiam Dei nostri. Psalmo 
+      quinquagesimo<lb ed="#H" n="135" break="no"/>primo. versiculo decimosexto, Libera me a sanguine o Deus Deus 
+      sa<lb ed="#H" n="136" break="no"/>lutis meae; cantet linguo mea institiam tuam, 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e524">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Justus est ergo Deus, non tantum cum punit, sed etiam cum bona 
+      <lb ed="#H" n="138"/>promissa exhibet: imo justitia Dei patesit praecipue in exhibendis 
+      <lb ed="#H" n="139"/>promissis beneficiis. Psal 25. &amp; 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e535">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Hac distinctione observata facile responderi potest ad quaestio 
+      <lb ed="#H" n="141"/>nem: An iustitia Dei adversetur eiusdem gratiae &amp; mi,ericordiae: Quod 
+      <lb ed="#H" n="142"/>enim Deus peccata remittit credentibus &amp; resipiscentibus, id &amp; 
+      mi<lb ed="#H" n="143" break="no"/>sericordiae Dei est &amp; justitiae simul assignandum: Misericordiae; quia 
+      <lb ed="#H" n="144"/>absque ullo nostro merito: iustitiae, quia promisit remissionem 
+      pec<lb ed="#H" n="145" break="no"/>catorum credentibus &amp; resipiscentibus. Justus ergo Deus est &amp; cum 
+      <lb ed="#H" n="146"/>peccata punit, &amp; cum peccata remittit. Hoc docet Paulus, cum ad 
+      <lb ed="#H" n="147"/>Rom. 3. v. 25, &amp; 26. ait: Quam propesuit Deus placamentum per 
+      fi<lb ed="#H" n="148" break="no"/>dem in sanguine ipsius, ad demonstrandam iustitiam suam, per 
+      remis<lb ed="#H" n="149" break="no"/>sionem peccatorum quae antecesserunt, Deo illa tolerante: Ad demons 
+      <lb ed="#H" n="150"/>strandam, inquom, iustittam suam praesenti tempore: ut sit ipse iustus, 
+      <lb ed="#H" n="151"/>&amp; iost ficans eum qui est ex fide Iesu. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e566">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>De hac justitia Dei quae est constantissima voluntas praestandi 
+      be<lb ed="#H" n="153" break="no"/>neficia promissa, multum nobis est cogitandum: quia praeter usum 
+      <lb ed="#H" n="154"/>theoricum, de quo jam egimus, multas alias affert utilitates ad praxim 
+      <lb ed="#H" n="155"/>fidei pertinentes. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e579">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Praebet enini nobis laudis divinae materium: quemadmodum 
+      Da<lb ed="#H" n="157" break="no"/>vid vovet, se eam cum jubilo celebraturum, Psal. 51. v. 16. Cantabit 
+      <lb ed="#H" n="158"/>cum subilo lingua mea iustitiam tuam. Hoc enim loco David non 
+      in<lb ed="#H" n="159" break="no"/>tellexit justitiam, quam Deus exsequitur vindietam, sed potius quam in 
+      <lb ed="#H" n="160"/>servandis promissis &amp; tuenda suorum salute fidelis est, neque unquam  
+      <lb ed="#H" n="161"/>miseros homines frustratur, quicunque ejus opem implorant 
+      Sic<lb ed="#H" n="162" break="no"/>Psal. 7. v 18. Celebrabo Iehovam sicundum iustitiam eius. Psal. 22. 
+      <lb ed="#H" n="163"/>v. 32. ait, parentes notitiam ejus ad filios quasi per manus 
+      transinis<lb ed="#H" n="164" break="no"/>sutos: Advenientes annunciabunt gustitiam cius, populo nascituro 
+      <lb ed="#H" n="165"/>psum exercere eam. Deut. 32. v. 3. 4. Quondoquidem nomen Iehova 
+      <lb ed="#H" n="166"/>praedicaturus jum, tribuita magnitudinem Deo nostro. Ru; is illius opus 
+      <lb ed="#H" n="167"/>est perfectum, omnes enim vi: illius sunt ius; Deus fortis, fidelis, &amp; 
+      <lb ed="#H" n="168"/>expers iniquitatis, iulus, &amp; rectus est 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e612">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>Deinde confirmat nobis fiduciam obtinendi a Deo quae ab eo 
+      pe<lb ed="#H" n="170" break="no"/>timus, sicut David ex ca spem impetrandi postulata concipit, Psal. 5. 
+      <lb ed="#H" n="171"/>vers. 9. Iehova deduc me in iustitia tua. Tantundem enim valet, ac si 
+      <lb ed="#H" n="172"/>dixisset: Domine auxilio tuo me protegas, ut crudeles hostium 
+      meo<lb ed="#H" n="173" break="no"/>rum machinationes evadam, quia justus es, seu, pro fide quam in 
+      tu<lb ed="#H" n="174" break="no"/>candis fidelibus ostendis. Sic Psal. 31. v. 2. Ad te, Iehova, me recipio, no 
+      <lb ed="#H" n="175"/>errlescam in saculum: Iustitia tua libera me. Et Psal. 71 v. 1, 2. In 
+      te<lb ed="#H" n="176" break="no"/>Ieho va, spem pono, ne pudesiam unquam. In iustitia tua cripe me, &amp; 
+      li<lb ed="#H" n="177" break="no"/>bera me. Errant valde, qui Deum pro justitia sua servare sanctos 
+      pu<lb ed="#H" n="178" break="no"/>tant: quia sic meriti sunt, ut aequum sit, mercedem illis rependi. Nam 
+      <!--cod-MkL9py-0209.xml-->
+      <pb ed="#H" n="182"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>iustitia Dei his in locis accipitur pro fide, qua suos omnes tuetur; qui 
+      se<lb ed="#H" n="2" break="no"/>ejus praesidio tutelaeque committunt. Ergo a natura Dei spem suam 
+      <lb ed="#H" n="3"/>confirmat David, quia Deus seipsum abnegare nequeat. Idem facit? 
+      <lb ed="#H" n="4"/>Daniel cum c. 9. v.16. ait: Domine, secundum totam iustitiam tuam 
+      <lb ed="#H" n="5"/>summam auertatur obsecro ira tua &amp; excandeoscentia tua, a civitate 
+      <lb ed="#H" n="6"/>tua Ierosoymis. q. d. quoniam non tu falles eos qui in te confidunt, sed  
+      <lb ed="#H" n="7"/>quicquid promisisti praestabis 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e660">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Tertio prodest meditatio haec ad colligendos omnes sensus nostros 
+      <lb ed="#H" n="9"/>ad unam Dei justitiam, ut ne varie spes nostras partiamur, sed relictis 
+      <lb ed="#H" n="10"/>omnibus pravis fiduciis, quibus totus fere mundus circumagitur huc 
+      <lb ed="#H" n="11"/>&amp; iliuc; pro sus desixi simus in Dei voluntate propensissima ad ex 
+      <lb ed="#H" n="12"/>hibendam nobis promissam salutem. Neque consilio proprio, 
+      ne<lb ed="#H" n="13" break="no"/>que industriae, neque virtuti inniti, neque ullis opibus neque 
+      homi<lb ed="#H" n="14" break="no"/>num auxiliis debemus, ut secure nobis salutem polliceamur; sed hoc 
+      <lb ed="#H" n="15"/>unum nobis propositum esse debet, quia justus est Deus, fieri non 
+      <lb ed="#H" n="16"/>posse, ut ab eo deseramur. Hoc pacto David cogitatione justitiae 
+      <lb ed="#H" n="17"/>Dei, omnes alias fiducias abdicavit in sola Dei justitia recumbendo 
+      <lb ed="#H" n="18"/>Psal 71. v.16. Incedam in sortitudinibus Dommi Thovae: recordabos 
+      <lb ed="#H" n="19"/>iustitiae tuae solius. Solam Dei justitiam sibi in memoria fore dicit: 
+      <lb ed="#H" n="20"/>quia nisi attente ad eam restringimus sensus omnes nostros mita 
+      ha<lb ed="#H" n="21" break="no"/>bet vaframenta Satan. quibus nos in vanitatem abducat. Simul enim 
+      <lb ed="#H" n="22"/>ac variae spes obrepserint, nihil proclivius est quam diffluere: &amp; 
+      quis<lb ed="#H" n="23" break="no"/>quis Dei justitia &amp; praestandi promissam nobis fidem voluntate 
+      con<lb ed="#H" n="24" break="no"/>stantissima non contentus, vel tantillum subsidii aliunde accerset, 
+      do<lb ed="#H" n="25" break="no"/>cumentum suo lapsu aliis praebebit, quam evandae sint omnes mun 
+      <lb ed="#H" n="26"/>di fulturae, quae Dei auxilio miscentur. Incedam in fortitudinibus Dei 
+      <lb ed="#H" n="27"/>mini Ichovae: recordabor iustitiae tuae solius. Sic Psalm. 116. v. 5. 
+      Cle<lb ed="#H" n="28" break="no"/>mens Iehova &amp; iustus, Deus, inquam, noster misericors, Custodien 
+      <lb ed="#H" n="29"/>simplices Iehova. Nihil est tutius, quam sicut in clementia &amp; 
+      miseri<lb ed="#H" n="30" break="no"/>cordia, ita in justitia Dei acquiescere, ne alio nos quicquam rapiat  
+      <lb ed="#H" n="31"/>nam qui consilio destituti, sibi ipsis prospicere nequeunt, qui objecti 
+      <lb ed="#H" n="32"/>sunt injuriis, qui cavendis inj:riis minime sunt solertes, qui denique 
+      <lb ed="#H" n="33"/>a filiis hujus mundi superantur astu &amp; fraudibus: si solummodo in 
+      fi<lb ed="#H" n="34" break="no"/>ducia justitiae Dei sunt firmi, neutiquam subvertentur. Justitia Dei 
+      <lb ed="#H" n="35"/>exseret se ad ipsos tuendos: justitia Dei pericula quibus salus ipsorum 
+      <lb ed="#H" n="36"/>impeditur 
+      depelle<lb ed="#H" n="37" break="no"/>Quatto animat nos consideratio hujus justitiae Dei ad fiduciam 
+      <lb ed="#H" n="38"/>romissionum divinarum Qui enim non confidat, praestiturum. 
+      <lb ed="#H" n="39"/>Deum quaecunque promisit, qui certo persuasus est justum esse Deum; 
+      <lb ed="#H" n="40"/>Hoc est quod Israelitae reduces dicunt Nehem. 9. v. 7. &amp; 8. Tues 
+      Ie<lb ed="#H" n="41" break="no"/>hova Deus, qui eligens Abrahamum eduxisti eum Vre Chaldaeorum, &amp; 
+      <lb ed="#H" n="42"/>imposuist ei nomen Abraham. Et inveniens animam eius fidelem 
+      co<lb ed="#H" n="43" break="no"/>ram te, etiam pepigisti cum eo fedus, te daturum terram Cananai 
+      <lb ed="#H" n="44"/>Chitthaei, Emoreai, Perizzeique, ac lebusei, &amp; Girgaschei, daturum, 
+      in<lb ed="#H" n="45" break="no"/>quam, semini eius: &amp; praestitisti verba tua, quia iustus es. Hoc 
+      ar<lb ed="#H" n="46" break="no"/>gumentum fiduciam in nobis alere debet de certitudine 
+      remissioni<lb ed="#H" n="47" break="no"/>peccatorum: Sicut dicitur 1. Joh 1. v 9. Si confiteamur peccata nostra 
+      <lb ed="#H" n="48"/>fidelis est &amp; iustus, ut remittat nobis peccata, &amp; purget nos ab omni 
+      ini<lb ed="#H" n="49" break="no"/>quitate. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e757">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Quinto servit consideratio hujus justitiae Dei consolationi. Nam 
+      <lb ed="#H" n="51"/>quoniam Deus justus est, suorum miserias abolebit &amp; cum 
+      optatissi<lb ed="#H" n="52" break="no"/>ma quiete commutabit; tum nec operis nostri obliviscetur. Hoc 
+      ar<lb ed="#H" n="53" break="no"/>gumento solatur Paulus fideles 2. Thess. 1. v. 6. Siquidem iustum est, 
+      <lb ed="#H" n="54"/>apud Deum vicissia reddere iis, qui affligunt vos, afflictionem: vobis 
+      <lb ed="#H" n="55"/>vero qui premimini, relaxationem nobiscum, quum patefiit Dominus. 
+      <lb ed="#H" n="56"/>Iesus de coelo, cum Angelis siuis potentibus. Et Hebr. 6. v. 10. Non enim 
+      <lb ed="#H" n="57"/>iniustus est Deus ut obliviscatur operis vestri, &amp; laboriosae charitatis, 
+      <lb ed="#H" n="58"/>quam demonstrastis erga ipsius nomen, ut qui ministraveritis sanctis &amp; 
+      <lb ed="#H" n="59"/>ministretis. Sic Psal. 103. v. 17. Benignitas Iehovae inde a seculo usque in 
+      <lb ed="#H" n="60"/>seculum est erga timentes ipsum, &amp; iustitia eius erga nepotes. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e786">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>En quam eximios usus nobis praestet consideratio hujus justitiae 
+      <lb ed="#H" n="62"/>Dei, quam in promissionum suarum impletione cultoribus suis probatis 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e795">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Hactenus de iustitia gratiae: sequitur de 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e802">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>justitia 
+      trae<lb ed="#H" n="65" break="no"/>Iustitia irae divinae, est qua Deus judicia sua certo atque aequissim: 
+      <lb ed="#H" n="66"/>exercet, quomadmodum est comminatus. Inde etiam nuncupatur  
+      <lb ed="#H" n="67"/>iusticia comminationum. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e815">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Estque vel castigans vel vindicans: Illa ad corrigendos electos. haec 
+      <lb ed="#H" n="69"/>ad perdendos reprobos spectat. De utraque communiter dicitur Psal 
+      <lb ed="#H" n="70"/>97. v. 2. Nubes &amp; caligo circumstant eum, iustitia &amp; iudicium 
+      locum<lb ed="#H" n="71" break="no"/>solii eius. Et Psal. 88. v. 13. An cognosceretur in tenebris mirabile opus 
+      <lb ed="#H" n="72"/>tuum &amp; iustitia tua in terra oblivionis: Et Psal. 89. v. 15. Iustitia &amp; 
+      <lb ed="#H" n="73"/>iudicium habitaculo solii tui, benignitas &amp; fides praeeunt faciei tuae 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e833">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Ut ergo justus Deus est, quod bona side promissiones suas servat,  
+      <lb ed="#H" n="75"/>ita etiam justus est, quod bona fide comminationes suas impleti  
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e843">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Justitia vero irae est aequissima atque integerrima; quod significat 
+      <lb ed="#H" n="77"/>tum fuit in visione Prophetica, Dan. 7. v. 9. Vestimento Antiqui die 
+      <lb ed="#H" n="78"/>rum &amp; pilis capitis, e quibus illud ut nix album erat, hi ut lana munda. 
+      <lb ed="#H" n="79"/>Conspicitur tum quo ad electos, tum quo ad reprobos. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e856">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Quo ad electos quidem tum in ipsismet, tum in Christo pro ipsis. 
+      <lb ed="#H" n="81"/>In ipsismet electis conspicitur justitia Dei partim quod propter 
+      <lb ed="#H" n="82"/>peccatum rei sunt facti mortis &amp; maledictionis aeternae, junta 
+      coni<lb ed="#H" n="83" break="no"/>minationem Gen. 2. v. 17. De fructu ve ô arboris scientiae boni &amp; 
+      ma<lb ed="#H" n="84" break="no"/>li; de isto ne comedas::am quo die comederis de eo, moriendo morteris; 
+      E<lb ed="#H" n="85" break="no"/>Deiut. 27. v. 26. Maledictus qui non praestiterit verba Legis huius, 
+      fa<lb ed="#H" n="86" break="no"/>ciendo ca: Partim quod subjecti sunt variis afflictionibus temporai 
+      <lb ed="#H" n="87"/>bus, veluti morbis, paupertati, contemtui calumniis, oppressioni, ex 
+      <lb ed="#H" n="88"/>siliis, bellis &amp; aliis miseriis hujus vitae, denique morti ipsi temporali 
+      <lb ed="#H" n="89"/>juxta comminationem quae exstat Deut. 28. a v. 15. usque ad finem 
+      <lb ed="#H" n="90"/>capitis, &amp; passim in Scriptura 
+      <!--cod-MkL9py-0209.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>Eamque electi agnoscunt &amp; confitentur: quemadmodum 
+      Davie<lb ed="#H" n="92" break="no"/>psal. 11v. 75. Agnosco Iehova insta esse iudicia tua. v. 137. Iustus es 
+      Ieho<lb ed="#H" n="93" break="no"/>va &amp; rectum unumquodque iudiciorum tuorum. Principes Judaeorum 
+      <lb ed="#H" n="94"/>&amp; Rex Rechabeamus, 2. Chron. 12. 5. &amp; 6. Nam cum Schemahis 
+      <lb ed="#H" n="95"/>Propheta eis dixisset: Sic ait Iehova, vos dereliquistis me, ideo ego quoo 
+      <lb ed="#H" n="96"/>derelinquo vos tradendo vos in manum Schischalbi. Tum deprimentes se 
+      <lb ed="#H" n="97"/>Principes Israelis &amp; Rex dixerunt, iustus est Iehova. Agnoscit &amp; 
+      confi<lb ed="#H" n="98" break="no"/>tetur eandem Ecclesia Judaica Lament. Jer. cap. 1. 18. Iustus est 
+      Ieho<lb ed="#H" n="99" break="no"/>va, eo quod contra os eius rebellavi: audite quaeso omnes populi, &amp; 
+      adspi<lb ed="#H" n="100" break="no"/>cite dolorem meum, virginum mearum &amp; iuvenum meorum 
+      abeun<lb ed="#H" n="101" break="no"/>tium in captivitatem. Agnoscit &amp; confitetur eam Dan c. 9. v. 7. Pene. 
+      <lb ed="#H" n="102"/>te, Domine, est iustitia, at penes nos pudor faciei. Et v. 14. Vigilavit 
+      Ie<lb ed="#H" n="103" break="no"/>hova ad illud malum quod adduxit super nos: nam iustus est Iehovi 
+      <lb ed="#H" n="104"/>Deus noster in omnibus factis suis quae fecit, quum non auscultaverimus 
+      <lb ed="#H" n="105"/>voci eius. Agnoscit &amp; confitetur eandem Ezra c. 9. v. 15. Iehova Deus 
+      <lb ed="#H" n="106"/>Israelis iustus es, quod facti simus residui sicut est hodierno die: ecce 
+      no<lb ed="#H" n="107" break="no"/>pram te in reatibus nostris, quamvis non sit consistendum coram te cum 
+      <lb ed="#H" n="108"/>hoc. Agnoscit &amp; confitetur eandem Nehemias cap. 9. 33. Tu iustus 
+      <lb ed="#H" n="109"/>es in omnibus quae obveniunt nobis: nam veritatem exercuisti, quia 
+      im<lb ed="#H" n="110" break="no"/>prole egimus. Sic pii tribuunt Deo laudem justitiae non tantum 
+      ubi<lb ed="#H" n="111" break="no"/>alios castigat aut punit, sed etiam quum ipsos affligit &amp; corripit. 
+      Sic<lb ed="#H" n="112" break="no"/>ergo justitia comminationum divinarum conspicitur in ipsismet 
+      ele<lb ed="#H" n="113" break="no"/>ctis, 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e939">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>In Christo vero pro electis conspicitur eadem omnium 
+      luculentis<lb ed="#H" n="115" break="no"/>sime: nam Deus proprio Filio suo non pepercit, sed pro nobis 
+      omni<lb ed="#H" n="116" break="no"/>bus tradidit illum, Rom. 8 v. 52. Nullum exemplum justitiae irae &amp; 
+      <lb ed="#H" n="117"/>comminationum divinarum est expressius, severius, horribilius, quam 
+      <lb ed="#H" n="118"/>in Christo. Nam quia omnes homines in Adamo peccaverunt, 
+      po<lb ed="#H" n="119" break="no"/>stulat justitia Dei, ut quod adversus summam atque infinitam Dei 
+      ma<lb ed="#H" n="120" break="no"/>estatem commissum est, id etiam summis atque infinitis, hoc est, 
+      sem<lb ed="#H" n="121" break="no"/>piternis cum animi tum corporis suppliciis luatur, ut sic proportio 
+      <lb ed="#H" n="122"/>culpae &amp; poenae. Huic justitiae satisfaciendum est necessario. At quia 
+      <lb ed="#H" n="123"/>nemo hominum satisfacere posset in aeternum: ne totum humanum 
+      <lb ed="#H" n="124"/>penus interiret; sponsorem se ultro fecit unigenitus Filius Dei 
+      pro<lb ed="#H" n="125" break="no"/>illis quos Pater ipsi dederat, &amp; ipse sese exinanivit forma servi accepta 
+      <lb ed="#H" n="126"/>similis hominibus factus: &amp; habitu compertus ut homo, ipse se 
+      sub<lb ed="#H" n="127" break="no"/>misit, factus obediens usque ad mortem, mortem autem crucis, Philip. 
+      <lb ed="#H" n="128"/>2. 7. &amp; 8. Quoniam ergo Filius Dei homo factus constituit se 
+      pro<lb ed="#H" n="129" break="no"/>electis sponsorem: Deus poenam quae electis in sempiternum 
+      perfe<lb ed="#H" n="130" break="no"/>enda fuisset, in ipsum transtulit sponsorem, &amp; iram suam adversus. 
+      <lb ed="#H" n="131"/>peccata electorum in eum effudi¬ 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e983">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>Ex hac doctrina ad multas difficiles quaestiones responderi potest. 
+      <lb ed="#H" n="133"/>Primo quaeritur, cum iustitia Dei requirat, ut peccatum aterna poena. 
+      <lb ed="#H" n="134"/>puniatur, nonne omnibus nobis sit pereundim, cum peccaverimus omnes: 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e994">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>RESP. Sane oporteret nos omnes perire, si Deus peccata in nobi 
+      <lb ed="#H" n="136"/>uniret. Verum non punit ea in nobis suppliciis aeternis, nec tamen 
+      <lb ed="#H" n="137"/>justitia ejus violatur, quoniam poena aequivalente aeternae nostra pec- 
+      <lb ed="#H" n="138"/>cata in Christo sponsore nostro punivit: 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e1007">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Secundo quaeritur: Si nobis non est aeternum supplicium luendum, 
+      <lb ed="#H" n="140"/>quomodo siet quod iustitia Dei postulat  
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e1017">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>RESP. Tum non fieret quod justitia Dei postulat, si prorsus nulla 
+      <lb ed="#H" n="142"/>infligeretur poena vel ipsi peccanti, vel alii pro ipso ad sustinenda poenam. 
+      <lb ed="#H" n="143"/>se offerenti. At Christo sponsori nostro poena pro nobis est inflicta. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e1028">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Tert o quaeritur; Cum iustitia Dei aeterna poenam requirat, poena 
+      au<lb ed="#H" n="145" break="no"/>tem Christo imposita non fuerit aeterna, quomodo iustitiae Dei sit 
+      satis<lb ed="#H" n="146" break="no"/>factum, 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e1039">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>RESP. Primo supplicium Christi fuit quidem tempore sinitum 
+      seu<lb ed="#H" n="148" break="no"/>temporale: valore vero est infinitum &amp; aeternum, ac proinde 
+      aequiva<lb ed="#H" n="149" break="no"/>lens supplicio aeterno: quod evincit tum personae quae illud perpessa 
+      <lb ed="#H" n="150"/>est dignitas, tum ipsiusmet supplicii gravitas. Secundo justitia Dei 
+      <lb ed="#H" n="151"/>aeternam poenam requirit, videlicet nisi is cui imponitur poena, eam 
+      <lb ed="#H" n="152"/>vincat ac superet. At Christus eam vicit &amp; superavit: unde merito 
+      <lb ed="#H" n="153"/>victor mortis aeternae dicitur. 
+      <lb ed="#H" n="154"/>Haec de iustitia irae seu comminationum Dei quoad ele¬ 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e1061">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>ctos; sequitur de eadem quoad reprobos. 
+      <lb ed="#H" n="156"/>Quae conspicitur tum in hominibus reprobis, tum in diabolo &amp; 
+      an<lb ed="#H" n="157" break="no"/>gelis eius 
+      <lb ed="#H" n="158"/>In hominibus reprobis conspicitur justitia haec Dei, partim quod 
+      su<lb ed="#H" n="159" break="no"/>per eos manet ira Dei, Joh. 3. v. ult. ac proinde manent sub 
+      maledictio<lb ed="#H" n="160" break="no"/>ne &amp; morte aeterna: partim quod in hac etiam vita judicia Dei 
+      horri<lb ed="#H" n="161" break="no"/>bilia in ipsos exercentur, suntque poenae quas in hac vita patiuntur 
+      prin<lb ed="#H" n="162" break="no"/>cipium aeternarum., Ps. 5. v 5, 6, 7. Nam non es Deus sortis, qui 
+      uelecte<lb ed="#H" n="163" break="no"/>tur improbitate: non est commoraturum apud te malum. Non 
+      consistum<lb ed="#H" n="164" break="no"/>insani e regione oculorum tuorum: odisti omnes qui operam dant 
+      iniqui<lb ed="#H" n="165" break="no"/>tati. Perditurus es loquentes mendacium: virum sanguinarium &amp; 
+      do<lb ed="#H" n="166" break="no"/>losum abominetur Iehova. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e1092">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Haec justitia adversus improbos aeque minus impediri potest atq 
+      <lb ed="#H" n="168"/>amnis exundans sisti: sicut dicitur Jes. 10. v. 22. Consummationem 
+      <lb ed="#H" n="169"/>praecisam corsummabit exundans iustitia. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e1103">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Fam consiteri coguntur etiam improbi ipsi, quamvis inviti, velus 
+      <lb ed="#H" n="171"/>Pharao Exod. 9. vers. 27. Quum misisset Pharao, accersivit Mosen &amp; 
+      <lb ed="#H" n="172"/>Aaronem &amp; dixit eis, peccavi hac vice: Iehova iunstissimus, ego vero &amp; 
+      <lb ed="#H" n="173"/>populus meus improbissimi sumus 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e1117">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>In diabolo &amp; angelis eius conspicitur justitia Dei, tum in 
+      deturba<lb ed="#H" n="175" break="no"/>tione ejus de coelo &amp; privatione perpetua aeternae beatitudinis, tum 
+      <lb ed="#H" n="176"/>in supplicio ignis aeterni, qui patatus est diabolo &amp; angelis ejus 
+      <lb ed="#H" n="177"/>Lucae cap. 10. vers. 18. Spectabam Satanam ut fulgur e coelo 
+      caden<lb ed="#H" n="178" break="no"/>tem. Apocal. 12. v. 8, 9. Nequo locus eorum amplius inventus est 
+      in<lb ed="#H" n="179" break="no"/>coelo. Et proiectus est Dra oille magnis, serpens ille antiquus, qui vocatur 
+      <lb ed="#H" n="180"/>diabolus &amp; Satanas, qui seducit cotum terrarum orbemi protectus est in 
+      <!--cod-MkL9py-0210.xml-->
+      <pb ed="#H" n="183"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>terram, &amp; angeli eius cum eo proiecti sunt. Matth. 25. 41. Tunc dicet 
+      <lb ed="#H" n="2"/>etiam iis qui ad sinistram erunt, abite a me exsecrandi in ignem 
+      ater<lb ed="#H" n="3" break="no"/>num, qui paratus est diabolo &amp; angelis eius. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e1150">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Hujus justitiae Dei consideratio multos insignes usus affert 
+      <lb ed="#H" n="5"/>Prin o suppeditat doctrinam; omnia opera Dei, quantumvis ho 
+      <lb ed="#H" n="6"/>minibus perperam judicantibus videantur injusta, esse tamen 
+      justis<lb ed="#H" n="7" break="no"/>sima: veluti quod nulla habita ratione operum vel bonorum vel 
+      ma<lb ed="#H" n="8" break="no"/>lorum, tanquam causarum efficientium, alios homines elegit, alios 
+      <lb ed="#H" n="9"/>odio habuit &amp; reprobavit, injustitiae nullius argui potest; quemad 
+      <lb ed="#H" n="10"/>modum Paulus docet Rom. 9. 11, &amp; sequentibus ubi ait: Nondum enim 
+      <lb ed="#H" n="11"/>natis pueris, quum nihil fecissent boni &amp; mali, ut propositum Dei, quod  
+      <lb ed="#H" n="12"/>est secundum electionem, non ex operibus, sed ex vocante maneret 
+      di<lb ed="#H" n="13" break="no"/>ctum est ei, maior serviet minori. Sicut scriptum est, lacobum dilexi 
+      <lb ed="#H" n="14"/>Esavum odio habui. Quid igitur dicemus? Num iniustitia est apud 
+      <lb ed="#H" n="15"/>Deum? absit. Nam Mosi dicit, miserebar cuius misertus fuero, &amp; 
+      com<lb ed="#H" n="16" break="no"/>miserabor quem commiseratus fuero. Similiter quum populum 
+      ali<lb ed="#H" n="17" break="no"/>quem rejicit, cui se prius benigne patefecerat &amp; quem multis 
+      benefi<lb ed="#H" n="18" break="no"/>ciis affecerat. justissime agit; ut in exemplo Israelitatum ostendit 
+      Je<lb ed="#H" n="19" break="no"/>saias cap. 10. 22. Nam si fuerit populus tuus Israel numero sicut arena 
+      <lb ed="#H" n="20"/>maris, reliquum reuertetur ex eo: consummationem praecisam consum. 
+      <lb ed="#H" n="21"/>mabit exundans iustitia. Et Paulus Rom. 9. 28. Rem conficiet &amp; 
+      <lb ed="#H" n="22"/>concidet cum justitia; quoniam rem concisam peraget Dominus in ter 
+      <lb ed="#H" n="23"/>ra. Quod ergo Judaei nunc regno Dei exclusi sunt, justitiae divinae est 
+      <lb ed="#H" n="24"/>documentum. Praeterea hinc colligimus, quum Deus sit justus 
+      <lb ed="#H" n="25"/>ipsum esse mundi judicem, Rom. 3. v. 4, 5, 6 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e1202">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>Secundo facit ad refutandam vanam confidentiam eorum, qui 
+      ex<lb ed="#H" n="27" break="no"/>eo quod vident se rerum omnium abundantia affluere nullisque 
+      ca<lb ed="#H" n="28" break="no"/>lamitatibus urgeri, existimant Deum ea omnia quae faciunt 
+      appro<lb ed="#H" n="29" break="no"/>bare, nihilque mali sibi metuendum, ac proinde secure peccant. 
+      At<lb ed="#H" n="30" break="no"/>qui cum Deus sit justus, non subscribet eorum sceleribus, neque 
+      et<lb ed="#H" n="31" break="no"/>iamsi ad tempus dissimulet, semper eos tolerabit, sed adversus ipsos 
+      <lb ed="#H" n="32"/>judicia sua exseret. Hoc pacto refellit Propheta. Tzephania vel 
+      So<lb ed="#H" n="33" break="no"/>honias Judaeos, impunitatem sibi pollicentes, cum ait cap. 3. v. 5. 
+      <lb ed="#H" n="34"/>Iehova justus in medio eius, non faciet iniquitatem: mane mane 
+      judi<lb ed="#H" n="35" break="no"/>cium suum proferet. q. d. Jehovae voluntas propensa ad rependendum 
+      <lb ed="#H" n="36"/>cuique est constantissima: ideo non erit approbator scelerum, non 
+      <lb ed="#H" n="37"/>renunciabit sibi ipse, non mutabit naturam impiorum causa, sed 
+      ju<lb ed="#H" n="38" break="no"/>dicium suum quotidie in lucem edet. Hoc est quod dicitur Psal. 50. 
+      <lb ed="#H" n="39"/>v. 6. Et annunciabunt coeli justitiam eius, quia Deus judex est certo.q. 
+      <lb ed="#H" n="40"/>d. quamvis nunc conniveat Deus, tamen patefaciet justitiam suam &amp; 
+      <lb ed="#H" n="41"/>coelo, quae refellet vanam confidentiam vestram 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e1241">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Tertio facit ad correctionem nostram, qui gravius a Deo afflict 
+      <lb ed="#H" n="43"/>opinamur injuste nobiscum agi, &amp; propterea indignamur: quod ex 
+      <lb ed="#H" n="44"/>infirmitate etiam Jobus fecit, Job. 3. &amp; 6 Propterea increpatus postea 
+      <lb ed="#H" n="45"/>est a Deo cap. 37. &amp; 40. justitiam &amp; omnipotentiam sibi 
+      illustrissi<lb ed="#H" n="46" break="no"/>mis exemplis vindicante 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e1257">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Quar o facit ad celebrandum Deum: quemadmodum inde laudis 
+      <lb ed="#H" n="48"/>divinae argumentum capit David Psal. 36. vers. 7. Iustitia tua instat 
+      <lb ed="#H" n="49"/>montium Dei fortis. Ethan Ezrachites Psal 89. 15. ubi ait; justitia &amp; 
+      <lb ed="#H" n="50"/>judicium habitacula solii tui: benignitas &amp; fides praecunt faciei tuae. 
+      <lb ed="#H" n="51"/>David Psal 119. v. 160. In seculum est quodque iudicium iustitiae tuae. Et  
+      <lb ed="#H" n="52"/>Jesaias cap. 5. v. 16. Exaltatur Iehova exercituum iudicio suo, &amp; Deus 
+      <lb ed="#H" n="53"/>fortis sanctissimus sanctificatur iustitia. Et Angelus aquarum, quem 
+      <lb ed="#H" n="54"/>audivit Johannes dicentem Apoc. 16. v. 5, 6. Iustus es Domine, qui es 
+      <lb ed="#H" n="55"/>&amp; qui eras, &amp; qui eris, quod haec tudicaris: Quoniam sanguinem 
+      San<lb ed="#H" n="56" break="no"/>ctorum &amp; Prophetarum effuderunt, &amp; sanguinem eis dedisti ad 
+      biben<lb ed="#H" n="57" break="no"/>dum: digni enim sunt: Et v. 7. audivit Johannes alium e 
+      sanctuario<lb ed="#H" n="58" break="no"/>dicentem; Etiam Domine Deus omnitotens, vera sunt &amp; iusta 
+      iudi<lb ed="#H" n="59" break="no"/>cia tua. Post haec cap. 19. v. 1, 2. audivit Johannes vocem magnam 
+      <lb ed="#H" n="60"/>turbae multae in coelo, dicentis, Halleluia: Salus &amp; honor &amp; gloria &amp; 
+      <lb ed="#H" n="61"/>virtus Domino Deo nostro esto. Quia vera &amp; iusta sunt iudicia eius, &amp; 
+      <lb ed="#H" n="62"/>meretricem illam magnam, quae corrupit terram scortatione sua, 
+      damna<lb ed="#H" n="63" break="no"/>vit, &amp; vindicavit sanguinem servorum suorum, ex manis eius. 
+      Cele<lb ed="#H" n="64" break="no"/>bremus ergo &amp; nos Deum: quia justus est, &amp; judicia sua justa exercet. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e1301">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Facit ad coercendos &amp; continendos nos in modestia, ne discepter 
+      <lb ed="#H" n="66"/>mus &amp; litigemus cum Deo nos affligente, prosperitatem vero 
+      impro<lb ed="#H" n="67" break="no"/>bis indulgente: nulli enim facit injuriam, cum sit justus, sicut dici 
+      <lb ed="#H" n="68"/>Jeremias cap. 12. v. 1 Iustus es Iehova, si contendere velim tecum. Un 
+      <lb ed="#H" n="69"/>de etiam facit ad continendos nos sub patientia, ut judiciis Dei 
+      reve<lb ed="#H" n="70" break="no"/>renter acquiescamus, scientes quicquid facit Deus de nobis, id 
+      justis<lb ed="#H" n="71" break="no"/>simum esse. 
+      </p>
+            <p xml:id="yyy8Uu-e85607-d1e1322">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Servit &amp; consolationi. Deus puniet hostes suos &amp; Ecclesiae suae 
+      <lb ed="#H" n="73"/>suosqu. fideles ab illorum crudelitate tandem vindicabit, quia est justus 
+      <lb ed="#H" n="74"/>Haec consolatio exstat Psal. 11. 6, 7. Depluet super improbos prunas, 
+      <lb ed="#H" n="75"/>igrem &amp; sulphur: ventusque procellosissimus portio calicis eorum futurus 
+      <lb ed="#H" n="76"/>est: Num iustus Iehova quae iusta sunt diligit; rectum aspicit vultus eius. 
+      <lb ed="#H" n="77"/>Psal. 94. 14, 15. Non enim deserit Iehova populum suum, &amp; possessionem 
+      <lb ed="#H" n="78"/>suam non derelinquit: sed usque ad iustitiam reversurum est tudicium, &amp; 
+      <lb ed="#H" n="79"/>post illud omnes recti corde, id est, judicium Dei (quod in hoc seculo 
+      <lb ed="#H" n="80"/>magis exercet bonos quam improbos, &amp; cujus principia tantum 
+      i<lb ed="#H" n="81" break="no"/>hac vita ducuntur) tandem ad plenam &amp; constantissimam justitiam 
+      <lb ed="#H" n="82"/>perducetur, ut suum cuique jus tribuatur, affligentibus afflictio, 
+      affli<lb ed="#H" n="83" break="no"/>ctis vero regnum Dei, pro quo patiuntur, Psal. 129. 3. 4. Saper tergum 
+      <lb ed="#H" n="84"/>meum araverunt aratores, produxerunt quamque strigarum suarum 
+      lo<lb ed="#H" n="85" break="no"/>hova iustus, truncavit densos funes eorum. Erubescent &amp; agentur res 
+      <lb ed="#H" n="86"/>trorsum, omnes osores Tejonis. hoc est, hostes quibus Deus tanquam  
+      <lb ed="#H" n="87"/>administris utitur ad sarriendum, arandum &amp; colendum Ecclesiam 
+      <lb ed="#H" n="88"/>suam, nullam partem agri Dei intactam reliquerunt, quin eam 
+      effo<lb ed="#H" n="89" break="no"/>derent. Quamvis vero valida &amp; firma sint illorum consilia &amp; opera 
+      <lb ed="#H" n="90"/>tamen nullo negotio Deus illa dissecat, quum opus est, quia justus 
+      <lb ed="#H" n="91"/>est Quamvis parati sint hostes impii ad pergendum in affligendo &amp; 
+      <lb ed="#H" n="92"/>quasi aratro prossindendo dorso Ecclesiae: Deus tamen inexspectato 
+      <!--cod-MkL9py-0210.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>eorum compescit rabiem, perinde ac si quis funes conscindens, boves 
+      <lb ed="#H" n="94"/>disjungeret ab aratro. Atque sit justitia Dei commendatur &amp; 
+      illu<lb ed="#H" n="95" break="no"/>stratur per hominum injustitiam, Rom. 3. v. 5. Quod si iniustitia rostra 
+      <lb ed="#H" n="96"/>Dei iustitiam commendat, quid dicemus? num iniustus Deus qui 
+      infe<lb ed="#H" n="97" break="no"/>rat paenam? Nequaquam est injustus, sed justitiae Dei laus ex 
+      homi<lb ed="#H" n="98" break="no"/>num peccatis elicitur, dum severe ulciscendo injustitiam eorum, s 
+      <lb ed="#H" n="99"/>mundi judicem esse demonstrat ad consolationem fidelium in 
+      mun<lb ed="#H" n="100" break="no"/>do oppressionem habentium: 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

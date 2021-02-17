@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="NaN"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e62820"> <!-- l2-c4 -->
+            <head xml:id="yyy8Uu-e62820-Hd1e109">Caput 4</head>
+            <p xml:id="yyy8Uu-e62820-d1e112">
+               <lb ed="#H" n="5"/>CAPUT IV. 
+      <lb ed="#H" n="6"/>In quo demonstratur,  
+      <lb ed="#H" n="7"/>DEUM ESSE.
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e121">
+               <lb ed="#H" n="8"/>UONIAM fuerunt olim &amp; sunt hodie ἀθεον, qui negant 
+      <lb ed="#H" n="9"/>TPDeum; ideo paucis docebimus Deum esse: licet hoc sit princi¬ 
+      <lb ed="#H" n="10"/>mpium, hoc est, axioma αυτυπισον &amp; αυαποδεικοον, ac proinde 
+      <lb ed="#H" n="11"/>simpliciter &amp; absque demonstratione ab omnibus credendum erat 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e132">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Theodoretus Cyrenaeus ac Evemerus Tegeates Deum non esse 
+      <lb ed="#H" n="13"/>opinati sunt, ut testis est Plutarchus, &amp; post eum Theodoretus C 
+      <lb ed="#H" n="14"/>rensis Episcopus sermone secundo de curatione Graecarum affectionum. 
+      <lb ed="#H" n="15"/>Quin quam multi sunt nominetenus Christiani, reipsa ἔθεον, &amp; qui  
+      <lb ed="#H" n="16"/>Deum negant? Psalm. 14. Dixit stultus in corde suo, non est Deus. 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e149">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Esse Deum, demonstrari potest demonstratione γοn, licet Petrus 
+      <lb ed="#H" n="18"/>de Alliaco in I. Rabbini Mosis Judaei deliria sequutus, id negarit. Est. 
+      <lb ed="#H" n="19"/>vero haec demonstratio causa notitiae Dei quam acquisitam dicimus, 
+      <lb ed="#H" n="20"/>quae ab insita &amp; ab infusa discerni debete 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e162">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>DEUM igitur esse, omnes homines etiam ignorantes Verbum 
+      <lb ed="#H" n="22"/>Dei, Natura &amp; ratio docet sufficienter ad hoc ut sint inexcusabiles, 
+      <lb ed="#H" n="23"/>Rom. 1. 19, 20. ut sequentia documenta monstrant: 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e173">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>I. Consideratio mundi; cujus moles, fabrica, forma, continua sus 
+      <lb ed="#H" n="25"/>tentatio, tam sapiens gubernatio, innumera varietas, ordo corporum, 
+      <lb ed="#H" n="26"/>diversus motus, vires admirandae docent esse naturam aliquam in 
+      <lb ed="#H" n="27"/>telligentem, a qua sint haec omnia. Psalm. 8. &amp; 19. Roman. 1. v. 19, 26. 
+      <lb ed="#H" n="28"/>Quoniam τὸ γνωσὸν γ θεκ, quod de Deo cognosci potest, manifestum est 
+      <lb ed="#H" n="29"/>in ipsis: Deus enim eis manifestum fecit. Ipsius enim invisibilia, iam 
+      in<lb ed="#H" n="30" break="no"/>de a condito mundo ex iis quae fecit mente perpensa pervidentur, aterne 
+      <lb ed="#H" n="31"/>videlicet eius tum potentia tum diuvinitas: ad hoc ut sint inexcusabiles. 
+      <lb ed="#H" n="32"/>Actor. 14. v. 17. Quamquam non passus est se esse expertem testimoniis, 
+      <lb ed="#H" n="33"/>bona tribuendo, dans nobi, coelitus pluvias ac praestituta tempora 
+      fructi<lb ed="#H" n="34" break="no"/>bus perferendis, implens cibo &amp; delectatione corda nostra. Unde axiome 
+      <lb ed="#H" n="35"/>illud Gentilibus Philosophis decantatum: Nihil est suiipsius causos 
+      <lb ed="#H" n="36"/>nisi idem seipso prius &amp; posterius; Idem secundum idem esse simul 
+      <lb ed="#H" n="37"/>potestate &amp; actu, non minus stulte quam falso quis affirmaverit.  
+      <lb ed="#H" n="38"/>Causa utique opus fuit, quae mundum &amp; omnes ejus partes 
+      produce<lb ed="#H" n="39" break="no"/>ret. Diagoras palam &amp; diserte Deum esse negavit: &amp; Herculis statuam 
+      <lb ed="#H" n="40"/>ne ligna rapis coquedis deessent, dissecavit, ut refert Athenagoras in 
+      Le<lb ed="#H" n="41" break="no"/>gatione pro Christianis. Ibidem commemorat, quod trium flagitiorum 
+      <lb ed="#H" n="42"/>infamis rumor de Christianis sparsus fuerit, impietas quae Deos tollat, 
+      <lb ed="#H" n="43"/>epulae Thyystea, concubitus incesti. Sed haec flagitia Christianis per 
+      calu<lb ed="#H" n="44" break="no"/>mniam imningi probat Athenagoras. Christianos vocatos fuisse atheos: 
+      <lb ed="#H" n="45"/>testis est Justinus Martyr, apologia IIad Antoninum Pium Imperato. 
+      <lb ed="#H" n="46"/>rem. At nequaquam Christiani negant esse Deum, Ethnicorum id 
+      deli<lb ed="#H" n="47" break="no"/>rium est, ideo probandum suscepimus argumentis naturabibus esse Deum. 
+      <lb ed="#H" n="48"/>Hermes Trismegistus in Poemandro dixit, Deum humanam ratione 
+      <lb ed="#H" n="49"/>penetrari quidem non posse attamen manibus contrectari 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e234">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>II. Principia nobis innata, quae sunt doctrinarum exordia, qui  
+      <lb ed="#H" n="51"/>necesse est a natura intelligente mentibus hominum impressa esse. 
+      <lb ed="#H" n="52"/>Rom. 1. 19. 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e245">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>III. Specialis notitia naturaliter nobis insita quod sit Deus. 
+      <lb ed="#H" n="54"/>IV. Proprium nostrae conscientiae testimonium, ad tonitrua &amp; 
+      <lb ed="#H" n="55"/>alias insolitas tempestates, terraemotus, expavescentis &amp; ob 
+      commiss<lb ed="#H" n="56" break="no"/>scelera Deum judicem metuentis, imo cum trepidatione quadam ex 
+      <lb ed="#H" n="57"/>horrescentis: ut videre est in C. Caligula, teste Suetonio in Caligula c. 51. 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e261">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>V. Poenae scelerum, etiam in hac vita improbis inflictae, de quibus 
+      <lb ed="#H" n="59"/>Thucydides ait: μεγα λον αδικηματαν μεγαλαι τιμωριασ εισί πααα Θεκ. 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e271">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>VI. Ordinis politici constitutio &amp; 
+      conservatio<lb ed="#H" n="61" break="no"/>VII. Virtutes &amp; motus singulares in animis heroicis. Hinc 
+      he<lb ed="#H" n="62" break="no"/>roes vocantur ab Homero αυτθεον.  
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e282">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>IIX. Significationes futurorum. Cic. de divinatione: Si est 
+      divi<lb ed="#H" n="64" break="no"/>natio, sunt dii. 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e291">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>IX. Finis rerum omnium naturalium. Nam cum in omnibus 
+      <lb ed="#H" n="66"/>sit certissimus, paucissimae vero eum, ad quem constanter vergunt 
+      per<lb ed="#H" n="67" break="no"/>guntque, prospiciant aut percipiant; omnino oportet mentem esse. 
+      <lb ed="#H" n="68"/>quandam, omnia intelligentem, singula gubernantem &amp; ad fines. 
+      <lb ed="#H" n="69"/>suos dirigentem. 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e307">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>X. Series causarum non progrediens in infinitum, quasi 
+      manu<lb ed="#H" n="71" break="no"/>ducens ad primum aliquem motorem, a quo motus, actionesque &amp; 
+      <lb ed="#H" n="72"/>effecta omnia pendeant. 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e318">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>XI. Cultus ipse sive religiosus, sive superstitiosus timore 
+      Numi<lb ed="#H" n="74" break="no"/>nis introductus. 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e327">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>XII. Communis omnium gentium etiam efferatissimarum. 
+      <lb ed="#H" n="76"/>confessio &amp; consensus. Nulla enim est gens tam barbara, quae non 
+      fatea<lb ed="#H" n="77" break="no"/>tur: sse aliquem Deum: adeo quidem ut homines falsum Deum habere 
+      <lb ed="#H" n="78"/>malint, quam nullum omnino: Tam alte nimirum sensus diuvinitatis in 
+      <lb ed="#H" n="79"/>sedit in cordibus nostris. Cic. 1. Tusc. Sen 21. ep. 118. Divinus ille 
+      Iam<lb ed="#H" n="80" break="no"/>blichus de mysteriis cap. 1. 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e346">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>XIII. Sensus bonitatis Dei, id est, immensorum beneficiorum Dei 
+      <lb ed="#H" n="82"/>biritualium &amp; corporalium. Nam quod vivimus, quod movemur, quod  
+      <lb ed="#H" n="83"/>sumus, ejus beneficium est. Act 14. 15. &amp; tanta ejus beneficia nos 
+      circu<lb ed="#H" n="84" break="no"/>stant, ut a nobis pene palpetur, Act. 17. v. 27. Seneca 4. de benefic. 4. 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e359">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>XIV. Mentis nostrae praestantia. Nam quod ratiocinamur, men 
+      <lb ed="#H" n="86"/>te disputamus, varias artes excogitamus &amp; exercemus, Dei beneficio 
+      <lb ed="#H" n="87"/>sit. Anima per se immobilis est, &amp; interim omnibus motibus 
+      corpo<lb ed="#H" n="88" break="no"/>tis nutu imperat, effectibus admirandis se prodit, nec tamen oculis 
+      <!--cod-MkL9py-0162.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>cernitur, nec mentis acie comprehendi potest. Hoc nos fateri cogit 
+      <lb ed="#H" n="90"/>esse Mentem aliquam quae haec omnia agat, moveat, ducat: esse 
+      Spiri<lb ed="#H" n="91" break="no"/>um in quo vivimus, movemur, sumus. Homo vel in seipso videt &amp; 
+      <lb ed="#H" n="92"/>palpat esse Deum, sive corpus spectet, sive animam consideret. 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e385">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>XV. Animae nostrae immortalitas. Nam ad Deum anima 
+      pro<lb ed="#H" n="94" break="no"/>ficiscitur, ubi ex isto corpore excesserit, &amp; velut e carcere evolaverit, 
+      <lb ed="#H" n="95"/>&amp; animam nostram divinae particulam autae esse Gentiles dixerunt . 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e396">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>XVI. Admirabiles &amp; insignes insperatique eventus, qui non 
+      ni<lb ed="#H" n="97" break="no"/>si a potentissima natura fieri possunt, quibus plenum est vitae 
+      huma<lb ed="#H" n="98" break="no"/>nae Theatrum 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e407">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Ex his tam multis argumentis cuivis etiam Scripturarum 
+      Sacra<lb ed="#H" n="100" break="no"/>rum ignaro liquere potest, Deum esse. Imo Deum esse ex ractu 
+      divi<lb ed="#H" n="101" break="no"/>nitatis, ante omnem rationis usum, omnes omnino homines sciunt. 
+      <lb ed="#H" n="102"/>Itaque, Deum esse per se notum, frustra negant Thomas Aquinas &amp; 
+      <lb ed="#H" n="103"/>alii Scholastici. 
+      </p>
+            <p xml:id="yyy8Uu-e62820-d1e423">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Scriptura vero Sacra &amp; Fides Christiana Deum esse &amp; quicquid  
+      <lb ed="#H" n="105"/>de eo tenendum est, docet sufficienter ad salutem, quemadmodum 
+      <lb ed="#H" n="106"/>deinceps patebit. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

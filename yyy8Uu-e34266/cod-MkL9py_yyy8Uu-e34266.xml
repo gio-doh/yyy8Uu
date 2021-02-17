@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 36</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 36</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="74"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e34266"> <!-- l1-c36 -->
+            <head xml:id="yyy8Uu-e34266-Hd1e109">Caput 36</head>
+            <p xml:id="yyy8Uu-e34266-d1e112">
+      <!--cod-MkL9py-0099.xml-->
+               <pb ed="#H" n="74"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>CAPUT XXXVI 
+    </p>
+            <p xml:id="yyy8Uu-e34266-d1e123">
+               <lb ed="#H" n="2"/>PDITIO Sacrae Scripturae authentica, est quae ex se fidem atqui 
+      <lb ed="#H" n="3"/>autoritatem habet, sibi sufficit, se commendat, sustinet, probat,  
+      <lb ed="#H" n="4"/>citra ullius alterius editionis adminiculum, eo quod ipsa 
+      proto<lb ed="#H" n="5" break="no"/>typum sit divinae veritatis a Deo per Prophetas &amp; Apostolos 
+      tra<lb ed="#H" n="6" break="no"/>ditum
+    </p>
+            <p xml:id="yyy8Uu-e34266-d1e136">
+      </p>
+            <p xml:id="yyy8Uu-e34266-d1e140">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Ea quod ad Vetus Testamentum attinet, est Hebraea, &amp; in 
+      qui<lb ed="#H" n="8" break="no"/>busdam capitibus Danielis &amp; Ezrae Chaldaea; quod ad Novum Te 
+      <lb ed="#H" n="9"/>stamentum attinet, est Graeca: quemadmodum subjecta evincunt. 
+      </p>
+            <p xml:id="yyy8Uu-e34266-d1e151">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>rgumenta. 
+      <lb ed="#H" n="11"/>I. Quia Hebraica Veteris &amp; Graeca Novi Testamenti editio: 
+      <lb ed="#H" n="12"/>Deo iminediate Prophetis &amp; Apostolis est inspirata 
+      </p>
+            <p xml:id="yyy8Uu-e34266-d1e162">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>II. Quia non alia ante Christum natum quam Hebraea Veteris. 
+      <lb ed="#H" n="14"/>Testamenti: nec post Christum natum alia quam itidem Hebraea 
+      <lb ed="#H" n="15"/>Veteris &amp;t Graeca Novi Testamenti editio per annos sexcentos au 
+      <lb ed="#H" n="16"/>thentica suit in Ecclesia Dei. Nam quod postea tenebrae Papiimi 
+      <lb ed="#H" n="17"/>seu Antichristianismi obscuratunt Scripturam &amp; linguarum 
+      He<lb ed="#H" n="18" break="no"/>braicae &amp; Graecae studia prope oppresserunt, id adversus veritatem 
+      <lb ed="#H" n="19"/>Dei praescribere non potest. 
+      </p>
+            <p xml:id="yyy8Uu-e34266-d1e182">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>III. Quia ad Hebraicam Veteris &amp; Graecam Novi Testamenti 
+      <lb ed="#H" n="21"/>editionem necessario est recurrendum, si quid in versionibus 
+      erro<lb ed="#H" n="22" break="no"/>neum. varium, anceps, minus emphaticum &amp; improprium, aut si in 
+      <lb ed="#H" n="23"/>articulis religionis Christianae aliquid dubium &amp; difficile 
+      occurrer<lb ed="#H" n="24" break="no"/>videatur, quod ex versionibus decidi nequeat; quemadmodum 
+      testa<lb ed="#H" n="25" break="no"/>tur Augestinus tertio tomo, libro secundo de doctrina Christiana, 
+      ca<lb ed="#H" n="26" break="no"/>pite undecimo: Contra ignota signa propria, magnum remedium est, 
+      <lb ed="#H" n="27"/>linguarum cognitio. Et Latinae quidem linguae homines, quos nunc in 
+      <lb ed="#H" n="28"/>stituendos suscepimus, &amp; duabus aliis ad Scripturarum divinarum 
+      cogni<lb ed="#H" n="29" break="no"/>tionem habent opus, Hebraiea scilicet &amp; Graeca, ut ad exemplaria prae 
+      <lb ed="#H" n="30"/>cedentia recurratur, si quam dubitationem attulerit Latinorum 
+      inter<lb ed="#H" n="31" break="no"/>pretum infinita varietas. Et paulo post: Propter diversitates isiterpre 
+      <lb ed="#H" n="32"/>tum, illatum linguarum est cognitio necessaria. Et Hieronymus in 
+      Ep<lb ed="#H" n="33" break="no"/>stola ad Suniam &amp; Fretellam, tertio tomo epistolarum, pagina octo 
+      <lb ed="#H" n="34"/>resimaprima editionis Basiliensis Frobenianae Anni 15 24. Sicut 
+      in<lb ed="#H" n="35" break="no"/>Novo Testamento, si quando apud Latinos questio exoritur, &amp; est inter 
+      <lb ed="#H" n="36"/>exemplaria varietus, recurrimus ad fontem Graeci sermonis, quo novun 
+      <lb ed="#H" n="37"/>scriptum est instrumentum: ita in Veteri Testamento, si quando inter 
+      <lb ed="#H" n="38"/>Graecos Latinosque diversitas est, ad Hebraicam recurrimus veritatem? 
+      <lb ed="#H" n="39"/>ut quitquid de fonte proficiscitur, hoc quaeramus in rivulis. Idem 
+      adver<lb ed="#H" n="40" break="no"/>sarii ipsi fatentur; sicut Romani Pontifices in Jure Canonico Dist. 
+      no<lb ed="#H" n="41" break="no"/>na, capitulo, Vt veterum, ex Hieronymi epistola vigesima octava ad 
+      <lb ed="#H" n="42"/>Lucinium Baeticum ita statuant; Vt veterum librorum fides de Hebraeis 
+      <lb ed="#H" n="43"/>voluminibus exominanda est: ita novorum, Graeci sermonis normam, 
+      <lb ed="#H" n="44"/>desiderat. Sic etiam Bellarminus lib. secundo de Verbo Dei cap. 
+      un<lb ed="#H" n="45" break="no"/>decimo, sectione septima &amp; sequentibus, fatetur quatuor 
+      tempori<lb ed="#H" n="46" break="no"/>bus licere (dicere debuisset, (necessarium esse) nobis recurrere ad 
+      fon<lb ed="#H" n="47" break="no"/>tes Hebraeos &amp; Graecos, ut Patres moneant: primo, quando in 
+      no<lb ed="#H" n="48" break="no"/>stris cod cibus videtur esse error librariorum: secundo, quando 
+      La<lb ed="#H" n="49" break="no"/>tini codices variant, ut non possit certum statui quae sit vera lectio: 
+      <lb ed="#H" n="50"/>pertio, quando vox aut sententia in Latino est anceps: quarto, ad ener 
+      <lb ed="#H" n="51"/>giam &amp; proprietatem vocabulorum intelligendam. Hae quatuo 
+      <lb ed="#H" n="52"/>causae propter quas Bellarminus censet ad fontes adeundum. in signis 
+      <lb ed="#H" n="53"/>seu vocibus omnes positae sunt: tacet vero de substantia, cujus symi 
+      <lb ed="#H" n="54"/>bolum est oratio &amp; scriptura ipsa: quae substantia est doctrinae veri 
+      <lb ed="#H" n="55"/>tas cum fide &amp; revelatione divina ἀναλογος &amp; aliis Scripturae locis 
+      <lb ed="#H" n="56"/>Similiter Melchior Canus libro secundo de locis Theologicis, capit.  
+      <lb ed="#H" n="57"/>15. fatetur fontes esse consulendos 
+      </p>
+            <p xml:id="yyy8Uu-e34266-d1e269">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Ad hoc argumentum tamen respondet Bellarminus lib. secundi. 
+      <lb ed="#H" n="59"/>de Verbo Dei cap. undecimo sectione quarta: negari non posse, quim  
+      <lb ed="#H" n="60"/>sint fontes Scripturarum anteponendi rivulis versionum, quando 
+      con<lb ed="#H" n="61" break="no"/>stat fontes non esse turbatos: nunc autem fontes multis in locis turbido 
+      <lb ed="#H" n="62"/>stuer: 
+      </p>
+            <p xml:id="yyy8Uu-e34266-d1e285">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>REPLIC. Falsum est fontes Hebraeos &amp; Graecos multis in locit 
+      <lb ed="#H" n="64"/>turbidos fluere. Bellarmini potius mens est turbida, forte etiam tur 
+      <lb ed="#H" n="65"/>bulenta, qui fontes accusans, declarat se ex numero haereticorum 
+      <lb ed="#H" n="66"/>esse, de quibus Ireneaus dicit libro tertio adversus haereses, capite 
+      se<lb ed="#H" n="67" break="no"/>cundo: Cum ex Scripturis arguuntur, in accusationem convertuntur. 
+      <lb ed="#H" n="68"/>ipsarum Scripturarum, quasi non recte habeant. 
+      </p>
+            <p xml:id="yyy8Uu-e34266-d1e304">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>IV. Quia unius testamenti unicam Scripturam divinitus authem 
+      <lb ed="#H" n="70"/>ticam una lingua haberi necesse est, Veteris Testamenti Hebraea 
+      <lb ed="#H" n="71"/>novi Graeca: nam alioqui nullus esset finis contentionum, nisi unica 
+      <lb ed="#H" n="72"/>esset authentica editio in qua subsistendum foret. Ac certe a singular 
+      <lb ed="#H" n="73"/>provident a divina profectum hoc est, ut Canonica Scriptura 
+      quae<lb ed="#H" n="74" break="no"/>que uno tantum sermone esset Canonica: nec diverso Gentium 
+      di<lb ed="#H" n="75" break="no"/>versarum sermone ab Apostolis conscriberetur. Nam quae geni 
+      <lb ed="#H" n="76"/>Scripturae authoritatem Canonicam fuisset alteri concessura? 
+      Hae<lb ed="#H" n="77" break="no"/>altera fuisset futura sementis contentionum, quam arripuissent in sin 
+      <lb ed="#H" n="78"/>gulis Gentibus homines ambitiosi, ut suae Scripturae authentiam 
+      <lb ed="#H" n="79"/>sibi adsci iberent, aliarumque Gentium contemnerent, 
+      quemadmo<lb ed="#H" n="80" break="no"/>dum videmus fieri translationibus ejus. Gratias igitur agimus Deo 
+      <lb ed="#H" n="81"/>quod prospexerit sapientissime, ut Testamentum unumqued  
+      <lb ed="#H" n="82"/>que unica lingua divinitus authenticum 
+      <lb ed="#H" n="83"/>esset.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

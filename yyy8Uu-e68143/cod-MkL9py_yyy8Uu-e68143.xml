@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="348"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e68143"> <!-- l6-c9 -->
+            <head xml:id="yyy8Uu-e68143-Hd1e109">Caput 9</head>
+            <p xml:id="yyy8Uu-e68143-d1e112">
+               <lb ed="#H" n="3"/>CAPUT IX. 
+      <lb ed="#H" n="4"/>In quo de Patefactione Dei.
+    </p>
+            <p xml:id="yyy8Uu-e68143-d1e119">
+               <lb ed="#H" n="5"/>PECIALIS providentia Dei, est quae peculiariter ad creaturas 
+      ra<lb ed="#H" n="6" break="no"/>tionales, nimirum Angelos &amp; homines pertinet. Psal. 90. 17. 
+      Ad<lb ed="#H" n="7" break="no"/>Psit amoenitas Iehovae Dei nostri nobis: &amp; opus manuum nostrarum 
+      <lb ed="#H" n="8"/>institue in nobis: ipsum, inquam, opus manuum nostrarum institue. Et  
+      <lb ed="#H" n="9"/>Ps. 91. 11. Angelis suis praecipiet de te, ut conservet te in omnibs viis tuis. 
+      <lb ed="#H" n="10"/>Zach. 1. ostenditur Prophetae visio ad figurandam specialem 
+      provi<lb ed="#H" n="11" break="no"/>dentiam Dei: Nam Filius Dei, per quem Pater omnia gubernat in 
+      <lb ed="#H" n="12"/>caelo &amp; in terra, stat in medio myrteti, quod est imago Ecclesiae Dei, &amp; 
+      <lb ed="#H" n="13"/>adsunt sancti Angeli administri Filii Dei, &amp; missi propter salutem 
+      ho<lb ed="#H" n="14" break="no"/>minum electorum. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e143">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Quidam opera gratiae, quae Synecdochice etiam opera Redem. 
+      <lb ed="#H" n="16"/>tionis a quibusdam vocantur, &amp; opera alia ad humanumgenus &amp; 
+      <lb ed="#H" n="17"/>speciatim ad Ecclesiae Dei curam pertinentia disjungunt ab 
+      operi<lb ed="#H" n="18" break="no"/>bus providentiae, sed perperam. Nam ut ait Clemens Alexandrinus, 
+      <lb ed="#H" n="19"/>quin libro stromatum, quum sit providentia, non ex providentia 
+      fa<lb ed="#H" n="20" break="no"/>ctam fuisse &amp; prophetiam, &amp; eam quae in Srvatorem facta est 
+      Oecono<lb ed="#H" n="21" break="no"/>miam, divinamque dispensationem, putare nefarium est: pag. centes. 
+      <lb ed="#H" n="22"/>quadragesimanona, Latinae versionis Gentiani Herveti. Theodoret 
+      <lb ed="#H" n="23"/>tus in Epitome divinorum decretorum, libro quinto, capite de 
+      Ser<lb ed="#H" n="24" break="no"/>vatoris dispensatione seu incarnatione: De divina autem incarnatio: 
+      <lb ed="#H" n="25"/>ne quid sentiamus operae pretium est ostendere. Quod enim de ea dicetur. 
+      <lb ed="#H" n="26"/>id universorum Dei providetiam apertius praedicat: Et Sermone 
+      deci<lb ed="#H" n="27" break="no"/>mo de Providentia: Incarnatio Salvatoris sane summum divinae 
+      circo<lb ed="#H" n="28" break="no"/>homines curae caput est. Nam immensam hujus bonitatem nec caelum. 
+      <lb ed="#H" n="29"/>nec terra, nec mare, nec sel &amp; luna, nec stellae, nec tota illa visibilis &amp; 
+      in<lb ed="#H" n="30" break="no"/>visibilis creatura, quae solo verbo creata, quin potius juxta 
+      hujusvolun<lb ed="#H" n="31" break="no"/>tatem verbo producta est, ita demonstrat, ut quod ipse Vnigenitus Dei 
+      <lb ed="#H" n="32"/>Filius (qui in forena Dei fuit, splendor gloria, character substantiae, qui 
+      a<lb ed="#H" n="33" break="no"/>principio fuit, &amp; cpud Deum fuit, imo ipse Deus fuit, per quem omnia 
+      fa<lb ed="#H" n="34" break="no"/>cta sunt) servi formam assumsit, ut in hominis similitudine esset, &amp; in 
+      <lb ed="#H" n="35"/>hominis figura inveniretur ut homo, &amp; in terra videretur, hominibus 
+      con<lb ed="#H" n="36" break="no"/>versaretur, infirmitates nostras susciperet, &amp; morbos ferret. Et Beatur 
+      <lb ed="#H" n="37"/>ille Paulus hoc maximum Dei erga homines amoris argumentum 
+      agno<lb ed="#H" n="38" break="no"/>vit, &amp; clamat dicens: Comendat autem sua charitatem erga nos Deus 
+      <lb ed="#H" n="39"/>quod quum adhuc essemus peccatores, Christus pro nobis mortuus fuit. 
+      <lb ed="#H" n="40"/>Et rursum: Qui protrio filio non pepercit, sed pro nobis omnibus tradidit. 
+      <lb ed="#H" n="41"/>illum, qui fieri potest ut non&amp; cum eodem omnia nobis donet? Assentitur. 
+      <lb ed="#H" n="42"/>his Divus quoque Iohannes: Sic enim (inquit) dilexit Deus mundum, ut  
+      <lb ed="#H" n="43"/>filium suum unigenitum daret pro eo, ut omnis qui credit in eum non 
+      per<lb ed="#H" n="44" break="no"/>eat, sed habeat vitam aeternam. Non itaque simpliciter homines curat, sed  
+      <lb ed="#H" n="45"/>amans simul horum curam gerit. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e216">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>Specialis providentia Dei tum in hac vita est, tum post hanc 
+      vi<lb ed="#H" n="47" break="no"/>tam erit 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e225">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Opera specialis providentiae divinae in hac vita sunt vel beneficia 
+      <lb ed="#H" n="49"/>Deis rel judicia ejus 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e234">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Beneficia specialis providentiae Dei, sunt opera Dei, per quae creatur 
+      <lb ed="#H" n="51"/>ris rationalibus ex gratia benefacit Proinde contingunt nobis 
+      gra<lb ed="#H" n="52" break="no"/>tis, absque nostris meritis, Jesa. 55. 1. Et passim vocantur gratiae, 
+      <lb ed="#H" n="53"/>quia gratis datae. Dicuntur &amp; benedictiones Dei, Psal 21. 4. Ephes. 1. v. 
+      <lb ed="#H" n="54"/>3. 4. Eadem appellantur splendor Dei, pulcritudo seu amoenitas Dei. 
+      <lb ed="#H" n="55"/>Psal. 90. v. 17. &amp; sit pulcritudo Dei nostri super nos, hoc est, exhibe 
+      no<lb ed="#H" n="56" break="no"/>bis beneficia tua, quibus pulcritudinem &amp; amoenitatem tuam 
+      splen<lb ed="#H" n="57" break="no"/>dere apud nos facias 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e256">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Compatantur aquis, vino, lacti, pani, pinguedini, Jesa. 55. 
+      <lb ed="#H" n="59"/>Eaque PRIMo vel praeterita sunt, vel praesentia, vel fatura. 
+      <lb ed="#H" n="60"/>Praeteritorum &amp; praesentium beneficiorum Dei 
+      consideratio<lb ed="#H" n="61" break="no"/>quotidiana cuique commendata esse debet, ad excitandam in nobis 
+      <lb ed="#H" n="62"/>fiduciam certam, Deum in futurum etiam nobis benefacturum: ut  
+      <lb ed="#H" n="63"/>videre est in Davide, qui beneficiorum acceptorum memoria 
+      confir<lb ed="#H" n="64" break="no"/>mat seipsum in fide de accipiendis etiam in posterum, ut Psal. 3. v. 57. 
+      <lb ed="#H" n="65"/>6, 7. &amp; 4v. 2 &amp; I40.6 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e278">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>SECUNDO beneficia Dei vel spiritualia sunt, vel corporalia 
+      <lb ed="#H" n="67"/>Sciritualia beneficia, sunt quae vitam spiritualem concernunt, ut 
+      ii<lb ed="#H" n="68" break="no"/>tanquam mediis ad salutem aeternam perducamur. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e289">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Suntque tum patefactio Dei &amp; vocatio; tum fedus divinum &amp; 
+      obsi<lb ed="#H" n="70" break="no"/>gnatio federis aliorumque beneficiorum Dei omnium. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e299">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Patefactio Dei, est beneficium Dei, per quod nos docet de se &amp; 
+      vo<lb ed="#H" n="72" break="no"/>luntate sua, ut eum cognoscamus quantum nostra interest. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e308">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Est nobis summe necessaria: quia ut pecudes a pecudibus sine 
+      ho<lb ed="#H" n="74" break="no"/>mine, sic homines ab hominibus absque Deo recte gubernati est 
+      im<lb ed="#H" n="75" break="no"/>possibile. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e319">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>estque tum naturalis, tum supernaturalis. 
+      <lb ed="#H" n="77"/>Duo enim sunt principia quibus Deus ad sui cognitionem nos 
+      <lb ed="#H" n="78"/>adducit; Natura &amp; Gratia: ex illa manat naturalis patefactio Dei, ex 
+      <lb ed="#H" n="79"/>nac supernaturalis. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e332">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Patefactio Dei naturalis, est quae sit per ministerium naturae, ad 
+      <lb ed="#H" n="81"/>hunc sinem, ut omnibus homininus, imo etiam diabolis excusatio 
+      i<lb ed="#H" n="82" break="no"/>gnorantiae &amp; peccati praecidatur, Rom. 1. 26. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e343">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Eaque est communis omnibus hominibus qua homines sunt, tam 
+      <lb ed="#H" n="84"/>reprobis quam electis: tam non renatis, quam renatis 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e352">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>Eadem reproborum impietatem coarguit, electorum autem fide 
+      <lb ed="#H" n="86"/>confirmat. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e362">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Estque vera quidem, &amp; cum verbo Dei congruit, sed ad veram Dei 
+      <lb ed="#H" n="88"/>cognitionem non sufficit: 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e371">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Praeterea licet nihil falsi de Deo doceat, homines tamen cor¬ 
+      <!--cod-MkL9py-0375.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>rupti sine accedente luce verbi Dei, non nisi falsas opiniones de 
+      <lb ed="#H" n="91"/>Deo ex illa concipiunt, quia illa quae naturali judicio intelligi 
+      pos<lb ed="#H" n="92" break="no"/>sunt, homines non regeniti, propter innatam ipsis caecitatem &amp; 
+      <lb ed="#H" n="93"/>pravitatem perperam accipiunt &amp; interpretantur ac varie 
+      corrum<lb ed="#H" n="94" break="no"/>punt.  
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e393">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Estque vel per legem natura, vel per opera naturae 
+      <lb ed="#H" n="96"/>Lex naturae, est naturalis notitia in prima creatione cordibus 
+      ho<lb ed="#H" n="97" break="no"/>minum a Deo immediate impressa, tradens discrimen honestorum &amp; 
+      <lb ed="#H" n="98"/>turpium, ut illa quidem expetantur, haec vero fugiantur, Rom 1. 32. 
+      <lb ed="#H" n="99"/>&amp; 2. v. 15. Ita Deus primum per κονας εννδιμς sεu ωροληψεις, hoc est, 
+      <lb ed="#H" n="100"/>communes illas notiones creaturarum rationalium naturae insitas 
+      <lb ed="#H" n="101"/>canquam per scintillas quasdam in ea micantes, Numen suum, 
+      Nu<lb ed="#H" n="102" break="no"/>minisque cultum quadantenus commonstrat 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e415">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Lex naturae ante lapsum fuit plane eadem cum Lege divina 
+      mo<lb ed="#H" n="104" break="no"/>rali: post lapsum autem obscura:a Dei agnitione in mentibus 
+      homi<lb ed="#H" n="105" break="no"/>num, lex naturae tantum pars decalogi est: ac proinde lex divina est, 
+      <lb ed="#H" n="106"/>aut pars legis divinae. Lex naturae dicitur etiam liber conscientiae: item 
+      <lb ed="#H" n="107"/>jus Gentium, quia lex naturae est communis omnium Gentium &amp; 
+      na<lb ed="#H" n="108" break="no"/>tionum, eaque ubique instinctu naturae, non constitutione 
+      habe<lb ed="#H" n="109" break="no"/>tur aliqua. Legis naturae seu juris naturalis &amp; juris Gentium est quod 
+      <lb ed="#H" n="110"/>sit Deus, isque colendus pura mente: quod parentibus sit parendum? 
+      <lb ed="#H" n="111"/>quod patria amanda ac defendenda: quod injuria ac vis propulsan 
+      <lb ed="#H" n="112"/>da: quod honeste vivendum, nemo laedendus, jus suum cuique 
+      tri<lb ed="#H" n="113" break="no"/>buendum, &amp; 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e444">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Patefactio Dei per opera naturae, est patefactio naturalis, qua Deus 
+      <lb ed="#H" n="115"/>qui natura est invisiblis, per opera creationis &amp; providentiae 
+      visibi<lb ed="#H" n="116" break="no"/>lia, in toto mundo demonstrat irvisibilia sua niminem aeternam suam 
+      <lb ed="#H" n="117"/>potentiam &amp; divinitatem, ut a visibilibus etiam ag noscatur. Psal. 8. v. 
+      <lb ed="#H" n="118"/>2, 4 Psal. 19. 2. &amp; 50 1. Act. 14. v. 17. Rem. 1. 19 20. 
+      <lb ed="#H" n="119"/>Vocatur etiam liber naturae. Nam universus hic mundus est in 
+      <lb ed="#H" n="120"/>star libri explicati seu aperti, qui ornatu, ordine &amp; usu suo testatur, 
+      Ar<lb ed="#H" n="121" break="no"/>chitectum ejus esse sapientissimum, potentissimum &amp; 
+      beneficentissi<lb ed="#H" n="122" break="no"/>mum. Praecipue vero homo μικεεκοσνος, parvus mundus, ejutomeo 
+      <lb ed="#H" n="123"/>veluti breviarium mundi, sive animam &amp; facultates ejus, sive 
+      corpo<lb ed="#H" n="124" break="no"/>tis fabricam, &amp; partium corporis usum varium &amp; insignem conside 
+      <lb ed="#H" n="125"/>res, commendat artificem. 
+      <lb ed="#H" n="126"/>Ad haec praesentiam, potentiam &amp; gloriam, majestatemque suam, 
+      <lb ed="#H" n="127"/>patefacit Deus &amp; testatur apertissime per meteora ignea, aerea &amp; 
+      a<lb ed="#H" n="128" break="no"/>quea, ut sunt venti, terrae- motus, coruscationes, tonitrua, &amp;c. Psal. 18. 
+      <lb ed="#H" n="129"/>8. &amp; seq. Psal. 29. 
+      <lb ed="#H" n="130"/>Ita opus visibile manifestat opificem qui natura est invisibilis, ut 
+      <lb ed="#H" n="131"/>etiam a visibilibus possit sciri. Proinde Mundus iste visibilis est 
+      thea<lb ed="#H" n="132" break="no"/>trum amplissimum in quo igniculos communium notionum i1 
+      <lb ed="#H" n="133"/>mentibus hominum accensos ἀναζωπορες, fovet, auget atque 
+      illu<lb ed="#H" n="134" break="no"/>strat, vario illo &amp; multiplici rerum a se conditatum spectaculo 
+      pro<lb ed="#H" n="135" break="no"/>posito: unde tam conspicui sapientiae, bonitatis &amp; potentiae divina 
+      <lb ed="#H" n="136"/>radii effulgent, ut etiam μυωπαζοντας luce &amp; coruscatione aliqua 
+      <lb ed="#H" n="137"/>erfundant.  
+      <lb ed="#H" n="138"/>Porro ex operibus creationis non renati S. Trinitatem aut vesti 
+      <lb ed="#H" n="139"/>gium ejus non cognoverunt, sed tantum attributa Dei quaedam, ut  
+      <lb ed="#H" n="140"/>aeternitatem, bonitatem, sapientiam 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e507">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Tantum de patefactione Dei naturali 
+      <lb ed="#H" n="142"/>Patefactio Dei supernaturalis, est qua Deus se peculiari modo in 
+      <lb ed="#H" n="143"/>sua Ecclesia notum facit, nempe per verbum quod nobis 
+      proloqui<lb ed="#H" n="144" break="no"/>tur intus &amp; foris Psal. 25. 8, 9, 12, 14. &amp; Psal. 65. 6. &amp; Psalm. 103. v. 7. 
+      <lb ed="#H" n="145"/>Matth. 11. v. 27. Joh. 1 v. 18. Psal. 98. 2. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e524">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>Eaque necessaria est, quia lumen naturale ad Deum recte 
+      cogno<lb ed="#H" n="147" break="no"/>scendum &amp; rite colendum non sufficit. Quod enim supernaturale est, 
+      <lb ed="#H" n="148"/>naturali luce pervideri nequit: &amp; lux naturalis in homine, uliro a 
+      ve<lb ed="#H" n="149" break="no"/>ta luce averso, prope extincta fuit. Ideo Deus per supernaturalem 
+      <lb ed="#H" n="150"/>patefactionem igne verbi sui, αjσθετήριον hominis, falsarum 
+      opinio<lb ed="#H" n="151" break="no"/>num praestigiis &amp; sordibus obstructum expugnavit, circumfusamque 
+      <lb ed="#H" n="152"/>caliginem dispulit.  
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e544">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Cum patefactione Dei supernaturali non pugnat patefactio 
+      na<lb ed="#H" n="154" break="no"/>turalis: Nam gratia non tollit naturam, sed eam perficit, &amp; naturam 
+      <lb ed="#H" n="155"/>supra naturam evehit: tum gratiae subordinata est natura. Proinde 
+      <lb ed="#H" n="156"/>ut pessime faciunt illi, qui naturae documentis adversus autorem 
+      na<lb ed="#H" n="157" break="no"/>turae &amp; adversus Scripturam quam natura perficitur abutuntur: ita 
+      <lb ed="#H" n="158"/>&amp; illi errant, qui naturalem fatofactionem Dei superhe rejiciunt.  
+      <lb ed="#H" n="159"/>Qua de re operaepretium est notari insignem locum in 
+      Admoni<lb ed="#H" n="160" break="no"/>tione Neustadiana de Formula Concordiae, ex Dilutione falsae 
+      accu<lb ed="#H" n="161" break="no"/>sationis: Dicunt, nos exponere verba Christi secudum rationis humanae, 
+      <lb ed="#H" n="162"/>judicium. Hic rursus more suo miscent veris falsa Ambigua enim 
+      ora<lb ed="#H" n="163" break="no"/>tio est, quum dicuntur verba Scripturae secundum rationis judicium in 
+      <lb ed="#H" n="164"/>telligi. Secundum rationem de rebus diuinis judicare, sine praecunte 
+      luce<lb ed="#H" n="165" break="no"/>verbi Dei, &amp; illuminatione Spiritus Dei, vere est cum ratione velle 
+      insa<lb ed="#H" n="166" break="no"/>nire, caecum de coloribus consulere, &amp; caecum sequi ducem: quod qui facir. 
+      <lb ed="#H" n="167"/>merito cum duce suo in foveam cadit. Hoc faciunt illi, qui vel ex solis 
+      <lb ed="#H" n="168"/>principiis natura notis judicare uolunt de Deo &amp; ejus uoluntate, 
+      ne<lb ed="#H" n="169" break="no"/>aliquid recipere, quod ex illis deduci &amp; confirmari non possit: vel ades 
+      <lb ed="#H" n="170"/>genii humani, ad errores, mendacia praesertim de Deo, &amp; idola propersi 
+      <lb ed="#H" n="171"/>figmenta &amp; affectus, doctrinam caelestem inflectunt &amp; detorquent: quod 
+      <lb ed="#H" n="172"/>praecipitium cavere nos jubet Apostolus, quum inquit: Videte, ne quis 
+      <lb ed="#H" n="173"/>sit, qui vos depraedetur per philosophiam, &amp; inanem decepi: onam, 
+      secer<lb ed="#H" n="174" break="no"/>dum traditionem hominum, secundum elementa mundi, &amp; non 
+      secun<lb ed="#H" n="175" break="no"/>dum Christum. Etsi enim vera Philosophia est lux naturalis, mentib. 
+      <lb ed="#H" n="176"/>a Deo in creatione insita, &amp; nihil continet cum voce divina pugnans: 
+      <lb ed="#H" n="177"/>non enim pugnant inter se patefactiones divinae sive naturales sive 
+      su<lb ed="#H" n="178" break="no"/>pernaturales: tamen duobus vitiis post obscurationem sui per peccotur: 
+      <lb ed="#H" n="179"/>laborat: quorum alterum est, quod homines veris principiis, &amp; inde 
+      ex<lb ed="#H" n="180" break="no"/>structis veris cenclusionibus, multa assingunt, &amp; per malam consequen¬ 
+      <!--cod-MkL9py-0376.xml-->
+      <pb ed="#H" n="349"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>tiam assuunt, quae non partes seu dogmata, sed ulcera, sed naevi verae 
+      Phi<lb ed="#H" n="2" break="no"/>losophiae sunt, neque ulla solida ratione confirmari possunt, ideoque iniastum 
+      <lb ed="#H" n="3"/>est, eorum nomine veram philosophiam mace audire: Ex vero enim 
+      <lb ed="#H" n="4"/>nihil nisi verum sequitur. Alterum est, quod Philosophica principia, 
+      ho<lb ed="#H" n="5" break="no"/>est, lux naturalis non sufficit ad integram &amp; veram Dei &amp; uoluntatis 
+      <lb ed="#H" n="6"/>divinae cognitionem consequendam: partim quia Filius Dei protulit 
+      <lb ed="#H" n="7"/>ex ercano sinu aterni Patris, novam doctrinam, videlicet Evangelii, quae 
+      <lb ed="#H" n="8"/>omnium angelorum &amp; hominum sapientia inveniri non potuisset; 
+      par<lb ed="#H" n="9" break="no"/>tim quia etiam legis divinae notitia naturalis per peccatum obscurata &amp; 
+      <lb ed="#H" n="10"/>mutilata est, at proinde diuvinis repetitionibus &amp; declavationibus 
+      com<lb ed="#H" n="11" break="no"/>plenda fuit. Non itaque ex naturali lucerectae rationis, seu philosophia, 
+      <lb ed="#H" n="12"/>sed ex oraculis divinae vocis, principia sumeda &amp; discenda sunt, ex quibro  
+      <lb ed="#H" n="13"/>de veritate &amp; falsitate omnis doctrinae Ecclesiasticae judicetur &amp; pronum. 
+      <lb ed="#H" n="14"/>cietur. Quod si aute alicubi Verbi Dei &amp; rectae rationis testimonia 
+      con<lb ed="#H" n="15" break="no"/>sentire videmus, tanto firmior debet esse fidei certitudo. Ad haec 
+      implo<lb ed="#H" n="16" break="no"/>randa est Spiritus S. gratia, ut quae a Prophetis &amp; Apostolis recte dicta. 
+      <lb ed="#H" n="17"/>sunt, nos recte intelligamus. His positis, apparet jam alter usus rectae 
+      ra<lb ed="#H" n="18" break="no"/>tionis in rebus divinis intelligendis &amp; dijudicandis, nimirum rationis: 
+      <lb ed="#H" n="19"/>Spiritu S. illuminatae per voce caelestis doctrinae, &amp; ex crincipiis &amp; 
+      axio<lb ed="#H" n="20" break="no"/>matibus non natura cognitis, aut humana autoritate constitutis, sed in 
+      <lb ed="#H" n="21"/>Scriptura Prophetica traditis, secundum normas bonae &amp; necessaris. 
+      <lb ed="#H" n="22"/>consequentiae, a Deo rationali creaturae impressas, considerantis &amp; 
+      judi<lb ed="#H" n="23" break="no"/>cantis, quomodo partes doctrina caelestis inter se cohaereant, &amp; se mutuo 
+      <lb ed="#H" n="24"/>stabiliant, quod ex illis corsoctaneum, quid cum illis consentaneum, quid 
+      <lb ed="#H" n="25"/>ab illis dissentaneum sit, cum illis cor sistere aut non consistere valeat  
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e670">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>Hunc usumrationa in rebus sacris, adeo non improbat Deus, ut 
+      il<lb ed="#H" n="27" break="no"/>lum etiam secerissime requirat; ino propter hunc usum praecipue 
+      natu<lb ed="#H" n="28" break="no"/>ras intelligentes condidii, ac normas judicandi ac discernendi verum a¬ 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e681">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>also, certum ab incerto, illis inse vit, ut probare fossint, quid sit acceptum  
+      <lb ed="#H" n="30"/>Domino: ne sint pueri intelligentia sed malitia pueri, intelligentia 
+      ve<lb ed="#H" n="31" break="no"/>Io idulti sint: non fluctuent &amp; circumferantur quovis vento doctrinae, 
+      <lb ed="#H" n="32"/>a hominibus alea; veteratoria ad insidiose fallendum versutia: Omnia 
+      <lb ed="#H" n="33"/>sciant explorare &amp; quod bonum fuerit, retinere: praecipue vero docenter 
+      <lb ed="#H" n="34"/>int ad dicendum idonei, &amp; concradicentes possint convincere, illisque 
+      o<lb ed="#H" n="35" break="no"/>obturare. Et sicut inter veram Philosophiam &amp; Sacram Scripturam 
+      <lb ed="#H" n="36"/>revera non est contradictio, &amp; si qua videtur esse, id hominum, sive in 
+      <lb ed="#H" n="37"/>philosophia, sive in doctrina Ecclesiae, errere sit: sic etiam res explicans 
+      <lb ed="#H" n="38"/>di, ratiocinandi, probandi &amp; refutandi, videmus non alia servare 
+      Epi<lb ed="#H" n="39" break="no"/>ritum Dei rationem &amp; formam, nisi quam sana Philosophia monstrat.  
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e710">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Quod si itaque Theologi nos accusant, quod secundum ratienem 
+      expli<lb ed="#H" n="41" break="no"/>comus Scripturam, tanquam nitentes principiis raticat humacae notus 
+      <lb ed="#H" n="42"/>extra verbum Dei, aut vehementer de nobis errant, aut scientes nos 
+      <lb ed="#H" n="43"/>afficiunt atroci &amp; manifesta injuria. Non enim opponimus llis 
+      argu<lb ed="#H" n="44" break="no"/>menta ex Phelosophia, sed ex verbo Dei &amp; articulis fidei, rationi 
+      pro<lb ed="#H" n="45" break="no"/>sus ignotis, desumta. Nam si quid in Scriptura Deus cradit quod etiam 
+      <lb ed="#H" n="46"/>natarali luce hominihus notum fecit, id nen propterea sic die ndum est, 
+      <lb ed="#H" n="47"/>philosophicum, quin simu: sit Theologitum. Quae enim esset iniuria in 
+      <lb ed="#H" n="48"/>Scripturam Sacram, &amp; quanta divinarum &amp; humanarum reru 
+      i<lb ed="#H" n="49" break="no"/>conturbatio, si vox Prophetica &amp; Apostolica proptereal esset exciodens 
+      <lb ed="#H" n="50"/>da, quia judi: ium rectae rationis ei uo testimonio suffragetur: 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e739">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Sed niceni facile emnes cordati, Theologos istos, quia quae ex verbo 
+      <lb ed="#H" n="52"/>Dei illis obij tantur, non possunt refutare; ideo conari ill. hoc 
+      praetextu<lb ed="#H" n="53" break="no"/>clevare quo sint cogitationes Philosophicae &amp; humanae, ut imperiti 
+      <lb ed="#H" n="54"/>persuadrait, dign, tatem Theologicam respondere ad ea nun ne cesse 
+      ha<lb ed="#H" n="55" break="no"/>bere. Sin vero hoc in nobis reprehendunt, quod illos pessime habere 
+      <lb ed="#H" n="56"/>res ostendit, nimirum quod non clausis oculis &amp; mentibus, quocudque ipsi 
+      <lb ed="#H" n="57"/>ducunt, sequimur, sed exemplo Berocensium, scrutamur Scripturas, 
+      an<lb ed="#H" n="58" break="no"/>esta sic habeant, quae ab illis dicuntur, examinamus illorum dogmati 
+      <lb ed="#H" n="59"/>&amp; argumenta, an cum verbo Dei congruentibus principiis, &amp; 
+      prob<lb ed="#H" n="60" break="no"/>consequentia nitantur: non sane dubitamus fateri, nos rectae ration: 
+      <lb ed="#H" n="61"/>judicium tam in diuinis, quam in humanisribus intelligendis adnibes 
+      <lb ed="#H" n="62"/>re. Existimamus enim, sicut is, qui docetur de coloribus, aut qui 
+      po<lb ed="#H" n="63" break="no"/>nia ambulat, non peccat, si utatur oculis, &amp; si hoc non faciens fallatur. 
+      <lb ed="#H" n="64"/>aut impingat, merito deridetur &amp; vituperatr: Ita nos tum demum in 
+      <lb ed="#H" n="65"/>accusationem &amp; poenam iustum incursuros, si in hunc usum datos nobis 
+      <lb ed="#H" n="66"/>a Deo mentis oculos non aperiamus, ad expleran: a ea, quae nobis 
+      De<lb ed="#H" n="67" break="no"/>nomine ab hominibus proponuntur credenda, &amp; ad ambulandum 
+      ac<lb ed="#H" n="68" break="no"/>curate, non tanquam in sipientes, sed tanquam sapi ites, in via 
+      pericu<lb ed="#H" n="69" break="no"/>osa, quam ad salutem tendimus. Nusquam gerniciosior est abusus 
+      no<lb ed="#H" n="70" break="no"/>minis &amp; doctrinae philosophicae, quam in doctrina Ecclesiae. Est autem 
+      <lb ed="#H" n="71"/>abusus Philosophiae, &amp;n confusio cum Theologia, quum praetextu sibe. 
+      <lb ed="#H" n="72"/>thilosophiae sive Theologiae singuntur falsa principia, &amp; ex illis folso 
+      <lb ed="#H" n="73"/>dogmata defenduntur, quae cum Philosopia &amp; Theologiu vera pugnant: 
+      <lb ed="#H" n="74"/>cum Philosophia, etiam vera, fingitur suffiune ad docendos hom, nes 
+      de<lb ed="#H" n="75" break="no"/>Dei &amp; cias cultu, &amp; salut: homieum: quam dognaara Ecclesiae 
+      igno<lb ed="#H" n="76" break="no"/>ta rationi, deducuntur, non ex divinis oais, iud ex rationioι. Philo 
+      <lb ed="#H" n="77"/>sophicis: cum, quae Phuosophi. de rebus siut sabieetis: ecte pronunciat 
+      <lb ed="#H" n="78"/>ad res diuvinas e, ctenduntur, ad quas minime ngruun, &amp; quas 
+      Phi<lb ed="#H" n="79" break="no"/>losophia ignorat, &amp; de quibus non loquitur: Cum opimones aut Iatu 
+      <lb ed="#H" n="80"/>tiones, quae etiam in relius: hilosophicis usurpatae, sunt interiae, umbi 
+      <lb ed="#H" n="81"/>guae, impropriae, oliseurae &amp; santilitatis otiosae, transferuntur ad res 
+      Thro<lb ed="#H" n="82" break="no"/>logicas, quae idlis involvuntur, &amp; in pugnas disftationum iutiles 
+      con<lb ed="#H" n="83" break="no"/>vertautur, aut quum appellationes &amp; plases aiinsophicae, ulteno 
+      sen<lb ed="#H" n="84" break="no"/>su, &amp; novis acaguitatibus sermonis, vasre excogiti is, usurpantar in 
+      <lb ed="#H" n="85"/>doctrine Ecclesiae, ad quaerenda effugii, &amp; sauendes eos, qui insuetum 
+      <lb ed="#H" n="86"/>giius, irinonus a an intelligunt 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e823">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Hie Phiicsophiae &amp; rationis abusus aetate superiori peperit nobis 
+      <lb ed="#H" n="88"/>Theologiam Scholasticami, qualem fere nonis recudunt hi Th. vιogi. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e832">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Vaera autem diicretio sun: inis rationis &amp; gratiae, &amp; ujus iigamus 
+      <lb ed="#H" n="90"/>rationis is rabus fides, est, quum harmonia veritatis divi ctus pacese 
+      <lb ed="#H" n="91"/>ct rui etur: defectus lucis naturalis, &amp; tenebrae menta numa nae : 
+      <lb ed="#H" n="92"/>Dei, cinciss voluntate &amp; operibus, considerantur: philu, ophica dogmata. 
+      <!--cod-MkL9py-0376.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>ex natura notis; Ecclesiastica ex revelatis praeter naturam principii 
+      <lb ed="#H" n="94"/>explicantur &amp; exstrunrtur: terrena sapientia per coelesiem. corr, gitur  
+      <lb ed="#H" n="95"/>exorbitans, &amp;i coepletur deficiens: &amp; secundu n normus &amp; metas 
+      ar<lb ed="#H" n="96" break="no"/>tium iudicandi de vero ac falso, &amp; res xolicandi a Dio monstratas, 
+      <lb ed="#H" n="97"/>am sacra quam profana tractantur &amp; desputantus. 
+      <lb ed="#H" n="98"/>Hoc famulitiu, &amp; hic usus Philosopl aacrationis in rebus sacris 
+      <lb ed="#H" n="99"/>non taium concessus &amp; utilis, sed etiam necessarius est: Proferat, 
+      <lb ed="#H" n="100"/>quis hoc in dubum vocat, ullum e Saipture S tera argume:tum, quod 
+      <lb ed="#H" n="101"/>ad regulis bone onsequentiae, a Philosocisis eruditis annotatas, non 
+      <lb ed="#H" n="102"/>congrunt. Vo: e qui sine dscrimine clamant porpetuo, de excludenda 
+      <lb ed="#H" n="103"/>ratione h. 1 aa, a tractatione rerum sacrarum, id videatur postulare; 
+      <lb ed="#H" n="104"/>u: homines sint animalia bruta, quibus ipsi tanquam vulpes 
+      anseri<lb ed="#H" n="105" break="no"/>ba, impune quidvis concionari possint. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e878">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Summa est, quod non ex Philosopnia, sed e Scripturae Sacrae penetra 
+      <lb ed="#H" n="107"/>libus hausimus principia &amp; fundamenta, quae adversariis opponimus 
+      <lb ed="#H" n="108"/>de natura &amp; usu Sacramentorum Ecclesiae, de loquutionibus 
+      Sacra<lb ed="#H" n="109" break="no"/>mentalibus, de veritate carnis nostrae in Christo, de eius ascensu in 
+      co<lb ed="#H" n="110" break="no"/>lum, communione Sanctorum cum ipso, &amp; praesentia ipsius in minist 
+      <lb ed="#H" n="111"/>rio &amp; in Sacramentis: Eadem tamen ratione &amp; via, qua Philosophi 
+      <lb ed="#H" n="112"/>ias conclusiones ex philosophicis principiis, etiam theologicus ex 
+      theolo<lb ed="#H" n="113" break="no"/>gitis deducere, hoc est, cum contradicentibus non ex ratione, sed tantum 
+      <lb ed="#H" n="114"/>secundum rectam rationem disputare, ipsius Dei nobiscum in verbo suo 
+      <lb ed="#H" n="115"/>loquentis exemplo d dicimus 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e904">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>Patefactio Dei supernaturalis. vel interna est, vel externa. 
+      <lb ed="#H" n="117"/>Interns, quae sit per verbum internum, quod cordibus 
+      singulo<lb ed="#H" n="118" break="no"/>rum Ecclesiae suae membrorum universe &amp; singulariter Deus indit; 
+      <lb ed="#H" n="119"/>eterni sui Spiritus communicatione, Psal. 25. 14. Matth. 16. v. 17. 
+      <lb ed="#H" n="120"/>Joh. 6. v. 45. 1. Joh. 2 20, 27. 
+      <lb ed="#H" n="121"/>Externa, quae sit per verbum Dei foris annunciatum, quod in 
+      di<lb ed="#H" n="122" break="no"/>vino illo instrumento caelestis salutaris que sapientiae, quod Deus 
+      <lb ed="#H" n="123"/>Prophetarum &amp; Apostolorum servorum suorum manibus 
+      exara<lb ed="#H" n="124" break="no"/>um, in sacrario Ecclesiae suae deposuit, divina sua autoritate &amp; virtu 
+      <lb ed="#H" n="125"/>te Spiritus sui obsignavit, ut constanter in ore fidelis populi &amp; 
+      semi<lb ed="#H" n="126" break="no"/>nis ipsius resideat in secula. 2. Cor. 2. v. 14. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e933">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Uitraque patefactio est necessaria: Ut enim ad Solis percipiendam 
+      <lb ed="#H" n="128"/>ucem, utrumque nobis necessarium est, Sol &amp; oculus noster, 
+      quo<lb ed="#H" n="129" break="no"/>rum ille nobis foeneratur lucem, hic communicatam percipit (nam 
+      <lb ed="#H" n="130"/>sine oculo frustia lux Solis futura esset, quemadmodum &amp; 
+      frustra<lb ed="#H" n="131" break="no"/>oculus sine Sole;) Ita ad salvificae lucis communicationem 
+      praestari<lb ed="#H" n="132" break="no"/>haec duo nobis opus est a Deo, lucem gratiae foris, cujus Scriptura 
+      <lb ed="#H" n="133"/>Sacra instrumentum: &amp; lucem gratiae intus oculumve fidei, cujus 
+      <lb ed="#H" n="134"/>singulariter autor &amp; effector est Spiritus ille Christi, qui omnia in 
+      <lb ed="#H" n="135"/>omnibus operatur, ut qui anima sit Ecclesiae Christi, totum corpus 
+      <lb ed="#H" n="136"/>&amp; singulas partes illius seu membra singula in toto corpore 
+      vivifi<lb ed="#H" n="137" break="no"/>cans, omniaque ἐπιχρρηρῶν ex demenso donationis Christi¬ 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e962">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>Duplex haec patefactio in electis Dei conjuncta et, non autem 
+      <lb ed="#H" n="139"/>opposita, ita ut una alteram excludat: sed per utramque communicat.  
+      <lb ed="#H" n="140"/>nobiscum sapientiam suam salvificam, &amp; quod per Sacram 
+      Scriptu<lb ed="#H" n="141" break="no"/>tam patefacit foris, idem per Spiritum Sanctum manifestat in 
+      cordi<lb ed="#H" n="142" break="no"/>bus. Nec enim aliud per Scripturam foris, aliud per Spiritum 
+      San<lb ed="#H" n="143" break="no"/>ctum in cordibus revelat, sed unum idemque. Porro externa 
+      reve<lb ed="#H" n="144" break="no"/>latio est communis quae per commune illud instrumentum, nempe 
+      <lb ed="#H" n="145"/>verbum Dei, quod nunc habemus in S. Scriptura, electis &amp; reprobis 
+      <lb ed="#H" n="146"/>praestatur communiter. Externa patefactio Dei per verbum, 
+      suffi<lb ed="#H" n="147" break="no"/>ciens quidem est quoad notitiam, sed non quoad effectum: interne 
+      <lb ed="#H" n="148"/>autem per Spiritum S est sufficiens non tantum quoad notitiam, sed  
+      <lb ed="#H" n="149"/>etiam quoad effectum. Et sit vel terrene modo, vel caelesti Joh. 3. v. 12. 
+      <lb ed="#H" n="150"/>Etsi enim sapientia rerum divinarum est una &amp; eadem: modus 
+      ta<lb ed="#H" n="151" break="no"/>men docendi eain est duplex, terrenus &amp; caelestis. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e998">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Terrinus docendi modus, est qui accommodarus est infirmitat  
+      <lb ed="#H" n="153"/>hominum, qui ut terreni sunt, ita terrenis rebus assueti sunt &amp; 
+      faci<lb ed="#H" n="154" break="no"/>lius capiunt quae typis a relius terrenis sumtis explicantur, 
+      cujusmo<lb ed="#H" n="155" break="no"/>di sunt similitudines, exempla, &amp;c Sicut Paulus ait Rom. 6. 19. 
+      He<lb ed="#H" n="156" break="no"/>minum more loquor, propter i firmitatem carnis vestrae. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e1014">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>Similitudinibus &amp; exemplis Deus in Scriptura utitur 
+      frequentis<lb ed="#H" n="158" break="no"/>sime ad evidentiam, quia res veluti sensibus externis subjiciunt, &amp; 
+      <lb ed="#H" n="159"/>locendae imperitiae nostrae valde commode serviunt: sunt enim 
+      ve<lb ed="#H" n="160" break="no"/>luti imagines quibus res ipsae ante oculos nostros depictae cernuntur.  
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e1027">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Sumuntur similitudines a rebus vel creatis a Deo, vel arte 
+      huma<lb ed="#H" n="162" break="no"/>factis. 
+      <lb ed="#H" n="163"/>Exempli causa, stellae innumerabili multitudine &amp; pulcherrima 
+      <lb ed="#H" n="164"/>serie in caelo dispositae, sunt imago vere fideliim, qui sunt filii 
+      Abra<lb ed="#H" n="165" break="no"/>ami secundum promissionem, spiritum &amp; fidem. Arena vero in 
+      lir<lb ed="#H" n="166" break="no"/>toribus vel locis arenosis est imago infidelium, etiamsi essent filii 
+      A<lb ed="#H" n="167" break="no"/>brahami secundum carnem; sunt enim infructuosi &amp; doctrinarum 
+      <lb ed="#H" n="168"/>malarum morumque malorum bibuli. Genes. 2.. 4. stinus Murtyr. 
+      <lb ed="#H" n="169"/>colloquio um Tryphone Iudaeo. Malltus figurat verbum Dei Ut enim 
+      <lb ed="#H" n="170"/>malleus efficit ut dissiliat petra: ita Verbum Dei perfringit homines 
+      <lb ed="#H" n="171"/>sacia: &amp; duros. Jerem. 23. v. 29. Securis &amp; serrusunt iniagi eorum 
+      <lb ed="#H" n="172"/>Fauuum, aquibus Deus utitur ad castigandos fideles &amp; punicudos 
+      <lb ed="#H" n="173"/>lein Jesu. 10. v. 15. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e1060">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>pculaiua ipsius mole dissilien: &amp; corruens &amp; maceria 
+      rui<lb ed="#H" n="175" break="no"/>uc:ae in pulla ilii negos: dejicitur, est imago improborum, 
+      <lb ed="#H" n="176"/>(uaaacolorin, nequi, iam conisfitaut. Psal. 42. v. 4. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e1071">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>cuua dig rat, poitum Sanctum quo obsignati sunt credentes; 
+      <lb ed="#H" n="178"/>PU T: 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e1080">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>ui sdendi, est qui congruens est perfectis &amp; caelitus 
+      <lb ed="#H" n="180"/>ceisiiuis anefiliore le Sp ritus Saucti, 1. Corint. 2. v. 4. &amp; 
+      sequen<lb ed="#H" n="181" break="no"/>c. lius cudisue ad fine in capatis. 
+      </p>
+            <p xml:id="yyy8Uu-e68143-d1e1092">
+               <lb ed="#H" n="182"/>
+               <pc type="indent"/>a dldaus patera tin Dei sit tum per doctrinam caelestem nobis tevi 
+      <lb ed="#H" n="183"/>ddadau Tttetaim suturarum praedictionem.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

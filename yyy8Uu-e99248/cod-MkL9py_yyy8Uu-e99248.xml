@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 20</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 20</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="409"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e99248"> <!-- l6-c20 -->
+            <head xml:id="yyy8Uu-e99248-Hd1e109">Caput 20</head>
+            <p xml:id="yyy8Uu-e99248-d1e112">
+               <lb ed="#H" n="156"/>CAPUT XX. 
+      <lb ed="#H" n="157"/>In quo de Christi detentione in sepulcro ad diem 
+      <lb ed="#H" n="158"/>usque tertium. 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e121">
+               <lb ed="#H" n="159"/>ETENTIO Christi in sepulcro, est postremus humiliationis: 
+      <lb ed="#H" n="160"/>TIgradus, dum Christus veluti in potestate &amp; vinculis morti¬ 
+      <lb ed="#H" n="161"/>versans, in sepulcro exanimis &amp; quasi devictus jacuit usque ad 
+      <lb ed="#H" n="162"/>diem tertium, triumphantibus interea hostibus ejus de eo 
+      interfe<lb ed="#H" n="163" break="no"/>cto, &amp; tanquam planum seu deceptorem, qui tertio die se 
+      resurrectu<lb ed="#H" n="164" break="no"/>lum promisisset, in sepulero detinere conantibus, munito sepulcro, 
+      <lb ed="#H" n="165"/>obsignato lapide, &amp; apposita custodia 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e139">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Sθetentio Christi in sepulcro praedicta fuit signo Jonae 
+      Prophe<lb ed="#H" n="167" break="no"/>tae, &amp; a Christo explicata Matt. 12. 40. Sicut enim fuit Ionas in 
+      ven<lb ed="#H" n="168" break="no"/>tre ceti tres dies &amp; tres noctes: Ita erit Filius hominis in corde terrae 
+      <lb ed="#H" n="169"/>tres dies &amp; tres noctes. 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e153">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Describitur autem Matth. 27. v. 62. &amp; seqq. Postero autem die. 
+      <lb ed="#H" n="171"/>qui est post Parasceven, coacti sunt Primarij Sacerdotes &amp; 
+      Pharisae<lb ed="#H" n="172" break="no"/>ad Pilatum, Dicentes, Domine, meminimus planum illum dixisse. 
+      <lb ed="#H" n="173"/>quum adhuc viveret, Tertio post die suscitabor. Iube ergo muniri 
+      se<lb ed="#H" n="174" break="no"/>pulcrum usque in diem tertium: nequando veniant discipuli ejus 
+      <lb ed="#H" n="175"/>nocte, &amp; furentur eum, dicantque populo, Suscitatus est e mortuis: &amp; 
+      <lb ed="#H" n="176"/>erit ultimus error pesor priore. Dixit eis Pilatus, Habetis custodia 
+      <lb ed="#H" n="177"/>X 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e175">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Jobsignato lapide, cum custodia. Acto. 2. v. 24. Quem Deus suscitavit 
+      <lb ed="#H" n="179"/>solutis doloribus mortis, eo quod fieri non poterat ut ipse ab ea retine¬ 
+      <!--cod-MkL9py-0437.xml-->
+      <pb ed="#H" n="410"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>vetur. Hinc sequitur, ipsum ab ea aliquandiu detentum fuisse, sed non 
+      A<lb ed="#H" n="2" break="no"/>in perpetuum retentum. 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e195">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Detentus vero fuit in sepulero usque ad tertium diem. Nam co 
+      <lb ed="#H" n="4"/>ipso die quo mortuus est, qui nobis magnus dies Veneris dicitur 
+      Ger<lb ed="#H" n="5" break="no"/>manice ner Rarfreptag? Bohemice Besitu Datet / una parte diei 
+      <lb ed="#H" n="6"/>Veneris in sepulcrum positus est: unde Synecdochice totus ille 
+      die<lb ed="#H" n="7" break="no"/>cum nocte antecedente, sepulturae Christi deputatur. Est enim 
+      reco<lb ed="#H" n="8" break="no"/>pta in omnibus linguis consuetudo, ut aliqua res eo die dicatur facta 
+      <lb ed="#H" n="9"/>cujus diei parte est facta. Sequitur deinde dies Sabbathi incipiens 
+      <lb ed="#H" n="10"/>nocte &amp; siniens sequetis diei vespera. 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e217">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Ita habemus duos dies &amp; duas noctes. Tertius dies sequitur, qui  
+      <lb ed="#H" n="12"/>incipit vespera diei Sabbathi, &amp; finitur vespera diei Solis: Dominus 
+      <lb ed="#H" n="13"/>aulem tota nocte &amp; parte aliqua diei illucescentis in sepulero fuit. 
+      <lb ed="#H" n="14"/>Quod autem una diei parte fit, illud toti illi diei complectenti 
+      nocti<lb ed="#H" n="15" break="no"/>&amp; dici artificialis spacium, tribui recepta in omnibus Gentibus con 
+      <lb ed="#H" n="16"/>suetudine solet: ut videre est in Pandectis libro secundo titulo 
+      duo<lb ed="#H" n="17" break="no"/>decimo, de feriis &amp; dilationibus &amp; diversis temporibus, lege octava. 
+      <lb ed="#H" n="18"/>Juxta hanc consuetudinem loquendi Synecdochicam omnibus 
+      po<lb ed="#H" n="19" break="no"/>bulis receptam, recte dixit Christus, Filium hominis igSrde 
+      terra<lb ed="#H" n="20" break="no"/>esse oportuisse tres dies &amp; tres noctes. 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e243">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Die Sabbathi tota complectente noctem &amp; diem artificialem, 
+      <lb ed="#H" n="22"/>quievit Dominus in sepulcro. 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e252">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>I. Quia sicut Deus absoluto creationis rerum omnium ac 
+      inpri<lb ed="#H" n="24" break="no"/>mis hominis opere, quievit die septima, Gen. 2. v. 2, &amp; 3. Exod. 20. v. 
+      <lb ed="#H" n="25"/>II. Ita Filius Dei peracto opere Redemtionis in cruce, quievit die se 
+      <lb ed="#H" n="26"/>ptima in sepulcro 
+      <lb ed="#H" n="27"/>II. Ut haec quies Christi in sepulcro fidelibus esset documentum  
+      <lb ed="#H" n="28"/>quietis spiritualis ab operibus peccati in hac vita. 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e271">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>III. Ut eadem quies esset symbolum quietis aeternae ab omnibu 
+      <lb ed="#H" n="30"/>laboribus post hanc vitam. 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e280">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Utque Jesus plane detineretur in sepulero, &amp; resurrectio ejus 
+      ex<lb ed="#H" n="32" break="no"/>mortuis impediretur, imo memoria mortui prorsus extingueretur? 
+      <lb ed="#H" n="33"/>primarii Sacerdotes &amp; Pharisaei non timuerunt, ut malitiae suae 
+      con<lb ed="#H" n="34" break="no"/>tra Christum inservirent, sabbathum violare. Accesserunt enim ad 
+      <lb ed="#H" n="35"/>Pilatum ipso die sabbathi &amp; Christum ausi sunt impostorem 
+      appella<lb ed="#H" n="36" break="no"/>re, cujus divina virtus &amp; gloria tot miraculis refulserat. Inde intelli 
+      <lb ed="#H" n="37"/>gitur obstinatus furor hostium Christum persequentium, qui ne 
+      san<lb ed="#H" n="38" break="no"/>guine quidem &amp; morte infami satiari potuerunt 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e302">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>Postularunt muniri sepulcrum usque in diem tertium, causa ist; 
+      <lb ed="#H" n="40"/>adducta, ne forte venirent discipuli ejus nocte &amp; furarentur eum, 
+      di<lb ed="#H" n="41" break="no"/>cerentque populo, suscitatum esse ex mortuis, &amp; sic fieret vltimus 
+      ex<lb ed="#H" n="42" break="no"/>ror pejor priore. Divina providentia &amp; divino instinctu ista illis sug 
+      <lb ed="#H" n="43"/>gesta fuit cogitatio: tum ut justam peccati ultionem de ipsis sumere 
+      <lb ed="#H" n="44"/>Dominus, tum ut suis propriis consiliis tanquam laqueis in opere 
+      <lb ed="#H" n="45"/>manuum suarum caperentur, &amp; constringerentur. Sic providentiae 
+      <lb ed="#H" n="46"/>Dei adversus seipsos servierunt: res meditanda summe 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e324">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Pilatus concessit eis uti custodia seu praesidiariis militibus, qui 
+      te<lb ed="#H" n="48" break="no"/>pli custodiae designati fuerant, ut per illos munirent sepulcrum 
+      sicu<lb ed="#H" n="49" break="no"/>scirent. Plus eis concessit quam petiverant: nam prorsus eorum 
+      per<lb ed="#H" n="50" break="no"/>misit arbitrio, ut milites in excubiis statuerent. Factum ideo. I. U. 
+      <lb ed="#H" n="51"/>hostes Christi magis constringerentur, ne vere possent 
+      resurrectio<lb ed="#H" n="52" break="no"/>nem Christi tertio die ex mortuis factam negare: Quanquam enim 
+      <lb ed="#H" n="53"/>sine pudore mendacium postea sparserunt &amp; spargi curarunt, Jesum 
+      <lb ed="#H" n="54"/>furtima discipulis suis sublatum; tamen propria conscientia &amp; 
+      custo<lb ed="#H" n="55" break="no"/>dum notitia illos redarguebat, 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e348">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>II. Ut Magistratus politici non gratificentur injustis &amp; 
+      crudeli<lb ed="#H" n="57" break="no"/>libus postulatis hominum improborum adversus Christum &amp; 
+      fide<lb ed="#H" n="58" break="no"/>les ejus. Nam quum Magistratus politicus coepit in hominum 
+      im<lb ed="#H" n="59" break="no"/>proborum gratiam a justitia semel deflectere, non desinunt improbis 
+      <lb ed="#H" n="60"/>opera ejus magis magisque abuti. 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e364">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Primarii Sacerdotes &amp; Pharisaei, impetrata copia a Pilato, duplio 
+      <lb ed="#H" n="62"/>ratione muniverunt sepulcrum, apponendo videlicet sigillum ad 
+      o<lb ed="#H" n="63" break="no"/>stium ejus, &amp; collocando ad illud custodiam quantam volebant. I6. 
+      <lb ed="#H" n="64"/>factum singulari providentia Dei: 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e378">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>I. Ut de resurrectione Christi minus dubitari possit: nam hoster 
+      <lb ed="#H" n="66"/>Christi in sua astutia capti sunt &amp; coacti postmodum inviti ab illis 
+      <lb ed="#H" n="67"/>ipsis testibus audire, Jesum Nazarenum vere ex mortuis resurrexisse, 
+      <lb ed="#H" n="68"/>quos sepulcro apposuerant custodes 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e391">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>II. Ut Deus illorum ipsorum opera uteretur ad illustranda 
+      glo<lb ed="#H" n="70" break="no"/>riam Christi, quibus abusi sunt sacerdotes &amp; Pharisaei ad illam 
+      obscu<lb ed="#H" n="71" break="no"/>randam 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e402">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Caeterum etsi in tertium usque diem corpus Christi in sepulcre 
+      <lb ed="#H" n="73"/>detentum fuit: tamen corruptionem non est expertum. Causa 
+      effi<lb ed="#H" n="74" break="no"/>ciens incorruptionis hujus fuit 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e413">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>I. Unio personalis naturae humanae cum persona εολόγον. 
+      Pro<lb ed="#H" n="76" break="no"/>pterea namque caro Christi non vidit corruptionem, quia personali 
+      <lb ed="#H" n="77"/>ter τῶ λόγῳ est unita &amp; perfectissimum in eo modum subsistendi 
+      ha<lb ed="#H" n="78" break="no"/>bet. Quo autem perfectius aliquid subsistit, eo longius a corruptione. 
+      <lb ed="#H" n="79"/>abest. 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e429">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>II. Immunitas a peccato, quod est causa corruptionis corporum 
+      <lb ed="#H" n="81"/>nostrorum. Atqui peccatum nullum proprium carni Christi inhaesit 
+      <lb ed="#H" n="82"/>&amp; quae antea ei ut sponsori nostro aliena peccata imputata fuerant,  
+      <lb ed="#H" n="83"/>expieta per antecedentem mortem &amp; in profundum sepulta fuerum 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e442">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>Causae finales sunt: I. Ut impleretur quod praedictum erat per 
+      <lb ed="#H" n="85"/>Davidem Psal. 16. 10. Non es derelicturus animam meam sepulcro 
+      <lb ed="#H" n="86"/>neque sines ut sanctus tuus videat corruptionem. 
+      </p>
+            <p xml:id="yyy8Uu-e99248-d1e454">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>II. Ut per incorruptionem Christi nostra quoque corpora olim 
+      <lb ed="#H" n="88"/>ex mortuis resuscitata incorruptionem consequantur. 
+      <!--cod-MkL9py-0437.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>Sic est de detentione Christi in sepulcro: 
+      <lb ed="#H" n="90"/>sequitur
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

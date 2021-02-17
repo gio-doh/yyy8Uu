@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 37</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 37</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="74"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e34492"> <!-- l1-c37 -->
+            <head xml:id="yyy8Uu-e34492-Hd1e109">Caput 37</head>
+            <p xml:id="yyy8Uu-e34492-d1e112">
+      <!--cod-MkL9py-0099.xml-->
+               <cb ed="#H" n="b"/>
+               <lb ed="#H" n="84"/>CAPUT XXXVII. 
+      <lb ed="#H" n="85"/>In quo respondetur adversariis Editionem He¬ 
+      <lb ed="#H" n="86"/>braeam Veteris Testamenti op¬ 
+      <lb ed="#H" n="87"/>bugnantibus. 
+    </p>
+            <p xml:id="yyy8Uu-e34492-d1e128">
+               <lb ed="#H" n="88"/>Hactenus nostra sententia de authentica Scripturarum 
+      <lb ed="#H" n="89"/>editione: sequitur refutatio adversariorum qui¬  
+      <lb ed="#H" n="90"/>eam oppugnant.
+    </p>
+            <p xml:id="yyy8Uu-e34492-d1e137">
+               <lb ed="#H" n="91"/>LII editionem Hebraicam negant esse authenticam: aliij 
+      <lb ed="#H" n="92"/>Scripturam Hebraicam a Mose &amp; Prophetis exaratam 
+      ne<lb ed="#H" n="93" break="no"/>gant ad nos usque pervenisse 
+      <lb ed="#H" n="94"/>Hebraicum textum Veteris Testamenti non esse authenticum, 
+      <lb ed="#H" n="95"/>sequentibus argumentis adversarii nonnulli evincere conantur, &amp; 
+      <lb ed="#H" n="96"/>inprimis VVithelmus Lindanus, quem refutavit Iohannes Isaacus, 
+      le<lb ed="#H" n="97" break="no"/>vita Germanus, Coloniensis Academiae Professor in defensione 
+      ve<lb ed="#H" n="98" break="no"/>ritatis Hebraicae Sacrarum Scripturarum, excusa Coloniae apud 
+      Ja<lb ed="#H" n="99" break="no"/>cobum Soterem Anno M. D. LIX. unde &amp; nos proferemus 
+      <lb ed="#H" n="100"/>praecipua. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e162">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>PRIMVM 
+      <lb ed="#H" n="102"/>Textus habens variam &amp; dubiam lectionem non est authenticus: 
+      <lb ed="#H" n="103"/>Hebraicus Textus Vetis Testamenti habet variam &amp; dubiam 
+      <lb ed="#H" n="104"/>lectionem 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e175">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Ergo Hebraicus textus Veteris Testamenti non est authenticus. 
+      <lb ed="#H" n="106"/>Assumtionis probatio. Nam in Veteri Testamento Hebraico sunt  
+      <lb ed="#H" n="107"/>in margine passim nota adjectae, idque propter dubiam &amp; variam 
+      lectio<lb ed="#H" n="108" break="no"/>nem: ut liquet ex castigatissimis Danielis Bombergi Bibliis Venetii 
+      <lb ed="#H" n="109"/>xcusis ac Felicis Pratensis editis ne, qui ex variis antiquissimis 
+      codici<lb ed="#H" n="110" break="no"/>bus Hebraicis varias in margine annotarunt lectiones. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e193">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>RESP. Primo assumtio principalis argumentationis est falsa: 
+      <lb ed="#H" n="112"/>quia Hebraeus textus unam duntaxat habet lectionem. Deinde in 
+      <lb ed="#H" n="113"/>assumtionis illius probatione falsus allegatur finis notarum illarum 
+      <lb ed="#H" n="114"/>in margine Hebraicorum Bibliorum positarum. Non enim 
+      pro<lb ed="#H" n="115" break="no"/>pter dubitationem vel variam lectionem in margine adjectae sunt: 
+      <lb ed="#H" n="116"/>siquidem una est tantum lectio: sed juxta mandatum Mosis &amp; 
+      Pro<lb ed="#H" n="117" break="no"/>phetarum propter alicujus singularis mysterii significationem, 
+      ve<lb ed="#H" n="118" break="no"/>propter decorum vel propter euphoniam, &amp;c. Sic igitur 
+      intelli<lb ed="#H" n="119" break="no"/>gendum est, in quibusdam locis Biblicorum librorum quasdam ese 
+      <lb ed="#H" n="120"/>dictiones, quae in orationis contextu positae, per alias in margine 
+      <lb ed="#H" n="121"/>notatas, legendae significantur. Et ea quidem quae contextui in 
+      <lb ed="#H" n="122"/>serta est, yPI Rethib apppellatur, id est scriptio seu scriptura, 
+      <lb ed="#H" n="123"/>quod ea solummodo scripta sit, non etiam legi debeat: Puncta vero 
+      <lb ed="#H" n="124"/>quae illa ipsa dictio in textu posita occupat, sub vocem in margine 
+      <lb ed="#H" n="125"/>criptam, transferenda sunt, ut his punctis illius lectio informata, 
+      <lb ed="#H" n="126"/>pro ea, quae in ipso contextu est, legatur; ideoque dictio in margine 
+      <lb ed="#H" n="127"/>posita PTID: Reri hoc est, lectio dicitur, quod punctis in textu 
+      po<lb ed="#H" n="128" break="no"/>sitis, tanquam sibi propriis loco alterius dictionis legatur: ut 
+      Ge<lb ed="#H" n="129" break="no"/>nes. 8. vers. 17. pro dictione NPITT havxe, in ipsa orationis 
+      serie<lb ed="#H" n="130" break="no"/>posita, vocem NPPsT hajze quae in margine notatur, legendam 
+      <lb ed="#H" n="131"/>illud PJD Reri, lectionis scilicet judicium significat. Sic illud 
+      <lb ed="#H" n="132"/>DyU tzebosim Genes. 14. quod in contextu est, per Dyja 
+      <lb ed="#H" n="133"/>tzeboim immutandum, eodem judicio planum fit. Quod igitur in 
+      <lb ed="#H" n="134"/>exemplaribus Hebraicis in margine est notatum, vera lectio est: 
+      <lb ed="#H" n="135"/>quod vero in contextu positum, certa de causa quidem scriptum 
+      <lb ed="#H" n="136"/>sed minime legitur. Illud tamen sic accipiendum est, non quod 
+      <lb ed="#H" n="137"/>emendata &amp; originalis puritas exemplaris vel a Mose vel caeteris 
+      <lb ed="#H" n="138"/>quoque Prophetis profecti mendis quibusdam laesa, industria 
+      ho<lb ed="#H" n="139" break="no"/>minum restituta sit: sed quod quisque istorum suo &amp; divino 
+      judi<lb ed="#H" n="140" break="no"/>cio vocem aliter in ipso contextu perscriptam, iisdem quidem 
+      vo<lb ed="#H" n="141" break="no"/>calibus, attamen aliter, hoc est, literis quibusdam immutatis, non 
+      <lb ed="#H" n="142"/>sine singulari mysterii significatione proferendam ipsis Judaeis 
+      prae<lb ed="#H" n="143" break="no"/>cripserit. Quam quidem judicii &amp; varietatis rationem cum 
+      inter<lb ed="#H" n="144" break="no"/>pretum industria quodammodo videtur assecuta, ne ipsam quidem 
+      <lb ed="#H" n="145"/>ocem in textu positam plane negligentia praetereundam quasi sua 
+      <lb ed="#H" n="146"/>ervacuam fatetur. Ut quod Psalmo nono v. decimo tertio 
+      DTe<lb ed="#H" n="147" break="no"/>Cethib est DP] hanasim, at PI Reri est DyJa) hanaum. 
+      <lb ed="#H" n="148"/>id non sine causa fit, sed ut doceatur, Deum quidem non 
+      oblivisc<lb ed="#H" n="149" break="no"/>clamoris pauperum seu afflictorum, sed non quorumvis verum 
+      man<lb ed="#H" n="150" break="no"/>suetorum, verum eorum qui sunt humiles &amp; mites. Nam Dyyqy 
+      <lb ed="#H" n="151"/>hanajini significat pauperes, item afflictos: Drza hanavim 
+      au<lb ed="#H" n="152" break="no"/>tem signifitat mites, mansuetos, humiles &amp; modestos. Qua 
+      ratio<lb ed="#H" n="153" break="no"/>ne inductus Rimchi Psalmo undecimo non? TH nude modo, 
+      tan<lb ed="#H" n="154" break="no"/>quam veram lectionem tuetur, verum etiam PTH nudu. ipsi 
+      scili<lb ed="#H" n="155" break="no"/>eet scriptioni, interpretatione sua patrocinatur &amp; significationem 
+      <lb ed="#H" n="156"/>suam attribuit. Quod autem has vocum varietates, quorundam 
+      <lb ed="#H" n="157"/>perversa judicia mendi suscipione non liberant, scribarumque 
+      igno<lb ed="#H" n="158" break="no"/>rantiam in his locis, tanquam ambiguis, notant: id quam illi 
+      qui<lb ed="#H" n="159" break="no"/>dem faciant ratione probabili, satis declarant, tum ex vetustioribus 
+      <lb ed="#H" n="160"/>Rubbi Ia ob &amp; scabbi Isaac: tum ex recentioribus Elias Levita in 
+      li<lb ed="#H" n="161" break="no"/>bro Massoreth Hammassoreth, in quo contra eos, qui Reri &amp; 
+      Re<lb ed="#H" n="162" break="no"/>tib propter dubia factum esse asserunt, acerrime disputat, eorum 
+      <lb ed="#H" n="163"/>que opinionem multis argumentis impugnat &amp; refutat.  
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e313">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Instantia I. 
+      <lb ed="#H" n="165"/>Elias Levita praefatione tertiam testatur in codicibus Hebraeis diver 
+      <lb ed="#H" n="166"/>sam esse lectionem, &amp; diversitatis huius causam hanc exponit, quod 
+      <!--cod-MkL9py-0100.xml-->
+      <pb ed="#H" n="75"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Ezra &amp; Concilium eius libros ordinarint &amp; correxerint: &amp; cum 
+      diver<lb ed="#H" n="2" break="no"/>sitatem aliquam invenissent, secuti fuerint maiorem librorum 
+      consen<lb ed="#H" n="3" break="no"/>cientium partem: &amp; quando aliquid non poterant clare intelligere, 
+      scri<lb ed="#H" n="4" break="no"/>pserint unam vocem in contextu &amp; aliam vocem alterius exemplaris in 
+      <lb ed="#H" n="5"/>margine. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e342">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Ergo Hebraicus textus dubiam habet lectionem 
+      <lb ed="#H" n="7"/>RESPONDEO. Negatur antecedens: tantum enim abest. Eliam 
+      <lb ed="#H" n="8"/>haec scribere, ut omnino contrarium affirmet, &amp; contra eos, qui Reri 
+      <lb ed="#H" n="9"/>&amp; Retib propter dubia esse asserunt, acerrime disputet, eorumqui 
+      <lb ed="#H" n="10"/>opinionem multis argumentis impugnet &amp; refutet. Sic enim 
+      Ea<lb ed="#H" n="11" break="no"/>Levita disputat: Si Reri &amp; Rethib sunt propter dubia, quid dicent  
+      <lb ed="#H" n="12"/>de Reri &amp; Rethib quae reperiuntur in libris exsilii, videlicet in 
+      Hag<lb ed="#H" n="13" break="no"/>gaeo. Zacharia, Malachia, Daniele, Ezra &amp; Paralipomenis quae 
+      scri<lb ed="#H" n="14" break="no"/>ipsit Ezra, &amp; libro Megilah, hoc est, Estherae, quem scripsit Mar 
+      <lb ed="#H" n="15"/>dochaeus? Nam cerro constat illos ipsos fuisse de viris Synagoga 
+      <lb ed="#H" n="16"/>magnae. Exempli gratia: in libro Ezrae capite quarto vers. 2. est in 
+      <lb ed="#H" n="17"/>textu scriptum DPPXJPDPPIAN Ny] velo anachnis cobechim, 
+      <lb ed="#H" n="18"/>subi ipsi scripserunt in margine Py] velo vel cum vav cholem, ut 
+      <lb ed="#H" n="19"/>significarent legendum esse cum vav. Si hoc fecerunt propter 
+      du<lb ed="#H" n="20" break="no"/>bium, quod ignorarent, an esset legendum Py lo cum vav vel Ni 
+      <lb ed="#H" n="21"/>lo cum aleph est interrogandum, fueritne Ezia cum illis? num ipse 
+      <lb ed="#H" n="22"/>ignoravit, an scripserit Ney] velo cum N aleph. an PyP cum vav 
+      <lb ed="#H" n="23"/>Et sic de reliquis Reri &amp; Retibs quae in lioris eorum sunt. Sensus 
+      ar<lb ed="#H" n="24" break="no"/>gumentationis est: Si Reri &amp; Rethib sunt propter dubia lectionem 
+      <lb ed="#H" n="25"/>tum Chaggaeus, Zacharias, Malachias, Daniel &amp; Ezra dubitarum 
+      <lb ed="#H" n="26"/>quomodo ipsi scripserint: nam in suis libris ipsimet Reri adscripse 
+      <lb ed="#H" n="27"/>runt. At posterius est absurdum: Ergo &amp; prius Quod autem 
+      Ezrae<lb ed="#H" n="28" break="no"/>quatto vers. secundo Rethib habet N7y Io cum aleph, significans 
+      <lb ed="#H" n="29"/>non, eo significare voluit Ezra. hostes cupientes una aedificare, dicero 
+      <lb ed="#H" n="30"/>quidem ore, se sacrificasse Jehovae, sed revera id non fecisse: 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e401">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Instantia . 
+      <lb ed="#H" n="32"/>At post mortem horum Prophetarum scriptum est Reri propter 
+      du<lb ed="#H" n="33" break="no"/>bium. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e413">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>RESPONDEO. Principium petitur: quia non habuerunt 
+      dein<lb ed="#H" n="35" break="no"/>ceps Judaei ante Christum natum ullam transmigrationem, neque 
+      <lb ed="#H" n="36"/>perierunt libri paucis illis annis: nam non duravit tempus virorum 
+      <lb ed="#H" n="37"/>Synagogae magnae, nisi circiter quadraginta annos, quemadmodum 
+      <lb ed="#H" n="38"/>probatur in Sederolam &amp; in Chalah R. Ab filii David. Psaetereas 
+      <lb ed="#H" n="39"/>Reri &amp; Rethib facta sunt propter dubia, tum illa incidissent casu 
+      <lb ed="#H" n="40"/>quodam in uno aut altero loco. At posterius non est: quia in 
+      uno<lb ed="#H" n="41" break="no"/>eodemque vocabulo saepius Reri &amp; Rethib occurrunt: exempli 
+      gra<lb ed="#H" n="42" break="no"/>tia vigenies &amp; bis in Lege scriptum est Tynahra &amp; legitur PPI 
+      <lb ed="#H" n="43"/>naharah. Item septies scriptum est DPyJOV hepholim &amp; legitur 
+      <lb ed="#H" n="44"/>PPIIrIO techorim. Item quinquies Rethib habet Dei 
+      Sp<lb ed="#H" n="45" break="no"/>hanajum &amp; Reri DPJU hanavim &amp; duo contraria, mult que alia. 
+      <lb ed="#H" n="46"/>Quomodo incidit semper dubium in omni M nabra &amp; Dyyjo 
+      <lb ed="#H" n="47"/>hepholim &amp; Dὸiν δῳ hanajim: 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e448">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Summa huc redt: Viri Synagogae magnae, nimirum Haggaeus 
+      <lb ed="#H" n="49"/>Zacharias, Daniei, Hananias, M. sael. Azaria, Ezra. Nehemias, 
+      Mar<lb ed="#H" n="50" break="no"/>dochaeus, Zerubbabel: quibus praeterea adjuncti fuerunt sapientes 
+      <lb ed="#H" n="51"/>quidam ex Harasch &amp; Margeru,que ad summam 120. virorum, 
+      hae<lb ed="#H" n="52" break="no"/>scripserunt secundum Cabalah, quod scilicet Moses non legerat 
+      vo<lb ed="#H" n="53" break="no"/>cabulum illud, alicujus mysterii causa, quod illis notum fuit, quod  
+      <lb ed="#H" n="54"/>mysterium tradidit Moses Josuae senioribus &amp; seniores Prophetis. 
+      <lb ed="#H" n="55"/>Hoc videlicet vocabuium scripserunt in margine quemadmodum 
+      <lb ed="#H" n="56"/>legi deberet &amp; Ezra fuit scriba ille, qui Reri adscripsit in Lege Mosai. 
+      <lb ed="#H" n="57"/>ca. Idem factum in Prophetis &amp; Hagiographis, in oninibus vocabu 
+      <lb ed="#H" n="58"/>lis, in quibus habuerunt c. abalah, ex mandato Prophetarum &amp; 
+      Sapi<lb ed="#H" n="59" break="no"/>entum generationum, unus ex ore alterius, nimirum quod non 
+      de<lb ed="#H" n="60" break="no"/>beant vocabula quaedam legi quemadmodum scripta sint Verum 
+      in<lb ed="#H" n="61" break="no"/>libris exsilii non habebant opus illa traditione: nam illi ipsi autores 
+      <lb ed="#H" n="62"/>fuerunt ibi cum illis, &amp; quando invenerunt vocabulum aliquod, quo 
+      <lb ed="#H" n="63"/>illis videbatur peregrinum juxta intentionem materiae &amp; ex 
+      positio<lb ed="#H" n="64" break="no"/>nem Scripturae, tunc divit illis autor libri causam, cur scripserit aliter 
+      <lb ed="#H" n="65"/>tunc scripserunt vocabulum in margine, quomodo deberet legi; Ut 
+      <lb ed="#H" n="66"/>cum viderunt in Haggaeo JOONPDPHPIN] veeraa 6 
+      <lb ed="#H" n="67"/>veecabed dixit illis Haggaeus, non esse legendum veecabed, sed 
+      veeca<lb ed="#H" n="68" break="no"/>bedah, quasi haberet PH He in fine: dixitque eis rationem, videlicet 
+      pro<lb ed="#H" n="69" break="no"/>pter quinque ornamenta quae fuerant in primo templo &amp; non in 
+      se<lb ed="#H" n="70" break="no"/>cundo: propterea scriptum a se esse ita. Tunc scripserunt in margine 
+      <lb ed="#H" n="71"/>IDPPJONJ, veccabeda, Reri. Sicque fecerunt in omnibus aliis, 
+      <lb ed="#H" n="72"/>quae sunt in libris exsilii. Summa est (ait Elias Levita) quod viri 
+      Sy<lb ed="#H" n="73" break="no"/>nagogae magnae fecerunt Reri, quae in Lege sunt, juxta mandatum 
+      <lb ed="#H" n="74"/>Cabalae quod habuerunt a Mose illo magni nominis, super illum sit 
+      <lb ed="#H" n="75"/>pax: &amp; quae in Prophetis &amp; Hagiographi juxta mandatum Cabalae, 
+      <lb ed="#H" n="76"/>quod habuerunt a Prophetis &amp; sapientibus temporum: &amp; quae in 
+      li<lb ed="#H" n="77" break="no"/>bris exsilii, juxta mandatum illosum ipsorum qui autores librorum 
+      <lb ed="#H" n="78"/>fuerunt: nequaquam voro propter dubia quemadmodum 
+      putave<lb ed="#H" n="79" break="no"/>runt multi. Haec ex Elia Levita. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e522">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Instantia 3. 
+      <lb ed="#H" n="81"/>Amplius instant; Hebraicum textum Veteris Testamenti habere 
+      va<lb ed="#H" n="82" break="no"/>riam &amp; dubiam lect. onem: Nam literas alii cum his, alii cum aliis 
+      pun<lb ed="#H" n="83" break="no"/>ctis legunt, ut Deuteronom. vigesimo quinto vers ultimo, alii legunt  
+      <lb ed="#H" n="84"/>Zachar, alii Se her. Psalm. quarto vers. ter io, alir legunt Revode let 
+      <lb ed="#H" n="85"/>lamma: alii vero Revodi sichlimma. Psalmo septuagesimo 
+      tertio<lb ed="#H" n="86" break="no"/>verr decimo, alii legunt umi, alii ume. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e542">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>RESPONDEO. Si puncta spectes, una est perpetuo lectio &amp; 
+      ne<lb ed="#H" n="88" break="no"/>quaquam diversa. Quod autem ad exempla allata attiner iniis aper¬ 
+      <!--cod-MkL9py-0100.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>te petitur principium. Nam eorum in fentibus non alia fuit lectio 
+      <lb ed="#H" n="90"/>ante &amp; post natum Christum, quam nunc est Deuteronom. vigesimo. 
+      <lb ed="#H" n="91"/>quinto vers. tecimo nono, legi debet Eecher. Deinde semper Psalmo 
+      <lb ed="#H" n="92"/>quarto lectum fuit &amp; legi debet Revodi lichlimma, id est, g oria mea 
+      <lb ed="#H" n="93"/>ad ignominiam. Et Psalmo septuagesimo tertrio vers. 10 lectum fuit. 
+      <lb ed="#H" n="94"/>&amp; legi debet une, hoc est, &amp; aquae. Quod vero attinet alteram 
+      lectio<lb ed="#H" n="95" break="no"/>nem in Psalmo quarto &amp; sepiu: gesimo tertio, recens illa a Jesuiti 
+      <lb ed="#H" n="96"/>impia cum audac a conficta est, ad excusandos veteris seu vulgatae 
+      <lb ed="#H" n="97"/>Latinae versionis errores: in veteribus autem autoribus nusquam 
+      ex<lb ed="#H" n="98" break="no"/>stat, quantum nobis constat.  
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e577">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>REPLICANT adversarii ad hanc responsionem nostram; 
+      ajun<lb ed="#H" n="100" break="no"/>responsum esse, semper tum ante tum post Christum natum eandem 
+      <lb ed="#H" n="101"/>fuisse punctorum vocalium rationem: At huic responsioni repugnare 
+      <lb ed="#H" n="102"/>historiae veritatem, quia Elias Levita in praefatione libri Massoreth. 
+      <lb ed="#H" n="103"/>Hammassoreth scribit punctorum appositionem anno demum quadrino 
+      <lb ed="#H" n="104"/>gentesimo trigesimo sexto; post ultimam Hieroolymae eversionem 
+      inven<lb ed="#H" n="105" break="no"/>tam fuisse a Iudais Tyberiadis, qui semper in lingua Sancta cultiore 
+      <lb ed="#H" n="106"/>omnibus Hebraeis habiti sunt: antea enim linguam Hebraam caruisse 
+      <lb ed="#H" n="107"/>puncto 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e601">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>RESPONPDEO. Illa Eliae Levitae narratio, historiae verae fidem ! 
+      <lb ed="#H" n="109"/>non meretur. Nam evidentibus a gumentis constat, puncta voca 
+      <lb ed="#H" n="110"/>lia &amp; puncta distinguentia quae accentus vocantur, inl bris Veteris 
+      <lb ed="#H" n="111"/>Testamenti non esse demum a Judae s Tyberiadis excogitata, sed 
+      ab<lb ed="#H" n="112" break="no"/>ipso Mose &amp; Prophetis adscripta: 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e618">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>I. Quia Scriptura Veteris Testamenti est a Deo per Prophetas! 
+      <lb ed="#H" n="114"/>tradita. non antum quoad sensum, sed etiam quoad verba ac 
+      proin<lb ed="#H" n="115" break="no"/>de etiam quoad vocales, sine quii us verba nulla constare pussunt, &amp; 
+      <lb ed="#H" n="116"/>quoad accentus distinguentes, sine quibus orationis sensus esset 
+      per<lb ed="#H" n="117" break="no"/>turbatus 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e634">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>II. Quia puncta vocalia sunt anima syllabarum &amp; vocum atque 
+      <lb ed="#H" n="119"/>adeo vivae pronunciationis. Similia sunt puncta Legis Mofaicae, animae. 
+      <lb ed="#H" n="120"/>vitali in corpore humano, ut ait in PPHHPT QOSepher Habbahir,  
+      <lb ed="#H" n="121"/>id est, libro illustri, R. Nechonia filius Halthanae, qui vixit ante 
+      com<lb ed="#H" n="122" break="no"/>positas Deuteroses seu contextus totius Thalmud. Et in Zohar (qui 
+      <lb ed="#H" n="123"/>liber est quidem posterior, sed celebrior apud Judaeos, non tantum 
+      <lb ed="#H" n="124"/>xponens quinque libros Mosis, sed &amp; reliquum Vetus 
+      Testamen<lb ed="#H" n="125" break="no"/>tum, quique secretiori lingua Jerosolymitana scriptus est) in 
+      Canti<lb ed="#H" n="126" break="no"/>ca Canticorum haec habentur: Nullae possunt literae proferri in hanc 
+      <lb ed="#H" n="127"/>aut illam partem, nisi cum punctis. Omnes literae (nempe Hebraicae, 
+      <lb ed="#H" n="128"/>sunt tanquam corpus sine anima (quia omnes sunt consonae:): um ad 
+      <lb ed="#H" n="129"/>veniunt puncta, (id est, vocalesy constituitur corpu in sua statura. 
+      Jan<lb ed="#H" n="130" break="no"/>quis quaeso, qui sit aliquo judicio praeditus, neget Mosen &amp; Prophe 
+      <lb ed="#H" n="131"/>tas sriptione sua vivm vocem cujus vocales praecipuam partem 
+      <lb ed="#H" n="132"/>constituunt, ad plenum repraesentasse? Etenim cum vocales solae in 
+      <lb ed="#H" n="133"/>sermone fere audiantur, quomodo sapientissim? literatum 
+      invento<lb ed="#H" n="134" break="no"/>res, in Scriptura sermonis imagine effingenda, praeclaram ac 
+      praeci<lb ed="#H" n="135" break="no"/>quam ejus partem omisissent; obtusiorem duntaxat &amp; 
+      obscurio<lb ed="#H" n="136" break="no"/>rem, consonantes videlicet, expressissent? Quod illis impingere 
+      <lb ed="#H" n="137"/>non minus absurdum est, quam si quis peritum pictorem hominis 
+      fi<lb ed="#H" n="138" break="no"/>guram pingendo imitantem, faciem &amp; quitquid hominem notum 
+      <lb ed="#H" n="139"/>conspicuumque reddat, vel inscitia occultasse, vel negligentia 
+      praeter<lb ed="#H" n="140" break="no"/>misisse affirmet 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e689">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>III. Quia cum alias novum scriptionis inventum initio plus satis 
+      <lb ed="#H" n="142"/>difficile legentibus fuerit, eam difficultatem vocalium defectu 
+      au<lb ed="#H" n="143" break="no"/>ctam fuisse, creditu omnino absurdum est. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e700">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>IV. Quia sic incertum &amp; dubium fieret totum Vetus 
+      Testa<lb ed="#H" n="145" break="no"/>mentum, aliis aliter legentibus, cum nulla sit consona, cui non 
+      pos<lb ed="#H" n="146" break="no"/>sint alia atque alia subjici vel adjici puncta. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e711">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>V. 
+      <lb ed="#H" n="148"/>Prophetae non fuerunt, esset pendendum, necesse foret, ut 
+      homini<lb ed="#H" n="149" break="no"/>bus, non Deo crederemus. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e722">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>VI. Quia si a Massoritis demum vera lectio &amp; pronunciatio 
+      Pro<lb ed="#H" n="151" break="no"/>phetarum esset ostensa; essemus aedificati super fundamentum 
+      Mas<lb ed="#H" n="152" break="no"/>soritarum, &amp; non super fundamentum Prophetarum 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e734">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>VII. Quia lectio jam non esset authentica: nam penderet tota a 
+      <lb ed="#H" n="154"/>udicio Massoritatum &amp; non ab autoritate Dei per Prophetas 
+      lo<lb ed="#H" n="155" break="no"/>quentis. Quae autem religio possit ullum permovere, ut judicet sibi 
+      <lb ed="#H" n="156"/>Massoritatum lectu ni esse ac quiescendum. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e747">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>IIX. Quia punctis scripta V. Testamenti jam ante Christi 
+      adven<lb ed="#H" n="158" break="no"/>Ttum fuerunt distincta &amp; sanctissimo ipsius ore approbata, sicut constat 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e756">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>ex cap. 5. Matth. ubi Dominus dicit: Amen dico vobis, donec praetereat. 
+      <lb ed="#H" n="160"/>coelum &amp; terra, jod aut unus apex non praeterierit ex Lege, donec omnia 
+      <lb ed="#H" n="161"/>facta fuerint. Quibus verbis clare testatur, Scripturam divinae Legis, 
+      <lb ed="#H" n="162"/>non solum consonantibus, (quae per jod earum minimam 
+      intelligun<lb ed="#H" n="163" break="no"/>tur;) verum etiam apicibus constare, per quos puncta utique 
+      denotan<lb ed="#H" n="164" break="no"/>tur; atque utriusque parem antiquitate &amp; autoritate attribuit: tum a 
+      Pa<lb ed="#H" n="165" break="no"/>tre coelesti utraque esse profecta agnoscit, eaque nobis ea religione 
+      com<lb ed="#H" n="166" break="no"/>mendat, ut quibus aeterna Dei voluntas &amp; vera salus duntaxat 
+      conti<lb ed="#H" n="167" break="no"/>neatur, quibusideo perficiendis &amp; implendis quicquid coelo terraque 
+      <lb ed="#H" n="168"/>comprehenditur subjectum est. Hoc unius Christi testimonium 
+      plu<lb ed="#H" n="169" break="no"/>ponderis apud nos habere debet, quam eorum qui affirmanriseos 
+      <lb ed="#H" n="170"/>Hebraeos scrip ores vocalibus omnino destitutos fuisse. Verum his 
+      <lb ed="#H" n="171"/>non auscultandum, sed Spiri. ut S. qui juxta Chrsti, Magistri ac 
+      Do<lb ed="#H" n="172" break="no"/>mini nostri testimonium Scripturas Sacras ad extremum usque 
+      api<lb ed="#H" n="173" break="no"/>cem, pure divinas esse in animis electorum obsignat  
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e793">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>IX. Quia R. David Rimchi testatur, puncta simul cum Lege a 
+      <lb ed="#H" n="175"/>Deo prodita fuisse. Quin &amp; R. Levi filius Joseph in libro PJIDS 
+      <lb ed="#H" n="176"/>Sema. lar, ipsi Rimchio assentitur affi mans puncta unam cum Lege, 
+      <lb ed="#H" n="177"/>data. Ex his constat Eliae Levitae narrationem fidem non mereri: 
+      <lb ed="#H" n="178"/>nulloque modo concedendum, Rabbim:s demum addidisse puncta, 
+      <lb ed="#H" n="179"/>Cquasi a Mose &amp; Prophetisadscripta non fuereni 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e811">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>INSTANT. At Elia in huius ret testimonium, dicit se Romae con¬ 
+      <!--cod-MkL9py-0101.xml-->
+      <pb ed="#H" n="76"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>venisse legatos Presbyteri Iohannis, qui Arabicam linguam suam 
+      vul<lb ed="#H" n="2" break="no"/>garem logebant sine punctis. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e829">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>RESP Ei oppono Theseum Ambrosium, qui in intro ductione suae 
+      <lb ed="#H" n="4"/>in lingua Chaldaicam, Syriacam atque Armeniacam, negat prorsus. 
+      <lb ed="#H" n="5"/>linguim illorum legatorum fuisse Chaldaicam, &amp; vult AEthiopicam, 
+      <lb ed="#H" n="6"/>vel Indicam, vel certe Armenicam esse, cujus quaedam regio Chaldia 
+      <lb ed="#H" n="7"/>dicitur. Hoc vero probat, quia Armeni a sinistro ad dextrum latus 
+      <lb ed="#H" n="8"/>Graecorum Latinorumque more scribunt; sicut &amp; Indi quorum 
+      Psal<lb ed="#H" n="9" break="no"/>terium pro Chaldaeo edidit Iohannes Potheni 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e850">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>INSTANT rUrsus; Responsum esse antea, puncta una cum literis. 
+      <lb ed="#H" n="11"/>Dee tradita esse: at huic responsioni opponi esse historiam quae testatus 
+      <lb ed="#H" n="12"/>Ezram aliis literis quas ex Babyione attulerat, sacros codices descripsisse. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e861">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>RESP. Ita nonnulli sentiunt: sed prorsus non est verisimile, Ezra 
+      <lb ed="#H" n="14"/>Prophetam sanctum &amp; religiosum Legis observatorem literas 
+      Gen<lb ed="#H" n="15" break="no"/>tiles &amp; humanas praetulisse a Deo traditis &amp; commendatis. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e872">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>INSTANT amplius: Beblia particularia caruerunt semper punctis: 
+      <lb ed="#H" n="17"/>Ergo non fuerunt initio a Mose &amp; Prophetis adscripta. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e881">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>RESP. Antecedens est particulare: non enim omnia Biblia 
+      parti<lb ed="#H" n="19" break="no"/>cularia caruerunt punctis, etsi plurima: at non continuo sequitur ex 
+      <lb ed="#H" n="20"/>eo, a Mosc &amp; Prophetis non fuisse adscripta. Nam certum est 
+      publi<lb ed="#H" n="21" break="no"/>ca exemplaria atque authentica non caruisse punctis. Ut privata 
+      care<lb ed="#H" n="22" break="no"/>rent punctis, fecit rei difiicultas: ut publicaus non carerent, fecit reli 
+      <lb ed="#H" n="23"/>gionis necessitas. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e899">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Ad testimonium Rimchii replicant, ejus nullam posse esse 
+      autori<lb ed="#H" n="25" break="no"/>tatem, cum si n ipse contradi at. Nam in Niphal scribit Rimchi, 
+      ordi<lb ed="#H" n="26" break="no"/>natores punctationis posuisse discrime inter primam vocem praeterit. 
+      <lb ed="#H" n="27"/>Niphal &amp; primam vocem participii singularem ejusdem 
+      conjugatio<lb ed="#H" n="28" break="no"/>nis, adscribentes praeterito Patach, participio Rament2. Hinccinquiunt,  
+      <lb ed="#H" n="29"/>apparet, qua sibi parum constet, quod uno in loco puncta in Sinam dat: 
+      <lb ed="#H" n="30"/>confirmet, in altero, cum ea pluribus ordinatoribus adscribat, id neget 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e919">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>RESP Ordinatores punctorum non dicuntur a Rimchio autores 
+      <lb ed="#H" n="32"/>punctorum: sed ii potius, qui puncta in diuturnis ac variis Judaeorum 
+      <lb ed="#H" n="33"/>exsiliis ac jactationibus negligenter adscripta &amp; observata emenda 
+      <lb ed="#H" n="34"/>verunt &amp; ad aeternam Dei in Sinai ordinationem revocaverunt. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e933">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>Hactenas primum argumentum refutatum: sequitur  
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e940">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>SECVNDVM 
+      <lb ed="#H" n="37"/>Textus corruptus non est authenticus: 
+      <lb ed="#H" n="38"/>Hebraicus textus est corruptus 
+      <lb ed="#H" n="39"/>He braicus igitur textus non est authenticus 
+      <lb ed="#H" n="40"/>Minorem probant cum testimoniis, tum exemplis. Ac primum 
+      pro<lb ed="#H" n="41" break="no"/>ducunt testimontum Eliae Levitae, qui secunda praefatione testatur, se 
+      ubi<lb ed="#H" n="42" break="no"/>cunque intellexisset Ubrum aliquem exstare correctum, illuc fuisse 
+      profe<lb ed="#H" n="43" break="no"/>ctum, &amp; Hispanicos se invenisse aliis incorruptiores 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e962">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>RESP. Elias hoc non scribit de Bibliis: sed de Massoreth. Non enim 
+      <lb ed="#H" n="45"/>Bibliorum gratia, sed propter Massoreth correctum, se in varia loca 
+      <lb ed="#H" n="46"/>profectum aperte testatur. In Massoreth igitur, Hispanorum 
+      Judaeo<lb ed="#H" n="47" break="no"/>rum diligentiam propter codices prae aliis correctos commendat: 
+      scri<lb ed="#H" n="48" break="no"/>barum quoque temeritatem accusat, qui excerptis quibusdam ex Mal 
+      <lb ed="#H" n="49"/>soreth &amp; in Bibliorum margin bus ornamenti causa positis, quia 
+      ar<lb ed="#H" n="50" break="no"/>tis Massoreth rudes &amp; imperiti erani, errores multos commiserumt. 
+      <lb ed="#H" n="51"/>Huic rei non parvam occasionem praebuit, quod ea, quae ex Massoret. 
+      <lb ed="#H" n="52"/>in marginibus Bibliorum scribebant, aliquando picturae includere 
+      <lb ed="#H" n="53"/>voluerunt. Hi pinxerunt rosam, alii ramulum, alii alias imagines in 
+      <lb ed="#H" n="54"/>quib Massoreth criberent, &amp; sic quaedam, ut picturam implerent, 
+      in<lb ed="#H" n="55" break="no"/>terdum addiderunt: quaedam vero, cum omnium pictura capax non 
+      <lb ed="#H" n="56"/>esset, interdum omiserunt. Jam quae est imperitia, quae Elias de Masso 
+      <lb ed="#H" n="57"/>reth scribit, ea de textu Bibliorum accipere? Cualis quaeso haec est 
+      <lb ed="#H" n="58"/>consequentia? Massoreth corruptum est: ergo &amp;iblia sunt corru 
+      <lb ed="#H" n="59"/>pta? Item Concordantiae Bibliorum in margine annotatae, sunt 
+      cor<lb ed="#H" n="60" break="no"/>ruptae: Ergo &amp; textus Bibliorum est corruptus? Quin imo inter 
+      mi<lb ed="#H" n="61" break="no"/>de Bibliorum exemplaria vix unum reperies, quod Massoreth 
+      adje<lb ed="#H" n="62" break="no"/>ctum habeat,  
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1008">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>INSTANT &amp; praeterea proferunt testimonium Brunonis Amerbachii, 
+      <lb ed="#H" n="64"/>hominis trium linguarum peritia celebris, qui in praefatione in Psalterium, 
+      <lb ed="#H" n="65"/>Hieronymi affirmet, vetera Psalterii exeplaria manuscripta a Psalteris 
+      <lb ed="#H" n="66"/>Venetiis impresso multis in locis variare ac dissentire. Quid? (inquit  
+      <lb ed="#H" n="67"/>Bruno Amerbachius) quod Hebraicam veritatem (ut vocant) in 
+      lu<lb ed="#H" n="68" break="no"/>daeorum nostri temporis, sic suspicamur, gratiam (nam illorum 
+      expositio<lb ed="#H" n="69" break="no"/>tionibus ad modum favet) nonnihil immutatam comperimus ab aliquo 
+      <lb ed="#H" n="70"/>Hebraice docto? Siquidem exemplari Veneto cum vetustissimis Hiero 
+      <lb ed="#H" n="71"/>nymi codicibus muliis locis non convoniebat.  
+      <lb ed="#H" n="72"/>RESP. Bruno Amerbathius loquitur de Hieronymi translatione 
+      <lb ed="#H" n="73"/>quam vulgo Hebraicam veritatem vocant, &amp; nequaquam de 
+      textu<lb ed="#H" n="74" break="no"/>Hebraico. Deind. Veterem translationem certo autore carere &amp; a 
+      <lb ed="#H" n="75"/>nebulone quodam corruptam esse scribit. Sed verba ipsius 
+      Amer<lb ed="#H" n="76" break="no"/>bchii placet audire 
+      <lb ed="#H" n="77"/>ERPNO AMERBACHIVS BASILIENSIS 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1045">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>PIOLEGTORI S. D. 
+      <lb ed="#H" n="79"/>Dici non potest quam gratulemur rem Latinam ab interitu pene sui 
+      <lb ed="#H" n="80"/>periori seculo revocatam <name xml:id="yyy8Uu-e34492-Nd1e1055">Lautentii Valla</name> primum opera, deinde 
+      proxi<lb ed="#H" n="81" break="no"/>mis annis mirum in modum studio Politiani Hermolaique Barbaris 
+      <lb ed="#H" n="82"/>collustratam. Sed est cur non minus aggaudere debeamus, nempe quod  
+      <lb ed="#H" n="83"/>hoc tempore veteri probataeque Theologiae purimum lucis accessurum 
+      spo<lb ed="#H" n="84" break="no"/>ramus ex hac castigatissima Hieronym:anorum operum editione: quam 
+      <lb ed="#H" n="85"/>in primis Erasmo, nonnihil etiam nobis studiosi ferre debent acceptam, 
+      <lb ed="#H" n="86"/>Emerserunt ab hinc pauculos annos literae Graecae &amp; nunc quod animo 
+      <lb ed="#H" n="87"/>gestienti referimus cum in Galliis tum in Germaniis permulti felicissime 
+      <lb ed="#H" n="88"/>Graecantur: quod haud ita diu, vel in ipsa Italia rarum erat. Sed &amp; 
+      He<lb ed="#H" n="89" break="no"/>braica illae sacratissimae, quibus bona pars arcanae scientia, hoc est, 
+      Pro<lb ed="#H" n="90" break="no"/>pheticorum mysteriorum nobis tradita est doceri ceperunt: Sed quas non 
+      <lb ed="#H" n="91"/>perinde multe complectantur: nimirum quod exemplaria non sint ebvia 
+      <!--cod-MkL9py-0101.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>typis Hebraicis excusa. Quapropter inrem studiosorum huius lingit?, 
+      <lb ed="#H" n="93"/>simul quod D. Hieronymus dum Psalmos exponit, aut illorum utitur ter 
+      <lb ed="#H" n="94"/>stimonio lectionem Hebraicam &amp; Graecam, quae est interpretum 
+      septua<lb ed="#H" n="95" break="no"/>ginta, frequentissime citat: nos huic octavo tomo corollarii vice quadris 
+      <lb ed="#H" n="96"/>plex Psalterium adiecimus videlicet Hebraicum &amp; huic oppositam D 
+      <lb ed="#H" n="97"/>Hieronymi versionem quam vulto Hebraeam veritatuem appellant: 
+      Grae<lb ed="#H" n="98" break="no"/>eam item, cui respondet e regione translatio, quae passim legitur αδηλος, 
+      <lb ed="#H" n="99"/>hoc est, autore incerto nonnunquam (ut dicam id quod res est) δές δια πα¬ 
+      <lb ed="#H" n="100"/>τοον ab exemplari Graeco dissidens: cuius rei culpa an in interpretis usci: 
+      <lb ed="#H" n="101"/>tantiam, an in librariorum incuriam, aut quod verisimilius sit 
+      alicu<lb ed="#H" n="102" break="no"/>ius nebulonis audacem imperitiam reiici debeat nolo excutere in 
+      praesen<lb ed="#H" n="103" break="no"/>tia. Quid, quod Hebraicam veritatem (ut vocant) in Iudaeorum 
+      nostri<lb ed="#H" n="104" break="no"/>temporis, sic suspicamur gratiam, nam illorum expi sitionibus 
+      admo<lb ed="#H" n="105" break="no"/>dum favet, non nihil immutatam comperimus, ab aliquo Hebraica 
+      <lb ed="#H" n="106"/>docto, siquidem exemplari Veneto cum vetustissimis Hieronymi codici. 
+      <lb ed="#H" n="107"/>bus, multis locis non conveniebat. At enim nos pro virili in hoc 
+      incu<lb ed="#H" n="108" break="no"/>buimus, ut quemadmodum caetera nostra sic hac in manus hominum 
+      <lb ed="#H" n="109"/>quam emendatissima venirent. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1127">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Ista producunt testimonia: deinceps aliquot proferunt exempla 
+      <lb ed="#H" n="111"/>locorum corruptorum. Ac primo quidem Hebraicum textum 
+      cor<lb ed="#H" n="112" break="no"/>ruptum esse hinc facise colligi posse aiunt, quod translationes multa. 
+      <lb ed="#H" n="113"/>hubeant, quae textui Hebraico desum 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1141">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>RESP. Primo contrarium potius inferri debet: Translationes. 
+      <lb ed="#H" n="115"/>multa habent, quae textui Hebraico desunt: Ergo translationes sum 
+      <lb ed="#H" n="116"/>corruptae. Deinde probandum est, multa Hebraico textui 
+      de<lb ed="#H" n="117" break="no"/>esse. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1154">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Probare id conantur Psalmo 13. ubi in veteri translatione 
+      habe<lb ed="#H" n="119" break="no"/>tur. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1163">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>Sepulchrum patens est guttur eorum, linguis suis dolose agebant, 
+      Ve<lb ed="#H" n="121" break="no"/>nenum aspidum sub labiis eorum: Quorum os maledictione &amp; 
+      amari<lb ed="#H" n="122" break="no"/>tudine plenum est: veloces pedes eorum ad effundendum sanguinem. 
+      Con<lb ed="#H" n="123" break="no"/>tritio &amp; infelicitas in viis eorum &amp; viam pacis non cognoverunt. Non 
+      <lb ed="#H" n="124"/>est timor Dei ante oculos eorum. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1179">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>i versus cum in Hebraeis codicibus non habeantur, &amp; tamen a 
+      <lb ed="#H" n="126"/>Paulo tanquam pars Psal. 13. citentur; magnum est argumentum, 
+      <lb ed="#H" n="127"/>Hebraica Biblia esse corrupta 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1190">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>RESP. Adversus hoc abunde omnibus piis Hieronymus pro 
+      no<lb ed="#H" n="129" break="no"/>bis satisfaciet: cujus verba in decimo sexto libro in Jesaiam 
+      Prophe<lb ed="#H" n="130" break="no"/>tam sic habent  
+      <lb ed="#H" n="131"/>Egregia disertissimi Oratoris sententia est, felices esse artes si de illis soli  
+      <lb ed="#H" n="132"/>artifices iudicarent. Ac ne a prophanis tantum sumere videar exem 
+      <lb ed="#H" n="133"/>lum: nimirum hoc illud est quod aliis verbis Propheta demonstrat: 
+      <lb ed="#H" n="134"/>Beatus, qui in aures loquitur audientium. Qua felicitate tu filia 
+      Eusto<lb ed="#H" n="135" break="no"/>chium me compotem esse fecisti. Nam cum anterioris libri 
+      praefatiuncu<lb ed="#H" n="136" break="no"/>lam legeres: in qua asserui Apostolos &amp; Evangelistas, ea tantum de 
+      <lb ed="#H" n="137"/>septuaginta interpretibus, vel suis vel eorum verbis, ponere testimonia 
+      <lb ed="#H" n="138"/>quae cum Hebraico consonarent: si qua autem ab aliis addita sunt 
+      omni<lb ed="#H" n="139" break="no"/>no negligere: illico mihi non parvam quaestiunculam detulisti: quod 
+      sci<lb ed="#H" n="140" break="no"/>licet octo versus qui leguntur in Ecclesiis &amp; non habentur in Hebraic. 
+      <lb ed="#H" n="141"/>13. Psalmi Apostolus usurparit, scribens ad Romanos: Sepulchrum patens 
+      <lb ed="#H" n="142"/>est guttur eorum. linguis suis dolose agebant: Venenum aspidum sub labiis. 
+      <lb ed="#H" n="143"/>eorum: Quorum os maledictione &amp; amaritudine plenum est: veloces 
+      pe<lb ed="#H" n="144" break="no"/>des eorum ad effundendum sanguinem. Contritio &amp; infelicitas in viis 
+      <lb ed="#H" n="145"/>gorum, &amp; viam pacis non cognoverunt: non est timor Dei ante oculos 
+      <lb ed="#H" n="146"/>eorum. Quod cum audissem, quasi a fortissimo pugili percussus essem, 
+      coe<lb ed="#H" n="147" break="no"/>pi tacitus aestuare, &amp; stuporem mentis, vultus pallore signare. Hebraeus 
+      <lb ed="#H" n="148"/>inquam ex Hebraeis secundum legem Pharisaeus, eruditusque ad pedes 
+      Ga<lb ed="#H" n="149" break="no"/>malielis, aut ignoravit haec, aut eorum, qui lecturi erant abusus est 
+      igno<lb ed="#H" n="150" break="no"/>rantia. Quorum alterum ineruditi, alt erum callidi est ad malitiam? 
+      <lb ed="#H" n="151"/>nec eius qui dixerit: Et si imperitus sermone, non tamen scientia. Et 
+      ite<lb ed="#H" n="152" break="no"/>rum, In simplicitate &amp; synceritate annunciavi vobis verbum. Tandem 
+      <lb ed="#H" n="153"/>in memet reversus unius diei spacium postulavi, ut responsio mea 
+      nequa<lb ed="#H" n="154" break="no"/>quam argumentum humani esset ingenit, sed fructus assiduae lectionis. Itaque  
+      <lb ed="#H" n="155"/>omnem scripturam mente perlustrans animadverti, sicut omnis tene ad 
+      <lb ed="#H" n="156"/>Romanos epistola de vetere structa est instrumento: Sic &amp; hoc testimo 
+      <lb ed="#H" n="157"/>nium de Psalmis &amp; Iesaia esse contextum. Nam duo primi versus; 
+      Se<lb ed="#H" n="158" break="no"/>pulchrum patens est guttur eorum: lnguis suis dolose agebant, quinti Psal 
+      <lb ed="#H" n="159"/>ni sunt. Illud autem quod sequitur: Venenum aspidum sublabiis eorum; 
+      <lb ed="#H" n="160"/>centesimi tricesimi noni Psalmi est. Rursumque quod dicitur; Quorum os 
+      <lb ed="#H" n="161"/>maledictione &amp; amaritudine plenum est: de nono Psalmo sumptum est, 
+      <lb ed="#H" n="162"/>Tres autem versiculi qui sequuntur: veloces pedes eorum ad effundendum 
+      <lb ed="#H" n="163"/>sanguinem. Contritio &amp; infelicitas in viis eorum: &amp; viam pacu non 
+      cog<lb ed="#H" n="164" break="no"/>noverunt, In Esaia Propheta reperi quos in decimo sexto explanationis, 
+      <lb ed="#H" n="165"/>cius libro quem nunc dictare cupio expositurus sum. Ultimus autem 
+      ver<lb ed="#H" n="166" break="no"/>sus, id est, octavus; Non est timor Dei ante oculos eorum, in tricesimi quint 
+      <lb ed="#H" n="167"/>Psalm: principio est. Nec in hoc cuiquam videatur esse diversum, si quod 
+      <lb ed="#H" n="168"/>in locis suis numero dicitur singulari, ab Apostolo plurali dicatur, qui 
+      scri<lb ed="#H" n="169" break="no"/>bebat ad plurimos &amp; in unum sensum multa cogebat exempla. Arbitros 
+      <lb ed="#H" n="170"/>solutam quaestionem tuam &amp; nostram regulam super translatione 
+      vete<lb ed="#H" n="171" break="no"/>ris instrumenti concussam magis esse, quam motam. Et non tam 
+      Aposto<lb ed="#H" n="172" break="no"/>lum de Psal. 13. sumsisse quod in Hebraeo non habetur: quam eos qui 
+      ar<lb ed="#H" n="173" break="no"/>tem contexennarum inter se scripturarum Apostoli nesciebant, quaesisse 
+      <lb ed="#H" n="174"/>aptum locum ubi assumtum ab eo ponerent testimonium quod absque 
+      au<lb ed="#H" n="175" break="no"/>toritate in scripturam positum non putabant. Denique omnes Graeciae 
+      tra<lb ed="#H" n="176" break="no"/>ctatores qui nebis cruditionis suae in Psalmos commentarios reliquerunt. 
+      <lb ed="#H" n="177"/>hes versiculos veru annotant atque praetereunt: liquido confitentes in 
+      He<lb ed="#H" n="178" break="no"/>braeo non haberi, nec esse in septuaginta interpretibus, sed in editione. 
+      <lb ed="#H" n="179"/>vulgata quae Graeceusiva dicitur &amp; in toto orbe diversa est 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1307">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>Hactenus Hieronymi responsio, cujus summa est: Versus illos non 
+      <lb ed="#H" n="181"/>adduci a Paulo ut partem Psalmi decimitertii, sed ut testimonia ad 
+      <lb ed="#H" n="182"/>eandem tem confirmandam coacervata contextaque ex pluribus 
+      lo<lb ed="#H" n="183" break="no"/>cis Scripturae 
+      <!--cod-MkL9py-0102.xml-->
+      <pb ed="#H" n="77"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Instantia. 
+      <lb ed="#H" n="2"/>Anglicanum quoddum exemplar hos versus Hebraice conscriptos in 
+      <lb ed="#H" n="3"/>Psalmo 1. habet: Ergo hodierni codices Hebraei sunt corruptia 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1334">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>RESPONDEO: Augustinus ille Episcopus Gantuariensis, qui 
+      An<lb ed="#H" n="5" break="no"/>liam a Pesagianismo repurgavit, &amp; cujus exemplar illud fuisse 
+      cre<lb ed="#H" n="6" break="no"/>ditur, citciter aunos trecentos post Hieronymi mortem vixit. Si 
+      au<lb ed="#H" n="7" break="no"/>tem Hieronymi temporibus hi versus in Hebraeo textu nondum 
+      <lb ed="#H" n="8"/>fuerunt, quo autore post ejus mortem irrepsisse credemus? Illos 
+      au<lb ed="#H" n="9" break="no"/>tem versus Hebraicos. quos Anglicanum Psalterium habet, esse 
+      sup<lb ed="#H" n="10" break="no"/>posititios, adulterinos &amp; a malo ac indocto homine ex Latinis i1 
+      <lb ed="#H" n="11"/>Hebraicum sermonem conversos, facile probare licet. Nam 
+      inte<lb ed="#H" n="12" break="no"/>alios versus est &amp; hic: Nob ποu) PPοN DOrνo τυN 
+      <lb ed="#H" n="13"/>ascher pihem ala umara male: hoc num recte est dictum? num 
+      <lb ed="#H" n="14"/>phrasis Hebraica? num uspiam in Bibliis similia leguntur? Nam 
+      <lb ed="#H" n="15"/>adjectivum NyD male vel PINy meleah tam singulariter, quam 
+      <lb ed="#H" n="16"/>pluraliter in fine sententiae, ubi colon aut periodus est, nunquam col 
+      <lb ed="#H" n="17"/>locatur. Hebraici sermonis proprietas requirit, ut vox regens 
+      praece<lb ed="#H" n="18" break="no"/>dat eam, quae regitur. Non igitur licet Hebraice dicere, spiritu 
+      ple<lb ed="#H" n="19" break="no"/>nus, sapientia plenus, &amp;c. ut vid adjectivum plenus postponatur: sed  
+      <lb ed="#H" n="20"/>praecedere debet. Deinde in his versibus Omaxzal, ponitur 
+      pro<lb ed="#H" n="21" break="no"/>fortuna seu infortunio, cum stellam seu planetam significet: &amp; 
+      se<lb ed="#H" n="22" break="no"/>mel tantum in Bibliis reperitur, 2. Reg. 23. versic. 5. ubi sic legitur: 
+      <lb ed="#H" n="23"/>nobi ninipbi noi uni 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1382">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>ohyab omopam 
+      <lb ed="#H" n="25"/>:DDUII NU hamiatterim labbahal laschemesch ulejareach. 
+      <lb ed="#H" n="26"/>ulemazzaloth ulechol tzeba haschamajim, id est, qui fumabant 
+      Baali<lb ed="#H" n="27" break="no"/>Soli &amp; Lunae &amp; planetis &amp; omni exercitui coelesti. Quo in loco 
+      Plane<lb ed="#H" n="28" break="no"/>tae vocantur PPyIM mazgalotha themate Nypa nagal, id est, flut 
+      <lb ed="#H" n="29"/>xit, defluxit: quia illi, ut ait Rimchi, fluunt cursu suo. Apud Rab 
+      <lb ed="#H" n="30"/>binos quidem pro fortuna capitur: quia illi putarunt, omnia a pla¬ 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1402">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/> 
+               <lb ed="#H" n="32"/>netis pendere &amp; regi: atque ita etiam omnem fortunam bonam ver 
+      <lb ed="#H" n="33"/>malam planetis adscripserunt. Verum barbara Rabbinorum 
+      voca<lb ed="#H" n="34" break="no"/>bula ab Hebraeis sunt discernenda. Si interpres horum versuum, 
+      <lb ed="#H" n="35"/>linguae Hebraicae peritiam aliquam habuisset, aut mediocriter i1 
+      <lb ed="#H" n="36"/>Bibliis fuisset versatus, hunc versum a Paulo ex 59. cap. Jesaiae 
+      de<lb ed="#H" n="37" break="no"/>promtum esse, facile animadvertisset; iisdemque verbis, quibus 
+      Je<lb ed="#H" n="38" break="no"/>saias est usus, Latina illa Hebraice reddidisset. Quod autem 
+      se<lb ed="#H" n="39" break="no"/>cus factum est, id singulari providentiae divinae est adscribendum, ut 
+      <lb ed="#H" n="40"/>videlicet ab omnibus deprehendi posset, hos versus minime esse 
+      ger<lb ed="#H" n="41" break="no"/>manos, sed adulterinos &amp; supposititios. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1431">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Replicatio adversariorum: Responsum est N 
+      <lb ed="#H" n="43"/>poni in pausa: huic responsioni opponunt Psalmum 10. v. 7. in quo 
+      <lb ed="#H" n="44"/>post PPIN ala sequitur NyD male. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1442">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>RESPONDEO. In loco Psal. 10. 7. Nymale non est positum 
+      <lb ed="#H" n="46"/>in fine sententiae vel pausa, sed in medio sententiae: id quod inde 
+      li<lb ed="#H" n="47" break="no"/>quet, quia mox sequitur HITIP TIDIDa umirmoto vatoch, ad 
+      <lb ed="#H" n="48"/>quae NDPAle, quoque est referendum. Idque verum esse 
+      accen<lb ed="#H" n="49" break="no"/>tus Athoach, qui sub THTI] vAtoch positus est, satis arguit &amp; 
+      cor<lb ed="#H" n="50" break="no"/>vincit. Concludo hos versus juxta Latinas Phrases conscriptos, idque 
+      <lb ed="#H" n="51"/>ab eo qui Hebraicarum &amp; Chaldaicarum phrasium plane 
+      fueri<lb ed="#H" n="52" break="no"/>ignarus &amp; imperitus: ac propterea supposititios &amp; adulterinos esse. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1464">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Iterum instant: Aliter legebatur in textu Hebraico tempore 
+      Hiero<lb ed="#H" n="54" break="no"/>nymi, aliter nunc legitur: Ergo hodiernus textus est corruptus 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1474">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Antecedens sic probare nituntur. Nam Gen. 6. Hieronymus 
+      ver<lb ed="#H" n="56" break="no"/>tit, Non permanebit spiritus meus in homine: at hodie ad veritatem 
+      <lb ed="#H" n="57"/>Hebraicam vertunt, non litigabit, non contendet spiritus meus. Legun. 
+      <lb ed="#H" n="58"/>enim nunc PP NP) lo jadon, per Daleth, quod Hieronymus 
+      pe<lb ed="#H" n="59" break="no"/>Lamed legit.  
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1490">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>RESP. Imo Hieronymus in quaestionibus seu traditionibus in 
+      Ge<lb ed="#H" n="61" break="no"/>nesin contrarium asseverat: haec enim sunt verba Hieronymi: 
+      Ec<lb ed="#H" n="62" break="no"/>dixit Dominus Deus: non permanebit Spiritus meus in homines istos in 
+      <lb ed="#H" n="63"/>sempiternum, quoniam carnes sunt. In Hebraeo scriptum est: Non 
+      tudi<lb ed="#H" n="64" break="no"/>cabit spiritus meus in hominibus istis in sempiternum, quoniam 
+      car<lb ed="#H" n="65" break="no"/>sunt, hoc est, quia fragilis est in homine conditio, non eos ad aternos 
+      ser<lb ed="#H" n="66" break="no"/>vabo cruciatus, sed hic illis restituam, quod merentur: Ergo non severi. 
+      <lb ed="#H" n="67"/>tatem, ut in nostris codicibus legitur, sed clementiam Dei sonat, dum pec 
+      <lb ed="#H" n="68"/>cator hic pro suo scelere visitatur, &amp;c. Quid vanius dici potest, quam 
+      <lb ed="#H" n="69"/>affirmare Hieronymum in codicibus Hebraicis PPy? N) lo ialon,  
+      <lb ed="#H" n="70"/>legisse (quod significat, non pernoctabit, non autem, non permane 
+      <lb ed="#H" n="71"/>bit) cum expressis &amp; perspicuis verbis dicat, Hebraeis esse, non 
+      judi<lb ed="#H" n="72" break="no"/>cabit? Non igitur diversa lectio in causa est, quod quidam, non 
+      per<lb ed="#H" n="73" break="no"/>manebit: quidam vero, non iudicabit, vel non litigabit, sint 
+      interpre<lb ed="#H" n="74" break="no"/>tati: Eadem omnibus fuit lectio; sed diversam &amp; discrepantem 
+      inter<lb ed="#H" n="75" break="no"/>pretationem peperit, quod a diverso themate hoc vocabulum dedus 
+      <lb ed="#H" n="76"/>xerunt ac derivarunt. Qui transtulerunt, non permanebit, thema esse 
+      <lb ed="#H" n="77"/>Tnadan, putaverunt: cujus etiam Rimchi in lib. radicum in 
+      the<lb ed="#H" n="78" break="no"/>mate PInadan meminit. Qui vero verterunt non iudicabit, vel  
+      <lb ed="#H" n="79"/>non contendet (quae melior interpretatio est) thema esse censuerunt  
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1538">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Tdon quod significat, litigavit, tudicavit, disceptavit, litem intem 
+      <lb ed="#H" n="81"/>dit. Neque inter Graecos &amp; Latinos solum haec controversia fuit. 
+      <lb ed="#H" n="82"/>sed etiam ipsi inter se Rabbini contenderunt, ut testatur Aben Ezra. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1549">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Adhuc instant: Iudai in suae pertinaciae patrocinium &amp; Christiano 
+      <lb ed="#H" n="84"/>rum ludibrium atque Christi Domini nostri odium, Biblicos libros foede 
+      <lb ed="#H" n="85"/>contaminarunt. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1560">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Ergo textus Hebraicus non est authenticus. 
+      <lb ed="#H" n="87"/>RESP. Anticedens falsum est. Nam Judaei semper ingens studium 
+      <lb ed="#H" n="88"/>&amp; laborem impenderunt, ut sacros libros ab omni errore &amp; 
+      corru<lb ed="#H" n="89" break="no"/>ptione integros conservarent, eosque summa reverentia &amp; religione 
+      <!--cod-MkL9py-0102.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>coluerunt. Neque dubito, singulari &amp; arcano Dei consilio provisum 
+      <lb ed="#H" n="91"/>ac ejus nutu &amp; potestate administrari, ut tam pertinaci studio suos 
+      li<lb ed="#H" n="92" break="no"/>bros sinceros &amp; inviolatos Judaei retineant. Quod si ea perfidia ut 
+      <lb ed="#H" n="93"/>voluissent, quae vulgo fere ipsis impingitur; nulla de Christo 
+      myste<lb ed="#H" n="94" break="no"/>tia integra, nullae Prophetiae incorruptae, nullae promissiones 
+      inviola<lb ed="#H" n="95" break="no"/>cae, nihil denique, quo vel minimum saederentur, non vitiatum ab iis 
+      <lb ed="#H" n="96"/>relictum fuisset. Sed Judaeos hoc crimine vatareseum omne studium 
+      <lb ed="#H" n="97"/>eo contulerint, nervosque suos intenderint, ut nativam Bibliorum 
+      pu<lb ed="#H" n="98" break="no"/>ritatem custoditent) hujus ling. ae peritia claris vitis magis est explo 
+      <lb ed="#H" n="99"/>catum, quam ut mult s rationibus &amp; autorum testimonus fulciri 
+      de<lb ed="#H" n="100" break="no"/>beat, In Baba bathra legitur, Joabum occidisse praeceptorem suum 
+      <lb ed="#H" n="101"/>propterea quod fraudulenter fecerit opus Dei, cum legeret Deuter. 
+      <lb ed="#H" n="102"/>25. 19. Timche Zachar. Amalec: hoc est, delebis masculum Amalec: 
+      <lb ed="#H" n="103"/>cum legere debuisset, Becher Amalec, id est, memoria Amalec. 
+      Han<lb ed="#H" n="104" break="no"/>nistoriam tanqua insigne exemplum etiam Hieronymus in 6 Jesais. 
+      <lb ed="#H" n="105"/>caput commemorat: Et Capnio, alias Reuchiinus dictus, in suo 
+      libel<lb ed="#H" n="106" break="no"/>lo de arte Cabalistica. Quantus obsecro hic Judaeorum zelus? quam 
+      <lb ed="#H" n="107"/>tus puniendi hallucinantes &amp; corrumpentes lectionem rigor? Si Joab 
+      <lb ed="#H" n="108"/>vir bellicosus, &amp; nihil fere aliud, nisi arma tractans, perpetuumque 
+      mi<lb ed="#H" n="109" break="no"/>item agens, tanta reverentia &amp; religione veram Sacrae Scriptura 
+      <lb ed="#H" n="110"/>lectionem dignatus est, ut praeceptorem suum, quod subdole &amp; ex 
+      <lb ed="#H" n="111"/>malo proposito corrupte zachar pro zecher legeret, morte mulctam 
+      <lb ed="#H" n="112"/>dum censuerit: quid alios pios, religiosos, &amp; sanctos Judaeos fecisse 
+      <lb ed="#H" n="113"/>credendum est. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1630">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Replicatio adversariorum: Olim quidem magna pertinacia 
+      nati<lb ed="#H" n="115" break="no"/>vam sacrorum Bibliorum puritatem Iudaei custodierunt, summaque 
+      re<lb ed="#H" n="116" break="no"/>perentia observarunt: postea tamen, maxime post natum Christum, 
+      de<lb ed="#H" n="117" break="no"/>suo ardore multum remiserun¬ 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1644">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>RESP. Tantum abest, ut aliquid de suo rigore remiserint, ut, non 
+      <lb ed="#H" n="119"/>dicam summe religiosi, sed multo magis vehementer superstitiosi 
+      ex<lb ed="#H" n="120" break="no"/>stiterint. Etenim omnes potius tempestates &amp; procellas rerum 
+      adver<lb ed="#H" n="121" break="no"/>sarum subirent, &amp; morte cum omnium bonorum jactura eligerent,  
+      <lb ed="#H" n="122"/>quam unius vocabuli mutationem scientes admitterent. Tanta 
+      au<lb ed="#H" n="123" break="no"/>tem religione seu potius superstitione, Biblia Sacra observant, ut in 
+      <lb ed="#H" n="124"/>oco non satis mundo nunquam deronant, nec impuris &amp; pollutis 
+      <lb ed="#H" n="125"/>manibus contrectent: cavent diligentissime ne forte in terram 
+      deci<lb ed="#H" n="126" break="no"/>dant, &amp; hujusmodi multa alia, magna superstitione observant. Quod  
+      <lb ed="#H" n="127"/>si calu quodam in terram cadere contingat, omnes ejus loci Judaei ac 
+      <lb ed="#H" n="128"/>expiandum hoc commissum, ad jejunium adiguntur, cum 
+      persuasis<lb ed="#H" n="129" break="no"/>simum habeant hoc casu periculum portendi &amp; magni mali ac 
+      infor<lb ed="#H" n="130" break="no"/>tunii praesagium esse. Sed quid multis in his ostendendis immoror 
+      <lb ed="#H" n="131"/>cum ihil praetermittant, quantum cura, labore, vigiliis, consilio eniti 
+      <lb ed="#H" n="132"/>atque efficere possint, ut Thalmudicos libros, quibus secundum post 
+      <lb ed="#H" n="133"/>Biblia locum tribuunt: item Petuschim &amp; Medraschim, &amp; hujus 
+      ge<lb ed="#H" n="134" break="no"/>neris similes, sartos, tectos, conservent? Perscrutetur obsecro aliquis 
+      <lb ed="#H" n="135"/>an quicquam in his unquam, non dicam immutaverint, sed an unqua 
+      <lb ed="#H" n="136"/>hoc facinus in animum induxerint? Atqui ut a multis retro actis 
+      secu<lb ed="#H" n="137" break="no"/>lis exempla &amp; testimonia petantur, omnino supervacaneum esse 
+      judi<lb ed="#H" n="138" break="no"/>co. Quanta Anno 1510. &amp; sequentibus cum Pepericorni contra 
+      Jo<lb ed="#H" n="139" break="no"/>hannem Capnionem seu Reuchlinum pugnaret, Coloniae 
+      tragoedi<lb ed="#H" n="140" break="no"/> fuit excitata? Quid non Theologi Papistici contra Thalmud 
+      extre<lb ed="#H" n="141" break="no"/>mo conatu egerunt? quanta assiduitate &amp; sedulitate apud Divum 
+      <lb ed="#H" n="142"/>Maximilianum primum institerunt, ut Thalmudicos libros 
+      abole<lb ed="#H" n="143" break="no"/>ret? qui terrores?,suae pericula Judaeis tum impenderunt? quam 
+      gra<lb ed="#H" n="144" break="no"/>via &amp; acerba sunt perpessi? Sed ad recentiora veniam: quas 
+      tempesta<lb ed="#H" n="145" break="no"/>tes &amp; procellas superiore seculo in Italia sustinuerunt, cum omnibus 
+      <lb ed="#H" n="146"/>libris ademtis &amp; incendio absumtis, ipsi quoque extremo periculo 
+      ex<lb ed="#H" n="147" break="no"/>ponerentur? Neque tamen terror, nec vis, nec spes, nec metus, nec pro 
+      <lb ed="#H" n="148"/>missa, nec minae, nec tela, nec faces, ab hac proposita &amp; semel 
+      conce<lb ed="#H" n="149" break="no"/>ta opinione &amp; sententia eos depellere potuerunt, ut Thalmud suum 
+      <lb ed="#H" n="150"/>in aliquibus saltem locis, ubi absurdissimae opiniones traduntur, &amp; 
+      <lb ed="#H" n="151"/>manifestissimae contra religionem blasphemiae defenduntur, 
+      com<lb ed="#H" n="152" break="no"/>mutarent. Proinde si nostra tempestate, quam Christianorum 
+      imperio<lb ed="#H" n="153" break="no"/>subjecti sunt, &amp; iis parent, in Thalmudicis nugis tam superstitiosi &amp; 
+      <lb ed="#H" n="154"/>obstinati sunt, ut quamvis vim &amp; injuriam subire malint, quam vel 
+      <lb ed="#H" n="155"/>latum unguem a sua opinione recedere &amp; quicqua immutare: quam 
+      <lb ed="#H" n="156"/>to ardentiore studio Bibliorum rationem habent &amp; summa 
+      religio<lb ed="#H" n="157" break="no"/>e ea incorrupta conservant, quae apud illos multis parasangis 
+      reli<lb ed="#H" n="158" break="no"/>quos omnes libros praecedunt, &amp; quae ceu rem divinam religiosissime 
+      <lb ed="#H" n="159"/>venerantur atque adeo adorant. Sed quid opus est, rem omnibus 
+      pii<lb ed="#H" n="160" break="no"/>&amp; doctis pervulgatam, maxime vero iis, qui aliquando in congressum 
+      <lb ed="#H" n="161"/>&amp; colloquium Judaeorum venerunt, aut libros ipsorum perlegerunt, 
+      <lb ed="#H" n="162"/>prolixiore sermone exponere? Ego sane existimo, immo omnino fir 
+      <lb ed="#H" n="163"/>miter credo divinitus sic provisum, &amp; hanc voluntatem Judaeis a Deo. 
+      <lb ed="#H" n="164"/>immissam, ut Biblia sincera &amp; casta conservent. Insuper multis ab 
+      <lb ed="#H" n="165"/>ipsis Judaeis sancitum est legibus, eum. qui aliquid in Bibliis mutet, 
+      <lb ed="#H" n="166"/>peccatum committere inexpiabile. Quin &amp; hoc adjecerunt, si quis 
+      <lb ed="#H" n="167"/>vel ex ignorantia vel malitia &amp; impietate unum vocabulum mutet, 
+      ne<lb ed="#H" n="168" break="no"/>potus propterea mundus pereat &amp; inHPHJP ITIIH tohu vabohus 
+      <lb ed="#H" n="169"/>id est, in primum chaos rude in digestumque vertatur, periculum esse. 
+      <lb ed="#H" n="170"/>Has autem sententiae suae causas adduxerunt, quod credant, Deum 
+      <lb ed="#H" n="171"/>ropter solam Scripturam Sacram hunc mundum creasse: quam 
+      <lb ed="#H" n="172"/>ipsi opinionem variis modis probant. Si eroo Sacram Scripturam 
+      <lb ed="#H" n="173"/>quis corrumpat, propter quam mundus ex Judaeorum sententia est: 
+      <lb ed="#H" n="174"/>conditus, ipsum rurius in JPHHPHPHTt tohu vabohu redactum 
+      iri<lb ed="#H" n="175" break="no"/>ut ostendunt plurima loca in Thalmud, Bereschith Rabba, 
+      Tanhu<lb ed="#H" n="176" break="no"/>ma, &amp; aliis libris. In Maimoni quoque habetur, si vel unicum 
+      voca<lb ed="#H" n="177" break="no"/>bulum sit perperam scriptum, illud exemplar statim in vas fictile 
+      re<lb ed="#H" n="178" break="no"/>ponendum &amp; in aedibus studiosi cujusdam &amp; docti viri sepeliendum, no 
+      <lb ed="#H" n="179"/>quisquam eo unquam in posterum utatur: nisi forte Judaeus aliquis, 
+      <lb ed="#H" n="180"/>Rextrema paupertate laboras, exsistat, qui petat. Nam istius libri usum 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1785">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>non esse ei denegandum, statutum fuit: sed hac tamen conditiones 
+      <!--cod-MkL9py-0103.xml-->
+      <pb ed="#H" n="78"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>ut liberos solummodo suos ex co instituat, nec in Synagogam un 
+      <lb ed="#H" n="2"/>quam afferat, aut alii usui accommodet. Hinc est, quod tantus sit 
+      <lb ed="#H" n="3"/>Sibliorum consensus &amp; convenientia, ut codex manu alicujus Judae, 
+      <lb ed="#H" n="4"/>conscriptus, demonstrari nequeat, qui aliquid habeat, quod in aliis  
+      <lb ed="#H" n="5"/>libris desideretur, aut in quo desit, quod alii codices contineant, prae 
+      <lb ed="#H" n="6"/>serquam quae ad Massoreth &amp; Reri ac Rethibpertinent. Sed quo 
+      <lb ed="#H" n="7"/>niam Bellarminus ipsemet lib secundo de verbo Dei cap. secundo ad 
+      <lb ed="#H" n="8"/>versus alios Papistas nempe Jacobum Episcopum Christopolitanum 
+      <lb ed="#H" n="9"/>&amp; Canum Jesuitam gravissimis, ut ipse vocat, argumentis probat, 
+      <lb ed="#H" n="10"/>udaeos nequaquam odio Christianae fidei multa Scripturarum loca 
+      <lb ed="#H" n="11"/>depravasse &amp; corrupisse: plura hic addere, supervacuum judice 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1822">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Porro praeter jam recitata loca, quae in textu Hebraeo corrupta 
+      <lb ed="#H" n="13"/>esse contendunt, profert Bellarminus alia quaedam: veluti Jesai. 9. 6. 
+      <lb ed="#H" n="14"/>ajunt legendum esse, Hoc est nomen quod vocabunt eum, Deus fortis, 
+      <lb ed="#H" n="15"/>Pater futuri seculi; ut Calvinus contendat: Inst. lib. 1. cap. 13. sect. 9. 
+      <lb ed="#H" n="16"/>inquiens: Oblatrant hic quoque Judaei, &amp; sic lectionem invertunt . 
+      <lb ed="#H" n="17"/>Hoc est nomen quo vocabit eum Deus fortis, Pater futuri seculi, &amp;c. 
+      <lb ed="#H" n="18"/>ut hoc duntaxat Filio reliquum faciant, Principem vocari pacis. At 
+      <lb ed="#H" n="19"/>in fontibus Hebraicis est JDU NTDrI vajura schemo, hoc est, &amp; 
+      <lb ed="#H" n="20"/>vocabit nomon eius. Ergo fontes Hebraici non sunt puri¬ 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1846">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Argumentatio syllogistice proposita talis est: 
+      <lb ed="#H" n="22"/>In quibus libris aliter est legendum, quam vero in iis exstat, ii 
+      procu<lb ed="#H" n="23" break="no"/>dubio sunt corrupti &amp; nequaquam ubique puri¬ 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1857">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>At in Hebratis libris veteris Testamenti aliter est legendum, quam 
+      <lb ed="#H" n="25"/>vero in iis exstat: 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1866">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>Ergo Hebraici libri V. Testamenti sunt corrupti &amp; non ubique 
+      puri<lb ed="#H" n="27" break="no"/>Assumtio negatur: Ea igitur probatur hoc modo, quia Calvinus 
+      <lb ed="#H" n="28"/>contendat legendum esse vocabitur, &amp; non vocabit. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1878">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>RESP Calunus non contendit esse legendum aliter quam exstat 
+      <lb ed="#H" n="30"/>in textu Hebraeo: sed Judaeos refutat, qui interpretatione sua 
+      textum<lb ed="#H" n="31" break="no"/>illum pervertunt, &amp; Epitheta illa, Deus fortis, Pater futuri seculi, &amp;c. 
+      <lb ed="#H" n="32"/>ad Patrem referunt cum ad Messiam Filium illum Dei pertineant. 
+      <lb ed="#H" n="33"/>Proinde non ad verbum, sed ad sensum evidentiorem (qui optimus 
+      <lb ed="#H" n="34"/>est, vel teste Hieronymo, interpretandi modus) vertit vocabitur: quia 
+      <lb ed="#H" n="35"/>verba tertiae personae utrovis numero apud Hebraeos impersonaliter 
+      acce<lb ed="#H" n="36" break="no"/>pta, modo active nobis, modo passive ad evidentiam reddi oportet. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1900">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Alius locus. 
+      <lb ed="#H" n="38"/>Jerem. 23. 6. vult ibidem Calvinus esse legendum, Hoc est nomen 
+      <lb ed="#H" n="39"/>eius, quo vocalunt eum Iehova iustitia nostra. At fons Hebraeus 
+      con<lb ed="#H" n="40" break="no"/>stanter habet, vocabit eum 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1913">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>RESP. Calvinus in loco citato prorsus non contendit quomodo 
+      <lb ed="#H" n="42"/>sit legendum in textu Hebraeo, ut falso fingit Jesuita. Calvini enim 
+      <lb ed="#H" n="43"/>verba haec sunt: Nihil dilucidius Ieremiae loco quaeri potest, hoc fore 
+      no<lb ed="#H" n="44" break="no"/>men quo vocabitur germen Davidis, Iehova iustitia nostra. Deindo 
+      <lb ed="#H" n="45"/>Franciscus Vatablus, Xantes Pagninus, &amp; Arias Montanus verterun. 
+      <lb ed="#H" n="46"/>vocabunt: &amp; recte, quum verba Hebraa impersonaliter accepta, 
+      pos<lb ed="#H" n="47" break="no"/>sint Latine utrovis numero reddi. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1933">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Alius locus 
+      <lb ed="#H" n="49"/>Psal. 22. 17. nemo Christianorum est, quin legat: Foderunt manus 
+      <lb ed="#H" n="50"/>meas &amp; pedes meos. In fontibus vero est loco foderunt P&amp; &amp; caart 
+      <lb ed="#H" n="51"/>sicut leo¬ 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1946">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>RESP. Etsi in vulgaribus exemplaribus habetur PJNe caari 
+      <lb ed="#H" n="53"/>quod sonat, tanquam leo: tamen primo Judaeorum malitia hic 
+      Psal<lb ed="#H" n="54" break="no"/>mi 22. locus corruptus non est: 1. quia ipsimet Massoritae, qui 
+      Ju<lb ed="#H" n="55" break="no"/>daei fuerunt, etsi in multis exemplaribus scriptum sit PJN&amp; caari: 
+      <lb ed="#H" n="56"/>tamen testantur, se in bona librorum emendatiorum parte reperisse 
+      <lb ed="#H" n="57"/>scrip um TEReg caris, hoc est, foderunt. 2. quia si Judaei loca de 
+      <lb ed="#H" n="58"/>Messia corrumpere voluissent, alia quoque &amp; clariora corrupissent. 
+      <lb ed="#H" n="59"/>nempe caput 53. Jesaiae cap. 9. Danielis &amp; alia Papistae potius 
+      cor<lb ed="#H" n="60" break="no"/>rumpunt loca de Messia, ut locum illum Genes. 3. v. 15. de semine 
+      <lb ed="#H" n="61"/>mulieris. 3. quia testantur ipsimet Papistae, multas inveniri editiones. 
+      <lb ed="#H" n="62"/>Hebraicas, in quibus legaturPJNOcari, ut Andradius Defense 
+      <lb ed="#H" n="63"/>Trident. lib. 4. &amp; Petrus Galatinus lib. 8. c. 17. Etiam Iohannes 
+      Isa<lb ed="#H" n="64" break="no"/>acus lib. 2. contra Lindanum scribit, se ejusmodi editionem vidisse. 
+      <lb ed="#H" n="65"/>R. Iacob filius Chajum in libro Massoreth, litera Aleph Resch, ait: In 
+      <lb ed="#H" n="66"/>parte librorum emendatiorum inveni, scribitur Caru, &amp; legitur Caari 
+      <lb ed="#H" n="67"/>Et ibidem subjungit: Enimvero quaesivi hanc vocem PJMo 
+      inter<lb ed="#H" n="68" break="no"/>eas vol es quae scribuntur per vav in fine dictionum &amp; leguntur 
+      per<lb ed="#H" n="69" break="no"/>jod: sed non inveni hoc in earum numero perscriptum. Biblia 
+      Com<lb ed="#H" n="70" break="no"/>plutensia habent PINᾧ caris, Codex ille Biblicus editus est cum 
+      <lb ed="#H" n="71"/>privilegio Papae Leonis X. Anno 1520. procurante Cardinali 
+      Xi<lb ed="#H" n="72" break="no"/>menia. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e1996">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Secundo, etiamsi in omnibus editionibus esset PINᾧ caari: 
+      ta<lb ed="#H" n="74" break="no"/>men inde non sequeretur, textum Hebraicum esse corruptum. 
+      Se<lb ed="#H" n="75" break="no"/>potius statuenda esset Ellipsis verbi PINOeari, id est, foderunt, si 
+      <lb ed="#H" n="76"/>ve alterius alicujus, quod sensus praesentis loci requiteret: 
+      Cujusmo<lb ed="#H" n="77" break="no"/>di verborum Ell pses sunt usitatissimae in Scriptura, praesertim in 
+      <lb ed="#H" n="78"/>querens; cujus rei exemplum esse potest Psal. 120. 7. Ego pacem (sub 
+      <lb ed="#H" n="79"/>intellige, diligo;) ut cum loquor, ipsi ad bellum (supple, conclamant. 
+      <lb ed="#H" n="80"/>Sensus igitur esset, sicut leo manus mens &amp; pedes meos, videlicet, 
+      per<lb ed="#H" n="81" break="no"/>forarunt: ut ita similitudine ista quaeratur Dominus, manus &amp; 
+      pede<lb ed="#H" n="82" break="no"/>sibi tanquam leonis dentibus esse perforatos. Nec est ab hoc aliena 
+      <lb ed="#H" n="83"/>haec comparatio: nam paulo ante vers. 14. hostes suos seoni diserte 
+      <lb ed="#H" n="84"/>comparavit, inquiens: Dilatant contra me os suum, tanqua leo rapiens 
+      <lb ed="#H" n="85"/>&amp; rugιενς, Massora certe in margine notat: Nyθυγγ PITεα  
+      <lb ed="#H" n="86"/>beth bithre lischanajja, id est, duo esse in gemino significate. Jesa. 38. 
+      <lb ed="#H" n="87"/>13. PANᾧ sicut seo sic conteret omnia ossa eius. In gemino significato, hoc  
+      <lb ed="#H" n="88"/>est, ut non tantum significet, sicut leo, sed etiam verbum aliquod 
+      in<lb ed="#H" n="89" break="no"/>ludat. Utramque significationem Targhum complectitui quod 
+      ha<lb ed="#H" n="90" break="no"/>bet: )θῶτῆε VPNε NPINOEPIIPPIMnicotin hecb ccaja. 
+      <!--cod-MkL9py-0103.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>niedai veriglai: id est, perfoderunt sic velut leo manus meas &amp; 
+      pede<lb ed="#H" n="92" break="no"/>meos. Etsi igitur quaedam exemplaria habent Caari, non tamen 
+      o<lb ed="#H" n="93" break="no"/>mnia. Non licet autem sic argumentati: Quaedam exemplaria sum 
+      <lb ed="#H" n="94"/>corrupta: Ergo omnia. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2054">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Alius locus 
+      <lb ed="#H" n="96"/>Psal. 19. 5. Hebraei codices habent; In omnem terram exivit Dο 
+      <lb ed="#H" n="97"/>lavvam, id est, linea seu perpendiculum eorum: at septuaginta 
+      inter<lb ed="#H" n="98" break="no"/>pretes &amp; Paulus Rom. 10. 18. habent φθογζος, id est, sonus eorum. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2067">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Ergo aut Hebraei codices sunt corrupti: aut Paulus reprehendendus. 
+      <lb ed="#H" n="100"/>RESP. Nec Hebraei codices sunt corrupti, nec Paulus est 
+      repre<lb ed="#H" n="101" break="no"/>hendendus. Apostolus enim non allegat verba proprie, sed 
+      anagogi<lb ed="#H" n="102" break="no"/> 
+               <lb ed="#H" n="103"/>pedit, quo minus nomen 5HI Eavvah proprie significet lineam seu 
+      <lb ed="#H" n="104"/>perpendiculum, metaphorice autem sonum? Non ergo vitium est. 
+      <lb ed="#H" n="105"/>textus Hebraici, quod Bellarminus censoria sua virgula definit: non 
+      <lb ed="#H" n="106"/>Pauli interpretantis: sed officium Apostolicae industriae, quum 
+      per<lb ed="#H" n="107" break="no"/>eundem spiritum verba Davidis de creatione prima dicta, 
+      accom<lb ed="#H" n="108" break="no"/>modat ad conditionem gratiae Evangelicae: ut sit sensus, In omnem 
+      <lb ed="#H" n="109"/>terra exivit linea seu delineatio eorum, instar soni pervadentis 
+      mun<lb ed="#H" n="110" break="no"/>dum. Atque id fatetur ipsemet Genebrardus Papista in suis scholiis in 
+      <lb ed="#H" n="111"/>munc locum, in quibus ait nomen Hebraicum significare quidem 
+      li<lb ed="#H" n="112" break="no"/>eam, sed septuaginta interpretes respexisse ad sensum, quem &amp; 
+      <lb ed="#H" n="113"/>Apostolus sit secutus. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2104">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Instantia. Verisimile est, olim in Hebraico textu fuisse Dy( Eolam: 
+      <lb ed="#H" n="115"/>at nunc mutatum esse T lamed in Vav, atque ita corruptum textum. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2113">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>RESP. Petitur principium. Nam ita non Rolam sed Rallam esset, 
+      <lb ed="#H" n="117"/>legendum. Xillam autem significat facilitatem vel levitatem eorum. 
+      <lb ed="#H" n="118"/>Rolam autem non aliter quam cum Vav scribi deberet, hoc modo 
+      <lb ed="#H" n="119"/>DyJD. Nam sine Vav tantum in sex locis scribitur certis de causis; 
+      <lb ed="#H" n="120"/>alibi semper cum Vav. Ab Aquila qui fuit ante Hieronymum vertitur: 
+      <lb ed="#H" n="121"/>ζανών: ut Flaminius vir doctissimus annotavit in suo Psalterio. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2131">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Alius locus. 
+      <lb ed="#H" n="123"/>Interdum desunt integrae sententiae in Hebraeo, cum non desint nec in 
+      <lb ed="#H" n="124"/>versione L2X. nec in Hieronymi translatione. Exemplum habemus 
+      <lb ed="#H" n="125"/>Exod. 2. ubi deest totum illud: Alium quoque genuit, &amp; vocavit nomen 
+      <lb ed="#H" n="126"/>tius Eliezer, dicens: Deus patris mei auxiliatus est mihi, &amp; liberavit 
+      <lb ed="#H" n="127"/>me de manu Pharaonis: 
+      <lb ed="#H" n="128"/>RESP. In hoc loco Latini potius quam Hebraici codices corrupt. 
+      <lb ed="#H" n="129"/>sunt. Nam ille obeliscus, quem his verbis Latini codices, etiam 
+      Lo<lb ed="#H" n="130" break="no"/>panienses, inustum habent, totam sententiam etiam esse de libris 
+      <lb ed="#H" n="131"/>atinis tollendam arguit, idque doctiores &amp; sinceriores etiam 
+      Pa<lb ed="#H" n="132" break="no"/>istae confitentur: Sic enim Catetanus in commentariis in hunc 
+      lo<lb ed="#H" n="133" break="no"/>cum scribit: Tota ista particula de secundo filio superflua est. Versus 
+      <lb ed="#H" n="134"/>autem ille capiti secundo insertus, ad capit. 18. Exodi pertinet. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2164">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>Alius locus allatus a ilhelmo Lindano. 
+      <lb ed="#H" n="136"/>Iudeai, teste Iustino, nobilem illam prophetiam de Messia 
+      crucifigen<lb ed="#H" n="137" break="no"/>do, &amp; a ligno paganis regnaturo, in Psalm. 95. (vel 96. juxta 
+      nume<lb ed="#H" n="138" break="no"/>rationem Hebraicam) mutilarunt. Nam cum in Psalmo sit, Regna. 
+      <lb ed="#H" n="139"/>vit a ligno Deus: τὸ, δσο ξυλα, inquit, αφηκαν ει Ιηδαίον: a ligno, sustus 
+      <lb ed="#H" n="140"/>lerunt Iudaei. Ergo textus Hebraicus non est purus. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2183">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>RESP. Primo Iustinus nusquam scripsit, a Judaeis textum 
+      He<lb ed="#H" n="142" break="no"/>braicum esse corruptum, sed textum Graecum LXX. interpretum 
+      <lb ed="#H" n="143"/>Verba Iustini haec sunt in Dialogo cum Tryphone: Ac, inquit, quod 
+      <lb ed="#H" n="144"/>illi multos ac integros locos illarum ex translatione eorum, qui cum 
+      Pto<lb ed="#H" n="145" break="no"/>lemaeo fuere, seniorem sustulerint, in quibus clare hunc ipsum crucifixum 
+      <lb ed="#H" n="146"/>Deum &amp; hominem esse, eumque in cruce pendere &amp; mori pronunciatum  
+      <lb ed="#H" n="147"/>isse ostenditur, scire vos volo. Haec Iustinus. Nec usquam alibi scribit 
+      <lb ed="#H" n="148"/>quicquam de corruptione textus Hebraici 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2205">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>Secundo, si verum est, Judaeos plagium adeo nefarium commisisse 
+      <lb ed="#H" n="150"/>&amp; haec verba (a ligno) ex Psal. 96. sustulisse; qui ergo fit, quod neque 
+      <lb ed="#H" n="151"/>Graeca neque Vulgata Latina, neque etiam D. Hieronymi versit. 
+      <lb ed="#H" n="152"/>haec verba habeant? In Romana quidem Psalmodia (ut vocant  
+      <lb ed="#H" n="153"/>haec verba sunt inserta: sed in translationibus in Ecclesia usitatis non 
+      <lb ed="#H" n="154"/>eperiuntur.  
+      <lb ed="#H" n="155"/>Tertio, Faber hanc objectionem dilucide solvit, cujus autoritatem 
+      <lb ed="#H" n="156"/>citat quoque in Psalterio quinque linguarum Augustinus Iustinianus 
+      <lb ed="#H" n="157"/>Episcopus Nebensis, vir multatum linguarum peritia celebris. Nam 
+      <lb ed="#H" n="158"/>sic ex Fabro in margine notavit: Deus regnavit: Quod legitur it 
+      <lb ed="#H" n="159"/>Romana Psalmodia, Regnavit a ligno Deus, non est de Hebraica 
+      ve<lb ed="#H" n="160" break="no"/>citate, sed Christiana devotione, ut arbitror additum. Secutus est, 
+      <lb ed="#H" n="161"/>vero hanc paraphrasticam editionem Theodulphus, qui nobile pase 
+      <lb ed="#H" n="162"/>ionis carmen ac devotum composuit, ubi dixit: Impleta sunt, quae 
+      <lb ed="#H" n="163"/>cecinit David fideli carmine, ditens, in nationibus regnavit a ligne 
+      <lb ed="#H" n="164"/>Deus. Haec ex Tabro Episcopus Nebensis. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2244">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Alius locus. 
+      <lb ed="#H" n="166"/>Psal. 4. 3. Vetus translatio habet: Filii hominum usque quo gravi 
+      cor<lb ed="#H" n="167" break="no"/>de, ut quid? Hebraitus vso textus habet, filii viri, quousque gloriam 
+      <lb ed="#H" n="168"/>meam ad ignominiam? Ergo textus Hebraicus est corruptus 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2257">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>RESPONDEO. Primo ut vera sit conclusio. necesse est quo- 
+      <lb ed="#H" n="170"/>que hanc propositionem esse veram: Ubicunque discrepat 
+      He<lb ed="#H" n="171" break="no"/>praicus textus a vetere translatione, ibi est corruptus. At quis 
+      sa<lb ed="#H" n="172" break="no"/>mus eam concedat? cum potius argumentum per ιαιον inverti 
+      de<lb ed="#H" n="173" break="no"/>beat: Ubiciinque discrepat Hebraicus textus a vetere translatione, 
+      <lb ed="#H" n="174"/>ibi vetus tianslatio est corrupta. 
+      <!--cod-MkL9py-0104.xml-->
+      <pb ed="#H" n="79"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Iustantia. At vera lectio est: PDγ9lyνJλa hebode leb 
+      lam<lb ed="#H" n="2" break="no"/>nah, quam Iudaeia beth in caphmutando, &amp; duab. dictionibus. 
+      PHU<lb ed="#H" n="3" break="no"/>Pylebsammah in unam PHPyDP lichlimmah contrahendo 
+      de<lb ed="#H" n="4" break="no"/>Pravarunt. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2290">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>RESP. Petitio est principii. Nam primo causa nulla fuit, cur iste 
+      <lb ed="#H" n="6"/>locus a Judaeis corrumperetur, cum nullum hic de Christo mysterium 
+      <lb ed="#H" n="7"/>sit, quo urgeri queant. Quid enim Judaeorum refert, sive dicas: filii 
+      vi<lb ed="#H" n="8" break="no"/>ri, quo usque gloria mea ad ignominiam? sive dicas, filii hominum 
+      quous<lb ed="#H" n="9" break="no"/>que gravi corde? Si quis dixerit casu &amp; imperitia irrepsisse, nimirum 
+      <lb ed="#H" n="10"/>quod aliquando Sbeth pro  Caph quidam scripserit &amp; ex 
+      duabu<lb ed="#H" n="11" break="no"/>dictionibus fecerit unam; manifeste ineptiot. Petinde enim est, ac si 
+      di<lb ed="#H" n="12" break="no"/>cas: Unus Iudaeus erravit: ergo omnes errarunt. Quod quam sit 
+      ab<lb ed="#H" n="13" break="no"/>surdum, quis non videt 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2314">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Deinde istua PyPPy DUypHJλS hebode leb lammah &amp; alecuticum 
+      <lb ed="#H" n="15"/>vel quidvis potius est, quam Hebraicum: nec ex eo fieri potest, 
+      gra<lb ed="#H" n="16" break="no"/>nes corde, ut quid? Nam TJ cabod denotat honorem, gloriam 
+      <lb ed="#H" n="17"/>dignitatem, I. 
+      <lb ed="#H" n="18"/>ficilem Jama  
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2331">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>
+      pp<lb ed="#H" n="20" break="no"/>Exod. 17. &amp; bis apud Ezechiel. cap. 3. legitur. Nec alio modo in 
+      regi<lb ed="#H" n="21" break="no"/>mine plurali proferri potest: igiturPHI. 
+      <lb ed="#H" n="22"/>ves: Hda cabod vero in totis Sibliis plurali numero non usurpatur.  
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2344">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Praeterea Ja cabed ante Py leb non aliter, quam in statu ab 
+      <lb ed="#H" n="24"/>soluto ponitur, nec unquam in regimine sive singulariter, sive 
+      plura<lb ed="#H" n="25" break="no"/>liter construitur? 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2355">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>Tertio, Hieronymus etiam aliter transtulit, quam habet vulgata 
+      e<lb ed="#H" n="27" break="no"/>ditio: videl. Filii viri, usque quo inclyti mei ignominiose diligitis vani 
+      <lb ed="#H" n="28"/>tatem? Nihil differt ab Hebraeo, nisi quod inclyti mei adjective &amp; 
+      in<lb ed="#H" n="29" break="no"/>plurali posuit, quod in Hebraeo substantive &amp; singulariter est 
+      pos<lb ed="#H" n="30" break="no"/>tum. Nam nomen TJa cabod in plurali numero non reperitur? 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2371">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>INSTANTIA. Atqui TMcabed ante PJDpe, &amp; 
+      pytyQla<lb ed="#H" n="32" break="no"/>chin in regimine ponitur, ut Exod.4. pJUsἐy JDD] τιοθ
+      he<lb ed="#H" n="33" break="no"/>bad peh uchbad laschon: item Exod. 7. PHPID PPTλa cabed  
+      <lb ed="#H" n="34"/>leb Parho, id est, difficile cor Pharaonis: 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2384">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>RESP. Concedo: nam hujus rei sunt exempla: sed yH 
+      <lb ed="#H" n="36"/>Eebad leb nusquam ostendetur.  
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2393">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Alius locus a Lindano adductus 
+      <lb ed="#H" n="38"/>Psal. 73. 10. Vulgata habet, &amp; dies pleni invenientur in eis: 
+      Hierony<lb ed="#H" n="39" break="no"/>mus vero, &amp; quis plenus invenietur in eis: Hebraei autem, &amp; aquae 
+      ple<lb ed="#H" n="40" break="no"/>ni (vid. poculi) promuntur seu exprimuntur eis. Ergo aliter olim lege, 
+      <lb ed="#H" n="41"/>runt: aciter nunc legunt Hebrai: Et per consequens corruptus est 
+      hodi<lb ed="#H" n="42" break="no"/>ternus textus Hebraicus. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2412">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>RESP. Negari non potest, Hieronymum iisdem literis vocabu 
+      <lb ed="#H" n="44"/>lum hoc scriptum legisse quibus &amp; nunc temporis constat. Nam sivi 
+      <lb ed="#H" n="45"/>legas? Qume sive? Dumi caedem ubique sunt literae, sed vocalium 
+      <lb ed="#H" n="46"/>varietas diversam parit lectionem. Sed, inquis, muta)vav in? Jod 
+      in<lb ed="#H" n="47" break="no"/>vocabulo? Dume &amp; lege PB jeme, tum textus Hebraicus cum 
+      <lb ed="#H" n="48"/>vulgata translatione (quae habet, &amp; dies) optime conveniet. Sed &amp; 
+      <lb ed="#H" n="49"/>hoc falsum est: nam etsi talis mutatio fiat tamen Hebraicus textus 
+      <lb ed="#H" n="50"/>cum vulgata versione non congruet. Nam cum Vetus translatio 
+      lo<lb ed="#H" n="51" break="no"/>gat, Et dies, unde quaeso illud (ο) eruetur, si Vav Copulativum in 
+      PJo<lb ed="#H" n="52" break="no"/>commutetur? nisi forte adhuc aliud Vav aliunde mutueris, &amp; PDype 
+      <lb ed="#H" n="53"/>vime legas. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2441">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Alius locus ab eodem adductus. 
+      <lb ed="#H" n="55"/>Gen. 49. v. 10. olim legebatur ex textu Hebraeo, Donec veniat qui 
+      <lb ed="#H" n="56"/>mittendus est; at nunc legunt, donec veniat Schilo: cum illo magis 
+      ur<lb ed="#H" n="57" break="no"/>geri possint Iudei, quam hoc. Ergo hodiernus textus Hebraicus non est? 
+      <lb ed="#H" n="58"/>purus. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2457">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Probatur olim lectum fuisse aliter: nam Hieronymus interpretatus 
+      <lb ed="#H" n="60"/>est, qui mittendus est 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2466">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>RESP. Praeter Hieronymum alius nemo sic est interpretatus 
+      <lb ed="#H" n="62"/>Nam 70, interpretes habent ἐως αυελόη τα ἀποκειμδυα αυτῳ, hoc est, 
+      <lb ed="#H" n="63"/>donec veniant reposita ei. Et translatio quaedam Lutetiae impressa 
+      <lb ed="#H" n="64"/>habet: Cui rognum illud perenne repositum est. Ex qua 
+      interpretatio<lb ed="#H" n="65" break="no"/>ne luce clar? est, septuaginta interpretes iisdem literis PPyrp. Schi 
+      <lb ed="#H" n="66"/>soh legisse, quibus nunc in textu Hebraeo scriptum cernitur. 
+      Existima<lb ed="#H" n="67" break="no"/>verunt autem, TThe in fine positum esse loco Jvav, ut aliquoties fier 
+      <lb ed="#H" n="68"/>solet. Huic sententiae suffragatur quoque Chaldaeus interpres, qui 
+      trans<lb ed="#H" n="69" break="no"/>tulit, Donec veniat Messias, cujus est imperium. Hanc eandem 
+      senten<lb ed="#H" n="70" break="no"/>tiam amplectuntur etiam Rabbini antiquissimi, quorum verba sunt: 
+      <lb ed="#H" n="71"/>Rex Messias, cujus est regnum. Ita Schilo Messias est sic dictus vel 
+      qua<lb ed="#H" n="72" break="no"/>si flyy schailo, munera ei: vel a PHyU schiljah, quod debuerit, 
+      <lb ed="#H" n="73"/>Messias nasci infans: vel a DPyUU scalom, id est, pax, quod pacem 
+      <lb ed="#H" n="74"/>toti mundo inferro debuerit. Hujus rei facit quoque mentionem 
+      Ger<lb ed="#H" n="75" break="no"/>ardus Veltvvice Caroli V. Augusti Consiliarius &amp; Legatus 
+      Hebrai<lb ed="#H" n="76" break="no"/>ce doctissimus, qui tam inter Christianos, quam Judaeos paucissimo. 
+      <lb ed="#H" n="77"/>fui similes habuit Hebraicae &amp; Chaldaicae linguae cognitione, &amp; qui 
+      <lb ed="#H" n="78"/>integrum librum Hebraice conscripsit, optimis &amp; selectissimis 
+      phra<lb ed="#H" n="79" break="no"/>sibus. In eo libro scribit, quod Rabbi Jochanan, Messia vocet Siloha 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2512">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Instantia. At Hieronymus hoc loco legit PPyUschiloach, ut Jes. 8. 
+      <lb ed="#H" n="81"/>v.6. habetur: Iudaei vere Pcheth in TThe mutarunt. Nam alioquint  
+      <lb ed="#H" n="82"/>etiam Pcheth &amp; The inter se commutantur: ut Cint. Cant. cap. 1 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2523">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>RESP. Primo. Etsi olim fuisset in vocabulo POUPP: rechitenus. 
+      <lb ed="#H" n="84"/>deprehenditur: (quod tamen non creditur) PPIO schilbach: tamen 
+      <lb ed="#H" n="85"/>inde non confici posset. Qui mittendus est: hoc enim esset: PPyyPy 
+      <lb ed="#H" n="86"/>ρον αθp, ascher [vel escheij jesch lehischschaleth. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2537">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Secundo, non potest hic locus comparati cum loco Jes. 8. quia 
+      ibi<lb ed="#H" n="88" break="no"/>Siloach fluvii nomen est: non Messiae. Sed de hac re leg tur judicium 
+      <!--cod-MkL9py-0104.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>Petri Galatini viri doctissimi, lib. 4. c. 4. de arcanis Catholicae vers 
+      <lb ed="#H" n="90"/>tatis 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2555">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Alius locus. 
+      <lb ed="#H" n="92"/>Elias Levita testatur tabulis 2. Massoreth, oration. 1. literam Iod 
+      lo<lb ed="#H" n="93" break="no"/>cis 52. scribi initio dictionum &amp; legi Vav: contra locis 56. vav scribi &amp; 
+      <lb ed="#H" n="94"/>legi jod. Item70, locis jod in medio vocabuli scribi &amp; legendum vav, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2568">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Ergo textus Hebraicus est corruptus: 
+      <lb ed="#H" n="96"/>RESP. In Bibliis propter aliquod mysterium, vel etiam 
+      aliqua<lb ed="#H" n="97" break="no"/>do Euphoniae vel dialecti gratia Jod pro vav &amp; contra vav pro Jod est 
+      <lb ed="#H" n="98"/>positum: Interdum quoque inti grum vocabulum pro alio: itaque 
+      o<lb ed="#H" n="99" break="no"/>mnia in Massoreth diligentissime sunt annotata, quoties &amp; quibus in 
+      <lb ed="#H" n="100"/>locis accidant. Porro Magistri Massoreth vel etiam Synagogae 
+      ma<lb ed="#H" n="101" break="no"/>gnae de illis literis vel vocabulis non dubitarunt, alioquin non 
+      indi<lb ed="#H" n="102" break="no"/>cassent, quomodo esset legendum, &amp; quoties &amp; quibus in locis hoc 
+      <lb ed="#H" n="103"/>contingeret: sed potius judicium suum suspendentes, tem ipsam in 
+      <lb ed="#H" n="104"/>dubio reliquissent. Ut Jesa. 9. 6. in medio dictionis Mem finale est 
+      in<lb ed="#H" n="105" break="no"/>sertum; idque non dubii causa: nam vel pueris notum est, Mem finale 
+      <lb ed="#H" n="106"/>in medio dictionis consistere non posse: Sed voluit Jesaias, ut docet 
+      <lb ed="#H" n="107"/>R. Schammai in libro Sanhedrin, per CMem clausum significare, 
+      <lb ed="#H" n="108"/>occulto quodam supputationis artificio, numerum annorum a 
+      tem<lb ed="#H" n="109" break="no"/>pore suo, usque ad tempus Messiae: tum voluit eo innuere mysterium 
+      <lb ed="#H" n="110"/>vocationis gentium absconditum a seculo. Quia enim illic vaticina 
+      <lb ed="#H" n="111"/>tur Propheta de amplificatione regni &amp; Ecclesiae Christi, quae 
+      facien<lb ed="#H" n="112" break="no"/>da erat vocatione &amp; accessione gentium ad gratiam Evaugelii: hoc 
+      <lb ed="#H" n="113"/>autem absconditum erat, &amp; absconditum mansurum usque ad 
+      Chri<lb ed="#H" n="114" break="no"/>stum: ideo Propheta non sine mysterio hoc voluit innuere litera 
+      <lb ed="#H" n="115"/>clausa in medio dectionis, praeter consuetudinem linguae sanctae. 
+      Sic<lb ed="#H" n="116" break="no"/>contra Nehem. 2. 13. CMem apertum usurpatur in fine dictionis 
+      <lb ed="#H" n="117"/>voluit enim Propheta rupturam civitatis &amp; murorum ippa literae 
+      fi<lb ed="#H" n="118" break="no"/>tura pingere atque ob oculos ponere, ut ostenderet urbem quae antes 
+      <lb ed="#H" n="119"/>munitissima fuerat, ut quae undique bene clausa ac muris firmissimis 
+      <lb ed="#H" n="120"/>circumdata fuisset, nunc misere esse laceratam &amp; irruptionibus 
+      ho<lb ed="#H" n="121" break="no"/>stium patere. Idem judicium est quoque de reliquis. Ide fit in aliis 
+      lin<lb ed="#H" n="122" break="no"/>guis, praesertim in scriptis Poeticis, in quibus dictio aliqua pro vicina, 
+      <lb ed="#H" n="123"/>Euphoniae vel etiam ornatus gratia ponitur, veluti Mars pro bello 
+      <lb ed="#H" n="124"/>Vulcanus pro igne, Liber pro vino, Ceres pro frumento per 
+      Meto<lb ed="#H" n="125" break="no"/>tymiam. Item tectum pro tota domo; puppis pro nave, ferrum 
+      pro<lb ed="#H" n="126" break="no"/>gladio per synecdochen. Et olli pro illi apud Virgilium per αυτίσοιχον¬ 
+      <lb ed="#H" n="127"/>Similiter &amp; litera interdum interponitur, ut relligio pro religio. 
+      Non<lb ed="#H" n="128" break="no"/>nunquam per Syncopam aufertur etiam integra syllaba, ut dixti 
+      pro<lb ed="#H" n="129" break="no"/>dixisti, virum pro virorum. Haec atque hujus generis alia infinita, cum 
+      <lb ed="#H" n="130"/>apud autores ubique obvia sint, prolixius commemorare 
+      supervacane<lb ed="#H" n="131" break="no"/>um est. Sed nonne absurdissimum esset, si quis hinc colligeret, 
+      auto<lb ed="#H" n="132" break="no"/>rem istum, apud quem hujusmodi reperiuntur, esse vitiatum &amp; corru 
+      <lb ed="#H" n="133"/>ptum? Perinde judicandum est de textu Hebraico Veteris 
+      Testa<lb ed="#H" n="134" break="no"/> 
+               <lb ed="#H" n="135"/>ropi, figuraeque Grammaticae: id in libris veteris Testamenti sunt 
+      e<lb ed="#H" n="136" break="no"/>usmodi observationes, quae in Massoreth traduntur. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2664">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Alius locus a Lindano notatus 
+      <lb ed="#H" n="138"/>Tempore Hieronymi in Psalmo trigesimo-secundo vers. 4. legebatur; 
+      <lb ed="#H" n="139"/>Conversus sum in aerumna mea, dum configitur spina: in Hebraico X. 
+      <lb ed="#H" n="140"/>PPPII PJUPPDPOTI nehpachihi leschaddi behorbevonit. 
+      <lb ed="#H" n="141"/>εσιX. A nuncligitur, 3ρῳν ναπPελ θτηυνγ τοrta neopath 
+      <lb ed="#H" n="142"/>leschaddi, becharboni hajitz, id est, convercebatur praestantissimus 
+      hu<lb ed="#H" n="143" break="no"/>mor meus in ficcitates aestivas. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2684">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Ergo textus Hebraicus hodiernus est corruptu 
+      <lb ed="#H" n="145"/>RESP. Falsum est antecedens. Nam ex annotationibus 
+      Hiero<lb ed="#H" n="146" break="no"/>nymi in Psalmos, quas ad Suniam &amp; Fretellam scripsit: &amp; ex 
+      transla<lb ed="#H" n="147" break="no"/>tione Hieronymi, quam Bruno Amerbachius edidit, planum &amp; 
+      per<lb ed="#H" n="148" break="no"/>spicuum est, tempore Hieronymi non aliter habuisse textum 
+      He<lb ed="#H" n="149" break="no"/>braicum, quam nunc habet. Sic enim habet editio Amerbachiana: 
+      <lb ed="#H" n="150"/>Versatus sum in miseria mea, cum exardesceret aestas. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2704">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>Alius locus ab eodem adductus. 
+      <lb ed="#H" n="152"/>Iudaei corruperunt vaticinium de Christo, Jesa. 7. in voce PHyV: 
+      <lb ed="#H" n="153"/>halma 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2716">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Ergo textus Hebraicus est corruptus. 
+      <lb ed="#H" n="155"/>RESP. Antecedens falsum esse docet Hieronymus in traditionibs 
+      <lb ed="#H" n="156"/>suis in Genesin. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2727">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>Alius 
+      <lb ed="#H" n="158"/>Lutherus fatetur non se modo in Bibliorum editione, sed &amp; Xantem 
+      <lb ed="#H" n="159"/>igninum &amp; Seb. Munsterum errasse, quod Rabbinorum commentariis, 
+      <lb ed="#H" n="160"/>nimium tribuerit 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2740">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Ergo Biblia Hebraea sunt corrupta. 
+      <lb ed="#H" n="162"/>RESP. Quale hoc ratiocinandi genus? Hoc certe ratiocinandi 
+      <lb ed="#H" n="163"/>genere, licebit facili negocio concludere, quicquid libet. Quid enim; 
+      <lb ed="#H" n="164"/>si Rabbini in commentariis erratint, &amp; qui iis nimium tribuerunt: 
+      <lb ed="#H" n="165"/>num propterea in textu Bibliorum erunt errata. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2756">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Alius locus a Cano obiectus 
+      <lb ed="#H" n="167"/>Gen. 8. v. 7. juxta Hebraeum textum legitur, Corvus egrediebatur 
+      <lb ed="#H" n="168"/>&amp; revertebatur, cum vulgata editio &amp; LXX. &amp; omnes Patres 
+      le<lb ed="#H" n="169" break="no"/>gant, non revertebatur.  
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2769">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Ergo divini codices sunt ab Hebrais corrupti 
+      <lb ed="#H" n="171"/>RESP. Primo, Antecedens non habet recte expressum toxtum 
+      <lb ed="#H" n="172"/>Hebraeum: nam ex Hebraeo de verbo ad verbum sonat, Corvus 
+      exi<lb ed="#H" n="173" break="no"/>bat exenndo &amp; redeundo, id est, quum emissus esset ex arca 
+      indesinen<lb ed="#H" n="174" break="no"/>ter ibat &amp; redibat, redeundo ad vel supra tectum arcae &amp; abeundo, 
+      do<lb ed="#H" n="175" break="no"/>nec siccarentur aquae, non autem redeundo intra arcam ipsam, 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2787">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Deinde versio vulgata aut vitiosa est, quia a textu Hebraeo discres 
+      <lb ed="#H" n="177"/>pat: aut ambigua, quum dubium relinquat; quorsum non sit corv? reversus 
+      <!--cod-MkL9py-0105.xml-->
+      <pb ed="#H" n="80"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>ac videatur potius indicare, ne quidem ad tectum arcae eum reversum 
+      <lb ed="#H" n="2"/>donec aquae siccarentur.  
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2808">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Concludo igitur, ista argumenta non esse ejusmodi, ut editionis 
+      <lb ed="#H" n="4"/>Hebraice propter illa sinceritas in dubium vocari debeat. Imo 
+      et<lb ed="#H" n="5" break="no"/>iamsi quidam errores, librariorum negligentia vel ignorantia 
+      irre<lb ed="#H" n="6" break="no"/>isissent, non tati tamen essent momenti, ut in iis quae ad fidem &amp; 
+      bo<lb ed="#H" n="7" break="no"/>nos mores pertinent, Scripturae S. integritas desideretur, ut 
+      Bellar<lb ed="#H" n="8" break="no"/>minus ipsemet fatetur lib. 2. de Verbo Dei cap. 2. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2826">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>Sic expedita est prima quaestio de editio¬ 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2833">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>ne Hebraica. 
+      <lb ed="#H" n="11"/>SECUNDA est, An Scriptura Hebraica a Mose &amp; Prophetis exa 
+      <lb ed="#H" n="12"/>rata, ad nos usque pervenerit? Quidam negant, hoc prolato 
+      argumen<lb ed="#H" n="13" break="no"/>to, quod Scriptura illa Hebraea perierit. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2846">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Nos vero eam periisse negamus, freti sequentibus argumentis: 
+      <lb ed="#H" n="15"/>I. Quia si Hebraica Veteris Testamenti editio unquam periit. 
+      <lb ed="#H" n="16"/>tum aut tempore captivitatis Babylonicae, aut in persecutione ab 
+      <lb ed="#H" n="17"/>Antiocho Epiphane mota, aut tempore ultimae destructionis urbis 
+      <lb ed="#H" n="18"/>serosolymorum id factum. Sed nullo temporum istorum factum: 
+      <lb ed="#H" n="19"/>quum nihil tale ex libris Canonicis &amp; historiis aliis veteribus fide 
+      di<lb ed="#H" n="20" break="no"/>gnis colligi possit. 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2866">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>II. Quia non est verisimile Deum, qui sua providentia Ecclesia 
+      <lb ed="#H" n="22"/>suae semper prospicit, passurum fuisse ut Scriptura S. quae 
+      fundamen<lb ed="#H" n="23" break="no"/>tum est Ecclesiae, interiret 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2877">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>III. Quia pietati sanctorum Prophetarum, Danielis, Ezechielis 
+      <lb ed="#H" n="25"/>bonorumque omnium adversatur, si statuatur omnia exemplaria 
+      scri<lb ed="#H" n="26" break="no"/>turae S. periisse, quod non potuisset sine illorum supina &amp; in 
+      perpe<lb ed="#H" n="27" break="no"/>tuum culpanda negligentia feri: 
+      </p>
+            <p xml:id="yyy8Uu-e34492-d1e2891">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>IV. Quia ipsi etiam Scripturae id adversatur: nam Danielem 
+      i<lb ed="#H" n="29" break="no"/>Sci ipturae lectione versatum in Babylonia, patet ex capite nono 
+      ver<lb ed="#H" n="30" break="no"/>secundo. Non ergo perierat. Verum quia hoc idem Bellarminus 
+      fa<lb ed="#H" n="31" break="no"/>tetur, libro secundo de Verbo Dei, capite primo, plura argument? 
+      <lb ed="#H" n="32"/>addere supersedeo¬ 
+      <lb ed="#H" n="33"/>Sic fuit de Hebraea veteris Testamenti editione. 
+      <lb ed="#H" n="34"/>sequitur de Graeca Novi.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

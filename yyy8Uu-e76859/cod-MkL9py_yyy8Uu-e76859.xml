@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 14</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 14</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="365"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e76859"> <!-- l6-c14 -->
+            <head xml:id="yyy8Uu-e76859-Hd1e109">Caput 14</head>
+            <p xml:id="yyy8Uu-e76859-d1e112">
+               <lb ed="#H" n="79"/>CAPUT XIV. 
+      <lb ed="#H" n="80"/>In quo de conceptione Christi.
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e119">
+               <lb ed="#H" n="81"/>NCARNATIONIS Christi partes sunt, tum conceptio Christi &amp; 
+      <lb ed="#H" n="82"/>assumtio humanae naturae &amp; unio personalis duarum naturarum. 
+      <lb ed="#H" n="83"/>tum nativitas.
+    </p>
+            <p xml:id="yyy8Uu-e76859-d1e128">
+               <lb ed="#H" n="84"/>Conceptio Christi, est miraculosa humanae naturae Christi 
+      pro<lb ed="#H" n="85" break="no"/>ductio a Spiritu Sancto, qui virtute &amp; potentia sua divina corpus 
+      qui<lb ed="#H" n="86" break="no"/>dem Christi ex praepatato, sanctificato, &amp; foecundato sanguine 
+      Vir<lb ed="#H" n="87" break="no"/>ginis MARIAE sine virili semine, in utero ipsius statim omnibus 
+      <lb ed="#H" n="88"/>partibus integrum formavit, animam vero simule nihilo creatam 
+      <lb ed="#H" n="89"/>corpori infudit, ita ut in ipso conceptionis articulo perfecta fuerit: 
+      <!--cod-MkL9py-0392.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>humana Christi natura, corpore &amp; anima rationali perfecte sibi in 
+      <lb ed="#H" n="91"/>vicem unitis constans. 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e153">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>Quod humana natura Christi sit producta mitaculosa 
+      operatio<lb ed="#H" n="93" break="no"/>ne Spiritus Sancti, tanquam principali causa efficiente, confirma 
+      <lb ed="#H" n="94"/>primo testimonium Angeli Gabrielis, qui Virgini MARIAE, cui 
+      an<lb ed="#H" n="95" break="no"/>nunciaverat jussu Dei, ex ipsa Messiam Patribus promissum 
+      nascitu<lb ed="#H" n="96" break="no"/>rum, de modo conceptionis interroganti respondit Luc. 1. 35. 
+      Spiri<lb ed="#H" n="97" break="no"/>tus Sanctus superveniet in te &amp; virtus Altissimi inumbrabit 
+      te<lb ed="#H" n="98" break="no"/>propterea id etiam quod nascetur ex te sanctum, vocabitur Filius 
+      <lb ed="#H" n="99"/>Dei. Confirmat deinde testimonium Evangelistae Matthaei qui 
+      pri<lb ed="#H" n="100" break="no"/>mo capite, vers. 18, ait: quod Maria mater Christi, quum desponsata 
+      <lb ed="#H" n="101"/>sset Iosepho, priusquam ipsi convenissent, comperta sit praegnans esse 
+      <lb ed="#H" n="102"/>e Spiritu Sancto. Confirmat testimonium Angeli, Josepho viro 
+      Ma<lb ed="#H" n="103" break="no"/>riae dicentis, eodem primo capite Matth. v. 20. Iosephe fili Davidis 
+      <lb ed="#H" n="104"/>ne metue accipere Mariam uxorem tuam. Nam quod in ea genitum 
+      <lb ed="#H" n="105"/>est, ex Spiritu Sancto est. Ergo sicut in Symbolo Apostolico profite 
+      <lb ed="#H" n="106"/>mur, Jesus Christus Dominus noster conceptus est de Spiritu Sancti 
+      <lb ed="#H" n="107"/>nimirum, tanquam causa efficiente &amp; creatore humanae Christi 
+      na<lb ed="#H" n="108" break="no"/>turae, non autem ex essentia Spiritus Sancti: alioquin Christus 
+      ha<lb ed="#H" n="109" break="no"/>peret corpus, non vere humanum, sed spirituale, imo nullum. 
+      Con<lb ed="#H" n="110" break="no"/>ceptus est α δα συνεσίας, αλλα δα δυναμεως, non per concubitum, 
+      <lb ed="#H" n="111"/>sed per virtutem Spiritus Sancti, per quam Maria praegnans reddita. 
+      <lb ed="#H" n="112"/>fuit, ut loquitur Iustinus Martyr Apologia secunda pro Christianis 
+      <lb ed="#H" n="113"/>Conceptus est de Spiritu Sancto non σωομαιικώς, sed δημικργικώς, id 
+      <lb ed="#H" n="114"/>est, non per semen, sed per creationem: Et ut Augustinus sermone 
+      <lb ed="#H" n="115"/>sexto de Tempore ait: Conceptus est non de substantia Spiritus 
+      San<lb ed="#H" n="116" break="no"/>cti, sed de potentia; nec generatione, sed iussione &amp; benedictione. 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e212">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Ideo autem conceptus est de Spiritu Sancto, ut ejus sanctitate in 
+      <lb ed="#H" n="118"/>issumta carne ad plenum perfusus, ipsam ad nos transfunderet,  
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e221">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Si causam efficientem propter quam spectes, Beata Virgo Maria 
+      <lb ed="#H" n="120"/>Deum hominem factum &amp; concipere &amp; parere, non humanis 
+      meri<lb ed="#H" n="121" break="no"/>tis, sed concepti nascentisque ex ea summi Dei dignatione prome 
+      <lb ed="#H" n="122"/>ruit, ut scribit B. Fulgentius libro de Incarnatione &amp; Gratia 
+      Domi<lb ed="#H" n="123" break="no"/>ni nostri Jesu Christi, capite septimo 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e237">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Materia e qua corpus Christi conceptum est, fuit sanguis Mariae 
+      <lb ed="#H" n="125"/>Virginis, a Spiritu Sancto praepatatus, sanctificatus &amp; foecundatus 
+      <lb ed="#H" n="126"/>absque virili semines 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e248">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Per sanguinem intelligimus semen mulieris seu Virginis Mariae; 
+      <lb ed="#H" n="128"/>quid enim aliud est semen, quam sanguis elaboratus ad 
+      generatio<lb ed="#H" n="129" break="no"/>nem? Nam Christus propterea dicitur fructus ventris seu uteri 
+      Ma<lb ed="#H" n="130" break="no"/>riae. Luc. 1. vers. 42. Jam hinc colligimus, si corpus Christi formatum  
+      <lb ed="#H" n="131"/>est ex semine Virginis Mariae, non est ergo e coelo delatum in utert 
+      <lb ed="#H" n="132"/>Virginis Mariae, sed ex substantia Virginis sumtum. Valentiniani, 
+      <lb ed="#H" n="133"/>Marcionitae, &amp; alii haeretici, opponunt dicta aliquot, veluti Joh. 3. v. 
+      <lb ed="#H" n="134"/>13. Nullus adscendit in coelum, nisi qui descendit e coelo, Filius 
+      homi<lb ed="#H" n="135" break="no"/>nis qui est in coelo. Et v. 31. Qui superne venit supra omnes est: qui e 
+      <lb ed="#H" n="136"/>terra est, terrenus est, &amp; terrena loquitur: qui e coelo venit, supra 
+      o<lb ed="#H" n="137" break="no"/>mnes est. Et Joha. 3. v. 23. Vos inferne estis, ego sum superne: vos ex hoc 
+      <lb ed="#H" n="138"/>mundo estis, ego non sum ex hoc mundo. I. Corinth. 15. v. 47. 
+      Secun<lb ed="#H" n="139" break="no"/>dus homo ipse Dominus e coelo: unde versibus sequentibus coelestis 
+      ap<lb ed="#H" n="140" break="no"/>pellatur: Ex his dictis concludunt, carnem Christi originem habuisa 
+      <lb ed="#H" n="141"/>se e coelis, &amp; non ex semine Virginis Mariae 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e285">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>RESPON. Nullum istorum dictorum docet; Christum corpus 
+      <lb ed="#H" n="143"/>e coelo attulisse, sed omnia loquuntur de persona Christi per 
+      commu<lb ed="#H" n="144" break="no"/>nicationem idiomatum, &amp; docent quod Filius Dei descenderit de 
+      <lb ed="#H" n="145"/>coelo non loci mutatione, sed voluntaria sui exinanitione ad formam 
+      <lb ed="#H" n="146"/>servi accipiendam: &amp; quod conceptus sit coelesti modo, coelesti 
+      ope<lb ed="#H" n="147" break="no"/>ratione Spiritus Sancti, non autem terrena generatione. Ita quod 
+      <lb ed="#H" n="148"/>ad personam Filii Dei &amp; coelestem spiritualemque modum 
+      conceptio<lb ed="#H" n="149" break="no"/>nis ipsius de Spiritus Sancto pertinet, ipsi ad substantiam carnis 
+      Chri<lb ed="#H" n="150" break="no"/>sti referunt . 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e310">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>INSTANT: Secundum quam naturam Christus adscendit in 
+      coe<lb ed="#H" n="152" break="no"/>lum, secundum eandem descenderat prius: At secundum humanam 
+      <lb ed="#H" n="153"/>naturam adscendit in coelum: Ergo secundum humanam prius 
+      de<lb ed="#H" n="154" break="no"/>scenderat de coelo. Majorem probare conantur testimonio Pauli 
+      A<lb ed="#H" n="155" break="no"/>postoli Ephes. 4. v. 9, 10. Caeterum illud Adscendit, quid est, nisi quod  
+      <lb ed="#H" n="156"/>etiam descenderat prius in infimas partes terra? Qui descenderat, 
+      <lb ed="#H" n="157"/>ipse est qui etiam adscendit longe supra omnes coelos, ut impleret  
+      <lb ed="#H" n="158"/>omnia 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e332">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>RESPON. Primo major propositio negatur: Deinde, ea non 
+      po<lb ed="#H" n="160" break="no"/>test probari ex testimonio Apostoli Pauli, quo nihil aliud docetur,  
+      <lb ed="#H" n="161"/>quam ideo Christum exaltatum, quia antea se exinaniverat forma 
+      <lb ed="#H" n="162"/>aervi accepta, ut Paulus se declarat Philip. 2. 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e345">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>Praepatatio materiae non fuit facta in instanti: quia sanguinem 
+      <lb ed="#H" n="164"/>portuit deduci ad locum conceptionis, ad quam tem opus fuit 
+      mo<lb ed="#H" n="165" break="no"/>tu. Motus autem nullus fit in instanti. Fuit tamen brevi temporis 
+      <lb ed="#H" n="166"/>spatio praepatata materia 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e358">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Eadem materia fuit per Spiritum Sanctum sanctificata: quia 
+      an<lb ed="#H" n="168" break="no"/>te sanctificationem fuerat obnoxia &amp; infecta peccato, sanctificata  
+      <lb ed="#H" n="169"/>autem per Spiritum Sanctum, nullam labem, nullam culpam dein 
+      <lb ed="#H" n="170"/>ceps habuit nullamque habitura est in sempiternum; sed sanctitate 
+      <lb ed="#H" n="171"/>perfusa absque mensura, sanctissimum instrumentum facta fuit 
+      ani<lb ed="#H" n="172" break="no"/>mae Christi &amp; Deitatis ipsius, 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e376">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Aprimo conceptionis momento sanctificatus fuit Christus, ut 
+      ex<lb ed="#H" n="174" break="no"/>aetate qualibet sine discrimine electos suos in seipso sanctificaret: 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e385">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>Foecundata fuit eadem materia, ut conciperet &amp; praegnans fieret 
+      <lb ed="#H" n="176"/>Maria: Sed foecundata fuit miraculoso &amp; novo prorsus modo, 
+      nem<lb ed="#H" n="177" break="no"/>pe, dum Maria concepit absque virili semine. Nam ordinaria ac natur 
+      <lb ed="#H" n="178"/>ralis conceptio, est seminis virilis &amp; muliebris in utero permisti 
+      vivi<lb ed="#H" n="179" break="no"/>ficatio ad formandum foetum, orta a proprietate uteri materni. In 
+      <lb ed="#H" n="180"/>conceptione enim ordinaria ac naturali semen virile necessario res 
+      <lb ed="#H" n="181"/>quiritur, in quo vis procreatrix inprimis residet. At Maria concepit  
+      <!--cod-MkL9py-0393.xml-->
+      <pb ed="#H" n="366"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>novo &amp; miraculoso modo absque virili semine. Miraculosum fuit  
+      <lb ed="#H" n="2"/>quod Sara Abrahami uxor jam effoeta senio, tamen concepit 
+      Isaa<lb ed="#H" n="3" break="no"/>cum, &amp; Elizabetha Johannem Baptistam; ideo utriusque praedictio 
+      <lb ed="#H" n="4"/>peculiariter praedicta fuit divinitus; neutra tamen conceptio facta est 
+      <lb ed="#H" n="5"/>sine virili semine: sed multo majus mitaculum est, quod Maria absque 
+      <lb ed="#H" n="6"/>virili semine concepit. 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e425">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Ideo singularis haec conceptio singulariter aliquoties a Deo 
+      prae<lb ed="#H" n="8" break="no"/>dicta fuit, primo in Paradiso quum, Genes. 3. vers. 15. promissum fuit 
+      <lb ed="#H" n="9"/>Semen mulieris contriturum caput antiqui serpentis: 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e436">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Deinde, per Jacobum Patriarcham Genes. 49. vers. 10. ubi 
+      Chri<lb ed="#H" n="11" break="no"/>stus nominatur Schiloh, id est, filius secundarum ejus: non autem 
+      <lb ed="#H" n="12"/>filius limborum ejus: nam secundae sunt a natura mulieris, &amp; non viris 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e447">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Tertio per Jesaiam in hoc vaticinio, Ecce Virgo illa concipiet, 
+      Jesa<lb ed="#H" n="14" break="no"/>7. vers. 14. 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e456">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Quarto, per lapidem de monte excisum sine ullis manibus, sine 
+      <lb ed="#H" n="16"/>opere humano, Dan. 2. per eum enim significatum est, Christum 
+      de<lb ed="#H" n="17" break="no"/>Virgine sine amplexu maritali exoriturum 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e467">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Denique per Angelum Gabrielem Luc. 1. 31. Et ecce concipies 
+      i<lb ed="#H" n="19" break="no"/>utero. 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e476">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Concipi autem Christus debuit sine virili semine, ex solo 
+      semine<lb ed="#H" n="21" break="no"/>seu sanguine purissimo Virginis Mariae, propter sequentes causas: 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e486">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>I. Ut certum esset ipsum esse vere Regem illum Messiam, a Dei 
+      <lb ed="#H" n="23"/>Patribus promissum. Nam quem Virgo concepit sine virili semines 
+      <lb ed="#H" n="24"/>is est Rex ille Messias Patribus promissus. 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e497">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>II. Ut manifestum esset, ipsum non hominem tantum, sed etiam 
+      <lb ed="#H" n="26"/>verum Deum esse natura in una persona. Sicut mater ejus est 
+      Vir<lb ed="#H" n="27" break="no"/>go, sine patre terreno. ita Pater ejus est Deus sine matre: natura 
+      <lb ed="#H" n="28"/>enim non patitur, ut unius personae sint plures Patres. Ideo solus 
+      <lb ed="#H" n="29"/>Christus conceptus est homo sine virili semine, quia solus etiam in 
+      <lb ed="#H" n="30"/>ter homines est Deus, sicut solus inter tres personas Deitatis factu 
+      <lb ed="#H" n="31"/>est homo, 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e517">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>III. Ut homo fieret expers omnis peccati, qui peccatum auferre 
+      <lb ed="#H" n="33"/>debebat. Nam omnes illi qui ex semine viri concipiuntur, in 
+      pecca<lb ed="#H" n="34" break="no"/>tis concipiuntur, secundum illud Pauli ad Rom. cap. 5. v. 12. Sicut per 
+      <lb ed="#H" n="35"/>unum hominem peccatum in mundum introiit, ac per peccatum mors: 
+      <lb ed="#H" n="36"/>&amp; ita in omnes homines mors pervasit in quo omnes peccarunt. 
+      Pro<lb ed="#H" n="37" break="no"/>inde nullus est hominum, qui non peccati originalis vinculo nascatur 
+      <lb ed="#H" n="38"/>obstrictus, praeter eum, qui ad hoc vinculum peccati solvendum, 
+      no<lb ed="#H" n="39" break="no"/>vo modo conceptus &amp; homo factus est, Mediator Dei &amp; hominum 
+      <lb ed="#H" n="40"/>homo Christus Jesus. Quae Deo dignior secundum carnem 
+      genera<lb ed="#H" n="41" break="no"/>tio, quam ut immaculatus Dei Filius, immaculatae generationis 
+      ser<lb ed="#H" n="42" break="no"/>varet etiam in suscipiendo corpore puritatem 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e546">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Unde sic colligimus: Quicunque sine virili semine conceptus est, 
+      <lb ed="#H" n="44"/>absque peccato originali est conceptus: Christus Jesus, isque solus 
+      si<lb ed="#H" n="45" break="no"/>ne virili semine conceptus est: Ergo Christus Jesus, isque solus absque  
+      <lb ed="#H" n="46"/>peccato originali est conceptur 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e559">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>OSIICITUR: Christus assumsit semen Abrahami, Hebr. 2. v. 
+      <lb ed="#H" n="48"/>16. est filius Davidis &amp; filius Abrahami Matth. 1. v. 1. &amp; filius 
+      Ada<lb ed="#H" n="49" break="no"/>mi Luc. 3. Ergo est conceptus de virili semine. 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e570">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>RESPON. Distinguendum est antecedens: Christus assumsit se 
+      <lb ed="#H" n="51"/>men Abrahae &amp; est filius Abrahami, &amp; filius Davidis, &amp; filius 
+      Ada<lb ed="#H" n="52" break="no"/>mi, quoad substantiam humanam, sed non quoad modum 
+      commu<lb ed="#H" n="53" break="no"/>nicationis substantiae humanae 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e584">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Corpus autem Christi ut sine virili semine conceptum fuit: ita 
+      et<lb ed="#H" n="55" break="no"/>iam successivae formationis legem non servavit. Nam in aliorum 
+      <lb ed="#H" n="56"/>hominum generatione, naturae vi paulatim corpus effingitur qua 
+      <lb ed="#H" n="57"/>draginta aut etiam plurium dierum spatio (nam formationis certum 
+      <lb ed="#H" n="58"/>ac definitum tempus non est;)at Christi corpus divina Spiritus 
+      San<lb ed="#H" n="59" break="no"/>cti virtute &amp; operatione statim partibus omnibus perfectum 
+      forma<lb ed="#H" n="60" break="no"/>tum momentoque absolutum fuit. Tum nec anima rationalis die 
+      de<lb ed="#H" n="61" break="no"/>mum quadragesimo creata atque infusa est corpori Christi, sed 
+      eo<lb ed="#H" n="62" break="no"/>dem momento in &amp; cum corpore a Spiritu Sancto ex nihilo creata. 
+      <lb ed="#H" n="63"/>&amp; corpori unita est. Ita corpus Christi in ipso conceptionis articulo 
+      <lb ed="#H" n="64"/>statim omnibus membris perfectum, &amp; animatum, seu anima 
+      ratio<lb ed="#H" n="65" break="no"/>nali praeditum conceptum est, &amp; hoc praeter aliorum hominum 
+      con<lb ed="#H" n="66" break="no"/>suetudinem 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e617">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Rationes quibus hoc confirmamus certae sunt: 
+      <lb ed="#H" n="68"/>I. Quicunque est homo factus absque virili semine, solam opera 
+      <lb ed="#H" n="69"/>tione Spiritus Sancti tanquam Creatoris; ille statim atque exsistere 
+      <lb ed="#H" n="70"/>coepit, corpus uno momento perfectum &amp; animatum habuerit 
+      ne<lb ed="#H" n="71" break="no"/>cesse est: 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e633">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Filius Dei &amp; homo factus absque virili semine, solam operatione 
+      <lb ed="#H" n="73"/>Spiritus Sancti tanquam Creatoris: 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e642">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Ergo statim atque exsistere coepit, corpus uno momento 
+      perfe<lb ed="#H" n="75" break="no"/>ctum &amp; animatum habuerit necesse est. 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e651">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Propositionem majorem probant exempla Adami &amp; Evae: &amp; 
+      po<lb ed="#H" n="77" break="no"/>stulat omnipotens virtus Creatoris. 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e660">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>II. Qui uno momento caro factus est, id est, verus homo; ejus 
+      <lb ed="#H" n="79"/>corpus statim partibus omnibus perfectum &amp; animatum fuit: 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e670">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Filius Dei uno momento caro factus est, Joha. 1. v. 14. id est, verus 
+      <lb ed="#H" n="81"/>homo: non enim primum embryo, &amp; deinde corpus informe atque 
+      <lb ed="#H" n="82"/>animae expers ac postea demum homo: 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e681">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Ergo, &amp;c. 
+      <lb ed="#H" n="84"/>III. Qui ὑσυςμσις factus est verae &amp; perfectae humanitati, ejus 
+      <lb ed="#H" n="85"/>corpus statim perfectum &amp; animatum esse oportuit, quum 
+      hyposta<lb ed="#H" n="86" break="no"/>si unitum est, 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e694">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Sermo ille ὑποςαης factus est verae &amp; perfectae humanitati: 
+      <lb ed="#H" n="88"/>Ergo, &amp;c. 
+      <lb ed="#H" n="89"/>IV. Filius Dei per animam sibi univit corpus: Ergo habuit in 
+      <lb ed="#H" n="90"/>ipso conceptionis articulo corpus perfectum &amp; animatum. 
+      Conse<lb ed="#H" n="91" break="no"/>quentia est necessaria, quia anima oportuit unitam esse corpori, 
+      <lb ed="#H" n="92"/>cum λόγος sibi univit corpus anima autem non potuit uniri corpo¬ 
+      <!--cod-MkL9py-0393.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>ri nisi omnibus membris perfecto; anima enim est ἐυελέχειαᾳ corpo¬ 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e718">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>tis physici, organici, id est, quod omnibus necessariis organis &amp; 
+      <lb ed="#H" n="95"/>membris constat. 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e727">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>V. Qui est fons &amp; origo omnium perfectionum &amp; formarum. 
+      <lb ed="#H" n="97"/>omnium perfectissimarum, eum consentaneum est perfectam &amp; 
+      for<lb ed="#H" n="98" break="no"/>ma sua praeditam naturam assumsisse 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e738">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>At Filius Dei est fons &amp; origo omnium perfectionum &amp; forma. 
+      <lb ed="#H" n="100"/>cum omnium perfectissimarum: 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e748">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Ergo perfectam &amp; forma humanam constantem naturam 
+      huma<lb ed="#H" n="102" break="no"/>nam assumsit. 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e757">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Sic declavata est definitio conceptionis Christi. 
+      <lb ed="#H" n="104"/>Finis primus conceptionis Christi sanctae de Spiritu Sancto, est ut 
+      <lb ed="#H" n="105"/>sua innocentia ac perfecta sanctitate in qua conceptus est, nostram 
+      <lb ed="#H" n="106"/>impuram conceptionem tegeret coram Deo, dum sancta 
+      conceptio<lb ed="#H" n="107" break="no"/>ne sua satisfecit Legi Dei nostro loco qui sancte &amp; sine peccato 
+      con<lb ed="#H" n="108" break="no"/>cipi debuimus. Unde legitur tertio tomo Operum Augustini, libro 
+      <lb ed="#H" n="109"/>de Fide ad Petrum Diaconum, cap. 2. Dei ergo Filius unigenitus 
+      qui<lb ed="#H" n="110" break="no"/>est in sinu Patris, ut carnem hominis animamque mundaret 
+      susceptio<lb ed="#H" n="111" break="no"/>ne carnis atque animae rationalis, incarnatus est: &amp; qui est Deus 
+      ve<lb ed="#H" n="112" break="no"/>eus, homo verus factus est, non ut alter Deus esset, alter homo, sed ide 
+      <lb ed="#H" n="113"/>Deus, idem homo. Qui ut illud peccatum quod in concubita 
+      morta<lb ed="#H" n="114" break="no"/>lis carnis generatio humana contraxit, auferret, conceptus est novo 
+      <lb ed="#H" n="115"/>more, Deus incarnatus in matre Virgine, sine coitu viri, sine libidine 
+      <lb ed="#H" n="116"/>concipientis Virginis: ut per Deum hominem, quem absque libidine 
+      <lb ed="#H" n="117"/>conceptum, inviolatus edidit Virginis uterus, ablueretur peccatum.  
+      <lb ed="#H" n="118"/>quod nascentes trahunt omnes homines: quibus in corpore mortis 
+      hu<lb ed="#H" n="119" break="no"/>jus talis est nascendi conditio, ut matres eorum foecunditatis opus 
+      im<lb ed="#H" n="120" break="no"/>plere non possint, nisi prius virginitatem carnis amiserint. Solus 
+      igi<lb ed="#H" n="121" break="no"/>tur abstulit peccatum conceptionis atque nativitatis humanae Deus 
+      <lb ed="#H" n="122"/>unigenitus: qui dum conciperetur, veritatem carnis accepit ex 
+      Vir<lb ed="#H" n="123" break="no"/>gine, &amp; quum nasceretur, integritatem Virginitatis servavit in 
+      <lb ed="#H" n="124"/>matre. Ista causa est, qua Deus factus est filius Virginis Mariae, &amp; 
+      <lb ed="#H" n="125"/>Maria Virgo facta est mater unigeniti Dei: ut quem Pater genuit. 
+      <lb ed="#H" n="126"/>ex aeternitate, ipsum Virgo conceptum proferret in tempore. Illa utique  
+      <lb ed="#H" n="127"/>est Virgo, quam Deus qui de ea fuerat nasciturus ita singulari gratia, 
+      <lb ed="#H" n="128"/>praevenit atque replevit, ut ipsum haberet ventris sui fructum, quem 
+      <lb ed="#H" n="129"/>ex initio habuit universitas dominum: &amp; ipsum sibi videret 
+      nascen<lb ed="#H" n="130" break="no"/>di solennitate subditum, quem in unitate paternae substantiae, non 
+      <lb ed="#H" n="131"/>solum humana, sed etiam angelica creatura cognoscit &amp; adorat 
+      al<lb ed="#H" n="132" break="no"/>tissimum. Sic ergo peccatum &amp; poena peccati, quae per scelus corrupto 
+      <lb ed="#H" n="133"/>mulieris intravit in mundum, per inviolatae Virginis partum 
+      aufer<lb ed="#H" n="134" break="no"/>tur a mundo. 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e831">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>Quapropter innocentia &amp; sanctitas inde a prima origine &amp; 
+      mo<lb ed="#H" n="136" break="no"/>mento conceptionis naturae humanae Christi inhaerens, pars est &amp; 
+      <lb ed="#H" n="137"/>quidem prima justitiae Christi quae nobis imputatur a Deo Patre. 
+      <lb ed="#H" n="138"/>Idque sequentibus argumentis ostendo 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e844">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>PRIMUM: Obedientiae illius perfectae quam Lex Dei a nobis 
+      re<lb ed="#H" n="140" break="no"/>quirit: pars est innocentia &amp; sanctitas inde a prima origine &amp; momen 
+      <lb ed="#H" n="141"/>to conteptionis naturae humanae inhaerens: 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e855">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>Justitia Christi quae nobis a Deo Patre imputatur, est obedientia 
+      <lb ed="#H" n="143"/>illa perfecta, quam Lex Dei a nobis requirit:  
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e864">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Justitiae ergo Christi quae nobis a Patre imputatur, pars est 
+      inno<lb ed="#H" n="145" break="no"/>centia &amp; sanctitas inde a prima origine &amp; momento conceptionis 
+      <lb ed="#H" n="146"/>naturae humanae inhaerens. 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e876">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Propositio major initio declavanda est, deinde confirmanda. 
+      Obe<lb ed="#H" n="148" break="no"/>lientia Legis proprie non est actus secundus, sed actus primus, 
+      nimi<lb ed="#H" n="149" break="no"/>rum habitus internus, a quo actus secundi tum interni tum externi 
+      <lb ed="#H" n="150"/>promanant. Metonymice autem actus secundus obedientia 
+      nomi<lb ed="#H" n="151" break="no"/>natur; sicut virtus proprie est habitus, metonymice autem actio 
+      ab<lb ed="#H" n="152" break="no"/>habitu illo promanans. Qui ergo contendunt, obedientiam tantum 
+      <lb ed="#H" n="153"/>actionem esse, falsum asseverant: nam obedientia non est tantum a 
+      <lb ed="#H" n="154"/>ctio. Quum vero actio dicitur, non propria, sed metonymica fit 
+      lo<lb ed="#H" n="155" break="no"/>quutione. Itaque obedientia perfecta, quam Lex requirit, non est 
+      tan<lb ed="#H" n="156" break="no"/>tum actio, sed etiam conformitas totius naturae &amp; omnium actionum 
+      <lb ed="#H" n="157"/>affectuum passionumque cum Lege Dei. Sic declarata est major.  
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e905">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Eandem confirmamus ex contrariorum oppositione: Si obedie 
+      <lb ed="#H" n="159"/>tiae quae pugnat cum Lege Dei, pars &amp; quidem prima est peccatum  
+      <lb ed="#H" n="160"/>originale, id est, carentia justitiae originalis &amp; corruptio naturae 
+      hu<lb ed="#H" n="161" break="no"/>manae totius, tum certe obedientiae illius perfectae quam Lex Dei a 
+      <lb ed="#H" n="162"/>nobis requirit, pars est innocentia &amp; sanctitas inde a prima origine 
+      <lb ed="#H" n="163"/>&amp; momento conceptionis naturae humanae inhaerens. Lex enim Dei, 
+      <lb ed="#H" n="164"/>prohibet non tantum peccata actualia, sed etiam originale, ex quo 
+      <lb ed="#H" n="165"/>tanquam ex fonte actualia prossuunt, aut potius proruunt  
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e927">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Assumtio probatur testimoniis Christi &amp; Apostolorum. Christus 
+      <lb ed="#H" n="167"/>ait Matth. 5. v. 17. Ne existimate me venisse ut dissolvam Legem aut. 
+      <lb ed="#H" n="168"/>Prophetas: non veni ut eam dissolvam sed ut eam impleam. Aposto 
+      <lb ed="#H" n="169"/>lus Paulus inquit Rom. 5. 19. Sicut per inobedientiam unius hominis 
+      <lb ed="#H" n="170"/>peccatores constituti sunt multi:ita per obedientiam unius, justi 
+      con<lb ed="#H" n="171" break="no"/>stituentur multi. Et c. 10. 4. Finis legis est Christus, ad justitiam 
+      cui<lb ed="#H" n="172" break="no"/>vis credenti. Gal. 4. v. 4, 5. Postquam venit complementum temporis. 
+      <lb ed="#H" n="173"/>misit Deus Filium suum factum ex muliere, factum Legi subjectum: 
+      <lb ed="#H" n="174"/>Vt eos qui Legi erant subjecti redimeret, ut adoptionem acciperemus. 
+      <lb ed="#H" n="175"/>SECUNDUM: Qui ex quo induit formam servi, coepit ad nos 
+      redi<lb ed="#H" n="176" break="no"/>mendos pretium liberationis solvere, ejus innocentia &amp; sanctita; 
+      <lb ed="#H" n="177"/>nativa est certe pars justitiae quae nobis a Deo imputatur: 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e958">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Christus Jesus ex quo induit formam servi, coepit ad nos 
+      redimen<lb ed="#H" n="179" break="no"/>dos pretium redemtionis solvere: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e967">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>Propositio per se plana est: 
+      <lb ed="#H" n="181"/>Assumtionem probamus testimonio Pauli Hebr. 10. vers. 5. &amp; 
+      se<lb ed="#H" n="182" break="no"/>quentibus: Quapropter ingrediens mundum dicit, Sacrificium &amp; 
+      <lb ed="#H" n="183"/>oblationem noluisti, corpus autem adaptasti mihi, Holocautomata &amp; 
+      <!--cod-MkL9py-0394.xml-->
+      <pb ed="#H" n="367"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>bostiam pro peccato non approbasti. Tunc dixi; Ecce adsum, (in capite 
+      <lb ed="#H" n="2"/>libri scriptum est de me) ut faciam, Deus, uoluntatem tuam, 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e991">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Secundus finis conceptionis Christi de Spiritu Sancto est, ut 
+      indi<lb ed="#H" n="4" break="no"/>vis regenerationis nostrae spiritualis promanaret. Nam per eundem 
+      <lb ed="#H" n="5"/>Spiritum per quem Christus conceptus est, etiam nos, qui per 
+      con<lb ed="#H" n="6" break="no"/>cupiscentiam carnis sumus geniti, spirituali iterum origine nascimur. 
+      <lb ed="#H" n="7"/>Propterea ab Evangelista de credentibus dicitur Joh. 1. v. 13. Qui non 
+      <lb ed="#H" n="8"/>ex sanguine, neque ex libidine carnis, neque ex libidine viri, sed ex 
+      <lb ed="#H" n="9"/>Deo geniti sunt.  
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e1012">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Tantum de fine conceptionis Christi. 
+      <lb ed="#H" n="11"/>Conceptus est Nazarethae, ut praedictum erat Jesa. 11. v. 1. Nam 
+      <lb ed="#H" n="12"/>prodibit virgula e trunco succiso Iischai, &amp; surculus e radicibus ejus 
+      <lb ed="#H" n="13"/>efflorescet. Et cap. 60. v. 21. Et populares tui quotquot erunt justi 
+      in<lb ed="#H" n="14" break="no"/>seculum haereditario jure possidebunt terram; ut surculus plantarum 
+      <lb ed="#H" n="15"/>ejus, opere manuum mearum glorietur. Zach. 6. v. 12. Ecce virum 
+      <lb ed="#H" n="16"/>cujus nomen est GERMEN, qui e loco suo germinabit, &amp; aedificabit  
+      <lb ed="#H" n="17"/>templum Iehovae. Quemadmodum &amp; ibidem postea educatus: unde 
+      <lb ed="#H" n="18"/>recte Nazarenus dictus, Matth. 2. v. 23. Idque ut sciremus ipsum est. 
+      <lb ed="#H" n="19"/>virgulam illam e trunco succiso Jischai prodeuntem, &amp; surculum e 
+      ra<lb ed="#H" n="20" break="no"/>dicibus ejus efflorescentem, Jesa. 11. v. 1. 
+      </p>
+            <p xml:id="yyy8Uu-e76859-d1e1041">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Tantum de conceptione Christi. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

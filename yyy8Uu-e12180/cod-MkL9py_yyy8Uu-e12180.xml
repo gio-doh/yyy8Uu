@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 21</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 21</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="NaN"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e12180"> <!-- l1-c21 -->
+            <head xml:id="yyy8Uu-e12180-Hd1e109">Caput 21</head>
+            <p xml:id="yyy8Uu-e12180-d1e112">
+               <lb ed="#H" n="22"/>CAPUT XXI. 
+      <lb ed="#H" n="23"/>In quo ratio quinta pro diuvinitate Sacrae Scripturae 
+      <lb ed="#H" n="24"/>traditur &amp; defenditur.  
+      </p>
+            <p xml:id="yyy8Uu-e12180-d1e121">
+               <lb ed="#H" n="25"/>Hactenus quarta ratio: sequitur quinta a dis¬ 
+      <lb ed="#H" n="26"/>sentaneis.
+    </p>
+            <p xml:id="yyy8Uu-e12180-d1e128">
+               <lb ed="#H" n="27"/>UAECUNQUE Scriptura non prodiit ab hominibus qua 
+      homi<lb ed="#H" n="28" break="no"/>Pnes: nec autoritati ullius creaturae est subjecta, sic ut non sit fas 
+      et<lb ed="#H" n="29" break="no"/>Aiam ipsis Angelis, nedum hominibus quicquam ei adjicere vel 
+      <lb ed="#H" n="30"/>detrahere, vel quicquam prorsus in ea immutare: &amp; cui neque 
+      antiqui<lb ed="#H" n="31" break="no"/>tatem, neque consuetudinem, neque multitudinem, neque humanam sac 
+      <lb ed="#H" n="32"/>pientiam, neque iudicia, neque praejudicata, neque edicta Regum &amp; 
+      Prin<lb ed="#H" n="33" break="no"/>cipum, neque decreta ulla, neque Concilia, neque visiones, neque 
+      miratu<lb ed="#H" n="34" break="no"/>la epponere licet: quae item nallum errorem habet, nullum mendacium 
+      <lb ed="#H" n="35"/>admittit: a Satana &amp; Mundo tolli &amp; exterminari non potest, illa 
+      reve<lb ed="#H" n="36" break="no"/>ra est divina 
+      </p>
+            <p xml:id="yyy8Uu-e12180-d1e153">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Scriptura Prophetica &amp; Apostolica est talis: Ergo: &amp;c. 
+      <lb ed="#H" n="38"/>OBIICITVRI. Prophetae &amp; Apostoli fuerunt homines; 
+      <lb ed="#H" n="39"/>Sacra Scriptura prodiit a Prophetis &amp; Apostolis; 
+      <lb ed="#H" n="40"/>Ergo prodiut ab hominibus qua homines 
+      <lb ed="#H" n="41"/>RESP. Negatur consequentia, quia plus infertur quam patium 
+      <lb ed="#H" n="42"/>tur praemissae: Hoc enim tantum sequitur, Ergo prodiit ab hominibus. 
+      <lb ed="#H" n="43"/>quod recte intellectum concedunt. Nam Scriptura prodiit a Prophe 
+      <lb ed="#H" n="44"/>tis &amp; Apostolis, verum non quatenus fuerunt homines, sed quatenus 
+      <lb ed="#H" n="45"/>fuerunt extraordinarii administri Dei divinitus sanctificati, quibus 
+      <lb ed="#H" n="46"/>immediate Spiritus sanctus Scripturam inspiraret, &amp; per ipsos 
+      Ec<lb ed="#H" n="47" break="no"/>clesiae revelaret: sic ut proprie loquendo Scriptura non ab 
+      homini<lb ed="#H" n="48" break="no"/>bus, sed a Deo per homines prodierit. 
+      </p>
+            <p xml:id="yyy8Uu-e12180-d1e184">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>OEIICITUR II Matth. 27. 9. Ieremiae tribuitur quod est Zachariae, 
+      <lb ed="#H" n="50"/>vaticinium de triginta argenteis, quibus Christus aestimatus fuit. 
+      </p>
+            <p xml:id="yyy8Uu-e12180-d1e193">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Ergo Scriptura Sacra errorem habet 
+      <lb ed="#H" n="52"/>RESP. Locus Matthaei 27. 9. habet homonymiam in nomine 
+      <lb ed="#H" n="53"/>Ieremiae quo non Jeremias silius Chillijae intelligitur, qui Josiae 
+      tem<lb ed="#H" n="54" break="no"/>poribus prophetare coepit, sed Zacharias, qui etiam voatus fuit 
+      Jere<lb ed="#H" n="55" break="no"/>mias, sicut receprum erat in populo Judaico ut multi binomines est 
+      <lb ed="#H" n="56"/>sent, maxime cum duo nomina inter se haberent convenientiam, aut 
+      <lb ed="#H" n="57"/>vocum etymologia, aut rerum significatione: ut Jonatham &amp; 
+      Natha<lb ed="#H" n="58" break="no"/>nael. Huxz ja, &amp; Hazarja &amp; similia. Est autem eadem significati  
+      <lb ed="#H" n="59"/>utriusque nominis Jeremiae &amp; Zachariae, tanquam, si dixeris, virum 
+      <lb ed="#H" n="60"/>qui exaliat Deum, aut qui commemorat celebratque Deum; 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 18</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 18</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="156"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e73528"> <!-- l2-c18 -->
+            <head xml:id="yyy8Uu-e73528-Hd1e109">Caput 18</head>
+            <p xml:id="yyy8Uu-e73528-d1e112">
+               <lb ed="#H" n="85"/>CAPTTTTIII 
+      <lb ed="#H" n="86"/>In quo de Sapientia Dei. 
+    </p>
+            <p xml:id="yyy8Uu-e73528-d1e119">
+               <lb ed="#H" n="87"/>PEATITUDO Dei complectitur immunitatem ab omnibus 
+      ma<lb ed="#H" n="88" break="no"/>ylis; &amp; omnium bonorum possessionem 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e126">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Bona quae beatus Deus possidet infinita &amp; incomprehensi¬ 
+      <!--cod-MkL9py-0183.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>bilia sunt: ea tamen nostrae melioris &amp; facilioris intelligentiae gratis 
+      <lb ed="#H" n="91"/>ad haec attributa revocari possunt, quae sunt; Sapientia &amp; Voluntas: 
+      <lb ed="#H" n="92"/>Potentia &amp; libertas 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e145">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>Horum attributorum ordo considerandus, 
+      <lb ed="#H" n="94"/>Sapientia, quae praesupponit vitam &amp; immortalitatem, est 
+      princi<lb ed="#H" n="95" break="no"/>pium agendi dirigens: Voluntas vero est principium imperans: 
+      Po<lb ed="#H" n="96" break="no"/>tentia &amp; libertas est principium exsequens, &amp; in effectum exteriorem. 
+      <lb ed="#H" n="97"/>procedens: 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e161">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Sapientia Deus novit quae velit &amp; possit facere, idque liberrime: 
+      sa<lb ed="#H" n="99" break="no"/>pientia dirigit uoluntatem, potentium &amp; libertatem. Dirigens 
+      au<lb ed="#H" n="100" break="no"/>tem prius est directo: regula prior est regulato. Sapientiae est dirigere, 
+      <lb ed="#H" n="101"/>atque ordinare actiones ad finem, modum formamque accommodam ipsi: 
+      <lb ed="#H" n="102"/>Voluntatis est imperare. Haec ergo se invicem consequuntur, 
+      intelli<lb ed="#H" n="103" break="no"/>gere, velle, posse, facere liberrime absque ullo impedimento. Intelligere, 
+      <lb ed="#H" n="104"/>prius est quam velle: velle prius est quam posse: posse prius est quam 
+      li<lb ed="#H" n="105" break="no"/>bere facere. Intelligere &amp; velle manet in operante: posse &amp; libere 
+      ex<lb ed="#H" n="106" break="no"/>sequi procedit in exteriorem effectum, 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e185">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>Eadem differunt ratione: Velle &amp; facere non sunt ἐν τον αναγκαι 
+      <lb ed="#H" n="108"/>aν, ut intelligere. Deus enim non potest non intelligere omnia factibi 
+      <lb ed="#H" n="109"/>lia. At potest non velle &amp; non facere. Voluit enim facere mundum 
+      <lb ed="#H" n="110"/>&amp; fecit, quando factus est, non citius, non serius: alioquin non tum 
+      <lb ed="#H" n="111"/>sed prius aut postea factus esset. Necessario ergo intelligit Deus &amp; 
+      ab<lb ed="#H" n="112" break="no"/>aeterno in aeternum: ut male dicatur, Deum posse intelligere, perinde 
+      <lb ed="#H" n="113"/>ac si diceres, Deum posse esse. Nam posse esse, est ejus quod non est, 
+      sem<lb ed="#H" n="114" break="no"/>per intelligit. τὸ ἔζ αναγκης κι αει αμα. Arist. de ortu &amp; interitu. t. 68. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e207">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Iam de his attributis ordine proposito agemus: &amp; primo de 
+      Sa<lb ed="#H" n="116" break="no"/>pientia. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e216">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Sapientia Dei dicitur αμαγυμως. Est enim vel creata vel increata. 
+      <lb ed="#H" n="118"/>Creata sapientia Dei interdum significat hanc universi fabricam 
+      <lb ed="#H" n="119"/>in qua singularis illa sapientia Dei insculpta est, &amp; omnium ocuha 
+      <lb ed="#H" n="120"/>exposita, ut 1. Corinth. 1. vers. 21. Postquam in Dei sapientia mundus 
+      <lb ed="#H" n="121"/>non cognovit Deum. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e232">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Interdum significat totam doctrinam de rebus divinis revelatam 
+      <lb ed="#H" n="123"/>divinitus: velut Deut. 4. vers. 6. Psalm. 19. 8 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e242">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Interdum Evangelii doctrinam, ut 1. Cor, 2. v. 7. Loquimur 
+      sapi<lb ed="#H" n="125" break="no"/>entiam Dei in mysterio, occultam illam, quam praefinierat Deus anter 
+      <lb ed="#H" n="126"/>secula, ad gloriam nostram. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e253">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Sapientia Dei increata duobus modis dicitur: vel enim essentiali 
+      <lb ed="#H" n="128"/>sapientia Dei intelligitur, vel personalis 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e262">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>Personalis sapientia Dei, est aeternus Filius Dei, in quo reconditi 
+      <lb ed="#H" n="130"/>sunt omnes thesauri sapientiae &amp; intelligentiae, &amp; per quem sapientiae 
+      <lb ed="#H" n="131"/>rivi in creaturas rationales, Angelos &amp; homines diffunduntur. De 
+      <lb ed="#H" n="132"/>hac legitur Proverb. I. vers. 20. ubi honoris causa plurali numero 
+      di<lb ed="#H" n="133" break="no"/>citur sapientiae, quasi dicat, omnis &amp; tota sapientia &amp; omnis sapientiae 
+      <lb ed="#H" n="134"/>autor. Item cap. 6. Sic 1. Cor. 1. 24, 30. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e280">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>Hoc loco de essentiali sapientia Dei agitur? 
+      <lb ed="#H" n="136"/>In Deo eam esse testatur Scriptura Rom. 16. 17. &amp; cap. 11. 33. 
+      de<lb ed="#H" n="137" break="no"/>monstrat satis ordo rerum sapientissimus in toto universo ab 
+      ipso<lb ed="#H" n="138" break="no"/>institutus: simplicitas item ejus, quum certum sit, quo quis 
+      simpli<lb ed="#H" n="139" break="no"/>cior est, eo magis esse intelligentem 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e296">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Talis est autem essentialis sapientiae Dei 
+      descriptio<lb ed="#H" n="141" break="no"/>SAPIENTIA DEI, est essentialis proprietas ejus, per quam 
+      ver<lb ed="#H" n="142" break="no"/>&amp; proprie, uno, aeterno &amp; immutabili intelligendi actu, simul, 
+      omni<lb ed="#H" n="143" break="no"/>no omnia perfectissime, certo, evidenterque, distincte &amp; necessari 
+      <lb ed="#H" n="144"/>seu immutabiliter novit; nihil unquam ignorans, nihil successive 
+      di<lb ed="#H" n="145" break="no"/>scens &amp; cognoscens, nihil obliviscens 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e314">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>Hujus descriptionis membra ordine perpendemus. 
+      <lb ed="#H" n="147"/>Primo sapientiae Dei nullum potest dari genus, sub quo illa 
+      tan<lb ed="#H" n="148" break="no"/>quam species contineatur. Proinde non est hic opus generali 
+      defini<lb ed="#H" n="149" break="no"/>tione &amp; distributione sapientiae. Notitia Philosophice loquendo es 
+      <lb ed="#H" n="150"/>duplex: Sensualis &amp; intellectualis. Notitia sensualis, est quae ministe 
+      <lb ed="#H" n="151"/>rio externorum &amp; internorum sensuum est comparata. Notitia in 
+      <lb ed="#H" n="152"/>tellectualis, est quae citra sensuum ministerium in mente gignitur? 
+      <lb ed="#H" n="153"/>Eaque duplex est, certa vel incerta. Incerta notitia dicitur opinio. 
+      <lb ed="#H" n="154"/>Certa autem notitia duplex est, fides &amp;scientia. Fides, est notitia 
+      cer<lb ed="#H" n="155" break="no"/>ta, ex alterius relatu comparata. Scientia, est notitia certa lumine 
+      <lb ed="#H" n="156"/>naturali intellectus evidenter percepta. Scientia haec etiam duplex 
+      <lb ed="#H" n="157"/>est: ἐπσημη &amp; νις. Emσnun, est scientia conclusionum, hoc est, quae 
+      <lb ed="#H" n="158"/>nascitur ex praeexsistente cognitione principiorum, causarum &amp; prae 
+      <lb ed="#H" n="159"/>missarum propositionum, ac proinde ex definitione, divisione &amp; 
+      ra<lb ed="#H" n="160" break="no"/>tiocinatione. Nuns autem, hoc est, intellectus, est scientia primorum 
+      <lb ed="#H" n="161"/>principiorum, quae per se sunt cognita, non ex praeexsistente alia 
+      cogni<lb ed="#H" n="162" break="no"/>tione; ac proinde non ex definitione, divisione &amp; ratiocinatione. 
+      Sul<lb ed="#H" n="163" break="no"/>nullo istorum generum sapientia Dei continetur? 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e359">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Sed est essentialis proprietas Dei, hoc est, ipsamet Dei essentia. I. 
+      <lb ed="#H" n="165"/>quia Deus est simplicissimus: non esset autem simplicissimus, si in 
+      co<lb ed="#H" n="166" break="no"/>sapientia realiter diversa esset ab essentia. 2. quia sapientia Dei est 
+      <lb ed="#H" n="167"/>aeterna. Nota sunt Deo ab Jomni) aevo omnia opera sua, ait Jacobus 
+      <lb ed="#H" n="168"/>Alphaei, frater Domini Act. 15. v. 18. Atqui nihil est ab aeterno nisi 
+      di<lb ed="#H" n="169" break="no"/>vina essentia. Quapropter sapientia Dei est ipsa Dei essentia. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e377">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Secunde, Deus vere &amp; proprie cognoscit omnia, hoc est, sapientia 
+      <lb ed="#H" n="171"/>ribuitur Deo non metonymice, quod alios faciat sapere, nec meta 
+      <lb ed="#H" n="172"/>phorice seu similitudine quadam, quod scilicet ea praestet, quae homo, 
+      <lb ed="#H" n="173"/>vera sapientia praeditus praestaro solet: sed citra ullum tropum. Cum 
+      <lb ed="#H" n="174"/>enim dicitur I. Joh. 3. v. 20. Potentior est Deus corde nostro &amp; novit. 
+      <lb ed="#H" n="175"/>omnia, non potest intelligi, quod Deus faciat, ut res creatae omnia 
+      <lb ed="#H" n="176"/>norint nulli enim angeli, nulli homines omnia norunt: ex parte 
+      co<lb ed="#H" n="177" break="no"/>gnoscimus, ex parte prophetamus, inquit Paulus 1. Cor. 13. v. 9. Nec 
+      <lb ed="#H" n="178"/>potest de similitudine intelligi: quae enim creatura novit omnia, ut 
+      <lb ed="#H" n="179"/>ab ea similitudo notitiae ad Deum transferatur: 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e403">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>Tertio, novit Deus omnia per seipsum, per suam essentiam, quae 
+      <lb ed="#H" n="181"/>est similitudo rerum omnium quae sunt, aut esse possunt: non quem 
+      <!--cod-MkL9py-0184.xml-->
+      <pb ed="#H" n="157"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>admodum nos facimus per visa seu species rerum objectas &amp; 
+      intelli<lb ed="#H" n="2" break="no"/>gibiles, id est, per φαντασίας seu imagines a reb. sensu perceptis 
+      abs<lb ed="#H" n="3" break="no"/>tractas &amp; animo impressas: seu per similitudines quas mens 
+      conci<lb ed="#H" n="4" break="no"/>it &amp; conceptas retinet, tanquam sigilla cerae impressa. 1. quia Dei 
+      <lb ed="#H" n="5"/>sapientia, scientia, notitia nullum principium, nullam causam habet 
+      <lb ed="#H" n="6"/>non gignitur aliunde, sed essentialis est naturae divinae illius aeternae 
+      <lb ed="#H" n="7"/>&amp; immutabilis. Species aute intelligibiles, per quas intellectus 
+      ali<lb ed="#H" n="8" break="no"/>quid novit, principium &amp; causa sunt scientiae in intellectu. 2. quia 
+      <lb ed="#H" n="9"/>Deus omnia novit ab aeterno, non igitur per species rerum 
+      intelli<lb ed="#H" n="10" break="no"/>gibiles, quia illae non sunt ab aeterno. 3. quia Deus est simplicissimus 
+      <lb ed="#H" n="11"/>seu simplicissima essentia: non esset autem talis, si per species rerum. 
+      <lb ed="#H" n="12"/>intelligeret: quia aliud jam in ipso esset essentia, aliud illae imagines, 
+      <lb ed="#H" n="13"/>per quas essentia cognosceret. Quin Dei tanta est simplicitas, ut ejus 
+      <lb ed="#H" n="14"/>scientia non sit diversum quid ab ejus essentiat species autem 
+      intelli<lb ed="#H" n="15" break="no"/>gibiles, per quas intellectus aliquid novit, sunt diversae ab intellectu 
+      <lb ed="#H" n="16"/>4. quia Deus est purissimus actus. Non esset autem actus purissimus, 
+      <lb ed="#H" n="17"/>si per imagines illas cognosceret, quia prius esset in potentia ad illas 
+      <lb ed="#H" n="18"/>intelligendas, quam actu intelligeret. 5. quia sapientia Dei est causi 
+      <lb ed="#H" n="19"/>universalis rerum omnium: Ergo non potest fieri earum effectum; Fiere 
+      <lb ed="#H" n="20"/>aute earum effectum, si esset in ipso per species seu imagines ab eis 
+      abs<lb ed="#H" n="21" break="no"/>tractas. 6. quia sapientia Dei est ipsamet essentia. 7. ga species intelli 
+      <lb ed="#H" n="22"/>gibilis, est similitudo rei intellectae in ipso intellectu impressa: At 
+      ta<lb ed="#H" n="23" break="no"/>les similitudines non sunt in ipso intellectu divino. Nam si essent, tum imi 
+      <lb ed="#H" n="24"/>pressae essent aut a se aut aliunde. Non a seipso: esset enim agens, 
+      im<lb ed="#H" n="25" break="no"/>primens &amp; patiens, seu impressionem recipiens. At Deus est actus 
+      pu<lb ed="#H" n="26" break="no"/>tissimus, sine potentia passiva. Neque ab alio extra Deum: quia nihil 
+      <lb ed="#H" n="27"/>prius Deo, nihilque in Deum imprimendo, agere potest. 8. Deus 
+      <lb ed="#H" n="28"/>omnia in se continet, &amp; ipsius essentia dicitur exemplar rerum 
+      omni<lb ed="#H" n="29" break="no"/>um. Idcirco non opus habet ullis imaginibus rerum ad eas 
+      cogno<lb ed="#H" n="30" break="no"/>scendas, sed sua sibi essentia sufficit, quam videndo videt omnia 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e484">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Quarto, novit omnia simul, uno, aeterno &amp; immutabili 
+      intelligen<lb ed="#H" n="32" break="no"/>di actu atque uno momento, hoc est, una simplici intellectione, non 
+      <lb ed="#H" n="33"/>discursive seu per discursum, non successive, ut unam post alteram 
+      <lb ed="#H" n="34"/>cognoscat: nec ratiocinando res alias ex aliis colligens &amp; intelligens: 
+      <lb ed="#H" n="35"/>neque ex noto ad ignotum procedens, uti recte docet Thomas in 
+      pri<lb ed="#H" n="36" break="no"/>ma parte Summae Quaest. 14, articulo septimo: nec demum in 
+      tem<lb ed="#H" n="37" break="no"/>pore &amp; cum motu 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e504">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Testimonium est Actor. 15. v. 18. Nota sunt Deo ab aevo omnia 
+      <lb ed="#H" n="39"/>opera sua. Et Jacob. 1. vers. 17. Apud Deum non est transmutatio aut 
+      <lb ed="#H" n="40"/>coversionis obumbratio, id est, Deus nihil cognoscit per vices &amp; 
+      mo<lb ed="#H" n="41" break="no"/>do hoc, modo illud, diversis temporibus, sed omnia simul. Si Deus 
+      <lb ed="#H" n="42"/>distinctis actibus modo hoc, modo illud cognosceret, discursus esset 
+      <lb ed="#H" n="43"/>&amp; motus in Dei voluntate, seu in Deo ipso volente. At discursus &amp; 
+      <lb ed="#H" n="44"/>motus in Deo non est, nec esse potest. Rationes. 1. quia Deus est 
+      <lb ed="#H" n="45"/>simplicissimus: Ergo uno simplici actu omnia simul cognoscit. 2. qui 
+      <lb ed="#H" n="46"/>est ab aeterno, is non cognoscit successive, per prius &amp; posterius: 
+      A<lb ed="#H" n="47" break="no"/>Deus est aeternus: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e530">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Quinto, novit &amp; intelligit Deus omnino omnia, hoc est, tum 
+      pri<lb ed="#H" n="49" break="no"/>mo, directe &amp; adaequate seipsum in seipso: tum secundo qua indirect 
+      <lb ed="#H" n="50"/>quaecunque sunt extra ipsum, divina &amp; non divina, ut Angelica, ut 
+      <lb ed="#H" n="51"/>humana: coelestia, terrena:bona, mala: maxima, minima: occulta. 
+      <lb ed="#H" n="52"/>manifesta: universalia, singularia: necessaria, contingentia: 
+      nobilis<lb ed="#H" n="53" break="no"/>sima, vilissima: quae sunt, quae non sunt, sed esse possunt: futura, non 
+      <lb ed="#H" n="54"/>futura: praesentia, praeterita: quae fuerunt, &amp; non fuerunt: atque adeo 
+      <lb ed="#H" n="55"/>infinita, etiam ea quae nunquam futura funt, 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e553">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Quod Deus seipsum noverit aequali notitia sui, haec testimonia. 
+      <lb ed="#H" n="57"/>demonstrant, Matth. 3. vers. 27. Nemo novit Filium nisi Pater; nec 
+      <lb ed="#H" n="58"/>Patrem quisquam novit nisi Filius. I. Corinth. 2. vers. 10. Spiritus 
+      <lb ed="#H" n="59"/>omnia scrutatur, etiam profunditates Dei. Quis enim hominum 
+      <lb ed="#H" n="60"/>novit ea quae sunt hominis, nisi spiritus hominis, qui est in eo? ita 
+      et<lb ed="#H" n="61" break="no"/>iam ea quae sunt Dei, nemo novit nisi Spiritus Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e571">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Quod omnia quaecunque sunt extra ipsum, Deus noverit; 
+      testan<lb ed="#H" n="63" break="no"/>tur haec dicta, I. Johan. 3. 20. Potentior est Deus corde nostro &amp; novit. 
+      <lb ed="#H" n="64"/>omnia. Johan. 21. 17. Domine, tu omnia noscit:? Hebr. 4. 13. omnia 
+      <lb ed="#H" n="65"/>sunt nuda &amp; patentia oculis ejus, qui cum nobis est negotium 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e584">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Quod sciat arcanos quosque motus voluntatum, cordium &amp; 
+      co<lb ed="#H" n="67" break="no"/>gitationum, &amp; peccata hominum, liquet ex his allegatis, Genes. 6. 5. 
+      <lb ed="#H" n="68"/>Quum videret Iohova augescere malitiam hominis in terra &amp; 
+      o<lb ed="#H" n="69" break="no"/>mne figmentum cogitationum cordis ejus, tantummodo malum est, 
+      <lb ed="#H" n="70"/>omni tempore. Psalm. 90. vers. 8. Proponis iniquitates nostras tibi, 
+      <lb ed="#H" n="71"/>occulta nostra lumini faciei tuae. Et Psalm. 94. 11. Iehova cognoscit 
+      <lb ed="#H" n="72"/>cogitationes hominum, esse vanitatem ipsam. Proverb. 17. 3. 
+      Fuso<lb ed="#H" n="73" break="no"/>rium vas argento adhibetur, &amp; catinus auro; qui alitem probat 
+      cor<lb ed="#H" n="74" break="no"/>da, est Iehova. Jerem. 16. vers. 17. Oculi mei advertunt ad omnes 
+      <lb ed="#H" n="75"/>vias eorum, non sunt absconditae a facie mea, neque est abolita 
+      ini<lb ed="#H" n="76" break="no"/>quitas eorum, ex adverso oculorum meorum. Et cap. 18. 23. Tu 
+      Ie<lb ed="#H" n="77" break="no"/>hova nosti totum consilium eorum contra me ad mortem. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e615">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Quod noverit omnia, etiam singularia, non in universali tantum 
+      <lb ed="#H" n="79"/>sensu, hoc est, in universalibus causis &amp; affectionibus, seu notione 
+      <lb ed="#H" n="80"/>universali ex genere, indistincte; sed quatenus sunt singularia, 
+      pro<lb ed="#H" n="81" break="no"/>prie &amp; distincte, quatenus exsistunt, &amp; quatenus ab ipso facta subsi 
+      <lb ed="#H" n="82"/>stunt, quum omne quod est, co ipso quo est, singulare sit; constat 
+      pri<lb ed="#H" n="83" break="no"/>mo ex cap. 4. ad Hebraeos, vers. 13. Nec est ulla res creata quae non 
+      <lb ed="#H" n="84"/>manifesta sit in conspectu ejus. Psalm. 56. vers. 9. Tu vagationes meus. 
+      <lb ed="#H" n="85"/>in numerato habes, pone lacrymam meam in utre tuo, annon esset in 
+      <lb ed="#H" n="86"/>numerato tibi? Psal. 139. vers. 1. &amp;c. Iehova pervestigus me &amp; 
+      cog<lb ed="#H" n="87" break="no"/>noscis. Tu cognoscis sedere meum &amp; surgere meum, intelligis cogita 
+      <lb ed="#H" n="88"/>tionem meam e longinquo. Iter meum &amp; accubitum meum circum. 
+      <lb ed="#H" n="89"/>plecteris. Quum nondum est sermo in lingua mea, en, o Iehova, nosti 
+      <lb ed="#H" n="90"/>ipsum totum. Matth. 10. vers. 26. 30, Nonne duo passerculi assario 
+      <lb ed="#H" n="91"/>vaeneunt, &amp; unus ex eis non cadet in terram sine Patre vestro? 
+      Vestri<lb ed="#H" n="92" break="no"/>vero etiam capilli capitis omnes numerati sunt. 
+      <!--cod-MkL9py-0184.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>II. Deus res a se invicem distinguit: novit unam non esse 
+      alte<lb ed="#H" n="94" break="no"/>tam, Judam Iscariotem non esse Johannem, novit qui sint sui etiam 
+      <lb ed="#H" n="95"/>in specie seu singulari¬ 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e663">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Quod Deus noverit infinita, testatur Psaltes cum ait Psalm. 147. 
+      <lb ed="#H" n="97"/>pers. 5. Intelligentiae ejus non est numerus. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e672">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>OBIECTIOI. 
+      <lb ed="#H" n="99"/>Deus non novit singularia: Ergo non novit infinita. 
+      <lb ed="#H" n="100"/>Antecedens probat Abenrois seu <name xml:id="yyy8Uu-e73528-Nd1e682">Averroes</name> aliquot 
+      argumen<lb ed="#H" n="101" break="no"/>tis 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e690">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Primum: Cujus intellectus ab omni materia liber est, is non 
+      cog<lb ed="#H" n="103" break="no"/>noscit singularia. Dei intellectus ab omni materia liber est: Ergo 
+      <lb ed="#H" n="104"/>Deus non cognoscit singularia. Major probatur, quia omnia 
+      singu<lb ed="#H" n="105" break="no"/>laria sunt in assignata &amp; certa materia, &amp; cognoscuntur a faculta. 
+      <lb ed="#H" n="106"/>te, quae &amp; ipsa in materia est, &amp; materialibus instrumentis ad 
+      cog<lb ed="#H" n="107" break="no"/>poscendum utitur.  
+      <lb ed="#H" n="108"/>RESP. Major restringenda est ut sit vera: Cujus intellectus 
+      ab<lb ed="#H" n="109" break="no"/>omni materia liber est, is non cognoscit singularia, videlicet, si res non 
+      <lb ed="#H" n="110"/>possit intelligere nisi per species seu imagines a rebus collectas, &amp; 
+      <lb ed="#H" n="111"/>facultati cognoscenti oblatas; quomodo noster intellectus cognoscit.  
+      <lb ed="#H" n="112"/>At Dei intellectus ab omni quidem materia liber est, sed cum non 
+      <lb ed="#H" n="113"/>posse intelligere, nisi per species rerum oblatas, negatur.  
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e721">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Secundum: Quae non semper sunt, ea Deus non novit. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e728">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Singularia non semper 
+      sunt<lb ed="#H" n="116" break="no"/>Ergo singularia Deus non novit. 
+      <lb ed="#H" n="117"/>Assumtio probatur, quia singularia quum nondum essent genita, 
+      <lb ed="#H" n="118"/>non erant: quum vero corrumpuntur, desinunt esse¬ 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e741">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>RESPON. Major est falsa. Deus enim novit omnia sive semper 
+      <lb ed="#H" n="120"/>int, sive non sint semper. Nam scientia Dei a rebus non pendet, sicut 
+      <lb ed="#H" n="121"/>nostra. Novit enim omnia per suam essentiam, tum quae sunt, tum 
+      <lb ed="#H" n="122"/>quae non sunt, tum quae fuerunt, tum quae nunquam futura sunt, sed 
+      <lb ed="#H" n="123"/>neri possunt. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e757">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Tertium: Si Deus singularia novit, tum aut semper ea novit. 
+      <lb ed="#H" n="125"/>aut modo novit, modo non novit. Atqui primum non potest dici; quae 
+      <lb ed="#H" n="126"/>enim non sunt, eorum scientia haberi non potest: neque secundum; 
+      <lb ed="#H" n="127"/>quia scientia Dei esset variabilis. Nullo igitur modo intelligit 
+      sin<lb ed="#H" n="128" break="no"/>gularia. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e773">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>RESPON. Negatur assumtionis membrum prius, quia Deus 
+      <lb ed="#H" n="130"/>omnia semper novit: nam omnia semper ei sunt praesentia 
+      <lb ed="#H" n="131"/>Quartum: Quorum non est determinata veritas, ea Deus non 
+      <lb ed="#H" n="132"/>novit 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e787">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>Singularium futurorum non est determinata veritas 
+      <lb ed="#H" n="134"/>Ergo: &amp;c. 
+      <lb ed="#H" n="135"/>Minor probatur: quia futurorum contingentium non est 
+      deter<lb ed="#H" n="136" break="no"/>minata veritas. Futura enim contingentia possunt esse &amp; non 
+      esse<lb ed="#H" n="137" break="no"/>At singularia futura sunt contingentia. Ergo 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e803">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>RESPON. Major probationis est particularis. Vera est enim 
+      <lb ed="#H" n="139"/>cantum de nobis, quoniam causae e quibus sunt res contingentes, non 
+      <lb ed="#H" n="140"/>bis sunt ignotae &amp; incertae: Non autem vera est de Deo, cum ei 
+      o<lb ed="#H" n="141" break="no"/>mnes causaesint notae, quia ab eo omnes sunt definitae. Ita etiam fit, 
+      <lb ed="#H" n="142"/>ut nihil Deo, sed nobis duntaxat sit contingens. Proinde certa quo- 
+      <lb ed="#H" n="143"/>que est Dei de futuris contingentibus cognitio atque veritas 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e821">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Quintum: Si singularium, antequam sint, non possunt causa 
+      per<lb ed="#H" n="145" break="no"/>cipi, tum ipsa etiam percipi non possunt. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e830">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>At prius est: Ergo &amp; posterius. 
+      <lb ed="#H" n="147"/>RESPON. Concedo totum intellectum de nobis: non autem de 
+      <lb ed="#H" n="148"/>Deo. Nos enim cogimur singularia ipsa, aut in seipsis videre, quum 
+      <lb ed="#H" n="149"/>nimirum sunt in actu: aut in suis causis praevidere, quum videlicet 
+      <lb ed="#H" n="150"/>sunt in potentia. Sed Deum ad talem, id est, miseram conditionem 
+      <lb ed="#H" n="151"/>redigere velle, est impia audacia¬ 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e848">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Sextum: Infinitorum nulla est scientia. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e855">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Singularia sunt infinita: 
+      <lb ed="#H" n="154"/>Ergo singularium non est scientia. 
+      <lb ed="#H" n="155"/>RESP. Conceditur totum recte intellectum, nempe de nobis 
+      <lb ed="#H" n="156"/>quorum intellectus est finitus: Negatur intellectum de Deo, cujus 
+      <lb ed="#H" n="157"/>icientia est infinita; 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e872">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Septimum. Si Deus cognosceret singularia, vilesceret intellectus 
+      <lb ed="#H" n="159"/>divinus 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e881">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>At posterius est absurdum: 
+      <lb ed="#H" n="161"/>Ergo &amp; prius 
+      <lb ed="#H" n="162"/>Connexum probatur: Si Deus cognosceret vilissima prope 
+      infini<lb ed="#H" n="163" break="no"/>ta: vilesceret intellectus diuvinus:. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e894">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>At si Deus cognosceret singularia, cognosceret vilissima propo¬ 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e901">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>infinita. 
+      <lb ed="#H" n="166"/>Ergo si Deus cognosceret singularia, vilesceret intellectus di¬ 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e910">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>vinus 
+      <lb ed="#H" n="168"/>RESPGN. Connexum est restringendum. I. Si Deus 
+      cogno<lb ed="#H" n="169" break="no"/>sceret res per species ab illis acceptas. II. Si cognitionis objecta 
+      <lb ed="#H" n="170"/>mutarent nobilitatem vel ignobilitatem intellectus. III. Si res 
+      <lb ed="#H" n="171"/>aliqua vilis esset per se. IIII. Si diversis actibus cognosceret 
+      sin<lb ed="#H" n="172" break="no"/>ularia. At Deus nec per species intelligit, nec per objecta mutatur 
+      <lb ed="#H" n="173"/>intellectus ejus: Imo cognitio cujusvis rei, etiam ignobilissimae &amp; 
+      vi<lb ed="#H" n="174" break="no"/>issimae, perficit ac nobilitat intellectum creatum: quomodo igitur? 
+      <lb ed="#H" n="175"/>meliorem redderet divinum? Et quia scientia Dei est non ab enter 
+      <lb ed="#H" n="176"/>sedentis, ideo dignitatis vel indignitatis a rebus cognitio nihil 
+      acci<lb ed="#H" n="177" break="no"/>pit. Tum nulla res est vilis per se, sed tantum comparatione aliarum 
+      <lb ed="#H" n="178"/>Tumque Deus nihil praeter se cognosceret, quia omnia ejus 
+      respe<lb ed="#H" n="179" break="no"/>ctu, sunt ipsa vilitas. Insuper Deus non diversis distinctisque actibus, 
+      <lb ed="#H" n="180"/>sed uno actu omnia &amp; singula cognoscit: 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e945">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>Octavum: Si Deus cognosceret singularia, mala etiam in 
+      <lb ed="#H" n="182"/>Deo essent 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e955">
+               <lb ed="#H" n="183"/>
+               <pc type="indent"/>At hoc est absurdum: Ergo &amp; illude 
+      <!--cod-MkL9py-0185.xml-->
+      <pb ed="#H" n="158"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Probatur connexi consequentia: Cognitum enim est aliquo modo 
+      <lb ed="#H" n="2"/>in cognoscente. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e973">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>RESPOND. Deus malum non intelligit mali speciem in se 
+      reci<lb ed="#H" n="4" break="no"/>piendo: sed seipsum intelligendo, simul bona omnia intelligit, &amp; 
+      bo<lb ed="#H" n="5" break="no"/>na intelligendo, mala etiam quae nihil aliud sunt, quam privationes 
+      <lb ed="#H" n="6"/>bonorum, cognoscit 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e986">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>OBIECTIO II. 
+      <lb ed="#H" n="8"/>Si Deus non novit simpliciter impossibilia, tum non novit 
+      infi<lb ed="#H" n="9" break="no"/>nita. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e997">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>At prius est: Ergo &amp; posterius. 
+      <lb ed="#H" n="11"/>RESPOND. Nego connexi consequentiam: Primo, quia non 
+      <lb ed="#H" n="12"/>magis illa valet, quam ista; Si Deus non potest impossibilia, tum non 
+      <lb ed="#H" n="13"/>potest infinita. Eadem enim Deus non novit, quae non potest, &amp; quae 
+      <lb ed="#H" n="14"/>non vult. Deinde, quia etiam possibilia sunt infinita; 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1013">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Replicatio seu Instantia: Si Deus non novit impossibilia, tum est 
+      <lb ed="#H" n="16"/>in eo aliqua ignorantia. At hoc est absurdum. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1022">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Ergo &amp; illud 
+      <lb ed="#H" n="18"/>RESPON. Negatur connexi consequentia: nam non magis id 
+      <lb ed="#H" n="19"/>sequitur, quam si quis diceret: Si Deus non potest impossibilia, tum est 
+      <lb ed="#H" n="20"/>in eo aliqua impotentia. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1036">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Hactenus quintum membrum descriptionis sa¬ 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1043">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>pientiae Dei. 
+      <lb ed="#H" n="23"/>Sexto, novit omnia perfectissime, hoc est, non ex parte, ut nos 
+      ho<lb ed="#H" n="24" break="no"/>mines: nec ut augeri vel minui possit Dei sapientia; unde Paulus ait 
+      <lb ed="#H" n="25"/>Roman. 11. vers. 33. O profundas divitias tum Sapientia tum 
+      cogi<lb ed="#H" n="26" break="no"/>nitionis Dei! Et Psaltes testatur scientiae Dei non esse numerum Ps. 
+      <lb ed="#H" n="27"/>147. v. 5. Magnus est Dominus noster, &amp; multus viribus; cujus in 
+      <lb ed="#H" n="28"/>telligentia est innumerabilis. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1063">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Septimo, novit omnia certo &amp; evidenter, hoc est, nihil novit 
+      opi<lb ed="#H" n="30" break="no"/>nione duntaxat, nihil demum ex alterius relatu, quemadmodum nos 
+      <lb ed="#H" n="31"/>novimus ea quae opinamur vel credimus. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1074">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Octavo, novit omnia distincte, hoc est, non confuse, non generali 
+      <lb ed="#H" n="33"/>ter &amp; communiter tantum, sed peculiariter etiam &amp; singulariter sint 
+      <lb ed="#H" n="34"/>gula individua: ac proinde novit universa &amp; singula, universe &amp; sin 
+      <lb ed="#H" n="35"/>gulariter. Hinc Christus ait, omnes capillos capitis nostri numeratos 
+      <lb ed="#H" n="36"/>esse, Luc. 12. v. 7. Unum passerculum non cadere in terram sine Patre. 
+      <lb ed="#H" n="37"/>nostro, Matth. 10. 29. Et Paulus ait. 2. Timoth. 2. 19. Novit 
+      Domi<lb ed="#H" n="38" break="no"/>nus eos, qui sunt sui. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1094">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>Nono, novit omnia necessario &amp; immutabiliter: quia sapientia 
+      <lb ed="#H" n="40"/>Dei semper est eadem, nunquam variatur, nuquam augetur, 
+      minui<lb ed="#H" n="41" break="no"/>turve, &amp; quia omnia praeterita, praesentia &amp; futura necessaria &amp; 
+      con<lb ed="#H" n="42" break="no"/>tingentia scit infinita scientia sua &amp; infallibiliter necessitatis illius 
+      <lb ed="#H" n="43"/>absolutissimae virtute. Etsi igitur Deus etiam novit contingentia, 
+      <lb ed="#H" n="44"/>hoc est, quae in se &amp; nobis talia sunt, tamen non novit ea 
+      contingen<lb ed="#H" n="45" break="no"/>ter, sed necessario &amp; infallibiliter, quatenus subduntur divino 
+      adspe<lb ed="#H" n="46" break="no"/>ctui secundum modum praesentiae illius. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1116">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Sic fuit descriptio sapientiae Dei: sequitur  
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1124">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>distributio.  
+      <lb ed="#H" n="49"/>Sapientia Dei complectitur intelligentiam, scientiam, artem &amp; 
+      <lb ed="#H" n="50"/>prudentiam. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1135">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Haec in hominibus re differunt: in Deo re unum &amp; idem sunt, &amp; 
+      <lb ed="#H" n="52"/>modo atque ratione tantum distinguuntur. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1144">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Intelligentia Dei, est cognitio evidentissima rerum omnium, 
+      infi<lb ed="#H" n="54" break="no"/>nitis modis evidentior, excellentior, perfectior, quam in ullo est 
+      An<lb ed="#H" n="55" break="no"/>gelo aut homine intelligentia principiorum 
+      <lb ed="#H" n="56"/>Scientia Dei, est notitia simplicissima omnium eorum quae 
+      crea<lb ed="#H" n="57" break="no"/>turae rationales ratiocinando cognoscunt; Deus autem absque 
+      dis<lb ed="#H" n="58" break="no"/>cursu ratiocinationis omnia. Psalm. 139. 6. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1162">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Scientia Dei est sine ratiocinatione, sine discursu, hoc est, Deus 
+      <lb ed="#H" n="60"/>non syllogizat; non ratiocinatur. Ratiocinatio enim I. Est de rebus 
+      <lb ed="#H" n="61"/>dubiis, at Deo nihil est dubium, Hebr. 4. vers. 13. Omnia sunt nuda, 
+      <lb ed="#H" n="62"/>&amp; patentia oculis ejus, quicum nobis est negotium. II Ratioci 
+      <lb ed="#H" n="63"/>natio est de rebus quarum una est notior quam altera: at Deo omnia 
+      <lb ed="#H" n="64"/>sunt aeque perspicua &amp; clara, &amp; nequaquam alia aliis notiora. III 
+      <lb ed="#H" n="65"/>Ratiocinatio est propria eorum qui imperfecte cognoscunt, ac pro 
+      <lb ed="#H" n="66"/>inde aliud ex alio colligunt: at Deus perfectissime singula cognoscit 
+      <lb ed="#H" n="67"/>Vide in Hieronym. Zanchii libro tertio de natura &amp; attributis: 
+      <lb ed="#H" n="68"/>Dei, capite secundo, quaestione grima: &amp; capite tertio, quaestione 
+      duo<lb ed="#H" n="69" break="no"/>decima: item libro quinto, capite primo, quaestione quarta, in 
+      refuta<lb ed="#H" n="70" break="no"/>tione sophismatum contra doctrinam de providentia Dei, pagina. 
+      <lb ed="#H" n="71"/>juadringentesimaoctava. Vide etiam Franciscum Suarezium, 
+      temo<lb ed="#H" n="72" break="no"/>secundo, Disputat. XXX. Sect. XV. numero XXXIV. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1197">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Scientia Dei PRIMo vel generalis est, vel specialis. 
+      <lb ed="#H" n="74"/>Geueralis scientia Dei, est quam simpliciter &amp; absolute omnia &amp; 
+      <lb ed="#H" n="75"/>κφτοη &amp; χι τοDοη cognoscit. Et haec ad omnia omnino, etiam ad 
+      <lb ed="#H" n="76"/>peccata &amp; reprobos se extendit: Bonum enim cognoscit Deus pra 
+      <lb ed="#H" n="77"/>mario &amp; per seipsum: Malum vero reductive per oppositum Bonum 
+      <lb ed="#H" n="78"/>Unde recte omniscientia Dei appellatur. De hac dicitur Hebr. 4. v. 
+      <lb ed="#H" n="79"/>13. Nec est ulla res creata quae non manifesta sit in conspectu ipsius 
+      <lb ed="#H" n="80"/>imo omnia sunt nuda &amp; patentia oculis ejus, quicum nobis est 
+      ne<lb ed="#H" n="81" break="no"/>gotium. De eadem sermo sit Psalm. 7. v. 10, &amp;c. &amp; 11. 4. &amp; 33. 13, 14. 
+      <lb ed="#H" n="82"/>&amp; 94. 11 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1223">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Axiomata. 
+      <lb ed="#H" n="84"/>I. Scientia Dei est actualis, non habitualis 
+      <lb ed="#H" n="85"/>II. Scientia Dei aliter se habet quam nostra. Nostra est simili 
+      <lb ed="#H" n="86"/>visui illorum, qui in via communi ambulantes, sequentes se non 
+      vi<lb ed="#H" n="87" break="no"/>dent: Deus vero, ut qui ex editiore loco totam viam intuetur, simul 
+      <lb ed="#H" n="88"/>eos omnes videt qui veriantur in ipsa, adspectu uno¬ 
+      <!--cod-MkL9py-0185.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>III. Omnia in scientia Dei sunt necessaria, etiamsi in se essent 
+      <lb ed="#H" n="90"/>contingentia respectu causarum suarum. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1250">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>IV. Scientia Dei est infallibilis, aeterna &amp; immutabilis. 
+      <lb ed="#H" n="92"/>V. Scientia Dei est infinita, id est, ad infinita se extendit.  
+      <lb ed="#H" n="93"/>VI. Scientia Dei est summe immaterialis, universalia &amp; 
+      parti<lb ed="#H" n="94" break="no"/>cularia, bona &amp; mala, materiata &amp; immateriata, uni versa &amp; 
+      singula<lb ed="#H" n="95" break="no"/>modo &amp; ratione immateriali purissimaque, sciens &amp; cognoscens 
+      si<lb ed="#H" n="96" break="no"/>mul absolutissime, 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1268">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>VII. Deus tum formas universales, ut principium universale, 
+      <lb ed="#H" n="98"/>habet in sese ab aeterno immutabiliter; tum formas singulares, ut 
+      <lb ed="#H" n="99"/>exemplar sive ideam rei cujusque singularis infinitate aeterna 
+      intel<lb ed="#H" n="100" break="no"/>lectus sui, secundum quam omnia &amp; singula sunt ipsi in se &amp; a 
+      se<lb ed="#H" n="101" break="no"/>aeternum praesentissima. In se autem dico, eo quod habet in essentia 
+      <lb ed="#H" n="102"/>sua exemplar, praeceptamque formam rerum omnium, cognitione 
+      <lb ed="#H" n="103"/>aeterna &amp; immutabili, atque infallibili secundum cognoscentis 
+      mo<lb ed="#H" n="104" break="no"/>dum: a se vero, eo quod principium est universale tum rerum omniu 
+      <lb ed="#H" n="105"/>communium &amp; singularium, tum scientiae &amp; cognitionis illarum 
+      <lb ed="#H" n="106"/>ne dum ut ab illis concipiat formas, qui per se &amp; in se exemplar 
+      ha<lb ed="#H" n="107" break="no"/>bet aeternam ipsarum 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1297">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>Specialis scientia Dei, est qua suos electos non solum ut reliqua 
+      o<lb ed="#H" n="109" break="no"/>mnia cognoscit, verum etiam gratiose agnoscit pro suis, ab aliis dis 
+      <lb ed="#H" n="110"/>cernit, prae aliis curat, eosque approbat, &amp; tanquam filios in illo 
+      dile<lb ed="#H" n="111" break="no"/>cto amat. De hac dicitur 2. Timoth. 2. vers. 19. solidum tamen fum 
+      <lb ed="#H" n="112"/>damentum Dei stat, habens sigillum hoc, Novit Dominus eos, qui  
+      <lb ed="#H" n="113"/>sunt sui. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1315">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Haec est notitia divinae praedestinationis, ait Thomas Aquinas i1 
+      <lb ed="#H" n="115"/>explanatione hujus loci. De eadem Christus loquitur, quum ait 
+      Jo<lb ed="#H" n="116" break="no"/>han. 10. vers. 14. agnosco oves meus. Et vers. 27. Oves mea vocen 
+      <lb ed="#H" n="117"/>meam audiunt &amp; ego eas agnosco. Et Psalm. 1. vers. 6. Quoniam 
+      no<lb ed="#H" n="118" break="no"/>vit Iehova viam justorum, at via improborum peribit. Haec 
+      vo<lb ed="#H" n="119" break="no"/>catur etiam scientia approbationis. Exod. 33. 12. ait Moses ad Deum 
+      <lb ed="#H" n="120"/>dixisti, agnosco te nominatim, id est, approbo te &amp; habeo 
+      ratio<lb ed="#H" n="121" break="no"/>nem tui. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1337">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Haec distinctio est necessaria, ut recte explicentur illa loca, in 
+      qui<lb ed="#H" n="123" break="no"/>bus Deus dicitur quosdam non nosse; ut Matth. 7. vers. 23. ait 
+      Chri<lb ed="#H" n="124" break="no"/>stus: Tunc autem profitebor eis, Certe nunquam novi vos, discedite. 
+      <lb ed="#H" n="125"/>a me, qui operam datis transgressioni legis. Hoc dictum loquitur de 
+      <lb ed="#H" n="126"/>notitia speciali conjuncta cum approbatione: sensus igitur est, 
+      nun<lb ed="#H" n="127" break="no"/>quam novi vos, nempe pro meis, nunquam vos approbavi, nunquam  
+      <lb ed="#H" n="128"/>gratiose dilexi 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1357">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>SECUNDo scientia Dei est tum notitia praeteritorum, &amp; 
+      praesen<lb ed="#H" n="130" break="no"/>tium; tum praescientia futurorum. Haec distinctio non Dei respectu 
+      <lb ed="#H" n="131"/>est accipienda, sed rerum quae fiunt, &amp; nostri quibus patesiunt. Nam 
+      <lb ed="#H" n="132"/>Deus simul uno intelligendi actu ab aeterno novit omnia, quae nobis 
+      <lb ed="#H" n="133"/>sunt praeterita, praesentia &amp; futura¬ 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1374">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>De notitia praeteritorum &amp; praesentium non est quod jam 
+      dica<lb ed="#H" n="135" break="no"/>mus: sed de Praescientia operaepretium est quaedam proponere, quae 
+      <lb ed="#H" n="136"/>est in genere scientia eo solum angustior, quod duntaxat de futuris 
+      <lb ed="#H" n="137"/>dicitur. Itaque idem plane est cum scientia Dei, nisi quod insuper 
+      ad<lb ed="#H" n="138" break="no"/>dit cognitionem praecedentem, id est, rerum futurarum solum: 
+      Sci<lb ed="#H" n="139" break="no"/>entia vero est scitorum omnium universe. Deinde scientia 
+      propri<lb ed="#H" n="140" break="no"/>complectitur quemlibet sciendi &amp; cognoscendi modum, sive ad 
+      ob<lb ed="#H" n="141" break="no"/>jectum intellectuale &amp; internum, quod intellectui scientis &amp; 
+      cog<lb ed="#H" n="142" break="no"/>noscentis inest, respexeris; sive ad materiale &amp; extrinsecum (nam ut 
+      <lb ed="#H" n="143"/>trumque genus perfectissime suo modo ab aeterno in aeternum 
+      cog<lb ed="#H" n="144" break="no"/>noscit Deus:) praescientia vero non nisi de objecto extrinseco, &amp; post. 
+      <lb ed="#H" n="145"/>futuro enunciari potest, quum de infinita Dei majestate agitur. 
+      Hu<lb ed="#H" n="146" break="no"/>jus differentiae ratio est evidens: Nam quicquid est in Deo, aeternum. 
+      <lb ed="#H" n="147"/>est: objectum intellectuale &amp; internum est in Deo: aeternum igitur? 
+      <lb ed="#H" n="148"/>At rei aeternae non est praescientia: aeterno enim quid praeire possit. 
+      <lb ed="#H" n="149"/>nec igitur est in Deo objecti aeterni praescientia. E diverso autem 
+      <lb ed="#H" n="150"/>quicquid non est in Deo, quicquid est extra Deum, non est aeternum. 
+      <lb ed="#H" n="151"/>aeternitate plane interminabili, ut loquuntur, id est, experte omnia 
+      <lb ed="#H" n="152"/>termini: Objectum materiale &amp; extrinsecum non est in Deo: Nec 
+      <lb ed="#H" n="153"/>aeternum igitur est, sed temporarium; Rei igitur temporariae 
+      praesci<lb ed="#H" n="154" break="no"/>entia est in Deo. Abista scientia &amp; praescientia Dei fluunt omnes 
+      a<lb ed="#H" n="155" break="no"/>ctus, qui ab ipso ad extra (ut loquuutur) id est, ad res omnes extra 
+      <lb ed="#H" n="156"/>ipsum feruntur atque occupantur  
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1429">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>Proprie igitur ei scientia tribuitur: praescientia vero καλαχεησικώσ, 
+      <lb ed="#H" n="158"/>non nisi rerum respectu, quas disposuit ipse, quaeque futuris 
+      tempo<lb ed="#H" n="159" break="no"/>ribus manifestandae erant Angelis &amp; hominibus. In hunc autem 
+      <lb ed="#H" n="160"/>modum describitur. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1442">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Praescientia Dei, est qua Deus significatur praevidisse &amp; 
+      praecog<lb ed="#H" n="162" break="no"/>hovisse ab aeterno omnia, quae nostri respectu futura dicuntur. 
+      Haeo<lb ed="#H" n="163" break="no"/>γωσις, Praevisio, praecognitio. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1453">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Eaque falli non potest, hoc est, quaecunque Deus praescit, 
+      necessa<lb ed="#H" n="165" break="no"/>rio &amp; infallibiliter praescit, necessitatis illius absolutissimae virtute, 
+      <lb ed="#H" n="166"/>quia omnia sunt ipsi actu praesentia, non secundum modum rerum, 
+      <lb ed="#H" n="167"/>causarumve solum, sed secundum modum intellectus aeterni &amp; 
+      im<lb ed="#H" n="168" break="no"/>mutabilis, omnia in se habentis actu aeterno &amp; immutabili.  
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1469">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>Estque PRIMO duplex: Universalis &amp; Particularis 
+      <lb ed="#H" n="170"/>Vniversalis praescientia Dei, est qua Deus ab aeterno novit 
+      o<lb ed="#H" n="171" break="no"/>mnia, in tempore futura, tum quae ipse facturus erat, sive in electis 
+      <lb ed="#H" n="172"/>sive in reprobis, sive in aliis creaturis, tum quae alii facturi &amp; 
+      admis<lb ed="#H" n="173" break="no"/>suri erant  
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1485">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Axiomata de praescientia Dei. 
+      <lb ed="#H" n="175"/>I. Universalis praescientia Dei ad universum mundi ambitum &amp; 
+      <lb ed="#H" n="176"/>ad omnes creaturas extenditur, etiam ad ea quae Deus ipse non facit, 
+      <lb ed="#H" n="177"/>ut ad peccata: nam illa quoque praescit Deus. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1499">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>II. Praescientia Dei non est causa eorum quae Deus decrevit 
+      <lb ed="#H" n="179"/>non facere, sed solummodo permittere, ut peccati, 
+      <!--cod-MkL9py-0186.xml-->
+      <pb ed="#H" n="159"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Eadem vero praesentia; est causa earum rerum, quas decrevit 
+      De<lb ed="#H" n="2" break="no"/>us facere vel per se vel per alios. Ita non omnium quae Deus praescit. 
+      <lb ed="#H" n="3"/>ipse est autor, sed tantum eorum quae ipse facere decrevit, sive per se 
+      <lb ed="#H" n="4"/>sive per alios. Res non tales sunt ob divinam praenotionem, sed quia 
+      <lb ed="#H" n="5"/>tales futurae erant, ipso Deo vel agente, vel praepatante, vel permit. 
+      <lb ed="#H" n="6"/>tente &amp; ordinante, ideo eas novit: 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1528">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Hoc tenendum ad refutandos Manichaeo: 
+      <lb ed="#H" n="8"/>Omnia quidem quae futura erant, Deus praescivit: sed non omnium 
+      <lb ed="#H" n="9"/>quae praescivit est causa vel autor.  
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1539">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>III. Nec alia ratione Deus quae sunt praevidit, quam quia ut 
+      fie<lb ed="#H" n="11" break="no"/>rent decrevit.  
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1548">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>IV. Nec praescientia seu praevisio divina affert rebus &amp; 
+      eventi<lb ed="#H" n="13" break="no"/>bus futuris necessitatem in ipsis. Utrumque enim verum est, tum 
+      <lb ed="#H" n="14"/>contingentia a Deo cognosci necessario &amp; infallibiliter, quatenus 
+      <lb ed="#H" n="15"/>subduntur divino adspectui secundum modum praesentiae illius, eoque 
+      <lb ed="#H" n="16"/>esse necessaria in scientia ejus: tum futura, in se (non autem in Deo. 
+      <lb ed="#H" n="17"/>esse contingentia cum suis causis comparata, quandoquidem nihil 
+      <lb ed="#H" n="18"/>est tam contingens, quin adhaereat semper aliquid necessarii. Mult, 
+      <lb ed="#H" n="19"/>minus affert praescientia seu praevisio divina coactivam necessitatem 
+      <lb ed="#H" n="20"/>peccandi: nam naturam ipsam hominis &amp; voluntatem non abolet, u 
+      <lb ed="#H" n="21"/>nec praedestinatio. Nec ideo peccamus, quia praescit Deus, sed praescit 
+      <lb ed="#H" n="22"/>potius, quia peccaturi sumus, inquit Augustinus ad Simpliciat 
+      <lb ed="#H" n="23"/>num. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1579">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Praescientia Dei non cogit hominem, ut talis sit qualum praescivi 
+      <lb ed="#H" n="25"/>Deus, sed praescit talem futurum, qualis futurus est, quamvis eum non 
+      <lb ed="#H" n="26"/>sic fecerit Deus: Augustinus septimo tomo, libro de praedestinatione. 
+      <lb ed="#H" n="27"/>&amp; gratia, capite 15. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1592">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>V. Eadem praescientia patet latius quam praedestinatio, sed non 
+      <lb ed="#H" n="29"/>patet latius quam decretum: Nam nulla alia praescivit Deus, nisi qua 
+      <lb ed="#H" n="30"/>decrevit, vel facere vel permittere fieris 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1604">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>VI. Praescientia a permissiono distinguenda est: differunt enim 
+      <lb ed="#H" n="32"/>toto genere. Nam praescientia est actus intelligentiae: permissio est: 
+      <lb ed="#H" n="33"/>actus voluntatis, Illa est imminentis actus, ut vocant: haec vero 
+      trans<lb ed="#H" n="34" break="no"/>euntis. Illa objectum suum in sese habet; haec autem extra se 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1617">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>VII. Omnia quae Deus praescivit, etiam voluit fieri: quia nihi 
+      <lb ed="#H" n="36"/>prorsus fit, nisi quod Deus voluit fieri, bonum quidem Deo ipso 
+      fa<lb ed="#H" n="37" break="no"/>ciente vel per se vel per alios; peccatum vero permittente ut 
+      faci<lb ed="#H" n="38" break="no"/>anc alii 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1630">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>Praescientia Dei particularis, est qua speciatim quosdam, 
+      nimi<lb ed="#H" n="40" break="no"/>rum electos, cum gratioso amoris affectu, ut suos praecognovit. 
+      Ro<lb ed="#H" n="41" break="no"/>man. 8. 29. Nam quos praenovit, etiam praedestinauit conformandos 
+      <lb ed="#H" n="42"/>imagini Filij sui. 1. Petr. 1. vers. 2. Electis ex praescientia Dei. Haec est 
+      <lb ed="#H" n="43"/>causa eorum quae Deus praescivit. Cum enim dicimur electi &amp;ο ωρο¬ 
+      <lb ed="#H" n="44"/>γνήσιν 1. Petr. 1. v. 2. certe ωρογνωσις causam electionis significat,  
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1648">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Rursus praescientia Dei vel theorica est, vel 
+      practica<lb ed="#H" n="46" break="no"/>Praescientia Dei, quemadmodum &amp; scientia, consideratur duobus 
+      <lb ed="#H" n="47"/>modis: uno: absolute simpliciterque secundum propriam rationem ejus 
+      <lb ed="#H" n="48"/>in seipsa: altero, secundum quid &amp; respective (ut loquuntur) 
+      prous<lb ed="#H" n="49" break="no"/>est praescientia artificis, res a se praescitas operantis. Prior est 
+      praescien<lb ed="#H" n="50" break="no"/>tia nuda, ac proinde theorica, speculativa, contemplativa dicitur:  
+      <lb ed="#H" n="51"/>posterior est activa, ideo practica appellatur:  
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1668">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>Praescientia Dei theorica, est quae absolute simpliciterque 
+      secun<lb ed="#H" n="53" break="no"/>dum propriam rationem suam in seipsa agit ac non in alio, distinct 
+      <lb ed="#H" n="54"/>a voluntate 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1679">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Quod si praescientia theorica in alio ageret, jam ex facto 
+      theorica<lb ed="#H" n="56" break="no"/>esse desineret. Intellectus non agit in alium, ut intellectus est. 
+      Pro<lb ed="#H" n="57" break="no"/>prium intellectus est, ut suo modo percipiat, quae foris sunt: 
+      proprii<lb ed="#H" n="58" break="no"/>voluntatis ut ad ea quae foris sunt moveatur intellectu suo. Scientia 
+      <lb ed="#H" n="59"/>&amp; praescientia intellectus est, ac non voluntatis: per se igitur non 
+      effi<lb ed="#H" n="60" break="no"/>cit quicquam foris, ac proinde non est causa eorum quae fiunt. Si 
+      <lb ed="#H" n="61"/>quando certo (ut fit) praescivit medicus, aegrotum brevi moriturum, 
+      <lb ed="#H" n="62"/>an mortis causam dixeris praescientiam ejus? si aedificium ruiturum 
+      <lb ed="#H" n="63"/>architectus praeviderit; si speculator praenoverit viatorem in pericu 
+      <lb ed="#H" n="64"/>lum a leonibus vel lupis vel praedonibus venturum; si natura 
+      praevi<lb ed="#H" n="65" break="no"/>derit in alto perituram navim, dum littus non potest legere; quis 
+      <lb ed="#H" n="66"/>horum praescientiam causam esse istorum malorum affirmabit? quit  
+      <lb ed="#H" n="67"/>proprium est scientiae &amp; praescientiae quod aeque mala cognoscit ac 
+      <lb ed="#H" n="68"/>bona, &amp; praenoscit ea, an propterea est malorum causa? quid illa 
+      <lb ed="#H" n="69"/>divina praescientia facias? quae praescivit mala omnia universe &amp; sine 
+      <lb ed="#H" n="70"/>exceptione ulla, eoque universe malorum omnium causas(quod 
+      ab<lb ed="#H" n="71" break="no"/>sit) diceretur  
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1722">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Praescientia Dei practica, est quae cum voluntate juncta agit in 
+      a<lb ed="#H" n="73" break="no"/>lio. Hanc Scholastici praescientiam beneplaciti vocant: Et haec est 
+      <lb ed="#H" n="74"/>eausa rerum. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1733">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>TERTIO, scientia Dei est vel visionis, vel simplicis intelligens 
+      <lb ed="#H" n="76"/>tiae, 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1742">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Scientia visionis in Deo, est qua Deus ea quae sunt &amp; omnino 
+      fu<lb ed="#H" n="78" break="no"/>tura sunt novit &amp; videt, tanquam praesentia. Eaque novit primo in 
+      <lb ed="#H" n="79"/>seipso non solum tanquam potente, hoc est, qui ea possit facere, sed 
+      <lb ed="#H" n="80"/>etiam tanquam ea tandem fieri volente 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1755">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Secundao novit ea, in suis quoque causis secundis &amp; proximis, a 
+      <lb ed="#H" n="82"/>quibus omnino tandem proficiscentur &amp; in lucem prodibunt. Ter¬. 
+      <lb ed="#H" n="83"/>tio novitra Deus in semetipsis, quia scilicet omnia futura sunt: Haec 
+      <lb ed="#H" n="84"/>igitur scientia non novit innnitas res &amp; substantias, nunquam enim 
+      <lb ed="#H" n="85"/>turi ae sunt infinitae substantiae, quum creatio rerum &amp; principium 
+      <lb ed="#H" n="86"/>halmerit, &amp; habitura sit sinem. Hac tamen scientia novit insinitas 
+      <lb ed="#H" n="87"/>motiones, eo, geatiodes nimirum, affectiones &amp; actiones in creatur 
+      <lb ed="#H" n="88"/>ris tam malis quam bonis. Haec scientia vocatur etiam notitia 
+      intui<lb ed="#H" n="89" break="no"/>tiva, quae rendit in res ut praesentes sunt, non autem quia aliunde 
+      <lb ed="#H" n="90"/>comprobantur. Hac Deus &amp; se &amp; creaturas intuetur: &amp; tamen nec 
+      <lb ed="#H" n="91"/>ab ipso Deo, neque a creaturis dicitur pendere, ut neque causari 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1784">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>Scientia simplicis intelligentia in Deo, est qua Deus ea quae pos¬  
+      <!--cod-MkL9py-0186.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>sunt quidem fieri &amp; esse, sed nunquam fient, nunquam erunt, novit in 
+      <lb ed="#H" n="94"/>sua duntaxat omnipotente essentia, non autem in volente, quia ea 
+      <lb ed="#H" n="95"/>non vult fieri; neque in causis eorum secundis, quia nullas habent; 
+      <lb ed="#H" n="96"/>neque in seipsis, quia nunquam futura sunt  
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1804">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>Haec scientia dicitur simplicis intelligentiae, quia quae non exsistut: 
+      <lb ed="#H" n="98"/>reipsa, solummodo intelliguntur. Eaque solius Deitatis est, sic ut no 
+      <lb ed="#H" n="99"/>quidem animae Christi ullo modo competat; etsi similitudo creata 
+      <lb ed="#H" n="100"/>scientiae visionis sit in anima Christi¬ 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1818">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Hac scientia novit Deus etiam insinitas substantias, tametsi 
+      nun<lb ed="#H" n="102" break="no"/>uam actu futurae sint: potentia enim Dei in infinitum extenditur? 
+      <lb ed="#H" n="103"/>hoc est, potest infinita creare. Unde &amp; scientia indefinita, quia est rerum 
+      <lb ed="#H" n="104"/>infinitarum, etsi nunquam futurae sunt. Haec dicitur etiam notitia 
+      <lb ed="#H" n="105"/>ibstractiva, quae antecedit omnem actum divinae voluntatis: 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1834">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Axiomata. 
+      <lb ed="#H" n="107"/>I. Deus novit etiam ea quae non sunt: &amp; vero etiam quae 
+      nun<lb ed="#H" n="108" break="no"/>quam actu futura sunt, dum modo non sint simpliciter impossibilia. 
+      <lb ed="#H" n="109"/>Ut enim Deus non vult &amp; non potest impossibilia simpliciter: ita 
+      et<lb ed="#H" n="110" break="no"/>iam ea non novit 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1850">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>II. Ea quae nunquam sunt futura, dummodo non sint simpliciter 
+      <lb ed="#H" n="112"/>impossibilia, habent esse in omnipotentia Dei: idcirco omnium 
+      eo<lb ed="#H" n="113" break="no"/>rum est veritas 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1861">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Quaecunque Deus novit: aliquo modo habeant esse necesse est: At 
+      <lb ed="#H" n="115"/>simpliciter impossibilia nullo modo habent esse: Cujusmodi sunt: Dei 
+      <lb ed="#H" n="116"/>lum non esse, Deum non vivere, Deum non esse justum, Deum posse. 
+      <lb ed="#H" n="117"/>nentiri, Deum posse seipsum abnegare, factum posse fieri infectum, 
+      <lb ed="#H" n="118"/>duo contradictoria esse simulvera, &amp;c. Ergo simpliciter impossibilia 
+      <lb ed="#H" n="119"/>Deus non novit. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1879">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>Tantum de Scientia Dei: a qua ars &amp; prudentia re¬ 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1886">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>ipsa non differunt, sed tantum ra¬ 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1894">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>tione. 
+      <lb ed="#H" n="123"/>Ars Dei, est notitia Dei absolutissima per quam artificiose 
+      opera<lb ed="#H" n="124" break="no"/>sua efficit: ut dicitur Psalm, 139. 15. Non celata est vis mea tibi, ex quo 
+      <lb ed="#H" n="125"/>factus sum in abdito, artificiose confectus in imis partibus terrae. 
+      Et<lb ed="#H" n="126" break="no"/>Hebr. 11. v. 10 Deus dicitur rexviτns civitatis coelestis, id est, artifex. 
+      <lb ed="#H" n="127"/>Sic mundus seu Universum est arte factum quoddam supremi 
+      Ar<lb ed="#H" n="128" break="no"/>chetypi divinaeque artis 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1914">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>Prudentia Dei, est notitia Dei absolutissima, per quam omnia 
+      de<lb ed="#H" n="130" break="no"/>cernit &amp; facit ex sapientissimo consilio voluntatis suae, Jesa. 40. 28. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1923">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>Nulla est pervestigatio prudentiae ejus. Jerem. 10. vers. 12. Prudentia 
+      <lb ed="#H" n="132"/>sua extendit coelo. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1932">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>Porro quaeritur PRIMo, An Deo competat prudentia? Causa 
+      du<lb ed="#H" n="134" break="no"/>bitandi est, quia prudentia sine ratiocinatione esse non potest: ut 
+      A<lb ed="#H" n="135" break="no"/>ristoteles docet libro sexto: discursus autem &amp; ratiocinatio a Deo. 
+      <lb ed="#H" n="136"/>procul absunt, cum imperfectionem semper intra se annexam 
+      ha<lb ed="#H" n="137" break="no"/>beant. 
+      <lb ed="#H" n="138"/>RESPOND. Prudentia maxime competit Deo, ut subjectae 
+      ra<lb ed="#H" n="139" break="no"/>tiones ostendunt. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1952">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>I. Omnes virtutes in Deo sunt, sed citra omnem 
+      imperfectio<lb ed="#H" n="141" break="no"/>nem. Aliud enim &amp; alio modo in Deo sunt, quam in nobis. In Deo 
+      <lb ed="#H" n="142"/>sunt ipsa divina essentia simplicissima &amp; perfectissima: in nobis sunt 
+      <lb ed="#H" n="143"/>qualitates compositae cum subjecto, &amp; imperfectae. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1965">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>At prudentia est virtus maxima: 
+      <lb ed="#H" n="145"/>Ergo prudentia est in Deo. 
+      <lb ed="#H" n="146"/>II. Prudentiae proprium est praecipere, ut ea exsecutioni 
+      man<lb ed="#H" n="147" break="no"/>dentur, quae sunt decreta: Dei autem est proprium praecipere 
+      omni<lb ed="#H" n="148" break="no"/>bus creaturis, ut ipsius exsequantur decreta: Ergo in Deo est 
+      pru<lb ed="#H" n="149" break="no"/>dentia. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1984">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>III. Qui agit omnia ex consilio voluntatis suae, in eo est prudent 
+      <lb ed="#H" n="151"/>tia. Nam prudentiae proprium est rectum consilium inire, recto 
+      con<lb ed="#H" n="152" break="no"/>silio omnia sua instituere, agere, dirigere 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e1995">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>At Deus agit omnia ex confilio voluntatis suae Ephes. 1. vers. 11. 
+      <lb ed="#H" n="154"/>Deus agit prudenter, id est, proposito certo fine. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2004">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Ergo, &amp;c. 
+      <lb ed="#H" n="156"/>Quaeritur SECUNDO: Quomodo prudentia Deo competat i 
+      <lb ed="#H" n="157"/>RESPOND. Proprie Deo competit, sed sine discursu, sine 
+      ratio<lb ed="#H" n="158" break="no"/>cinatione, sine consultatione. Ideo in Deo statuitur a Scriptura 
+      con<lb ed="#H" n="159" break="no"/>silium, sed sine consultatione: sicut scietia, sed sine discursu: decretum, 
+      <lb ed="#H" n="160"/>sed sine deliberatione 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2022">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Axiomata de sapientia Dei. 
+      <lb ed="#H" n="162"/>I. Sapientia Dei est infinita ac imperscrutabilis, quia Deus est 
+      <lb ed="#H" n="163"/>infinitus, Job. 11. v. 7, 8, 9. An profunditatem sapientia Dei invenias. 
+      <lb ed="#H" n="164"/>Altior est altissimis coelis, quid agas? profundior sepulero imo; quid  
+      <lb ed="#H" n="165"/>cognoscas? Longior terra mensura ejus: &amp; latior maritPsalm. 147. 5: 
+      <lb ed="#H" n="166"/>Magnus est Dominus noster &amp; multus viribus, cujus intelligentia 
+      <lb ed="#H" n="167"/>est innumerabilis. Jes.40. v. 13. Quis expendit spiritum Iehovae? Et v: 
+      <lb ed="#H" n="168"/>58. Annon novisti? nonne audivisti Deum aeternum Iehovam, 
+      crea<lb ed="#H" n="169" break="no"/>torem extremitatum terrae non defetisci, neque defatigari? nulla est 
+      <lb ed="#H" n="170"/>pervestigatio prudentiae ejus. Roman. 11. 33. 34. O profundas divitia 
+      <lb ed="#H" n="171"/>lum sapientiae tum cognitionis Deilquam inscrutabilia sunt ejus 
+      ju<lb ed="#H" n="172" break="no"/>dicia, &amp; ejus viae impervestigabiles? Quis enim cognovit mentem 
+      <lb ed="#H" n="173"/>Domini¬ 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2055">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>II. Deus omnia sapienter facit, Psalm. 104. v. 24. Quam ampla 
+      <lb ed="#H" n="175"/>sunt opera tua o Iehova! quam ea omnia sapienter fecistitquam 
+      ple<lb ed="#H" n="176" break="no"/>na est terra possessione tuas Proverb. 3. vers. 19, 20 Iehova sapientia 
+      <lb ed="#H" n="177"/>fundavit terram, statuit coelos intelligentia. Scientia ejus abyssi 
+      dif<lb ed="#H" n="178" break="no"/>fisse sunt. Jer. 10. v. 12. Qui fecit terram virtute sua, stabilist orbem 
+      <lb ed="#H" n="179"/>nabilabilem sapientia sua, &amp; prudentia sua extendit coelos. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2073">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>III. Solus Deus est sapiens, Rom. 16. v. 27. Soli sapienti Deo 
+      glo<lb ed="#H" n="181" break="no"/>ria per Iesum Christum in secula, Amen. Solus Deus est omniscius: 
+      <lb ed="#H" n="182"/>solus novit omnia in coelo &amp; in terra¬ 
+      <!--cod-MkL9py-0187.xml-->
+      <pb ed="#H" n="160"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>IV. Deus est ἀυτόσεφος, a seipso sapiens, Jes. 40. vers. 13, 14. Quis 
+      <lb ed="#H" n="2"/>expendit spiritum Iehovae? ut vir a consiliis ei, docuit eum? Cum qui  
+      <lb ed="#H" n="3"/>communicavit consilium ut instrueret se, doceretque se iter judicit 
+      <lb ed="#H" n="4"/>doceret, inquam, se scientiam, &amp; viam summa prudentiae notam 
+      fa<lb ed="#H" n="5" break="no"/>ceret sibi? Rom. 11. 34. Quis ei fuit a consilios 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2103">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>VSVS attributi sapientiae divinae. 
+      <lb ed="#H" n="7"/>Primo, quum Deus noster sit sapiens, imo omniscius, discimus 
+      in<lb ed="#H" n="8" break="no"/>de, eum esse verum illum Deum: quo pertinet caput38 &amp; 39 &amp; 
+      Ac<lb ed="#H" n="9" break="no"/>Jobi. Et quod legitur I. Cor. 2. vers. 16. Quis novit mentem 
+      Domini<lb ed="#H" n="10" break="no"/>qui instructurus sit eum? Discimus inde, Deum alium esse ab 
+      omni<lb ed="#H" n="11" break="no"/>bus creaturis: quia ipsius scietia est simplicissima, uniformis, nullius 
+      <lb ed="#H" n="12"/>accidentis capax, ne potentia quidem; quae pugnaret cum perfectione 
+      <lb ed="#H" n="13"/>simplicitatis ejus. Itaque longe alia est scientiae divinae ac nostrae ratio. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2125">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Discimus inde, Deum nostrum a falsis diis esse discernendum: 
+      <lb ed="#H" n="15"/>quemadmodum ait Jesa. 42. 37. Ego indico, &amp; servo, &amp; praenuncio. 
+      <lb ed="#H" n="16"/>non autem ullus in vobis alienus Deus. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2136">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Secundo, confutantur hinc, qui omniscientiam quae proprietas 
+      <lb ed="#H" n="18"/>Dei essentialis est, humanae Christi naturae reali transfusione 
+      com<lb ed="#H" n="19" break="no"/>municatam esse contendunt. At quicquid verum Deum discernit: 
+      <lb ed="#H" n="20"/>creaturis &amp; falsis diis, id nequaquam reali transfusione humanae 
+      na<lb ed="#H" n="21" break="no"/>turae Christi communicatum est. Omniscientia autem verum Deum 
+      <lb ed="#H" n="22"/>discernit a creaturis &amp; falsis diis: Ergo omniscientia nequaquam 
+      re<lb ed="#H" n="23" break="no"/>ali transfusione humanae naturae Christi communicata est. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2156">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Contra sic opponunt. 
+      <lb ed="#H" n="25"/>I. Cui Deus dat Spiritum non ad mensuram, est omniscius: 
+      <lb ed="#H" n="26"/>Humanae Christi natura Deus dat Spiritum non ad mensuram: 
+      <lb ed="#H" n="27"/>Ergo humana Christi natura est omniscia 
+      <lb ed="#H" n="28"/>Assumtio probatur ex cap. 3. Johan. vers. 34. Non enim huic dat. 
+      <lb ed="#H" n="29"/>ad mensuram Deus Spiritum 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2174">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>RESPOND. Primo propositionem concedimus: est enim vera de  
+      <lb ed="#H" n="31"/>persona, de qua etiam loquitur: masculinum quippe est personae 
+      re<lb ed="#H" n="32" break="no"/>praesentativum. Secundo in assumtione est μεταρασις εἰς ἀλλο γινος 
+      <lb ed="#H" n="33"/>nam cum propositio intelligatur de persona; assumtio agit de 
+      natu<lb ed="#H" n="34" break="no"/>ta. Tertio in probatione assumtionis peccatur allegatione 
+      imperti<lb ed="#H" n="35" break="no"/>nentis testimonii: nam assumtio agit de natura, dictum vero 
+      allega<lb ed="#H" n="36" break="no"/>tum de persona θεανορώπῳ, cui Pater immensa dona contulit, ut de 
+      <lb ed="#H" n="37"/>plenitudine ejus omnes hauriremus. 
+      <lb ed="#H" n="38"/>II. In quo sunt omnes thesauri sapientiae ac cognitionis 
+      abscon<lb ed="#H" n="39" break="no"/>diti, is est omniscius. In humana Christi natura sunt omnes 
+      thesauri<lb ed="#H" n="40" break="no"/>sapientiae &amp; cognitionis absconditi: Ergo est omniscia 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2203">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>Assumtio probatur ex dicto Coloss. 2. vers. 3. In quo sunt omnes 
+      <lb ed="#H" n="42"/>thesauri sapientiae ac cognitionis abscondit. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2213">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>RESPOND. I Propositio quia de persona loquitur, est vera; a 
+      <lb ed="#H" n="44"/>libentissime eam largimur.  
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2222">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>II. In Assumtione iterum sit μετυβασις εἰς αλλο γινος propositio 
+      <lb ed="#H" n="46"/>loquitur de persona; at assumtio de natura¬ 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2231">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>III. In probanda assumtione affertur testimonium alienum 
+      <lb ed="#H" n="48"/>nam illa agit de natura, hoc vero de persona θεανορώπῳ, docetque 
+      o<lb ed="#H" n="49" break="no"/>mnem veram &amp; salutarem Dei agnitionem, nonnisi a solo Christ. 
+      <lb ed="#H" n="50"/>revelari omnibus electis &amp; sanctis, ac propterea hanc sapientiam 
+      <lb ed="#H" n="51"/>nusquam esse quaerendam extra Christum, ut quae tota in ipso solo 
+      <lb ed="#H" n="52"/>inveniatur &amp; per verbum &amp; Spiritum ejus nobis communicetur.  
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2249">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Tertio reprehendimur nos merito, quod nobis persuademus; Dei 
+      <lb ed="#H" n="54"/>um peccata nostra quae clam committimus, non videre, non observa. 
+      <lb ed="#H" n="55"/>re, non nosse. Quemadmodum homo animalis dicit cum animo suo. 
+      <lb ed="#H" n="56"/>eblitus est Deus fortis, abscondit faciem suam, ut legitur Psal. 10. 11. 
+      <lb ed="#H" n="57"/>Atqui nihil Dei Opt. Max, scientiam effugit. Huc pertinent loca 
+      Je<lb ed="#H" n="58" break="no"/>sa. 31. vers. 1, 2. Vae descendentibus in AEgyptum ad auxilium &amp; 
+      qui<lb ed="#H" n="59" break="no"/>innituntur equis: qui confidunt curribus quum multi sunt, &amp;cquid  
+      <lb ed="#H" n="60"/>tibus cum sunt numerosi valde, neque respiciunt ad sanctum Israelis 
+      <lb ed="#H" n="61"/>&amp; Iehovam non requirunt. Atqui ipse etiam sapiens est. Job. 9. vers.  
+      <lb ed="#H" n="62"/>1. 4. Si volet litigare cum eo, non potest respondere ad unum ex mille. 
+      <lb ed="#H" n="63"/>Est sapiens corde. Et cap. 11. v. 11. Nam ipse novit homines vanos; &amp; 
+      <lb ed="#H" n="64"/>videns nequitiam, annon consideraret 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2280">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Quarto valet plurimum cognitio sapientiae Dei ad fovendam 
+      <lb ed="#H" n="66"/>ietatem, fiduciam in Deum &amp; timorem Dei. Nam instruimur hinc 
+      <lb ed="#H" n="67"/>ad Deum sincero corde &amp; absque hypocrisi colendum. Qui enim 
+      <lb ed="#H" n="68"/>prorsus omnia novit, etiam intimos cordium nostrorum recessus 
+      <lb ed="#H" n="69"/>novit, ac proinde reverendus &amp; metuendus est, ut qui peccata puni 
+      <lb ed="#H" n="70"/>turus sit, Jerem. 16. vers. 16, 17. Instruimur, a Deo sapientiam 
+      peter<lb ed="#H" n="71" break="no"/>dam, scientiam, intelligentiam, artem &amp; prudentiam omnem. Huc 
+      <lb ed="#H" n="72"/>pertinet lllud 2. Paralip. 16. v. 9. Iehovae oculi discurrunt per totam. 
+      <lb ed="#H" n="73"/>terram, ut firmum se exhibeat erga nos quorum animus integer es 
+      <lb ed="#H" n="74"/>erga ipsum. Instruimur hinc esse Deum celebrandum, quod 
+      Pau<lb ed="#H" n="75" break="no"/>lus facit Rom. 16. v. 27. Soli sapienti Deo gloria per Iesum Christum, 
+      <lb ed="#H" n="76"/>in secula, Amen. Et Rom. 11. 33, 34. O profundas divitias, tum 
+      sapi<lb ed="#H" n="77" break="no"/>entiae tum cognitionis Dei! quam inscrutabilia sunt ejus judicia &amp; 
+      <lb ed="#H" n="78"/>ejus viae impervestigabiles! Quis enim cognovit mentem Domini: 
+      <lb ed="#H" n="79"/>rut quis ei fuit a consilios 
+      <lb ed="#H" n="80"/>Quinto consolationem inde haurimus, Deum cum totius 
+      Eccle<lb ed="#H" n="81" break="no"/>siae militantis, tum singulorum in ea fidelium calamitates, aerumnas 
+      <lb ed="#H" n="82"/>dolores, miserias, preces, pietatem, labores, opera, defectum, inopiam, 
+      <lb ed="#H" n="83"/>eventus luctuosos nosse &amp; curare: ac proinde fidelibus omnibus 
+      anxia<lb ed="#H" n="84" break="no"/>solicitudo de evasione ex miseriis, ex periculis, item de victu &amp; 
+      ami<lb ed="#H" n="85" break="no"/>ctu procul arcenda. Huc pertinet Psalmus primus, quo pii 
+      praedi<lb ed="#H" n="86" break="no"/>cantur beati, &amp; oratio versu ultimo additur, quia novit Iehova viam 
+      <lb ed="#H" n="87"/>justorum. Et quod legitur Psalm. 37. 18. Agnoscit Iehova tempora 
+      <lb ed="#H" n="88"/>integrorum, adeo ut possessio eorum in saculum futura sit. Psal. 142. 
+      <lb ed="#H" n="89"/>4. Quum obrueret sed in me spiritus meus, toties tu agnovisti se 
+      <lb ed="#H" n="90"/>mitam meam. Exod. 3. v. 7. dixit Iehova: Probe vidi afflictionem 
+      po<lb ed="#H" n="91" break="no"/>puli mei qui est in AEgypto; &amp; clamorem eorum ab exactorihus eus 
+      <lb ed="#H" n="92"/>audivi, quia cognovi dolores ejus. Nach. 1. 7. Bonus est Iehova, 
+      robo<lb ed="#H" n="93" break="no"/>ri est tempore angustiae, &amp; agnoscit recipiites, o ad ipsu. Huc pertinet. 
+      <!--cod-MkL9py-0187.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="94"/>illud Christi Matth. 6. v. 31, 32. Ne igitur estote soliciti, dicentes, quiad  
+      <lb ed="#H" n="95"/>edemus, aut ad bibemus, autquo amiciemur? (nam omnia ista 
+      gente<lb ed="#H" n="96" break="no"/>regrunt,) novit n. Pater ille vester coelestis vos indigere his omnibus. 
+      <lb ed="#H" n="97"/>Huc pertinent loca, Exo. 33. 17. Dixit itaque Iehova Mosi, etiam hanc res 
+      <lb ed="#H" n="98"/>quam dixisti faciam, quia gratiam invenisti in oculis meis, &amp; 
+      agno<lb ed="#H" n="99" break="no"/>bi te nominatim. Deut. 2. v. 7. Nam Iehova Deus tuus benedixit tibi 
+      <lb ed="#H" n="100"/>in omni opera manus tuae, agnovit iter tuum in deserto maximoisto; j a 
+      <lb ed="#H" n="101"/>quadraginta annos Iehova Deus tuus tecum fuit, non eguisti ulla re¬ 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2369">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Etiam in extremis periculis constituti, magno simus animo, 
+      nos<lb ed="#H" n="103" break="no"/>que erigamus meditatione sapientiae divinae. Nam cum Deus sit sa 
+      <lb ed="#H" n="104"/>pientissimus, inveniet viam qua liberemur e periculis, cripiamur ex 
+      <lb ed="#H" n="105"/>angustiis, evadamus ex malis omnibus: scit modum nobis 
+      succur<lb ed="#H" n="106" break="no"/>rendi, nota sunt ipsi ab aevo omnia opera ejus, nec necesse habet ut 
+      <lb ed="#H" n="107"/>quisquam eum doceat. Sic jubentur ministri verbi Dei consolari 
+      fi<lb ed="#H" n="108" break="no"/>deles Jesa. 40. 13. 14. 
+      </p>
+            <p xml:id="yyy8Uu-e73528-d1e2390">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Hactenus de sapientia Dei: sequitur de uoluntate ejus 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

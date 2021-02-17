@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 27</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 27</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="307"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e47917"> <!-- l5-c27 -->
+            <head xml:id="yyy8Uu-e47917-Hd1e109">Caput 27</head>
+            <p xml:id="yyy8Uu-e47917-d1e112">
+               <lb ed="#H" n="146"/>CAPUT XXVII. 
+      <lb ed="#H" n="147"/>In quo de nomine &amp; definitione hominis:
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e119">
+               <lb ed="#H" n="148"/>Eeo sic acturi sumus, ut primo nomen ipsum explicaturi, dein 
+      <lb ed="#H" n="149"/>de ad rei ipsius contemplatione Theologicam accessuri simus.
+    </p>
+            <p xml:id="yyy8Uu-e47917-d1e126">
+               <lb ed="#H" n="150"/>HOMINIS nomen ductum est ab humo, eo quod corpus 
+      <lb ed="#H" n="151"/>ejus ex humo sumtum &amp; creatum sit. 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e134">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Diversimode autem usurpatur; interdum absolute, interdum cum 
+      <lb ed="#H" n="153"/>quadam additione. 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e143">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Quum absolute &amp; absque additione aliqua usurpatur, vel proprie 
+      <lb ed="#H" n="155"/>accipitur, vel figurate. Proprie significat animalratione praeditum, 
+      <lb ed="#H" n="156"/>communiter intellectum tam de femina quam de mare, velut cum 
+      <lb ed="#H" n="157"/>Genes. 1. v. 26. Deus dicit, Faciamus hominem ad imaginem nestram. 
+      <lb ed="#H" n="158"/>fecundum similitudinem nostram: qui dominetur in pisces maris, &amp; 
+      <lb ed="#H" n="159"/>in volucres coeli, &amp;c. &amp; 27. Creauit Deus hominem ad imaginem 
+      <lb ed="#H" n="160"/>suam, ad imagine Dei creavit eum: marem &amp; feminam creavit e¬ 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e163">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Figurate usurpatur variis modis. Metonymice significat vel 
+      ami<lb ed="#H" n="162" break="no"/>cum potentem &amp; divitem, a quo auxilium exspectatur, ut Psal. 60.5 
+      <lb ed="#H" n="163"/>&amp; 108.13 Vanitas est salus hominis, &amp; Psal. 118. 8. Melius est recipere 
+      <lb ed="#H" n="164"/>se ad Iehovam, quam fiduciam habere in homine 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e176">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Vel adversarium potentem, infensum, infestum &amp; nocere 
+      conan<lb ed="#H" n="166" break="no"/>tem, Psal. 56. v. 12. &amp; 118.6. &amp; Hebr. 13. v. 6. In Deo confido, non 
+      time<lb ed="#H" n="167" break="no"/>bos quid faciat homo mihii 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e187">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Vel mortalem, imbecillum, miserum, ut Psal. 9. v. 21. Incute 
+      Ieho<lb ed="#H" n="169" break="no"/>va timorem eis: psane cognoscant gentes, se heminet esse. Ezech. 28. 2. 
+      <lb ed="#H" n="170"/>Dic antecessori Tyri, sic ait Dominus Iehovi, eo quodelatus est 
+      ani<lb ed="#H" n="171" break="no"/>mus tuus, adeo ut dicut: Deus fortis sum, habitationem Dei inhabite. 
+      <lb ed="#H" n="172"/>in corde murium: cumque sis homo, non autem Deus fortis, tribuis 
+      ta<lb ed="#H" n="173" break="no"/>men animum tibi parem animo Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e205">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Vel mutabilem, inconstantem, varium, ut 1. Sam. 15. v. 29. Qui est 
+      <lb ed="#H" n="175"/>aeternitas Israelis non committet mendaciter, neque poenitebit cum: non 
+      <lb ed="#H" n="176"/>enim homo est ut poeniteat eum. 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e217">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Vel admodum afflictum &amp; excruciatum &amp; dignum 
+      commisera<lb ed="#H" n="178" break="no"/>tione: quomodo Pilatus dicit de Christo Johannis 19. v. 5. Ecce homo 
+      <lb ed="#H" n="179"/>Metaphorice de Deo dicitur, Matth. 22. v. 2. Simile est regnum 
+      coe<lb ed="#H" n="180" break="no"/>lorum homini Regi qui fecit nuptias filio suo. Item de Satana, Matth. 
+      <lb ed="#H" n="181"/>13. v. 28. Inimic:: hoc secit, 
+      <!--cod-MkL9py-0335.xml-->
+      <pb ed="#H" n="308"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Synecdochice sumitur vel pro viro, ut Genes. 2. v. 18. Non est 
+      bo<lb ed="#H" n="2" break="no"/>num esse hominem solum: faciam ei auxilium commodum ipsi 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e243">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Vel pro Adamo solo qui primus homo fuit. Rom. 5. vers. 12. Pe. 
+      <lb ed="#H" n="4"/>unum hominem peccatum in mundum introijt. &amp; v. 19. Per 
+      inobedi<lb ed="#H" n="5" break="no"/>entiam unius hominis peccatores constituti sunt multi. 1. Cor. 15. 21. 
+      <lb ed="#H" n="6"/>Per hominem mors. 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e256">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Vel pro secundo Adamo; Christo Jesu. 1. Cor. 15. 21. Per 
+      homi<lb ed="#H" n="8" break="no"/>nem resurrectio mortuorum. Marc. 15. 39. centurio dixit, Vere homo, 
+      <lb ed="#H" n="9"/>iste Filius erat Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e267">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Vel communiter pro quolibet fideli, ut 1. Corinth. 11. v. 28. 
+      Pro<lb ed="#H" n="11" break="no"/>bet autem homo seipsum, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e276">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Vel indefinite valet idem quod quis, aliquis, quispiam, ut Exod 
+      <lb ed="#H" n="13"/>33. 11. Alloquebatur autem Iehova Mosen facie ad faciem, quemaa 
+      <lb ed="#H" n="14"/>modum alloqui solet homo amicum suum. Deut. 8. 5. Vt agnoscas cum 
+      <lb ed="#H" n="15"/>animo tuo: sicut erudit homo filium suum, Iehova Deus tuus erudit. 
+      <lb ed="#H" n="16"/>te. Matth. 16. 26. Quid prodest homini, si totum mundum lucratus 
+      <lb ed="#H" n="17"/>fuerit, anima vero sua mulctetur: 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e294">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Sic usurpatur in Scriptura Sacra nomen hominis absolute? cum 
+      <lb ed="#H" n="19"/>adjectione usurpatur pluribus modis 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e304">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Primus homo dicitur Adamus 1. Cor. 15. 47. Primus homo e terra 
+      <lb ed="#H" n="21"/>pulvereus. 
+      <lb ed="#H" n="22"/>Secundus homo dicitur Christus Jesus. 1. Corinth. 15. v. 47. 
+      Secun<lb ed="#H" n="23" break="no"/>dus homo, ipse Dominus e coelo 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e317">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Externus homo, item vetus homo, item animalis homo dicitur non 
+      <lb ed="#H" n="25"/>ronatus, hoc est, non solum corpus aut inferiores facultates, sed quic  
+      <lb ed="#H" n="26"/>quid est in homine vel intus vel foris, a capite ad calcem, quatenus 
+      <lb ed="#H" n="27"/>quidem homo non est gratia Dei regeneratus. 2. Corinth. 4. vers. 16. 
+      <lb ed="#H" n="28"/>Rom. 6. v. 6. 1. Corinth. 2. v. 14. 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e333">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>nternus seu absconditus cordis homo, seu novus homo dicitur 
+      re<lb ed="#H" n="30" break="no"/>natus &amp; spiritualis, ut Rom. 7. 22. Ephes. 3. 16. Eph. 2. 15. 1. Petr. 3. 4.  
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e342">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Externus tamen homo signisicat etiam alteram duntaxat 
+      homi<lb ed="#H" n="32" break="no"/>nis partem, eamque mortalem, spiritui oppositam: sicut internus sit 
+      <lb ed="#H" n="33"/>gnificat spiritum 2. Cor. 4. v. 16. Etiamsi externus noster homo 
+      cor<lb ed="#H" n="34" break="no"/>rumpitur, internus tamen renovatur indies. 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e355">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>Collective unus novus homo significat unam Ecclesiam Catholis 
+      <lb ed="#H" n="36"/>cam ex Judaeis &amp; Gentibus adunatam. Ephes. 2. 15. Inimicitiis, id est, 
+      <lb ed="#H" n="37"/>Lege praeceptorum, quae in ritibus posita est, per carnem suam abolitis  
+      <lb ed="#H" n="38"/>ut ex duobus illis conderet in semetipso unum novum hominem, 
+      fa<lb ed="#H" n="39" break="no"/>ciens pacem. 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e371">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Homo Dei dicitur is qui fidei obedientiam Deo praestare 
+      satagi<lb ed="#H" n="41" break="no"/>I. Tim. 6. 11. Tu vero, o homo Dei, ista fuge; sectare autem justitiam 
+      <lb ed="#H" n="42"/>pietatem, fidem, charitatem, tolerantiam, lenitatem. Et καT ἔοχι. 
+      <lb ed="#H" n="43"/>eximius Dei servus, Propheta, minister verbi Dei, Deuter. 33. vers. 1. 
+      <lb ed="#H" n="44"/>Haec autem benedictio est, quam benedixit Moses homo Dei filiis 
+      Israe<lb ed="#H" n="45" break="no"/>lis, ante mortem suam, 2. Tim. 3. 17. Vt perfectus sit homo Dei, ad 
+      o<lb ed="#H" n="46" break="no"/>mne opus bonum perfecte instructus. 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e392">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Hominis filius dicitur dupliciter vel communiter quilibet hom 
+      <lb ed="#H" n="48"/>ex alio natus Job. 25. 5, 6. Sidera non pura essent in oculis ejus: 
+      Quan<lb ed="#H" n="49" break="no"/>to minus mortalis, vermis; &amp; filius hominis, lumbricus? 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e403">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Vel singulariter aeternus Dei filius homo factus, Matth. 8. v. 20. 
+      <lb ed="#H" n="51"/>Vulpes habent lustra, &amp; volucres coeli nidos: Filius autem hominis: 
+      <lb ed="#H" n="52"/>non habet, ubi caput reclinet  
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e414">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Homo peccati est Antichristus ille magnus. 2. Thessal. 2. v. 3. 
+      <lb ed="#H" n="54"/>Tot modis usurpatur nomen hominis: jam rei seu hominis: 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e423">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>ipsius contemplatio Theologica suscipienda 
+      <lb ed="#H" n="56"/>HoMOS est animal ratione praeditum 
+      <lb ed="#H" n="57"/>Definitio haec duabus partibus constat, genere &amp; differentia spe 
+      <lb ed="#H" n="58"/>cifica. Genus hominis est animal, id est, substantia corpore 
+      organico<lb ed="#H" n="59" break="no"/>&amp; anima vegetante atque sentiente &amp; loco movente constans. 
+      He<lb ed="#H" n="60" break="no"/>braice est nin vao anima vivens Gen. 2. v. 7. Et factus est homo 
+      ani<lb ed="#H" n="61" break="no"/>ma vivens, hoc est, animal; quod est nomen generale &amp; 
+      commun<lb ed="#H" n="62" break="no"/>homini &amp; bestiis. Nam Genes. 1. v. 20. Abunde progignunto 
+      aqua<lb ed="#H" n="63" break="no"/>reptile, nin voa animam viventem. Haec ergo periphrasis est 
+      ani<lb ed="#H" n="64" break="no"/>malis, quam Paulus Apostolus retinuit 1. Corinth. 15. v. 45. ἐχινeoo  
+      <lb ed="#H" n="65"/>ωργιτος ανορωωος Aδυμεις ψυχινζώσαν, Factus est primus homo 
+      A<lb ed="#H" n="66" break="no"/>damus in animam viventem seu anima vivens. Unde vers. 44. &amp; Æo. 
+      <lb ed="#H" n="67"/>σόμα ψυχεκον vocat, quod nos Latine corpus animale dicimus. 
+      </p>
+            <p xml:id="yyy8Uu-e47917-d1e456">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Differentia autem specifica quam homo ab aliis animalibus 
+      discer<lb ed="#H" n="69" break="no"/>nitur est, quod ratione praeditus sit. Ratio autem est vis intellectus 
+      <lb ed="#H" n="70"/>qua is λογιζεται, ratiocinatur &amp; ut Scholastici loquuntur discurrit. 
+      <lb ed="#H" n="71"/>hoc est, ex uno aliud deducit vel aliud post aliud ordinat. Ratio 
+      Grae<lb ed="#H" n="72" break="no"/>cis λόγος est: opus seu officium rationis est λογισμος seu δανοια, dij 
+      <lb ed="#H" n="73"/>cursus a recentioribus dicta propter animae celeritatem, quam se 
+      mo<lb ed="#H" n="74" break="no"/>vet ab uno ad aliud, ab effectibus ad causas investigandas, &amp; vicissim. 
+      <lb ed="#H" n="75"/>a causis ad ef ecta, &amp; denique ad quaevis intelligenda. Talis vis 
+      intel<lb ed="#H" n="76" break="no"/>lectus nulli alij animali data est: unde excellentia hominis &amp; 
+      diffe<lb ed="#H" n="77" break="no"/>rentia ab aliis animalibus perspicitur?
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

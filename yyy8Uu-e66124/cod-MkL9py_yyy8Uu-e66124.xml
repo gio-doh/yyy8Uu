@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="NaN"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e66124"> <!-- l6-c6 -->
+            <head xml:id="yyy8Uu-e66124-Hd1e109">Caput 6</head>
+            <p xml:id="yyy8Uu-e66124-d1e112">
+               <lb ed="#H" n="7"/>CAPUT VI 
+      <lb ed="#H" n="8"/>In quo de arbitrio corrupti hominis.
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e119">
+               <lb ed="#H" n="9"/>TOGNITO statu miserrimo corrupti hominis, constare facilis 
+      <lb ed="#H" n="10"/>us potest, quid &amp; quale sit arbitrium corrupti hominis &amp; non 
+      <lb ed="#H" n="11"/>Rrenati 
+      <lb ed="#H" n="12"/>Arbitrium hominis corrupti &amp; non renati, est naturalis potentia 
+      si<lb ed="#H" n="13" break="no"/>ne coactione eligendi ac faciendi tantummodo malum, quod ab 
+      in<lb ed="#H" n="14" break="no"/>tellectu voluntati proponitur eligendum ac faciendum sive per 
+      <lb ed="#H" n="15"/>se malum sit, utpote quod a Deo prohibetur; sive per accidens ma 
+      <lb ed="#H" n="16"/>lum fiat per aberrationem a lege Dei in modo &amp; fine vel aliis 
+      cir<lb ed="#H" n="17" break="no"/>cumstantiis. 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e141">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Et hactenus quidem liberum est, quod ab omni coactione 
+      im<lb ed="#H" n="19" break="no"/>mune sit: sed quum bonum non sit, &amp; tantum ad malum feratur in 
+      <lb ed="#H" n="20"/>omnibus rebus &amp; actionibus tum spiritualibus, tum civilibus &amp; 
+      ex<lb ed="#H" n="21" break="no"/>ternis; quorsum adeo superbo titulo liberi arbitrii insignitur? 
+      quor<lb ed="#H" n="22" break="no"/>sum a Graecis Patribus ἀυτρξυσιον dicitur, ac si potestas suiipsius penes 
+      <lb ed="#H" n="23"/>hominem esset 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e160">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Libertatem naturalem aubitrii fatemur congruentem natura. 
+      <lb ed="#H" n="25"/>corruptae, quae principia solum communia, confusa, obscura, 
+      corru<lb ed="#H" n="26" break="no"/>pta retinet: sed libertatem hanc, quum sit corrupta, in rebus quidem 
+      <lb ed="#H" n="27"/>naturalibus non esse integram, in spiritualibus vero nullam esse 
+      <lb ed="#H" n="28"/>profitemur.  
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e176">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Libere quidem agit voluntas etiam non renatorum, sed nihil 
+      ni<lb ed="#H" n="30" break="no"/>si peccare potest. Semperque peccatum ex hoc fonte liberi arbitri 
+      <lb ed="#H" n="31"/>fluit, 2. Pet. 3. v. 5. 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e187">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Arbitrium non tenatum necessitate corruptae naturae constringitur 
+      <lb ed="#H" n="33"/>ad peccatum: ideo homines non renati necessario peccant, sed tamen 
+      <lb ed="#H" n="34"/>libere, hoc est, absque coactione 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e198">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>Ac etsi non renati interdum opera quaedam moraliter &amp; per se 
+      bon<lb ed="#H" n="36" break="no"/>praestant, tamen per accidens fiunt peccata, quia non faciunt ea ex vera 
+      <lb ed="#H" n="37"/>agnitione Dei &amp; fide: deinde quia aberrant a vero fine, dum non 
+      spe<lb ed="#H" n="38" break="no"/>ctant hoc, ut DEUM honore afficiant, Heb. 11. 6. Atqui fieri non potest. 
+      <lb ed="#H" n="39"/>ut sine fide quisquam ei placeat: Nam qui accedit ad Deum, hunc credere 
+      <lb ed="#H" n="40"/>oportet esse Dei, &amp; praemia largiri iis qui ipsum requirunt, Matt. 23. v. 27. 
+      <lb ed="#H" n="41"/>Vae vobis Scribae &amp; Pharisai hypocritae, qui assimiles estis sepulcris 
+      dealba<lb ed="#H" n="42" break="no"/>tis, quae extra quide apparent speciosa, intus vero plena sunt ossibus 
+      mor<lb ed="#H" n="43" break="no"/>tuorum, omnique immunditia. Ro. 1. v. 18. Retegitur enim ira Dei e caelo 
+      <lb ed="#H" n="44"/>adversus omne impietatem ζii justitiam hominum, ut qui veritatem 
+      <lb ed="#H" n="45"/>injuste detineant. Et c. 14. 23. Qui vero ambigit, si ederit codemnatus est 
+      <lb ed="#H" n="46"/>quoniam non edit ex fide: quicquid vero ex fide non est, peccatum es, 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e229">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Servum vero &amp; captivum est non renatorum arbitrium in 
+      boni<lb ed="#H" n="48" break="no"/>&amp;sanctis rebus, atque ineprimis ad salute &amp; vita aeternam pertinentibus 
+      <lb ed="#H" n="49"/>Nam non renati res divinas &amp; supernaturales ignorant, &amp; non 
+      pos<lb ed="#H" n="50" break="no"/>sunt propriis viribus eas cognoscere, sicut Joh 1. v. 5. Evangelista 
+      di<lb ed="#H" n="51" break="no"/>cit: Lux ista in tenebris lucet, sed tenebrae eam non comprehenderunt. 
+      Te<lb ed="#H" n="52" break="no"/>nebrae istae sunt mens obscurata per peccatum, quae proinde naturam 
+      <lb ed="#H" n="53"/>transcendentia cognoscere lumine suo naturali non potest. Et c. 8. v. 
+      <lb ed="#H" n="54"/>14. Christus ad Pharisaeos ait: Vos nescitis unde venerim &amp; quo vadam 
+      <lb ed="#H" n="55"/>Non possunt suis propriis viribus se ad Deum convertere, aut oblatam 
+      <lb ed="#H" n="56"/>a Deo gratiam accipere, aut ullum opus Deo placens suscipere &amp; 
+      <lb ed="#H" n="57"/>perficere, Gen. 6. v. 5. Quum itaque videret Iehova augescere malitiam 
+      <lb ed="#H" n="58"/>hominis in terra: &amp; omne figmentum ac cogitationes cordis ejus, 
+      tan<lb ed="#H" n="59" break="no"/>tummodo malum esse omui tempore. 1. Reg. 21. v. 20. erit Eliu ad 
+      re<lb ed="#H" n="60" break="no"/>gem Achabum: ne vendidisti te ad faciendum quod malum est in oculis 
+      <lb ed="#H" n="61"/>Iehovae. &amp; v. 25. 26. Et c 8 21. Jer. 11. 10. Populi istius pessimi, qui 
+      renu<lb ed="#H" n="62" break="no"/>unt auscultare verbis meis, qui ambulant ex sententia animi sui, &amp; se 
+      <lb ed="#H" n="63"/>quuntur deos alienos colondo eos, &amp; incurvando se eis: eritque similis 
+      cin<lb ed="#H" n="64" break="no"/>gulo isti quod non est aptum ad rem ullam. Et v. 23. An mutare potest 
+      <lb ed="#H" n="65"/>Aethiops cutem suam, aut pardus liventes maculas suas: etiam vos 
+      pos<lb ed="#H" n="66" break="no"/>fsetis benefacere, edocti malefacere. Et c. 17. 9. Fraudulentum cor ipsum 
+      <lb ed="#H" n="67"/>supra omnia, &amp; mortiferum est; quis agnoscat ipsum? Psal. 14. v. 1, 3. Dicit 
+      <lb ed="#H" n="68"/>stultus cum animo suo, non est Deus: corrumpunt, abominandam quamque  
+      <lb ed="#H" n="69"/>actionem perpetrant, non est qui faciat bonum. Unusquisque recessit, 
+      om<lb ed="#H" n="70" break="no"/>nes simul putidi facti sunt: non est qui faciat bonum, non est vel unus 
+      <lb ed="#H" n="71"/>Rom. 3. v. 10, 11, 12. Non est justus ne unus quide: No est qui intelligat  
+      <lb ed="#H" n="72"/>non est qui exquirat Deum. Omnes deflexerunt, simul inutiles facti sut: 
+      <lb ed="#H" n="73"/>non est qui faciat quod bonum est, non est usque ad unum, Matt. 7. v. 18. 
+      <lb ed="#H" n="74"/>Non potest arbor bona fructus malos ferre, neque arbor mala, fructus 
+      bo<lb ed="#H" n="75" break="no"/>nos ferre. &amp; c. 12. v. 34. Progenies viperarum, quomodo potestis ves 
+      bona<lb ed="#H" n="76" break="no"/>loqui, qui estis malit nam ex redundantia cordis os loquitur. Joh. 3. v. 3. 
+      <lb ed="#H" n="77"/>Nesi quis genitus sit iterum, non potest videre regnum Dei. Et 6. v. 44. 
+      <lb ed="#H" n="78"/>Nemo potest venire ad me nisi traxerit eum Pater, qui misit me: &amp; ego 
+      <lb ed="#H" n="79"/>suscitabo eu in die ultima. Et I2. 39. Propterea non poterant credere, quia 
+      <lb ed="#H" n="80"/>iterum dixit Iesuias, Excaecavit oculos eorii, &amp;c. Rom. 7. 18. Novi enim 
+      <lb ed="#H" n="81"/>non habitare in me (id est, in carne mea) bonum: nam velle adest mihi 
+      <lb ed="#H" n="82"/>sed ut quod bonum est efficiam, non assequor. Et c. 8. v. 7. Propterea quo- 
+      <lb ed="#H" n="83"/>intellectus carnis, inimicitia est adversus Deum. Legi enim Dei se non 
+      sub<lb ed="#H" n="84" break="no"/>mittit: quia nun potest. 1. Cor. 3. v. 5. Quis igitur est Paulus, quis autem 
+      <lb ed="#H" n="85"/>Apollos, msi ministri per quos credidistis, &amp; ut cuique Dominus dedit: 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e318">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Non audiunt verbum Dei, Joh 8. v. 47. Qui ex Deo est, verba Dei 
+      <lb ed="#H" n="87"/>audit: propterea vos non auditis, quia ex Deo non estis. Jer. 6. v. 19. 
+      As<lb ed="#H" n="88" break="no"/>verba maa non attendunt. 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e330">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Nec volunt audire. Jer. 6. v. 17. Me costituente etiam super vos 
+      specu<lb ed="#H" n="90" break="no"/>latores, dicendo, attendite ad sonum tuba, dixerunt, non attendemus. 
+      <!--cod-MkL9py-0371.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>Nec possunt audire, Joh. 8. 43. Non potestis audire sermonem meum. 
+      <lb ed="#H" n="92"/>Jer. 6. v. 10. Quos alloquar &amp; contestabor ut audiant? ecce praeputiata est 
+      <lb ed="#H" n="93"/>turis eorum: adeo ut non possint attendere: ecce verbum Iehovae est eis 
+      <lb ed="#H" n="94"/>probrosum, non delectantur eo 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e352">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Quod si qui autibus corporis audiunt verbum Dei, vel non 
+      intel<lb ed="#H" n="96" break="no"/>ligunt, ut mulier Samaritana, quum ei dixisset Christus, se 
+      datu<lb ed="#H" n="97" break="no"/>rum ei petenti fuisse aquam vivam, non intellexit de qua aqua 
+      lo<lb ed="#H" n="98" break="no"/>queretur, ideo respondit de aquae potu, ex quo ipsa haurire valebat,  
+      <lb ed="#H" n="99"/>Joh. 4. v. 10, 11 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e368">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Vel blasphemant, ut saepe fecerunt Judaei. Joh. 8. 48. 52. Act. 13. 45. 
+      <lb ed="#H" n="101"/>Nec credunt Sacrae Scripturae aut Christo &amp; in eum, Joh. 5. 46, 
+      <lb ed="#H" n="102"/>17. Si enim crederetis Mosi, crederetis mihi:nam ille de me scripsit. Act. 
+      <lb ed="#H" n="103"/>13. 41. Opus ego operor diebus vestris, opus quod non credetis, si quis e 
+      <lb ed="#H" n="104"/>narraverit vobis. 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e384">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Objicitur quod scriptum est Joh. 2. v. 23, 24, 25. Quum autem esset 
+      <lb ed="#H" n="106"/>Hierosolymis in Pascha, in festo, multi crediderunt in nomen ejus 
+      cospi<lb ed="#H" n="107" break="no"/>cientes signa quae edebat. Ipse autem Iesus non credebat eis semetipsum, 
+      <lb ed="#H" n="108"/>eo quod nosset omnes: Nec opus esset ut quisquam ei testaretur de 
+      homi<lb ed="#H" n="109" break="no"/>ne: ipse enim sciebat quid esset in homine. 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e400">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>RESP. Isti crediderunt in eum assensu humano, persuasione 
+      hu<lb ed="#H" n="111" break="no"/>mana, qua ei coeperunt assentiri, quod esset Christus ille: sed non 
+      credi<lb ed="#H" n="112" break="no"/>derunt in eum fiducia a Spiritus Sancto in cordibus ipsorum creata, qui  
+      <lb ed="#H" n="113"/>in ipso recumberent: Non igitur vere crediderunt in Christum. 
+      De<lb ed="#H" n="114" break="no"/>inde, crediderunt in nomen Christi fide temporaria seu ad tempus 
+      <lb ed="#H" n="115"/>duntaxat, tempore autem tentationis ab ipso recesserunt. Fides quae 
+      <lb ed="#H" n="116"/>cantum per miracula concipitur, non autem per spiritum 
+      regenera<lb ed="#H" n="117" break="no"/>ionis in corde creatur, est tantum temporaria 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e422">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Nec volunt credere &amp; ad Christum venire ut vitam habeant,  
+      <lb ed="#H" n="119"/>Joh. 5. 40. 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e432">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>Nec possunt credere &amp; ad Christum venire Joh. 5. 44Quomodo 
+      po<lb ed="#H" n="121" break="no"/>testis vos credere, qui gloriam unus ab alio accipitis, &amp; gloriam quae est ab 
+      <lb ed="#H" n="122"/>uno Deo non quaeritis? Et I2. 39. Propterea non poterant cridere, quia 
+      i<lb ed="#H" n="123" break="no"/>terum dixit Esaias, Excaecavit oculos eorum, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e445">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Non diligunt Deum, Joh. 5. 42. Novi vos, quod charitas Dei non 
+      <lb ed="#H" n="125"/>sit in vobis. 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e454">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>Iidem nihil aliud faciunt, quam quod malum est peccatum, Ps. 5. v. 
+      <lb ed="#H" n="127"/>10. No est in ore illius rectum, intimum illorum aerumnae; sepulcrum 
+      aper<lb ed="#H" n="128" break="no"/>tum guttur illorum: lingua sua dolose blandiuntur. Et 10. 2 v. 3. usque ad 
+      <lb ed="#H" n="129"/>12. &amp; Ps. 14. 1, 3. Dicit stultus cum animo suo, non est Deus, corrumpunt, 
+      <lb ed="#H" n="130"/>abominandam quamque actione perpetrant, non est qui faciat bonum. V. 
+      <lb ed="#H" n="131"/>nusquisqerecessit, omnes simul putidi facti sunt: non est qui faciat bonum, non 
+      <lb ed="#H" n="132"/>est vel unus. Ps. 53. 2. &amp; Ps. 36. 2, 3. 4, 5. Dictum defectionis ad improbi, in 
+      <lb ed="#H" n="133"/>intimo cordis mei est, cora ejus oculis non esse pavore Dei. Blanderi eum sibi 
+      <lb ed="#H" n="134"/>in oculis suis, quum assequitur iniquitate sua, quae odio habenda esset. 
+      <lb ed="#H" n="135"/>Verba oris ejus vana &amp; dolosa sunt: desinit adhibere intelligentiam ad 
+      <lb ed="#H" n="136"/>benefaciendum. Vanitatem cogitat in cubili suo, sistit sese in via non bona 
+      <lb ed="#H" n="137"/>malum non spernit. Et I40. 3. 4. Qui cogitant mala cum animo: quotidie 
+      <lb ed="#H" n="138"/>oveniunt ad bella. Exacuut lingua sua simile serpentis, venenum 
+      ptya<lb ed="#H" n="139" break="no"/>dos subest labiis eorum maxime. Jes. 59. v. 3. &amp; seqq Ro. 3. 2 v. 9. usque ad 19. 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e489">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Quo autem melius adhuc doctrina haec de arbitrio hominis 
+      cor<lb ed="#H" n="141" break="no"/>rupti percipiatur, sequentia theoremata adjicio¬ 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e498">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>I. Arbitrium omnis hominis tum corrupti tum renati, omnes res 
+      <lb ed="#H" n="143"/>&amp; actiones tam divinas quam naturales, ta bonas quam malas, quae 
+      <lb ed="#H" n="144"/>intelligi, eligi aut rejici possunt, intelligere, eligere aut rejicere 
+      passi<lb ed="#H" n="145" break="no"/>va potentia potest. 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e511">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>II. Homo sive corruptus, sive renatus, res &amp; actiones naturales, &amp; 
+      <lb ed="#H" n="147"/>quae mediae vocantur, nec intelligere, nec eligere ac persequi activa 
+      <lb ed="#H" n="148"/>potentia seu actu potest sine generali Dei auxilio 
+      <lb ed="#H" n="149"/>III. Homo sive corruptus sive renatus disciplinas &amp; artes 
+      poli<lb ed="#H" n="150" break="no"/>ticas, civiles &amp; philosophicas sine speciali Dei auxilio per sese 
+      intelli<lb ed="#H" n="151" break="no"/>gere, percipere &amp; consequi actu non potest: sed in quocunque sunt, 
+      sin<lb ed="#H" n="152" break="no"/>gularia Dei dona sunt, 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e532">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>IV. Homo corruptus neque omnia moraliter &amp; politice justa 
+      <lb ed="#H" n="154"/>&amp; honesta cognoscere actu potest, neque quae novit, ea sine special 
+      <lb ed="#H" n="155"/>Dei auxilio cognoscit. Tum homini etiam renato ad multas virtu 
+      <lb ed="#H" n="156"/>tes morales atque politicas, praeter gratiam regenerationis, necessaris 
+      <lb ed="#H" n="157"/>resque praebeat, quibus honestum &amp; aequum praestare valeat,  
+      <lb ed="#H" n="158"/>est singularis gratia Dei ac beneficium. 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e550">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>V. Homo corruptus non potest actu velle bonum &amp; 
+      <lb ed="#H" n="160"/>lum, nisi Deus singulariter voluntatem a malo ad bonum flectat: i¬ 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e559">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>VI. Proinde virtutes omnes qualescunque illae sint in non renatis, 
+      <lb ed="#H" n="162"/>sin. 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e568">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>gularia sunt Dei dona 
+      <lb ed="#H" n="164"/>VII. Homo non renatus potest actu per auxilium Dei 
+      peculia<lb ed="#H" n="165" break="no"/>re morales actiones praestare, moralesque virtutes consequi.  
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e579">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>IIX. Homo non renatus nunqua potest moralibus actionibus &amp; 
+      <lb ed="#H" n="167"/>virtutibus sese ad gratiam justificantem impetrandam praepatate 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e588">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>IX. Homo non renatus non potest suis viribus &amp; sine gratia 
+      re<lb ed="#H" n="169" break="no"/>generationis aut Deum quis &amp; qualis sit, aut ea quae sunt Dei 
+      ejus<lb ed="#H" n="170" break="no"/>que voluntatem &amp; spiritualia beneficia, vera &amp; solida cognitione 
+      <lb ed="#H" n="171"/>percipere. 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e602">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>X. Homo non renatus, utut auxilio etiam speciali adjuvetur, 
+      nul<lb ed="#H" n="173" break="no"/>lum vere bonum opus aut eligere aut efficere potest. 
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e611">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>XI. Deinde quicquid non renatus vult aut agit, peccatum est 
+      <lb ed="#H" n="175"/>XII. Homo non renatus nullam prorsus vel minimamvim 
+      ha<lb ed="#H" n="176" break="no"/>bet qua Deo vel ad se vocanti respondere, vel pulsanti ostium 
+      ape<lb ed="#H" n="177" break="no"/>rire, vel salutem proponenti annuere, vel denique in se operanti, 
+      coo<lb ed="#H" n="178" break="no"/>perati ullo modo possit.  
+      </p>
+            <p xml:id="yyy8Uu-e66124-d1e627">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>Tantum de subjecto actualis providentiae Dei: sequitur  
+      <lb ed="#H" n="180"/>de partibus ciusdem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

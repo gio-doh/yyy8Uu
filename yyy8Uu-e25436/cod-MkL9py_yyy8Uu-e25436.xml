@@ -1,0 +1,1733 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 33</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 33</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="55"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e25436"> <!-- l1-c33 -->
+            <head xml:id="yyy8Uu-e25436-Hd1e109">Caput 33</head>
+            <p xml:id="yyy8Uu-e25436-d1e112">
+               <lb ed="#H" n="95"/>CAPUT XXXIII. 
+      <lb ed="#H" n="96"/>In quo refutantur Papistarum argumenta pro libris 
+      <lb ed="#H" n="97"/>Apocryphis.
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e121">
+               <lb ed="#H" n="98"/>UPERIORE capite refutavimus eos qui libros Vuteris &amp; Novi 
+      <lb ed="#H" n="99"/>PTestamenti vel omnes vel quosdam negarunt esse divinos &amp; Ca¬ 
+      <lb ed="#H" n="100"/>nonicos: nunc refellendi sunt Papistae, qui contendunt, libros 
+      <lb ed="#H" n="101"/>quosdam vere divinos &amp; Canonicos esse, qui tales non sunt 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e132">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Nam contendunt etiam adjectiones ad librum Estherae, 
+      librun<lb ed="#H" n="103" break="no"/>Baruchi, adjectiones ad Danielem, libros item Tobiae, Iudithae, 
+      Sa<lb ed="#H" n="104" break="no"/>cientiae Salomonis, Ecclesiastici seu Iesu Siracidae &amp; duos 
+      Machabaeo<lb ed="#H" n="105" break="no"/>um, esse univoce &amp; proprie divinos &amp; Canonicos. Proinde primum 
+      <lb ed="#H" n="106"/>argumentis illorum respondendum, tum nostrae sententiae 
+      argu<lb ed="#H" n="107" break="no"/>menta contra libros Apocryphos proferenda atque defendenda. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e151">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>Papistarum argumenta quaedam sunt communia pro omnibus 
+      <lb ed="#H" n="109"/>his libris, quaedam singuluria pro singulis. Communia primum 
+      vi<lb ed="#H" n="110" break="no"/>deamus 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e162">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>PRIMUM est: Quicunque libri a Conciliis, Pontificibus 
+      Ro<lb ed="#H" n="112" break="no"/>manis &amp; Patribus antiquis pro vere &amp; diuvinitus Canonicis 
+      agno<lb ed="#H" n="113" break="no"/>scuntur &amp; habentur, ij sunt vere &amp; diuvinitus Canonici: 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e173">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Atqui adjectiones ad librum Estherae &amp; Danielis &amp; libri 
+      caete<lb ed="#H" n="115" break="no"/>vi jam enumerati, a Concilijs, Pontificibus Romanis, &amp; Patribus 
+      <lb ed="#H" n="116"/>intiquis, pro vere &amp; diuvinitus Canonicis agnoscuntur &amp; 
+      haben<lb ed="#H" n="117" break="no"/>tur: 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e186">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Ergo sunt univoce &amp; proprie Canonici. 
+      <lb ed="#H" n="119"/>Minor propositio probatur; quia a Concilio Carthaginensi III. 
+      <lb ed="#H" n="120"/>Canone quadragesimo septimo, Florentino, &amp; Tridentino 
+      Sessio<lb ed="#H" n="121" break="no"/>ne quarta: a Pontificibus, Innocentio primo in epist. ad Exuperium 
+      <lb ed="#H" n="122"/> 
+               <lb ed="#H" n="123"/>Episcopis: denique a Patribus, Augustino libro secundo de 
+      doctri<lb ed="#H" n="124" break="no"/>na Christiana capite octavo, Isidoro libro sexto Etymol. capite 
+      pri<lb ed="#H" n="125" break="no"/>mo, Cassiodoro libro primo divinarum lectionum, Rabano libro 
+      <lb ed="#H" n="126"/>secundo de Institutione clericorum, &amp; aliis libri dicti numerantur &amp; 
+      <lb ed="#H" n="127"/>i¬ 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e212">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>RESPON. Primo major propositio laborat fallacia secundum 
+      <lb ed="#H" n="129"/>plura interrogata: nam diversa conjunguntur in ea, de quibus 
+      judi<lb ed="#H" n="130" break="no"/>cium est dissimile. Quod ad Concilia attinet, non est eadem omnium. 
+      <lb ed="#H" n="131"/> 
+               <lb ed="#H" n="132"/>autoritatem habent, ideo si quid illa affirment, absque ulla 
+      dubita<lb ed="#H" n="133" break="no"/>tione verum est: alia vero Concilia Ecclesiastica seu Episcopalia 
+      hu<lb ed="#H" n="134" break="no"/>manam solummodo autoritatem habent, ideo si quid illa affirment 
+      <lb ed="#H" n="135"/>non illico verum est. Pontificum item Romanorum &amp; Patrum 
+      cae<lb ed="#H" n="136" break="no"/>terorum tantum humana est autoritas: ideo illorum dicta per se 
+      fi<lb ed="#H" n="137" break="no"/>dem non merentur. Jam major propositio intellecta de Conciliis 
+      <lb ed="#H" n="138"/>Episcopalibus, quorum humana tantum est autoritas, sicut &amp; 
+      Pon<lb ed="#H" n="139" break="no"/>tificum atque Patrum, falsa est: quia neque conciliorum 
+      Episcopali<lb ed="#H" n="140" break="no"/>um neque Pontificum Romanorum, neque Patrum judicium &amp; 
+      de<lb ed="#H" n="141" break="no"/>cretum efficere potest, ut liber aliquis sit univoce &amp; proprie 
+      Cano<lb ed="#H" n="142" break="no"/>nicus, quem Deus ipse per Prophetas &amp; Apostolos Ecclesiae non 
+      <lb ed="#H" n="143"/>radidit, &amp; commendavit, canonicumque esse jussit. Dei enim 
+      es<lb ed="#H" n="144" break="no"/>Canonem fidei, religionis, &amp; cultus sui Ecclesiae praescribere, ac 
+      ne<lb ed="#H" n="145" break="no"/>quaquam Ecclesiae est Canonem fidei &amp; bonorum operum sibi vel 
+      a<lb ed="#H" n="146" break="no"/>lijs facere Praecepta fidei &amp; cultus divini, multo minus est Ecclesiae; 
+      <lb ed="#H" n="147"/>quae Dei serva est, sibi constitueret quam imperiti rustici de legitimo, 
+      <lb ed="#H" n="148"/>quod Principibus, Regibus, &amp; Imperatoribus debetur, obsequio 
+      li<lb ed="#H" n="149" break="no"/>bros conscribere. Hominis enim ad hominem aliqua semper est? 
+      <lb ed="#H" n="150"/>proportio: hominis vero ad Deum nulla esse potest. Religionis 
+      di<lb ed="#H" n="151" break="no"/>vinae Canon non potest nisi divinus, hoc est, a Deo ipso praescriptu 
+      <lb ed="#H" n="152"/>&amp; confirmatus esse per Prophetas &amp; Apostolos: unde etiam Cano 
+      <lb ed="#H" n="153"/>nis absolutio &amp; confirmatio ad ministerium Apostolicum pertinet: 
+      <lb ed="#H" n="154"/> 
+               <lb ed="#H" n="155"/>Manichaeum, capite quinto: Distincta est a posteriorum libris 
+      ex<lb ed="#H" n="156" break="no"/>cellentia Canonica autoritatis Veteris &amp; Novi Testamenti, quae 
+      A<lb ed="#H" n="157" break="no"/>postolorum confirmata temporibus, per successiones Episcoporum &amp; 
+      <lb ed="#H" n="158"/>propagationes Ecclesiarum, tanquam in sede quadam sublimiter 
+      con<lb ed="#H" n="159" break="no"/>stituta est, cui serviat omnis fidelis &amp; pius intellestus. Ex hoc 
+      testi<lb ed="#H" n="160" break="no"/>monio Augustini liquet, Canonem Veteris &amp; Novi Testamenti, 
+      <lb ed="#H" n="161"/>I 
+      <lb ed="#H" n="162"/>ctum, sed ab Apostolis confirmatum &amp; acceptum per successionem. 
+      <lb ed="#H" n="163"/>ad nos usque propagatum. Quapropter non est positum in 
+      autorita<lb ed="#H" n="164" break="no"/>te cujusquam concilij Ecclesiastici post Apostolorum aetatem 
+      cele<lb ed="#H" n="165" break="no"/>brati aut adhuc celebrandi ut quisnam liber pro Canonico 
+      recipien<lb ed="#H" n="166" break="no"/>dus sit, definiat. Imo nec penes Ecclesiam totam quantumvis veram 
+      <lb ed="#H" n="167"/>atque puram est, ex re humana divinam efficere &amp; pro divina 
+      impe<lb ed="#H" n="168" break="no"/>rare. Si non est penes Ecclesiam veram atque puram, multo minus 
+      <lb ed="#H" n="169"/>penes corruptam, vitiosamque Ecclesiam aut Concilium ejus: 
+      o<lb ed="#H" n="170" break="no"/>mnium minime penes Ecclesiam ream aut Concilium ex reis 
+      Patri<lb ed="#H" n="171" break="no"/>bus constitutum. Major ergo falsa est. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e312">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Secundo, etiamsi daretur Major propositio: tamen falsa esset 
+      <lb ed="#H" n="173"/>conclusio, quia assumtionis probatio laborat itidem fallacia 
+      se<lb ed="#H" n="174" break="no"/>cundum plura interrogata: ideo non potest una &amp; eadem dari ad 
+      <lb ed="#H" n="175"/>omnes probationis partes responsio, sed ad unamquamque d stin¬ 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e326">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>cta. Concilium Carthaginense tertium pro legitimo Concilio Epi¬ 
+      <!--cod-MkL9py-0081.xml-->
+      <pb ed="#H" n="56"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>scopali agnoscimus, cui etiam Augustinus interfuit &amp; subscripsit:  
+      <lb ed="#H" n="2"/>sed Canon quadragesimus septimus, in quo Tobias, Judith, 
+      Ma<lb ed="#H" n="3" break="no"/>chabaeorum libri duo, Sapientia Salomonis &amp; Ecclesiasticus 
+      inter<lb ed="#H" n="4" break="no"/>Canonicas Scripturas recensetur, est adulterinus, &amp; supposititius 
+      <lb ed="#H" n="5"/>quia conscriptus eo tempore, quo Bonifacius I. Romanus 
+      Episco<lb ed="#H" n="6" break="no"/>bus fuit, ut ex clausula illius patet: nempe, Hoc etiam fratri &amp; 
+      con<lb ed="#H" n="7" break="no"/>sacerdoti nostro Bonifacio, vel aliis earum partium Episcopis pro 
+      con<lb ed="#H" n="8" break="no"/>firmando isto Canone innotescat. At hoc concilium celebratum est 
+      <lb ed="#H" n="9"/>tempore Siricij Papae, ut titulus Concilij ostendit in tomo prime 
+      <lb ed="#H" n="10"/>Conciliorum Coloniae Agrippinae Anno millesimo sexagesimo 
+      se<lb ed="#H" n="11" break="no"/>ptimo excusorum, &amp; Canon quadragesimusoctavus, quo dicitur: 
+      <lb ed="#H" n="12"/>De Donatistis placuit ut consulamus fratres &amp; consacerdotes nostro. 
+      <lb ed="#H" n="13"/>Siricium &amp; Simplicianum: Quorum ille Romanus, hic 
+      Mediola<lb ed="#H" n="14" break="no"/>nensis Episcopus erat. Quapropter vi veritatis victus Laurentius 
+      <lb ed="#H" n="15"/>Surius Monachus Carthusianus, qui tomos illos conciliorum digei 
+      <lb ed="#H" n="16"/>sit &amp; edidit, canoni quadragesimo septimo notam istam apposuit:  
+      <lb ed="#H" n="17"/>Licet istud capitulum quadragesimumseptimum in praesenti 
+      exem<lb ed="#H" n="18" break="no"/>plari, tanquam aliquod hujus concilij capitulum habeatur, in alij  
+      <lb ed="#H" n="19"/>tamen certis conciliorum libris, dicitur esse Carthaginensis Concili, 
+      <lb ed="#H" n="20"/>squoti non additur, forte VII. quod sub Bonifacio celebratum est, 
+      <lb ed="#H" n="21"/>quanquam in eo Canon iste non reperitur) vigesimumquartum 
+      ca<lb ed="#H" n="22" break="no"/>pitulum, celebrati post consulatum Honorij duodecimum, &amp; 
+      Theo<lb ed="#H" n="23" break="no"/>dosij octavum, quorum annus currit sub Bonifacio Papa. Ex hac 
+      con<lb ed="#H" n="24" break="no"/>fessione Surij &amp; actis Conciliorum liquet, Canonem hunc 
+      Cartha<lb ed="#H" n="25" break="no"/>ginensi tertio falso adscribi, ut majoris antiquitatis praetextu 
+      auto<lb ed="#H" n="26" break="no"/>ritas ei concilietur. Et tamen non pudet Bellarminum &amp; alios 
+      Papa<lb ed="#H" n="27" break="no"/>nos, canonem ementitum &amp; supposititium ad probandum allegare. 
+      <lb ed="#H" n="28"/>Caeterum Surij annotationem Gentianus Hervetus pro sua fide poste 
+      <lb ed="#H" n="29"/>ea sustulit. Tum dato sed non concesso, hunc Canonem esse 
+      Conci<lb ed="#H" n="30" break="no"/>lij Carthaginensis tertij genuinum: tamen non esset idoneus ad 
+      pro<lb ed="#H" n="31" break="no"/>bandum. Quia si libri de quibus ambigitur, Canonici non fuerunt  
+      <lb ed="#H" n="32"/>tempore Apostolorum a quibus Canon confirmatus est, non potue 
+      <lb ed="#H" n="33"/>runt a Concilio ullo demum canonici reddi. Libros enim non canc 
+      <lb ed="#H" n="34"/>nicos, Ecclesia non potest facere canonicos: quia quam ipsamet non 
+      <lb ed="#H" n="35"/>habet autoritatem canonicam &amp; divinam, aliis dare non potest. Dei 
+      <lb ed="#H" n="36"/>inde capitulum hoc solummodo quasi rogatio ac non sanctio est: 
+      <lb ed="#H" n="37"/>quid autem fuisset opus rogari placitum, quod inde a principio 
+      Ec<lb ed="#H" n="38" break="no"/>ciesiae Apostolicae placuerat, &amp; Laodicenum Concilium probaverate 
+      <lb ed="#H" n="39"/>Rogationem esse ex iis quae adduntur satis constat: Hoc etiam fratr 
+      <lb ed="#H" n="40"/>&amp; consacerdoti nostro Bonifacio vel aliis earum partium 
+      Episcopi<lb ed="#H" n="41" break="no"/>pro confirmando isto canone innotescat. Si omnes libri Canone isto 
+      <lb ed="#H" n="42"/>comprehensi inde ab initio fuisseat Canonici, confirmatione 
+      huma<lb ed="#H" n="43" break="no"/>na opus illis minime fuisset, nec aliorum fratrum judicia exspectar: 
+      <lb ed="#H" n="44"/>necesse fuisset. Adhaec rogationem esse ex proxime sequente mem 
+      <lb ed="#H" n="45"/>bro constat, quum illius Canonis conditores ajunt: liceat etiam 
+      le<lb ed="#H" n="46" break="no"/>gi passiones Martyrum, quum anniversarij dies illorum celebrantur 
+      <lb ed="#H" n="47"/>At libri proprie &amp; vere divinitus Canonici non rogatione concilij 
+      <lb ed="#H" n="48"/>leguntur, sed mandato divino legendi sunt. Praeterea etiamsi roga 
+      <lb ed="#H" n="49"/>tio non esset, sed decretum, &amp; autoritas ejus valeret, causam 
+      tamen<lb ed="#H" n="50" break="no"/>Papistarum nequaquam stabiliret. Nos enim de sacro Canone fidei 
+      <lb ed="#H" n="51"/>disputamus, capitulum vero allegatum agit de sacro Canone 
+      lectio<lb ed="#H" n="52" break="no"/>nis Ecclesiasticae: ut verba capituli ista ostendunt: Placuit ut praete 
+      <lb ed="#H" n="53"/>Scripturas Canonicas nihil in Ecclesia legatur sub nomine 
+      divina<lb ed="#H" n="54" break="no"/>rum scripturarum. Et libris enumeratis subijcitur: Hoc fratri &amp; 
+      <lb ed="#H" n="55"/>consacerdoti nostro Bonifacio, vel aliis earum partium Episcopis pro 
+      <lb ed="#H" n="56"/>confirmando isto canone innotescat, quia a Patribus ista accepimus 
+      <lb ed="#H" n="57"/>in Ecclesia legenda. Liceat etiam legi passiones Martyrum, cum 
+      anni<lb ed="#H" n="58" break="no"/>versarij dies eorum celebrantur. Atqui non omnes libri quos legit 
+      <lb ed="#H" n="59"/>Ecclesia ad aedificationem plebis, proferri etiam debent ad 
+      autori<lb ed="#H" n="60" break="no"/>tatem fidei confirmandam, ut manifestum est ex Hieronymi 
+      Praefa<lb ed="#H" n="61" break="no"/>ione in libros Salomonis, &amp; Rufini expositione in Symbolum. In 
+      <lb ed="#H" n="62"/>de ne ipsi quidem Papistae omnia hujus Concilij decreta suscipiunt. 
+      <lb ed="#H" n="63"/>Nam nequaquam probant, quod capitulo primo jubentur omnes 
+      <lb ed="#H" n="64"/>Episcopi Africani observationem Paschalem ab Ecclesia Carthagis 
+      <lb ed="#H" n="65"/>nensi accipere; quum tamen observatio Paschalis semel in Synodo 
+      <lb ed="#H" n="66"/>Nicena definita sit, ut quod ad eam attinet, Romanae Ecclesiae 
+      con<lb ed="#H" n="67" break="no"/>suetudo obtineret. Quod capitulo secundo plures primae sedes 
+      nomi<lb ed="#H" n="68" break="no"/>nentur; quum Papistae solam Romanam primam esse velint  
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e487">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Replicant Papistae, Concilium Carthaginense tertium in 
+      Trul<lb ed="#H" n="70" break="no"/>lana seu sexta Synodo generali confirmatum. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e496">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>RESPON. Etsi in Jure Canonico distinctione decimasexta 
+      ali<lb ed="#H" n="72" break="no"/>quot capit. Canones Synodi sextae generalis approbantur: tamen a 
+      <lb ed="#H" n="73"/>doctissimis Pontificiorum doctoribus tanquam in Romanam 
+      Ec<lb ed="#H" n="74" break="no"/>clesiam injurij, pluribus argumentis refutantur. Pighius acta 
+      Syno<lb ed="#H" n="75" break="no"/>di Trullanae vocat parengrapha, minimeque germana esse 
+      rationi<lb ed="#H" n="76" break="no"/>bus nonnullis demonstrare conatur. Melchior Canus de locis 
+      Theo<lb ed="#H" n="77" break="no"/>logicis libr. 5. cap. 6. ait, Canones istius Synodi non habere 
+      autori<lb ed="#H" n="78" break="no"/>tatem Ecclesiasticam. Deinde ea Synodo non solum Carthaginense, 
+      <lb ed="#H" n="79"/>sed etiam Laodicenum Concilium, quod de librorum sacrorum 
+      nu<lb ed="#H" n="80" break="no"/>mero, sententiae Concilij Carthaginensis &amp; Pontificiorum 
+      repu<lb ed="#H" n="81" break="no"/>gnat, comprobatur. Tum etiamsi Canones Synodi sextae genuini 
+      es<lb ed="#H" n="82" break="no"/>sent, tamen non illico recipiendi essent, quia ipsimet Papistae 
+      non<lb ed="#H" n="83" break="no"/>nullos improbant:  
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e529">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>Concilium Florentinum, quod ajunt Latinorum Graecorum. 
+      <lb ed="#H" n="85"/>que Patrum atque Armenioram legatorum consensione 
+      celebra<lb ed="#H" n="86" break="no"/>tum, nec antiquitate, nec forma, nec episcoporum ratione ullam 
+      a<lb ed="#H" n="87" break="no"/>pud orthodoxos meretur autoritatem 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e542">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Concilium Tridentinum similiter neque pro legitimo 
+      agnosci<lb ed="#H" n="89" break="no"/>mus, neque ejus autoritati quicquam deferimus propter rationes &amp; 
+      <lb ed="#H" n="90"/>causas grauissimas, quas Electores, Principes, &amp; Ordines Imperi¬ 
+      <!--cod-MkL9py-0081.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>Protestantes recensuerunt, &amp; prolixe explicarunt in gravaminibus 
+      <lb ed="#H" n="92"/>oppositis Concilij Tridentini restitutioni seu continuationi a 
+      Pie<lb ed="#H" n="93" break="no"/>IV. Pontifice Romano ano 1562. indictae. Nos illas hoc loco solum: 
+      <lb ed="#H" n="94"/>modo breviter enumerabimus. I. quia concilium Tridentinum 
+      il<lb ed="#H" n="95" break="no"/>legitime &amp; contra manifestum jus indictum fuit ab eo qui jus 
+      indi<lb ed="#H" n="96" break="no"/>cendi non habuit, nimirum a Pontifice Romano, qui neque divine 
+      <lb ed="#H" n="97"/>neque humano jure ullo, neque etiam antiquissimorum Canonum 
+      <lb ed="#H" n="98"/>autoritate, vel purioris Ecclesiae veteris exemplis aut consuetudine 
+      <lb ed="#H" n="99"/>ullam talem habet potestatem: qui jus citandi Protestantes non 
+      ha<lb ed="#H" n="100" break="no"/>bet, cum Romano Pontifici jurisdictio ulla aut superioritas in 
+      Pro<lb ed="#H" n="101" break="no"/>testantes, vel etiam in exsecutione praecipiendi aut prohibendi 
+      po<lb ed="#H" n="102" break="no"/>testas non competat: qui cum suis Cardinalibus, Episcopis &amp; 
+      Prae<lb ed="#H" n="103" break="no"/>latis adhaerentibus pars altera est litigantium, utpote reus &amp; in 
+      con<lb ed="#H" n="104" break="no"/>cilio publice postulandus accusandusque criminum gravissimorum 
+      <lb ed="#H" n="105"/>nempe falsae doctrinae, idololatriae, prophanationis &amp; 
+      depravationi<lb ed="#H" n="106" break="no"/>cultus divini; Simoniacae haereseωs &amp; ut ex protestatione contra 
+      Six<lb ed="#H" n="107" break="no"/>ti V. Pontificis Romani fulmen brutum in Henricum IV. nunc 
+      Re<lb ed="#H" n="108" break="no"/>rem Galliae &amp; Navarrae &amp; Henricum Borbonium Principem 
+      Con<lb ed="#H" n="109" break="no"/>daeum ejaculatum, nonnulla addantur, reus est Papa Romanus 
+      im<lb ed="#H" n="110" break="no"/>pietatis: tyrannidis in Ecclesia occupatae: corruptae Religionis: 
+      sa<lb ed="#H" n="111" break="no"/>crilegij: majestatis imminutae, laesae, conculcatae: perduellionis &amp; 
+      fa<lb ed="#H" n="112" break="no"/>ctionum hostilium: falsi seu subjectarum corruptarumque 
+      tabula<lb ed="#H" n="113" break="no"/>rum, &amp;c. qui denique ante cognitionem causae Lutherum &amp; alios 
+      <lb ed="#H" n="114"/>protestantes, jam damnaverat. II. Quia concilium illud non fuit 
+      <lb ed="#H" n="115"/>tutum, nimirum Tridenti celebratum, in loco Pontifici ad 
+      saevien<lb ed="#H" n="116" break="no"/>dum in Protestantes opportuno &amp; suspecto multis modis. III. quia 
+      <lb ed="#H" n="117"/>constabat tantum ex unius nempe Pontificiae factionis Episcopis &amp; 
+      <lb ed="#H" n="118"/>Theologis. IV. quia non fuit liberum, sed servum, cum ne ipsi 
+      qui<lb ed="#H" n="119" break="no"/>dem Episcopi &amp; Theologi Papani ausi sint aliter decernere quam 
+      <lb ed="#H" n="120"/>Pontifici Romano placuit, cui fuerant adstricti juramento &amp; qui 
+      <lb ed="#H" n="121"/>ententias Tridenti decernendas Roma mittebat. Qui liberiorem 
+      <lb ed="#H" n="122"/>vocem edidisset, a Consessu removebatur, vt Petrus Paulus 
+      Vergeri<lb ed="#H" n="123" break="no"/>us Episcopus Iustinopolitanus, Hieronymus Vida &amp; alij. V. quia non 
+      <lb ed="#H" n="124"/>fuit Christianum seu in Christi nomine collectum, cum, in eo solus 
+      <lb ed="#H" n="125"/>Christus non fuerit summus judex, nec sola Scriptura Satra norma 
+      <lb ed="#H" n="126"/>udicandi. VI. quia colluvies fuit hominum varijs sceleribs: 
+      coo<lb ed="#H" n="127" break="no"/>pertorum, quorum etiam umbram, ne dum societatem boni omns 
+      <lb ed="#H" n="128"/>detestari &amp; procul fugere merito debeant. VII. quia fuit concilium 
+      <lb ed="#H" n="129"/>Simoniacorum, qui sacra officia a Pontifice Romano emerant, &amp; 
+      <lb ed="#H" n="130"/>res sacras vendebant. VIII. quia conflatum fuit ex hominibus 
+      se<lb ed="#H" n="131" break="no"/>ctantibus novum prorsus doct. e genus in Ecclesiam a 
+      Pontifici<lb ed="#H" n="132" break="no"/>bus &amp; Monachis invectum, plenum horribilium errorum, 
+      impie<lb ed="#H" n="133" break="no"/>tatis &amp; idololatriae; &amp; propugnantibus Papae tyrannidem in 
+      Impe<lb ed="#H" n="134" break="no"/>ratores, Reges, &amp; Ecclesiam universam. IX. quia decreta impia 
+      fe<lb ed="#H" n="135" break="no"/>cit &amp; promulgavit sub anathemate observanda. X. quia sicut alis 
+      <lb ed="#H" n="136"/>concilia Papalia magis accendit discordias, quam diremit; atque 
+      ad<lb ed="#H" n="137" break="no"/>eo fax &amp; tuba fuit &amp; adhuc est bellorum in orbe Christiano. XI. quia 
+      <lb ed="#H" n="138"/>concilij illius praeses fuit Papa Romanus, superbus statuum 
+      Impe<lb ed="#H" n="139" break="no"/>rij contemptor, &amp; condemnator. XII. quia concilium Tridenti 
+      <lb ed="#H" n="140"/>num fuit eo fine celebratum, ut Evangelici omnes cogerentur 
+      dese<lb ed="#H" n="141" break="no"/>tere causam veritatis Evangelij, quam sine certo conscientiae 
+      peti<lb ed="#H" n="142" break="no"/>culo deserere non possunt.  
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e670">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Propter tot &amp; tam graves causas Concilium Tridentinum est. 
+      <lb ed="#H" n="144"/>illegitimum ac proinde autoritatem apud nos habet nullam 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e680">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Quin etiam Papistae plurimi hactenus recipere Concilium 
+      Tri<lb ed="#H" n="146" break="no"/>dentinum recusarunt, veluti Reges &amp; Parlamenta Galliae, utur Pone 
+      <lb ed="#H" n="147"/>cifices Romani indesinenter efflagitatint, ut in Gallia acceptare 
+      <lb ed="#H" n="148"/>tur. Alij quoque Pontificij in hoc ipso argumento veritatem 
+      malue<lb ed="#H" n="149" break="no"/>tunt, quam Concilium sequi: sicut Sixtus Senensis etiam post 
+      Con<lb ed="#H" n="150" break="no"/>cilium non dubitavit, tanquam aliena, resecare additamenta libr. 
+      <lb ed="#H" n="151"/>Estherae libr. 1. &amp; 8. Bibliothecae sanctae, ut Bellarminus ipse fater 
+      <lb ed="#H" n="152"/>tur libro primo de verbo Dei capite septimo, sectione prima. Et 
+      Be<lb ed="#H" n="153" break="no"/>nedictus Arias Montanus in opere Biblico regio, in Novi 
+      Testamen<lb ed="#H" n="154" break="no"/>ti titulo ait: Accesserunt &amp; huic editioni libri Graece scripti, (loqui  
+      <lb ed="#H" n="155"/>tur autem de libro Tobiae, Judith, &amp;c.) Quos EccLESIA 
+      ORTHo<lb ed="#H" n="156" break="no"/>DOXA, HEBRAEORUM CANONEM SECUTA. INTER APO. 
+      RV<lb ed="#H" n="157" break="no"/>PHOS RECENSET. Ad haec sessioni quartae, in qua decretum de 
+      li<lb ed="#H" n="158" break="no"/>bris Canonicis promulgatum est, quasi res ludicra ageretur 
+      jauci<lb ed="#H" n="159" break="no"/>numero Episcopi adfuerunt, qui tamen certatim omnes accuri tcirent 
+      <lb ed="#H" n="160"/>ui de Episcopatibus, Abbatiisque (ut postea factum) praebendi, an 
+      <lb ed="#H" n="161"/>natis, decimis agendum cognovissent 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e722">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>iam si Reges Galliae qui Christianissim: &amp; primogeniti sunt silijp 
+      <lb ed="#H" n="163"/>Romanae Ecclesiae, si Parlamenta Galliae, si lij Papistae Cencilius, 
+      <lb ed="#H" n="164"/>Tridentinum non suscipiunt, quanto minus nos Reformatiadstrit 
+      <lb ed="#H" n="165"/>imur ad decreta Concilij illius suspicienda? Ea nos Evang. lices 
+      <lb ed="#H" n="166"/>Papistae non possunt autoritate adstringere, quam Pontificij ipsime 
+      <lb ed="#H" n="167"/>devinciri nolunt  
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e740">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Haec de concilijs allegatis visum est respondere: nunc ad 
+      testi<lb ed="#H" n="169" break="no"/>monia Pontificum Romanorum &amp; Patrum respondemus. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e749">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Testimonium sub INNOCENTIII. Pontificis Romani 
+      nomi<lb ed="#H" n="171" break="no"/>ne productum autoritatem ad probandum nullam habet. Epistolae 
+      <lb ed="#H" n="172"/>enim quae Innocentio primo, &amp; alijs Episcopis Romanis, qui 
+      pri<lb ed="#H" n="173" break="no"/>mis aliquot seculis vixerunt, tribuuntur &amp; decretales appellantur  
+      <lb ed="#H" n="174"/>magna ex parte a recentiore aliquo scriptore, Pontificum 
+      assenta<lb ed="#H" n="175" break="no"/>tore &amp; stipendiario vel conscriptae &amp; suppositae, vel corruptae &amp; 
+      <lb ed="#H" n="176"/>interpolatae sunt; Quia stylus carum abhorret a Latinitate, quae 
+      <lb ed="#H" n="177"/>Episcopis Romanis eo seculo, imo &amp; sequentibus aliquot 
+      verna<lb ed="#H" n="178" break="no"/>cula erat, ut ex genuinis illorum scriptis evinci potest. Ac 
+      inpri<lb ed="#H" n="179" break="no"/>mis epistola ad Exuperium Innocentio adscripta, in Priscianum 
+      <lb ed="#H" n="180"/>etiam est injuria. Quam elegantes enim plirases sunt, habitare 
+      <!--cod-MkL9py-0082.xml-->
+      <pb ed="#H" n="57"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>praecepti sunt: item propter sobolis successionem uxorium usum esse 
+      re<lb ed="#H" n="2" break="no"/>Eixatum, item, ex alia tribuad sacerdotium nullus fuerat praeceptus 
+      <lb ed="#H" n="3"/>accedere; item his ignorationis venia remittitur! Sed omitto istas 
+      <lb ed="#H" n="4"/>imeptas ac prorsus monachales phrases, quibus epistola illa scatet, 
+      un<lb ed="#H" n="5" break="no"/>de manifestum est, epistolam illam una cum aliis similibus supposi 
+      <lb ed="#H" n="6"/>titiam esse. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e797">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Deinde etiamsi epistolae illae supposititiae non essent, tamen vim 
+      <lb ed="#H" n="8"/>ad probandum obtinerent nullam: primo quia in illis testimonia 
+      Sa<lb ed="#H" n="9" break="no"/>crae Scripturae foede depravantur, veluti in eadem ad Exuperium 
+      e<lb ed="#H" n="10" break="no"/>pistola ad prohibitionem conjugij sacerdotum detorquentur haec de 
+      <lb ed="#H" n="11"/>cta; Sancti estote, quia &amp; ego sanctus sum Dominus Deus vester. 
+      Le<lb ed="#H" n="12" break="no"/>vit. 11. &amp; 20. Abstinete vos ad tempus, ut vacetis orationi 1. Cor. 7. 
+      <lb ed="#H" n="13"/>Omnia munda mundis. Tit. 1. Vellem omnes sic esse sicut &amp; ego. 1. 
+      <lb ed="#H" n="14"/>Cor. 7. Qui autem in carne sunt, Deo placere non possunt. Vos autem 
+      <lb ed="#H" n="15"/>jam non estis in carne, sed spiritu Roman. 8. Secundo quia haeretica. 
+      <lb ed="#H" n="16"/>multa in illis epistolis asseruntur, vt in illa ipsa ad Exuperium 
+      episto<lb ed="#H" n="17" break="no"/>la, negatur sacerdotes uxoribus legitimis utentes a Deo exaudiri, &amp; 
+      <lb ed="#H" n="18"/>affirmatur communionem Eucharisticam esse quasi viaticum 
+      profe<lb ed="#H" n="19" break="no"/>cturis ex hac vita, extrema communione homines in supremo vita. 
+      <lb ed="#H" n="20"/>articulo a perpetuo exitio vindicari. Tertio quia mysterij iniquitatis 
+      <lb ed="#H" n="21"/>notae variae in iisdem epistolis apparent, quales etiam in illa ipsa ad 
+      <lb ed="#H" n="22"/>Exuperium epistola sunt; primatus sedis Romanae, distinctio 
+      cleri<lb ed="#H" n="23" break="no"/>corum &amp; laicorum propter sanctitatem, abusus coenae Dominicae 
+      <lb ed="#H" n="24"/>Quarto quia in illis epistolis multa falsa continentur, ut in epistola; 
+      <lb ed="#H" n="25"/>hac ad Exuperium adscribuntur quinque libri Salomoni, cum 
+      non<lb ed="#H" n="26" break="no"/>nisi tres esse Salomonis constet. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e845">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>GELASII decretum, quod exstat in secundo tomo Concilio 
+      <lb ed="#H" n="28"/>rum pagina trecentesima decimaoctava editionis Coloniensis 
+      supr<lb ed="#H" n="29" break="no"/>citatae, autoritate caret; primo, quia decretum illud repugnat 
+      decre<lb ed="#H" n="30" break="no"/>to Synodi Laodicenae a sexta generali Synodo confirmatae: repugnat  
+      <lb ed="#H" n="31"/>item aliis orthodoxis Patribus veteribus, qui aliter libros vere 
+      Ca<lb ed="#H" n="32" break="no"/>nonicos recensuerunt, ut in Symphonia nostra Catholica ostensum. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e864">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Secundo, quia falsa interpretatione corrumpit scripturas: nam 
+      <lb ed="#H" n="34"/>dicto illo Christi, Tues Petrus, &amp;c. dicit Romanam Ecclesiam 
+      caete<lb ed="#H" n="35" break="no"/>tis Ecclesiis praelatam primatum obtinuisse 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e875">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Tertio, quia contradicit Scripturae cum ait: Quamvis aliud 
+      fun<lb ed="#H" n="37" break="no"/>damentum nullus possit ponere praeter id quod positum est, qui est 
+      Chri<lb ed="#H" n="38" break="no"/>stus Iesus, tamen ad aedification, aostram eadem sancta Romana 
+      Ec<lb ed="#H" n="39" break="no"/>clesia, post illas veteris &amp; novi Testamenti, quas regulariter 
+      susce<lb ed="#H" n="40" break="no"/>pimus scripturas, etiam plures non prohibet suscipi scripturas, quas 
+      <lb ed="#H" n="41"/>deinde enumerat, nimirum Conciliorum &amp; Patrum 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e893">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Quarto, quia injuste haereticos vocat eos qui negant, uno 
+      tem<lb ed="#H" n="43" break="no"/>pore, uno eodemque die Petrum &amp; Paulum Romae sub Caesare Ne 
+      <lb ed="#H" n="44"/>rone martyrio coronatos. Atqui haereticus non est, nisi qui errorem 
+      <lb ed="#H" n="45"/>in doctrinae Christianae fundamentum impingentem pertinaciter  
+      <lb ed="#H" n="46"/>defendit. Haeresis est proprie in quaestionibus fidei Christiana 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e909">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Quinto, quia librum Nehemiae vere Canonicum e censu 
+      Cano<lb ed="#H" n="48" break="no"/>nicorum exclusit 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e918">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>exto, etiamsi decretum hoc vim probandi haberet, tamen 
+      pa<lb ed="#H" n="50" break="no"/>rum juvaret Papistas; quia nonnisi unum librum Machabaeorum, &amp; 
+      <lb ed="#H" n="51"/>unum Esdrae inter Canonicos recenset, ac proinde alios libros 
+      Ma<lb ed="#H" n="52" break="no"/>chabaeorum &amp; Esdrae e Canonicorum numero excludit. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e931">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>AUGUSTINUS libro secundo de doctrina Christiana, capite 
+      o<lb ed="#H" n="54" break="no"/>ctavo, numerat quidem inter Canonicos, libros Tobiae, Iudith, 
+      Ma<lb ed="#H" n="55" break="no"/>chabaeorum duos, Sapientiam Salomonis &amp; Ecclesiasticum, sed tum 
+      <lb ed="#H" n="56"/>δμανθμως eos Canonicos vocat, tum progressu temporis cum 
+      am<lb ed="#H" n="57" break="no"/>plius profecisset, cautius de illis scripsit. Nam quinto tomo, libro de 
+      <lb ed="#H" n="58"/>cimooctavo de civitate Dei, capite trigesimosexto sic scribit: Ab hoc  
+      <lb ed="#H" n="59"/>tempore apud Iudaeos restituto templo, non Reges sed Principes fuerunt 
+      <lb ed="#H" n="60"/>usque ad Aristobulum, quorum supputatio temporum non in 
+      Scri<lb ed="#H" n="61" break="no"/>pturis Sanctis, quae Canonica appellantur, sed in aliis invenitur, in 
+      <lb ed="#H" n="62"/>quibus sunt &amp; Machabaeorum libri, quos non Iudei, sed Ecclesia pro 
+      <lb ed="#H" n="63"/>Canonicis habet, propter quorundam martyrum passiones 
+      vehemen<lb ed="#H" n="64" break="no"/>tes atque mirabiles, qui antequam Christus venisset in carnem, usque  
+      <lb ed="#H" n="65"/>ad mortem pro Dei lege certaverunt, &amp; mala gravissima atque 
+      hor<lb ed="#H" n="66" break="no"/>ribilia pertulerunt. Ita Augustinus libros quosdam, in quibus sum 
+      <lb ed="#H" n="67"/>&amp; Machabaeorum libri, a Scripturis Sanctis quae Canonicae appellan 
+      <lb ed="#H" n="68"/>tur, distinguit, hoc est, ab illis quae vere divinitus sunt traditae, &amp; qui 
+      <lb ed="#H" n="69"/>simpliciter totae essent non solum morum sed etiam fidei regula. De 
+      <lb ed="#H" n="70"/>inde ab Ecclesia dicit pro Canonicis haberi, sed num simpliciter &amp; 
+      <lb ed="#H" n="71"/>omnino? num ut toti &amp; simul fidei &amp; morum regula essent? 
+      nequa<lb ed="#H" n="72" break="no"/>quam, sed propter exempla constantiae martyrum. Ergo alio sensus 
+      <lb ed="#H" n="73"/>vere divinos libros vocavit Augustinus Canonicos, alio sensu caete 
+      <lb ed="#H" n="74"/>ros in quibus sunt &amp; Machabaeorum libri. Septimo autem tomo, 
+      li<lb ed="#H" n="75" break="no"/>bro secundo contra secundam Gaudentij Epistolam, capite vigesime 
+      <lb ed="#H" n="76"/>tertio ait: Hanc quidem scripturam quae appellatur Machabaeorum. 
+      <lb ed="#H" n="77"/>non habent Iudaei sicut legem &amp; Prophetas &amp; Psalmos, quibus 
+      Do<lb ed="#H" n="78" break="no"/>minus testimonium perhibet tanquam testibus suis dicens, Oporteba. 
+      <lb ed="#H" n="79"/>impleri omnia quae scripta sunt in lege &amp; Prophetis &amp; Psalmis de me: 
+      <lb ed="#H" n="80"/>sed recepta est ab Ecclesia non inutiliter, si sobrie legatur vel 
+      audia<lb ed="#H" n="81" break="no"/>tur, maxime propter illos Machabaeos qui pro Dei lege sicut veri Mare 
+      <lb ed="#H" n="82"/>tyres a persequutoribus tam indigna atque horrenda perpessi sunt.  
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1002">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Si Augustinus libros Machabaeorum pro univoce &amp; proprie 
+      Ca<lb ed="#H" n="84" break="no"/>nonicis habuisset, num eos separasset ab illis libris quibus Dominus 
+      <lb ed="#H" n="85"/>testimonium perhibet tanqua testibus suis? num de eis diceret, quod 
+      <lb ed="#H" n="86"/>recepti sint ab Ecclesia non inutiliter, cum tanta cautione in lectione 
+      <lb ed="#H" n="87"/>&amp; auscultatione eorum adhibenda, dicens, SI SOBRIE legantur ver 
+      <lb ed="#H" n="88"/>audiantur? num eorum usum ad exempla martyrum restrinxisset 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1020">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Idem libro decimoseptimo de civitate Dei, ca. 20. ait de 
+      Salomo<lb ed="#H" n="90" break="no"/>nis libris: Tres recepti sunt in autoritatem Canonicam: Proverbia, 
+      <lb ed="#H" n="91"/>Ecclesiastes &amp; Canticum Canticorum. Alij vero duo, quorum unus 
+      <lb ed="#H" n="92"/>Sapientia, alter vero Ecclesiasticus dicitur propter eloquij nonnubam 
+      <!--cod-MkL9py-0082.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>similitudinem, ut Salomonis dicantur obtinuit consuetudo. Non 
+      au<lb ed="#H" n="94" break="no"/>tem esse ipsius non dubitant doctieres, eos tamen in autoritatem 
+      mu<lb ed="#H" n="95" break="no"/>cime occidentalis antiquitus recepit Ecclesia. Paulo post addit de his 
+      <lb ed="#H" n="96"/>duobus libris: Sed adversus contradictores non tanta autoritate  
+      <lb ed="#H" n="97"/>proferuntur, quae scripta non sunt in Canone Iudaeorum. In 
+      tribu<lb ed="#H" n="98" break="no"/>vero illis, quos Salomonis esse constat, &amp; Iudaei Canonicos habent, &amp;c. 
+      <lb ed="#H" n="99"/>Ita aperte distinguit Augustinus autoritate tres libros quos constat 
+      <lb ed="#H" n="100"/>esse Salomonis, a duobus aliis quos ab occidentali Ecclesia receptos 
+      <lb ed="#H" n="101"/>dicit, nam Orientalis Ecclesia eos nunquam in tantam autoritatem 
+      <lb ed="#H" n="102"/>recepit, 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1059">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Ex hac collatione scriptorum Augustini patet, testimonium ex 
+      <lb ed="#H" n="104"/>libro secundo de doctrina Christiana, capite octavo allegatum, 
+      ne<lb ed="#H" n="105" break="no"/>quaquam validum esse ad evincendum libros Machabaeorum &amp; 
+      cae<lb ed="#H" n="106" break="no"/>teros quos Hieronymus inter Apocryphos refert, proprie 
+      Canoni<lb ed="#H" n="107" break="no"/>cos esse. Quod in Jure receptum est, ut posteriotes leges derogent 
+      <lb ed="#H" n="108"/>prioribus, &amp; quod vulgo dicitur δοοτέραιφροιλιδες σοφῶτεραι, posterio 
+      <lb ed="#H" n="109"/>res curae seu cogitationes sapientiores; valeat hoc quoque loco. 
+      Li<lb ed="#H" n="110" break="no"/>bros duos priores de doctrina Christiana scripsit Augustinus prius 
+      <lb ed="#H" n="111"/>quam fieret Episcopus, deinde Episcopus factus complevit tertium 
+      <lb ed="#H" n="112"/>&amp; addidit quartum, ut ipse testatur libro secundo Retractationum, 
+      <lb ed="#H" n="113"/>capite quarto: libros vero de civitate Dei &amp; contra epistolas 
+      Gau<lb ed="#H" n="114" break="no"/>dentij scripsit cum jam diu episcopus fuisset ac proinde plus 
+      profecis<lb ed="#H" n="115" break="no"/>set, &amp; confirmatiore judicio evasisset, ut manifestum ex eodem 
+      se<lb ed="#H" n="116" break="no"/>cundo retractationum libro cap. quadragesimotertio &amp; 
+      quinquage<lb ed="#H" n="117" break="no"/>simonono. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1096">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>ISIDORI testimonium ex lib. 6. Etymol. cap. 1. minime 
+      fir<lb ed="#H" n="119" break="no"/>mum est, quia idem in libr. de Offic. ait, Testamentum vetus fuisse 
+      <lb ed="#H" n="120"/>ab Esdra in viginti &amp; duos libros constitutum, ut tot libri 
+      haberen<lb ed="#H" n="121" break="no"/>tur in Lege, quot habentur &amp; literae. Idem de RABANI Mauri 
+      te<lb ed="#H" n="122" break="no"/>timonio respondeo: nam is ait libro secundo de institutione 
+      cleri<lb ed="#H" n="123" break="no"/>corum, cap. 54. totum vetus Testamentum ab Esdra fuisse in duos 
+      <lb ed="#H" n="124"/>&amp; viginti libros distributum, ut tot libri essent in Lege, quot &amp; 
+      ha<lb ed="#H" n="125" break="no"/>bentur literae. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1118">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>Summa, si Concilia vel Episcopi Romani vel alij Patres libros 
+      <lb ed="#H" n="127"/>Machabaeorum, Judith, Tobiae &amp; caeteros qui non sunt in Canone 
+      <lb ed="#H" n="128"/>Hebraeo, inter Canonicos numerarunt, Canonicos alio sensu 
+      voca<lb ed="#H" n="129" break="no"/>runt, quam eos qui in Hebraeo Canone recensentur. Hoc modo 
+      Con<lb ed="#H" n="130" break="no"/>cilia &amp; Patres interprerantur Papistae ipsi: sic enim THOMAS DI 
+      <lb ed="#H" n="131"/>VIOCAIETANUS CARDINALIS Sancti Xysti, qui Pontificia 
+      <lb ed="#H" n="132"/>Romani adversus Lutherum in Germania ad Carolum V. legatus 
+      <lb ed="#H" n="133"/>&amp; Ecclesiae Papisticae columna fuit, in fine Commentariorum in 
+      Hi<lb ed="#H" n="134" break="no"/>storiam veteris Testamenti ad caput decimum Estherae scribit: Hoc 
+      <lb ed="#H" n="135"/>in loco (inquit) terminamus Commentaria librorum historialium 
+      <lb ed="#H" n="136"/>veteris Testamenti. Nam reliqui, videlicet, Iudith, Tobiae &amp; 
+      Ma<lb ed="#H" n="137" break="no"/>chabaeorum libri, a divo Hieronymo extra Canonicos libros supputa. 
+      <lb ed="#H" n="138"/>tur &amp; inter Apocrypha locantur, cum Sapientia &amp; Ecclesiastico, ut 
+      <lb ed="#H" n="139"/>patet in Prologo Galeato. Ne turberis, novitie, si alicubi reperies 
+      li<lb ed="#H" n="140" break="no"/>bros istos inter Canonicos supputari vel in sacris Concilijs vel in sacris 
+      <lb ed="#H" n="141"/>Doctoribus. Nam ad Hieronymi limam reducenda sunt tam verba 
+      <lb ed="#H" n="142"/>Conciliorum, quam Doctorum. Et juxta illius sententia ad 
+      Chro<lb ed="#H" n="143" break="no"/>matium &amp; Heliodorum Episcopos libri isti (&amp; si qui alij sunt in 
+      ca<lb ed="#H" n="144" break="no"/>none Bibliae similes) non sunt Canonici, id est, non sunt regulares, ad 
+      <lb ed="#H" n="145"/>firmandum ea quae sunt fidei. Possunt tamen dici Canonici, id est, 
+      re<lb ed="#H" n="146" break="no"/>gulares, ad aedificationem fidelium, utpote in Canone Bibliae recepti &amp; 
+      <lb ed="#H" n="147"/>autoritati. Cum hac distinctione discernere poteris dicta Augustin. 
+      <lb ed="#H" n="148"/>in secundo de doctrina Christiana &amp; scripta in Concilio Elorentino 
+      <lb ed="#H" n="149"/>sub Eugenio quarto: scriptaque in provincialibus Concilijs, Cartha 
+      <lb ed="#H" n="150"/>ginensi &amp; Laodicensi &amp; ab Innocentio &amp; Gelasio &amp; Pontificibus. 
+      <lb ed="#H" n="151"/>Hactenus Cardinalis Cajetanus, qui praeterquam quod sententiam 
+      <lb ed="#H" n="152"/>Hieronymi approbat, diversam dicit novam esse, &amp; ambiguam. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1181">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Similiter Sixtus Senensis libro primo Bibliothecae, &amp; 
+      Stapleto<lb ed="#H" n="154" break="no"/>nus nono libr. capite sexto princip. fid. doctrinal. distinxerunt libros 
+      <lb ed="#H" n="155"/>in Protocanonicos &amp; Deuterocanonicos. Protocanonici, sunt ij qui in 
+      <lb ed="#H" n="156"/>vere divino Canone recensentur, quos Hieronymi lima probavit  
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1195">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>uos Ecclesiae nostrae vere Canonicos agnoscunt. Deuterocanonici 
+      <lb ed="#H" n="158"/>sunt illi, qui a Concilijs &amp; Patribus nonnullis interdum Canonici 
+      <lb ed="#H" n="159"/>dicuntur, quia morum regulam aliquam &amp; exempla proponunt. 
+      <lb ed="#H" n="160"/>proprie autem Canonici non sunt, sed Apocryphi, quia non sunt 
+      fi<lb ed="#H" n="161" break="no"/>dei simul &amp; morum regula certo divinitus praescripta 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1211">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Sic ad primum argumentum commune responsum 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1218">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>est: sequitur  
+      <lb ed="#H" n="164"/>SECVNDVM. 
+      <lb ed="#H" n="165"/>Ex quibus libris Patres Orthodoxi testimonia allegarunt, ij sunt 
+      <lb ed="#H" n="166"/>proprie &amp; univoce Canonici: 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1231">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>At ex adjectionibus ad librum Esthera &amp; Danielis &amp; caeteris 
+      li<lb ed="#H" n="168" break="no"/>bris de quibus jam controuertitur, Patres Orthodoxi testimonia 
+      al<lb ed="#H" n="169" break="no"/>legarunt. Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1242">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>RESP. Nego consequentiam, quia ex puris particularibus nilil 
+      <lb ed="#H" n="171"/>sequitur. Major propositio particulariter tantum intellecta 
+      conce<lb ed="#H" n="172" break="no"/>ditur; nimirum de libris Mosis, Josuae &amp; aliis qui sunt in divino 
+      Ca<lb ed="#H" n="173" break="no"/>none: universaliter autem intellecta negatur: Nam non tantum 
+      Pa<lb ed="#H" n="174" break="no"/>tres, verum etiam Prophetae &amp; Apostoli nonnulla protulerunt ex 
+      <lb ed="#H" n="175"/>Gentilibus vel aliis humanis scriptis, ut Daniel cap. 4. ex Commen. 
+      <lb ed="#H" n="176"/>ariis Babylonicis programma quod a Rege Nebucadnetzare 
+      ema<lb ed="#H" n="177" break="no"/>navit, &amp; cap. sexto edictum Darij de reverendo Deo Danielis; 
+      Ezra<lb ed="#H" n="178" break="no"/>cap. 1. edictum Cyri Regis Persidis, &amp; cap. 6. Darij Nothi edictum: 
+      <lb ed="#H" n="179"/>Paulus Apostolus aslegavit Actor. 17. ver. 28i sententiam ex Arato. 
+      <lb ed="#H" n="180"/> γ τιιιος ἐσμηο, &amp; 1. Corinth. 15. vers. 33. ex Menandro, φθειρυσι 
+      <lb ed="#H" n="181"/>θεχρι&amp; δμιλίη, uκαs. Et 2. Timoth. 3. ver. 8. ex libris Talmudicia 
+      <!--cod-MkL9py-0083.xml-->
+      <pb ed="#H" n="58"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>nomina Magorum AEgyptiorum Jannis &amp; Jambris qui restiterunt 
+      <lb ed="#H" n="2"/>Mosi, &amp; Tit. 1. vers. 12, versum ex Epimenide, κρήπος ἀει ψουται, κακο 
+      <lb ed="#H" n="3"/>θήρια, γασορες λργαι: Judas Apostolus vers. 14. &amp; 15. Prophetiam 
+      E<lb ed="#H" n="4" break="no"/>nochi: Nequaquam tamen dari potest, libros illos ex quibus ist 
+      <lb ed="#H" n="5"/>Prophetae &amp; Apostoli citarunt, esse Canonicos, nedum vere &amp; 
+      uni<lb ed="#H" n="6" break="no"/>voce Canonicos. Quin etiam Oratio Manassae Regi Judaico 
+      adscri<lb ed="#H" n="7" break="no"/>pta, &amp; tertius quartusque libri Esdrae a nonnullis sanctis Patribus 
+      in<lb ed="#H" n="8" break="no"/>terdum citantur, ut aperte dicitur in praefatiuncula Orationi 
+      Ma<lb ed="#H" n="9" break="no"/>nassae &amp; libro tertio &amp; quarto Esdrae praemissa in editione Bibliorum 
+      <lb ed="#H" n="10"/>Vulgatae versionis Latinae, Sixti quinti Pontificis Romani jussu re 
+      <lb ed="#H" n="11"/>cognitae &amp; Antverpiae in officina Plantiniana excusae Anno 1599. &amp; 
+      <lb ed="#H" n="12"/>tamen Synodus Tridentma extra seriem Canonicorum librorum. 
+      <lb ed="#H" n="13"/>eos posuit. Similiter Athanasius de incarnatione Verbi, pagina tri 
+      <lb ed="#H" n="14"/>gesimanona tomi primi editionis Commelinianae citat librum 
+      Pa<lb ed="#H" n="15" break="no"/>storis, quem Hermae vulgo tribuunt, eumque vocat utilissimum, 
+      ne<lb ed="#H" n="16" break="no"/>tamen est Canonicus. Ex his instantiis patet, non omnes libros ex 
+      <lb ed="#H" n="17"/>quibus Patres Orthodoxi testimonia allegarunt, vere &amp; univoc 
+      <lb ed="#H" n="18"/>Canonicos esse. Hoc Bellarminus ipsemet fateri cogitur libro 
+      pri<lb ed="#H" n="19" break="no"/>mo de verbo Dei, capite decimooctavo, sectione decimanona, ubi i1 
+      <lb ed="#H" n="20"/>hunc modum de libro Henoch, ex quo Judas Apostolus in epistola; 
+      <lb ed="#H" n="21"/>sua citasse Prophetiam existimatur, scribit; Respondeo, quamvis 
+      Ter<lb ed="#H" n="22" break="no"/>tullianus libro de habitu muliebri contendat, librum Henoch 
+      esseCa<lb ed="#H" n="23" break="no"/>nonicum, &amp; Beda in hanc epistolam dicat, tempore Iudae librum 
+      He<lb ed="#H" n="24" break="no"/>noch verum &amp; Canonicum in manibus hominum fuisse, etsi modo 
+      <lb ed="#H" n="25"/>non exstet: tamen probabilius videri librum esse apocryphum. 
+      Caete<lb ed="#H" n="26" break="no"/>rum ut Hieronymus in capite primo ad Titum &amp; Augustinus libra 
+      <lb ed="#H" n="27"/>15. de civitate Dei, cap. 23. &amp; libro 18. cap. 38. dicunt, etiam in A 
+      <lb ed="#H" n="28"/>poeryphis esse aliquid veri, &amp; hoc Iudam protulisse, nec tamen 
+      pro<lb ed="#H" n="29" break="no"/>terea totum librum approbasse; sicut etiam Paulus Actor. 17. 1. 
+      Co<lb ed="#H" n="30" break="no"/>rinth. 15. &amp; ad Tit. 1. profert testimonia ex Ethnicis Poetis, Arato, 
+      <lb ed="#H" n="31"/>Menandro &amp; Epimenide: nec tamen idcirco poetas illos consecravit. 
+      <lb ed="#H" n="32"/>Ita Bedarminus non concedit, quodvis scriptum illico Canonicum 
+      <lb ed="#H" n="33"/>esse, etiamsi Apostoli inde aliquid protulerunt. Quanto minus 
+      igi<lb ed="#H" n="34" break="no"/>tur erit illico Canonicum scriptum, eo quod Patres qui Apostolis 
+      <lb ed="#H" n="35"/>longe inferiores sunt, inde testimonia citaverint? Idem Bellarminus 
+      <lb ed="#H" n="36"/>libro primo de Verbo Dei, capite vigesimo fatetur, Patres 
+      testimo<lb ed="#H" n="37" break="no"/>nia proferre ex libro Hermetis, qui Pastor inscribitur, item ex 
+      tertio<lb ed="#H" n="38" break="no"/>&amp; quarto Esdrae; quos tamen idem refert inter Apocryphos. 
+      Simili<lb ed="#H" n="39" break="no"/>ter Iohannes Driedo unus ex primariis Papistis scribit de Catalogi 
+      <lb ed="#H" n="40"/>Scripturae libro 1. cap. 4. ad difficultatem 4. Cyprianus, Ambrosius, 
+      <lb ed="#H" n="41"/>caeterique Patres citant sententias ex libro Baruch, ex 3. &amp; 4. Esdrae, 
+      <lb ed="#H" n="42"/>non tanquam ex Canonicis libris, sed tanquam ex libris 
+      continenti<lb ed="#H" n="43" break="no"/>bus dogmata quaedam pia, &amp;c. Quum igitur propositio major 
+      uni<lb ed="#H" n="44" break="no"/>verse intellecta sit falsa, conclusionem quoque falsam esse necesse est. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1375">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>REPLICATIO Papistarum: At Patres citant libros hos, de qui  
+      <lb ed="#H" n="46"/>bus jam controuertitur, ut sacros &amp; divinos: Ergo sunt proprie &amp; 
+      <lb ed="#H" n="47"/>univoce Canonici. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1387">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>DUPLIGATIO nostra: Negatur consequentia, quia ex puris 
+      <lb ed="#H" n="49"/>particularibus nihil sequitur. Nam major propositio omissa: nempe 
+      <lb ed="#H" n="50"/>Quos libros Patres citant ut sacros &amp; diuvinos, ij sunt proprie &amp; 
+      uni<lb ed="#H" n="51" break="no"/>voce Canonici, est tantum particulariter vera: quia mos est usitatur 
+      <lb ed="#H" n="52"/>optimis quibusque Patribus, Graecis &amp; Latinis, ut non tantum 
+      li<lb ed="#H" n="53" break="no"/>bros vere Canonicos, sed etiam apocryphos honorifice allegent: ut 
+      <lb ed="#H" n="54"/>Ambrosius tomo tertio, pagina vigesima septima editionis 
+      Frobe<lb ed="#H" n="55" break="no"/>nianae Anno 1538. in oratione de obitu fratris Satyri, tanquam 
+      Sa<lb ed="#H" n="56" break="no"/>crae Scripturae solatia profert, quae libro quarto Esdrae capite decime 
+      <lb ed="#H" n="57"/>leguntur. Clemens Alexandrinus saepe citat librum Pastoris non 
+      se<lb ed="#H" n="58" break="no"/>cus ac si divinus esset. Ergone quartum Esdrae &amp; Pastoris librum nos 
+      <lb ed="#H" n="59"/>pro vere Canonico habere aequum est: 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1418">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>TERTIVM. 
+      <lb ed="#H" n="61"/>Sequitur commune argumentum pro his 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1427">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>libris. 
+      <lb ed="#H" n="63"/>mnes libri qui a Patribus appellantur sacri, sunt proprie &amp; 
+      u<lb ed="#H" n="64" break="no"/>nivoce Canonici: 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1438">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>At isti libri de quibus jam controuertitur, a Patribus 
+      appellan<lb ed="#H" n="66" break="no"/>tur sacri 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1447">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Ergo, &amp;c. 
+      <lb ed="#H" n="68"/>RESPON. Major propositio absque distinctione &amp; limitatione 
+      <lb ed="#H" n="69"/>intellecta, est falsa: quia non omnes libri quos Patres appellant 
+      sa<lb ed="#H" n="70" break="no"/>cros, sunt tales dicti eodom modo. Alij enim univoce, alij aequivoce 
+      <lb ed="#H" n="71"/>dicuntur sacri: Qui univoce, hoc est, reipsa &amp; veritate sunt sacri, ille 
+      <lb ed="#H" n="72"/>sunt proprie &amp; univoce Canonici. Hi vero libri de quibus jam 
+      con<lb ed="#H" n="73" break="no"/>trovertitur, aequivoce sacri dicuntur, hoc est, quadam similitudine ex 
+      <lb ed="#H" n="74"/>opinione institutove hominum: quemadmodum a Cajetano Cardi 
+      <lb ed="#H" n="75"/>nali Concilia Episcopalia sacra, &amp; Patres sacri dicuntur in verbis 
+      sub<lb ed="#H" n="76" break="no"/>finem responsionis nostrae ad primum argumentum nuper citatis 
+      <lb ed="#H" n="77"/>Ita Canones Conciliorum Episcopalium &amp; Juris Canonici 
+      dicun<lb ed="#H" n="78" break="no"/>tur sacri. Sic a Jurisconsultis leges dicuntur sacrae: imo etiam sacratis 
+      <lb ed="#H" n="79"/>simae. Literae quibus Imperatores Valentinianus &amp; Martianus 
+      indi<lb ed="#H" n="80" break="no"/>xerunt concilium vocantur sacrae tomo secundo Conciliorum, 
+      pagi<lb ed="#H" n="81" break="no"/>nam octava, nona, decima, 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1484">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>QVARTVM 
+      <lb ed="#H" n="83"/>Quicunque libri fuerunt publice recepti in Ecclesiis, illi sunt vi 
+      <lb ed="#H" n="84"/>nivoce &amp; proprie Canonici: At hi libri fuerunt publice recepti in 
+      <lb ed="#H" n="85"/>Ecclesiis: Ergo, &amp; 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1498">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>RESPON. Major propositio est falsa: nam adversus illam potest. 
+      <lb ed="#H" n="87"/>dari instantia. Quia Eusebius libro tertio historiae Ecclesiasticae capi 
+      <lb ed="#H" n="88"/>te tertio de libro Pastoris dicit eum δεδημοσιδυυηδυον, id est, public  
+      <lb ed="#H" n="89"/>receptum in Ecclesiis, quem tamen el voεois numerat Quod si major 
+      <lb ed="#H" n="90"/>sit concedenda, limitati &amp; restringi eam necesse est: Quicunque libri 
+      <lb ed="#H" n="91"/>fuerunt publice recepti in Ecclesiis, nimirum ad dogmatum autori¬ 
+      <!--cod-MkL9py-0083.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>tatem, illi sunt vere divinitus Canonici. At hos libros, de quibus jam 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1522">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>controvertitur, fuisse publice receptos in Ecclesiis ad dogmatum 
+      au<lb ed="#H" n="94" break="no"/>toritatem, negatur: quia testante Hieronymo fuerunt recepti tantum 
+      <lb ed="#H" n="95"/>ad aedificationem plebis quoad mores propter praecepta morum &amp; 
+      <lb ed="#H" n="96"/>exempla quae in iis continentur. Conclusio igitur δυχεται 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1535">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>QVINTVM. 
+      <lb ed="#H" n="98"/>Quicunque libri a Patribus absolute &amp; simpliciter appellantus 
+      <lb ed="#H" n="99"/>Scripturae, j sunt proprie Canonici: 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1546">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>At hi libri de quibus quaestio est, a Patribus absolute &amp; simpli 
+      <lb ed="#H" n="101"/>citer appellantur Scripturae: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1555">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>RESP. Major propositio negatur, non enim omnes libri quo 
+      <lb ed="#H" n="103"/>Patres simpliciter appellant Scripturas, sunt proprie Canonici, sed  
+      <lb ed="#H" n="104"/>tantum illi qui sunt vere divina Scriptura 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1566">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>SEXTVM. 
+      <lb ed="#H" n="106"/>Omnes libri qui sunt Scriptura divina sunt univoce &amp; propria 
+      <lb ed="#H" n="107"/>Canonici: At hi libri de quibus controversia est, sunt Scriptura 
+      di<lb ed="#H" n="108" break="no"/>vina: Ergo sunt univoce &amp; proprie Canonici: 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1580">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Minorem probant: quia Clemens Alexandrinus lib. 2. Paedago 
+      <lb ed="#H" n="110"/>gi, cap. 3. librum Baruchi appellat divinam Scripturam; Theodoretus 
+      <lb ed="#H" n="111"/>item in expositione hujus libri, Euseb. lib. 6. demonstr. Evangel. cap. 
+      <lb ed="#H" n="112"/>t9 Ita hymnum trium puerorum Cyprianus &amp; Chrysostomus vocant  
+      <lb ed="#H" n="113"/>divinum, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1596">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>RESPON. Negatur consequentia, quia sunt quatuor termin 
+      <lb ed="#H" n="115"/>propter ambiguitate medij. Nam divinum dicitur oμαγυμως, nem 
+      <lb ed="#H" n="116"/>pe vel xυρίως, proprie, quod κατ ἀληθειαν, natura sua, ortuve divinum 
+      <lb ed="#H" n="117"/>est, eo quod pure Dei est, a Deo aut secundum Deum: vel ἀκυρως 
+      <lb ed="#H" n="118"/>improprie, quod κ διζαν, ex opinione humana, iudicioque 
+      praesum<lb ed="#H" n="119" break="no"/>to, ex humana institutione &amp; positivo jure, quadam similitudine &amp; 
+      <lb ed="#H" n="120"/>imagine divinum est. Major propositio intellecta de Scriptura 
+      divi<lb ed="#H" n="121" break="no"/>na κνρίως dicta conceditur: Minor propositio autem de Scriptura 
+      <lb ed="#H" n="122"/>divina ἀκυρως dicta vera est. Quod si divina Scriptura in Minore 
+      pro<lb ed="#H" n="123" break="no"/>positione eodem sensu accipiatur, quo in Majore, tum minor 
+      falsa<lb ed="#H" n="124" break="no"/>est; nec ad eam probandam sufficit Patrum autoritas, qui libros 
+      il<lb ed="#H" n="125" break="no"/>los de quibus quaeritur, Scripturam vocant divinam ἀκυρως, 
+      quem<lb ed="#H" n="126" break="no"/>admodum &amp; librum Hermetis qui inscribitur Pastor, divinitus 
+      in<lb ed="#H" n="127" break="no"/>piratum putavit Origenes libro decimo in epistolam ad Romanos. 
+      <lb ed="#H" n="128"/>quem tamen nihilominus apocryphum censet Bellarminus libro 
+      <lb ed="#H" n="129"/>primo de Verbo Dei capite vigesimo, sect. sexta. Literae 
+      Imperatri<lb ed="#H" n="130" break="no"/>cis Pulcheriae ad Leonem I. Romanum, vocantur divinae syllabae 
+      se<lb ed="#H" n="131" break="no"/>cundo tomo Conciliorum, pag. octava. Irrita ergo Conclusio. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1640">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>SEPTIMVM. 
+      <lb ed="#H" n="133"/>Quicunque libri a Patribus vocantur Canonici, ij sunt 
+      univo<lb ed="#H" n="134" break="no"/>ce &amp; proprie Canonici: 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1651">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>At hi libri de quibus controversia est, a Patribus vocantur 
+      Ca<lb ed="#H" n="136" break="no"/>nonici: ut sanctus Augustinus in Speculo praefatur, ex Canonicis 
+      li<lb ed="#H" n="137" break="no"/>bris se sententias collecturum, &amp; in iis habet Tobiam: idem de aliis 
+      <lb ed="#H" n="138"/>Patres dicunt  
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1664">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Ergo sunt univoce &amp; proprie Canonici: 
+      <lb ed="#H" n="140"/>RESP. Negatur consequentia, quia sunt quatuor termini, 
+      pro<lb ed="#H" n="141" break="no"/>pter homonymiam in medio. Canonici enim libri dupliciter 
+      dicun<lb ed="#H" n="142" break="no"/>tur vel univoce vel aequivoce. Vnivoce Canonici dicuntur, qui veri 
+      <lb ed="#H" n="143"/>patem divinam continent divinitus materia &amp; forma, hoc est, qui non 
+      <lb ed="#H" n="144"/>tantum quoad res, sed etiam quoad verba &amp; phrases &amp; ordinem 
+      di<lb ed="#H" n="145" break="no"/>vinitus inspirati sunt; quique autoritate divina sunt publico Ecclesiae 
+      <lb ed="#H" n="146"/>dati &amp; sanctificati, ut essent regula veritatis in fide &amp; moribus. Atque 
+      <lb ed="#H" n="147"/>hi sunt quos Deus per Prophetas &amp; Apostolos scripsit aut 
+      approba<lb ed="#H" n="148" break="no"/>vit, &amp; autoritate Spiritus obsignavit sanctificavitque 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1690">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>AEquivoce Canonici dicuntur qui secundum partes suas 
+      singu<lb ed="#H" n="150" break="no"/>las universe nec veritati primae &amp; divinae per omnia respondent 
+      divi<lb ed="#H" n="151" break="no"/>nitus, nec autoritate divina publico Ecclesiae dati atque sanctificat,  
+      <lb ed="#H" n="152"/>sunt, sed humano arbitrio &amp; humanam autoritate Canonici 
+      habiti<lb ed="#H" n="153" break="no"/>Major vera est de libris qui univoce Canonici dicuntur: Minor &amp; 
+      <lb ed="#H" n="154"/>probatio ejus de iis qui aequivoce. Non procedit igitur 
+      argumen<lb ed="#H" n="155" break="no"/>tatio¬  
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1711">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>OCTAVVM. 
+      <lb ed="#H" n="157"/>Quicunque libri sunt sancti, ij sunt univoce &amp; proprie Canonici. 
+      <lb ed="#H" n="158"/>Idivinitus, negatur  
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1722">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>At hi libri sunt sancti. Ergo 
+      <lb ed="#H" n="160"/>RESP. Distinguo: Quicunque libri sunt sancti, nimirum 
+      divi<lb ed="#H" n="161" break="no"/>nitus, ij sunt univoce &amp; proprie Canonici. At hos libros esse sanctos 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1733">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Replicant Papistae: Quod allegant Apostoli, est diuvinitus sanctum, 
+      <lb ed="#H" n="163"/>Hos libros allegant Apostoli: Ergo sunt diuvinitus sancti 
+      <lb ed="#H" n="164"/>RESP. Primo, Fallacia est non causae in propositione majore 
+      <lb ed="#H" n="165"/>Non enim quia divinitus sanctum, ideo adducunt Apostoli quicquio  
+      <lb ed="#H" n="166"/>adducunt, sed quia adducunt Apostoli, eo sanctificatur divinitus 
+      <lb ed="#H" n="167"/>quod antea non erat sunctum. Sicut Tertullianus libro primo ac 
+      <lb ed="#H" n="168"/>xorem, cap. 8. sapienter dicit: Convictum atque commercia Deo 
+      di<lb ed="#H" n="169" break="no"/>gna sectare, memor illius versiculi sanctificati per Apostolum: Bonos 
+      <lb ed="#H" n="170"/>corrumpunt mores, congressus pravi. Similiter sanctificavit Spiritus 
+      <lb ed="#H" n="171"/>Sanctus per Paulum sententiam Arati, &amp; το οτινος ἐτμδε. Sed 
+      edi<lb ed="#H" n="172" break="no"/>ctum Nebucadnetzaris Daniel. 4. sanctificatum est per Danielem 
+      <lb ed="#H" n="173"/>Prophetam. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1764">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Secundo, minor propositio est falsa. 
+      <lb ed="#H" n="175"/>Eam sic probare nituntur Papani, quia Rom. 11 v. 34. &amp; 1. 
+      Cor<lb ed="#H" n="176" break="no"/>2. v. 16. citat Paulus ex libris Sapientiae cap. 9. v 13 Quis enim 
+      cogno<lb ed="#H" n="177" break="no"/>vit mentem Domini? Similiter quod legitur Hebr. 1. v. 3. Qui cum 
+      <lb ed="#H" n="178"/>sit splendor gloriae &amp; character subsistentiae ejus, ajunt sumtum ex 
+      ca<lb ed="#H" n="179" break="no"/>7. Sapientiae, &amp; Rom. 12. v. 19. ex Ecclesiastici 28. v. 12. Non ipsi 
+      vos<lb ed="#H" n="180" break="no"/>met ulciscentes dilecti, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1784">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>RESP. Hego Apostolum Paulum quicquam ex Sapientiae &amp; 
+      <lb ed="#H" n="182"/>Ecclesiastici libro citare: sicut nec in testimoniorum a Christo e. 
+      <lb ed="#H" n="183"/>postolis in Novo Testamento ex Voteri citatorum Indice, qui est ut 
+      <!--cod-MkL9py-0084.xml-->
+      <pb ed="#H" n="59"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Biblijs jussu Sixti V. recognitis, &amp; Antverpiae excusis, vel unicus 
+      li<lb ed="#H" n="2" break="no"/>ber, quem Hieronymus extra Canonem esse dicit, recensetur, ex quo 
+      <lb ed="#H" n="3"/>testimonium in Novo Testamento sit allegatum. Deinde quod ad 
+      <lb ed="#H" n="4"/>locum Rom. 11. v. 34. &amp; 1. Corinth. 2. ver. 16. Hebr. 1. v. 3. &amp; Rom 
+      <lb ed="#H" n="5"/>12. ver. 19. attinet, non citat eos Paulus aliunde, ut patet ex orationis 
+      <lb ed="#H" n="6"/>contextu &amp; forma. Quod si adducit aliunde, tum potius ex indubita. 
+      <lb ed="#H" n="7"/>to Canonicis adducit, quemadmodum primum locum ex Jesa. 40. 
+      <lb ed="#H" n="8"/>ver. 13. teste Thoma Aquinate in capite undecimo ad Roman. lec 
+      <lb ed="#H" n="9"/>quinta, &amp; Cajerano, &amp; interpretibus Remenensibus in Angelica 
+      ver<lb ed="#H" n="10" break="no"/>sione. Bellarmin. lib. 1. de Verbo Dei capite 7. sect. 8. &amp; cap. 6. sect.  
+      <lb ed="#H" n="11"/>2. &amp; cap. 9. sect. 3. Locum vero Rom. 12. v. 14. ex Deut, 32. v. 35. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1826">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>NONVM 
+      <lb ed="#H" n="13"/>Ex quibuscunque libris, publice in Ecclesia, inter ipsa sacrorum: 
+      <lb ed="#H" n="14"/>solemnia, lectiones decantantur vel recitantur, ij. sunt univoce &amp; 
+      <lb ed="#H" n="15"/>proprie Canonici: 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1840">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>At ex his libris publice in Ecclesia, inter ipsa sacrorum solemnia, 
+      <lb ed="#H" n="17"/>lectiones decantantur vel recitantur. Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1849">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>RESP. Major propositio est falsa. Nam etiam ex libris Patrum, 
+      <lb ed="#H" n="19"/>veluti Augustini, Leonis Magni, Eusebij, Isidori &amp; aliorum, lectio 
+      <lb ed="#H" n="20"/>nes inter sacrorum Pontificiorum solemnia recitantur, ut liquet ex 
+      <lb ed="#H" n="21"/>Breviario Romano ex decreto Concilij Tridentini restituto &amp; 
+      Pi<lb ed="#H" n="22" break="no"/>V. Pontificis Romani jussu edito: nec tamen libri Patrum sunt 
+      Ca<lb ed="#H" n="23" break="no"/>nonici, nedum vere divinitus Canonici. Deinde quod ad minorem 
+      <lb ed="#H" n="24"/>attinet, quaenam illa Ecclesia est, cujus nobis exemplum pro argu 
+      <lb ed="#H" n="25"/>mento obijcitur? Parum enim aut nihil apud nos Ecclesiae Romana 
+      <lb ed="#H" n="26"/>consuetudo valet, nedum ut vim in ea tanti argumenti agnoscamus. 
+      <lb ed="#H" n="27"/>Ruit igitur conclusio¬ 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1875">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>PDECIMVM. 
+      <lb ed="#H" n="29"/>Qicunque libri olim in Ecclesia legebantur etiam ante 
+      Hiero<lb ed="#H" n="30" break="no"/>nymi tempora, ij sunt proprie Canonici: 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1886">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>At hi libri olim in Ecclesia legebantur etiam ante 
+      Hieronymi<lb ed="#H" n="32" break="no"/>tempora 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1895">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Ergo sunt proprie Canonici: 
+      <lb ed="#H" n="34"/>RESPON. Distinguo. Libri alij in Ecclesia olim legebantur de 
+      <lb ed="#H" n="35"/>ambone, hoc est, gradu Episcoporum seu suggestu concionatorum 
+      <lb ed="#H" n="36"/>Presbyterorumque: alij etiam de gradu Lectorum. Rursus alij 
+      li<lb ed="#H" n="37" break="no"/>bri legebantur &amp; ad confirmandam dogmatum autoritatem &amp; ad 
+      <lb ed="#H" n="38"/>plebis aedificationem in cultu Dei &amp; in moribus: alij tantum ad 
+      aedi<lb ed="#H" n="39" break="no"/>ficationem plebis in moribus. Jam quicunque libri olim in Ecclesiae 
+      <lb ed="#H" n="40"/>legebantur de ambone Episcoporum Presbyterorumque &amp; ad 
+      con<lb ed="#H" n="41" break="no"/>firmandam dogmatum autoritatem, ij sunt proprie Canonici: At 
+      li<lb ed="#H" n="42" break="no"/>bri isti de quibus est controversia, tantum de gradu Lectorum lege 
+      <lb ed="#H" n="43"/>bantur &amp; solummodo ad aedificationem plebis in moribus maxime 
+      <lb ed="#H" n="44"/>que Catechumenorum. Non sunt igitur proprie Canonici. 
+      No<lb ed="#H" n="45" break="no"/>stram sententiam confirmant Patres ipsi. ATHANASIUS in Synopsi 
+      <lb ed="#H" n="46"/>Sacrae Scripturae ait: Praeter istos (nempe Canonicos libros quos 
+      e<lb ed="#H" n="47" break="no"/>numeraverat) sunt adhuc alij veteris instrumenti libri non 
+      Canoni<lb ed="#H" n="48" break="no"/>ci, qui Catechumenis tantum leguntur, Sapientia Salomonis, &amp;c. 
+      Ect<lb ed="#H" n="49" break="no"/>Epistolam trigesimanona festali: Sed majoris evidentiae causa 
+      adijci<lb ed="#H" n="50" break="no"/>am &amp; hoc necessario; sciens, quod etiam alij libri sint extra hos 
+      enu<lb ed="#H" n="51" break="no"/>meratos, qui non quidem Canonem constituunt: sed propositi sunt a 
+      <lb ed="#H" n="52"/>Patribus legendi eis qui primum accedunt &amp; simpliciter edoceri 
+      vo<lb ed="#H" n="53" break="no"/>lunt sermonem pietatis: Sapientia Salomonis &amp; Sapientia Syrach &amp; 
+      <lb ed="#H" n="54"/>Esther (id est, adjectiones ad librum Estherae, nam alioquin librum 
+      <lb ed="#H" n="55"/>Esther ad proprie Canonicos referri docet in Synopsi Sacrae 
+      Scri<lb ed="#H" n="56" break="no"/>turae) &amp; Iudith &amp; Tobias &amp; doctrina quae vocatur Apostolorum: 
+      <lb ed="#H" n="57"/>&amp; Pastor. Ubi notandum, etiam doctrinam quae vocatur 
+      Apostolo<lb ed="#H" n="58" break="no"/>rum &amp; Pastorem veteres in Ecclesia legisse, qui tamen libri etiam 
+      <lb ed="#H" n="59"/>Papistarum confessione sunt Apocryphi. AUGUSTINUS libro 
+      pri<lb ed="#H" n="60" break="no"/>mo de Praedestinatione cap. decimoquarto ait, Librum Sapientia 
+      me<lb ed="#H" n="61" break="no"/>ruisse in Ecclesia Christi de gradu Lectorum Ecclesiae Christi tam 
+      lon<lb ed="#H" n="62" break="no"/>ga annositate recitari, &amp;c. Et HIERONTMUS Praefatione in libro 
+      <lb ed="#H" n="63"/>Salomonis: Sicut ergo Iudith, &amp; Tobiae &amp; Machabaeorum libros 
+      le<lb ed="#H" n="64" break="no"/>git quidem Ecclesia, sed eos inter Canonicas Scripturas non recipit: 
+      <lb ed="#H" n="65"/>sic &amp; haec duo volumina legat ad aedificationem plebis, non ad 
+      autori<lb ed="#H" n="66" break="no"/>tutem Ecclesiasticorum dogmatum confirmandam, 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1973">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Hinc constat, libros istos etiamsi olim in Ecclesia legebantur. 
+      <lb ed="#H" n="68"/>tamen non esse proprie Canonicos. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1983">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>INSTANTIA. At Rufinus hoc argumento usus est lib. 2. 
+      adver<lb ed="#H" n="70" break="no"/>sus Hieronymum; 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e1992">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Ergo isti libri quia legebantur in Ecclesia, sunt proprie Canonici 
+      <lb ed="#H" n="72"/>RESP. Primo Rufini testimonium non est idoneum: quia est 
+      <lb ed="#H" n="73"/>hominis ira atque odio infiammati adversus Hieronymum: quis enim 
+      <lb ed="#H" n="74"/>majore cum impotentia animi scripsit, quam Rufinus iste, quum in 
+      <lb ed="#H" n="75"/>Hieronymum inveheretur? Qui damnatum calculis bonorum 
+      o<lb ed="#H" n="76" break="no"/>mnium scriptum adfert ad causae suae patrocinium, prodit eam &amp; 
+      per<lb ed="#H" n="77" break="no"/>dit. Secundo, aequius atque rattonabilius est, ut Rufinum sedatum &amp; 
+      <lb ed="#H" n="78"/>composito animo scribentem audiamus atque sequamur. Sic vero 
+      <lb ed="#H" n="79"/>ille in scripto Didactico quod extra calorem iracudiae exaravit, 
+      nem<lb ed="#H" n="80" break="no"/>pe in Expositione Symboli Apostolici, vulgo Cypriano adscripta, 
+      <lb ed="#H" n="81"/>ait; Sciendum tamen est, quod &amp; alij libri sunt, qui non Canonici, 
+      <lb ed="#H" n="82"/>sed Ecclesiastici a Majoribus sunt uppellati: ut est Sapientia 
+      Salomo<lb ed="#H" n="83" break="no"/>nis, &amp; alij Sapientia filij Syrach, qui liber apud Latinos hoc ipso 
+      gene<lb ed="#H" n="84" break="no"/>rali vocabulo Ecclesiasticus appellatur, quo vocabulo non autor 
+      li<lb ed="#H" n="85" break="no"/>belli, sed Scripturae qualitas cognominata est: Ejusdem ordinis est 
+      li<lb ed="#H" n="86" break="no"/>bellus Tobiae &amp; Iudith &amp; Machabaeorum libri. In novo vero 
+      Testa<lb ed="#H" n="87" break="no"/>mento libellus qui dicitur Pastoralis sive Hermetis, qui appellatur 
+      <lb ed="#H" n="88"/>duae viae vel judicium Petri, quae omnia legi quidem in Ecclesiis 
+      vo<lb ed="#H" n="89" break="no"/>luerunt, non tamen proferri ad autoritatem ex his fidei 
+      confirman<lb ed="#H" n="90" break="no"/>dam. Observandum quod Rufinus in illorum librorum numero, 
+      <lb ed="#H" n="91"/>quos in Ecclesiis legi Majores polucrunt, recenset etiam librum qui 
+      <!--cod-MkL9py-0084.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>Pastoralis sive Hermetis dicitur, item alium qui appellatur duae viae 
+      <lb ed="#H" n="93"/>vel judicium Petri; quos libros ipsimet Papistae apocryphos esse 
+      fa<lb ed="#H" n="94" break="no"/>tentur. Ergo nec isti de quibus jam controvertitur, propterea sunt  
+      <lb ed="#H" n="95"/>proprie Canonici quod olim in Ecclesia legebantur.  
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2055">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>VNDECIMVM. 
+      <lb ed="#H" n="97"/>Quosciinque libros proferunt Patres ad dogmatum 
+      Ecclesiasti<lb ed="#H" n="98" break="no"/>corum autoritatem confirmandam, ij sunt proprie Canonici 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2066">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>At libros istos proferunt Patres ad dogmutum Ecctesiasticorum 
+      <lb ed="#H" n="100"/>autoritatem confirmandum 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2075">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Ergo sunt proprie Canonici.: 
+      <lb ed="#H" n="102"/>RESP. Hoc argumentum idem fere est cum secundo, ideo res 
+      <lb ed="#H" n="103"/>sponsio eadem esse posset. Sed quia secundum est generalius, hoc 
+      au<lb ed="#H" n="104" break="no"/>tem strictius, agens tantum de allegationibus ad dogmatum 
+      Eccle<lb ed="#H" n="105" break="no"/>siasticorum autoritatem affirmandam, &amp; natum ex solutione 
+      praece<lb ed="#H" n="106" break="no"/>dentis argumenti; ideo distincte respondemus. Major propositio qua 
+      <lb ed="#H" n="107"/>universaliter enunciatur, falsa est: quia Patres proferunt saepe ad 
+      do<lb ed="#H" n="108" break="no"/>matum autoritatem confirmandam, etiam alios libros qui tamer 
+      <lb ed="#H" n="109"/>sunt Apocryphi, ut de Pastore Hermetis fatetur Bellarminus ipse 
+      li<lb ed="#H" n="110" break="no"/>bro primo de Verbo Dei, cap. vigesimo, sectione sexta; &amp; de tertio 
+      <lb ed="#H" n="111"/>&amp; quarto Esdrae, sectione septima &amp; octava. Iidem patres proferunt 
+      <lb ed="#H" n="112"/>etiam libros Gentilium ad dogmatum Ecclesiasticorum 
+      autorita<lb ed="#H" n="113" break="no"/>tem confirmandam, ut Iustinus Martyr in Apologia secunda, 
+      Theo<lb ed="#H" n="114" break="no"/>doretus de curatione Graecarum affectionum, Lactantius, 
+      Augusti<lb ed="#H" n="115" break="no"/>nus, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2112">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>INSTANTIA. Libri proprie Canonici proferuntur ad 
+      dogma<lb ed="#H" n="117" break="no"/>tum Ecclesiasticorum autoritatem confirmandam? 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2122">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>At hi libri proferuntur ad dogmatum Ecclesiasticorum 
+      autorita<lb ed="#H" n="119" break="no"/>tem confirmandam: Ergo sunt proprie Canonici: 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2131">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>RESP. Negatur consequentia, quia ex puris affirmativis in 
+      se<lb ed="#H" n="121" break="no"/>cunda figura nihil sequitur  
+      <lb ed="#H" n="122"/>Hactenus argumenta communia quibus pro his libris Papi¬ 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2142">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>stae pugnant: sequuntur aliquot siugularia pro¬ 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2149">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>singulis. 
+      <lb ed="#H" n="125"/>Pro adjectionibus ad librum Estherae: 
+      <lb ed="#H" n="126"/>Si Concilia &amp; Patres librum Estherae inter Canonicos 
+      numeran<lb ed="#H" n="127" break="no"/>tes, de eo volumine locuti sunt, quo tum Ecclesia universa 
+      uteba<lb ed="#H" n="128" break="no"/>tur, nempe habente etiam appendices illas de quibus jam quaeritur: 
+      <lb ed="#H" n="129"/>tum etiam appendices illae sunt univoce Canonicae. Verum est anter 
+      <lb ed="#H" n="130"/>cedens. Ergo &amp; consequens. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2169">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>Assumtum probare conatur Bellarminus ex Concilio 
+      Laodice<lb ed="#H" n="132" break="no"/>no, Carthaginensi tertio, Innocentio I. &amp; alijs; quibus addit 
+      Atha<lb ed="#H" n="133" break="no"/>nasium &amp; Hieronymum. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2180">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>RESPONDEO. Assumti probatio laborat fallacia secundum 
+      <lb ed="#H" n="135"/>plura interrogata: nam de quibusdam testimoniis conceditur, de 
+      <lb ed="#H" n="136"/>uibusdam negatur. Laodicenum enim Concilium, Athanasius &amp; 
+      <lb ed="#H" n="137"/>ieronymus nihil tale deponunt, quale asserit Bellarminus. 
+      Siqui<lb ed="#H" n="138" break="no"/>dem Laodicenum Concilium fatente etiam Francisco Costero Iesuita. 
+      <lb ed="#H" n="139"/>in Enchiridio suo, vetuit in Ecclesiis legi &amp; in autoritatem recipi 
+      quic<lb ed="#H" n="140" break="no"/>quid in Veteri Testamento a Canone Hebraeo abest: &amp; addit 
+      Coste<lb ed="#H" n="141" break="no"/>vus rationem, ne fideles quorum multi ex Judaeis conversi erant, 
+      irri<lb ed="#H" n="142" break="no"/>tarentur &amp; offenderentur, si ea quae in Hebraeo non exstant, publice 
+      <lb ed="#H" n="143"/>in Ecclesia legerentur. ATHANASIUS vero in Synopsi Sacrae 
+      Scri<lb ed="#H" n="144" break="no"/>pturae, adjectiones ad librum Estherae aperte ad Scripturas non 
+      Ca<lb ed="#H" n="145" break="no"/>nonicas refert, ut ex his ejus verbis patet: Sunt itaque Canonici 
+      Ve<lb ed="#H" n="146" break="no"/>teris instrumenti libri viginti duo, literis Hebraicis numero pares 
+      <lb ed="#H" n="147"/>totidem enim apud Hebraeos sunt literarum elementa. Praeter istos 
+      au<lb ed="#H" n="148" break="no"/>tem sunt adhuc alij veteris instrumenti libri non Canonici, qui 
+      Ca<lb ed="#H" n="149" break="no"/>techumenis tantum leguntur. Sapientia Salomonis, cujus exordium 
+      <lb ed="#H" n="150"/>est: Diligite justitiam qui judicatis terram. Sapientia Iesu filij 
+      Sya<lb ed="#H" n="151" break="no"/>rach, cujus initium est: Omnis sapientia a Domino est &amp; cum ipso 
+      <lb ed="#H" n="152"/>est in saculum. Esther (id est, adjectiones ad libr. Estherae, ut patet ex 
+      <lb ed="#H" n="153"/>sequenti initio, quod cap. Apocryphorum est) cujus initium est: 
+      An<lb ed="#H" n="154" break="no"/>no secundo regnante Artaxerxe magno, una die mensis Nisan, 
+      som<lb ed="#H" n="155" break="no"/>nium vidit Mardochaeus filius Tairi, filij Semei, filij Risai ex 
+      tribu<lb ed="#H" n="156" break="no"/>Benjamin. Ex his constat adjectiones istas pro non Canonicis ab 
+      A<lb ed="#H" n="157" break="no"/>thanasio habitas; De libro autem vere Canonico Estherae paulo post. 
+      <lb ed="#H" n="158"/>ait, eum ad aliud quoddam volumen Canonicum pertinere. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2240">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>HIERGNYMUS similiter appendices illas pro Canonicis non 
+      ag<lb ed="#H" n="160" break="no"/>noscit, ut manifestum est ex praefatione ejus in librum Esther: 
+      Le<lb ed="#H" n="161" break="no"/>brum Esther (inquit) varijs translatoribus constat esse vittatum: 
+      <lb ed="#H" n="162"/>quem ego de Archivis Hebraeorum revelans verbum e verbo 
+      expres<lb ed="#H" n="163" break="no"/>sius transtuli. Quem librum editio Vulgata laciniosis hinc inde 
+      ver<lb ed="#H" n="164" break="no"/>borum sinibus trahit, addens ea quae ex tempore dici poterant &amp; 
+      au<lb ed="#H" n="165" break="no"/>liri: sicut solitum est scholaribus disciplinis, sumto themate 
+      excogi<lb ed="#H" n="166" break="no"/>tare quibus verbis uti potuit qui injuriam passus est, vel qui 
+      injuri<lb ed="#H" n="167" break="no"/>am fecit. Vos autem o Pauli &amp; Eustochium, quoniam &amp; 
+      Bibliothe<lb ed="#H" n="168" break="no"/>cas Hebraeorum studuistis intrare &amp; interpretum certamina 
+      compro<lb ed="#H" n="169" break="no"/>hastis, tenentes Esther Hebraicum librum, per singula verba nostram 
+      <lb ed="#H" n="170"/>translationem adspicite, ut possitis agnoscere, me nihil etiam 
+      augmen<lb ed="#H" n="171" break="no"/>tasse addendo, sed fideli testimonio simpliciter; sicut in Hebraeo 
+      habe<lb ed="#H" n="172" break="no"/>tur, historia Hebraica Latinae linguae tradidisse. Nec affectamus luis. 
+      <lb ed="#H" n="173"/>des hominum, nec vituperationes expavescimus. Deo enim placere 
+      cu<lb ed="#H" n="174" break="no"/>rantes, minas hominum penitus non timemus: quonia Deus dissipa 
+      <lb ed="#H" n="175"/>ossa eorum, qui hominibus placere desiderant: &amp; secundum Apostolum. 
+      <lb ed="#H" n="176"/>Qui ejusmodi sunt, servi Christi esse non possunt. Si Hieron, 
+      adjcetio<lb ed="#H" n="177" break="no"/>nes illas pro vere Canonicis habuisset, notllis scripsisset, non 
+      ma<lb ed="#H" n="178" break="no"/>joris nimirum facies quam thematis alicujus Scholastici tractationem: 
+      <!--cod-MkL9py-0085.xml-->
+      <pb ed="#H" n="60"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>nec etiam illas omisisset tanta cum fiducia, aliorum praejudicia non 
+      <lb ed="#H" n="2"/>metuens, nec curans 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2299">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>De caeteris autem testimoniis quid sentiendum sit, partim 
+      supr<lb ed="#H" n="4" break="no"/>in primi argumenti communis refutatione ostensum est, partim suo 
+      <lb ed="#H" n="5"/>loco de quovis dictum. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2310">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Pro libro Baruchi primum argumentum singulare 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2317">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Papistarum. 
+      <lb ed="#H" n="8"/>Liber Baruchi a veteribus Patribus citatur sub nomine Ieremiae; 
+      <lb ed="#H" n="9"/>Ergo liber Baruchi est univoce Canonicus 
+      <lb ed="#H" n="10"/>Antecedens probat Bellarminus libr. 1. de Verbo Dei, cap. octavo. 
+      <lb ed="#H" n="11"/>sect. quarta inductione aliquot Patrum, nimirum Clementis 
+      Ale<lb ed="#H" n="12" break="no"/>xandrini, Ambrosij, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2335">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>RESP. ἀσθλογίςως ex figurata enunciatione, conclusio 
+      propri<lb ed="#H" n="14" break="no"/>colligitur. Antecedens nonnisi figurate verum est: Synecdochica 
+      <lb ed="#H" n="15"/>enim locutione Patres utuntur, quando librum Baruchi sub nominen 
+      <lb ed="#H" n="16"/>Jeremiae citant. Nam quum libellus Baruchi exiguus sit, sed alioquit  
+      <lb ed="#H" n="17"/>utilis, caeterisque apocryphis alicubi praeferendus, tum ne excideret. 
+      <lb ed="#H" n="18"/>tum ut facilior inventu esset in Codice Biblico, libro Ieremiae 
+      utpo<lb ed="#H" n="19" break="no"/>te majori instar appendicis adjunctus humana libertate &amp; autoritato 
+      <lb ed="#H" n="20"/>fuit, sicut libellus Ruth cum libro Judicum, &amp; liber Estherae cum 
+      li<lb ed="#H" n="21" break="no"/>bris Esdrae &amp; Nehemiae copulatur: quomodo etiam omnes duode 
+      <lb ed="#H" n="22"/>cim Prophetae minores in unum librum compinguntur. Hinc 
+      Sy<lb ed="#H" n="23" break="no"/>necdochice sub nomine Jeremiae Patres allegant quod proprie non 
+      <lb ed="#H" n="24"/>est illius 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2366">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>INSTANT: Baruch fuit notarius Ieremiae: Ergo Baruchi 
+      scri<lb ed="#H" n="26" break="no"/>ptum, Ieremiae esse merito censetur. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2376">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>RESP. Negatur consequentia, quia non quicquid Baruch 
+      scri<lb ed="#H" n="28" break="no"/>psit, ut notarius Jeremiae scripsit, sed tantum id quod ex mandato ac 
+      <lb ed="#H" n="29"/>dictante per divinam inspirationem Jeremia scripsit: sicut quiequid  
+      <lb ed="#H" n="30"/>aliquis notarius scribit, non est illico authenticum, sed tantum id 
+      <lb ed="#H" n="31"/>quod ex mandato ac fide publica tanquam notarius perscripserit. 
+      De<lb ed="#H" n="32" break="no"/>inde negatur antecedens, si ejus sententia sit, Baruchum fuisse 
+      nota<lb ed="#H" n="33" break="no"/>rium Jeremiae, in isto libro de quo jam quaeritur ex ore Jeremiae 
+      exci<lb ed="#H" n="34" break="no"/>piendo. Nam ista Baruch scripsit in Babylonia anno quinto, septimo, 
+      <lb ed="#H" n="35"/>die mensis, tempore quo ceperunt Chaldaei Jerusalem &amp; 
+      succende<lb ed="#H" n="36" break="no"/>runt eam igni, ut legitur Baruch 1. v. 2. quum Jeremias jam dudum 
+      <lb ed="#H" n="37"/>in AEgyptum invitus abductus esset, ubi est mortuus. Tertio liber iste 
+      <lb ed="#H" n="38"/>ne quidem a Barucho scriptus est, quia scriptus est Graeca lingua, quam 
+      <lb ed="#H" n="39"/>nec Baruchus, nec populus Dei tum in Babyloniam deportatus, usus 
+      <lb ed="#H" n="40"/>est 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2411">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>INSTANT adhuc: Librum hunc Patres judicabant partem esse  
+      <lb ed="#H" n="42"/>vaticiniorum Ieremiae: Ergo est pars illorum. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2420">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>RESP. Antecedens restringo. Librum hunc Patres nempe aliqui  
+      <lb ed="#H" n="44"/>tantum judicabant partem esse Jeremiae: nam non omnes ita judicat 
+      <lb ed="#H" n="45"/>runt, veluti Hieronymus, ut praefatio ejus in Jeremiam ostendit: 
+      Li<lb ed="#H" n="46" break="no"/>brum Baruch, inquit, notarisj ejus, qui apud Hebraeos nec legitur, nec 
+      <lb ed="#H" n="47"/>habetur, praetermisimus, pro his omnibus maledicta ab emulis praesto 
+      <lb ed="#H" n="48"/>lantes. Qui vero Patres partem Jeremiae esse censuerunt, humanam 
+      o<lb ed="#H" n="49" break="no"/>inione imbuti errarunt: nos vero erratis Patrum minime 
+      adstrina<lb ed="#H" n="50" break="no"/>gimur. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2442">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Secundum. 
+      <lb ed="#H" n="52"/>Ex libro Baruchi citatur aliquid 2. Machabeor. cap. 2. 
+      <lb ed="#H" n="53"/>Ergo liber Baruchi est proprie Canonicus. 
+      <lb ed="#H" n="54"/>RESP. Processus est a non causa ut causa. Citatio in libro 
+      Macha<lb ed="#H" n="55" break="no"/>baeorum facta non est causa idonea cur liber Baruchi sit proprie Ca 
+      <lb ed="#H" n="56"/>nonicus: tum quia liber Machabaeorum est apocryphus, unus autem 
+      <lb ed="#H" n="57"/>liber apocryphus non potest alterius apocrypni libri autoritatem suo 
+      <lb ed="#H" n="58"/>testimonio confirmare: tum quia ne quidem citatio in libro 
+      propri<lb ed="#H" n="59" break="no"/>&amp; certo Canonico est sufficiens argumentum ad evincendam 
+      autori<lb ed="#H" n="60" break="no"/>tatem Canonicam libri ex quo aliquid citatur, ut supra declaratum  
+      <lb ed="#H" n="61"/>est in secundi argumenti communis refutatione 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2471">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Pro adjectionibus ad Danielem argumentum 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2478">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>proprium. 
+      <lb ed="#H" n="64"/>Danielis liber totus est proprie Canonicus: 
+      <lb ed="#H" n="65"/>At Danielis liber totus est cum adjectionibus in Theodotionis 
+      <lb ed="#H" n="66"/>Graeca editione exstantibus: 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2492">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Ergo cum adjectionibus in Theodotionis Graeca editione 
+      exstan<lb ed="#H" n="68" break="no"/>tibus est proprie Canonicus. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2501">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Minor propositio probatur, quia credibile est Concilia vetera, 
+      <lb ed="#H" n="70"/>Laodicenum &amp; Carthaginense III. &amp; priscos Patres Graeca editione 
+      <lb ed="#H" n="71"/>utentes, cum Danielem innumerum sanctarum Scripturarum 
+      retu<lb ed="#H" n="72" break="no"/>lerunt, de eo libro locutos esse qui in Graecis vulgatis codicibus 
+      habe<lb ed="#H" n="73" break="no"/>batur, in quibus sunt istae adjunctiones. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2517">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>RESP. Minor propositio negatur: quia liber Danielis totus est 
+      <lb ed="#H" n="75"/>ut in Canone Hebraeo est, absque adjectionibus illis. Probatio vero 
+      <lb ed="#H" n="76"/>Minoris mera opinione &amp; conjectura nititur: credibile est, inquit  
+      <lb ed="#H" n="77"/>Bellarminus: Sed unde credibile est? Nos negamus credibile esset 
+      <lb ed="#H" n="78"/>Plura vero interrogata, quae Bellarminus commiscet, distinguimu- 
+      <lb ed="#H" n="79"/>Nam duorum Conciliorum quae ab eo adferuntur, ratio est 
+      diffe<lb ed="#H" n="80" break="no"/>rens. Laodiceni Concilij Canon est genuinus &amp; agit de libris proprie 
+      <lb ed="#H" n="81"/>Canonicis quos publice in Ecclesia tum voluit legi, prohibita 
+      lectio<lb ed="#H" n="82" break="no"/>ne non Canonicorum: Itaque adjectiones illas etiam legi in 
+      Eccle<lb ed="#H" n="83" break="no"/>sia prohibuit. At Canon 47. Concilio Carthaginensi tertio attribus 
+      <lb ed="#H" n="84"/>tus, est supposititius &amp; cum proprie Canonicis Ecclesiasticos jungit: 
+      <lb ed="#H" n="85"/>humano placito, ac ne sanctione quidem, sed tantum rogatione. 
+      Ne<lb ed="#H" n="86" break="no"/>lenique prisci Patres aut saltem non omnes qui Graeca editione ute 
+      <lb ed="#H" n="87"/>bantur, adjectiones illas recipiebant: nam etiam ex Christianis 
+      Ca<lb ed="#H" n="88" break="no"/>tholicis olim Iulius Africanus historiam Susannae tanquam adulto 
+      <!--cod-MkL9py-0085.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/> 
+               <lb ed="#H" n="90"/>refert Bellarminus ipsemet libro primo de Verbo Dei capite nono, 
+      <lb ed="#H" n="91"/>sect, secunda. De aliis etiam Patribus testatur Hieronymus in 
+      prooe<lb ed="#H" n="92" break="no"/>mio Commentariorum in Danielem ad Pammachium &amp; Marcele 
+      <lb ed="#H" n="93"/>lam: Miror quosdam μaμψιμοιρονs indignari mihi, quasi ego 
+      decur<lb ed="#H" n="94" break="no"/>taverim librum, cum &amp; Origenes &amp; Eusebius &amp; Apollinarius 
+      alij<lb ed="#H" n="95" break="no"/>que Ecclesiastici viri &amp; Doctores Graeciae, has, ut dixi, visiones non 
+      <lb ed="#H" n="96"/>haberi apud Hebraeos fateantur, nec se debere respondere 
+      Porphyri<lb ed="#H" n="97" break="no"/>pro his, quae nullam Scripturae S, autoritatem praebeant. Viderit ergo 
+      <lb ed="#H" n="98"/>Bellarminus, qui sint illi prisci Patres, qui adjectiones illas pro 
+      Scri<lb ed="#H" n="99" break="no"/>ptura proprie Canonica agnoverint. Mirum est autem, 
+      Bellarmi<lb ed="#H" n="100" break="no"/>num tanti facere editionem Theodotionis, qui utique post adventum 
+      <lb ed="#H" n="101"/>Christi incredulus fuit, licet eum quidam dicant Hebionitam, qui 
+      <lb ed="#H" n="102"/>ultero genere Iudaeus est, ut in eodem prooemio Hieronymus scribit. 
+      <lb ed="#H" n="103"/>Aliis igitur argumentis Bellarmino opus est, quibus evincat 
+      adje<lb ed="#H" n="104" break="no"/>ctiones Theodotianas proprie Canonicas esse. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2593">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Pro libro Iudith argumentum pro¬ 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2600">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>orium 
+      <lb ed="#H" n="107"/>Librum Iudith Nicena Synodus prima, omnium Synodorum 
+      ge<lb ed="#H" n="108" break="no"/>neralium prima &amp; celeberrima, ita retulit innumerum Sacrorum: 
+      <lb ed="#H" n="109"/>librorum, ut eum idoneum esse censuerit ad fidei dogmata 
+      confirman<lb ed="#H" n="110" break="no"/>da: ut testatur Hieronymus praefatione in Iudith, ubi sententiae 
+      He<lb ed="#H" n="111" break="no"/>braeorum hunc librum non agnoscentium autoritatem Synodi 
+      Nice<lb ed="#H" n="112" break="no"/>na opponit. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2620">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Ergo est proprie Canonicus. 
+      <lb ed="#H" n="114"/>RESP. Primo antecedens negatur: nam de lib. Judith nihil 
+      tale<lb ed="#H" n="115" break="no"/>in Actis Synodi Nicenae reperitur, &amp; Athanasius qui Synodo 
+      Nice<lb ed="#H" n="116" break="no"/>nae interfuit, hunc librum esse Canonicum negat tum in Synopsi 
+      Sa<lb ed="#H" n="117" break="no"/>erae Scripturae, tum in epistola trigesima nona festali: &amp; Concilium 
+      <lb ed="#H" n="118"/>Laodicenum eum inter Canonicos non recenset, quum tamen 
+      pau<lb ed="#H" n="119" break="no"/>lo post Nicenum fuerit eique minime repugnasset, cum 
+      orthodoxo<lb ed="#H" n="120" break="no"/>rum Patrum suerit &amp; a Pontifice Romano approbatum sit &amp; ab ipso  
+      <lb ed="#H" n="121"/>Bellarmino ad confirmandam dogmatum autoritatem proferatur. 
+      <lb ed="#H" n="122"/>Deinde ad probandum antecedens producitur testis Hieronymus, 
+      <lb ed="#H" n="123"/>qui nihil tale testatur: non enim affirmat ex sua sententia, hunc 
+      li<lb ed="#H" n="124" break="no"/>brum a Synodo Nicena inter sacros libros numeratum, sed ex aliens 
+      <lb ed="#H" n="125"/>sententia recitative ait, Hunc librum Synodus Nicena in numero 
+      san<lb ed="#H" n="126" break="no"/>ctarum Scripturarum legitur computasse. Sanctas Scripturas hic 
+      <lb ed="#H" n="127"/>Hieronymus dicit aequivoce, latiore significato pro Ecclesiasticis 
+      seu<lb ed="#H" n="128" break="no"/>quae in Ecclesia legebantur ad sanctum usum, nempe aedificationem 
+      <lb ed="#H" n="129"/>plebis quo ad mores; ut constat ex praefatione ejus in libros 
+      Salo<lb ed="#H" n="130" break="no"/>monis, in qua ait; Iudith &amp; Tobiae &amp; Machabaeorum libros legit 
+      qui<lb ed="#H" n="131" break="no"/>dem Ecclesia, sed eos inter Canonicas Scripturas non recipit. Deinde 
+      <lb ed="#H" n="132"/>dicit tantummodo, legitur; ut ostendat se ex aliena sententia loqui:  
+      <lb ed="#H" n="133"/>Nec addit ubi legatur, quod a Synodo Nicena liber Iudith inter 
+      sa<lb ed="#H" n="134" break="no"/>cros libros sit computatus: unde recte Erasmus Roterodamus 
+      anno<lb ed="#H" n="135" break="no"/>tavit, ab Hieronymo non affirmari, hunc librum fuisse inter Sancta, 
+      <lb ed="#H" n="136"/>Scripturas a Synodo Nicena numeratum. Adhaec non opponit 
+      Hie<lb ed="#H" n="137" break="no"/>ronymus, sententiae Hebraeorum autoritatem Synodi Nicenae: sed 
+      <lb ed="#H" n="138"/>per συγχωρήσιν, hoc est, concessionem dicit ex hypothesi 
+      postulanti<lb ed="#H" n="139" break="no"/>lum versionem hujus libri; Sed quia hunc librum Synodus Nicena in 
+      <lb ed="#H" n="140"/>numero Sanctarum Scripturarum legitur computasse, acquievi 
+      po<lb ed="#H" n="141" break="no"/>stulationi vestrae, immo exactioni, &amp; sepositis occupationibus, quibus 
+      <lb ed="#H" n="142"/>vehementer arctabar, huic unam lucubratiunculam dedi, magis 
+      <lb ed="#H" n="143"/>sensum e sensu, quam ex verbo verbum transferens. Rogatus ergo 
+      <lb ed="#H" n="144"/>querat Hieronymus, ut librum Judith Latinum faceret: qui 
+      rogave<lb ed="#H" n="145" break="no"/>rant usi sunt hoc argumento, quia Nicena Synodus eum in numero 
+      <lb ed="#H" n="146"/>Sanctarum Scripturarum legitur computasse. Itaque id non 
+      negan<lb ed="#H" n="147" break="no"/>Hieronymus, sed fidem esse penes autorem jubens, se librum 
+      trans<lb ed="#H" n="148" break="no"/>tulisse scribit, tum propter autoritatem illam, tum propter 
+      bono<lb ed="#H" n="149" break="no"/>rum postulatum. Non valet autem consecutio ab eo quod 
+      secun<lb ed="#H" n="150" break="no"/>dum quid seu ex hypothesi dicitur, ad dictum simpliciter. Hanc fuisse 
+      <lb ed="#H" n="151"/>sententiam Hieronymi patet tum ex eadem praefatione in librum 
+      <lb ed="#H" n="152"/>judith, de quo expresse ait, quod ejus autoritas ad roboranda illa quae 
+      <lb ed="#H" n="153"/>in contentionem veniunt, minus idonea judicatur: tum ex 
+      praefatio<lb ed="#H" n="154" break="no"/>ne in libros Salomonis, in qua clarius sententiam suam explicat, his 
+      <lb ed="#H" n="155"/>verbis; Sicut ergo Iudith &amp; Tobiae &amp; Machabaeorum libros legit 
+      <lb ed="#H" n="156"/>quidem Ecclesia, sed eos inter Canonicas Scripturas non recipit: sic &amp; 
+      <lb ed="#H" n="157"/>haec duo volumina (nimirum Sapientiam Salomonis &amp; 
+      Ecclesiasti<lb ed="#H" n="158" break="no"/>cum) legat ad aedificationem plebis, non ad autoritatem 
+      Ecclesiastico<lb ed="#H" n="159" break="no"/>rum dogmatum confirmandam. Si Hieronymus sensisset, librum 
+      Ju<lb ed="#H" n="160" break="no"/>dith a Synodo Nycena pro univoce &amp; proprie Canonico habitum 
+      <lb ed="#H" n="161"/>fuisse, hoc ne de Ecclesia scripsisset? ipse Nicenae Synodo 
+      contradi<lb ed="#H" n="162" break="no"/>xisset? Denique dato, sed non concesso, a Synodo Nicena librum. 
+      <lb ed="#H" n="163"/>Judith in numero Sanctarum Scripturarum computatum, tamen 
+      <lb ed="#H" n="164"/>causam adversariorum hoc non adjuvat, sed laedit. Nam si illa 
+      Syno<lb ed="#H" n="165" break="no"/>dus hunc librum esse proprie Canonicum decrevit, quare non hoc 
+      <lb ed="#H" n="166"/>eodem decreto caeteros quoque de quibus controvertimus, 
+      comple<lb ed="#H" n="167" break="no"/>xa est? Proinde reliquos quos praetermisit, gravi admodum 
+      praeju<lb ed="#H" n="168" break="no"/>dicio numero Sanctarum Scripturarum exclusit.  
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2747">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>Pro Sapientia Salomonis argumenta. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2754">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>propria. 
+      <lb ed="#H" n="171"/>Liber Sapientiae Salomonis a Melitone Asiano in epistola ad 
+      One<lb ed="#H" n="172" break="no"/>simum in Catalogo Sanctarum Scripturarum ponitur: Est ergo 
+      pro<lb ed="#H" n="173" break="no"/>prie Canonicus. Bellarm, lib. 1. de Verbo Dei cap. decimo tertio, fect  
+      <lb ed="#H" n="174"/>ecunda 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2770">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>RESP. Antecedens est falsum, ut cuivis inspicienti tantum 
+      li<lb ed="#H" n="176" break="no"/>brum quartum Hist. Eccl. Eusebii, cap. viges. sexto patebit: Enume 
+      <lb ed="#H" n="177"/>rans enim Melito libros Salomonis, Proverbia nominari etiao Sa¬ 
+      <!--cod-MkL9py-0086.xml-->
+      <pb ed="#H" n="61"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>pientiam indicat. Apertius id explicat Eusebius eodem libro 4. cap. 
+      <lb ed="#H" n="2"/>viges. secundo quum testatur, Hegesippum, Irenaeum &amp; alios 
+      prisco<lb ed="#H" n="3" break="no"/>Patres Proverbia Salomonis ποναμεον σρφιαν, hoc est, omni virtute 
+      <lb ed="#H" n="4"/>instructam seu instruentem sapientiam appellasse 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2796">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>II. 
+      <lb ed="#H" n="6"/>Omnes lib. Salom. sunt proprie Canonici. 
+      <lb ed="#H" n="7"/>Sapientia liber est Salomonis: Ergo, &amp;c. 
+      <lb ed="#H" n="8"/>Assumtio probatur a Bellarm. libr. 1. de Verbo Dei, cap. 13. sect 
+      <lb ed="#H" n="9"/>quartam autoritate veterum, eo quod omnes veteres hunc lib. 
+      Salomo<lb ed="#H" n="10" break="no"/>nis esse asserant, &amp; citut Eusebium libr. quarto hist. Eccl. cap. viges. 
+      <lb ed="#H" n="11"/>secundo &amp; dicit, Hegesippum &amp; Irenaeum &amp; omnem antiquorum? 
+      <lb ed="#H" n="12"/>chorum hunc lib. Salomonis esse existimasse. Ait etiam Tertuillian, de 
+      <lb ed="#H" n="13"/>Praescripti. Cyprianum Sermon. de Mortalit. Hilarium in Psal. 127.  
+      <lb ed="#H" n="14"/>Ambros. Serm. 8. in Psal. 118. Basilium libr. 5. contra Eunomium 
+      <lb ed="#H" n="15"/>Epiphanium haeresi Anomaeorum, nomine Salomonis hunc librum. 
+      <lb ed="#H" n="16"/>citare. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2827">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>RESP. Utraque praemissa negatur. Major enim propositio 
+      falsa<lb ed="#H" n="18" break="no"/>est, quia non omnes libri γνίσιον quomodocunque a Salomone 
+      scri<lb ed="#H" n="19" break="no"/>ti, sunt univoce Canonici, nedum libri, opinione vel consuetudine 
+      <lb ed="#H" n="20"/>erronea ipsi tributi. Multa siquidem scripsit humana tantum 
+      dili<lb ed="#H" n="21" break="no"/>gentia ad ubertatem cognitionis rerum variarum, &amp; non Spiritu 
+      <lb ed="#H" n="22"/>divini inspiratione ad autoritatem religionis: sicuti elocutus est 
+      te<lb ed="#H" n="23" break="no"/>mille sententias seu parabolas, fueruntque cantica ejus quinque supra 
+      <lb ed="#H" n="24"/>mille. Elocutus etiam est de plantis: a cedro quae est in Libano usque ad 
+      <lb ed="#H" n="25"/>hyssopum quae prodit e pariete: denique elocutus est de jumentis &amp; 
+      de<lb ed="#H" n="26" break="no"/>volucribus &amp; de reptilibus &amp; de piscibus; ut legitur 1. Reg. 4. vers. 
+      <lb ed="#H" n="27"/>32, 33. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2856">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Assumtio itidem falsa est: nam Sapientia etiamsi Salomonis 
+      di<lb ed="#H" n="29" break="no"/>catur, non est tamen Salomonis: aliud est dici, aliud esse. Probatio 
+      <lb ed="#H" n="30"/>assumtionis similiter falsa est: nam primo non omnes veteres hunc 
+      <lb ed="#H" n="31"/>libr. Salomonis esse asserunt: veluti Hieronymus Praefatione in libros 
+      <lb ed="#H" n="32"/>Salomonis, pseudepigraphum esse dicit, &amp; Augustinus tomo 
+      tertio<lb ed="#H" n="33" break="no"/>de doctrina Christiana libr. 2. cap. 8. ait; Salomonis tres libri sunt  
+      <lb ed="#H" n="34"/>Proverbiorum, Cantica Canticorum &amp; Ecclesiastes. Nam illi duo 
+      li<lb ed="#H" n="35" break="no"/>bri, unus qui Sapientia &amp; alius qui Ecclesiasticus inscribitur, de 
+      <lb ed="#H" n="36"/>quadam similitudine Salomonis esse dicuntur, Nam Iesus filius 
+      Si<lb ed="#H" n="37" break="no"/>rach eos scripsisse constantissime perhibetur. Quanquam autem 
+      ho<lb ed="#H" n="38" break="no"/>quod a Jesu Sirachi filio Sapientia scripta sit retractaverit libr. 2. Re 
+      <lb ed="#H" n="39"/>tractationum, cap. 4. cum rectius cognovisset, de eo non constare. 
+      <lb ed="#H" n="40"/>Unde in libro cui titulus est Speculum, qui exstat in tomo 3. ait, quis 
+      <lb ed="#H" n="41"/>autor sit libri Sapientiae non apparere: tamen ibidem ait; Salomonis. 
+      <lb ed="#H" n="42"/>non esse, nihil dubitant doctiores. pag. sexcentes octoges. Edit. Frobi 
+      <lb ed="#H" n="43"/>Anni 1528. Idem sic scribit tomo quinto, lib. 17. de Civitate Dei, cap 
+      <lb ed="#H" n="44"/>20. Prophetasse etiam ipse (nimirum Salomon) reperitur in suis 
+      li<lb ed="#H" n="45" break="no"/>bris, qui tres recepti sunt in autoritatem Canonicam: Proverbit. 
+      <lb ed="#H" n="46"/>Ecclesiastes &amp; Canticum Canticorum. Alij vero duo, quorum unu 
+      <lb ed="#H" n="47"/>Sapientia, alter vero Ecclesiasticus dicitur, propter eloquij 
+      nonnul<lb ed="#H" n="48" break="no"/>lam similitudinem, ut Salomonis dicantur, obtinuit consuetudo. Non 
+      <lb ed="#H" n="49"/>autem esse ipsius, non dubitant doctiores. Iohannes Driedo Papista lib. 
+      <lb ed="#H" n="50"/>1. de Scripturis &amp; dogmatibus Ecclesiasticis cap. 4. ad quartam 
+      dif<lb ed="#H" n="51" break="no"/>ficultatem, hunc librum non fuisse conscriptum a Salomone 
+      conclu<lb ed="#H" n="52" break="no"/>dit. Nonnulli vero scriptorum veterum Judaei Philonis esse 
+      affir<lb ed="#H" n="53" break="no"/>mant, ut Hieronymus testatur Praefatione in libros Salomonis &amp; 
+      Isi<lb ed="#H" n="54" break="no"/>dorus lib. sexto Etymol. cap. 2. Idem Papistici doctores dicunt. Bo 
+      <lb ed="#H" n="55"/>naventura scribit in Commentariis in hunc librum: Prima causa 
+      <lb ed="#H" n="56"/>efficiens per modum compilantis fuit Philo sapientissimus Iudaeorum 
+      <lb ed="#H" n="57"/>qui temporibus Apostolorum fuit: Hoc idem quoque a Rabano 
+      affir<lb ed="#H" n="58" break="no"/>mare scribit. Et Iohannes Capistranus in Praefatione Speculi Cleri 
+      <lb ed="#H" n="59"/>corum, Philonem in persona Salomonis loquutum esse dicit. His in 
+      <lb ed="#H" n="60"/>stantiis fortiter infregimus universalem affirmationem Bellarmini. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e2933">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Deinde illi Patres, quos Bellarminus allegat, vel per Sapient  
+      <lb ed="#H" n="62"/>am Salomonis intelligunt librum Proverbiorum Salomonis, ve 
+      <lb ed="#H" n="63"/>Synecdochice &amp; ex communi opinione loquuntur. Eusebius enim 
+      <lb ed="#H" n="64"/>libro quarto Historiae Eccles. capite vigesimosecundo non loquitur 
+      <lb ed="#H" n="65"/>de libro Sapientiae pseudepigrapho, sed de Proverbiis Salomonis: 
+      <lb ed="#H" n="66"/>sic enim verba Graeca habent in Editione Parisiensi Roberti 
+      Stepha<lb ed="#H" n="67" break="no"/>ni Anni 1544. α μονος ι 8: ος (scil. ἐγήσεππος) αλλα κι ειρηναςος κ 
+      <lb ed="#H" n="68"/>πaκς ο τόνδξχαιον χοροσ πανασελον σρφιαν ζασ σολομῶνος παροιμιας εκα¬ 
+      <lb ed="#H" n="69"/>λον, hoc est, Non solum vero hic (nempe Hegesippus,) sed etiam 
+      Ire<lb ed="#H" n="70" break="no"/>naeus, &amp; totus veterum chorus Proverbia Salomonis vocaverunt 
+      no<lb ed="#H" n="71" break="no"/>mine Sapientiae virtutibus omnibus instructae, seu de omnibus 
+      virtu<lb ed="#H" n="72" break="no"/>tibus instruentis. Hic vero Eusebij locus in Rufini versione Basilea 
+      <lb ed="#H" n="73"/>edita typis Frobenianis Anno eodem 1544. depravatus est in hunc 
+      <lb ed="#H" n="74"/>modum: Verum &amp; hic ipse, &amp; Irenaeus &amp; omnis antiquorum 
+      cho<lb ed="#H" n="75" break="no"/>rus, librum qui adtitulatur Sapientia, Salomonis esse dixerunt, sicut  
+      <lb ed="#H" n="76"/>&amp; Proverbia &amp; caetera. Vitiosa igitur versione vel deceptus est 
+      ve<lb ed="#H" n="77" break="no"/>decipere voluit Bellarminus, quum Graeci textus veritatem sequi 
+      po<lb ed="#H" n="78" break="no"/>tius debuerit. Caeteri etiam Patres Sapientiae Salomonis 
+      nomine<lb ed="#H" n="79" break="no"/>Proverbiorum librum intelligere solent, ut Cyprianus Testimonio. 
+      <lb ed="#H" n="80"/>rum libro tertio ad Quirinum, cap. 16. 20. &amp; 56. Sic Athanasius in 
+      <lb ed="#H" n="81"/>decretis Synodi Nicenae, citans dictum Prov. 8 Ante omnes colles 
+      ge<lb ed="#H" n="82" break="no"/>nuit me, id in Sapientiae libro haberi ait. Quod si qui Sapientiae 
+      li<lb ed="#H" n="83" break="no"/>brum pseudepigraphum sub nomine Salomonis citant, ut Tertullia. 
+      <lb ed="#H" n="84"/>nus de Praescriptionibus adversus haereticos cap. 7. Cyprianus de 
+      <lb ed="#H" n="85"/>mortalitate sect.16. Hilarius in Psal. 127 &amp;c. faciunt id σνεκδιχιι ών 
+      <lb ed="#H" n="86"/>&amp; δεζασαsς: quia cum Judaei Hellenistae libros Ethicos in unum 
+      cor<lb ed="#H" n="87" break="no"/>pus coagmentassent, id corpus nomine Sapientiae Salomonis 
+      Sy<lb ed="#H" n="88" break="no"/>necdochice inscripserunt: hinc consecutum, ut posteri imperitiores 
+      <lb ed="#H" n="89"/>vel Hebraei Canonis ignari &amp; maxime Christiani omnia ejusdem 
+      <lb ed="#H" n="90"/>autoris, Salomonis nimirum esse putarint. Synecdochicae hujus 
+      lo<lb ed="#H" n="91" break="no"/>cutionis exemplum est manifestum in Cypriani libro tertio 
+      Testi<lb ed="#H" n="92" break="no"/>moniorum ad Quirinum, capite decimosexto, statini in principio: 
+      <!--cod-MkL9py-0086.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>nam de bono martyrij dicit in Sapientia Salomonis testimonia 
+      ex<lb ed="#H" n="94" break="no"/>stare &amp; allegat duo, quorum primum exstat Proverb. 14. v. 25. 
+      alte<lb ed="#H" n="95" break="no"/>rum vero Sap. 5. v. 1. &amp; seq. Sic eodem libro capite 
+      quinquagesimo<lb ed="#H" n="96" break="no"/>tertio. Hinc autem minime sequitur, Sapientiam ψουδεπιχραφοι 
+      <lb ed="#H" n="97"/>esse Salomonis, quia ex figurato loquendi genere perperam infertu. 
+      <lb ed="#H" n="98"/>conclusio propria 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3024">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Pro Ecclesiastico argumenta propria. 
+      <lb ed="#H" n="100"/>Salomonis libri sunt proprie Canonici &amp; diuvini. 
+      <lb ed="#H" n="101"/>Ecclesiasticus est liber Salomonis: Ergo, &amp;c. 
+      <lb ed="#H" n="102"/>Probatur Minor propositio a Bellarmino libro primo de Verbo 
+      <lb ed="#H" n="103"/>Dei, cap. decimoquarto autoritate Cypriani libro 3. epist. 4. citantis 
+      <lb ed="#H" n="104"/>cap. 7. &amp; aliorum Patrum. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3042">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>RESPON. Maior propositio universe intellecta est falsa. Si 
+      ve<lb ed="#H" n="106" break="no"/>to particulariter intelligatur, vitiosa sit consequentia ex puris 
+      parti<lb ed="#H" n="107" break="no"/>cularibus. Deinde assumtio est falsa: quia in Ecclesiastici 
+      Prologo<lb ed="#H" n="108" break="no"/>quem, ut &amp; librum ipsum, Concilium Tridentinum pro sacro &amp; 
+      Ca<lb ed="#H" n="109" break="no"/>nonico vult suscipi ab omnibus sub poena anathematis, testatur Jesus 
+      <lb ed="#H" n="110"/>Sirachi filius, librum ab avo suo Jesu Hebraice scriptum, a se vero in 
+      <lb ed="#H" n="111"/>cinguam aliam translatum, Epiphanius in haeresi Anomaeorum, quae 
+      <lb ed="#H" n="112"/>ipsi est septuagesima sexta, Ecclesiasticum dicit esse filij Sirach, pag 
+      <lb ed="#H" n="113"/>quadringentesima Editionis Graecae Hervagianae Basiliensis, Anni 
+      <lb ed="#H" n="114"/>1544. quem locum ipsemet Bellarminus allegat. Non est ergo 
+      Sa<lb ed="#H" n="115" break="no"/>lomonis liber 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3071">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>Quod vero ad probationem assumtionis attinet, Patres a 
+      Bel<lb ed="#H" n="117" break="no"/>larmino allegati Ecclesiasticum sub nomine Salomonis Synecdo 
+      <lb ed="#H" n="118"/>chice &amp; ex communi opinione protulerunt. Perperam autem 
+      con<lb ed="#H" n="119" break="no"/>clusio sit propria ex figurata locutione: nec enim valet, Patres 
+      Eccle<lb ed="#H" n="120" break="no"/>siasticum citant sub nomine Salomonis: Ergo est vere Salomonis 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3087">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>REPLICAT Bellarminus; facile potuisse fieri, ut Iesus Siraci 
+      <lb ed="#H" n="122"/>sententias Salomonis a se diligenter collectas in unum volumen rede 
+      <lb ed="#H" n="123"/>gerit. Ita uterque autor dici poterit. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3098">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>RESPON. Negatur hoc: nam Jesum avum Jesu Siracidae ipsum 
+      <lb ed="#H" n="125"/>scripsisse hunc librum Hebraice &amp; a Jesu Sirachi filio tantum 
+      con<lb ed="#H" n="126" break="no"/>versum esse ex Hebraeo in linguam Graecam testatur Prologus, qui  
+      <lb ed="#H" n="127"/>pro vere divino, sacro &amp; Canonico ex sanctione Concilij Tridenti 
+      <lb ed="#H" n="128"/>ni a Papistis agnoscitur &amp; in Biblia jussu Sixti V. recognita &amp; edita 
+      <lb ed="#H" n="129"/>telatus est: cum quo quomodo sententiam suam Bellarminus 
+      conci<lb ed="#H" n="130" break="no"/>liare possit ipse viderit. Neque etiam concedi potest, quod Jesus 
+      Sira<lb ed="#H" n="131" break="no"/>chi pater, Jesu Siracidae avus collegerit sententias Salomonis, quum 
+      <lb ed="#H" n="132"/>hoc Prologus nequaquam dicat, &amp; refutent aperte capita aliquot,  
+      <lb ed="#H" n="133"/>maxime a quadrages. sept. usque ad finem. Quod si Salomonis 
+      sen<lb ed="#H" n="134" break="no"/>centias collegisset, id bonam fide dicturus fuisset, quia ad libri summam 
+      <lb ed="#H" n="135"/>commendationem &amp; autoritatem apud omnes hoc maxime 
+      perti<lb ed="#H" n="136" break="no"/>quisset, &amp; ad laudem Jesu patris Sirachi, quod sententias Salomonis 
+      <lb ed="#H" n="137"/>ne interirent tanta diligentia in unum volumen redegisset.  
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3134">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>II 
+      <lb ed="#H" n="139"/>mnes libri Prephetici sunt proprie Canonici: 
+      <lb ed="#H" n="140"/>Ecclesiasticus est liber Propheticus: Ergo, &amp;c. 
+      <lb ed="#H" n="141"/>Assumtio probatur: nam Augustinus tomo primo, libro 
+      secun<lb ed="#H" n="142" break="no"/>do de Genesi contra Manichaeos, cap. quinto, citans ex libro 
+      Eccle<lb ed="#H" n="143" break="no"/>siastici verba haec, Quid superbit terra &amp; cinis? quae exstant cap. 10. 
+      <lb ed="#H" n="144"/>vocat prophetica¬ 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3154">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>RESP. Assumtio est falsa. Ad eam vero probandam adducitur  
+      <lb ed="#H" n="146"/>testimonium Augustini minime idoneum &amp; ab ipsomet Augustino 
+      <lb ed="#H" n="147"/>retractatum libro primo Retractationum capite decimo, ubi 
+      fate<lb ed="#H" n="148" break="no"/>tur verba Ecclesiastici videri sibi non recte appellata prophetica: &amp; 
+      <lb ed="#H" n="149"/>addit rationem retractationis, quia non in ejus libro legitur, quem 
+      <lb ed="#H" n="150"/>certi simus appellatum esse Prophetam. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3172">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>Pro libris Machabaeorum argumenta. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3179">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>propria. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3186">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>I. 
+      <lb ed="#H" n="154"/>Tomo primo Conciliorum, ut &amp; in Iure Canonico inter Canones 
+      <lb ed="#H" n="155"/> 
+               <lb ed="#H" n="156"/>bri sacri, inter eos sunt etiam libri Machabaeorum: Ergo sunt proprie 
+      <lb ed="#H" n="157"/>Canonici 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3202">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>RESP. Negatur consequentia: quia committitur petitio 
+      prin<lb ed="#H" n="159" break="no"/>cipij in antecedente istius enthymematis. Nam CANONES APO. 
+      <lb ed="#H" n="160"/>STOLORUM per Clenientem congesti non sunt legitimum 
+      principi<lb ed="#H" n="161" break="no"/>um ex quo argumenta peri debeant ad dogmatum religionis 
+      autori<lb ed="#H" n="162" break="no"/>tatem confirmandam: ut sequentia argumenta evincunt. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3219">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>I. Quia sunt apocryphi &amp; ex numero eorum scriptorum quae al 
+      <lb ed="#H" n="164"/> 
+               <lb ed="#H" n="165"/>modo recipit Catholica &amp; Apostolica Ecclesia, ut testatur ipsummet 
+      <lb ed="#H" n="166"/>us Canonicum capitulo Sancta Romana, paragrapho E quibus 
+      <lb ed="#H" n="167"/>Distinctione decimaquinta: &amp; capitulo Canones, Distinct. 
+      decima<lb ed="#H" n="168" break="no"/>sexta 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3237">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>II. Quia sunt supposititij. Non enim esse Apostolorum &amp; 
+      prae<lb ed="#H" n="170" break="no"/>cepta quae illis comprehenduntur &amp; phrases alienissimae a stylo 
+      san<lb ed="#H" n="171" break="no"/>ctorum Apostolorum satis evidenter ostendunt. Tum si vere 
+      essen<lb ed="#H" n="172" break="no"/>Apostolorum, Hieronymus deligentissimus scriptorum 
+      Ecclesiasti<lb ed="#H" n="173" break="no"/>torum observator, eorum fecisset mentionem, item Eusebius, &amp; 
+      a<lb ed="#H" n="174" break="no"/>lij Patres vetusti: nec Concilium Laodicenum ab illo Canone 
+      reces<lb ed="#H" n="175" break="no"/>sisset. Ita destituuntur testimonio probatorum autorum 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3257">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>III. Quia ne a Papistis quidem omnes Canones illi 
+      approban<lb ed="#H" n="177" break="no"/>tur, recipiuntur &amp; servantur; Exempli gratia Canon quintus: 
+      Epi<lb ed="#H" n="178" break="no"/>scopus, aut Prestyter, aut diacenus uxorem suam praetextu religionis 
+      <lb ed="#H" n="179"/>non abijcito: si abijcit, segregator a communione: si perseverat, depo 
+      <!--cod-MkL9py-0087.xml-->
+      <pb ed="#H" n="62"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>nitor. Et Canon sextus: Episcopus, aut presbyter, aut diaconus 
+      secu<lb ed="#H" n="2" break="no"/>lares curas non suscipito: alioquin deponitor. Et Canon vigesimus 
+      <lb ed="#H" n="3"/>octavus: Si quis Episcopus, aut presbyter, aut diaconus, pecuniae 
+      in<lb ed="#H" n="4" break="no"/>A 
+      <lb ed="#H" n="5"/>qui eum ordinavit, &amp; omnino a communione abscinditor, 
+      quemad<lb ed="#H" n="6" break="no"/> 
+            </p>
+            <p xml:id="yyy8Uu-e25436-d1e3290">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>IV. Quia sanciunt excommunicationes quasdam ob res 
+      levicu<lb ed="#H" n="8" break="no"/>sas contra praecepta Christi &amp; Apostolorum in sacris literis exarata: 
+      <lb ed="#H" n="9"/>veluti si quis ex sacerdotali ordine non communicaverit aliquando 
+      <lb ed="#H" n="10"/>Caenae Dominicae tanquam qui moverit populo suspicionem contra 
+      <lb ed="#H" n="11"/>eum qui obtulit: item si quis Dominico die aut sabbatho 
+      jejunave<lb ed="#H" n="12" break="no"/>rit: &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3308">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>V. Quia cultum Dei praescribunt alienum prorsus a Novo Te 
+      <lb ed="#H" n="14"/>stamento: nam Canone tertio probatur oblatio olei in candelabro 
+      <lb ed="#H" n="15"/>&amp; incensi. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3319">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>VI. Quia adversantur Sacrae Scripturae. Nam Canon sexagesi 
+      <lb ed="#H" n="17"/>musoctavus alligat conscientias ad jejunia in quadragesima 
+      Pascha<lb ed="#H" n="18" break="no"/>&amp; feriae quartae &amp; parasceves, contra illud Pausi: Nemo vos judicet in 
+      <lb ed="#H" n="19"/>cibo aut potu, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3333">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>VII. Quia ille ipse Canon octogesimusquartus ne quidem 
+      Pa<lb ed="#H" n="21" break="no"/>pistis ipsis per omnia probatur: nam in eo inter libros sacros 
+      recen<lb ed="#H" n="22" break="no"/>sentur Clementis epistolae duae, &amp; praeceptiones quae episcopis per 
+      <lb ed="#H" n="23"/>Clementem libris octo nuncupatae sunt: quas tamen Pontificij in 
+      <lb ed="#H" n="24"/>Canonicis non habent. Item tres in ea libri de Machabaeorum 
+      ge<lb ed="#H" n="25" break="no"/>stis inter sacros numerantur: at Synodus Tridentina duos tantum 
+      <lb ed="#H" n="26"/>agnoscit Sessione quarta, decreto de libris Canonicis 
+      <lb ed="#H" n="27"/>VIII. Quia si recipiendus est Canon iste: tum neque liber 
+      To<lb ed="#H" n="28" break="no"/>biae, neque liber Judithae, neque Sapientia Salomonis, neque 
+      Ba<lb ed="#H" n="29" break="no"/>ruch, neque Apocalypsis Johannis inter Canonicos libros 
+      connume<lb ed="#H" n="30" break="no"/>rari debent: nai ibi non connumerantur. Apostoli autem certo 
+      sci<lb ed="#H" n="31" break="no"/>verunt qui libri essent vere Canonici, qui non 
+      <lb ed="#H" n="32"/>IX. Quia manifestum mendacium Canon iste continet. Nam 
+      <lb ed="#H" n="33"/>Evangelium Johannis inemorat, quod omnes scriptum fuisse 
+      con<lb ed="#H" n="34" break="no"/>sentiunt, reliquis Apostolis aut omnibus aut plerisque mortuis; 
+      Ca<lb ed="#H" n="35" break="no"/>nones autem hos narrant ab ipsis Apostolis in unum congregatis 
+      <lb ed="#H" n="36"/>Antiochiae promulgatos. Sic Peresius statuit in parte tertia sui de 
+      tra<lb ed="#H" n="37" break="no"/>ditionibus libri. Et Canon. 28. Petrus ipse loquitur, removeatur e 
+      <lb ed="#H" n="38"/>communione, ut Simen Magus, a me Petro. Huic ergo Canoni, si 
+      ve<lb ed="#H" n="39" break="no"/>rus est, condendo Petrus interfuit. At Petrus qui fuit tempore 
+      Ne<lb ed="#H" n="40" break="no"/>ronis interfectus, quomodo potuit videre Evangelium Johannis, 
+      <lb ed="#H" n="41"/>quod Domitiani primum tempore scriptum atque editum fuit: 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3385">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>X. Quia repugnat ipsis Apostolorum factis. Nam Canon se 
+      <lb ed="#H" n="43"/>ptimus vetat eadem die cum Judaeis Pascha celebrare: at Johannes, 
+      <lb ed="#H" n="44"/>Philippus &amp; alij eadem die cum Judaeis Pascha celebrarum 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3396">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>XI. Quia Canonum istorum numerus certus constitui non 
+      po<lb ed="#H" n="46" break="no"/>test, quod multum facit contra fidem &amp; autoritatem ipsorum. Nam 
+      <lb ed="#H" n="47"/>Synodus sexta universalis, Trullana dicta, Constantinopoli 
+      anno<lb ed="#H" n="48" break="no"/>Christi 680. celebrata, approbat &amp; recipit Canones octogintaquin  
+      <lb ed="#H" n="49"/>que: Zepherinus episcopus Romanus, qui annis quingentis Synodo 
+      <lb ed="#H" n="50"/>Trullana antiquior fuit, non plures agnoscit, quam sexaginta. 
+      Gra<lb ed="#H" n="51" break="no"/>tianus Distinct. 16. ait esse tantum quinquaginta, eosque 
+      apocry<lb ed="#H" n="52" break="no"/>phos 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3418">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Quapropter etiam Bellarminus ipse libro primo de verbo Dei, 
+      <lb ed="#H" n="54"/>capite vigesimo, sectione nona &amp; sequentibus fidem &amp; autoritatem 
+      <lb ed="#H" n="55"/>Canonibus istis derogat. Proinde testimonium ex illis pro libris 
+      <lb ed="#H" n="56"/>Machabaeorum petitum nullius est ponderis. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3431">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>II. 
+      <lb ed="#H" n="58"/>Libros Machabaeorum non Iudeaei, sed Ecclesia pro Canonicis 
+      ha<lb ed="#H" n="59" break="no"/>bet, teste Augustino libro decimooctavo de Civitate Dei cap. 36. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3442">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>Ergo sunt proprie Canonici. 
+      <lb ed="#H" n="61"/>RESP. Negatur consequentia, quia ex aequivoco concluditur  
+      <lb ed="#H" n="62"/>proprie, quod genus argumentationis est ἀλόνισον. Quum enim 
+      Au<lb ed="#H" n="63" break="no"/>gustinus dicit, Ecclesiam pro Canonicis habere libros 
+      Machabaeo<lb ed="#H" n="64" break="no"/>tum, Canonicos appellat non divino illo Canone fidei qui ab Ecclesiae 
+      <lb ed="#H" n="65"/>Judaeorum, quibus credita fuerunt eloquia Dei, Rom. 3. 2. ad 
+      Eccle<lb ed="#H" n="66" break="no"/>siam Christanorum pervenit: sed Ecclesiastico Canone lectionis, qui 
+      <lb ed="#H" n="67"/>tum ex libris divini Canonis constat, tum ex aliis quos ab 
+      homini<lb ed="#H" n="68" break="no"/>bus non divina inspiratione, sed humana solummodo diligentia 
+      scri<lb ed="#H" n="69" break="no"/>ptos Ecclesia autoritate humanam voluit legi ad plebis aedificationem: 
+      <lb ed="#H" n="70"/>ob praecepta &amp; exempla quaedam pietatis, non autem proferri ad 
+      <lb ed="#H" n="71"/>confirmandam fidei seu dogmatum Ecclesiasticorum autoritatem 
+      <lb ed="#H" n="72"/>ut ex Hieronymi praefatione in libros Salomonis &amp; Ruffini 
+      exposi<lb ed="#H" n="73" break="no"/>tione in Symbolum Apostolicum constat. Hanc aequivocationem: 
+      <lb ed="#H" n="74"/>verba etiam Augustini aperte monstrant, quum ait libro citato: 
+      Ab<lb ed="#H" n="75" break="no"/>hoc tempore apud Iudaeos restituto templo, non Reges, sed Principe 
+      <lb ed="#H" n="76"/>fuerunt usque ad Aristobulum, quorum supputatio temporum, non 
+      <lb ed="#H" n="77"/>in Scripturis Sanctis, quae Canonicae appellantur, sed in alijs 
+      inveni<lb ed="#H" n="78" break="no"/>tur, in quibus sunt &amp; Machabaeorum libri, quos non Iudeaei, sed 
+      Ec<lb ed="#H" n="79" break="no"/>clesia pro Canonicis habet, propter quorundam martyrum passiones. 
+      <lb ed="#H" n="80"/>vehementes atque mirabiles, qui antequam Christus venisset in 
+      car<lb ed="#H" n="81" break="no"/>nem, usque ad mortem pro Dei Lege certaverunt &amp; mala gravissima. 
+      <lb ed="#H" n="82"/>atque horribilia pertulerunt. 
+      </p>
+            <p xml:id="yyy8Uu-e25436-d1e3498">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Clariora haec sunt, quam ut obscurati possint: alias Scriptura 
+      <lb ed="#H" n="84"/>esse sanctas quae Canonicae appellantur, alias pro Canonicis haberi: 
+      <lb ed="#H" n="85"/>illas per se, &amp; propter se, has propter quorundam martyrum 
+      passio<lb ed="#H" n="86" break="no"/>nes vehementes atque mitabiles, id est, propter exempla quaedam 
+      <lb ed="#H" n="87"/>constantiae singularis &amp; admirabilis in perferendis cruciatibus &amp; 
+      <lb ed="#H" n="88"/>morte obita pro Lege Dei. Bellarminus autem testimonium 
+      Augu<lb ed="#H" n="89" break="no"/>stini truncatum allegavit, ne antecedentia &amp; consequentia in illo 
+      ar<lb ed="#H" n="90" break="no"/>umentum pro libris Machabaeorum adductum everterent: sic ut  
+      <lb ed="#H" n="91"/>nine quoque perspici possit, quam bona fide Bellarminus Patres ali 
+      <lb ed="#H" n="92"/>leget. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

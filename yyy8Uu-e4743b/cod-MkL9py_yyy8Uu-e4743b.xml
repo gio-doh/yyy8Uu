@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="12"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e4743b"> <!-- l1-c12 -->
+            <head xml:id="yyy8Uu-e4743b-Hd1e109">Caput 12</head>
+            <p xml:id="yyy8Uu-e4743b-d1e112">
+               <lb ed="#H" n="145"/>CAPUT XII. 
+      <lb ed="#H" n="146"/>De Theologia viatorum absolute dicta.
+      </p>
+            <p xml:id="yyy8Uu-e4743b-d1e119">
+               <lb ed="#H" n="147"/>PTHEOLOGIAE viatorum duplex est ratio: nam vel absolute con¬ 
+      <lb ed="#H" n="148"/>sideratur, vel quatenus est in ipsis viatoribus. 
+      </p>
+            <p xml:id="yyy8Uu-e4743b-d1e126">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>Theologia viatorum absolute dicta &amp; secundum naturam 
+      <lb ed="#H" n="150"/>suam considerata, est sapientia rerum divinarum secundum verita. 
+      <lb ed="#H" n="151"/>tem divinam a Deo inspirata, &amp; per enunciativum sermonem ipsius, 
+      <lb ed="#H" n="152"/>in Christo commissa servis ejus, atque in Testamento vetere &amp; 
+      novo<lb ed="#H" n="153" break="no"/>per Prophetas, Apostolos &amp; Evangelistas consignata, quantum ejus 
+      <lb ed="#H" n="154"/>in hac vita hominibus expedit revelari ad gloriam Dei &amp; electorum 
+      <lb ed="#H" n="155"/>hominum bonum. Gal. 1. 11, 12. Notum autem vobis facio, fratres, 
+      <lb ed="#H" n="156"/>Evangelium illud quod est a me evangelixatum, non esse secundum 
+      <lb ed="#H" n="157"/>hominem. Neque enim ego ab homine id accepi, neque edoctus sum, sed 
+      <lb ed="#H" n="158"/>per revelationem Iesu Christi. Et v. 15,16. Quando vero libuit Deo, 
+      <lb ed="#H" n="159"/>qui separaverat me ab utero matris meae, &amp; vocavit per gratiam 
+      <lb ed="#H" n="160"/>quam, Revelare Filium suum in me, ut evangelizarem ipsum inter 
+      <lb ed="#H" n="161"/>Gentes, non statim praeterea contuli cum carne &amp; sanguine. Ephes. 3. 
+      <lb ed="#H" n="162"/>pers. 10. Vt nota nunc fiat per Ecclesiam imperiis ac potestatibus quae 
+      <lb ed="#H" n="163"/>in caelis sunt, multiformis illa sapientia Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e4743b-d1e164">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Sermo Dei enunciativus, quem Graeci λόγον ωροφορικον 
+      appel<lb ed="#H" n="165" break="no"/>sant, dicitur quo Deus res suas divinas, caelestes, supernaturales, 
+      o<lb ed="#H" n="166" break="no"/>mnesque adeo quas nos scire vult, nobis exponit. Est enim 
+      instru<lb ed="#H" n="167" break="no"/>mentalis causa sapientiae rerum divinarum in nobis. 
+      </p>
+            <p xml:id="yyy8Uu-e4743b-d1e177">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Haec Theologia secundum essentiam una est &amp; aeterna, &amp; 
+      immu<lb ed="#H" n="169" break="no"/>tabilis: quia necessario vera, sancta &amp; perfecta secundum Deum; 
+      </p>
+            <p xml:id="yyy8Uu-e4743b-d1e186">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Secundum adjuncta est vel vetus vel 
+      nova<lb ed="#H" n="171" break="no"/>Vetus est quatenus in veteri Testamento traditur. Nova est, qua 
+      <lb ed="#H" n="172"/>tenus in Novo Testamento docetur. Hanc distinctionem habe 
+      <lb ed="#H" n="173"/>Theodoretus de curatione Graecarum affectionum sermone 
+      secun<lb ed="#H" n="174" break="no"/>do. Haec autem Theologia non est proprie ipsa Scriptura veteris &amp; 
+      <lb ed="#H" n="175"/>novi Testanienti, etsi explicatur &amp; docetur in libris veteris &amp; novi te¬ 
+      <!--cod-MkL9py-0038.xml-->
+      <pb ed="#H" n="13"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>stamenti, sicuti usitatum est de habitibus animi in libris doceri: 
+      Quan<lb ed="#H" n="2" break="no"/>quam tropo metonymiae ipsa Scriptura sacra a Patribus ortho 
+      aoxi<lb ed="#H" n="3" break="no"/>frequenter Theologia nuncupatur, inprimis a Clemente 
+      Alexandri<lb ed="#H" n="4" break="no"/>no &amp; Theodoreto in Sermonibus de Curatione Graecarum 
+      affectio<lb ed="#H" n="5" break="no"/>num. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

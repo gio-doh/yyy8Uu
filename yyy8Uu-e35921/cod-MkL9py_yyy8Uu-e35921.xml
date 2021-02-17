@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="282"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e35921"> <!-- l5-c13 -->
+            <head xml:id="yyy8Uu-e35921-Hd1e109">Caput 13</head>
+            <p xml:id="yyy8Uu-e35921-d1e112">
+               <lb ed="#H" n="145"/>CAPUT XIII. 
+      <lb ed="#H" n="146"/>In quo de malis Angelis.
+    </p>
+            <p xml:id="yyy8Uu-e35921-d1e119">
+               <lb ed="#H" n="147"/>DALI Angeli, sunt spiritus infernales, qui in illa integritate in 
+      <lb ed="#H" n="148"/>qua creati fuerant non perstiterunt, sed rebellantes Deo 
+      ho<lb ed="#H" n="149" break="no"/>stes ejus irreconciliabiles facti sunt, Johan. 8. 42. 2. Petr. 2. 
+      <lb ed="#H" n="150"/>4. Epist. Judae v. 6. Iidem dicuntur demonia, cacodaemones, mali 
+      deme<lb ed="#H" n="151" break="no"/>nes, mali spiritus, immundi spiritus, spiritus mendacii seu mendaces, &amp;c. 
+      <lb ed="#H" n="152"/>De iis tantum aliquot quaestiones proponemus &amp; solvemus: omnes 
+      <lb ed="#H" n="153"/>enim nec necesse est, nec expedit. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e137">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>lnitio quaeritur de malitia cacodemonum, unde sit 
+      <lb ed="#H" n="155"/>Angeli mali, sunt mali non effectione Dei, non natura sua, 
+      secun<lb ed="#H" n="156" break="no"/>dum quam boni creati sunt, sed propria sua voluntate, sicut Johan. 8. 
+      <lb ed="#H" n="157"/>v. 44 Christus ait de diabolo; Quotiescunque loquitur mendacium, de 
+      <lb ed="#H" n="158"/>suo loquitur, id est, ex suo ipsius instinctu. Proinde malitia illorum 
+      <lb ed="#H" n="159"/>non est ex creatione, sed ex degeneratione seu depravatione 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e156">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Obiici potest quod Johannis 8. v. 44. dicitur, diabolum fuisse 
+      homi<lb ed="#H" n="161" break="no"/>cidam ab initio: unde colligi posse videtur quod malitia ejus sit ex 
+      cre<lb ed="#H" n="162" break="no"/>atione Sed dictum Christi non habet hunc sensum, quod diabolus 
+      ex<lb ed="#H" n="163" break="no"/>creatione malus fuerit: sed quod protinus ab initio mundi hominem 
+      <lb ed="#H" n="164"/>seduxerit &amp; per peccatum in mortem praecipitaverit. Similiter intellis 
+      <lb ed="#H" n="165"/>gendum quod legitur 1. Joh. 3. v. 8. a principio diabolus peccat. Sensus 
+      <lb ed="#H" n="166"/>enim est diabolum ex quo defecit a Deo &amp; lapsus est, ab ipso mundi 
+      <lb ed="#H" n="167"/>exordio in continuo peccandi actu versari¬ 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e178">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>De intelligentia malorum Angelorum sunt quaestiones aliquot.  
+      <lb ed="#H" n="169"/>Quaeritur PRIMo: An mali demones intelligentiam post lapsum 
+      re<lb ed="#H" n="170" break="no"/>tinuerinti 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e189">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Angeli mali sunt spiritus intelligentia etiam post lapsum suum 
+      <lb ed="#H" n="172"/>praediti, quam cognoscunt tum Deum esse, &amp; justum esse vindicem. 
+      <lb ed="#H" n="173"/>que scelerum, ideo contremiscunt: tum res creatas eatque vel 
+      <!--cod-MkL9py-0310.xml-->
+      <pb ed="#H" n="283"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>manifesta: etiam hominibus vel occultas illis. Ita norunt 
+      occul<lb ed="#H" n="2" break="no"/>tas rerum naturalium formas, proprietates &amp; vires, quas homines 
+      <lb ed="#H" n="3"/>iguemunt.  
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e213">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Quaeritur SECUNDO: An diaboli futura noverint &amp; certo 
+      praedi<lb ed="#H" n="5" break="no"/>cere possirt. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e222">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>RESP. Aliqua futura noverunt &amp; praedicere possunt, nepe ea quae 
+      <lb ed="#H" n="7"/>certas &amp; immotas causas naturales habent, ut sunt eclipses, 
+      conjun<lb ed="#H" n="8" break="no"/>ctiones planetarum: item quae certas causas habent &amp; motui subditas 
+      <lb ed="#H" n="9"/>sed non impeditas, ut agrum pinguem &amp; optime satum ac cultum u 
+      <lb ed="#H" n="10"/>berem proventum allaturum, nisi suprema omnium causa impedive 
+      <lb ed="#H" n="11"/>rit: item quae a Deo patefacta sunt; sicut diabolus speciem Samuelis 
+      <lb ed="#H" n="12"/>mentiens praedixit Sauli, traditurum esse Jehovam Israelem cum 
+      Sau<lb ed="#H" n="13" break="no"/>de in manum Pelischthaeorum, ut &amp; castra illorum; Saulem &amp; filios 
+      <lb ed="#H" n="14"/>eju: morituros. 1. Sam. 28. v. 17. Item quae jam incipiunt fieri, 
+      quae<lb ed="#H" n="15" break="no"/>summa celetitate in alia loca perlati, annunciant ac si essent futura. 
+      <lb ed="#H" n="16"/>pleraeque autem praedictiones illorumvel falsae vel ambiguae sunt, Fali 
+      <lb ed="#H" n="17"/>sa erat praedictio facta in Paradiso Adamo &amp; Evae, Genes. 3. v. 5. Erittis 
+      <lb ed="#H" n="18"/>sicut dufacta Achabo Regi Israelitatum, 1. Reg 22. v. 6. Ascende. 
+      <lb ed="#H" n="19"/>contra Rimothas Gilhadis in bellum: traditurus enim est Dominus i1 
+      <lb ed="#H" n="20"/>manum Regis. Ambigua praedictio erat; Croesus Halim penetrans, 
+      ma<lb ed="#H" n="21" break="no"/>gnum tervertet opum vim: Item, Ajo te Aeacida Romanos vincere 
+      pos<lb ed="#H" n="22" break="no"/>e. Sed de diabolici: praedictionibus multa habet liber Caspari 
+      Peu<lb ed="#H" n="23" break="no"/>ceri de divinationum genetibus, quae nos studio omittimus 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e266">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Quaeritur TERTIO: An mali Angeli cognoscant cogitationes 
+      ho<lb ed="#H" n="25" break="no"/>minum: 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e276">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>RESP Actum cogitationum non possunt cognoscere, quia is solis 
+      <lb ed="#H" n="27"/>Deo est perspectus: ex affectionibus autem &amp; signis externis quasdam 
+      <lb ed="#H" n="28"/>cogitationes probabiliter possunt colligere. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e287">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>De libero arbitrio malorum angelorum. 
+      <lb ed="#H" n="30"/>Quaeritur, quale sit illua 
+      <lb ed="#H" n="31"/>RESPON. Est ad mala tantum. Nam quia a Deo abjecti in 
+      ae<lb ed="#H" n="32" break="no"/>ernum &amp; in malo insanabiliter obdurati sunt, ihil nisi peccare 
+      <lb ed="#H" n="33"/>oc est, tantum ea quae mala &amp; Deo displicent, mente probare &amp; 
+      vo<lb ed="#H" n="34" break="no"/>luntate eligere possunt ac deinceps in aeternum poterunt. Joh. 8. 
+      <lb ed="#H" n="35"/>tI Joh. 3. 8 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e307">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>D potentia malorum angelorum sunt quaestiones aliquot, quarum 
+      <lb ed="#H" n="37"/>solutio nobis scitu necessaria est 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e316">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Quaeritur I. An sit aliqua potentia malorum Angelorum: 
+      <lb ed="#H" n="39"/>RESPImo magna est illorum potentia, quam habent in 
+      homi<lb ed="#H" n="40" break="no"/>nes &amp; alias creaturas, justo Dei judicio. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e327">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>I. Quia Sacra Scriptura id testatur Ephes. 2. v. 2. diabolus dicitur  
+      <lb ed="#H" n="42"/>princeps cui potestas est aeris, dicitur speritus nunc agens in hominibus 
+      <lb ed="#H" n="43"/>contumacibus. Et cap. 6. 9. Non est nobis lucta adversus sanguinem &amp; 
+      <lb ed="#H" n="44"/>carnem, sed adverjus impiria, ad versus potestates adversus mund 
+      <lb ed="#H" n="45"/>principes, id est, tenebrarum seculi hujus, adversus spirituales 
+      improbita<lb ed="#H" n="46" break="no"/>tes quae sunt in sublim. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e345">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>II. Quia efficiunt illa quae sine potentia magna fieri nequeunt,  
+      <lb ed="#H" n="48"/>ut spiritus mavus dedux tignem e caelo &amp; consumsit greges, servos 
+      <lb ed="#H" n="49"/>Jobi, concitavit ventos &amp; concussit domum primogeniti filii Jobi, &amp; 
+      <lb ed="#H" n="50"/>occidit filios filiasque Jobi, Job 1. v.16. &amp; I9. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e359">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Quaeritur II. Quaris sit potentia malorum angelorum, an 
+      sitabso<lb ed="#H" n="52" break="no"/>luta sic, ut facere possint quicquid volunt 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e368">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>RESPON. Nequaquam absoluta est, ut subjectae rationes de 
+      <lb ed="#H" n="54"/>monstrant: 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e377">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>I. Quia ut omnium creaturarum, ita &amp; malorum angelorum 
+      <lb ed="#H" n="56"/>potentia est limitata, certisque divinae voluntatis &amp; permissionis 
+      fi<lb ed="#H" n="57" break="no"/>nibus circumscripta, sic ut nihil audeant aut possint nisi venia ac 
+      fa<lb ed="#H" n="58" break="no"/>cultate a Deo impetrata: ut Satanas nihil potuit Jobo noceret 
+      <lb ed="#H" n="59"/>quanquam vehementer optabat, donec facultatem id faciendi Deus 
+      <lb ed="#H" n="60"/>ei dedisset nam ut legitur Job. 1. v. 12. dixit Iehova Satanae: Ecce quae 
+      <lb ed="#H" n="61"/>cunque sunt ci, in manu tua sunto, tantummodo in ipsum ne mittito 
+      <lb ed="#H" n="62"/>manum tuam, &amp; cap. 2. v. 6. 7. Iehova Satanae dixit, Ecce cum in manus 
+      <lb ed="#H" n="63"/>tua, veruntamen vitam eius servr. Egressus igitur Satan a conspectu 
+      <lb ed="#H" n="64"/>lehovae percussit Iobum ulcere pessimo, a psanta pedis eius usque ad vertio 
+      <lb ed="#H" n="65"/>eius. Achabum quanquam Regem impium Satan non potuit 
+      deci<lb ed="#H" n="66" break="no"/>pere &amp; ad movendum bellum non necessarium impellere, donec 
+      per<lb ed="#H" n="67" break="no"/>misisset Deus, ut legitur 1. Reg. 22. 21, 22. Tandem prodiit quidam 
+      <lb ed="#H" n="68"/>piritus, qui consistens coram Iehova dixit, ego pelliciam eum; Dicent 
+      <lb ed="#H" n="69"/>vero Iehova ei, quo pacto? Dixit, cgressus ero spiritus mendacii in ore 
+      om<lb ed="#H" n="70" break="no"/>nium prophetarum eius: tum dixit Ichova pellcies, etiamque praevalebis, 
+      <lb ed="#H" n="71"/>exi &amp; fac ita, Matth. 8. v. 31, 32. narratur, daemones non potuisse in 
+      <lb ed="#H" n="72"/>gregem porcorum abire, nisi permittente Christo Domino. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e421">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>II. Quia potentia malorum angelorum a Deo facile impeditur 
+      <lb ed="#H" n="74"/>sic ut nec Ecclesiae, nec ulli fidelium nocere possint, etiamsi maxime 
+      <lb ed="#H" n="75"/>velint &amp; conentur, ut legitur Apoc. 12. v. 13, 14, 15, 15. Quu egitus 
+      <lb ed="#H" n="76"/>vidisset Drato se projectum esse in terram, persocutus est, misierem 
+      <lb ed="#H" n="77"/>quae pepererat masculum. Sed datae sunt mulieri alae duae aquile magna 
+      <lb ed="#H" n="78"/>ut volaret a conspectu serpentis in desertum, in lecum suum ubi 
+      alere<lb ed="#H" n="79" break="no"/>tur per tempus, &amp; tempora &amp; dimidium temporis. Etecit autem 
+      ser<lb ed="#H" n="80" break="no"/>pens ex ore suo, post mulierem, aquam tanquam flumen, ut eam faceret  
+      <lb ed="#H" n="81"/>rapi a flumine: sed succurrit terra mulieri, aperuisque terra os suum, &amp; 
+      <lb ed="#H" n="82"/>abcorpsit flumen quod eiecerat draco ex ore suo. Ecclesia Dei est semper 
+      <lb ed="#H" n="83"/>objectum furoris diaboli, eam sibi invadendam proponit; sed habet  
+      <lb ed="#H" n="84"/>illa fidum &amp; vigilantem custodem, qui dat ei alas duas aquilae 
+      ma<lb ed="#H" n="85" break="no"/>gnae, id est, sub tam evasionem, sicut aquilae volatus est maxime 
+      per<lb ed="#H" n="86" break="no"/>nis. 2. Sam 1. Saul &amp; Jonathan aquilis velociores. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e456">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>III. Quia potentia malorum angelorum vinci potest, imo &amp; 
+      de<lb ed="#H" n="88" break="no"/>victa est a Christo, qui exspoliata imperia ac potestates traduxit 
+      pa<lb ed="#H" n="89" break="no"/>lam, triumphatis illis per crucem suam, Coloss. 2. 15 Princeps 
+      daemo<lb ed="#H" n="90" break="no"/>niorum est potens illearmatus, quem Christus vinxit, Matth. 12. 25. 
+      <lb ed="#H" n="91"/>Huc pertinet praedictio Paradisiaea, Genes. v. 3. 15 ubi Deus ad ses 
+      <lb ed="#H" n="92"/>pentem dicit: Inimicitiam pono inter te &amp; mulierem hanc, similiterque 
+      <!--cod-MkL9py-0310.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>inter semen tuum &amp; semen huius: Hoc conteret tibi caput. 
+      Praedictioni<lb ed="#H" n="94" break="no"/>huic respondit eventus: nam Christus eum devicit &amp; potentia exar 
+      <lb ed="#H" n="95"/>mavit: &amp; tum ex animabus tum ex corporibus hominum ejecit.  
+      <lb ed="#H" n="96"/>Huc pertinet quod legitur Joh. 12 v. 31. Nunc iudicium adest 
+      mun<lb ed="#H" n="97" break="no"/>di huius: nunc princeps ille mundi huius eiicitur foras, Apocal. 12. 7. 
+      <lb ed="#H" n="98"/>9. 9. Et factum est praelium in caelo: Michael &amp; Angeli eius praeliati 
+      <lb ed="#H" n="99"/>sunt cum Dracone, &amp; draco pugnavit &amp; Angeli eius: Sid hi non prae 
+      <lb ed="#H" n="100"/>valuerunt, neque locus eorum amplius invetus est in caelo. Et proiectus est 
+      <lb ed="#H" n="101"/>draco ille magnus, serpens ille antiquus, quivocatur diabolus &amp; Satanas, 
+      <lb ed="#H" n="102"/>qui seducit totum terrarum orbem: protectus est, inquam, in terram, &amp; 
+      <lb ed="#H" n="103"/>angeli eius cum eo projecti sunt:  
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e502">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Hujus quaestionis solutio servit consolationi nostrae adversus 
+      me<lb ed="#H" n="105" break="no"/>tum quem cogitatio potentiae diaboli incutere solet &amp; potes. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e512">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Quaeritur III. Quum potentia malorum angelorum non sit 
+      abso<lb ed="#H" n="107" break="no"/>luta, an igitur secure contemnenda? 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e521">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>RESP. Minime, idque propter subjectas rationes: I. Quia inter non 
+      <lb ed="#H" n="109"/>&amp; illos est perpetua inimicitia a Deo posita, sicut dicitur Gen. 3. v. 15. 
+      <lb ed="#H" n="110"/>Inimicitiam pono inter te &amp; mulierem hanc, similiterque inter 
+      semen<lb ed="#H" n="111" break="no"/>tuum &amp; semen huius, hoc conteret tibi caput, tu autem conteres huic 
+      <lb ed="#H" n="112"/>calcaneum. Et Luc. 22. 31 dixit Dominus, Simon, Simon, ecce Satanas 
+      <lb ed="#H" n="113"/>appetivit vos quos ventilaret sicut triticum 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e539">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>II. Quia jubemur sobrii esse &amp; vigilare, &amp; induere armaturam 
+      <lb ed="#H" n="115"/>Dei qua malis angelis resistamus. 1. Petr. 5. 8, 9. Sobrii estote &amp; 
+      vigi<lb ed="#H" n="116" break="no"/>late, nam adversarius vester diabolus tanquam leo rugiens obambulat,  
+      <lb ed="#H" n="117"/>quaerens quim devoret, cui resistite firmi per fidem: Matt. 26. 41. 
+      Vigila<lb ed="#H" n="118" break="no"/>te &amp; orute ne introeatis in tentationem. Sic jubet nos Christus quoti 
+      <lb ed="#H" n="119"/>die orare: Ne inducas nos in tentationem, sed libera nos a malo, id est, a 
+      <lb ed="#H" n="120"/>diabolo, qui καν ἔξοχν dicitur o πονηοoς, ille malus. Eph. 6. v. 10, &amp; 
+      <lb ed="#H" n="121"/>seqq Corroborate vos per Dominum &amp; per forte ipsius robur. Induite 
+      u<lb ed="#H" n="122" break="no"/>niversam illa armaturam Dei, ut possitis stare adversus insidias 
+      diabo<lb ed="#H" n="123" break="no"/>li. Quoniam non est nobis lucta adversus sanguinem &amp; carnem, sed 
+      ad<lb ed="#H" n="124" break="no"/>versus imperia, adversus potestates, adversus mundi principes, id est, 
+      te<lb ed="#H" n="125" break="no"/>nebrarum seculi huius, adversus spirituales malitias, quae sunt in sublimi. 
+      <lb ed="#H" n="126"/>Propterea assumite universant illam armaturam Dei, ut possitis resistere 
+      <lb ed="#H" n="127"/>tepore adverso, &amp; omnibus cofectis stari. Si ate igitur lumbis circucinctis 
+      <lb ed="#H" n="128"/>veritute, &amp; induti thorace iustitiae: calceatis pedibus praeparatione E 
+      van<lb ed="#H" n="129" break="no"/>gelii pacis. Insuper assumto scuto fidei quo possitis omnia iacula Mali 
+      illi<lb ed="#H" n="130" break="no"/>us ignita exstinguere. Galca etiam salutis recipite, &amp; gladeam spiritus, h. ex 
+      <lb ed="#H" n="131"/>Verbum Dei: omni prece &amp; supplicatione, precantes omni tempore per 
+      Spiri<lb ed="#H" n="132" break="no"/>tum, &amp; illi ipsi rei excubantes cum omni perseverantia &amp; 
+      supplicatio<lb ed="#H" n="133" break="no"/>ne pro omnibus sanctis. Jacob. 4. 7. Resistite diabolo &amp; fugiet a vobis. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e587">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Hujus quaestionis solutio facit ad excutiendam animis nostris 
+      per<lb ed="#H" n="135" break="no"/>niciosam lecuritatem, quam sibi homines persuadent, se extra omne 
+      <lb ed="#H" n="136"/>periculum versar. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e598">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Quaeritur IV. Quum resistere malis angelis iubeamur, an 
+      poten<lb ed="#H" n="138" break="no"/>tia ilorum possit a nobis superari &amp; vinci: 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e607">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>RESP. Nos in nobis ipsis ita imbecilles sumus &amp; improvidi, ut 
+      <lb ed="#H" n="140"/>per nos ipsos non possimus malos angelos vincere, sed Deus nos 
+      <lb ed="#H" n="141"/>facit participes victoriae Christi qui illos devicit. Ideo Paulus dicit,  
+      <lb ed="#H" n="142"/>Rom 16. 20. Deus patis conteret Satanam sub pedes vestros cito Tum 
+      <lb ed="#H" n="143"/>Christus tentatus &amp; oppugnatus a Satana victoriam reportavit non 
+      <lb ed="#H" n="144"/>sibi, sed nobis, quorum causa apparuit ut destrueret opera diaboli. 
+      Id<lb ed="#H" n="145" break="no"/>eo ait Joh. 16. 33. Considite, ego vici mundum; cujus nimirum 
+      prin<lb ed="#H" n="146" break="no"/>ceps est diabolus. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e630">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Quaeritur V. Quaenam mali angeli agere possint in creaturas, vel 
+      <lb ed="#H" n="148"/>non possine. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e639">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>RESP. Possunt permittente Deo cui ministerium praestant, infra 
+      <lb ed="#H" n="150"/>caelum corpora loco movere, (ut navim Claudiam,) huc illuc 
+      rapta<lb ed="#H" n="151" break="no"/>re, propellere, conterquere, in sublime attollere, deorsum 
+      praecipi<lb ed="#H" n="152" break="no"/>are, brevissimoque tempore in varias longissimeque dissitas terrarum. 
+      <lb ed="#H" n="153"/>partes transferre; tempestates, procellas, dirosque ventorum flatus 
+      cie<lb ed="#H" n="154" break="no"/>re, turbines, typhones, presteres, tonitrua, fulmina ejaculari, coru 
+      <lb ed="#H" n="155"/>scationes &amp; fulgetra incendere, collectis collisisque nubibus 
+      hor<lb ed="#H" n="156" break="no"/>rendos fragores edere, concussas aedes, urbesque a fundamentis 
+      con<lb ed="#H" n="157" break="no"/>vellere ac diffringere, terram in profundas voragines dehiscentenm 
+      <lb ed="#H" n="158"/>diffindere, arbores a radicibus, montes ab imis sedibus evellere. 
+      <lb ed="#H" n="159"/>duviorum cursus, alveosque mutare, corpora sublunaria, sive 
+      anima<lb ed="#H" n="160" break="no"/>ta sint sive inanimata varie afficere, fructus alienos seu segetes 
+      ex<lb ed="#H" n="161" break="no"/>cantare, mutare, aerem venenatis halitibus implere, fontes &amp; pa 
+      <lb ed="#H" n="162"/>scua noxiis fuccis imbuere homines pecudesque morbis 
+      infe<lb ed="#H" n="163" break="no"/>stare atque etiam sanare. Confirmat istud Paulus, cum ait Ephes. 
+      <lb ed="#H" n="164"/>2. vers. 2. Satana qui est princeps mundi esse potestatem aeris. 
+      Con<lb ed="#H" n="165" break="no"/>firmat idem historia magorum AEgyptiorum, qui 
+      incantatio<lb ed="#H" n="166" break="no"/>nibus baculos suos converterunt in dracones. Exod. 7. ver. 15 aquas 
+      <lb ed="#H" n="167"/>converterunt in sanguinem ut pisces morerentur. Exod 7. versic. 
+      <lb ed="#H" n="168"/>25: fecerunt ut ascenderent ranae super terram AEgyptiorum. Exod  
+      <lb ed="#H" n="169"/>8. vers. 7. Confirmat idem historia Jobi cap. 1 &amp; secundo: &amp; Simonis 
+      <lb ed="#H" n="170"/>nagi. Act. 8. v 9, 10. Confirmat praedictio de Antichristo 2. Thess. 2. 
+      <lb ed="#H" n="171"/>9, 10. Apoc. 13. v. 13, 14. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e694">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Talia autem permittit Deus vel ad probandos electos suos, 
+      ve<lb ed="#H" n="173" break="no"/>ad puniendos reprobatos, sicut dicitur 2. Thess 2. v. 10, 11, 12. 
+      Pro<lb ed="#H" n="174" break="no"/>pterea quod amorem veritatu non receperunt ut salvi fierent. Ideo 
+      igi<lb ed="#H" n="175" break="no"/>tur mittet eis Deus efficaciam erroris, ut credant mendacio, nimirum 
+      <lb ed="#H" n="176"/>decepti signis &amp; prodigiis mendacibus quae vi efficaci Satanae ab 
+      An<lb ed="#H" n="177" break="no"/>tichristo nunt: ut damuentur omnes qui non crediderintveritati, sed ac 
+      <lb ed="#H" n="178"/>quieverint in injustitia. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e714">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>Confirmat idem ratio: nam si boni Angeli possunt talia, quid ni&amp; 
+      <lb ed="#H" n="180"/>mali permittente Deo? Corroborat idem experientia, multa 
+      ange<lb ed="#H" n="181" break="no"/>los malos posse in corpora sublunaria, 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e725">
+               <lb ed="#H" n="182"/>
+               <pc type="indent"/>Secundo possunt mali angeli aliquando in corpora tam 
+      homi<lb ed="#H" n="183" break="no"/>num, quam pecudum penetrare, eaque non tantum operatione sua 
+      <!--cod-MkL9py-0311.xml-->
+      <pb ed="#H" n="284"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>afficere, verum etiam substantia suae occupare, atque obsidere. Testatur  
+      <lb ed="#H" n="2"/>id historia Evangelica plurimis in locis. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e745">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Tertio possunt etiam pios impedire in sancto instituto: Sic enim 
+      <lb ed="#H" n="4"/>ait Paulus I. Thess. 2. 18. Voluimus venire ad vos (ego quidem Paulus. 
+      <lb ed="#H" n="5"/>semel atqiterum, sed impedivit nos Satanas 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e757">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Quarto possunt agere etiam in animas hominum, sic ut sensus 
+      il<lb ed="#H" n="7" break="no"/>lorum tum externos tum internos, imo etiam quodammodo 
+      vo<lb ed="#H" n="8" break="no"/>luntatem moveant, percellant, immutent, sive id fiat ex parte 
+      orga<lb ed="#H" n="9" break="no"/>ni, sive ex parte objecti, turbataque humorum κρασει, facultatum  
+      <lb ed="#H" n="10"/>tum naturalium tum acquisitarum impetus incitent, propositisque 
+      <lb ed="#H" n="11"/>llecebris ad scelera &amp; flagitia instigent, odiorum, contentionum, 
+      li<lb ed="#H" n="12" break="no"/>bidinum fomites subjiciant &amp; fiammas excitent, commotoque 
+      <lb ed="#H" n="13"/>hunc in modum τῳ θυμικῳφκι τῶ επιθυμητικς, quandoque etiam τὸ η 
+      <lb ed="#H" n="14"/>γιμονικον eodem actu de statione dejiciant, excussoque gubernaculo 
+      <lb ed="#H" n="15"/>transversum abripiant Ostendunt id exempla, ut Saulis, de quo 
+      <lb ed="#H" n="16"/>Sam. 16. 15 Spiritus Iehovae recesserat a Saule, perturbabatque eu 
+      spiri<lb ed="#H" n="17" break="no"/>tus malus a Iehova. Davidis, quem incitavit adversarius ad 
+      numeran<lb ed="#H" n="18" break="no"/>dum Israelem &amp; Judam. 2. Samuel. 24. 11 Chron. 21 1. Iudae 
+      Iscario<lb ed="#H" n="19" break="no"/>tae, in que ingressus est Satanas, qui eum agitavit ut Christum prode 
+      <lb ed="#H" n="20"/>ret Joh. 13. 17. Ananiae de quo dicitur, Act. 5. 3. Dixit autem Petrus. 
+      <lb ed="#H" n="21"/>Anania, cur impievit Sotanas cor tuum ut mentireris in Spiritum 
+      San<lb ed="#H" n="22" break="no"/>ctum &amp; interverteres ex pretio istius praedii¬ 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e799">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Inprimis autem spiritus illi impuri &amp; turbulenti petulanter 
+      lu<lb ed="#H" n="24" break="no"/>dunt &amp; potenter agunt in filiis contumaciae, ut legitur Ephes. 2. v. 2. 
+      <lb ed="#H" n="25"/>unde &amp; filii diuboli nominantur, sicut Paulus dicit ad Elimam Act 
+      <lb ed="#H" n="26"/>13. v 10. O plene omni dolo &amp; ad quodvis scelus facilitate, fili diaboli 
+      <lb ed="#H" n="27"/>hostis omnis justitiae, non cessabis pervertere vias Domini rectas? 
+      Tale<lb ed="#H" n="28" break="no"/>erant &amp; Judaei ad quos Christus dicit Joh. 8. 44. Vos ex parte diabolis 
+      <lb ed="#H" n="29"/>estis &amp; cupiditates patris vestri vultis exsequi. Huc pertinet quod 
+      le<lb ed="#H" n="30" break="no"/>gitur Apoc 12 v. 12. Vae incolae terrae &amp; maris: nam descendit diabolus 
+      <lb ed="#H" n="31"/>ad vos, excandescentiae magnae plenus, ut qui sciat se exiguum tempus 
+      <lb ed="#H" n="32"/>habere. Et cap. 20. vers. 3. 8, 10. dicitur Satanas seduxisse gentes: cujus 
+      <lb ed="#H" n="33"/>falsa dogmata speciem profundae sapientiae habentia nominam 
+      <lb ed="#H" n="34"/>tur profunditates Satanae, Apocal. 2. vers. 24 Hinc ex Satanae 
+      Syna<lb ed="#H" n="35" break="no"/>goga esse dicuntur, qui se vere fideles esse jactitant, sed mentiuntur  
+      <lb ed="#H" n="36"/>Apoc. 3. v. 9. 
+      <lb ed="#H" n="37"/>Hactenus responsum quidnam possint mali angeli iustissime 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e836">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Dei iudicio &amp; permissu in creaturas: iam ostenden¬ 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e843">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>dum quid non possint. 
+      <lb ed="#H" n="40"/>Primo creaturas nullas possunt producere. Damnamus enim 
+      <lb ed="#H" n="41"/>Manichaeorum delitium, qui diabolum malarum naturarum 
+      auto<lb ed="#H" n="42" break="no"/>tem &amp; creatorem constituunt; Eorum autem objectiones paucis 
+      re<lb ed="#H" n="43" break="no"/>futabimus 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e859">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>OBIECTIO I. Diabolus appellatur Deus &amp; princeps mundi &amp; 
+      <lb ed="#H" n="45"/>potestas tenibrarum. 2. Cor. 4. v. 4. Ioh. 12. 31. &amp; 14. 30. &amp; 16. 11. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e868">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>Ergo diabolus malarum naturarum est creator 
+      <lb ed="#H" n="47"/>RESP. Committitur elenchus γ αυτίς. Nam diabolus non 
+      <lb ed="#H" n="48"/>propterea appellatur deus &amp; princeps mundi, quod malarum creatur 
+      <lb ed="#H" n="49"/>rarum sit autos: sad cum propter potentiam &amp; efficaciam quam in 
+      <lb ed="#H" n="50"/>impios, &amp; tyrannidem quam etiam in pios Deo permittente 
+      exer<lb ed="#H" n="51" break="no"/>cet: tum propter obsequium, quod ipsi praestatur ab impiis, etiam vers 
+      <lb ed="#H" n="52"/>Dei cultum foris profitentibus 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e889">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>CE ECTIOII. Diabolus est pater impiorum: sicut Dominus ait 
+      <lb ed="#H" n="54"/>Ioh. 8. v. 44. Ves ex patre diabolo estis, &amp; cupiditates patris vestri vul 
+      <lb ed="#H" n="55"/>tis exsequi: Ergo impios creavit. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e900">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>RESP. Usurpatur elenchus falsae causae: non enim dicitur pater 
+      <lb ed="#H" n="57"/>impiorum ob ipsorum creationem, sed ob corruptionem &amp; impuli 
+      <lb ed="#H" n="58"/>sionem eorum ad mala 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e911">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>OBIECTIOIII. Diabolus est autor peccati &amp; mortis  
+      <lb ed="#H" n="60"/>Ergo peccatum &amp; mortem creavit. 
+      <lb ed="#H" n="61"/>RESPON. I. Falsa est omissa propositio, nempe, qui est autor 
+      <lb ed="#H" n="62"/>peccati &amp; mortis in peccatum &amp; mortem creavit. Quia &amp; homo su 
+      <lb ed="#H" n="63"/>peccati suaeque nmontis est autor, nec tamen propterca ejus creator 
+      dic<lb ed="#H" n="64" break="no"/>potest. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e929">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>II. Altera assumtionis pars, nempe de morte, est intelligendaκxa o 
+      <lb ed="#H" n="66"/>s. Nam alioquin Deus is est, qui infligit homini mortem, tanquam 
+      <lb ed="#H" n="67"/>poenam peccati, sicut Augustinus primo libro Retractationum, cap. 
+      <lb ed="#H" n="68"/>2I. ait: vua &amp; mers a Domino Deo est, vita scilicet a donante, mors e 
+      <lb ed="#H" n="69"/>vindicante peccat: 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e945">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>INSTANTIA: Sapientiae 1. v. 13. dicitur, Deus mortem non fecit? 
+      <lb ed="#H" n="71"/>Ergo Diabolus. 
+      <lb ed="#H" n="72"/>RESP. Dictum autoris Sapientiae est intelligendum κατα τ,  
+      <lb ed="#H" n="73"/>nempe, de statu mundi qualis ex creatione ante peccatum fuit: ut 
+      eo<lb ed="#H" n="74" break="no"/>dem loco declaratur, cum additur, v. 14: Nam omnia ut essent creavit. 
+      <lb ed="#H" n="75"/>ortusque mundi sunt salutares, in quibus nullum est venenum 
+      pernicio<lb ed="#H" n="76" break="no"/>sum, nec regnum inferorum in terra. Mors autem intravit demum in 
+      <lb ed="#H" n="77"/>mundum per peccatum, inflicta homini a Deo tanquam poena. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e967">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>OEIECTIOIV. Malae creaturae non sunt a Deo: alioquin essent 
+      au<lb ed="#H" n="79" break="no"/>tor peccati. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e977">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Ergo sunt a Diabolo 
+      <lb ed="#H" n="81"/>RESP. Antecedens est intelligendum καταπ. Malae creaturae non 
+      <lb ed="#H" n="82"/>sunt a Deo, videl. quoad malitiam, seu quatenus malae sunt. Neque 
+      ne<lb ed="#H" n="83" break="no"/>cesse est ne Deus autor peccati fiat, alterum ex diabolo deum facere, 
+      <lb ed="#H" n="84"/>cum diabolos &amp; homines, bonos &amp; sanctos a Deo conditos esse 
+      Scri<lb ed="#H" n="85" break="no"/>ptura doceat: diabolum vero deficientem a Deo &amp; seducentem 
+      ho<lb ed="#H" n="86" break="no"/>mines, &amp; se &amp; homines corrupisse 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e997">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Primo igitur certum est, quod mali angeli creaturas nullas 
+      produ<lb ed="#H" n="88" break="no"/>cere possint.  
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1006">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Deinde in corpora caelestia nihil juris esse malis Angelis e caelo 
+      de<lb ed="#H" n="90" break="no"/>turbatis, probabile est: ac proinde rapidissimum Solis, Lunae alios 
+      <!--cod-MkL9py-0311.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>rumve syderum motum sistero aut mutare non possunt; multo 
+      mi<lb ed="#H" n="92" break="no"/>nus Lunam &amp; alia sidera caelo deducere; quaecunque olim ludibria 
+      per<lb ed="#H" n="93" break="no"/>Thessalos, aliosve magos oculis objecerint.  
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1026">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>Tertio formas rerum substantiales absque naturalium agentium ad 
+      <lb ed="#H" n="95"/>miniculo gignere aut immutare non possum 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1035">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Quarto animas humanas semel a corporibus separatas e loco 
+      <lb ed="#H" n="97"/>suo revocare &amp; rursus corpori ὑποσατιϰώς unire non possunt; 
+      Pro<lb ed="#H" n="98" break="no"/>inde Satanas veram animam Samuelis non evocavit &amp; produxi  
+      <lb ed="#H" n="99"/>per Pythonissam, sed spectro duntaxat Saulem regem delusit 1. Sa 
+      <lb ed="#H" n="100"/>muel. 28. vers. 12 &amp; sequentibus Bellarminus libro secundo de purga 
+      <lb ed="#H" n="101"/>torio, cap. 7. contendit, fuisse verum Samuelem, &amp; praevenisse 
+      incan<lb ed="#H" n="102" break="no"/>ationem, sed utrumque falsum est. Non enim fuit verus Samuel 
+      <lb ed="#H" n="103"/>sed spectrum seu daemon speciem Samuelis mentiens. Dicitur qui 
+      <lb ed="#H" n="104"/>dem v. 12 quod mulier viderit Samuelem: sed loquitur Scriptura δ¬ 
+      <lb ed="#H" n="105"/>Sαστικώς, id est, secundum opinionem Pythonissae, cujusmodi 
+      loquuti<lb ed="#H" n="106" break="no"/>ones κδ δυζαν, secundum opinionem hominum multae in Scripturi 
+      <lb ed="#H" n="107"/>exstant, ut aquae dicuntur esse sub terra. Exod. 20. vers. 4. Deut. 4. vers.  
+      <lb ed="#H" n="108"/>18. &amp; cap. 5 v. 8. Baal dicitur esse Deus. 1. Reg. 18. v. 27. Paulus ait esse 
+      <lb ed="#H" n="109"/>Deos multos &amp; Dominos multos 1. Cor. 8. 5. Pharisaei dicuntur valere. 
+      <lb ed="#H" n="110"/>Matth. 9. v. 12 dicuntur justi, v. 13. Praedicatio Evangelii de 
+      cruce<lb ed="#H" n="111" break="no"/>Christi vocatur stultum praeconium, 1. Cor. 1. 21. &amp; Gal. 5. 4. dicuntur. 
+      <lb ed="#H" n="112"/>inanes facti a Christo. Quicunque per Legem justificantur. 2. Pet. 2. 1. 
+      di<lb ed="#H" n="113" break="no"/>citur Dominus mercatus eos qui sibi velox exitium accersunt. Ita &amp; 
+      <lb ed="#H" n="114"/>noc loco secundum opinionem Pythonissae spectrum diabolicum 
+      <lb ed="#H" n="115"/>vocatur Samuel. Deinde non fuisse verum Samuelem, agnoscunt &amp; 
+      <lb ed="#H" n="116"/>docent Orthodoxi Patres: Autor libri quaestionum &amp; responsionum ad 
+      <lb ed="#H" n="117"/>Orthodoxos, qui Justino Martyri attribuitur, quinquagesima 
+      secun<lb ed="#H" n="118" break="no"/>da quaestione &amp; responsione. Tertullianus libro de anima, capit  
+      <lb ed="#H" n="119"/>uinquagesimo septimo: Hieronymus Commentar in cap. 6. 
+      Mat<lb ed="#H" n="120" break="no"/>thaei: Augustinus libro secundo de doctrina Christiana, capite 23. 
+      <lb ed="#H" n="121"/>psummet jus Canonicum, causa vigesimasexta, quae st one quinta 
+      <lb ed="#H" n="122"/>Capitulo, Nec mirum, docet, non fuisse Samuelem, sed Satanam 
+      ha<lb ed="#H" n="123" break="no"/>bitum Samuelis mentientem. Idem statuit Glossa ordinaria in 
+      <lb ed="#H" n="124"/>hunc locum. Deinde falsum est Samuelem praevenisse incanta. 
+      <lb ed="#H" n="125"/>tionem. nam Pythonissam usam esse magica evocatione testantur 
+      <lb ed="#H" n="126"/>pers. 11. &amp; 12. Tum dixit mulier, quem evos abo tibitqui dixit, 
+      Samue<lb ed="#H" n="127" break="no"/>lem evoca mihi. Quum autem mulier videret Samuelem, clamavit vo: 
+      <lb ed="#H" n="128"/>ce magna, &amp; v. 15. Dixit autem Samuel Sauli, quare commovisti me 
+      <lb ed="#H" n="129"/>evocando me? 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1113">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>Quinto, mali angeli non possunt voluntates hominum flectere 
+      <lb ed="#H" n="131"/>pro arbitrio suo quo volunt, nam hoc solius Dei est: licet eas possint 
+      <lb ed="#H" n="132"/>tum objectis oblatis tum affectibus excitatis 
+      permover<lb ed="#H" n="133" break="no"/>Sιχso, non possunt proprie &amp; vere dicta mitacula edere, ut mortuos 
+      <lb ed="#H" n="134"/>excitare, cursum Solis sistere, &amp;c. Nam miracula vera soli Deo 
+      Scri<lb ed="#H" n="135" break="no"/>ptura tribuit, Ps. 72. v. 18. Benedictus sit Iehova Deus, Deus Israelis, qui  
+      <lb ed="#H" n="136"/>facit mirabilia solus, item Psal. 136. 4. Qui facit mirabilia opera 
+      ma<lb ed="#H" n="137" break="no"/>gna solus. Miracula facere sua ac propria virtute est solius Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1136">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>OBIICITURI. Facta pseudoprophetarum, pseudochristorum &amp; 
+      An<lb ed="#H" n="139" break="no"/>tichristi, quae ope diaboli edunt, non minus dicuntur σημεια μιγαλα, 
+      <lb ed="#H" n="140"/>τερατα Matth. 24. v 24. Apoc. 13. v. 13. atque Apostolorum Marc. ult.  
+      <lb ed="#H" n="141"/>Actae. Ergo sunt proprie &amp; vere miracula. 
+      <lb ed="#H" n="142"/>RESP. Elenchus est sophisticus ex homonymia: nam eadem 
+      qui<lb ed="#H" n="143" break="no"/>dem nomina tribuuntur factis quibusdam Dei &amp; diaboli, sed non 
+      <lb ed="#H" n="144"/>eadem definitio rem proprie &amp; vere explicans, quod vel solus finit 
+      <lb ed="#H" n="145"/>miraculorum evincit. Nam omnia miracula proprie &amp; vere sic 
+      di<lb ed="#H" n="146" break="no"/>cta fiunt ad bonos fines, imprimis ad gloriam Dei &amp; salutem electo 
+      <lb ed="#H" n="147"/>rum promo vendam: ac mira facta diaboli sunt σημεια κι τιρατα ψαι 
+      <lb ed="#H" n="148"/>δes, signa &amp; prodigia mendacii, hoc est, omnia eo spectant, ut iis 
+      con<lb ed="#H" n="149" break="no"/>firmetur mendacium, impiaque doctrina ad dejiciendos &amp; seducendos 
+      <lb ed="#H" n="150"/>perdendosqe homines. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1169">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>OBIICITUR II. Exempla innumera dantur miraculorum a 
+      ma<lb ed="#H" n="152" break="no"/>lis angelis vel eorum ope a malis hominibus editorum, veluti a magis 
+      <lb ed="#H" n="153"/>Aegyptiis Exo. 7. &amp; 8. a Simone mago, Act. 8. ab Alexadro magno cui  
+      <lb ed="#H" n="154"/>mare Pamphylium cessit, ejusque exercitui iter praebuit, quemadmodum 
+      <lb ed="#H" n="155"/>commemorat Iosephus Anquitatum Iudaicarum secundo libro, cap. 
+      ul<lb ed="#H" n="156" break="no"/>timo: a Magis &amp; veneficis qui morbos Medicis insanabiles sanarunt. 
+      Hi<lb ed="#H" n="157" break="no"/>larioni viro sancto exhibuit diabolus formosas feminas &amp; lautissima. 
+      <lb ed="#H" n="158"/>dapes ad pelliciendum illum ad libidines, ut refert Hieronymus invita 
+      e<lb ed="#H" n="159" break="no"/>jus. Plurima similia annotata sunt a multis. Hinc videtur inferendum, 
+      <lb ed="#H" n="160"/>malos angelos posse vera ac proprie dicta nmiracula facere 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1195">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>RESP. Committitur sophisticus elenchus ex pluribus 
+      interro<lb ed="#H" n="162" break="no"/>gatis dissimilibus: nam exempla in antecedente enthymematis 
+      <lb ed="#H" n="163"/>recitantur, quorum non est eadem ratio. Quod mare 
+      Pamphyli<lb ed="#H" n="164" break="no"/>um cesserit Alexandro Magno, ejusque exercitui iter praebuerit, 
+      ve<lb ed="#H" n="165" break="no"/>fabulosum est, vel si factum est, divinum opus fuit, non diabolicum: 
+      <lb ed="#H" n="166"/>nam Mexander Magnus a Deo fuit excitatus &amp; adducebatur ad e 
+      <lb ed="#H" n="167"/>vertendam monarchiam Petsarum. Magi AEgyptii veros quidem 
+      <lb ed="#H" n="168"/>serpentes, verasque ranas, ut multi existimant, produxerunt 
+      in<lb ed="#H" n="169" break="no"/>cantationibus &amp; invocationibus daemonum, qui subito veros 
+      ser<lb ed="#H" n="170" break="no"/>pentes attulerunt &amp; in locum virgarum substituerunt, qui etiam 
+      <lb ed="#H" n="171"/>tanas veras attulerunt: nam possunt corpora sublunaria loco 
+      mo<lb ed="#H" n="172" break="no"/>vere &amp; alio celerrime permissu Dei transferre: vere tamen &amp; 
+      pro<lb ed="#H" n="173" break="no"/>prie dicta mitacula non fecerunt, ut definitio mitaculi evincit. Idem 
+      <lb ed="#H" n="174"/>de feminis &amp; dapidibus Hilarioni adductis statuendum. Simone 
+      <lb ed="#H" n="175"/>magus praestigiis oculos hominum fascinavit. Morbos denique 
+      <lb ed="#H" n="176"/>mali Angeli curant, non propria virtute, sed rebus quibusdam natu 
+      <lb ed="#H" n="177"/>ralibus, quarum virtutes optime norunt &amp; quas adhibere 
+      ju<lb ed="#H" n="178" break="no"/>bent. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1239">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>QUAERITUR VI. Cur Deus permittat malis Angelis haec falsa ede 
+      <lb ed="#H" n="180"/>re miracula? RESP. Causae possunt septem dari, quarum sex electos 
+      <lb ed="#H" n="181"/>attingunt, una reprobos 
+      <lb ed="#H" n="182"/>I. Ut constantia electorum in vera fide &amp; charitate in Deum explo¬ 
+      <!--cod-MkL9py-0312.xml-->
+      <pb ed="#H" n="285"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>retur. Deiut. 13. 1, 2, 3. Cum surgens in medio tui Propheta, aut somnians 
+      <lb ed="#H" n="2"/>comnium, ediderit tibi signum: Quamvis eveniat signum illud aut 
+      pro<lb ed="#H" n="3" break="no"/>digium quod praedixerat tibi dicendo, sequamur Deos alienos quos non 
+      <lb ed="#H" n="4"/>noveras &amp; colamus eos: Ne auscultato verbis Prophetae istius aut isti 
+      so<lb ed="#H" n="5" break="no"/>mnianti somnium: quia tentat Iehova Deus noster vos, ad 
+      cognoscen<lb ed="#H" n="6" break="no"/>dum an sitis amantes Dei vestri ex toto animo vestro. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1272">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>II. Ut ne sancti per quos Deus miracula edit se supra alios 
+      effe<lb ed="#H" n="8" break="no"/>rant, sed potius charitati studeant, quum Deus permittat ut etiam 
+      <lb ed="#H" n="9"/>daemones mirabilia faciant. Hac de causa Paulus dicit 1. Cor. 13. 2. Si 
+      <lb ed="#H" n="10"/>haberem totam fidem, adeo ut montes transferrem, charitatem autem 
+      <lb ed="#H" n="11"/>non habeam, nihil sum, 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1288">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>III. Ne sancti per quos Deus edit miracula a caeteris habeantur 
+      <lb ed="#H" n="13"/>pro diis &amp; cultu religioso adorentur. Sunt enim homines procliver 
+      <lb ed="#H" n="14"/>ad laudem divinitatis &amp; cultum adorationis exhibendum iis qui 
+      mi<lb ed="#H" n="15" break="no"/>racula patrant: quemadmodum Lystrenses, cum Paulus captum 
+      pe<lb ed="#H" n="16" break="no"/>dibus &amp; claudum ab utero matris suae sanasset, Paulum &amp; Barnabam 
+      <lb ed="#H" n="17"/>Deos esse clamabant &amp; sacrificare eis volebant, Act. 14. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1307">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>IV. Ut sciamus neque propter signa semper esse credendum qui 
+      <lb ed="#H" n="19"/>busvis doctrinis, cum daemones etiam signa edant ad persuadend. 
+      <lb ed="#H" n="20"/>sua mendacia; neque rursus ideo repudiandam veram doctrinam, eo 
+      <lb ed="#H" n="21"/>quod illius praecones miracula non faciant. Matth. 12. 39. Gens 
+      im<lb ed="#H" n="22" break="no"/>proba &amp; adulterina signum requirit.  
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1323">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>V. Ut fidiles intelligant sibi magis gaudendum de electione sua 
+      <lb ed="#H" n="24"/>ad vitam aeternam, quam de miraculorum patratione, quum etiam 
+      <lb ed="#H" n="25"/>mali angeli mirabilia faciant. Luc. 10. v. 20. Sed de eo non gaudete quod  
+      <lb ed="#H" n="26"/>spiritus vobis subjiciantur: gaudete vero potius quod nomina vestra 
+      <lb ed="#H" n="27"/>scripta sunt in caelis. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1339">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>VI. Ut meminerint electi, sibi non esse ambiendum ut miracula. 
+      <lb ed="#H" n="29"/>edant, sed potius curandum ut sint pii in Deum, &amp; potiora dona 
+      ha<lb ed="#H" n="30" break="no"/>beant atque exerceant, nempe fidem, spem &amp; charitatem. Istud docet. 
+      <lb ed="#H" n="31"/>Paulus, cum de donis spiritualibus quae communia sunt electis &amp; 
+      re<lb ed="#H" n="32" break="no"/>probis inter quae est donum edendi miracula, disseruisset, suadet  
+      <lb ed="#H" n="33"/>affectanda esse dona potiora. 1. Cor. 12. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1357">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Haecausae electos attingunt, sequitur reprobos 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1364">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>attingens. 
+      <lb ed="#H" n="36"/>VII. Deus ut mali angeli mirabilia patrent, permittit justo 
+      <lb ed="#H" n="37"/>quamvis inscrutabili nobis judicio, quo obdurentur reprobi in suis 
+      <lb ed="#H" n="38"/>peccatis &amp; confirmentur in erroribus. Sicut Pharaonis cor obfirma 
+      <lb ed="#H" n="39"/>tum est ut non auscultaret voci Jehovae &amp; renueret dimittere 
+      popu<lb ed="#H" n="40" break="no"/>lum, quum vidsset magos incantationibus aquam in 
+      sanguinemver<lb ed="#H" n="41" break="no"/>tisso, Exod. 7. v. 25. Sic legitur 2. Thess. 2 9, 10, 1, 12. Scelerati illius 
+      <lb ed="#H" n="42"/>antichristi adventus est in illa vi efficaci Satanae, cum omni potentia 
+      <lb ed="#H" n="43"/>ac signis &amp; prodigiis mendacibus: &amp; cum omni seductione 
+      injustiti<lb ed="#H" n="44" break="no"/>in iis qui pereunt: propterea quod amorem veritatis non receperunt ut 
+      <lb ed="#H" n="45"/>salvi fierent. Ideo igitur mittet eis Deus efficaciam erroris, ut credant 
+      <lb ed="#H" n="46"/>mendacio: ut damnentur omnes qui non crediderint veritati sed 
+      ac<lb ed="#H" n="47" break="no"/>quieverunt in injustitia. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1397">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Hactenus de potentia malorum angelorum. 
+      <lb ed="#H" n="49"/>QUAERITURVII. Quodnam sit malorum angelorum officium? 
+      <lb ed="#H" n="50"/>RESP. Serviunt Deo in iis operibus quae Deo per eos libet 
+      ef<lb ed="#H" n="51" break="no"/>ficere. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1411">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>Officium istud duplex est: Vnum, ut per tentationes, ab illis 
+      profe<lb ed="#H" n="53" break="no"/>ctas, pii electi affligantur &amp; exerceantur, ut tum constantia piorum in 
+      ve<lb ed="#H" n="54" break="no"/>ra erga Deum pietate probetur, tum patientia &amp; humilitas in iis 
+      efficia<lb ed="#H" n="55" break="no"/>tur, &amp; ita ipsorum salus promoveatur. Docet hoc exemplum Jobi cap. 1. 
+      <lb ed="#H" n="56"/>&amp; 2. &amp; Davidis 1. Chron. 21.1. Instans adversarius contra Davidem 
+      <lb ed="#H" n="57"/>incitavit eum ad numerandum populum. Postea David factus est 
+      hu<lb ed="#H" n="58" break="no"/>milior &amp; cautior. Item exemplum Pauli 2. Cor. 12. 7. Ne supereminem 
+      <lb ed="#H" n="59"/>tia revilationum supra modum efferrer, datus est mihi surculus infixus. 
+      <lb ed="#H" n="60"/>carni, nepe angelus Satan, ut me colaphis caedat, ne supra modum efferar 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1435">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Alterum malorum angelorum officium est, ut sint administri &amp; 
+      <lb ed="#H" n="62"/>velut lictores atque carnifices Dei in puniedis impiis, suppliciis tum 
+      <lb ed="#H" n="63"/>spiritualibus tum corporalibus: &amp; in rapiendis impiorum animabus 
+      <lb ed="#H" n="64"/>e corporibus decedentibus &amp; perferendis ad inferos in locum 
+      dam<lb ed="#H" n="65" break="no"/>natis destinatum Exemplum est Judic. 9. ubi commemoratur Deum 
+      <lb ed="#H" n="66"/>misisse spiritum pessimum inter Abimelechum &amp; Sichemitas, qui 
+      <lb ed="#H" n="67"/>inter illos odia accendit ut se mutuo perderent. Sauli Regi Israelita: 
+      <lb ed="#H" n="68"/>tum immisit Deus malum Spiritum qui eum exagitaret. Achabum 
+      <lb ed="#H" n="69"/>Regem Israelitatum, item Judam Ischariotam malus Spiritus ac 
+      <lb ed="#H" n="70"/>perniciem adduxit.  
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1461">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>QUAERITUR IIX. An sit inter malos angelos ordo aliquis, sic ut 
+      <lb ed="#H" n="72"/>unus principatum inter illos obtineat, alii ei subsint. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1470">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>RESP. Est inter eos ordo aliquis: nam est inter eos princeps 
+      ali<lb ed="#H" n="74" break="no"/>quis, sicut Christus ait Joh 12. 31. Nunc judicium adest mundi hujus 
+      <lb ed="#H" n="75"/>nunc princeps ille mundi hujus ejicietur foras, &amp; cap. 14. 30. Venit enim 
+      <lb ed="#H" n="76"/>princeps mundi huius, sed in me non habet quicquam. Et cap 16. v. 11 
+      <lb ed="#H" n="77"/>princeps huius mundi condemnatus est. Iste communiter appellatur 
+      <lb ed="#H" n="78"/>diabolus; caeteri aute impuri spiritus dicuntur angeli eius, ut Matt. 25. 
+      <lb ed="#H" n="79"/>11. Tunc filius hominis dicet iis qui ad sinistram erunt, abite a me exset 
+      <lb ed="#H" n="80"/>crandi in ignem aternum, qui paritus est diabolo &amp; angelis eius. Apoc. 
+      <lb ed="#H" n="81"/>12. 7. draco pugnavit &amp; angeli eius. &amp; v. 9. Et protectus est deaco ille 
+      ma<lb ed="#H" n="82" break="no"/>gnus, serpens ille antiquus, qui vocatur diabolus &amp; Satanas, qui seducit  
+      <lb ed="#H" n="83"/>terrarum orbem: projectus, inquam, est in terram &amp; angeli eius cum eo 
+      <lb ed="#H" n="84"/>proiecti sunt. Quod vero novem sint illorum ordines, Scriptura non 
+      <lb ed="#H" n="85"/>docet, &amp; credere non est ad salutem necessarium. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1503">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>QUAERITUR IX. An diabolus ante lapsum fuerit omnium 
+      An<lb ed="#H" n="87" break="no"/>gelorum caput, sic ut iis omnibus praefuerit? RESP. Nos negamus, quia 
+      <lb ed="#H" n="88"/>Scriptura Sacra nihil tale docet. Contra Bellarminus affirmat libro  
+      <lb ed="#H" n="89"/>primo de Pontifice Romano, cap. nono. Affirmationem suam 
+      ali<lb ed="#H" n="90" break="no"/>quot argumentis probare nititur, quae paucis refellemus. 
+      <!--cod-MkL9py-0312.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>Primum argumentum Bellarmini, 
+      <lb ed="#H" n="92"/>Job. 40. 14. Behemoth, id est, diabolus dicitur principium viarum 
+      Do<lb ed="#H" n="93" break="no"/>mini:. Ergo diabolus ante lapsum fuit caput omnium Angelorum RESR 
+      <lb ed="#H" n="94"/>In antecedente commixitur elenchus depravati falsa expositione te 
+      <lb ed="#H" n="95"/>stimonii Nam Behomoth non est diabolus, sed elephas. Singulare 
+      <lb ed="#H" n="96"/>nomen PIDeI significat animal, estque generale nomen, quod sub 
+      <lb ed="#H" n="97"/>quocunque genere venerit, utrumque comprehendit sexum. At plural 
+      <lb ed="#H" n="98"/>TIOIIa significat xαν ἐSοχι, clephantum, quasi instar multorum 
+      <lb ed="#H" n="99"/>sit animalium ob prodigiosam &amp; stupendam magnitudinem Unde 
+      <lb ed="#H" n="100"/>ibidem dicitur TPHN, principium viarum Domini, id est, 
+      praeci<lb ed="#H" n="101" break="no"/>uum quoddam specimen operum a Deo creatorum; quia 
+      Elephan<lb ed="#H" n="102" break="no"/>tus mole corporis omnibus praestat belluis: non aute quod imperium 
+      <lb ed="#H" n="103"/>in alias creturas habuerit. Sic ibidem Leviathan est balaena in magno 
+      <lb ed="#H" n="104"/>mari seu Oceano. Nam in eo cap. 40. Deus Jobum reprehendens 
+      <lb ed="#H" n="105"/>justitiam &amp; omnipotentiam sibi vendicat duobus illustrissimis 
+      exe<lb ed="#H" n="106" break="no"/>plis, primum est Behemoth, id est, Elephanti, alterum Leviathanis, it 
+      <lb ed="#H" n="107"/>est, balaenae in mari. Patres quidam ἀλληγορονπες per Behemoth &amp; 
+      Le<lb ed="#H" n="108" break="no"/>viathanem intelligunt diabolum; sed quia tantum allegoriam 
+      te<lb ed="#H" n="109" break="no"/>tunt, inde dogma Ecclesiasticum exstrui nequit. Allegoricus sensus, 
+      <lb ed="#H" n="110"/>si non est loci proprius atque destinatus, nihil omnino probare 
+      po<lb ed="#H" n="111" break="no"/>test. Deinde licet simpliciter in Jobo sermo esset de diabolo, Cut non 
+      <lb ed="#H" n="112"/>est;)tamen inde principatus diaboli super caeteros angelos 
+      colligi<lb ed="#H" n="113" break="no"/>non posset, sed hoc tantum sequeretur, diabolum fuisse primarium 
+      <lb ed="#H" n="114"/>opus Dei, seu eximiam quandam creaturam Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1575">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>eArgumentum secundum 
+      <lb ed="#H" n="116"/>Jesa. 14. v. 12, comparatur diabolus Lucifero, id est, stellarum maximae 
+      <lb ed="#H" n="117"/>&amp; pulcherrimae, saltem quoad apparentiam &amp; vulgi opinionem, ad 
+      <lb ed="#H" n="118"/>quam se Scripturae accommodare solent. 
+      <lb ed="#H" n="119"/>Ergo diabolus ante lapsum fuit caput omnium Angelorum. 
+      <lb ed="#H" n="120"/>RESP. In antecedente committitur elenchus falsorum similit 
+      <lb ed="#H" n="121"/>um. Non enim diabolus, sed interpretante Glossa interlineari 
+      Rex<lb ed="#H" n="122" break="no"/>Babyloniae comparatur a Jesaia lucifero ob summam ejus 
+      magni<lb ed="#H" n="123" break="no"/>ficentiam &amp; gloriam inter caeteros Reges. Deinde etiamsi 
+      conce<lb ed="#H" n="124" break="no"/>deremus, prophetam respexisse simul ad casum diaboli: hinc 
+      ta<lb ed="#H" n="125" break="no"/>men minime sequeretur, diabolum fuisse autea principem &amp; caput  
+      <lb ed="#H" n="126"/>omnium Angelorum Glossa ordinaria in allegorica hujus loci 
+      ex<lb ed="#H" n="127" break="no"/>ositione, eum non tantum ad diabolum, sed etiam ad falsos 
+      Aposto<lb ed="#H" n="128" break="no"/>os accommodat: unde apparet quam incertae sint allegoricae istae 
+      ex<lb ed="#H" n="129" break="no"/>positiones. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1613">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>e Argumentum tertium. 
+      <lb ed="#H" n="131"/>Ezechielis 28. 13. dicitur: Omnis lapis preciosus operimentum tuum. 
+      <lb ed="#H" n="132"/>Et mox enumerantur novem lapides, quibus significantur, ut Gregorius 
+      <lb ed="#H" n="133"/>exponit lib. 32. moral. cap. 25. novem chori Angelorum, qui hunc 
+      Ange<lb ed="#H" n="134" break="no"/>lum tanquam principem suum circumstabans 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1629">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>Ergo diabolus princeps &amp; caput fuit Angelorum. 
+      <lb ed="#H" n="136"/>RESP. Committitur elenchus falsi subjecti: non enim de 
+      diabolo<lb ed="#H" n="137" break="no"/>loquitur Deus apud Prophetam, sed de Rege Tyri. Nam sic 
+      diser<lb ed="#H" n="138" break="no"/>E initio capitis dicitur; Factus est sermo Domini ad me: Fili hominis. 
+      <lb ed="#H" n="139"/>dic antecessori seu Principi Tyri. Ad quae verba Lyranus talem 
+      glos<lb ed="#H" n="140" break="no"/>sam apposuit: Aliqui istud caput exponunt de casu diaboli: sed haec 
+      ex<lb ed="#H" n="141" break="no"/>positiovidetur magis mystica, quam literalis: ideo alii exponunt ad lite 
+      <lb ed="#H" n="142"/>ram de Rege Tyri. Et rursus: Quia sicut dicit Boethius primo de 
+      Con<lb ed="#H" n="143" break="no"/>solatione, infelicissimum infortunii genus est fuisse felicem, ideo in hoc 
+      <lb ed="#H" n="144"/>planctu primo recolitur felicitas Regis Tyri praeterita. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1655">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Deinde quod Gregorius per novem lapides intelligit nove 
+      cho<lb ed="#H" n="146" break="no"/>ros Angelorum, est contra mentem Prophetae Ezechielis, qui luxrum 
+      <lb ed="#H" n="147"/>Regis Tyri immensum describit, ornantis vestes suas regias &amp; 
+      insi<lb ed="#H" n="148" break="no"/>gnia regalia lapidibus pretiosis &amp; auto 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1668">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>Argumentum quartum, 
+      <lb ed="#H" n="150"/>Post casum diaboli S. Michaelem principem esse omnium Angelorum, 
+      <lb ed="#H" n="151"/>colligitur ex cap. 12. Apocalypsis: Ergo diabolus ante lapsum suum 
+      prin<lb ed="#H" n="152" break="no"/>ceps &amp; caput Angelorum fuit. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1681">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>RESP. Antecedens enthymematis istius laborat vitio plurium 
+      in<lb ed="#H" n="154" break="no"/>perrogatorum, quorum diversa est ratio. Primo enim, post causam 
+      dia<lb ed="#H" n="155" break="no"/>boli 8. Michaelem principem esse factum omnium Angelorum, 
+      ne<lb ed="#H" n="156" break="no"/>gatur. Secundo S. Michaelem principem esse omnium Angelorum, 
+      di<lb ed="#H" n="157" break="no"/>citur ambigue: nam si per S. Michaelem intelligatur creatus aliquis 
+      <lb ed="#H" n="158"/>Angelus, negatur. Sin vero increatus ille, nimirum aeternus Dei 
+      Fi<lb ed="#H" n="159" break="no"/>lius Christus Dominus, qui est verus Michael, id est, aequalis &amp; par 
+      <lb ed="#H" n="160"/>Deo Patri, conceditur: sed id nihil facit ad probandam opinionem 
+      <lb ed="#H" n="161"/>Papistarum, &amp; Filius Dei ante lapsum diaboli fuit Princeps &amp; caput 
+      <lb ed="#H" n="162"/>Angelorum omnium, &amp; post eundem lapsum mansit. Ac Michaele 
+      <lb ed="#H" n="163"/>illum esse Christum Dominum, dicit autor commentariorum in 
+      A<lb ed="#H" n="164" break="no"/>pocalypsinqui tribuuntur Augustino, homilia nona: &amp; Lyranus 
+      et<lb ed="#H" n="165" break="no"/>tamsi exponat de Heraclio Imperatore, tamen fatetur reliquos 
+      <lb ed="#H" n="166"/>exponere de Michaele Archangelo, qui sit princeps Ecclesiae. Et  
+      <lb ed="#H" n="167"/>per hunc intelligi Christum, inde apparet, quod per Angelos 
+      Micha<lb ed="#H" n="168" break="no"/>elis intelligantur etiam fideles qui animae suae prodigi fuerunt usqui 
+      <lb ed="#H" n="169"/>ad mortem: &amp; quod praelium istud non in caelo supremo fuerit, sed 
+      <lb ed="#H" n="170"/>in Ecclesia Dei militante in terris quae caelum figurate appellatur  
+      <lb ed="#H" n="171"/>Hoc enim certum est, pugnasse &amp; pugnare etiamnum Ecclesiam 
+      <lb ed="#H" n="172"/>Dei in his terris adversus diabolum Christo duce &amp; sub ipsius signis: 
+      <lb ed="#H" n="173"/>certum est eandem Ecclesiam victoriam obtinuisse &amp; adhuc obtem 
+      <lb ed="#H" n="174"/>turam adversus eundem diabolum virtute &amp; potentia Christi. Ita ex 
+      <lb ed="#H" n="175"/>nullo Scripturae loco probari potest, diabolum ante tuinam suam 
+      <lb ed="#H" n="176"/>Caput Angelorum omnium fuisset 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1738">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Argumentum quintum, 
+      <lb ed="#H" n="178"/>Istis argumentis praemisit Bellarminus autoritatem quorundam 
+      <lb ed="#H" n="179"/>Patrum; nit quod diabolus hac dignitate praeditus fuerit, testes esse¬ 
+      <!--cod-MkL9py-0313.xml-->
+      <pb ed="#H" n="286"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Tertullianum lib. 2. contra Marcionem, Gregorium homilia 34. in 
+      Ev<lb ed="#H" n="2" break="no"/>angelia, &amp;li. 32. moral. cap. 24. Hieronymum seu potius Bedam in c. 40. 
+      <lb ed="#H" n="3"/>Iobi, Isidorum lib. 1. de summo bono, c. 12. 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1763">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>RESP. Primo petit Bellarminus principium: quia quae ex 
+      Patri<lb ed="#H" n="5" break="no"/>bus adducuntur ad probanda dogmata, maxime quae in Scriptura 
+      <lb ed="#H" n="6"/>Sacra nontraduntur, ea nihil omnino probare possunt. Deinde 
+      aile<lb ed="#H" n="7" break="no"/>goriae quas Patres praeter literalem ac genuinum sensum 
+      commi<lb ed="#H" n="8" break="no"/>niscuntur, non obstringunt fidem. Tertrio falsum affingitur Tertus 
+      <lb ed="#H" n="9"/>liano Is enim libro secundo contra Marcionem, cap. 10. dicit 
+      qui<lb ed="#H" n="10" break="no"/>dem diabolum fuisse eminentissimum Angelorum, archangelum 
+      <lb ed="#H" n="11"/>sapientissimum: sed non ait, cum fuisse caput omnium Angelorum 
+      <lb ed="#H" n="12"/>quia plures Archangelos statuebant Patres. Alii Patres diabolum 
+      <lb ed="#H" n="13"/>statuunt principem inter Angelos, non ordinis quoad dignitatem 
+      <lb ed="#H" n="14"/>sed rebellionis in Deum; 
+      </p>
+            <p xml:id="yyy8Uu-e35921-d1e1792">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Hactenus de Angelis: sequitur  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

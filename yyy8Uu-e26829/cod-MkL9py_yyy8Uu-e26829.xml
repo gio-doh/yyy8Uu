@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="264"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e26829"> <!-- l5-c4 -->
+            <head xml:id="yyy8Uu-e26829-Hd1e109">Caput 4</head>
+            <p xml:id="yyy8Uu-e26829-d1e112">
+               <lb ed="#H" n="135"/>CAPUT IV. 
+      <lb ed="#H" n="136"/>In quo de materia &amp; forma Crea¬ 
+      <lb ed="#H" n="137"/>tionis.
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e121">
+               <lb ed="#H" n="138"/>E MATERIA CREATIGNIS Ex QUA 
+      GRBA<lb ed="#H" n="139" break="no"/>LPTA sunt omnia, hae Theses a nobis proponuntur  
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e128">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>I. MATERIA ex qua res crearentur, non fuit DE&amp; 
+      <lb ed="#H" n="141"/>coaterna, ut Plato putavit: &amp; principio nulla fuit; sed materia prima 
+      <lb ed="#H" n="142"/>ipsa, quae chaos vocatur &amp; rudis indigestaque moles, a Deo creata est: 
+      <lb ed="#H" n="143"/>ex nihilo, non privative, sed negative accepto; deinde ex materia illa 
+      <lb ed="#H" n="144"/>e nihilo producta, sunt formata alia corpora naturalia. Unde 
+      mun<lb ed="#H" n="145" break="no"/>dus in actum quodammodo exiit e potentia, non positiva (nihil enim 
+      <lb ed="#H" n="146"/>erat, in quo mundus esset δυναμει;) sed negativa 
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e149">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>II. Materia e nihilo producta initio, ex qua alia deinde corpora 
+      <lb ed="#H" n="148"/>sunt creata, erat per se naturaliterque inhabilis ad susceptionem 
+      tali<lb ed="#H" n="149" break="no"/>um formarum, quales Creator rebus ex illa productis tribui¬ 
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e160">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>Quapropter erratunt illi Philosophi, quos Julianus Apostata sed 
+      <lb ed="#H" n="151"/>quutus est, qui finxerunt materiam primam ingenitam Deoque 
+      cox<lb ed="#H" n="152" break="no"/>teruam, Deumque tantum expolitorem materiae illius antea ab aeter. 
+      <lb ed="#H" n="153"/>no exsistentis fuisse, ac artificem qui informi dederit formam, 
+      secun<lb ed="#H" n="154" break="no"/>dum quod informis erat, &amp; qualitatum diffetentias magnitudinesque  
+      <lb ed="#H" n="155"/>&amp; pondera solum illi adjecerit: Deus quippe materiam illam 
+      pri<lb ed="#H" n="156" break="no"/>mam ineffabili &amp; inenarrabili virtute, quum non esset, neque exsister 
+      <lb ed="#H" n="157"/>bat omnino, ut inciperet esse produxit  
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e182">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Errarunt etiam illi, qui senserunt, in illa prima materia, quam 
+      <lb ed="#H" n="159"/>chaos vocarunt, fuisse omnia cum suis formis permista, deinde vero 
+      <lb ed="#H" n="160"/>secreta &amp; distincta: quum certum sit ex Mose, omnium formas fuis. 
+      <lb ed="#H" n="161"/>se diversis diebus creatas ex nihilo, &amp; non eductas e materia seu e 
+      po<lb ed="#H" n="162" break="no"/>ntia materiae. 
+      <lb ed="#H" n="163"/>Errarunt etiam Democritus &amp; Leucippus, qui dixerunt, ex 
+      ato<lb ed="#H" n="164" break="no"/>mis, id est, corpusculis quibusdam minutissimis &amp; quae secari non 
+      <lb ed="#H" n="165"/>possint, per inane infinitum volitantibus &amp; concurrentibus mundum 
+      <lb ed="#H" n="166"/>coiisse, atque ita productum fuisse; quam opinionem ipse quoque 
+      Ci<lb ed="#H" n="167" break="no"/>cero libro secundo de natura Deorum irrisit.  
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e208">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>DE PORMA CREATIONIS 
+      <lb ed="#H" n="169"/>Operum Dei veritas vix studiosis &amp; sobrie laborantibus contingit, ait  
+      <lb ed="#H" n="170"/>Cyrillus libr. 3. contra Julianum. Hoc maxime de forma creationis 
+      <!--cod-MkL9py-0292.xml-->
+      <pb ed="#H" n="265"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>dici potest: nam quae illa sit, menti nostrae incomprehensibile est &amp; 
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e228">
+               <lb ed="#H" n="2"/>
+               <pc type="indent"/>Is modus proprius hominis fuit: qua ratione commendatur 
+      opifi<lb ed="#H" n="3" break="no"/>τῆς ὑσπάρζεως δνηλοῖ. το ο ὅπωος ἔγξυηοο σημεινει, Justinus, In expositione 
+      <lb ed="#H" n="4"/>gularis factura, Genes. 1. versi. 2. 1. Timoth. 2. 13. δἀτλασις τ τροπον 
+      <lb ed="#H" n="5"/>mationis modus dicitur εσις, item δαπλασις figuratio &amp; quasi 
+      fi<lb ed="#H" n="6" break="no"/>primum viri ex limo terrae, deinde mulieris ex costa viri exstructae, 
+      <lb ed="#H" n="7"/>ando homine colloquio &amp; quasi deliberatione &amp; sequente creatione 
+      <lb ed="#H" n="8"/>mine, praecedente nimirum personarum Sanctae Trinitatis de 
+      cre<lb ed="#H" n="9" break="no"/>plantas &amp; animalia irrationalia omnis generis ex elementis creavit,  
+      <lb ed="#H" n="10"/>fecit alia corpora naturalia, verum eo modo, quo a nulla recreata 
+      fie<lb ed="#H" n="11" break="no"/>ineffabile omni sermone. Excedit mentis nostrae captum 
+      excellen<lb ed="#H" n="12" break="no"/>tia operum summae illius essentiae: impervestigabiles sunt viae ejus 
+      <lb ed="#H" n="13"/>Andebimus tamen de forma creationis, quae revelata sunt in 
+      di<lb ed="#H" n="14" break="no"/>vinis oraculis dicere, quantum ingenii nostri hebetudo assequi 
+      po<lb ed="#H" n="15" break="no"/>test. 
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e263">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Forma creationis, est modus quo res creatae omnes sunt 
+      pro<lb ed="#H" n="17" break="no"/>ductae. 
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e273">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Eaque vel est communis omnium rerum creatarum: vel quarundam 
+      <lb ed="#H" n="19"/>propria 
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e282">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Forma creationis omnium rerum creatarum communis, est quod 
+      <lb ed="#H" n="21"/>Deus singula, cum non exsisterent, dicendo, jubendo, mandando u 
+      <lb ed="#H" n="22"/>exsisterent, produxit momento &amp; citra alterationem quae temporis 
+      <lb ed="#H" n="23"/>tractum longiorem requirit: sic ut creatio non sit ex se successiva e 
+      <lb ed="#H" n="24"/>manatio, sed momentanea seu tota simul uno momento perfecta. 
+      <lb ed="#H" n="25"/>Singula igitur quae Deus creavit, uno momento perfecte produxit.  
+      <lb ed="#H" n="26"/>dicendo seu mandando ut illa exsisterent. 
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e302">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Docet hoc historia creationis a Mose descripta, in qua identidem 
+      <lb ed="#H" n="28"/>occurrit, Dixit Deus, Fiat hoc, fiat illude Esto hoc, esto illud: &amp; fuit itas 
+      <lb ed="#H" n="29"/>ut Genes. 1. vers. 3. Dixit Deus, esto lux: &amp; fuit lux: v.6. Dixit Deus, esto 
+      <lb ed="#H" n="30"/>expansum inter aquas: vers. 11. Dixit Deus herbascat terra: versic. 14. 
+      <lb ed="#H" n="31"/>Dixit Deus, sunto luminaria in expanso cali. versic. 19. Dixit Deus, 
+      ab<lb ed="#H" n="32" break="no"/>unde progignunto aquae reptilia animantia: &amp; volucres uolanto supra 
+      <lb ed="#H" n="33"/>terram: versic. 24. Dixit Deus, producat terra animantia in species ipso. 
+      <lb ed="#H" n="34"/>rum pecudes &amp; reptilia, bestiasque terrenas in species suas: &amp; fuit ita: v. 
+      <lb ed="#H" n="35"/>26. Dixit Deus, faciamus hominem ad imaginem nostram. 
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e326">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Docet idem David Psalm. 33. versi. 9. Ipse dixit &amp; factum est: 
+      man<lb ed="#H" n="37" break="no"/>davit &amp; exstitit, quicquid est. 
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e335">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Deus ergo omnia creavit dicendo, jubendo, praecipiendo ut 
+      ex<lb ed="#H" n="39" break="no"/>sisterent. Non magno apparatu ad mundi creationem est usus: sed I 
+      <lb ed="#H" n="40"/>ut probaret immensam verbi sui potentiam jussit, ut imperium 
+      <lb ed="#H" n="41"/>protinus esset opus. Nam ut recte veteres docuerunt; Dei dicere, eest 
+      <lb ed="#H" n="42"/>facere. 
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e351">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Oritur hic quaestio: Quum Patris aeterni Sermo, per quem omnia 
+      fa<lb ed="#H" n="44" break="no"/>cta sunt, sit aeternus Dei Filius, quomodo igitur dicendo seu iubendo 
+      o<lb ed="#H" n="45" break="no"/>mnia condita dicuntur? nunquid Filius Dei per quem omnia facta sunt.  
+      <lb ed="#H" n="46"/>est duntaxat sermo prolatus, iussum aut mandatum? Solutio. Stultum 
+      <lb ed="#H" n="47"/>ac frivolum esset, temporium quendam Dei nutum, temporium 
+      <lb ed="#H" n="48"/>quoddam imperium, quo omnia creata sunt, fingere. Sed quum 
+      Mo<lb ed="#H" n="49" break="no"/>ses ait, dixit Deus, esto hoc vel illud, sic est intelligendum, Deum 
+      Pa<lb ed="#H" n="50" break="no"/>trem omnia creasse per aeternum suum Sermonem ac Filium, qui 
+      <lb ed="#H" n="51"/>verbo suo potenti omnia produxit, quemadmodum omnia verbo suo 
+      <lb ed="#H" n="52"/>potenti portat, ut dicitur Hebr. 1. versicul. 2 Filius Dei est is, qui aeter 
+      <lb ed="#H" n="53"/>num decretum de creatione exsequutus est. Ideo Johannes illa 
+      Mo<lb ed="#H" n="54" break="no"/>sis verba, Dixit Deus: esto hoc &amp; illud: sic interpretatur capit. 1. versic. 
+      <lb ed="#H" n="55"/>1, 2, 3. In principio (videlicet mundi, ) erat Sermo ille, &amp; Sermo ille,. 
+      <lb ed="#H" n="56"/>erat apud Deum, eratque ille Sermo Deus. Hic Sermo erat in 
+      principio<lb ed="#H" n="57" break="no"/>apud Deum. Omnia per hunc Sermonem facta sunt, &amp; absque eo 
+      factum<lb ed="#H" n="58" break="no"/>est nihil, quod factum sit. 
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e391">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Quapropter Deus Pater omnia creavit per aeternum Sermonem. 
+      <lb ed="#H" n="60"/>suum in Spiritu Sancto, dicendo &amp; jubendo ut exsisterent. 
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e400">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Tantum de forma creationis com¬ 
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e407">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>muni. 
+      <lb ed="#H" n="63"/>Propria forma creationis rerum creatarum distincta est: sic ut 
+      se<lb ed="#H" n="64" break="no"/>cundum illam duplex sit creatio.  
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e418">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Nam est vel effectio e nihilo, vel formatio. 
+      <lb ed="#H" n="66"/>Effectio e nihilo, est creatio qua Deus res e nihilo &amp; sine ulla altera 
+      <lb ed="#H" n="67"/>tione a non esse ad esse produxit, qualis fuit creatio materiae primae 
+      <lb ed="#H" n="68"/>quae non fuit ex alia materia praeexsistente facta, alioquin non esset 
+      <lb ed="#H" n="69"/>prima: qualis item fuit creatio caeli beatorum, neque enim est ex 
+      <lb ed="#H" n="70"/>materia prima, unde reliqui caeli formati sunt: qualis etiam fuit 
+      <lb ed="#H" n="71"/>creatio Angelorum &amp; animarum humanarum. Hac omnium 
+      re<lb ed="#H" n="72" break="no"/>rum, etiam e materia creata productarum formae creatae sunt: non 
+      <lb ed="#H" n="73"/>enim erant formae in materia prima, sed singulis diebus fiebant, 
+      ju<lb ed="#H" n="74" break="no"/>bente &amp; dicente Deo, sit hoc, sit illud. Hac creatione etiamnum 
+      ani<lb ed="#H" n="75" break="no"/>ma cujusque hominis sit e nihilo in corpore, sine alteratione, Hebr 
+      <lb ed="#H" n="76"/>11. 3. Graeci κliσii vocant.  
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e449">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Formatio, est creatio qua Deus ex materia antea e nihilo producta 
+      <lb ed="#H" n="78"/>ri possunt; sed a solo Deo, nempe sine motu, sine ulla praecedente 
+      mu<lb ed="#H" n="79" break="no"/>tatione, sine alteratione, vi tantum divini verbi seu mandati, introdus 
+      <lb ed="#H" n="80"/>cendo in ea formam a nihilo creatam, 
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e462">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Estque duorum modorum: 
+      <lb ed="#H" n="82"/>Primus formationis modus, est quo Deus materiam primam 
+      crea<lb ed="#H" n="83" break="no"/>tam ordinavit, &amp; faciem ejus ornavit; ποluois, factura 
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e474">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>Hoc elementa distinxit, caelum stellis decoravit: Hoc pisces &amp; aves. 
+      <lb ed="#H" n="85"/>Genes 1. 
+      </p>
+            <p xml:id="yyy8Uu-e26829-d1e483">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Secundus formationis modus, est quo Deus usus est in creando 
+      ho<lb ed="#H" n="87" break="no"/>animae vero utriusque ex nihilo factae &amp; utrique inspiratae. Hic 
+      for<lb ed="#H" n="88" break="no"/>fidei de recta confessione. A Patribus Latinis dicitur ex Graeca 
+      voce<lb ed="#H" n="89" break="no"/>plasmatio. 
+      <lb ed="#H" n="90"/>ficii diviui in creando homine admirabilitas: 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 14</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 14</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="154"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e72293"> <!-- l2-c14 -->
+            <head xml:id="yyy8Uu-e72293-Hd1e109">Caput 14</head>
+            <p xml:id="yyy8Uu-e72293-d1e112">
+      <!--cod-MkL9py-0181.xml-->
+               <pb ed="#H" n="154"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>CAPUT XIV 
+      <lb ed="#H" n="2"/>In quo de proprietatibus Dei essentialibus secundi or¬ 
+      <lb ed="#H" n="3"/>dinis in genere.
+    </p>
+            <p xml:id="yyy8Uu-e72293-d1e128">
+               <lb ed="#H" n="4"/>TROPRIETATES Dei essentiales secundi ordinis, sunt quae de 
+      </p>
+            <p xml:id="yyy8Uu-e72293-d1e133">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Deo a posteriori dicuntur, ut est agendi principium. Et hae sunt,  
+      <lb ed="#H" n="6"/>incommunicabiles, ut sunt in Deo: communicabiles tamen 
+      di<lb ed="#H" n="7" break="no"/>cuntur κατ ἀναλογίαν, quia earum similitudo quaedam in 
+      creaturi<lb ed="#H" n="8" break="no"/>reperitur. Nulla enim perfectio rebus creatis inest, cujus idea 
+      seu<lb ed="#H" n="9" break="no"/>ratio perfectissima non sit in Deo aeternum secundum simplicissi 
+      <lb ed="#H" n="10"/>mam &amp; divinam ejus perfectionem: attamen a creaturarum 
+      attribu<lb ed="#H" n="11" break="no"/>tis differunt. Nam 
+      <lb ed="#H" n="12"/>I. Per haec attributa in Deo intelligitur ipsa essentia divina: at 
+      in<lb ed="#H" n="13" break="no"/>creaturis sunt duntaxat qualitates quaedam reipsa diversae ab earum 
+      <lb ed="#H" n="14"/>essentia, ideo Deus per seipsum, seu per suam essentiam vivit, 
+      intelli<lb ed="#H" n="15" break="no"/>git, sapit, &amp; bonus est, &amp;c. Ita in Deo sunt essentialiter; in creaturis 
+      <lb ed="#H" n="16"/>accidentaliter  
+      </p>
+            <p xml:id="yyy8Uu-e72293-d1e165">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>II. In Deo sunt natura: at in creaturis tantum participatione. 
+      <lb ed="#H" n="18"/>III. In Deo sunt infinitae, nimirum quia sunt aeternae, quia sunt  
+      <lb ed="#H" n="19"/>immensae &amp; incomprehensibiles: at in creaturis sunt finitae. 
+      </p>
+            <p xml:id="yyy8Uu-e72293-d1e176">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>IV. In Deo sunt modo excellentiori, nempe absolute perfectae 
+      <lb ed="#H" n="21"/>ideo Deus non tantum dicitur vivus, immortalis, sapiens, sed etiam 
+      <lb ed="#H" n="22"/>vita ipsa, immortalitas, beatitudo, sapientia ipsa: at in creaturis sun 
+      <lb ed="#H" n="23"/>imperfectae 
+      </p>
+            <p xml:id="yyy8Uu-e72293-d1e189">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>V. In Deo sunt reipsa unum, videlicet, una illa &amp; simplex 
+      essen<lb ed="#H" n="25" break="no"/>tia; quam enim essentia vivus est, eadem beatus, eadem sapiens est. At 
+      <lb ed="#H" n="26"/>in creaturis sunt multae &amp; diversae: Nam homo per aliam formam 
+      <lb ed="#H" n="27"/>intelligit, per aliam justus est. Idem sentiendum de aliis attributis se¬ 
+      </p>
+            <p xml:id="yyy8Uu-e72293-d1e202">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>cundi ordinis. 
+      </p>
+            <p xml:id="yyy8Uu-e72293-d1e209">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>VI. In Deo sunt dοχετυποι, in creaturis ἵκσυποῳ, 
+      <lb ed="#H" n="30"/>VII. Deo tribuuntur πξῶτως, id est, primo, per se ac proinde 
+      <lb ed="#H" n="31"/>proprie: at de creaturis dicuntur δαυlίρως, secundario, per aliud, atque 
+      <lb ed="#H" n="32"/>αναλογικώς id est, similitudine quadam, secundum tum actus, tum 
+      u<lb ed="#H" n="33" break="no"/>sus analogiam in creaturi: 
+      </p>
+            <p xml:id="yyy8Uu-e72293-d1e225">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>VIII. In Deo sunt immutabiliter: in creaturis mutabiliter  
+      <lb ed="#H" n="35"/>Proprietates Dei essentiales secundi ordinis sunt, vita &amp; immor 
+      <lb ed="#H" n="36"/>talitas: beatitudo &amp; gloria. Harum distinctio &amp; ordo perpendatur  
+      </p>
+            <p xml:id="yyy8Uu-e72293-d1e237">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Vita latius patet, quam beatitudo &amp; gloria: sicut esse latius patet 
+      <lb ed="#H" n="38"/>quam vivere: nam omnes quidem creaturae sunt, at non omnes 
+      vi<lb ed="#H" n="39" break="no"/>vunt. Sic longe pluribus creaturis competit vita, quam beatitudoc 
+      <lb ed="#H" n="40"/>gloria. Vita &amp; immortalitas differunt, ut alia attributa: &amp; vita 
+      la<lb ed="#H" n="41" break="no"/>tius patet: nam omnia quidem quae sunt immortalia, vivunt; sed non 
+      <lb ed="#H" n="42"/>omnia quae vivunt, sunt immortalia; ut homo vivit jam quidem, se 
+      <lb ed="#H" n="43"/>non est immortalis. Deinde non omnis qui vivit &amp; immortalis est, 
+      <lb ed="#H" n="44"/>etiam beatus est, ut Satanas. Beatitudinis comes &amp; gloria. 
+      </p>
+            <p xml:id="yyy8Uu-e72293-d1e259">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Hae proprietates sunt in Deo simplicissime &amp; perfectissime: 
+      infini<lb ed="#H" n="46" break="no"/>te &amp; immutabiliter.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

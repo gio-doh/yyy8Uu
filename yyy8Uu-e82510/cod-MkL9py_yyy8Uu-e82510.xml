@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 23</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 23</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="174"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e82510"> <!-- l2-c23 -->
+            <head xml:id="yyy8Uu-e82510-Hd1e109">Caput 23</head>
+            <p xml:id="yyy8Uu-e82510-d1e112">
+               <lb ed="#H" n="120"/>CAPUT XXIII. 
+      <lb ed="#H" n="121"/>In quo de Misericordia Dei. 
+    </p>
+            <p xml:id="yyy8Uu-e82510-d1e119">
+               <lb ed="#H" n="122"/>E misericordia Dei considerati debet, Quot modos dicatur) 
+      <lb ed="#H" n="123"/>DAn Deo vire tribuatur? An proprie Deo tribuatur? Quid sit? 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e126">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Quae eius causa, effecta, &amp;c. 
+      <lb ed="#H" n="125"/>I. Quaeritur, Misericordia Dei quot modis dicatur? RESPOND. 
+      <lb ed="#H" n="126"/>Misericordia Dei, vel act re accipitur vel passive Active quatenus est 
+      <lb ed="#H" n="127"/>in Deo, qui est actus purissimus: Passive, quatenus intelligitur 
+      effe<lb ed="#H" n="128" break="no"/>ctum seu beneficium a ninserente Deo nobis collatum &amp; in nobis 
+      ap<lb ed="#H" n="129" break="no"/>parens, I. Tim. 1. v. 2. Misericordie quae est in Deo, agens seu activa 
+      <lb ed="#H" n="130"/>est: quae autem in nobis apparet, est misericordia Dei in nobis facta. 
+      <lb ed="#H" n="131"/>Priore modo hic accipitur, quia ut in Deo est, essentialis est. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e149">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>II. Quaeritur; An misericordia Deo vere tribuatur? seu, An 
+      mi<lb ed="#H" n="133" break="no"/>sericordia vere sit in Deo? RESP. Est; ut sequentia argumenta 
+      osten<lb ed="#H" n="134" break="no"/>dunt: 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e160">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>I. Quia omnes virtutes sunt in Deo: At misericordia est virtus 
+      <lb ed="#H" n="136"/>per quam nobis cordi est miseria aliorum, etiam hostium, sic ut eam 
+      <lb ed="#H" n="137"/>tum consolando, tum aliis modis lenire aut tollere studeamus, 
+      quan<lb ed="#H" n="138" break="no"/>tum justitia permittit. 
+      <lb ed="#H" n="139"/>Tertio refelluntur hinc, qui Deum crudelem esse erga eos crimi¬ 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e176">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>II. Quia omnia bona sunt in Deo: At misericordia est bonum 
+      <lb ed="#H" n="141"/>Ergo est in Deo. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e185">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>III. Quaeritur: An misericordio Deo proprie tribuatur? RESP. 
+      <lb ed="#H" n="143"/>Misericordia Deo proprie attribuitur: non κιτ αυθρωποπαδειαν, non 
+      <lb ed="#H" n="144"/>mproprie. I. Quia misericordia priu: in Deo fuit, quam in nobis 
+      <lb ed="#H" n="145"/>ut docet historia de lapsi hominis erectione, Gen. 3. &amp; hortatio 
+      Ge<lb ed="#H" n="146" break="no"/>nes. 3. &amp; hortatio Christi Lucae 6. 36. Estite ergo inttericordes, prout &amp; 
+      <lb ed="#H" n="147"/>Pater vester misericors est. Unde Deus dicitur Pater ille 
+      misericor<lb ed="#H" n="148" break="no"/>diarum seu miserationum, 2. Cor. 1. v. 3. II. Quia misericordia Dei 
+      <lb ed="#H" n="149"/>est aeterna; nostra autem est vittus nobis a Deo communicata. 
+      <lb ed="#H" n="150"/>III. Quia misericordia Dei norma est omnis verae misericordiae in 
+      <lb ed="#H" n="151"/>creaturis rationalibus. IV. Quia Dei proprium est misereri semper, ut 
+      <lb ed="#H" n="152"/>Ecclesia orat  
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e214">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Contra senserunt nonnulli, ut Stoici &amp; qui eos sequuntur, 
+      miseri<lb ed="#H" n="154" break="no"/>cordiam Deo nullo modo tribui pesse, hoc argumento moti: 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e223">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>In quem nulla cadit aegritudo animi, et non potest tribui misericordia. 
+      <lb ed="#H" n="156"/>In Deum nulla cadit aegritudo anime: Ergo, &amp;c. 
+      <lb ed="#H" n="157"/>Majoris probatio; Si misericordia est aegritudo animi, ex alterius 
+      <lb ed="#H" n="158"/>miseria concepta: tum in quem nulla cadit aegritudo animi, ex alterius 
+      <lb ed="#H" n="159"/>miseria concepta, ei non potest misericordia tribui. Prius est verum, teste 
+      <lb ed="#H" n="160"/>Cicerone in 4. Tusc. Seneca n lib. de Clementia, Augustino tomo 
+      5<lb ed="#H" n="161" break="no"/>lib. 9. de civitate Dei. c. 5. Aristotele 2. Rhetoricorum: item 
+      Phavo<lb ed="#H" n="162" break="no"/>rine. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e246">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>RESP. Maior negatur. In prohatione ejus peccatur elencho 
+      de<lb ed="#H" n="164" break="no"/>finitionis. Nam commemorata definitio misericordiae non est reci¬ 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e255">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>roca, sed tantum misericordiae humanae competit, quam solam et 
+      <lb ed="#H" n="166"/>iam testes adducti spectarunt. At misericordia in Deo non est 
+      aegritu<lb ed="#H" n="167" break="no"/>do seu tristitia cordis, non dolor animi ex miseria alterius conceptus 
+      <lb ed="#H" n="168"/>sed est in Deo citra passionem ullam 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e268">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>Replicatio: Atqui etymologia seu notatio nominis etiam obstat: nam 
+      <lb ed="#H" n="170"/>quis ignoret ex co appellatam esse ise:icordiam, quod miserum cor 
+      fa<lb ed="#H" n="171" break="no"/>ciat condolescentis alieno malo: ut docet Augustinus primo tomo, libro 
+      <lb ed="#H" n="172"/>de moribus Ecclesiae Catholicae, cap. 27. &amp; Greg. Magn. in moralii  
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e281">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>RESP. Primo, falsa est haec etymologia: nequaquam enim miset 
+      <lb ed="#H" n="174"/>ricordia dicitur, quod miserum cor faciat compassione alienae 
+      cala<lb ed="#H" n="175" break="no"/>mitatis, sed quod alterius miseria cordi sit. Nam misericordem 
+      homi<lb ed="#H" n="176" break="no"/>tem appellamus, non cum qui miserum cor habeat: talis enim 
+      po<lb ed="#H" n="177" break="no"/>tius miser est dicendus, quam misericors: sed illum cui alterius mise 
+      <lb ed="#H" n="178"/>tia co di est, ac proinde laboranti succurrere studet: ut liquet ex eo 
+      <lb ed="#H" n="179"/>quod Christus ait Matt. 5. v. 7. Beati qui sunt misericordes, quonia ipsis 
+      <!--cod-MkL9py-0202.xml-->
+      <pb ed="#H" n="175"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>misericordia tribuetur. Quos quaeso Chrstus hic vocat misericordes? 
+      <lb ed="#H" n="2"/>reosne quibus cor est miserum? neutiquam certe, sed quibus miseria 
+      <lb ed="#H" n="3"/>aliorum ita est cordi, ut iis opem ferre pro viribus studeant. Nam 
+      <lb ed="#H" n="4"/>certe non illi quibus cor est miserum, beati censeri possunt: sed 
+      qui<lb ed="#H" n="5" break="no"/>bus est cordi aliorum miseria. Deinde data, sed non concessa hac 
+      La<lb ed="#H" n="6" break="no"/>sinae vocis etymologia: non tamen inde sequetur, Deo 
+      misericor<lb ed="#H" n="7" break="no"/>diam attrsbui non posse, cum ea voce reddatur solummodo nomen 
+      <lb ed="#H" n="8"/>Hebraeum CίT Trachem, quo uli sunt de Deo Prophetae, quod 
+      <lb ed="#H" n="9"/>origine sua nullam animi aegritudinem signisicat: nam est a radice 
+      <lb ed="#H" n="10"/>RPT racham, quae significat diligere. Tertio etiamsi Hebraeum 
+      <lb ed="#H" n="11"/>nomen dolorem cordis significaret; tamen inde non sequeretur,  
+      <lb ed="#H" n="12"/>Deo misericordiam nullo modo tribui posse. Quia pari ratione nec 
+      <lb ed="#H" n="13"/>amor Deo competeret, cum &amp; amor affectus passioque sit in nobis. 
+      <lb ed="#H" n="14"/>Sed si amor Deo tribuitur, cur non &amp; misericordia, cum utriusque 
+      par<lb ed="#H" n="15" break="no"/>sit ratio? Facessat igitur hoc Stoicorum detirium, misericordiam Deo. 
+      <lb ed="#H" n="16"/>adimentium. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e342">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>IV. Quaeritur; Quid sit misericordia Dei? MISERICOR 
+      <lb ed="#H" n="18"/>DIA DEI, est propensissima ejus voluntas miseris succurrendi, a 
+      <lb ed="#H" n="19"/>qua beneficia omnia proveniunt. Exod 34. 6. Iehova Deus fortis, 
+      mi<lb ed="#H" n="20" break="no"/>sericors, gratiosus. Rom. 9. 18. cujus vult miseretur 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e355">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>V. AXIOMATA, quibus explicantur causae efficientes, effecta, 
+      <lb ed="#H" n="22"/>subjecta, adjuncta, dissentanca &amp; comparata misericordiae Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e365">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>I. Misericordia in Deo, a gratuito erga nos amore proficiscitur,  
+      <lb ed="#H" n="24"/>hoc est, causa efficiens misericordiae Dei est gratuitus erga nos amor: 
+      <lb ed="#H" n="25"/>proinde ipsa quoque misericordia est prorius gratuita, nullique 
+      pro<lb ed="#H" n="26" break="no"/>operum meritis debita; unde omne excludit meritum Docet id Pau 
+      <lb ed="#H" n="27"/>lus Ephes. 2. v. 4. Deus, ut qui dives sit misert ordia propter multam 
+      <lb ed="#H" n="28"/>charitatem suam qua dilexit nos. Et Deus ipse Exod. 33. 19 Gratiosus 
+      <lb ed="#H" n="29"/>ero, cui gratiosus fuero, &amp; miserebor, cujus misertus fuero. Quem 
+      lo<lb ed="#H" n="30" break="no"/>cum Paulus etiam adducit Rom. 9. v. 15. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e387">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Objici primo potest: Deus non miseretur nostri, nec recipit nos in 
+      <lb ed="#H" n="32"/>gratiam, nisi interveniente satisfactione Filii sui pro peccatis nostris. 
+      <lb ed="#H" n="33"/>Ergo misericordia ejus non est gratuita. RESP. Peccatur errore falo 
+      <lb ed="#H" n="34"/>So oppositorum. Nam cum misericordia Dei gratuita dicitur, 
+      respe<lb ed="#H" n="35" break="no"/>ctu nostrorum meritorum talis dicitur non respectu meriti Christ. 
+      <lb ed="#H" n="36"/>Caeterum &amp; ipsa satisfactio Christi &amp; ejus applicatio ab ipso DEO 
+      <lb ed="#H" n="37"/>proficiscitur: quia Deus &amp; Filium nobis Redemtorem donavit, &amp; 
+      <lb ed="#H" n="38"/>sua electione ac Spiritus Sancti donatione, ut eum fide accipiamus 
+      <lb ed="#H" n="39"/>efficit; nulla alia de causa, nisi ex gratuita misericordia. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e411">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Secundo. Exod. 20. 6. dicit Deus; Ego Iehova Deus tuus faciens 
+      <lb ed="#H" n="41"/>misericordiam in millesimos, nempe a Patribus, qui diligunt me &amp; 
+      ob<lb ed="#H" n="42" break="no"/>se:vant mandata mea. Ergo misericordiam Dei promereri possumus 
+      di<lb ed="#H" n="43" break="no"/>lectione &amp; observatione mandatorum Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e424">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>RESP. Primo homenymia est in nomine misericordae, quod i1 
+      <lb ed="#H" n="45"/>adducto leco non significat ipsam voluntatem Dei ad succurrendum 
+      <lb ed="#H" n="46"/>miseris propensam: sed beneficia divina ex misericordia profecta, id  
+      <lb ed="#H" n="47"/>que per metonymiam, quam causa efficiens ponitur pro effectis: Nam 
+      <lb ed="#H" n="48"/>misericordia Dei est causa efficiens beneficiorum, quae ille in nos 
+      <lb ed="#H" n="49"/>confert. Secunso non doertur hoc indoco, quare Deus faciat 
+      miseri<lb ed="#H" n="50" break="no"/>t ordiam, sed quibus: non de cauisa miseticordiae agitur, sed de 
+      subje<lb ed="#H" n="51" break="no"/>cto; ut intelligatur, dilectionem nostram erga Deum &amp; obserranm 
+      <lb ed="#H" n="52"/>nem mandatorum ejus esse signum certissimum, misericordiam 
+      spo<lb ed="#H" n="53" break="no"/>cialem nobis a Deo obtigisse. Tertio hic ipse locus evertit merita 
+      hu<lb ed="#H" n="54" break="no"/>mana dupliciter: primo, quia Deus effectionem misericordiae 
+      pro<lb ed="#H" n="55" break="no"/>mittit: At sicut promittit gratuito, nullis inductus nostris meritis, ita 
+      <lb ed="#H" n="56"/>etiam praestat gratuito, non propter nostra merita. Deinde, quia quio  
+      <lb ed="#H" n="57"/>quid nobis promittit, misencordia esi &amp; de misericordia venit, non 
+      <lb ed="#H" n="58"/>gitur propter merita nostra 
+      <lb ed="#H" n="59"/>II. Deus est misericore sua aeterna &amp; simplici essentia, non 
+      au<lb ed="#H" n="60" break="no"/>tem qualitate aliqua, non affectu, non passione 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e466">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>III. Effecta misericordiae Dei sunt omnia beneficia Dei, tum 
+      <lb ed="#H" n="62"/>spiritualia, tum corporalia. De spiritualibus dicitur Rom. 9. 16. 
+      Ele<lb ed="#H" n="63" break="no"/>ctio non est ejus qui velit, neque ejus qui currat, sed ejus qui miseretur 
+      <lb ed="#H" n="64"/>Dei. Tit. 3. v. 5. Ex sua misericordia serunvit nos. Luc. 177, 78. Et de 
+      <lb ed="#H" n="65"/>cognitionem salutis populo ejus, per remissionem peccatorum ipsorum. Et  
+      <lb ed="#H" n="66"/>i tima misericordia Dei nostri, qua invisit nos is qui prodit ex alto. 
+      <lb ed="#H" n="67"/>Ephes. 2. v. 4. Sed Deus ut qui dives sit misericordia, propter multam 
+      <lb ed="#H" n="68"/>charitatem mam qua dilexit nos etiam nos, quum per lapsus mortui 
+      es<lb ed="#H" n="69" break="no"/>semus, una vivificavit cum Christo, cujus gratia estis servati. 1. Pet. 1. 
+      <lb ed="#H" n="70"/>v. 3. Benedictus esto Deus &amp; Pater Domini nostri Iesu Christi, qui ex 
+      <lb ed="#H" n="71"/>multa sua mesericordia regenuit nos in spem vivam per resurrectionem 
+      <lb ed="#H" n="72"/>I su Christi ex mortuis. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e497">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Si corporalia beneficia spectes, Deus ex misericordia sua differt 
+      <lb ed="#H" n="74"/>mitigat ac tollit poenas: sicut dicitur Jesa. 30. 18. Exspectabit Iehova 
+      <lb ed="#H" n="75"/>gratiam facere vobis, &amp; idcirco elaturus est se ad miserendum 
+      vestri<lb ed="#H" n="76" break="no"/>Servat sibi aliquos in mediis poenis, ne omnes consumantur, ut dici 
+      <lb ed="#H" n="77"/>tur Thren. Jerem. cap. 3. v. 22. Miscricordiae Domini sunt quo, non 
+      su<lb ed="#H" n="78" break="no"/>mus consumti: quia non defecerunt miseritord a ojus. Liberat ex 
+      mor<lb ed="#H" n="79" break="no"/>bis desperatis, ut Epaphroditum fratrem &amp; adjutorem Pauli, Philip 
+      <lb ed="#H" n="80"/>2. v. 27. Certe agrotavit proxime mortem: sed Deus misertus est ejus 
+      <lb ed="#H" n="81"/>nec ejus solum, sed &amp; mei, ne dolorem haberem super dolorem. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e522">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Haec de effectis misericordiae DEI. 
+      <lb ed="#H" n="83"/>IV. Misericordia Dei ad omnes, qui in miseria aliqua constituti 
+      <lb ed="#H" n="84"/>sunt, extenditur, aliter tamen erga electos quam erga reprobos aliase 
+      <lb ed="#H" n="85"/>ve creaturas. Quod igitur ad subjecta ejus attinet, est Misericordia 
+      <lb ed="#H" n="86"/>Dei vel generalis vel specialis. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e538">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Generalis misericerdia Dei, est qua Deus, ut Deus non solum 
+      pro<lb ed="#H" n="88" break="no"/>pensus est ad succurrendum omnibus suis creaturis, atque ineprimis 
+      <lb ed="#H" n="89"/>hominibus, tam injustis quam justis, in aliqua miseria constitutis: 
+      ve<lb ed="#H" n="90" break="no"/>rum etiam reipsa succurrit, non quidem omnibus ad vitam aeternam. 
+      <!--cod-MkL9py-0202.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>sed tamen ad aliquam salutem, nomque temporariam. De lac dicitur i 
+      <lb ed="#H" n="92"/>Luc. 6. 30. Estote misericordes, sicut &amp; Pater ceiter niserieors est. Istam 
+      <lb ed="#H" n="93"/>misericordiam pecudes quoque experiuntur, Psal. 104. 27. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e562">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>OBIICITUR primo; Deus videtur vindicta delectari Jesa. 1. v. 6 
+      <lb ed="#H" n="95"/>24. Eheu censolationem capium de hoslibus meis &amp; nitionem sumans 
+      <lb ed="#H" n="96"/>de inimicis meis. Prov. 1. v. 26. Ero quoque in calumitate vistra rideho, 
+      <lb ed="#H" n="97"/>subsannabo cum advenerit td quod expaviscitis. Hinc videtur sequi, 3 
+      <lb ed="#H" n="98"/>Deum non misereri omnium. 
+      <lb ed="#H" n="99"/>RESP. Falsum est intecedens; nec faciunt allegata dicta ad illud 
+      <lb ed="#H" n="100"/>probandum. Nam his dictis tuinatur dun: axat Deus, se justitiam sua 
+      <lb ed="#H" n="101"/>exsequuturum in eo;s qui non resipiscunt: nequaquam autem docet. 
+      <lb ed="#H" n="102"/>se delectari perditione hominum 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e586">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Secundo jesa. 27. vers. 13. dicitur: Non est populus ulla intelligentia 
+      <lb ed="#H" n="104"/>praeditus: idcirco non miseretur ejus, qui fecit eum; &amp; qui formavit 
+      <lb ed="#H" n="105"/>eum, non facit gratiam ci Et Jer. 16. vers. 5. Ne conoleto eis, nam 
+      amo<lb ed="#H" n="106" break="no"/>vi pacem meum a populo isto, dictum Iehovae, henignitatem &amp; misera 
+      <lb ed="#H" n="107"/>tiones. Ergo saltem ad injustos non extenditur Dei misericordia. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e602">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>RESP. Erratur quum simpliciter sumitur, quod καταη 
+      accipi<lb ed="#H" n="109" break="no"/>endum erat. Nam dicta haec prophetica loquuntur non de omni, imo 
+      <lb ed="#H" n="110"/>nec de generali, sed de speciali misericordia. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e613">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>Tertio: Deus non liberat omnes ab aeterna miseria: Ergo non est 
+      mi<lb ed="#H" n="112" break="no"/>sericors in omnes. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e623">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>RESP. Cenceditur recte intellectum: non est misericors in 
+      o<lb ed="#H" n="114" break="no"/>mnes, nempe misericordia specialis  
+      <lb ed="#H" n="115"/>Specialis misericordia Dei, est qua Deus ut liberrimus Dominus 
+      <lb ed="#H" n="116"/>miferetur ad salutem aeternam quorum vult, nempe eorum, quos ad 
+      <lb ed="#H" n="117"/>itam aeternam puaedestinavit, quos vocat, justificat &amp; glerificat. De 
+      <lb ed="#H" n="118"/>liac dicitur Rom. 9. v. 18. Cujus vule nuscretur: quem autem unlt.. 
+      <lb ed="#H" n="119"/>indurat. Exod. 20. 6. Ego Deus Xlores, faciens misericordiam iis qui 
+      di<lb ed="#H" n="120" break="no"/>ligunt me. Psal. 103. 13. Vt miseretur Per siliorum, miseretur Iehova 
+      <lb ed="#H" n="121"/>timentium ipsam¬ 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e647">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>OBIICITUR: Quoscunque caonclssit Deut in incredulitatem, eo¬ 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e654">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>rum omnium misericordia speciuli miforetur. 
+      <lb ed="#H" n="124"/>Atqui omnes &amp; singulos homines DEVS conclusit in incredulitas 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e663">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>tem. 
+      <lb ed="#H" n="126"/>Ergo etiam omnium &amp; singulorum hominum miscricordia speciali 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e672">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>miseretus 
+      <lb ed="#H" n="128"/>Propositio probatur ex cap. 11. ad Rom. v. 32. ubi dicit Paulus: 
+      Con<lb ed="#H" n="129" break="no"/>clusit Deus omnia in incredulitotem, ut omnium misereatur. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e683">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>RESP. Primo rectius vertitur: Conclusit Deus illos omnes in 
+      con<lb ed="#H" n="131" break="no"/>tumacia: ut illorum omnium misereretur: Nam textus Graecus 
+      ha<lb ed="#H" n="132" break="no"/>bet: συωοκλεισε τος παηλασ εις ειπειοειαν, ἵνα τας πανλας λεησς: Non R 
+      <lb ed="#H" n="133"/>dicit neutro genere τεινο, sed masculino τος πανλας: Deinde 
+      articu<lb ed="#H" n="134" break="no"/>lus τος, nomini adjectivo πενζας praepositus restringit illud ad eos 
+      de<lb ed="#H" n="135" break="no"/>quibus Apostolus disseruit. Praeteras ἀπειήεια significat cenmacia, 
+      <lb ed="#H" n="136"/>ἀπεσίνα autem incredulitatem, quamvis ista mutuo sese coneiquam 
+      <lb ed="#H" n="137"/>tur. Secundo ex testimonio Pauli perperam colligitur, Deum si ciaele 
+      <lb ed="#H" n="138"/>miserico. dia cumes &amp; singulos peccatet: s digiar: nam conteuicit 
+      <lb ed="#H" n="139"/>Scriptura, illis in lecis in quibus docet Deum mijos ari cejus naertus 
+      <lb ed="#H" n="140"/>suerit. Exod. 33. 19. Rom. 9 v. 15. Deut misercri cujus vile; quem 
+      au<lb ed="#H" n="141" break="no"/>tem vult indi rare, Roman. 9. 18. mult:, curraere lata via: citium, 
+      <lb ed="#H" n="142"/>Matth 7. v. 1, ad supplicium acrmurm abiture: ρhοrit at, Idatr. 2. 
+      <lb ed="#H" n="143"/>v. 46. Contradicunt exempla: atnamnatorum, ut Cyiit v, Craεώι, 
+      <lb ed="#H" n="144"/>Dathunis, Alurami, Nos, Achir. mhalis, Iaca clori:lie, Simonis 
+      <lb ed="#H" n="145"/>Migi, &amp; aliorum. Sie, igo exponendus est hic Pauli locus, u. cum 
+      ali<lb ed="#H" n="146" break="no"/>s Scripturae locis &amp; cremplis non pugnet, ire conveniat. Sensus 
+      igi<lb ed="#H" n="147" break="no"/>tur est; Quotquot servantarrum Judo: inin Graeci, eos omnes: nise 
+      <lb ed="#H" n="148"/>ricordia Dei servari: qui: Deus omnus illos, nempe tum Judaeos tum 
+      <lb ed="#H" n="149"/>Graecos qui setvantur, ut am tamaci: conetaii, hoc est, leg. in? omnes 
+      <lb ed="#H" n="150"/>contumaciae convicit, &amp; convincit, eosque habet judicio suo ac 
+      cen<lb ed="#H" n="151" break="no"/>demnationi obnoxios, saoni. 3. 19. ut illorum omnium naniereatur. 
+      <lb ed="#H" n="152"/>ut illi deposita suae virtuti: stalida opinicine, sola Dei gratia se 
+      salvari<lb ed="#H" n="153" break="no"/>intelligant, ut nudi &amp; vacui propriis metitis ad ejus miseri ordiam 
+      <lb ed="#H" n="154"/>confugiant, in hanc se toti rechnent, in hanc pemius sealdant, 
+      han<lb ed="#H" n="155" break="no"/>unam ad salutem apprehendant. Etque hoc non ita accipiendum 
+      <lb ed="#H" n="156"/>quasi soli servandi essent in contumacia conelusi, alii nequaquam: sed  
+      <lb ed="#H" n="157"/>uod omnes servandi solam miseric ordia serventur, eaque protsus m 
+      <lb ed="#H" n="158"/>digeant; quia &amp; ipsi omnes sunt a Deo in contumaciam conclusi: A 
+      <lb ed="#H" n="159"/>eos igitur est universalis particula hic restringenda, de quibus agitur 
+      <lb ed="#H" n="160"/>nempe ad eos, qui servantur tum ex Judaeis tum ex Gentilibus. Unde 
+      <lb ed="#H" n="161"/>apparet imperite admodum hinc concludi a quibusdam, neminem 
+      <lb ed="#H" n="162"/>eorum omnium, qui sub incredulitatem conclusi sunt, absolute a Dei, 
+      <lb ed="#H" n="163"/>misericordia speciali esse reprobatum: qui tamen seipsos refutant 
+      <lb ed="#H" n="164"/>quum doceni, Deum justo judicio non dignari eorum misereri actu 
+      <lb ed="#H" n="165"/>qui ad exemplum Judaeorum extra Christi gratiam ex suis operibus 
+      <lb ed="#H" n="166"/>salvari cupiunt. Salvificam etiam Domini misericordiam offerri 
+      o<lb ed="#H" n="167" break="no"/>mnibus sine ulla differentia; extra controversiam esse, ex libr. 3. 
+      mi<lb ed="#H" n="168" break="no"/>scellan. Hieronymi Zanchii discere adversarii poterant, ubi in thesibs 
+      <lb ed="#H" n="169"/>de misericordia Dei, sic scribitur thesi 5. &amp; 6 Eesi vero hac speciai 
+      mi<lb ed="#H" n="170" break="no"/>sericordia Deus reipsa non miseretur, neque etiam simplicuer vult 
+      nise<lb ed="#H" n="171" break="no"/>reri, nisi eorum quos ud ejus participationem ab aeterno praedestinavit. 
+      <lb ed="#H" n="172"/>ab ea tamen in sucris lieris &amp; in praedicatis ne Evangelii, nemo 
+      exclu<lb ed="#H" n="173" break="no"/>ditur, quin quisque si velit, eam imivirsis &amp; singulis oblatam, percipere, 
+      <lb ed="#H" n="174"/>possit. Caelerum quia homines impii desti:tuti gratia Dei, per se non 
+      pos<lb ed="#H" n="175" break="no"/>sunt hanc misericordiam intelligere, nedum fine amplecti, atque percipere? 
+      <lb ed="#H" n="176"/>Deus autem riprobis nen vult, sicut electis, hanc suae misericordia 
+      par<lb ed="#H" n="177" break="no"/>tem praestare, ut scilicet illorum mentes illustret ad vere cognoscendam 
+      <lb ed="#H" n="178"/>&amp; eorum corda flectat ad vera amplectendam gratiam in Christo 
+      obla<lb ed="#H" n="179" break="no"/>tam: idcirco sit, ut reipsa non omnium misereatur, sed eorum tantum, 
+      <lb ed="#H" n="180"/>quorum vult simplicit er misereri, nempe electorum, sicut dicit Paulus 
+      <lb ed="#H" n="181"/>Rom. 9. 18. Itaque cujus vult, miscretur, quem autem vult inda 
+      rot<lb ed="#H" n="182" break="no"/>Hactenus Banchius:, 
+      <!--cod-MkL9py-0203.xml-->
+      <pb ed="#H" n="176"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Offertur igitur misericordia Dei specialis electis &amp; reprobis 
+      ho<lb ed="#H" n="2" break="no"/>minibus: sed solis electis confertur: Unde etiam electi vasa 
+      miseri<lb ed="#H" n="3" break="no"/>cordiae appellantur, Rom. 9. v. 23. Proinde gravissimus est error, qui 
+      <lb ed="#H" n="4"/>Origeni adscribitur, Deum post datas aliquas poenas peccatorum, 
+      mi<lb ed="#H" n="5" break="no"/>serturum esse omnium, etiam daemoniorum, &amp; eos donaturum 
+      ae<lb ed="#H" n="6" break="no"/>terna vita. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e823">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Haec de subiectis misericordiae Dei. 
+      <lb ed="#H" n="8"/>Si adjuncta requiras, est primo misericordia Dei libera, sic ut Deus 
+      <lb ed="#H" n="9"/>illam exerceat in quem vult; &amp; quando vult, sicut dicitur Rom. 9. 18. 
+      <lb ed="#H" n="10"/>Deus cujus vult miseretur. Rom. 11. 30. 31. sicut &amp; vos quondam non 
+      <lb ed="#H" n="11"/>paruistis Deo, nunc autem estis misericordiam consequuti per istorum 
+      <lb ed="#H" n="12"/>contumaciam: Sic &amp; isti nunc non paruerunt, ut per vestram misericor 
+      <lb ed="#H" n="13"/>diam &amp; ipsi misericordiam consequantur: Similiter 1. Pet. 2. 10. Qui 
+      <lb ed="#H" n="14"/>quondam eratis, non populus, nunc estis populus Dei: qui non 
+      consequu<lb ed="#H" n="15" break="no"/>ti miseri cordiam, nunc estis misericordiam consecuti. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e847">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Secundo est misericordia Dei perpetua durans in omnes aetates, sic  
+      <lb ed="#H" n="17"/>ut Virgo Maria mater Domini canit in suo hymno, Luc. 1. vers. 50. 
+      <lb ed="#H" n="18"/>Cujus misericordia parata est timentibus ipsum in omnes aetates. Psal 
+      <lb ed="#H" n="19"/>25. 6. Recordare miserationum tuarum Iehova, &amp; benignitatum tuarum 
+      <lb ed="#H" n="20"/>eas a ecuo esse. Ita etiam misericordia, quam Deus declarat erga 
+      dia<lb ed="#H" n="21" break="no"/>bolos &amp; homines damnatos, quatenus eos mitius punit, quam suis 
+      <lb ed="#H" n="22"/>sceleribus promeriti sint, finem non habet, sed est aeterna. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e867">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Tertio ejus semper Deus memor est, Luc. 1. 54. Suscepit Israelem 
+      <lb ed="#H" n="24"/>puerum suum ut memor esset misericordiae, 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e876">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Quario est misericordia Dei abundantissima, &amp; tam ampla ut 
+      a<lb ed="#H" n="26" break="no"/>nobis aut verbis explicari, aut etiam animo comprehendi non 
+      que<lb ed="#H" n="27" break="no"/>at, sicut Eph. 2. v. 4 dicitur Deus dives esse misericordia. 1. Petr. 1. v. 3. 
+      <lb ed="#H" n="28"/>ex multa: ua misericord a regenuit nos 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e889">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Quinio misericordia Dei quam remittuntur peccata, exposita est 
+      <lb ed="#H" n="30"/>nobis tantisper dum hic vivimus: at post mortem nullus ei locus 
+      re<lb ed="#H" n="31" break="no"/>linquitur quia ubi non est locus fidei &amp; resipiscentiae, ibi etiam nullus 
+      <lb ed="#H" n="32"/>est locus misericordiae: Atqui tantum in hac vita, non autem 
+      pos<lb ed="#H" n="33" break="no"/>mortem locus est fidei &amp; resipiscentiae, sicut Christus dicit Apocal. 
+      <lb ed="#H" n="34"/>v. 10. Esto fidelis usque ad mortem, &amp; dabo tibi coronam vitae. 
+      Suffragan<lb ed="#H" n="35" break="no"/>tur orthodoxi Patres. Cyprianus in tractatu contra Demetrianum 
+      <lb ed="#H" n="36"/>sect. 22. pag. 33. edit. Gulartianae: Quando istinc excessum fuerit, 
+      nul<lb ed="#H" n="37" break="no"/>lus jam poenitentiae locus est, nullus satisfactionis effectus: hic vita 
+      au<lb ed="#H" n="38" break="no"/>amititur aut tenetur, hic saluti aeternae cultu Dei, &amp; fructu fidei 
+      provi<lb ed="#H" n="39" break="no"/>detur. Augustinus tom. 2. Epist. 80. ad Hesychium: In quo quemque. 
+      <lb ed="#H" n="40"/>invenerit suus novissimus dies: in hoc eum comprehendet mundi 
+      no<lb ed="#H" n="41" break="no"/>vissimus dies: quoniam qualis in die isto quisque moritur, talis in die 
+      illo<lb ed="#H" n="42" break="no"/>judicabitur. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e924">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Obycitur dictum Petri 1. Epist. cap. 3. ver. 19, 20. ubi dicitur quoo 
+      <lb ed="#H" n="44"/>Christus per Spiritum, etiam Spiritibus qui erant in carcere profectus 
+      <lb ed="#H" n="45"/>praedicarit, olim immorigeris, quum semel exspectabat Dei lenitas in die: 
+      <lb ed="#H" n="46"/>bus Noe, quum appararetur arca, in quae paucae (id est) octo animae 
+      ser<lb ed="#H" n="47" break="no"/>vatae sunt in arca. Hinc ita colligunt: Christus anima sua prefectus est, 
+      <lb ed="#H" n="48"/>in infernum ad praedicandum mortuis Evangelium ut credentes ex 
+      in<lb ed="#H" n="49" break="no"/>ferno secum educeret: Ergo etiam post mortem locus est misericordia. 
+      <lb ed="#H" n="50"/>DE, 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e947">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>RESP. Falsum est antecedens: Nec quicquam ad illud 
+      proban<lb ed="#H" n="52" break="no"/>dum facit dictum Petri. Prima ratio nostra est, quia non loquitur 
+      Pe<lb ed="#H" n="53" break="no"/>trus de anima Christi. Nam Spiritu, per quem Christus Spiritibus 
+      <lb ed="#H" n="54"/>praedicavit, est Christus vivificatus: Atqui anima Christus non est vi 
+      <lb ed="#H" n="55"/>vificatus, id est, virtute animae non est ex mortuis resuscitatus, sed vi 
+      <lb ed="#H" n="56"/>Deitatis aeternae, (quia vivificatio seu resuscitatio corporis Christi 
+      ex<lb ed="#H" n="57" break="no"/>mortuis fuit opus Deitatis ipsius;) Ergo anima non est ille Spiritus, 
+      <lb ed="#H" n="58"/>er quem Christus spiritibus praedicavit 
+      <lb ed="#H" n="59"/>Bellarminus lib. 4. de Christi anima cap. 13. duo excipit ad hanc 
+      ra<lb ed="#H" n="60" break="no"/>tionem: Unum est, quod vivificatus in loco Petri sit idem quod non oc. 
+      <lb ed="#H" n="61"/>cisus, vivus manens &amp; operans, ac triumphans de inferno: &amp; ait, 
+      pas<lb ed="#H" n="62" break="no"/>sim in Scriptura dici vivificari id, quod non occiditur: adducitque tria 
+      <lb ed="#H" n="63"/>loca, nempe 1. Reg. 27. v. 11, virum &amp; mulierem non vivificabat 
+      Da<lb ed="#H" n="64" break="no"/>vid, id est, non relinquebat vivum: Et 2. Regum 8. dicitur David 
+      ex<lb ed="#H" n="65" break="no"/>tendisse duos funiculos super Moab, unum ad occidendum, unum ad 
+      vi<lb ed="#H" n="66" break="no"/>vificandum, id est, definivisse, quot ex Moabitis vellet occidi, quot 
+      ser<lb ed="#H" n="67" break="no"/>vari Et Actor. 7. Afflixit Patres nostros ut exponerent infantes suos no 
+      <lb ed="#H" n="68"/>vivificarentur, id est, ut non viverent, sed occiderentur ad unum omnes. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e991">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>RESP. Primus locus 1. Regum seu (ut Hebraea veritas haber  
+      <lb ed="#H" n="70"/>1. Samuelis 27. v. 11, citatus rectius vertitur, marem autem vel 
+      foemi<lb ed="#H" n="71" break="no"/>nam non conservabat vivam: sic ut non sit necesse usurpare verbum 
+      <lb ed="#H" n="72"/>vivificandi quod proprie significat mortuis vel corporaliter vel 
+      spiri<lb ed="#H" n="73" break="no"/>tualiter, vitam conferre. Verbum autem Hebraeum [sH Chijo 
+      <lb ed="#H" n="74"/>quod est conjugationis Pihel, homonymum est, &amp; alias significat 
+      vi<lb ed="#H" n="75" break="no"/>vificare, hoc est, mortuo vitam dare, alias significat in vita 
+      conserva<lb ed="#H" n="76" break="no"/>re, seu vivum servare Jam contextus requirit, ut verbum Hebraeum. 
+      <lb ed="#H" n="77"/>posteriore significato vertatur, non priore. Proinde ex usu verbi 
+      vivifi<lb ed="#H" n="78" break="no"/>candi in vulgata versione positi in loco Samuelis, non potest colligi 
+      <lb ed="#H" n="79"/>quod vox ζωοποιηθεις in loco Petri eadem significatione usurpetur: 
+      <lb ed="#H" n="80"/>quia ut dixi in loco Samuelis, non debet verti vivificare. Nec Graeci 
+      <lb ed="#H" n="81"/>interpretes Veteris Testamenti, verbo eo sunt usi quo Petrus, sed a 
+      <lb ed="#H" n="82"/>lio: nam Graeca versio sic habet: κι αυδρα κι γυναημα σσκ εζωγονησε  
+      <lb ed="#H" n="83"/>Proinde locus libri Samuclis perperam confertur cum loco 
+      Petri<lb ed="#H" n="84" break="no"/>Praeterea etiamsi Graeca versio haberet, μι αυθρα κι γυναημα σσκ εζω
+      o<lb ed="#H" n="85" break="no"/>ποιήσε, ut ita vulgata Latina etiam habere posset, vivificabat: tamen 
+      <lb ed="#H" n="86"/>ex hoc loco non posset everti nostra interpretatio. Qualis enim est 
+      <lb ed="#H" n="87"/>haec consequentia, 1. Samuelis 27. vivificare significat vivum 
+      relin<lb ed="#H" n="88" break="no"/>quere: Ergo etiam 1. Petri 3. vers. 19. vivificatus idem est quod vivus 
+      <lb ed="#H" n="89"/>relictus: Nam ut haec consequentia valeat, necesse est horum duorum 
+      <lb ed="#H" n="90"/>ocorum esse analogiam &amp; convenientiam, ut uterque agat de re &amp; 
+      <lb ed="#H" n="91"/>persona eadem. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1046">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>Secundus locus petitus est ex 2. Regum seu potius Samuel. 8. vers.  
+      <!--cod-MkL9py-0203.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>2. in quo iterum male versum est in vulgata Latina versione verbum 
+      <lb ed="#H" n="94"/>Hebraeum DPPP) lechajjoth, ad vivificandum: nam verti debet ad 
+      <lb ed="#H" n="95"/>conservandum in vita. Quapropter etiam in Graeca versione non 
+      est<lb ed="#H" n="96" break="no"/>verbum ζωοποιειν: sic enim illa habet, μι τα δυο χοινίσμαζα ιζαγοησαν.  
+      <lb ed="#H" n="97"/>ζαρριω autem significat vivum capio, a caede conservo, vitae alicujus 
+      <lb ed="#H" n="98"/>parco in bello: quo verbo eadem significatione etiam utuntur 
+      Ho<lb ed="#H" n="99" break="no"/>merus, Thucydides &amp; alii Graeci: verbum autem ζωοποιισίν, quod id 
+      <lb ed="#H" n="100"/>Novo Testamento usurpatur, in omnibus omnino locis Novi 
+      Te<lb ed="#H" n="101" break="no"/>stamenti, nullo excepto, significat vitam dare seu conferre antea morn 
+      <lb ed="#H" n="102"/>tuo five corporaliter sive spiritualiter. Praeterea nulla est 
+      convenien<lb ed="#H" n="103" break="no"/>tia loci 2. Regum seu Sam. 8. cum loco Petri: ideo ex illo hujus 
+      in<lb ed="#H" n="104" break="no"/>terpretatio peti nequit. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1083">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Tertius locus ex Actor. 7. v. 19. nihil etiam ad propositum facit: 
+      <lb ed="#H" n="106"/>Nam in textu Graeco non est idem verbum quo Petrus utitur. Sic 
+      e<lb ed="#H" n="107" break="no"/>nim in Actis habetur, εἰς τό μη ζωογονεισαι: non debet igitur verti, ut 
+      <lb ed="#H" n="108"/>est in vulgata, ne vivificarentur, sed ne sobolescerent, id est, ne 
+      cresce<lb ed="#H" n="109" break="no"/>rent, genus suum propagaturi &amp; aucturi¬ 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1099">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Si refutata est prima exceptio 
+      <lb ed="#H" n="111"/>Secunda exceptio Bellarmini est: Spiritum in hoc Petri loco non 
+      si<lb ed="#H" n="112" break="no"/>gnificare Deitatem, sed animam Christi: idque duobus argumentis niti 
+      <lb ed="#H" n="113"/>tur probare: primum est, quia Spiritus hic distinguitur contra carnem, 
+      <lb ed="#H" n="114"/>tanquam contra alteram partem ejusdem composit; 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1115">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>RESP. Syllogismus talis fuerit: 
+      <lb ed="#H" n="116"/>Ubi Spiritus opponitur carni, ibi significat animam: 
+      <lb ed="#H" n="117"/>Hoc loco Spiritus opponitur carni: 
+      <lb ed="#H" n="118"/>Ergo: &amp;c. 
+      <lb ed="#H" n="119"/>At propositio est duntaxat particularis: afferri enim possunt 
+      instan<lb ed="#H" n="120" break="no"/>tiae locupletissimae, ut Roman. 1. v. 4. ubi Christus dicitur factus ex 
+      se<lb ed="#H" n="121" break="no"/>mine Davidis secundum carnem, &amp; declavatus Filius Dei potenter se 
+      <lb ed="#H" n="122"/>cundum Spiritum sanctificationis. 1. Tim. 3. v.16. Deus conspicuus 
+      fa<lb ed="#H" n="123" break="no"/>ctus est in carne, justificatus est in Spiritu. In his dictis spiritus 
+      oppo<lb ed="#H" n="124" break="no"/>nitur carni: sed certe non animam Christi significat, verum 
+      Deita<lb ed="#H" n="125" break="no"/>tem. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1145">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>Secundum argumentum est: quia hic dicitur Christus Spiritu 
+      pro<lb ed="#H" n="127" break="no"/>fectus praedicasse, ubi illud (profectus) notat mutationem personae de loc. 
+      <lb ed="#H" n="128"/>ad locum., 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1156">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>RESP. Talis Syllogismus fuerit: 
+      <lb ed="#H" n="130"/>Anima est Christus profectus: 
+      <lb ed="#H" n="131"/>Spiritu est Christus profectus: 
+      <lb ed="#H" n="132"/>Ergo Spiritus est anima 
+      <lb ed="#H" n="133"/>At hoc est ἀπυλλογιςον: quia affirmate concluditur in secunda 
+      fi<lb ed="#H" n="134" break="no"/>gura. Deinde in eo quod addit, illud (profectus) notare mutationem 
+      <lb ed="#H" n="135"/>persorae de loco ad locum, duolicem ertorem gravissimum admittit 
+      <lb ed="#H" n="136"/>Primus est, quod animam Christi personam facit, actiones enim sunt 
+      <lb ed="#H" n="137"/>suppositorum: Secundus est, quod ei tribuit mutationem ut personae 
+      <lb ed="#H" n="138"/>corporeae, cum certum sit animam loco non citcumscribi, sed 
+      substan<lb ed="#H" n="139" break="no"/>tiae proprietate definiri, quemadmodum aliae spirituales naturae 
+      crea<lb ed="#H" n="140" break="no"/>tae; sicut de illis Didymus Alexandrinus ait, in libro de Spiritu Si 
+      <lb ed="#H" n="141"/>Etsi non circumscribantur loco &amp; finibus invisibiles creaturae; tamen 
+      <lb ed="#H" n="142"/>proprietate substantiae finiuntur.  
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1191">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Ita defendimus primam nostram rationem, qua ostendimus ex 
+      di<lb ed="#H" n="144" break="no"/>cto Petri colligi non posse, Christum anima sua in infernum ad 
+      prae<lb ed="#H" n="145" break="no"/>dicandum mortuis Evangelium descendisse 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1202">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>Secunda ratio est: quia Petrus non dicit, Christum Spiritu 
+      profe<lb ed="#H" n="147" break="no"/>ctum esse ad inferos. Verba illa (ad inferos) Papistae de suo addunt.  
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1211">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Excipiunt Papistae: Si spiritus illi quibus praedicavit Christus, erant 
+      <lb ed="#H" n="149"/>in carcere, hoc est, in inferno, tum corte in infernum ad eos est profectus. 
+      <lb ed="#H" n="150"/>Prius est: Ergo &amp; posterius. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1222">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>RESP. Primo citatur antecedens ex falsa versione. Graecus enim 
+      <lb ed="#H" n="152"/>textus sic habet: ἐν δκι τυις ἐν φυλακῆ ποουμασι ωοσυδεις εκήρυον.  
+      <lb ed="#H" n="153"/>Verti igitur debet de verbo ad verbum: in quo &amp; spiritibus qui in 
+      <lb ed="#H" n="154"/>parcere, profectus praedicavit. Vulgata versio addit erant: cum potius 
+      <lb ed="#H" n="155"/>subintelligendum sit verbum praesens sunt; idque propter hanc 
+      ratio<lb ed="#H" n="156" break="no"/>nem: Qui in hac vita praedicationi verbi Dei immorigeri fuerunt, i 
+      <lb ed="#H" n="157"/>post obitum sunt &amp; manent in inferno, nec ex eo liberantur: quia in 
+      <lb ed="#H" n="158"/>inferno nulla est redemtio; sicut Christus ait Johan. 3. v. 36. Qui non 
+      <lb ed="#H" n="159"/>obtemperat Filio, non videbit vitam, sed ira Dei manet super eum. 
+      At<lb ed="#H" n="160" break="no"/>piritus isti in hac vita praedicationi verbi Dei immorigeri fuerunt: 
+      <lb ed="#H" n="161"/>Ergo post obitum sunt &amp; manent in inferno. Papistae autem afferam 
+      <lb ed="#H" n="162"/>solidam rationem, cur potius sit subintelligendum verbum temporis 
+      <lb ed="#H" n="163"/>praeteriti imperfecti erant: &amp; probent homines immorigeros 
+      redi<lb ed="#H" n="164" break="no"/>mi post obitum ex inferno. Secundo falsum est Christum in carcere. 
+      <lb ed="#H" n="165"/>hoc est, in inferno praedicasse: nam Petrus non docet Christum in 
+      <lb ed="#H" n="166"/>carcere seu inferno praedicasse, sed spiritus olim immorigeros 
+      Chri<lb ed="#H" n="167" break="no"/>sto, nunc in carcere esse, quibus spiritibus profectus, hoc est, 
+      descen<lb ed="#H" n="168" break="no"/>dens e coelo, praedicavit in diebus Noe quum semel exspectavit Dei 
+      <lb ed="#H" n="169"/>lenitas resipiscentiam ipsorum. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1269">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Hactenus quintum adiunctum. 
+      <lb ed="#H" n="171"/>Sexto, misericordia est a Deo petenda exemplo Danielis, Dan. 2. 
+      <lb ed="#H" n="172"/>18. exemplo item Davidis Psal. 30. v. 12. Tu Iehova ne cohibeas 
+      mise<lb ed="#H" n="173" break="no"/>rationes tuas a me: benignitas tua &amp; veritas tua jugiter custodiant,  
+      <lb ed="#H" n="174"/>me. Habac. 3. 2. In ira misericordiae recordare, 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1285">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>Explicata sunt hactenus etiam adiuncta miseri¬ 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1292">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>cordiae Dei: sequuntur nuno 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1299">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>dissentanea. 
+      <lb ed="#H" n="178"/>Misericordiae Dei repugnant merita humana &amp; se mutuo tollunt  
+      <lb ed="#H" n="179"/>Namsi salus obtingit ex inisericordia: non igitur ex nostris meritis: 
+      <lb ed="#H" n="180"/>quod docet Apostolus Tit. 3. v. 5. Non ex operibus justis quae fecerimus 
+      <!--cod-MkL9py-0204.xml-->
+      <pb ed="#H" n="177"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>fios, sed ex sua misericordia servavit nos. Sin vero ex meritis nostris 
+      ser<lb ed="#H" n="2" break="no"/>vamur: non igitur ex misericordia 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1323">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Contra Bellarminus tertio tomo libro 5. de Iustificatione cap. 5. duo 
+      <lb ed="#H" n="4"/>excipit ad dictum Pauli jam allegatum. Primo Aposteluam loqui de 
+      sa<lb ed="#H" n="5" break="no"/>lute inchoata, quae habetur in hac vita per gratiam justificationis &amp; 
+      re<lb ed="#H" n="6" break="no"/>generationis, non de salute perfecta, quae reposita est nobis in coelis: aitque 
+      <lb ed="#H" n="7"/>quod non contendant, salutem inchoatam, hoc est, justificationem 
+      habe<lb ed="#H" n="8" break="no"/>ri per merita, sed gratis eam donari gratissime confiteantur. Secuudo 
+      <lb ed="#H" n="9"/>excipit Apostolum loqui de justitia &amp; operibus, quae fidem &amp; gratiam 
+      <lb ed="#H" n="10"/>Dei praecedunt, nam ideo illa fidei &amp; gratiae opponi: &amp; profitetur quod  
+      <lb ed="#H" n="11"/>istam justitiam &amp; opera ipsi quoque despiciant, &amp; merita vitae aeternae non  
+      <lb ed="#H" n="12"/>esse concedant. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1349">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>RESP. Quod ad primam exceptionem attinet, duo sunt ejus 
+      <lb ed="#H" n="14"/>grandia vitia. Primo enim falsum est, Paulum loqui duntaxat de 
+      salu<lb ed="#H" n="15" break="no"/>te inchoata quae habetur in hac vita per gratiam justificationis &amp; 
+      re<lb ed="#H" n="16" break="no"/>generationis, non etiam de salute perfecta, quae reposita est nobis in 
+      <lb ed="#H" n="17"/>coelis. Nam salus unica est numero, non multiplex, etsi principium 
+      <lb ed="#H" n="18"/>habeat in hac vita complementum autem sit habitura in futura 
+      vita<lb ed="#H" n="19" break="no"/>non igitur est causa alia inchoatae, alia completae salutis, sed una &amp; 
+      ea<lb ed="#H" n="20" break="no"/>dem. Impossipile enim est rei unius numero esse duas causas adversas 
+      <lb ed="#H" n="21"/>&amp; se mutuo destruentes. Quid? quod repugnat exceptio Bellarmini 
+      <lb ed="#H" n="22"/>Paulo docenti, vitam aeternam esse donum Dei, Roman. 6. v. 23. repus 
+      <lb ed="#H" n="23"/>gnat Christo docenti, regnum paratum a jacto mundi fundamento,; 
+      <lb ed="#H" n="24"/>haereditatis jure possidendum, Matth. 25. 34? Tum si principium 
+      <lb ed="#H" n="25"/>duntaxat adscribendum est misericordiae Dei, complementum vero 
+      <lb ed="#H" n="26"/>salutis nostris meritis, major laus tribuetur nostris meritis quam 
+      mi<lb ed="#H" n="27" break="no"/>sericordiae divinae. Praeterea dissentit Bellarminus in dicti istius 
+      inter<lb ed="#H" n="28" break="no"/>retatione ab aliis interpretibus, quos Romana Ecclesia approbat.  
+      <lb ed="#H" n="29"/>Nam Nicolaus Lyranus hunc Pauli locum non de inchoata 
+      solum<lb ed="#H" n="30" break="no"/>modo, sed de tota salute accipit. Salus aeterna (ait Lyranus in sua 
+      expo<lb ed="#H" n="31" break="no"/>sitione) excedit totaliter facultatem naturae humanae: propter quod non I 
+      <lb ed="#H" n="32"/>potest eam attingere, nisi ex largitate divinae misericordiae. Thomas 
+      ve<lb ed="#H" n="33" break="no"/>ro Aquinas in explanatione hujus loci sic scribit: Cum Apostolus 
+      di<lb ed="#H" n="34" break="no"/>cit, non ex operibus, &amp;c. ponit rationem salvandi: Et primo excluditus. 
+      <lb ed="#H" n="35"/>ratio praesumta: secundo ostenditur ratio vera. Ratio praesumta est, quod 
+      <lb ed="#H" n="36"/>propter merita nostra simus salvati, quod excludit cum dicit: non ex 
+      o<lb ed="#H" n="37" break="no"/>peribus, &amp;c. Roman. 11. Reliquiae secundum electionem gratiae Dei 
+      sal<lb ed="#H" n="38" break="no"/>vae factae sunt. Deuteron. 9, non propter justitias tuas &amp; aequitates cordis. 
+      <lb ed="#H" n="39"/>tui ingredieris, ut possideas terram eorum. Sed vera ratio est sola misera 
+      <lb ed="#H" n="40"/>tio Dei. Unde dicit, sed secundum suam misericordiam, Thren.3 
+      Miseri<lb ed="#H" n="41" break="no"/>cordiae Domini, quod non sumus consumti. Luc. 1. Et misericordia ejus a 
+      <lb ed="#H" n="42"/>progenie in progeniem. Sic prima exceptio Bellarmini repugnat 
+      expres<lb ed="#H" n="43" break="no"/>sae Scripturae, repugnat rationibus ex Scriptura depromtis, repugnat 
+      <lb ed="#H" n="44"/>sententiae magistrorum &amp; sociorum ipsius. Deinde quod primae ex 
+      <lb ed="#H" n="45"/>ceptioni adjungit, se non contendere, salutem inchoatam, id est, 
+      justi<lb ed="#H" n="46" break="no"/>ficationem haberi per merita: in eo a Romanae Ecclesiae doctrina 
+      <lb ed="#H" n="47"/>aperte discedit. Quid enim aliud Papistae semper contenderunt, quam 
+      <lb ed="#H" n="48"/>propter merita sua hominem coram Deo justificari? id lippis &amp; 
+      ton<lb ed="#H" n="49" break="no"/>soribus notum est, 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1435">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Quod ad secundam exceptionem attinet, gravia itidem sunt ejus 
+      <lb ed="#H" n="51"/>peccata. Primo enim falsum est, Apostolum loqui de justitia &amp; 
+      operi<lb ed="#H" n="52" break="no"/>bus quae fidem &amp; gratiam Dei praecedunt: nam illa non sunt bona 
+      <lb ed="#H" n="53"/>opera, sed omnia non renatorum opera sunt peccata &amp; Deo 
+      displi<lb ed="#H" n="54" break="no"/>cent; quia quicquid ex fide non est, peccatum est, Rom. 14. v. 23. 
+      Fieri<lb ed="#H" n="55" break="no"/>non potest ut sine fide quisquam Deo placeat, Hebr 11. vers. 6. Hoc 
+      <lb ed="#H" n="56"/>ipsum Origenes docuit in commentariis in epistolam ad Romanos 
+      <lb ed="#H" n="57"/>subi opera infidelium ut impia &amp; Deo displicentia damnat, &amp; ad eam 
+      <lb ed="#H" n="58"/>rem allegat Psal. 109. testimonium, ubi dicitur vers. 6. Oratio ejus 
+      fia<lb ed="#H" n="59" break="no"/>in peccatum. Anselmus Cantuar: ensis Archiepiscopus ad caput 14. 
+      epi<lb ed="#H" n="60" break="no"/>stolae Paulinae ad Romanos sic scripsit: Omnis infidelium vita 
+      pecca<lb ed="#H" n="61" break="no"/>tum est, nihilque bonum est sine sunmmo bono. Ubi enim deest agnitio ater 
+      <lb ed="#H" n="62"/>nae &amp; incommutabilis veritatis, falsa virtus est, etiam in optimis moribus 
+      <lb ed="#H" n="63"/>Quin etiam adversatur Bellarmino Glossa ordinatia interlinearis in 
+      <lb ed="#H" n="64"/>hunc Pauli locum: Nam ad illa verba, Non ex operibus justitiae quae 
+      <lb ed="#H" n="65"/>fecimus nos, addit Glossa, quoniam nulla bona feceramus nos. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1474">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Secundum peccatum exceptionis secundae est, quod ait Bellarmin. 
+      ju<lb ed="#H" n="67" break="no"/>stitiam illam &amp; opera quae fidem &amp; gratiam praecedunt ab 
+      Apostolo<lb ed="#H" n="68" break="no"/>excludi: quia ideo fidei &amp; gratiae opponuntur. Atqui nulla justitia, 
+      <lb ed="#H" n="69"/>nulla opera bona sunt ante fidem &amp; gratiam, ut ex paulo ante dictis 
+      <lb ed="#H" n="70"/>liquet: Ergo etiam fidei &amp; gratiae non opponuntur. Quod non est, 
+      <lb ed="#H" n="71"/>mulli opponi potest. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1492">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Tertium exceptionis secundae peccatum est, quod profitetur 
+      Bellar<lb ed="#H" n="73" break="no"/>minus, se quoque istam justitiam &amp; opera quae fidem &amp; gratiam 
+      an<lb ed="#H" n="74" break="no"/>recedunt despicere. Atqui alibi pro illis operibus pugnat, tanquam  
+      <lb ed="#H" n="75"/>pro aris &amp; focis, refutans nos qui docemus, omnia opera 
+      justificatio<lb ed="#H" n="76" break="no"/>nem &amp; regenerationem praecedentia esse peccata. Ita a seipso dissidet.  
+      <lb ed="#H" n="77"/>Quin etiam discedit a quintae sessionis Concilii Tridentini Canone 
+      <lb ed="#H" n="78"/>septimo, qui ita habet: Si quis dixerit, opera quae ante justificationem 
+      <lb ed="#H" n="79"/>fiunt, quacunque ratione facta sunt, vere esse peccata, vel odium Dei 
+      me<lb ed="#H" n="80" break="no"/>reri, Anathema sit. Ita Patres Synodi Anathema dicunt ei, qui opera 
+      <lb ed="#H" n="81"/>ante justificationem facta dicunt esse vere peccata &amp; odium Dei 
+      me<lb ed="#H" n="82" break="no"/>reri. At Bellarminus dicit se cum suo sodalitio opera illa despicere. 
+      <lb ed="#H" n="83"/>quae si bona sunt, viderit quo jure illa Jesuitae despiciant, &amp; quomodo 
+      <lb ed="#H" n="84"/>ab anathemate Synodi Tridentinae se liberent. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1525">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>Hactenus exceptio Bellarmini: Argumenta vero, quibus conatur  
+      <lb ed="#H" n="86"/>probare, misericordiam Dei non touere merita operum humanorum, 
+      <lb ed="#H" n="87"/>habet eodem lib. 5. de Justificatione cap. 5. Ea complectemur formis 
+      <lb ed="#H" n="88"/>Syllogisticis 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1538">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>PRIMVM 
+      <lb ed="#H" n="90"/>Quicquid ex misericordia datur, illud misericordiam non tollit : 
+      <!--cod-MkL9py-0204.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>Merita nostra ex misericordia Dei dartur: 
+      <lb ed="#H" n="92"/>Ergo misericordiam Dei non tollunt 
+      <lb ed="#H" n="93"/>Assumtio probatur ex 105., epistola Augustini. 
+      <lb ed="#H" n="94"/>RESP. Primo propositio majer est ambigua. Nam si 
+      intelliga<lb ed="#H" n="95" break="no"/>tur quod dona Dei ex misericordia collata non tollant Dei 
+      miseri<lb ed="#H" n="96" break="no"/>cordiam; sicut effectum non tollit causam, vera est: at si intelligatur  
+      <lb ed="#H" n="97"/>quod quando donis Dei tribuitur id, quod proprie est misericordiae 
+      <lb ed="#H" n="98"/>Dei, quod, inquam, misericordia non tollatur, est falsa. Quia vero 
+      po<lb ed="#H" n="99" break="no"/>steriore sensu eam in hac disputatione necesse est accipi, (nam 
+      prio<lb ed="#H" n="100" break="no"/>ad rem non facit) ideo falsam esse propositionem asserimus. Secundi. 
+      <lb ed="#H" n="101"/>assumtio ejusdemque probatio catechresin habent. Nam nostra 
+      bo<lb ed="#H" n="102" break="no"/>na opera improprie certe merita vocantur, quibus nimirum a Deo 
+      <lb ed="#H" n="103"/>premia debeantur. Quicquid enim pro debito exigitur, meritum non 
+      <lb ed="#H" n="104"/>est: quicquid autem bonorum operum facimus, id totum pro debito 
+      <lb ed="#H" n="105"/>exigitur; teste Christo Luc. 17. 10. Cum feceritis omnia quae praecepto 
+      <lb ed="#H" n="106"/>cunt vobis, dicite, servi inutiles sumus: nam quod debuimus facere; 
+      se<lb ed="#H" n="107" break="no"/>cimus: Nullum ergo operum gostrorum meritum est. Quod si nulla 
+      <lb ed="#H" n="108"/>habeamus merita proprie loquendo, tum neque illa nobis ex 
+      miseri<lb ed="#H" n="109" break="no"/>cordia Dei dantur. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1593">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Si replicetur, veteres Patres bona opera merita appellasse: 
+      Respon<lb ed="#H" n="111" break="no"/>leo, nec omnes Patres ita vocasse, nec eo sensu quo Papistae. 
+      Chryso<lb ed="#H" n="112" break="no"/>stomus enim homilia 33. in Genesin sic scribit: Nestra si quae 
+      sequun<lb ed="#H" n="113" break="no"/>tur Dei gratuitam vocationem opera, retributio sunt &amp; debitum. Qui  
+      <lb ed="#H" n="114"/>vero ex Patribus meriti nomine usi sunt, officium intellexerunt: sic 
+      <lb ed="#H" n="115"/>ut meritum Latinis est vel quodvis officium, quod alii praestatur, 
+      <lb ed="#H" n="116"/>quemadmodum homines alii de aliis bene mereri dicuntur, officia 
+      <lb ed="#H" n="117"/>grata atque utilia illis exhibendo: vel beneficium, sicut Cicero 
+      loqui<lb ed="#H" n="118" break="no"/>tur Epist. 2. Tanta magnitudo est tuorum erga me meritorum, hoc 
+      <lb ed="#H" n="119"/>est, beneficiorum: sicut etiam idem Cicero beneficium a diis 
+      tribu<lb ed="#H" n="120" break="no"/>tum vocat meritum: Supplicatio, inquit, diis immortalibus pro 
+      singu<lb ed="#H" n="121" break="no"/>lari eorum merito meo nomine decreta est. Merita ergo Patres 
+      voca<lb ed="#H" n="122" break="no"/>runt officia vel opera quae praestare tenemur, non autem quibr. a Deo  
+      <lb ed="#H" n="123"/>praemia debeantur. Sic enim ait Augustinus de praedestinatione 
+      San<lb ed="#H" n="124" break="no"/>ctorum: Humana merita hic conticescant, quae perierunt per Adam: 
+      ca<lb ed="#H" n="125" break="no"/>&amp; regnet Dei gratia per Iesum Christum. Et in Psal. 139. Meritis suiss 
+      <lb ed="#H" n="126"/>nihil tribuunt Sancti, totum non nisi misericordiae tuae tribuent o Deus. 
+      <lb ed="#H" n="127"/>Unde ipsimet Patres negarunt, merita humana cum misericordia 
+      <lb ed="#H" n="128"/>Dei subsistere posse. Sic enim Ambrosius de Vocatione gentium 
+      ca<lb ed="#H" n="129" break="no"/>pite quinto ait: Vilesceret redemtio sanguinis Christi, nec misericordiae. 
+      <lb ed="#H" n="130"/>Dei humanorum operum praerogativa succumberet, si justificatio quae sit 
+      <lb ed="#H" n="131"/>per gratiam, meritis praecedentibus deberetur, ut non munus largientis 
+      <lb ed="#H" n="132"/>sed merces esset operantis. Sic Bernardus super Cantica. Sermone 
+      sexa<lb ed="#H" n="133" break="no"/>gesimo-septimo: Non est quo gratia intret, ubi jam meritum occupa 
+      <lb ed="#H" n="134"/>vit. Et mox: Deest gratiae, quicquid meritis deputas. Nolo meritum, 
+      <lb ed="#H" n="135"/>quod gratiam excludat  
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1655">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>SECVNDVM argumentum Bel¬ 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1662">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>larmini. 
+      <lb ed="#H" n="138"/>Si in ipsa coronatione, quae merces est meriti, est etiam misericordia 
+      ne<lb ed="#H" n="139" break="no"/>cessaria, quae peccata venialia remittat, sine quibus nulli vivunt &amp; 
+      <lb ed="#H" n="140"/>pauci vitam hanc finiunt: tum merita non tollunt misericordiam: 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1675">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Verum est antecedens: Ergo &amp; consequens. 
+      <lb ed="#H" n="142"/>RESP. Assumtum multis erroribus scatet. Primus est, 
+      corona<lb ed="#H" n="143" break="no"/>tionem esse mercedem meriti: secundus, quod merito accepta fertur 
+      <lb ed="#H" n="144"/>coronatio, at misericordiae Dei tantum peccatorum venia ium 
+      re<lb ed="#H" n="145" break="no"/>missio: Tertius, peccata quaedam sua natura venialia esse. At principio 
+      <lb ed="#H" n="146"/>coronationem non esse mercedem meriti, humiliter fateri nos 
+      neces<lb ed="#H" n="147" break="no"/>se est; quia coronatio proficiscitur ex dono Dei, dicente Paulo Rom. 
+      <lb ed="#H" n="148"/>5. v. 23. Stipendium peccati, mors: donum autem Dei est vita aterna in 
+      <lb ed="#H" n="149"/>Christo Iesu Domino nostro. Quod autem ex dono est, illud ex merito 
+      <lb ed="#H" n="150"/>non est. Deinde quod merito accepta fertur coronatio, at 
+      misericor<lb ed="#H" n="151" break="no"/>diae Dei tantum venialium peccatorum remissio; error est, qui non 
+      <lb ed="#H" n="152"/>argumentis refutari eget sed extremam detestationem meretur. 
+      <lb ed="#H" n="153"/>Nam ex eo sequitur, meritum hominis praestantius esse Dei 
+      miseri<lb ed="#H" n="154" break="no"/>cordia; Cujus enim praestantiora sunt effecta, illud est praestantius: 
+      <lb ed="#H" n="155"/>Perfecta autem salus est praestantior, quam inchoata. Proinde 
+      meri<lb ed="#H" n="156" break="no"/>ta humana misericordiae Dei anteferre est intolerabilis blasphemias 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1714">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>Postremo nullum peccatum sua natura est veniale, sed omnia sunt 
+      <lb ed="#H" n="158"/>mortalia, hoc est, mortem aeternam merentur De omni enim 
+      pecca<lb ed="#H" n="159" break="no"/>to intelligitur quod Paulus pronunciat Roman. 6. v. 23. Scipendium 
+      <lb ed="#H" n="160"/>peccatimors: quod Deus pronunciat Ezech 18. vers. 20. Anima quae 
+      <lb ed="#H" n="161"/>peccat, ipsa morietur: quod Christus pronunciat Matth. 5. v. 19. Qui  
+      <lb ed="#H" n="162"/>transgressus fuerit unum ex mandatis istis minimis, &amp; docuerit sic 
+      ho<lb ed="#H" n="163" break="no"/>mines, nullus habebitur in regno coelorum. Omne peccatum est 
+      adver<lb ed="#H" n="164" break="no"/>sus Dei voluntatem rebellio, quae ejus iram necessario provocat: 
+      O<lb ed="#H" n="165" break="no"/>mne peccatum est Legis praevaricatio, in quam edictum est sine ex 
+      <lb ed="#H" n="166"/>ceptione Dei judicium: Maledictus omnis qui non permanserit in 
+      o<lb ed="#H" n="167" break="no"/>mnibus, INOMNIBUS, inquam, quae scripta sunt in libro Legis, ut  
+      <lb ed="#H" n="168"/>faciat ea, Gal. 3. 10. Deuteron. 27. v. 26. Omne peccatum est divina 
+      <lb ed="#H" n="169"/>majestatis &amp; summi boni violatio: Quis igitur neget morte dignum 
+      <lb ed="#H" n="170"/>esse, nisi qui hypocrisin in corde fovet, &amp; seipse blandimentis ad sem¬ 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1749">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>piternum exitium mulcet? In aestimandis peccatis, inquit Augustinus 
+      <lb ed="#H" n="172"/>libro secundo de Baptismo contra Donatistas, cap. 6. non afferamus. 
+      <lb ed="#H" n="173"/>stateras dolosas, ubi appendamus quod volumus &amp; quomodo volumus 
+      <lb ed="#H" n="174"/>pro arbitrio nustro dicentes, hoc grave, hoc levo est: sed afferamus 
+      state<lb ed="#H" n="175" break="no"/>ram divinam de Scripturis Sanctis, tanquam de thesauris Dominicis, 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1765">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/> in illa quid sit gravius appendamus: imo non appendamus, sed &amp; 
+      <lb ed="#H" n="177"/>Domino appensa recognoscamus, 
+      <!--cod-MkL9py-0205.xml-->
+      <pb ed="#H" n="178"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Cum igitur assumtum propter tam crassos errores repudiandum 
+      <lb ed="#H" n="2"/>sit: conclusionem etiam rejici necesse est. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1786">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>TERTIVM argumentum Bellarmini. 
+      <lb ed="#H" n="4"/>Quod debitum est bonis meritis Sanctorum, id merita non tollit: 
+      <lb ed="#H" n="5"/>Misericordia Dei debita est bonis meritis Sanctorum: 
+      <lb ed="#H" n="6"/>Ergo merita non tollit.  
+      <lb ed="#H" n="7"/>Aslumtio probatur: quia in judicio misericordia non tam donatur: 
+      <lb ed="#H" n="8"/>quam redditur, ut dici possit justa misericordia, quoniam justo judicio 
+      <lb ed="#H" n="9"/>redditur. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1806">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>RESP. Assumtio est falsa: quia primo, si misericordia est, debita 
+      <lb ed="#H" n="11"/>non est, sed gratuita i si debita est, misericordia non est. Deinde si 
+      nul<lb ed="#H" n="12" break="no"/>la sunt sanctorum merita, nihil eis debetur: nam negata universaliter 
+      <lb ed="#H" n="13"/>causa, negatur effectus: Atqui nulla esse Sanctorum merita proprie 
+      <lb ed="#H" n="14"/>d cta, nullus negabit, nisi quem ambitio &amp; amor sui contra 
+      miseri<lb ed="#H" n="15" break="no"/>cordiam Dei extollit &amp; inflatum reddit. Probatio assumtionis τὸ ex 
+      <lb ed="#H" n="16"/>δρχι λαμζανει. Quis enim piorum dixerit, misericordiam non dona 
+      <lb ed="#H" n="17"/>tia Deo, sed reddi: quis prior dedit ei &amp; reddetur ei? Nam ex eo, &amp; 
+      po<lb ed="#H" n="18" break="no"/>eum, &amp; in ipsum sunt omnia, ait Paulus Roman. 11. vers. 35, 36. Rect. 
+      <lb ed="#H" n="19"/>pronunciat Augustinus libro quarto ad Bonifacium, cap. quarto: 
+      Sic<lb ed="#H" n="20" break="no"/>ut solus Filius Dei factus est Filius hominis, ut nos secum filios Dei 
+      fa<lb ed="#H" n="21" break="no"/>ceret: ita pro nobis solus suscepit sine malis meritis poenam, ut nos per 
+      <lb ed="#H" n="22"/>ipsum sine bonis meritis consequeremur indebitam gratiam 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1839">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>QVARTVM argumentum Bellarmini. 
+      <lb ed="#H" n="24"/>Quae concurrunt, eorum unum alterum non tollit  
+      <lb ed="#H" n="25"/>Misericordia Dei &amp; merita humana concurrunt. 
+      <lb ed="#H" n="26"/>Ergo misericordia Dei, humana merita non tollit.  
+      <lb ed="#H" n="27"/>Assumtio obscura est ea sic a Bellarmino declaratur: comitatur 
+      mi<lb ed="#H" n="28" break="no"/>sericordia coronam gloriae, sed non est ipsa corona gloriae. Corona enim 
+      re<lb ed="#H" n="29" break="no"/>spicit bona merita, misericordia respicit peccata venialia, quae remissione I 
+      <lb ed="#H" n="30"/>delenda sunt. Sicut enim ex parte hominis duo sunt, bona merita, &amp; 
+      pec<lb ed="#H" n="31" break="no"/>cata venialia, quorum unum non destruit alterum: ita ex parte 
+      DE<lb ed="#H" n="32" break="no"/>duo sunt, corona gloriae tanquam merces meriti, &amp; misericordia tanqua 
+      <lb ed="#H" n="33"/>medicina peccati, &amp; horum etiam duorum unum non impedit aliud. 
+      <lb ed="#H" n="34"/>Nam si remissio illa nullo modo debita esset, sed omnino gratuita, posset 
+      <lb ed="#H" n="35"/>quidem Deus non remittere peccata illa venialia, sed tamen nec punire 
+      <lb ed="#H" n="36"/>posset, nisi temporaria poena, cum illa peccata majorem poenam justo 
+      ju<lb ed="#H" n="37" break="no"/>dicio non mereantur. Soluta vero in igne purgatorio illa poena, bona 
+      me<lb ed="#H" n="38" break="no"/>rita justo judicio coronam justitiae, nulla re jam impediente, perciperent 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1878">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>RESPONDEO primum ad propositionem: Quae concurrunt. 
+      <lb ed="#H" n="40"/>scilicet amice, non hostiliter; corum unum alterum non tollit. Deinde 
+      <lb ed="#H" n="41"/>ad assumtionem: Misericordia Dei &amp; hominum merita concurrunt. 
+      <lb ed="#H" n="42"/>verum non amice, sed hostiliter: Proinde se mutuo evertunt &amp; de 
+      <lb ed="#H" n="43"/>struunt. Tertio declaratio assumtionis erroribus multis tanquam 
+      pu<lb ed="#H" n="44" break="no"/>tridis ulceribus scatet.  
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1896">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Primus error est, quod misericordia coronam gloriae comitetur. 
+      <lb ed="#H" n="46"/>Atqui cum misericordia sit coronae gloriae causa, necesse est ut 
+      proce<lb ed="#H" n="47" break="no"/>dat, non comitetur coronam gloriae. Manet enim firmum, quod A 
+      <lb ed="#H" n="48"/>postolus ait Tit, 3. vers. 5. Non ex operibus justis quae fecerimus nos, sed  
+      <lb ed="#H" n="49"/>ex sua misericordia servavit nos. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1912">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Secundus error est, coronam respicere bona merita. Atqui nulla 
+      <lb ed="#H" n="51"/>sunt operum nostrorum merita proprie loquendo: proinde nec illa 
+      <lb ed="#H" n="52"/>coronantur. Quum bona opera nostra remunerat Deus, non merita 
+      <lb ed="#H" n="53"/>nostra, sed sua dona coronat, ait August. homil. decima-quarta, item 
+      <lb ed="#H" n="54"/>quinquagesima 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1929">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Tertius error est, esse peccata sua natura venialia, quae misericordia 
+      <lb ed="#H" n="56"/>respiciat: hunc paulo ante refutavimus 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1938">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Quartus error est, quod ex hominis parte duo sint, bona merita &amp; 
+      <lb ed="#H" n="58"/>peccata venialia, quorum unum non destruat alterum. Atqui ne 
+      uni<lb ed="#H" n="59" break="no"/>cum quidem est bonum hominis meritum, cum quicquid boni facit, 
+      <lb ed="#H" n="60"/>sit debitum, imo sit munus Dei gratuitum. Deinde ubi peccata sunt,  
+      <lb ed="#H" n="61"/>merita locum non habent. Sic enim pronunciat Dominus Ezech. 16. 
+      <lb ed="#H" n="62"/>vers. 24. Omnia juste facta ejus quae fecerit non commemorabuntus 
+      <lb ed="#H" n="63"/>propter praevaricationem qua praevaricatur, &amp; propter peccatum ipsius 
+      <lb ed="#H" n="64"/>quo peccat, propter haec morietur. Imo ubi vel unicum peccatum est, 
+      <lb ed="#H" n="65"/>nulla jam justitia est, quia tota lex violata est: Quisquis enim tetam. 
+      <lb ed="#H" n="66"/>legem servaverit, impegerit autem in uno, omnibus tenetur, ait Jacobus 
+      <lb ed="#H" n="67"/>cap. 2. v. 10. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1967">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Quintus error est, quod corona gloriae sit merces meriti: hic su 
+      <lb ed="#H" n="69"/>pra refutatus. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1976">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>Sextus error est, quod Bellarminus coronam gloriae, non fert 
+      acce<lb ed="#H" n="71" break="no"/>ptam misericordiae Dei, sed tantum remissionem peccatorum venia. 
+      <lb ed="#H" n="72"/>lium: atque ita misericordiam Dei humanis meritis longissime post. 
+      <lb ed="#H" n="73"/>ponit, quae blasphemia est sempiterno igne digna 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e1989">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Septimus error est, quod remissionem peccatorum praesupponit 
+      a<lb ed="#H" n="75" break="no"/>liquo modo esse debitam, ac non omnino gratuitam. At sancti, cum 
+      <lb ed="#H" n="76"/>remissionem peccatorum a Deo petiverunt, non ut debitam, sed ut 
+      <lb ed="#H" n="77"/>ex misericordia proficiscentem petiverunt. Sic enim David Psal. 25. 
+      <lb ed="#H" n="78"/>v. 6, 7. Recordare miserationum tuarum Iehova &amp; benignitatum 
+      tua<lb ed="#H" n="79" break="no"/>rum: eas a seculo esse. Peccatorum pueritiae meae &amp; defectionum 
+      mea<lb ed="#H" n="80" break="no"/>rum ne recorderis: pro benignitate tua recordare mei tiu, propter 
+      bonita<lb ed="#H" n="81" break="no"/>tem tuam Iehova. Et Psal. 51. v. 3. Gratiam fac mihi, o Deus, secundum 
+      <lb ed="#H" n="82"/>amplitudinem miserationum tuarum, dele defectiones meus 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2013">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Octavus error est, quod fiugit, aliqua peccata in judicio ultimo de 
+      <lb ed="#H" n="84"/>mum remissum iri. Atqui in hac vita est tempus remissionis: post. 
+      <lb ed="#H" n="85"/>hanc vitam vero judicit: 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2025">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Nonus error est, quod Deus peccata quaedam, quae venialia 
+      appel<lb ed="#H" n="87" break="no"/>lat, punire non possit nisi temporaria poena. Atqui quodvis peccatum  
+      <lb ed="#H" n="88"/>aeternam mortem meretur, ut ante probavimus. 
+      <lb ed="#H" n="89"/>Decimus error est, quod peccata illa, majorem poenam justo 
+      judi<lb ed="#H" n="90" break="no"/>cio non mereantur. Atqui hoc est ex reo Judicem se constituere, &amp; de 
+      <!--cod-MkL9py-0205.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>suis peccatis pro suo arbitrio pronunciare. Aliter judicat Deus 
+      justis<lb ed="#H" n="92" break="no"/>simus mundi Judex, qui maledictioni subjicit omnem qui non 
+      per<lb ed="#H" n="93" break="no"/>manserit in omnibus quae scripta sunt in libro Legis, ut faciat ea 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2051">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>Undecimus error est, quod sit ignis purgatorius, in quem animae 
+      <lb ed="#H" n="95"/>morientium ingrediantur. At nos ex verbo Dei didicimus quod 
+      ani<lb ed="#H" n="96" break="no"/>mae morientium vel in coelum ab Angelis deportentur, vel ad inferos 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2062">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>Daemonibus abripiantur: locum tertium Scriptura non novit: 
+      <lb ed="#H" n="98"/>Duodecimus error est, quod in igne purgatorio solvantur poena 
+      <lb ed="#H" n="99"/>temporales pro venialibus peccatis. At nos credimus Christum 
+      om<lb ed="#H" n="100" break="no"/>nes poenas peccatis nostris debitas persolvisse: proinde in ejus solius 
+      <lb ed="#H" n="101"/>satisfactione acquiescimus. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2078">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Decimus: tertius error est, quod soluta in igne purgatorio illa 
+      poe<lb ed="#H" n="103" break="no"/>na, bona merita justo judicio coronam justitiae, nulla re jam 
+      impedi<lb ed="#H" n="104" break="no"/>ente, sint perceptura. At nos coronam gloriae ex mera misericordia 
+      <lb ed="#H" n="105"/>propter CHRISTIsolius meritum exspectamus 
+      <lb ed="#H" n="106"/>Tam multorum errorum foecunda fuit Bellarminiana assumtionis. 
+      <lb ed="#H" n="107"/>declavatio 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2096">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>Concludimus igitur; Misericordiam Dei cum meritis humanis 
+      con<lb ed="#H" n="109" break="no"/>sistere non posse, δωο εδιει υωοασσίσαμ  
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2105">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Sic fuit prima Thesis de misericordiae Dei dissentaneis. 
+      <lb ed="#H" n="111"/>II. Misericordia Dei nunquam fuit, neque unquam erit vaga &amp; 
+      <lb ed="#H" n="112"/>fortuita. Proinde nemo sive ex Cajinitis, sive ex aliis vaga &amp; fortuita 
+      <lb ed="#H" n="113"/>misericordia Dei servatus fuit, 2. Timoth. 1. vers. 9. Qui servavit nos 
+      <lb ed="#H" n="114"/>&amp; vocavit vocatione sua: non ex operibus notris sed ex suo proposito. 
+      <lb ed="#H" n="115"/>&amp; gratia, quae data est quidem nobis in Christo Iesu ante tempora 
+      secu<lb ed="#H" n="116" break="no"/>lorum, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2126">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Hactenus de dissentaneis misericordiae Dei 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2133">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>sequuntur. 
+      <lb ed="#H" n="119"/>COMPARATA. Misericordia Dei est amplior, quam vindi 
+      <lb ed="#H" n="120"/>cta: nam misericordiam Deus in mille generationes extendit, 
+      vin<lb ed="#H" n="121" break="no"/>dictae duntaxat quatuor generationes assignat, Exod. 20. vers. 5, 6. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2146">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>VSVS. 
+      <lb ed="#H" n="123"/>Fines seu usus misericordiae divinae sunt multiplices. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2155">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>USUS in διδασκαλίαᾳ. 
+      <lb ed="#H" n="125"/>Primo. Deus amplissima dona in nos confert: quia est misericors, 
+      <lb ed="#H" n="126"/>es. 63. 7. Amplitudinem bonitatis contulit domut Israelis secundum 
+      <lb ed="#H" n="127"/>misericordiam suam. Ephes. 2. v. 4, 5, 6. Sed Deus, ut qui dives sit 
+      mise<lb ed="#H" n="128" break="no"/>ricordia, propter multam charitatem suam qua dilexit nos, Etiam nos 
+      <lb ed="#H" n="129"/>quum in offensis mortui essemus, una vivificavit cum Christo, cujus 
+      <lb ed="#H" n="130"/>gratia estis servati: Vnaque suscitavit, unaque collocavit in coelis in 
+      Chri<lb ed="#H" n="131" break="no"/>sto Iesu 1. Pet. 1. vers. 3. Benedictus esto Deus &amp; Pater Domini nostri 
+      Ie<lb ed="#H" n="132" break="no"/>su Christi, qui ex multa sua misericordia regenuit nos in spem vivam 
+      <lb ed="#H" n="133"/>per resurrecttonem Iesu Christi ex mortuis. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2181">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Secundo. Deus est misericors: Ergo etiam alios homines, &amp; 
+      in<lb ed="#H" n="135" break="no"/>primis Reges &amp; Principes &amp; Magistratus flectit ad misericordiam 
+      <lb ed="#H" n="136"/>erga pios, Jerem. 42. 12. Praestabo vobis misericordiam ut misereatur. 
+      <lb ed="#H" n="137"/>vestri, nimirum, Rex Babyloniae 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2194">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>ιλεγχος. 
+      <lb ed="#H" n="139"/>Consideratio misericordiae Dei facit ad frangendos insultus 
+      ten<lb ed="#H" n="140" break="no"/>tationum de desertione nostri: Deus est misericors: Non ergo 
+      dese<lb ed="#H" n="141" break="no"/>ret me. Hunc usum monstrat Nehem. cap. 9. 31. Propter miseratione 
+      <lb ed="#H" n="142"/>magnas non fecisti eorum consumtionem, neque dereliquisti eos: 
+      quid<lb ed="#H" n="143" break="no"/>Deus fortis, gratiosus &amp; misericors es. Hoc declaratur etiam 
+      ex<lb ed="#H" n="144" break="no"/>emplo Jobi, Jacob. 5. v. 11. Tolerantiam Iob audistis &amp; finem Domini 
+      <lb ed="#H" n="145"/>vidistis: nam abundat intima misericordia Dominus &amp; est 
+      misera<lb ed="#H" n="146" break="no"/>tor. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2219">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Eπανίρηωσις, 
+      <lb ed="#H" n="148"/>Facit eadem ad objurgationem eorum, qui misericordiam in 
+      pro<lb ed="#H" n="149" break="no"/>ximum non exercent, cum ipsis misericordia Dei a Deo contigerit. 
+      <lb ed="#H" n="150"/>Sic objurgatur malus servus, Matth. 18. 33. Nonne oportuit te misereri 
+      <lb ed="#H" n="151"/>conservi tui, ut &amp; ego tui misertus sum. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2235">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Πανδειαs. 
+      <lb ed="#H" n="153"/>Primo facit ad excitandos nos ad preces. Deus est misericors: Ergo 
+      <lb ed="#H" n="154"/>in calamitatibus invocandus. Sic David sese exstimulavit ad 
+      implo<lb ed="#H" n="155" break="no"/>tandam Dei opem, Psal. 86. vers. 14, 15,16. O Deus superbi insurgunt 
+      <lb ed="#H" n="156"/>contra me, &amp; coetus violentorum quaerunt vitam meam, qui non 
+      propo<lb ed="#H" n="157" break="no"/>nunt te sibi. Tu autem Domine Deus fortis, misericors &amp; gratiosus esx 
+      <lb ed="#H" n="158"/>longanimis &amp; multus benignitate &amp; fide. Respice ad me &amp; gratiam 
+      fac<lb ed="#H" n="159" break="no"/>mihi, da robur tuum servo tuo, &amp; serva filium ancillae tua 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2257">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Secundo facit ad excitandam &amp; confirmandam in nobis fiduciam 
+      <lb ed="#H" n="161"/>exauditionis: Unde orat David Psal. 25. v. 6, 7. Recordare 
+      miseratio<lb ed="#H" n="162" break="no"/>num tuarum, Iehova, &amp; benignitatum tuarum, eas a seculo esse. 
+      Pecca<lb ed="#H" n="163" break="no"/>torum pueritiae meae &amp; defectionum mearum ne recorderis. Et Psal. 5n 
+      <lb ed="#H" n="164"/>v. 3. secundum amplitudinem misericordiarum tuarum delo defectione. 
+      <lb ed="#H" n="165"/>meas. Psal. 69. v. 17. Secundum amplitudinem miserationum tuarum 
+      <lb ed="#H" n="166"/>respice ad me. Psal. 119. 156. Miserationes tuae amplae sunt Iehova, 
+      se<lb ed="#H" n="167" break="no"/>cundum judicia tua vivum conserva me. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2279">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Tertio facit ad impellendum nos ad imitationem Dei nostri. Deus 
+      <lb ed="#H" n="169"/>est misericors: Ergo &amp; nos misericordes esse decet. Hunc usum 
+      os<lb ed="#H" n="170" break="no"/>tendit Christus Luc. 6. 36. Estote misericordes, sicut &amp; Pater vester 
+      <lb ed="#H" n="171"/>misericors est. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2292">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Quarto facit ad nos exstimulandos ad conversionem &amp; pietatem 
+      <lb ed="#H" n="173"/>sinceram. Deus est misericors: Ergo convertamur ad eum. Sic 
+      ex<lb ed="#H" n="174" break="no"/>hortatur Joel cap. 2. v. 13. Revertimini ad lehovam Deum vestrum. 
+      <lb ed="#H" n="175"/>quia gratiosus &amp; misericors est. Rom. 12. 1. Adhortor igitur vos, fratres 
+      <lb ed="#H" n="176"/>per miserationes Dei, ut sistatis corpora vestra hostiam vivam, sanctam, 
+      <lb ed="#H" n="177"/>placentem Deo, rationalem illum cultum vestrum. 
+      <!--cod-MkL9py-0206.xml-->
+      <pb ed="#H" n="179"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Quinto facit ad excitandum nos ad celebrandum Deum. Deus est, 
+      <lb ed="#H" n="2"/>nisericors: laudandus igitur, Psal. 111. v. 4. Memoriam comparavit 
+      <lb ed="#H" n="3"/>mirabilibus suis, gratiosus &amp; misericors Iehova. Sic Psal. 145. v. 7, 8, 9. 
+      <lb ed="#H" n="4"/>Memoriam amplae bonitatis tuae eructent, &amp; iustitiam tuam cantent 
+      <lb ed="#H" n="5"/>Gratiosum &amp; misericordem Iehovam esse, longanimem &amp; magnum 
+      be<lb ed="#H" n="6" break="no"/>nignitate. Bonum esse Iehovam omnibus, &amp; misericordiam eius in 
+      om<lb ed="#H" n="7" break="no"/>nibus operibus eius. Luc. 1. vers. 50. Maria mater Domini hoc 
+      argu<lb ed="#H" n="8" break="no"/>mento laudat Dominum: Cuius misericordia in omnes aetates parata. 
+      <lb ed="#H" n="9"/>est timentibus ipsum. Rom. 15. v. 9. Vt gentes pro misericordia 
+      glorifi<lb ed="#H" n="10" break="no"/>cent Deum: sicut scriptum est, propterea celebrabo te intergentes, &amp; 
+      no<lb ed="#H" n="11" break="no"/>mini tuo psallam. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2340">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Sexto facit ad praestandum Deo obsequium in suscipienda 
+      castiga<lb ed="#H" n="13" break="no"/>tione cum patientia, sicut David dixit Gadi Prophetae, 2. Sam. 24. 14. 
+      <lb ed="#H" n="14"/>Angustia est mihi valde: incidamus quaeso in manum Iehovae, nan 
+      <lb ed="#H" n="15"/>magnae sunt miserationes cius, in manum autem hominis ne cadam. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2354">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>ΠαραXλσεις. 
+      <lb ed="#H" n="17"/>Facit ad consolationem adversus tentationes gravissimas de 
+      ma<lb ed="#H" n="18" break="no"/>gnitudine peccati. Deus est misericors: Ergo remittit tibi peccata 
+      tua<lb ed="#H" n="19" break="no"/>quantumvis maxima, nec te propter illa deseret aut perdet: major &amp; 
+      <lb ed="#H" n="20"/>potentior est Dei misericordia, quam peccatum: major est Dei 
+      mi<lb ed="#H" n="21" break="no"/>sericordia, quam totius mundi miseria. Hanc consolationem 
+      tradi<lb ed="#H" n="22" break="no"/>scriptura Deut. 4. v. 31. Quandoquide Iehova Deus tuus est, Deus fortis, 
+      <lb ed="#H" n="23"/>misericors, non deseret, neque perdet te, neque obliviscetur federis matorum 
+      <lb ed="#H" n="24"/>tuorum, quod juramento sancivit illis. Psal. 78. v. 38. Ille misericors 
+      ex<lb ed="#H" n="25" break="no"/>piabat iniquitatem ita ut non perderet, &amp; plurimum avertebat iram sui 
+      <lb ed="#H" n="26"/>am, neque excitabat totum aestum suum. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2383">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Eadem misericordia Dei consolatur nos adversus hominum sui 
+      <lb ed="#H" n="28"/>perborum &amp; violentorum immisericordiam: sicut sese David sola; 
+      <lb ed="#H" n="29"/>tur, Psalm. 86. 14, 15. O Deus superbi insurgunt contra me, &amp; coetus 
+      vi<lb ed="#H" n="30" break="no"/>plentorum quaerunt vitam meam, qui no proponunt te sibi. Tu autem 
+      <lb ed="#H" n="31"/>Domine Deus fortis, misericors &amp; gratiojus es, longanimis &amp; multus 
+      <lb ed="#H" n="32"/>benignitate ac fide. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2401">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Insuper facit ad consolationem in omnibus afflictionibus. Nam 
+      <lb ed="#H" n="34"/>cum Deus sit misericors, avertet afflictiones quibus juste nos 
+      casti<lb ed="#H" n="35" break="no"/>gat. Ista consglatio exstat, Psal. 103. 8, 9. Misericors &amp; gratiosus 
+      Ieho<lb ed="#H" n="36" break="no"/>va, longanimis &amp; multus benignitate. Non in aeternum litigat, neque in 
+      <lb ed="#H" n="37"/>seculum iram asservat. Jesaiae 54. v. 7. Ad momentum parvum dereli 
+      <lb ed="#H" n="38"/>queram te, sed miserationibus magnis congregabo te: Et vers. 10. 
+      Beni<lb ed="#H" n="39" break="no"/>gnitas mea a te non recedet, &amp; fedus pacis meae non dimovebitur, ait 
+      mi<lb ed="#H" n="40" break="no"/>serator tuus Iehova. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2423">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>Consolatur denique adversus mortem ipsam. Nam cum 
+      miseri<lb ed="#H" n="42" break="no"/>cordia Dei sit aeterna, ne quidem in morte ipsa nos destituet, sed tum 
+      <lb ed="#H" n="43"/>abundantissime explicabitur, remissis nobis peccatis omnibus &amp; 
+      li<lb ed="#H" n="44" break="no"/>beratis nobis ab omni miseria. 
+      </p>
+            <p xml:id="yyy8Uu-e82510-d1e2436">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Hactenus de misericordia DEI: sequitur de 
+      <lb ed="#H" n="46"/>eius patientia. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

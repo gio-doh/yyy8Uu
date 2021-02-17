@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="272"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e30753"> <!-- l5-c8 -->
+            <head xml:id="yyy8Uu-e30753-Hd1e109">Caput 8</head>
+            <p xml:id="yyy8Uu-e30753-d1e112">
+               <lb ed="#H" n="140"/>CAPUT IIX. 
+      <lb ed="#H" n="141"/>In quo de caelo supremo. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e119">
+               <lb ed="#H" n="142"/>Hactenus communiter de eMundo quo nomine intelli¬ 
+      <lb ed="#H" n="143"/>guntur omnes creaturae coniunctim.
+    </p>
+            <p xml:id="yyy8Uu-e30753-d1e126">
+               <lb ed="#H" n="144"/>TREATURAE deinceps distincte nobis considerandae. Etsi enim 
+      <lb ed="#H" n="145"/>singulas mundi partes per se Deus uno momento creavit, ut 
+      <lb ed="#H" n="146"/>Cqui solo nutu fecerit quod voluit: tamen totum mundum siv 
+      <lb ed="#H" n="147"/>omnes creaturas conjunctas, non uno moento creavit, sed sex dieb. 
+      <lb ed="#H" n="148"/>absolvit: unde &amp; opera sex dierum appellantur, seu opificium sex 
+      die<lb ed="#H" n="149" break="no"/>rum. Hexaemeron Graecis dictum 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e143">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>OPERA CREATIONIS PRIMI DIEI fuerunt, caei &amp; Angeli: 
+      <lb ed="#H" n="151"/>principia interna corporum naturalium cum accidentibus illorum 
+      <lb ed="#H" n="152"/>inseparabilibus, loco, tempore finita &amp; motu: lux primigenia atque sic. 
+      <lb ed="#H" n="153"/>clementi ignis separatio ab aliis elementis: nox &amp; die¬ 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e156">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>De caelis ut recte agatur, primo de voce videndum, deinde de rei 
+      <lb ed="#H" n="155"/>psa. Vox caeli duplici significatione in Scriptura Sacra usurpatur: 
+      ve<lb ed="#H" n="156" break="no"/>proprie vel tropice. Proprie significat totum corpus illud quod a super  
+      <lb ed="#H" n="157"/>ficie terrae ad extima usque summi caeli culmina extenditur: quam 
+      signi<lb ed="#H" n="158" break="no"/>ficatione accipitur Gen. 2. v. 1. Perfecti sunt caelis &amp; cap. 24. 3. ubi 
+      Jeho<lb ed="#H" n="159" break="no"/>va Deus caeli appellatur 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e174">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Tropice dupliciter usurpatur vel metonymice vel Synecdochice. Me 
+      <lb ed="#H" n="161"/>tonymice quatuor modis capitur vel pro Deo possessore caeli: vel pro 
+      <lb ed="#H" n="162"/>aliis incolis caeli: vel pro Ecclesia Dei adhuc in terris militante: 
+      ve<lb ed="#H" n="163" break="no"/>pro nubibus aliisque meteoris Pro Deo caeli possessore capitur 
+      Dan<lb ed="#H" n="164" break="no"/>4. 26 ubi Propheta Daniel dicit ad Nebucadnetzarem: Regnum tui 
+      <lb ed="#H" n="165"/>tibi stabile erit, ex quo agnoveris, caelos dominari, id est, Deum qui 
+      do<lb ed="#H" n="166" break="no"/>minus &amp; possessor est caeli. Sic Matth. 21. v 25. ubi interrogat 
+      Chri<lb ed="#H" n="167" break="no"/>stus primatios sacerdotes &amp; seniores populi Judaici de baptismo 
+      Jo<lb ed="#H" n="168" break="no"/>hannis, e caelo ne fuerit, an ex hominibus? Item cum filius perditus 
+      di<lb ed="#H" n="169" break="no"/>cit Luc 15. v. 18, 21. Peccavi in caelum, id est, in Deum ipsum qui est 
+      in<lb ed="#H" n="170" break="no"/>caelo. Joh. 3. 27. Homo non potest sibi sumere quicquam nisi fuerit ei 
+      da<lb ed="#H" n="171" break="no"/>tum e caelo. Pro aliis incolis caeli, nimirum sanctis Angelis &amp; spiritibus 
+      <lb ed="#H" n="172"/>beatis accipitur Job. 15. v. 15. En; sanctis suis non crediturus esset 
+      firmi<lb ed="#H" n="173" break="no"/>tatem &amp; caeli non sunt mundi in oculis ejus: caeli, id est, caelites seu 
+      inco<lb ed="#H" n="174" break="no"/>lae caeli. Sic Ps. 89. 6. Celebrant caeli mirabile opus tuum, id est, caelites: 
+      <lb ed="#H" n="175"/>item Psal. 69. 35. Laudabunt eum cael 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e213">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Per caelum in erdum intelligitur Ecclesia Dei in his terris milita; 
+      <lb ed="#H" n="177"/>quia illius ortus e caelo &amp; πολετουμα locusque triumphi &amp; 
+      habita<lb ed="#H" n="178" break="no"/>tionis post absolutam militiam &amp; obtentam victoriam in 
+      caelo<lb ed="#H" n="179" break="no"/>est: ut Dan. 8. vers. 10. cornu parvum magnificavit se contra exercitum 
+      <lb ed="#H" n="180"/>caeli, id est, Antiochus Epiphanes persequutus est coetum fidelem 
+      <lb ed="#H" n="181"/>Ecclesiae Dei. Eodem significato accipitur vox caeli Apocal. 9. vers.  
+      <lb ed="#H" n="182"/>Et vidi stellam e caelo cecidisse in terram, cui data est clavu putei abyssit 
+      <!--cod-MkL9py-0300.xml-->
+      <pb ed="#H" n="273"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Stella ista e caelo cadens est primarius quidam Episcopus qui a 
+      ve<lb ed="#H" n="2" break="no"/>ri Christi Ecclesia discessit &amp; terrenus factus est doctrina ac vita. 
+      <lb ed="#H" n="3"/>Et cap. 12 vers. 7 Et factum est praelium in caelo Michael &amp; Angeli 
+      e<lb ed="#H" n="4" break="no"/>jus praeliabaretur cum dracone, &amp; draeco pugnabat &amp; angeli ejus Et Jes. 
+      <lb ed="#H" n="5"/>65. vers. 17. Ecce ego creaturus sum caelos novos. &amp; cap. 66. vers 22. 
+      <lb ed="#H" n="6"/>Quemadmodum caeli illi novi &amp; terra ipsa nova quam ego facturus 
+      <lb ed="#H" n="7"/>sum, constituta sunt coram me, dictum Iehovae, ita constitutum est 
+      <lb ed="#H" n="8"/>semen vestrum, &amp; nomen vestrum. Luc. 10. v. 18. Spectabam Satanam, 
+      <lb ed="#H" n="9"/>ut fulgur e caelo cadentem, id est, ex Ecclesia Dei &amp; cordibus electorum 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e259">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>ejectum profligatumque.  
+      <lb ed="#H" n="11"/>Eadem voce itidem per metonymiam intelliguntur quandoque 
+      <lb ed="#H" n="12"/>nubes &amp; alia meteora, ut quum Deus dicit Levit. 26. v. 19. reddam 
+      <lb ed="#H" n="13"/>caelum vestrum tanquam ferrum, id est, nubes ita solidabo ut non 
+      stil<lb ed="#H" n="14" break="no"/>lent pluviam ad foecundandam terram. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e275">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Per Synecdochen vero totius pro parte, usurpatur in sacris literis 
+      <lb ed="#H" n="16"/>interdum pro summa, alta ac gloriosa habitatione Dei, ut Marc. 16. 
+      <lb ed="#H" n="17"/>v.19. Dominus igitur postquam loquutus fuisset eis, sursum receptus est 
+      <lb ed="#H" n="18"/>in caelum: Interdum pro corpore illo in quo stellae sunt collocatae, ut 
+      <lb ed="#H" n="19"/>Psal. 19. 7. Ab extremitate caelorum exortus Solis: Interdum pro aëre, 
+      <lb ed="#H" n="20"/>ut quum dicuntur volucres caeli Gen. 1. v. 26. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e294">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>In praesentia intelligimus caelum tum supremum, tum sidereum: 
+      <lb ed="#H" n="22"/>quod utrumque primo die a Deo creatum est. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e303">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Ac ut de reipsa agatur, de caelo supremo quaeritur, unde ejus cognitio 
+      <lb ed="#H" n="24"/>habeatur? &amp; qualis illa cognitio sit? an sit caelum tale? quid sit? quibus 
+      <lb ed="#H" n="25"/>nominibus appelletur? an sit creatum? an sit in loco? quantum &amp; quale 
+      <lb ed="#H" n="26"/>sit? an extra illud Deus sit? quem nobis usum praestet ejus cognitio? 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e316">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Cognitio supremi caeli aliunde haberi non potest, quam ex verbo 
+      <lb ed="#H" n="28"/>Dei, seu ex sola revelatione divina, quae jam in sacris literis 
+      contine<lb ed="#H" n="29" break="no"/>tur: ac proinde cognitio illius non est naturalis. Caelum enim 
+      supre<lb ed="#H" n="30" break="no"/>mum dum in hac vita versamur, nulli nostro subjectum est sensui, 
+      <lb ed="#H" n="31"/>unde naturalis cognitio initium sumit: neque ratione naturali 
+      per<lb ed="#H" n="32" break="no"/>cipitur; quum nullus ejus effectus, unde tanquam a posteriori in 
+      e<lb ed="#H" n="33" break="no"/>jus cognitionem perduci queamus, ad nos usque pertingat. Non 
+      <lb ed="#H" n="34"/>prodest ad indagationem ejus Geometria &amp; Arithmetica: non 
+      O<lb ed="#H" n="35" break="no"/>ptice, non observationes, non hypotheses ullae: non Physica, quum 
+      <lb ed="#H" n="36"/>caelestia corpora ex solo motu aspectuve deprehendantur; 
+      cae<lb ed="#H" n="37" break="no"/>lum autem supremum immobile sit, nullum motum sibi 
+      ven<lb ed="#H" n="38" break="no"/>dicans, neque sub aspectum nostrum cadens. Nihil igitur de eo 
+      <lb ed="#H" n="39"/>scit humana Philosophia: maxime quum Aristoteles in libris de 
+      cae<lb ed="#H" n="40" break="no"/>lo &amp; mundo probet, extra caelum stelliferum, nullum esse corpus aut 
+      <lb ed="#H" n="41"/>locum. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e353">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Caelum supremum, quod ab aere &amp; caelo stellato distinctum est, 
+      <lb ed="#H" n="43"/>revera esse, Scriptura Sacra testatur. Nam Paulus Apostolus ait 
+      <lb ed="#H" n="44"/>2. Corinth.3 vers 2. se raptum in tertium usque caelum: &amp; Ephes. 4. 
+      <lb ed="#H" n="45"/>vers. 10 dicit, Christum adscendisse longe supra omnes caelos, nimirum 
+      <lb ed="#H" n="46"/>hosce adspectabiles caelos, aerem &amp; caelum stellatum. Plura 
+      testimo<lb ed="#H" n="47" break="no"/>nia hic non addo, quia in sequentibus allegabuntur: sed definitionem 
+      <lb ed="#H" n="48"/>ejus subjicio. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e373">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>CAELUM SUPREMUM, est expansum, extimum illum 
+      hu<lb ed="#H" n="50" break="no"/>jus universitatis ambitum circumplectens, gloriosissimum Dei, 
+      <lb ed="#H" n="51"/>sanctorum Angelorum &amp; hominum beatorum habitaculum. 
+      <lb ed="#H" n="52"/>Huc pertinet quo dicitur Psalm. 113. vers. 5. Quis est par Iehovae Deo 
+      <lb ed="#H" n="53"/>nostro, qui in altissimis habitat? Deuteron. 26. vers 15. Prospice ex 
+      <lb ed="#H" n="54"/>habitaculo sanctitatis tuae e caelis: &amp; 1. Reg. 7. vers. 30, Auscultes in 
+      lo<lb ed="#H" n="55" break="no"/>co habitationis tuae in caelis. Matth. 18. vers. 10. Videte ne contemnatis 
+      <lb ed="#H" n="56"/>aliquem ex parvis istis: dico enim vobis, Angelos eorum in caelis per omne 
+      <lb ed="#H" n="57"/>tempus intueri faciem Patris mei qui in calis est. Johan. 14. versic. 
+      <lb ed="#H" n="58"/>2,3. In domo Patris mei habitationes multae sunt: alioqui dixissem 
+      vo<lb ed="#H" n="59" break="no"/>bis: Proficiscor paraturus vobis locum: &amp; quum profectus fuero &amp; 
+      para<lb ed="#H" n="60" break="no"/>vero vobis locum, rursum veniam, &amp; assumam vos ad meipsum: ut ubi 
+      <lb ed="#H" n="61"/>vero vobis locum, rursum veniam, &amp; assumam vos ad meipsum: ut ubi 
+      <lb ed="#H" n="62"/>ego ero, &amp; vos sitis. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e408">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>NOMINA habet multa, quae vel expresse exstant in 
+      Scriptu<lb ed="#H" n="64" break="no"/>ra Sacra, vel ex ea deducuntur: in Scriptura expresse duplicia 
+      no<lb ed="#H" n="65" break="no"/>nina ejus occurrunt, propria &amp; tropica. Prioris generis sunt, 
+      ter<lb ed="#H" n="66" break="no"/>tium caelum, caelum caelorum, templum Dei. Tertium caelum 
+      nomina<lb ed="#H" n="67" break="no"/>ur I. Corinth. 12. v. 2. respectu duorum aliorum, nempe caeli 
+      stel<lb ed="#H" n="68" break="no"/>lati &amp; aeris. Caelum caelorum nuncupatur Deuteron. 10. versic. 14. 
+      <lb ed="#H" n="69"/>&amp; I. Reg 8. vers. 27. Psalm. 115. vers. 16. quia sublimius est caeteris 
+      <lb ed="#H" n="70"/>caelis. Templum Dei dicitur Psal. 11.4. &amp; 18.7. quia e caelo Deus omnia 
+      <lb ed="#H" n="71"/>tuetur &amp; videt. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e433">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Tropica nomina illius plura occutrunt: eaque vel 
+      metonymi<lb ed="#H" n="73" break="no"/>ca vel metaphorica, vel Synecdochica. Metonymice vocatur 
+      Para<lb ed="#H" n="74" break="no"/>disus, Lucae 23. vers. 42. 2. Corinth. 12. v. 4. Ierusalem quae sursum est, 
+      <lb ed="#H" n="75"/>Galat. 4. vers. 26. Ierusalem caelestis Hebr. 12 vers. 22. mons Sion, 
+      ibi<lb ed="#H" n="76" break="no"/>dem. Sacrarium. Hebr. 9. versic 12. Christus ingressus est semel in 
+      Sa<lb ed="#H" n="77" break="no"/>crarium, &amp; capite 10. v. 9. Quum igitur, fratres, habeamus libertatem 
+      <lb ed="#H" n="78"/>ingrediendi Sacrarium per sanguinem Iesu. Nam Paradisus terrestris, 
+      <lb ed="#H" n="79"/>urbs Jerusalem, mons Sion, Sacrarium templi Jerosolymitani, 
+      fue<lb ed="#H" n="80" break="no"/>runt typi caeli supremi. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e457">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Metaphorica nomina supremi caeli sunt; domus Patris Christi, 
+      Jo<lb ed="#H" n="82" break="no"/>han. 14. 2. habitaculum sanctitatis Dei, Deuteron. 26 vers. 15 locus 
+      <lb ed="#H" n="83"/>habitationis Iehovae, Psal. 33 ver. 14. Sinus Abrahami, Luc. 16. vers 22. 
+      <lb ed="#H" n="84"/>Sic enim vocatur locus exoptatae quietis &amp; beatitudinis a Deo 
+      de<lb ed="#H" n="85" break="no"/>stinatus ac paratus Abrahamo patri credentium, &amp; omnibus illis 
+      <lb ed="#H" n="86"/>qui insistunt vestigiis fidei Abrahami. Similitudinis ratio est; 
+      Sic<lb ed="#H" n="87" break="no"/>ut filii laboribus diurnis fessi aut ex peregrinatione domum paternam 
+      <lb ed="#H" n="88"/>reversi veluti in sinum patris suscipiuntur ut quiescant: ita fideles, qui 
+      <lb ed="#H" n="89"/>vestigiis fidei Abrahami insistunt, post labores hujus aerumnosae vitae 
+      <lb ed="#H" n="90"/>&amp; peracta hujus vitae peregrinatione ab Angelis sanctis in caelum 
+      as<lb ed="#H" n="91" break="no"/>portantur &amp; velut in sinum ab Abrahamo suscipiuntur, dum in caelo 
+      <lb ed="#H" n="92"/>tanquam in tutissimo loco a laboribus suis quiescunt &amp; in veram 
+      pa<lb ed="#H" n="93" break="no"/>riam pervenerunt, ubi aeterna beatitudine &amp; praesentia Dei perfru¬ 
+      <!--cod-MkL9py-0300.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="94"/>untur. Sinus Abrahami est in caelo, ut patet ex Matth. 8 v. 11. quum 
+      <lb ed="#H" n="95"/>sit locus quietis, in quem sanctorum animae deveniunt: non autem 
+      <lb ed="#H" n="96"/>in inferno. Unde Augustinus ait epistola nonagesimanona, quae est 
+      <lb ed="#H" n="97"/>ad Evodium: Non utique sinus ille Abrahae, id est, secretae cujusdam 
+      quie<lb ed="#H" n="98" break="no"/>tis habitatio, aliqua pars inferorum esse credenda est: quanquam in his 
+      <lb ed="#H" n="99"/>ipsis tanti verbis magistri, ibi ait dixisse Abraam, inter nos &amp; vos chaos 
+      <lb ed="#H" n="100"/>magnum firmatum est, satis ut opinor appareat non esse quandam 
+      par<lb ed="#H" n="101" break="no"/>tem &amp; quasi membrum inferorum tantae illius felicitatis sinum. Chaos 
+      <lb ed="#H" n="102"/>enim magnum, quid est nisi quidam hiatus, multum ea separans, inter 
+      <lb ed="#H" n="103"/>quae non solum est, verum etiam firmatus est? 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e516">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Nominatur etiam civitas Dei viventis Heb. 12. 22 civitas illa 
+      ha<lb ed="#H" n="105" break="no"/>bens fundamenta, cujus artifex &amp; conditor est Deus Heb. 11. v. 10. 
+      <lb ed="#H" n="106"/>Dicitur &amp; patria respectu terrae in qua certe peregrini sumus &amp; 
+      ad<lb ed="#H" n="107" break="no"/>venae. Etsi enim in terris uniuscujusque patria dicitur in qua quis natus 
+      <lb ed="#H" n="108"/>est: tamen fidelib. alia ac potior est patria, nempe caelestis, sicut legitur 
+      <lb ed="#H" n="109"/>Heb. 11. v. 13, 14. Secundum fidem mortui sunt isti omnes, non adepti 
+      <lb ed="#H" n="110"/>promissa, sed eminus ea conspicati postquam ipsis fuissent persuasa, &amp; ea 
+      <lb ed="#H" n="111"/>amplexi fuissent, ac sese professi peregrinos &amp; advenas esse in terra. Nam 
+      <lb ed="#H" n="112"/>qui haec dicunt, palam ostendunt, se patriam quaerere. Quod si illius 
+      me<lb ed="#H" n="113" break="no"/>mores fuissent ex qua exierant, habere poterant tempus ad revertendum: 
+      <lb ed="#H" n="114"/>At qui potiorem expetunt, hoc est, caelestem: quapropter Deum non pudet 
+      <lb ed="#H" n="115"/>eorum id est, cognominari Deus eorum, paraverat enim eis urbem. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e547">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>Per Synecdochen caelum supremum nominari solet caelum 
+      simpli<lb ed="#H" n="117" break="no"/>citer &amp; absque additione, ad denotandam caeli illius excellentiam, ut  
+      <lb ed="#H" n="118"/>Acto. 3. v. 21. Quem oportet quidem caelum capiat usque tempora 
+      resti<lb ed="#H" n="119" break="no"/>tutionis omnium. Nominatur τὸ ὕψος, Altum, Excelsum, ob loci 
+      sub<lb ed="#H" n="120" break="no"/>limitatem. Luc. 24. 49. Eph. 4. 8. Item alta, ὕψιστα, altissima, excelsa; 
+      <lb ed="#H" n="121"/>Ps 7. v. 8 In altum revertere, Luc. 2. v. 14. Gloria in altissimis Deo. 
+      <lb ed="#H" n="122"/>Heb. 1. v. 3. Christus sedet ad dexteram majestatis illius in excelsissimis. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e567">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Haec &amp; similia nomina expresse in Scriptura Sacra exstant. Alia 
+      <lb ed="#H" n="124"/>nomina deducuntur bona consequentia ex Scriptura: ut cum 
+      appel<lb ed="#H" n="125" break="no"/>latur caelum supremum respectu aliorum caelorum qui inferiores sunt:  
+      <lb ed="#H" n="126"/>nam supra hunc visibilem mundum occupat summum locum: caelestes 
+      <lb ed="#H" n="127"/>sedes ab August. lib. 22. de Civitate Dei, cap. 4. caelum beatorum a 
+      <lb ed="#H" n="128"/>Theologis omnibus communiter: Caelum Empyreum aut Empyrium, 
+      <lb ed="#H" n="129"/>id est, igneum, eo quod admirabiliter sit lucidum, &amp; fulgidum, quia 
+      <lb ed="#H" n="130"/>1. Tim. 6. 15. legitur, quod Deus habitat lucem inaccessam. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e589">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>Tantum de nominibus supremi caeli.  
+      <lb ed="#H" n="132"/>Jam quaeritur, An caelum supremum seu beatorum sit Deus ipse? Sunt 
+      <lb ed="#H" n="133"/>qui contendunt, supra nonam sphaeram nullum aliud esse caelum, in 
+      <lb ed="#H" n="134"/>quo vel jam sit corpus Christi &amp; sancti Angeli ac beati spiritus 
+      ho<lb ed="#H" n="135" break="no"/>minum sanctorum, vel futuri sint homines post hanc vitam: ac 
+      pro<lb ed="#H" n="136" break="no"/>inde caelum illud in quo jam est Christus corpore suo &amp; in quo nos 
+      <lb ed="#H" n="137"/>erimus post hanc vitam, esse ipsum Deum. Istud probare conantur  
+      <lb ed="#H" n="138"/>ex eo quod Apostolus Paulus ait 1. Cor. 15. 20. Deum futurum omnia 
+      <lb ed="#H" n="139"/>in omnibus.  At hinc non sequitur, caelum beatorum esse ipsum 
+      <lb ed="#H" n="140"/>Deum: quia caelum non est nec erit in corpore Christi, in Angelis 
+      <lb ed="#H" n="141"/>sanctis &amp; beatis hominibus, sed corpus Christi, Angeli sancti &amp; beati 
+      <lb ed="#H" n="142"/>homines sunt &amp; erunt in caelo. Deinde Paulus non docet his verbis, 
+      <lb ed="#H" n="143"/>quodnam sit caelum beatorum, sed quaenam futura sit beatitudo 
+      Ec<lb ed="#H" n="144" break="no"/>clesiae Christi post universalem resurrectionem omnium hominum 
+      <lb ed="#H" n="145"/>ex mortuis &amp; adductionem Ecclesiae Christi ad Patrem. Deus erit 
+      o<lb ed="#H" n="146" break="no"/>mnia in omnibus, id est, resignato per Filium regno Mediatorio, Deus 
+      <lb ed="#H" n="147"/>ipse deinceps in aeternum in omnibus electis omnia erit, id est, 
+      do<lb ed="#H" n="148" break="no"/>ctor, illuminator, rex, gubernator, vita, salus, gloria &amp; quicquid ad 
+      <lb ed="#H" n="149"/>aeternam beatitudinem pertinet, idque erit immediate &amp; 
+      perfectis<lb ed="#H" n="150" break="no"/>sime, sine opera Mediatoris, sine verbi praedicatione externa, sine 
+      <lb ed="#H" n="151"/>Sacramentorum administratione, sine aliis mediis in hac vita 
+      ne<lb ed="#H" n="152" break="no"/>cessariis. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e642">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Nos autem negamus, caelum beatorum esse Deum; &amp; nostram 
+      <lb ed="#H" n="154"/>sententiam confirmamus sequentibus argumentis: 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e651">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Primum, Habitaculum, sedes, solium, thronus, domus, civitas 
+      <lb ed="#H" n="156"/>Dei, non est ipse Deus: Caelum beatorum est habitaculum, sedes, 
+      so<lb ed="#H" n="157" break="no"/>lium, thronus, domus, civitas Dei: Ergo caelum beatorum non est 
+      i<lb ed="#H" n="158" break="no"/>se Deus. 
+      <lb ed="#H" n="159"/>Secundum: Caelum &amp; caeli caelorum, Deum non capiunt: Ergo 
+      cae<lb ed="#H" n="160" break="no"/>lum beatorum non est Deus ipse. Antecedens probatur ex 1. Reg. 8. 
+      <lb ed="#H" n="161"/>vers. 27. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e671">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Tertium: Deus est ubique Caelum beatorum non est ubique: Ergo 
+      <lb ed="#H" n="163"/>caelum beatorum non est Deus. Assumtio certa est: quia caelum 
+      bea<lb ed="#H" n="164" break="no"/>torum non est in terra, mari, &amp; inferno. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e682">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Quartum: Deus non est corpus: Caelum beatorum est corpus: 
+      Er<lb ed="#H" n="166" break="no"/>go caelum beatorum non est Deus. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e691">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Caelum beatorum esse corpus, id est, substantiam non spiritualem, 
+      <lb ed="#H" n="168"/>sed corpoream quamvis subtilissimam, ex subjectis argumentis 
+      <lb ed="#H" n="169"/>patet: 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e702">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>I. In quo continentur &amp; locum habent corpora, id corporeum 
+      <lb ed="#H" n="171"/>esse necesse est: In caelo beatorum continentur &amp; locum habent 
+      cor<lb ed="#H" n="172" break="no"/>pora: Ergo celum beatorum est corporeum. Propositio major est 
+      cer<lb ed="#H" n="173" break="no"/>ta: quia oportet inter contentum &amp; continens, inter locatum &amp; 
+      lo<lb ed="#H" n="174" break="no"/>um proportionem aliquam esse &amp; convenientiam, quae certe non 
+      <lb ed="#H" n="175"/>est inter corpus locatum &amp; locum mere incorporeum. Corpora enim 
+      <lb ed="#H" n="176"/>non continentur, nisi in loco corporeo. Quicquid domicilium est 
+      cor<lb ed="#H" n="177" break="no"/>porum, id corporeum sit necesse est. Assumtio certa est: nam in caelo 
+      <lb ed="#H" n="178"/>beatorum continentur corpora Enochi, Eliae, Chrsti Domini: &amp; 
+      lo<lb ed="#H" n="179" break="no"/>cum in eodem habebunt etiam nostra corpora. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e729">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>II. Quicquid aperitur visibiliter, id est corporeum: Caelum 
+      bea<lb ed="#H" n="181" break="no"/>torum aperitur visibiliter. Actor. 7 v 56. ait Stephanus; Ecce, conspicio 
+      <lb ed="#H" n="182"/>caelos apertos, &amp; Filium illum adstantem ad dexteram Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e740">
+               <lb ed="#H" n="183"/>
+               <pc type="indent"/>III. Omne luminosum est corporeum: Caelum beatorum est 
+      <lb ed="#H" n="184"/>luminosum: Ergo est corporeum. Propositio major vera est: quia lume 
+      <!--cod-MkL9py-0301.xml-->
+      <pb ed="#H" n="274"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>corporale non recipitur, nisi in corpore diaphano, quod vehiculum 
+      <lb ed="#H" n="2"/>est lucis. Minor itidem certa est: nam tenebricosum caelum non 
+      con<lb ed="#H" n="3" break="no"/>venit statui beatorum: proinde caelum beatorum admirabili luce &amp; 
+      <lb ed="#H" n="4"/>quidem corporali, id est, quae oculis corporis cernatur a nobis, 
+      splen<lb ed="#H" n="5" break="no"/>deat necesse est. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e766">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>IV. Quicquid materiam, formam &amp; quantitatem habet, id 
+      cor<lb ed="#H" n="7" break="no"/>poreum est: Caelum beatorum materiam, formam &amp; quantitatem 
+      <lb ed="#H" n="8"/>habet: Ergo est corporeum. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e777">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>V. Quicquid res omnes creatas circumquaque certis finibus 
+      com<lb ed="#H" n="10" break="no"/>plectitur, id corporeum sit necesse est: Caelum beatorum res omnes. 
+      <lb ed="#H" n="11"/>creatas circumquaque certis finibus circumplectitur; sicut 
+      Damasce<lb ed="#H" n="12" break="no"/>nus ait li. 2. fidei orthodoxae, cap. 6. ὑρχνώς ἐστι ωριοχι οργτεν τε κι dο¬ 
+      <lb ed="#H" n="13"/>ζχιτονκλισμγτον, Caelum est ambitus seu circumplexus visibilium &amp; 
+      <lb ed="#H" n="14"/>invisibilium creaturarum 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e795">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>VI. Idem statuunt Patres orthodoxi, Caelum beatorum esse 
+      cor<lb ed="#H" n="16" break="no"/>poreum: velut Augustinus quinto tomo, libro vicesimosecundo de 
+      Civi<lb ed="#H" n="17" break="no"/>tate Dei, cap. 4. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e806">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Deinceps quaeritur, An supremum seu Empyreum caelum sit a Deo, 
+      <lb ed="#H" n="19"/>creatum: 
+      <lb ed="#H" n="20"/>RESP. Quemadmodum Cajetanus Commentariis in 2. Cor. 12. 
+      <lb ed="#H" n="21"/>negavit illud dari: ita Augustinus Steuchus Episcopus Eugubinus in 
+      <lb ed="#H" n="22"/>sua Cosmopoeia negavit esse creatum, paratus tamen recantare si 
+      <lb ed="#H" n="23"/>male sentiret. Existimavit enim, caelum Empyreum esse variam &amp; 
+      <lb ed="#H" n="24"/>multiplicem &amp; admirandam lucem &amp; felicitatem a Deo manantem 
+      <lb ed="#H" n="25"/>quam nefas sit non semper fuisse cum 
+      illo<lb ed="#H" n="26" break="no"/>Caelum supremum seu Empyreum esse creatum, confirmant 
+      prim<lb ed="#H" n="27" break="no"/>testimonia Sacrae Scripturae. Gen. 1. v. 1. In principio creavit Deus 
+      cae<lb ed="#H" n="28" break="no"/>um: ubi nomine caeli inteigitur, totum spacium a terra usque ad 
+      ex<lb ed="#H" n="29" break="no"/>. tima culmina habitaculi Dei &amp; beatorum, ac proinde caelum sum 
+      <lb ed="#H" n="30"/>mum, medium &amp; insimum. Genes 2. v. 1 Itaque perfecti sunt caeli &amp; 
+      ter<lb ed="#H" n="31" break="no"/>ra, omnisque exercitus corum. &amp; v. 4. Istae sunt generationes caeli &amp; terrae 
+      <lb ed="#H" n="32"/>quando creata sunt: qua die Iehova Deus fecit terram &amp; caelum Hebi 
+      <lb ed="#H" n="33"/>II v. 10. Per fidem exspectabat Abrahamus civitatem illam habenter 
+      <lb ed="#H" n="34"/>fundamenta, ῆς τεχνιτης κι δημιηρργος ὀ θεός, cujus artifex &amp; conditor est 
+      <lb ed="#H" n="35"/>Deus. Haec civitas, est caelum beatorum, cujus τεχιιτης, id est, 
+      artifex<lb ed="#H" n="36" break="no"/>&amp; δημισςγος, id est, conditor est Deus. τεχνιεης, artifex ad artificiume 
+      <lb ed="#H" n="37"/>excellentiam onetis: δημιμελος, conditor ad opus ipsum refertur. 
+      Do<lb ed="#H" n="38" break="no"/>cet ergo Apostolus, caelum beatorum esse opus, cujus ideam atqui 
+      <lb ed="#H" n="39"/>formam pulcherrimam, instar peritissimi artificis Deus in mente sua 
+      <lb ed="#H" n="40"/>ab aeterno concepit: &amp; quod constituto tempore extra se fabricavit.  
+      <lb ed="#H" n="41"/>Alia testimonia multa jam omitto 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e864">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Secundo stabiliunt idem rationes ex Scriptura deducta 
+      <lb ed="#H" n="43"/>I. Caelum beatorum aut Creator est aut creatura. At non est 
+      <lb ed="#H" n="44"/>Creator: Ergo est creatura. Propositio disjuncta est ἀμεσος, imme 
+      <lb ed="#H" n="45"/>diata: nam omnis substantia est aut Creator aut creatura: At caelum 
+      <lb ed="#H" n="46"/>beatorum est substantiat Ergo est aut Croator aut creatura. Assumtio 
+      <lb ed="#H" n="47"/>certa est; Caelum beatorum non est Creator: quia non est Deus ipse  
+      <lb ed="#H" n="48"/>qui solus est Creator rerum omnium. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e884">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>II. Omnis substantia finita est creata: Caelum beatorum est sub 
+      <lb ed="#H" n="50"/>stantia finitat Ergo caelum beatorum est creatum  
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e893">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>III. Omne corpus, in quo habitationes &amp; locum habitura sunt 
+      <lb ed="#H" n="52"/>omnia electorum corpora, est creatum: Caelum beatorum est 
+      cor<lb ed="#H" n="53" break="no"/>pus, in quo habitationes &amp; locum habitura sunt omnia electorum  
+      <lb ed="#H" n="54"/>corpora: Est igitur creatum. Assumtio certa est ex testimonio Christi 
+      <lb ed="#H" n="55"/>Joh. 14. 2,3. In domo Patris mei habitationes multae sunt: alioquin 
+      di<lb ed="#H" n="56" break="no"/>xissem vobis. Proficiscor paraturus vobis locum: &amp; quum profectus 
+      fue<lb ed="#H" n="57" break="no"/>ro, &amp; paravero vobis locum, rursum veniam, &amp; assumam vos ad 
+      mei<lb ed="#H" n="58" break="no"/>psum: ut ubi ego ero, &amp; vos sitis. Et cap. 17. 24. Pater quos dedisti mihi, 
+      <lb ed="#H" n="59"/>velim ut ugi sum ego, &amp; illi sint mecum. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e917">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>Praeterea quaeritur, Ubi sit caelum beatorum? RESP. Est sursum, nen 
+      <lb ed="#H" n="61"/>pe supra caelos hosce aspectabiles: ut sequentia testimonia indicant  
+      <lb ed="#H" n="62"/>Deut. 4. 39. Agnoscas igitur hodie &amp; revoces in animum tuum, 
+      Ieho<lb ed="#H" n="63" break="no"/>vum Deum ipsum esse in caelis sursum seu superne. Josus 2. v. 11. Iehovi 
+      <lb ed="#H" n="64"/>Deus vester, est Deus in caelis sursum. Prov. 15. 3. Vt caelo altitudine, ter 
+      <lb ed="#H" n="65"/>raeque profunditate; ita animo regum non est pervestigatio. Luc. 24. 51. 
+      <lb ed="#H" n="66"/>Et factum est, ut dum ipse Dominus Jesus benediceret eis, disjunctus 
+      ab<lb ed="#H" n="67" break="no"/>eis sursum ferritur in caelum. Actor. 1. hic Iesus qui sursum 
+      rece<lb ed="#H" n="68" break="no"/>ptus est a vobis in caelum, &amp;c. Eghes. 4. 10, ascendit longe super omnes 
+      <lb ed="#H" n="69"/>caelos. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e943">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>Insuper quaeritur, Annon caelum beatorum sit ubique? RESP. 
+      <lb ed="#H" n="71"/>Negatur  
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e952">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>I. quia est sursum, est in excelsis, in altissimis locis, ut antea 
+      allega<lb ed="#H" n="73" break="no"/>ta testimonia ostendunt. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e962">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>II. quia in quod ascenditur, non est ubique: In caelum beatorum 
+      <lb ed="#H" n="75"/>adscenditur, Luc. 24. 51. Eph. 4. 10. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e971">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>III. quia caelum beatorum non est Deus, sed civitas Dei. 
+      <lb ed="#H" n="77"/>IV. quia si caelum beatorum esset ubique; esset etiam hic in 
+      <lb ed="#H" n="78"/>terra, in mati, in inferno. At consequens est absurdum: Ergo &amp; 
+      an<lb ed="#H" n="79" break="no"/>recedens. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e984">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>DUIICITUR Deus est ubique Deus est in caelo beatorum. Ergo caelum 
+      <lb ed="#H" n="81"/>beatorum est ubique. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e993">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>RESP. Negatur consequentia, quia plures sunt termini quam tres 
+      <lb ed="#H" n="83"/>Deinde propositio intelligitur de praesentia Dei uni ersali qua 
+      o<lb ed="#H" n="84" break="no"/>mnibus creaturis adest: assumtio vero de perfecta gloriae Dei exhibi. 
+      <lb ed="#H" n="85"/>tione quae fit in caelo be-torum. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e1006">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Amplius quaeritur, Quantum &amp; quale sit caelum supremum? RESI 
+      <lb ed="#H" n="87"/>Si quantitatem requiras, Caelum supremum est maximu m &amp; 
+      amplis<lb ed="#H" n="88" break="no"/>simum: quia in eo locum habet civitas illa magna, sancta illa 
+      Hieru<lb ed="#H" n="89" break="no"/>salem, A poc. 21. 10. in eo habitant &amp; habitabunt tot myriades Angi 
+      <lb ed="#H" n="90"/>lorum sanctorum &amp; beatorum hominum: unde Christus multas in 
+      <lb ed="#H" n="91"/>eo mansiones esse affirmat. Joh. 14 2. Finitum tamen est, non autem 
+      <lb ed="#H" n="92"/>infinitum, quum non sit neus, qui solus infinitus est. 
+      <!--cod-MkL9py-0301.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>Si vero qualitates consideres, est caelum beatorum incorruptibile, 
+      <lb ed="#H" n="94"/>immobile, omni ex parte lucidum ac verus ἐλυμπος, jucundissimum. 
+      <lb ed="#H" n="95"/>pulcherrimum, amoenissimum, expers omnis mali, plenum omnis 
+      <lb ed="#H" n="96"/>boni, Apoc. 21. &amp; 22. Non est autem animatum &amp; ratione praeditum: 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e1039">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>quia non est vivens 
+      <lb ed="#H" n="98"/>Adhaec quaeritur, An extra caelum beatorum Deus sit? RESP. Deus 
+      <lb ed="#H" n="99"/>non tantum in caelo supremo est, sed etiam extra illud actu est in 
+      spa<lb ed="#H" n="100" break="no"/>tiis quoquo versum infinite distentis: sicut rex Solomon ad Deum 
+      o<lb ed="#H" n="101" break="no"/>cat 1. Reg. 8. v. 27. Ecce caeli ipsi, &amp; caeli caelorum non capiunt te 
+      <lb ed="#H" n="102"/>Denique quaeritur, Quem nobis usum praestet supremi caeli cognitio; 
+      <lb ed="#H" n="103"/>RESP. Ex eo quod supremum caelum est non tantum sanctorum, 
+      <lb ed="#H" n="104"/>Angelorum, sed etiam electorum hominum habitaculum; 
+      intelligi<lb ed="#H" n="105" break="no"/>mus quanto amore nos Deus complectatur, quam paterne nobis 
+      <lb ed="#H" n="106"/>prospexerit de loco in quo aeternum erimus. Deinde intelligimus 
+      in<lb ed="#H" n="107" break="no"/>de, quantopere Christiana religio antecellat Philosophiae humanae: 
+      <lb ed="#H" n="108"/>quum solum verbum Dei nos doceat, caelum beatorum esse, idumque  
+      <lb ed="#H" n="109"/>nobis hominibus etiam a Deo paratum &amp; destinatum esse, quod 
+      <lb ed="#H" n="110"/>mulla ratione Physica investigari potest. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e1075">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>Ex eo quod caelum supremum a Deo creatum est, colligimus 
+      il<lb ed="#H" n="112" break="no"/>lud nec Deum, nec ab aeterno, nec immensum esse, 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e1084">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Ex eo quod caelum supremum vera patiia nostra est, in qua cum 
+      <lb ed="#H" n="114"/>Deo &amp; Seruatore nostro Jesu Christo &amp; cum sanctis At gelis &amp; 
+      ele<lb ed="#H" n="115" break="no"/>ctis hominibus non aliquot solummodo annos, sed in infinitas 
+      secu<lb ed="#H" n="116" break="no"/>lorum myriades beatissimi victur: sumus nirito coarguimur, quo 
+      <lb ed="#H" n="117"/>non ita, ut par est avide notiiam ejus praegus: are studio habeamus 
+      <lb ed="#H" n="118"/>qui tamen, si ex una aliqua civitate aut regione in aliam proficisce 
+      <lb ed="#H" n="119"/>const tuimus, prius civitatis aut regionis illius ratiorem, indolem 
+      <lb ed="#H" n="120"/>temperiem, situm limites, &amp; si quae sunt alia investigamus &amp; 
+      probo<lb ed="#H" n="121" break="no"/>nobis cognit: esse cupimmus. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e1108">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Quapropter dum adhuc in corruptibili hoc tabernaculo vivimus 
+      <lb ed="#H" n="123"/>&amp; peregre absumus a Domino, identidem revocemus nobis in 
+      me<lb ed="#H" n="124" break="no"/>moriam, ubi nam &amp; qualis sit illa patria; ad eam mentis nostrae 
+      ocu<lb ed="#H" n="125" break="no"/>los, desideria nostra studiaque nostra intendamus: il uc jam animis 
+      <lb ed="#H" n="126"/>nostris contendamus; illic sit πολίτουμα nostrum Quo pertinet 
+      ex<lb ed="#H" n="127" break="no"/>hortatio illa Apostolica Coluss. 31. 2. Suterna quaerite, as Christus egt 
+      <lb ed="#H" n="128"/>ad dexteram Dei sedens: Superna curate, non terrestriu: &amp; exemplum 
+      <lb ed="#H" n="129"/>Abrahami, Hebr. 11 vers 10, 13. 14, 15,16. Pauli postoli, Philipp. 1. 
+      <lb ed="#H" n="130"/>23. Et quia in caelum supremum non intrabir quicquam quod 
+      inqui<lb ed="#H" n="131" break="no"/>nat, aut abominandum quippiam patrat vel mendacium loquitur:  
+      <lb ed="#H" n="132"/>Apocal. 21. 27. ut municipes caelorum nos geramus, &amp; inculpate 
+      co<lb ed="#H" n="133" break="no"/>tam Deo vivamus in terris cum omni justitia &amp; sanctitite, &amp; sic 
+      cu<lb ed="#H" n="134" break="no"/>remus &amp; appetamus ea quae sunt in terris, ne caelum amittamus: 
+      re<lb ed="#H" n="135" break="no"/>condamus nobis thesauros in caelo, ubi neque tinea neque 
+      cor<lb ed="#H" n="136" break="no"/>rosio corrumpit, &amp; ubi fures non perfodiunt, neque furantur, Matt. 
+      <lb ed="#H" n="137"/>6. vers. 26. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e1147">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>Interim quantacunque nostra in hac aerumnarum valle fuerit 
+      mi<lb ed="#H" n="139" break="no"/>seria,magno simus animo, &amp; nos solemur, quod haereditas quae nec 
+      <lb ed="#H" n="140"/>corrumpi potest, nec contaminari, nec marcescere, nobis in caelis 
+      <lb ed="#H" n="141"/>servatur, qui virtutis Dei praesidio custodimur per fidem, ad satutem 
+      <lb ed="#H" n="142"/>paratam revelari praestituto tempore ultimo, 1. Petr. 1. v. 4 1. quodque 
+      <lb ed="#H" n="143"/>e caelo exspectamus Dominum Jesum Christum, Philipp. 3. 20. qui 
+      <lb ed="#H" n="144"/>nos ad se assumeat in caelum, ut ubi ipse est, nos quoque simus &amp; gloriam 
+      <lb ed="#H" n="145"/>ejus in aeternum videamus. 
+      </p>
+            <p xml:id="yyy8Uu-e30753-d1e1169">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>Tantum de supremo caelo. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

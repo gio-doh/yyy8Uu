@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 40</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 40</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="82"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e38460"> <!-- l1-c40 -->
+            <head xml:id="yyy8Uu-e38460-Hd1e109">Caput 40</head>
+            <p xml:id="yyy8Uu-e38460-d1e112">
+               <lb ed="#H" n="157"/>CAPTI 
+      <lb ed="#H" n="158"/>De praecipuis translationibus S. Scripturae.
+    </p>
+            <p xml:id="yyy8Uu-e38460-d1e119">
+               <lb ed="#H" n="159"/>UUM Ecclesiis per totum terrarum orbem sparsis &amp; diversis. 
+      <lb ed="#H" n="160"/>plane linguis utentibus necessariae fuerint atque etiamnum sint 
+      <lb ed="#H" n="161"/>aversiones S. Scripturae: explicanda est deinceps carum 
+      distin<lb ed="#H" n="162" break="no"/>ctio &amp; autoritas 
+      </p>
+            <p xml:id="yyy8Uu-e38460-d1e130">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>Translationes seu versiones Scripturae S. in linguas vulgares sunt 
+      <lb ed="#H" n="164"/>muliae: dist, nguuntur tamen commode in antiquas &amp; recentes. 
+      </p>
+            <p xml:id="yyy8Uu-e38460-d1e140">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Antiquae versiones Veteris Testamenti aliae aute Christum natum 
+      <lb ed="#H" n="166"/>aliae pest Christum natum prodierunt. 
+      <lb ed="#H" n="167"/>Ante Christum natum prodiit versio Graeca LXXII 
+      interpre<lb ed="#H" n="168" break="no"/>lum. Thargum vero Jonathanis filii Uzielis non tam versio est quam 
+      <lb ed="#H" n="169"/>Paraphrasis Chaldaica 
+      </p>
+            <p xml:id="yyy8Uu-e38460-d1e156">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Post Christum natum prodierunt Graecae &amp; Latinae plurimae, ut 
+      et<lb ed="#H" n="171" break="no"/>iam in aliis linguis. 
+      </p>
+            <p xml:id="yyy8Uu-e38460-d1e165">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Graecae quae post Christum natum prodierunt, sunt; Aquile, Symi 
+      <lb ed="#H" n="173"/>machi, Theodotionis, duae ab Origene ex terrae recessibus prolatae, quae 
+      <lb ed="#H" n="174"/>quinta &amp; sexta editio vocantur.  
+      </p>
+            <p xml:id="yyy8Uu-e38460-d1e176">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>Ex his editionibus Origenes Tetrapla, Hexapla, &amp; Octapla sua 
+      <lb ed="#H" n="176"/>confecit. 
+      </p>
+            <p xml:id="yyy8Uu-e38460-d1e185">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Praeter has fuerunt aliae versiones Graecae, Origenis, Luciani 
+      Mar<lb ed="#H" n="178" break="no"/>tyris, Hesychii &amp; Sophronu. 
+      <lb ed="#H" n="179"/>Latinae vero versiones tempore Augustini tam multae fuerunt, ut  
+      <lb ed="#H" n="180"/>numerari nullo modo potuerint. 
+      </p>
+            <p xml:id="yyy8Uu-e38460-d1e198">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>Ex plurimis tamen una receptior erat, quae ob id communis &amp; 
+      vul<lb ed="#H" n="182" break="no"/>gata dcebatur, August. de Civit. Deih. 16. ca 10. 
+      <!--cod-MkL9py-0108.xml-->
+      <pb ed="#H" n="83"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Alia vocabatur Italo, lib. 2. de doctrina Christiana cap. 15. 
+      <lb ed="#H" n="2"/>His accessit versio 
+      Hieronymi<lb ed="#H" n="3" break="no"/>Recentes vero versiones sunt plurimae in omnibs fere linguis, 
+      La<lb ed="#H" n="4" break="no"/>cina, Germanica, Gallica, Anglica, ltalica, Hispanica, Bohemica, 
+      Po<lb ed="#H" n="5" break="no"/>lonica, Dalmatica, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e38460-d1e225">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Latinae praecipuae sunt Xantis Pagnini, Francisci Vatabli, Immanus 
+      <lb ed="#H" n="7"/>elis Tremmellij &amp; Francisci lunij, Leonis Iudae Tigurini, &amp;c. Novi vero 
+      <lb ed="#H" n="8"/>Testamenti Latinae versiones celeberrimae sunt, Erasmi Roterodam, 
+      <lb ed="#H" n="9"/>&amp; Theodori Bexa 
+      </p>
+            <p xml:id="yyy8Uu-e38460-d1e238">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Germanicae praecipuae sunt, Lutheri, quam utilibus argumentis &amp; 
+      <lb ed="#H" n="11"/>doctrinis capitum singulorum illustravit eximius Theologus David. 
+      <lb ed="#H" n="12"/>Poreus: Tigurinorum: Herbonensium: in quibus maxime elaboravit.  
+      <lb ed="#H" n="13"/>Iohannes Piscator.  
+      </p>
+            <p xml:id="yyy8Uu-e38460-d1e251">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Haec de versionum distinctione: sequitur de ea¬ 
+      </p>
+            <p xml:id="yyy8Uu-e38460-d1e258">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>rundem autoritate. 
+      <lb ed="#H" n="16"/>De versione quacunque sive Graeca Veteris Testamenti, sive 
+      utri<lb ed="#H" n="17" break="no"/>insque Testamenti Latina, aut Gallica, aut Germanica, aut Bohemicat 
+      <lb ed="#H" n="18"/>aut alia quae cum fontibus Hebraicis &amp; Graecis congruat, quaeritur 
+      <lb ed="#H" n="19"/>an sit authentica: 
+      </p>
+            <p xml:id="yyy8Uu-e38460-d1e274">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>RESP. Nulla prorsus versio Bibliorum, humano ingenio &amp; 
+      stu<lb ed="#H" n="21" break="no"/>dio elaborata post Prophetas &amp; Apostolos etiamsi quam maxime 
+      <lb ed="#H" n="22"/>cum fontibus Hebraicis &amp; Graecis congruat, est divinitus, 
+      divino<lb ed="#H" n="23" break="no"/>modo, absolute, universaliter &amp; siue exceptione authentica: 
+      accep<lb ed="#H" n="24" break="no"/>tanda tamen est &amp; usurpanda, cum versione opus sit Ecclesiis 
+      verna<lb ed="#H" n="25" break="no"/>cula lingua utentibus; nec a quoquam temere quicquam in ea 
+      reji<lb ed="#H" n="26" break="no"/>ciendum, nisi evidenter probetur, id fontibus divinis adversari 
+      </p>
+            <p xml:id="yyy8Uu-e38460-d1e294">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Argumenta autem, cur nulla versio diligentia humana post 
+      Pro<lb ed="#H" n="28" break="no"/>phetas &amp; Apostolos edita, quantumvis optima videatur, sit authenti 
+      <lb ed="#H" n="29"/>ca absque omni exceptione, ista sunt:  
+      </p>
+            <p xml:id="yyy8Uu-e38460-d1e306">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>I. Quia sola archetypa Scriptura sacra &amp; divinitus inspirata est: 
+      <lb ed="#H" n="31"/>authentica: at nulla hujusmodi versio est archetypa ac divinitus 
+      in<lb ed="#H" n="32" break="no"/>spirata. 
+      </p>
+            <p xml:id="yyy8Uu-e38460-d1e317">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>II. Quia nulla hujusmodi versio est absolute perfecta, sed magis 
+      <lb ed="#H" n="34"/>atque magis perfici potest &amp; debet.  
+      </p>
+            <p xml:id="yyy8Uu-e38460-d1e326">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>III. Quia cum mutatione publica vocum &amp; phrasium ipsa quo 
+      <lb ed="#H" n="36"/>que necessario mutanda, ut intelligi possit. Exemplo est versio 
+      Ger<lb ed="#H" n="37" break="no"/>manica quae necessario mutanda &amp; limanda fuit atque accommodam 
+      <lb ed="#H" n="38"/>da linguae hodie receptae: nam si vetus German. versio qualis 
+      ante<lb ed="#H" n="39" break="no"/>aliquot secula fuit, hodie retinenda esset, a populo intelligi non 
+      pos<lb ed="#H" n="40" break="no"/>set plurimis in locis. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

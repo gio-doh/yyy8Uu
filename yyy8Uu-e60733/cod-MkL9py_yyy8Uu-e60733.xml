@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="332"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e60733"> <!-- l6-c1 -->
+            <head xml:id="yyy8Uu-e60733-Hd1e109">Caput 1</head>
+            <p xml:id="yyy8Uu-e60733-d1e112">
+               <lb ed="#H" n="77"/>CAPUT PRIMUM 
+      <lb ed="#H" n="78"/>In quo de voce Providentia Dei, &amp; an sit &amp; quid sit?
+      </p>
+            <p xml:id="yyy8Uu-e60733-d1e119">
+      <!--cod-MkL9py-0360.xml-->
+               <pb ed="#H" n="333"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="79"/>QVONIAM praecedente libro doctrina 
+      <lb ed="#H" n="80"/>de Creatione rerum omnium, quae 
+      pri<lb ed="#H" n="81" break="no"/>mum Dei opus externum est, quanta 
+      fie<lb ed="#H" n="82" break="no"/>ri potuit brevitate &amp; perspicuitate, pro 
+      <lb ed="#H" n="83"/>modulo gratiae a Deo nobis concessae, 
+      <lb ed="#H" n="84"/>explicata est: sequtur ut jam de 
+      PRO<lb ed="#H" n="85" break="no"/>VIDENTIADEIACTUALI, quae 
+      <lb ed="#H" n="86"/>alterum est opus Dei externum, agam. 
+      <lb ed="#H" n="87"/>Verum tenuitatis meae conscientia &amp; 
+      <lb ed="#H" n="88"/>materiae gravitate impulsus, ad te 
+      ani<lb ed="#H" n="89" break="no"/>mum meum converto, magne &amp; omnipotens DEUS, teque votis 
+      <lb ed="#H" n="90"/>supplicibus veneror: indulge mihi, propter CHRISTUM 
+      Domi<lb ed="#H" n="91" break="no"/>num, peccatorum veniam &amp; per Spiritum Sanctum tuum me 
+      verbo<lb ed="#H" n="92" break="no"/>tuo magis atque magis sanctifica, ut veritatem tuam coelestem recte 
+      <lb ed="#H" n="93"/>perspiciam, perspectam firmiter percipiam, perceptam sancte &amp; 
+      op<lb ed="#H" n="94" break="no"/>portune proferam, ad nominis tui gloriam &amp; Ecclesiae tuae bonum, 
+      <lb ed="#H" n="95"/>Amen. 
+      </p>
+            <p xml:id="yyy8Uu-e60733-d1e165">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Postquam debita instituto meo vota feci, a vocis explicatione 
+      or<lb ed="#H" n="97" break="no"/>diat, ne ambiguitate illius a vero aberretur: deinde re ipsa tractabo¬ 
+      </p>
+            <p xml:id="yyy8Uu-e60733-d1e175">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Vox providentia Dei est ambigua: nam aliquando latius, 
+      aliquan<lb ed="#H" n="99" break="no"/>do strictius accipitur. Latius sumta complectitur aeternum creationis: 
+      <lb ed="#H" n="100"/>gubernationis, ordinationisque rerum omnium decretum &amp; 
+      exse<lb ed="#H" n="101" break="no"/>quutionem illius: strictius capta vel aeternum decretum Dei de 
+      om<lb ed="#H" n="102" break="no"/>nibus quae futura erant, significat quomodo Hebr 11. 40. dicitur; 
+      <lb ed="#H" n="103"/>Deus de nobis praestantius quiddam providerat, ne absque nobis 
+      consum<lb ed="#H" n="104" break="no"/>marentur; vel ad solam omnium quae facta sunt &amp; fiunt 
+      guberna<lb ed="#H" n="105" break="no"/>tionem refertur, quas vocis acceptiones supra quarto libro, capit, 
+      sex<lb ed="#H" n="106" break="no"/>to pluribus declaravimus. 
+      </p>
+            <p xml:id="yyy8Uu-e60733-d1e199">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>In hoc libro vox providentiae divinae stricte capitur &amp; 
+      distinctio<lb ed="#H" n="108" break="no"/>nis ergo creationi opponitur, &amp; solam conservationem, 
+      gubernatio<lb ed="#H" n="109" break="no"/>nem &amp; ordinationem omnium denotat, quo significato communi¬ 
+      <!--cod-MkL9py-0360.xml-->
+      <pb ed="#H" n="333"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="110"/>ter usurpatur: veluti in libro Sapientiae Salomoni adscripto dicitur;  
+      <lb ed="#H" n="111"/>cap. 6. vers. 8. Dominus omnium non dissimulabit personam, naque 
+      vere<lb ed="#H" n="112" break="no"/>bitur magnitudinem, quum parvum ac magnum ipse fecerit, &amp; paritet 
+      <lb ed="#H" n="113"/>putatur providentia in omnihus. Theodoretis Commentariis in caput,  
+      <lb ed="#H" n="114"/>quinquagesimum-primum Jeremiae ad verba; Qui secit ter ram 
+      robo<lb ed="#H" n="115" break="no"/>re suo &amp;c. eadem stricta significatione utitur hac voce: Posuit (inquit)  
+      <lb ed="#H" n="116"/>tum ea quae pertinent ad creationem, tum quae faciunt ad 
+      providenti<lb ed="#H" n="117" break="no"/>im: quia non modo condidit universa, sed etiam in iis gubernandis 
+      per<lb ed="#H" n="118" break="no"/>severat. Et in libro divinorum decretorum, capite de Providentia: 
+      <lb ed="#H" n="119"/>item Sermone seu libro Curationis Graecarum affectionum 
+      sexto<lb ed="#H" n="120" break="no"/>qui est de Dei Providentia: &amp; in Sermonibus decem de Providentia. 
+      </p>
+            <p xml:id="yyy8Uu-e60733-d1e241">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>Tantum de voce: nunc de re ipsa 
+      <lb ed="#H" n="122"/>Ut rem ipsam tractemus, expediemus, an sit providentia Dei? quid  
+      <lb ed="#H" n="123"/>? quod subjectum ejus? quae partes? quae species? 
+      <lb ed="#H" n="124"/>Providentiam Dei esse, id est, Deum curare, id est, conservare, 
+      gu<lb ed="#H" n="125" break="no"/>bernate &amp; ordinare omnes creaturas, gubernate &amp; ordinare omnes 
+      <lb ed="#H" n="126"/>res humanas, &amp; omnia quae sunt &amp; fiunt in mundo, sic ut nihil 
+      teme<lb ed="#H" n="127" break="no"/>re, nihil fortuito fiat, confirmant testimonia divina Sacrae Scripturae &amp; 
+      <lb ed="#H" n="128"/>argumenta alia¬ 
+      </p>
+            <p xml:id="yyy8Uu-e60733-d1e263">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>Testimonia divina e multis haec sunt: Psalm. 14. 2. Iehova e coelus 
+      <lb ed="#H" n="130"/>prospectat super filios hominum, ut videat an sit ullus qui intelligat, qui  
+      <lb ed="#H" n="131"/>exquirat Deum. Psal. 33. 13, 14, 15. Ecoelis intuetur Iehova, videt 
+      om<lb ed="#H" n="132" break="no"/>nes filios hominis: E loco habitationis suae, prospicit in omnes 
+      habitato<lb ed="#H" n="133" break="no"/>res terrae: Formator pariter cerdis eorum, animadvertit ad omnia 
+      ape<lb ed="#H" n="134" break="no"/>ta eorum. Psal. 36. 7. Homines &amp; jumenta conservas, Iehova. Psalm 
+      <lb ed="#H" n="135"/>104. 27, 28, 29, 210. Omnia ista in te exspectationem habent, ut des 
+      <lb ed="#H" n="136"/>escam ipsorum tempore suo: Te dante ipsis colligunt, aperiente 
+      mu<lb ed="#H" n="137" break="no"/>num tuam satiantur bono: Abscondente faciem tuam conturbentur; 
+      <lb ed="#H" n="138"/>recipiente spiritum eorum exspirant, &amp; in pulverem suum 
+      revertun<lb ed="#H" n="139" break="no"/>tur: Emiitente spiritum tuum recreantur: denique renovas jaciem 
+      <lb ed="#H" n="140"/>terrae: Matth. capite sexto, versiculo vigesimo sexto: Intuirmine in 
+      <!--cod-MkL9py-0361.xml-->
+      <pb ed="#H" n="334"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>volucres coeli: non enim serunt, neque metunt, neque cogunt in horrea, sed  
+      <lb ed="#H" n="2"/>Pater ille vester coelestis alit eas: Et cap. 10. 2. 29, 30. Nonne duo passerculis 
+      <lb ed="#H" n="3"/>assario vaneunt, &amp; unus ex eis non cadit in terram sine Patre vestro? 
+      <lb ed="#H" n="4"/>Vestri vero etiam capilli capitis omnes numerati sunt. Plura testimonis 
+      <lb ed="#H" n="5"/>deinceps in progressu allegabuntur.  
+      </p>
+            <p xml:id="yyy8Uu-e60733-d1e311">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Argumenta alia haec sunt: 
+      <lb ed="#H" n="7"/>PRIMUM: Si Deus est, providentia est. Quibus enim 
+      argumen<lb ed="#H" n="8" break="no"/>tis demonstratur, esse Deum: iisdem evincitur providentiam esse. 
+      <lb ed="#H" n="9"/>Deinde non aliter potest ei divinitas attribui, nisi &amp; praeterita teneat 
+      <lb ed="#H" n="10"/>praesentia sciat, &amp; futura provideat. Unde Jehova per Prophetas se es 
+      <lb ed="#H" n="11"/>se Deum asserit ex operibus providentiae, ut Jes 42. vers. 8. 9. Ego sum 
+      <lb ed="#H" n="12"/>lehova, illud est nomen meum, &amp; gloriam meam alteri non dabo, &amp; 
+      lau<lb ed="#H" n="13" break="no"/>dem meam sculptilibus. Pripra ecce evenerunt: &amp; nova ego indico 
+      <lb ed="#H" n="14"/>quum nondum exoriuntur, pronuncio vobis. Eodem argumento idolis 
+      <lb ed="#H" n="15"/>deitatem inesse negat, Jes. 41. v. 22, 23. Proponant &amp; indicent nobis eo 
+      <lb ed="#H" n="16"/>quae obventura sunt: priora quae nam sunt indicate, ut apponamus 
+      ani<lb ed="#H" n="17" break="no"/>mum nostrum, &amp; cognoscamus finem eorum, aut euentura pronuncia 
+      <lb ed="#H" n="18"/>te nobis. Indicate quae eventura sunt in posterum, ut cognescamus vos 
+      es<lb ed="#H" n="19" break="no"/>se deos; etiam benefacite aut malefacite, ut obstupescamus videntes 
+      pa<lb ed="#H" n="20" break="no"/>riter. Quisquis igitur credit, esse Deum; cum etiam necesse est 
+      crede<lb ed="#H" n="21" break="no"/>re, esse providentiam Dei. Quod si providentiam Dei quis 
+      negave<lb ed="#H" n="22" break="no"/>rit, reipsa etiam Deum esse negat, etiamsi Deitatem verbis asserere 
+      <lb ed="#H" n="23"/>maxime, quod facit homo ψυχικος, ratione abutens ad insaniam, 
+      te<lb ed="#H" n="24" break="no"/>ste Davide Ps. 14. v. 1, Dicit stultus in corde suo, non est Deus: corrum. 
+      <lb ed="#H" n="25"/>punt, abominandam quamque actionem perpetrant 
+      </p>
+            <p xml:id="yyy8Uu-e60733-d1e359">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>SECUNDUM argumentum suppeditat natura Dei &amp; proprieta. 
+      <lb ed="#H" n="27"/>tes ejus essentiales. Qui est sapientissimus, optimus, justissimus, ad 
+      mi<lb ed="#H" n="28" break="no"/>sericordiam propensissimus, omnipotens; is profecto rebus omnibu 
+      <lb ed="#H" n="29"/>providet, omnia &amp; singula curat &amp; dirigit, ne quid temere fiat. Atqui 
+      <lb ed="#H" n="30"/>Deus est talis, ut libro secundo abunde probatum est, 
+      </p>
+            <p xml:id="yyy8Uu-e60733-d1e376">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>TERTIUM argumentum subministrant opera Dei, in quibus 
+      <lb ed="#H" n="32"/>evidentissime providentia Dei elucet, quod argumentum copiose 
+      <lb ed="#H" n="33"/>tractat Theodoretus in Sermonibus decem de Providentia. 
+      Inpri<lb ed="#H" n="34" break="no"/>mis autem opera Dei in homine &amp; rebus humanis testantur 
+      provi<lb ed="#H" n="35" break="no"/>dentiam divinam apertissime, nempe notitia Legis mentibus 
+      huma<lb ed="#H" n="36" break="no"/>nis a Deo insita: mens hominis regens corpus &amp; vitam omnesque 
+      a<lb ed="#H" n="37" break="no"/>ctiones hominis, Ps. 94 8, 9, 10 Animadvertite, o brutissimi in 
+      popu<lb ed="#H" n="38" break="no"/>lo: &amp; stultissimi quando intelligentes eritis? An plantator auris non 
+      <lb ed="#H" n="39"/>audiat? aut formator oculi an non intueatur? An castigator Gentium 
+      <lb ed="#H" n="40"/>non reprehendat? qui docet homines scientiam: Item beneficia tot 
+      cor<lb ed="#H" n="41" break="no"/>poralia &amp; spiritualia quibus homines continuo afficit, ut Paulus 
+      con<lb ed="#H" n="42" break="no"/>cionatur Lystrae Act. 14. v. 17. Non passus est se esse expertem 
+      testimo<lb ed="#H" n="43" break="no"/>nii, bona tribuendo, dans nobis coelitus pluvias ac praestituta tempora 
+      <lb ed="#H" n="44"/>fructibus proferendis, implens cibo &amp; delectatione corda nostra. Et cap. 
+      <lb ed="#H" n="45"/>17. v. 26. 17. conscientia uniuscujusque bona vel mala: praemia quibus 
+      <lb ed="#H" n="46"/>Deus recte facta ornat: poenae quas Deus peccantibus infligit: politiae 
+      <lb ed="#H" n="47"/>quarum constitutio &amp; conservatio, aut mutatio, aut translatio est 
+      o<lb ed="#H" n="48" break="no"/>pus Dei: motus heroici quos Deus gubernatoribus &amp; aliis indit quo 
+      <lb ed="#H" n="49"/>rum ministerio uti dignatur ad defensionem Ecclesiae suae, quales 
+      <lb ed="#H" n="50"/>motus heroici &amp; virtutes superantes communem captum hominur  
+      <lb ed="#H" n="51"/>fuerunt in Mose, Josua. Samgare, Simsone, Davide. Confirmat 
+      pro<lb ed="#H" n="52" break="no"/>videntiam divinam etiam erdo sapientissimus in natura, quem Deus 
+      <lb ed="#H" n="53"/>conservat &amp; moderatur, ut docetur Ps. 147. 4. Supputat numerum stel 
+      <lb ed="#H" n="54"/>larum, quotquot sunt nominibus vocat. &amp; v. 8. Qui obtegit coelos densit 
+      <lb ed="#H" n="55"/>nubibus, qui comparat terrae pluviam, qui facit ut proferant montes 
+      foe<lb ed="#H" n="56" break="no"/>num. Stabiliunt eandem &amp; fines ad quos omnia tendunt &amp; 
+      perveni<lb ed="#H" n="57" break="no"/>unt in mundo, sapientia, bonitate &amp; potentia Creatoris, Deut. 8. v. 3. 
+      <lb ed="#H" n="58"/>&amp; Matth.4. v. 4. Non solo pane vivit homo, sed omni verbo prodeunte 
+      <lb ed="#H" n="59"/>ex ore Dei. Sed tam clara est providentia Dei, ut ipsa quoque bruta 
+      ani<lb ed="#H" n="60" break="no"/>mantia &amp; elementa eandem docere valeant, quemadmodum Jobus 
+      <lb ed="#H" n="61"/>ostendit cap. 12. v. 7. 8, 9, 10. Enimvero interroga, quaeso, jumenta, &amp; 
+      <lb ed="#H" n="62"/>docebit te illorum quodque; aut volucrem coeli, &amp; indicabit tibi: Aut. 
+      <lb ed="#H" n="63"/>confabulare cum terra, &amp; docebit te: etiam enarrabunt tibi pisces 
+      mu<lb ed="#H" n="64" break="no"/>ris. Quis non cognovit ex omnibus istis, manum Iehovae facere illud? In 
+      <lb ed="#H" n="65"/>cujus manu est anima omnis viventis, &amp; spiritus totius carnis 
+      huma<lb ed="#H" n="66" break="no"/>nae¬ 
+      </p>
+            <p xml:id="yyy8Uu-e60733-d1e459">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Nec minus providentiam Dei testatam faciunt praedictiones 
+      divi<lb ed="#H" n="68" break="no"/>nae eventu ipso comprobatae: miracula, quae Deus exhibuit &amp; exhibet 
+      <lb ed="#H" n="69"/>supra totius naturae vires: signa temporum: eventus insignes: 
+      horribi<lb ed="#H" n="70" break="no"/>les tempestates, ostenta &amp; prodigia: martyrum Christi constantia in 
+      <lb ed="#H" n="71"/>perferendis cruciatibus exquisitissimis &amp; mortibus crudelissimis. Hoc 
+      <lb ed="#H" n="72"/>ipsum quoque maximum est providentiae divinae documentum, quod  
+      <lb ed="#H" n="73"/>rerum plurimarum rationes nobis arcanae sunt &amp; imperscrutabiles. 
+      <lb ed="#H" n="74"/>humano ingenio¬ 
+      </p>
+            <p xml:id="yyy8Uu-e60733-d1e481">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>Ista omnia perspicue demonstrant, Providentiam Dei esse 
+      <lb ed="#H" n="76"/>Proinde nihil contingit temere aut fortuito, nihil secundum 
+      car<lb ed="#H" n="77" break="no"/>nales cogitationes hominum; sed omnia fiunt providentia Dei, se 
+      <lb ed="#H" n="78"/>cundum aeternum ejus consilium &amp; voluntatem, ut dicitur Proverb 
+      <lb ed="#H" n="79"/>19. v. 21. Multae cogitationes insunt animo cujusque, sed consilium Iehovi 
+      <lb ed="#H" n="80"/>ipsum flabit. Job. 22. 13. Si ipse contra animum agit, quis revocet eum? 
+      <lb ed="#H" n="81"/>quod animus ejus cupit, id efficit: Nam perficit statutum de ore. Ps 115.3. 
+      </p>
+            <p xml:id="yyy8Uu-e60733-d1e501">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Neque sit absque Dei voluntate, id quoque quod sit contra DE 
+      <lb ed="#H" n="83"/>voluntatem. 
+      </p>
+            <p xml:id="yyy8Uu-e60733-d1e510">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>Sic probatum est, providentiam Dei actualem esse. 
+      <lb ed="#H" n="85"/>Hanc autem verissimam doctrinam oppugnant vesani homines 
+      <lb ed="#H" n="86"/>qui omnem providentiam Dei tollunt, ut faciunt Epicuri de grego 
+      <lb ed="#H" n="87"/>porci, quos Gentiles etiam ipsi refutarunt, &amp; tonitrua fulminaque 
+      <lb ed="#H" n="88"/>coelo, ut de se testatur Horatias Carminum libro primo, Odam trige 
+      <lb ed="#H" n="89"/>sima:-quarta: &amp; exempla C. Caligulae &amp; Neronis, quibus tonitrua 
+      <lb ed="#H" n="90"/>tantum metum incusserunt, ut agnoscerent, Deum res humanas 
+      cu<lb ed="#H" n="91" break="no"/>rare. 
+      <!--cod-MkL9py-0361.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>Oppugnant eandem ex parte Philosophi Ethnici, qui sub lunaria 
+      <lb ed="#H" n="93"/>Deo curae esse negant, qui curam Dei ad ea quae sub Luna sunt &amp; fiunt 
+      <lb ed="#H" n="94"/>ese non extendere contendunt . 
+      </p>
+            <p xml:id="yyy8Uu-e60733-d1e543">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Quin etiam caro in regeneratis adversus spiritum pugnans, 
+      provi<lb ed="#H" n="96" break="no"/>dentiam Dei in dubium vocare solet, ut regenerati in seipsis 
+      experi<lb ed="#H" n="97" break="no"/>untur &amp; agnoscunt, quemadmodum videre est Psalmo 73. v. 2. &amp; 
+      se<lb ed="#H" n="98" break="no"/>quentibus: Equidem quod ad me, pene declinaverant pedes mei, nihil  
+      <lb ed="#H" n="99"/>fere aberat quin effunderentur gressus mei: Quum inviderem 
+      insanten<lb ed="#H" n="100" break="no"/>ibus, prosperitatem improborum aspicerem. Nam non sunt nexus usque  
+      <lb ed="#H" n="101"/>ad mortem eorum, sed pingue est robur eorum. In labore mortalium non 
+      <lb ed="#H" n="102"/>sunt, &amp; cum reliquis hominibus non afficiuntur plagis, Idcirco cingit 
+      eo<lb ed="#H" n="103" break="no"/>corques superbiae, operit velut ornamentum violentia eos. Emicat pro 
+      <lb ed="#H" n="104"/>binguedine uterque oculus eorum, superant cogitationes animi. Tabifici 
+      <lb ed="#H" n="105"/>sunt, &amp; loquuntur maligne oppressionem: &amp; e sublimi loquuntur. 
+      Os<lb ed="#H" n="106" break="no"/>ponunt coelis os suum, &amp; lingua eorum pervadit terram. Ideoque redit 
+      po<lb ed="#H" n="107" break="no"/>ulus ejus huc, quum aquae pleni poculi exprimuntur ipsis, Vt dicant 
+      <lb ed="#H" n="108"/>quomodo cognosceret Deus fortis? aut esset notitia in excelso? Ecce istos 
+      <lb ed="#H" n="109"/>mprobos, ut tranquilli in saculo augeant vires. Utique inaniter purifico 
+      a<lb ed="#H" n="110" break="no"/>nimum meum, &amp; lavo in munditia manus meas: Quum sim plagi 
+      <lb ed="#H" n="111"/>affectus quotidie, &amp; castigatio mea praesto sit matutinis singulis. 
+      </p>
+            <p xml:id="yyy8Uu-e60733-d1e586">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Sic est de quaestione an sit actualis providentia Dei: 
+      </p>
+            <p xml:id="yyy8Uu-e60733-d1e593">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>sequitur quid sit? 
+      <lb ed="#H" n="114"/>PROVIDENTIA DEIACTUALIS, est actio Dei 
+      transi<lb ed="#H" n="115" break="no"/>ens quam mundum a se creatum &amp; omnia quae in eo sunt ac fiunt, 
+      se<lb ed="#H" n="116" break="no"/>undum suam voluntatem curat ac dispensat ad suam gloriam &amp; ele 
+      <lb ed="#H" n="117"/>ctorum salutem. Alias gubernatio divina, item imperium seu regnum 
+      <lb ed="#H" n="118"/>Dei, Psal. 93. v. 1. &amp; 97. v. 1. &amp; 99. 1. &amp; 103. 19. Via Dei Psalm. 77. 14. 
+      <lb ed="#H" n="119"/>Oeconomia divina, sine labore regens, &amp; sine onere continens 
+      mun<lb ed="#H" n="120" break="no"/>dum. Sis definitur a Damasceno libro secundo Orthodoxae fidei, 
+      ca<lb ed="#H" n="121" break="no"/>pit. 28. ex Gregorii Nysseni libro de Providentia: ωρονοια εστιν η εκ 
+      <lb ed="#H" n="122"/>θεο εἰς τα ὀνζα γνουδη ἐπιμελεια. Providentia est Dei in ea quae sunt 
+      <lb ed="#H" n="123"/>cura. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 14</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 14</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="286"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e37530"> <!-- l5-c14 -->
+            <head xml:id="yyy8Uu-e37530-Hd1e109">Caput 14</head>
+            <p xml:id="yyy8Uu-e37530-d1e112">
+               <lb ed="#H" n="16"/>CAPUT XIV. 
+      <lb ed="#H" n="17"/>In quo de principiis internis naturae visibilis, nempe 
+     <lb ed="#H" n="18"/>materia prima forma &amp; priva¬ 
+     <lb ed="#H" n="19"/>tione.
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e123">
+               <lb ed="#H" n="20"/>PPRIMO die mundi hujus praeter caelum supremum &amp; secun¬ 
+      <lb ed="#H" n="21"/>dum, &amp; Angelos in &amp; cum caelo supremo factos, creata sun 
+      <lb ed="#H" n="22"/>principia interna naturae visibilis, cum proprietatibus corporum 
+      <lb ed="#H" n="23"/>naturalium, atque sic productum esementum ignis &amp; lux primigenia, 
+      <lb ed="#H" n="24"/>item nox &amp; dies. 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e136">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>PRINCIPIA INTERNA naturae, sunt quae nec ex aliis, nec ex se 
+      <lb ed="#H" n="26"/>ipsis mutuo, sed ex ipsis alia visibilia corpora naturalia orta &amp; 
+      con<lb ed="#H" n="27" break="no"/>stituta sunt, utpote ad generationem &amp; constitutionem eorum 
+      per<lb ed="#H" n="28" break="no"/>tin ntia. Dicuntur principia interna, ut distinguantur a causa 
+      effi<lb ed="#H" n="29" break="no"/>ciente &amp; fine, quae sunt principia corporum naturalium externa. At 
+      <lb ed="#H" n="30"/>Deus quidem est verum, vereque primum &amp; unicum principium. 
+      <lb ed="#H" n="31"/>quo &amp; propter quod omnia corpora naturalia orta sunt: quia ipsi 
+      <lb ed="#H" n="32"/>propriissime est rerum omnium quae in hac universitate sunt tum 
+      <lb ed="#H" n="33"/>causa efficiens prima, universalis, agens, movens, exemplaris: tum 
+      fi<lb ed="#H" n="34" break="no"/>nis universalis, ultimus &amp; supremus. Finis autem particularis 
+      cor<lb ed="#H" n="35" break="no"/>porum naturalium est cujus gratia quodlibet illorum est a Deo 
+      fa<lb ed="#H" n="36" break="no"/>ctum, sicuti est suum cujusque rei proprium bonum &amp; sua cujusque 
+      pro<lb ed="#H" n="37" break="no"/>pria perfectissimaque actio ad quam a Deo est destinatum, atque adeo 
+      <lb ed="#H" n="38"/>proprius usus corporis cujusque secundum naturalem ordinem, &amp; quo 
+      <lb ed="#H" n="39"/>rundam secundum gratiam aivinam. Secundum illum servit 
+      con<lb ed="#H" n="40" break="no"/>silio Dei in ipsa natura: secundum hanc jussu Dei vere fidelibus ad 
+      <lb ed="#H" n="41"/>usum sanctum in Ecclesia Dei adhibetur, veluti in Sacramentorum 
+      <lb ed="#H" n="42"/>administratione. 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e181">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Principia interna naturae visibilis seu corporum naturalium 
+      visi<lb ed="#H" n="44" break="no"/>bilium duplicia sunt; constitutionis &amp; transmutationis. 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e190">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Principia constitutionis, sunt ex quibus tanquam partibus 
+      natura<lb ed="#H" n="46" break="no"/>de corpus constitutum est, &amp; quae propterea in corpore constituto 
+      <lb ed="#H" n="47"/>permanent. 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e201">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Suntque duo, nimirum materia &amp; forma. 
+      <lb ed="#H" n="49"/>MATERIA PRIMA corporum naturalium initio creatorum, erat 
+      <lb ed="#H" n="50"/>ingens &amp; profundissima, sed rudis &amp; indigesta omnium elemento; 
+      <lb ed="#H" n="51"/>rum inter se confusorum moles seu massa, ex qua a Deo corpora 
+      na<lb ed="#H" n="52" break="no"/>turalia deinde sunt tanquam ex semine quodam educta. Vocatur 
+      et<lb ed="#H" n="53" break="no"/>iam Chaos, item abyssus, Gen. 1. v 2. 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e219">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Eaque corporibus naturalibus constituendis initio creata est, non 
+      a<lb ed="#H" n="55" break="no"/>creato Ente ullo, sed a solo Deo, ut dicet Moses Genes. 1. v. 1, 2, 3. 
+      <lb ed="#H" n="56"/>quum materia non efficiatur nisi per creationem, quae ad solam divi 
+      <lb ed="#H" n="57"/>nam potentiam spectat. Proinde materia prima non est Deo 
+      coater<lb ed="#H" n="58" break="no"/>na, nec praeexstint ab aeterno, sed initium cum tempore habuit: quod  
+      <lb ed="#H" n="59"/>asserimus contra Philosophos &amp; contra haereticos Seleucianos, 
+      Her<lb ed="#H" n="60" break="no"/>nianos, Proclianos, Hermogenianos, &amp;c. Vide insignem librum 
+      <lb ed="#H" n="61"/>Tertulliani adversus Hermogenem, qui in africa haeresin 
+      introduxe<lb ed="#H" n="62" break="no"/>rat de materia Dei coaeterna, ex qua mundum er asset Deus 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e243">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Estque prima mater a creata ex nihilo, negative sic accepto, non 
+      pri<lb ed="#H" n="64" break="no"/>vative, ut supra monuimus: Eoque vere dicitur, hujus cum primis 
+      ma<lb ed="#H" n="65" break="no"/>teriae respectu Deum omnia e nihilo fecisse. 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e254">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Materia prima est primum subjectum transmutationis &amp; varia 
+      <lb ed="#H" n="67"/>ram formarum, &amp; quod semper manet, quamvis una privatum 
+      for<lb ed="#H" n="68" break="no"/>ma, aliam subinde recipit.  
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e266">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Ea in sui creatione non omni prorsus caruit FORMA SUBSTAN 
+      <lb ed="#H" n="70"/>TIALI, ut sequentia argumenta ostendunt. I. Nulla res creata. 
+      <lb ed="#H" n="71"/>est sine forma, per quam unumquodque suum esse habet: Materia 
+      <lb ed="#H" n="72"/>prima, est a Deo creata: Ergo, &amp;c II. Quicquid actu subsistit, id 
+      cer<lb ed="#H" n="73" break="no"/>te non omni prorsus caret forma. Ratio est, quia unumquodque actu 
+      <lb ed="#H" n="74"/>subsisttper formam, quae dat esse rei: &amp; quicquid omni prorsus caret. 
+      <lb ed="#H" n="75"/>forma, actu subsistere non potest. At materia prima actu subsistebat,  
+      <lb ed="#H" n="76"/>simul ac creata fuit: Nam Moses dicit, quod terra erat, id est, subsiste 
+      <lb ed="#H" n="77"/>Dat: deinde Spiritus Domini incubabat aquis: non incubabat autem 
+      <lb ed="#H" n="78"/>nisi rei subsistenti. III. Si materia prima caruisset omni prorsus 
+      for<lb ed="#H" n="79" break="no"/>ma. tum non potuissent ei induci formae novae, quas antea non 
+      ha<lb ed="#H" n="80" break="no"/>buerat: Sed sunt ei inductae novae formae quas initio creationis sui non 
+      <lb ed="#H" n="81"/>habuetat: Ergo omni prorsus forma antea non caruit.  
+      <lb ed="#H" n="82"/>Summa: materia prima non potuit actu subsistere per sese, sed 
+      tan<lb ed="#H" n="83" break="no"/>tum per formam aliquam substantialem. Ipsa vero materia prima 
+      <lb ed="#H" n="84"/>per se sola considerata, Ens est in potentia tantum, nullam ex se actu 
+      <lb ed="#H" n="85"/>habens formam propriam: estque omnium substantiarum creata. 
+      <lb ed="#H" n="86"/>rum insima &amp; ignobilissima, &amp; pura potentia passiva &amp; ipsum 
+      pri<lb ed="#H" n="87" break="no"/>mum subjectum potens recipere formas; materia quippe a Deo 
+      for<lb ed="#H" n="88" break="no"/>mae subjecta fuit informanda: quod asseveramus contra 
+      Manichaeo<lb ed="#H" n="89" break="no"/>&amp; Almarianos. 
+      <!--cod-MkL9py-0313.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>Forma substantialis proficiscebatur ab operatione Spiritus 
+      San<lb ed="#H" n="91" break="no"/>cti incubantis superficies aquarum &amp; materiam sustentantis 
+      foven<lb ed="#H" n="92" break="no"/>tisque formationis ergo, ut foventur pulli ab incubantibus 
+      matri<lb ed="#H" n="93" break="no"/>bus. Moses id testatur quum ait, Gen. 1. v. 2. Spiritus Dei 
+      incubaba<lb ed="#H" n="94" break="no"/>superficiei aquarum. Id autem faciebat spirituali &amp; plane 
+      inenarrabi<lb ed="#H" n="95" break="no"/>i, non autem corporali modo: &amp; materiam primam per se &amp; natura 
+      <lb ed="#H" n="96"/>sua inhabilem, disponebat virture sua &amp; aptam efficiebat ad 
+      suscipi<lb ed="#H" n="97" break="no"/>endas formas postea inducendas 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e338">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Deinde Deus post creatam primam materiam, in illam novas eas  
+      <lb ed="#H" n="99"/>que substantiales formas, veteri lutaceam forma abolita, inducebat suo 
+      <lb ed="#H" n="100"/>verbo, dicendo, Fiat hoc, aut illud: atque ita omnia naturalia corpora 
+      <lb ed="#H" n="101"/>tam caelestia quam elementaria suis distincta formis substantialibus. 
+      <lb ed="#H" n="102"/>produxit.  
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e354">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Principium naturale transmutationis est PRIVATIO Physica, 
+      <lb ed="#H" n="104"/>quae est vacuitas seu carentia formae in subjecto seu materia 
+      capace<lb ed="#H" n="105" break="no"/>illius formae: ac proinde materiae constitutio talis quam apta sit 
+      recipi<lb ed="#H" n="106" break="no"/>endae formae. Illam ad primam terum omnium productionem 
+      con<lb ed="#H" n="107" break="no"/>currisse ostendit Moses, quum ait, Gen. 1. v. 2. Terra aute erat, uI 
+      <lb ed="#H" n="108"/>HPIT Tohu vabohu, id est, res informis &amp; inanis, tenebraeque erant in 
+      su<lb ed="#H" n="109" break="no"/>perficie abyssi. Terra erat PPIT Tohi, id est, res informis; tum quia 
+      u<lb ed="#H" n="110" break="no"/>prima materia secundum essentiam suam considerata erat ἀπαος, 
+      <lb ed="#H" n="111"/>omni qualitate &amp; forma carens, quam postea Deus ipse veluti 
+      princi<lb ed="#H" n="112" break="no"/>pium externum bonitate sua &amp; potentia ei indidit; quia omnis 
+      for<lb ed="#H" n="113" break="no"/>ma &amp; qualitas est extra essentiam materiae &amp; in materiam 
+      extrinso<lb ed="#H" n="114" break="no"/>cus inducitur: tum quia diversae illae formae terum ex ea producta 
+      <lb ed="#H" n="115"/>rum non erani antea in ipsa; eoque in ea fuit privatio talium 
+      forma<lb ed="#H" n="116" break="no"/>rum; quod nisi fuisset, nequaquam potuissent in materiam inducit 
+      <lb ed="#H" n="117"/>Quod enim antea habetur, non demum accipitur. Alioqui ipsa 
+      ma<lb ed="#H" n="118" break="no"/>teria prima, si ut principium sumatur, non caruit omni prorsus 
+      for<lb ed="#H" n="119" break="no"/>ma; nec enim exstitit sine forma, sed sub forma, quia unumquodque 
+      <lb ed="#H" n="120"/>actu exsistit per formam, ut supra dictum: alioqui sequeretur, id quod  
+      <lb ed="#H" n="121"/>non est actu, esse actu, quae esset contradictionis implicatio.  
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e400">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Eadem terra erat VI eohis, id est, res inanis: quia nondum era 
+      <lb ed="#H" n="123"/>prnata diversis illis formis, quae postea accesserunt bonitate &amp; 
+      poten<lb ed="#H" n="124" break="no"/>tia Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e411">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Tenebrae erant in superficie abyssi, id est, haec universitas intus &amp; 
+      <lb ed="#H" n="126"/>foris carebat omni luce, nondum caelum ipsum erat lucidum 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e420">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Sic Moses docet quod materia prima fuerit ἀκατυσίναςος, μορ¬ 
+      <lb ed="#H" n="128"/>p, ανειδιος, αχηματςος, ἀπριος. Quapropter statuenda est 
+      priva<lb ed="#H" n="129" break="no"/>tio formae ut principium productionis corporum naturalium, sed  
+      <lb ed="#H" n="130"/>principium per accidens, quia nec agit quicquam in corpus subjectum, 
+      <lb ed="#H" n="131"/>icut causa efficiens, neque est ejus pars, sicut materia prima &amp; forma 
+      <lb ed="#H" n="132"/>substantialis sunt partes corporis naturalis: sed tantum 
+      accidentari<lb ed="#H" n="133" break="no"/>um quiddam, cujus interventu in materiam nova forma inducatus 
+      <lb ed="#H" n="134"/>atque ita novum fiat corpus: quum sit veluti via quaedam per quam i 
+      <lb ed="#H" n="135"/>materia sit progressio ad formam. 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e445">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>Erat tamen privatio pernecessaria ad primam rerum ex materia 
+      <lb ed="#H" n="137"/>prima productionem, ut &amp; post naturam creatam ad omnium rerum 
+      <lb ed="#H" n="138"/>generationem pernecessaria mansit: nam nisi in materia esset privae 
+      <lb ed="#H" n="139"/>tio, materiatransmutari non posset &amp; novas formas recipere 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e458">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Privatio Physica differt a privatione Logica. Nam privatio Logici 
+      <lb ed="#H" n="141"/>praesupponit formam seu habitum &amp; rei imperfectionem denotat ex 
+      amis<lb ed="#H" n="142" break="no"/>sione ejus quod anie habebat: at privatio quae est principium corporis 
+      na<lb ed="#H" n="143" break="no"/>turalis, est via quam mediante inducitur debita forma in subjectum 
+      quae<lb ed="#H" n="144" break="no"/>antea nondum adfuerat. Privatio Physica est ejus subjecti, quod habere 
+      <lb ed="#H" n="145"/>potest aliquid cum nondum habuerit: Privatio Logica autem est ejus 
+      <lb ed="#H" n="146"/>subjecti quod habuit &amp; desinit habere formam. 
+      <lb ed="#H" n="147"/>Ex his quae dicta sunt, manifestum est, materiam primam a Deo 
+      <lb ed="#H" n="148"/>ex nihilo creatam, esse subjectum illud primum transmutationis, id 
+      <lb ed="#H" n="149"/>quo tot tantaeque fiunt transmutationes, dum unam privatum forma, 
+      <lb ed="#H" n="150"/>aliam subinde recipit: ac proinde etiam materiam primam esse ἀπει, 
+      <lb ed="#H" n="151"/>νον, infinitam δυυαμe, potentia. Etsi enim, quatenus semper sub ali 
+      <lb ed="#H" n="152"/>qua est forma, actu contracta est, &amp; finita: tamen quatenus in 
+      poten<lb ed="#H" n="153" break="no"/>tia est ad omnes &amp; infinitas formas, eatenus dicitur esse infinit; 
+      <lb ed="#H" n="154"/>δυναμσι. Sed plura de principiis rerum naturalium &amp; ad Philosophi 
+      <lb ed="#H" n="155"/>cam σκιψιν pertinentia vide in Rodolphi Goclenii Philosophi 
+      cele<lb ed="#H" n="156" break="no"/>berrimi Physicis Disputationibus. 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e500">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>Osus doctrinae de principiis internis naturae visibi 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e507">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>lis in 
+      Ecclesia<lb ed="#H" n="159" break="no"/>Doctrina haec quam Moses tradit de principiis internis corporum 
+      <lb ed="#H" n="160"/>visibilium insignes usus habe¬ 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e518">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Primo enim discimus hinc, Deum esse vere aliud a creaturis 
+      o<lb ed="#H" n="162" break="no"/>mnibus, inprimis a creaturis vilibilibus. Nam creatura visibilis est 
+      <lb ed="#H" n="163"/>corpus naturale, id est, habens in seipso naturam quae principium est 
+      <lb ed="#H" n="164"/>motus &amp; quietis, constans materia &amp; forma: at Deus est essentia 
+      sim<lb ed="#H" n="165" break="no"/>plicissima &amp; prorsus alia a creatis substantiis; unde a Philosophis 
+      et<lb ed="#H" n="166" break="no"/>tam τό ἀλο, id est, AL tun dicitur  
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e536">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Secundo deducimus hinc, tria esse Entium genera: supremum, quod 
+      <lb ed="#H" n="168"/>est tantum actus simplicissimus, sine ulla potentia passiva, nempe Deus: 
+      <lb ed="#H" n="169"/>Infi vum est tantum potentia passiva, haec est materia prima: 
+      Media<lb ed="#H" n="170" break="no"/>omnia inter Deum &amp; materiam primam, constant actu &amp; potentia. 
+      <lb ed="#H" n="171"/>actis, id quod sunt: potent A, ad id quod non sunt.  
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e553">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Tertio dicimus hinc, totam vilibilem naturam &amp; omnia ejus 
+      cor<lb ed="#H" n="173" break="no"/>pora vanitati &amp; mutationibus variis sub jacere, causamque tot muta; 
+      <lb ed="#H" n="174"/>tionum in natura quas conspicimus quotidie, inter alias esse materie 
+      <lb ed="#H" n="175"/>primae ex qua Deus omnes visibiles creaturas produxit, instabilita; 
+      <lb ed="#H" n="176"/>tem &amp; facultatem priores formas exuendi, diversasque formas diver 
+      <lb ed="#H" n="177"/>so tempore recipiendi. Singula res istae (ait Ecclesiastes cap. 1. v. 8, 9, 10, 
+      <lb ed="#H" n="178"/>I1. Ifatigantur, non posset quisquam eloqui; non satiaretur ocutus 
+      vi<lb ed="#H" n="179" break="no"/>lendo, neque impleretur nuris auditu. Id quod fuit, idem est quod futuri 
+      <lb ed="#H" n="180"/>est, &amp; id quod sit idem est quod fiet, neque est quidquam novi sub sole. 
+      <!--cod-MkL9py-0314.xml-->
+      <pb ed="#H" n="287"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Estne aliquid de quo dicitur, aspice hoci novum est? quod jam suit per 
+      se<lb ed="#H" n="2" break="no"/>cula, quod fuit ante nos. Non est memoria de prioribus: etiamque de 
+      po<lb ed="#H" n="3" break="no"/>sterioribus quae futura sunt, non erit de ipsis memoria apud illos qui erunt,  
+      <lb ed="#H" n="4"/>in posterum. Ita continua est rerum omnium in inferiore hac natura 
+      <lb ed="#H" n="5"/>gnutatio, ortus &amp; interitus: corruptio unius est alterius generatio. 
+      Et<lb ed="#H" n="6" break="no"/>si omnia sint eadem specie tenus, mutantur tamen in dies 
+      indivi<lb ed="#H" n="7" break="no"/>dua singularia. Quo pertinet etiam quod idem Ecclesiastes dicit c. 3. 
+      <lb ed="#H" n="8"/>1. 15. Ia quod fuit jam esse, &amp; quod futurum est jam fuisse: Deum ipsum 
+      <lb ed="#H" n="9"/>denique repetere interse consequentia. Efficit enim Deus ut res aliae aliis 
+      <lb ed="#H" n="10"/>succedant &amp; per vices revertantur, quasi in orbem agerentur. Ita 
+      re<lb ed="#H" n="11" break="no"/>volvuntur quae sunt in tempore, quemadmodum tepus ipsum quod 
+      <lb ed="#H" n="12"/>ua continet revolvitur: &amp; ut id fieri posset, condidit Deus materiam 
+      <lb ed="#H" n="13"/>primam talem, quae innumeras mutationes reciperet. Inde in 
+      ele<lb ed="#H" n="14" break="no"/>mentari inprimis regione omnia sunt infinitis mutationibus ac 
+      tan<lb ed="#H" n="15" break="no"/>lem interitui obnoxis 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e616">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Quarto conficitur hinc, nos certo esse liberandos a vanitate &amp; 
+      mu<lb ed="#H" n="17" break="no"/>tationibus quibus obnoxii sumus in hac vita. Nam ut mutationes ista 
+      <lb ed="#H" n="18"/>in materia prima initium habuerunt; nec enim ab aeterno fuerunt 
+      <lb ed="#H" n="19"/>quum ipsa materia prima ab aeterno non fuerit: ita non erunt etiam 
+      <lb ed="#H" n="20"/>terpetuae, sed finem habebunt, quum gloria illa, quam Deus filiis suis 
+      <lb ed="#H" n="21"/>praepatavit, reipsa patefiet &amp; illi facto ipso in eam evehentur: tunc &amp; 
+      <lb ed="#H" n="22"/>natura haec a mutatione &amp; corruptione cui nunc est mancipata, 
+      asse<lb ed="#H" n="23" break="no"/>retur. Qua de re Paulus Apostolus, Rom. 8. 19, 20, 21, 22. Etenim 
+      <lb ed="#H" n="24"/>mundus hic conditus quasi exserto capite observans exspectat revelatio  
+      <lb ed="#H" n="25"/>nem filiorum Dei. Nam vanitatis mundus hic conditus subjectus est, 
+      no<lb ed="#H" n="26" break="no"/>sua sponte, sed propter eum qui subjecit ipsum isti vanitati. Sub spe quod  
+      <lb ed="#H" n="27"/>&amp; ipse conditus mundus liberabitur ex servitute corruptionis in 
+      liber<lb ed="#H" n="28" break="no"/>tatem gloriae filiorum Dei. Scimus enim totum mundum conditum 
+      uno<lb ed="#H" n="29" break="no"/>suspirare, &amp; una parturire ad hoc usque tempus. Ita mutationes 
+      perpe<lb ed="#H" n="30" break="no"/>tuae in mundo hoc inferiore, quae hominibus mundo addictis 
+      solici<lb ed="#H" n="31" break="no"/>tudinem &amp; metum continuo pariunt, vere fidelibus consolationis 
+      <lb ed="#H" n="32"/>sunt materia. 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e658">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>QEIICITUR Omnia opera quae fecit Deus perseverant in perpetuum; 
+      <lb ed="#H" n="34"/>ut ait Ec, lesiastes c. 3. v. 14. Ergo non fiunt ullae in operibus Dei 
+      mutati<lb ed="#H" n="35" break="no"/>gnes: aut quaecunque non perseverant, in perpetuum non sunt a Deo creatae. 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e669">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>RESP. Lotus allegatus ex Ecclesiaste, male est versus in vulgata 
+      <lb ed="#H" n="37"/>versione Latina. Non enim debet verti; Omnia opera quae fecit, 
+      qua<lb ed="#H" n="38" break="no"/>si Ecclesiastes de rerum creatione loqueretur: sed quae facit, videli 
+      <lb ed="#H" n="39"/>cet continenter; ac proinde &amp; ulterius facturus est sapientissima 
+      ac<lb ed="#H" n="40" break="no"/>constant ssima sua providentia omnia gubernans &amp; conservans. De 
+      <lb ed="#H" n="41"/>quo loco &amp; genuino ejus sensu vide plura supra cap. 6. hujus libri, 
+      co<lb ed="#H" n="42" break="no"/>lumna 1715. &amp; sequente, 
+      </p>
+            <p xml:id="yyy8Uu-e37530-d1e689">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Quinto continua illa mutatio qua materia prima veteri forma 
+      <lb ed="#H" n="44"/>deposita, ipsa nihilominus manet, sed subinde novam formam 
+      indu<lb ed="#H" n="45" break="no"/>it, est imago resurrectionis corporum nostrorum in extremo mundi. 
+      <lb ed="#H" n="46"/>die. Hoc pulcherrime declarat Tertullianus libro de 
+      resurre<lb ed="#H" n="47" break="no"/>ctione carnis, capite duodecimo: Aspice nunc (inquit) ad ipsa quo 
+      <lb ed="#H" n="48"/>que exempla divinae potestatis. Dies moritur in noctem, &amp; tenebris usque  
+      <lb ed="#H" n="49"/>quaque sepelitur. Funestatur mundi honor, omnis substantia denigratur.  
+      <lb ed="#H" n="50"/>Sordent, silent, stupent cuncta: ubique justitium est, quies rerum. Ita 
+      <lb ed="#H" n="51"/>lux am ssa lugetur. Et tamen rursus cum suo cultu, cum dote, cum sole, 
+      <lb ed="#H" n="52"/>eadem &amp; integra &amp; tota universo orbi reviviscit, interficiens mortem 
+      <lb ed="#H" n="53"/>suam noctem, rescindens sepulturam suam tenebras, haeres sibimet 
+      <lb ed="#H" n="54"/>exsisiens, donec &amp; nox reviviscat cum suo &amp; illa suggestu. Redaccens 
+      <lb ed="#H" n="55"/>duntur enim Sstellarum radii, quos matutina succesio extinxerat. Redus 
+      <lb ed="#H" n="56"/>cuntur &amp; siderum absentiae, quas temporalis distinctio exemerat. 
+      Red<lb ed="#H" n="57" break="no"/>ornantur &amp; specula Lunae, quae menstruus numerus adtriverat. Revol 
+      <lb ed="#H" n="58"/>viuntur hyemes &amp; aestates &amp; verna, &amp; autumna, cum suis viribus, 
+      mo<lb ed="#H" n="59" break="no"/>ribus, fructibus. Quippe etiam terra de caelo disciplina est, arbores vestire 
+      <lb ed="#H" n="60"/>post spolia, flores denuo colorare, herbas rursus imponere, exhibere eadem: 
+      <lb ed="#H" n="61"/>quae absumta sint semina: nec prius exhibere, quam absumta. Mira 
+      ra<lb ed="#H" n="62" break="no"/>tio: de fraudatrice servatrix: ut reddat, intercipit: ut custodiat, perdit 
+      <lb ed="#H" n="63"/>ut integret, vitiat: ut etiam ampliet, prius decoquit. Siquidem uberiora 
+      <lb ed="#H" n="64"/>&amp; cultiera restituit, quam exterminavit. Revera foenore interitu, &amp; 
+      <lb ed="#H" n="65"/>injuria usura, &amp; lucro damno semel dixerim universa conditio recidua 
+      <lb ed="#H" n="66"/>est. Quodcunque conveneris, fuit: quodcunque amiseris, nihil non iterum 
+      <lb ed="#H" n="67"/>est. Omnia in statum redeunt, quum abscesserint: omnia incipiunt, qui  
+      <lb ed="#H" n="68"/>desierint. Ideo finiuntur, ut fiant. Nihil deperit, nisi in salutem. Totus 
+      <lb ed="#H" n="69"/>igitur hic ordo reuolubilis rerum, testatio est resurrectionis mortuorum. 
+      <lb ed="#H" n="70"/>Operibus eam praescripsit Deus ante, quam literis: viribus praedicauit  
+      <lb ed="#H" n="71"/>ante, quaem vocibus. Praemisit tibi naturam magistram, submissurus &amp; 
+      <lb ed="#H" n="72"/>prophetiam, quo facilius credas prophetiae, discipulus naturae: quo 
+      sta<lb ed="#H" n="73" break="no"/>tim admittas, quum audieris, quod ubique jam videris: nec dubites Deum 
+      <lb ed="#H" n="74"/>carnis etiam resuscitatorem, quem omnium noris restitutorem. Et 
+      ubi<lb ed="#H" n="75" break="no"/>que si omnia homini resurgunt, cui procurata sunt, porro non homini, 
+      <lb ed="#H" n="76"/>nisi &amp; carni, quale est ut ipsa depereat in totum, propter quam &amp; cui 
+      ni<lb ed="#H" n="77" break="no"/>hil deperit: 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

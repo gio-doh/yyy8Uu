@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 31</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 31</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="NaN"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e20037"> <!-- l1-c31 -->
+            <head xml:id="yyy8Uu-e20037-Hd1e109">Caput 31</head>
+            <p xml:id="yyy8Uu-e20037-d1e112">
+               <lb ed="#H" n="43"/>CAPUT XXXI. 
+      <lb ed="#H" n="44"/>In quo agitur de libris Canonicis &amp; Apocryphis.
+      </p>
+            <p xml:id="yyy8Uu-e20037-d1e119">
+               <lb ed="#H" n="45"/>Hactenus actum est de autoritate Sacrae Scripturae divina&amp; 
+      <lb ed="#H" n="46"/>Canonica: deinceps explicandum, quinam 
+      libri<lb ed="#H" n="47" break="no"/>sint vere Sacra Scriptura &amp; autoritatem 
+      <lb ed="#H" n="48"/>illam habeant. 
+      <lb ed="#H" n="49"/>IERI illi sunt, qui non aequivoce sed univoce &amp; proprie 
+      Canoni<lb ed="#H" n="50" break="no"/>i in Ecclesia Christiana vocantur, qui nempe sunt vere divini, 
+      <lb ed="#H" n="51"/>Avere a Deo per Prophetas &amp; Apostolos Ecclesiae traditi, ut sint  
+      <lb ed="#H" n="52"/>certissima atque infallibilis regula fidei &amp; cultus Dei vitaeque Dei 
+      <lb ed="#H" n="53"/>placentis: quorum autoritas ad confirmanda dogmata 
+      Ecclesiasti<lb ed="#H" n="54" break="no"/>ca quae in controversiam veniunt, est apud omnes vere fideles citra 
+      <lb ed="#H" n="55"/>contradictionem idonea 
+      </p>
+            <p xml:id="yyy8Uu-e20037-d1e145">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Utque omnes scientiae &amp; disciplinae habent sua oixeia &amp; germana 
+      <lb ed="#H" n="57"/>principia, e quibus &amp; praecoptiones ad docendum &amp; rationes ad 
+      con<lb ed="#H" n="58" break="no"/>firmandum &amp; conclusiones deducuntur; siquidem non potest 
+      insti<lb ed="#H" n="59" break="no"/>tutio ulla aut disputatio de rebus controversis recte fieri, nisi constet 
+      <lb ed="#H" n="60"/>ex quibus principiis firma argumenta immotaeque rationes duci 
+      <lb ed="#H" n="61"/>possint &amp; debeant: ita &amp; religionis Christianae principia Scripturae 
+      <lb ed="#H" n="62"/>Sacrae libris vere Canonicis comprehensa sunt, ex quibus primo 
+      fi<lb ed="#H" n="63" break="no"/>des &amp; religio Christiana exstructa est, &amp; in quas ultimo illa 
+      resolvi<lb ed="#H" n="64" break="no"/>tur, sic ut in illis terminetur, vel dabitur processus in infinitum, in quo 
+      <lb ed="#H" n="65"/>ides cum nusquam terminetur, necessario evanescat. Hoc Papistae 
+      <lb ed="#H" n="66"/>ipsi fatentur: Petrus de Alliaco Cameracensis Episcopus, Cardinalis 
+      <lb ed="#H" n="67"/>Ecclesiae Romanae in Sententiar, primum librum quaest. 1. art. 3. ist. 
+      <lb ed="#H" n="68"/>habet: Ex hac descrptione patet quae sint principia Theologica. Sunt 
+      <lb ed="#H" n="69"/>enim ipsae Sacri Canonis veritates, quoniam ad ipsas sit ultima 
+      reso<lb ed="#H" n="70" break="no"/>lutio Theologici discursus: &amp; ex eis primo singulae conclusiones 
+      Theolo<lb ed="#H" n="71" break="no"/>gicae deducuntur. 
+      </p>
+            <p xml:id="yyy8Uu-e20037-d1e185">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Porro principia Theologica non sciuntur proprie loquendo, sed 
+      <lb ed="#H" n="73"/>creduntur. Nam nihil horum ad quae requititur fides est scientia 
+      <lb ed="#H" n="74"/>proprie dicta, τῶν πιρὸν non est scientia proprie dicta. Nullus 
+      habe<lb ed="#H" n="75" break="no"/>scientiam alicujus veritatis, nisi evidenter noscat principia seu prae 
+      <lb ed="#H" n="76"/>missas ex quibo infertur: neque Musicus neque Opticus seu 
+      Perspecti<lb ed="#H" n="77" break="no"/>vus habet scientiam suarum conclusionum, nisi evidenter noscat 
+      prin<lb ed="#H" n="78" break="no"/>cipia. Non igitur credit principia, sed evidenter noscit, quamvis illam 
+      <lb ed="#H" n="79"/>evidentem notitiam in eo genuerint demonstrationes Geometricae 
+      <lb ed="#H" n="80"/>vel Arithmeticae: impossibile est enim majorem esse evidentiam con 
+      <lb ed="#H" n="81"/>clusionis quam praemissarum. Ideo ubi praemissae tantum creduntur. 
+      <lb ed="#H" n="82"/>conclusio creditur &amp; non scitur, stricte &amp; proprie loquendo. Fides 
+      <lb ed="#H" n="83"/>principiorum prior est, quam conclusionum: quanquam per 
+      conclu<lb ed="#H" n="84" break="no"/>siones demonstratas, sides principiorum magis innotescit 
+      </p>
+            <p xml:id="yyy8Uu-e20037-d1e218">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>Iidem libri vere &amp; divinitus Canonici, ενδιαθηκο, hoc est, 
+      Testa<lb ed="#H" n="86" break="no"/>mentarii nuncupantur, quia in illis continetur Testamentum Dei seu 
+      <lb ed="#H" n="87"/>fedusinter Deum &amp; homines tum Vetus tum Novum. 
+      </p>
+            <p xml:id="yyy8Uu-e20037-d1e229">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Libri Veteris Testamenti vere divini &amp; Canonici sunt his 
+      Petateu<lb ed="#H" n="89" break="no"/>chus seu quinque libri Mosi; Genesis, Exodus, Leviticus, Numeri &amp; 
+      Deu<lb ed="#H" n="90" break="no"/>teronomin: Triteuchus, nepe tres libri sequentes, Iosua, Iudicum &amp; Ruth. 
+      <!--cod-MkL9py-0069.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>sic enim appellantur hi tres libri ab Athanasio in Epistola ad Mar:¬ 
+      <lb ed="#H" n="92"/>cellinum de interpretatione Psalmorum tomo primo, pag. septium 
+      <lb ed="#H" n="93"/>gentes. quadrages Edition. Commeliniam) Samuelis duo libri, qui et 
+      <lb ed="#H" n="94"/>iam primus &amp; secundus Regum in editione vulgata Latina dicunt 
+      <lb ed="#H" n="95"/>tur: Regum duo libri, qui in vulgata versione tertius &amp; quartus Regum 
+      <lb ed="#H" n="96"/>sunt: Chronicorum seu Paralipomenon libri duo: Ezzae unus, Nehemiae 
+      <lb ed="#H" n="97"/>unus, Estherae unus, lob, Psalmi, Proverbia, Ecclestastes, Cantica 
+      Canti<lb ed="#H" n="98" break="no"/>corum: Iesaias, Ieremias, Ezechiel, Daniel, Hozcas, Ioel, Amos, Obadia, 
+      <lb ed="#H" n="99"/>Ionas, Micheas, Nahum, Chabalue, Sophonias, Chaggaeus. 
+      Zachari<lb ed="#H" n="100" break="no"/>as, Malashias; Hi soli veteris Testamenti libri sunt univoce proprie 
+      <lb ed="#H" n="101"/>que Canonic. 
+      </p>
+            <p xml:id="yyy8Uu-e20037-d1e268">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Novi autem Testamenti omnes sunt vere, univoce &amp; proprie 
+      di<lb ed="#H" n="103" break="no"/>vini &amp; Canonici, nullo excepto 
+      </p>
+            <p xml:id="yyy8Uu-e20037-d1e277">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Alii omnes qui extra hos sunt, etsi diuturna consuetudine in 
+      Co<lb ed="#H" n="105" break="no"/>dice Biblico, ut communiter habetur, recenseantur; tamen non sunt, 
+      <lb ed="#H" n="106"/>proprie, vere &amp; univoce divini &amp; Canonici, ac proinde non sunt 
+      ido<lb ed="#H" n="107" break="no"/>nei ad autoritatem Ecclesiasticorum dogmatum confirmandam; 
+      E<lb ed="#H" n="108" break="no"/>sunt hi: Adjectiones ad librum Estherae, uber Baruchi, adjectiones ad 
+      <lb ed="#H" n="109"/>Danielem, liber Tobiae, Iudithae, Macchabaeorum libri omnes quatuor, 
+      li<lb ed="#H" n="110" break="no"/>ber Sapientiae, Ecclesiasticus seu liber Iesu Syrachi, oratio Manassae regis, 
+      <lb ed="#H" n="111"/>Iudae, denique tertius &amp; quartus Esdrae, 
+      </p>
+            <p xml:id="yyy8Uu-e20037-d1e299">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Hi libri vocantur ab Hieronymo in Psologo Galeato, ab <name xml:id="yyy8Uu-e20037-Nd1e305">Hugone 
+      <lb ed="#H" n="113"/>Cardinale de S. Charo</name> &amp; aliis Graeco nomine Apocryphi, id est, occul 
+      <lb ed="#H" n="114"/>ti, propterea quod Ecclesiae non fuerunt traditi cum certa Spiritur 
+      <lb ed="#H" n="115"/>Dei testificatione, ut in capsa Ecclesiae conderentur αρχιτθπα, &amp; 
+      pa<lb ed="#H" n="116" break="no"/>iam ex authentico illorum Canone Ecclesia doceretur: sed tantum 
+      <lb ed="#H" n="117"/>velut humana scripta volentibus legere permissi sunt. Quanquam  
+      <lb ed="#H" n="118"/>non male quis statuerit θτίκρυφον dici, ὅπ ἀπεστιν δγι τῆς κρθυπτης αγιαι, 
+      <lb ed="#H" n="119"/>uicquid abest a sancta illa crypta, armatio, reconditorio, thesauro, &amp; 
+      <lb ed="#H" n="120"/>bibliotheca librorum divinitus traditorum Ecclesiae, quae ab 
+      Epi<lb ed="#H" n="121" break="no"/>phanio libro de ponderibus &amp; mensuris vocatur Aron, hoc est, 
+      arca<lb ed="#H" n="122" break="no"/>seu capsa Ecclesiae, in qua libri a Pros hetis jussu Dei conscripti &amp; 
+      sa<lb ed="#H" n="123" break="no"/>cerdotibus traditi recondebantur &amp; asservabantur, sic ut δν φυφον sit, 
+      <lb ed="#H" n="124"/>πον τό μη ενδιαθεκον, quicquid non est in Canone divini federis 
+      pe<lb ed="#H" n="125" break="no"/>nes Ecclesiam depositum jussu &amp; autoritate Dei. Unde sunt ἀλιον λπη¬ 
+      <lb ed="#H" n="126"/>χρυρῆς, digni qui abscondantur magis quam qui legantur, ut 
+      Atha<lb ed="#H" n="127" break="no"/>nasius censet in Synopsi Sacrae Scripturae pag. centes. triges. quarta, 
+      <lb ed="#H" n="128"/>tom. 2. edition. Commelianae 
+      </p>
+            <p xml:id="yyy8Uu-e20037-d1e345">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>Quidam, teste Ruffino Symbolum Apostolicum exponente, 
+      Sa<lb ed="#H" n="130" break="no"/>pientiam Salomonis. Sapientiam Jesu Syrachi, libellum Tobiae &amp; 
+      <lb ed="#H" n="131"/>Judith &amp; Macchabaeorum libros discreverunt ab apocryphis &amp; 
+      Ec<lb ed="#H" n="132" break="no"/>clesiasticos vocarunt, sed non Canonicos, neque eos proferri 
+      volue<lb ed="#H" n="133" break="no"/>tunt ad authoritatem ex his fidei confirmandam. Ecclesiasticos 
+      au<lb ed="#H" n="134" break="no"/>tem vocarunt, quod in Ecclesia praeferrentur aliis humanis scriptis &amp; 
+      <lb ed="#H" n="135"/>Catechumenis legerentur propter morum praecepta &amp; exempla 
+      <lb ed="#H" n="136"/>quaedam illustria 
+      <lb ed="#H" n="137"/>Hanc distinctionem librorum proprie Canonicorum, in 
+      vete<lb ed="#H" n="138" break="no"/>ri Testamento ab Apocryphis seu Ecclesiasticis confirmat Canon 
+      <lb ed="#H" n="139"/>vere divinus, hoc est, Hebraeus a Deo per Prophetas Ecclesiae 
+      tra<lb ed="#H" n="140" break="no"/>ditus. 
+      </p>
+            <p xml:id="yyy8Uu-e20037-d1e376">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Accedit secundario autoritas Ecclesiae antiquae: Nam Patres 
+      ve<lb ed="#H" n="142" break="no"/>teres &amp; Concilia Christiana legitima, quin etiam Papistae saniores 
+      <lb ed="#H" n="143"/>proprie Canonicos libros a caeteris aperte dis junxerunt, quorum 
+      <lb ed="#H" n="144"/>testimonia videantur in Symphonia nostra Catholica capite primo 
+      <lb ed="#H" n="145"/>thesi prima. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

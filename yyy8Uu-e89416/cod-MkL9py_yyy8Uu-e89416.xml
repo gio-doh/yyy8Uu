@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 30</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 30</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="188"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e89416"> <!-- l2-c30 -->
+            <head xml:id="yyy8Uu-e89416-Hd1e109">Caput 30</head>
+            <p xml:id="yyy8Uu-e89416-d1e112">
+               <lb ed="#H" n="126"/>CAPUT XXX.  
+    </p>
+            <p xml:id="yyy8Uu-e89416-d1e117">
+               <lb ed="#H" n="127"/>TIBERTAS DEI, est proprietas ejus essentialis, per quam 
+      o<lb ed="#H" n="128" break="no"/>mnia quae vult, liberrime posse, &amp; quae facit liberrime facere &amp; a 
+      <lb ed="#H" n="129"/>nemine cogi posse, sed omnino sui juris, nemini obstrictus, 
+      ne<lb ed="#H" n="130" break="no"/>mini obligatus, nemini debitor, nullique oneri sive culpae, sive poena. 
+      <lb ed="#H" n="131"/>obnoxius esse intelligitur?
+    </p>
+            <p xml:id="yyy8Uu-e89416-d1e130">
+               <lb ed="#H" n="132"/>Qui vere beatus est &amp; dici debet, hunc suarum actionum dominus: 
+      <lb ed="#H" n="133"/>esse oportet. Quod si quis liber non est &amp; suarum operationum deminis. 
+      <lb ed="#H" n="134"/>s felix &amp; beatus vere esse non potest. 
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e140">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>Axiomata. 
+      <lb ed="#H" n="136"/>I. Solus DEUS proprie &amp; vere liber est, imo liberrimus. 
+      <lb ed="#H" n="137"/>II. Libertas Dei triplex est, a coactione, a servitute, ab onere 
+      mi<lb ed="#H" n="138" break="no"/>seris 
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e153">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Libertas Dei a coactione, est qua Deus absque ulla necessitate ab 
+      ae<lb ed="#H" n="140" break="no"/>terno decrevit universum ordinem creationis, conservationis &amp; 
+      gu<lb ed="#H" n="141" break="no"/>bernationis rerum omnium, eumque sine ulla coactione aut 
+      alliga<lb ed="#H" n="142" break="no"/>tione ad causas secundas exsequitur, sic ut a rectitudine sua non 
+      disce<lb ed="#H" n="143" break="no"/>dat  
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e169">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Libertas Dei a servitute, est qua DEUS nulli est obligatus, nulli 
+      <lb ed="#H" n="145"/>debitor, neque gubernationi aut ductui aut imperio alterius 
+      subje<lb ed="#H" n="146" break="no"/>ctus aut alligatus, a nullo alio principio a quo gubernetur pendens. 
+      <lb ed="#H" n="147"/>Falso Concitium Constantiense impingit Joh. Vicleso, quod docuerit,  
+      <lb ed="#H" n="148"/>DEUM debere obedire Diabolo: Calumnias Constantienses 
+      Bellar<lb ed="#H" n="149" break="no"/>minus sequitur.  
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e187">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>Libertas Dei ab onere miseriae, est qua solus DEUS natura talis est; 
+      <lb ed="#H" n="151"/>ut nulla miseria sive culpae sive poenae in eum possit cadere. 
+      <lb ed="#H" n="152"/>III. In libertate PEI quaedam sunt communia, hoc est, quo- 
+      <lb ed="#H" n="153"/>rum imago est in creaturis rationalibus: quaedam vero omnibus. 
+      <lb ed="#H" n="154"/>modis sunt propria Dei. Nam duo sunt communia Deo &amp; 
+      rationali<lb ed="#H" n="155" break="no"/>bus creaturis; unum quod consilio agant: alterum quod sine 
+      coa<lb ed="#H" n="156" break="no"/>ctione volunt ea quae cogitatunt, quum voluntas sua natura idones 
+      <lb ed="#H" n="157"/>exsistat ad volendum oppositum aut diversum ejus quod vult, aut ad 
+      <lb ed="#H" n="158"/>differendum suam actionem, sua sponte ac vi sibi insita in partem 
+      al<lb ed="#H" n="159" break="no"/>teram inclinante. De Deo enim dicitur Psalm. 104. vers. vigesimo. 
+      <lb ed="#H" n="160"/>quarto. Omnia in sapientia fecisti. Et Psalm. 115. 3. Deus noster in ipsis 
+      <lb ed="#H" n="161"/>coelis est, quicquid placet facit. Et de hominibus Genes. 3. vers. 
+      sexto<lb ed="#H" n="162" break="no"/>Quum ergo videret mulier bonum esse fructum arboris illius in cibum 
+      <lb ed="#H" n="163"/>&amp; gratissimam esse illam oculis, ac desiderabilem esse arboris fructum 
+      ad<lb ed="#H" n="164" break="no"/>habendam intelligentiam, accepit de fructu ejus &amp; comedit; etiamque  
+      <lb ed="#H" n="165"/>ledit viro suo qui comedit, Matth. 23. 37. Quoties uolui congregare 
+      li<lb ed="#H" n="166" break="no"/>beros tuos, quemadmodum gallica congregat pullos suos sub alas, &amp; 
+      no<lb ed="#H" n="167" break="no"/>luistis ? 2. Sam. 24. 12, 13. ait Deus ad Davidem: Tria ego propono 
+      ti<lb ed="#H" n="168" break="no"/>bi, delige unum ex his quod faciam tibi, &amp;c. 
+      <lb ed="#H" n="169"/>Propria vero libertati in Deo sunt.  
+      <lb ed="#H" n="170"/>I. Ratione intellectus, quod Deus ex seipso perfectissime omnia 
+      <lb ed="#H" n="171"/>ab aeterno in aeternum intelligit atque intuetur, absque ulla ignoram 
+      <!--cod-MkL9py-0216.xml-->
+      <pb ed="#H" n="189"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>rantia aut errore judicii: creaturae vero neque ex sese, neque 
+      perfe<lb ed="#H" n="2" break="no"/>cte, neque omnia, neque eadem quovis tempore sciunt, sed tantum  
+      <lb ed="#H" n="3"/>ne tum de Deo, ejusque voluntate &amp; operibus intelligunt, quantum 
+      <lb ed="#H" n="4"/>&amp; quando ipsis Deus revelare vult; ideoque multatum rerum 
+      igno<lb ed="#H" n="5" break="no"/>rantia, &amp; nisi luce divina regantur mentes, etiam error in eas cadit 
+      <lb ed="#H" n="6"/>Matth. 24. 36. De die autem illa &amp; hora nemo scit, ne Angeli quidem 
+      <lb ed="#H" n="7"/>coelorum, sed Pater meus solus. Jesa. 40. 13. Quis erudivit spiritum 
+      se<lb ed="#H" n="8" break="no"/>novae? &amp; quis a consiliis ei ut docuerit eum? 
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e263">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>II. Ratione uoluntatis, quod Deus a nulla alia causa regitur, aut 
+      <lb ed="#H" n="10"/>flectitur, aut pendet, quam a seipso; ideoque solus Deus est, ἀυlεζκ 
+      <lb ed="#H" n="11"/>ος: Angeli vero &amp; homines subsunt decreto Dei quo flectuntur B 
+      <lb ed="#H" n="12"/>ad hoc vel illud. De Deo dicit Nebucadnetzar Magnus in 
+      program<lb ed="#H" n="13" break="no"/>mate suo per totum regnum suum publicato, Daniel. 4. 35. quod 
+      o<lb ed="#H" n="14" break="no"/>mnes habitatores terrae ut nihili reputentur, &amp; quod Deus pro 
+      uolun<lb ed="#H" n="15" break="no"/>tate sua faciat in exercitu coeli &amp; habitatoribus terrae: neque est qui 
+      pro<lb ed="#H" n="16" break="no"/>hibeat manum ejus, aut dicat ei quid facis: 
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e285">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>III. Ratione tum intellectus tum uoluntatis conjunctim, quo- 
+      <lb ed="#H" n="18"/>Deus immutabiliter sit liber natura sua: creatura non item, Malach. 
+      <lb ed="#H" n="19"/>3. 6. Ego Iehova non mutor 
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e297">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>IV. Si Deus non esset omnibus modis liber, non esset Deus, l 
+      <lb ed="#H" n="21"/>e. nec prima causa suorum operum, nec felicissimus 
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e306">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>V. Etiamsi Deus natura, hoc est, summa &amp; absoluta necessitat  
+      <lb ed="#H" n="23"/>bonus est, &amp; Filium genuit &amp; Spiritum Sanctum spiravit ab aeterno: 
+      <lb ed="#H" n="24"/>tamen non coacta, sed liberrima voluntate exsistit, vivit, est beatus &amp; 
+      <lb ed="#H" n="25"/>bonus, Filium &amp; Spiritum Sanctum habet, &amp; omnia sua consilia 
+      at<lb ed="#H" n="26" break="no"/>que opera bona &amp; justa esse vult, quantumvis impossibile sit, eum his 
+      <lb ed="#H" n="27"/>contraria verle. Itaque absoluta necessitas haec volendi in Deo, non 
+      <lb ed="#H" n="28"/>tollit summam libertatem in eo. Hoc diligentissime observandum 
+      <lb ed="#H" n="29"/>adversus eos, qui criminantur nos omnem libertatem adimere 
+      ho<lb ed="#H" n="30" break="no"/>mini, quum dicimus eum necessario lapsum, necessario peccare, 
+      ne<lb ed="#H" n="31" break="no"/>cessario id velle &amp; facere, quod Deus decrevit. Nam si absoluta 
+      ne<lb ed="#H" n="32" break="no"/>cessitas volendi in Deo, non tollit summam libertatem in eo: multo 
+      <lb ed="#H" n="33"/>minus necessitas ex hypothesi decreti &amp; gubernationis divinae tollis 
+      <lb ed="#H" n="34"/>libertatem eam quae creaturis competit, hoc est, judicium &amp; 
+      electio<lb ed="#H" n="35" break="no"/>nem spontaneam. 
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e341">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>VSVS libertatis in Deo. 
+      <lb ed="#H" n="37"/>Aιδασκαλιe. I. Deus solus est vere liber: Ergo ipsi soli omnia 
+      <lb ed="#H" n="38"/>serviunt: Ergo liberrime omnibus creaturis dominatur: 
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e352">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>II. Deus solus est vere liber: Ergo ipse solus est agens 
+      liberri<lb ed="#H" n="40" break="no"/>mum, cujus sapientia, voluntas, potentia &amp; libertas a nullo alio 
+      pen<lb ed="#H" n="41" break="no"/>det.  
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e363">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>III. Deus est liberrimus: Ergo habet potestatem de suo 
+      agen<lb ed="#H" n="43" break="no"/>di quod vult, dare quid &amp; cui vut &amp; quando vult; creare alios ad 
+      de<lb ed="#H" n="44" break="no"/>cus, alios ad dedecus, Jerem. 18. 6. Ecre ut argilla in manu figuli, ita; 
+      <lb ed="#H" n="45"/>vos estis in manu mea, o domus Israelis. Matth. 20. v. 15. Annon licet.  
+      <lb ed="#H" n="46"/>mihi quod volo facere in meis rebus? ad Roman. 9. versicul. 
+      decimo<lb ed="#H" n="47" break="no"/>octavo. Cujus vult miseretur, quem autem vult, indurat. Et vers. 
+      vige<lb ed="#H" n="48" break="no"/>simo primo. Annon habet potestatem figulus in lutum, ut ex eanem 
+      <lb ed="#H" n="49"/>massa faciat aliud quidem vas ad decus, aliud vero ad dedecus? 
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e385">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>EλSγῳι. I. Deus est liberrimus: Ergo non est mens alligata. 
+      <lb ed="#H" n="51"/>mundo, quae aliter agere non possit quam secundae causae agant: ergo 
+      <lb ed="#H" n="52"/>non regitur, multo minus pendet e causis secundis. Hoc diligente 
+      <lb ed="#H" n="53"/>teneamus, ut gloria Dei adversus Stoicas blasphemias asseratur. 
+      Pro<lb ed="#H" n="54" break="no"/>inde impiam Stoicorum sententiam de fato rejicimus, qua Deo 
+      li<lb ed="#H" n="55" break="no"/>bertas sua adimitur.  
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e404">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>II. Deus est liberrimus: Ergo rationes reddere suorum facto 
+      <lb ed="#H" n="57"/>rum tenetur nemini, 2. Sam. 16. 10 ait David: S: Iehova edixit 
+      Se<lb ed="#H" n="58" break="no"/>mei, maledic Davidi, ecquis dicat, quare sic facis? Jesa. 45. vers. 
+      nono<lb ed="#H" n="59" break="no"/>Vae litiganti cum fictore suo, testae cum aliis testis terreist an dicturum es 
+      <lb ed="#H" n="60"/>lutum fictori suo, quid facturus esses? 
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e420">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>III. Deus est liberrimus: Ergo nemini est debitor, nemini obi 
+      <lb ed="#H" n="62"/>estrictus ad quidpiam 
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e429">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Eπανώρθυσες. I. Deus est liberrimum agens: Ergo graviter  
+      <lb ed="#H" n="64"/>peccant qui moleste ferunt &amp; indignantur, quod Deus aliter eventur 
+      <lb ed="#H" n="65"/>omnes gubernet &amp; dirigat, quam ipsis placeat.  
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e440">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>II. Deus est liber omnibus modis: Ergo eum referre 
+      debeba<lb ed="#H" n="67" break="no"/>mus, ut imago archetypum; sed culpae &amp; poenae obnoxii facti sumus. 
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e449">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Πειδει 5. I. Deus est liberrimus: Ergo in cum fiducia &amp; spec 
+      <lb ed="#H" n="69"/>nostra firmiter recumbere debet. 
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e458">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>II. Deus est liberrimus: Ergo invocandus cum fiduciat 
+      <lb ed="#H" n="71"/>Πaρακλισες. I. Deus est liberrimus: Ergo eum nulla res 
+      im<lb ed="#H" n="72" break="no"/>pediet, quo minus nobis in rebus adversis auxilium praestare possit.  
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e470">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>II. Deus est liberrimus: Ergo etiam nos ad libertatem veram 
+      <lb ed="#H" n="74"/>reducet, quum imaginem Dei in nobis plene instauraverit; sic ut 
+      no<lb ed="#H" n="75" break="no"/>etiam futuri simus immunes a servitute peccati, diaboli, mortis, 
+      om<lb ed="#H" n="76" break="no"/>nisque miseriae, cui in hac vita subjecti sumus 
+      </p>
+            <p xml:id="yyy8Uu-e89416-d1e483">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Tantum de Libertate Dei: sequitur de 
+      <lb ed="#H" n="78"/>Gloria Dei.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

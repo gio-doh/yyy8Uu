@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="NaN"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e4455g"> <!-- l1-c10 -->
+            <head xml:id="yyy8Uu-e4455g-Hd1e109">Caput 10</head>
+            <p xml:id="yyy8Uu-e4455g-d1e112">
+               <lb ed="#H" n="45"/>CAPUT X.  
+      <lb ed="#H" n="46"/>De differentia Theologiae supernaturalis &amp; 
+      <lb ed="#H" n="47"/>naturalis. 
+      </p>
+            <p xml:id="yyy8Uu-e4455g-d1e121">
+               <lb ed="#H" n="48"/>ORRO Theologia supernaturalis differt a Theologia naturalis 
+      <lb ed="#H" n="49"/>hoc est, quae procedit ex principiis secundum se notis 
+      natura<lb ed="#H" n="50" break="no"/>intellectus humani lumine pro rationis humanae modo, &amp; 
+      pro<lb ed="#H" n="51" break="no"/>inde de rebus divinis agit, quantum lumine duntaxat naturali potest. 
+      <lb ed="#H" n="52"/>cognosci: quae Philosophica Theologia dicitur &amp; Metaphysica, item 
+      <lb ed="#H" n="53"/>prima Philosophia. 
+      </p>
+            <p xml:id="yyy8Uu-e4455g-d1e137">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Differt autem primo genere, seu secundum genus: nam Theologia 
+      <lb ed="#H" n="55"/>supernaturalis, est sapientia: Theologia autem naturalis, non est 
+      sa<lb ed="#H" n="56" break="no"/>pientia, etsi aequivoce a Philosophis Metaphysicis sapientia appelle 
+      <lb ed="#H" n="57"/>tur. Thomas Aquinas Summae parte prima, quaest. prima, articulo 
+      <lb ed="#H" n="58"/>primo: Theologia, inquit, quae ad Sacram Scripturam pertinet, 
+      dif<lb ed="#H" n="59" break="no"/>fert secundum genus ab illa Theologia, quae pars Philosophiae 
+      poni<lb ed="#H" n="60" break="no"/>tur. 
+      </p>
+            <p xml:id="yyy8Uu-e4455g-d1e158">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>II. Differt subjecto circa quod versatur seu objecto: nam 
+      Theolo<lb ed="#H" n="62" break="no"/>giae supernaturalis subjectum sunt res divinae proprie &amp; simplicite 
+      <lb ed="#H" n="63"/>sic dictae: Theologiae vero naturalis subjectum sunt res divinae, partimi 
+      <lb ed="#H" n="64"/>proprie, partim improprie &amp; secundum opinionem humanam sic 
+      di<lb ed="#H" n="65" break="no"/>ctae: nam pro vero subjecto saepe occupata est in falso seu opinabili.  
+      </p>
+            <p xml:id="yyy8Uu-e4455g-d1e174">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>III. Differt causa efficiente; nam Theologiae supernaturalis 
+      cau<lb ed="#H" n="67" break="no"/>sa efficiens est gratia &amp; lumen supernaturale Spiritus Sancti seu 
+      divi<lb ed="#H" n="68" break="no"/>nae revelationis fidei: Theologiae vero naturalis causa efficiens est 
+      na<lb ed="#H" n="69" break="no"/>tura &amp; lumen naturalo intellectus nostri. Lumen intellectus est 
+      in<lb ed="#H" n="70" break="no"/>strumentum ad intelligendum. Theologia igitur supernaturalis 
+      <lb ed="#H" n="71"/>non acquititur naturaliter sed a revelatione Dei pendet: naturalis 
+      <lb ed="#H" n="72"/>vero seu Metaphysica naturaliter acquiritur? 
+      </p>
+            <p xml:id="yyy8Uu-e4455g-d1e194">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>IV. Differt materia: nam Theologiae revelatae materia sunt 
+      re<lb ed="#H" n="74" break="no"/>rum divinarum principia seu praecepta natura ignota &amp; gratiose re 
+      <lb ed="#H" n="75"/>velata; qualia sunt Deus est unus &amp; trinus, Pater generat Filium, &amp;c. 
+      <lb ed="#H" n="76"/>Omnes hujusmodi veritates habentur supernaturaliter per inspira 
+      <lb ed="#H" n="77"/>tionem seu revelationem a Deo in Sacris Scripturis: Theologiae vero 
+      <lb ed="#H" n="78"/>taturalis materia, sunt rerum divinarum principia seu praecepta 
+      na<lb ed="#H" n="79" break="no"/>tura hominibus insita, ut Deum esse, Deum esse unum, Deum esse 
+      co<lb ed="#H" n="80" break="no"/>lendum, jus suum cuique tribuendum. Theologia revelata continet 
+      <lb ed="#H" n="81"/>Legem &amp; Evangelium: naturalis prorsus ignorat Evangelium. 
+      </p>
+            <p xml:id="yyy8Uu-e4455g-d1e218">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Principia &amp; praecepta Theologiae vocant Scholastici usitate 
+      veri<lb ed="#H" n="83" break="no"/>tates Theologicas 
+      </p>
+            <p xml:id="yyy8Uu-e4455g-d1e227">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>V. Differt forma: nam Theologiae revelatae forma est divina 
+      veri<lb ed="#H" n="85" break="no"/>tas, de qua jihan. 17. vers. 17. Sanctifica eos tua veritate: sermo 
+      ill<lb ed="#H" n="86" break="no"/>tuus est veritas: Theologiae vero naturalis forma non est divina 
+      ve<lb ed="#H" n="87" break="no"/>ritas. 
+      </p>
+            <p xml:id="yyy8Uu-e4455g-d1e240">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>VI. Differt fint. Nam Theologia supernaturalis prodest nobis 
+      <lb ed="#H" n="89"/>ad tria: 1. ad cognoscendum Deum, &amp; ad ea quae de Deo sunt creden¬ 
+      <!--cod-MkL9py-0037.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>da, quae non possumus scire per humanam investigationem, sed 
+      tan<lb ed="#H" n="91" break="no"/>tum per revelationem, quae facta est a Deo in Scriptura Sancta. 
+      <lb ed="#H" n="92"/>ad excitandum nostrum affectum ad Deum desiderandum &amp; 
+      aman<lb ed="#H" n="93" break="no"/>dum: quia nonnisi cognita amari possunt. Unde ad amandum Deum 
+      <lb ed="#H" n="94"/>requiritur cognitio fidei quae est per revelationem &amp; sic supernatu 
+      <lb ed="#H" n="95"/>raliter. 3. ad vitandum erroris periculum. Ignorantia est muter omnis 
+      <lb ed="#H" n="96"/>erroris &amp; periculi. Qui scripturas ignorat, Christum ignorat &amp; a 
+      <lb ed="#H" n="97"/>Christo ignorabitur, Theologia autem naturalis haec tria nobis 
+      prae<lb ed="#H" n="98" break="no"/>stare non potest; 
+      </p>
+            <p xml:id="yyy8Uu-e4455g-d1e274">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>VII. Differt adiunctis: nam Theologia revelata est perspicua &amp; 
+      <lb ed="#H" n="100"/>perfecta: at naturalis obscura &amp; imperfecta est, propter principia 
+      co<lb ed="#H" n="101" break="no"/>munia obscura &amp; imperfecta, &amp; necesse habet a supernaturali 
+      Theo<lb ed="#H" n="102" break="no"/>logia suam perfectionem accipere: ut apparet in Lystrensibus Actor 
+      <lb ed="#H" n="103"/>14. sacrificare volentibus? item in Atneniensibus ignotum Deum; 
+      <lb ed="#H" n="104"/>colentibus, Actor. 17. &amp; Gentibus communiter, Rom. 1. vers. 19. 20. 
+      <lb ed="#H" n="105"/>Quoniam id quod de Deo cognosci potest, manifestum est in ipsis: Deus 
+      <lb ed="#H" n="106"/>enim eis manifestum fecit. Ipsius enim invisibilia, jam inde a condito 
+      <lb ed="#H" n="107"/>mundo ex iis quae fecit mente perpensa pervidentur, aeterna videlicet. 
+      <lb ed="#H" n="108"/>ejus tum potentia tum diuvinitas: ad hoc ut sint inexcusabiles. 
+      </p>
+            <p xml:id="yyy8Uu-e4455g-d1e300">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Theologia naturalis porro aliter se habuit in natura integra, 
+      ali<lb ed="#H" n="110" break="no"/>ter se habet in natura corrupta. 
+      <lb ed="#H" n="111"/>In natura integra excellentior erat, quam est in corrupta: attame 
+      <lb ed="#H" n="112"/>ex principiis communibus, obscuris &amp; imperfectis excoli &amp; augeri 
+      <lb ed="#H" n="113"/>ratiocinatione &amp; perfici gratia eam oportebat,  
+      </p>
+            <p xml:id="yyy8Uu-e4455g-d1e316">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>In natura vero corrupta est admodum depravata, quia principia 
+      <lb ed="#H" n="115"/>ejus, quae post lapsum manserunt, evaserunt obscurissima, errorum 
+      <lb ed="#H" n="116"/>permistione vitiosissima &amp; conturbatissima 
+      </p>
+            <p xml:id="yyy8Uu-e4455g-d1e327">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Itaque naturalis Theologia per seipsam non est capax 
+      perfectio<lb ed="#H" n="118" break="no"/>nis a gratia supervenientis: &amp; neminem ad perfectionem perducit ac 
+      <lb ed="#H" n="119"/>ne potest quidem 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

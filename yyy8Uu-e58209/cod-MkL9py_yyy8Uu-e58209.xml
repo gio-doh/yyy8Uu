@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 34</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 34</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="328"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e58209"> <!-- l5-c34 -->
+            <head xml:id="yyy8Uu-e58209-Hd1e109">Caput 34</head>
+            <p xml:id="yyy8Uu-e58209-d1e112">
+               <lb ed="#H" n="84"/>CAPUT XXXIV. 
+      <lb ed="#H" n="85"/>In quo de imagine Dei in homine.
+    </p>
+            <p xml:id="yyy8Uu-e58209-d1e119">
+               <lb ed="#H" n="86"/>PPOSIQVAM declaratum est ad quos fines homo conditus sit, ex¬ 
+      <lb ed="#H" n="87"/>plicandum deinceps, QVALIs conditus sit, seu quali in statu 
+      ho<lb ed="#H" n="88" break="no"/>mo creatus exstiterit. Hoc ut recte expediatur, status hominis: 
+      <lb ed="#H" n="89"/>sunt distinguendi.
+    </p>
+            <p xml:id="yyy8Uu-e58209-d1e130">
+      <!--cod-MkL9py-0355.xml-->
+               <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>STATUS hominis diversus in Scriptura Sacra docetur, alius in 
+      ha<lb ed="#H" n="91" break="no"/>vita, dum homo in via est: alius post hanc vitam, cum ultimam sive 
+      <lb ed="#H" n="92"/>felicitatis sive mortis aerernae metam consequetur. Status homini: 
+      <lb ed="#H" n="93"/>in hac vita itidem duplex est: unus naturae, alter gratiae. Status 
+      natu<lb ed="#H" n="94" break="no"/>rae duplex est, vel integrae naturae vel corruptae. Post hanc vitam alius 
+      <lb ed="#H" n="95"/>erit status electorum, nempe status gloriae; alius reprobatorum, vide 
+      <lb ed="#H" n="96"/>licet ignominiae perpetuae. Nunc de statu naturae integrae agendum 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e153">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>Status naturae integrae, qui etiam status integer seu integritatis, in 
+      <lb ed="#H" n="98"/>nocentiae primaevae felicitatis appellatur, erat status primus, in quo 
+      <lb ed="#H" n="99"/>Adamus &amp; Eva, primi parentes nostri, secundum ortum &amp; 
+      primige<lb ed="#H" n="100" break="no"/>niam conditionem naturae humanae ante lapsum fuerunt ornati 
+      in<lb ed="#H" n="101" break="no"/>cegra imagine Dei ad quam initio conditi fuerant, aliisque bonis 
+      cu<lb ed="#H" n="102" break="no"/>mulati: 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e171">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>IMAGO DEI ad quam homo conditus fuit, est similitudo illa, quam 
+      <lb ed="#H" n="104"/>homo naturam sui Creatoris referebat modo convenienti naturae 
+      <lb ed="#H" n="105"/>suae, ad gloriam Creatoris &amp; hominis ipsius bonum. Unde 
+      cognosci<lb ed="#H" n="106" break="no"/>tur hominis praestantia ac dignitas quam omnibus aliis visibilibus 
+      crea<lb ed="#H" n="107" break="no"/>turis antecellit, 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e187">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>Subjectum 8, cujus est imago illa, non est Christus quatenus erat 
+      <lb ed="#H" n="109"/>incarnandus; nec figura seu idea corporis Christi incarnandi; Homo 
+      <lb ed="#H" n="110"/>enim non fuit formatus ad Christi hominis futuri typum, exemplar  
+      <lb ed="#H" n="111"/>seu similitudinem, ut nempe illum referret, quem jam Pater carm 
+      <lb ed="#H" n="112"/>vestire decreverat  
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e203">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Sed Deus ipse, quatenus est Deus; sic enim Moses ait Gen. 1. v. 27. 
+      <lb ed="#H" n="114"/>Creavit Deus hominem ad imaginem suam, ad imaginem, inquam, Dei 
+      <lb ed="#H" n="115"/>creavit eum: non autem quatenus est trinus personis. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e214">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>Illa imago Dei non est corpus hominis proprie &amp; per se conside 
+      <lb ed="#H" n="117"/>ratum: nec res ulla corporea, veluti substantia ex elementis 
+      con<lb ed="#H" n="118" break="no"/>tans, figura corporis, &amp;c. Imago enim est relativum quid: nam 
+      re<lb ed="#H" n="119" break="no"/>fertur ad archetypum, cujus est imago. Jam quale est archetypum 
+      <lb ed="#H" n="120"/>calis est imago si consideres similitudinem. Proinde quicquid in 
+      ho<lb ed="#H" n="121" break="no"/>mine est imago DEI aut pars imaginis DEI, illius archetypum in 
+      <lb ed="#H" n="122"/>Deo esse necesse est. Sed Deus non est corpus, sed spiritus; nec in 
+      <lb ed="#H" n="123"/>ipso est res ulla corporea: Ergo nec corpus, nec res ulla corpores 
+      <lb ed="#H" n="124"/>est imago Dei au: pars imaginis Dei. Hoc est quod Tertullianus 
+      <lb ed="#H" n="125"/>dicit libro 5. adversus Marcionem, cap. 14. Similitudo in contrarium 
+      <lb ed="#H" n="126"/>julla est. Spiritus non diceretur carnis similitudo, quia nec caro 
+      similitu<lb ed="#H" n="127" break="no"/>dinem spiritus caperet: 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e245">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>Nec corpus &amp; anima simul tanquam compositum quiddam est 
+      <lb ed="#H" n="129"/>imago Dei: ut nec Deus est compositum quiddam ex substantia 
+      cor<lb ed="#H" n="130" break="no"/>porea &amp; spirituali, sed est primus simplicissimus. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e257">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>Sed sola anima &amp; dotes ad eam pertinentes, ejusque effectus, etiam 
+      <lb ed="#H" n="132"/>in corpore ac denique in tota hominis persona relucentes. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e266">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>Quocirca subjectum &amp; sedes imaginis Dei est proprie anima 
+      ho<lb ed="#H" n="134" break="no"/>minis: etiamsi effecta ac documenta imaginis Dei etiam in corpore 
+      <lb ed="#H" n="135"/>hominis, veluti in animae instrumento ac per consequens in toto 
+      ho<lb ed="#H" n="136" break="no"/>mine se proferant &amp; refulgeant.  
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e279">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Imaginis Dei in homine partes sunt duae: substantia animae, &amp; 
+      <lb ed="#H" n="138"/>dotes ei attributae. Animae substantia naturam Dei refert pro sua 
+      con<lb ed="#H" n="139" break="no"/>ditione his de causis :11. Sicut Deus spiritus est, simplex &amp; 
+      immate<lb ed="#H" n="140" break="no"/>rialis: ita etiam anima hominis est spiritus simplex respectu 
+      mate<lb ed="#H" n="141" break="no"/>rialium, &amp; immaterialis respectu corporum. 2. Sicut Deus essentia 
+      <lb ed="#H" n="142"/>ina est, licet plures in eo personae sint: ita anima hominis una est, 
+      <lb ed="#H" n="143"/>quanquam pluribus facultatibus constet. 3. Sicut Deus est 
+      incorpo<lb ed="#H" n="144" break="no"/>reus &amp; invisibilis: ita &amp; anima humana est incorporea &amp; invisibilis &amp; 
+      <lb ed="#H" n="145"/>nullas corporeas dimensiones habens. A Deus intelligit &amp; vult: ita 
+      <lb ed="#H" n="146"/>anima facultate intellectus &amp; voluntatis praedita est. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e305">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Dotes autem &amp; proprietates illae, quarum Deus archetypus est, 
+      <lb ed="#H" n="148"/>imago autem &amp; similitudo in anima humana sunt naturalis vita &amp; 
+      <lb ed="#H" n="149"/>immortalitas, beatitudo &amp; gloria. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e316">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>Naturalis vita animae hominis, est vita qua anima per se vivit etiam 
+      <lb ed="#H" n="151"/>uum separata est a corpore, naturae animae insita per creationem 
+      <lb ed="#H" n="152"/>Distincta est a corporis vita quae est ab anima ut causa efficiente 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e327">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Naturalis immorta, itas animae hominis, est potentia non 
+      morien<lb ed="#H" n="154" break="no"/>di naturae animae concreata principio a Deo tanquam bonum 
+      essen<lb ed="#H" n="155" break="no"/>ciale, unde naturalis vita animae nunquam finem est habitura in ullo 
+      <lb ed="#H" n="156"/>homine¬ 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e341">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>Naturalis beatitudo animae hominis consistit in ejus sapientia &amp; 
+      iu<lb ed="#H" n="158" break="no"/>stitia: potentia &amp; libertate originali 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e350">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>Sapientia originalis in anima hominis, erat ea intellectus 
+      praestan<lb ed="#H" n="160" break="no"/>tia &amp; perfectio, quam homo integer recte cognoscebat Deum &amp; 
+      ope<lb ed="#H" n="161" break="no"/>ra Dei atque seipsum: &amp; sapienter inteligebat omnia simplicia, 
+      sin<lb ed="#H" n="162" break="no"/>gularia &amp; universalia, eaque recte componebat aut dividebat, &amp; ex 
+      <lb ed="#H" n="163"/>compositis absque errore ratiocinabatur: bonum a malo, justum al 
+      <lb ed="#H" n="164"/>injusto exacte &amp; citra errorem judicii discernebat, ac quid 
+      sequen<lb ed="#H" n="165" break="no"/>dum vel fugiendum esset, praecunte rationis luce prudenter videbat, 
+      <lb ed="#H" n="166"/>Summa; intelligentia, judicium, prudentia, non modo ad vitae 
+      ani<lb ed="#H" n="167" break="no"/>malis gubernationem suppetebant, sed iisdem adscendebat usque ad 
+      <lb ed="#H" n="168"/>Deum: Sic ratio in homine integro erat recta. Sed &amp; 
+      conscientia<lb ed="#H" n="169" break="no"/>hominis in statu innocentiae bona erat, &amp; de nulla re accusare ipsum 
+      <lb ed="#H" n="170"/>potuit, quantum, is potentia ac habilitas accusandi. siquidem 
+      occasio<lb ed="#H" n="171" break="no"/>oblata foret ei non defuerit: sed cum tantum excusabat, defendebat,  
+      <lb ed="#H" n="172"/>&amp; consolabatur 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e385">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Iustitia originalis in anima hominis, erat ea voluntatis rectitudo, 
+      <lb ed="#H" n="174"/>qua homo perfecte, interne &amp; externe, voluntati divinae juxta totam 
+      <lb ed="#H" n="175"/>Legem obediebat. Unde habebat motus cordis omnes ad 
+      obse<lb ed="#H" n="176" break="no"/>quium rationis compositos &amp; recte ex ordine temperatos: amabat &amp; 
+      <lb ed="#H" n="177"/>colebat Deum &amp; sanctus erat: appetitus ejus erant boni &amp; ordina 
+      <lb ed="#H" n="178"/>ti: gaudium erat purum &amp; vitii expers: erat inter primos parentes 
+      <lb ed="#H" n="179"/>nostros amabilis concordia &amp; sancta conjunctio animorum: onines 
+      <lb ed="#H" n="180"/>denique inclinationes &amp; affectus rectae rationis moderamini 
+      obtem<lb ed="#H" n="181" break="no"/>perabant. Quam temperaturam suis numeris absoluta sequebatur in 
+      <!--cod-MkL9py-0356.xml-->
+      <pb ed="#H" n="329"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>corpore aequabilis quaedam ad illum ordinem proportio tanquam  
+      <lb ed="#H" n="2"/>necessarium effectum; sic ut corpus tanquam instrumentum anima 
+      <lb ed="#H" n="3"/>rationi rectae obsequeretur, &amp; omnia membra corporis servirent 
+      ju<lb ed="#H" n="4" break="no"/>stitiae, &amp; recte intellecta sancteque concupita in anima, ipsa 
+      promtis<lb ed="#H" n="5" break="no"/>sime exsequerentur. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e427">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Potentia originalis in anima hominis, erat ea vis &amp; facultas qua 
+      ho<lb ed="#H" n="7" break="no"/>mo poterat facere &amp; consequi quod vellet, atque adeo vitam aeter 
+      <lb ed="#H" n="8"/>nam adipisci, si vellet. Adamus enim acceperat posse, si veller; se 
+      <lb ed="#H" n="9"/>non habuit velie quod posset: nam si habuisset, perseverasset in 
+      pr<lb ed="#H" n="10" break="no"/>maeva integritate &amp; beatitudine. Qua de re August. nus libro de 
+      cor<lb ed="#H" n="11" break="no"/>reptione &amp; gratia, capite decimo &amp; sequentibus, ubi multa dicuntur 
+      <lb ed="#H" n="12"/>de gratia quae primo homini data fuerat,  
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e447">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Libertas naturalis in anima hominis, erat immunitas a coactione 
+      <lb ed="#H" n="14"/>seu necessitate coactiva, sic ut voluntas sponte, suo ac proprio motus 
+      <lb ed="#H" n="15"/>eligeret aut repudiaret id quod sana ratio eligendum aut 
+      repudian<lb ed="#H" n="16" break="no"/>dum dictabat: atque adeo libera erat boni &amp; mali electio 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e460">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Igitur in statu integro primi parentes nostri libero arbitrio 
+      polle<lb ed="#H" n="18" break="no"/>bant, quo, si volusssent, vitam aeternam adipisci potuissent. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e470">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Quod ut recte intelligatur, discerni oportet naturam arbitrii a 
+      vi<lb ed="#H" n="20" break="no"/>ribus ipsius 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e479">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Natura arbitrii hominis, est quod sit liberum, non respectu obiecti 
+      <lb ed="#H" n="22"/>boni vel mali, quasi ad utrumque peraeque polleat, quasi aeque bonum 
+      <lb ed="#H" n="23"/>eligere &amp; agere possit ac malum, quasi se flectere in utramvis partem 
+      <lb ed="#H" n="24"/>a seipso possit, pari facultate &amp; potentia. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e492">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>I. Quia &amp; Deus cui liberrimum est arbitrium &amp; vere αυτεξυσιον,  
+      <lb ed="#H" n="26"/>tantum bonum approbat &amp; agit 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e501">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>II. Quia &amp; boni Angeli, quibus certe liberum est arbitrium, dun 
+      <lb ed="#H" n="28"/>taxat bonum appetunt &amp; agunt. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e510">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>III. Quia &amp; mali angeli, quibus itidem liberum est arbitrium, 
+      <lb ed="#H" n="30"/>solummodo malum expetunt &amp; agunt.  
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e519">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>IV. Quia beati homines post hanc vitam, quibus profecto 
+      libe<lb ed="#H" n="32" break="no"/>rum est &amp; erit arbitrium, tantummodo bonum volunt &amp; faciunt, 
+      vo<lb ed="#H" n="33" break="no"/>lent item &amp; facient perpetuo, non autem aeque malum 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e531">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Sed liberum est respectu causae efficientis, quod μῆη αυαγκαςως, αλ 
+      <lb ed="#H" n="35"/>ικεσίως, 1: Pet. 5. v. 2. Heb. 10. v. 26. hoc est, citra omnem 
+      coactio<lb ed="#H" n="36" break="no"/>nem, ultro ac sponte acceptat vel rejicit, quicquid acceptat vel rejicit: 
+      <lb ed="#H" n="37"/>idque semper, tum in hac vita, sive ante lapsum, sive post lapsum; tum 
+      <lb ed="#H" n="38"/>post hanc vitam. Proinde ante lapsum liberum erat arbitrium ab ex 
+      <lb ed="#H" n="39"/>terna violentia, quia a nemine prorsus cogebatur vel ad bonum vel 
+      <lb ed="#H" n="40"/>ad malum, nempe nec Deus illud cogere volebat, nec ulla creatur  
+      <lb ed="#H" n="41"/>cogere valebat Liberum etiam erat ab interna impussione, quia nulla 
+      <lb ed="#H" n="42"/>erat in homine prava concupiscentia, a qua ad peccandum vel preme. 
+      <lb ed="#H" n="43"/>retur vel alliceretur. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e557">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Vires liberi arbitrii per se nullae sunt sine auxilio Dei generali 
+      au<lb ed="#H" n="45" break="no"/>speciali, nec in terrenis nec in caelestibus rebus &amp; actionibus: tum in 
+      <lb ed="#H" n="46"/>hac vita sive ante lapsum, five post lapsum; tum post hanc vitam 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e568">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Generale auxilium divinum vocatur motio generalis providentia 
+      <lb ed="#H" n="48"/>divinae quam universa gubernantur ac conservantur, Actor. 17. v. 28. 
+      <lb ed="#H" n="49"/>Hebr. 1. v. 3. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e579">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Speciale auxilium divinum dicitur peculiaris gratia movens, 
+      con<lb ed="#H" n="51" break="no"/>fortans &amp; ad opus provehens, sive sit cum gratia Christi salvante seu 
+      <lb ed="#H" n="52"/>gratia regenerationis coniunctum Johan. 15. vers. 5. 1. Corinth. 15. 
+      <lb ed="#H" n="53"/>vers. 10. sive ab ea separatum, quo videlicet dona moralia &amp; virtute 
+      <lb ed="#H" n="54"/>morales Deus distribuit quibus vult, etiam reprobis, 1. Cor 12. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e595">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Res &amp; actiones terrenae vocantur quae ad terrenam duntaxat vitam 
+      <lb ed="#H" n="56"/>pertinent &amp; intra fines vitae praesentis continentur. Suntque vel 
+      na<lb ed="#H" n="57" break="no"/>turales vel morales. Naturales, quae omnibus sunt communes 
+      ani<lb ed="#H" n="58" break="no"/>mantibus, uti edere, bibere, dormire, ambulare, generare, &amp;c. Mora 
+      <lb ed="#H" n="59"/>les, sunt politicae seu civiles quae ad civilem vitam oeconomiam, 
+      so<lb ed="#H" n="60" break="no"/>cietatem, politiamque instituendam ac conservandam pertinent: ut 
+      <lb ed="#H" n="61"/>sunt emero, vendere, jus dicere, militate, pacem colere, familiam re 
+      <lb ed="#H" n="62"/>gere, scientias, &amp; artes sive liberales sive mechanicas discere &amp; 
+      exer<lb ed="#H" n="63" break="no"/>cere, &amp;c 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e619">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Res &amp; actiones caelestes appellantur quae ad caelestem &amp; spiritualem 
+      <lb ed="#H" n="65"/>vitam pertinent, uti sunt credere in Deum, facere uoluntatem Dei, prae 
+      <lb ed="#H" n="66"/>stare mandata Dei, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e631">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Nihil, inquam, per se arbitrii humani vires valent, sive hominem 
+      <lb ed="#H" n="68"/>spectes ante lapsum, sive post lapsum. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e640">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Ante lapsum vires arbitrii ad omnia ea praestanda quae ipsarum 
+      <lb ed="#H" n="70"/>proportioni respondebant, idoneae quidem erant: reipsa tamen nihi 
+      <lb ed="#H" n="71"/>eorum praestare poterant sine auxilio primae causae 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e651">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Proinde homo ad amandum Deum, ad fidendum ei, ad obediet 
+      <lb ed="#H" n="73"/>dum ejus voluntati, ad mandata Dei perfecte facienda viribus 
+      natu<lb ed="#H" n="74" break="no"/>ralibus idoneus erat; sed eorum nihil praestare poterat reipsa, sine 
+      au<lb ed="#H" n="75" break="no"/>xilio gratiae Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e664">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Eaque gratia praestandi haec omnia a prima creatione usque ad 
+      <lb ed="#H" n="77"/>lapsum Adamo adfuit.  
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e673">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Sed gratia qua vellet ulterius &amp; in perpetuum in obsequio Dei per 
+      <lb ed="#H" n="79"/>severare, ei data non fuit: quia debita non fuit. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e682">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Deus enim nemini est obstrictus, ut plus ei det, qex gratia voluit  
+      <lb ed="#H" n="81"/>Liberum nihilominus habuit Adamus arbitrium &amp; bonum: sed  
+      <lb ed="#H" n="82"/>mutabile, 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e694">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Ideo poterat inclinare tam ad malum quam ad bonum: poterat 
+      <lb ed="#H" n="84"/>tam peccare, quam non peccare. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e703">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>Sic est de beatitudine naturalis 
+      <lb ed="#H" n="86"/>Gloria primaeva, est dignitas quam Adamus filius Dei erat, utpote qui 
+      <lb ed="#H" n="87"/>im naturali illa conditione imaginem Dei referebat ad quam creatus 
+      <lb ed="#H" n="88"/>eitat. Ideo Luc. 3. v. 38. dicitur Adamus fuisse Dei, videlicet filius, non 
+      <lb ed="#H" n="89"/>Senitus, sed factus ad imaginem Dei. Non enim erat filius Dei sim 
+      <lb ed="#H" n="90"/>pliciter, quod a Deo creatus esset: nam caelum, aer, aqua, terra, 
+      la<lb ed="#H" n="91" break="no"/>bi les, stirpes, brutae animantes a Deo creatae sunt, quarum tamen 
+      <lb ed="#H" n="92"/>nt illa filius Dei est: sed quia ad imaginem Dei creatus fuit.  
+      <!--cod-MkL9py-0356.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>Porro imago Dei ad quam homo creatus fuit, erat Adamo 
+      natu<lb ed="#H" n="94" break="no"/>zalis, non caulative, ut loquuntur seu causa iter, quasi a natura 
+      tan<lb ed="#H" n="95" break="no"/>quam a causa fuerit; neque ut nunc natura fert quae corrupta est: sed  
+      <lb ed="#H" n="96"/>tum subiective. quia naturae fuit concreata, in &amp; cum natura 
+      com<lb ed="#H" n="97" break="no"/>municata a Deo per creationis actionem, secundum naturam 
+      primi<lb ed="#H" n="98" break="no"/>hominis: tum propagatione, quia cum natura &amp; naturali modo 
+      com<lb ed="#H" n="99" break="no"/>municanda erat posteris, si Adam integer permansissee. Ideo etiam 
+      <lb ed="#H" n="100"/>a Scholasticis imago naturae appellatur, &amp; distinguitur ab imagine 
+      <lb ed="#H" n="101"/>gratiae, id est, restituta ex gratia elect s regeneratis, &amp; ab imagine 
+      glo<lb ed="#H" n="102" break="no"/>riae, pertinente ad solos beatos post hanc vitam, in quibus perfecte 
+      in<lb ed="#H" n="103" break="no"/>staurata est &amp; eri¬ 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e753">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Nulla autem ratione erat Adamo integro supernaturalis: quia sui 
+      <lb ed="#H" n="105"/>perna turale dicitur vel in quo natura, nulla ratione agit aut operatur  
+      <lb ed="#H" n="106"/>sed sola gratia; vel quod natura hominis secundum se capere non 
+      <lb ed="#H" n="107"/>potest, eoque supra naturae conditionem est; vel denique quod 
+      natu<lb ed="#H" n="108" break="no"/>rali ratione non propagatur, sed divino modo supra naturae ordinem 
+      <lb ed="#H" n="109"/>communicatur. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e771">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Proinde etiam justitia ac rectitudo originalis primo homini 
+      natu<lb ed="#H" n="111" break="no"/>ralis fuit, non personalis, hoc est, naturae humanae concreata, non illi 
+      <lb ed="#H" n="112"/>demum personae post creationem data, ac proinde statim fuit 
+      impres<lb ed="#H" n="113" break="no"/>sa in natura hominis, &amp; sic conveniens Adamo pro illius in qua ipse 
+      <lb ed="#H" n="114"/>est creatus, non hujus in qua nos nati sumus, naturae ratione. 
+      Ho<lb ed="#H" n="115" break="no"/>evidenter ex Mose demonstrari potest, qui ait Genes. 1. vers. 26, 27. 
+      <lb ed="#H" n="116"/>hominem fuisse conditum ad imaginem &amp; simaitudinem Dei. Hinc 
+      <lb ed="#H" n="117"/>ita argumentamur: Si homo fuit conditus ad imaginem &amp; 
+      simili<lb ed="#H" n="118" break="no"/>tudinem Dei, tum justitia originalis Adamo fuit naturalis, hoc est 
+      <lb ed="#H" n="119"/>statim in natura Adami insita atque illa exsistere coepit. Antecedens 
+      <lb ed="#H" n="120"/>verum est: Ergo &amp; consequens. Connexi consequentia est 
+      certissi<lb ed="#H" n="121" break="no"/>ma. Nam si imago &amp; similitudo Dei Adamo fuit naturalis, illa 
+      au<lb ed="#H" n="122" break="no"/>tem justitiam &amp; sanctitatem omnesque virtutes complectebatur,  
+      <lb ed="#H" n="123"/>tum si homo fuit conditus ad imaginem &amp; similitudinem Dei, 
+      justi<lb ed="#H" n="124" break="no"/>tia originalis Adami fuit naturalis. Prius verum est: Ergo &amp; poste 
+      <lb ed="#H" n="125"/>rius. Imaginem autem Dei in recta luce mentis, &amp; sincera justitia 
+      <lb ed="#H" n="126"/>&amp; sanctitate positam fuisse, colligitur ex instauratione ejus per Chri 
+      <lb ed="#H" n="127"/>stum de qua Apostolus apertissimis verbis ait Ephes. 4. vers. 24. 4. 
+      <lb ed="#H" n="128"/>ενν υσεθμσ τον καινὸν αυθρωπον τον καζα θεον κλδενζα εν δεκαιοσυθη κο 
+      <lb ed="#H" n="129"/>ἐσιθτηκε τῆς ἀληοειας, hoc est, &amp; induere novum illum hominem qui 
+      se<lb ed="#H" n="130" break="no"/>cundum Deum conditus est in iustitia &amp; sanctitate vera. Rursus ad 
+      <lb ed="#H" n="131"/>Coloss. 2. v. 10. ait: &amp; inditi sitis novo illo homine, qui renovatur in 
+      <lb ed="#H" n="132"/>agnitionem congruentem imagini eius qui ipsum condidit. Idem nobil 
+      <lb ed="#H" n="133"/>cum credidit orthodoxa antiquitas: Nam Augustinus in Enchiridio. 
+      <lb ed="#H" n="134"/>ad Laurentium cap centesimo quarto docet quod primus homo in 
+      sa<lb ed="#H" n="135" break="no"/>lute conditus sit: &amp; libro de correptione &amp; gratia, capite 
+      undecimo<lb ed="#H" n="136" break="no"/>quod in bona uoluntate creatus sit. Damascenus libro secundo, capi. 
+      <lb ed="#H" n="137"/>te decimo quarto scribit Adamum conditum esse non tantum ακανον, 
+      <lb ed="#H" n="138"/>id est, malitia carentem omni, sed etiam ἀναρεοον &amp; πάση δρίl κα¬ 
+      <lb ed="#H" n="139"/>τηγλαίσμδον &amp; πασιν αγαδοις κομανζα id est, virtutibus praeditum &amp; 
+      <lb ed="#H" n="140"/>amni virtute condecoratum &amp; omnibus bonis ornatum. Bernardu 
+      <lb ed="#H" n="141"/>Serm. primo in Annunciatione beatae Mariae de verbis Psalmi, U 
+      <lb ed="#H" n="142"/>nhabitet gloria in terra nostra, ait: Ego divinam arbitror esse 
+      imagi<lb ed="#H" n="143" break="no"/>nem, quae nimirum non assumta, sed insita atque ipsi impressa naturae, 
+      di<lb ed="#H" n="144" break="no"/>vidi scindique non potest. Ad imaginem nempe, &amp; similitudine Dei factu 
+      <lb ed="#H" n="145"/>st homo: in imagine arbitrii libertatem, virtutes habes in similitudine 
+      <lb ed="#H" n="146"/>Adhaec justitia originalis fuit in primo homine per modum 
+      habi<lb ed="#H" n="147" break="no"/>tus concreati: Ideo vocatur originalis, quum non fuerit in Adamo per 
+      <lb ed="#H" n="148"/>motum liberi arbitrii, sed in natura fuerit ex conditione illius status, 
+      <lb ed="#H" n="149"/>in quo conditus erat.  
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e862">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>Sed quaeritur etiam de justitia originali, ipsane substantia hominis 
+      <lb ed="#H" n="151"/>fuerit, an eius accidens? Sunt qui fuisse affirment substantiam: Suam 
+      <lb ed="#H" n="152"/>ue opinionem hoc modo statuminant  
+      <lb ed="#H" n="153"/>Natura hominis recta atque integra est substantia: 
+      <lb ed="#H" n="154"/>Iustitia originalis fuit ipsa natura hominis recta atque integra: 
+      <lb ed="#H" n="155"/>Igitur iustitia originalis fuit substantia. 
+      <lb ed="#H" n="156"/>RESPONSI0. Fallacia committitur ex ambiguo medio. Naturae 
+      <lb ed="#H" n="157"/>enim nomen vel essentiam, vel generationem, vel qualitates 
+      natura<lb ed="#H" n="158" break="no"/>les significat.  
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e886">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>Major, si naturae vox in ea significet essentiam, vera est: sin 
+      gene<lb ed="#H" n="160" break="no"/>rationem, vel qualitates naturales, falsa. Minor vero, si naturae vor 
+      <lb ed="#H" n="161"/>in ea significet qualitates naturales, est vera: sin vero essentiam, 
+      falsa<lb ed="#H" n="162" break="no"/>est. Pro essentia autem a defensoribus opinionis istius accipitur. At 
+      <lb ed="#H" n="163"/>qui justitia originalis non fuit magis proprie essentia ipsa hominis: 
+      <lb ed="#H" n="164"/>quam lineae rectitudo est ipsa linea recta. Nam quis non videt, 
+      differ<lb ed="#H" n="165" break="no"/>re lineam ipsam a rectitudiue? Linea enim subjectum est 
+      rectitudi<lb ed="#H" n="166" break="no"/>nis. Differunt igitur etiam, hominis natura recta atque integia: &amp; 
+      <lb ed="#H" n="167"/>rectitudo atque integritas in natura. Sunt autem firmissima 
+      argu<lb ed="#H" n="168" break="no"/>menta, quibus evincitur, justitiam originalem non fuisse substantiam 
+      <lb ed="#H" n="169"/>ipsam hominis 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e916">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Primum est: Si originalis justitia fuisset ipsa hominis substantia, 
+      <lb ed="#H" n="171"/>tum homo sua essentia justus fuisset. At hoc non est Ergo nec illud 
+      <lb ed="#H" n="172"/>Assumtionem probo: Sua essentia justum esse, &amp; solius Dei. At 
+      ho<lb ed="#H" n="173" break="no"/>mo non fuit Deus: Ergo homo sua justitia non fuit justus 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e929">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Secundum: Si originalis justitia fuisset hominis substantia, tum aut 
+      <lb ed="#H" n="175"/>pars substantiae humanae fuit, nimirum vel corpus, vel anima rationalis 
+      <lb ed="#H" n="176"/>aut ipsa tota substantia. At nihil istorum fuit: Non ipsum corpus, quid  
+      <lb ed="#H" n="177"/>homo amissa justitia originali corpus retinuit. Neque anima 
+      rationa<lb ed="#H" n="178" break="no"/>lis: quia illa itidem post lapsum mansit, amissa justitia; quia anima 
+      ra<lb ed="#H" n="179" break="no"/>tionalis corrumpi &amp; exstingui non potest; justitia autem originalis 
+      <lb ed="#H" n="180"/>perdita est: plures vero substantiales partes hominis esse non possunt. 
+      <lb ed="#H" n="181"/>nec est ipsa tota substantia hominis, hoc est, ipse homo ex corpore &amp; 
+      <lb ed="#H" n="182"/>anima rationali compositus; quia homo quidem fuit justus, sed non 
+      <lb ed="#H" n="183"/>justitia ipsa; Deinde justitia per lapsum amissa homo nihilominus 
+      <lb ed="#H" n="184"/>mansit homo: Ergo justitia originalis non fuit hominis substantia. 
+      <!--cod-MkL9py-0357.xml-->
+      <pb ed="#H" n="330"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Accidens autem hominis illam fuisse ex sequentibus argumentis: 
+      <lb ed="#H" n="2"/>constat: 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e968">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Primum est: Quicquid potest homini adesse, vel ab homine 
+      abes<lb ed="#H" n="4" break="no"/>se citra illius interitum; id tantum est accidens hominis. At justitia 
+      <lb ed="#H" n="5"/>originalis potuit homini adesse, vel ab homine abesse citra illius in 
+      <lb ed="#H" n="6"/>teritum: Ergo fuit tantum accidens hominis. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e981">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Secundum: Habitus in homine creatus quo Deum ejusque 
+      volun<lb ed="#H" n="8" break="no"/>tatem integre cognoscit &amp; voluntati divinae sponte subditus est, quo 
+      <lb ed="#H" n="9"/>Deo justus similis est, est duntaxat accidens hominis. At justitia 
+      ori<lb ed="#H" n="10" break="no"/>ginalis fuit ejusmodi habitus: Ergo accidens tantum hominis fuit &amp; 
+      <lb ed="#H" n="11"/>non substantia. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e997">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Tertium: Quod recuperatum per Christum regenerati induum 
+      <lb ed="#H" n="13"/>virtute &amp; operatione Spiritus Sancti, id profecto hominis acciden 
+      <lb ed="#H" n="14"/>tantum est: at justitiam originalem recuperatam per Christum rege 
+      <lb ed="#H" n="15"/>nerati induunt virtute &amp; operatione Spiritus Sancti, Ephes. 4. v. 24. 
+      <lb ed="#H" n="16"/>Coloss 3. v. 10. Ergo est duntaxat accidens hominis: 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1013">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Haec sententia ideo tenenda, ne cum Matthia Flacio Illyrico 
+      sta<lb ed="#H" n="18" break="no"/>tuamus peccatum originale esse substantiam, quod inferri oporteres 
+      <lb ed="#H" n="19"/>si originalis justitia non accidens hominis, sed substantia fuisset. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1025">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Quaeritur praeterea; An iustitia originalis cum substantia Adami 
+      <lb ed="#H" n="21"/>fuerit a Deo creata? Nos affirmamus, nixi sequentibus argumentis: 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1034">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>I. Quod Scriptura testatur a Deo creatum esse, id profecto est; 
+      <lb ed="#H" n="23"/>Deo creatum. At justitiam originalem Scriptura testatur a Deo 
+      crea<lb ed="#H" n="24" break="no"/>tam, Ephes. 4. v. 24. Induite novum illum hominem, &amp;c. Hic locus 
+      <lb ed="#H" n="25"/>Pauli non tantum de regeneratione spirituali, sed etiam de 
+      prim<lb ed="#H" n="26" break="no"/>creatione intelligendus. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1050">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>II. Quaelibet pars imaginis Dei ad quam homo fuit conditus, cum 
+      <lb ed="#H" n="28"/>substantia Adami fuit a Deo creata. At justitia originalis est pars 
+      <lb ed="#H" n="29"/>imaginis Dei: Ergo, &amp;c. Major certa est ex Gen. 1. v. 27. Fecit Deus 
+      <lb ed="#H" n="30"/>hominem ad imaginem &amp; similitudinem suam. Coloss. 3. v. 10. Minos 
+      <lb ed="#H" n="31"/>est itidem certa ex Ephes. 4. v. 24. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1066">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>III. Omnis bonitas quam homo primus bonus fuit, cum substam 
+      <lb ed="#H" n="33"/>tia ejus a Deo creata fuit At justitia originalis erat bonitas quam 
+      ho<lb ed="#H" n="34" break="no"/>mo primus bonus fuit. Major patet ex Gen. 2. v. 31. ubi dicitur facto 
+      <lb ed="#H" n="35"/>homine: Et erant omnia valde bona¬ 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1079">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>IV. Rectitudo hominis primi fuit a Deo cum substantia illius 
+      <lb ed="#H" n="37"/>creata. At justitia originalis erat rectitudo hominis primi: Ergo, &amp;c. 
+      <lb ed="#H" n="38"/>Major manifesta est ex Ecclesiastis cap. 7. v. 29. Fecit Deus hominem 
+      <lb ed="#H" n="39"/>rectum. Minor per se adeo certa est, ut Augustinus libto decimoquar  
+      <lb ed="#H" n="40"/>to de Civitate Dei, cap. undecimo, rectitudinem hanc in qua 
+      Ada<lb ed="#H" n="41" break="no"/>mus fuit creatus in primis ad voluntatem hominis retulerit; sic enim 
+      <lb ed="#H" n="42"/>ait: Fecit Deus hominem rectum, ac per hoc uoluntatis bonae 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1099">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>V. Ad quod per gratiam Spiritus Sancti renovamur, id profecto 
+      <lb ed="#H" n="44"/>cum primi hominis subst ntia creatum fuisse necesse est: Atqui ac 
+      <lb ed="#H" n="45"/>justitiam per gratiam Spiritus Sancti renovamur, Ephes. 4. 24. Ergo 
+      <lb ed="#H" n="46"/>illa cum primi hominis substantia creata fuit. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1113">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>VI. Accedat testimonium consensus veteris Orthodoxae 
+      Eccle<lb ed="#H" n="48" break="no"/>siae. Augustihus tomo septimo, libro de correptione &amp; gratia, cap. de 
+      <lb ed="#H" n="49"/>cimo ait: primum hominem sine ullo vitio factum fuisse rectum: Et cap.  
+      <lb ed="#H" n="50"/>undecimo ait: Tunc ergo dederat Deus homini bonam uoluntatem, id 
+      <lb ed="#H" n="51"/>illa quippe eum fecerat, qui focerat rectum. Johannes Damascenus lib. 
+      <lb ed="#H" n="52"/>2. cap. 12 ait: ἐποίήσεν ἐν ὀ θεός τόν αυθρω πον ἀμακον, συδυ, εναμειον, ἀλῳ, 
+      <lb ed="#H" n="53"/>πον, αμιριμνον, παιχ αρειη αατλγλαισμδμον, πασιν αγαθεις ομανζα. 
+      Fe<lb ed="#H" n="54" break="no"/>cit igitur Deus hominem malitiae expertem, rectum, virtute praeditum 
+      <lb ed="#H" n="55"/>moerore vacuum, solicitudine carentem, omni virtute condecoratum, 
+      o<lb ed="#H" n="56" break="no"/>mnibus bonis ornatum. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1139">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Hactenus argumenta pro sententia affirmativa: Qui vero 
+      nega<lb ed="#H" n="58" break="no"/>tivam tuentur, leviculis rationibus moventur: quarum ista est 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1148">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>I. Quae res in homine non est creatura, illa non est a Deo cum homini 
+      <lb ed="#H" n="60"/>substantia creata: At iustitia originalis non est creata: Ergo, &amp;c. 
+      Mi<lb ed="#H" n="61" break="no"/>norem probant hoc pacto: Nullae relationes sunt creatae: Iustitia origi 
+      <lb ed="#H" n="62"/>nalis est relatio: Ergo iustitia originalis non est a Deo creata. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1161">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>RESPONDE0. Minor principalis objectionis simpliciter accept  
+      <lb ed="#H" n="64"/>&amp; citra distinctionem creaturae proprie &amp; metonymice dictae, falsa 
+      <lb ed="#H" n="65"/>est: Etsi enim justitia originalis non est creata substantia, quae 
+      pro<lb ed="#H" n="66" break="no"/>prie creatura dicitur, est tamen creatum seu concreatum accidens 
+      <lb ed="#H" n="67"/>Deinde probationis major universe intellecta est falsa. Nullae relatio 
+      <lb ed="#H" n="68"/>nes, scilicet, divinae sunt creatae: at relationes, maxime teales, quia re 
+      <lb ed="#H" n="69"/>sunt, in substantiis creatis, una cum substantiis creatae sunt. 
+      Minc<lb ed="#H" n="70" break="no"/>probationis est falsissima: Nam justitia originalis non est relatio, se 
+      <lb ed="#H" n="71"/>qualitas concreata 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1185">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>II. Si iustitia originalis cum Adamo fuisset creata, tum is non fuisset, 
+      <lb ed="#H" n="73"/>ex gratia electus ad vitam aeternam: At consequens est falsum: Ergo &amp; 
+      <lb ed="#H" n="74"/>antecedens. Probatur connexi consequentia: quia pugnant, iustitiam 
+      <lb ed="#H" n="75"/>habere ex creatione, ac proinde in se haerentem habere causam vitae 
+      aeter<lb ed="#H" n="76" break="no"/>nae, &amp; esse ex gratia electum ad vitam aeternam. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1201">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>RESP. Connexi consequentia &amp; probatio ejus teneret, si homo in 
+      <lb ed="#H" n="78"/>justitia, in qua creatus erat, permansisset: sed quia illam per peccatum 
+      <lb ed="#H" n="79"/>amisit, salutem aeternam non aliunde quam ex gratia electionis 
+      obti<lb ed="#H" n="80" break="no"/>nere potest. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1215">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Quaeritur insuper: Si Adamus non peccasset, an iustitia originalis in 
+      <lb ed="#H" n="82"/>posteros cum natara propagata fuisset? Affirmamus moti his 
+      argu<lb ed="#H" n="83" break="no"/>mentis: 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1226">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>I. Quicquid Adamo non ut privato homini, sed ut origini totius 
+      <lb ed="#H" n="85"/>humani generis datem fuit, id ex illo cum natura in posteros 
+      propa<lb ed="#H" n="86" break="no"/>gatum fuisset: At justitia originalis Adamo non ut privato homini, 
+      <lb ed="#H" n="87"/>sed ut orig ni totius humani generis data fuit: Ergo ex illo cum 
+      na<lb ed="#H" n="88" break="no"/>tura in posteros propagata fuisset. Minor probatur: Primo, qu 
+      a<lb ed="#H" n="89" break="no"/>justitia originalis suit naturae, non autem privatae personae. Secuntto; 
+      <lb ed="#H" n="90"/>quiu &amp; percatum originale, non personale est sed naturae totius 
+      <lb ed="#H" n="91"/>ideo ab Adamo tanquam omnium origine in nos derivatum 
+      <lb ed="#H" n="92"/>est. 
+      <!--cod-MkL9py-0357.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>II. Quicquid Adamo fuit naturale, id in omnes homines 
+      propa<lb ed="#H" n="94" break="no"/>gatum fuisset: Justitia originalis Adamo fuit naturalis: Ergo, &amp;c. 
+      Mi<lb ed="#H" n="95" break="no"/>nor supra probata est: 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1261">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>III. Si Adamus similes sibi liberos genuisset; tum etiam justitia; 
+      <lb ed="#H" n="97"/>originalis ab ipso in posteros propagata fuisset: Antecedens verum 
+      <lb ed="#H" n="98"/>ist: Ergo &amp; consequens. Antecedens probatur: quia omne quos 
+      <lb ed="#H" n="99"/>generat, generat sibi simile in natura atque specie sua. Ita omne 
+      <lb ed="#H" n="100"/>animal in qualibet specie generat prolem cum iis qualitatibus, cum 
+      <lb ed="#H" n="101"/>quibus primum cujusque speciei animal creatum fuit. Ita Adamus 
+      <lb ed="#H" n="102"/>post lapsum genuit filium ad similitudinem suam, ad imaginem suam; 
+      <lb ed="#H" n="103"/>utlegitur Genes. 5. v. 3. hoc est, non ad illam puram imaginem Dei 
+      <lb ed="#H" n="104"/>ad quam ipse creatus fuerat, sed ad imaginem peccato corruptam 
+      <lb ed="#H" n="105"/>qualem post lapsum habuit. Genuit ergo poccator &amp; injustus 
+      pecca<lb ed="#H" n="106" break="no"/>torem &amp; injustum. Pari ratione, si justus &amp; integet mansisset, justos &amp; 
+      <lb ed="#H" n="107"/>integros genuisset. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1292">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>IV. Si Adamus &amp; Eva seminatia totius generis humani fuerunt,  
+      <lb ed="#H" n="109"/>tum justitia originalis ab ipsis, nisi peccassent, ad posteros derivata. 
+      <lb ed="#H" n="110"/>fuisset: Prius est: Ergo &amp; posterius. Connexi consequentia 
+      proba<lb ed="#H" n="111" break="no"/>tur: quia unumquodque semen, quale ipsum est, tales etiam gignit 
+      <lb ed="#H" n="112"/>fructus 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1308">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>V. Quicquid a Christo per Spiritum regenerationis in nobis 
+      de<lb ed="#H" n="114" break="no"/>nuo creatur, reparatur, atque instauratur, id ab Adamo, nisi peccavit. 
+      <lb ed="#H" n="115"/>set, ad posteros propagatum fuisset: At juditia a Christo per 
+      Spiri<lb ed="#H" n="116" break="no"/>tum regenerationis in nobis denuo creatur, reparatur, atque 
+      instau<lb ed="#H" n="117" break="no"/>ratur: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1324">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>UIt autem hoc argumentum dextre accipiatur, notandum est agi 
+      in<lb ed="#H" n="119" break="no"/>eo non de justitia imputata, quam coram tribunali Dei justi 
+      constitui<lb ed="#H" n="120" break="no"/>mur, sed de justitia nobis inhaerente quae in hac vita in regeneratis in 
+      <lb ed="#H" n="121"/>choatur, in altera perficietur 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1338">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>VI. Si immortalitas ab Adamo in posteros propagata fuisset, tum 
+      <lb ed="#H" n="123"/>&amp; justitia originalis: Primum est verum: Ergo &amp; extremum. 
+      Con<lb ed="#H" n="124" break="no"/>nexi consequentia probatur: quia justitia est causa vitae, sicut 
+      pecca<lb ed="#H" n="125" break="no"/>tum seu justitia causa mortis. Homo non esset mortuus nisi peccasset, 
+      <lb ed="#H" n="126"/>Assumtio per se tam certa est, ut propter ejus certitudinem 
+      AUGU<lb ed="#H" n="127" break="no"/>TINUS quoddam suum dictum nempe; nullas tales necessitudine 
+      <lb ed="#H" n="128"/>haberemus quae nascendo &amp; moriendo contingunt, si natura nostra in 
+      <lb ed="#H" n="129"/>praeceptis &amp; imagine Dei manens, in istam corruptionem non 
+      religare<lb ed="#H" n="130" break="no"/>tur; retractaverit libro primo Retractationum, capite 
+      decimoter<lb ed="#H" n="131" break="no"/>tio; ubi ait; Nondum enim videram fieri potuisse, ut non morituri de 
+      <lb ed="#H" n="132"/>non morituris nascerentur, si peccato illo magno non mutaretur in dete 
+      <lb ed="#H" n="133"/>rius humana natura: ac per hoc si &amp; in parentibus &amp; in filiis foecundi. 
+      <lb ed="#H" n="134"/>as felicitasque mansisset, usque ad certum sanctorum namerum, quem prae 
+      <lb ed="#H" n="135"/>destinavit Deus, nascerentur homines non parentibus successuri 
+      morien<lb ed="#H" n="136" break="no"/>tibus, sod cum viventibus regnaturi. Essent ergo etiam istae cognationes 
+      <lb ed="#H" n="137"/>atque affinitates, si nullus delinqueret, nullusque moreretur 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1377">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>Notanda consuetudo loquendi Africana, quam praeteritum 
+      imper<lb ed="#H" n="139" break="no"/>fectum Conjunctivi modi usurpatur loco Praeteriti plusquam 
+      per<lb ed="#H" n="140" break="no"/>fecti: ut in illo Augustini: Evangelio non crederem, nisi me Ecclesi 
+      <lb ed="#H" n="141"/>Catholica moveret autoritas: pro Evangelio non credidissem, nisi me 
+      <lb ed="#H" n="142"/>Ecclesiae Catholicae movisset autoritas. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1393">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Contra sic obiicitur: 
+      <lb ed="#H" n="144"/>Cuiuscunque rei subiectum δεκτικον a Deo immediate creatum 
+      corpori<lb ed="#H" n="145" break="no"/>infunditur &amp; non a parentibus traducitur in prolem; illa res etiam non 
+      <lb ed="#H" n="146"/>debuit aut potuit ab Adamo in posteros propagari: 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1406">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>At iustitiae originalis subiectum δεκτικον, nempe anima rationalis, a 
+      <lb ed="#H" n="148"/>Deo immediate creata corpori infunditur &amp; non traducitur a 
+      paren<lb ed="#H" n="149" break="no"/>tibus in prolem: 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1417">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>Ergo iustitia originalis non debuit, nec potuit ab Adamo in posteros 
+      <lb ed="#H" n="151"/>propagar. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1426">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Mater probatur: quia subiecto δiκτικῳ non progagato, etiam accidens: 
+      <lb ed="#H" n="153"/>eius naturale &amp; extra ipsum non exsistens, non potest propapari. Iam 
+      <lb ed="#H" n="154"/>anima ratienalis est subiectum δeκlixor iustitiae originalis: haec autem est 
+      <lb ed="#H" n="155"/>iccidens eius naturale 
+      <lb ed="#H" n="156"/>Minor nobis est certa: Nam nequaquam concedimus animam 
+      per<lb ed="#H" n="157" break="no"/>traducem propagari. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1445">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>RESPONDEO. Major est limitanda, nempe, nisi ex Dei 
+      ordina<lb ed="#H" n="159" break="no"/>tione omnes naturaliter tales nascantur, quales sunt parentes e qui  
+      <lb ed="#H" n="160"/>bus nascuntur. Ergo licet anima per parentes non generetur: tamen 
+      <lb ed="#H" n="161"/>ex gratiosa Dei ordinatione anima cujusque hominis, corpori infusa 
+      <lb ed="#H" n="162"/>seu indita, justitia originali donata a Deo statim fuisset, 
+      quemadmo<lb ed="#H" n="163" break="no"/>dum nunc ex justissima ordinatione Dei fit, ut quia omnes in Adamo 
+      <lb ed="#H" n="164"/>eccavimus, licet anima non sit ex traduce, tamen quum corpori 
+      in<lb ed="#H" n="165" break="no"/>ditur, illico poena ei infligatur commerita in Adamo, sic ut cum pec- 
+      <lb ed="#H" n="166"/>cato originali homo nascatur.  
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1469">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Haec de dotibus &amp; proprietatibus animae tributis, in quibus 
+      ima<lb ed="#H" n="168" break="no"/>go Dei consistebat. Etsi autem illius sedes proprie est anima, tamet 
+      <lb ed="#H" n="169"/>etiam in corpore &amp; toto homine eam Deus relucere voluit per 
+      effo<lb ed="#H" n="170" break="no"/>cta, cujusmodi erant, tum conformitas totius corporis &amp; omnium. 
+      <lb ed="#H" n="171"/>ejus partium, locomotivae itidem &amp; aliarum facultatum actionumque  
+      <lb ed="#H" n="172"/>corporis cum Lege Dei, &amp; amicitia atque consensio cum anima: tum 
+      <lb ed="#H" n="173"/>optima valetudo, &amp; vita atque immortalitas corporis 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1489">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Ea immortalitas corporis, erat naturalis potentia non moriendi: 
+      <lb ed="#H" n="175"/>naturalis, inquam, erat immortalitas, id est, naturae corporis 
+      concre<lb ed="#H" n="176" break="no"/>ata &amp; indita in prima creatione. Nam primi nostri parentes posse non 
+      <lb ed="#H" n="177"/>mori acceperant in natura, ut Prosper ait de vita contemplativa lib. 2. 
+      <lb ed="#H" n="178"/>cap. 19. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1505">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>Mortalitas autem corporis non erat Adamo naturalis, id est, cui  
+      <lb ed="#H" n="180"/>obnoxium esset corpus ex necessitate naturae. Mortalitas enim est 
+      <lb ed="#H" n="181"/>infirmitas quam in hac natura patimur: malitia Satanae in 
+      mun<lb ed="#H" n="182" break="no"/>dum intravit: est mulcta: contra naturam homini jam inest pose 
+      <lb ed="#H" n="183"/>peccatum; naturam enim rationalem, in qua nullum peccatum insit,  
+      <!--cod-MkL9py-0358.xml-->
+      <pb ed="#H" n="331"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Sissolvi atque interire, contra naturam est, &amp; contra ordinem a Deo 
+      <lb ed="#H" n="2"/>in humana natura principio constitutum. Ideo Concilium 
+      Milevita<lb ed="#H" n="3" break="no"/>num celebratum Imperatoribus Arcadio &amp; Honorio, capitulo 
+      pri<lb ed="#H" n="4" break="no"/>mo sic decrevit: Quicunque dicit, Adam primum hominem mortalem 
+      <lb ed="#H" n="5"/>factum, ita ut sive peccaret, sive non peccaret, moreretur in corpore, 
+      ho<lb ed="#H" n="6" break="no"/>est, de corpore exiret, non peccati merito, sed necessitate naturae, anatha 
+      <lb ed="#H" n="7"/>ma sit. Repetitur in Jure Canonico, Distinctione quarta de 
+      Conse<lb ed="#H" n="8" break="no"/>cratione, capitulo Placuit igitur, quod numero est centes. quinquagese 
+      <lb ed="#H" n="9"/>secundum. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1547">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Immortalitas igitur corpori Adami fuit naturalis, quia Adamus 
+      <lb ed="#H" n="11"/>beneficio Creatoris acceperatin natura posse non more: &amp; non 
+      fu<lb ed="#H" n="12" break="no"/>isset moriturus, nisi peccasset: etsi ejuidem corpus mortale fieri 
+      po<lb ed="#H" n="13" break="no"/>terat merito peccati, quemadmodum &amp; deinceps factam est 
+      morta<lb ed="#H" n="14" break="no"/>le, imo actu etiam postea mortuum 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1563">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Quod hactenus imaginem Dei, &amp; in ea justitiam, &amp; innocentiam 
+      <lb ed="#H" n="16"/>originalem asseveravimus fuisse primo homini naturalem; id etiam 
+      <lb ed="#H" n="17"/>pontifices Romani ipsi docuerunt. S. LEO PAPA sermone 
+      pri<lb ed="#H" n="18" break="no"/>mo de jejunio decimi mensis &amp; collectis: Si, inquit, fideliter dilecti 
+      <lb ed="#H" n="19"/>simi atque sapienter creationis nostrae intelligamus exordium, inveniemus 
+      <lb ed="#H" n="20"/>hominem ideo ad imaginem Dei conditum, ut imitator sui esset 
+      auto<lb ed="#H" n="21" break="no"/>ris: &amp; hanc esse NATURALEM nostri generis dignitatem, si in 
+      nobi<lb ed="#H" n="22" break="no"/>quasi in quodam speculo divinae benignitatis fama resplendeat. Ad 
+      <lb ed="#H" n="23"/>quam quotidie utique nos reparat gratia Salvatoris, dum quod cecidit 
+      it<lb ed="#H" n="24" break="no"/>primo Adamo, erigitur in secundo. Repetitur in Breviario Romano i1 
+      <lb ed="#H" n="25"/>Dominica quarta Adventus, lectione quarta. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1593">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>GAELESTINUSI. epistolam prima ad Galliae Episcopos, capi 
+      <lb ed="#H" n="27"/>ulo quarto scribit, Catholicos credere &amp; dicere, In praevaricatione. 
+      <lb ed="#H" n="28"/>Adae, omnes homines NATURALRM possibilitatem &amp; innocentiam? 
+      <lb ed="#H" n="29"/>erdidisse. 
+      <lb ed="#H" n="30"/>Caeterum etsi imago Dei erat primo homini naturalis, ut &amp; 
+      cor<lb ed="#H" n="31" break="no"/>poris immortalitas: tamen homo ante peccatum non fuit in puris, 
+      <lb ed="#H" n="32"/>id est, meris naturalibus constitutus in sola naturae sanitate &amp; ἀκαxίa: 
+      <lb ed="#H" n="33"/>mo status hominis in puris naturalibus nullus unquam fuit, nullus 
+      <lb ed="#H" n="34"/>futurus erat; quod dicimus contra Scholasticos qui pura naturalus 
+      <lb ed="#H" n="35"/>fingunt, id est, gratiam &amp; naturam in Adamo, aut re aut cogitatione 
+      <lb ed="#H" n="36"/>disjungunt, &amp; Adamum in gratia creatum fuisse negant, sed primum 
+      <lb ed="#H" n="37"/>naturalia habuisse, postea demum gratiam accepisse contendunt. At 
+      <lb ed="#H" n="38"/>qui hominis natura ante peccatum non fuit ex pers gratiae, non nuda 
+      <lb ed="#H" n="39"/>a gratia: sed &amp; ab ea aberat omne malum &amp; simul ornata erat 
+      om<lb ed="#H" n="40" break="no"/>nium virtutum perfectione. Homo quippe est conditus rectus &amp;i 
+      <lb ed="#H" n="41"/>gratia: sic ut quicquid in natura primi hominis fuit, id totum DEG 
+      <lb ed="#H" n="42"/>acceptum referendum sit. Imago enim Dei, cujus pars erat originalis 
+      <lb ed="#H" n="43"/>iustitia, erat gratia creata in natura, id est, primo homini. Creatoris 
+      <lb ed="#H" n="44"/>beneficio ac munere naturalis exstitit. 
+      <lb ed="#H" n="45"/>&amp; adventitia gratia distingui debeat.  
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1641">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>Naturalis homini sanitas erat concupiscere secundum rationis 
+      on<lb ed="#H" n="47" break="no"/>dinem: Hanc naturae sanitatem justitia originalis fecit, non tantum 
+      <lb ed="#H" n="48"/>perfecit; attulit, non tantum conservavit.  
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1652">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>En quam multa, quamque eximia bona naturalia primi parentes 
+      <lb ed="#H" n="50"/>nostri in statu integritatis habuerint: 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1661">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Naturalibus bonis superaddita erant supernaturalia bona, nimi 
+      <lb ed="#H" n="52"/>rum I. gratia &amp; favor Dei, quo Deus Pater primum hominem 
+      gra<lb ed="#H" n="53" break="no"/>um sibi &amp; acceptum faciebat, &amp; complectebatur amabatque in 
+      Fi<lb ed="#H" n="54" break="no"/>sio suo prae caeteris creaturis visibilibus omnibus. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1674">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>lta primus homo gratiam gratum facientem in statu integro 
+      ha<lb ed="#H" n="56" break="no"/>buit, non in se haerentem tanquam qualitatem; quia gratia hominem 
+      <lb ed="#H" n="57"/>Deo gratum faciens non erat qualitas homini inhaerens: sed in Dei, 
+      <lb ed="#H" n="58"/>residentem, quia nihil est aliud, quam paternus favor quo Deus hoc 
+      <lb ed="#H" n="59"/>minem complectitur in Filio suo unigenito; cujus tamen gratiae &amp; 
+      <lb ed="#H" n="60"/>favoris splendor, sensus, experientia &amp; cognitio per effecta in homine 
+      <lb ed="#H" n="61"/>erat. Non sequitur autem, si gratia illa non fuit in homine, quod eam 
+      <lb ed="#H" n="62"/>non habuerit: siquidem non eam tantum gratiam homo habere 
+      di<lb ed="#H" n="63" break="no"/>citur, quae in ipso haeret, sed etiam eam quae est in alio, cujus gratiae i 
+      <lb ed="#H" n="64"/>alio residentis cognitio, sensus &amp; experientia, &amp; effecta sunt in ipse 
+      <lb ed="#H" n="65"/>homine qui gratiam dicitur habere. Ita quispiam dicitur gratiam 
+      <lb ed="#H" n="66"/>Principis habere, id est, invenisse gratiam &amp; valere gratia apud 
+      Prin<lb ed="#H" n="67" break="no"/>cipem, quae tamen gratia in Principe est, non in eo qui eam habet, 
+      ea<lb ed="#H" n="68" break="no"/>que valer 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1709">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Quocitca justitia originalis in primo homine differebat a gratia; 
+      <lb ed="#H" n="70"/>gratum faciente, non tantum ratione, sed etiam reipsa ac natura 
+      <lb ed="#H" n="71"/>Nam justitia originalis erat habitus in anima primi hominis 
+      inhae<lb ed="#H" n="72" break="no"/>rens: at gratia gratum faciens est patorna Dei benevolentia qua 
+      ho<lb ed="#H" n="73" break="no"/>minem complectebatur, in ipso Deo residens. Si qui justitiam 
+      origi<lb ed="#H" n="74" break="no"/>nalem nominant habitum gratiae gratum facientis, improprie 
+      lo<lb ed="#H" n="75" break="no"/>quuntur  
+      <lb ed="#H" n="76"/>II. Supernaturalis quidam splendor Spiritus Sancti in primi 
+      ho<lb ed="#H" n="77" break="no"/>minis anima lucens, eamque irradians, cujus gratia atque auxilio 
+      spe<lb ed="#H" n="78" break="no"/>ciali in sua integritate &amp; innocentia perseverare. Deique voluntati in 
+      <lb ed="#H" n="79"/>sempiternum obtemperate potuisset, si voluisset: ut autem vellet, 
+      in<lb ed="#H" n="80" break="no"/>ipsius relictum erat potestate liberoque arbitrio 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1741">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Ac certe primus homo eguit in statu innocentiae speciali gratia ad 
+      <lb ed="#H" n="82"/>que auxilio ad bene constanter operandum &amp; ad vitanda perpetue. 
+      <lb ed="#H" n="83"/>peccata; quod asserimus adversus Bellarmini cap. quartum libri 
+      de<lb ed="#H" n="84" break="no"/>gratia primi hominis 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1754">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>Adamus ante lapsum habuit Spiritum Sanctum, quod affirma 
+      <lb ed="#H" n="86"/>mus contra P. Lombardum &amp; Scotum. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1763">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>III. Supernaturalis vita animae ac beatitudo, quae in 
+      communi<lb ed="#H" n="88" break="no"/>one cum Deo Patre, Filio &amp; Spiritu Sancto consistebat.  
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1772">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>QUAE RITUR: Si justitia originalis propagata fuisset, an illa sua 
+      <lb ed="#H" n="90"/>pernaturalem gratiam GHRISTIsuperadditam &amp; conjunctam 
+      ha<lb ed="#H" n="91" break="no"/>buisset. 
+      <!--cod-MkL9py-0358.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>RESP. Affirmamus, &amp; affirmationem nostram stabilimus his 
+      <lb ed="#H" n="93"/>argumetis: 
+      <lb ed="#H" n="94"/>I. Quicquid Adamo non ut privatae personae, sed ut totius 
+      hu<lb ed="#H" n="95" break="no"/>mani generis origini collatum fuit, illo etiam nisi peccasset, omnes 
+      <lb ed="#H" n="96"/>posteri ejus donati fuissent: At supernaturalis gratia Christi Adamo, 
+      <lb ed="#H" n="97"/>non ut privatae personae, sed ut totius humani generis origini collata 
+      <lb ed="#H" n="98"/>fuit: Ergo illa etiam, nisi peccasset, omnes posteri ejus donati fuissent 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1803">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>II. Si Deus etiam post sapsum continuat beneficentiam suam, 
+      <lb ed="#H" n="100"/>in Lege promissam in hominum piorum liberos pios: multo magis 
+      <lb ed="#H" n="101"/>si in innocentia Adamus perstitisset, in ejus posteros illam gratiam 
+      <lb ed="#H" n="102"/>continuasset qua Adamum ornaverat. Verum est primum: Ergo &amp; 
+      <lb ed="#H" n="103"/>extremum. 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1819">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>III. Quod Jeremiae, Johanni Baptistae &amp; multis aliis adhuc in 
+      <lb ed="#H" n="105"/>uteris maternis a Deo datum fuit, id multo magis Deus hominibus 
+      <lb ed="#H" n="106"/>in integritate permanentibus largitus fuisset: At Christi gratia 
+      su<lb ed="#H" n="107" break="no"/>pernaturalis Jeremiae, Johanni Baptistae &amp; multis aliis adhuc in 
+      ute<lb ed="#H" n="108" break="no"/>ris maternis a Deo data fuit: Ergo eam multo magis hominibus in 
+      <lb ed="#H" n="109"/>integritate permanentibus largitus fuisset: 
+      </p>
+            <p xml:id="yyy8Uu-e58209-d1e1838">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Major probatur: Nam homo ante lapsum in statu longe 
+      perfe<lb ed="#H" n="111" break="no"/>ctiore fuit, quam est post lapsum in statu inchoatae regenerationis. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

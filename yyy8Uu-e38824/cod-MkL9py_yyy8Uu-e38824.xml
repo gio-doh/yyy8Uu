@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 16</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 16</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="288"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e38824"> <!-- l5-c16 -->
+            <head xml:id="yyy8Uu-e38824-Hd1e109">Caput 16</head>
+            <p xml:id="yyy8Uu-e38824-d1e112">
+               <lb ed="#H" n="139"/>CAPUT XVI. 
+      <lb ed="#H" n="140"/>In quo de elemento ignis &amp; luce primigenia;
+      <lb ed="#H" n="141"/>die item &amp; noctes
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e121">
+               <lb ed="#H" n="142"/>VTin prima illa materia mundi in principio a Deo creata, 
+      <lb ed="#H" n="143"/>continebantur omnia elementa: ita deinceps a Deo fuerunt  
+      <lb ed="#H" n="144"/>separata ac distincta substantiis &amp; accidentibus. Ordo 
+      igi<lb ed="#H" n="145" break="no"/>tur doctrinae requirit, ut jam de elementis agamus. ELRMEN 
+      <lb ed="#H" n="146"/>TA, sunt corpora simplicia homogenea, ex quibus unaquaeque 
+      re<lb ed="#H" n="147" break="no"/>corporata primum componitur, &amp; in quae ad extremum 
+      re<lb ed="#H" n="148" break="no"/>solvitur: ipsa vero in nulla se priora. Sunt ergo materia rerum 
+      cor<lb ed="#H" n="149" break="no"/>poratarum. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e141">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>Suntque numero quatuor: Ignis, aer, aqua, terra. 
+      <lb ed="#H" n="151"/>Elementum ignis est calidissimum, siccissimum, levissimum, 
+      per<lb ed="#H" n="152" break="no"/>means per omnia &amp; omnia pervadens. Per Synecdochen nomine 
+      <lb ed="#H" n="153"/>ucis illius primo die creatae significatur. Ignis certe intra massam 
+      il<lb ed="#H" n="154" break="no"/>iam primo die creatam, fovebat aquas, reddebatque fluxiles, ne frigore 
+      <lb ed="#H" n="155"/>concresceret in glaciem 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e160">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Ut igitur lux, it, &amp; ignis in tenebricosa illa massa materiae prima 
+      <lb ed="#H" n="157"/>initio concludebatur &amp; latebat unde prodiit mandato, nutu &amp; 
+      vo<lb ed="#H" n="158" break="no"/>luntate Dei exsequente aeternum decretum de rerum omnium 
+      crea<lb ed="#H" n="159" break="no"/>tione, &amp; efficaciter vocante ea quae non sunt, tanquam ea quae sunt;  
+      <lb ed="#H" n="160"/>sicut Moses testatur Gen. 1. v. 3. Deum dixisse, esto lux: &amp; fuit 
+      lux<lb ed="#H" n="161" break="no"/>Ita legitur 2. Cor. 4. v. 1. Deus d xit ut e tenebris lux splendescerit. I. 
+      <lb ed="#H" n="162"/>gnis a Deo creatus est ad hunc finem, ut concurreret cum aliis ele 
+      <lb ed="#H" n="163"/>mentis ad corporum concretorum constitutionem, ut calore suo 
+      cae<lb ed="#H" n="164" break="no"/>era elementa foecundaret ac veluti pater generationis inter illa es 
+      <lb ed="#H" n="165"/>fet, quum summa vi agendi generandique sit praeditus: unde sapientia 
+      <lb ed="#H" n="166"/>Dei omnia optime temperantis perspicitur? 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e189">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Idem servit Deo efficiens mandatum ejus, Psal. 148. 8. ad 
+      glo<lb ed="#H" n="168" break="no"/>tiam gratiae justitiae &amp; potentiae ejus declarandam: veluti Gen. 15. v. 
+      <lb ed="#H" n="169"/>17. quum Abrahamus Deo obtulisset vitulam triennem &amp; arietem 
+      <lb ed="#H" n="170"/>triennem; turturemque cum pullo columbarum, &amp; omnia haec, 
+      ex<lb ed="#H" n="171" break="no"/>ceptis avibus, dissecuisset per medium, posu ssetque dimidiatam 
+      cu<lb ed="#H" n="172" break="no"/>ausque partem e regione suae alterius, ecce sumans furnus &amp; ardens 
+      <lb ed="#H" n="173"/>iampas transiit inter segmenta illa: edae duo, nimirum fumans 
+      fur<lb ed="#H" n="174" break="no"/>nus &amp; ardens lampas figurabant sanctissimo mysterio partet. 
+      <lb ed="#H" n="175"/>inter se contrahentes fedus, ut moris erat iis qui pacta ac 
+      pro<lb ed="#H" n="176" break="no"/>missa externis symbolis confirmabant, ut videre est Jerem. 24. v 18. 
+      <lb ed="#H" n="177"/>19. Nam partes contrahentes transibant inter segmenta atque hoc 
+      <lb ed="#H" n="178"/>ritu significabant, se ita fidem obstringere, ut se dederent 
+      anathema<lb ed="#H" n="179" break="no"/>i aut lacerationi, ut lacerata &amp; diffecta erant animalia, nisi praestarent 
+      <lb ed="#H" n="180"/>fidem Exo. 3. 2. apparut Angelus Iehova Mosi in fiamma ignis e medio 
+      <!--cod-MkL9py-0316.xml-->
+      <pb ed="#H" n="289"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>eujusdam rubi: quumque Moses aspiceret, ecce rubus ille ardebat igne 
+      <lb ed="#H" n="2"/>nec tamen rubus consumebatur. Flamma ignis cum praesentiam Dei. 
+      <lb ed="#H" n="3"/>tum afflictiones significabat, rubus ardens igne populum Israeliti 
+      <lb ed="#H" n="4"/>cum qui affligebatur calamitatibus gravissimis, integritas rubi i1 
+      <lb ed="#H" n="5"/>media flamma non consumti, stabilitatem &amp; conservationem 
+      popu<lb ed="#H" n="6" break="no"/>li etiam in mediis afflictionibus ex veritate promissionum Dei. Exod  
+      <lb ed="#H" n="7"/>13. v. 21, &amp; 22. memoratur quod Jehova populum Israeliticum ex 
+      ser<lb ed="#H" n="8" break="no"/>vitute AEgyptiaca eductum antecesserit noctu in columna ignis ac 
+      <lb ed="#H" n="9"/>afferendum Israelitis lucem. Et cap. 14. v. 24. prospectavit Jehova 
+      <lb ed="#H" n="10"/>ad castra AEgyptij in columna ignis &amp; nubis, ut funderet castra 
+      AE<lb ed="#H" n="11" break="no"/>gyptiorum. Exod. 19. vers. 18. Mons Sinai fumabat totus, 
+      propterea<lb ed="#H" n="12" break="no"/>quod descendebat super eum Iehova in ipso igne: emittensque fumum 
+      <lb ed="#H" n="13"/>suum, tanquam fumum fornacis, tremebat totus ille mons valde: 
+      <lb ed="#H" n="14"/>Exod. 24. v. 16, 17. Habitabat gloria Iehovae in monte Sinai. Species. 
+      <lb ed="#H" n="15"/>autem gloriae Iehovae erat tanquam ignis consumens in summitate 
+      il<lb ed="#H" n="16" break="no"/>lius montis. Et cap. 40. v 83. Nubes Iehovae erat super ipsum 
+      taberna<lb ed="#H" n="17" break="no"/>culum interdiu, ignis uero in ea noctu, in oculis totius domus Israelis 
+      <lb ed="#H" n="18"/>omnibus profectionibus eorum. Num. 16. v. 35. ignis egressus est e 
+      Ie<lb ed="#H" n="19" break="no"/>hova, &amp; absumsit ducentos quinquaginta viros, Rorachi 
+      assecla<lb ed="#H" n="20" break="no"/>qui offerebant suffitum, in seditione adversus Mosen &amp; Aaronem 
+      <lb ed="#H" n="21"/>mota. 1. Reg. 18. v. 38. Ignis Iehovae decidens, consumsit holocaustum 
+      <lb ed="#H" n="22"/>quod Elias Propheta offerebat, &amp; ligna, &amp; lapides, &amp; pulverem 
+      <lb ed="#H" n="23"/>ipsum etiam aquam quae erat in aquaeductu (circum altare] deduxit,  
+      <lb ed="#H" n="24"/>2. Reg. 1. v. 10. &amp; 12. descendens ignis e coelo consumsit praefectos 
+      duo<lb ed="#H" n="25" break="no"/>cum quinquaginta viris, quos Achazja Rex Israelis ad Eliam 
+      addu<lb ed="#H" n="26" break="no"/>cendum miserat. Sic in extremo die veniet Dominus Jesus de coelo 
+      <lb ed="#H" n="27"/>cum igne flammante, infligens ultionem iis qui Deum nesciunt, 
+      ne<lb ed="#H" n="28" break="no"/>que auscultant Evangelio Domini nostri Jesu Christi, 2. Thessal. 1. 8. 
+      <lb ed="#H" n="29"/>Quo pertinet quod legitur 2. Petr. 3. v. 7. Qui nunc sunt coeli ac ter 
+      <lb ed="#H" n="30"/>ra, eodem sermone reconditi, asservantur igni in diem damnationis I 
+      <lb ed="#H" n="31"/>&amp; exitij impiorum hominum. Et v. 10. Veniet sicut fur in nocte die: 
+      <lb ed="#H" n="32"/>ille Domini, quo coeli cum stridore praeteribunt, elementa vero aestus 
+      <lb ed="#H" n="33"/>antia solventur, terraque &amp; quae in ea sunt opera exurentur. Et v. 12 
+      <lb ed="#H" n="34"/>coeli conflagrantes solventur, &amp; elementa aestuantia liquescent 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e304">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>Hoc praesentiae Dei symbolum nos docet, Jehovam Deum Israe 
+      <lb ed="#H" n="36"/>lis in quem credimus, esse verum Deum, &amp; solum verum Deum, sic  
+      <lb ed="#H" n="37"/>ut dicitur Deuteron. 4. vers. 35, 36. Tibi exhibita sunt videnda ut 
+      <lb ed="#H" n="38"/>cognoscas Iehovam esse Deum ipsum: nullum amplius esse praeter eum. 
+      <lb ed="#H" n="39"/>E coelis audiendam proposuit tibi vocem suam, ut erudiret te: &amp; in 
+      <lb ed="#H" n="40"/>terra exhibuit tibi videndum ignem suum maximum, quum verba 
+      <lb ed="#H" n="41"/>pjus audisti e medio ignis. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e324">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Docet iram &amp; potentiam hominum quamvis potentissimorum 
+      <lb ed="#H" n="43"/>nihil esse cum ira Dei collatam, Dei enim ira etiam esementa omnia 
+      <lb ed="#H" n="44"/>commovet &amp; totum aerem fiammis implet: hominum autem 
+      quam<lb ed="#H" n="45" break="no"/>vis potentissimorum ira fere vana est &amp; sine viribus, ut multorum 
+      re<lb ed="#H" n="46" break="no"/>gum exempla ostendunt. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e340">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Est etiam nobis solatio, quia nos confirmat, Deum nostrum 
+      sa<lb ed="#H" n="48" break="no"/>tis potentem esse ad nos tuendos a violentia hostium nostrorum, &amp; 
+      <lb ed="#H" n="49"/>ad consumendos hostes nostros. Ita solatur Deus fideles Israelitas 
+      <lb ed="#H" n="50"/>adversus terrorem ab Assyriis, Jesa. 10. vers. 17. Erit enim lux Israe 
+      <lb ed="#H" n="51"/>lis pro igne, &amp; sanctus illius pro flamma: quae incendet &amp; consume 
+      <lb ed="#H" n="52"/>vepres ejus, &amp; sentes ejus eodem die; Gloriamque sylvae ejus, &amp; 
+      arvo<lb ed="#H" n="53" break="no"/>rum ejus, &amp; spiritu &amp; carne absumet: Sensus est: Deus qui est 
+      lu<lb ed="#H" n="54" break="no"/>&amp; Sanctus ille Israelis, hoc est, illustrans &amp; sanctificans Israelem, 
+      tan<lb ed="#H" n="55" break="no"/>quam ignis &amp; flamma consumet Assyrios, quibus ut sentibus 
+      vepri<lb ed="#H" n="56" break="no"/>busque cohorrebat terra, &amp; consumet omnes valentes robore 
+      exer<lb ed="#H" n="57" break="no"/>citus Assyriorum, de quibus Rex Sennacherib gloriatur. Ita ignis 
+      <lb ed="#H" n="58"/>consideratio elevat animos nostros ad Deum cognoscendum, 
+      timen<lb ed="#H" n="59" break="no"/>dum &amp; celebrandum. Deus dicitur ignis consumens. 
+      Quemadmo<lb ed="#H" n="60" break="no"/>dum enim ignis vi naturali urendi consumit ligna, foenum, stramen 
+      <lb ed="#H" n="61"/>stipulas &amp; alias res objectas: ita Deus potentia sua ac judiciis suis 
+      con<lb ed="#H" n="62" break="no"/>sumit violatores federis sui, &amp; contemtores gratiae per quam ipsi 
+      ser<lb ed="#H" n="63" break="no"/>viendum est, hostes item populi sui. Quapropter inde gravissimae 
+      ad<lb ed="#H" n="64" break="no"/>monitiones petuntur, veluti Deuter. 4. v. 23, 24. Cavete vobis, ne 
+      ob<lb ed="#H" n="65" break="no"/>liviscamini federis Iehovae Dei vestri, quod pepigit vobiscum, aut 
+      fa<lb ed="#H" n="66" break="no"/>ciatis vobis sculptile, similitudinem ullius rei, qua interdixit tibi 
+      Ie<lb ed="#H" n="67" break="no"/>hova Deus tuus: Nam Iehova Deus tuus ignis consumens est. Et  
+      <lb ed="#H" n="68"/>Hebr. 12. ver. 28, 29. Quapropter regnum assumentes quod 
+      concuti<lb ed="#H" n="69" break="no"/>non potest, teneamus gratiam, per quam ita serviamus Deo, ut ei 
+      pla<lb ed="#H" n="70" break="no"/>ceamus, cum verecundia &amp; reverentia. Etenim Deus noster ignis 
+      <lb ed="#H" n="71"/>consumens est. Inde petitur consolatio fidelium adversus hostes 
+      quan<lb ed="#H" n="72" break="no"/>tumvis potentissimos, Deut. 9. v. 3. Scias ergo Iehovam Deum tuum 
+      <lb ed="#H" n="73"/>ipsum qui transit ante te, ignem esse consumentem, ipsum perditurum 
+      <lb ed="#H" n="74"/>eos. Et Zach. 2. v. 5. Et ego ero ei, dicit Iehova, murus igneus circum 
+      <lb ed="#H" n="75"/>quaque. Quapropter passim judicia Dei gravissima igni 
+      comparan<lb ed="#H" n="76" break="no"/>tur &amp; adumbrantur, ut Ezech. 1. vers. 4. &amp; cap. 10. 2. Dan. 7. vers. 9. 
+      <lb ed="#H" n="77"/>10, 11. Apocal. 7. v. 5. adeoque omnes afflictiones &amp; persequutiones 
+      <lb ed="#H" n="78"/>quibus Deus homines explorat &amp; examinat, igne repraesentantur, ut  
+      <lb ed="#H" n="79"/>I. Cor. 3. v. 13, 14, 15. 1. Petr. 1. 7. Apoc. 15. v. 2. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e416">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Ignis praeterea est imago Christi: sicut legitur Malach. 3. vers. 2. 
+      <lb ed="#H" n="81"/>Et quis poterit cogitare diem adventus ejus? &amp; quis stabit ad 
+      viden<lb ed="#H" n="82" break="no"/>dum eum? Ipse enim quasi ignis conflans &amp; quasi herba fullonum: 
+      <lb ed="#H" n="83"/>Et sedebit conflans &amp; emundans argentum &amp; purgabit filios Levi. 
+      <lb ed="#H" n="84"/>&amp;c. Ut ignis calore suo metalla liquefaciens puriora reddit: ita 
+      Chri<lb ed="#H" n="85" break="no"/>stus verbo suo pios terrens &amp; quai dissolvens, &amp; ad peccatorum 
+      agni<lb ed="#H" n="86" break="no"/>tionem ac resipiscentiam adducens a peccatis purgat. Oculi Christ. 
+      <lb ed="#H" n="87"/>sunt tanquam flaima Apocal. 1. vers. 15. &amp; cap. 2. vers. 18. &amp; cap. 15. 
+      <lb ed="#H" n="88"/>vers. 12. id est, omnia clarissime intuetur &amp; videt, nihil coram oculis  
+      <lb ed="#H" n="89"/>ejus absconditum est. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e443">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Ignis est imago Spiritus Sancti, sicut dicitur Matth. 3. vers. 11. 
+      <lb ed="#H" n="91"/>quod Christus baptizet Spiritu Sancto &amp; igni:nam Spiritus Sanctus 
+      <!--cod-MkL9py-0316.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>a sordibus animas ra diter purgat, quam ignis autum a 
+      sco<lb ed="#H" n="93" break="no"/>riis separat 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e461">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>Ignis est imago verbi Dei, sicut Jerem. 5. v. 14 Jehova ait; 
+      Ecc<lb ed="#H" n="95" break="no"/>ego redditurus sum verba mea in ore tuo velut ignem, populum 
+      au<lb ed="#H" n="96" break="no"/>tem hunc velut ligna quae ille consumat. Et cap. 23. v. 29. An non 
+      ita<lb ed="#H" n="97" break="no"/>verbum meum est, ut ignis? dicit Iehova. Apoc. 11. v. 5. Si quis velit  
+      <lb ed="#H" n="98"/>eos laedere, ignis prodit ex ore ipsorum &amp; devorat inimicos eorum. 
+      Sic<lb ed="#H" n="99" break="no"/>ut ignis ligna, stipulas, paleas consumit, autum &amp; argentum 
+      exco<lb ed="#H" n="100" break="no"/>quit &amp; purgat: ita verbum consumit impios, sed pios probat &amp; 
+      pur<lb ed="#H" n="101" break="no"/>gat. Sic Luc. 12. v. 29. Christus comparat Evangelium igni: Ignem 
+      <lb ed="#H" n="102"/>inquam veni missurus in terram; &amp; quid volo si jam accensus est. 
+      <lb ed="#H" n="103"/>Evangelium sicut est unica verae pacis causa inter pios, ita est impiis 
+      <lb ed="#H" n="104"/>occasio persecutiones movendi adversus pios &amp; omnia perturbandi 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e490">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Ignis est imago Ecclesiae Dei. Ut enim ignis consumit stipulam? 
+      <lb ed="#H" n="106"/>ita Ecclesia Dei tandem superat hostes suos, sicut legitur in 
+      Prophe<lb ed="#H" n="107" break="no"/>tia Obadjae v. 18. Erit domus lacobi ignis &amp; domus Iosephi flamma, 
+      <lb ed="#H" n="108"/>domus autem Esavi in stipulam, ut accensi in hos, consumant ipsos 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e503">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Ignis est falsae etiam doctrinae imago, ut Apoc. 9. v. 17, 18. dicitur 
+      <lb ed="#H" n="110"/>de administris Antichristi; Ex ore ipsorum prodibat ignis, &amp; fumus 
+      <lb ed="#H" n="111"/>&amp; sulphur; Abhis tribus occisa est tertia pars hominum, nempe 
+      al<lb ed="#H" n="112" break="no"/>igne &amp; fumo &amp; sulphure, quae prodibunt ex ore ipsorum. Falia 
+      do<lb ed="#H" n="113" break="no"/>ctrina occidit animas hominum, sicut ignis ligna exurit. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e519">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Ignis repraesentat nobis incommoda quae in toto terrarum orbe 
+      <lb ed="#H" n="115"/>proveniunt a lingua improba. Prover. 16. v. 27. Vir nequam effodit.  
+      <lb ed="#H" n="116"/>malum, ejusque labijs insidet, velut ignis adurens. Jacob. 3. ver. 5, 6. 
+      <lb ed="#H" n="117"/>Ecce exiguus ignis quantam materiam incendit! Et lingua fliamma 
+      <lb ed="#H" n="118"/>est, &amp; mundus iniquitatis: ita, inquam, lingua constituta est inter 
+      <lb ed="#H" n="119"/>membra nostra, maculans totum corpus, inflammans rotam 
+      genitu<lb ed="#H" n="120" break="no"/>rae nostrae, &amp; inflammata a gehenna. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e539">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>Omitto alia quae igni comparantur: de luce sequitur:  
+      <lb ed="#H" n="122"/>LUx, est qualitas corporis lucidi, quam &amp; ipsum lucidum est &amp; 
+      a<lb ed="#H" n="123" break="no"/>lia illuminat agitque in ea. Proinde non est substantia, sed accidens 
+      <lb ed="#H" n="124"/>seu affectio corporis. Non est substantia, neque corporea, neque 
+      in<lb ed="#H" n="125" break="no"/>corporea: Corporea substantia non est, squia aerem penetrat, quem 
+      <lb ed="#H" n="126"/>totum illuminat; corporum autem penetratio non datur: 
+      incorpo<lb ed="#H" n="127" break="no"/>rea substantia non est, ut Deus aut mens, quia lux videtur oculis 
+      cor<lb ed="#H" n="128" break="no"/>poris, &amp; visus organum ita afficit ut corrumpat etiam aliquando, 
+      ve<lb ed="#H" n="129" break="no"/>lut excellens sensibile. Lux igitur non est substantia. Accidens autem 
+      <lb ed="#H" n="130"/>est, non incorporeum, ut notitia intellectiva; quia sentitur, quia 
+      viso<lb ed="#H" n="131" break="no"/>rium organum quod corporeum est afficit; corporeum autem 
+      orga<lb ed="#H" n="132" break="no"/>num ab spiritali passione affici non posset. Est ergo accidens 
+      corpo<lb ed="#H" n="133" break="no"/>rale, hoc est, affectio corporis lucidi. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e573">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Obiicitur: Omne creatum a Deo est proprie substantia per se 
+      sub<lb ed="#H" n="135" break="no"/>sistens. Lux est creata a Deo: Ergo lux est proprie substantia per se 
+      sub<lb ed="#H" n="136" break="no"/>istens. RESP. Mutato genere praedicationis non valet consequentia: 
+      <lb ed="#H" n="137"/>major propositio est propria, minor est figurata. Lux enim dicitur 
+      <lb ed="#H" n="138"/>facta primo die, quia factum fuit corpus lucidum, in quo lux erat 
+      tan<lb ed="#H" n="139" break="no"/>quam qualitas. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e591">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Lux ante Solem creata fuit, ne tantum beneficium mortales 
+      ac<lb ed="#H" n="141" break="no"/>ceptum Soli ferrent, sed Deo ipsi. Lux certe princeps munerum Dei, 
+      <lb ed="#H" n="142"/>est. Quam misera esset vita nostra, si luce careremus, si omnia 
+      tene<lb ed="#H" n="143" break="no"/>bris contecta essent. Proinde creavit Deus lucem ad reliquarum 
+      crea<lb ed="#H" n="144" break="no"/>turarum commodum, ut esset velut commune earum bonum, &amp; ut 
+      <lb ed="#H" n="145"/>per eam corpora omnia fierent aspectabilia: ita ut non sine causa a 
+      <lb ed="#H" n="146"/>Deo obtinuerit testimonium quod bona sit, id est, pulchra, jucunda, 
+      <lb ed="#H" n="147"/>delectabilis &amp; utilis 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e613">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Lucis consideratio ad res maximas est utilis. Nam primo ad Dei, 
+      <lb ed="#H" n="149"/>cognitionem nos ducit, de cujus natura &amp; beneficiis nos admonet.  
+      <lb ed="#H" n="150"/>De Deo enim dicitur I. Joh. 1. v. 6. quod lux sit: Hoc est igitur 
+      nun<lb ed="#H" n="151" break="no"/>cium quod audivimus ex ipso &amp; renunciamus vobis, Deum lucem 
+      <lb ed="#H" n="152"/>esse, nec tenebras in eo esse ullas. Dicitur autem lux, non lucidus, ac 
+      <lb ed="#H" n="153"/>notadam simplicissimam ejus essentiam, &amp; ut intelligatur, quod non 
+      <lb ed="#H" n="154"/>constet luce, per quam lucidus sit, sed quod sit ipsa lux. Ergo quum 
+      <lb ed="#H" n="155"/>Deus lux dicitur, significatur ipsammet essentiam Dei esse lucem, 
+      in<lb ed="#H" n="156" break="no"/>sese, &amp; natura, nihil in ea esse nisi liquidum, purum &amp; sincerum: 
+      eam<lb ed="#H" n="157" break="no"/>que suo fulgore sic omnia illustrare, ut nihil vitiosum ac contortum, 
+      <lb ed="#H" n="158"/>mullas maculas vel sordes, nullam hypocrisim vel fraudem latere 
+      pa<lb ed="#H" n="159" break="no"/>tiatur. Deus etiam lux appellatur Psal. 27. 1. alio sensu: nimirum quia 
+      <lb ed="#H" n="160"/>consolator est &amp; liberator a rebus adversis, quas Scriptura 
+      frequen<lb ed="#H" n="161" break="no"/>ter tenebras appellat. Sic Sermo ille Iohan. 1. dicitur esse Lux, primo, 
+      <lb ed="#H" n="162"/>nia est lux essentialis, sua natura lucens, non participatione, 
+      princi<lb ed="#H" n="163" break="no"/>pium aeternum lucis: inaccessibilis enim Deitatis majestas hoc 
+      no<lb ed="#H" n="164" break="no"/>mine significatur. Secundo, quia ab eo lux communicatione in res 
+      <lb ed="#H" n="165"/>reatas fusa est, quia lucem rebus creatis foeneratur: maxime autem 
+      <lb ed="#H" n="166"/>hominibus, quibus ab ipso communicata est tum lux naturalis, hoc  
+      <lb ed="#H" n="167"/>est, vis illa rationis &amp; intelligentiae in animis ipsorum accensa, sed  
+      <lb ed="#H" n="168"/>postea per peccatum obtenebrata: tum lux gratiosa, quam credentes 
+      <lb ed="#H" n="169"/>duntaxat donat, tum ex Judaeis, tum ex gentibus: Unde lux mundi. 
+      <lb ed="#H" n="170"/>&amp; lux gentium etiam appellatur, Jesa. 42. 7. &amp; 49. 6. Johan. 8. v. 12: 
+      <lb ed="#H" n="171"/>&amp; cap. 9, 5. &amp; cap. 12. 46. quibus in locis Christus nomine lucis est 
+      de<lb ed="#H" n="172" break="no"/>cignatus, quod sit electis via ad Elicitatem, veritas ad salutem, vita ad 
+      <lb ed="#H" n="173"/>gloriam aeternam. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e674">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Deinde lux est symbolum seu imago veritatis: unde veritas 
+      subin<lb ed="#H" n="175" break="no"/>de lux appellatur, quod sit luci quam simillima. Vis &amp; efficacia lucis 
+      <lb ed="#H" n="176"/>est duplex: una est a splendore, altera a calore. Splendore haec omnia 
+      <lb ed="#H" n="177"/>ux efficit: primum nullas patitur secum tenebras, sed simul ac 
+      exor<lb ed="#H" n="178" break="no"/>ca est, eas dispellit, sicut Paulus ait 2. Cor. 6. v 14. quae communio 
+      lu<lb ed="#H" n="179" break="no"/>cis cum teneoris? Sic veritas simul ac a Deo patefacta est hominum. 
+      <lb ed="#H" n="180"/>mentibus, illico crassas pellit tenebras ignorantiae rerum divinarum 
+      <lb ed="#H" n="181"/>&amp; ex caecis ignorantibusque hominibus reddit videntes animo &amp; 
+      in<lb ed="#H" n="182" break="no"/>celligentes; ac quo clarius sese patefacit, eo etiam magis 
+      tenebrarfu<lb ed="#H" n="183" break="no"/>gat &amp; mentes illustrat. Deinde lux splendore suo efficit, ut muita, quae 
+      <!--cod-MkL9py-0317.xml-->
+      <pb ed="#H" n="290"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>turpia non videbantur, quam foedissima esse intelligantur; &amp; contra 
+      <lb ed="#H" n="2"/>quae honesta &amp; pulchra esse non videbantur, clare cernantur 
+      hone<lb ed="#H" n="3" break="no"/>stissima esse atque pulcherrima, atque sic a contrariis discernantur  
+      <lb ed="#H" n="4"/>ita veritas omnia retegit &amp; discernit, inter verum Deum &amp; falsum, 
+      in<lb ed="#H" n="5" break="no"/>ter veram Ecclesiam &amp; falsam, inter verum cultum Dei &amp; 
+      idololatri<lb ed="#H" n="6" break="no"/>cum, inter virtutes &amp; vitia. Hoc effectum lucis &amp; veritatis indicat 
+      <lb ed="#H" n="7"/>Christus Joh. 3. v. 20, 11. Quisquis quae mala sunt agit, odit lucem, 
+      ne<lb ed="#H" n="8" break="no"/>venit ad lucem, ne arguantur opera ipsius: Qui vero dat operam 
+      ve<lb ed="#H" n="9" break="no"/>ritati, venit ad lucem, ut manifesta fiant opera ipsius, quod 
+      secum<lb ed="#H" n="10" break="no"/>dum Deum facta fuerint. Tertio lux liberat a servitute tenebrarum &amp; E 
+      <lb ed="#H" n="11"/>asserit in libertatem omnia rectius agendi, dirigens in actionibus 
+      o<lb ed="#H" n="12" break="no"/>culos, manus, pedes, totum corpus: ita veritas Evangelij liberat a 
+      ser<lb ed="#H" n="13" break="no"/>vitute regni Satanae &amp; asserit nos in libertatem regni Christi, &amp; ad 
+      <lb ed="#H" n="14"/>opera lucis nostros animos dirigit. Quarto lux tam certos nos facit 
+      <lb ed="#H" n="15"/>de iis quae oculis nostris ipsi videmus, ut statuamus ea aliter se non 
+      <lb ed="#H" n="16"/>habere quam oculis cernimus, etiamsi mille sophismata ad oppositu 
+      <lb ed="#H" n="17"/>probandum afferantur: ita veritas animos nostros certos reddit de 
+      <lb ed="#H" n="18"/>voluntate Dei &amp; vero ejus cultu, ut ab illa certitudine nulla 
+      adver<lb ed="#H" n="19" break="no"/>sariorum sophisticatio, nulla crudelitas nos avertere possit. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e748">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Haec vis lucis a splendore dependet: altera lucis vis est in calore. 
+      <lb ed="#H" n="21"/>Lux enim calefacit &amp; vivificat: ita veritas coelestis corda nostra ad 
+      <lb ed="#H" n="22"/>Deum &amp; proximum nostrum amandum infiammat &amp; a spirituali 
+      <lb ed="#H" n="23"/>morte ad vitam reducit. Lux superat &amp; fugat tandem tenebras: ita 
+      <lb ed="#H" n="24"/>veritas tandem vincet &amp; triumphabit.  
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e764">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Adhaec lux imago est omnium vere fidelium qui in Christi sunt. 
+      <lb ed="#H" n="26"/>communione. Illi enim lux sunt, dicente Christo ad Apostolos Matt. 
+      <lb ed="#H" n="27"/>5. v. 14. Vos estis lux mundi, quia mundum illuminarunt &amp; doctrina 
+      <lb ed="#H" n="28"/>sua &amp; vita: qua de re vide supra lib. 1. cap. 44. col. 608. Sic Paulus ac 
+      <lb ed="#H" n="29"/>fideles alios loquitur Ephes. 5. 8. Eratis olim tenebrae, nunc autem 
+      lu<lb ed="#H" n="30" break="no"/>in Domino: ut filij lucis incedite. Fideles lux dicuntur, tum quia vera 
+      <lb ed="#H" n="31"/>luce illustrantur, tum quod aliis praeluceant verae doctrinae 
+      professio<lb ed="#H" n="32" break="no"/>ne &amp; vitae sanctae instituto. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e787">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Insuper lux imago est prosperitatis seu status rerum felicis, pacis, 
+      <lb ed="#H" n="34"/>laetitiae, consolationis; unde in scriptura sacra multis in locis per lucen 
+      <lb ed="#H" n="35"/>prosperitas &amp; status rerum exoptatus, pax, laetitia, solatium intelligit 
+      <lb ed="#H" n="36"/>ur. Job. 18. v. 5, 6. Lux improborum extinguitur: Lux tenebricosa. 
+      <lb ed="#H" n="37"/>sit in tentorio ejus, id est, prosperitas improborum instabilis est &amp; 
+      sta<lb ed="#H" n="38" break="no"/>tim disperit. Psal. 97. 11. Lux sata est justo &amp; rectis corde letitia, id est, 
+      <lb ed="#H" n="39"/>reposita &amp; latens velut semen mandatum terrae, sed suo tempor 
+      <lb ed="#H" n="40"/>proditura. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e809">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>Caeterum prima omnium distinctio, divisio &amp; separatio in 
+      mun<lb ed="#H" n="42" break="no"/>do fuit lucis a tenebris ex ordinatione Dei, sicut Moses ait Genes. 1. v. 
+      <lb ed="#H" n="43"/>4. distinctionem fecit Deus inter hanc lucem &amp; tenebras. Sicut 
+      au<lb ed="#H" n="44" break="no"/>tem omnium rerum distinctio eo spectat, ut altera alterius officium 
+      <lb ed="#H" n="45"/>non impediat: ita etiam Deus lucem a tenebris divisit eandem 
+      ol<lb ed="#H" n="46" break="no"/>causam. Proinde ex ordinatione Dei lux pellit tenebras &amp; eas secum. 
+      <lb ed="#H" n="47"/>non patitur. Quo admonentur fideles, ipsos a consortio &amp; conjugic 
+      <lb ed="#H" n="48"/>infidelium &amp; a communicatione sacrorum idololatricorum 
+      abstine<lb ed="#H" n="49" break="no"/>re debere; sicut Deus voluit lucem corporalem a tenebris corporali 
+      <lb ed="#H" n="50"/>bus distinctam esse. Hoc argumento vtitur Paulus 2. Cor. 6. v. 14. N 
+      <lb ed="#H" n="51"/>impari jugo copulemini cum infidelibus, quod enim consortium est, 
+      <lb ed="#H" n="52"/>justitiae cum legis transgressione? &amp; quae communio lucis cum 
+      tene<lb ed="#H" n="53" break="no"/>bris? Deinde disterminatione lucis &amp; tenebrarum admonentur fido 
+      <lb ed="#H" n="54"/>les, ut quum filij lucis sint, opera tenebrarum abjiciant, Rom. 13. v. 13. 
+      <lb ed="#H" n="55"/>Abjiciamus opera tenebrarum, &amp; induamur habitu qui luci 
+      conve<lb ed="#H" n="56" break="no"/>niat. Eph. 5. 8. ut filij lucis incedite. Eadem admonemur, credendum 
+      <lb ed="#H" n="57"/>esse Evangelio, ut a tenebris errorum praeservemur: sicut Christus ait 
+      <lb ed="#H" n="58"/>Joh. 12. 35. Ambulate dum lucem habetis, ne vos tenebrae 
+      deprehen<lb ed="#H" n="59" break="no"/>dant, nam qui ambulat in tenebris, nescit quo vadat. Eadem admo 
+      <lb ed="#H" n="60"/>net nos de separatione electorum a reprobis ante jactum mudi 
+      fun<lb ed="#H" n="61" break="no"/>damentum decreta, deinceps praedicatione verbi Dei &amp; alijs mediis. 
+      <lb ed="#H" n="62"/>declarata, ac tandem in fine mundi plene exsequeda. Electi tanquam 
+      <lb ed="#H" n="63"/>filij lucis, fruentur luce aeterna: reprobi tanquam tenebre in tenebras 
+      <lb ed="#H" n="64"/>extimas ejicientur, Matth. 8. v. 12. &amp; cap. 25. 30. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e866">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Deus tenebras non sustulit, non abolevit, sed tantum sejunxit a 
+      lu<lb ed="#H" n="66" break="no"/>ce: quia &amp; illae suum habent usum, &amp; in utilitatem nostram cedunt.  
+      <lb ed="#H" n="67"/>Vicissitudo enim lucis &amp; tenebrarum, quam hae illi succedunt, 
+      praestan<lb ed="#H" n="68" break="no"/>tiam, eximiam utilitatem, amoenitatem, jucunditatem lucis nobi 
+      <lb ed="#H" n="69"/>commendat. Sic homines impii, qui tenebrae sunt, imo daemones ipsi 
+      <lb ed="#H" n="70"/>suum habent usum &amp; vel inviti vel nihil tale cogitantes cooperantur  
+      <lb ed="#H" n="71"/>ad bonum &amp; salutem nostram, ut nos tentando &amp; oppugnando 
+      exer<lb ed="#H" n="72" break="no"/>ceant, ad patientiam erudiant, ad preces acuant, ad gratias Deo 
+      agen<lb ed="#H" n="73" break="no"/>das incitent: ad Christum sequendum impellant, quanquam aliud 
+      <lb ed="#H" n="74"/>propositum filij tenebrarum habeant. Quum enim filij lucis vident 
+      <lb ed="#H" n="75"/>improbitatem &amp; sempiterna perniciem mancipiorum tenebrarum 
+      <lb ed="#H" n="76"/>melius &amp; evidentius agnoscunt gratiam &amp; benignitatem Dei sibi 
+      ex<lb ed="#H" n="77" break="no"/>hibitam, malis resistunt, calamitates patienter ferunt, ardentius 
+      Pa<lb ed="#H" n="78" break="no"/>trem luminum invocant, pro beneficio lucis salvificae ei gratias agunt,  
+      <lb ed="#H" n="79"/>Christum veram illam lucem sequuntur. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e903">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Denique lucis corporalis a Deo initio creatae officium est, 
+      consti<lb ed="#H" n="81" break="no"/>tuere diem, tenebrarum autem, efficere noctem, 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e912">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Sequitur ergo de die &amp; nocte 
+      <lb ed="#H" n="83"/>Vox DIEI vel proprie usurpatur in Scriptura Sacra vel figurate, 
+      <lb ed="#H" n="84"/>Proprie dies nominatur tempus illud quo lux est in nostro 
+      hemi<lb ed="#H" n="85" break="no"/>sphaerio in primo naturae exordio divina ordinatione a nocte 
+      distin<lb ed="#H" n="86" break="no"/>ctum &amp; per vices naturaliter continuatum. Quapropter tempus 
+      il<lb ed="#H" n="87" break="no"/>lud quo lux supra nostrum horizontem obtinet, proprie naturali 
+      <lb ed="#H" n="88"/>dies nominatur, communiter dies artificialis, quod opportunus sit 
+      <lb ed="#H" n="89"/>artibus exercendis. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e934">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Recepta est communiter a plerisque distinctio diei in artificialem, 
+      <lb ed="#H" n="91"/>&amp; natitralem. Artificialem diem vocant spatium quo Sol est supra 
+      <!--cod-MkL9py-0317.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>nostrum horigontem. Naturalem diem autem, spacium vigintiqua: 
+      <lb ed="#H" n="93"/>tuor horarum aequalium, complectens diem artificialem &amp; noctem: 
+      <lb ed="#H" n="94"/>Naturalem rursus duplicem faciunt: exquisitum seu 
+      Astronomi<lb ed="#H" n="95" break="no"/>cum; &amp; minus exquisitum, quem politicum &amp; civilem indigetant 
+      <lb ed="#H" n="96"/>Quam distinctionem si quis retinere volet, per nos poterit, propter 
+      scri<lb ed="#H" n="97" break="no"/>pta exoterica, in quibus usurpatur. Sed existimamus aequos lectore 
+      <lb ed="#H" n="98"/>intellecturos, nos temeritate &amp; contradicendi studio minime duci, se  
+      <lb ed="#H" n="99"/>nomina permutemus &amp; iis quibus proprie &amp; naturaliter competum 
+      <lb ed="#H" n="100"/>tribuamus. Cuicunque nomen diei naturaliter &amp; primo convenit. 
+      <lb ed="#H" n="101"/>id profecto proprie naturalis dies appellatur. Id enim proprie de 
+      ali<lb ed="#H" n="102" break="no"/>quo dicitur, quod de eo naturaliter dicitur, &amp; primo, ut passim 
+      or<lb ed="#H" n="103" break="no"/>thodoxi Patres notant. Iam vero nomen diei convenit tempore 
+      illi<lb ed="#H" n="104" break="no"/>quo lux supra hemisphaerium nostrum obtinet: Nam lucem Deus 
+      vo<lb ed="#H" n="105" break="no"/>cavit diem, Genes. 1. v. 5. idque naturaliter &amp; primo: etenim tempus 
+      <lb ed="#H" n="106"/>quo lux viget, secundum naturam suam dies est, &amp; sic in natura 
+      sta<lb ed="#H" n="107" break="no"/>tim ab initio constitutum, appellatumque. Illud ergo proprie 
+      natura<lb ed="#H" n="108" break="no"/>is dies erit. Sed de nominibus cum aliis non contendemus, quibus 
+      re<lb ed="#H" n="109" break="no"/>cepta nomenclatura magis probatur: dum modo rerum confusio non 
+      <lb ed="#H" n="110"/>fiat 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e990">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>Dies naturalis seu, ut alij appellare malunt, artificialis a 
+      veteri<lb ed="#H" n="112" break="no"/>bus in duodecim horas divisus erat. Quamvis enim aestate ac hyem: 
+      <lb ed="#H" n="113"/>dies varient, &amp; vel longiores vel brevioros sint: semper tamen diur 
+      <lb ed="#H" n="114"/>nas horas duodecim &amp; totidem nocturnas habebant. Docet id locus 
+      <lb ed="#H" n="115"/>Johan. 11. 9. ubi Christus ait, Nonne duodecim sunt horae diei: Et 
+      pas<lb ed="#H" n="116" break="no"/>sim mentio sit horarum in Novo Testamento: textiae, sextae, nonae, 
+      <lb ed="#H" n="117"/>undecimae Matth. 20. in parabola de operatiis in vinea: tertiae, 
+      sex<lb ed="#H" n="118" break="no"/>tae, nonae in historia Passionis Christi, ut alia loca omittamus 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1012">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Diei artificiali proprie dictae, opponitur nox, quae tempus est quo 
+      <lb ed="#H" n="120"/>tenebrae hemisphaerium nostrum occupant per lucis absentiam 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1021">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>Utriusque usus vel corporalis est vel spiritualis: ille ad 
+      corpora<lb ed="#H" n="122" break="no"/>em vitam pertinet, hic ad spiritualem. Si corporalem usum utriusque 
+      <lb ed="#H" n="123"/>spectes, dies ordinatus est a Deo, ut eo durante homo cum 
+      domesti<lb ed="#H" n="124" break="no"/>cis animalibus vigilet &amp; labores suae vocationis obeat; ferae autem 
+      <lb ed="#H" n="125"/>homini formidabiles in lustra sua se recipiant: nox autem a Deo 
+      or<lb ed="#H" n="126" break="no"/>dinata est, ut homines a laboribus quiescant, &amp; corpora sua 
+      defatiga<lb ed="#H" n="127" break="no"/>ta recreent, somno &amp; vires reparent; contra vero ferae silvestres 
+      vigi<lb ed="#H" n="128" break="no"/>lent, praedam sibi venentur &amp; escam suam a Deo accipiant. Hoc 
+      do<lb ed="#H" n="129" break="no"/>cetur Psal. 104. v. 20, 22, 23. ubi Psaltes ait ad Deum: Disponis 
+      te<lb ed="#H" n="130" break="no"/>tebras ut sit nox: quam erepunt omnia animantia silvae; Iuvenes 
+      Leo<lb ed="#H" n="131" break="no"/>nes rugientes ad praeda, &amp; quidem quaerendo a Deo forti escam suam, 
+      <lb ed="#H" n="132"/>Exorto Sole recipiunt se, &amp; in lustris suis recubant: Prodit homo 
+      a<lb ed="#H" n="133" break="no"/>opus suum, &amp; ad culturam suam usque ad vesperam. Deinde vicissiu 
+      <lb ed="#H" n="134"/>tudo &amp; successio illa mutua diei &amp; noctis tam aliis rebus terra 
+      nascen<lb ed="#H" n="135" break="no"/>tibus ad hominis usum, quam homini ipsi &amp; aliis animalibus 
+      prod<lb ed="#H" n="136" break="no"/>est majorem in modum. Nox enim tam illis, quam istis 
+      refrigeran<lb ed="#H" n="137" break="no"/>dis &amp; humectandis, eoque conservando vitali illorum humori: dies 
+      <lb ed="#H" n="138"/>vero calefaciendis &amp; exsiccandis, eoque conservando naturali illoe 
+      <lb ed="#H" n="139"/>rum calori est destinata, Jerem. 36. v. 30. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1067">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Sin vero spiritualem usum consideremus, primo dies &amp; nox 
+      enar<lb ed="#H" n="141" break="no"/>rant gloriam sapientiae, bonitatis &amp; potentiae Dei, ut legitur Psal. 19. 
+      <lb ed="#H" n="142"/>v. 3. 4. Dies ad diem eructat sermonem, &amp; nox ad noctem ostendit 
+      sci<lb ed="#H" n="143" break="no"/>entiam: Non est sermo, neque verba eis, &amp; sine his intelligitur vox 
+      eo<lb ed="#H" n="144" break="no"/>rum. Psal. 74. v.16. Tuus est dies, etiam tua est nox. Deinde 
+      constan<lb ed="#H" n="145" break="no"/>illa successio noctis &amp; diei a Deo ab initio constituta servit 
+      confirman<lb ed="#H" n="146" break="no"/>dis promissionibus Dei de stabilitate regni Christi &amp; Ecclesiae. Si 
+      <lb ed="#H" n="147"/>enim Deus ipse ait Jerem. 33. v. 20, 21. St irritum facere potestis fedus 
+      <lb ed="#H" n="148"/>meum de die &amp; fedus meum de nocte, idque ut non sit diurnum tempus 
+      <lb ed="#H" n="149"/>&amp; nocturnum tempore suo: Etiam fedus meum cum Davide servo 
+      <lb ed="#H" n="150"/>meo irritum fiet, ne sit ei filius regnans in solio ejus. Et v. 25, 26. Sic 
+      al<lb ed="#H" n="151" break="no"/>Iehova, si non fedus meum interdiu &amp; noctu, si statuta coeli &amp; terrae 
+      <lb ed="#H" n="152"/>non disponam: Etiam semen Iacobi &amp; Davidis servi mei spernam. 
+      <lb ed="#H" n="153"/>&amp;c. Tertio quodvis tempus servit bono electorum Dei, etiam nox,  
+      <lb ed="#H" n="154"/>quae cum a curis rerum aliarum libera sit, disciplinae Spiritus Sanct 
+      <lb ed="#H" n="155"/>est aptissima. Hinc divinae visiones &amp; patefactiones plerunque noctu 
+      <lb ed="#H" n="156"/>factae: &amp; nox precibus accommodata seriis: praeterea fideles noctu 
+      <lb ed="#H" n="157"/>mysteria atque opera Dei, ab aliis vitae hujus occupationibus 
+      remo<lb ed="#H" n="158" break="no"/>i, attentius cogitant &amp; considerant, Psal. 1. v. 2. Beatus est vir ille, 
+      cu<lb ed="#H" n="159" break="no"/>jus oblectatio est in Lege Iehovae: &amp; qui de Lege illius meditatur in 
+      <lb ed="#H" n="160"/>terdiu ac noctu. Et Psal.16. 7. Etiam per noctes erudiunt me 
+      rene<lb ed="#H" n="161" break="no"/>mei. Abrahamo nocte Deus promissionem terrae Canaan confirma. 
+      <lb ed="#H" n="162"/>vit Genes. 15. Nocte Prophetis &amp; aliis somnia &amp; visa a Deo oblata, ut 
+      <lb ed="#H" n="163"/>lacobo Patriarchae Gen. 28. v. 11, &amp; sequentibus, Iosepho Patriarchae 
+      <lb ed="#H" n="164"/>Gen. 37. v. 6. Satrapis Pharaonis Genes. 40. 5. Pharaoni Gen. 41. 
+      Gi<lb ed="#H" n="165" break="no"/>leoni Judic. 7. v. 9. Samueli 1. Sam. 3. Danieli Dan. 2. 19. &amp; cap. 7. 2. 
+      <lb ed="#H" n="166"/>Lachariae Prophetae Zachar. 1. ver. 8. Iosepho marito Virginis 
+      Maria<lb ed="#H" n="167" break="no"/>Matth. 1. v. 20. Paulo Apostolo Actor. 27. ver. 23. Nicodemus nocte 
+      <lb ed="#H" n="168"/>a Christo institutus Johan. 3. 2. Pij nocte etiam precibus invigilant,  
+      <lb ed="#H" n="169"/>it Dauid Psal. 6. v. 7. &amp; Psal. 42. 4, 9. &amp; 77. 7. &amp; 119. 55, 62 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1137">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Quarto, nocte magna atque admiranda opera Dei facta sunt  
+      <lb ed="#H" n="171"/>nam Deus nocte primogenita in AEgypto interfecit Exod. 11. ver. 4. 
+      <lb ed="#H" n="172"/>nocte eduxit populum Israeliticum ex AEgypto Exod. 12. 42. nocte 
+      <lb ed="#H" n="173"/>antecessit populum Israeliticum in columna ignis Exod. 13. v. 21. 
+      no<lb ed="#H" n="174" break="no"/>cte exsiccavit mare rubrum ut populo tranfitus pateret Exod. 14. ver. 
+      <lb ed="#H" n="175"/>21. nocte submersit Pharaonem cum exercitu ejus v. 24. nocte fudi. 
+      <lb ed="#H" n="176"/>Midjanitas Jud. 7. v. 19. nocte natus est Christus Dominus &amp; 
+      nativi<lb ed="#H" n="177" break="no"/>tas ejus per Angelum Pastoribus annunciata Luc. 2. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1159">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Tantum de die &amp; nocte proprie dicta; 
+      <lb ed="#H" n="179"/>Figurate dies &amp; nox etiam usurpantur. Nam dies cum proprie 
+      <lb ed="#H" n="180"/>sit tempus illud quo lux obtinet per metonymiam significat si 
+      <lb ed="#H" n="181"/>mul tempus noctis quae antecessit, sic ut idem saepissime sit 
+      <!--cod-MkL9py-0318.xml-->
+      <pb ed="#H" n="291"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>quod spacium vigintiquatuor horarum aequalium, complectens 
+      no<lb ed="#H" n="2" break="no"/>ctem &amp; diem artificialem: &amp; nominatur a Graecis νυχόημερον, a 
+      Lati<lb ed="#H" n="3" break="no"/>nis scriptoribus plerisque dies naturalis, de qua appellatione cum 
+      ne<lb ed="#H" n="4" break="no"/>mine pugnabimus, dum modo res ipsa recte intelligatur. Isque 
+      exqui<lb ed="#H" n="5" break="no"/>situs, dicitur dies Astronomicus; &amp; initium sumit seu a meridie seu a 
+      me<lb ed="#H" n="6" break="no"/>dia nocte: minus exquisitus vocatur dies politicus seu civilis, quate 
+      <lb ed="#H" n="7"/>nus apud alios atque alios populos diversum initium habet: Hebraei 
+      inci<lb ed="#H" n="8" break="no"/>piunt eum a principio noctis juxta creationis legem; nam nox in 
+      mun<lb ed="#H" n="9" break="no"/>di initio antecessit diem artificialem. Hanc rationem populi non 
+      <lb ed="#H" n="10"/>pauci sequuti sunt, veluti Athenieses olim &amp; alij. Babylonij seu Chal 
+      <lb ed="#H" n="11"/>daei Genethliaci inceperunt eum ab ortum Solis: AEgyptij, Galli &amp; 
+      <lb ed="#H" n="12"/>Romani, ut &amp; Germani communiter, a media nocte: Arabes &amp; (
+      im<lb ed="#H" n="13" break="no"/>bri a meridie 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1208">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Partes igitur diei Astronomici &amp; civilis duae sunt: nox &amp; dies 
+      ar<lb ed="#H" n="15" break="no"/>tificialis; quae Synecdochice vespera &amp; mane dicuntur aliquoties 
+      Ge<lb ed="#H" n="16" break="no"/>neseos capite primo: nam vespera, quae est principium noctis, 
+      pro<lb ed="#H" n="17" break="no"/>tota nocte; &amp; mane, quod est finis noctis &amp; principium diei 
+      artificia<lb ed="#H" n="18" break="no"/>lis, pro toto die artificiali ponitura 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1224">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Dies artificialis in quatuor quadrantes ab Hebraeis distributus 
+      <lb ed="#H" n="20"/>fuit: primus quadranis fuit mane: secundus &amp; tertius μισον ημαν; 
+      Tza<lb ed="#H" n="21" break="no"/>horajim, habens duo κομμαζα patentis lucis; unum ab hora tertia ad 
+      <lb ed="#H" n="22"/>sextam, alterum a sexta ad nonam, quo tempore Sol procedit in 
+      ro<lb ed="#H" n="23" break="no"/>bore suo, ut loquitur Debora Judic. 5. v. 31. quartus est δeιλi, vesperat 
+      <lb ed="#H" n="24"/>ab hora nona (qua oblationes vespertinae incipiebant offerri) ad 
+      no<lb ed="#H" n="25" break="no"/>ctem usque 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1244">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>MANE diei artificialis tres habet partes: prima, est crepusculum 
+      <lb ed="#H" n="27"/>matutinum, quum adhuc crepera ac dubia lux est &amp; vix incipit 
+      luces<lb ed="#H" n="28" break="no"/>cere &amp; plus adhuc tenebrarum est, quam lucis, Matth. 28. v. 1. craepus, 
+      <lb ed="#H" n="29"/>culum matutinum describitur hoc modo, τῆ ἐπφωσκήση quum luces 
+      <lb ed="#H" n="30"/>ceret, Marc. 16. v. 2. λίαν ωροι, ανατειλαντος γηλικ, valde mane, 
+      ex<lb ed="#H" n="31" break="no"/>priente Sole (nam verbum aoristum praesentis temporis 
+      significatio<lb ed="#H" n="32" break="no"/>nem hoc loco habet, aut certe vix praeteriti &amp; tanquam adhuc prae 
+      <lb ed="#H" n="33"/>sentis,) Lucae vero 24. v. 1. 8pθpoν ζαθεος, diluculo profundo, Joh. 20. 
+      <lb ed="#H" n="34"/>V.1 ωροιι σκοllας εκκτης, mane quum adhuc tenebrae essent 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1268">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>Altera pars mane est diluculum, quum aperte dies lucescit &amp; 
+      di<lb ed="#H" n="36" break="no"/>gnosci incipit, albescente &amp; splendescente jam coelo, &amp; paulatim ex 
+      <lb ed="#H" n="37"/>luce Solis autea autescere incipiente, unde &amp; aurora proprie Latinis 
+      <lb ed="#H" n="38"/>dicitur, Homero φοδοδεικτυλος nως, roseis digitis aurora. Alias 
+      prae<lb ed="#H" n="39" break="no"/>terea dicitur Graecis ὀ δρθρος Act 5. v. 21. unde ώpθριζε Luc. 21. 38. si 
+      <lb ed="#H" n="40"/>gnificat mane veniebat, matutinus se agebat, nempe populus ad 
+      Je<lb ed="#H" n="41" break="no"/>sum. Actor. 20. v. 11. nominatur αυγη, ubi de Paulo Apostolo dicitur 
+      <lb ed="#H" n="42"/>quod ώμιλησεν αχρισ αυγῆς, colloquutus est usque a ddiluculum. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1290">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Tertia pars mane est quum Sol jam oritur &amp; elevatur, efficiens 
+      <lb ed="#H" n="44"/>claram diem 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1299">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>dox initio in tres vigilias quibus excubiae fiebant, ab Hebraeis 
+      <lb ed="#H" n="46"/>distribuebatur, primam, mediam Judic. 7. v. 19. &amp; matutinam Exod. 
+      <lb ed="#H" n="47"/>14. v. 24. &amp; 1. Sam. 11. v. 11. deinde in quatuor etiam quadrantes aut 
+      <lb ed="#H" n="48"/>vigilias distributa fuit: primam vigiliam Thren. Jerem. 2. 19. 
+      secun<lb ed="#H" n="49" break="no"/>dam Luc. 12. ver. 38. tertiam ibidem, &amp; quartam Matth. 14. vers. 25. 
+      <lb ed="#H" n="50"/>Marc. 6. vers. 46. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1318">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Prima vigilia noctis, dieitur etiam vespera noctis, estque principium 
+      <lb ed="#H" n="52"/>noctis, &amp; in tres partes secatur, initium, medium &amp; finem. Initium 
+      <lb ed="#H" n="53"/>ejus est serum, quum jam Sol occubuit, sed luce adhuc in aere clare 
+      lu<lb ed="#H" n="54" break="no"/>cente. Medium est quum obscuriore facto jam aere, stella apparet qua 
+      <lb ed="#H" n="55"/>Hesperus vocatur. Finis vesperae est crepusculum vespertinum, quum 
+      <lb ed="#H" n="56"/>um crepera ac dubia lux est, tenebris jam fere omnia occupantibus. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1336">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Rursus quadrans quilibet, sive diei artificialis sive noctis, horas 
+      <lb ed="#H" n="58"/>tres continebat, primus quadrans a prima hora usque ad tertiam se 
+      ex<lb ed="#H" n="59" break="no"/>tendebat, secundus a tertia usque ad sextam, tertius a sexta usque ad 
+      no<lb ed="#H" n="60" break="no"/>nam, quartus a nona usque ad finem sive diei, sive noctis, qui finis 
+      ve<lb ed="#H" n="61" break="no"/>pera appellatur. Proinde vesperae duae sunt, una diei inclinantis, 
+      nem<lb ed="#H" n="62" break="no"/>pe diei quadrans ultimus qui est ab hora nona ad duodecimam: alte 
+      <lb ed="#H" n="63"/>ra noctis advenientis nimirum noctis quadrans primus. Sic Exod  
+      <lb ed="#H" n="64"/>12. 6. mandatum fuit, ut Israelitae agnum Paschalem jugularent 
+      in<lb ed="#H" n="65" break="no"/>ter duas vesperas, id est, in quibus dies desinit &amp; nox advenit, quod  
+      <lb ed="#H" n="66"/>tempus ab hora nona diei incipit, ut Hebraei numerabant: nam hoc 
+      <lb ed="#H" n="67"/>legitimum fuit tempus, quo sacrificium juge inter duas vesperas 
+      Do<lb ed="#H" n="68" break="no"/>mino offerebatur, ut Exod. 29. v 39. &amp; 41. videre est. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1367">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Distinctio ista diei in artificialem &amp; civilem, &amp; utriusque in suas 
+      ho<lb ed="#H" n="70" break="no"/>tas &amp; quadrantes, plurimum confert ad recte intelligendas 
+      Scriptu<lb ed="#H" n="71" break="no"/>ras Sacras: veluti cum Genes. 1. vers. 5. legitur, lucem Deus vocavit. 
+      <lb ed="#H" n="72"/>diem, intelligendus dius artificialis: quum dicitur, sic fuit vespera &amp; 
+      <lb ed="#H" n="73"/>fuit mane diei primi, intelligendus est dies civilis. Similiter ver. 8, 13. 
+      <lb ed="#H" n="74"/>19, 23, 31. semper intelligendus dies civilis. Quum legitur Gen. 7. v. 
+      <lb ed="#H" n="75"/>24. praevaluisse aquas diluvij super terram, centum 
+      quinquaginta<lb ed="#H" n="76" break="no"/>diebus, intelligendi sunt dies civiles 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1389">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Eadem prodest ad concilianda loca Scripturae Sacrae quae 
+      pugna<lb ed="#H" n="78" break="no"/>re videntur; ut in historia Passionis Christi Marc. 15. 25. memoratur,  
+      <lb ed="#H" n="79"/>fuisse horam tertiam quando crucifixerunt Christum: at Johan. 19. 
+      <lb ed="#H" n="80"/>v. 14. legitur, horam quasi sextam fuisse, quum Pilatus nondum 
+      da<lb ed="#H" n="81" break="no"/>mnasset Christum ad mortem. At Evangelistae non pugnant: nam 
+      <lb ed="#H" n="82"/>Marcus noravit tertiam horam diei artificialis, Johannes vero 
+      innui<lb ed="#H" n="83" break="no"/>horam sextam diei civilis, cujus initium a media nocte sumebant 
+      Grae<lb ed="#H" n="84" break="no"/>ci, apud quos Johannes historiam Evangelicam scripsit. Nam quod  
+      <lb ed="#H" n="85"/>cap. 11. v. 9. dici horas duodecim attribuit ac diem artificialem 
+      intel<lb ed="#H" n="86" break="no"/>ligit, historici officium fecit: quia bonam fide recitat verba Christi tum 
+      <lb ed="#H" n="87"/>apud Judaeos de horis diei exJudaeorum more loquentis. 
+      Consideran<lb ed="#H" n="88" break="no"/>dum quis loquatur quippiam, &amp; ad quem, &amp; quo in loco, &amp; ex quo- 
+      <lb ed="#H" n="89"/>cim more, ut a vero sensu non aberretur. Sic Christus fuit in 
+      se<lb ed="#H" n="90" break="no"/>pilero tres dies, nimirum civiles: &amp; fuit in sepulcro tres noctes &amp; tres 
+      <lb ed="#H" n="91"/>dis, videlicet artificiales, Matth. 12. v. 40. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1426">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>Observanda est etiam regula de Synecdoche quae frequens est in 
+      <!--cod-MkL9py-0318.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>Scriptura in notatione dierum: nempe, Res aliqua eo die dicitur 
+      fa<lb ed="#H" n="94" break="no"/>cta, cujus dici purte est facta; seu, Quod una diei parte fit, illud toti 
+      ill<lb ed="#H" n="95" break="no"/>diei attribui solet: Ut quod Christus una parte diei Veneris in 
+      sepul<lb ed="#H" n="96" break="no"/>ero jacuit, totus ille dies artificialis cum antecedente nocte, sepultur 
+      <lb ed="#H" n="97"/>rae Christi deputatur: similiter quod diei Dominici nocte in 
+      corde<lb ed="#H" n="98" break="no"/>terrae fuit, non tantum nox, sed etiam dies artificialis sequens eidem 
+      <lb ed="#H" n="99"/>sepulturae Christi deputatur. Talis synecdoche etiam in alijs 
+      scripti<lb ed="#H" n="100" break="no"/>occurrit, ut in Pandectis seu Digestis Juris Civilis, lib. 2. tit. 12. De 
+      fe<lb ed="#H" n="101" break="no"/>riis &amp; dilationibus &amp; diversis temporibus, l. 8. Paulus Jurisconsultus 
+      <lb ed="#H" n="102"/>ait: More Romano dies a media nocte incipit, &amp; sequentis noctis 
+      me<lb ed="#H" n="103" break="no"/>dia parte finitur: Itaque quidquid in his vicintiquatuor horis (id est, 
+      <lb ed="#H" n="104"/>duabus dimidiatis noctibus, &amp; luce media jactum est, perinde est 
+      qua<lb ed="#H" n="105" break="no"/>si quavis hora lucis actum esset. 
+      </p>
+            <p xml:id="yyy8Uu-e38824-d1e1465">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Metaphoricas &amp; Synecdochicas significationes vocis jam 
+      omit<lb ed="#H" n="107" break="no"/>o, &amp; ad opera secundi diei accedo. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

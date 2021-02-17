@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="362"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e75166"> <!-- l6-c12 -->
+            <head xml:id="yyy8Uu-e75166-Hd1e109">Caput 12</head>
+            <p xml:id="yyy8Uu-e75166-d1e112">
+      <!--cod-MkL9py-0389.xml-->
+               <pb ed="#H" n="362"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>CAPUT XII. 
+      <lb ed="#H" n="2"/>In quo de Persona Christi.
+    </p>
+            <p xml:id="yyy8Uu-e75166-d1e125">
+               <lb ed="#H" n="3"/> UEMADMODUM finis Legis est Christus; teste Paulo Apo¬ 
+      <lb ed="#H" n="4"/>Pstolo Rom. 10. vers. 4. ita Evangelii specialiter ac proprie 
+      ac<lb ed="#H" n="5" break="no"/>m cepti subjectum proprium de quo agit, est idem Christus 
+      Ser<lb ed="#H" n="6" break="no"/>vator ille mundi. Hic est thesaurus ille in agro Evangelii 
+      abscondi<lb ed="#H" n="7" break="no"/>cus, Matth. 13. v. 44. Hic est margarita illa pretiosissima, cujus 
+      con<lb ed="#H" n="8" break="no"/>sequendae &amp; retinendae gratia, omnes facultates hujus mundi potius 
+      <lb ed="#H" n="9"/>deserendae &amp; amittendae, Matth. 13. 46. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e143">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Christus porro aut proprie dicitur, aut Synecdochice ex Scriptura 
+      <lb ed="#H" n="11"/>usu: proprie, ut persona in se: Synecdochice vero, ut constituens cum 
+      <lb ed="#H" n="12"/>Ecclesia sua unum quid, quod recte etiam Patres totum Christum &amp; 
+      <lb ed="#H" n="13"/>Christum mysticum appellaverunt ex Paulo 1. Cor. 12. v. 12. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e157">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Augustinus septimo tomo, libro de unitate Ecclesiae, capite 4. 
+      <lb ed="#H" n="15"/>Totus Christus caput &amp; corpus est: Caput unigenitus Dei Filius, &amp; 
+      <lb ed="#H" n="16"/>corpus ejus Ecclesia, sponsus &amp; sponsa, duo in carne unis 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e168">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Christus igitur duobus modis consideratur: absolute ut persona. 
+      <lb ed="#H" n="18"/>in se: &amp; relate ut persona ad Ecclesiam suam affectionem habens. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e177">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Christus proprie est nomen non naturae, sed personae consistentis 
+      <lb ed="#H" n="20"/>ex duabus naturis, significans simul officium personae illius; &amp; sic 
+      de<lb ed="#H" n="21" break="no"/>finitur:  
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e188">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Christus proprie est unigenitus &amp; aeternus Filius Dei, homo 
+      fa<lb ed="#H" n="23" break="no"/>ctus propter nostram salutem, unctus a Deo ut esset summus 
+      aeter<lb ed="#H" n="24" break="no"/>nusque Propheta, Sacerdos &amp; Rex noster, quemadmodum ad 
+      ho<lb ed="#H" n="25" break="no"/>ordinatus fuit ante jactum mundi fundamentum. Johan. 1. vers. 24. 
+      <lb ed="#H" n="26"/>Et Sermo ille factus est Caro, &amp; commoratus est inter nos, (&amp; 
+      specta<lb ed="#H" n="27" break="no"/>vimus gloriam ejus, gloriam, inquam, ut unigeniti a Patre,) plenus 
+      <lb ed="#H" n="28"/>gratiae ac veritatis. I. Johan. 4. v. 2. Ex hoc cognoscite Dei Spiritum. 
+      <lb ed="#H" n="29"/>quicunque Spiritus profitetur Iesum Christum in carnem venisse, ex 
+      <lb ed="#H" n="30"/>Deo est. 1. Timoth. 3. v.16. Et sine controversia magnum est pietatis 
+      <lb ed="#H" n="31"/>mysterium: Deus conspicuus factus est in carne, justificatus est in 
+      spi<lb ed="#H" n="32" break="no"/>citu, conspectus est ab Angelis, praedicatus est Gentinus, fides illi 
+      ha<lb ed="#H" n="33" break="no"/>bita est in mundo, sursum receptus est in gloriam. I. Petr. 1. v. 18, 15. 
+      <lb ed="#H" n="34"/>20. Vt qui sciatis vos non caducis rebus, argento vel auro; fuisse res 
+      <lb ed="#H" n="35"/>demtos ex vana illa vestra conversatione, a patribus tradita: 
+      Sed<lb ed="#H" n="36" break="no"/>pretioso sanguine, utpote agni inculpati &amp; incontaminati, nempe 
+      <lb ed="#H" n="37"/>Christi: Praesciti quidem ante jacta mundi fundamenta, patefact 
+      <lb ed="#H" n="38"/>vero ultimis temporibus propter vos: 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e230">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>Nominatur Graece quidem Xριςος, Christus, deducto nomine a 
+      <lb ed="#H" n="40"/>Xριώ, ungo; Hebraice vero PDDMaschiach, quod communiter 
+      <lb ed="#H" n="41"/>pronunciatur Messias, propter unctionem, quam a Deo Patre est 
+      un<lb ed="#H" n="42" break="no"/>ctus ad officium &amp; dignitatem ei collatam, Psalm. 45. v. 8. idque per 
+      <lb ed="#H" n="43"/>Spiritum Sanctum in ipsa conceptione, ac proinde ab ipsa etiam con 
+      <lb ed="#H" n="44"/>ceptione est Christus. Idem enim Spiritus S. eodom momento &amp; 
+      <lb ed="#H" n="45"/>conceptionis fuit &amp; unctionis autor. Hinc vocatur Oleum, Jes. 10. v 
+      <lb ed="#H" n="46"/>27. imo disturbabitur jugum propter oleum;) quia eum unxit 
+      Jeho<lb ed="#H" n="47" break="no"/>va Spiritu suo, ut interpretatur Jonathan Chaldaeus. Dicitur inter 
+      <lb ed="#H" n="48"/>dum David, (ut Jerem. 30. v. 9. Servient Iehovae Deo suo; &amp; Davidi 
+      <lb ed="#H" n="49"/>Regi suo, que excitabo ipsis) quia Davidi promissus fuit peculiariter  
+      <lb ed="#H" n="50"/>&amp; ex semine ejus natus est, &amp; quia David typus ipsius fuit. Item 
+      Ger<lb ed="#H" n="51" break="no"/>men justum, Jerem. 23. v. 5. Ecce dies venturi sunt, dictum Iehovae; 
+      <lb ed="#H" n="52"/>quibus excitabo Davidi germen justum: qui regnabit rex, secunda 
+      <lb ed="#H" n="53"/>biturque ac exercebitjus &amp; justitiam in terra. Iustus ille, Actor. 22. 
+      <lb ed="#H" n="54"/>v. 14. Deus patrum nostrorum designavit te qui cognosceres ipsius 
+      <lb ed="#H" n="55"/>voluntatem, &amp; videres Iustum illum, &amp; audires vocem ex ore 
+      <lb ed="#H" n="56"/>ipsius 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e274">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Fidei seu doctrinae de Christo sunt duae partes: prima de persona. 
+      <lb ed="#H" n="58"/>Christi: secunda de officio ipsius 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e284">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Personae Christi duplex est consideratio: una, ratione essentia. 
+      <lb ed="#H" n="60"/>το λόγο: altera, ratione gratiosae &amp; salvificae Oeconomiae. Johan. 1. v. 
+      <lb ed="#H" n="61"/>1. &amp; 14. Galat. 4. 4. Philipp. 2. v. 67. In quibus locis distinctio haec 
+      <lb ed="#H" n="62"/>fundatur:  
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e297">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>sustinus Martyr in Expositione fidei de recta confessione: ωιςευ, 
+      <lb ed="#H" n="64"/>δθτπ κρειναη πανταχο κατ κτιαν τον λόγον, κι κατ εζαιρετον ὑωαρχειν ον 
+      <lb ed="#H" n="65"/>τῶ ρινειῳ νος. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e308">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Priore ratione est ἀτυνθετος hypostasis in divina essentia a Patre. 
+      <lb ed="#H" n="67"/>ab aeterno genita: posteriore ratione est hypostasis συνθετος, id est, 
+      <lb ed="#H" n="68"/>persona secunda Deitatis incarnata, ac proinde ex duabus naturis 
+      <lb ed="#H" n="69"/>composita, personae unitate manento 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e321">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>Proinde persona Christi, quamvis incarnata, est unica &amp; singula; 
+      <lb ed="#H" n="71"/>ris: est unicus Christus, non duo: idem Filius hominis qui Filius Dei. 
+      <lb ed="#H" n="72"/>non alter Christus, alter Filius Dei: non altera persona divina, altera 
+      <lb ed="#H" n="73"/>hamana. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e334">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Persona etiam suppositum dicitur: unde in Christo unum 
+      tan<lb ed="#H" n="75" break="no"/>tum est suppositum. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e343">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Personam Christi esse unicam confirmant primo expressa 
+      Scri<lb ed="#H" n="77" break="no"/>turae testimonia. Genes. 3. v. 15. de uno semine mulieris dicitur, non 
+      <lb ed="#H" n="78"/>de multis seminibus. Gal. 3.16. Abrahamo dictae sunt promissiones &amp; 
+      <lb ed="#H" n="79"/>semini ejus. Non dicit, &amp; seminibus, ut de multis: sed ut de uno, Et 
+      <lb ed="#H" n="80"/>semini tuo qui est Christus. 1. Tim. 2. v. 5. Unus Mediator Dei &amp; 
+      ho<lb ed="#H" n="81" break="no"/>minum, homo Christus Iesus. 
+      <lb ed="#H" n="82"/>Secundo confirmant alia argumenta: I. Quia eadem persona est: 
+      <lb ed="#H" n="83"/>Immanuel, Jesa. 7. v. 14. Matth. 1. v. 23. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e366">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>II. Quia idem est Filius Dei qui ex Maria nasci debebat, Luc. 1. 
+      <lb ed="#H" n="85"/>vers. 35. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e375">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>III. Quia Sermo ille caro factus est Johan. 1. v. 14. 
+      <lb ed="#H" n="87"/>IV. Quia idem ex Patribus secundum carnem est, qui est supra 
+      <lb ed="#H" n="88"/>omnia Deus laudandus in secula Rom. 9. v. 5. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e386">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>V. Quia ut unum fierent Deus &amp; homo in federe, oportuit unum 
+      <lb ed="#H" n="90"/>fieri Deum &amp; hominem in persona, non communicationegratiae, sed  
+      <lb ed="#H" n="91"/>naturae veritate: nec confusione substantiae, sed unitate personae 
+      <!--cod-MkL9py-0389.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>VI. Quia eidem personae divina &amp; humana attribuuntur.  
+      <lb ed="#H" n="93"/>Fidei de persona Christi duae sunt partes: prima de naturis in 
+      per<lb ed="#H" n="94" break="no"/>sona Christi, secunda de statu ipsius. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e408">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Natura, hoc loco est essentia rem constituens &amp; ab aliis 
+      distin<lb ed="#H" n="96" break="no"/>guens, principium intrinsecum actionum 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e417">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>Naturae in persona Christi sunt duae; divina &amp; humana. 
+      Philipp<lb ed="#H" n="98" break="no"/>2. 5, 6, 7. &amp; 1. Tim. 3. 16. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e426">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Natura divina, est essentia divina, quam Christus Patri &amp; Spiritui 
+      <lb ed="#H" n="100"/>Sancto coessentialis est. Vocatur a Paulo forma Dei 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e436">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Natura humana Christi, est essentia seu substantia humana, quam 
+      <lb ed="#H" n="102"/>Christus nobis hominibus coessentialis est. A Paulo dicitur forma 
+      <lb ed="#H" n="103"/>servi, quia in ea nobis Christus servivit 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e447">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Deitatis alia est ratio in natura sua, alia in persona sua. 
+      <lb ed="#H" n="105"/>Adhaec alia est naturae, alia Oeconomiae seu dispensationis ratio, ut  
+      <lb ed="#H" n="106"/>docet Hilarius lib. 10. de Ttrinitate, pag. centesima nonagesima sexta 
+      <lb ed="#H" n="107"/>editionis Frobenianae Anni 1535. Similiter Gregorius Nazian. 
+      do<lb ed="#H" n="108" break="no"/>cet, Deitatis considerationem aliam esse, μαθ ἐαυτυν, aliam καl 
+      oixo<lb ed="#H" n="109" break="no"/>voμιαs, 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e465">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Ideo Christus est verus Deus &amp; verus homo in una persona. 
+      Ro<lb ed="#H" n="111" break="no"/>1. v. 3. 4. &amp; 9. v. 5. 1. Joh. 4. 2. 1. Tim. 3. 16. Coloss. 2. 9, Hebr. 2. 14, 16. 
+      <lb ed="#H" n="112"/>Johan. 1. v. 1 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e476">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Estque Filius Dei natura seu nativitate, tum qua Deus est, tum quam 
+      <lb ed="#H" n="114"/>homo. Qua Deus, quia ab omni aeternitate Filius est ex Dei Patris 
+      <lb ed="#H" n="115"/>substantia natus: Qua homo etiam, quia natus est ex Maria Virgine 
+      <lb ed="#H" n="116"/>Filius Dei, conceptus e Spiritu Altissimi 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e489">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Christum verum Deum &amp; hominem in una persona esse debnisse 
+      <lb ed="#H" n="118"/>significatum fuit typis seu figuris, praedictum propheticis oraculis, 
+      in<lb ed="#H" n="119" break="no"/>dicatum nominibus, requisitum causis. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e500">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>E typis est Melchisedech Genes. 14. 18. Psalm. 110. 4. Hebr. 7. 3. 
+      <lb ed="#H" n="121"/>Nam is sine patre, sine matre, sine genere est: nec initium dierum 
+      ne<lb ed="#H" n="122" break="no"/>que vitae finem habens: quia autore Spiritu Dei, neque parentum. 
+      <lb ed="#H" n="123"/>neque principii vitae, neque genealogiae ulla usquam in Sacris literis 
+      <lb ed="#H" n="124"/>mentio invenitur: ut eo ipso ostenderetur, Dominum nostrum &amp; 
+      <lb ed="#H" n="125"/>Servatorem Christum esse sine Patre secundum humanitatem, sine 
+      <lb ed="#H" n="126"/>matre secundum Deitatem 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e521">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Oracula quibus praedictum fuit, Christum non tantum verum 
+      ho<lb ed="#H" n="128" break="no"/>minem futurum, sed etiam natura verum Deum esse, inter alia sunt  
+      <lb ed="#H" n="129"/>ista; 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e532">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>Genes. 3. v. 15. Semen mulieris conteret caput serpentis. Dum 
+      Chri<lb ed="#H" n="131" break="no"/>stus semen mulieris dicitur, verus homo intelligitur. Quod vero 
+      pro<lb ed="#H" n="132" break="no"/>nittitur, semen illud contriturum caput serpentis, Deum esse 
+      indica<lb ed="#H" n="133" break="no"/>tur. Nam qui serpentis caput conterere, id est, diaboli potentiam 
+      su<lb ed="#H" n="134" break="no"/>perate &amp; abolere debet, eum verum esse Deum necesse est. Pura 
+      pu<lb ed="#H" n="135" break="no"/>ta creatura Satanae regnum destruere non potest. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e550">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>Jesa. 9. v. 6. Puer natus est nobis, filius datus est nobis, cujus 
+      hume<lb ed="#H" n="137" break="no"/>ro adest principatus ipse; cujus nomen vocabitur admirabilis, 
+      consi<lb ed="#H" n="138" break="no"/>liarius, Deus fortis, robustissimus, Pater aternitatis, Princeps pacis. 
+      <lb ed="#H" n="139"/>Quum dicit Jesaias, puer natus est nobis, Messiam hominem futurum 
+      <lb ed="#H" n="140"/>praedicit, reliquis verbis Deum esse asseri¬ 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e566">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Jerem. 23. 5, 6. Ecce dies venturi sunt, dictum Iehovae, quibus 
+      ex<lb ed="#H" n="142" break="no"/>citabo Davidi germenjustum: qui regnabit rex, secundabiturque ad 
+      <lb ed="#H" n="143"/>ixercebit ius &amp; iustitiam in terra, Diebus eius servabitur Iuda &amp; 
+      <lb ed="#H" n="144"/>Israel habitabit secure: atque hoc nomen eius est quo vocabit eum Israeli 
+      <lb ed="#H" n="145"/>Iehova iustitia nostra. Quum Messiam vocat Germen Davidis, 
+      ho<lb ed="#H" n="146" break="no"/>minem futurum praedicit: quum eundem appellat Jehovam, natura 
+      <lb ed="#H" n="147"/>verum esse Deum docet 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e586">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Nomina Messiae idem confirmant. Vocatur enim Immanuel 
+      Jes<lb ed="#H" n="149" break="no"/>7. v. 14. quod est si interpreteris nobiscum Deus. Quicunque 
+      singula<lb ed="#H" n="150" break="no"/>ri consilio &amp; mandato Dei vocatus est Immanuel ex rei veritate, id  
+      <lb ed="#H" n="151"/>est, ut res nomini respondeat, is est verus Deus &amp; verus homo in una; 
+      <lb ed="#H" n="152"/>persona. At Dominus noster Jesus Christus singulari consilio &amp; 
+      mam<lb ed="#H" n="153" break="no"/>dato Dei vocatus est Immanuel ex rei veritate, id est, ut res 
+      nomini<lb ed="#H" n="154" break="no"/>respondeat. Ergo Dominus noster Jesus Christus est verus Deus &amp; 
+      <lb ed="#H" n="155"/>verus homo in una persona: Ita nomen hoc indicat conjunctionem 
+      <lb ed="#H" n="156"/>divinae &amp; humanae naturae Christi in unitatem personae: unde 
+      Chri<lb ed="#H" n="157" break="no"/>stus conjunctim seu in una persona, non autem divisim est Deus &amp; 
+      <lb ed="#H" n="158"/>homo. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e615">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>Vocatur Ithiel Proverb. 30. vers. 1. id est, nobiscum Deus fortis. 
+      <lb ed="#H" n="160"/>Ibidem dicitur Vehal ob potentiam ejus in coelo &amp; in terra, quae es 
+      <lb ed="#H" n="161"/>nequaquam competeret, nisi etiam Deus esset, 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e627">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Causae cur Christum oportuerit esse simul hominem &amp; Deum in 
+      <lb ed="#H" n="163"/>una persona sunt gravissimae. Nam ut homo esset, quatuor causae 
+      re<lb ed="#H" n="164" break="no"/>quirebant, quarum prima est Iustitia Dei: quia ut homo peccavit, ita 
+      <lb ed="#H" n="165"/>eum qui pro homine satisfacere debuit Deo, oportuit esse hominem: 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e640">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Secunda est modus satisfactionis pro nobis, qui non poterat esse 
+      a<lb ed="#H" n="167" break="no"/>lius quam implendo Legem obedientia perfectissima &amp; poena 
+      mor<lb ed="#H" n="168" break="no"/>tis a Lege nobis denunciata. Christum ergo hominem esse oportuit, 
+      <lb ed="#H" n="169"/>qui Legi se subiiceret, quique sanguinem pro nobis effunderet &amp; 
+      <lb ed="#H" n="170"/>moreretur. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e656">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Tertia causa est adoptionis nostri ratio: quia oportuit nos rursus 
+      <lb ed="#H" n="172"/>filios Dei fieri qui per peccatum mancipia diaboli facti eramus 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e665">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Quarta causa est resurrectionis nostrae certitudo: quia cum propter 
+      <lb ed="#H" n="174"/>peccatum corpus nostrum mortale ifactum sit &amp; moriatur, oportet. 
+      <lb ed="#H" n="175"/>illud ad vitam revocari, quod fieri non potest nisi vi resurrectionis 
+      <lb ed="#H" n="176"/>Christi ex mortuis 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e678">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Ut idem Christus esset Deus, duae causae requirebant, quarum prior 
+      <lb ed="#H" n="178"/>est magnitudo mali quo genus humanum premebatur, quod a nulla 
+      <lb ed="#H" n="179"/>creatura tolli potuit: consistitque in quatuor, quae sunt, peccati 
+      gravi<lb ed="#H" n="180" break="no"/>tas, irae Dei immensum &amp; intolerabile pondus, mortis imperium, &amp; 
+      <lb ed="#H" n="181"/>tyrannis diaboli. Peccatum autem tollere, iram Dei placare, mortis 
+      <lb ed="#H" n="182"/>imperium abolere, tyrannidem, diaboli vincere nemo potest nisi 
+      <lb ed="#H" n="183"/>DEUS 
+      <!--cod-MkL9py-0390.xml-->
+      <pb ed="#H" n="363"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Posterior causa est magnitudo boni quod nobis adferendum &amp; 
+      ef<lb ed="#H" n="2" break="no"/>ficaciter praestandum &amp; conservandum erat, quod a nemine 
+      adferri<lb ed="#H" n="3" break="no"/>et conservari potest, nisi a Deo ut summo Bono. Bonum quod nobis 
+      <lb ed="#H" n="4"/>i Christo adferendum &amp; efficaciter conferendum conservandumque  
+      <lb ed="#H" n="5"/>erat, est imago Dei ad quam initio fueramus creati, sed quam in 
+      A<lb ed="#H" n="6" break="no"/>damo amisimus, quam nobis restituere &amp; conservare nemo potest. 
+      <lb ed="#H" n="7"/>nisi Deus 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e720">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Ex his patet Christum oportuisse verum Deum &amp; hominem esse  
+      <lb ed="#H" n="9"/>in una persona. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e730">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Eum autem revera esse talem, nempe verum Deum &amp; hominem 
+      <lb ed="#H" n="11"/>in una persona, confirmant Novi Testamenti clara testimonia, 
+      con<lb ed="#H" n="12" break="no"/>firmant alia argumenta¬ 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e741">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Testimonia e multis haec sunt: Matth. 16. v. 16. Simon Petrus 
+      di<lb ed="#H" n="14" break="no"/>xit, Tu es Christus Filius ille Dei viventis. Johan. 1. v. 1. In principi 
+      <lb ed="#H" n="15"/>erat Sermo ille, &amp; Sermo ille erat apud Deum, eratque ille Sermo Deus. 
+      <lb ed="#H" n="16"/>Et v. 14. Et Sermo ille factus est Caro; &amp; commoratus est inter nos, 
+      <lb ed="#H" n="17"/>(&amp; spectavimus gloriam ejus, gloriam, inquam, ut unigeniti a 
+      Pa<lb ed="#H" n="18" break="no"/>tre )plenus gratiae ac veritatis. Et cap. 20. 28. Respondit Thomas &amp; 
+      <lb ed="#H" n="19"/>dixit ei, Domine mi, &amp; Deus mi. Actor. 20. v. 28. Attendite igitur 
+      <lb ed="#H" n="20"/>animum vobisipsis &amp; toti gregi, in quo vos Spiritus Sanctus 
+      consti<lb ed="#H" n="21" break="no"/>tuit episcopos, ad pascendam Ecclesiam Dei, quam suo illo sanguine 
+      <lb ed="#H" n="22"/>acquisivit. Rom. 1. v. 1. 4. De Filio suo, facto ex semine Davidis, 
+      se<lb ed="#H" n="23" break="no"/>cundum carnem: Declavato Filio Dei potenter secundum Spiritum 
+      <lb ed="#H" n="24"/>sanctificationis, per resurrectionem a mortuis (nempe Iesu Christo. 
+      <lb ed="#H" n="25"/>Domino nostro. Et cap. 9. 5. Quorum sunt Patres, &amp; ex quibus est 
+      <lb ed="#H" n="26"/>Christus quod ad carnem attinet, qui est supra omnes Deus 
+      laudan<lb ed="#H" n="27" break="no"/>dus in sacula, Amen. 1. Tim. 3. v. 16. Et sine controversia magnum est. 
+      <lb ed="#H" n="28"/>pietatis mysterium: Deus conspicuus factus est in carne, justificatus 
+      <lb ed="#H" n="29"/>est in Spiritu, conspectus est ab Angelis, praedicatus est Gentibus, fides 
+      <lb ed="#H" n="30"/>illi habita est in mundo, sursum receptus est in gloriam. I. Joh. 1. v. 1, 
+      <lb ed="#H" n="31"/>2. Et cap. 5. 20. Scimus Filium Dei venisse, &amp; dedisse nobis mentem 
+      <lb ed="#H" n="32"/>ut cognoscamus illum qui verax est, &amp; sumus in verace illo, id est, 
+      in<lb ed="#H" n="33" break="no"/>Filio ejus Iesu Christo, hic est verus ille Deus, &amp; vita illa aterna 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e791">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Alia argumenta copiosa proposuit &amp; explicavit Concilium Ephe 
+      <lb ed="#H" n="35"/>sinum adversus Nestorium; &amp; Concilium Chalcedonense adversus. 
+      <lb ed="#H" n="36"/>Eutychen celebratum. Summa eorum complexus est LEO MAGNUS, 
+      <lb ed="#H" n="37"/>in celeberrima illa ad Flavianum Epis. Costantinop. epist. in qua exstat: 
+      <lb ed="#H" n="38"/>haec inter alia: Qui enim verus est Deus, idem verus est homo. Et nullum 
+      <lb ed="#H" n="39"/>est in hac unitate mendacium, dum invicem sunt &amp; humilitas 
+      ho<lb ed="#H" n="40" break="no"/>minis, &amp; altitudo Deitatis. Sicut enim Deus non mutatur misera 
+      <lb ed="#H" n="41"/>tione; ita homo non consumitur dignitate. Agitnutraque forma cum 
+      al<lb ed="#H" n="42" break="no"/>terius comunione, a proprium est, verbo scileoperate, q verbiest, &amp; carne 
+      <lb ed="#H" n="43"/>exsequente o carnis est. Unum horum coruscat miraculis, aliud 
+      succu<lb ed="#H" n="44" break="no"/>bit injuriis. Et sicut verbum ab aequalitate paternae gloriae non recessit. 
+      <lb ed="#H" n="45"/>ita caro naturam nostri generis non reliquit. Vnus enim idemque est, 
+      <lb ed="#H" n="46"/>quod saepe dicendum est, vere Dei Filius, &amp; vere hominis filius. Deus 
+      <lb ed="#H" n="47"/>per id, quod in principio erat Verbum, &amp; Verbum erat apud Deum, 
+      <lb ed="#H" n="48"/>&amp; Deus erat Verbum. Homo per id, quod Verbum caro factum est, &amp; 
+      <lb ed="#H" n="49"/>pabitavit in nobis. Deus per id, quod omnia per ipsum factu sunt, &amp; 
+      <lb ed="#H" n="50"/>sine ipso factum est nihil. Homo per id, quod factus est ex muliere, 
+      fa<lb ed="#H" n="51" break="no"/>ctus est sub lege. Nativitas carnis, manifestatio est humanae naturae: 
+      <lb ed="#H" n="52"/>Partus Virginis, diuinae est virtutis indicium. Infantia parvuli, 
+      o<lb ed="#H" n="53" break="no"/>stenditur humilitate cunarum: Magnitudo altissimi, declavatus 
+      <lb ed="#H" n="54"/>vocibus Angelorum. Similis est rudimentis hominum, quem Hero 
+      <lb ed="#H" n="55"/>les impius molitur occidere: Sed Dominus est omnium, quem magis 
+      <lb ed="#H" n="56"/>audentes veniunt suppliciter adorare. Iam quum ad praecursoris sui 
+      <lb ed="#H" n="57"/>Johannis Baptismum venit, ne lateret, quod carnis velamine 
+      diuvini<lb ed="#H" n="58" break="no"/>ias tegeretur, vox Patris de coelo intonans, dixit: Hic est Filius meus. 
+      <lb ed="#H" n="59"/>dilectus, in quo mihi bene complacuit. Quem itaque sicut hominem, 
+      <lb ed="#H" n="60"/>liabolica tentat astutia, eidem sicut Deo angelica famulantur 
+      offi<lb ed="#H" n="61" break="no"/>cia. Esurire, sitire, lassescere, atque dormire evidenter humanum est, 
+      <lb ed="#H" n="62"/>Sed quinque panibus, quinque millia hominum satiare, &amp; largiri 
+      Sa<lb ed="#H" n="63" break="no"/>maritanae aquam vivam, cujus haustus bibenti praestet, ne ultra jam 
+      <lb ed="#H" n="64"/>itiat. supra dorsum maris, platis non subsistentibus, ambulare, &amp; ela 
+      <lb ed="#H" n="65"/>tiones fluctuum increpata tempestate consternere, sine ambigunitate, 
+      <lb ed="#H" n="66"/>divinum est. Sicut ergo (ut multa praeteream) non ejusdem naturae est. 
+      <lb ed="#H" n="67"/>flere miserationis affectu amicum mortuum, &amp; eundem remoto 
+      qua<lb ed="#H" n="68" break="no"/>triduanae aggere sepulturae, ad vocis imperium excitare redivivum 
+      <lb ed="#H" n="69"/>aut in ligno pendere, &amp; in noctem luce conversa, omnia elementa. 
+      <lb ed="#H" n="70"/>cremefacere, aut elavis transfixum esse, &amp; Paradisi portas fidei 
+      la<lb ed="#H" n="71" break="no"/>tronis aperire. Ita non ejusdem naturae est dicere, Ego &amp; Pater unum 
+      <lb ed="#H" n="72"/>sumus: &amp; dicere, Pater major me est Quamvis enim in Domino Iesu 
+      <lb ed="#H" n="73"/>Christo. Dei &amp; hominis una persona sit, aliud tamen est, unde in utro 
+      <lb ed="#H" n="74"/>que communis est contumeliat aliud, unde communis est gloria. De 
+      <lb ed="#H" n="75"/>nostro enim illi est minor Patre humanitas, de Patre illi est aequalid  
+      <lb ed="#H" n="76"/>eum Patre diuvinitas. 
+      </p>
+            <p xml:id="yyy8Uu-e75166-d1e889">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Propter hanc unitatem personae, in utraque natura intelligendam 
+      <lb ed="#H" n="78"/>&amp; Filius hominis legitur descendisse de coelo, quum Filius Dei 
+      car<lb ed="#H" n="79" break="no"/>nem de ea Virgine, de qua est natus, assumserit. Et rursus, Filius Dei 
+      <lb ed="#H" n="80"/>crucifixus dicitur ac sepultus, quum haec non in divinitate ipsa, quo 
+      <lb ed="#H" n="81"/>unigenitus, consempiternus &amp; consubstantialis est Patri, sed in 
+      na<lb ed="#H" n="82" break="no"/>turae humanae sit infirmitate perpessus. Unde unigenitum Filium 
+      <lb ed="#H" n="83"/>Dei, crucifixum &amp; sepultum, secundum illud Apostoli di¬ 
+      <lb ed="#H" n="84"/>ctum: Si enim cognovissent, nunquam Dominum 
+      <lb ed="#H" n="85"/>majestatis crucifixissent. 
+      <lb ed="#H" n="86"/>Hactenus de naturis in persona Christi: sequitur  
+      <lb ed="#H" n="87"/>de eius statu.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

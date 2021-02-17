@@ -1,0 +1,2259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 32</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 32</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="318"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e53193"> <!-- l5-c32 -->
+            <head xml:id="yyy8Uu-e53193-Hd1e109">Caput 32</head>
+            <p xml:id="yyy8Uu-e53193-d1e112">
+               <lb ed="#H" n="106"/>CAPUT XXXII. 
+      <lb ed="#H" n="107"/>In quo de anima hominis tractatur.
+    </p>
+            <p xml:id="yyy8Uu-e53193-d1e119">
+               <lb ed="#H" n="108"/>DORMA hominis ambigue dicitur, vel substantialis vel accidenta¬ 
+      <lb ed="#H" n="109"/>lis: illa pars est substantiae hominis, haec solummodo accidens. 
+      <lb ed="#H" n="110"/>De illa jam agimus; estque anima hominis: de qua sic tracta 
+      <lb ed="#H" n="111"/>bimus, ut primo vocem, deinde rem ipsam confideraturi simus. Quod 
+      <lb ed="#H" n="112"/>ad vocem attinet, per animam hominis intelligitur proprie pars altera 
+      <lb ed="#H" n="113"/>hominis per quam homo est homo: figurate vero seu per tropum 
+      <lb ed="#H" n="114"/>aliquem accipitur varie
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e137">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Per metonymiam causae efficientis pro effecto, significat vitam 
+      <lb ed="#H" n="116"/>hominis, ut cum Matth. 6. vers. 25. Christus dicit; Ne estote soliciti de 
+      <lb ed="#H" n="117"/>anima vestra, quid esuri sitis aut quid bibituri: Et mox: Nonne anima 
+      <lb ed="#H" n="118"/>plus est quam alimentum: 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e151">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Per metonymiam subjecti pro adjuncto, significat affectum, 
+      de<lb ed="#H" n="120" break="no"/>siderium, appetentiam, cupiditatem quae est in anima: ut Actor 
+      <lb ed="#H" n="121"/>4. vers. 32. Multitudinis eorum qui crediderant, erat cor &amp; anima 
+      <lb ed="#H" n="122"/>una, id est, affectus voluntasque consentiens. Proverb. 32. versic. 
+      <lb ed="#H" n="123"/>9. 2. Quando sedebis ad vesceendum cum dominante, diligenter 
+      conside<lb ed="#H" n="124" break="no"/>ra quid propositurus sis tibi. Alioquin inderes cultellum faucibus tuis, si  
+      <lb ed="#H" n="125"/>dominus animae, (id est, praeditus appetentia) esse 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e171">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>Per metaphoram significat CHRISTUM DOMINUM, quia 
+      <lb ed="#H" n="127"/>quod est anima humana corpori, id Christus est toti homini fideli. 
+      <lb ed="#H" n="128"/>Sicut per animam vivit corpus: ita per Christum vitae Principem 
+      <lb ed="#H" n="129"/>fide apprehensum vivit totus homo vita spirituali &amp; aeterna. Hoc 
+      <lb ed="#H" n="130"/>significato usurpatur Psalm. 16. versic. 10. Non es derelicturus 
+      ani<lb ed="#H" n="131" break="no"/>mam meam in sepulcro: neque sines Sanctum tuum videre 
+      corruptio<lb ed="#H" n="132" break="no"/>nem. Verba sunt Davidis non de se, sed de Christo, ut testatur 
+      Pe<lb ed="#H" n="133" break="no"/>trus Actorum 2. versic. 25, 26, 30, 31. &amp; Paulus Actor. 13. vers. 35. 
+      <lb ed="#H" n="134"/>Et agnoscit Athanasius Oratione tertia contra Arianos, pagina 
+      cen<lb ed="#H" n="135" break="no"/>resima nonagesima septima tomi primi editionis Commelinianae 
+      <lb ed="#H" n="136"/>Sensus igitur est: Non permittes ut Sospitator &amp; vivificator meus. 
+      <lb ed="#H" n="137"/>Christus ille a te promissus retineatur a morte in sepulcro; neque 
+      <lb ed="#H" n="138"/>patieris Sancti illius tui corpus in pulverem terrae resolvi: sed a 
+      mor<lb ed="#H" n="139" break="no"/>tuis illum resuscitabis, &amp; virtute resurrectionis illius me quoque tum 
+      <lb ed="#H" n="140"/>a morte pecati ad vitam justitiae, tum ex pulvere terrae ad 
+      resurrectio<lb ed="#H" n="141" break="no"/>nem justorum excitabis 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e210">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>Per Synecdochen partis pro toto, significat totum hominem: ut 
+      <lb ed="#H" n="143"/>Genes. 46. v. 26. Omnes animae quae ingressae sunt cum lacobo in 
+      AEgu<lb ed="#H" n="144" break="no"/>tum, egressi e femore eius, exceptis uxoribus filiorum lacobi, omnes 
+      ani<lb ed="#H" n="145" break="no"/>maesexaginta sex erant. Act. 2. v. 41. Additae sunt Ecclesiae die illo 
+      ani<lb ed="#H" n="146" break="no"/>mae quasi ter mille 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e226">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Per Syncedochen totius pro parte, significat inferiores animae 
+      par<lb ed="#H" n="148" break="no"/>tes, perfectionem corporis physici organici, complectentem 
+      organi<lb ed="#H" n="149" break="no"/>cas animae functiones, vegetantem, sentientem, locomotivam, se 
+      <lb ed="#H" n="150"/>dem affectuum: Et tunc opponitur spiritui, id est, parti illi nobilis 
+      <lb ed="#H" n="151"/>simae quae mens dicitur: Ut I. Thessalon. 5. v. 23. Ipse autem Deus 
+      <lb ed="#H" n="152"/>pacis sanct ficet vos totos: &amp; integer vesper spiritus, &amp; anima &amp; corpus 
+      <lb ed="#H" n="153"/>inculpate in adventum Domini nostri Iesu Christi conserventur. Et ad 
+      <lb ed="#H" n="154"/>Hebr. 4. vers. 12. Vivus enim est sermo Dei &amp; efficax, &amp; penetrantior 
+      <lb ed="#H" n="155"/>quovis gladio ancipiti: &amp; pertingit usque ad divisionem animae simul 
+      at<lb ed="#H" n="156" break="no"/>spiritus, compagumque &amp; medullarum. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e252">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>Per catachi esin significat corpus mortuum seu cadaver, ut Levit. 
+      <lb ed="#H" n="158"/>19. v. 28. Neque caejuram pro ulla anima inditote carni vestrae, id est, 
+      pro<lb ed="#H" n="159" break="no"/>ullo mortuo Et cap. 21. vers. 1. pro anima ne polluito se sacerdos, id est, 
+      <lb ed="#H" n="160"/>cum corpus aliquod mortuum sepelitur, non intererit funeri ejus sa 
+      <lb ed="#H" n="161"/>cerdos. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e268">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>In praesenti tractatione per animam hominis intelligimus partem 
+      <lb ed="#H" n="163"/>alteram hominis per quam homo est homo, &amp; quae vocatur spiritus 
+      <lb ed="#H" n="164"/>Dei Jobi 27. versic. 3. item spiraculum seu halitus vitae, Genes. 24. 
+      <lb ed="#H" n="165"/>vers. 7. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e282">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Tantum de voce: nunc ad rei contemplationem Theo¬ 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e289">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>logicam accedamus. 
+      <lb ed="#H" n="168"/>In rei ipsius declaratione primum locum obtinere debet 
+      defini<lb ed="#H" n="169" break="no"/>tio, in qua ingens est varietas. Ac sane tria sunt quae secundum 
+      essen<lb ed="#H" n="170" break="no"/>tiam hominibus sunt ἀγιώρισα κι ἀοριστα, incognita &amp; non definita: 
+      <lb ed="#H" n="171"/>Drus, Angelus &amp; anima hominis, quae soli Deo secundum essentiam 
+      <lb ed="#H" n="172"/>cognita sunt, ut Athanasius ait in tractatu de definitionibus. Usitata 
+      <lb ed="#H" n="173"/>est haec dofinitio 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e309">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>ANIMA, est entelechia prima corporis naturalis, organici, 
+      po<lb ed="#H" n="175" break="no"/>censia vitam habentis. 
+      <!--cod-MkL9py-0346.xml-->
+      <pb ed="#H" n="319"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Explicatio definitionis istius. 
+      <lb ed="#H" n="2"/>PRIMO, quum dicitur animam ESSE; eo indicatur illam res 
+      <lb ed="#H" n="3"/>psa esse aliquid, non autem nihil, ut Dicaearchus apud Ciceronem i1 
+      <lb ed="#H" n="4"/>prima Tusculana contendit, cujus opinionem etiam Gentiles 
+      Phi<lb ed="#H" n="5" break="no"/>losophi merito exploserunt. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e335">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>SECUNDO, quum anima dicitur ἐν τελέχια πρωη, non 
+      intelligi<lb ed="#H" n="7" break="no"/>tur vis, non agitatio seu motus, non κρασις seu temperamentum, aut a 
+      <lb ed="#H" n="8"/>liquod aliud accidens, quocunque nomine appelletur: sed ειδος, μόρ¬ 
+      <lb ed="#H" n="9"/>φν, λόγος το τι κῶ ειναs, id est, forma substantialis, per quam perfici 
+      <lb ed="#H" n="10"/>tur &amp; perfectum habet E SS2, εντελεχια ωροιτν, actus primus vel 
+      sub<lb ed="#H" n="11" break="no"/>stantialis est, ut anima: vel accidentalis, ut habitus, ut potentia 
+      natu<lb ed="#H" n="12" break="no"/>ralis. Nam illa ἐν τελεχια πρωη est necessario substantia, &amp; pars 
+      com<lb ed="#H" n="13" break="no"/>positi, &amp; potior pars, perfectio &amp; finis. Haec enim omnia ambitu suo 
+      <lb ed="#H" n="14"/>complectitur vox composita ἐυτελεχια: Ab initio praepositio eν, 
+      in<lb ed="#H" n="15" break="no"/>dicat quod eν τελέχια sit substantia &amp; pars compositi in toto. Quo 
+      <lb ed="#H" n="16"/>modo in toto, si totius pars est forma ipsa? Est in toto ως σοιχειον eννν 
+      <lb ed="#H" n="17"/>πάργον ωρος τον τελειωσιν. Sic igitur intus est, ut etiam in ambitu sit; 
+      <lb ed="#H" n="18"/>hac perficiens ratione: non autem extra, ut lux, quae perficit alio 
+      mo<lb ed="#H" n="19" break="no"/>do visionem 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e370">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Quanquam εἰτελεχια est τελειίτης: major tamen est τελειοτητος 
+      <lb ed="#H" n="21"/>ambitus quam ut adstringi debeat ad speciei definitionem 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e379">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Deinde τελος indicat, quod sit ultima forma sub coelestibus 
+      <lb ed="#H" n="23"/>&amp; princeps inferiorum finis ac perfectio. Tum si est ἑχον, si ἐχι 
+      <lb ed="#H" n="24"/>est forma; quia habet materiam: neque solum habet, sed etiam 
+      <lb ed="#H" n="25"/>continet, ut sit unum: neque solum continet; sed etiam regit. Hoc 
+      <lb ed="#H" n="26"/>enim est ἔχιν, in quinto Metaphysices, &amp; in Cratylo, ευτελέχια ωρο¬ 
+      <lb ed="#H" n="27"/>m ergo est substantia, quam continentur accidentia, non continent? 
+      <lb ed="#H" n="28"/>fluunt a substantia, non ipsam regunt; sic ut substantia sit autor 
+      om<lb ed="#H" n="29" break="no"/>nium functionum, omnium motuum, etiam contratiorum in 
+      eo<lb ed="#H" n="30" break="no"/>dem corpore, cujus potens est. Tum ευτελέχια est perfectio &amp; finis 
+      <lb ed="#H" n="31"/>quia introducta forma in materiam, cessat motus ad generationem. 
+      <lb ed="#H" n="32"/>Anima igitur hominis est substantia nempe proprie sic dicta, non 
+      <lb ed="#H" n="33"/>qualitas aliqua, ullumve aliud accidens, sed talis naturae, quae a 
+      corpo<lb ed="#H" n="34" break="no"/>re etiam separati &amp; subsistere per se ipsa possit 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e413">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>onfirmant hoc sequentia argumenta. 
+      <lb ed="#H" n="36"/>I. Quia est proprie a Deo creata, &amp; quidem post corpus demum, 
+      <lb ed="#H" n="37"/>Gen. 2. v. 7. Finxit vero Iehova Deus hominem de pulvere terrae, 
+      saffla<lb ed="#H" n="38" break="no"/>vitque in nares ipsius halitum vitae: sic factus est homo anima vivens 
+      <lb ed="#H" n="39"/>Zach. 12. 1. Dictum Iehovae, qui extendit coelos, &amp; fundat terram, 
+      for<lb ed="#H" n="40" break="no"/>matque spiritum hominis in eo. Nam quicquid a Deo proprie creatum  
+      <lb ed="#H" n="41"/>est, substantia est: accidentia enim non dicuntur proprie creari, sed 
+      <lb ed="#H" n="42"/>concreari. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e435">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>II. Quia separata e corpore seipsa subsistit: ut ostendit 
+      exem<lb ed="#H" n="44" break="no"/>plum Abrahami, Lazari, divitis epulonis, Luc. 16 v. 23. &amp; sequentib 
+      <lb ed="#H" n="45"/>Et exemplum Christi &amp; latronis in cruce conversi, cui Christus 
+      dice<lb ed="#H" n="46" break="no"/>bat Luc. 23. 43. Hodie mecum eris in Paradiso. Christus anima tum 
+      <lb ed="#H" n="47"/>pervenit in Paradisum, non corpore? nam Deitate sua ubique erat  
+      <lb ed="#H" n="48"/>semper &amp; est: Et latro conversus non fuit postea in Paradiso 
+      corpo<lb ed="#H" n="49" break="no"/>re, anima igitur. Et exemplum Pauli, qui ait Philip. 1. vers. 23. cupio 
+      di<lb ed="#H" n="50" break="no"/>missionem, &amp; ut cum Christo sim. Proinde anima est substantia 
+      qua<lb ed="#H" n="51" break="no"/>postquam migravit e corpore, per se subsistit 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e459">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>III. Quia ei competunt propria substantiae: nam habitat 
+      i<lb ed="#H" n="53" break="no"/>corpore ut in domo quadam, ut in tabernaculo, &amp; migrat e corporo 
+      <lb ed="#H" n="54"/>alio: ut legitur 2. Corinth. 5. versibus primis novem: Scimus enim 
+      <lb ed="#H" n="55"/>nos, si terrestris hujus domus nostrae tabernaculum d ssolutum fuerit, ae 
+      <lb ed="#H" n="56"/>dificium ex Deo habituros, domicilium videlicet, non manu factum, 
+      ae<lb ed="#H" n="57" break="no"/>ternum in coelis. In hoc etenim suspiramus, expetentes domicilio nostro, 
+      <lb ed="#H" n="58"/>quod e coelo est, superindui. Siquidem etiam induti, non nude reperie. 
+      <lb ed="#H" n="59"/>mur. Etenim qui sumus in hoc tabernaculo suspiramus gravatit in quo 
+      <lb ed="#H" n="60"/>constituti non cupimus eo exui, sed superindui, ut absorbeatur mortali. 
+      <lb ed="#H" n="61"/>tas a vita. Porro Deus is est qui nos ad ipsum condidit, qui etiam dedit. 
+      <lb ed="#H" n="62"/>nobis arrhabonem Spiritus. Confidenti igitur animo sumus semper, &amp; 
+      <lb ed="#H" n="63"/>scimus nos dum adsumus in corpore, peregre abesse a Domino: CPer 
+      fi<lb ed="#H" n="64" break="no"/>dem enim ambulamus, non per aspectum: Confidenti autem animo 
+      su<lb ed="#H" n="65" break="no"/>mus: sed gratum est nobis potius abesse e corpore, &amp; adesse apud 
+      Domi<lb ed="#H" n="66" break="no"/>num? Quapropter etiam contendimus ut hic praesentes, &amp; hinc 
+      absen<lb ed="#H" n="67" break="no"/>tes, ipsi placeamus 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e498">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>IV. Quia animatum corpus constituit, conservat &amp; sustentat 
+      <lb ed="#H" n="69"/>tibi autem iila reliquit corpe, perit animatum corpus &amp; animalis ratio¬  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e507">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>V. Quia est subjectum omnium virtutum vel vitiorum, item 
+      ar<lb ed="#H" n="71" break="no"/>tium &amp; scientiarum. Anima igitur hominis est substantia proprie sic. 
+      <lb ed="#H" n="72"/>dicta 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e518">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>OBIECTIO I. Vita aut vis vitalis ex corporis temperamento &amp; 
+      <lb ed="#H" n="74"/>perfectione orta, non est substantia: Anima hominis est vita aut vis 
+      vi<lb ed="#H" n="75" break="no"/>talis ex corporis temperamento &amp; perfectione orta: Anima igitur 
+      ho<lb ed="#H" n="76" break="no"/>minis non est substantia. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e532">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Assumtionis probatio. Matth. 6. vers. 25. dicitur; Anima plus est 
+      <lb ed="#H" n="78"/>quam esca. Jobi 13. Animam meam porto in manibus meis. Ps. 119. A. 
+      <lb ed="#H" n="79"/>nima mea in manibus meis. Sic Christus tradidit animam suam in 
+      re<lb ed="#H" n="80" break="no"/>demtionis precium pro multis, Matth. 20. Et Joh. 10. ait, Ego pono 
+      <lb ed="#H" n="81"/>animam meam: ut rursum assumam eam. In his dictis omnibus 
+      ani<lb ed="#H" n="82" break="no"/>ma nihil aliud significat, quam vitam 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e550">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>RESP. Est homonymia in nomine animae. Nam in allegatis di 
+      <lb ed="#H" n="84"/>ctis non sumitur proprie, sed per metonymiam causae, pro vita. Nam 
+      <lb ed="#H" n="85"/>anima est causa vitae, ideo per metonymiam, causae nomen ponitu 
+      <lb ed="#H" n="86"/>pro effectu. Non esse autem animam proprie ipsam vitam, 
+      osten<lb ed="#H" n="87" break="no"/>dunt haec dicta; in quibus anima a vita distinguitur, Ps. 48. Anima 
+      co<lb ed="#H" n="88" break="no"/>rum in vita benedicetur. 2. Sam. 11. Per vitam tuam &amp; vilam anima 
+      <lb ed="#H" n="89"/>tuae, si faciam hoc:  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e570">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>DEJECTIOII. Voluntas hominum non est substantia: 
+      Ani<lb ed="#H" n="91" break="no"/>ma hominis est tantum uoluntas hominis: Ergo anima hominis non 
+      <lb ed="#H" n="92"/>ist substantia. 
+      <!--cod-MkL9py-0346.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>Assumtionis probatio ex dicto Act. 4. 32. Credentium erat cor &amp; 
+      <lb ed="#H" n="94"/>anima una. RESP. Est rursus homonymia in nomine animae. Nam 
+      <lb ed="#H" n="95"/>in hec dicto anima non sumitur proprie, sed per metonymiam 
+      subje<lb ed="#H" n="96" break="no"/>cti pro affectu in anima 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e594">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>OBJECTIOIII. Hlatus aut vis diuvinitus infusa corporibus, 
+      <lb ed="#H" n="98"/>non est substantia: Anima hominis est tantum flatus aut vis diuvinitus 
+      <lb ed="#H" n="99"/>infusa corporibus: Ergo anima hominis non est substantia. 
+      <lb ed="#H" n="100"/>Assumtio probatur: quia anima dicitur spiritus &amp; Gen. 2 7. 
+      Suf<lb ed="#H" n="101" break="no"/>flavit Deus in nares ipsius halitum vitae: sic factus est homo anima 
+      vi<lb ed="#H" n="102" break="no"/>vens. RESP. Est homonymia in nomine Spiritus. Nam cum anima 
+      <lb ed="#H" n="103"/>hominis spiritus dicitur, ipsa animae spiritualis essentia intelligitur: 
+      <lb ed="#H" n="104"/>non autem flatus aliquis aut vis accidentalis. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e616">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>OEJECTIOIV. Quod est in alio, non est substantia. Anima 
+      ho<lb ed="#H" n="106" break="no"/>minis est in alio, nepe in corpore: Ergo anima hominis non est substantia. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e625">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>RESP. Per distinctionem majoris propositionis. Quod est in 
+      a<lb ed="#H" n="108" break="no"/>lio, nempe ita ut illi inhaereat, quomodo accidens est in subjecto, id 
+      <lb ed="#H" n="109"/>non est substantia. Ast anima hominis est quidem in alio, nempe in 
+      <lb ed="#H" n="110"/>corpore, sed non est in eo, ut illi inhaereat, quemadmodum accidens 
+      <lb ed="#H" n="111"/>in subjecto, 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e642">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Maneat igitur fixum firmumque animam esse substantiam 
+      <lb ed="#H" n="113"/>TERTIO, quum in definitione dicitur, quod anima sit ευτελέχια, 
+      <lb ed="#H" n="114"/>prima, seu substantialis forma CORPORIS, eo ipsa primum 
+      discerni<lb ed="#H" n="115" break="no"/>tur a corpore: nam entelechia corporis non est ipsum corpus: 
+      dein<lb ed="#H" n="116" break="no"/>de indicatur, quod anima perficiat corpus animatum, ut illud vivere 
+      <lb ed="#H" n="117"/>vitaeque opera exercere possit. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e660">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>OBJICITURI. Anima est forma hominis: Non ergo corporis. 
+      <lb ed="#H" n="119"/>RESP. Haec non pugnant: Anima est forma hominis, quatenus 
+      <lb ed="#H" n="120"/>hominis partem alteram constituit, ut homo sit homo, &amp; ab aliis 
+      a<lb ed="#H" n="121" break="no"/>nimalibus substantialiter distinguatur. Et eadem anima est forma 
+      <lb ed="#H" n="122"/>corporis, quatenus illud informat, dum illud reddit animatum, 
+      vege<lb ed="#H" n="123" break="no"/>tans, sentiens. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e678">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>OBJICITURII. Si anima humana est actus corporis; tum est 
+      <lb ed="#H" n="125"/>mortalis, interiens simul cum corpore. At consequens est absurdum: 
+      Er<lb ed="#H" n="126" break="no"/>go &amp; antecedens. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e689">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>RESP. Negatur sumti consequentia: quia non omnis actus 
+      cor<lb ed="#H" n="128" break="no"/>poris ita materiae addictus, affirusque est, ut extra illam subsistere non 
+      <lb ed="#H" n="129"/>valea. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e700">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>QUA RTO, additur in definitione, quod anima sit entelechia 
+      cor<lb ed="#H" n="131" break="no"/>poris physici seu naturalis: quia corpus vel naturale est, vel arte 
+      fa<lb ed="#H" n="132" break="no"/>ctum. Arte facti corporis forma non potest esse ejus anima: Ergo 
+      a<lb ed="#H" n="133" break="no"/>nima est forma corporis naturalis 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e713">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>QUINTO, quia corpus physicum aliud est similare, aliud 
+      dissimi<lb ed="#H" n="135" break="no"/>lare: similare autem organis ad varias vitae functiones 
+      accommoda<lb ed="#H" n="136" break="no"/>tis caret: ideo dicitur, quod anima sit entelechia corporis non 
+      tan<lb ed="#H" n="137" break="no"/>sum naturalis, sed etiam organici, id est, quod diversis membris veluti 
+      <lb ed="#H" n="138"/>organis animae constat, per quae diversas illa exerceat facultates aut 
+      <lb ed="#H" n="139"/>nutriendo, aut sentiendo, aut loco movendo, aut inte ligendo 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e732">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>SEXTO. quia fieri potest, ut corpus aliquod sit naturale &amp; 
+      organi<lb ed="#H" n="141" break="no"/>um, cujus tamen forma non sit anima, uti est cadaver hominis, 
+      id<lb ed="#H" n="142" break="no"/>circo adjicitur, quod anima sit entelechia prima corporis naturalis 
+      <lb ed="#H" n="143"/>organici vitam habentis, id est, animati &amp; vivificati ab anima: ut in 
+      <lb ed="#H" n="144"/>telligamus discrimen esse inter animam ipsam, quae est forma 
+      corpo<lb ed="#H" n="145" break="no"/>ris &amp; inter vitam, quae est animae effectus. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e750">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>SEPTIMO, quum dicitur, animam esse entelechiam primam 
+      <lb ed="#H" n="147"/>corporis naturalis potent a vitam habentis, non intelligitur δυναιις, 
+      <lb ed="#H" n="148"/>quae privationem significat, sed tantum otiationem, sic ut sententia 
+      <lb ed="#H" n="149"/>sit, animam esse entelechiam illius corporis, quod &amp; vivit, &amp; vitae 
+      offi<lb ed="#H" n="150" break="no"/>cia exercere potest, etiamsi interdum otietur; quemadmodum arbor 
+      <lb ed="#H" n="151"/>uae hyeme non floret, nec folia nec fructus habet, ac proinde vitae 
+      ef<lb ed="#H" n="152" break="no"/>fecta non edit: vivit tamen &amp; potest opera vitae edere, ut deinceps 
+      <lb ed="#H" n="153"/>Vere &amp; aestate apparet. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e772">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Animae igitur tanquam formae substantialis est perficere materia 
+      <lb ed="#H" n="155"/>perficere corpus. Materia est potentia apta perfici, forma, est actus 
+      <lb ed="#H" n="156"/>perficere aptus. Perficit autem humana anima corpus humanum &amp; 
+      <lb ed="#H" n="157"/>informat, dum ipsa est autor omnium fuhctionum, omnium 
+      motu<lb ed="#H" n="158" break="no"/>um etiam contrariorum in eodem corpore, cujus potens est. Nihil 
+      e<lb ed="#H" n="159" break="no"/>nim movet in corpore animato, nisi anima. Perficit autem &amp; 
+      infor<lb ed="#H" n="160" break="no"/>mat totum corpus humanum per praesentem suam substantiam, sic  
+      <lb ed="#H" n="161"/>ut sit in toto corpore, &amp; in quacunque parte corporis, tota; unita 
+      cor<lb ed="#H" n="162" break="no"/>pori per ωριχωρήσιν seu immeationem, &amp; penetrationem. Nam 
+      for<lb ed="#H" n="163" break="no"/>ma adeo divina res est, ut quum sit substantia, aliam totam sua im 
+      <lb ed="#H" n="164"/>pleat substantia, ita ut ex utraque fiat unum per se. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e801">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Proinde anima humana non est tantum in corde, a quo ea officia 
+      <lb ed="#H" n="166"/>quae in caeterum corpus proficiscuntur. per effusas puaestentur 
+      potesta<lb ed="#H" n="167" break="no"/>tes; alioquin solum cor hominis esset homo, selum cor esset anmala 
+      <lb ed="#H" n="168"/>corpus reliquum nihil pene, aut quasi appedix sine forma: sed est in toto 
+      <lb ed="#H" n="169"/>corpore &amp; quide tota in qualibet corporis parte, ut paulo ante dictum 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e817">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Est ergo anima actus primus corporis viventis, ratione perfectionis, 
+      <lb ed="#H" n="171"/>operationis &amp; denominationis: Ratione perfectionis, quia ut forma in 
+      <lb ed="#H" n="172"/>erna perficit corpus, unde τελειητης corporis dicitur: Rutiona 
+      opera<lb ed="#H" n="173" break="no"/>tionis, quia est principium producens operationes vitales, quae 
+      dicun<lb ed="#H" n="174" break="no"/>tur actus secundi, ab anima tanquam actu primo dependentes: 
+      Rati<lb ed="#H" n="175" break="no"/>one denominationis, quia corpus inde dicitur vivens animatum. 
+      Sic<lb ed="#H" n="176" break="no"/>anima est actus vivens corporis an,mati seu viventis: est actus 
+      perfi<lb ed="#H" n="177" break="no"/>ciens, operans, denominans 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e839">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>QUAESTIONES hic pulcherrimae oriuntur. PRIMA: Quum 
+      <lb ed="#H" n="179"/>anima humana corpus humanum informet, unde corpus sit animatam, 
+      <lb ed="#H" n="180"/>vegetans, sentiens, sed praeterea ipsa sit rationalis, intelligens, volens, 
+      im<lb ed="#H" n="181" break="no"/>mortalis, invisibilis: cur non efficiat coruis etiam rationale, intelligen: 
+      <lb ed="#H" n="182"/>volens, immortale, invisibile? RESPONSIO: Diversa est 
+      infor<lb ed="#H" n="183" break="no"/>matio, diversa attributio. Nam primo si infrmationem spectes, 
+      ani<lb ed="#H" n="184" break="no"/>ma corpus efficit animatum, vegetuns, seutiens, quia horum ratione 
+      <!--cod-MkL9py-0347.xml-->
+      <pb ed="#H" n="320"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>inest corpori, tanquam forma essentialis subjecto seu materiae: sed  
+      <lb ed="#H" n="2"/>non facit corpus rationale, intelligens, volens, immortale, invisibile 
+      <lb ed="#H" n="3"/>quia his facultatibus nullam partem corporis (utpote nulli organo i1 
+      <lb ed="#H" n="4"/>operando addicta &amp; affixa) informat. Summa: anima 
+      communica<lb ed="#H" n="5" break="no"/>se &amp; unit corpori, agens per corpus quae corpori conveniunt &amp; quo 
+      <lb ed="#H" n="6"/>rum instrumentum idoneum est corpus. Quae autem non sunt apti 
+      <lb ed="#H" n="7"/>fieri per corporeum organum, ut ratione uti, seu ratiocinari, 
+      intellige<lb ed="#H" n="8" break="no"/>re, velle, semper vivere, invisibiliter subsistere; ea quidem anima in 
+      <lb ed="#H" n="9"/>corpore (sicut &amp; extra corpus cum ab eo separata est) operatur, &amp; 
+      <lb ed="#H" n="10"/>corpore simul agente quae ipsius sunt, dum anima est in corpore: fec 
+      <lb ed="#H" n="11"/>non efficit ea per corpus 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e890">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Deinde si attributionem spectes, anima non est animata, vogetans: 
+      <lb ed="#H" n="13"/>sentiens formaliter, sed potest haec vi sua eνeργειν, operati in corpore 
+      <lb ed="#H" n="14"/>&amp; corporis ministerio perficere: itaque corpus, ut capax talium, sit i 
+      <lb ed="#H" n="15"/>se animatum, vegetum &amp; sentiens: At eadem anima nostra est 
+      ratio<lb ed="#H" n="16" break="no"/>nalis, intelligens, volens, immortalis, invisibilis, formaliter; itaque 
+      ta<lb ed="#H" n="17" break="no"/>le non evadit corpus. Nam quod formaliter inest animae, id 
+      corpor<lb ed="#H" n="18" break="no"/>nequit attribui. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e910">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Quaestionis hujus decisio est utilis ad intelligendam aliquo 
+      modo<lb ed="#H" n="20" break="no"/>unionem hypostatica duarum in Christo naturarum. Nam sicut 
+      ani<lb ed="#H" n="21" break="no"/>ma rationalis &amp; caro unus est homo: ita Deus &amp; homo unus est 
+      Chri<lb ed="#H" n="22" break="no"/>stus, quemadmodum Symbolum beati Athanasii habet. Quod 
+      simi<lb ed="#H" n="23" break="no"/>le etiam Justinus habet in Expositione fidei de recta confessione, in 
+      <lb ed="#H" n="24"/>qua sic ait: Nonnulli unionem hypostaticam naturarum in Christo, 
+      ve<lb ed="#H" n="25" break="no"/>luti animae cum corpore, mente complexi, ita prodiderunt. Et 
+      congruen<lb ed="#H" n="26" break="no"/>est exemplum, tametsi non ex omni parte, aliquatenus tamen. 
+      Quemad<lb ed="#H" n="27" break="no"/>modum namque unus est homo, &amp; naturas inter se differentes duas in 
+      se<lb ed="#H" n="28" break="no"/>obtinet; ac per alteram quidem ratiocinatur, per alteram vero 
+      quodita<lb ed="#H" n="29" break="no"/>ratione concepit, efficit: &amp;c. ita Filius cum unus sit &amp; duae naturae; 
+      ala<lb ed="#H" n="30" break="no"/>tera, divina edit miracula; altera, humilia excipit, &amp;c. Sicut ergo 
+      a<lb ed="#H" n="31" break="no"/>nima rationalis ita est unita corpori, ut tamen proprietates suas 
+      essen<lb ed="#H" n="32" break="no"/>tiales cum corpore non communicaverit realiter: seu reali 
+      transfu<lb ed="#H" n="33" break="no"/>sione: ita etiam Deitas Christi est unita humanitati, ut tamen pro 
+      <lb ed="#H" n="34"/>prietates suas essentiales cum humanitate non communicaverit reale 
+      <lb ed="#H" n="35"/>transfusione 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e952">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>QUAESTIO SECUNDA: An definitio ista univoce conveniat.  
+      <lb ed="#H" n="37"/>animae vegetativae, sensitivae &amp; intellectivae, an vero potius analogice: 
+      <lb ed="#H" n="38"/>Ratio dubitandi &amp; quaerendi est: quia anima rationalis a corpore 
+      <lb ed="#H" n="39"/>separata, est vere anima, &amp; tamen in eo statu non est actus corporis 
+      <lb ed="#H" n="40"/>RESPONSIO. Convenit univoce, non autem analogice. Licet et 
+      <lb ed="#H" n="41"/>nim animae intellectivae peculiare sit ita materiam informare, ut 
+      ab<lb ed="#H" n="42" break="no"/>ea sejungi ac per se extra corpus consistere possit; nihilominus suapte 
+      <lb ed="#H" n="43"/>natura est vere ac proprie forma atque actus corporis humani, ita ut 
+      <lb ed="#H" n="44"/>quotios ipsum informavit, possit es habilitatem vimque conferre ad 
+      <lb ed="#H" n="45"/>actiones vitae vice organi administrandas. Tum cum anima 
+      perfe<lb ed="#H" n="46" break="no"/>ctius sit in corpore, quam extra corpus, &amp; naturalis ejus stantus sit in 
+      <lb ed="#H" n="47"/>corpore, ab eoque pendeat quo ad officium informandi: quumque 
+      <lb ed="#H" n="48"/>certo sit corpori reunienda: manet ista proprietas animae intellectivae 
+      <lb ed="#H" n="49"/>etiam a corpore separatae. Quamobrem communem illam animae 
+      <lb ed="#H" n="50"/>rationem, quae in proposita definitione traditur, cum anima 
+      vegetan<lb ed="#H" n="51" break="no"/>te &amp; sentiente ex aequo participat.  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e991">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>Dixerit aliquis, obscuriorem esse hanc animae definitionem, quam 
+      <lb ed="#H" n="53"/>ut intelligi possit a quovis: sed minime admirandum. Nulla enim 
+      <lb ed="#H" n="54"/>forma nobis nota plene &amp; plane: nostraque scientia est umbra 
+      in<lb ed="#H" n="55" break="no"/>Sole. Formatum cognitio est rudis &amp; confusa, nec nifi per ωρισασις 
+      <lb ed="#H" n="56"/>Neque verum est, formae substantialis speciem recipi in intellectum: 
+      <lb ed="#H" n="57"/>non enim in sensu unquam fuit. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1009">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Magis igitur perspicua definitio haec fuerit: ANIMAHUMA 
+      <lb ed="#H" n="59"/>NA, est substantia spiritualis, altera &amp; praecipua hominis pars, qua  
+      <lb ed="#H" n="60"/>tanquam principio interno formali, is primo vivit, sentit, movetur, &amp; 
+      <lb ed="#H" n="61"/>intelligit: cumque illa a corpore separata fuerit, immortalis per se 
+      <lb ed="#H" n="62"/>subsistens manet, ultimo mundi die iterum corpori vinculo 
+      indissolu<lb ed="#H" n="63" break="no"/>bili unienda &amp; unita permansura in aeternum. Nominatur 
+      Synecdo<lb ed="#H" n="64" break="no"/>chice anima rationalis: item spiritus hominis, veluti cum dicitur 
+      <lb ed="#H" n="65"/>Matth. 27. vers. quinquagesimo. Iesus quum rursus clamasset 
+      voce<lb ed="#H" n="66" break="no"/>magna, emisit seu reddidit spiritum. Et in ultima precatione Christi in 
+      <lb ed="#H" n="67"/>cruce Luc. 23. vers. quadragesimo-sexto. Pater in manus tuas 
+      depo<lb ed="#H" n="68" break="no"/>no spiritum meum. Item in precatione Stephani martyris Actor. 7. v. 
+      <lb ed="#H" n="69"/>59. Demine Iesu suscipe spiritum meum. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1040">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>Dicitur in definitione hac posteriore, quod anima humana sit 
+      sub<lb ed="#H" n="71" break="no"/>sctantia spiritualis, id est, incorporea atque immaterialis. Quod sit 
+      ta<lb ed="#H" n="72" break="no"/>lis, planum est ex sequentibus argumentis: 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1052">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>I. Quia expresse &amp; proprie in Scriptura Sacra nominantur 
+      spi<lb ed="#H" n="74" break="no"/>ritus, ut Psalm. 31. vers. sexto. In manum tuam depono spiritam 
+      me<lb ed="#H" n="75" break="no"/>um. Et Psalm. 146. vers. quarto. Exit spiritus ejus. In Ecclesiaste 
+      <lb ed="#H" n="76"/>Salomon. capite duodecimo, vers. septimo. Spiritus redit ad Deum; 
+      <lb ed="#H" n="77"/>qui dederat illum. Zachar, capite duodecimo, vers. primo, Iehova 
+      for<lb ed="#H" n="78" break="no"/>mat Spiritum hominis in medio ejus. Luc. cap. vigesimo. tertio, versic. 
+      <lb ed="#H" n="79"/>quadragesimo-sexto. Pater in manus tuas commendo spiritum meum. 
+      <lb ed="#H" n="80"/>Actor. cap. septimo, vers. quinquagesimo nono, ait Stephanus; 
+      De<lb ed="#H" n="81" break="no"/>mine Iesu suscipe spiritum meum. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1076">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>II. Quia non est producta ex clementis seu materia corporea. 
+      <lb ed="#H" n="83"/>quemadmodum corpus. Nam corpus Adami finxit Deus e gleba 
+      <lb ed="#H" n="84"/>terrae, Evae autem ex cosia Adami formavit: animam autem ex 
+      gle<lb ed="#H" n="85" break="no"/>ba terrae, vel costa viri non produxit, sed ut dicitur Genes. capite 
+      se<lb ed="#H" n="86" break="no"/>cundo versiculo septimo, Finci: Iehova Deus hominem de 
+      pulve<lb ed="#H" n="87" break="no"/>re terrae, sufplavitque innaris ipsius halitum vitae: sic factus est homo 
+      a<lb ed="#H" n="88" break="no"/>nima oivens. Sic in Ecclesiaste Salomonis cap. duodecimo, versic. 
+      se<lb ed="#H" n="89" break="no"/>ptirno, Redua pulvis in terram, quemadmodum fuerat; spiritus autem 
+      <lb ed="#H" n="90"/>redit ad Deum, qui dederat illum. Et de Eva dicit Adam: Hoc est os ex 
+      <lb ed="#H" n="91"/>ossibus meis, &amp; caro de carne mea, Genes. cap. secundo, vers. 
+      vigesimo<lb ed="#H" n="92" break="no"/>tertio. Nihil tale dicitur de anima Evae¬ 
+      <!--cod-MkL9py-0347.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>III. Quia sua substantia creata est ad imaginem Dei. Nam 
+      <lb ed="#H" n="94"/>prima pars imaginis Dei consistit in natura hominis spirituali &amp; 
+      in<lb ed="#H" n="95" break="no"/>corporea; sicut &amp; Deus spiritus est. Quicquid ad imaginem Dei 
+      fa<lb ed="#H" n="96" break="no"/>ctum est, id substantiam esse spiritualem &amp; incorpoream necesse est. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1118">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>IV. Quia animae est impressa imago &amp; similitudo divinae 
+      sapi<lb ed="#H" n="98" break="no"/>entiae, bonitatis, justitiae, sanctitatis. Si vero anima esset corpus aut 
+      <lb ed="#H" n="99"/>forma materialis, ejusmodi habituum non esset capax. Uunumquod  
+      <lb ed="#H" n="100"/>que enim recipitur &amp; in recipiente est, secundum modum &amp; naturam 
+      <lb ed="#H" n="101"/>recipientis. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1134">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>V. Quia discreta est a, natura corporis: nam manet viva atque 
+      <lb ed="#H" n="103"/>immortalis corpore moriente, ut legitur in Ecclesiaste Salom. cap. 
+      <lb ed="#H" n="104"/>12. 7. Redit pulvis in terram quemadmodum fuerat, spiritus autem 
+      re<lb ed="#H" n="105" break="no"/>dit ad eum qui dederat illum. Et Matth. 10. v. 28. ait Christus: Ne 
+      me<lb ed="#H" n="106" break="no"/>tuite vobis ab iis qui interimunt corpus, animam autem non possunt 
+      in<lb ed="#H" n="107" break="no"/>terimere. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1152">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>VI. Quia a corpore separata fruitur coelesti ac spirituali felici 
+      <lb ed="#H" n="109"/>tate. Luc. 13. 43. Hodie mecum eris in Paradiso. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1161">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>VII. Quia habitat in corpore humano. Corpus autem in 
+      cor<lb ed="#H" n="111" break="no"/>pore humano habitate non potest: sic enim in eodem subjecto 
+      si<lb ed="#H" n="112" break="no"/>mul duo corpora essent, quod pugnat cum tota natura 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1173">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>IIX. Quia tales actiones edit quae a corpore non pendent, &amp; 
+      <lb ed="#H" n="114"/>sine corporeis fiunt instrumentis: nam intelligit &amp; vult,  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1182">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Contra qui negant, animam hominis esse substantiam spiritualem 
+      <lb ed="#H" n="116"/>&amp; incorpoream, sic argumentantur  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1191">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>I. Halitus non est substantia spiritualis &amp; incorporea: quia sensus 
+      <lb ed="#H" n="118"/>externo, nempe tactu percipitur: Anima hominis est duntaxat halitus 
+      <lb ed="#H" n="119"/>Ergo anima hominis non est substantia spiritualis &amp; incerpores. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1202">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>Assumtio probatur ex Gen. 2. v. 7. Sufflavitque in nares ipsius 
+      hali<lb ed="#H" n="121" break="no"/>tum vitae. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1211">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>RESP. Est homonymia in nomine halitus. Nam in dicto 
+      Ge<lb ed="#H" n="123" break="no"/>nesis non sumitur proprie, sed per metaphoram, ut αυθρωποπανσα 
+      coe<lb ed="#H" n="124" break="no"/>pta de Deo usurpari, in nomine halitus etiam retenta continuaretur. 
+      <lb ed="#H" n="125"/>Sensus enim est: Deum virtute sui aeterni Spiritus sine ulla materia 
+      <lb ed="#H" n="126"/>elementari animam vitalem squae forma est a natura simplex) 
+      clemen<lb ed="#H" n="127" break="no"/>tari corpori hominis inspirasse, ut eo tanquam organo suo utere 
+      <lb ed="#H" n="128"/>tur.  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1231">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>II. Flatus non est substantia spiritualis &amp; incorporea: Anima 
+      ho<lb ed="#H" n="130" break="no"/>minis est flatus: ut dicitur Jes. 57. v. 20, annon flatum ego feci: Ergo 
+      <lb ed="#H" n="131"/>non est substantia spiritualis &amp; incorporea¬ 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1243">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>RESP. Est homonymia in Hebraeo nomine ?P JQeuia quod  
+      <lb ed="#H" n="133"/>interdum significat halitum, interdum flatum, interdum spiritum, 
+      in<lb ed="#H" n="134" break="no"/>terdum animam, interdum quicquid habet animam vel spiritum 
+      vi<lb ed="#H" n="135" break="no"/>talom. In hoc vero Prophetae loco significat per Synecdochen totum 
+      <lb ed="#H" n="136"/>hominem 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1259">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>III. Tertullianus scripsit, animam esse corpus: Ergo non est 
+      <lb ed="#H" n="138"/>substantia spiritualis &amp; incorporea. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1268">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>RESP. Primo peccatur petitione principii, quia autoritas Patrum 
+      <lb ed="#H" n="140"/>Ecclesiasticorum non est legitimum principium probandi dogmata 
+      <lb ed="#H" n="141"/>Theologica. Secundo est homonymia in nomine corporis. Nam 
+      <lb ed="#H" n="142"/>Tertulliano corpus generaliter significat substantiam vere subsistem 
+      <lb ed="#H" n="143"/>rem, sive sit visibilis, sive invisibilis. Hinc Deum quoque corpus est 
+      <lb ed="#H" n="144"/>dixit. Sed praestat ejusmodi ἀκυρολογίας vitare. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1286">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>IV. Quicquid est visibile, id non est spiritualis &amp; incorperea 
+      sub<lb ed="#H" n="146" break="no"/>stantia. Anima est visibilis, Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1295">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Assumtio probatur ex Luc. 16. v. 23. ubi dicitur, quod dives epulo 
+      <lb ed="#H" n="148"/>apud inferos viderit Abrahamum e longinquo &amp; Lazarum in sinu 
+      e<lb ed="#H" n="149" break="no"/>jus. Et Apocal. 20. 4. vidit Iohannes animas eorum, qui securi percuss 
+      <lb ed="#H" n="150"/>sunt propter testimonium Iesu &amp; propter sermonem Dei, quique non 
+      ado<lb ed="#H" n="151" break="no"/>rarunt bestiam, neque imaginem ejus, nec acceperunt characterem ejus in 
+      <lb ed="#H" n="152"/>frontibus suis, aut in manibus suis 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1313">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>RESP. Quicquid est visibile nimirum oculis corporis, id non est 
+      <lb ed="#H" n="154"/>spiritualis &amp; incorporea substantia. Animam autem esse visibilem 
+      <lb ed="#H" n="155"/>oculis corporeis negatur. Loca vero allegata intelligenda sunt non 
+      <lb ed="#H" n="156"/>de visu qui sit oculis corporeis, sed qui fit εννοηματικη δυυαμει, non 
+      au<lb ed="#H" n="157" break="no"/>tem αἰοητικί 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1330">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>V. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1337">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>Quicquid habet membra corporea, id non est spiritualis &amp; 
+      in<lb ed="#H" n="160" break="no"/>corporea substantia: Anima habet membra corporea: Ergo, &amp;c. 
+      As<lb ed="#H" n="161" break="no"/>sumtio probatur ex Luc. 16. v. 24. ubi dives epulo exoptat linguam sua; 
+      <lb ed="#H" n="162"/>refrigerari, Anima autem ejus in inferno tum erat, non corpus quod  
+      <lb ed="#H" n="163"/>in sepulcro jacebat,  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1353">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>RESP. Quicquid habet membra corporea, videlicet, proprie 
+      <lb ed="#H" n="165"/>loquendo: id non est spirituale. Animam vero habere membra 
+      cor<lb ed="#H" n="166" break="no"/>porea, negatur: tribuuntur autem ei figurate, veluti lingua 
+      <lb ed="#H" n="167"/>Incidit hic triplex quaestio. QUAESTIOPRIMA: Quum 
+      ho<lb ed="#H" n="168" break="no"/>mini tribuatur anima vegetans, sentiens &amp; rationalis, an sint tres 
+      ani<lb ed="#H" n="169" break="no"/>mae in eodem homine realiter distinctae? RESP. Non sunt in homine 
+      <lb ed="#H" n="170"/>tres animae realiter distinctae, sed unica est tantum numero anima 
+      <lb ed="#H" n="171"/>cuique homini, nempe rationalis, quae simul exercet operationes 
+      ani<lb ed="#H" n="172" break="no"/>mae vegetativae &amp; sensitivae. Anima tantum vegetativa est in plantis: 
+      <lb ed="#H" n="173"/>At anima sensitiva, qualis est bestiarum continet in se etiam 
+      vegeta<lb ed="#H" n="174" break="no"/>tivam seu plantalem: ita anima rationalis continet in se etiam 
+      sensi<lb ed="#H" n="175" break="no"/>tivam &amp; vegetativam, id est, anima rationalis non tantum sua virtute 
+      <lb ed="#H" n="176"/>in se habet, quicquid virium est in vegetativa &amp; sensitiva: sed insuper  
+      <lb ed="#H" n="177"/>etiam rationem habe¬ 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1388">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Esse autem cuique homini unicam tantum animam, non autem 
+      <lb ed="#H" n="179"/>plures animas substantia discretas, tum ex Scriptura Sacra, tum ex 
+      <lb ed="#H" n="180"/>rationibus naturalibus constat, tum ex consensu orthodoxae Ecclesiae. 
+      <lb ed="#H" n="181"/>imo &amp; omnium Gentium 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1401">
+               <lb ed="#H" n="182"/>
+               <pc type="indent"/>Scriptura enim Sacra tribuit unicuique hominum unam tantum 
+      <lb ed="#H" n="183"/>animam, non plures: ut Gen. 44. 30. dicit Juda de patre suo Jacobo 
+      <lb ed="#H" n="184"/>&amp; fratre Binjamine; Anima illius animae hujus devincta est. Et  
+      <lb ed="#H" n="185"/>cap. 46. v. 26. dicitur: Omnes anima quae ingressae sunt cum lacobo in 
+      <!--cod-MkL9py-0348.xml-->
+      <pb ed="#H" n="321"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>in Egyptum egressie femore ejus, exceptis uxoribus filiorum lacobi, 
+      om<lb ed="#H" n="2" break="no"/>Ses animae sexaginta sex erant. Et vers. 27. Omnes animae familiae 
+      laco<lb ed="#H" n="3" break="no"/>bi, quae venit in AEgyptum, sunt septuaginta. Psalm. 3. vers 3. ait David: 
+      <lb ed="#H" n="4"/>Multi dicunt de anima mea, non salus ulla isti in Deo. Psalm. 6. vers. 4. 
+      <lb ed="#H" n="5"/>Anima mea conturbata est valde. Psalin. 25. vers. 1. Ad te Iehova 
+      ani<lb ed="#H" n="6" break="no"/>mam meam attollo. Et 42. vers. 2. Anima mea glocitat ad te, Deus: Et  
+      <lb ed="#H" n="7"/>vers. 3 Sitiens est anima mea Dei. Matth. 10. vers. 28. Ne metuite vobis 
+      <lb ed="#H" n="8"/>ab iis qui interimunt corpus, animam autem non possunt interimere. 
+      <lb ed="#H" n="9"/>sed metuite potius eum, qui potest &amp; animam &amp; cerpus perdere in 
+      Ge<lb ed="#H" n="10" break="no"/>fenna. Luc. 2. vers. 35. ait Simeon ad Mariam: Quia &amp; tuam ipsius 
+      <lb ed="#H" n="11"/>animam trajiciet gladius. Matthaei 26. vers. 38. ait Christus 
+      Domi<lb ed="#H" n="12" break="no"/>nus de anima sua: Undiquaque tristis est anima mea usque ad mortem. 
+      E<lb ed="#H" n="13" break="no"/>Luc. 23. versic. 46. Pater in manus tuas depono spiritum meum, id est; 
+      <lb ed="#H" n="14"/>animam meam. Sic Luc. 12. versic. 20. Desipiens, hac nocte animam 
+      <lb ed="#H" n="15"/>tuam repetunt abs te: quae vero parasti cujus erunt: Et cap. 17. v. 33: 
+      <lb ed="#H" n="16"/>Quicunque studuerit animam suam servare, perdet eam: &amp; quicunque 
+      <lb ed="#H" n="17"/>eam perdiderit, vivificabit cam, 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1458">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Rationes istae sunt. I. Forma esseutialis est cuique homini 
+      tan<lb ed="#H" n="19" break="no"/>tum una: Anima est forma essentialis: Ergo anima est cuique 
+      ho<lb ed="#H" n="20" break="no"/>mini tantum una 
+      <lb ed="#H" n="21"/>Propositio major certa est: nam cujusvis compositi ex materia &amp; 
+      <lb ed="#H" n="22"/>forma, non potest esse nisi una essentialis forma: At quilibet home 
+      <lb ed="#H" n="23"/>est compositus ex materia &amp; forma: Ergo cujus libet hominis non 
+      <lb ed="#H" n="24"/>potest esse, nisi unica essentialis forma. Prosyllogismi major 
+      propo<lb ed="#H" n="25" break="no"/>sitio est vera: nam unaquaeque res composita, sicut habet Esse per 
+      for<lb ed="#H" n="26" break="no"/>mam, sic etiam per eandem est una: quia ab eodem habeat, &amp; ut 
+      si<lb ed="#H" n="27" break="no"/>una, omnino necesse est. Proinde simpliciter impossibite est, ut unius 
+      <lb ed="#H" n="28"/>subjecti, plures sint formae substantiales 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1488">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>II. Unum tantum spiraculum vitae Deus homini inspiravit 
+      <lb ed="#H" n="30"/>non multa spiracula: Ergo una tantum est anima hominis, non mul 
+      <lb ed="#H" n="31"/>tae. Antecedens patet ex Gen. 2. v. 7. in quo dicitur, insufflasse Deum in 
+      <lb ed="#H" n="32"/>nares hominis spiraculum vitae, &amp; sic factum esse hominem animam 
+      vi<lb ed="#H" n="33" break="no"/>ventem. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1504">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>III. Quicquid in homine quolibet, Dei imaginem gerit id 
+      u<lb ed="#H" n="35" break="no"/>nicum esse necesse est. Anima in homine quolibet Dei imaginem 
+      ge<lb ed="#H" n="36" break="no"/>rit: Ergo animam hominis cujusque unam esse necesse est. Propositio 
+      <lb ed="#H" n="37"/>major est certissima. Nam si Deitas est unica substantia, tum quice  
+      <lb ed="#H" n="38"/>quid in homine quolibet Deitatis imaginem gerit, id unicum ess 
+      <lb ed="#H" n="39"/>substanta necesse est. Revera enim imago Dei ad quam homo est 
+      <lb ed="#H" n="40"/>conditus, est substantia spiritualis, praedita omnibus perfectionibus 
+      <lb ed="#H" n="41"/>seu perfectis qualitatibus, quae uni rei creatae possunt in sese 
+      compe<lb ed="#H" n="42" break="no"/>tere, ad majenatem perfectionemque divinam adumbrandam, pro 
+      <lb ed="#H" n="43"/>conditione ipsius rei creatae 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1530">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>IV. Si homo plures haberet animas substantia inter se 
+      diffe<lb ed="#H" n="45" break="no"/>rentes; tum non differret specie a bestiis &amp; plantis, sed esset &amp; homo, 
+      <lb ed="#H" n="46"/>simul &amp; bestia &amp; psanta: esset unius &amp; multatum specierum 
+      simu<lb ed="#H" n="47" break="no"/>homo per animam rationalem, bestia per animam sensitivam, 
+      planta<lb ed="#H" n="48" break="no"/>per animam vegetativam. Atqui homo differt specie a bestia &amp; 
+      plan<lb ed="#H" n="49" break="no"/>ta: Ergo non habet plures animas substantia differentes, sed tantum  
+      <lb ed="#H" n="50"/>unam 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1550">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>V. Si non una, sed triplex esset anima substantia differens 
+      uni<lb ed="#H" n="52" break="no"/>cuique homini; tum oporteret illas esse conjunctas &amp; unitas aut 
+      pe<lb ed="#H" n="53" break="no"/>se ipsas, aut per corpus, aut per aliquid corporis: nec potest dari quam 
+      <lb ed="#H" n="54"/>tum; quia in homine non sunt plura substantialia quam anima &amp; 
+      <lb ed="#H" n="55"/>corpus. Sed animae per seipsas sibi non uniuntur, quia illae sunt quae 
+      <lb ed="#H" n="56"/>uniuntur, si plures sunt in uno homine: ab alio igitur quam a seipsi 
+      <lb ed="#H" n="57"/>uniri necesse est. Pet corpus autem aut aliquid corporis uniri non 
+      pos<lb ed="#H" n="58" break="no"/>pent: animae enim potius conjungunt sibi corpus &amp; corporis partes, 
+      <lb ed="#H" n="59"/>quam corpus sibi animas, ut ex dissolutione seu morte hominis 
+      ap<lb ed="#H" n="60" break="no"/>paret: nam ablata anima corpus dissolvitur. Ergo non sunt plures 
+      a<lb ed="#H" n="61" break="no"/>nimae in uno homine, quam una; 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1579">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>His argumentis accedat jam consensus tum orthodoxae Ecclesiae, 
+      <lb ed="#H" n="63"/>tum omnium Gentium: Ecclesiae orthodoxae consensus exponitur it 
+      <lb ed="#H" n="64"/>tertio tomo operum Augustini libro de Ecclesiasticis dogmatibus, 
+      <lb ed="#H" n="65"/>cap. decimo.-quinto. Neque duas animas esse dicimus in uno homine, 
+      sit<lb ed="#H" n="66" break="no"/>ut Iacobus &amp; alii Syrorum scribunt, unam animalem quam animetus 
+      <lb ed="#H" n="67"/>corpus &amp; immixta sit sanguini: &amp; alteram spiritalem quae ratienem 
+      <lb ed="#H" n="68"/>ministret: sed dicimus unam esse eandemque animam in homine, quae &amp; 
+      <lb ed="#H" n="69"/>corpus sua societate vivificet, &amp; semetipsam sua ratione disponat, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1601">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>Quinium vero Gentium consensus ex eo patet, quod nullus un 
+      <lb ed="#H" n="71"/>quam hominum senserit duas in se animas, &amp; quod nullus 
+      quantum<lb ed="#H" n="72" break="no"/>vis idololatra juraverit per animas suas, sed semper per animam 
+      <lb ed="#H" n="73"/>suam. Sic Tertullianus libro de testimonio animae adversus Gentes. 
+      <lb ed="#H" n="74"/>&amp; ad asserendam unitatem Dei provocat ad testimonium animae 
+      u<lb ed="#H" n="75" break="no"/>niuscujuscunque, quam ab unoquoque unam haberi, capite sexto 
+      in<lb ed="#H" n="76" break="no"/>dicat,  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1622">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Qui vero hanc sententiam oppugnant &amp; duas ut Pythagorici Phi 
+      <lb ed="#H" n="78"/>losophi &amp; Isidorus filius Basilidis, quemadmodum notat Clemens 
+      <lb ed="#H" n="79"/>Alexandrinus libro secundo Stromatum, vel plures animas in 
+      quoli<lb ed="#H" n="80" break="no"/>bet homine statuunt, argumentis his utuntur, quae Ereviter 
+      refelle<lb ed="#H" n="81" break="no"/>mus. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1638">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>In quocunque sunt diuersa potentia seu vires &amp; effectiones, in eo 
+      <lb ed="#H" n="83"/>I. 
+      <lb ed="#H" n="84"/>sunt plures diversae animae: In homine sunt diversae potentiae seu vires 
+      <lb ed="#H" n="85"/>&amp; effectiones: Ergo in homine sunt plures diversae animae. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1651">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>RESPONS10. Major negatur: nam etsi plures diversaeque ad 
+      <lb ed="#H" n="87"/>ctiones arguunt plures &amp; diversas potentias: minime tamen plures 
+      <lb ed="#H" n="88"/>diversaeque potentiae seu vires arguunt plures diversas que formas 
+      es<lb ed="#H" n="89" break="no"/>sentiales. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1664">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>II. Si anima sensitiva in homine non est forma alia ab anima 
+      ra<lb ed="#H" n="91" break="no"/>tionali exsistens, sicut in brutis, tum ea in homine minoris est 
+      dignita<lb ed="#H" n="92" break="no"/>tis ac virtutis, quam in brato. Sed posterius est absurdum: Ergo &amp; prius 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1675">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>RESP. Negatur connexi consequentia: Nam anima sensitiva 
+      <!--cod-MkL9py-0348.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="94"/>hominis, obilius habet Esse in anima retiohali, quam si per se ab 
+      il<lb ed="#H" n="95" break="no"/>la separa a subsisteret. Ratio est, quia unaquaeque res nobilius habet 
+      <lb ed="#H" n="96"/>Esse, cum unitur rei nobiliori, quam cum per se exsistit. 
+      Quemadmo<lb ed="#H" n="97" break="no"/>dum vegetatrici facultati non detrahitur, quum in animali faculta. 
+      <lb ed="#H" n="98"/>sensitiva perfectior advenit, sed tota sit perfectioris; vel quemadmo, 
+      <lb ed="#H" n="99"/>dum parvae luci, accedente &amp; assumente eam maxima, non 
+      detrahi<lb ed="#H" n="100" break="no"/>tur, sed ea in unam perfectionem transit, ut una sit rei perfectio: it 
+      <lb ed="#H" n="101"/>facultati sensitivae in homine non detrahitur accedente intelligentia; 
+      <lb ed="#H" n="102"/>sed tota sit animae rationalis, 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1706">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Tantum de prima quaestione. 
+      <lb ed="#H" n="104"/>QUAESTIGII. An omnium hominum qui sunt, unquam 
+      fue<lb ed="#H" n="105" break="no"/>runt, &amp; futuri sunt, unica tantum sit anima? sicut <name xml:id="yyy8Uu-e53193-Nd1e1716">Averroes</name> sentit &amp; 
+      <lb ed="#H" n="106"/>qui ejus opinionem sequuntur. RESPONSIO. Nequaquam, ut 
+      <lb ed="#H" n="107"/>ex sequentibus argumentis planum evadet.  
+      <lb ed="#H" n="108"/>I. Quicunque sunt multi, eorum non est unica numero anima: 
+      <lb ed="#H" n="109"/>At omnes homines sunt multi: Ergo omnium hominum non est 
+      u<lb ed="#H" n="110" break="no"/>nica numero anim: 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1732">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>Major propositio est vera; quia sicut ab eadem forma quisque 
+      ha<lb ed="#H" n="112" break="no"/>bet, ut sit &amp; Ens &amp; unus: ita multi a multis formis habeant ut multi 
+      <lb ed="#H" n="113"/>int, cportet, sic ut una eorum aninia esse non possit. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1743">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Minor propositio non tantum patet ex eo quod dicitur Genes. 6. 
+      <lb ed="#H" n="115"/>v. 1. Coeptos esse homines multiplicari in superficie terrae; sed ex ipsa 
+      ex<lb ed="#H" n="116" break="no"/>erientia, &amp; oculari cujusque 
+      testimonio<lb ed="#H" n="117" break="no"/>EXCIPIUNT Averroistae, se quoque statuere non esse omnium 
+      ho<lb ed="#H" n="118" break="no"/>minum unam formam, unamve animam, sed multas formas, multas 
+      <lb ed="#H" n="119"/>animas, suam nempe unicuique: ast unam duntaxat esse mentem omnium 
+      <lb ed="#H" n="120"/>unum intellectum possibilem quo omnes intelligunt. Ad istam exceptio 
+      <lb ed="#H" n="121"/>niem haec est replicatio nostra. Negatur distinctio, quia mens humana; 
+      <lb ed="#H" n="122"/>&amp; forma hominis sunt unum &amp; idem, &amp; reipsa non differunt. 
+      Nega<lb ed="#H" n="123" break="no"/>tionis nostrae tria sunt argumenta. Primum: Si mens humana non 
+      <lb ed="#H" n="124"/>est forma homihis, fuerit igitur sensitiva ipsa aut vegetativa: Sic 
+      ho<lb ed="#H" n="125" break="no"/>mo non differt ab asino forma essentiali &amp; specie; &amp; quanam re 
+      dif<lb ed="#H" n="126" break="no"/>fert igitur a brutis 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1776">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Duplicant, &amp; dicunt; differre cogitativa quae organo affixa est. 
+      <lb ed="#H" n="128"/>Triplicamus &amp; dicimus cogitativam esse vim sensitivae &amp; reipsa 
+      <lb ed="#H" n="129"/>nion differre a phantasia. Nam quod in brutis simplex est &amp; hebetior  
+      <lb ed="#H" n="130"/>phantasia, illud est in homine cogitativa, id est, phantasia acutior  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1789">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>Secundum negationis hujus argumentum: Si mens quam 
+      intelligi<lb ed="#H" n="132" break="no"/>mus non est forma hominis, non est igitur anima: quia anima est 
+      ex<lb ed="#H" n="133" break="no"/>τελεχια &amp; forma corporis physici organici potentia vitam habentis: 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1800">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Tertium negationis argumentum: Si mens humana non est 
+      for<lb ed="#H" n="135" break="no"/>ma hominis, tum illa non differt a bestiis. At hoc est absurdum: 
+      Er<lb ed="#H" n="136" break="no"/>go &amp; illud 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1811">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Quadruplicant in hunc modum; Est unus intellectus per se &amp; in 
+      se<lb ed="#H" n="138" break="no"/>sed multiplex quatenus in uno quoque recipitur homine, &amp; cuique sit su 
+      <lb ed="#H" n="139"/>sicut lux solis una est in se, sed quatenus a multis recipitur per radios, sit  
+      <lb ed="#H" n="140"/>multiplex. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1825">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Quintuplicamus: Imo hac ratione intellectus possibilis sive νος, 
+      <lb ed="#H" n="142"/>non fuerit unus numero, sed duntaxat specie, quod nos dicimus: 
+      sic<lb ed="#H" n="143" break="no"/>ut &amp; radii solis non sunt unus numero, sed multi 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1836">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Hactenus primum argumentum pro nostra 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1843">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>sententia. 
+      <lb ed="#H" n="146"/>II. Quorum diversi sunt affectus, motus, dona animi &amp; eorum 
+      <lb ed="#H" n="147"/>effecta; eorum non est una numero anima: At omnium hominum 
+      <lb ed="#H" n="148"/>diversi sunt affectus, motus, dona animi &amp; eorum effecta: Ergo eo 
+      <lb ed="#H" n="149"/>rum omnium, non est una numero anima, 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1859">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>Minor probari potest inductione: ut Cajini &amp; Abelis Genes. 4. 
+      <lb ed="#H" n="151"/>Noachi &amp; aliorum hominum Gen. 6. v. 9, 12. Noachus vir justus &amp; 
+      <lb ed="#H" n="152"/>integer erat inter homines sui seculi &amp; secundum Deum indefinente 
+      <lb ed="#H" n="153"/>ambulabat: alii erant depravatissimi &amp; in omnia scelera projectisum 
+      <lb ed="#H" n="154"/>mi: Ismaelis &amp; Isaaci: Esavi &amp; jacobi: Josephi &amp; fratrum ejus: 
+      Sau<lb ed="#H" n="155" break="no"/>iis &amp; Davidis: &amp; in summa fidelium &amp; infidelium omnium. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1877">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>III. Si omnium hominum numero unica esset anima, tum 
+      mul<lb ed="#H" n="157" break="no"/>ta absurda inde consequerentur. Primo enim unae &amp; caedem essent 
+      o<lb ed="#H" n="158" break="no"/>mnium hominum cogitationes, scientiae artes, deliberationes, 
+      consi<lb ed="#H" n="159" break="no"/>lia, omnes aeque docti essent, aeque sapientes, aeque prudentes: 
+      ope<lb ed="#H" n="160" break="no"/>ratio enim sequitur potentiam. Secundo, cmnes homines essent unus 
+      <lb ed="#H" n="161"/>numero homo: atque ita falsum foret, quod dixit Deus Gen. 1. v. 28. 
+      <lb ed="#H" n="162"/>Foetificate &amp; augescite &amp; implete terram. Tertio, omnes aut eandem 
+      <lb ed="#H" n="163"/>haberent Dei cognitionem, fidem, pietatem; aut non eandem, sed  
+      <lb ed="#H" n="164"/>mullam: quia si una est numero mens omnium hominum, qualis . 
+      <lb ed="#H" n="165"/>uno est, talis erit &amp; in altero: &amp; sic falsum foret, quod dicitur 2. T 
+      lice<lb ed="#H" n="166" break="no"/>sal. 2. v. 2. Non omnium est fides. Quario, esset perpetua μετμd υα ει 
+      <lb ed="#H" n="167"/>nam una &amp; eadem anima quae fuit in Petro, in Paulo, esset postea 
+      <lb ed="#H" n="168"/>aliis hominibus, qui istis interfectis nati sunt &amp; sic consequente 
+      <lb ed="#H" n="169"/>Quinto, contraria in eundem caderent eodem tempore: nam unus &amp; 
+      <lb ed="#H" n="170"/>idem homo regeneratetur, &amp; in nativa corruptione maneret: unus 
+      <lb ed="#H" n="171"/>&amp; idem justificaretur &amp; damnaretur: unus &amp; idem servaretur &amp; 
+      peri<lb ed="#H" n="172" break="no"/>ret. Quia si omnium hoinum est una anima, erit in eadem simul 
+      fi<lb ed="#H" n="173" break="no"/>des &amp; incredulitas, atque ita omnes regenerabuntur &amp; in 
+      corruptio<lb ed="#H" n="174" break="no"/>ne nativa manebunt: omnes justisicabuntur &amp; damnabuntur, 
+      om<lb ed="#H" n="175" break="no"/>nes &amp; servabuntur &amp; peribunt. Et quomodo verum manebit quod  
+      <lb ed="#H" n="176"/>Christus dixit Matth. 19. v. 30 multi primi erunt ultimi, &amp; ultimi 
+      pri<lb ed="#H" n="177" break="no"/>mi: Et cap. 20. v. 16. Multi sunt vocati, pauci vero electi. Et quod 
+      di<lb ed="#H" n="178" break="no"/>xit Johan. 5. vers. 28, 28. Veniet hora qua omnes qui in monumentis, 
+      <lb ed="#H" n="179"/>sunt, audient vocem ejus: Et prodibunt qui bona fecerint in resui: ect 
+      o<lb ed="#H" n="180" break="no"/>nem vitae: qui vero mala egerint, in resurrectionem condomnationis 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1936">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>V. Atestimonio Ecclesiastico: Irenaeus libro secundo adver 
+      <lb ed="#H" n="182"/>sus haereses, capite sexagesimo secundo: Quomaamodum unusquisse 
+      <!--cod-MkL9py-0349.xml-->
+      <pb ed="#H" n="322"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>nostrum suum corpus per artem Dei sumit, sic &amp; suam habet animam,? 
+      <lb ed="#H" n="2"/>Neque etum sic pauper, neque indigens Deus, ut non unicuique corpori 
+      pro<lb ed="#H" n="3" break="no"/>priam donaret animam, quemadmodum &amp; proprium characterem. 
+      E<lb ed="#H" n="4" break="no"/>ideo adimpleto numero, quem ipse apud se ante definivit, omnes quicum 
+      <lb ed="#H" n="5"/>que sunt descripti ad vitam, resurgent sua corpora &amp; suas animas 
+      ha<lb ed="#H" n="6" break="no"/>nentes, &amp; suos spiritus, in quibus placucrunt Deo. Qui autem poea sunt 
+      <lb ed="#H" n="7"/>digni, abibunt in eam, &amp; ipsi suas habentes animas &amp; sua corpora in 
+      <lb ed="#H" n="8"/>quibus abstiterunt a Dei vocuntate. Concilium Lateranense sub 
+      Leo<lb ed="#H" n="9" break="no"/>ne X. Sessione 8 sic statuit: Damnamus &amp; reprobamus omnes asse 
+      <lb ed="#H" n="10"/>rentes animam intellectivam mortalem esse, aut unicam in cunctis 
+      ho<lb ed="#H" n="11" break="no"/>minibus &amp; haec in dubium vertentes; cum illa non solum vere per se &amp; 
+      <lb ed="#H" n="12"/>ssentialiter humani corporis forma exsistat, verum etiam immortalis 
+      <lb ed="#H" n="13"/>&amp; pro corporum, quibus infunditur, multitudine singulariter muit: 
+      pli<lb ed="#H" n="14" break="no"/>cabilis, &amp; multiplicata &amp; multiplicanda sit. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1983">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Sic est secunda quaestio. 
+      <lb ed="#H" n="16"/>QUAESTIOIII. est: Ananima rationalis sit vere &amp; proprie. 
+      <lb ed="#H" n="17"/>forma hominis: 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e1994">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>RESP. Nos affirmamus, freti his argumentis: 
+      <lb ed="#H" n="19"/>I. Quicquid hominem certa specie constituit &amp; ab aliis rebus 
+      <lb ed="#H" n="20"/>distinguit; id vere &amp; proprie est forma hominis: Anima rationalis 
+      <lb ed="#H" n="21"/>homine certa specie constituit &amp; ab aliis rebus distinguit: Ergo, &amp;c 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2007">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Major patet ex definitione formae: nam forma, est causa per quam 
+      <lb ed="#H" n="23"/>res est id quod est &amp; ab aliis rebus distinguitur. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2016">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Minor liquet ex eo quod dicitur Gen. 2. v. 7. Finxit Iehova Deus 
+      <lb ed="#H" n="25"/>hominem de pulvere terrae, sufflavitque in nares ipsius spiraculum vitae, 
+      <lb ed="#H" n="26"/>sic factus est homo anima vivens:. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2027">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>II. Principium naturale internum operationum humanarum 
+      <lb ed="#H" n="28"/>est vere &amp; proprie forma hominis: Anima rationalis est principium 
+      <lb ed="#H" n="29"/>naturale internum operationum humanarum: Ergo anima rationa 
+      <lb ed="#H" n="30"/>lis est vere &amp; proprie forma hominis 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2040">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Propositio major certa est: Quia nihil agit, nisi prout in actu est, 
+      <lb ed="#H" n="32"/>nulla vero res naturalis est in actu nisi per formam naturalem: 
+      ma<lb ed="#H" n="33" break="no"/>teria quippe est pura potentia, nullamque effectricem vim possidet,  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2052">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Minor patet ex eo, quod ab anima est vita corporis humani, sicut  
+      <lb ed="#H" n="35"/>Paulus de adolescente Troadensi qui in fenestra sedens &amp; somno 
+      <lb ed="#H" n="36"/>profundo obrutus, ex tertia contignatione deciderat &amp; mortuus erat  
+      <lb ed="#H" n="37"/>revocato eo in vitam dixit, Anima ejus in ipso est. Act. 20. v. 10. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2065">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>III. Si anima rationalis non est vere &amp; proprie forma 
+      homi<lb ed="#H" n="39" break="no"/>nis, tum corpus hominis non vivit per animam: At vivit per illam 
+      <lb ed="#H" n="40"/>Ergo illa est vere &amp; proprie forma hominis 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2076">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>IV. Cujus accessu homo generatur, id vere &amp; proprie est 
+      for<lb ed="#H" n="42" break="no"/>ma hominis: Animae rationalis accessu homo generatur: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2085">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Hactenus declavata est definitio animae humanae: sed 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2092">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>quitur de eius origine. 
+      <lb ed="#H" n="45"/>Quum de animarum humanarum origine tractatur, de carum 
+      <lb ed="#H" n="46"/>causa efficiente, materia, tempore &amp; loco quo ex sistunt quaeritur. Nos 
+      <lb ed="#H" n="47"/>totam tractationem tribus complectemur thesibus; quas ordine 
+      <lb ed="#H" n="48"/>proponemus initio, deinde confirmabimus 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2108">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>Thesis I. 
+      <lb ed="#H" n="50"/>De causa efficiente animarum rationalium. 
+      <lb ed="#H" n="51"/>I. Animae rationales non sunt increatae: neque mortuorum 
+      a<lb ed="#H" n="52" break="no"/>nimae in alios transmigrant: neque illae a parentibus generantur: sed 
+      <lb ed="#H" n="53"/>singulorum hominum animae novae creantur, non ab Angelis, neque  
+      <lb ed="#H" n="54"/>a Deo mediante generatione naturali per parentes; sed a solo DE O 
+      <lb ed="#H" n="55"/>per se &amp; immediate. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2129">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Thess I1. 
+      <lb ed="#H" n="57"/>De materia animarum rationalium 
+      <lb ed="#H" n="58"/>Non producuntur ex substantia Dei: neque ex nescio qua anime 
+      <lb ed="#H" n="59"/>Mundi: neque ex materia elementorum: neque ex animabus 
+      pa<lb ed="#H" n="60" break="no"/>rentum: multo minus ex corporali semine generantur: sed ex 
+      nihi<lb ed="#H" n="61" break="no"/>lo creantur:  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2147">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Thesis III. 
+      <lb ed="#H" n="63"/>De tempore &amp; loco exsistentia animarum ratio¬ 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2156">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>nalium. 
+      <lb ed="#H" n="65"/>Non fuerunt ab aeterno: neque ab initio mundi omnes simul 
+      <lb ed="#H" n="66"/>conditae &amp; in beatorum sedibus collocatae &amp; postea ob peccatum  
+      <lb ed="#H" n="67"/>corporibus immersae fuerunt: neque omnino ante corpora 
+      produ<lb ed="#H" n="68" break="no"/>cuntur. Primis duobus hominibus creatae sunt non extra corpora, sed 
+      <lb ed="#H" n="69"/>in corporibus quidem ipsis, veruntamen post corpora, si ordinem 
+      <lb ed="#H" n="70"/>spectes, quanquam statuim ac corpora habucrunt perfecta &amp; distincti 
+      <lb ed="#H" n="71"/>organa omnia. Itaque in eodem instanti quidem Deus &amp; primi, 
+      ho<lb ed="#H" n="72" break="no"/>minis corpus formavit &amp; ei animam infudit, sed tamen si ordinem 
+      <lb ed="#H" n="73"/>naturae spectes, prius corpus, deinde animam. Caeteris hominibus 
+      <lb ed="#H" n="74"/>omnibus, itidem postquam corpora sunt perfecte suis partibus 
+      om<lb ed="#H" n="75" break="no"/>nibus &amp; organis distinctis &amp; formata atque absoluta, demum in ipsi 
+      <lb ed="#H" n="76"/>corporibus &amp; non extra corpora creantur, masculis quidem ut 
+      com<lb ed="#H" n="77" break="no"/>munis est seatentia, circa quadragesimum, foemellis circa octogesis 
+      <lb ed="#H" n="78"/>mum diem. Causa diversitatis quoad tempus haec est; quia corpora 
+      <lb ed="#H" n="79"/>primorum parentum nostrorum momento fuerunt perfecta creata. 
+      <lb ed="#H" n="80"/>&amp; justa magnitudine pro ut perfectionis status requirebat: aliorum 
+      <lb ed="#H" n="81"/>omnium hominum corpora successive in uteris maternis formantur? 
+      <lb ed="#H" n="82"/>Haec tamen lex successivae formationis in corpore Christi seivata. 
+      <lb ed="#H" n="83"/>non est: sed momento illud a Spiritu Sancto conceptum formatum: 
+      <!--cod-MkL9py-0349.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="84"/>que in utero Mariae virginis perfectum omnibus suis partibus, 
+      eo<lb ed="#H" n="85" break="no"/>demque momento anima rationalis in &amp; cum corpore creata atque 
+      <lb ed="#H" n="86"/>inspirata fuit.  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2215">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Confirmatio primae theseos 
+      <lb ed="#H" n="88"/>Animas humanas non esse increatas, planum est ex his 
+      argumen<lb ed="#H" n="89" break="no"/>tis: 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2226">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Solus Deus est increatus: Nulla autem anima humana est 
+      <lb ed="#H" n="91"/>I. 
+      <lb ed="#H" n="92"/>Deus: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2237">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>II. Omne increatum est infinitum: At nullae animae sunt 
+      infi<lb ed="#H" n="94" break="no"/>nitae: Actio enim earum est finita; Ergo &amp; potentia: Si potentia, 
+      et<lb ed="#H" n="95" break="no"/>iam essentia: Nullae igitur sunt increata. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2249">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Earundem non esse παλεγsενεσίαν Pythagoricam, seu μστενσωματυ¬ 
+      <lb ed="#H" n="97"/>σiν seu μετεμψυχυσιν, qua animae ab unius corpore excedentes, in alia 
+      <lb ed="#H" n="98"/>certis annorum spaciis transmigrent, non hominum tantum, sed etiam 
+      <lb ed="#H" n="99"/>iam pecudum; quae opinio fuit Pythagorae, Empedoclis, Platonis, &amp; 
+      <lb ed="#H" n="100"/>post hos, Judaeorum &amp; haereticorum quorundam patet inde. I. quia 
+      <lb ed="#H" n="101"/>transmigrationem animarum ex corporibus in alia corpora 
+      Scriptu<lb ed="#H" n="102" break="no"/>rae Sacrae ignorant. Nam quod discipuli Christi dicunt Matth. 16. v. 
+      <lb ed="#H" n="103"/>14. quod Filium hominis alii dicant esse Johannem Baptistam, 
+      ali<lb ed="#H" n="104" break="no"/>vero Eliam, alii vero Jeremiam, aut unum ex Prophetis: non suam 
+      <lb ed="#H" n="105"/>illi sententiam exposuerunt, sed aliorum opiniones, quas nequaquam  
+      <lb ed="#H" n="106"/>probabant  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2278">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>II. quia sic animae e miseria hujus vitae ad beatitudinem 
+      transla<lb ed="#H" n="108" break="no"/>tae, subinde ad miseriam revolverentur: quae opinio absurdissima est, 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2287">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>III. quia jam olim μετεμψυρωσις ista ab orthodoxis Patribus 
+      <lb ed="#H" n="110"/>explosa est, veluti a Iustino Martyre in Dialogo cum Tryphone 
+      Ju<lb ed="#H" n="111" break="no"/>laeo, pag. 171. &amp; sequente; &amp; in Confutatione Quaestionum 
+      Grae<lb ed="#H" n="112" break="no"/>carum pag. centesima sexagesima: tertia: a Cleente Aezandrino 
+      li<lb ed="#H" n="113" break="no"/>bro sexto Stromatum: ab Irenaeo Martyre libro secundo adversus 
+      hae<lb ed="#H" n="114" break="no"/>reses, capit. quinquagesimo-octavo: a beato Achacasio sexto ad 
+      <lb ed="#H" n="115"/>Theophilum libro, qui est de beatitudine Filii Dei: ab Augustino 
+      <lb ed="#H" n="116"/>quintotomo, libro duodecimo de Civitate Dei, cap. vicesimo. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2309">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Neque animas a parentibus generari &amp; in liberes propegari, ex 
+      sequen<lb ed="#H" n="118" break="no"/>tibus argumentis constat: 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2318">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>I. quia anima est ἀμιρισος, id est, impartibilis: ideo nec 
+      gene<lb ed="#H" n="120" break="no"/>rat, nec generatur: est enim substantia incorporea seu spiritualis. 
+      Sic<lb ed="#H" n="121" break="no"/>ut Angelus non generatur ab Angelo, quia est substantia ἀμερις &amp; 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2329">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>II. Quia est inorganica, non opus habet :c orporis 
+      instrumento<lb ed="#H" n="123" break="no"/>id exercendas actiones. Nam unaquaeque res sicut se habet ad 
+      epo<lb ed="#H" n="124" break="no"/>tandum, sic etiam se habet ad Esse: &amp; sicut ad Esse se habet, sic etnm 
+      <lb ed="#H" n="125"/>ad operandum. Quum igitur anima rationalis operetur sine 
+      nuufu<lb ed="#H" n="126" break="no"/>nam etiam dum est in corpore actus reflexos habet, numerat, 
+      uttci<lb ed="#H" n="127" break="no"/>ligit tum singularia, tum universatia, colligit ex causis propinquis: 
+      <lb ed="#H" n="128"/>a corpore separata intelligit &amp; vult,) efficitur, eam etiam in Esse 
+      pro<lb ed="#H" n="129" break="no"/>duci sine corporis actione 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2352">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>III. Quia est intelligens &amp; immortalis: nihil autem intelligens 
+      <lb ed="#H" n="131"/>&amp; immortale ex facultate atque potentia materiae potest elici: 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2361">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>IV. Quia anima Christi non fuit ab anima patris propagata. 
+      <lb ed="#H" n="133"/>Nam si fuisset ab anima patris propagata, procul dubio peccato 
+      infe<lb ed="#H" n="134" break="no"/>cta propagata fuisset 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2372">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>V. Si solus Deus est pater spirituum seu animarum, tum illae 
+      <lb ed="#H" n="136"/>parentibus non generantur: Antecedens verum est: Ergo &amp; 
+      conse<lb ed="#H" n="137" break="no"/>quens. Antecedens patet ex cap. 12. ad Hebr. v. 9. Deinde patres 
+      qui<lb ed="#H" n="138" break="no"/>dem carnis nostrae, castigatores habuimus, &amp; reveriti sumus: anno 
+      a<lb ed="#H" n="139" break="no"/>multo magis subjicirmur Patri spirituum &amp; vivemus? Non constaret 
+      <lb ed="#H" n="140"/>sibi antithesis, nisi per patres carnis, qui corpore genuerunt, &amp; 
+      Pa<lb ed="#H" n="141" break="no"/>trem spirituum, qui spiritus seu animas mediate creavit, Apostolus 
+      <lb ed="#H" n="142"/>intellexisset: nam &amp; corpora humana Deus creat, sed mediate hujus 
+      <lb ed="#H" n="143"/>naturae instrumento 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2396">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>VI. quia quicquid cum carne a parentibus propagatur, etiam 
+      <lb ed="#H" n="145"/>cum carne moritur: At anima rationalis non moritur cum carne: 
+      <lb ed="#H" n="146"/>Ergo anima rationalis non propagatur cum carne a parentibus. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2407">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Animas humanas non creari ab Angelis, ex subjectis argumentis 
+      <lb ed="#H" n="148"/>liquet  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2416">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>I. Quia a quo humanae animae sunt conditae, ad ejusdem 
+      imagi<lb ed="#H" n="150" break="no"/>nem homines sunt creati: Atqui ad Angelorum imaginem homines. 
+      <lb ed="#H" n="151"/>non sunt conditi. Ergo ab Angelis animae humanae non sunt 
+      crea<lb ed="#H" n="152" break="no"/>tae. Minor certa est ex Genes. 1. versic. 26. Dixit Deus, 
+      fa<lb ed="#H" n="153" break="no"/>ciamus hominem ad imaginem nostram, secuudum sis cilitudinem 
+      no<lb ed="#H" n="154" break="no"/>stram: Et v 27. Itaque creavit Deus hominem ad imoginem suam, ad 
+      <lb ed="#H" n="155"/>imaginem Dei creavit eum. Hoc in loco ut &amp; in aliis semper dicitur? 
+      <lb ed="#H" n="156"/>ad imaginem Dei creatum hominem, nusquam autem ad imaginem 
+      <lb ed="#H" n="157"/>Angelorum 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2441">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>II. Quia animas humanas ab Angelis creatas haeresis est 
+      Sa<lb ed="#H" n="159" break="no"/>turni ianorum damnata jam olim ab Ecclesia, ut ex Epiphanio 
+      con<lb ed="#H" n="160" break="no"/>stat. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2452">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Asolo Deo immediare &amp; per se creari animas rat onales singulorum 
+      <lb ed="#H" n="162"/>hominum &amp; corporibus partes suas omnes perfectas &amp; organa destinctio. 
+      <lb ed="#H" n="163"/>jam habentibus infundi, argumenta sequentia firmant: I. Quis quio 
+      <lb ed="#H" n="164"/>in homine proprie est Imago Dei, immediate a Deo creatur: 
+      Ani<lb ed="#H" n="165" break="no"/>ma rationalis in homine est proprie imago Dei, Gen. 1. vers 26. 27. 
+      <lb ed="#H" n="166"/>Ergo creatur a Deo immediate. Certe quod proprie est imago Dei 
+      <lb ed="#H" n="167"/>Creatoris, non potest produci a creatura ulla, sed a solo Deo Creatore. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2472">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>II. Aquo &amp; quo modo anima Adami extitit, ab eodem &amp; 
+      <lb ed="#H" n="169"/>modo eodem exsistunt aniniae caeterorum hominum omnium: 
+      At<lb ed="#H" n="170" break="no"/>qui a solo Deo immediata creatione anima Adami exstitit: Ergo &amp; 
+      <lb ed="#H" n="171"/>a solo Deo singulorum hominum caeterorum atimae creatione 
+      im<lb ed="#H" n="172" break="no"/>mediata exsistunt. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2488">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Major propositio certa est: primum ex eo quod Adamus &amp; 
+      caete<lb ed="#H" n="174" break="no"/>ti omnes homines sint ejusdem speciet: Non essent autem ejusdem 
+      <lb ed="#H" n="175"/>spec ei, si alia origo esset animae Adami, alia Evae, aliae hom num 
+      cae<lb ed="#H" n="176" break="no"/>terorum Species enim forma discernuntur: ast anima rationalis est: 
+      <!--cod-MkL9py-0350.xml-->
+      <pb ed="#H" n="323"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>forma hominis. Deinde quod in corporibus fieri per generationem 
+      <lb ed="#H" n="2"/>naturalem mandavit Deus, id in animabus, quae materiae sunt 
+      exper<lb ed="#H" n="3" break="no"/>tes, non mandat fieri, sed ipse facit. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2514">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Assumtionem tradit Moses Gen. 2. v. 7. Finxit vero Iehova Deus 
+      <lb ed="#H" n="5"/>hominem de pulvere terrae, sufflavitque in nares ipsius halitum vitae: si  
+      <lb ed="#H" n="6"/>factus est homo anima vivens. His verbis tres partes creationis 
+      ho<lb ed="#H" n="7" break="no"/>minis describuntur: prima est, πλᾶσις, id est, fictio seu figuratio 
+      cor<lb ed="#H" n="8" break="no"/>poris humani quod Deus ex elementari materia figuratum 
+      compo<lb ed="#H" n="9" break="no"/>situmque produxit. Altera pars est ἔμπνευσις id est, inspiratio seu 
+      in<lb ed="#H" n="10" break="no"/>fusio animae in corpus per spirationem. Tertia est ενωσης ὑποστατικὴ 
+      u<lb ed="#H" n="11" break="no"/>nio personalis qua anima &amp; corpus adunantur in unitatem personae. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2536">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>III. Si alia esset origo animae Evae &amp; aliorum hominum quam 
+      <lb ed="#H" n="13"/>quae est animae Adami; tum id Scriptura alicubi traderet: At nullibi 
+      <lb ed="#H" n="14"/>id Scriptura tradit: neque in creatione Evae neque in creatione 
+      alio<lb ed="#H" n="15" break="no"/>rum hominum. In creatione quidem corporis Evae describitur origo 
+      <lb ed="#H" n="16"/>&amp; modus, quo creatum est: de animae autem creatione nihil additur, 
+      <lb ed="#H" n="17"/>quia supervacaneum erat repetere, cum jam communis omnium 
+      a<lb ed="#H" n="18" break="no"/>nimarum origo in creatione animae Adami fuisset expressa. Si autem 
+      <lb ed="#H" n="19"/>anima Evae, &amp; postea animae aliorum hominum alio modo creatae 
+      <lb ed="#H" n="20"/>essent &amp; crearentur quam Adami, non certe modum illum silentio  
+      <lb ed="#H" n="21"/>Moses praeteriisset, qui primas rerum omnium, &amp; maxime visibilium 
+      <lb ed="#H" n="22"/>origines describebat.  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2566">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>IV. Num. 16. v 22. &amp; cap. 27. 16. Deus a Mose Deus spirituum 
+      <lb ed="#H" n="24"/>universae carnis appellatur. Unde sic argumentamur: Si Deus est 
+      <lb ed="#H" n="25"/>Deus spirituum universae carnis, id est, animarum omnium 
+      homi<lb ed="#H" n="26" break="no"/>num, cujuscunque sint conditionis &amp; ordinis: tum singulorum 
+      ho<lb ed="#H" n="27" break="no"/>minum spiritus seu animas immediate creavit &amp; creat. At verum est 
+      <lb ed="#H" n="28"/>antecedens: Ergo &amp; consequens. Nomine spirituum, quod plurale 
+      <lb ed="#H" n="29"/>est, non intelliguntur hoc loco dona spiritualia, quemadmodum 1. 
+      <lb ed="#H" n="30"/>Cor. 14. 12. ubi Paulus ait: quandoquidem spiritus affectatis, ad 
+      aedifi<lb ed="#H" n="31" break="no"/>cationem Ecclesiae quaerite ut exundetis. Nam hoc loco spiritus 
+      univer<lb ed="#H" n="32" break="no"/>sae carnis, id est, omnium hominum intelliguntur: at dona spiritualia 
+      <lb ed="#H" n="33"/>qualia Paulus recenset 1. Cor. 14. 12. non dat Deus omnibus 
+      homi<lb ed="#H" n="34" break="no"/>nibus. Deinde universae carnis nomine intelliguntur universi 
+      homi<lb ed="#H" n="35" break="no"/>nes. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2599">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>V. Psal. 33. v. 13, 14, 15. legitur: E caelis intuetur Iehova, videt  
+      <lb ed="#H" n="37"/>omnes filios hominis: E loco habitationis suae, prospicit in omnes 
+      habita<lb ed="#H" n="38" break="no"/>tiones terrae: Formator pariter cordis eorum, animadvertit ad omnia 
+      o<lb ed="#H" n="39" break="no"/>pera eorum, Hinc ita ratiocinamur: 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2612">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Qui omnium hominum corda pariter format, ab eo singulorum  
+      <lb ed="#H" n="41"/>hominum animae immediate creantur: 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2621">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>At Deus omnium hominum corda pariter format: ut Psaltes 
+      ca<lb ed="#H" n="43" break="no"/>nit, qui non intelligit, uno temporis momento formata fuisse 
+      omni<lb ed="#H" n="44" break="no"/>um hominum corda, sed omnia ad unum a Deo formari, prorsus 
+      nul<lb ed="#H" n="45" break="no"/>lo excepto. Unde Deus solus creat animas omnium hominum, tam 
+      <lb ed="#H" n="46"/>magnorum quam parvorum, tam regum quam popularium, tam 
+      sa<lb ed="#H" n="47" break="no"/>pientum &amp; astutorum, quam ignorantium &amp; simplicium 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2639">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>VI. Ecclesiastae 12. v. 7. Redit pulvis in terram quemadmodum 
+      <lb ed="#H" n="49"/>fuerat: spiritus autem redit ad Deum qui diderat illum. Si animae 
+      se<lb ed="#H" n="50" break="no"/>paratae a corpore non resolvuntur in aliquam materiam, 
+      quemad<lb ed="#H" n="51" break="no"/>modum corpora in terram e qua sumta fuerant: tum animae 
+      imme<lb ed="#H" n="52" break="no"/>diate a Deo creantur. Quod antecedit verum est: Ergo &amp; quod 
+      se<lb ed="#H" n="53" break="no"/>quitur. Connexum probatur hac ratione, quia in totius compositi 
+      <lb ed="#H" n="54"/>dissolutione singulae ejus partes redeunt in sua principia &amp; 
+      resolvun<lb ed="#H" n="55" break="no"/>tur in id unde orta sunt. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2661">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Excipiunt quidam ad argumentum hoc, Deum dedisse spiritus, sed 
+      <lb ed="#H" n="57"/>mediate per naturam hanc. Verum hanc exceptionem confutat 
+      anti<lb ed="#H" n="58" break="no"/>thesis, quae inepta esset, nisi Deus immediate animas hominibus 
+      cre<lb ed="#H" n="59" break="no"/>aret. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2675">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>VII. Jesa 57. v.16. vel 20. juxta distinctionem Tremellii &amp; 
+      Ju<lb ed="#H" n="61" break="no"/>nii; Nam in seculum non contendam, neque in aeternum effervescam: 
+      <lb ed="#H" n="62"/>nam spiritus a conspectu meo obruetur, &amp; animae quas ego feci. q. d. Si 
+      <lb ed="#H" n="63"/>iniquitates vestras observarem &amp; severe rigideque agerem in 
+      puni<lb ed="#H" n="64" break="no"/>endis peccatis vestris, non tantum corpora quae a parentibus 
+      accepi<lb ed="#H" n="65" break="no"/>stis e corporea materia formata, verum etiam spiritus &amp; animae, 
+      <lb ed="#H" n="66"/>quas ego immediate creavi &amp; corporibus vestris indidi, 
+      consumeren<lb ed="#H" n="67" break="no"/>tur fervore irae meae. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2697">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>VIII. Ezechiel. 37. 5. Sic ait Dominus Iehovi ossibus istis: ecce 
+      <lb ed="#H" n="69"/>ego inducturus sum in vos spiritum, ut vivatis. In his verbis 
+      pro<lb ed="#H" n="70" break="no"/>mittit Deus restitutionem populi Judaici in libertatis statum 
+      prospe<lb ed="#H" n="71" break="no"/>rum, argumento sumto a simili: Quam facile est Deo inducere 
+      spi<lb ed="#H" n="72" break="no"/>ritum in ossa arida ut vivant, tam facile est illi restituere Israëlitas in 
+      <lb ed="#H" n="73"/>integrum. Deus autem immediate inducet spiritum in ossa 
+      mortuo<lb ed="#H" n="74" break="no"/>rum: ergo &amp; immediate primo eum indiderat corporibus ut illa 
+      vi<lb ed="#H" n="75" break="no"/>verent. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2719">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>IX. Zachar. 12. 1. Onerosa prophetia verbi Iehovae pro Israele: 
+      <lb ed="#H" n="77"/>dictum Iehovae, qui extendit coelos, &amp; fundat terram, formatque spiritum 
+      <lb ed="#H" n="78"/>hominis in medio ejus. Scopus Spiritus Sancti in his verbis est, 
+      praedi<lb ed="#H" n="79" break="no"/>care omnipotentiam Dei, eumque omnino esse, qui sicut creavit 
+      so<lb ed="#H" n="80" break="no"/>lus coelum &amp; terram, sic etiam solus creet animam in medio hominis. 
+      <lb ed="#H" n="81"/>Notandum probe, in hoc Zachariae loco conjungi opera Dei quae 
+      <lb ed="#H" n="82"/>ipse solus facit immediate; ut fideles ex iis cognoscant Dei 
+      omnipo<lb ed="#H" n="83" break="no"/>tentiam; &amp; fiduciam indubitatam concipiant de conservatione 
+      Ec<lb ed="#H" n="84" break="no"/>clesiae adversus hostes potentissimos quamvis nulla conservationis 
+      <lb ed="#H" n="85"/>media humana sint apparitura aut adfutura; quum Deo non sit 
+      diffi<lb ed="#H" n="86" break="no"/>cile vel sine mediis efficere, ut Ecclesia fiat instar pelvis soporiferae 
+      o<lb ed="#H" n="87" break="no"/>mnibus hostibus circumquaque, &amp; instar lapidis onerosi adversarios 
+      <lb ed="#H" n="88"/>conterentis, &amp; instar ignis persequutores consumentis. Summa 
+      ar<lb ed="#H" n="89" break="no"/>gumentationis Propheticae est: Qui potuit immediate extendere 
+      coe<lb ed="#H" n="90" break="no"/>lum &amp; fundare terram &amp; creare animas: is etiam poterit immediate 
+      <lb ed="#H" n="91"/>reddere Ecclesiam invincibilem &amp; efficere victricem inimicorum 
+      suo<lb ed="#H" n="92" break="no"/>rum. At Iehova potuit immediate extendere coelum, &amp; fundare terram; 
+      <!--cod-MkL9py-0350.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>&amp; creare animas. Ergo idem poterit immediate reddere Ecclesiam 
+      in<lb ed="#H" n="94" break="no"/>vincibilem &amp; efficere victricem inimicorum suorum. Hanc 
+      argumen<lb ed="#H" n="95" break="no"/>tationem abunde confirmat v: 5, 6, 7, 8. in quibus aeternus Fiius Dei 
+      <lb ed="#H" n="96"/>promittit, fideles etiam in finibus &amp; pagis villisque Judaeae 
+      conserva<lb ed="#H" n="97" break="no"/>tum iri non humana potentia, non auxiliis ornatus domus Davidis; 
+      <lb ed="#H" n="98"/>sed solius Dei virtute immediate fideles confirmantis &amp; 
+      conservan<lb ed="#H" n="99" break="no"/>tis. Ex hoc igitur Zachariae loco recte colligitur animas a Deo 
+      im<lb ed="#H" n="100" break="no"/>mediate creari. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2782">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>X. Matth. 1. v. 18. Iesu vero Christi nativitas ita fuit. Quum 
+      <lb ed="#H" n="102"/>enim mater ejus Maria desponsa esset Iosepho priusquam ipsi 
+      convenis<lb ed="#H" n="103" break="no"/>sent, comperta est praegnans esse e Spiritu Sancto. Et Luc. 1. v. 34, 35. 
+      Di<lb ed="#H" n="104" break="no"/>xit autem Maria ad Angelum, Quomodo erit istud, quandoquidem 
+      vi<lb ed="#H" n="105" break="no"/>rum non cognovi? Et respondens Angelus dixit ei, Spiritus Sanctus 
+      su<lb ed="#H" n="106" break="no"/>perveniet in te &amp; virtus Altissimi inumbrabit te. Unde sic 
+      argumenta<lb ed="#H" n="107" break="no"/>mur: Anima Christi immediate a Deo creata fuit. Ergo animae 
+      alio<lb ed="#H" n="108" break="no"/>rum etiam hominum immediate a Deo creantur. Ratio 
+      consequen<lb ed="#H" n="109" break="no"/>tiae est, quia Christus quoad humanam naturam nobis similis est per 
+      <lb ed="#H" n="110"/>omnia excepto peccato: ergo nobis est similis etiam quoad 
+      origi<lb ed="#H" n="111" break="no"/>nem animae. Quoad originem corporis, nempe per semen viri, non 
+      <lb ed="#H" n="112"/>potuit nec debuit nobis esse similis, quia fieri hoc non poterat absque 
+      <lb ed="#H" n="113"/>peccato. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2815">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>XI. Hebr. 12. 9. Deinde patres quidem carnis nostrae 
+      castigato<lb ed="#H" n="115" break="no"/>res habuimus &amp; reveriti sumus: annon multo magis subjiciemur Patri 
+      <lb ed="#H" n="116"/>spirituum, &amp; vivemus? Unde argumentamur in hunc modum: Si 
+      <lb ed="#H" n="117"/>Deus solus est autor animarum nostrarum, tum illae sunt immediate 
+      <lb ed="#H" n="118"/>a Deo creatae. Antecedens est verum: Ergo &amp; consequens. 
+      Antece<lb ed="#H" n="119" break="no"/>dens patet ex antithesi Apostolica. Nam Apostolus parentes nostros 
+      <lb ed="#H" n="120"/>facit autores seu propagatores corporum, nempe cum Deo: 
+      anima<lb ed="#H" n="121" break="no"/>rum autem solum Deum, vocans eum propterea patrem spirituum. 
+      <lb ed="#H" n="122"/>Respondent quidam, primo esse fallaciam homonymiae in voce 
+      spiri<lb ed="#H" n="123" break="no"/>tuum, qua intelligantur a Paulo dona spiritualia: Deinde si per 
+      spiri<lb ed="#H" n="124" break="no"/>tus omnino significentur animae, dici Deum Patrem spirituum 
+      me<lb ed="#H" n="125" break="no"/>diate hujus naturae instrumento. Utraque responisionis pars negatur;  
+      <lb ed="#H" n="126"/>Primo enim voce spirituum non intelligunt ut dona spiritualia, quia 
+      <lb ed="#H" n="127"/>carnis nomine in eodem dicto intelliguntur corpora a parentibus 
+      ac<lb ed="#H" n="128" break="no"/>cepta: ergo nomine spirituum necessario intelliguntur animae; id 
+      <lb ed="#H" n="129"/>enim antithesis requirit. Deinde Deus non dicitur Pater spirituum 
+      <lb ed="#H" n="130"/>mediate: nam sibi non constaret antithesis patrum carnis, id est, qui 
+      <lb ed="#H" n="131"/>corpora genuerunt; &amp; Patris spirituum, id est, qui spiritus creavit. Si 
+      <lb ed="#H" n="132"/>enim Deus diceretur Pater spirituum eo quod spiritus crearet 
+      medi<lb ed="#H" n="133" break="no"/>ante hac natura: tum etiam Deus carnis recte diceretur eadem 
+      ratio<lb ed="#H" n="134" break="no"/>ne. Ubi igitur esset antithesis? 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2865">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>XII. Si animae humanae sunt spiritus, tum a solo Deo eas 
+      crea<lb ed="#H" n="136" break="no"/>ri necesse est. Prius est: Ergo &amp; posterius. Connexi consequentia 
+      fir<lb ed="#H" n="137" break="no"/>ma est: quia spiritus a spiritu produci necesse est, aliter exsistere 
+      ne<lb ed="#H" n="138" break="no"/>queunt.  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2879">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>His testimoniis librorum Canonicorum suffragantur &amp; 
+      Scripto<lb ed="#H" n="140" break="no"/>res Ecclesiastici. Autor libri Sapientiae cap. 15. vers. 11 idoli 
+      fabricato<lb ed="#H" n="141" break="no"/>rem asserit esse insipientem, utiturque hoc argumento; Quia 
+      ignora<lb ed="#H" n="142" break="no"/>vit eum qui finxit se &amp; qui inspiravit ipsi animam efficacem, &amp; 
+      suffla<lb ed="#H" n="143" break="no"/>vit in ipsum vitalem spiritum. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2895">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Autor secundi libri Macchabaeorum cap. 7. v. 22. ait, matrem 
+      se<lb ed="#H" n="145" break="no"/>ptem fratrum qui martyrium obierunt pro lege Dei, dixisse eis: 
+      Ne<lb ed="#H" n="146" break="no"/>scio quomodo in utero meo apparueritis, neque ego spiritum vitamque sum 
+      <lb ed="#H" n="147"/>largita vobis. Si parentes non dederunt spiritum liberis suis: Ergo 
+      <lb ed="#H" n="148"/>solus Deus immediate eum dedit. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2911">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>Lactantius libro de Opificio Dei, cap. decimo-nono: Corpus enim 
+      <lb ed="#H" n="150"/>ex corporibus nasci potest, quoniam confertur aliquid ex utroque de 
+      ani<lb ed="#H" n="151" break="no"/>mis anima non potest, quia ex re tenui, &amp; incomprehensibili nihil potest 
+      <lb ed="#H" n="152"/>decedere. Itaque serendarum animarum ratio uni, ac soli Deo subjacet; 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2924">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Denique coelesti sumus omnes semine oriundi: 
+      <lb ed="#H" n="154"/>Omnibus ille idem pater est, ut ait Lucretius. Nam de mortalibus 
+      <lb ed="#H" n="155"/>non potest quicquam nisi mortale generari. Nec putari pater debet; qui  
+      <lb ed="#H" n="156"/>transfudisse aut inspirasse animam de suo nullo modo sentit: nec si 
+      sen<lb ed="#H" n="157" break="no"/>tiat, quando aut quomodo id fiat, habet animo comprehensum. Ex quo 
+      <lb ed="#H" n="158"/>apparet, non a parentibus dari animas, sed ab uno, eodemque omnium 
+      <lb ed="#H" n="159"/>Deo Patre, qui legem rationemque nascendi tenet solus: siquidem solus 
+      ef<lb ed="#H" n="160" break="no"/>icit.  
+      <lb ed="#H" n="161"/>Theodoretus sermone quarto Curationis Graecarum affectionum: 
+      <lb ed="#H" n="162"/>Facile est enim Deo, &amp; ex iis quae nondum sint, &amp; ex iis quae sunt, 
+      ex<lb ed="#H" n="163" break="no"/>cudere aliquid &amp; proferre. Hoc enim &amp; ab initio olim fecit, &amp; singulis, 
+      <lb ed="#H" n="164"/>ut ita dicam, diebus facere cernitur. Nam &amp; ex praestitutis comparatisque 
+      <lb ed="#H" n="165"/>jam corporibus animalium corpora effingit; &amp; ex iis quae non sunt, ipsas 
+      <lb ed="#H" n="166"/>animas creat, non cunctarum quidem animas animantium, sed 
+      huma<lb ed="#H" n="167" break="no"/>nas duntaxat. Et Sermone quinto, pag. septuagesima octava ait, 
+      pri<lb ed="#H" n="168" break="no"/>mo corporis partes omnes formari, ut tunc demum creari animam 
+      <lb ed="#H" n="169"/>corporique adiungi. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e2966">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Hilarius Pictaviensis Episcopus libro decimo de Trinitate pagin. 
+      <lb ed="#H" n="171"/>195. ait, quod anima hominis opus Dei sit, carnis vero generatio semper 
+      <lb ed="#H" n="172"/>ex carne sit. Et sequente pagina de Christo ait: Ut per se sibi assumsit  
+      <lb ed="#H" n="173"/>ex virgine corpus: ita ex se sibi animam assumsit, quae utique nunquam 
+      <lb ed="#H" n="174"/>ab homine gignentium originibus praebetur. Si enim conceptum carnis 
+      <lb ed="#H" n="175"/>nisi ex Deo Virgo non habuit, longe magis necesse est, animae corporis, nisi 
+      <lb ed="#H" n="176"/>ex Deo aliunde non fuerit.  
+      <lb ed="#H" n="177"/>Hieronymus secundo tomo, epistolam ad Pammachium adversus 
+      er<lb ed="#H" n="178" break="no"/>rores Joannis Hierosolymitani, pag. 172. inquit: Cain &amp; Abel, primi 
+      <lb ed="#H" n="179"/>ex primis hominibus unde habuere animas? Omne deinceps humanum 
+      <lb ed="#H" n="180"/>genus, quibus animarum censetur exordiis? Utrum ex traduce, juxta 
+      <lb ed="#H" n="181"/>bruta animalia; ut quomodo corpus ex corpore; sic anima generetur ex 
+      <lb ed="#H" n="182"/>anima? an rationabiles creaturae disiderio corporum paulatim ad 
+      ter<lb ed="#H" n="183" break="no"/>ram delapsae, novissime etiam humanis illigatae corporibus sint? An 
+      cer<lb ed="#H" n="184" break="no"/>te (quod ecclesiasticum est secundum eloquia Salvatoris) Pater usque 
+      <!--cod-MkL9py-0351.xml-->
+      <pb ed="#H" n="324"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>modo operatur, &amp; ego operor. Et illud Esaiae: Qui format spiritum 
+      ho<lb ed="#H" n="2" break="no"/>minis in ipso. Et in Psalmis: Qui fingit per singulos corda eorum, 
+      quoti<lb ed="#H" n="3" break="no"/>die Deus fabricatur animas: cujus velle fecisse est, &amp; conduor esse non 
+      <lb ed="#H" n="4"/>cessat. 
+      <lb ed="#H" n="5"/>Sic confirmata est prima thesis de origine animarum 
+      <lb ed="#H" n="6"/>humanarum: sequitur confirmatio secundae theseos, 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3023">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>quae est de materia, ex qua animae humana. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3031">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>credtae 
+      <lb ed="#H" n="9"/>PRIM O Manichaei, Priscillianistae, Servetus contendebant 
+      ani<lb ed="#H" n="10" break="no"/>mas ex Dei substantia factas. Istam erroneam opinionem rejicimus, 
+      <lb ed="#H" n="11"/>&amp; contra profitemur: animas humanas non traduci ex substantia 
+      <lb ed="#H" n="12"/>Dei; idque confirmamus aliquot argumentis: I. Nullae res creatae 
+      tra<lb ed="#H" n="13" break="no"/>ducuntur ex substantia Dei: Animae humanae sunt res creatae: Ergo 
+      <lb ed="#H" n="14"/>&amp;c. Major est firma: quia substantia Dei alia est a creaturis omnibus 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3051">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>II. Nihil mutabile &amp; corruptibile derivatur ex Dei substantia: 
+      <lb ed="#H" n="16"/>Animae humanae sunt mutabiles &amp; corruptibiles: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3060">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Major est certissima: quia substantia Dei est immutabilis &amp; 
+      incor<lb ed="#H" n="18" break="no"/>ruptibilis: proinde si anima esset ex substantia Dei, omnino 
+      incom<lb ed="#H" n="19" break="no"/>mutabilis &amp; incorruptibilis esset, atque sic non deficeret in deterius, nec 
+      <lb ed="#H" n="20"/>proficeret in melius; nec aliquid in semetipsa vel inciperet habere 
+      <lb ed="#H" n="21"/>quod non habebat, vel desineret habere quod habebat,  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3076">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>III. NihI finitum propagatur ex Dei substantia: Animae 
+      hu<lb ed="#H" n="23" break="no"/>manae sunt finitae: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3085">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Major Propositio vera est: quia substantia Dei est infinita 
+      <lb ed="#H" n="25"/>IV. Quicquid productum est ex substantia Dei, id est DEUS: 
+      <lb ed="#H" n="26"/>Exempli gratia, Filius Dei, &amp; Spiritus S. Nulla anima humana est 
+      <lb ed="#H" n="27"/>Deus: Ergo nulla anima humana est producta ex substantia Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3098">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>OBJICIUNT I. Gen. 2. 7 dici, Deum sufflasse in nares hominis 
+      <lb ed="#H" n="29"/>halitum vitae: Hinc Manichaei &amp; Ser vetus colligebant, animam 
+      homi<lb ed="#H" n="30" break="no"/>nis esse ex Dei essentia per traducem 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3110">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>RESP. Negatur consequentia: nam si ex Dei essentia per 
+      tra<lb ed="#H" n="32" break="no"/>ducem esset anima hominis, sequeretur, Dei naturam non solum 
+      mu<lb ed="#H" n="33" break="no"/>tationi esse obnoxiam &amp; passionibus, sed ignorantiae quoque pravis 
+      cu<lb ed="#H" n="34" break="no"/>piditatibus, infirmitati &amp; omnis generis vitiis: 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3123">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>Instant: Flatus est e flantis substantia: Ergo &amp; flatus Dei 
+      <lb ed="#H" n="36"/>RESP. Antecedens est proprium: locus Geneseos est figura 
+      <lb ed="#H" n="37"/>tus 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3134">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Objiciunt II. Actor. 17. vers. 18. Paulus dicit nos esse Dei 
+      progi<lb ed="#H" n="39" break="no"/>niem. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3143">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>RESP. Sumus Dei progenies non substantia, sed qualitate 
+      qua<lb ed="#H" n="41" break="no"/>tenus nos scilicet divinis dotibus ornavit. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3152">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Objiciunt III. 2. Petr. 1. v. 4. dici, nos divinae consortes esse 
+      na<lb ed="#H" n="43" break="no"/>turae. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3161">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>RESP. id est, divinarum perfectionum, sapientiae, bonitatis, 
+      san<lb ed="#H" n="45" break="no"/>ctitatis 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3171">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>Objiciunt IV. Animam esse divinum spiritum. 
+      <lb ed="#H" n="47"/>RESP. Est, sed ob substandiam spiritualem &amp; dona spiritualia 
+      <lb ed="#H" n="48"/>divinitus concessa, nempe, justitiam &amp; similes virtutes, quibus dona 
+      <lb ed="#H" n="49"/>electos suos. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3184">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>SECUNDO: Animas humanas non esse ex anima mandi aut e 
+      <lb ed="#H" n="51"/>substantia coelesti, probatur: 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3193">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>Quia insufflando sunt creatae Genes 2. 7. Sufflationis enim 
+      <lb ed="#H" n="53"/>I. 
+      <lb ed="#H" n="54"/>symbolo significavit Deus, se animam non procreare ex substantia. 
+      <lb ed="#H" n="55"/>antea creata. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3206">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>II. Quia nobiliores sunt omni coelesti substantia. 
+      <lb ed="#H" n="57"/>III. Quia sunt spirituales essentiae: coelestis autem substantia 
+      <lb ed="#H" n="58"/>est corporea. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3217">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>IV. Quia hominibus morientibus ipsae non resoluuntur in sub 
+      <lb ed="#H" n="60"/>stantiam coelestem. Id autem necessario fieri oporteret, si ex substam 
+      <lb ed="#H" n="61"/>tia coelesti esset desumta. Nam ex qua materia unumquodque 
+      crea<lb ed="#H" n="62" break="no"/>tum est, in eandem resolvitur.  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3230">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>TERTIO, animam humanam non esse ex materia elementorum 
+      <lb ed="#H" n="64"/>sequentibus argumentis planum evadit contra Seleucum &amp; Heri 
+      <lb ed="#H" n="65"/>mian &amp; Messalian: S: 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3242">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Quicquid est ex materia elementorum est naturae 
+      corrupti<lb ed="#H" n="67" break="no"/>bilis &amp; mortalis: Anima humana non est naturae corruptibilis &amp; 
+      <lb ed="#H" n="68"/>mortalis: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3253">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>II. Quicquid est ex materia elementorum est corporeum 
+      <lb ed="#H" n="70"/>Anima humana non est corrorea: Ergo non est ex materia 
+      ele<lb ed="#H" n="71" break="no"/>mentorum. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3264">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>QA RTO, animam hominis ex animabus parentum non 
+      propa<lb ed="#H" n="73" break="no"/>gari. Sic probamus: I. Si anima ex anima propagatur, sicut corpus 
+      <lb ed="#H" n="74"/>ex corpore: tum per aliquod semen a patentibus decisum illa 
+      propa<lb ed="#H" n="75" break="no"/>gatio fiat oportet. Sed consequens dari non potest: quia si anima 
+      pe<lb ed="#H" n="76" break="no"/>lemen aliquod propagatur, illud aut corporale erit, aut spirituale. S 
+      <lb ed="#H" n="77"/>corporale; ipsa igitur anima corporea erit &amp; materialis. Sin spiritua 
+      <lb ed="#H" n="78"/>le; erit illud aut corruptibile &amp; mortale: aut incorruptibile &amp; 
+      im<lb ed="#H" n="79" break="no"/>mortale. Si primum; Ergo &amp; anima ex illo genita erit corruptibilis 
+      <lb ed="#H" n="80"/>&amp; mortalis. Si alterum: Ergo quod est incorruptibile &amp; immortale, 
+      <lb ed="#H" n="81"/>aliquando corrumpitur &amp; perit, veluti quum ex semine emisso proles 
+      <lb ed="#H" n="82"/>quila nascitur? 
+      <lb ed="#H" n="83"/>II. Si anima propagaretur ex parentis anima, necesse esset aut 
+      <lb ed="#H" n="84"/>totam animam traduci, aut ejus partem aliquam: Atqui neutrum 
+      <lb ed="#H" n="85"/>perum est. Nam totius traductio inferret patris interitum: 
+      partitio<lb ed="#H" n="86" break="no"/>autem in simplici essentia esse potest nulla; requiritur enim ad 
+      tradu<lb ed="#H" n="87" break="no"/>ctionem, posse aliquid de essentia animae patrs decidi. Anima igitur 
+      <lb ed="#H" n="88"/>non propagatur ex anima parentum 
+      <lb ed="#H" n="89"/>III. Si Angelus non producitur ex alio Angelo, tum nec anima ex 
+      ani<lb ed="#H" n="90" break="no"/>ma alia propagatur. Prius est: Ergo &amp; postere. Conexi firma est 
+      con<lb ed="#H" n="91" break="no"/>sequenna: quia Angelus &amp; anma hamana, quod ad substantiam 
+      at<lb ed="#H" n="92" break="no"/>tinet, sunt ejusdemnaturae: amibo eium sunt substautia per se subsi¬ 
+      <!--cod-MkL9py-0351.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>stens, incorporea, immaterialis, spiritualis: &amp; haec ipsa causa est, cur  
+      <lb ed="#H" n="94"/>Angelus ex Angelo non propagetur: eadem igitur de causa nec 
+      ani<lb ed="#H" n="95" break="no"/>ma ex anima propagatur. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3325">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>UINTO, animam humanam non generari ex semine corporali, 
+      <lb ed="#H" n="97"/>sequentia argumenta evincunt: I. Nulla substantia spiritualis 
+      ge<lb ed="#H" n="98" break="no"/>neratur ex semine corporali: Anima humana est substantia 
+      spiritua<lb ed="#H" n="99" break="no"/>lis: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3338">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>II. Quicquid generatur ex semine corporali id materiatum sit 
+      <lb ed="#H" n="101"/>necesse est: Anima humana materiata non est: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3347">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>III. Quicquid ex semine corporali generatur, corruptioni est 
+      <lb ed="#H" n="103"/>obnoxium &amp; mortale: Anima humana corruptioni non est obnoxia 
+      <lb ed="#H" n="104"/>nec mortalis: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3359">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>IV. Quicquid ex semine corporeo gignitur, est ex elementis 
+      con<lb ed="#H" n="106" break="no"/>positum: Anima humana non est composita ex elementis: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3368">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>V. Si anima humana ex semine carporeo generaretur, absurda 
+      <lb ed="#H" n="108"/>haec sequerentur. Primo spiritus nasceretur ex carne: Deinde anima 
+      <lb ed="#H" n="109"/>humana esset corporea, &amp;c. Anima ergo humana ex semine 
+      corpora<lb ed="#H" n="110" break="no"/>i non gignitur. Plura argumenta vide in Rodolphi Goclenii 
+      Adver<lb ed="#H" n="111" break="no"/>sariis ad Scaligeri Exercitationes aliquot, tractat. 29. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3384">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Sic confirmata est Thesis secunda: sequitur con¬ 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3391">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>firmatio theseos tertiae. 
+      <lb ed="#H" n="114"/>Quod animae humanae non fuerint ab aterno, patet, 
+      <lb ed="#H" n="115"/>I. quia creatae sunt in tempore 
+      <lb ed="#H" n="116"/>II. quia solus Deus est ab aeterno. 
+      <lb ed="#H" n="117"/>Quod ante corpora non fuerint a Deo creatae simul ab initio mundi 
+      <lb ed="#H" n="118"/>&amp; in beatorum sedibus collocatae, &amp; postea ob peccatum corporibus 
+      im<lb ed="#H" n="119" break="no"/>mersae, liquet I. quia Gen. 2. tantum de animae Adami creatione 
+      ser<lb ed="#H" n="120" break="no"/>mo est. II. quia Deus creat singillatim animam cujusque hominis, 
+      <lb ed="#H" n="121"/>Cach. 12. v. 1. Qui fingit spiritum hominis in medio ejus. Plura 
+      argu<lb ed="#H" n="122" break="no"/>menta habet Cyrillus Alexandrinus lib. 1. Commentariorum in 
+      Jo<lb ed="#H" n="123" break="no"/>hannem, cap. 9. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3420">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Obiiciunt, quod legitur Ps. 33. 15. Formator pariter cordis eorum. 
+      <lb ed="#H" n="125"/>RESP. Non intelligit Psaltes, uno temporis momento formata. 
+      <lb ed="#H" n="126"/>fuisse omnium hominum animas, sed ad unam omnes a Deo 
+      forma<lb ed="#H" n="127" break="no"/>ri, nulla excepta 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3433">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>Quod omnino non fuerint ante corpora, sequentia argumenta 
+      osten<lb ed="#H" n="129" break="no"/>dunt. I. quia animae per se &amp; secundum naturam &amp; prius 
+      conveni<lb ed="#H" n="130" break="no"/>corpori unitam esse, a corpore autem abjunctam esse, praeter 
+      natu<lb ed="#H" n="131" break="no"/>tam, per accidens &amp; posterius. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3447">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>II. quia anima humana perfectius est in corpore, quam extra 
+      <lb ed="#H" n="133"/>corpus. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3456">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>III. quia est entelechia prima corporis humani potentia vitam 
+      <lb ed="#H" n="135"/>habentis 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3465">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>IV. quia si anima humana ante corpus fuisset, aliquid in natur 
+      <lb ed="#H" n="137"/>ra otiosum fuisset: quia anima ad plerasque suas operationes 
+      exer<lb ed="#H" n="138" break="no"/>cendas opus habebat corpore organico. Atqui in natura nihil 
+      un<lb ed="#H" n="139" break="no"/>quam fuit, est aut erit otiosum. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3478">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>V. quia anima praestantior est corpore &amp; in corpus agit: Ergo 
+      <lb ed="#H" n="141"/>corpus ante animam produci oportuit. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3487">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>VI. quia corpus debuit esse tabernaculum animae: Ergo 
+      cor<lb ed="#H" n="143" break="no"/>pus ante animam produci necesse fuit.  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3496">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Haec de origine animae humanae. 
+      <lb ed="#H" n="145"/>Finis animae humanae vel naturalis est, vel supernaturalis: ille 
+      ve<lb ed="#H" n="146" break="no"/>informet corpus humanum &amp; discernat hominem a bestiis: hic ut 
+      <lb ed="#H" n="147"/>Deum cognoscat, colat, amet, atque ita ut sit templum Dei, in quo 
+      <lb ed="#H" n="148"/>Deus Pater, Filius, &amp; Spiritus Sanctus habitet, Apoc. 3. 20. Ephes. 3. 
+      <lb ed="#H" n="149"/>17. Tum animae singulorum fidelium sunt portae &amp; ostia seculi, hoc 
+      <lb ed="#H" n="150"/>est, aeterna, quibus ingreditur Christus Ecclesiam, quae civitas ipsius 
+      <lb ed="#H" n="151"/>est, Ps. 24. v. 7, 9. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3519">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Potentiae animae hiumanae sunt tres; vegetativa, sensitiva &amp; 
+      intu<lb ed="#H" n="153" break="no"/>lectiva: τὸ θρεωτικον, τι αἰδητικον κι τό λογικον  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3528">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Potentia vegetativa animae humanae, est quam homo 
+      humanumve<lb ed="#H" n="155" break="no"/>corp? vivum nutritur, augetur &amp; simile sibi in specie generate potest. 
+      <lb ed="#H" n="156"/>Partis enim vegetativae sunt primae &amp; praecipuae facultates tres, 
+      al<lb ed="#H" n="157" break="no"/>trix, auctrix, generatrix. Hac ergo animae potentia vivimus, 
+      nutri<lb ed="#H" n="158" break="no"/>mur, augemur, generamus: quo pertinent dicta, Genes. 2. v. 7. Finxit.  
+      <lb ed="#H" n="159"/>vero Ithova Deus hominem de pulvere terrae, sufflavitque in nares ipsius 
+      <lb ed="#H" n="160"/>halitum vitae: sic factus est homo anima vivens. &amp; Act. 17. v. 28. In 
+      <lb ed="#H" n="161"/>ipso vivimus. Gen. 1. v. 28. Deinde benedixit eis Deus, &amp; dixit eis Deus 
+      <lb ed="#H" n="162"/>voetificate, &amp; augescite &amp; implete terram. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3552">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>His facultatibus partis vegetativae admonemur de spirituali vita, 
+      <lb ed="#H" n="164"/>mutritione &amp; regeneratione nostri. Vult enim Deus, ut intuitu &amp; 
+      co<lb ed="#H" n="165" break="no"/>gitatione naturalium evehamur ad supernaturalium 
+      contemplatio<lb ed="#H" n="166" break="no"/>nem. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3565">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Potentia sensitiva animae humana, est cujus viribus ea, quae sunt 
+      ex<lb ed="#H" n="168" break="no"/>tra nos posita per aliquod corporis organum seu partem percipimus. 
+      <lb ed="#H" n="169"/>atque comprehendimus, ad salutem tum corporis, tum spiritus nobis 
+      <lb ed="#H" n="170"/>a Deo data. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3578">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Ejus vires sunt duae: apprehensiva &amp; motiva. 
+      <lb ed="#H" n="172"/>Vis apprehensiva potentiae sensitivae complectitur sensus tum 
+      ex<lb ed="#H" n="173" break="no"/>ternos, ut sunt, visus auditus, odoratus gustus &amp; tactus; tum internos 
+      <lb ed="#H" n="174"/>ut sunt, sensus communis, phantasia seu imaginatio, &amp; memoria; 
+      ab<lb ed="#H" n="175" break="no"/>psa potentia sensitiva corpori infixos: nam vis visoria infixa est 
+      ocu<lb ed="#H" n="176" break="no"/>lis: auditoria, autibus &amp; sic consequenter 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3596">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Sensuum affectiones sunt vigilia &amp; somnus &amp; somnium 
+      <lb ed="#H" n="178"/>Somnia vel physica sunt vel hyperphysica. Somnia hyperphysica 
+      ve<lb ed="#H" n="179" break="no"/>δειπεμωζα sunt vel δανμοιοηεμαζα De somniis diuvinitus immissis vide 
+      <lb ed="#H" n="180"/>Commentarium nostrum in Danielis caput secundum: de utrisque 
+      Ca<lb ed="#H" n="181" break="no"/>spari Peuceri Commentarium de divinationibus 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3613">
+               <lb ed="#H" n="182"/>
+               <pc type="indent"/>Vis motiva potentiae sensitivae triplex est: vitalis, imperans &amp; 
+      <lb ed="#H" n="183"/>prosequens. 
+      <!--cod-MkL9py-0352.xml-->
+      <pb ed="#H" n="325"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Vitals vis quam Baturalem alii vocant, in pulsatricem &amp; 
+      respira<lb ed="#H" n="2" break="no"/>tricem nistinguitur? 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3633">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Affectuum cordi; vis magna est: De laetitia &amp; tristitia Prov. 15. 13. 
+      <lb ed="#H" n="4"/>dicitur: Cor laeiu bene afficit vultum: &amp; tristitia corde speritus 
+      frangi<lb ed="#H" n="5" break="no"/>tur. Et cap. 17. v. 22. Animus laetu bene medicinam facit, spiritus 
+      au<lb ed="#H" n="6" break="no"/>tem tristis exsiccat ossa. Mutua est animi &amp; corporis συμπαδεια, 
+      mu<lb ed="#H" n="7" break="no"/>tuus consensus. Nam ubi laetus est animus, consequitur bona 
+      corpo<lb ed="#H" n="8" break="no"/>ris habitudo, quam δυεζιαν Graeci vocant: &amp; contra ubi est bona 
+      cor<lb ed="#H" n="9" break="no"/>poris habitudo, ibi laetus est animus. Vix laetus vultus esse potest, ub 
+      <lb ed="#H" n="10"/>moestus animus. Moestitia cordis frangitur spiritus: id est, ubi moeret. 
+      <lb ed="#H" n="11"/>cor, tota anima hominis veluti fracta &amp; dejecta est, totus homo 
+      con<lb ed="#H" n="12" break="no"/>turbatus &amp; afflictus: moeror animi omnes partes animae &amp; totum 
+      <lb ed="#H" n="13"/>conturbat ac dejicit hominem: tristitia etiam ossa in quibus 
+      consoli<lb ed="#H" n="14" break="no"/>datio corporis sita est, medulla &amp; succo innatis exhauri  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3664">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Vis motiva imperans est duplex, appetitus sensitivus &amp; affectus 
+      <lb ed="#H" n="16"/>Appetitus sensitivi duae sunt partes, ἐπιουμητικη &amp; θυμοιδης, 
+      appeti<lb ed="#H" n="17" break="no"/>toria seu concupiscibilis, &amp; irascibilis 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3675">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Affectus cordis est motus appetitus sensitivi a notitia boni aut 
+      mali<lb ed="#H" n="19" break="no"/>excitatus ad bonum prosequendum aut malum fugiendum 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3684">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Affectuum omnium duo sunt capita: uoluptas &amp; dolor 
+      <lb ed="#H" n="21"/>Vis motiva prosequens, quae &amp; locomotiva dicitur, est vis potentiae 
+      <lb ed="#H" n="22"/>sensitivae per totum dispersa corpus, quam homo aut toto corpore 
+      au<lb ed="#H" n="23" break="no"/>aliquo corporis membro loco moveri potest. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3697">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>De potentiae sensitivae viribus multa in Scripturis Saeris occurrumt 
+      <lb ed="#H" n="25"/>Nam illarum autor Deus est; unde Psal. 94 plantator auris &amp; 
+      for<lb ed="#H" n="26" break="no"/>mator ocule dicitur. Pro v. 20. 12. Aurem audientem &amp; oculum viden 
+      <lb ed="#H" n="27"/>tem, Iehova fecit aeque utrumque id est, sonsus homini indidit Deus. 
+      <lb ed="#H" n="28"/>Actor. 17. 28. In ipso vivimus, movemur &amp; sumus. Lactantius libro 
+      <lb ed="#H" n="29"/>de Opificio Dei, capite decimo nono ait: Dei munus est quod 
+      spira<lb ed="#H" n="30" break="no"/>mus, quod vivimus, quod vigemus. Ita sensus nostri animos ad Deum 
+      <lb ed="#H" n="31"/>attollunt, ut eum autorem recognoscamus ipsorum etiam sensuum 
+      <lb ed="#H" n="32"/>nostrorum. Quod ergo videmus, quod audimus; quodque aliis 
+      sen<lb ed="#H" n="33" break="no"/>sibus integris recre utimur, Deo acceptum feramus, eique gratias 
+      <lb ed="#H" n="34"/>agamus &amp; vota offeramus opo-tet, ut deinceps quoque sanos 
+      sen<lb ed="#H" n="35" break="no"/>sus nobis tribuat &amp; conservet. Quod si vires potentiae sensitivae vitie 
+      <lb ed="#H" n="36"/>aliquo deptavatae sint aut imminutae. aut abolitae, sanationem &amp; 
+      re<lb ed="#H" n="37" break="no"/>stitutionem a Deo petere necesse est: idem sanat &amp; restituit, qui 
+      ini<lb ed="#H" n="38" break="no"/>tio dedit. Unde Christus mitaculose visum &amp; auditum, tactum, 
+      lo<lb ed="#H" n="39" break="no"/>comotivam multis reddens, verum sese esse natura Deum probavit.  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3737">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Finis &amp; usus sensuum exteriorum est eximius. Serviunt enim tam 
+      <lb ed="#H" n="41"/>quam media a Deo ordinata tum cognitioni rerum; Nam 
+      cognitio<lb ed="#H" n="42" break="no"/>duplex est: una per sensum, altera per intellectum; &amp; si sensus aliquit  
+      <lb ed="#H" n="43"/>dent, aliquam etiam cognitionem per sensum deesse necesse est: tum 
+      <lb ed="#H" n="44"/>animali vitae fovendae &amp; conservandae, rerumque carum quarum i1 
+      <lb ed="#H" n="45"/>vita usus est tum perceptioni tum applicationi, tanquam custodes 
+      <lb ed="#H" n="46"/>corporis. Unde serviunt sensus etiam ad cognitionem &amp; cultum 
+      <lb ed="#H" n="47"/>Dei: sicut dicitur Psa. 8. v. 4, 5. Quum respicio caelos tuos, opus digitos 
+      <lb ed="#H" n="48"/>rum tuorum, Lunam &amp; stellas quas statuisti: (Tum cogito apud 
+      me<lb ed="#H" n="49" break="no"/>Quid est mortalis, quod memor sis eiust aut filius hominis, quod visites 
+      <lb ed="#H" n="50"/>lum: Exod. 14. v. 39, 31. ita servavit Iehova in die illo Israelitas e manu 
+      <lb ed="#H" n="51"/>AEgyptiorum: videruntque Israelitae AEgyptios morietes, in littore maris. Qui  
+      <lb ed="#H" n="52"/>aute vidissent Israelitae opus illud maximum, quod edidit Iehova contra 
+      <lb ed="#H" n="53"/>AEguptios, timuerunt populus ipse Iehova, credideruntque Iehovae &amp; Mos. 
+      <lb ed="#H" n="54"/>servo aius. Joh. 2. v. 23. multi crediderat in nomen Christi spectantes signa 
+      <lb ed="#H" n="55"/>quae edebut. Rom. 1. v. 20. Ipsius enim invisibilia, jam inde a condite 
+      <lb ed="#H" n="56"/>mundo ex iis quae fecit mente perpensa pervidentur, aeterna videlicet eius 
+      <lb ed="#H" n="57"/>tum potentia, tum diuvinitas: ad hoc ut sint inexcusabiles. Matth. 11. 
+      <lb ed="#H" n="58"/>4. dixit Jesus discipulis Johannis, Ite &amp; renunciate Iohanni quae 
+      au<lb ed="#H" n="59" break="no"/>ditis &amp; videtis. Luc. 24. 39. Videte manus meus &amp; pedes meos: Nam 
+      <lb ed="#H" n="60"/>ego ipse sum: contrectate me &amp; videte: Nam spiritus carnem &amp; essa 
+      <lb ed="#H" n="61"/>non habet, sicut me conspicitis habere. 1. Joh. 1. v. 1, 2, 3. Quod erat a 
+      <lb ed="#H" n="62"/>principio, quod audivimus, quod vidimus oculis nostris, quod 
+      spectavi<lb ed="#H" n="63" break="no"/>mus, &amp; manas nostrae contrectarunt de Sermone illo vitae: (Nam vita 
+      <lb ed="#H" n="64"/>illa conspicua facta est: &amp; illam vidimus, &amp; testamur, &amp; annuncia. 
+      <lb ed="#H" n="65"/>mus vobis vitam illam aternam, quae erat apud Patrem, &amp; conspicus 
+      <lb ed="#H" n="66"/>facta est nobist) Quod, inquam, vidimus, &amp; audivimus, id 
+      annuncia<lb ed="#H" n="67" break="no"/>mus vobis, &amp;c. Deut. 6. 4. Audi Israel: Iehova Deus noster, Iehova 
+      <lb ed="#H" n="68"/>unus est. Job 12. 11. An non auris verba probabit, ut palatum cibs 
+      <lb ed="#H" n="69"/>gestum assumit sibi? Act. 17. v. 27. Vt quaererent Dominum, si forto 
+      <lb ed="#H" n="70"/>palpando eum in venirent. Sic omnes in homine vires, externae &amp; 
+      in<lb ed="#H" n="71" break="no"/>ternae dulci harmonia conspirantes eo enituntur, ut homines Deum 
+      <lb ed="#H" n="72"/>ex operibus &amp; beneficiis ejus agnitum, toto pectore diligant. 
+      Qua<lb ed="#H" n="73" break="no"/>propter etiam sensibus externis exploratio objectorum, quae in illos 
+      <lb ed="#H" n="74"/>incurtent, non est deroganda, &amp; qui id faciunt, ingrati &amp; injurii sunt,  
+      <lb ed="#H" n="75"/>in Deum, autorem dexteritatis in apprehendendis &amp; explorandis 
+      re<lb ed="#H" n="76" break="no"/>bus per sensus externos Certe δοκιμασία per externos sensus a 
+      Chri<lb ed="#H" n="77" break="no"/>sto ipso approbatur, cum caeco visum restitueret Marc. 8. 23. &amp; seqe 
+      <lb ed="#H" n="78"/>imo &amp; mandatur, ut Luc. 24. 39. &amp; Jes. 40. 26. Attodlite in sublim, 
+      <lb ed="#H" n="79"/>ocuios vestros, &amp; videte quis creaverit ista; 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3828">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Diversitas &amp; distinctio sensuu admonet nos de diversitate &amp; 
+      distin<lb ed="#H" n="81" break="no"/>ctione membrorum Ecclesiae, quae sine illa salva perdurare non potest, 
+      <lb ed="#H" n="82"/>sicut Paulus ait 1. Cor. 12. 17. Si totum corpus ocatus, nhi auditus? 
+      sito<lb ed="#H" n="83" break="no"/>tum auditus, ubi odoratus? Ita etiam membrorum Ecclesiae 
+      inaequa<lb ed="#H" n="84" break="no"/>lit: tem Deus temperavit, tribuens aliis alias functiones, quas in 
+      com<lb ed="#H" n="85" break="no"/>munem usum totius corporis conferre debent 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3846">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Adhaec ut sensus indicant veritatem vitae: ita defectus sensuum 
+      osten<lb ed="#H" n="87" break="no"/>dit idolorum vanitatem, sicut dicitur de idolis, Psal. 115. v. 4, 5, 6, 7. 
+      <lb ed="#H" n="88"/>Te riculis illarum argeni eis &amp; aureis, operi manuum humanarum, Os est 
+      <lb ed="#H" n="89"/>eis, sed non loquuntur; oculi sunt eis, sed non vident: Aures sunt eis, sed  
+      <lb ed="#H" n="90"/>non audiunt: Nasas est eis, sed non odorantur; Manus sunt eis, sed non 
+      <lb ed="#H" n="91"/>palpant. pedes sunt eis, sed non ambulant, non mutiunt gutture suo 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3864">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>Praeterea mutatio seu depravatio, imminutio &amp; abolitio sensuu de 
+      <!--cod-MkL9py-0352.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>instabilitate &amp; vanitat. Virae hisuc nos admonesa ut Dei semper re 
+      <lb ed="#H" n="94"/>cordemur prout decet: Quo pertinet quod figitur Ecc. esiestae 13 
+      <lb ed="#H" n="95"/>1. 1, 2 3. Recordare Creatoru tui die, us juventutis tuae; tantisper dum 
+      <lb ed="#H" n="96"/>non ad veniunt dies ipsius mali &amp; pertingunt anni, quibus dicas; non 
+      <lb ed="#H" n="97"/>eci,ihi in istis delectatio: Tant sper dum non obtenebrescit Sol &amp; lux; 
+      <lb ed="#H" n="98"/>Tunaq ac stelle: neque recurrunt dinsa nubes post pluviam: Quo 
+      tempo<lb ed="#H" n="99" break="no"/>re commorobuntur cust:des clii domus, &amp; pervertent sese valentes 
+      robo<lb ed="#H" n="100" break="no"/>re; &amp; inter nittent molitrices illa quum mandent, &amp; obtenebrescent 
+      <lb ed="#H" n="101"/>illi, qui spectant per speculas. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3895">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Tantum de potentia sensitiva. 
+      <lb ed="#H" n="103"/>Potentia intellectiva animae humanae, est suprema animae humana; 
+      <lb ed="#H" n="104"/>facultas rationem complectens, quam homo proprie est homo &amp; ab 
+      <lb ed="#H" n="105"/>aliis animalibus distinguitur Vocatur etiam in facris literis runs meni 
+      <lb ed="#H" n="106"/>Rom. 7. 25. &amp; 12. 1. πεῇμα, id est, spiritus, oo substantiam 
+      incor<lb ed="#H" n="107" break="no"/>poream &amp; spiritualem. I. Thess. 5. 23. Heb. 4. 13. Dicitur a Platone 
+      <lb ed="#H" n="108"/>&amp; ἡγιμονικον. Quanquam nae appellationes interdum proprie, 
+      inter<lb ed="#H" n="109" break="no"/>dum figurate accipiantur. Nos enim, exempli gratia, interdum 
+      signi<lb ed="#H" n="110" break="no"/>ficat universum &amp; λαγκον, id est &amp; δναγοηλτιτον &amp; θελητκον, veluti Rom. 
+      <lb ed="#H" n="111"/>7. 25. τῶ μξυ νοι δελόυ γόμῳ θεό, mente quidem servio legi Dei. Et cap. 
+      <lb ed="#H" n="112"/>12. 2. transformate vis per r: novationem φ νοός ημῶν, mentis vestrae 
+      <lb ed="#H" n="113"/>interdum synecdochice, intellectum, ut Phil 4. v. 7. pax illa quae exsus 
+      <lb ed="#H" n="114"/>perat τανζα νον, omnem intellectum; Apot. 13. v. 18. δ ἔχον τὸν νον, ψ
+      n<lb ed="#H" n="115" break="no"/>φισάτο τον δξιδμον γθεριν, qui habet intellectum, supputet numeris bestiae 
+      <lb ed="#H" n="116"/>Interdum metonymice significat sermonem, quem audientes assequi 
+      <lb ed="#H" n="117"/>intelligentia seu intelligere possint, ut 1. Cor. 14 v. 15. πξεσσυζομα, 
+      <lb ed="#H" n="118"/>γοi, precabor autem &amp; mente seu intelligentia: ψαλῶι κι τῶ τοι, psal. 
+      <lb ed="#H" n="119"/>lam vero etiam mente seu intelligentia, id est, sermone qui ab audien: 
+      <lb ed="#H" n="120"/>tibus intelligi possit.  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3941">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>Mentis facultates essentiales duae sunt: intellectus &amp; volsitas hominis. 
+      <lb ed="#H" n="122"/>Intellectus hominis, est essentialis facultas mentis humanae, res 
+      in<lb ed="#H" n="123" break="no"/>telligibiles cognoscens, intelligens &amp; dijudicans, atque actum reflexum: 
+      <lb ed="#H" n="124"/>habens, id est, suam ipsius actionem cognoscens &amp; judicans, toti 
+      ho<lb ed="#H" n="125" break="no"/>mini regendo &amp; moderando inservies, &amp; ideo in anima rationali 
+      col<lb ed="#H" n="126" break="no"/>ocata, ut sit tanquam auriga in curru. Synecdochice nominatur 
+      ratio<lb ed="#H" n="127" break="no"/>hominis. Actio ejus est intelligete; quam a fidelibus Deus requirit,  
+      <lb ed="#H" n="128"/>Psal. 2. v. 10. Math. 3. 51 Objectum ejus est Ens intelligibile, quam 
+      <lb ed="#H" n="129"/>late paret, singulare &amp; universal 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3966">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>Estque intellectus re unus, sed e modo &amp; facultate intelligendi 
+      <lb ed="#H" n="131"/>duplex, patiens &amp; agens 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3975">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>Intellectus patiens, est qui suapte natura capax est rerum intelligi 
+      <lb ed="#H" n="133"/>bilium omnium &amp; earum formas in se recipit. Vocatur etiam 
+      intude<lb ed="#H" n="134" break="no"/>ctus materialis possibilis, potentialis, passivus. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3986">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>Intellectus agens, est qui res potentia intelligibiles ut actu intelli 
+      <lb ed="#H" n="136"/>gantur efficit. Dicitur &amp; intellectus activus 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e3995">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Ex fine etiam duplex est, theoricus &amp; practicus 
+      <lb ed="#H" n="138"/>Intellectus theoricus seu speculativus, est qui solam rerum 
+      contempla<lb ed="#H" n="139" break="no"/>tione contentus tantum intelligit &amp; ratiocinatur propter cognitione, 
+      <lb ed="#H" n="140"/>videlicet ut res recte cognoscat, quid nimirum sit verum, quid falsum; 
+      <lb ed="#H" n="141"/>Unde eius finis est tantum scire. Ratio hominis theorica seu 
+      speculati<lb ed="#H" n="142" break="no"/>va appellatur Synecdochice¬ 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4013">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Intelectus practicus, est qui intelligit &amp; ratiocinatur propter opus, 
+      <lb ed="#H" n="144"/>ut nimirum agat &amp; efficiat id, quod bonum esse intelligit. Hi enim in 
+      <lb ed="#H" n="145"/>ebus agendis vim suam exercet consultando, deliberando de 
+      expe<lb ed="#H" n="146" break="no"/>tendis aut fugiendis iis: Unde ejus finis est agere. Ratio hominis 
+      prae<lb ed="#H" n="147" break="no"/>tica nuncupatur Synecdochice. Ita intellectus practici proprius actus 
+      <lb ed="#H" n="148"/>est precari Deum, gratias agere Deo 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4031">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>Theoricus intellectus verum &amp; falsum pro objecto habet: 
+      practi<lb ed="#H" n="150" break="no"/>cus intellectus in consideratione omnium particularium actionum 
+      <lb ed="#H" n="151"/>occupatur, bonae ne sint an malae 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4043">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Ex actionibus seu operationibus intellectus est vel simplex, vel 
+      <lb ed="#H" n="153"/>compositus. Simplex, qui simplices rerum singularum species, imagines 
+      <lb ed="#H" n="154"/>&amp; notiones apprehendit &amp; cognoscit: Compositus, qui res plures 
+      con<lb ed="#H" n="155" break="no"/>junctas colligit. Compositus intellectus vel noiticus est, vel 
+      dianoeti<lb ed="#H" n="156" break="no"/>cus. Noeticus, est qui res simplices disponit, eas partim 
+      componendo<lb ed="#H" n="157" break="no"/>partim dividendo: unde veritatis &amp; falsitatis judicium consequitur  
+      <lb ed="#H" n="158"/>Dianoeticus, est qui ab uno ad aliud ex collatione diversarum 
+      rerum<lb ed="#H" n="159" break="no"/>discurrit vel ratiocinando vel ordinando plura certa methodo: unde 
+      <lb ed="#H" n="160"/>discurius tum ratiocinativus est in Syllogismo, tum ordinativus in 
+      <lb ed="#H" n="161"/>Methodo 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4069">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Porro intellectui hominis a Deo ipso insita est recta ratio &amp; 
+      con<lb ed="#H" n="163" break="no"/>cientia. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4078">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>RECTA RATIO hominis, est vera notitia voluntatis &amp; operum 
+      <lb ed="#H" n="165"/>Dei, ut &amp; ordinis judiciique divini, a Deo menti humanae inscripta, quae 
+      <lb ed="#H" n="166"/>magis magisque accenditur &amp; illustratur, tum opificii &amp; 
+      providen<lb ed="#H" n="167" break="no"/>tiae Dei contemplatione, tum exercitio virtutum intellectualium &amp; 
+      <lb ed="#H" n="168"/>moralium, ut homini inserviat &amp; in censura creaturarum operumque 
+      <lb ed="#H" n="169"/>Dei, &amp; in officiis Ecclesiasticis, Politicis, Oeconomicis Ethicis. A 
+      <lb ed="#H" n="170"/>Paulo vocatur natura, Rom. 2. v. 14 Gentes natura, id est, ex dictami 
+      <lb ed="#H" n="171"/>ne rectae rationis, quae legis sunt faciunt, &amp; 1. Corinth. 11. versio. 
+      <lb ed="#H" n="172"/>14. 15. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4102">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Autor rectae rationis in mente hominis, est λόγος ille aeternus, id est; 
+      <lb ed="#H" n="174"/>Filius Dei, ut testatur Johannes Evangelista cap. 1. vers. 9. Hic 
+      Sermo<lb ed="#H" n="175" break="no"/>aeternus erat Lux illa vera quae illuminat omnem hominem venientem 
+      <lb ed="#H" n="176"/>in hunc mandum. His enim verbis necessario rationis ac sapientiae 
+      ha<lb ed="#H" n="177" break="no"/>manae largitorem Filium ostendit, ut optime interpretatur Cyrillus 
+      <lb ed="#H" n="178"/>libro primo I1 Jhannem, capite septimo: Ubi mox addit; Vita erat 
+      <lb ed="#H" n="179"/>ux hominum: Ita qui universa vivificat Dei Filius, qui in omnibus 
+      <lb ed="#H" n="180"/>vita est, hic ipse rationale quoque illuminat animal 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4124">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>Sorma ac norma ejus sunt principia naturalia, quae sunt, 
+      definito<lb ed="#H" n="182" break="no"/>re Philippo Melanchthone, notitiae a Deo naturae mentis humanae 
+      <lb ed="#H" n="183"/>insitae, veluti radii lucis &amp; sapientiae divinae, ut sint testimonia de Deo. 
+      <lb ed="#H" n="184"/>&amp; ejus voluntate, &amp; discernant nos a bestiis, &amp; regant vitam &amp; gig¬ 
+      <!--cod-MkL9py-0353.xml-->
+      <pb ed="#H" n="326"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>nant honestas artes, scientias ac disciplinas, quarum usus in vita 
+      ne<lb ed="#H" n="2" break="no"/>cessarius est. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4148">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Principia naturalia sunt duplicia, theorica &amp; practica. 
+      <lb ed="#H" n="4"/>Principia theorica seu speculabilia, sunt fontes praeceptorum in 
+      ar<lb ed="#H" n="5" break="no"/>tibus &amp; scientiis ad cognitionem rerum. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4160">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Princ pia practica, moderantur mores &amp; officia hominum. qui  
+      <lb ed="#H" n="7"/>discernunt justa &amp; injusta, honesta &amp; inhonesta, aequa &amp; iniqua, ut 
+      <lb ed="#H" n="8"/>congruant voluntates &amp; actiones nostrae cum voluntate Dei. Horum 
+      <lb ed="#H" n="9"/>principiorum veluti λείψανα quaedam occurrunt passim in scriptia 
+      <lb ed="#H" n="10"/>etiam Gentilium, ut Homeri, Platonis, Aristotelis, Isocratis, Hesio 
+      <lb ed="#H" n="11"/>di, Phocylidis, Theognidis &amp; aliorum. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4178">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Finales causae principiorum in ipsa definitione expressae, sunt 
+      dili<lb ed="#H" n="13" break="no"/>genter notandae. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4187">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Rectae rationis in homine finis supremus est gloria Dei: subordi 
+      <lb ed="#H" n="15"/>nati fines sunt: I. Ut serviat cognitioni &amp; dijudicationi rerum &amp; 
+      actio<lb ed="#H" n="16" break="no"/>num, ut videre est 1. Cor 103 v. 15. Ut intelligentibus loquor, iudicat.  
+      <lb ed="#H" n="17"/>vos quod aio. Et cap. 11. v. 13, 14, 15. Apud vos ipsos iudicate, num 
+      de<lb ed="#H" n="18" break="no"/>corum est, mulierem non opertam, Deum orare? An ne natura quidem 
+      <lb ed="#H" n="19"/>ipsa hoc vos docet, quod viro quidem comatum esse dedecori sit: Contra 
+      <lb ed="#H" n="20"/>mulierem comatam esse decori sit? nam coma pro velamine data est ei. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4207">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>II. Ut serviat gubernationi vitae &amp; actionum ejus. 
+      <lb ed="#H" n="22"/>III. Ut convincat omnes in cordibus ipsorum, quod sit Deus &amp; 
+      <lb ed="#H" n="23"/>qualis sit. 
+      <lb ed="#H" n="24"/>IV. Ut reprobos reddat inexcusabiles coram tribunali Dei, 
+      Ro<lb ed="#H" n="25" break="no"/>man.1 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4223">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>Porro rectae rationis usus non tantum in rebus humanis, sed etiam 
+      <lb ed="#H" n="27"/>in divinis Deo placet, adeo quidem ut seductores vituperet Deus, 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4232">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>quod veluti animantia rationis expertia, quae naturali impetu 
+      ferun<lb ed="#H" n="29" break="no"/>tur, ea vituperent quae ignorant, 2. Pet. 3. 12. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4242">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>Cum recta ratione pugnant abusus ejus &amp; quae fueosam speciem 
+      <lb ed="#H" n="31"/>solummodo veri bonique habent, &amp; manifeste absurda. Ipsa vero 
+      <lb ed="#H" n="32"/>recta ratio non pugnat cum fide: quia recta ratio est donum Dei, 
+      do<lb ed="#H" n="33" break="no"/>na autem Dei inter se non pugnant. Imo rationi rectae nihil est 
+      ab<lb ed="#H" n="34" break="no"/>surdum, quod non &amp; fidei sit absurdum. Aliud est depravata &amp; 
+      corru<lb ed="#H" n="35" break="no"/>pta ratio, quae discernenda est a recta &amp; sana ratione 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4260">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Haec sufficiant de recta ratione. 
+      <lb ed="#H" n="37"/>CONSCIENTIA, est certa voluntatis divinae &amp; actionum 
+      secun<lb ed="#H" n="38" break="no"/>dum vel contra illam factarum notitia, menti indelebil ter insita, 
+      a<lb ed="#H" n="39" break="no"/>ctiones bonas approbans, malas improhans. Nam sicuti quum 
+      men<lb ed="#H" n="40" break="no"/>te intelligentiaque homines apprehendunt rerum notitiam, ex eo 
+      di<lb ed="#H" n="41" break="no"/>cuntur scire, unde &amp; scientiae nomen ducitur: ita quum sensum 
+      ha<lb ed="#H" n="42" break="no"/>bent divini judicii, quasi sibi adjunctum testem, qui actiones fuas eos 
+      <lb ed="#H" n="43"/>occultare non sinit coram judicis Dei tribunali, sensus ille &amp; notitia 
+      <lb ed="#H" n="44"/>proprii intellectus vocatur conscientia. Unde proverbium vetus: 
+      <lb ed="#H" n="45"/>Conscientia mille testes. De conscientia Scripturae Sacrae frequente, 
+      <lb ed="#H" n="46"/>tractant, veluti Act. 23. 1. &amp; cap. 24. 16. Rom. 2. v. 15. &amp; 13. 5. item: 
+      <lb ed="#H" n="47"/>I. Cor. 8. 7. &amp; passim. Vide Anatomiam sacram humanae conscientia 
+      a<lb ed="#H" n="48" break="no"/>Guilielmo Perbinsio Anglo Theologo eximio conscriptam: 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4293">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>Haec de intellectu hominis. 
+      <lb ed="#H" n="50"/>VOLUNTAS hominis est essentialis facultas mentis humanae, 
+      li<lb ed="#H" n="51" break="no"/>bere agens monstrato objecto ab intellectu. Vocatur etiam 
+      appeti<lb ed="#H" n="52" break="no"/>tus rationalis, ut distinguatur ab appetitu sensitivo. Actiones ejus 
+      <lb ed="#H" n="53"/>sunt velle &amp; nollt: medium, suspendere seiu differre actionem. Voluntas 
+      <lb ed="#H" n="54"/>igitur humana fons est omnium actionum humanarum, 
+      Ecclesiasti<lb ed="#H" n="55" break="no"/>carum, Civilium, Oeconomicarum, Ethicarum 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4313">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Actus voluntatis humanae duplex est; elicitus &amp; imperatus 
+      <lb ed="#H" n="57"/>Actus uoluntatis humanae elicitus, est qui proprie &amp; immediate 
+      ab<lb ed="#H" n="58" break="no"/>ipsa voluntate productus est: ut velle, seu appetere, &amp; nolle; eligere, 
+      re<lb ed="#H" n="59" break="no"/>spuere, amare, desiderare, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4326">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>Actio voluntatis elicita vel interna est vel externa. Interna vel Sυ¬ 
+      <lb ed="#H" n="61"/>λnσis est, vel πξοαιρεσιςς 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4335">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Bδλήσις, est actio voluntatis, citca fines per se notos vel bonos 
+      ve<lb ed="#H" n="63" break="no"/>malos naturaliter sine deliberatione versans. Qualis actio est, velle 
+      <lb ed="#H" n="64"/>appetere finem aliquem, intendere cogitationem in tem desideratam 
+      <lb ed="#H" n="65"/>ut eam habeat frui ea habita, velle sui conservationem; aversari 
+      pas<lb ed="#H" n="66" break="no"/>sionem, dolores, morte. Haec vocatur a quibusdam voluntas naturalis 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4352">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Hpoχιροσις, est actio voluntatis, versans circa media, cum delibera 
+      <lb ed="#H" n="68"/>tione quaenam eligenda, quaeve respuenda sunt, ad fines bonos 
+      con<lb ed="#H" n="69" break="no"/>sequendos, vel ad malos evitandos. Talis actio est electio, consilium, 
+      <lb ed="#H" n="70"/>consensus, usus. Primo enim eligimus media ad fine: secundo 
+      consul<lb ed="#H" n="71" break="no"/>tamus de illorum usu: terrio consentimus in conclusionam consultatio 
+      <lb ed="#H" n="72"/>nis: postremo utimur mediis. Haec dicitur a quibusdam voluntas 
+      ele<lb ed="#H" n="73" break="no"/>ectiva. 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4372">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Obiectum voluntatis est bonum in genere ab intellectu 
+      monstra<lb ed="#H" n="75" break="no"/>tum, &amp; contrarium malum, sive revera tale sit, sive opinione 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4381">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Actus uoluntatis humanae imperatus, est qui ab ipsa quidem 
+      volun<lb ed="#H" n="77" break="no"/>tate imperatur, sed ab aliis animae potentiis, nempe sensitiva &amp; intel 
+      <lb ed="#H" n="78"/>lectiva, &amp; membris corporis exsequutioni madatur. Tales actus sunt, 
+      <lb ed="#H" n="79"/>multi: nam voluntas imperat menti, ut attendat, ut cogitet, ut attente 
+      <lb ed="#H" n="80"/>consideret: imperat appetitui sensitivo, tam concupiscibili quam 
+      ira<lb ed="#H" n="81" break="no"/>scibili: imperat membris corporis, ut exequantur perficiantque hoc aut 
+      <lb ed="#H" n="82"/>illud, veluti linguae imperat, ut hoc loquatur: manibus ut percutiam 
+      <lb ed="#H" n="83"/>&amp;c. imo etiam ut velimus, nos nobis ipsis imperamus. Vegetativa 
+      po<lb ed="#H" n="84" break="no"/>tentia excipitur, cui voluntas imperate non potest: qui enim imperet 
+      <lb ed="#H" n="85"/>huic facoltati, ut generet, ut cibos concoquat, ut nutriat, ut dormire 
+      <lb ed="#H" n="86"/>faciat? nam hae actiones potentiae vegetativae sunt mere naturales 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4410">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Essentialis ac naturalis proprietas voluntatis est libertas a coactione 
+      <lb ed="#H" n="88"/>Haec libeitas a coactione est essentiae voluntatis insita in ipsa 
+      creatio<lb ed="#H" n="89" break="no"/>ne, ita ut haec sit natura voluntatis, ut se cogi non sustineat 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4421">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Nam voluntatem cogiposse, implicat centradictionem: fieret enim 
+      <!--cod-MkL9py-0353.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>ut voluntas respectu ejusdem &amp; secundum idem &amp; eodem tempore 
+      <lb ed="#H" n="92"/>esset volens &amp; nolens, si cogi posset, ut quod vult, simul etiam nolit; &amp; 
+      <lb ed="#H" n="93"/>quod non vult, simul etiam velit. Libertas non consistit in eo quod  
+      <lb ed="#H" n="94"/>quis possit tam malum quam bonum velle. Libertas haec a coactionis 
+      <lb ed="#H" n="95"/>est perpetua &amp; inamissibilis. A Bernatdo vocatur libertas a 
+      necessita<lb ed="#H" n="96" break="no"/>te: sed per necessitatem intelligit coactionem seu violentam 
+      impul<lb ed="#H" n="97" break="no"/>sionem cui resisti nequit  
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4447">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Unde etiam voluntas hominis vocatur a Theologis liberum 
+      arbi<lb ed="#H" n="99" break="no"/>trium 
+      </p>
+            <p xml:id="yyy8Uu-e53193-d1e4457">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Haec sufficiant de materia &amp; forma hominis, tanquam causis 
+      in<lb ed="#H" n="101" break="no"/>ternis &amp; essentialibus illius: unde sequitur duas esse partes hominis, 
+      <lb ed="#H" n="102"/>corpus &amp; animam rationalem. Illae traduntur primo Gen. 2. v. 7. 
+      Fin<lb ed="#H" n="103" break="no"/>xit vero Iehova Deus homine de pulvere terrae, sufflavitque in nares ipsius 
+      <lb ed="#H" n="104"/>halitum vitae: sic factus est homo anima vivens. Corpus e pulvere 
+      ter<lb ed="#H" n="105" break="no"/>rae productum est: anima a Deo inspirata est: Sic Matth. 10. v. 28. 
+      Ne<lb ed="#H" n="106" break="no"/>timete vobis ab iis qui trucidant corpus, animam autem non possunt 
+      tru<lb ed="#H" n="107" break="no"/>cidare: sed timete potius eum qui potest &amp; animam &amp; corpus perdere in 
+      <lb ed="#H" n="108"/>gehenna. Paulus Apostolus videtur tres partes constituere, corpus, 
+      ani<lb ed="#H" n="109" break="no"/>mam &amp; spiritum: Sic enim ait 1. Thess. 5. 23. Ipse Deus pacis 
+      sanctifi<lb ed="#H" n="110" break="no"/>cet vos totos: &amp; integer vester spiritus, &amp; anima, &amp; corpus, inculpate in 
+      <lb ed="#H" n="111"/>adventum Domini nostri Iesu Christi conserventur. Et Heb. 4. v. 12. 
+      <lb ed="#H" n="112"/>Sermo Dei pertingit usque ad divisionem animae simul ac spiritus. Sed 
+      ho<lb ed="#H" n="113" break="no"/>monymum est nomen animae: Animam enim vocat Paulus in his 
+      <lb ed="#H" n="114"/>dictis facultatem vegetativam, sentientem, locomotivam, ac proinde 
+      <lb ed="#H" n="115"/>φ θυμητικον κι ἐπιδυμητικον &amp; affectus cordis: Spiritum autem 
+      nomi<lb ed="#H" n="116" break="no"/>nat id quod nobilissimum est in homine, nempe mentem, quae 
+      ratio<lb ed="#H" n="117" break="no"/>nalis &amp; immortalis est. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

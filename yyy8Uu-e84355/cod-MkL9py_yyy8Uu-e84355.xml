@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 17</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 17</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="380"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e84355"> <!-- l6-c17 -->
+            <head xml:id="yyy8Uu-e84355-Hd1e109">Caput 17</head>
+            <p xml:id="yyy8Uu-e84355-d1e112">
+               <lb ed="#H" n="48"/>CAPUT XVII. 
+      <lb ed="#H" n="49"/>De Nativitate Christi ex Virgine
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e119">
+      Maria<lb ed="#H" n="50" break="no"/>ATIVITAS CHRISTI, est qua ex Virgine Matia Bethlehe 
+      <lb ed="#H" n="51"/>mi in lucem est editus, ut nos in ipso renasceremur ad vitam 
+      ae<lb ed="#H" n="52" break="no"/>I. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e128">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>ternam. Luc. 2. 4. Matt. 2. v. 1, 7. 
+      <lb ed="#H" n="54"/>Hic exponendum an Christus jam natus sit? ex qua matre? quomo, 
+      <lb ed="#H" n="55"/>do?qui nativitatis Christi fi ies? quae effecta? quae subjecta, id est, ubi &amp; 
+      <lb ed="#H" n="56"/>quibus natus sit? quae adjuncta, veluti quando natus sit? quali statur 
+      pe<lb ed="#H" n="57" break="no"/>quos &amp; quibus nativitas ejus annunciata? &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e145">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Christum seu Regem Mssiam jam natum esse &amp; in carnem venisse 
+      <lb ed="#H" n="59"/>constat contra Judaeos ex sequentibus argumentis: 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e154">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>I. Quia civitates, in quibus nasci, educari, habitare, &amp; sese 
+      patefa<lb ed="#H" n="61" break="no"/>cere debuit, jampvidem excisae sunt absque ulla spe instaurationis 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e163">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Bethlehemae debuit nasci, Micheae 5. 2. At tu Bethlehem 
+      Ephra<lb ed="#H" n="63" break="no"/>tae, minima ut sis in ducibus Iudae, ex te mihi prodibit futurus 
+      domina<lb ed="#H" n="64" break="no"/>tor in Israele. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e174">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Natzarethae debuit educari &amp; habitare, Jes. 11. v. 1. Prodibit virgus 
+      <lb ed="#H" n="66"/>lae trunto succiso Iischai, &amp; urculus (in Hebraeo est T) unde urbs 
+      <lb ed="#H" n="67"/>Natzaretha nomen habet Je radicibs ejus efflorescet. Et c. 60. 21. Et 
+      po<lb ed="#H" n="68" break="no"/>pulares tui quotquot erunt justi in saculum haereditario jure posside 
+      <lb ed="#H" n="69"/>bunt terram, ut jurculus plantarum ejus, opere manuum mearum 
+      glo<lb ed="#H" n="70" break="no"/>rietur. Zach 6. v. 12. Ecce virum, cujus nomen est GERMEN, qui e loco 
+      <lb ed="#H" n="71"/>suo geriminabit, &amp; aedificabit templum Iehova 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e194">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Debuit venire in illam urbem Jerosolymorum, quae a reditu 
+      po<lb ed="#H" n="73" break="no"/>puli ex captivitate Babylonica reaedificara fuit: Nam Eacharias illi 
+      <lb ed="#H" n="74"/>urbi quae tempore ipsius Prophetae iterum aedificabatur ad 
+      consola<lb ed="#H" n="75" break="no"/>tionem ejus praedixit Zach. 9. 9. Exulta vade filia Tzuonis, clangi 
+      <lb ed="#H" n="76"/>silia Ierosolymorum, Ecce Rex tuus adveniet tibi, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e210">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Debuit venire stante secundo templo, quia secundi templi 
+      glori<lb ed="#H" n="78" break="no"/>major debuit esse quam primi, idque ob praesentiam Messiae in illo, qui  
+      <lb ed="#H" n="79"/>in illo docere debuit: Stante secundo templo debuerunt electi ex 
+      Ge<lb ed="#H" n="80" break="no"/>tibus omnib. venire ad Messiam cognoscendum: in secundo temple 
+      <lb ed="#H" n="81"/>pax debuit disponi, nempe inter electos ex Judaeis &amp; Gentibus 
+      omni<lb ed="#H" n="82" break="no"/>bus, Chagg. 2. 7. Et commoturus sum omnes gentes, ut veniant 
+      deside<lb ed="#H" n="83" break="no"/>rati omnium gentium: &amp; impleturus demum hanc gloria, ait Iehova 
+      <lb ed="#H" n="84"/>exercituum Et v. 9. Major futura est gloria domus hujus posterioris 
+      <lb ed="#H" n="85"/>quam illius prioris, ait Iehova exercituum: nam in loco hoc disponam 
+      <lb ed="#H" n="86"/>pacem, dictum Iehovae exercituum. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e237">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Stante illa urbe Jerosolymarum, quae ad precationem Danielis 
+      Pro<lb ed="#H" n="88" break="no"/>phetae reaedificata est &amp; a Romanis destruenda erat, debuit Christu 
+      <lb ed="#H" n="89"/>venire: Summa, Jerosolyma usque ad Messiae adventum stare debue. 
+      <!--cod-MkL9py-0407.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>rat, Dan 9. 24. usque ad finem: Zach. 9. v. 9. Et c. 14. v. 1, &amp; 2. Ecce die: 
+      <lb ed="#H" n="91"/>ventura est Iehovae; quum dividetur spolium tuum in medio tui. 
+      Re<lb ed="#H" n="92" break="no"/>cipiam enim omnes gentes contra Ieruschalaima ad bellum; &amp; capietu 
+      <lb ed="#H" n="93"/>civitas, diripienturque domus, &amp; fominae comprimentur; &amp; 
+      excun<lb ed="#H" n="94" break="no"/>te parte civitatis in deportationem, residuum populi non exscindetur a 
+      <lb ed="#H" n="95"/>civitate. 
+      <lb ed="#H" n="96"/>At Bethlehem, Natzareth, Jerusalem &amp; templum Jerosolymitant 
+      <lb ed="#H" n="97"/>non amplius exsistunt. Necesse est igitur Regem Messiam seu 
+      Chri<lb ed="#H" n="98" break="no"/>stum Dominum jam in carnem venisse &amp; natum esse. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e272">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>II. Quia jam est ablatum sceptrum Judae in terra Chanaan, 
+      abs<lb ed="#H" n="100" break="no"/>que ulla spe restitutionis, Gen. 49. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e281">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>III. Quia debuit venire Messias destructo quarto regno 
+      Da<lb ed="#H" n="102" break="no"/>nielis, Dan. 2. v. 44. Temporibus autem Regum istorum, suscitabit Deus 
+      <lb ed="#H" n="103"/>caeli regnum, quod in secula non destruetur, &amp; regnum ipsum populo 
+      a<lb ed="#H" n="104" break="no"/>lieno non relinquetur, comminuturum &amp; consumturum omnia illa 
+      re<lb ed="#H" n="105" break="no"/>gna, ipsum autem staturum in secula. At illud plane destructum est: 
+      <lb ed="#H" n="106"/>Pompejo Magno &amp; Caesare Augusto: illo quidem Seleucidis, hoc  
+      <lb ed="#H" n="107"/>vero Lagidis regnum adimente 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e301">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>IV. Quia oleum unctionis defecit, Dan. 9. v. 24. ungetur Sanctus 
+      <lb ed="#H" n="109"/>Sanctorum. Tamdiu enim Reges ungebantur apud Judaeos, donec 
+      <lb ed="#H" n="110"/>ingeretur Sanctus Sanctorum. 
+      <lb ed="#H" n="111"/>V. Quia sacrificia Leviticca sunt abrogata, Dan. 9 27. Cessabit. 
+      <lb ed="#H" n="112"/>satri ficium. Ad Regem vero Messiam dicitur Ps. 110. 4. Tues 
+      Sacer<lb ed="#H" n="113" break="no"/>los in aeternum secundum ordinem Melchisedech, non autem 
+      secun<lb ed="#H" n="114" break="no"/>dum ordinem Aarone 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e321">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>VI. Quia desiit Prophetia &amp; visio apud Judaeos: nulli amplius 
+      <lb ed="#H" n="116"/>Prophetae illis excitantur, neque visio illis revelatur, &amp; jure quidem 
+      <lb ed="#H" n="117"/>optimo. Adveniente enim eo qui designabatur, quid opus fuit rebus 
+      <lb ed="#H" n="118"/>significantibus: &amp; praesente veritate, quid amplius opus fuit umbrat 
+      <lb ed="#H" n="119"/>Nam ob hoc ipsum, &amp; eousque praevaticinabantur, donec summus ille 
+      <lb ed="#H" n="120"/>Propheta &amp; Doctor Catholicus Ecclesiae, &amp; ipsissima justitia &amp; is 
+      qui<lb ed="#H" n="121" break="no"/>omnium poccata redemturus erat, veniret 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e341">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>VII. Quia sublatum est discrimen tribuum Israeliticarum, quod 
+      <lb ed="#H" n="123"/>usque ad Messiam durare debuit, sicut propter ipsum conservari 
+      <lb ed="#H" n="124"/>Deus voluit, ut certum esset, ex qua tribu &amp; familia nasceretu 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e353">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>VIII. Quia omnes Gentes Mosi &amp; Praphetis credentes, Mese 
+      <lb ed="#H" n="126"/>siam jam venisse agnoscunt &amp; amplectuntur, secundum vaticinia 
+      Pro<lb ed="#H" n="127" break="no"/>hetarum, qui praedixerunt, nationes omnes in Messiam &amp; per eum 
+      <lb ed="#H" n="128"/>in Deum Abrahami, Isaaci &amp; Jacobi, relictis suis idolis, credituras 
+      <lb ed="#H" n="129"/>Plurima sunt de conversione Gentium ad verum Deum &amp; Messiam 
+      <lb ed="#H" n="130"/>ejus vaticinia Jam si Gentes alium colerent Deum, quam Deum 
+      A<lb ed="#H" n="131" break="no"/>brahami, Isaaci &amp; Jacobi, haberent Judaei causam tergiversandi: jam 
+      <lb ed="#H" n="132"/>vero nullam habent  
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e375">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>Quapropter Regem Messiam jam in carnem venisse cofirmant 
+      <lb ed="#H" n="134"/>plurinia, nimirum civitatum, in quibus concipi, nasci, educari &amp; 
+      do<lb ed="#H" n="135" break="no"/>cere debuit, ut &amp; templi Jerosolymitani destructio: politiae 
+      Judai<lb ed="#H" n="136" break="no"/>cae in terra promissa totalis abolitio: quarti regni Danielis eversio: 
+      <lb ed="#H" n="137"/>unctionis regalis cessatio: sacrificiorum Leviticorum abrogatio: 
+      Pro<lb ed="#H" n="138" break="no"/>phetiae &amp; visionis finis: Gentium omnium ad Deum Abranami, 
+      Isaa<lb ed="#H" n="139" break="no"/>ci &amp; Jacobi conversio¬ 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e395">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Sequitur ex qua matre natus sit. 
+      <lb ed="#H" n="141"/>Natus est ex immaculata Virgine nempe MARIA, oriunda 
+      ex<lb ed="#H" n="142" break="no"/>regia familia Davidis e tribu Juda: attamen ex virgine desponsa. 
+      <lb ed="#H" n="143"/>am viro. Illam debuisse Virginem esse, Jesaias Propheta 
+      praenun<lb ed="#H" n="144" break="no"/>ciavit cap. 7. v. 14. Ecce Virgo concipiet &amp; pariet Filium, &amp; vocabis 
+      no<lb ed="#H" n="145" break="no"/>men ejus Immunuelem. Virginem autem illam esse Mariam e tribi 
+      <lb ed="#H" n="146"/>uda &amp; Davidis familia docet Angelus Gabriel Luc. 1. v. 30, &amp; 
+      se<lb ed="#H" n="147" break="no"/>quentibus: Dixit ei Angelus, Ne time Maria; es enim in gratia apud 
+      <lb ed="#H" n="148"/>Deum. Et ecce concipies in utero, &amp; paries Filium, &amp; vocabis nomen eius 
+      <lb ed="#H" n="149"/>lesum. Hic erit magnus &amp; Filius Altissimi vocabitur, dabitque ei 
+      Domi<lb ed="#H" n="150" break="no"/>nus Deus sedem Davidis patris ipsius. Regnabitque in domo Iacobi in 
+      ae<lb ed="#H" n="151" break="no"/>ternum, &amp; regni eius non erit finis. Idem docet Matthaeus Evangelistat 
+      <lb ed="#H" n="152"/>Angelum qui Josepho, cogitanti clam divortium a Maria facere, eo 
+      <lb ed="#H" n="153"/>quod praegnans esset, in somnio apparuit, dixisse: Iosephe, fili D.i 
+      <lb ed="#H" n="154"/>ne metue accipere Marium uxorem tuam. Nam quod in ea genituri: est 
+      <lb ed="#H" n="155"/>ex Spiritu Sancto est, Pariet autem Filium &amp; vocabis nomen eius 
+      Ie<lb ed="#H" n="156" break="no"/>sum. Ipse enim liberabit populum suum ex peccatis ipsorum: Subjunxit.  
+      <lb ed="#H" n="157"/>Totum hoc factum esse, ut impleretur quod ait Dominus per 
+      Pro<lb ed="#H" n="158" break="no"/>phetam, Ecce, virgo illa praegnans erit, &amp; pariet filium, &amp; vocabis 
+      no<lb ed="#H" n="159" break="no"/>men eius Emmanuelem, quod est, si interpreteris, Nobiscum Deus, Mat 
+      <lb ed="#H" n="160"/>I. v. 20. &amp; seqq. Ex illa Virgine Maria Christum natum esse, testatur 
+      <lb ed="#H" n="161"/>&amp; Lucas cap. 2. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e447">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Quod autem Genes. 3. v. 15. Christus vocatur semen mulieris, &amp; 
+      <lb ed="#H" n="163"/>Gal. 4. vers. 4. Paulus dicit, Christum natum ex muliere; &amp; 
+      Chri<lb ed="#H" n="164" break="no"/>stus ipse matrem suam appellat mulierem: ex eo non sequitur, illum 
+      <lb ed="#H" n="165"/>non esse natum ex virgine. Illa enim vocatur mulier, non ut 
+      op<lb ed="#H" n="166" break="no"/>onitur Virgini, fuit enim &amp; mansit Maria Virgo incorrupta: sed  
+      <lb ed="#H" n="167"/>rimo sexus ratione. Secundo, quia jam desponsa &amp; nupta fuit 
+      Jo<lb ed="#H" n="168" break="no"/>sepho: ex nupta autem nasci Christus debuit, quia in praedictione 
+      <lb ed="#H" n="169"/>Genes. 3. v. 15. seminis sit mentio, quod nisi plenis nubilis annis 
+      ha<lb ed="#H" n="170" break="no"/>bere non potest. Hinc dicitur Matth. 1. v. 18. Iesu Christi nativitas ita 
+      <lb ed="#H" n="171"/>fuit: Quum enim mater eius Maria desponsa esset Iosepho, priusquam  
+      <lb ed="#H" n="172"/>ipsi convenissent, comperta est praegnans esse e Spiritu Sancto. Et Gal. 4. 
+      <lb ed="#H" n="173"/>v. 4. Postquam venit plenitudo temporis, emisit Deus Filium suum 
+      fa<lb ed="#H" n="174" break="no"/>ctum ex muliere, factum Legi subjectum. Caeterum ex desponsa atqui 
+      <lb ed="#H" n="175"/>adeo ex nupta &amp; quae virum jam haberet matre nasci Christus 
+      vo<lb ed="#H" n="176" break="no"/>quit magnis de causis, quarum nonnullae respectu ipsiusmet Christ. 
+      <lb ed="#H" n="177"/>sunt, quaedam respectu Mariae, quaedam respectu nostri, quaedam res 
+      <lb ed="#H" n="178"/>spectu antiqui serpentis. Respectu ipsiusmet Christi sunt hae. 1. ne 
+      <lb ed="#H" n="179"/>tanquam illegitimus &amp; ex scortatione natus ab ullo hominum 
+      judi<lb ed="#H" n="180" break="no"/>caretur. 2. ut ipsius genealogia juxta Scripturarum Sanctarum consue¬ 
+      <!--cod-MkL9py-0408.xml-->
+      <pb ed="#H" n="381"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>tudinem, ex genere Josephi, qui ut Mariam desponsam sibi 
+      habe<lb ed="#H" n="2" break="no"/>bat, itm una cum ipsa ex familia Davidis erat, describeretur, &amp; sic eo 
+      <lb ed="#H" n="3"/>gneiex, etur ex quibus majoribus natus esset. 3. ut haberet in 
+      <lb ed="#H" n="4"/>sua infantia &amp; pueritia, fugiens in AEgyptum &amp; educandus Natzare. 
+      <lb ed="#H" n="5"/>thae a quo curaretur. Respectu Mariae sunt hae causae: 1. ut ejus 
+      fa<lb ed="#H" n="6" break="no"/>mae consuleretur, ne pro scorto haberetur. 2. ut ejus saluti consulere 
+      <lb ed="#H" n="7"/>tur, ne secundum legem Mosis, ut adultera lapidaretur. 3. ut virum 
+      <lb ed="#H" n="8"/>haberet, cujus pallio tegeretur, a quo defenderetur &amp; curaretur 
+      <lb ed="#H" n="9"/>cum Bethichemi pariens Filium, tum in AEgyptum cum filio infan 
+      <lb ed="#H" n="10"/>te fugiens. Respectu nostri haec causa est, ut nativitas ejus omnibus. 
+      <lb ed="#H" n="11"/>fidelibus tum in conjugio, tum extra conjugium viventibus solatio 
+      <lb ed="#H" n="12"/>esset. Respectu antiqui serpentis haec causa est. ut ei partus Christi 
+      ce<lb ed="#H" n="13" break="no"/>da retur, dum eum putat non de virgine, sed de uxore natum: quam 
+      <lb ed="#H" n="14"/>cansam Ignatius Martyr addit 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e530">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Natus est Christus matre paupercula &amp; fabro lignario 
+      despon<lb ed="#H" n="16" break="no"/>sata, ut in nobis omnem typhum carnalis nobilitatis extingueret. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e539">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>UOMODO ex Maria Virgine Christus natus sit, ostendit 
+      Lu<lb ed="#H" n="18" break="no"/>cas capite 2. v. 7. quum ait, PEPERIT Maria filium suum primogeni 
+      <lb ed="#H" n="19"/>tum, justa vaticinium, Jesa. 7. v. 14. Ecce Virgo illa concipiet &amp; PARI 
+      <lb ed="#H" n="20"/>ET Filium. Verbum PARIENDI&amp; in historia Lucae &amp; in vaticinic. 
+      <lb ed="#H" n="21"/>esaiae proprie accipiendum est, ita ut parere idem si quod foetum  
+      <lb ed="#H" n="22"/>ex utero aperto tanquam via ordinaria in lucem hanc edere. 
+      Nasc<lb ed="#H" n="23" break="no"/>enim ex muliere, non est eguedi ex umbilico aut ex capite, sed ex 
+      u<lb ed="#H" n="24" break="no"/>tero tanquam ordinaria via. Statuimus autem Christum ita natum 
+      <lb ed="#H" n="25"/>ex Maria Virgine, ut vulvam matris aperuerit; quod sequentia 
+      argu<lb ed="#H" n="26" break="no"/>menta ostendunt.  
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e566">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>I. Quia ipse est proprie primogenitus ille, qui vere primus &amp; 
+      so<lb ed="#H" n="28" break="no"/>lus vulvam matris suae nascendo aperiens, vere sanctus fuit 
+      DOMI<lb ed="#H" n="29" break="no"/>N0. Nam quod Exod. 13. vers. 2 praeceptum erat, Consecra mihi omne 
+      <lb ed="#H" n="30"/>primogenitum, quicquid aperit vulvam ullam apud Israelitas, 
+      ac<lb ed="#H" n="31" break="no"/>commodat aperte Lucas Evangelista ad Christum Dominum, cap.  
+      <lb ed="#H" n="32"/>2. 22, 23 quum ait: Et quum impleti fuissent dies purgationis ejus, 
+      secu<lb ed="#H" n="33" break="no"/>dum Legem Mosis, adduxerunt eum Ierosolymam, ut sisterent eum 
+      Do<lb ed="#H" n="34" break="no"/>mino: Prout scriptum est in Lege Domini, παν ἀρσεν δανσιόον μήτξαν, α¬ 
+      <lb ed="#H" n="35"/>γιον τῶ Rυριῳ κλκρησεταη, id est, Omnis masculus aduperiens vulvam, 
+      <lb ed="#H" n="36"/>sanctum Domino vocabitur. Quo ipso perspicue indicatur, Christum 
+      <lb ed="#H" n="37"/>nascentem matris suae vulvam aperuisse. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e595">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>II. Quia ejus mater Maria a sanguinis profluvio post partum 
+      <lb ed="#H" n="39"/>puerperis consueto purgata fuit; ut testatur Lucas Euangelista 
+      di<lb ed="#H" n="40" break="no"/>cens cap. 2. v. 22. Quum impleti fuissent dies purgationis ejus, αυms, ut 
+      <lb ed="#H" n="41"/>est in textu Graeco nempe Mariae. Quaecunque mater post partum 
+      <lb ed="#H" n="42"/>purgatur a profluvio sanguinis puerperis consueto, illius certe uterum 
+      <lb ed="#H" n="43"/>foetus aperuerit necesse est. Sanguis enim ille ex utero profluit in quo 
+      <lb ed="#H" n="44"/>infans jacuit. At Maria Christi mater post partum purgata fuit a 
+      pro<lb ed="#H" n="45" break="no"/>fluvio sanguinis puerperis consueto, teste Luca: Ergo Mariae matris 
+      <lb ed="#H" n="46"/>suae uterum Christus nascens aperuit. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e619">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Ad istud argumentum excipiunt quidam, majorem propositionem 
+      <lb ed="#H" n="48"/>veram esse de matre quae revera post partum purgata fuit, nempe quae cum 
+      <lb ed="#H" n="49"/>peccato conceperat prolem suam, ac proinde partu inquinata fuerat: de 
+      <lb ed="#H" n="50"/>Maria autem hoc non posse dici. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e632">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Sed major propontio universaliter vera est de omni puerpera 
+      <lb ed="#H" n="52"/>nam nec puerperis quae cum peccato conceperant, uterus aperitur 
+      <lb ed="#H" n="53"/>ob peccatum, sed ob foetum ex utero egredientem: alioquin si pri 
+      <lb ed="#H" n="54"/>mi parentes nostri integii mansissent, omnes homines clauso 
+      ma<lb ed="#H" n="55" break="no"/>terno utero nati fuissent aut nasci debuissent. Deinde, lex illa de 
+      sepa<lb ed="#H" n="56" break="no"/>ratione &amp; purificatione puerperatum sancita fuit a Domino, non 
+      <lb ed="#H" n="57"/>ad peccati expiationem, sed ad naturalis profluvii purgationem 
+      <lb ed="#H" n="58"/>Tertio, etsi Maria sine peccato conceperat; ac proinde partu Christi 
+      <lb ed="#H" n="59"/>inquinata non fuit, sed potius sanctificata: tamen profluvium illud 
+      <lb ed="#H" n="60"/>sanguinis ex lege naturae est puerperis; unde profluvium puerperia 
+      <lb ed="#H" n="61"/>naturale Maria experta est, &amp; ritu legitimo in separatione fuit, 
+      <lb ed="#H" n="62"/>eamque religiose observavit, ut obsequeretur Legi. teste Luca. 
+      <lb ed="#H" n="63"/>dem agnoverunt &amp; observarunt Partes. Origenes in Lucam ait, 
+      Chri<lb ed="#H" n="64" break="no"/>stum cruentum ex utero prodiisse 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e667">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>III Christum puerulum aperto utero materno in lucem 
+      edi<lb ed="#H" n="66" break="no"/>tum ante nos, Patres veteres aliquot statuerunt: TERTULLIANVS 
+      <lb ed="#H" n="67"/>lib. de de carne Christi, scripto ab ipso quum adhuc Catholicus 
+      es<lb ed="#H" n="68" break="no"/>set adversus quatuor haereses, capite vigesimotertio: Etsi Virgo 
+      con<lb ed="#H" n="69" break="no"/>cepit, in pariu suo nupsit, ipsa patefacti corporis lege: in quo nihil 
+      in<lb ed="#H" n="70" break="no"/>terfuit de vi masculi admissi, an emissi, id est, illud sexus resignavit. Haec I 
+      <lb ed="#H" n="71"/>dentque vulva est, propter quam &amp; de aliis scriptum est: Omne 
+      masculi<lb ed="#H" n="72" break="no"/>num adaperiens vulvam, sanctum vocabitur Domino. Quis vere 
+      san<lb ed="#H" n="73" break="no"/>ctus, quam Dei Filius? Quis proprie vulvam adaperuerit, quam 
+      qui<lb ed="#H" n="74" break="no"/>clausam patefecit? Caeterum omnibus nuptiae patefaciunt. Itaque magis 
+      <lb ed="#H" n="75"/>patefacta est, quia magis erat clausa. Et paulo post: Et quid ultra de 
+      <lb ed="#H" n="76"/>hoc retractandum est? quum hac ratione Apostolus non ex Virgine, sed ex 
+      <lb ed="#H" n="77"/>muliere editum Filium Dei pronunciavit, agnovit adapertae vubbae 
+      nu<lb ed="#H" n="78" break="no"/>ptialem passionem. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e702">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>ORIGENES secundo tomo, homilia decimaquarta in Lucam: 
+      O<lb ed="#H" n="80" break="no"/>mne (inquit) masculinum quod aperit vulvam, sacratum quippiam 
+      <lb ed="#H" n="81"/>sonat. Quemcunque enim de utero effusum marem dixeris, non sic aperit 
+      <lb ed="#H" n="82"/>vulvum matris suae, ut Dominus Iesus: quia omnium mulierum non 
+      <lb ed="#H" n="83"/>partus infantis, sed viri coitus vulvam reserat. Matris vero Domini eo 
+      <lb ed="#H" n="84"/>tempore vulva reserata est, quo &amp; partus editus, quia sanctum uterum 
+      <lb ed="#H" n="85"/>&amp; omni dignatione venerationis venerandum ante nativitatem 
+      Chri<lb ed="#H" n="86" break="no"/>sti masculus omnino non tetigit.  
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e725">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>AMEROSIUS ipse quoque commentariis in secundum 
+      <lb ed="#H" n="88"/>caput Lucae ait de Christo: Hic solus aperuit sibi vulvam. Et 
+      <lb ed="#H" n="89"/>mox: Qui ergo vulvam sanctificavit alienam, ut 
+      nascere<lb ed="#H" n="90" break="no"/>tur Propheta, hic est qui aperuit matris suae vulvam, ut 
+      imma<lb ed="#H" n="91" break="no"/>culatus exiret. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e741">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>FULGENTIUS de Incarnatione &amp; Gratia Christi ad Pe¬ 
+      <!--cod-MkL9py-0408.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>trum Diaconum, capite 13. scribit in hunc modum: Christus solus, est 
+      <lb ed="#H" n="94"/>masculus adaperiens vulvam, qui in veritate sanctus Domino 
+      voca<lb ed="#H" n="95" break="no"/>retur. Vulvam quippe matris ejus, non concupiscentia mariti 
+      concum<lb ed="#H" n="96" break="no"/>bentis, sed omnipotentia Filii nascentis aperuit. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e761">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>Catechismus contra Romanus parte prima, capite quarto, 
+      respo<lb ed="#H" n="98" break="no"/>sione ad quaestionem octavam docet, quod Christus natus sit 
+      clau<lb ed="#H" n="99" break="no"/>so manente utero matris Mariae, &amp; addit aliquot probationes. 
+      <lb ed="#H" n="100"/>Verba Catechismi sunt: Quemadmodum conceptio ipsa naturae 
+      or<lb ed="#H" n="101" break="no"/>linem prorsus vincit: ita in ortu nihil non divinum licet contemplar 
+      <lb ed="#H" n="102"/>Praeterea, quo nihil admirabilius dici omnino aut cogitari potist, 
+      na<lb ed="#H" n="103" break="no"/>scitur ex matre sine ulla maternae virginitatis diminutione, &amp; quo 
+      <lb ed="#H" n="104"/>modo postea ex sepulchro clauso &amp; obsignato egressus est, atque ad 
+      disci<lb ed="#H" n="105" break="no"/>pulos clausis januis introivit: vel, ne a rebus etiam quae natura quotidie. 
+      <lb ed="#H" n="106"/>fieri videmus, discedatur, quo modo Solis radii concretam vitri 
+      sub<lb ed="#H" n="107" break="no"/>stantiam penetrant, neque frangunt tamen, aut aliqua ex parte laedunt: 
+      <lb ed="#H" n="108"/>simili, inquam, &amp; altiori modo, Iesus Christus ex materna alvo, sine 
+      <lb ed="#H" n="109"/>ullo maternae Virginitatis detrimento editus est, ipsius enim incorrupta 
+      <lb ed="#H" n="110"/>&amp; perpetuam virginitatem verissimis laudibus celebramus. Quod 
+      qui<lb ed="#H" n="111" break="no"/>dem Spiritus Sancti virtute effectum est, qui in Filii conceptione &amp; 
+      par<lb ed="#H" n="112" break="no"/> 
+               <lb ed="#H" n="113"/>nitatem conservarit. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e803">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>dem responsione ad quaestionem decimam probare nititur ex 
+      e<lb ed="#H" n="115" break="no"/>44. Ezechielis per portam sanctuarii quam Propheta vidit clausam; Et  
+      <lb ed="#H" n="116"/>ex cap. 3. Exod per rubum, quem Moses vidit ardere &amp; non comburi¬ 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e814">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Primum ergo argumentum hujusmodi est: 
+      <lb ed="#H" n="118"/>Christus natus est ex matre sine ulla maternae virginitatis 
+      dimi<lb ed="#H" n="119" break="no"/>autione &amp; detrimento: Ergo prodiit in lucem materna alvo clausa 
+      <lb ed="#H" n="120"/>manente. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e827">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>RESP. Propositio major, quae dissimulatur, est falsa. Causa fale 
+      <lb ed="#H" n="122"/>sitatis est falsa definitio Virginis. Virgo enim proprie est mulier 
+      <lb ed="#H" n="123"/>quam nullus vir cognovit; non autem, quae peperit clausa alvo: Sic 
+      <lb ed="#H" n="124"/>enim nulla fuisset unquam, nulla esset Virgo in rerum natura. Etsi i 
+      <lb ed="#H" n="125"/>gitur Maria mater Christi ex utero aperto filium in lucem edidit: 
+      ta<lb ed="#H" n="126" break="no"/>men sicut Virgo concepit, ita etiam virgo peperit: quia nec Josephus, 
+      <lb ed="#H" n="127"/>nec ullus alius cognovit eam quousque peperisset filium suum 
+      primoge<lb ed="#H" n="128" break="no"/>nitum, ut legitur Matth. 1. 25. Fuit igitur Virgo ante parium, mansit 
+      <lb ed="#H" n="129"/>Virgo in partu, mansit etiam procul dubio Virgo post partum: quod 
+      <lb ed="#H" n="130"/>inde colligitur, quia Christo jam nato annos duodecim, nullam 
+      prae<lb ed="#H" n="131" break="no"/>terea prolem habuit, &amp; quia tempore passionis &amp; mortis Christi a 
+      Jo<lb ed="#H" n="132" break="no"/>nanne Evangelista sola in aedes suscepta, nec ullibi vel minimum in 
+      <lb ed="#H" n="133"/>dicium reperitur quo liberos plures pepererit. Ita ex Scriptura 
+      Sa<lb ed="#H" n="134" break="no"/>cra perpetua virginitas Mariae probari potest. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e863">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>Secundum argumentum Catechismi Romani istud est, 
+      Quo<lb ed="#H" n="136" break="no"/>modo Christus postea ex sepulthro egressus est, atque ad discipulos post 
+      re<lb ed="#H" n="137" break="no"/>surrectionem introivit: ita etiam ex utero matris egressus est. Atqui  
+      <lb ed="#H" n="138"/>ex sepulchro clauso &amp; obsignato egressus est, atque ad discipulos post 
+      re<lb ed="#H" n="139" break="no"/>surrectionem clausis januis introivit: Ergo etiam ex utero matris 
+      clauso<lb ed="#H" n="140" break="no"/>egressus est 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e881">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>RESP. Assumtio laborat fallacia secundum plura interrogata. 
+      <lb ed="#H" n="142"/>Primum negatur: nam Christus non ex sepulchro clauso manent. 
+      <lb ed="#H" n="143"/>egressus est quia nullibi Scriptura id testatur: sed contra potius ait 
+      <lb ed="#H" n="144"/>amotum fuisse ab Angelo saxum ab ostio sepulchri Matt. 28. 2. &amp; 
+      fa<lb ed="#H" n="145" break="no"/>ctum simul terrae- motum, eo videlicet momento, quo Christus 
+      resur<lb ed="#H" n="146" break="no"/>recturus erat: non quod Christub sine opera Angeli non potuisset 
+      exi<lb ed="#H" n="147" break="no"/>re e sepulchro, si voluisset: sed quod justitia requirebat, ut qui 
+      pro<lb ed="#H" n="148" break="no"/>pter peccata nostra in vinculis mortis in sepuchro voluntate 
+      Patri<lb ed="#H" n="149" break="no"/>detinebatur, a Deo Patre absolutus e sepulchro velut e carcere 
+      dimit<lb ed="#H" n="150" break="no"/>teretur: sicut qui propter debita in carcere detinetur, solutis debitis; 
+      <lb ed="#H" n="151"/>non absque autoritate judicis ex carcere exit &amp; veluti fugit, sed 
+      volun<lb ed="#H" n="152" break="no"/>tate judicis carcer ei a ministro aperitur ut legitime exeat 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e912">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Secundum est distinguendum: Christus ingressus est post resurre 
+      <lb ed="#H" n="154"/>ctionem ad discipulos januis clausis, non per januas clausas 
+      manen<lb ed="#H" n="155" break="no"/>tes, non quod corpus januas clausas penetrarit: sed ut est in 
+      Grae<lb ed="#H" n="156" break="no"/>co textu Iohan. 20. versic. 19. τεν θυραν κεκλεισμιναν, id est, quum 
+      ja<lb ed="#H" n="157" break="no"/>nuae essent clausae, nimirum ob metum Judaeorum, sed quae Domino 
+      <lb ed="#H" n="158"/>venienti, quamvis nemine ex discipulis aperiente, subito apertae sun 
+      <lb ed="#H" n="159"/>&amp; patuerunt ad nutum divinae majestatis ejus. Cave igitur, ait 
+      <lb ed="#H" n="160"/>Cyrillus Commentariis in hunc Johannis locum, ne a recta 
+      di<lb ed="#H" n="161" break="no"/>rediaris fide: sid potius quia foribus clausis ingressus est, Deum esse na 
+      <lb ed="#H" n="162"/>tura crede. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e938">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>Tertium argumentum: Quomodo Solis radii concretam vitri 
+      sub<lb ed="#H" n="164" break="no"/>stantiam penetrant, neque frangunt tamen aut aliqua ex parte laedunt. 
+      <lb ed="#H" n="165"/>ita Iesus Christus ex materna alvo, sine ullo maternae virginitatis 
+      de<lb ed="#H" n="166" break="no"/>trimento editus es. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e951">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>RESPON. Primo mutatur status controversiae: nam fatemur. 
+      <lb ed="#H" n="168"/>ultro, quod Christus ex materna alvo, sine ullo maternae 
+      Virgi<lb ed="#H" n="169" break="no"/>nitatis detrimento editus est. Sed hinc non sequitur, 
+      Chri<lb ed="#H" n="170" break="no"/>stum ex utero occluso manente natum. Deinde similitudo 
+      Va<lb ed="#H" n="171" break="no"/>lentinianum &amp; Marcioniticum quid sapit, quum corpus 
+      Christ<lb ed="#H" n="172" break="no"/>comparetur radiis solis substantiam vitri penetrantibus &amp; illud 
+      ta<lb ed="#H" n="173" break="no"/>men non frangentibus: nam corpus Christi est vera ac naturalis 
+      sub<lb ed="#H" n="174" break="no"/>stantia, non accidens. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e973">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>Quartum argumentum: Figuris in veteri Testamento significatum 
+      <lb ed="#H" n="176"/>fuit, Christum nasciturum ex utero clauso manente? Ergo ita 
+      factum<lb ed="#H" n="177" break="no"/>Antecedens probatur ex cap. 44. Ezechielis per portam clausam quam 
+      <lb ed="#H" n="178"/>Propheta vidit, &amp; ex cap. 3. Exodi per rubum, quem Moses vidit ardere 
+      <lb ed="#H" n="179"/>&amp; non comburi. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e990">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>RESP. Negatur antecedens: &amp; probationes ejus sunt plane 
+      a<lb ed="#H" n="181" break="no"/>lienae. Nam Ezec. 44. Porta illa clausa, sed soli Principi pervia, signifi 
+      <lb ed="#H" n="182"/>cabat non uterum Mariae, sed caelestis sacrarii portam, quae ob pec¬ 
+      <!--cod-MkL9py-0409.xml-->
+      <pb ed="#H" n="382"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>catum nobis clausa erat, per solum autem Jesum Christum nobis 
+      A<lb ed="#H" n="2" break="no"/>aperta est. Et Exod. 3. rubus ardens, sed non consumtus similiter non 
+      <lb ed="#H" n="3"/>significabat Virginem Mariam: sed fiamma ignis afflictiones; rubus 
+      <lb ed="#H" n="4"/>ardens Ecclesiam seu populum Dei in afflictionibus versantem; 
+      inte<lb ed="#H" n="5" break="no"/>gritas rubi in media flamma, stabilitatem &amp; conservationem 
+      Eccle<lb ed="#H" n="6" break="no"/>siae seu populi Dei in mediis afflictionibus, ex veritate promissionum 
+      <lb ed="#H" n="7"/>Dei adumbravit. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1023">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Sic refutata sunt Catechismi Romani argumenta. Nos igitur 
+      cre<lb ed="#H" n="9" break="no"/>dimus, Mariam proprie peperisse emisso filio primogenito ex utereo 
+      <lb ed="#H" n="10"/>aperto, &amp; Christum proprie natum egrediendo ex utero matris ada 
+      <lb ed="#H" n="11"/>perto, juxta vaticinium Jesaiae, qui disrte ait de Virgine Maria, PA. 
+      <lb ed="#H" n="12"/>RIET: quum Spiritus Sanctus praevideret, futuros qui de utero 
+      Ma<lb ed="#H" n="13" break="no"/>riae semper clauso disputaturi essent 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1041">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Amplius objicitur: 
+      <lb ed="#H" n="15"/>Quaecunque fide Christiana tenenda sunt, ea supra &amp; contra naturam 
+      <lb ed="#H" n="16"/>esse necesse est: Sed Christum ex utero materno aperto produsse in 
+      mun<lb ed="#H" n="17" break="no"/>dum, non est supra &amp; contra naturam. Ergo hoc non est fide Christians 
+      <lb ed="#H" n="18"/>tenendum. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1057">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>RESP. Negatur assumtio: Nam Christum ex utero materm 
+      <lb ed="#H" n="20"/>aperto produsse in mundum, est supra &amp; contra naturam: quia 
+      nul<lb ed="#H" n="21" break="no"/>lum exemplum simile dari potest ullius infantis, qui primus aperue 
+      <lb ed="#H" n="22"/>rit uterum maternum, antea non apertum a viro. Illius infantis na 
+      <lb ed="#H" n="23"/>tivitas est naturalis &amp; ordinaria, qui egred tur ex utero materno 
+      an<lb ed="#H" n="24" break="no"/>tea reserato a viro. Christus autem infans solus vi sua aperuit sibi ad 
+      <lb ed="#H" n="25"/>vum maternam, quae semper antea clausa fuerat: quia hic infans ex 
+      <lb ed="#H" n="26"/>Maria Virgine natus, non tantum homo, sed etiam Deus est. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1079">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Haec de modo Rativitatis Christi. 
+      <lb ed="#H" n="28"/>EINIS seu USUS nativitatis Christi sunt duplices: alii respectus 
+      <lb ed="#H" n="29"/>Dei, alii respectu hominum 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1090">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>Respectu Dei, finis nativitatis Christi est gloria Dei, 
+      miraculoso<lb ed="#H" n="31" break="no"/>hoc signo ostendentis suam erga genus humanum paternam 
+      volun<lb ed="#H" n="32" break="no"/>tatem &amp; promissionum suarum veritatem in ae ternum, Luc. 2. v. 14. 
+      <lb ed="#H" n="33"/>Gloria in caelis altissimis Deo, &amp; in terra pax, in homines beneuolentia. 
+      <lb ed="#H" n="34"/>Jes. 7. v. 14. Idcirco dabit Dominus ipse vobis signum: Ecce illa Virgo 
+      <lb ed="#H" n="35"/>concipiet &amp; pariet filium, &amp; vocabis nomen ejus, Immanuel. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1109">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Respectu hominum sunt duo fines: Salus electorum &amp; judicium re 
+      <lb ed="#H" n="37"/>proborum. Nam primo Natus est Christus ut servaretur mundus 
+      per<lb ed="#H" n="38" break="no"/>cum, Johannis c. 3. v. 17. Hic finis ita generaliter propositus, per 
+      par<lb ed="#H" n="39" break="no"/>tes deinceps explicandus; quarum est 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1122">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>I. Ut in nostra natura assumta inobedientiam nostram pensaret. 
+      <lb ed="#H" n="41"/>&amp; loco nostro Legem impleret, quam nos implere tenebamur, se 
+      <lb ed="#H" n="42"/>non poteramus. Hoc docet ipse Christus Matth. 5. v. 17. Ne 
+      existi<lb ed="#H" n="43" break="no"/>mate me venisse ut dissolvam Legem, aut Prophetas: non veni ut eam 
+      <lb ed="#H" n="44"/>dissolvam, sed ut eam impleam. Et Paulus Apostolus Rom. 8. v. 3. 4. 
+      <lb ed="#H" n="45"/>Nam quae Legis erat impotentia, quum viribus esset destituta per 
+      car<lb ed="#H" n="46" break="no"/>nem, Deus suo ipsius Filio enisso in forma consimili carni peccato 
+      obno<lb ed="#H" n="47" break="no"/>xiae, idque pro peccato condemnavit peccatum in carne. Ut jus illud Legi, 
+      <lb ed="#H" n="48"/>compleatur in nobis, qui non secundum carnem incedimus, sed 
+      secun<lb ed="#H" n="49" break="no"/>dum Spiritum. Gal. 4. v4, 5. Postquam venit plenum tempus, emisit 
+      <lb ed="#H" n="50"/>Deus Filium suum factum ex muliere, factum Legi subjectum. Ut eos 
+      <lb ed="#H" n="51"/>qui Legi erant subjecti redimeret, ut adoptionem acciperemus. Ideo 
+      e<lb ed="#H" n="52" break="no"/>nim Christus carnem assumsit, ut in illa loco nostro satisfaceret  
+      <lb ed="#H" n="53"/>quod inde a primo momento descensus e caelo seu adventus in 
+      car<lb ed="#H" n="54" break="no"/>nem, hoc est, conceptionis in utero matris facere coepit &amp; in 
+      cruce<lb ed="#H" n="55" break="no"/>moriens consummavit.  
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1161">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>II. Ut nos doceret mysteria salutis aeternae nobisque plene annum 
+      <lb ed="#H" n="57"/>ciaret sapientiam illam Dei salvificam tanquam summus ille 
+      Prophe<lb ed="#H" n="58" break="no"/>ta &amp; Doctor totius Ecclesiae, per Prophetas promissus, Deut. 16. 
+      <lb ed="#H" n="59"/>v15, 16, 17, 18, 19. Joh. 1. v. 16, 17, 18. Et ex plenitudine ipsius omnes ac 
+      <lb ed="#H" n="60"/>cepimus, &amp; gratiam pro gratia: Nam Lex illa per Mosen data est: 
+      gra<lb ed="#H" n="61" break="no"/>tia &amp; veritas per Iesum Christum praestita est. Deum nemo vidit 
+      un<lb ed="#H" n="62" break="no"/>quam: unigenitus ille Filius qui est in sinu Patris, ille nobis exposuit. Et 
+      <lb ed="#H" n="63"/>c. 4. v. 25. Scio Messiam venturum (qui dicitur Christus,) quum 
+      vene<lb ed="#H" n="64" break="no"/>rit ille, nobis annunciabit omnia. Et cap 12. v. 46. Ego lux in mundum 
+      <lb ed="#H" n="65"/>veni, ut quisquis credit in me, in tenebris non maneat. Et cap. 18. v. 37. 
+      <lb ed="#H" n="66"/>Tu dicis me regens esse: Ego ad hoc natus sum, &amp; ad hoc veni in 
+      mun<lb ed="#H" n="67" break="no"/>dum, ut dem testimonium veritati. Quisquis est ex veritate, audit 
+      vo<lb ed="#H" n="68" break="no"/>cem meam. Heb. 1 v. 1. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1194">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>III. Christus particeps est factus carnis &amp; sanguinis, ut per 
+      mor<lb ed="#H" n="70" break="no"/>tem aboleret eum qui mortis imperium habet, hoc est, diabolum, 
+      <lb ed="#H" n="71"/>Heb. 2. v. 24. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1205">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>IV. Ut haberet quod offerret Deo &amp; Patri, Heb. 8. 3. Unde 
+      hu<lb ed="#H" n="73" break="no"/>manitate indutus, per se quae nostra erant, Patri obtulit 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1214">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>V. Ut esset misericors &amp; fidelis Pontifex in iis quae apud Deum; 
+      <lb ed="#H" n="75"/>agenda forent, ad expiandum peccata populi, Heb. 2, v. 17. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1224">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>VI. Ut posset affici sensu infirmitatum nostrarum, Heb. 4. 15. 
+      <lb ed="#H" n="77"/>VII. Ut peccata nostra tolleret, 1. Joh. 3. 7. 
+      <lb ed="#H" n="78"/>IIX. Factus est Filius hominis, ut nos filii Dei fieremus, Joh. 
+      <lb ed="#H" n="79"/>I. v. 11, 12. Ad sua venit, &amp; sui eum non exceperunt. Quotquot autem 
+      <lb ed="#H" n="80"/>eum exceperunt, dedit eis hoc jus ut Filii Dei sint facti, nempe, iis 
+      qui<lb ed="#H" n="81" break="no"/>credunt in nomine ejus. Nativitatem expertus est, ut nobis 
+      In<lb ed="#H" n="82" break="no"/>geniti amicitiam conciliaret, Athanasius in Passionem &amp; 
+      Cru<lb ed="#H" n="83" break="no"/>cem Domini: 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1246">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>IX Ut nobis confirmaret resurrectionem carnis nostrae ad 
+      glo<lb ed="#H" n="85" break="no"/>riam aeternam. Nam si Christus carnem nostram non assumsisset, in 
+      <lb ed="#H" n="86"/>ea quoque non resurrexisset, atque sic nec nostra caro resur 
+      <lb ed="#H" n="87"/>geret. 
+      <lb ed="#H" n="88"/>Hic primus nativitatis Christi finis est respectu hominum 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1262">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>cum partibus suis. 
+      <lb ed="#H" n="90"/>Secundus Finis est judicium mundi seu reproborum, id est, diabo¬ 
+      <!--cod-MkL9py-0409.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>li &amp; membrorum ejus, Joh. 12 31. Nunc judicium adest mundi hujus: 
+      <lb ed="#H" n="92"/>nunc Princeps ille mundi hujus ejicietur foras. Joh. 9. 39. Et dixit Iesus: 
+      <lb ed="#H" n="93"/>Ad judicium exercendum ego in hunc mundum veni: ut qui non videt, 
+      <lb ed="#H" n="94"/>videant, &amp; qui vident, caeci fiant. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1284">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>fsti sunt fines nativitatis Christi. 
+      <lb ed="#H" n="96"/>ETPECTA nativitatis Christi ex Maria Virgine sunt:  
+      <lb ed="#H" n="97"/>I. Glorificatio Dei, quemadmodum Christo nato canunt sanct? 
+      <lb ed="#H" n="98"/>Angeli: Gloria in excelsis Deo. Sententia est: Jam est Deo gloria in 
+      <lb ed="#H" n="99"/>caelis altissimis qua dignus est; gloria sapientiae, quam viam invenit ac 
+      <lb ed="#H" n="100"/>salutem homines aeternam perducendi; gloria veritatis, quam 
+      promis<lb ed="#H" n="101" break="no"/>siones Patribus factas implevit; gloria misericordiae, qua rest exit &amp; 
+      <lb ed="#H" n="102"/>invisit populum suum, eique Servatorem misit: gloria justitiae, qua 
+      poe<lb ed="#H" n="103" break="no"/>nas humano generi debitas transtulit in Filium proprium hominen 
+      <lb ed="#H" n="104"/>factum, in summa paupertate, in summa humilitate natum. Gloriam 
+      <lb ed="#H" n="105"/>hanc Deo in excello caelorum habitaculo omnes Angelici exercitus 
+      <lb ed="#H" n="106"/>omnes beati spiritus gratulantur. Sic Angeli exsultant, gloriam 
+      Im<lb ed="#H" n="107" break="no"/>peratoris sui manifestari, eamque celebrant &amp; decantant. Sic impletum  
+      <lb ed="#H" n="108"/>est quod David dicit. Psal 103. v. 19. &amp; sequentibus: Iehova in caelis 
+      <lb ed="#H" n="109"/>stabilivit solium suum, &amp; regnum ipsius omnibus praesidet. Benedicit. 
+      <lb ed="#H" n="110"/>Iehovae, Angeli ejus, valentissimi robore, efficientes verbum eius, 
+      auscul<lb ed="#H" n="111" break="no"/>antes voci verbi eius. Benedicite Ithovae omnes exercitus eius, 
+      facien<lb ed="#H" n="112" break="no"/>tes placitum eius. Impletum est quod David cecinit, Psal. 148. v. 1. &amp; 2. 
+      <lb ed="#H" n="113"/>Halelu-udate Iehovam e caelis, laudate eum in excelsis. Laudate. 
+      <lb ed="#H" n="114"/>eum omnes Angeli, ius, laudate eum omnes exercitus eius 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1332">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>II. In terra pax: Pax, inquam, non tam externa quam inter 
+      s<lb ed="#H" n="116" break="no"/>colunt homines, quam interna quam conscientiae sunt tranquillae, 
+      no<lb ed="#H" n="117" break="no"/>bis Deo reconciliatis, qui natura irae filii &amp; inimici Dei eramus. Qui 
+      <lb ed="#H" n="118"/>Deum sibi infensum sentiunt, eos horribili inquietudine ex irae Dei. 
+      <lb ed="#H" n="119"/>D &amp; mortis terrore promanante vexari necesse est. Justificati aute fide 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1348">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>in Christum pro nobis passum, mortuum &amp; resuscitatum, pacem 
+      <lb ed="#H" n="121"/>habemus apud Deum, Rom. 5. v. 1. quam pax cum hominibus ultro 
+      <lb ed="#H" n="122"/>consequitur. Fieri non enim potest, quin pacem cum hominibus 
+      co<lb ed="#H" n="123" break="no"/>lere expetat &amp; libenter colat, qui pace fruitur Dei. Sic impletum est 
+      <lb ed="#H" n="124"/>quod Jesaias praedixit cap. 2. v. 4. futurum ut nato Christo Gentes &amp; 
+      <lb ed="#H" n="125"/>populi multi, tunderent gladios suos in ligones, &amp; hastas suas in 
+      fal<lb ed="#H" n="126" break="no"/>ces; non sublaturam gentem unam in alteram gladium, neque 
+      disci<lb ed="#H" n="127" break="no"/>turam amplius bellum. Hinc idem Jesaias cap. 9. v. 6, 7. Christum 
+      <lb ed="#H" n="128"/>praedicat tanquam Principem pacis, pacis cui nullus erit finis. 
+      Qua<lb ed="#H" n="129" break="no"/>E propter dixit Propheta, Jes. 11. 6. &amp; seqq. Commorabitur lupus cum 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1375">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>agno &amp; pardus cum haedo recubabit; vitulusque &amp; juvenis leo, ac pecus 
+      <lb ed="#H" n="131"/>pingue simul erunt, &amp; puer parvulus dux inter eos futurus est. Et vacca 
+      <lb ed="#H" n="132"/>ursaque compascentibus, simul recubabunt catuli earum, &amp; leo sicut 
+      bo<lb ed="#H" n="133" break="no"/>comedet stramens. Et oblectabit se lactens super foramen haemorrhoi: &amp; 
+      <lb ed="#H" n="134"/>super specum viperae depuljus a lacte manum suam injiciet. Non 
+      affici<lb ed="#H" n="135" break="no"/>lent malo neque corrumpent in toto monte sanctitatis meae, quum plena 
+      <lb ed="#H" n="136"/>erit terra haec scientia Iehovae velut aquis alveum maris operientibus. 
+      <lb ed="#H" n="137"/>Tam salutatis est Christi nativitas, quae pacem cum Deo, pacem 
+      <lb ed="#H" n="138"/>um hominibus nobis attulit: potentissimis, ferocissimis &amp; 
+      damno<lb ed="#H" n="139" break="no"/>sissimis quibusque ad Ecclesiam adductis. Ingens hoc solatium est, 
+      <lb ed="#H" n="140"/>quamvis inter medios hostes &amp; tumultus versemur, nobis tamen in 
+      <lb ed="#H" n="141"/>terra esse pacem, quam Christus pacis autor ex Maria Virgine 
+      na<lb ed="#H" n="142" break="no"/>tus nobis advexit. Fideles qui in terra pepetuo militant adversus 
+      Sa<lb ed="#H" n="143" break="no"/>tanam, adversus Antichristum, adversus alios hostes: habent tamer 
+      <lb ed="#H" n="144"/>in terra pacem. Inter medias tentationum procellas, inter varia 
+      dis<lb ed="#H" n="145" break="no"/>crimina, inter violentos motus, inter pugnas &amp; timores constituitur 
+      <lb ed="#H" n="146"/>sedes pacis, ne fides nostra ullis macninis impulsa vacillet aut 
+      la<lb ed="#H" n="147" break="no"/>bascat. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1419">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>III. Laetitia &amp; Consolatio quam fideles sentiunt in cordibus suit 
+      <lb ed="#H" n="149"/>ex nativitate Christi, Luc. 2. v. 10, 11, 25. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1428">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>V. Desiderium migrandi ex hac vita. Nam Christi nativitas 
+      ef<lb ed="#H" n="151" break="no"/>fecit in Simeone illo justo, ut peteret a Deo se dimitti cum pace, 
+      Luc<lb ed="#H" n="152" break="no"/>2. 28, 29. Sic in aliis verae fidelibus consideratio nativitatis Chisti 
+      adi<lb ed="#H" n="153" break="no"/>mit metum mortis, minuit &amp; tandem aufert amorem hujus 
+      terrena<lb ed="#H" n="154" break="no"/>vitae, accenditque desiderium aeternae vitae: quum sciant, non ideo 
+      Chri<lb ed="#H" n="155" break="no"/>stum natum, ut in hac mortali vita haeretemus, sed ut sempiternam 
+      <lb ed="#H" n="156"/>illam caelestemque consequeremur. Ita nativitas Christi nos 
+      consola<lb ed="#H" n="157" break="no"/>tur adversus metum mortis corporalis. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1450">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>SUBJECTA nativitatis Christi jam explicanda sunt. Natus est 
+      <lb ed="#H" n="159"/>Christus Bethlchemi in Judaea, ut legitur, Matth. 2. v. 1. &amp; sequenti 
+      <lb ed="#H" n="160"/>bus, Luc. 2. v. 4, 5, 6, 7, 10, 11. Id factum juxta prophetiam, Mich. 5. 
+      <lb ed="#H" n="161"/>v. 2. At tu Bethlehem Euphratae, minima ut sis in ducibus Iudae, ex 
+      te<lb ed="#H" n="162" break="no"/>nihi prodibit futurus dominator in Israele. Et I. Chron. 11. v. 17. Et  
+      <lb ed="#H" n="163"/>desiderio motus David dixit: O si quis bibendam daret mihi aquam, e 
+      <lb ed="#H" n="164"/>cisterna Bethlehemi quae est ad portam! David Christum Dominum 
+      <lb ed="#H" n="165"/>Bethichemae nasciturum in spiritu sitiebat, non aquam corporalem, 
+      <lb ed="#H" n="166"/>quam allatam noluit bibere, sed effudit eam Jehovae 
+      <lb ed="#H" n="167"/>USUS I. Confirmatur Christum revera jam exhibitum esse, 
+      <lb ed="#H" n="168"/>quoniam urbs Bethlehemum, ubi nasci debuit, jam deleta est ultra 
+      <lb ed="#H" n="169"/>innos mille quingentos, nunquam instauranda a Judaeis, ut ibi 
+      do<lb ed="#H" n="170" break="no"/>minatum recuperent. 
+      <lb ed="#H" n="171"/>II. Confirmatur providentia Dei, qua locus in quo 
+      unumquod<lb ed="#H" n="172" break="no"/>que fieri debet destinatus est, 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1487">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>III. Quod Christus Bethlehemi natus est, hoc est, in domo 
+      pa<lb ed="#H" n="174" break="no"/>nis, eo docemur, Christum esse verum illum panem vitae qui de caelo 
+      <lb ed="#H" n="175"/>descendit, Joh. 6. v. 33. De quo legitur, Apoc. 2. v. 17. Et quivicerit 
+      tri<lb ed="#H" n="176" break="no"/>buam ut edat Manna illud absconditum, id est, Christum qui est 
+      ab<lb ed="#H" n="177" break="no"/>sconditus iis qui pereunt. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1503">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>IV. Quod Christus natus est in Bethlehem Ephratae, hoc est, 
+      in<lb ed="#H" n="179" break="no"/>&amp; loco frugifero &amp; geniali, eo docemur, Christi nativitate plurimos fru¬ 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1513">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>ctus ad nos redite, Christi nativitate nostram nativitatem 
+      sanctifica<lb ed="#H" n="181" break="no"/>ri, Christi nativitate nos quoque denuo gigni. 
+      <!--cod-MkL9py-0410.xml-->
+      <pb ed="#H" n="383"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>V. Natus est Bethiehemae, quae inter omnes Judaeae civitates 
+      mi<lb ed="#H" n="2" break="no"/>trima erat quia noluit quemquam de cujuscunque tersenae civitatis vel 
+      <lb ed="#H" n="3"/>sublimitate gloriari, vel humilitate &amp; vilitate doleres. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1535">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Porro nan in parentum domo, sed in via atque in alieno natus est: 
+      <lb ed="#H" n="5"/>ut nos in patriam veram ac propriam adduceret.  
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1544">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Sic est de subiecto loco. 
+      <lb ed="#H" n="7"/>Cui natus sit Christus, expresse docet Angelus cum ait pastoribus 
+      <lb ed="#H" n="8"/>Luc 2. v. 10, 11. Ecce ego evangelixo vobis, gaudium magnum, quod erit 
+      <lb ed="#H" n="9"/>TOTI POPULO: quia natus est VOBIS hodie Servator qui est 
+      Chri<lb ed="#H" n="10" break="no"/>stus Dominus. Intelligit autem Angelus totum populum vere credem 
+      <lb ed="#H" n="11"/>tium in Christum &amp; fi se eum suscipientium, sicut Jesaias de se &amp; alii  
+      <lb ed="#H" n="12"/>vere fidelib. ait c. 9. v. 6. Puer natus est nobis, filius daulus nobis. 
+      Huju<lb ed="#H" n="13" break="no"/>circumstantiae usum sequentia theoremata ostendunt: 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1566">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>I. JESUS Christus pro solis electis ad vitam aeternam, est incarna. 
+      <lb ed="#H" n="15"/>us &amp; natus. Quibus enim aeternum servandis est suscitatus, pro illis 
+      <lb ed="#H" n="16"/>est incarnatus &amp; natus. Atqui solis electis ad vitam aeternam, 
+      aeter<lb ed="#H" n="17" break="no"/>num servandis est suscitatus. Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1579">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Agnoverunt hoc &amp; veteres Patres: GRECORIUS Magnus, 
+      Ro<lb ed="#H" n="19" break="no"/>manus Episcopus lib 2. super Ezechielem, homilia decimatertia, 
+      pa<lb ed="#H" n="20" break="no"/>gina ducentesima quarta, secundi tomi, ait; Redemtor noster pro 
+      boni<lb ed="#H" n="21" break="no"/>misericordter incarnatus 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1592">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>II. Electorum ad vitam aeternam Mediator apud Deum est 
+      <lb ed="#H" n="23"/>Christus. Nam quibus Christus est suscitatus, eorum est Mediator 
+      a<lb ed="#H" n="24" break="no"/>pud Deum: At electis ad vitam aeternam Christus est suscitatus: Ergo 
+      <lb ed="#H" n="25"/>eorum est Mediator. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1606">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>III. Pro solis electis ad vitam aeternam Christus est passus &amp; 
+      <lb ed="#H" n="27"/>mortuus: quia solis llis est suscitatus &amp; natus 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1615">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>IV. In solo Christo sita est nostra justitia &amp; reconciliatio coram 
+      <lb ed="#H" n="29"/>Deo, salusque aeterna: quia ipse est suscitatus nobis 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1624">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>Errant igitur plurimum, qui statuunt, Christum pro omnibus 
+      o<lb ed="#H" n="31" break="no"/>mnino hominibus incarnatum &amp; natum: Eundem omnium 
+      omni<lb ed="#H" n="32" break="no"/>no hominum Mediatorem apud Deum esse: ipsum pro universis &amp; 
+      <lb ed="#H" n="33"/>singulis hominibus passuin &amp; mortuum: justitiam, expiationem 
+      no<lb ed="#H" n="34" break="no"/>stri &amp; salutem aeternam vel totam vel ex parte alibi quaerendam 
+      <lb ed="#H" n="35"/>quam in Christo. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1642">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Haec circumstantia nostram accusat ingratitudinem adversus 
+      <lb ed="#H" n="37"/>Deum, quum non desinamus peccatis Deum irritare, quum nobis 
+      <lb ed="#H" n="38"/>Christum suscitaverit, quum nostro bono Christus carnem 
+      assum<lb ed="#H" n="39" break="no"/>serit humanam. Qui in peccatis perseverant, perinde agunt ac si 
+      Chri<lb ed="#H" n="40" break="no"/>stus ipsis gratiam habere deberet, quod homo factus sit. Atqui non 
+      <lb ed="#H" n="41"/>sibi natus est, non suo bono &amp; commodo: sed nobis, sed nostro 
+      bo<lb ed="#H" n="42" break="no"/>no &amp; commodo. Bis igitur ingrati sumus, qui tantum beneficium 
+      <lb ed="#H" n="43"/>non agnoscimus, &amp; ut par est aestimamus, verum etiam maleficia 
+      re<lb ed="#H" n="44" break="no"/>ponimus. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1666">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Eadem igitur circumstatia incitat nos ad gratitudinem erga Deum 
+      <lb ed="#H" n="46"/>Nam quibus Christus suscitatus &amp; natus est, eorum officium est Deo. 
+      <lb ed="#H" n="47"/>Patri, Filio &amp; Spiritui Sancto gratias agere, eum debitis laudibus 
+      ex<lb ed="#H" n="48" break="no"/>toliere, non solum verbis, sed etiam to: a vita At nobis suscitatus est, 
+      <lb ed="#H" n="49"/>nobis est natus, nobis, inquam, qui perditi fueramus, qui cum ipso 
+      <lb ed="#H" n="50"/>collati nihil sumus: ita ut merito unusquisque dicere cum Davide 
+      Re<lb ed="#H" n="51" break="no"/>ge debeat, Quis sum ego, Domine Iehivi, &amp; quae est familia mea, quod  
+      <lb ed="#H" n="52"/>deducis me eousque 2. Sam. 7. v. 19. Et ex Ps 8. 5. Quid est mortalis, quod  
+      <lb ed="#H" n="53"/>memor es eju:gaut filius hominis, quod visitas eum 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1690">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>dos igitur laudibus Deum exto:dere aeternum debeamus, nos 
+      <lb ed="#H" n="55"/>grati esse debemus, non tantummo so verbis, sed etiam vitam tota 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1700">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Eadem circumstantia nobis consolationem suppeditat multipli 
+      <lb ed="#H" n="57"/>cem, ad quam amplectendam Prophetae &amp; Angeli sancti nos exhor 
+      <lb ed="#H" n="58"/>tantur, Lach. 9 v. 9. ait: Exsulta valde filia TEijonis, clange filia 
+      Ieroso<lb ed="#H" n="59" break="no"/>lymorum, Ecce Rex tuus advenit tibi, iustus &amp; salute praeditus est. Per 
+      <lb ed="#H" n="60"/>Iesaiam Prophetam cap. 40. v. 1. &amp; 2. Deus ait, Consolamini, consola; 
+      <lb ed="#H" n="61"/>mini populum meum, dicit Deus vester: Loquimini ad cor Ierosolymorum 
+      <lb ed="#H" n="62"/>&amp; praedicate ei, completum esse tempus praefinitum eius, exsolutam est 
+      <lb ed="#H" n="63"/>iniquitatem etus. Angelus vero Luc. 2. v. 10, 11, ait: Ecce annuncio 
+      vo<lb ed="#H" n="64" break="no"/>bis gaudium magnum quod futurum est toti populo, Nempe natum ese 
+      <lb ed="#H" n="65"/>vobis hodie Servatorem, qui est Christus Dominus, in urbe Davidis 
+      <lb ed="#H" n="66"/>Unde sic ratiocinari licet:  
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1729">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Quibus Christus est natus, ii gaudere &amp; solari sese nativitate 
+      Chri<lb ed="#H" n="68" break="no"/>sti debent: 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1738">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>At NOBIS Christus est natus: 
+      <lb ed="#H" n="70"/>Nos igitur gaudere &amp; solari nos nativitate Christi debemus. 
+      <lb ed="#H" n="71"/>Laetitia autem &amp; consolatio haec ex nativitate Christi non est 
+      va<lb ed="#H" n="72" break="no"/>na ac inanis. Nam I Quibus Christus est natus, ii sunt reconciliat  
+      <lb ed="#H" n="73"/>Deo, illis justitia &amp; salus aeterna reducta est. At nobis Christus 
+      na<lb ed="#H" n="74" break="no"/>tus est: Nos igitur sumus reconciliati Deo, nobis justitia &amp; salus 
+      ae<lb ed="#H" n="75" break="no"/>cerna restituta. Hanc consolationem Angelus indicat quum ait: 
+      Na<lb ed="#H" n="76" break="no"/>tum esse vobis hodie Servatorem: Et Paulus Gal. 4. v. 4. Postquam 
+      ve<lb ed="#H" n="77" break="no"/>nit plenitudo temporis, misit Deus Filium suum factum ex multere, 
+      fa<lb ed="#H" n="78" break="no"/>ctum Legi subiectum, 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1764">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>II. Quibus Christus natus est, illos profecto Deus diligit: sicut  
+      <lb ed="#H" n="80"/>dicitur Joh. 3. Sic Deus dilexit mundum, ut Filium suum udigenitum 
+      <lb ed="#H" n="81"/>dederi, At nobis Christus natus est. Nos igitur Deus diligit. Hanc 
+      <lb ed="#H" n="82"/>consolationem consignavit Johanne- in epistola prima, c. 4. v. 9. Pet 
+      <lb ed="#H" n="83"/>hoc manifesta facta est charitas Dei in nos, quod Filium illum suum 
+      u<lb ed="#H" n="84" break="no"/>nigenitum misit Deus in mundum 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1782">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>III. Quibus Christus natus est, illis est gloriae &amp; honori: Nobis 
+      <lb ed="#H" n="86"/>natus est: Ergo nobis est gloriae &amp; honori. Haec consolatio 
+      proponi<lb ed="#H" n="87" break="no"/>tur Jesa. 4. v. 1. Tempore illo erit germen Iehovae gloria &amp; honori, &amp; 
+      fru<lb ed="#H" n="88" break="no"/>ctus ipse terrae excellentia &amp; ornamento superstitibus Israelis. Luc 2. 
+      <lb ed="#H" n="89"/>30. 31, 32. Viderunt oculi mei salutem tuam, Quam parasti in oculis 
+      o<lb ed="#H" n="90" break="no"/>mnium populorum, Lumen detegendum Gentibus &amp; gloriam populi tui 
+      <lb ed="#H" n="91"/>Israelis. 1. Pet. 2. v. 7. Vobis est honori qui creditis, 
+      <!--cod-MkL9py-0410.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>IV. Quibus Christus natus est, illis etiam cum eo bona 
+      neces<lb ed="#H" n="93" break="no"/>saria omnia Deus gratiose largitur. Atqui nobis Christus natus est: 
+      <lb ed="#H" n="94"/>Nobis igitur Deus una cum Christo bona omnia necessaria 
+      gratio<lb ed="#H" n="95" break="no"/>Se largietur Hoc Jesaias indicare voluit, cum promissa nomine Dei. 
+      <lb ed="#H" n="96"/>urbis Jerosolymorum liberatione &amp; defensione adversus Retrinem. 
+      <lb ed="#H" n="97"/>Regem Damasci, &amp; Pelachum filium Remaliae Regem 
+      Israelita<lb ed="#H" n="98" break="no"/>rum, obtulisset optionem signi Achazo Regi Judae, &amp; is recusaret 
+      <lb ed="#H" n="99"/>petere illud ex mera infidelitate, ultro dedit DOMINUS ipse signum, 
+      <lb ed="#H" n="100"/>nimirum nativitatem Immanuelis ex Virgine: quae nativitas 
+      si<lb ed="#H" n="101" break="no"/>num fidelibus tum erat atque etiamnum est, omnes promissiones. 
+      <lb ed="#H" n="102"/>Dei universales &amp; singulares, publicas privatasque ratas esse in 
+      Chri<lb ed="#H" n="103" break="no"/> 
+               <lb ed="#H" n="104"/>8. 31, 32. Quid igitur dicemus ad haec? Si Deus pro nobis, quis cotra nos 
+      <lb ed="#H" n="105"/>Is quidem qui proprio filio non popercit, sed pro nobis omnibus tradidi. 
+      <lb ed="#H" n="106"/>eum (nempe, ut se exinaniret, servi forma assumta &amp; Legi 
+      perfectis<lb ed="#H" n="107" break="no"/> 
+               <lb ed="#H" n="108"/>mortem, mortem autem crucis) quomodo non etiam cum eo nobis 
+      o<lb ed="#H" n="109" break="no"/>mnia gratificabitur:  
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1845">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>V. Quibus Christus natus est, illi propter praesentes &amp; futuras 
+      <lb ed="#H" n="111"/>calamitates nequaquam formidare, nequaquam trepidare &amp; 
+      ani<lb ed="#H" n="112" break="no"/>mo abjecto esse debent. At nobis Christus natus est: Nos igitur  
+      <lb ed="#H" n="113"/>propter praelentes &amp; futuras calamitates consternato &amp; 
+      meti<lb ed="#H" n="114" break="no"/>culoso animo esse minime debemus. Hac consolatione utitur Jesai 
+      <lb ed="#H" n="115"/>as, confirmans pios ex Juda &amp; Israele adversus futuras 
+      calamita<lb ed="#H" n="116" break="no"/>tes, quum ait capite 9. vers. 6. Puer natus est nobis, filius datus 
+      no<lb ed="#H" n="117" break="no"/>bis, &amp;c. Et capite 11. vers. 1. Nam prodibit virgula e rrunco succiso 
+      <lb ed="#H" n="118"/>ischai, &amp; surculus eradicibus eius efflorescet, &amp;c. Si fideles Vetrris 
+      <lb ed="#H" n="119"/>Testamenti se adversus calamitates consolari debuerunt nativitate 
+      <lb ed="#H" n="120"/>Christi futura post aliquot demum secuia: Multo magis 
+      Chri<lb ed="#H" n="121" break="no"/>stianos consolationem adversus aerumnas ex illa jam facta 
+      hauri<lb ed="#H" n="122" break="no"/>re par est. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1879">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>VI. Quibus Christus natus est, eos pro fratribus agnoscit &amp; 
+      ha<lb ed="#H" n="124" break="no"/>bet: At nobis Christus natus est: Nos igitur Christus pro fratribus 
+      <lb ed="#H" n="125"/>agnoscit &amp; habet, Hanc consolationem adhibet Paulus Heb. 1. v. 11 
+      <lb ed="#H" n="126"/>Nam &amp; qui sanctificat, &amp; qui sanctificantur, ex uno sunt omnes. Quam 
+      <lb ed="#H" n="127"/>ob causam non erubescit eos vocare fratres. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1895">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>VII. Quibus Christus natus est, illi nec diabolum, nec mortem 
+      <lb ed="#H" n="129"/>amplius metuere debent. Nam quibus Christus natus est. illi sunt 
+      iu<lb ed="#H" n="130" break="no"/>ipso renati ad vitam aeternam. At nobis Christus natus est: Ergo nos 
+      <lb ed="#H" n="131"/>neque Diabolum, neque mortem amplius metuere debemus. Hanc 
+      <lb ed="#H" n="132"/>consolationem tradit Paulus Heb. 2. v. 13, 14, 15, 16. Ecce ego &amp; 
+      pue<lb ed="#H" n="133" break="no"/>ri, quos mihi dedit Deus. Quoniam igitur pueri participes sunt carnis 
+      <lb ed="#H" n="134"/>&amp; sauguinis, ipse quoque consimiliter particeps factus est eorundem, ut per 
+      <lb ed="#H" n="135"/>mortem aboleret eum penes quem est mortis imperium seu robur, hoc est, 
+      <lb ed="#H" n="136"/>liabolum: Et liberos redderet quotquot metu mortis per omnem vitam 
+      <lb ed="#H" n="137"/>obnoxti erant servituti. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1921">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>Haec de subiectis nativitatis Christi. 
+      <lb ed="#H" n="139"/>Adjuncta nativitatis Christi sunt tempus, status, desideeum, 
+      pate<lb ed="#H" n="140" break="no"/>factio eius. perturbatio impiorum, &amp; persecutio ob Christum 
+      mo<lb ed="#H" n="141" break="no"/>ca innocentibus, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1934">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>Natus est imperante Caesare augusto, praesidente Syriae Cyrenios 
+      <lb ed="#H" n="143"/>Anno nimirum quadragesimosecundo imperii Augusti, anno 
+      trigo<lb ed="#H" n="144" break="no"/>simosexto regni Herodis Ascalonitae seu Magni in Judaea, de quo 
+      <lb ed="#H" n="145"/>Rege Matth. 1. 1 postquam idem Herodes anno trigesimo regni sua 
+      <lb ed="#H" n="146"/>interfici curasset judices ordinarios e domo Davidis ad illud usque 
+      ten<lb ed="#H" n="147" break="no"/>pus lectos, iisque alios substituisset ipsi addictos, ut refert Philo Judaeus; 
+      <lb ed="#H" n="148"/>hoc est, quo tempore jam ablatum erat tribui Juda temporale 
+      do<lb ed="#H" n="149" break="no"/>minium in Judaeam, in terram promissam Abrahamo, Isaaco &amp; 
+      Ja<lb ed="#H" n="150" break="no"/>cobo, sic ut nunquam amplius recuperaretur, secundum vaticinium 
+      <lb ed="#H" n="151"/>acobi Patriarchae, Gen. 49. v. 10. Non desistet scepirum a Iuda, nec 
+      <lb ed="#H" n="152"/>legis latore medio pedum eius, usque dum venturus erit filius eius, &amp; erit 
+      <lb ed="#H" n="153"/>ei obedientia populorum. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1965">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Praedictum id fuit typis Veteris Testamenti; veluti, quum 
+      popu<lb ed="#H" n="155" break="no"/>lus Israeliticus in AEgypto libertate amissa, a Pharaone premeretur,  
+      <lb ed="#H" n="156"/>venit Moses popull liberator. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1976">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>Similiter populo in terram promissam deducto, quoties ille 
+      ser<lb ed="#H" n="158" break="no"/>vitute pressus fuit, liberatores illis Deus excitavit judices 
+      <lb ed="#H" n="159"/>Sic Christus Jesus natus est eo tempore quo populus alieno 
+      do<lb ed="#H" n="160" break="no"/>Hi 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1990">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Paulus vero Apostolus de tempore sic scribit Gal. 4. v. 4. 
+      Post<lb ed="#H" n="162" break="no"/>quam venit plenitudo temporis, misit Deus Filium suum, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e1999">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>USUS. I. Confirmatur veritas promissionum Dei. Nam quo 
+      tem<lb ed="#H" n="164" break="no"/>pore Deus promittit aliquid facere: eo sit necessarie 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2008">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>II. Confirmatur doctrina de providentia Dei, qua tempus etiam 
+      <lb ed="#H" n="166"/>quo aliquid fieri debet decretum est 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2017">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>III. Servit hoc ad refutandum errorem Judaeorum, qui negan 
+      <lb ed="#H" n="168"/>Messiam venisse, sed adhuc exspectant. Sceptrum Juda defecit, nula 
+      <lb ed="#H" n="169"/>lumque amplius habet in Judaea principatum tribus Juda jam ultra 
+      <lb ed="#H" n="170"/>annos mille sexcentos, nec principatum in Judaea unquam est 
+      recu<lb ed="#H" n="171" break="no"/>peratura: Messias igitur venit. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2033">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>IV. Facit ad consolationem. Sicut enim suo tempore implevit:  
+      <lb ed="#H" n="173"/>Deus promissiones suas de Messia exhibendo, quem tantopere 
+      fide<lb ed="#H" n="174" break="no"/>es in veteri Testamento expetiveruntt Ita suo tempore implebit 
+      <lb ed="#H" n="175"/>preces nostras, quas se exanditurum promittit: 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2046">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>V. Servit reprehensioni eorum qui Deo determinant tempus, 
+      <lb ed="#H" n="177"/>quando libidini eorum vIstultae ex ectationi satisfacere debeat,  
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2056">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Natus est, quum prodiisse: a Caesare Augusto edictum, ut 
+      descri<lb ed="#H" n="179" break="no"/>peretur totus terrarum orbis: ut mostraretur, illum apparuisse in carne 
+      <lb ed="#H" n="180"/>descript onis mundi tepore, qui electos suos descripsit ad aeterna in 
+      li<lb ed="#H" n="181" break="no"/>bro vitae: At e: otrario de reprobis per Prophetam dicitur Ps. 69. v. 
+      <lb ed="#H" n="182"/>29. Deleantur de libro viventium, &amp; cum justis non scribantur:  
+      <!--cod-MkL9py-0411.xml-->
+      <pb ed="#H" n="384"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>AEternus in tempore natus est; aeternus permanens, tempo ralis 
+      <lb ed="#H" n="2"/>paruit, ut nos ad aeternam vitam renasceremur. 
+      <lb ed="#H" n="3"/>In natura sua divina ante tempora natus est, in nostra natura 
+      veni<lb ed="#H" n="4" break="no"/>in tempore 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2087">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>De tempore nativitatis Christi vide plura in lectionibus nostris 
+      <lb ed="#H" n="6"/>de vaticinio Gen 49. 10. &amp; Dan. 2. v. 34, 15, 44, 45. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2096">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Quod ad statum nativitatis Christi attinet, natus est Christus i1 
+      <lb ed="#H" n="8"/>summa paupertate: cujus indicia fuerunt, quod tenuibus fasciis 
+      in<lb ed="#H" n="9" break="no"/>polutus: quod in praesepi reclinatus: quod hyemali tempore in 
+      loce<lb ed="#H" n="10" break="no"/>incommodo, nempe in stabulo, quum locus non esset in diversorio¬ 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2109">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>I. Usus: ut ipsius paupertate ditesceremus, 2. Cor. 8. v. 9. 
+      <lb ed="#H" n="12"/>II. Ut feramus aequo animo paupertatem corporalem, idque 
+      ex<lb ed="#H" n="13" break="no"/>emplo Christi 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2120">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>In praesepi reclinatus est, ut fideles omnes, videlicet sancta 
+      anima<lb ed="#H" n="15" break="no"/>ia, carnis suae frumento &amp; pabulo reficeret.  
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2129">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Christus natus est infans, &amp; non statimvir perfectus qualis Adam 
+      <lb ed="#H" n="17"/>creatus erat Nam Adam creatus est, ut principium naturae humana 
+      <lb ed="#H" n="18"/>in naturalibus tam secundum corpus, quam secundum animam: 
+      Et<lb ed="#H" n="19" break="no"/>quia perfecta, sunt secundum naturae ordinem priora imperfectis; id 
+      <lb ed="#H" n="20"/>eo Adam, sicut secundum corpus creatus est perfectus in quantitate 
+      <lb ed="#H" n="21"/>ita &amp; se: undum animam creatus est perfectus in scientia &amp; aliis 
+      ani<lb ed="#H" n="22" break="no"/>mae dotibus naturalibus. Christus autem non est productus ut 
+      princi<lb ed="#H" n="23" break="no"/>pium hominum in esse naturae, nec in naturalib. pro hoc statu, sed ut  
+      <lb ed="#H" n="24"/>instaurator humanae naturae per gratiam: in cujus signum productus est 
+      <lb ed="#H" n="25"/>secundum corpus quantitatis imperfectae; &amp; similiter secundum 
+      ani<lb ed="#H" n="26" break="no"/>mam in pura potentia, quo ad scientiam naturaliter acquisibilem; &amp; 
+      <lb ed="#H" n="27"/>sicut crevit aetate &amp; vere augmentum corporale habuit, ita crevit 
+      sa<lb ed="#H" n="28" break="no"/>pientia acquisita: ac proinde productus est infans, postea per omnes. 
+      <lb ed="#H" n="29"/>etates crevit, ut omnium aetatum instauratore 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2165">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>Nativitas Christi desiderata, exoptata, expetita fuit inde a prima  
+      <lb ed="#H" n="31"/>promissione ejus in Paradiso facta 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2174">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Patefacta est nativitas Christi per sanctos Angelos, qui 
+      primi<lb ed="#H" n="33" break="no"/>eam annunciarunt &amp; nobis hominibus gratulati sunt. Prius 
+      quippe<lb ed="#H" n="34" break="no"/>quam Redemtor noster in carne nasceretur, discordia inter 
+      Ange<lb ed="#H" n="35" break="no"/>los &amp; nos homines fuit, qui ab illorum claritate atque mundicie 
+      <lb ed="#H" n="36"/>per primae cul pae meritum &amp; per quotidiana delicta longe 
+      dista<lb ed="#H" n="37" break="no"/>bamus. Quia enim propter peccatum extranei eramus a Deo, 
+      extra<lb ed="#H" n="38" break="no"/>neos nos a suo consortio deputabant angeli, cives Dei. Sed quum 
+      <lb ed="#H" n="39"/>Rex caeli nostram carnem assumsit, infirmitatem nostram illa jam 
+      <lb ed="#H" n="40"/>Angelica celsitudo non despicit. Ad pacem nostram Angeli 
+      redie<lb ed="#H" n="41" break="no"/>runt, intentionem prioris discordiae postposuerunt, &amp; quos prius 
+      <lb ed="#H" n="42"/>infirmos abjectosque despexerant, jam socios venerantur. Nec 
+      habe<lb ed="#H" n="43" break="no"/>re dedignantur hominem conservum, qui super se adorant 
+      homi<lb ed="#H" n="44" break="no"/>nem Dominum ac Deum 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2207">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Patefacta &amp; annunciata est primum nativitas non mundi hujus 
+      <lb ed="#H" n="46"/>potentibus, Cyrenio, Augasto, HeroSi Regi: non summis 
+      sacerdoti<lb ed="#H" n="47" break="no"/>tibus Jerosolymis regnant bus, non superbis &amp; fastuosis Judaeorum 
+      <lb ed="#H" n="48"/>principibus; sed pauperibus &amp; vilibus pastoribus: Quod tribus de 
+      cau<lb ed="#H" n="49" break="no"/>sis factum: 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2223">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Vna, est, ut Christus ambitionem nostram &amp; gloriae cupiditatem 
+      <lb ed="#H" n="51"/>pensaret exinanitione sua, qua non illis primum innotescere voluit,  
+      <lb ed="#H" n="52"/>qui honore &amp; excellentia praediti fuerunt, sed contemtis &amp; nullius 
+      <lb ed="#H" n="53"/>pretii hominibus. Exinanitio Christi, quae a primo conceptionis 
+      <lb ed="#H" n="54"/>momento, coepit non potest satis a nobis assidue diligenterqui 
+      <lb ed="#H" n="55"/>perpendi: omnes ejus particulae, quantumvis minutissimae 
+      vide<lb ed="#H" n="56" break="no"/>antur, ad peccatorum nostrorum expiationem pertinuerunt. Hoc 
+      <lb ed="#H" n="57"/>verae humilitatis est, non illis qui in mundo gloria excellunt, cupere 
+      <lb ed="#H" n="58"/>innotescere, sed humi ibus, sed spretis coram mundo. Hic recorde 
+      <lb ed="#H" n="59"/>mur quod Dominus monet Matth. 11. 29 Dscite a me quod mitis simi 
+      <lb ed="#H" n="60"/>&amp; humilis corde. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2252">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Secunda causa est, ut ostenderetur, Christum esse ἀρχιποιμενα &amp; 
+      <lb ed="#H" n="62"/>Pastorem animarum nostratum, de quo Propheta Micheas 
+      capi<lb ed="#H" n="63" break="no"/>te 5. praedixerat quod pasturus esset populum Israelis: De quo 
+      Da<lb ed="#H" n="64" break="no"/>vid ait Psalm. 23. vers. 1. Iehova est pastor meus, nihil mihi deerit: Qui  
+      <lb ed="#H" n="65"/>se prositetur esse bonum illum pastorem, ponentem animam pro 
+      o<lb ed="#H" n="66" break="no"/>vibus suis, Johannis 10. v. 15. Unde &amp; pastores ad sua decreta 
+      exse<lb ed="#H" n="67" break="no"/>quenda &amp; opera patefacienda adhibuit: Davidem a grege assumsit, 
+      <lb ed="#H" n="68"/>&amp; in Regem Israelitatum unxit, donis magnis ornavit, voluntatem 
+      <lb ed="#H" n="69"/>&amp; jura sua ei manifestavit. Amosum inter pastores versantem, 
+      Pro<lb ed="#H" n="70" break="no"/>phetam constituit, ut legitur Amos 1. Ita pastoribus primum 
+      mani<lb ed="#H" n="71" break="no"/>festari voluit summus noster Pastos 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2281">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Tertia causa est, ut ostenderetur Christum propter illos natum 
+      es<lb ed="#H" n="73" break="no"/>se hominem, qui humana sapientia destituti, simplices, sinceri, 
+      pau<lb ed="#H" n="74" break="no"/>peres, &amp; contemti sunt coram mundo. Placuit Deo, ut 
+      pauperi<lb ed="#H" n="75" break="no"/>bus primum patefieret, qui pauper est factus, quum esset dives, 2. 
+      <lb ed="#H" n="76"/>Corinth. 8. vers. 9. qui natus paoper, ut pauperes spiritu ditaret. It 
+      <lb ed="#H" n="77"/>beneplacitum Dei est, se &amp; beneficia sua salutaria humilibus &amp; 
+      pau<lb ed="#H" n="78" break="no"/>peribus spiritu patefacere, quemadmodum &amp; testimonia &amp; 
+      exem<lb ed="#H" n="79" break="no"/>pla scripturae testantur. Psalm. 25. vers. 8, 9. Bonus &amp; rectus 
+      Ieho<lb ed="#H" n="80" break="no"/>vi est, idcirco docet peccatores viam: Facit ut incedant mansueti ex 
+      ju<lb ed="#H" n="81" break="no"/>re, &amp; docet mansuetos viam suam. &amp; vers. 14. Arcanum Iehovae. 
+      <lb ed="#H" n="82"/>adest reverentibus ipsum, &amp; foedus ejus ut experimento testetur eis,  
+      <lb ed="#H" n="83"/>Corinth. 1. vers. 26, 27, 28, 20. Videtis enim vocationem vestram. 
+      <lb ed="#H" n="84"/>fratris, vos non esse multos sapientes secundum carnem, non 
+      <lb ed="#H" n="85"/>multos potintes, non multos nobiles: Verum qua stulta sunt mundo 
+      ele<lb ed="#H" n="86" break="no"/>git Deus ut pudefaciat supientes: &amp; quae sunt infirma mundo, elegi. 
+      <lb ed="#H" n="87"/>Deus ut pudefaciat robusta: &amp; quae ignobilia sunt mundo &amp; pro 
+      nihi<lb ed="#H" n="88" break="no"/>lo habita, elegit Deus, &amp; ea quae non sunt, ut ea quae sunt aboleat: ut 
+      no<lb ed="#H" n="89" break="no"/>glorietur ulla caro coram eo. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2326">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Exempla quod attinet, patefecit se &amp; baneficia sua salutaria E 
+      <lb ed="#H" n="91"/>Abrahamo, Isaaco, Jacobo, Davidi ita hic pastoribus, post Aposto 
+      <lb ed="#H" n="92"/>lis hominibus illiteratis, piscatoribus pauperibus. Agnoscimus 
+      <!--cod-MkL9py-0411.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>hinc inaestimabilem bonitatem erga nos Dei, qui etiam nobis 
+      <lb ed="#H" n="94"/>ut ut mundo despectui simus, Christum patefacere dignatus est, 
+      <lb ed="#H" n="95"/>Sic ut cum Davide merito ad nostrum solatium dicamus; 
+      Ieho<lb ed="#H" n="96" break="no"/>vam bonum &amp; rectum esse. Servit hoc excitandis nobis ad 
+      cele<lb ed="#H" n="97" break="no"/>brandum Deum; qua in re Christum habemus ducem, qui Matth. 
+      <lb ed="#H" n="98"/>I1 vers. 25, 26. in hujusmodi δυζολογίαν erumpit, Gloriam tibi 
+      tri<lb ed="#H" n="99" break="no"/>buo Pater, Domine caeli &amp; terrae, quod haec occultaveris a sapientibus 
+      <lb ed="#H" n="100"/>&amp; intelligentibus, &amp; ea retexeris infantibus. Etiam Pater, quia ita 
+      <lb ed="#H" n="101"/>placuit tibi 
+      <lb ed="#H" n="102"/>Hae sunt causae, cur Pastoribus Christi nativitas primum sit 
+      nun<lb ed="#H" n="103" break="no"/>ciata. Nunciata est autem pastoribus in eadem regione 
+      Bethlchemi<lb ed="#H" n="104" break="no"/>tica versantibus: ut inde colligeremus; Christum &amp; propinquis &amp; 
+      lo<lb ed="#H" n="105" break="no"/>ginquis suam nativitatem manifestasse. Propinqui fuerunt Pastores. 
+      <lb ed="#H" n="106"/>in vicinia Bethlehemae commorantes: Remoti fuerunt Magis 
+      <lb ed="#H" n="107"/>quibus per stellam eadem innotuit. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2374">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>O utinam simus &amp; nos semper vicini Christo in terra Ephratae 
+      <lb ed="#H" n="109"/>d est, in regione fertili, in Ecclesia, in qua Deus denuo gignit 
+      fide<lb ed="#H" n="110" break="no"/>les Christos &amp; utinam qui adhuc longius absunt, &amp; iis Dominus 
+      in<lb ed="#H" n="111" break="no"/>clarescat: 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2387">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Nunciata est nativitas Christi Pastoribus excubantibus &amp; 
+      a<lb ed="#H" n="113" break="no"/>gentibus vigilias super gregem suum: ut discamus hinc surgentis 
+      <lb ed="#H" n="114"/>Ecclesiae exordium. Boni pastores excubant &amp; vigilant, quos 
+      bo<lb ed="#H" n="115" break="no"/>nus Pastor informat. Christus nascitur, &amp; pastores vigilare 
+      coe<lb ed="#H" n="116" break="no"/>perunt, qui gentium greges pecudum more ante viventes, in 
+      cau<lb ed="#H" n="117" break="no"/>lam Domini congregarent. Quum laudentur pastores super gregem 
+      <lb ed="#H" n="118"/>pvium ratione carentium excubantes &amp; vigilantes: quanto 
+      ma<lb ed="#H" n="119" break="no"/>gis Pastoribus gregis Dominici excubandum est &amp; vigilandum su 
+      <lb ed="#H" n="120"/>per gregem fidei ipsorum commissum? Huc facit quod dicitur, 
+      A<lb ed="#H" n="121" break="no"/>stor 20. vers. 28, 29. 30, 31. Attendite vobis ipsis &amp; toti gregi, in qui  
+      <lb ed="#H" n="122"/>pos Spiritus Sanctus constituit Episcopos, ad pescendum Ecclesiam 
+      <lb ed="#H" n="123"/>Dei, quam suo illo sanguine acouisivit. Ego enim illud scio, lupos 
+      gra<lb ed="#H" n="124" break="no"/>ves, non parcentes gregi, ingressuros esse in vos post discessum meum. Et  
+      <lb ed="#H" n="125"/>ex vobis ipsis exorituros qui loquantur per versa, ut discipulos pest se 
+      als<lb ed="#H" n="126" break="no"/>trahant: Ideo vigilate. Et Apocal. 3. v. 2. Esto vigilaus &amp; confirma 
+      re<lb ed="#H" n="127" break="no"/>liqua moribunda. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2426">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>Nunciata est nativitas Christi pastoribus excubantibus, &amp; 
+      vigi<lb ed="#H" n="129" break="no"/>lias super gregem suum agentibus: ut sciamus, non iis Christum 
+      <lb ed="#H" n="130"/>innotescere, qui peccatis suaviter indormiunt, qui vocationis suae 
+      im<lb ed="#H" n="131" break="no"/>memores alia agunt quam vocatio ipsorum ferat; sed versantibus 
+      <lb ed="#H" n="132"/>in ea vocatione, ad quam cos Dominus destinavit. Infimae sortis 
+      ho<lb ed="#H" n="133" break="no"/>minibus, veluti opilionibus miseris, primum Dominus 
+      innctesce<lb ed="#H" n="134" break="no"/>re voluit, ut intelligeremus, nullum genus hominum etiam abjectis: 
+      <lb ed="#H" n="135"/>imum a Christo negligi 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2448">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>Nunciata est nativitas Christi pastoribus nocte, ut &amp; Christus 
+      na<lb ed="#H" n="137" break="no"/>us est nocte: Ut sciremus, Christum venisse ad tenebras nostras 
+      <lb ed="#H" n="138"/>dispellendas &amp; illuminandas. In tenebris noctis densissimis 
+      ver<lb ed="#H" n="139" break="no"/>sabamur omnes, venit Christus &amp; invisit nos ex alto; Ut apparco 
+      <lb ed="#H" n="140"/>iis qui in tenebris &amp; umbra mortis positi sunt, ad dirigendos paniea 
+      <lb ed="#H" n="141"/>nostros in viam pacis, ut Zacharias sacerdos cecinit Luc. 1. 1e11 72. 
+      <lb ed="#H" n="142"/>γο Jam tempestivum est nos a somno expergisci. Nox proccint, dies 
+      <lb ed="#H" n="143"/>autem propinquavit.  
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2470">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Abjiciamus igitur opera tenebrarum, &amp; induamur habitu, qui 
+      iu<lb ed="#H" n="145" break="no"/>ci conveniat. Ut interdiu composite incedamus: non in 
+      com<lb ed="#H" n="146" break="no"/>messationibus &amp; ebrietatibus, non cubilibus ac proterviis, non lite &amp; 
+      <lb ed="#H" n="147"/>invidia. Sed induimini Domino Jesu Christo, &amp; carnis curam ne 
+      ha<lb ed="#H" n="148" break="no"/>pete ad explendas cupiditates, ut Paulus admonet Rom. 13. v. 11, &amp; 
+      <lb ed="#H" n="149"/>sequentibus. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2489">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>Ut nocte natus est, ita nocte primum patefactus est Sermo ille, 
+      <lb ed="#H" n="151"/>Lux illa hominum, lux illa quae in tenebris lucet, sed quam tenebra 
+      <lb ed="#H" n="152"/>non comprehendunt, lux ilia vera, quae illuminat omnem hominem 
+      <lb ed="#H" n="153"/>venientem in mundum, ut loquitur Johannes Evangelista cap. 1. v. 7. 
+      <lb ed="#H" n="154"/>8, 9. Ut umbras suturorum &amp; noctem Jadaismi tolleret: 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2505">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Sic patefacta est nativitas Christi propinquis. 
+      <lb ed="#H" n="156"/>Patefacta est eadem nativitas Christi &amp; longinquis, nimirum 
+      Ma<lb ed="#H" n="157" break="no"/>gis Chaluaeorum in Oriente, tanquam primitiis Gentium in 
+      novo<lb ed="#H" n="158" break="no"/>Testamento, 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2518">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>Patefacta est illis per stellam Christi, de qua Matth. 2. v. 2, 7, 9. &amp; 
+      <lb ed="#H" n="160"/>supra quinto libro, capite vigesimotertio, pag. 303. &amp; per 
+      Ma<lb ed="#H" n="161" break="no"/>os Judaeis &amp; Herodi. Deinde locus nativitatis Christi per hostes 
+      <lb ed="#H" n="162"/>Christi qui ignorantes &amp; inviti serviebant consilio Dei, iisdem 
+      Ma<lb ed="#H" n="163" break="no"/>gis indicatus, Matth. 2. v. 4.: &amp; sequentibus; &amp; per eandem stellam 
+      <lb ed="#H" n="164"/>quam in Oriente viderant, designatus Matth. 2. v 5. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2536">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Nativitate Christi patefacta mundo, turbati sunt impii Matth. 
+      <lb ed="#H" n="166"/>2. v. 3. Christus adhuc infans e patria terrena in exilium AEgyptum 
+      <lb ed="#H" n="167"/>asportatus Matth. 2. v. 13, 14, 15. motae persecutiones ob Christum 
+      <lb ed="#H" n="168"/>adversus innocentes, &amp; prima quidem persequutio nato Christo &amp; 
+      <lb ed="#H" n="169"/>adhuc infante mota est adversus infantes Bethlehemiticos a Rege, 
+      <lb ed="#H" n="170"/>Herode, Matth. 2. v. 16. 
+      </p>
+            <p xml:id="yyy8Uu-e84355-d1e2554">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Sic fuit de incarnatione Christi: sequitur de Legis 
+      <lb ed="#H" n="172"/>impletione.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

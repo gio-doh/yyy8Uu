@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 22</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 22</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="171"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e80906"> <!-- l2-c22 -->
+            <head xml:id="yyy8Uu-e80906-Hd1e109">Caput 22</head>
+            <p xml:id="yyy8Uu-e80906-d1e112">
+               <lb ed="#H" n="56"/>CAPUT XXII. 
+      <lb ed="#H" n="57"/>In quo de Amore DEI.
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e119">
+               <lb ed="#H" n="58"/>E Amore Dei considerandum, quot modis dicatur: an sit in 
+      <lb ed="#H" n="59"/>oDeo? quid sit? quotuplex sit? qua eius causae efficientes? quae 
+      <lb ed="#H" n="60"/>ifffecta, adiuncta, quis usus, &amp;c.
+    </p>
+            <p xml:id="yyy8Uu-e80906-d1e128">
+               <lb ed="#H" n="61"/>Amor Dei dupliciter dicitur, vel quo Deus amat, vel quo nos Deum 
+      <lb ed="#H" n="62"/>amamus. Priore significato jam accipitur. Sed &amp; hoc significate 
+      <lb ed="#H" n="63"/>usurpatur dupliciter, nempe vel ἐνυξγητικώς vel παοητικώς, Eνεργητιϰώς 
+      <lb ed="#H" n="64"/>amor Dei acceptus, significat propensam Dei voluntatem, quae amat 
+      <lb ed="#H" n="65"/>πολητιϰώς significat donum ex amore Dei nobis datum &amp; a nobis 
+      <lb ed="#H" n="66"/>acceptum 1. Joh. 3. v. 1. Ille amor essentialis est Deo, hic non 
+      item<lb ed="#H" n="67" break="no"/>De illo jam agitur &amp; quaeritur, An sit in Deo? Videtur quod non 
+      <lb ed="#H" n="68"/> 
+               <lb ed="#H" n="69"/>quia amor est passio¬ 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e151">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>RESP. Amor in homine est passio, sed non in Deo, in quo est 
+      <lb ed="#H" n="71"/>amor sine passione. Tum Deus non amat affectu, sed effectus Hoc 
+      <lb ed="#H" n="72"/>autem modo describitur: 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e162">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>AMOR DEI, est essentialis proptietas seu essentia Dei, quam 
+      ob<lb ed="#H" n="74" break="no"/>lectans sese in eo quod approbat, ei bonum vult. Hoc enim est 
+      ama<lb ed="#H" n="75" break="no"/>re, oblectare se eo quod placet, eique bonum velle &amp; praestare. 
+      Dici<lb ed="#H" n="76" break="no"/>tur etiam Charitas Dei seu dilectio. Unde 1. Joh. 4. v. 8. Deus 
+      estcha<lb ed="#H" n="77" break="no"/>ritas, videlicet essentialis &amp; non per causam tantum, sicut cum 
+      dici<lb ed="#H" n="78" break="no"/>tur fortitudo nostra 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e180">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Estque tum naturalis, tum uoluntarius 
+      <lb ed="#H" n="80"/>Amor Dei naturalis, est quo seipsum ante omnia amat: Pater Fi 
+      <lb ed="#H" n="81"/>lium &amp; Spiritum Sanctum: Filius Patrem &amp; Spiritum Sanctum: 
+      <lb ed="#H" n="82"/>Spiritus Sanctus Patrem &amp; Filium, Matth. 3. v. 7. &amp; 17. 5. clamat 
+      Pa<lb ed="#H" n="83" break="no"/>ter de coelis: Hic est Filius ille meus, dilectus ille in quo acquiesco. Joh. 
+      <lb ed="#H" n="84"/>3. v. 35. ait Johannes Baptista: Pater diligit Filium, &amp; omnia dedit ei 
+      in<lb ed="#H" n="85" break="no"/>manum. Et Dominus ipse ait, Joh. 5. v. 20. Pater amat Filium &amp; 
+      om<lb ed="#H" n="86" break="no"/>nia monstrat ei quae ipse facit. Et cap. 17. 24. Dilexisti me ante 
+      jactum<lb ed="#H" n="87" break="no"/>mundi fundamentum Joh. 14. v. 31. Vt norit mundus quod ego Patrem 
+      <lb ed="#H" n="88"/>diligo: &amp; prout mandavit mihi Pater ita facio: surgite abeamus hinc. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e206">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>QUAERITUR, An Pater Filium, &amp; vicissim Filius Patrem per 
+      Spiri<lb ed="#H" n="90" break="no"/>tum Sanctum diligat, ita us Spiritus Sanctius sit amor, sit charitas, qua 
+      <!--cod-MkL9py-0198.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>Pater a Filio, Filius a Patre diligatur. ReSPs Fetrus Lombardus 
+      af<lb ed="#H" n="92" break="no"/>firmat primo libro. Distinct. decima; At nos negamus; moti 
+      sequen<lb ed="#H" n="93" break="no"/>tibus argumentis: 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e226">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>I. Quia id Scriptura Sacra nusquam docet.  
+      <lb ed="#H" n="95"/>II. Quia Pater &amp; Filius se mutuo diligunt, non interventu 
+      Spiri<lb ed="#H" n="96" break="no"/>tus Sancti, sed quia unica &amp; eadem est Patris &amp; Filii essentia, una 
+      <lb ed="#H" n="97"/>utriusque voluntas 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e239">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>III. Quia amor mutuus Patris &amp; Filii non nititur aliquo realiter 
+      <lb ed="#H" n="99"/>a personis ipsorum distincto, quemadmodum mutuus amor 
+      inter<lb ed="#H" n="100" break="no"/>duos homines, qui opus habent aliquo conciliatore amoris &amp; vinculo 
+      <lb ed="#H" n="101"/>jusdem 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e253">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>IV. Quia si Pater diligit Filium &amp; Filius Patrem &amp; Spiritum 
+      San<lb ed="#H" n="103" break="no"/>ctum, tum divisi sunt essentiis. Nam si Pater &amp; Filius inter se pacem 
+      <lb ed="#H" n="104"/>ervant per unitatem &amp; consensum, quem inter eos Spiritus S. 
+      conci<lb ed="#H" n="105" break="no"/>iat, tum Pater &amp; Filius a sese animo &amp; loco separantur, uti homine 
+      <lb ed="#H" n="106"/>e mutuo amantes. At consequens est absurdum: Ergo &amp; antecedens. 
+      <lb ed="#H" n="107"/>
+               <name xml:id="yyy8Uu-e80906-Nd1e270">Petrus Lombardus</name> autem opinionem suam stabilire conatur 
+      auto<lb ed="#H" n="108" break="no"/>itate Augustini, qui affirmat Spiritum Sanctum dici charitatem. I. 
+      Jo<lb ed="#H" n="109" break="no"/>nan. 4. 7, 8. &amp; quia Spiritus Sanctus est amborum Spiritus, ex dicto 
+      Io<lb ed="#H" n="110" break="no"/>hannis colligat, Patrem &amp; Filium se mutuo amare per Spiritum Sanctum 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e280">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>RESP. Primo petit Lombardus principium, dum ex autoritate 
+      <lb ed="#H" n="112"/>Augustini exstruit dogma religionis Christianae, quod ex Scriptura 
+      <lb ed="#H" n="113"/>Sacra sola depromi debebat. Deinde 1 Joh 4. v. 7. charitas, quae 
+      di<lb ed="#H" n="114" break="no"/>citur esse ex Deo, non est Spiritus Sanctus, sed amor, quo nos 
+      diligi<lb ed="#H" n="115" break="no"/>mus Deum, &amp; proximum propter Deum. Contextus id ostendit; 
+      <lb ed="#H" n="116"/>Nam praecedit hortatio ad charitatem mutuam inter nos, Dilecti, 
+      di<lb ed="#H" n="117" break="no"/>ligamus alii alios. Argumentum hortationis hujus est, nam charitas 
+      <lb ed="#H" n="118"/>ex Deo est. q. d. Charitati mutuae studere debemus, quia illa ex Deo 
+      <lb ed="#H" n="119"/>est. Versu autem octavo, ubi dicitur; Deus est charitas: nomine Dei, 
+      <lb ed="#H" n="120"/>non intelligitur Spiritus Sanctus, sed Pater, ut ex sequentibus verbis 
+      <lb ed="#H" n="121"/>liquet 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e309">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Amor Dei voluntarius, est quo creaturas suas amat:  
+      <lb ed="#H" n="123"/>Estque vel generalis vel specialis. 
+      <lb ed="#H" n="124"/>Seneralis seu communis amor Dei, est quo omnes prorsus res abs  
+      <lb ed="#H" n="125"/>se conditas, quatenus creaturae sunt, complectitur, iisque benefacit, 
+      eab<lb ed="#H" n="126" break="no"/>ue conservat &amp; sustentat. Sap. undecimo versic. vigesimoquarto. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e325">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Hoc pacto nemo est vel hominum vel etiam daemoniorum, qui  
+      <lb ed="#H" n="128"/>dicere queat, se non amari a Deo. Etsi enim Deus in illis odio habeat 
+      <lb ed="#H" n="129"/>peccatum, amat tamen naturam quam creavit, Matth. 5. 44, 45. 
+      Hu<lb ed="#H" n="130" break="no"/>jus amoris cursus peccato hominis inhibetur? 
+      <lb ed="#H" n="131"/>Specialis seu singularis amor Dei, est quo singulos electos peculiari:¬ 
+      <lb ed="#H" n="132"/>ter prosequitur:  
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e343">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>Estque tum erga Christum quo ad humanam eius naturam, tum 
+      <lb ed="#H" n="134"/>erga electos in Christo. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e352">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>Amor Dei erga Christum, est quo Pater Christum complectitur  
+      <lb ed="#H" n="136"/>non tantum ut λόγον, sed etiam ut hominem &amp; Mediatorem ab 
+      aeter<lb ed="#H" n="137" break="no"/>no constitutum, Johan. 3. v. 35. Pater diligit Filium, &amp; omnia 
+      dedi<lb ed="#H" n="138" break="no"/>ei in manum. Atque hic amor Patris erga Filium, est fundamentum 
+      <lb ed="#H" n="139"/>amoris Dei erga nos: quia Deus dilexit nos in illo dilecto, Eph. 1. v. 6. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e369">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Amor Dei erga electos in Christo est tum erga sanctos Angelos, tum 
+      <lb ed="#H" n="141"/>ga homines servandos 
+      <lb ed="#H" n="142"/>De speciali amore erga homines servandos dicitur Joh. 3. v. 16. 
+      <lb ed="#H" n="143"/>Ita Deus dilexit mundum, ut Filium suum Vnigenitum dederit, ut 
+      quis<lb ed="#H" n="144" break="no"/>quis credit in eum, non pereat, sed habeat vitam aeternam. Et Rom. 8. 
+      <lb ed="#H" n="145"/>39. Nulla res condita potest nos separare a Charitate Dei, quae est in 
+      <lb ed="#H" n="146"/>Christo Iesu Domino nostro. Ergo quatenus homines, complectitur  
+      <lb ed="#H" n="147"/>Deus singulos communi amore; quatenus Christianos, complectitur 
+      <lb ed="#H" n="148"/>eos singulari amore in Christo. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e393">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>EXCIPIUNT adversarii veritatis, qui reproborum patronos &amp; 
+      <lb ed="#H" n="150"/>advocatos se constituerunt, in hoc dicto Iohannis, nomine MUNDI. 
+      <lb ed="#H" n="151"/>non intelligi solos electos, sed universos &amp; singulos homines etiam 
+      repro<lb ed="#H" n="152" break="no"/>bos, quia &amp; isti sint in mundo &amp; pars mundi. At falsa est haec 
+      inter<lb ed="#H" n="153" break="no"/>pretatio: quia pugnat cum ipso contextu, ut ex sequentibus pater 
+      <lb ed="#H" n="154"/>argumentis. I. Illi nomine mundi intelliguntur quorum amorei 
+      <lb ed="#H" n="155"/>motus est Deus, ut Filium suum Unigenitum dederit. Atqui non 
+      <lb ed="#H" n="156"/>amore reproborum, sed electorum motus est ut Flium suum 
+      Unige<lb ed="#H" n="157" break="no"/>nitum dederit. Ergo non reprobi, sed electi tantum nomine mundi: 
+      <lb ed="#H" n="158"/>nic intelliguntur. II. Illi nomine mundi hic intelliguntur, ad quorum 
+      <lb ed="#H" n="159"/>salutem Deus Filium dedit: At non ad reproborum, sed electorum 
+      <lb ed="#H" n="160"/>tantum salutem Deus Filium dedit: Ergo, &amp;c. III. Illi nomine 
+      <lb ed="#H" n="161"/>mundi hic intelliguntur, quibus Deus Filium suum Hnigenitum 
+      de<lb ed="#H" n="162" break="no"/>dit: At non reprobis, sed electis tantum Deus Filium suum 
+      Unige<lb ed="#H" n="163" break="no"/>nitum dedit: quia non reprobos sed electos Filio dedit: Ergo, &amp;c. 
+      <lb ed="#H" n="164"/>IV. Illi nomine mundi hic intelliguntur, ad quos finis donatio nis 
+      <lb ed="#H" n="165"/>Filii, nempe immunitas a perditione &amp; possessio vitae aeternae 
+      perti<lb ed="#H" n="166" break="no"/>net: At non ad reprobos, sed ad electos tantum finis ille pertinet 
+      <lb ed="#H" n="167"/>Ergo non reprobi, sed electi nomine mundi hic intelliguntur. V. 
+      Il<lb ed="#H" n="168" break="no"/>i nomine mundi hic intelliguntur, ad quos pertinet consolatio ex 
+      <lb ed="#H" n="169"/>ista donatione Filii Dei Unigeniti: Atqui non ad reprobos sed ad 
+      <lb ed="#H" n="170"/>electos tantum pertinet consolatio ex ista donatione Filii Dei 
+      Uni<lb ed="#H" n="171" break="no"/>geniti: Ergo, &amp;c. VI. Illi nomine mundi hic intelliguntur, ad 
+      <lb ed="#H" n="172"/>quos salus aeterna &amp; causa ejus nempe dilectio Dei pertinet: Agt 
+      <lb ed="#H" n="173"/>non ad reprobos sed ad electos pertinet, salus aeterna &amp; causa ejus 
+      <lb ed="#H" n="174"/>nempe dilectio Dei, I. Johan. 4. vers. 9, 10. Ergo, &amp;c. V11. Ill 
+      <lb ed="#H" n="175"/>nomine mundi hic intelliguntur, qui credunt in Filium Dei 
+      Unige<lb ed="#H" n="176" break="no"/>nitum; At non reprobi, sed soli electi credunt in Filium Dei 
+      Unige<lb ed="#H" n="177" break="no"/>hitum: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e461">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>lterum E XCIPIUNT adversarii: MUNDI nomine 
+      <lb ed="#H" n="179"/>NUNQVRM apud Iohannem significari solos fideles: sed aut 
+      uni<lb ed="#H" n="180" break="no"/>versim omnes homines, aut solos reprobos: Nunquam autem designari 
+      <lb ed="#H" n="181"/>solos credentes, inductione monstrari posse. 
+      <!--cod-MkL9py-0199.xml-->
+      <pb ed="#H" n="172"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>RESP. Ista tam audax &amp; temeratia assertio pluribus locis ex 
+      Jo<lb ed="#H" n="2" break="no"/>hanne adductis infringi potest. Verum ne adversarii cavillentur, nos 
+      <lb ed="#H" n="3"/>illa loca, quae adducturi sumus, interpretari ut nobis lubet: 
+      produ<lb ed="#H" n="4" break="no"/>camus Augustinum interpretem. Is septimo tomo, libro contra 
+      Do<lb ed="#H" n="5" break="no"/>natistas post collationem, pagina quadringentes. tertia, sic ait: 
+      Nolen<lb ed="#H" n="6" break="no"/>tes (Donatistae) consentire, mundi nomine Ecclesiam posse significari 
+      <lb ed="#H" n="7"/>contra verba Apostoli, qui dixit, Deus erat in Christo mundum 
+      recon<lb ed="#H" n="8" break="no"/>ilians sibi: &amp; contra ipsius verba Domini, qui dixit, Non venit Filius 
+      <lb ed="#H" n="9"/>hominis ut iudicet mundum, sed ut salvetur mundus per ipsum: 
+      Ne<lb ed="#H" n="10" break="no"/>que enim reconciliari Deo &amp; salvari per ipsum mundus potest, nisit 
+      <lb ed="#H" n="11"/>mundi nomine intelligatur Ecclesia, quae sola per eum Deo reconciliata 
+      <lb ed="#H" n="12"/>salvatur. Hactenus Augustinus. Praecedente vero pagin. 402. ait de 
+      <lb ed="#H" n="13"/>Donatistis: Illi (Donatistae) dicebant, mundum semper in maam 
+      si<lb ed="#H" n="14" break="no"/>gnificationem positum, &amp; testimonia de Scripturis dabant, quia 
+      scri<lb ed="#H" n="15" break="no"/>ptum est, Si quis dilexerit mundum, non est charitas Patris in illo, &amp; 
+      <lb ed="#H" n="16"/>catera talia. Nos vero non solum in malam, sed etiam in bonam 
+      signi<lb ed="#H" n="17" break="no"/>ficationem mundum in Scripturis positum, respondebamus, &amp; 
+      comme<lb ed="#H" n="18" break="no"/>morabamus etiam illud, quod scriptum est, Deus erat in Christo 
+      mun<lb ed="#H" n="19" break="no"/>dum reconcilians sibi, qui utique non sibi reconciliat, nisi Ecclesiam. 
+      Si<lb ed="#H" n="20" break="no"/>militer in Breviculo collationum cum Donatistis, in collatione tertis 
+      <lb ed="#H" n="21"/>lici pag. 387. Dissensio nata est propter mundi nomen, quod Donatista. 
+      <lb ed="#H" n="22"/>nolebant intelligi Ecclesiam, quia scriptum est: Ager est hic mundus. Et  
+      <lb ed="#H" n="23"/>multa testimonia protulerunt, quibus Sancta Scriptura mundum non 
+      <lb ed="#H" n="24"/>nisi malos commemorasset, sicuti est, Qui dilexerit mundum, non est 
+      <lb ed="#H" n="25"/>charitas Patris in illo, &amp; caetera talia; ut quasi ex hoc ostenderent 
+      mun<lb ed="#H" n="26" break="no"/>di nomine Ecclesiam significari minime potuisse. Contra Catholic.  
+      <lb ed="#H" n="27"/>alia testimonia proferebant, quibus in bono mundi nomen esse positum 
+      <lb ed="#H" n="28"/>ostenderetur, sicuti est, Deus erat in Christo, mundum reconcilians sibi 
+      <lb ed="#H" n="29"/>&amp; caetera huiusmodi ubi ostenderetur Ecclesia, quoniam ipsa utique per 
+      <lb ed="#H" n="30"/>Christum reconciliatur Deo. Tomo 9. Tractatu 87. in Johannem 
+      <lb ed="#H" n="31"/>pag. 3 12. Si de mundo essetis, mundus quod suum erat diligeret. Una 
+      <lb ed="#H" n="32"/>versae utique hoc dicit Ecclesiae, quam plerumque etiam ipsam mundi 
+      nomi<lb ed="#H" n="33" break="no"/>ne appellat, sicut est illud: Deus erat in Christo, mundum reconcilians 
+      <lb ed="#H" n="34"/>sibi. Itemque illud: Non venit Filius hominis ut iudiecet mundum, sed 
+      <lb ed="#H" n="35"/>ut salvetur mundus per ipsum; &amp; in epistola sua Iohannes ait: 
+      Advo<lb ed="#H" n="36" break="no"/>cutum habemus apud Patrem, Iesum Christum iustum, &amp; ipse 
+      propitia<lb ed="#H" n="37" break="no"/>tor est peccatorum nostrorum, non tantum nostrorum, sed etiam 
+      <lb ed="#H" n="38"/>totius mundi: totus ergo mundus Ecclesia est, &amp; totus 
+      mun<lb ed="#H" n="39" break="no"/>dus odit Ecclesiam. Mundus igitur odit mundum, in, micus 
+      reconcilia<lb ed="#H" n="40" break="no"/>tum, damnatus salvatum, inquinatus mundatum, sed iste mundus 
+      <lb ed="#H" n="41"/>quem Deus in Christo reconciliat sibi, &amp; per Christum salvatur, &amp; 
+      cu<lb ed="#H" n="42" break="no"/>per Christum peccatum omne donatur, de mundo electus est inimicot 
+      <lb ed="#H" n="43"/>damnato, contaminato. Tom. 2. epist. 48. pag. 118 Et totus mundus 
+      <lb ed="#H" n="44"/>in maligno positus est propter Zizania quae sunt per totum mundum: &amp; 
+      <lb ed="#H" n="45"/>Christus propitiator est peccatorum nostrorum, non tantum nostrorum: 
+      <lb ed="#H" n="46"/>sed totius mundi, propter triticum quod est per totum mundum. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e580">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Similiter totum mundum interpretatur Cyrillus in Johannem li 
+      <lb ed="#H" n="48"/>bro undecimo cap. 19. verba Christi Joh. 17. non oro pro mundo: &amp; 
+      <lb ed="#H" n="49"/>verba haec Johannis, propitiatio est totius mundi concilians: Beatus 
+      <lb ed="#H" n="50"/>Iohannes (inquit Cyrillus) quia erat Iudaus, ne pro Iudaeis tantum 
+      ad<lb ed="#H" n="51" break="no"/>vocatus esse Dominus apud Patrem videretur, necessario adiecit, cum 
+      <lb ed="#H" n="52"/>propitiationem esse totius mundi id est, pro omnibus qui per fidem vocat 
+      <lb ed="#H" n="53"/>ad iustitiam &amp; sanctificationem. Haec Cyrillus. Similiter explicat 
+      mun<lb ed="#H" n="54" break="no"/>di nomen Hieronymus libro 2. adversus Jovinianum. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e602">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Ex his instantiis liquet, falsum esse, nusquam a Johanne 
+      vocem<lb ed="#H" n="56" break="no"/>mundi pro solis fidelibus usurpari; ac proinde Joh. 3. dilectio 
+      mun<lb ed="#H" n="57" break="no"/>di de speciali amore hominum servandorum recte accipitur.  
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e613">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Causa efficiens amoris Dei erga nos est mera bonitas Dei. Causa 
+      <lb ed="#H" n="59"/>nulla est in nobis, hoc est, nihil est in nobis quo Deus moveatur 
+      a<lb ed="#H" n="60" break="no"/>nos diligendos: sed plane gratuitus est Dei amor. 1. Joh. 4. v. 10. In 
+      <lb ed="#H" n="61"/>hoc est charitas, non quod nos dilexerimus Deum, sed quod ipse dilexet 
+      <lb ed="#H" n="62"/>cit nos, &amp; miserit Filium suum ut esset propitiatio pro peccatis nostris. 
+      Et<lb ed="#H" n="63" break="no"/>v.19. Nos diligimus eum, quoniam ipse prior dilexit nos: quemadmo, 
+      <lb ed="#H" n="64"/>dum etiam Bernardus ait libro de Amore capitulo 4. Cum nos amas 
+      <lb ed="#H" n="65"/>non nisi propter te nos amas. Et mox: Nec te, nisi propter te; nec 
+      ange<lb ed="#H" n="66" break="no"/>lum nec hominem amare potes, nisi proptertes 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e638">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Proinde nostra charitas erga Deum, non est causa charitatis Dei 
+      <lb ed="#H" n="68"/>erga nos. Contra Bellarminus tertio tomo, libro primo de gratia &amp; 
+      <lb ed="#H" n="69"/>libero arbitrio, cap. sexto, docet, q nostra dilectio faciat nos Deo dilectos 
+      <lb ed="#H" n="70"/>&amp; cap. septimo ait; quod Deus duobus modis nos diligat: uno modo, ut 
+      <lb ed="#H" n="71"/>simus iusti &amp; sancti: alio modo, quia sumus iusti &amp; sancti. Et poste 
+      <lb ed="#H" n="72"/>riorem modum probat his dictis Prov. 8. v. 17. Ego diligentes me 
+      di<lb ed="#H" n="73" break="no"/>ligo. Et Joh. 14. v. 21. Qui diligit me, diligetur a Patre meo. Et cap. 16. 
+      <lb ed="#H" n="74"/>v. 27. Pater amat vos, quia vos me amistis. At primo haec modorum 
+      <lb ed="#H" n="75"/>dilectionis Dei distributio est ἀλογος, quia non est sumta ex eodem 
+      <lb ed="#H" n="76"/>fonte seu argumento. nam primus modus est causa finalis, secundus 
+      <lb ed="#H" n="77"/>est causa efficiens. Secundo est ἀθεόλογος: nam ex allegatis dictis 
+      per<lb ed="#H" n="78" break="no"/>eram colligitur alter ille modus Bellarmini, hoc est, amor 
+      promeri<lb ed="#H" n="79" break="no"/>tus nostra dilectione. Quod enim ad primum locum attinet ex Pro 
+      <lb ed="#H" n="80"/>perb. 8. v. 17. eo non docetur, quod Christus nos diligat, quia simus 
+      <lb ed="#H" n="81"/>justi &amp; sancti, sed primo quod noster amor erga Christum sit nobis 
+      <lb ed="#H" n="82"/>signum, quod ille nos amet. Itaque hoc dicto τεκμήριον &amp; indubita. 
+      <lb ed="#H" n="83"/>lum signum, non autem causa amoris Christi erga nos ostenditur? 
+      <lb ed="#H" n="84"/>Deinde eodem docetur, quodnam sit subjectum occupans amoris 
+      <lb ed="#H" n="85"/>Christi, hoc est, quosuam homines Christus sapientia donet, instruat 
+      <lb ed="#H" n="86"/>&amp; ornet, nempe illos qui ipsum amant. Tertio amare seu diligere hoc 
+      <lb ed="#H" n="87"/>loco non indicat attributum essentiale amoris, seu declarationem 
+      <lb ed="#H" n="88"/>amoris ipso opere seu facto, hoc est, collationem beneficiorum &amp; 
+      do<lb ed="#H" n="89" break="no"/>norum quibus Christus se diligentes ornat: sic ut amare seu diligere, 
+      <lb ed="#H" n="90"/>per metonymiam causae efficientis, hic idem sit, quod sapientia 
+      do<lb ed="#H" n="91" break="no"/>nare, instruere &amp; ornate, quia amor quo nos aeterna illa Patris 
+      Sa<lb ed="#H" n="92" break="no"/>lientia complectitur, est causa efficiens donationis sapientiae, qua  
+      <!--cod-MkL9py-0199.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>nobis opus est. Quin Bellarminus etiam ipsum Thomam Aquiia; 
+      <lb ed="#H" n="94"/>tem adversarium habet in hujus dicti expositione, qui sic explicat in 
+      <lb ed="#H" n="95"/>explanatione capitis quinti ad Romanos; Hoc quod ipsum amamus 
+      <lb ed="#H" n="96"/>signum est quod ipse nos amet, Proverb. 8. Ego diligentes me diligo. Et 
+      <lb ed="#H" n="97"/>expresse addit Thomas Aquinas; Non quasi nos primo dilexerimus 
+      <lb ed="#H" n="98"/>Deum, sed quoniam ipse prior dilexit nos, ut dicitur. 1. Joh. 4. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e716">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Quod attinet ad secundum locum, Johan 14. vers. 21. Qui diligit 
+      <lb ed="#H" n="100"/>me, diligetur a Patre meo: nec eo docetur, nostram dilectionem esse 
+      <lb ed="#H" n="101"/>causam divinae dilectionis: sed nostrae dilectionis effectum 
+      seu<lb ed="#H" n="102" break="no"/>fructum esse ampliorem sensum, perceptionem &amp; experientiam 
+      cla<lb ed="#H" n="103" break="no"/>tioremque cognitionem amoris divini erga nos. Sensos ergo est: 
+      <lb ed="#H" n="104"/>Qui diligit me, diligetur a Patre meo, hoc est, reipsa ex facto &amp; 
+      benefi<lb ed="#H" n="105" break="no"/>iis a Patre meo datis sentiet, experietur &amp; cognoscet, se diligi a 
+      Pa<lb ed="#H" n="106" break="no"/>tre meo, indies magis atque magis crescet in ipso sensus &amp; 
+      cognitio<lb ed="#H" n="107" break="no"/>charitatis Patris mei erga ipsum. Itaque hic diligi per metonymiam 
+      <lb ed="#H" n="108"/>subjecti, idem est quod experimeto cognoscere amore Dei erga nos 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e742">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>INSTANTIA: At dicitur futuro tempore: DILIGEIUR a Patri, 
+      <lb ed="#H" n="110"/>meo. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e751">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>RESP. Inde non evincitur Patris erga nos dilectionem esse 
+      effe<lb ed="#H" n="112" break="no"/>ctum nostrae dilectionis. Nam cum I. Joh. 4. v. 19. dicatur 
+      expres<lb ed="#H" n="113" break="no"/>re, quod Deus prior dilexerit nos: ut contradictio tollatur, necesse 
+      <lb ed="#H" n="114"/>est in his verbis Christi, verbum futurum diligetur, alia significatio  
+      <lb ed="#H" n="115"/>ne accipi, pro, beneficiis salutaribus cumulabitur, atque sic 
+      experimen<lb ed="#H" n="116" break="no"/>o ipso evidenter cognoscet se dilege 
+      <lb ed="#H" n="117"/>Quod ad tertium locum attinet Johan. 16. vers. 27. Pater amat? 
+      <lb ed="#H" n="118"/>vos, quia vos me amastis; nec ex illo recte colligitur nostrum 
+      amo<lb ed="#H" n="119" break="no"/>rem esse causam efficientem amoris divini erga nos, sed amorem 
+      no<lb ed="#H" n="120" break="no"/>strum erga Christum esse documentum amoris Patris coelestis 
+      er<lb ed="#H" n="121" break="no"/>ia nos. Nemo enim diligit Christum, nisi quem Pater prius 
+      di<lb ed="#H" n="122" break="no"/>lexit: sicut dicit Christus Johan. 6. v. 37. Quicquid dat mihi Pater,  
+      <lb ed="#H" n="123"/>ad me veniet: &amp; vers. 44. Nemo potest venire ad me, nisi Pater, qui  
+      <lb ed="#H" n="124"/>misit me, traxerit eum. Si nemo potest venire ad Christum, hoc  
+      <lb ed="#H" n="125"/>est, credendo &amp; amando tendere in ipsum, nisi Pater traxerit, ac 
+      pro<lb ed="#H" n="126" break="no"/>inde dilexerit eum: tum Pater nos prius dilexit, quam nos Christum. 
+      <lb ed="#H" n="127"/>Cum hoc consentit quod dicitur 1. Joh. 4. vers. 19. Ipse prior dilexit  
+      <lb ed="#H" n="128"/>nos. Et Roman. 10. vers. 20. Inventus sum ab iis, qui me non quae 
+      <lb ed="#H" n="129"/>rebant. Et Roman. 5. vers. 8. &amp; 10. Commendat suam erga nos 
+      <lb ed="#H" n="130"/>charitatem Deus, cum adhuc peccatores &amp; inimici essemus. Hoc 
+      Au<lb ed="#H" n="131" break="no"/>ustinus perspicue explicat nono tomo, tractatu centesimo secundo 
+      <lb ed="#H" n="132"/>in Johannem, pagina trecentesima quadragesima prima: Ideo 
+      ama<lb ed="#H" n="133" break="no"/>ille, quia nos amamus, an potius quia ille amat, ideo nos amamus? 
+      Ex<lb ed="#H" n="134" break="no"/>pistola sua idem ipse Evangelista respondeat: Nos diligimus, inquit,  
+      <lb ed="#H" n="135"/>quia prior ipse dilexit nos: hinc ergo factum est ut diligeremus, quia 
+      <lb ed="#H" n="136"/>dilecti sumus. Prorfus donum Dei est diligere Deum, quoniam ipse 
+      <lb ed="#H" n="137"/>ut diligeretur dedit, qui non dilectus dilexit. Displicentes amati sub 
+      <lb ed="#H" n="138"/>mus, ut esset in nobis unde placeremus: non enim amaremus Filium, 
+      <lb ed="#H" n="139"/>nisi amaremus &amp; Patrem. Amat nos Pater, quia nos amamus 
+      Fi<lb ed="#H" n="140" break="no"/>lium, cum a Patre &amp; Filio acceperimus, ut &amp; Patrem &amp; Filium 
+      ame<lb ed="#H" n="141" break="no"/>mus: diffundit enim charitatem in cordibus nostris amborum 
+      Spiri<lb ed="#H" n="142" break="no"/>cus: per quem Spiritum &amp; Patrem amamus &amp; Filium, &amp; quem 
+      Spi<lb ed="#H" n="143" break="no"/>ritum amamus cum Patre &amp; Filio. Amorem itaque nostrum pium quo 
+      <lb ed="#H" n="144"/>colimus Deum, fecit Deus, &amp; vidit quia bonum est: ideo quippe 
+      ama<lb ed="#H" n="145" break="no"/>vit ipse quod fecit, sed in nobis non faceret, quod amaret, nisi 
+      ante<lb ed="#H" n="146" break="no"/>quam id faceret, nos amaret. Hactenus Augustinus 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e834">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Maneat igitur fixum, amorem Dei in nos, esse plane gratuitum 
+      <lb ed="#H" n="148"/>causamque ejus efficientem solam bonitatem Dei esse, non autem 
+      <lb ed="#H" n="149"/>nostram in Deum charitatem; aut dignitatem, vel praerogativam 
+      <lb ed="#H" n="150"/>aliquam nostram. Deut. 7. v. 7. Non propter multitudinem vestram, 
+      <lb ed="#H" n="151"/>qua superatis omnes populos, amore propendit Iehova in vos ac selegit  
+      <lb ed="#H" n="152"/>vos, vos enim eratis populus paucissimus omnium populorum. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e852">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Effecta ac proinde certa signa amoris Dei erga nos, sunt omnia 
+      <lb ed="#H" n="154"/>eaque innumera beneficia, quae Deus in nos contulit, atque 
+      etiam<lb ed="#H" n="155" break="no"/>num confert, ut exstat Jerem. 31. v. 3. Dilestione perpetua diligo 
+      te<lb ed="#H" n="156" break="no"/>dcirco extendo erga te benignitatem. Sic amor Dei fuit causa 
+      libera<lb ed="#H" n="157" break="no"/>tionis populi Israelitici ex AEgypto, Deut. 4. vers. 37. Propterea quod 
+      <lb ed="#H" n="158"/>dilexit maiores tuos, elegitque semen cuiusque eorum post eum, ideo eduxit  
+      <lb ed="#H" n="159"/>te praesens virtute sua maxima ex AEgypto. Et cap. 7. v. 8. Eo quod 
+      di<lb ed="#H" n="160" break="no"/>igit Iehova vos, &amp; co quod servat iuramentum illud quod iuraverat 
+      <lb ed="#H" n="161"/>maioribus vestris, eduxit vos Iehova manu forti: ac redemit te e domo, 
+      <lb ed="#H" n="162"/>servorum, e domo Phaeraonis Regis AEgypti¬ 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e879">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>Amor Dei fuit causa electionis populi Israelitici praeteritis aliis, 
+      <lb ed="#H" n="164"/>populis, sicut dicitur Deut. 10. v. 15. Tantum in maiores tuos 
+      propen<lb ed="#H" n="165" break="no"/>sus fuit amore Iehova diligendo eos; unde selegit semen eorum post eos 
+      <lb ed="#H" n="166"/>vos, inquam, prae omnibus populis, sicut est hodie. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e892">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Amor Dei fuit causa, cur Bileamus non potuerit maledicere 
+      Israe<lb ed="#H" n="168" break="no"/>litis: sicut est Deut. 23. v. 5. Noluit Iehova Deus tuus auscultare 
+      Bi<lb ed="#H" n="169" break="no"/>leamo, sed convertit tibi Iehova Deus maledictionem illam in 
+      benedi<lb ed="#H" n="170" break="no"/>ctionem, eo quod diligeret te Iehova Deus tuus 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e905">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Amoris Dei signum est, cum Magistratum excitat sapientem: 
+      sic<lb ed="#H" n="172" break="no"/>ut testatur Churamus rex Tyri in epistola ad Salomonem Regem. 
+      <lb ed="#H" n="173"/>Israelitatum, 2. Chron. 2. v. 11. Prae amore Iehovae erga populum suum 
+      <lb ed="#H" n="174"/>onstituit te super eos Regem. 
+      <lb ed="#H" n="175"/>Amoris Dei erga nos effectum &amp; signum illustre est, quod nobi 
+      <lb ed="#H" n="176"/>dederit Filium suum Unigenitum, Joh. 3. v.16. quod Christus pro 
+      no<lb ed="#H" n="177" break="no"/>bis mortuus sit, Rom. 5. v. 8 1. Joh. 3. 16. &amp; cap. 4 v. 9, 10. quod Deus 
+      <lb ed="#H" n="178"/>Pater nos adoptaverit in filios, 1 Joh. 3. 1. quod nos quum in offensis 
+      <lb ed="#H" n="179"/>mortui essemus, una vivificaverit cum Christo, Eph. 2. v. 4, 5. 
+      quod<lb ed="#H" n="180" break="no"/>ue nos donarit viva fide &amp; charitate in eum Joh. 14. v. 25. 
+      <lb ed="#H" n="181"/>Amoris Dei effectum est castigatio piorum, Prov. 3. v. 12. Quem 
+      <lb ed="#H" n="182"/>diligit Iehova, corrigit; &amp; quidem ut Pater Filium, cui bene vult. Et  
+      <lb ed="#H" n="183"/>Heb. 12. v. 6. Quem enim diligit, Dominus, castigat: flagellat autem 
+      <lb ed="#H" n="184"/>quemcunque Filium agnoscit. 
+      <!--cod-MkL9py-0200.xml-->
+      <pb ed="#H" n="173"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Subjectum occupans amoris Dei, est duntaxat bonum: Nihil enim 
+      <lb ed="#H" n="2"/>amat Deus, nisi quod bonum est. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e951">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Amat igitur tum seipsum, qui est summum &amp; infinitum bonum: 
+      <lb ed="#H" n="4"/>tum res a se creatas, quia omnes bonae sunt creatae. Eas vero 
+      diver<lb ed="#H" n="5" break="no"/>so respectu tum aequaliter amat, tum inaequaliter. AEqualiter amat 
+      <lb ed="#H" n="6"/>Deus omnes creaturas respectu actus voluntatis divinae, qui unus 
+      <lb ed="#H" n="7"/>est, idemque purissimus ac simplicissimus, &amp; eodem modo se semper 
+      <lb ed="#H" n="8"/>habens, minimeque vel intendi vel remitti potest. Proinde quod ad 
+      <lb ed="#H" n="9"/>actum voluntatis divinae attinet, non magis amat Deus unum quam 
+      <lb ed="#H" n="10"/>aliud quum omnia uno &amp; eodem actu amet. Inaequaliter autem amat 
+      <lb ed="#H" n="11"/>Deus respectu diversitatis tum objecti tum effectus amoris. Si objecta 
+      <lb ed="#H" n="12"/>amoris consideremus, res meliores Deus semper magis amat, quam 
+      <lb ed="#H" n="13"/>minus bonas, ideoque magis amat Christum qua is homo est, quam 
+      <lb ed="#H" n="14"/>universas simul creaturas reliquas: magis Angelos &amp; homines quam 
+      <lb ed="#H" n="15"/>creaturas ratione carentes, &amp; ex Angelis hominibusque magis 
+      ele<lb ed="#H" n="16" break="no"/>ctos quam reprobos, imo homines magis, quam Angelos, &amp; ex 
+      ho<lb ed="#H" n="17" break="no"/>minibus electis magis natos, quam nondum natos, &amp; ex natis magis 
+      <lb ed="#H" n="18"/>renatos &amp; jam pios, quam nondum renatos &amp; adhuc impios; &amp; 
+      per<lb ed="#H" n="19" break="no"/>fecte renatos &amp; jam in coelo regnantes cum Christo magis amat, 
+      <lb ed="#H" n="20"/>quam imperfecte renatos &amp; adhuc scorias peccati adhaerentis 
+      ha<lb ed="#H" n="21" break="no"/>bentes. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e997">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Deinde si effectum amoris spectes, quum amare sit velle alicui id 
+      <lb ed="#H" n="23"/>quod ei bonum est, certe Deus magis amat id cui majus bonum vult 
+      <lb ed="#H" n="24"/>&amp; praestat, quam id cui minus bonum vult &amp; largitur. Ergo quod 
+      <lb ed="#H" n="25"/>ad actum voluntatis attinet, Deus uno amore omnes res creatas 
+      <lb ed="#H" n="26"/>amat; quod vero ad diversitatem tum objectorum seu conditionis 
+      <lb ed="#H" n="27"/>qua sunt res creatae, tum benedictionum, quae a Deo ex amore 
+      pro<lb ed="#H" n="28" break="no"/>ficiscuntur attinet, non aequali omnes amore prosequitur.  
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1017">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>OBJICITUR, Deum non posse eadem simul amare &amp; odisse: At 
+      <lb ed="#H" n="30"/>Psal. 5. v. 6. dicitur; Odisti omnes qui operantur iniquitatem: 
+      Quo<lb ed="#H" n="31" break="no"/>modo igitur eosdem amat? 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1029">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>RESPONDEO, Committitur sophisma falsorum pugnantium: 
+      <lb ed="#H" n="33"/>nam Deus odit operarios iniquitatis, quia odit in illis iniquitatem, 
+      <lb ed="#H" n="34"/>quam ipsi operantur: amat vero eosdem quatenus sunt creaturae, 
+      <lb ed="#H" n="35"/>quas ipse est operatus. Sic dicit Augustinus quarto tomo, libro 
+      pri<lb ed="#H" n="36" break="no"/>mo ad Simplicianum, quaest. secunda. Non odit Deus Esau hominem, 
+      <lb ed="#H" n="37"/>sed odit Deus Esau peccatorem. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1047">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>OBJICITUR rursus: Quicquid subiectum est vanitati, id certe Deus 
+      <lb ed="#H" n="39"/>non amat: 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1056">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Omnis creatura subiecta est vanitati, Rom. 8. v. 20. Ergo, &amp;c. 
+      <lb ed="#H" n="41"/>RESPONDEO. Primo maior non est universaliter vera: dari enim 
+      <lb ed="#H" n="42"/>potest duntaxat de eo, quod subjectum est vanitati, sine ulla spe 
+      libe<lb ed="#H" n="43" break="no"/>rationis assertionisque in meliorem statum &amp; conditionem. 
+      Assum<lb ed="#H" n="44" break="no"/>tio est vera solummodo κατά τι: Omnis creatura est subjecta 
+      vanita<lb ed="#H" n="45" break="no"/>ti, non simpliciter, sed sub spe, quod &amp; ipsa liberabitur ex servitute 
+      cor<lb ed="#H" n="46" break="no"/>ruptionis in libertatem gloriae filiorum Dei, ut ibidem dicitur, v. 21. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1076">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>OBJICITUR iterum; Qui calamitatibus subiectus est, eum Deus 
+      <lb ed="#H" n="48"/>non amat: 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1085">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>Ego vel isti calamitatibus sunt subiecti: Ergo, &amp;c. 
+      <lb ed="#H" n="50"/>RESPONDEO. Propositio  ἁπλῶς &amp; universaliter intellecta 
+      <lb ed="#H" n="51"/>est falsa: quod patet ex afflictionis distributione. Afflictio vel 
+      pae<lb ed="#H" n="52" break="no"/>na est, vel exploratio, vel martyrium, vel λύτρον. Poena, est afflictio 
+      <lb ed="#H" n="53"/>quam Deus hominibus propter peccata immittit: estque vel 
+      vindi<lb ed="#H" n="54" break="no"/>cta, vel castigatio. Vindicta divina, est poena qua Deus tanquam 
+      tre<lb ed="#H" n="55" break="no"/>mendus judex de inimicis suis ultionem capit, ut illos confundat &amp; 
+      <lb ed="#H" n="56"/>perdat. Ubicunque igitur poena est ad ultionem, ibi odium &amp; 
+      male<lb ed="#H" n="57" break="no"/>dictio Dei se exerit, quam a fidelibus semper continet. At castigatio, 
+      <lb ed="#H" n="58"/>est poena, qua Deus filios propter peccata corripit, ut eos emendet &amp; 
+      <lb ed="#H" n="59"/>cautiores in posterum reddat. Haec castigatio &amp; Dei benedictio est 
+      <lb ed="#H" n="60"/>&amp; amoris divini habet testimonium: sicut dicitur Proverb. 3. v. 12. 
+      <lb ed="#H" n="61"/>Quem diligit Iehova, corrigit; &amp; quidem ut pater filium cui bene vult.  
+      <lb ed="#H" n="62"/>Quod repetitur Hebr. 12. 6. Exploratio &amp; martyrium sunt divini 
+      <lb ed="#H" n="63"/>amoris documenta. Denique λύτρον quod Christus persolvit, non 
+      <lb ed="#H" n="64"/>fuit paterni adversum Filium odii argumentum: nam Pater subjecit 
+      <lb ed="#H" n="65"/>eum afflictioni ut per eandem adduceret in gloriam. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1127">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Caeterum Deus non tantum substantias, verum etiam virtutes 
+      di<lb ed="#H" n="67" break="no"/>ligit; ut Psal. 11. 7. legitur: Iustus Iehova, quae justa sunt, diligit.  
+      <lb ed="#H" n="68"/>Psal. 33. 5. Amat iustitiam &amp; iudicium, id est, exsequutionem 
+      justi<lb ed="#H" n="69" break="no"/>tiae adversus improbos. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1141">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>Tantum de subiectis: sequuntur adiuncta 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1148">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>amoris Dei. 
+      <lb ed="#H" n="72"/>Amor Dei erga nos aeternus est, quo nos dilexit in Filio suo ante 
+      <lb ed="#H" n="73"/>jactum mundi fundamentum. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1159">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Obstare videtur quod Scriptura docet, Deum fuisse nobis inimicum, 
+      <lb ed="#H" n="75"/>donec morte Christi ei sumus reconciliati: Quomodo ergo nos amavit,  
+      <lb ed="#H" n="76"/>cum essemus inimici? 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1170">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>RESPONDEO. Ista non pugnant: quia non intelliguntur καθʹ 
+      <lb ed="#H" n="78"/>αὑτή. Deus quidem nobis fuit inimicus odio habeus peccatum quod 
+      <lb ed="#H" n="79"/>est nostrum: idem vero amavit nos diligens in nobis bonum quod  
+      <lb ed="#H" n="80"/>suum est. Utcunque enim peccatores vitio nostro facti sumus, 
+      man<lb ed="#H" n="81" break="no"/>simus tamen ejus creaturae. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1186">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>REPLICATIO: Si nos amavit ut suas creaturas: quid opus fuit 
+      re<lb ed="#H" n="83" break="no"/>conciliatione? 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1195">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>RESPONDEO. Elenchus est  παρὰ τὸ ἑπόμηνον. Cum perpetuum 
+      <lb ed="#H" n="85"/>&amp; irreconciliabile dissidium sit inter justitiam &amp; iniquitatem: 
+      quam<lb ed="#H" n="86" break="no"/>diu peccatores manemus, suscipere nos Deus non potest. Itaque ut 
+      <lb ed="#H" n="87"/>tollatur omnis materia simultatis, nos sibi per mortem Filii sui 
+      re<lb ed="#H" n="88" break="no"/>conciliat remissis peccatis omnibus, ut justi in ejus conspectu 
+      appa<lb ed="#H" n="89" break="no"/>reamus. Proinde sua dilectione praevenit &amp; antevertit Deus Pater 
+      <lb ed="#H" n="90"/>nostram in Christo reconciliationem. Id perspicue explicat Au¬ 
+      <!--cod-MkL9py-0200.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>gustinus Tractatu centesimo decimo in Johannem: 
+      Incomprehensi<lb ed="#H" n="92" break="no"/>bilis (inquit) ac immutabilis est Dei dilectio. Non enim ex quo ei 
+      recon<lb ed="#H" n="93" break="no"/>ciliati sumus per sanguinem Filii eius, coepit nos diligere, sed ante 
+      mun<lb ed="#H" n="94" break="no"/>di constitutionem dilexit nos, ut cum eius Vnigenito etiam nos filii eius 
+      <lb ed="#H" n="95"/>essemus. Quod ergo reconciliati sumus per mortem Christi, non sic 
+      ac<lb ed="#H" n="96" break="no"/>cipiatur, quasi ideo nos reconciliaverit ei Filius; ut iam amare 
+      incipe<lb ed="#H" n="97" break="no"/>ret, quos oderat: sed iam nos diligenti reconciliati sumus, cum quo 
+      pro<lb ed="#H" n="98" break="no"/>pter peccatum inimicitias habebamus. Quod utrum verum dicam; 
+      at<lb ed="#H" n="99" break="no"/>testetur Apostolus: Commendat (inquit) dilectionem suam erga nos; 
+      <lb ed="#H" n="100"/>quoniam quum adhuc peccatores essemus, Christus pro nobis mortuus 
+      <lb ed="#H" n="101"/>est. Habebat itaque ille erga nos charitatem, etiam quum inimicitias 
+      <lb ed="#H" n="102"/>adversus eum exercentes operaremur iniquitatem: Proinde miro &amp; 
+      di<lb ed="#H" n="103" break="no"/>vino modo &amp; quando nos oderat, diligebat; Oderat enim nos; quales 
+      <lb ed="#H" n="104"/>ipse non fecerat: &amp; quia iniquitas nostra opus eius non omni ex parte 
+      <lb ed="#H" n="105"/>consumserat, noverat simul in unoquoque nostrum &amp; odisse quod 
+      fecera<lb ed="#H" n="106" break="no"/>mus, &amp; amare quod fecerat. Haec Augustinus. Idem libro quinto de 
+      <lb ed="#H" n="107"/>Trinitate, cap. decimosexto ait; Qui amicus Dei iustus esse incipit, 
+      <lb ed="#H" n="108"/>ipse (nempe homo justus esse incipiens) mutatur: Deus autem absit  
+      <lb ed="#H" n="109"/>ut temporaliter aliquando diligat, quasi nova dilectione, quae in illo 
+      an<lb ed="#H" n="110" break="no"/>te non erat, apud quem nec praeterita transierunt; &amp; futura iam facta 
+      <lb ed="#H" n="111"/>sunt. Itaque omnes sanctos suos ante mundi constitutionem dilexit, sicut  
+      <lb ed="#H" n="112"/>praedestinavit. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1268">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Haec ideo observanda sunt, ne cum Ubiquitariis perturbemus, 
+      <lb ed="#H" n="114"/>quae νουνεχῶς sunt ordinanda. Illi statuunt, meritum Christi esse 
+      cau<lb ed="#H" n="115" break="no"/>sam efficientem aeternae electionis nostrae ad vitam aeternam. Nos 
+      <lb ed="#H" n="116"/>rectius cum Scriptura &amp; Orthodoxa antiquitate asserimus, meritum 
+      <lb ed="#H" n="117"/>Christi esse effectum electionis, causam vero salutis nostrae: 
+      quem<lb ed="#H" n="118" break="no"/>admodum recte Augustinus negat, meritum seu reconciliationem 
+      <lb ed="#H" n="119"/>Christi esse causam amoris Dei erga nos: sed contra potius affirmat 
+      <lb ed="#H" n="120"/>amorem Dei erga nos esse causam reconciliationis nostrae per 
+      meri<lb ed="#H" n="121" break="no"/>tum Christi. Ita docentes nec abnegamus, nec extenuamus meritum 
+      <lb ed="#H" n="122"/>Christi: sed confusionem duntaxat &amp; perniciosam inversionem 
+      cau<lb ed="#H" n="123" break="no"/>sarum &amp; effectorum tollimus. Qui ex inscitia causam cum effecto 
+      <lb ed="#H" n="124"/>confundunt, &amp; praetexentes assertionem meriti Christi, gloriam 
+      amo<lb ed="#H" n="125" break="no"/>ris Dei erga nos evertunt; rem creatam praeferunt Creatori, rem in 
+      <lb ed="#H" n="126"/>tempore factam AEterno illi, qui est Deus benedictus in secula. Non 
+      <lb ed="#H" n="127"/>vult Christus suam gloriam asseri, ut detrahatur Patri, ad cujus 
+      glo<lb ed="#H" n="128" break="no"/>riam omnia Christus ipse fecit. Amor Dei erga nos, Deus ipse est, 
+      <lb ed="#H" n="129"/>qui solus vere charitas est, ut dicitur 1. Joh. 4. v. 8. Meritum igitur 
+      <lb ed="#H" n="130"/>Christi ejus causa efficiens non est. Amor Dei erga nos ab aeterno 
+      <lb ed="#H" n="131"/>est: itaque meritum Christi quod tempore demum constituto 
+      per<lb ed="#H" n="132" break="no"/>fectum est, causa ejus efficiens non est. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1316">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>Tantum de aeternitate amoris Dei. 
+      <lb ed="#H" n="134"/>Secundo amor Dei in nos est magnitudine immensus. Id 
+      luculen<lb ed="#H" n="135" break="no"/>ter apparet ex effecto ejus, nempe donatione Filii; Ita enim Deus 
+      di<lb ed="#H" n="136" break="no"/>lexit mundum, ut Filium suum Vnigenitum dederit, Johan. 3. vers. 16. 
+      <lb ed="#H" n="137"/>Magnam ἔμφασιν habet particula οὕτως, ita, q. d. tam vehementer, 
+      <lb ed="#H" n="138"/>tam ardenter, tam mirabiliter nos dilexit, ut Filium suum pro nostra 
+      <lb ed="#H" n="139"/>salute dederit. Quid hoc amore majus? quid ardentius? quid 
+      admi<lb ed="#H" n="140" break="no"/>rabilius? 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1338">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Tertio amor Dei erga nos immutabilis, constans &amp; firmus est; 
+      sic<lb ed="#H" n="142" break="no"/>ut dicit Dominus ipse Jer. 31. 3. Dilectione perpetua diligo te. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1347">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Quarto de eodem amore Dei in nos certo semper persuasi esse 
+      de<lb ed="#H" n="144" break="no"/>bemus, ac in omnibus quantumvis gravissimis tentationibus de eo 
+      <lb ed="#H" n="145"/>confidere. Unde sequitur nequaquam nobis de eo dubitandum. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1358">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>Obiiciunt Papistae, quod dicitur in libro Ecclesiastae c. 9. v. 1. nemo 
+      <lb ed="#H" n="147"/>scit utrum odio dignus sit, an amore. Hinc colligunt unicuique de amore 
+      <lb ed="#H" n="148"/>Dei erga se dubitandum. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1369">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>RESPONDEO. Primo locus Ecclesiastae in vulgata versione 
+      <lb ed="#H" n="150"/>Latina mendose est redditus. De verbo ad verbum sic redditur: tum 
+      <lb ed="#H" n="151"/>amorem, tum odium nescit homo. Illa autem verba, utrum dignus 
+      <lb ed="#H" n="152"/>sit, in Hebraeo non sunt, sed ea vulgatus interpres de suo admiscuit.  
+      <lb ed="#H" n="153"/>Deinde non addidit Ecclesiastes nomen Dei, unde constaret eum de 
+      <lb ed="#H" n="154"/>Dei erga homines amore vel odio loqui. Certe Aben Ezra ad 
+      ho<lb ed="#H" n="155" break="no"/>minum amorem &amp; odium refert &amp; sensum esse docet: quae homines 
+      <lb ed="#H" n="156"/>amant aut oderunt, id est, prospera vel adversa sibi eventura, nemo 
+      <lb ed="#H" n="157"/>est qui sciat. Itaque non est, quod ob illa se quisquam cruciet, sed  
+      <lb ed="#H" n="158"/>boni omnia consulat, &amp; se suaque omnia sibi persuadeat in manu Dei 
+      <lb ed="#H" n="159"/>esse. Proinde amor pro re prospera, quam amamus; odium pro re 
+      <lb ed="#H" n="160"/>adversa quam odimus &amp; aversamur per metonymiam adjuncti 
+      poni<lb ed="#H" n="161" break="no"/>tur. Atque hanc interpretationem confirmat ejusdem capitis versus 
+      <lb ed="#H" n="162"/>sextus, in quo haec ipsa nomina eadem significatione repetuntur:  
+      <lb ed="#H" n="163"/>Tum amorem eorum, tum odium eorum, tum zelum eorum iam periisse.  
+      <lb ed="#H" n="164"/>id est, viventes sciunt, mortuis tum rem amatam eis, tum exosam 
+      <lb ed="#H" n="165"/>eis, tum desideratam eis jam periisse. Tertio, etsi daremus, hunc 
+      lo<lb ed="#H" n="166" break="no"/>cum de amore &amp; odio Dei in homines capi posse: tamen perperam 
+      <lb ed="#H" n="167"/>inde colligeretur, de amore Dei in nos esse dubitandum, nec debere 
+      <lb ed="#H" n="168"/>nos de eo in conscientiis nostris certos esse, quum hoc aperte sit 
+      con<lb ed="#H" n="169" break="no"/>tra multa Scripturae loca, ut Rom. 8. v. 15, 16. ubi dicitur, Spiritum 
+      <lb ed="#H" n="170"/>Sanctum testari una cum Spiritu nostro, quod simus filii Dei: &amp; quod 
+      <lb ed="#H" n="171"/>cum fiducia clamemus, Abba Pater. Et nominatim contra illud fidei 
+      <lb ed="#H" n="172"/>nostrae caput, quo profitemur, nos credere remissionem peccatorum. 
+      <lb ed="#H" n="173"/>Sed tum sensus loci istius esset: ex istis externis accidentibus seu 
+      <lb ed="#H" n="174"/>eventis non posse hominem scire de se vel alio, an a Deo ametur, 
+      <lb ed="#H" n="175"/>aut odio habeatur: &amp; utriusque causam, hominem, ut homo est, 
+      <lb ed="#H" n="176"/>ignorare. Quia ut mali, sic &amp; boni homines calamitates patiuntur; 
+      <lb ed="#H" n="177"/>&amp; ut boni externe prospere habent, sic &amp; mali: Unde non statim 
+      ju<lb ed="#H" n="178" break="no"/>dicandum, bonum esse &amp; a Deo amari, cui prospere omnia cedunt:  
+      <lb ed="#H" n="179"/>aut malum esse &amp; a Deo odio haberi, quem pati vides. Nam 
+      ver<lb ed="#H" n="180" break="no"/>bum Domini nos decet, bona malis dari ad maledictionem ut 
+      ex<lb ed="#H" n="181" break="no"/>caecentur &amp; corruant: bonis contra mala immitti ut vel corrigan¬ 
+      <!--cod-MkL9py-0201.xml-->
+      <pb ed="#H" n="174"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>tur, vel probentur, vel martyrii corona ornentur. An igitur sani sunt, 
+      <lb ed="#H" n="2"/>vapistae, qui nullam posse esse nobis amoris Dei erga nos 
+      certitudi<lb ed="#H" n="3" break="no"/>nem colligunt, quoniam nulla ex carnali rerum praesentium adspect 
+      <lb ed="#H" n="4"/>comprehendi possit? Sic certe argumentantur; Ex istis rebus 
+      exter<lb ed="#H" n="5" break="no"/>nis nescit homo, an a Deo diligatur: Ergo plane ex nullis rebus id scite 
+      <lb ed="#H" n="6"/>Ita Papistae ex eo, quod Salomon non nisi καζα κ negat, simplicem, 
+      <lb ed="#H" n="7"/>hoc est ex particulari universalem negationem colligant, quod 
+      vitio<lb ed="#H" n="8" break="no"/>sum est argumentandi genus 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1470">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>VSVS. 
+      <lb ed="#H" n="10"/>Ex eo quod verus perfectusque amor sit in Deo nostro 
+      propriis<lb ed="#H" n="11" break="no"/>sime, sic ut ipse etiam I. Johannis 4. versicu o8. appelletur Charitas 
+      <lb ed="#H" n="12"/>ipsa, nempe essentialis, hoc est, essentia verissime &amp; perfectissime 
+      <lb ed="#H" n="13"/>amans: colligitur inde primo ipsum verum esse Deum, &amp; ab 
+      omni<lb ed="#H" n="14" break="no"/>bus falsis diis discretum. Falsi enim dii aut nullo amore praediti sunt,  
+      <lb ed="#H" n="15"/>sicut neque cognitione, quales sunt statuae, idolaque omnia, de 
+      qui<lb ed="#H" n="16" break="no"/>bus Psalm. 115. v. 5. &amp;6. Os est eis, sed non loquuntur: oculi sum 
+      <lb ed="#H" n="17"/>eis, sed non vident; aures sunt eis, sed non audiunt: aut oderunt  
+      <lb ed="#H" n="18"/>nos, quales sunt cacodaemones, quos Gentiles aliique idololatrae 
+      pro<lb ed="#H" n="19" break="no"/>diis colunt: nam quae immolant gentes, daemoniis immolant, &amp; non 
+      <lb ed="#H" n="20"/>Deo, 1. Cor. 10. 20. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1501">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Deina hinc sequitur, Deum vere esse bonum: sicut contra quis  
+      <lb ed="#H" n="22"/>quis bonum odit, eum malum esse necesse est. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1510">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Tertio sequitur inde, Deum esse fontem ex quo omnis honestus. 
+      <lb ed="#H" n="24"/>amor boni, φιλανθρωπια &amp; φιλαδελφια profluit, Deum esse causam 
+      <lb ed="#H" n="25"/>honesti amoris in creaturis, &amp; praesertim in nobis hominibus, sicut  
+      <lb ed="#H" n="26"/>dicitur I. Johan. 4. vers. 7, 8. Charitas ex Deo est: quisquis diligit, ex 
+      <lb ed="#H" n="27"/>Deo natus est, &amp; novit Deum. Qui non diligit, non novit Deum. 
+      <lb ed="#H" n="28"/>nam Deus est charitas. Et vers. 16 Deus charitas est: &amp; qui manet 
+      <lb ed="#H" n="29"/>in charitate, in Deo manet, &amp; Deus in eo 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1530">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>Quarto colligitur inde, Deum esse autorem omnis boni in rebus 
+      <lb ed="#H" n="31"/>creatis: amor enim Dei est causa bonitatis in rebus creatis. Unde &amp; 
+      <lb ed="#H" n="32"/>hoc conficitur, Deum plus amare illas creaturas cum quibus plura 
+      <lb ed="#H" n="33"/>bona communicavit. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1543">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Quinto, Ecclesiam Dei esse honoratam; quia illam Deus diligit 
+      <lb ed="#H" n="35"/>Sic Deus ait ad populum Israeliticum Jesa. 42. 29. Ex quo pretiosus 
+      <lb ed="#H" n="36"/>visus es in oculus meis, honoratus fuisti, quia ego dilexi te¬ 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1554">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Hactenus didascaliae: sequuntur elenchi, hoc est, redargutiones. 
+      <lb ed="#H" n="38"/>Ex attributo amoris Dei primo refutantur, qui impie statuunt,  
+      <lb ed="#H" n="39"/>Deum esse autorem peccati Nam qui tantummodo bonum amat, is 
+      <lb ed="#H" n="40"/>certe peccati autor non est: Atqui Deus tantummodo bonum amat: 
+      <lb ed="#H" n="41"/>Ergo peccati autor non est. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1571">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Secundo refelluntur hinc ii, qui aliqua bona in hominibus negant  
+      <lb ed="#H" n="43"/>a Deo profecta, velut Philosophi Gentiles, qui virtutes communes. 
+      <lb ed="#H" n="44"/>negant a Deo hominibus dari, sed tantum heroicas ab ipso esse 
+      <lb ed="#H" n="45"/>contendunt. Atqui nil boni, quantulumcunque iliud videatur, est 
+      <lb ed="#H" n="46"/>in ullo homine, imo in ulla creatura, quod ab amore Dei non 
+      pro<lb ed="#H" n="47" break="no"/>fluxerit.  
+      <lb ed="#H" n="48"/> 
+               <lb ed="#H" n="49"/>nantur, quos reprobavit.  
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1593">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Eλεγχρις subjicio ἐπανορνώσεις. 
+      <lb ed="#H" n="51"/>Ex eo quod Deus est charitas; &amp; omne bonum, in eoque etiam non 
+      <lb ed="#H" n="52"/>amat, reprehendimur nos, quod Deum non vicissim amemus sicut  
+      <lb ed="#H" n="53"/>decebat, ex toto corde, &amp; ex totis viribus. Quod inde constat, quia 
+      <lb ed="#H" n="54"/>non eam obedientiam ei praestamus quam debebamus 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1609">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Reprehendimur &amp; merito, quod Deum non imitemur, in 
+      dile<lb ed="#H" n="56" break="no"/>ctione boni. Nec enim amamus Angelos sanctos, quos peccatis a 
+      <lb ed="#H" n="57"/>nobis arcemus: nec amamus pios homines, qui tamen amandi 
+      <lb ed="#H" n="58"/>er int. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1622">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Quin etiam graviter peccant, qui creaturis pro libitu suo abutur. 
+      <lb ed="#H" n="60"/>tur. At quod Deus amat, illo minime est abutendum. Non est 
+      imi<lb ed="#H" n="61" break="no"/>tandum exemplum divitis epulonis, qui divitiis terrenis ad 
+      immodi<lb ed="#H" n="62" break="no"/>cam voluptatem abutebatur  
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1635">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Gravius autem peccant, qui vel Deum vel res bonas vel homines. 
+      <lb ed="#H" n="64"/>pios odio habent: &amp; e contrario peccata hominesque impios amant. 
+      <lb ed="#H" n="65"/>Quo pertinet illa reprehensio Psal. 4 3. Filii virorum, quousque gloria 
+      <lb ed="#H" n="66"/>mea ignominmae futura est? quousque dilecturi estis vanitatem? 
+      procura<lb ed="#H" n="67" break="no"/>turi mendacium summe: 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1651">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Παίθείας sequuntur.  
+      <lb ed="#H" n="69"/>Amor Dei quo nos ille complectitur, primo incitare nos debet ad 
+      <lb ed="#H" n="70"/>emandum vicitum Deum &amp; ad testandum amorem illum 
+      oboedien<lb ed="#H" n="71" break="no"/>tia continua: sicut legitur 1. Johan. 4. 19 Nos dligimus Deum, quo 
+      <lb ed="#H" n="72"/>niam ipse prior dilexit nos. Et cap. 5 vers. 3. Haec est charitas Dei, ut 
+      <lb ed="#H" n="73"/>praecepta eius obiervemus. Secunto excitate in nobis debet fiduciam 
+      <lb ed="#H" n="74"/>in Deum. Quis enim non confidat illi, a quo se certo amari novit: 
+      <lb ed="#H" n="75"/>Tert o impellere nos debet &amp; ad invocandum &amp; celebrandum 
+      <lb ed="#H" n="76"/>Deum. Quario, gignere in nobis debet patientiam in perferendis 
+      <lb ed="#H" n="77"/>rebus adversis Nam Deus qui nobis eas immittit. nos amat. Quinto, 
+      <lb ed="#H" n="78"/>procreare in nobis debet spem impetrandi bona omnia necesseria, &amp; 
+      <lb ed="#H" n="79"/>superandi mala omnia. Sexto, generate in nobis debet amorem 
+      pro<lb ed="#H" n="80" break="no"/>ximorum &amp; inprimis fratrum seu domesticorum fidei: sicut dici 
+      <lb ed="#H" n="81"/>tur 1. Jehin. 4. vers. 11. Dilecti, si Deus nos ita dilexit, debemus &amp; 
+      <lb ed="#H" n="82"/>nos alii anios diligere. Septimo, persuadere nobis debet, ut diligamus 
+      <lb ed="#H" n="83"/>etiam inimicos nostros: quemadmodum Christus docet Matthaei: 
+      <lb ed="#H" n="84"/>43. usque ad finem capitis. Octavo, adducere nos eo debet, ut dilis 
+      <lb ed="#H" n="85"/>gamus etiam vilissimas creaturas atque erga eas aequitate &amp; mode 
+      <lb ed="#H" n="86"/>ratione utamur: veluti si quis servos habet, ut eos diligat, iisque 
+      be<lb ed="#H" n="87" break="no"/>nefaciat, non injuriose tracter, non opprimat laboribus. Quin 
+      et<lb ed="#H" n="88" break="no"/>iani jumenta &amp; animalia alia nostris usibus servientia sunt 
+      dili<lb ed="#H" n="89" break="no"/>genda: nam illis etiam quies aliquando concedenda, bovitritus ant 
+      <!--cod-MkL9py-0201.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>os non obturandum, asinus etiam inimici a fossa in quam decidit 
+      <lb ed="#H" n="91"/>extrahendus, non capienda mater quae in nido suas fovet aviculas, ut 
+      <lb ed="#H" n="92"/>leges de animalibus latae docent; quae leges ostendunt, quod Deus 
+      <lb ed="#H" n="93"/>etiam animalia ratione carentia amet &amp; a nobis amari velit, prout 
+      <lb ed="#H" n="94"/>pat est. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1719">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>ωρακλησεις denique annecto. 
+      <lb ed="#H" n="96"/>Amor Dei quo nos ille prosequitur, multiplicem nobis 
+      consola<lb ed="#H" n="97" break="no"/>tionem suggerit. Primo enim vivificat &amp; exhilarat corda nostra, 
+      <lb ed="#H" n="98"/>quum intelligimus nos a Deo amari, imo Deum esse ipsum 
+      amo<lb ed="#H" n="99" break="no"/>rem. Quid enim haec cognitio aliud est, quam initium vitae aeternae 
+      <lb ed="#H" n="100"/>Secundo confirmat nos, quod Deus nequaquam spem nostram 
+      pu<lb ed="#H" n="101" break="no"/>defacturus, nequaquam nos deserturus sit, etiamsi in extremis 
+      affli<lb ed="#H" n="102" break="no"/>ctionibus versaremur: quo pertinent haec dicta, Romanor. 5. vers. 
+      <lb ed="#H" n="103"/>5. Spes non pudefacit, eo quod charitas Dei effusa est in cordibus nostris 
+      <lb ed="#H" n="104"/>per Spiritum Sanctum qui datus est nobis. Tertio confirmat nos, quod  
+      <lb ed="#H" n="105"/>Deus nobis daturus sit omnia necessaria ad vitam &amp; pietatem. 
+      Quar<lb ed="#H" n="106" break="no"/>to, consolatur nos adversus omnes tentationes ob peccatum, &amp; 
+      dubi<lb ed="#H" n="107" break="no"/>tationes de perseverantia in fide, de perpetua praesentia Dei, de 
+      certi<lb ed="#H" n="108" break="no"/>tudine salutis. Nam quos Deus amat in Christo, eos neque peccatum  
+      <lb ed="#H" n="109"/>neque quicquam aliud de charitate Dei, quae est in Christo Jesu, 
+      po<lb ed="#H" n="110" break="no"/>test separate: quo referendum illud Rom. 8. v. 25. usque ad finem 
+      ca<lb ed="#H" n="111" break="no"/>itis. Quinto, consolatur nos adversus odia humana, &amp; ex iis ortas 
+      <lb ed="#H" n="112"/>inimicitias, maledictiones &amp; molitiones hostiles in nos: sicut 
+      dici<lb ed="#H" n="113" break="no"/>tur Deuteron. 23. 5. Noluit Iehova Deus tuus auscultare Bilhamo, sed  
+      <lb ed="#H" n="114"/>convertit tihi Iehnva Deus tuus maledictionem illam in benedictionem 
+      <lb ed="#H" n="115"/>eo quod diligeret te Iehova Deus tuus. Inimicos habes homines? 
+      ac<lb ed="#H" n="116" break="no"/>quiesce in eo quod Deum amicum habes, qui te sempiterno amoro 
+      <lb ed="#H" n="117"/>complectitur. 
+      </p>
+            <p xml:id="yyy8Uu-e80906-d1e1774">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Hactenus de amore Dei: sequitur de miseri¬ 
+      <lb ed="#H" n="119"/>ricordia Dei. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

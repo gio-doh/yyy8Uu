@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 18</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 18</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="296"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e42366"> <!-- l5-c18 -->
+            <head xml:id="yyy8Uu-e42366-Hd1e109">Caput 18</head>
+            <p xml:id="yyy8Uu-e42366-d1e112">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>APUT XVIII 
+      <lb ed="#H" n="41"/>In quo de elemento
+     </p>
+            <p xml:id="yyy8Uu-e42366-d1e121">
+      aquae<lb ed="#H" n="42" break="no"/>. E operibus creationis secundi diei praecedente capite est actum 
+      <lb ed="#H" n="43"/>Psequitur de operibus tertii diei, quae sunt, discretio aquarum 
+      </p>
+            <p xml:id="yyy8Uu-e42366-d1e128">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>inferiorum a terra &amp; plantae omnis generis, quibus Deus 
+      ter<lb ed="#H" n="45" break="no"/>tam vestivit &amp; condecoravit. De aquis inferioribus hoc capite 
+      tra<lb ed="#H" n="46" break="no"/>ctabimus. Dicuntur autem aquae inferiores, quae sunt ab infera ex 
+      <lb ed="#H" n="47"/>pansi, id est, aeris regione seu sub hoc coelo, quas Deus in unum locum 
+      <lb ed="#H" n="48"/>conffaere jussit, segregatas a terra, &amp; singula aquarum 
+      conceptacu<lb ed="#H" n="49" break="no"/>la mariu vocavit. Sic Deus post expansum aerem, elementum 
+      aquae<lb ed="#H" n="50" break="no"/>ab elemento terrae sapientissime &amp; potentissime discrevit, ut Moses 
+      <lb ed="#H" n="51"/>testatur Genes. 1. 9. nec alius discretionem hanc efficere potuit, quam 
+      <lb ed="#H" n="52"/>solus Deus. Inde argumentum laudis divinae Psaltes petit Psal. 104. 
+      <lb ed="#H" n="53"/>6, 7. 8, 9. Abysso ut indumento operueras terram, supra montes 
+      stan<lb ed="#H" n="54" break="no"/>tibus aquis: Ex increpatione tua diffugerunt, a voce tonitru tui 
+      ac<lb ed="#H" n="55" break="no"/>celerarunt fugam: Conscenderunt per montes, descenderunt per 
+      con<lb ed="#H" n="56" break="no"/>valles, in locum quem fundaveras ipsis. Terminum opposuisti 
+      ne<lb ed="#H" n="57" break="no"/>transeant;ne reuertantur ad operiendum terrant. Est hoc insigne 
+      <lb ed="#H" n="58"/>documentum sapientiae, bonitatis &amp; potentiae divinae, ut Jobus 
+      do<lb ed="#H" n="59" break="no"/>cet cap. 26. 12. Virtute sua disrupit mare; &amp; intelligentia sud 
+      disci<lb ed="#H" n="60" break="no"/>dit pelagus: &amp; Jehova ipse Jobo declarat, cum ait Job. 38. 8, 9, 10, 11. 
+      <lb ed="#H" n="61"/>quis occlusit valvis mare; quum ederem ipsum tanquam e vulva 
+      <lb ed="#H" n="62"/>extens? Quum ponerem nubem indumentum ejus: &amp; caliginem 
+      cu<lb ed="#H" n="63" break="no"/>nabula ejus? Quum diffregi pro eo terram decreto meo; &amp; apposui 
+      ve<lb ed="#H" n="64" break="no"/>cem &amp; valvas; Dicens, huc usque venies, &amp; ne procedito: &amp; hic 
+      oppo<lb ed="#H" n="65" break="no"/>net se litus superbia fluctuum tuorum. Hoc profecto maximum 
+      do<lb ed="#H" n="66" break="no"/>cumentum est sapientiae, bonitatis &amp; potentiae Dei, quod terra 
+      gra<lb ed="#H" n="67" break="no"/>vior multo &amp; minor aqua, ab ea non obruitur, quod Pire terra altius 
+      <lb ed="#H" n="68"/>non exundat &amp; terram totam submergit: quod turgentes &amp; 
+      eleatis<lb ed="#H" n="69" break="no"/>simi matis fluctus, intra certos fines sese continent, neque in totam? 
+      <lb ed="#H" n="70"/>terram, quae longo intervallo substare videtur, sese effundunt. Verum 
+      <lb ed="#H" n="71"/>&amp; ilead est argumentum sapientiae &amp; potentiae, quod non violenti 
+      <lb ed="#H" n="72"/>Deus aquas cohibet quo minus terram inundent; sed ita disposuit ab 
+      <lb ed="#H" n="73"/>initio, ut jam naturale sit mari ut terrae emineat &amp; interim tamen 
+      ex<lb ed="#H" n="74" break="no"/>undare non possit, sitque dispositio ista sic duratura citra violentiam 
+      <lb ed="#H" n="75"/>quamdiu vilum fuerit Deo. Fecit igitur Deus non quidem terrae 
+      so<lb ed="#H" n="76" break="no"/>lius globum, hic enim necessario aut innataret aquae, aut sub 
+      aqua<lb ed="#H" n="77" break="no"/>totus mergeretur: sed ex terra &amp; aqua globum unicum, cujus centri 
+      <lb ed="#H" n="78"/>etiam mundi centrum est: non ita, ut ejusdem globi medietas altera. 
+      <lb ed="#H" n="79"/>aut pars tertia terrae sit, reliquum aquae; ita enim etiam mergeretur 
+      <lb ed="#H" n="80"/>terra sub aqua:sed terra &amp; aqua ita sese continent mutuo, ut utriuso 
+      <lb ed="#H" n="81"/>sit idem centrum quod &amp; totius mundi. Id sit terra integrum globi 
+      <lb ed="#H" n="82"/>reddente, eum vero non solidum, sed maxima parte interius, &amp; ad sui 
+      <lb ed="#H" n="83"/>perficiem, cavum: amplissimasque illas cavitates replente aqua, quo fit 
+      <lb ed="#H" n="84"/>ut terrae facies &amp; maris, ejusdem globi sint superficies. Hoc docet 
+      Jo<lb ed="#H" n="85" break="no"/>bus cui: ait cap. 26. 10. Decreto circinavit superficiem aquarum. 
+      </p>
+            <p xml:id="yyy8Uu-e42366-d1e225">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>ltum admirabile opus Dei merito nos impellere debet ad 
+      ti<lb ed="#H" n="87" break="no"/>mendum Deum, ad praestandam ei obedientiam, ad manendum in voca 
+      <lb ed="#H" n="88"/>tione in quam vocati sumus; quo facit quod Jehova ait Jer. 5. v. 21, 22. 
+      <lb ed="#H" n="89"/>23. Audite jam hoc popule stolide &amp; excors, quibro oculi sunt &amp; non 
+      vi<lb ed="#H" n="90" break="no"/>dent, quibus aures &amp; non audiit: An me, non reverebimini: dictum 
+      <lb ed="#H" n="91"/>Iehovae, an a facie mea non contremiscetis? qui disposui arenam 
+      ter<lb ed="#H" n="92" break="no"/>minum mari, scatuto perpetuo, q non trasgredietur: quamvis incu¬ 
+      <!--cod-MkL9py-0323.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>tiant se, non tamen praevalent; quamvis fremant fluctus ejus, non 
+      ta<lb ed="#H" n="94" break="no"/>me transgrediuntur illud. At populo isti est animus contumax &amp;
+      re<lb ed="#H" n="95" break="no"/>bellis: ut recesserunt, pergunt. Hic enim (ut verbis doctissimi 
+      interpro<lb ed="#H" n="96" break="no"/>tis utar) ostedit Deus, cur populum fatuum, &amp; absque corde esse dixerit, 
+      <lb ed="#H" n="97"/>Fuit enim hic prodigiosus stupor, non expavescere ad conspectum Dei, 
+      <lb ed="#H" n="98"/>quum tamen bruta elementa ejus imperio subjaceat. Et sumit 
+      praeci<lb ed="#H" n="99" break="no"/>pue exemplum maris: Nam nihil magis terribile mari tempestuoso. 
+      <lb ed="#H" n="100"/>Videtur enim sieri quaedam conversio totius orbis, ubi fluctus 
+      exsur<lb ed="#H" n="101" break="no"/>unt tanto impetu. Nemo est illic qui non trepidet, Mare aut ipsum 
+      <lb ed="#H" n="102"/>quod incutit formidine omnibs etiam constantissimis, placide obset 
+      <lb ed="#H" n="103"/>quitur Deo. Nam quantumvis furiosi sint ejus impetus, cohibentur? 
+      <lb ed="#H" n="104"/>tamen. Nunc si de modo quaeritur, certe est miraculum, cujus ratio 
+      no<lb ed="#H" n="105" break="no"/>potest exstare. Nam scimus mare esse, ut reliqua elementa, sphaericu 
+      <lb ed="#H" n="106"/>icuti terra rotunda est, ita etiam &amp; elementum aquae, sicuti &amp; aer &amp; 
+      <lb ed="#H" n="107"/>ignis. Quum ergo sphaerica sit forma hujus elementi, nunc viders 
+      <lb ed="#H" n="108"/>est, sit ne inferius terra. Atqui levitas ipsa ostendit eminere super rut 
+      <lb ed="#H" n="109"/>ta, esse superius terra. Moses quidem aut potius Deus dicit Exod. 26. 
+      <lb ed="#H" n="110"/>4. aquas esse infra terram. Et David Ps. 24. 2. super maria fundatam 
+      <lb ed="#H" n="111"/>sse terram. Et Psa. 136. 6. expansam esse terra super aquas: sed 
+      oratio<lb ed="#H" n="112" break="no"/>naec accommodata est ad sensum communem vulgi. Aliud est in 
+      na<lb ed="#H" n="113" break="no"/>tura, aliud in sesu: ita aliud dicitur κατ ἀληθειαν, aliud κ δόζαν. 
+      Na<lb ed="#H" n="114" break="no"/>tura &amp; ἀληθῶς aquae supra terram sunt aut superiores terra: at 
+      secun<lb ed="#H" n="115" break="no"/>lum sensum communem hominum δοδαστικῳ, sunt inferiores terra 
+      <lb ed="#H" n="116"/>Qui sit ergo, ut mare totam terra non statim obruat? est enim liqui  
+      <lb ed="#H" n="117"/>dum, nec posset consistere uno in loco, nisi retineretur aliqua arcana 
+      <lb ed="#H" n="118"/>Dei virtute, &amp; instinctu. Sequitur ergo, Ideo mare suo loco concludi, 
+      <lb ed="#H" n="119"/>quia ita placuit Deo: quemadmodum etiam refert Moses, 
+      Apparcata<lb ed="#H" n="120" break="no"/>rida, inquit Deus. Nam ostendit submersam fuisse terram aquis, nec 
+      <lb ed="#H" n="121"/>pparuisse digitum unum, quousque mare in ordinem coegit Deus. Nunc 
+      <lb ed="#H" n="122"/>vox illa Dei, etiamsi non auditur a nobis, neque in aere resonat, a mari 
+      <lb ed="#H" n="123"/>camen auditur, quia mare conclusum est in suis finibus. Si mare esset 
+      <lb ed="#H" n="124"/>tranquillum, semper tamen adhuc admirabile esset hoc opus Dei, quod 
+      <lb ed="#H" n="125"/>aliqua pars terrae conceditur hominibus in hospitium. Sed quum 
+      tem<lb ed="#H" n="126" break="no"/>pestas mota est, quemadmodum jam dixi, ac videtur coelum terrae 
+      mi<lb ed="#H" n="127" break="no"/>sceri: nemo est, qui non exhorreat, propinquus tali spectaculo. Illic 
+      <lb ed="#H" n="128"/>ergo clarius apparet virtus Dei, &amp; formidabilis potentia, quae ita 
+      con<lb ed="#H" n="129" break="no"/>pescit mare turbulentum. Nunc videmus quorsum spectent Prophetae 
+      <lb ed="#H" n="130"/>verba: Ostendit Judaeos esse monstra, &amp; indignos, qui censeantur, ne 
+      <lb ed="#H" n="131"/>modo inter homines, sed etiam inter bruta animalia. Plus enim est 
+      <lb ed="#H" n="132"/>sensus &amp; intelligentiae in mari tempestuoso, &amp; furioso, quam in 
+      ho<lb ed="#H" n="133" break="no"/>minibus, qui videntur corde &amp; intelligentia praediti. Hic est finis 
+      con<lb ed="#H" n="134" break="no"/>parationis. Sed quonia gravis erat haec querimonia, Propheta 
+      inter<lb ed="#H" n="135" break="no"/>rogatione usus est, An me non timebitis: quasi diceret Deus. Quid 
+      si<lb ed="#H" n="136" break="no"/>bi vult? qui fieri potest, ut non metuar a vobis? Nam mare mihi obte 
+      <lb ed="#H" n="137"/>perat, &amp; furor ejus comprimitur arcano meo jussu, quia semel 
+      praece<lb ed="#H" n="138" break="no"/>bi, ut mare intra suos limites maneat: quantumvis agitetur furiose &amp; 
+      <lb ed="#H" n="139"/>procellis, &amp; tempestatibus, non tamen excedet meum imperium. Vos. 
+      <lb ed="#H" n="140"/>inquit, homines, sensu praediti non me timebitis? non pavebitis a facit 
+      <lb ed="#H" n="141"/>mea, vel contremiscetis, inquit? Dicit, se posuisse arenam terminum 
+      <lb ed="#H" n="142"/>maris. Hoc aute multo plus exprimit, quam si dixisset se mari 
+      termi<lb ed="#H" n="143" break="no"/>nos statuisse. Nam loquitur de arena, quae mobilis est, &amp; flatu medioera 
+      <lb ed="#H" n="144"/>agitatur: deinde arena est penetrabilis. Si essent per omnia maris 
+      lit<lb ed="#H" n="145" break="no"/>tora rupes, non esset miraculum tam illustre. Si ergo Deus validis 
+      ob<lb ed="#H" n="146" break="no"/>staculis, &amp; robustis compesceret maris impetum, hoc posset naturae ad 
+      <lb ed="#H" n="147"/>scribi. Sed quid est stabile in arena? Nam si proiiciam aliquantum 
+      a<lb ed="#H" n="148" break="no"/>quae, statim penetrabit per arenam. Qui sit igitur, ut mare eum illis 
+      <lb ed="#H" n="149"/>impetuosis procellis non reiiciat arenam, quae sponte flexibilis est; 
+      <lb ed="#H" n="150"/>Vicemus ergo non esse supervacuum hoc nomen; Et similis est fert 
+      <lb ed="#H" n="151"/>locus 38.c. Job, ubi Deus de inestimabili potentia sua disserens, inter 
+      <lb ed="#H" n="152"/>alia dicit. Et mare hucusque progrediatur, nec ultra. Nam haud dubie 
+      <lb ed="#H" n="153"/>nulla tempestas exsurgit, nisi volente Deo. Posset enim mare 
+      semper<lb ed="#H" n="154" break="no"/>in uno statu continere. Non facit sed quasi habenas laxaret, dicit, Huc 
+      <lb ed="#H" n="155"/>usque progrediatur. Quum autem alti montes videntur minitari 
+      cum<lb ed="#H" n="156" break="no"/>ctis mortalibus, &amp; terra non procul abest a periculo interitus, tun 
+      <lb ed="#H" n="157"/>ubito concidunt, &amp; reprimuntur in seipsis tam impetuosi fluctus. 
+      Ec<lb ed="#H" n="158" break="no"/>dicit statutum perpetuum. Verum quidem est, mare interdum 
+      exun<lb ed="#H" n="159" break="no"/>dare: scimus enim absorptas fuisse multas urbes diluvio: sed vere 
+      ta<lb ed="#H" n="160" break="no"/>men hoc dicitur, statutum hoc, vel decretum, esse perpetuum, q Deus 
+      <lb ed="#H" n="161"/>mare cohibet intra suas metas. Nam quoties mare occupat aliquam  
+      <lb ed="#H" n="162"/>partem continentis, haud dubie hinc colligimus quid fieret absque 
+      <lb ed="#H" n="163"/>fraeno illo, cujus hic sit mentio apud Jeremiam, &amp; in illo 38. cap. Jobi. 
+      <lb ed="#H" n="164"/>Colligimus ergo nullum esse obstaculum mari, quin totam terram 
+      <lb ed="#H" n="165"/>obruat, nisi quoniam obtemperat Deo. Interea in ipso statu generali 
+      <lb ed="#H" n="166"/>manet haec perpetuitas, de qua Propheta loquitur. Nam quavis 
+      mul<lb ed="#H" n="167" break="no"/>cae quotannis tempestates exsurgant, tamen concidit fervor ille, nec 
+      <lb ed="#H" n="168"/>aliter quam Dei praecepto. Hoc ergo verum est, praescriptas fuisse 
+      me<lb ed="#H" n="169" break="no"/>tas mari, quas fluctus ejus transgredi nequeunt. Et ideo dicit, 
+      Move<lb ed="#H" n="170" break="no"/>bunt se, &amp; non praevalebunt fluctus ejus: deinde, resonabunt, aut 
+      tu<lb ed="#H" n="171" break="no"/>multuabuntur, &amp; non poterunt transgredi. 
+      </p>
+            <p xml:id="yyy8Uu-e42366-d1e420">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Tenemus nunc summam hujus versus: Conqueritur Deus, tantum esse 
+      <lb ed="#H" n="173"/>amentiae &amp; stuporis in populo, ut saltem nen respondeat obedientiae 
+      <lb ed="#H" n="174"/>maris, &amp; quidem turbulenti: ideo hic traducit Judaeos, ac si essent 
+      por<lb ed="#H" n="175" break="no"/>tenta, quia nihil magis naturae contrarium, quam plus esse 
+      intelli<lb ed="#H" n="176" break="no"/>gentiae in mari tempestuoso, quam in homine, qui creatus est ad ima 
+      <lb ed="#H" n="177"/>ginem Dei, &amp; praeditus est aliquo sensu. Aquarum differentias expli 
+      <lb ed="#H" n="178"/>cant Physici, quas Deus ipse distinxit in maria, fluvios, fontes, lacus 
+      <lb ed="#H" n="179"/>liae item sunt dulces, aliae salsae, aliae amarae, aliae aliis saporibus 
+      im<lb ed="#H" n="180" break="no"/>butae: aliae frigidae, aliae calidae, quas thermas vocant, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e42366-d1e444">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>De usibus aquae naturalibus multa Philosophi naturae 
+      interpre<lb ed="#H" n="182" break="no"/>ces tradunt: nec eloquia divina illos tacuerunt. Psalm. 104. 10, 11, 12. 
+      <lb ed="#H" n="183"/>Qui emittis fontes per valles, ut inter montes ambulent, Potum prae 
+      <lb ed="#H" n="184"/>beant omnibus animantibus agri. frangant onagri sitim suam, juxta 
+      <lb ed="#H" n="185"/>illos volatilia coeli habitent, e medio frondium edentia vocem¬ 
+      <!--cod-MkL9py-0324.xml-->
+      <pb ed="#H" n="297"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Fideles autem ita aquam considerant, ut animos ad Deum 
+      ele<lb ed="#H" n="2" break="no"/>vet. Nam aqua commendat nobis sapientiam ac bonitatem Dei 
+      im<lb ed="#H" n="3" break="no"/>mensam in tot usibus aquae necessariis elucentem. Ex aqua enim ex 
+      <lb ed="#H" n="4"/>halationes in sublime adscendunt, unde meteora generantur velut,  
+      <lb ed="#H" n="5"/>mmubes, pluviae, ad terram irrigandam &amp; foecundandam, aerem 
+      refri<lb ed="#H" n="6" break="no"/>gerandum, animalia reficienda, plantas vegetandas, aestum 
+      mitigan<lb ed="#H" n="7" break="no"/>dum. Quin etiam absque pluviis ipsa aqua terram soecundat &amp; 
+      velu<lb ed="#H" n="8" break="no"/>ti generationis mater est, &amp; animalibus omnibus, inprimis 
+      homini<lb ed="#H" n="9" break="no"/>bus utilitates quotidianas adfert; ita ut sine aqua vita plantarum &amp; 
+      <lb ed="#H" n="10"/>animalium consistere non possit. Quos usus aqua ad valetudinem 
+      <lb ed="#H" n="11"/>hominis curandam adferat, Medicorum libri docent. Nihil addo de 
+      <lb ed="#H" n="12"/>aquis navigabilibus, quas utilitates humano generi praestent 
+      </p>
+            <p xml:id="yyy8Uu-e42366-d1e492">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Eadem servit Deo ad justissimam exsequutionem judicioum ipsius 
+      <lb ed="#H" n="14"/>m homines, ut diluvium testatur universale Genes. 7. item tot 
+      inun<lb ed="#H" n="15" break="no"/>dationes, &amp; naufragia frequentia: sicut omnia elementa Deo mini 
+      <lb ed="#H" n="16"/>strant vel ad bonitatem vel ad justitiam atque iram in homines 
+      ex<lb ed="#H" n="17" break="no"/>promendam. 
+      </p>
+            <p xml:id="yyy8Uu-e42366-d1e508">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Eadem de multis rebus aliis nos admonet. Nam similitudine 
+      <lb ed="#H" n="19"/>quadam repraesentat Spiritum Sanctum &amp; effecta ejus atque 
+      bene<lb ed="#H" n="20" break="no"/>ficia salutaria quae Christus per Spiritum Sanctum fidelibus veluti 
+      <lb ed="#H" n="21"/>profundit, ut videre est Jesa. 12. 3. cap. 55. 1. Jerem. 2. 13. &amp; 17. 13. Joh. 
+      <lb ed="#H" n="22"/>3. v. 5. &amp; cap. 4. 10, 11, 14 &amp; 7. 38. Apocal. 7. v. 17. &amp; 21. 6. &amp; 22. 1, 17. 
+      </p>
+            <p xml:id="yyy8Uu-e42366-d1e524">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Est imago Evangelii salvifici, Ezech. 47. Zach. 14. 8. 
+      <lb ed="#H" n="24"/>Est sacramentum sanguinis Christi per quem a peccatis 
+      emun<lb ed="#H" n="25" break="no"/>damur: &amp; virtutis Spiritus Sancti in nobis regenerandis, ut 
+      baptis<lb ed="#H" n="26" break="no"/>mus noster nos docet. Ephes 5. 26. Hebraeor. 10. 22. 1. Johan. 5 
+      <lb ed="#H" n="27"/>vers. 6, &amp; 
+      </p>
+            <p xml:id="yyy8Uu-e42366-d1e541">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Repraesentat calamitates &amp; afflictiones, veluti 1. Sam. 22. 17. Ps. 
+      <lb ed="#H" n="29"/>32. 6. &amp; 66. vers. 12. &amp; 69. 2. &amp; passim in veteri Testamento, item 
+      <lb ed="#H" n="30"/>multitudinem magnam hominum, ut Jerem. 47. 2. Apocalypso 
+      <lb ed="#H" n="31"/>17. 1, 15. 
+      </p>
+            <p xml:id="yyy8Uu-e42366-d1e554">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Hec de elemento aquae: sequitur de terra. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

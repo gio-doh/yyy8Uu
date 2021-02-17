@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="238"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e13587"> <!-- l4-c5 -->
+            <head xml:id="yyy8Uu-e13587-Hd1e109">Caput 5</head>
+            <p xml:id="yyy8Uu-e13587-d1e112">
+      <!--cod-MkL9py-0265.xml-->
+               <pb ed="#H" n="238"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>CAPUT V. 
+      <lb ed="#H" n="2"/>In quo de operibus Dei internis personalibus.
+    </p>
+            <p xml:id="yyy8Uu-e13587-d1e125">
+               <lb ed="#H" n="3"/>PNTERNA opera Dei alia sunt personalia, alia essentialis 
+      <lb ed="#H" n="4"/>Interna opera Dei personalia, sunt actus divini, qui non 
+      delibe<lb ed="#H" n="5" break="no"/>tantis sunt voluntatis, sed naturae, secundum naturalem 
+      proprie<lb ed="#H" n="6" break="no"/>tatem cujusque personae Deitatis: quale opus Patris est gignere 
+      Fi<lb ed="#H" n="7" break="no"/>lium, Filii nasci ex Patre, Patris &amp; Filii una spirare Spiritum Sanctum 
+      <lb ed="#H" n="8"/>Spiritus Sancti procedere per spirationem ex Patre &amp; Filio. Vocan 
+      <lb ed="#H" n="9"/>tur usitate opera personarum Deitatis ad intra, ut paulo ante 
+      di<lb ed="#H" n="10" break="no"/>ctum. 
+      </p>
+            <p xml:id="yyy8Uu-e13587-d1e145">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Hec opera personalia non sunt uoluntatis ex deliberatione 
+      agen<lb ed="#H" n="12" break="no"/>tis: alioquin non jam interna, sed externa:non propria personarum. 
+      <lb ed="#H" n="13"/>sed communia essentiae; non necessitatis naturalis, sed potentiae 
+      libe<lb ed="#H" n="14" break="no"/>rae opera essent: unde sequeretur, Filium &amp; Spiritum Sanctum &amp; 
+      cre<lb ed="#H" n="15" break="no"/>aturas esse, &amp; etiam non esse posset 
+      </p>
+            <p xml:id="yyy8Uu-e13587-d1e162">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Sed sunt naturae, quia Pater natura gignit Filium, Filius natura 
+      <lb ed="#H" n="17"/>gignitur ex Patre, &amp; spirant Spiritum Sanctum, Spiritus Sanctus 
+      <lb ed="#H" n="18"/>natura procedit a Patre &amp; Filio. Deus Pater gignit Filium 
+      necessita<lb ed="#H" n="19" break="no"/>te naturae, nec potest sealiter habere &amp; non gignere, alioquin non 
+      es<lb ed="#H" n="20" break="no"/>set Pater. Ita se naturaliter &amp; necessario habent opera interna 
+      per<lb ed="#H" n="21" break="no"/>sonalia, nec possunt aliter esse quam sunt,  
+      </p>
+            <p xml:id="yyy8Uu-e13587-d1e180">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Similitudo quaedam distinctionis hujus est in actionibus humanis: 
+      <lb ed="#H" n="23"/>nam &amp; illarum quaedam sunt a natura, quaedam a voluntate. Earum 
+      <lb ed="#H" n="24"/>quae a natura sunt, aliae sunt necessariae in perpetuo usu, quas 
+      natu<lb ed="#H" n="25" break="no"/>ralis causa efficiens necessaria semper non potest non efficere: aliae non 
+      <lb ed="#H" n="26"/>necessariae, sed in usu quodam successivo positae. Ut anima humana. 
+      <lb ed="#H" n="27"/>unita corpori facit ut homo semper vivat: non facit autem ut semper; 
+      <lb ed="#H" n="28"/>comedat, bibat, vigilet, dormiat, &amp;c. Quae autem a uoluntate sunt.  
+      <lb ed="#H" n="29"/>actiones, eas facere vel omittere vel differre pro libertate arbitrij 
+      ho<lb ed="#H" n="30" break="no"/>mo potest: ut sunt mercaturam exercere, militare &amp; simile¬ 
+      </p>
+            <p xml:id="yyy8Uu-e13587-d1e204">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Porro actus hi interni personales tam respectu principii quam 
+      fi<lb ed="#H" n="32" break="no"/>nis sunt ab aeterno &amp; indesinentes. Si enim finem habuerunt, quo 
+      <lb ed="#H" n="33"/>modo non fuerit tempus aliquod, quo personae productae 
+      perfectio<lb ed="#H" n="34" break="no"/>nem sui Esse habere coeperunt? quomodo quod finem habet, non 
+      <lb ed="#H" n="35"/>potuit etiam temporis principium habere? quomodo denique non 
+      <lb ed="#H" n="36"/>fuerit Dei producentis &amp; producere desinentis mutatio: 
+      </p>
+            <p xml:id="yyy8Uu-e13587-d1e222">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Nec ideo tamen hi interni personales actus sunt successivi: quia &amp; 
+      <lb ed="#H" n="38"/>aeternitati id repugnat, quae tota simul est quod est absque 
+      successio<lb ed="#H" n="39" break="no"/>ne prioris &amp; posterioris, seu unius post alterum: &amp; naturae rei simpli 
+      <lb ed="#H" n="40"/>cissimae, cujus productio in operatione perfecta, in effectu vero 
+      per<lb ed="#H" n="41" break="no"/>petua est; quod si Esse successivum haberet, jam necessario simplex 
+      <lb ed="#H" n="42"/>esse desineret. 
+      </p>
+            <p xml:id="yyy8Uu-e13587-d1e240">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Adhaec cujusque personae internus personalis actus non magis 
+      <lb ed="#H" n="44"/>communicari aliis personis potest, quam persona una potest fier 
+      <lb ed="#H" n="45"/>alia.
+    </p>
+            <p xml:id="yyy8Uu-e13587-d1e251">
+               <lb ed="#H" n="46"/>Haec breviter de internis operibus diuinis personalibus: 
+      <lb ed="#H" n="47"/>sequitur de essentialibus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 15</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 15</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="287"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e38165"> <!-- l5-c15 -->
+            <head xml:id="yyy8Uu-e38165-Hd1e109">Caput 15</head>
+            <p xml:id="yyy8Uu-e38165-d1e112">
+               <lb ed="#H" n="78"/>CAPUT XV. 
+      <lb ed="#H" n="79"/>In quo de proprietatibus corporum naturalium 
+      <lb ed="#H" n="80"/>i Deo creatorum. 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e121">
+               <lb ed="#H" n="81"/>UPERIORE capite de principiis internis corporum 
+      natura<lb ed="#H" n="82" break="no"/>plium actum est: nunc agendum de proprietatibus seu ac 
+      <lb ed="#H" n="83"/>cidentibus, quae inseparabiliter creatis corporibus 
+      conne<lb ed="#H" n="84" break="no"/>ra sunt quorum praecipua sunt, Locus &amp; Tempus? Finitas &amp; motus. 
+      <lb ed="#H" n="85"/>Eaque Theologicae considerationi subjecta sunt, quatenus ad Dei 
+      co<lb ed="#H" n="86" break="no"/>gnitionem ordinata sunt &amp; pertinent. De Loco corporum 
+      naturali<lb ed="#H" n="87" break="no"/>um initio proponemus theses aliquot.  
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e139">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>I. Locus corporis naturalis etsi loquendo Physice sit superficies 
+      <lb ed="#H" n="89"/>concava corporis continentis, quae immediate tangit &amp; ambit 
+      con<lb ed="#H" n="90" break="no"/>vexam superficiem corporis locati: tamen in sacris literis appela 
+      <!--cod-MkL9py-0314.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>latur omne spacium cujuscuntue sit rationis, in quo corpus 
+      natura<lb ed="#H" n="92" break="no"/>e contineri possit, omne spacium corporis locati. Nam in caelo su 
+      <lb ed="#H" n="93"/>premo corpora humana habent &amp; habitura sunt in vita futura 
+      lo<lb ed="#H" n="94" break="no"/>cum, sicut Christus ait Joh. 14. 3. Proficiscor paraturus vobis locum. In 
+      <lb ed="#H" n="95"/>his enim terris locus corporis nostri est superficies, exempli causa, 
+      <lb ed="#H" n="96"/>peris sive lucidi sive tenebricosi proxime ambientis &amp; tangentis 
+      cor<lb ed="#H" n="97" break="no"/>pus: at in supremo caelo ambiet nos &amp; circumplectetur 
+      incompre<lb ed="#H" n="98" break="no"/>hensibiliter lux caelestis. 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e173">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>II. Omne verum naturale corpus in aliquo esse &amp; contineri 
+      lo<lb ed="#H" n="100" break="no"/>co necesse est; quia est quantum. Sic ait Augustinus epistolam 
+      quinqua<lb ed="#H" n="101" break="no"/>gesimafeptima ad Dardanum: Spacia locorum tolle corporibus, 
+      nus<lb ed="#H" n="102" break="no"/>quam erunt, &amp; quia nusquam erunt, nec erunt 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e186">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>III. Nulla res creata in duobus aut pluribus locis simul seu 
+      eo<lb ed="#H" n="104" break="no"/>dem tempore esse potest. 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e195">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>IV. Nullus in natura locus est vacuus: quia natura ferre non 
+      po<lb ed="#H" n="106" break="no"/>test vacuum 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e204">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>V. Differentiae loci sunt supra, infra: ante, post: detrorsum, 
+      sini<lb ed="#H" n="108" break="no"/>strorsum. Haec differentiae pendent ab ordinatione divina, quae 
+      uni<lb ed="#H" n="109" break="no"/>cuique suum destinavit locum, qui etiam hanc ob causam dicitur 
+      na<lb ed="#H" n="110" break="no"/>turalis ei esse. Unde unumquodque corpus naturale appetit naturalem 
+      <lb ed="#H" n="111"/>suum locum &amp; fugit violentum. 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e220">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>VI. Locus corporalis discernendus est a loco spirituali seu 
+      spiri<lb ed="#H" n="113" break="no"/>tuum. Nam corpus est in loco citcumscriptive spiritualis vero 
+      natu<lb ed="#H" n="114" break="no"/>ra definitive. Definitive ea dicuntur in loco esse, quae sine spacii 
+      occu<lb ed="#H" n="115" break="no"/>patione, in eo ita sunt sua essentia, ut extra illum locum non sint; 
+      exo<lb ed="#H" n="116" break="no"/>peratione vero ibi esse egnoscantur. Sic Angeli sunt in loco 
+      definiti<lb ed="#H" n="117" break="no"/>ve: sic anima est in corpore definitive¬ 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e238">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>VII. Consideratio loci est Christiano utilissima ac necessaria: 
+      <lb ed="#H" n="119"/>Primo discernit creaturas a Deo Omnes enim res creatae sunt in 
+      lo<lb ed="#H" n="120" break="no"/>co; solus Deus nullo loco continetur, sed omnem continet locum. 
+      <lb ed="#H" n="121"/>Quapropter etiam corpus Christi uno tempore uno in loco est: ut 
+      <lb ed="#H" n="122"/>aeternum maneat discrimen inter Creatorem &amp; creaturam. Dein 
+      <lb ed="#H" n="123"/>de commendat hoc sapientiam &amp; bonitatem Dei, quod cujusque 
+      <lb ed="#H" n="124"/>creatae rei locum certum esse voluit, tum ad communem 
+      universita<lb ed="#H" n="125" break="no"/>tis hujus, tum ad cujusque rei creatae propriam conservationem: 
+      <lb ed="#H" n="126"/>quo pertinet illud quod legitur. 104. v. 5, 6, 7. 8, 9, 10. Fundavit 
+      ter<lb ed="#H" n="127" break="no"/>ram super bases ejus, ne dimoveretur in saculum &amp; perpetuum. Abysso 
+      <lb ed="#H" n="128"/>ut indumento operueras eam, supra montes stantibus aquis: Ex 
+      incre<lb ed="#H" n="129" break="no"/>patione tua diffugerunt, a voce tonitrui tui accelerarunt fugam. 
+      Con<lb ed="#H" n="130" break="no"/>scenderunt per montes, descenderunt per convalles; in locum quem 
+      fun<lb ed="#H" n="131" break="no"/>daveras ipsis. Terminum opposuisti, ne transeant; ne reuertantur ad 
+      o<lb ed="#H" n="132" break="no"/>periendum terram. Qui emittis fontes per valles, ut inter montes 
+      ambu<lb ed="#H" n="133" break="no"/>lent. Ita ex Dei ordinatione est quod alia alibi sunt, vivunt &amp; in suo 
+      <lb ed="#H" n="134"/>esse conservantur: alia in aliis locis nascuntur &amp; crescunt. Ita Psalmo, 
+      <lb ed="#H" n="135"/>octavo res creatae locis distinguuntur vers. 4. Quum respicio caelos 
+      <lb ed="#H" n="136"/>tuos, opius digitorum tuorum, lunam &amp; stellas quas statuisti: Et v. 8. &amp; 
+      <lb ed="#H" n="137"/>9. Omnia posuisti sub pedibus ejus: Greges &amp; armenta quotquot sunt; 
+      <lb ed="#H" n="138"/>etiamque bestias agri; Aves caeli &amp; pisces maris. Tertio facit locus ad 
+      <lb ed="#H" n="139"/>distinctionem &amp; memoriam operum tum divinorum tum 
+      huma<lb ed="#H" n="140" break="no"/>norum, eventuumque variorum. Sic fecit Deus alia in 
+      Paradiso<lb ed="#H" n="141" break="no"/>alia extra Paradisum: &amp; quanta opera fecit in AEgypto? Unde 
+      copo<lb ed="#H" n="142" break="no"/>graphia alter historiae oculus non immerito dicitur. Quarto refutat  
+      <lb ed="#H" n="143"/>consideratio loci illos qui quae sursum sunt, infra vel etiam ubique 
+      <lb ed="#H" n="144"/>esse dicunt; atque ita caelum cum terra, imo &amp; cum inferno 
+      com<lb ed="#H" n="145" break="no"/>niscent &amp; confundunt: ut qui caelum, qui corpus Christi 
+      ubi<lb ed="#H" n="146" break="no"/>que esse contendunt. Quinio consolatur nos loci consideratio 
+      ad<lb ed="#H" n="147" break="no"/>versus exsilia &amp; mortem denique; Ecclesiae pulsae alibi locus a Deo 
+      <lb ed="#H" n="148"/>paratus, Apoc. 12. v14. Si mundus locum nobis dare non vult in 
+      <lb ed="#H" n="149"/>terra, paratus est nobis locus in caelo Joh. 14 3. Proficiscor paraturus 
+      <lb ed="#H" n="150"/>vobis locum. Et cap. 17. v. 24. Pater, quos dedisti mihi, velim ut ubi sum 
+      <lb ed="#H" n="151"/>go &amp; illi sint mecum 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e317">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Tantum de loco. 
+      <lb ed="#H" n="153"/>De tempore similiter agemus θετικως 
+      <lb ed="#H" n="154"/>I. TEMPUS est ens reale, non rationis: est aliquid in re, non in 
+      so<lb ed="#H" n="155" break="no"/>la mentis notione 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e330">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>II. Tempus aliud est creationis, generationis, ortus: aliud 
+      ope<lb ed="#H" n="157" break="no"/>ris, creaturae, rei constitutae, seu genitae &amp; perfectae. Illud est, quando 
+      <lb ed="#H" n="158"/>res quaelibet facta coepit esse: hoc vero, est duratio rerum creatarum 
+      <lb ed="#H" n="159"/>actionumque circa illas aut in illis mensurabilis per successivas partet 
+      <lb ed="#H" n="160"/>priores &amp; posteriores quas habet  
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e346">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>III. Non est aeternum: quia a Deo creatum est, &amp; habet 
+      principi<lb ed="#H" n="162" break="no"/>um tale quod non fuit praecedentis temporis sinis, &amp; talem 
+      habitu<lb ed="#H" n="163" break="no"/>rum est finem qui non erit insequentis temporis principium: quod 
+      <lb ed="#H" n="164"/>est illustre &amp; admitandum aeterni Numinis opus principium habes 
+      <lb ed="#H" n="165"/>cum mundo. Multo minus igitur tempus est proprie loquendo 
+      <lb ed="#H" n="166"/>aeternitas ipsa: quia aeternitas tempori opponitur, excludit 
+      tem<lb ed="#H" n="167" break="no"/>pus. Est quidem utrumque duratio; sed aeternitas est dutatio carenmt 
+      <lb ed="#H" n="168"/>initio, successione &amp; fine: tempus autem est duratio rei creatae aut 
+      <lb ed="#H" n="169"/>actionis circa rem creatam aut in illa, initium habens &amp; 
+      successio<lb ed="#H" n="170" break="no"/>nem, finemque 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e372">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>IV. Non est motus ipse siderum, nempe Solis &amp; Lunae &amp; alios 
+      <lb ed="#H" n="172"/>rum: quia fuit ante motum siderum; erat enim nox &amp; dies, &amp; 
+      nume<lb ed="#H" n="173" break="no"/>rabantur dies quum nondum essent sidera, quae die quarto demum 
+      <lb ed="#H" n="174"/>Deo creata sunt, ut inter alios usus essent mensura temporis, ut 
+      <lb ed="#H" n="175"/>Philo Judaeus in libro de Mundi opificio ex Mose notat. Nam Solis 
+      <lb ed="#H" n="176"/>Lunaeque &amp; aliorum siderum recursus; dies &amp; menses, annosque 
+      con<lb ed="#H" n="177" break="no"/>ficiunt, mensurant &amp; distinguunt, postquam a Deo ad hunc finem 
+      <lb ed="#H" n="178"/>ordinata sunt sidera. Ideo autem Deus voluit tempus esse ante motn 
+      <lb ed="#H" n="179"/>fiderum, ut sciremus, Deum omnia efficere &amp; conservare posse et 
+      <lb ed="#H" n="180"/>am sine ministerio instrumentorum. Propter hanc causam ad ve 
+      <lb ed="#H" n="181"/>um Josuae victoris ex voluntate Dei Sol &amp; Luna steterunt, ut lego 
+      <!--cod-MkL9py-0315.xml-->
+      <pb ed="#H" n="288"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>tur Jos 10. ver. 12, 13, 14. Tunc alloquutus est Iosua Iehovam, quo 
+      di<lb ed="#H" n="2" break="no"/>exposuit Iehova hunc Emoreum filiis Israelis: &amp; dixit ante oculos Israt 
+      <lb ed="#H" n="3"/>lis, Sol inGibhone subsiste, &amp; Luna in convalle Ajalonis. Substitit erge 
+      <lb ed="#H" n="4"/>Sel &amp; Luna stetit, donec vindicata esset gens Israelitica ab hostibus suis 
+      <lb ed="#H" n="5"/>nonne hoc scriptum est in libro rectustabat autem Sel in medio caelo, neque 
+      <lb ed="#H" n="6"/>festinabat ad occasum quasi diem integrum. Nec fuit similis diei illi 
+      an<lb ed="#H" n="7" break="no"/>te eum, vel post eum, auscultante Iehova voci cujusquam: nam Iehovs. 
+      <lb ed="#H" n="8"/>pugnabat pro Israele. Ita quamvis Sol &amp; Luna starent, tempus tamen 
+      <lb ed="#H" n="9"/>ibat &amp; continuabatur. Et Sol in gratiam Regis Ezechiae interrupto 
+      <lb ed="#H" n="10"/>motu retrocessit, sic ut umbra in solario Achaxi retrocesserit decem 
+      <lb ed="#H" n="11"/>gradibus, ut est 2. Reg 20. v. 9, 10. 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e431">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>V. Tempus sive pro creationis &amp; generationis principio, sive pro 
+      <lb ed="#H" n="13"/>duratione mensurabili accipiatur, omnibus rebus creatis accidit: ac 
+      <lb ed="#H" n="14"/>proinde etiam corporibus naturalibs visibilibus: sicut dicitur 2. 
+      Cor<lb ed="#H" n="15" break="no"/>4. v. 18. Quae cernuntur, temporaria sunt  
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e444">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>VI. Chronologia seu temporis evordium cum ordinata ejus se 
+      <lb ed="#H" n="17"/>rie &amp; distincta numeris progressione est proprium Ecclesiae decus; 
+      <lb ed="#H" n="18"/>nia ex sola Scriptura Sacra recte cognoscitur 
+      <lb ed="#H" n="19"/>VII. Tempus usum multiplicem nobis exhibet. Primo, discernis 
+      <lb ed="#H" n="20"/>opera Dei externa &amp; res creatas a Deo, qui solus tempori non est 
+      seb<lb ed="#H" n="21" break="no"/>jectus. Deinde, est aeternitatis, sapientiae, bonitatis, justitiae &amp; omni 
+      <lb ed="#H" n="22"/>potentiae divinae documentum &amp; monimentum Tertio, facit ad 
+      co<lb ed="#H" n="23" break="no"/>gnitionem operum divinorum &amp; humanorum &amp; varioram eventur. 
+      <lb ed="#H" n="24"/>inde ab initio mundi: Unde Chronologia alter historiae oculus esse 
+      <lb ed="#H" n="25"/>dicitur. Quario, consideratio temporis consolatur pias mentes ad 
+      <lb ed="#H" n="26"/>versus calumnias persequutiones, aliasque afflictiones. Unde 
+      commn<lb ed="#H" n="27" break="no"/>niter dicitur, Veritatem esse temporis filium &amp; utriusque parentem est. 
+      <lb ed="#H" n="28"/>Deum. Quo referendum istud Pauli 2 Cor. 4. 17. Illico enim 
+      praeter<lb ed="#H" n="29" break="no"/>iens levitas afflictionis nostrae, excellenter excellentis gloriae pondus aeter 
+      <lb ed="#H" n="30"/>num conficit nobis. 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e482">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Tantum de tempore: sequuntur de Finitate 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e489">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>theses 
+      <lb ed="#H" n="33"/>I. Omnis creata substantia est finita &amp; finitum habet Esse. 
+      Ratio<lb ed="#H" n="34" break="no"/>prima est, quia omnis creata substantia est composita, ex actu saltem 
+      <lb ed="#H" n="35"/>&amp; potentia: quod autem compositum est, finitum est. Secunda, quia 
+      o<lb ed="#H" n="36" break="no"/>mnis creatura loco continetur Tertia, quia omnis creatura tempore 
+      <lb ed="#H" n="37"/>finitur. Quarta, quia per suam substantia quaeque creata differentiam 
+      <lb ed="#H" n="38"/>ad aliquod Entium genus contracta est. Ita homo finitus est per sua 
+      <lb ed="#H" n="39"/>formam: atque adeo omne finitum, est finitum per suam formam, 
+      <lb ed="#H" n="40"/>quae vel est ejus essentia, ut in substantiis spirituatibus: vel pars est est 
+      <lb ed="#H" n="41"/>sentiae, ut in rebus ex materia &amp; forma compositis. Ipsi Angeli 
+      crea<lb ed="#H" n="42" break="no"/>ti, sunt finiti: etsi enim oculis nostris illos non comprehendamus; 
+      ta<lb ed="#H" n="43" break="no"/>men certum est substantia eos finiri, Multo magis finita est quaelibet, 
+      <lb ed="#H" n="44"/>Visibilis creatura. 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e522">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>II. Quicquid essentia seu substantia finitum est, ejus etiam afse 
+      <lb ed="#H" n="46"/>ctiones seu proprietates finitae sunt: quia proprietates seu affectiones 
+      <lb ed="#H" n="47"/>respondent essentiae. Quapropter omne creatum corpus est finitum 
+      <lb ed="#H" n="48"/>ut substantia, ita etiam quantitate, qualitate, actione &amp; aliis 
+      acciden<lb ed="#H" n="49" break="no"/>tibus. Proinde in substantia finita, non potest esse virtus seu vis 
+      agen<lb ed="#H" n="50" break="no"/>di infinita per se. At humanam Christi naturam infinitae esse virtutis 
+      <lb ed="#H" n="51"/>dicimus, qua peccata mundi expiata sunt: sed infinitae est virtutis non 
+      <lb ed="#H" n="52"/>per se &amp; suapte natura, sed ex accidenti &amp; per aliud, hoc est, propter 
+      <lb ed="#H" n="53"/>Deitatem, cui hypostatice unita est humanitas. 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e546">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>III. Omne corpus naturale simpliciter quidem finitum est, 
+      <lb ed="#H" n="55"/>per suam formam substantialem: sed tamen, quatenus propter mate 
+      <lb ed="#H" n="56"/>riam, ad infinitas accidentales formas recipiendas accommodatum  
+      <lb ed="#H" n="57"/>est, eatenus dicitur esse infinitum secundum quid, id est, secundum 
+      <lb ed="#H" n="58"/>potentiam mate: iae suae. Proinde nulla creatura est simpliciter 
+      in<lb ed="#H" n="59" break="no"/>finita. 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e564">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>Haec de Finitate: sequitur de eMotu. 
+      <lb ed="#H" n="61"/>MOTUS, qui est actus agentis in subjecto mobili, (sicut quies ei 
+      <lb ed="#H" n="62"/>opposita, est privatio actus agentis in subjecto mobili,) est inter 
+      mi<lb ed="#H" n="63" break="no"/>rabilia Dei effecta, quae in hoc mundo esse voluit. 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e577">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Motus ut a movete est, actio est, ut in re mota, est passio: proinde actis 
+      <lb ed="#H" n="65"/>&amp; passio, unus &amp; idem motus sunt reipsa, ratione tantum differunt. 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e587">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Motus non est aeternus, non fuit ab aeterno, sed est a Deo creatus 
+      <lb ed="#H" n="67"/>cum mundo 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e596">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Motus principia duo sunt, primum &amp; secundarium. Primum, est; 
+      <lb ed="#H" n="69"/>Deus ipse qui potentiae est in movendo infinitae &amp; in instanti movere 
+      <lb ed="#H" n="70"/>po: est: unde &amp; primum movens, primus metor, prima natura 
+      appella<lb ed="#H" n="71" break="no"/>tur, ite natura naturans, aut natura creatrix, natura universalis, quia 
+      <lb ed="#H" n="72"/>Deus est principium omnium motuum universale, naturas omnes alias 
+      <lb ed="#H" n="73"/>producens, movens, cohibens &amp; continens. De hoc principio dicitur: 
+      <lb ed="#H" n="74"/>Act. 17. v. 28. In ipso vivimus &amp; movemur &amp; sumus. Idem suadet &amp; 
+      <lb ed="#H" n="75"/>ratio; Omnia bona naturalia Deum autorem &amp; primam causam 
+      ha<lb ed="#H" n="76" break="no"/>bent. Omnes autem motus in tota rerum natura sunt bonum 
+      natu<lb ed="#H" n="77" break="no"/>rale: Ergo Deum habent autorem &amp; primam causam 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e622">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Est autem Deus externum principium motus, quia non est parsul 
+      <lb ed="#H" n="79"/>lius rei creatae. sed caula efficiens. Et res creatas mouet plerunque se 
+      <lb ed="#H" n="80"/>cundum earum naturam: unde quum homines ad faciendum aliquid 
+      <lb ed="#H" n="81"/>mover, ut ipsi aliquid velint &amp; operentur; talis motus in hominibus 
+      <lb ed="#H" n="82"/>non est violentus, non coactus, sed voluntatius 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e638">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Secund erium principium motus, est naturale, quod est finitae 
+      po<lb ed="#H" n="84" break="no"/>tentiae, &amp; non potest movere nisi in tempore. Estque duplex: unum in 
+      <lb ed="#H" n="85"/>ternum, alierum externum. Iaternum principium naturale motus, est 
+      <lb ed="#H" n="86"/>quod ita est intra rem mobilem, ut ei sic essentiale, id est, vel 
+      consti<lb ed="#H" n="87" break="no"/>tuens ejus essentiam, vel ex ea const tuta necessario nascens: ut est 
+      <lb ed="#H" n="88"/>cujusvis rei mobilis natura, materia nimirum aut forma, aut proprie 
+      <lb ed="#H" n="89"/>tas ex illis promanans. Res natur iles secundum formam essentia; 
+      <lb ed="#H" n="90"/>lem suam ex natura operantur: artificiales vero secundum materiam 
+      <!--cod-MkL9py-0315.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>solum naturalem possunt agere; ac proinde nec soni, nec figurae, nec 
+      <lb ed="#H" n="92"/>instituta quaevis alia possunt efficere, ut actionum earum quae vident 
+      <lb ed="#H" n="93"/>tur, principia dicantur esse, ut optime tradit Augustinus libr. 10. d. 
+      <lb ed="#H" n="94"/>civitate Dei. cap. 9. &amp; 11. Et lib. 2. de doctrina Christiana, cap. 20. 
+      <lb ed="#H" n="95"/>Externum naturale principium motus, est quaevis res creata 
+      <lb ed="#H" n="96"/>alia atque diversa a re quam movet. Voluit enim Deus ut 
+      <lb ed="#H" n="97"/>res quaevis non solum ab alia moveri, verum etiam aliam movere 
+      <lb ed="#H" n="98"/>possi¬ 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e682">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Anaturali principio interno distingui debet principium motus 
+      <lb ed="#H" n="100"/>internum supernaturale, nempe Spiritus Sanctus, qui movet &amp; flectit, 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e691">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>voluntatem nostram ad volendum &amp; faciendum bonum. 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e699">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Finis motus rerum creatarum supremus est gloria Dei: nam quum 
+      <lb ed="#H" n="103"/>motus tam mirabilis necessaria &amp; utilis toti universitati, &amp; singuli 
+      <lb ed="#H" n="104"/>ejus partibus vereque divina res sit, hanc Deus sibi uni reservare 
+      glo<lb ed="#H" n="105" break="no"/>riam voluit, quod sit primus motor, sine cujus voluntate res creata 
+      <lb ed="#H" n="106"/>nulla se aut aliam tem usquam &amp; unquam movere possit. Unde 
+      de<lb ed="#H" n="107" break="no"/>Deo dicitur Actor. 17. v. 25. ipse dat omnibus vitam &amp; halitum &amp; 
+      o<lb ed="#H" n="108" break="no"/>mnia. Et Jerem 10. v. 23. Novi Iehova, non esse penes hominem vitam 
+      <lb ed="#H" n="109"/>psius: non esse penes virum ambulantem vel dirigere gressum suum. 
+      <lb ed="#H" n="110"/>Matth. 10. 29. Nonne duo posserculi assario vaeneunt, &amp; unus ex eis non 
+      <lb ed="#H" n="111"/>cadet in terram sine Patre vestro? 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e725">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Subordinati fines motus naturalis sunt I. Quies, quae est 
+      termi<lb ed="#H" n="113" break="no"/>nus ad quem tanquam ad finem proprium motus ordinatus est, 
+      sic<lb ed="#H" n="114" break="no"/>ut bellum ad pacem. Ideo enim unumquodque naturaliter movetur a 
+      <lb ed="#H" n="115"/>permino a quo, ad terminum ad quem, ut in hoc adepto conquiescat.  
+      <lb ed="#H" n="116"/>Quios autem ad quam naturaliter ordinatur motus, aut est in 
+      acqui<lb ed="#H" n="117" break="no"/>ita substantia, aut in quantitate, aut in qualitate, aut in loco. 1I. Ut 
+      <lb ed="#H" n="118"/>serviat tum ad totius mundi tum ad singularum partium ejus 
+      orna<lb ed="#H" n="119" break="no"/>mentum &amp; conservationem. III. Ut per eum facihius intelligamus 
+      <lb ed="#H" n="120"/>motus spirituales &amp; supernaturales, quos Deus in animis electorum 
+      <lb ed="#H" n="121"/>per Spiritum Senctum excitat  
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e751">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Omnia autem quae a Deo creata sunt, motui alicui obnoxia sunt,  
+      <lb ed="#H" n="123"/>Nam quae a non esse ad esse simpliciter producta sunt, eadem etiam 
+      <lb ed="#H" n="124"/>ab esse ad non esse reduci, augeri item &amp; imminui, qualitatibus 
+      alte<lb ed="#H" n="125" break="no"/>rari, &amp; e loco in lorum transferri possunt; quorum nihil sine moti 
+      <lb ed="#H" n="126"/>fieri potest. Deinde omne compositum motui est obnoxium: at 
+      o<lb ed="#H" n="127" break="no"/>mnia quae sunt, excepto Deo, composita sunt, si non ex materia &amp; 
+      <lb ed="#H" n="128"/>porma, saltem ex actu &amp; potentia, ut Angelicae substantiae. 
+      Inprimi<lb ed="#H" n="129" break="no"/>autem motui &amp; mutationi obnoxiae sunt corporeae creaturae, unde 
+      <lb ed="#H" n="130"/>earum vanitas perspicitur, qua de re Salomon in Ecclesiaste, inprimis 
+      <lb ed="#H" n="131"/>cap. 1. &amp; 3. 
+      </p>
+            <p xml:id="yyy8Uu-e38165-d1e777">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>Hujus rei consideratio facit ad discernendas creaturas a Deo. 
+      <lb ed="#H" n="133"/>Nam res creatae sunt motui obnoxiae: at in Deum non cadit 
+      mo<lb ed="#H" n="134" break="no"/>tus: Deus est immobilis &amp; immutabilis. Tum motus sine loco fier 
+      <lb ed="#H" n="135"/>nequit. Omne praeterea quod movetur a re creata, in tempore 
+      move<lb ed="#H" n="136" break="no"/>ri &amp; successive necesse est: nam nihil potest ab ulla re creata mover 
+      <lb ed="#H" n="137"/>in instanti. Solus Deus movere potest in instanti: quia solus est 
+      po<lb ed="#H" n="138" break="no"/>tentiae infinitae; 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

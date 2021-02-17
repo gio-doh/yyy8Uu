@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 16</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 16</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="NaN"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e72932"> <!-- l2-c16 -->
+            <head xml:id="yyy8Uu-e72932-Hd1e109">Caput 16</head>
+            <p xml:id="yyy8Uu-e72932-d1e112">
+               <lb ed="#H" n="55"/>CAPUT XVI 
+      <lb ed="#H" n="56"/>In quo de 
+      <lb ed="#H" n="57"/>IMMORTALITATE DEI.
+      </p>
+            <p xml:id="yyy8Uu-e72932-d1e121">
+               <lb ed="#H" n="58"/>MMORTALITAS DEI, est essentialis Dei proprietas, per quam 
+      <lb ed="#H" n="59"/>intelligitur, non posse ab ipso separati vitam, ipsum non desinere 
+      <lb ed="#H" n="60"/>inquam vivere &amp; mori non posse 1. Timoth. 6, 16. ἐμόνος ἐχω¬ 
+      <lb ed="#H" n="61"/>εθανασιαν, qui solus habet immortalitatem, 
+      </p>
+            <p xml:id="yyy8Uu-e72932-d1e132">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>eAxiomata. 
+      <lb ed="#H" n="63"/>I. Deus est immortalis per essentiam suam, non per 
+      immortali<lb ed="#H" n="64" break="no"/>tatis qualitatem 
+      </p>
+            <p xml:id="yyy8Uu-e72932-d1e144">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>II. Est immortalis a se, non autem κεινονία, hoc est, 
+      communica<lb ed="#H" n="66" break="no"/>tione seu accepta immortalitate ab alio: non cujusquam gratia, sed  
+      <lb ed="#H" n="67"/>natura sua: non ex alterius voluntate, sed ex suapte essentia. 
+      </p>
+            <p xml:id="yyy8Uu-e72932-d1e155">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>III. Est solus vere, proprie &amp; simpliciter immortalis; quia solu 
+      <lb ed="#H" n="69"/>est omnino immutabilis. In omni enim mutabili natura nonnulla 
+      <lb ed="#H" n="70"/>mors est ipsa mutatio, quia facit aliquid in ea non esse quod erat. Pro 
+      <lb ed="#H" n="71"/>inde &amp; ipsa anima humana, quae propterea dicitur immortalis, quid 
+      <lb ed="#H" n="72"/>qualitercunque secundum modum suum nunquam desinit vivere 
+      <lb ed="#H" n="73"/>habet tamen pro ipso suo modo quandam mortem suam: quae si juste 
+      <lb ed="#H" n="74"/>ivebat &amp; peccat, moritur justitiae: si peccatrix erat, &amp; justificatur,  
+      <lb ed="#H" n="75"/>moritur peccato, ut Augustinus docet, sexto tomo, libro tertio contra 
+      <lb ed="#H" n="76"/>Maximinum Arianum, capite duodecimo. Vera &amp; integra immore 
+      <lb ed="#H" n="77"/>talitas tam non recipit mutationem, quam nec finem, quod omnis 
+      <lb ed="#H" n="78"/>mutatio quaedam mortis imitatio est. Omne enim quod mutatur,  
+      <lb ed="#H" n="79"/>dum de uno ad aliud transit esse, quodammodo necesse est moriatur 
+      <lb ed="#H" n="80"/>quod est, ubi esse incipiat quod non est. Solus igitur Deus absolutanm: 
+      <lb ed="#H" n="81"/>perfectamque immortalitatem habet, apud quem non est 
+      transmuta<lb ed="#H" n="82" break="no"/>tio, nec vicissitudinis obumbrario, ait Bernardus Sermone octogesi. 
+      <lb ed="#H" n="83"/>moprimo in Canonica. 
+      </p>
+            <p xml:id="yyy8Uu-e72932-d1e194">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>Objectio. 
+      <lb ed="#H" n="85"/>Angeli &amp; animae hominum sunt quoque immortales: 
+      <lb ed="#H" n="86"/>Ergo non solus Deus. 
+      <lb ed="#H" n="87"/>RESP. Antecedens est intelligendum non simpliciter, sed κατα 
+      <lb ed="#H" n="88"/>τi: Angeli &amp; Animae hominum sunt immortales, primo improprie, 
+      <lb ed="#H" n="89"/>quia ipsorum immortalitas principium habet: secundo, sunt immor  
+      <!--cod-MkL9py-0182.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>tales non sua vi &amp; potestate, sed alieno tantum beneficio, quatenus a 
+      <lb ed="#H" n="91"/>Deo in sua natura conservantur: Dei enim sustentatione perdurant 
+      <lb ed="#H" n="92"/>&amp; subsistunt.  
+      </p>
+            <p xml:id="yyy8Uu-e72932-d1e223">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>VSVS 
+      <lb ed="#H" n="94"/>Aιδασκαλία I. Quum Deus noster sit immortalis, confirmatur  
+      <lb ed="#H" n="95"/>cum esse verum Deum: Qui enim moritur vel mori potest deitate 
+      <lb ed="#H" n="96"/>sua, verus Deus non est. Unde Cretenses olim tanquam mendaces. 
+      <lb ed="#H" n="97"/>male audierunt, quod Jovem Deum esse profiterentur, &amp; tamen 
+      <lb ed="#H" n="98"/>mortuum esse &amp; sepulcrum se ejus habere gloriabantur: de eis 
+      Calli<lb ed="#H" n="99" break="no"/>machus Cyrenaus Poeta Graecus sic canit hymno in Jovem¬ 
+      </p>
+            <p xml:id="yyy8Uu-e72932-d1e243">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Rprτis ἀει ψευσαι κ ι ταφον ἀεινα σει 
+      <lb ed="#H" n="101"/>Rεῆτες ἐτεκιήναιο συ φ κ θεόνις, νασι  αjει. 
+      <lb ed="#H" n="102"/>2. Quum Deus noster sit immortalis, colligitur hinc magnum 
+      <lb ed="#H" n="103"/>esse amorem CHRISTI erga nos, qui immortalis exsistens, pro 
+      no<lb ed="#H" n="104" break="no"/>bis in carne assumta mori dignatus est: sicut Paulus ait Rom. 5. v. 8. 
+      <lb ed="#H" n="105"/>Commendat suam erga nos charitatem Deus, eo quod quum udhuc 
+      <lb ed="#H" n="106"/>ssemus peccatores, Christus pro nobis mortiuus sit. 
+      </p>
+            <p xml:id="yyy8Uu-e72932-d1e263">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>Quum Deus noster sit solus proprie immortalis, sequitur  
+      <lb ed="#H" n="108"/>quod ipse nos liberet a morte 
+      <lb ed="#H" n="109"/>4. Quum Deus noster sit immortalis, est ipse summum nostrum 
+      <lb ed="#H" n="110"/>bonum. Hic locum habet illud recte intellectum: Non est mortale 
+      <lb ed="#H" n="111"/>quod opto. 
+      </p>
+            <p xml:id="yyy8Uu-e72932-d1e280">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Phεγος. 1. Quum Deus sit immortalis, delirarunt Gentiles; 
+      <lb ed="#H" n="113"/>qui divinam naturam in mares feminasque distinxerunt, &amp; varios de 
+      <lb ed="#H" n="114"/>os, variasque deas in conjugio viventes confinxerunt. Hac enim sexus 
+      <lb ed="#H" n="115"/>discretione &amp; conjugali conjunctione indiget eorum natura, qui  
+      <lb ed="#H" n="116"/>subjecti mortis legibus vivunt. Quia enim mors, hominum genus 
+      <lb ed="#H" n="117"/>in servitutem adducit, nuptiae liberorum propagatione reponum 
+      <lb ed="#H" n="118"/>quod interitus ipse consumsit. Mortale itaque animal medium 
+      ho<lb ed="#H" n="119" break="no"/>habet ad immortalitatem tuendam, sibi a Deo Creatore tributum, 
+      <lb ed="#H" n="120"/>quod gignere filios ex se potest: eamque ob rem morituro quidem 
+      <lb ed="#H" n="121"/>homini, feminae usum necessarium esse cognoscimus. Angelis 
+      foe<lb ed="#H" n="122" break="no"/>mineus sexus omnino superfuisset, neque enim augeri propagarique 
+      <lb ed="#H" n="123"/>indigent qui decrescere non possunt: qua de re Theodoretus 
+      Ser<lb ed="#H" n="124" break="no"/>mone certio de Curatione Graecarum affectionum. Sic &amp; nos post 
+      u<lb ed="#H" n="125" break="no"/>niversalem resurrectionem ex mortuis, non amplius egebimus con¬ 
+      </p>
+            <p xml:id="yyy8Uu-e72932-d1e315">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>ugio, quia immortales erimus 
+      <lb ed="#H" n="127"/>2. Quum Deus sit immortalis, foede erratunt, qui CHRISTUM 
+      <lb ed="#H" n="128"/>secundum Deitatem passum &amp; mortuum esse docuerunt. Turpissi 
+      <lb ed="#H" n="129"/>me etiam errant, qui Deum peccare posse aut peccati autorem esse. 
+      <lb ed="#H" n="130"/>dicunt. Qui enim natura immortalis est, peccare non potest. 
+      </p>
+            <p xml:id="yyy8Uu-e72932-d1e331">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>Eπανορθυσις. Quum Deus noster sit immortalis, merito 
+      deplora<lb ed="#H" n="132" break="no"/>mus lapsum nostrum, per quem mortales facti sumus qui ad 
+      imagi<lb ed="#H" n="133" break="no"/>nem Dei ac proinde ad immortalitatem creati eramus. Quo 
+      perti<lb ed="#H" n="134" break="no"/>net illud Pauli Rom. 5. v. 12. Per unum hominem peccatum in 
+      mun<lb ed="#H" n="135" break="no"/>dum introit ac per peccatum mors: &amp; ita in omnes homines mors 
+      <lb ed="#H" n="136"/>pervasit, in quo omnes peccarunt. Et v. 17. Per unam offensam mors 
+      <lb ed="#H" n="137"/>regnavit per unum 
+      </p>
+            <p xml:id="yyy8Uu-e72932-d1e351">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>Reprehendendi &amp; illi sunt, qui peccato dant operam, ac mortis 
+      <lb ed="#H" n="139"/>suae inprimis aeternae sibi causa exsistentes, a Dei, qui immortalis est, 
+      <lb ed="#H" n="140"/>imagine recedunt.  
+      </p>
+            <p xml:id="yyy8Uu-e72932-d1e362">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Hυρδlεια. Quum Deus noster sit immortalis, ad ipsum igitur in 
+      <lb ed="#H" n="142"/>morte confugiendum, in ipso spes ponenda: non autem in homine 
+      <lb ed="#H" n="143"/>mortali. Quo pertinet illud Psal. 146. 2, 4, 5. Ne fiduciam habetote in 
+      <lb ed="#H" n="144"/>Principibus, in ullo filio hominum, penes quem nulla est salus. Exit.  
+      <lb ed="#H" n="145"/>spiritus ejus, reuertitur in terram suam: die eodem pereunt 
+      cogita<lb ed="#H" n="146" break="no"/>tiones ejus. Beatus, cui auxilio est Deus fortis Iacobi, cujus 
+      exspecta<lb ed="#H" n="147" break="no"/>tio est in Iehova Deo sub 
+      </p>
+            <p xml:id="yyy8Uu-e72932-d1e382">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>ΠαραXλησις 1. Quum Deus noster sit immortalis, non est igitur 
+      <lb ed="#H" n="149"/>quod metuamus nobis a regibus mortalibus, ab hominibus 
+      morti<lb ed="#H" n="150" break="no"/>obnoxiis. 
+      </p>
+            <p xml:id="yyy8Uu-e72932-d1e394">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>2. Quum Deus noster sit immortalis, erimus &amp; nos 
+      immorta<lb ed="#H" n="152" break="no"/>les: &amp; licet quo ad corpora moriamur, tamen illa rursus e pulvere 
+      <lb ed="#H" n="153"/>terrae excitabuntur incorrupta deinceps futura. Oportet enim, ut 
+      <lb ed="#H" n="154"/>Paulus ait 1. Cor. 15. v. 53. &amp; sequentibus, corruptibile istud induere 
+      <lb ed="#H" n="155"/>incorruptibilitatem, &amp; mortale istud induere immortalitatem. Post. 
+      <lb ed="#H" n="156"/>quam autem hoc corruptibile induerit: acorruptibilitatem, &amp; mor 
+      <lb ed="#H" n="157"/>tale istud induerit immortalitatem, tunc fiet illud quod scriptum est: 
+      <lb ed="#H" n="158"/>Absorpta est mors ad victoriam: Ubitua, o mons, victoria? Ubi tuus, &amp; 
+      <lb ed="#H" n="159"/>sepulcrum, aculeus? Aculeus vero mortis est peccatum: vis outem 
+      <lb ed="#H" n="160"/>peccati, lex. Deo autem sit gratia qui dat nobis victoriam per 
+      Domi<lb ed="#H" n="161" break="no"/>num nostrum Iesum Christum. 
+      </p>
+            <p xml:id="yyy8Uu-e72932-d1e423">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Tantum de immortalitate Dei: sequitur  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

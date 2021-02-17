@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 31</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 31</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="318"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e52914"> <!-- l5-c31 -->
+            <head xml:id="yyy8Uu-e52914-Hd1e109">Caput 31</head>
+            <p xml:id="yyy8Uu-e52914-d1e112">
+      <!--cod-MkL9py-0345.xml-->
+               <pb ed="#H" n="318"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>CAPUT XXXI. 
+      <lb ed="#H" n="2"/>In quo de humoribus &amp; spiritibus in corpore 
+      <lb ed="#H" n="3"/>humano.
+    </p>
+            <p xml:id="yyy8Uu-e52914-d1e128">
+               <lb ed="#H" n="4"/>TTUMORES in corpore humano alii sunt alimentarii, alii excre 
+      <lb ed="#H" n="5"/>Tnentitui. Humores alimentarii, sunt corpora liquida in qua 
+      <lb ed="#H" n="6"/>chylus vi jecoris transmutatur, ut corpori alendo inserviant, 
+      <lb ed="#H" n="7"/>ac proinde in corporis substantiam transmutantur. Suntque vel 
+      primi<lb ed="#H" n="8" break="no"/>vel secundarit: primi sunt quatuor, nempe, sauguis, bilis, pituita, 
+      me<lb ed="#H" n="9" break="no"/>lancholicus succus, quatuor elementis respondentes: secundarti in 
+      par<lb ed="#H" n="10" break="no"/>tium nutritione ex primis generantur, ut sunt, humor sanguineus 
+      <lb ed="#H" n="11"/>tos aut rorida humiditas, &amp;c. Humores alimentatios intellexit David. 
+      <lb ed="#H" n="12"/>cum dixit Psal. 32. v. 4. Interdius &amp; noctu gravis erat super me manus 
+      <lb ed="#H" n="13"/>tua, convertebatur praestantissimus humor meus in siccitates aestivas 
+      <lb ed="#H" n="14"/>plare Humores excrementitii alii naturae corporis utiles sunt, ut fel ac 
+      <lb ed="#H" n="15"/>alvum iritandam &amp; detergendos humores crassos ab intestinis; me 
+      <lb ed="#H" n="16"/>lancholia ad excitandum appetitum: alii inutiles sunt, vel simpliciter  
+      <lb ed="#H" n="17"/>sut sudor, vel plane noxii qui ob id humores praeternaturales 
+      vocan<lb ed="#H" n="18" break="no"/>tur. 
+      </p>
+            <p xml:id="yyy8Uu-e52914-d1e163">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>SPIRITUS in corpore humano, sunt corpora mixta ex vapore 
+      ge<lb ed="#H" n="20" break="no"/>nita a natura, gratia conservationis facultatis animae in corpore. 
+      Spi<lb ed="#H" n="21" break="no"/>citus ejusmodi duo sunt in corpore: unus, qui insitus, innatus &amp; 
+      com<lb ed="#H" n="22" break="no"/>plantatus dicitur, item calidum innatum, estque praecipuum &amp; 
+      com<lb ed="#H" n="23" break="no"/>munissimum conseivativum instrumentum omnium facultatum 
+      <lb ed="#H" n="24"/>animae in corpore, autor omnium operationum, quo spiritu omnes. 
+      <lb ed="#H" n="25"/>totius corporis partes fruuntur, qui initio partes corporis format, 
+      au<lb ed="#H" n="26" break="no"/>get, &amp; ad terminum vitae conservat, quo sublato facultas cessat &amp; 
+      cor<lb ed="#H" n="27" break="no"/>bus aptum actionibus animae non erit: &amp; alitur humido primoge, 
+      <lb ed="#H" n="28"/>nio seu radicali. quod paulatim depascitur. Alter dicitur influens &amp; 
+      <lb ed="#H" n="29"/>tmanans: &amp; triplex judicatur, naturalis, vitalis &amp; animalis, sicut tres 
+      <lb ed="#H" n="30"/>sunt principales facultates. Spiritus naturalis est genitus ex vapore. 
+      <lb ed="#H" n="31"/>sanguinis sive ex optima &amp; tenuiori portione sanguinis, vi insita 
+      jeco<lb ed="#H" n="32" break="no"/>ris, gratia sanguificationis, ut sanguis perficiatur, meliusque per 
+      ve<lb ed="#H" n="33" break="no"/>nas in totum corpus distribuatur. Spiritus vitalis in corde per 
+      arte<lb ed="#H" n="34" break="no"/>rias in totum corpus diffunditur, genitus in sinistro cordis 
+      ventricu<lb ed="#H" n="35" break="no"/>lo, vi insita cordis, ex aere cum sanguinis vapore commisto, ut facula 
+      <lb ed="#H" n="36"/>tas vitalis conservetur &amp; deferatur, ac calor innatus in sua temperie 
+      <lb ed="#H" n="37"/>custodiatur. Speritus anima is genitus est in cerebro ex spiritu vitali 
+      <lb ed="#H" n="38"/>permisto cum aere, propria vi cerebri &amp; per nervos in corpus diffun 
+      <lb ed="#H" n="39"/>ditur, ut facultas animalis conservetur &amp; distribuatur per partes 
+      cor<lb ed="#H" n="40" break="no"/>poris. Hos spiritus Scriptura nominat singulari numero spiritum, 
+      <lb ed="#H" n="41"/>ut Jobus cap. 6. v. 4. ait: Sagittae omnipotentis in me, quarum virus 
+      <lb ed="#H" n="42"/>ebibit spiritum meum 
+      </p>
+            <p xml:id="yyy8Uu-e52914-d1e221">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>USUS. Perspicitur in humorum &amp; spirituum adunatione cum 
+      <lb ed="#H" n="44"/>partibus corporis humani sapientia &amp; bonitas magna Dei 
+      Creato<lb ed="#H" n="45" break="no"/>ris, qui corpus humanum ita creavit, ut nihil in eo praetermiserit, 
+      <lb ed="#H" n="46"/>quod ad conservationem corporis totius &amp; singularem partium ejus. 
+      <lb ed="#H" n="47"/>requititur Quatuor enim humorum contemperatione carere nul 
+      <lb ed="#H" n="48"/>lum animal potest, sine quibus vivere &amp; nutriri non posset; atque ita 
+      <lb ed="#H" n="49"/>nec homo. Et spiritus sunt necessarii tum ad vitam conservandam, 
+      <lb ed="#H" n="50"/>tum ad sensum motumque in singulis membris ciendum; eoque ad 
+      <lb ed="#H" n="51"/>unumquodque membrum ad sua officia facienda excitandum 
+      sa<lb ed="#H" n="52" break="no"/>pientissime a Deo ordinati. Ac certe spiritibus naturalibus, vitalis 
+      <lb ed="#H" n="53"/>bus &amp; animalibus actiones praecipuae in humano corpore 
+      efficiun<lb ed="#H" n="54" break="no"/>tur, nempe vitae conservatio, nutritio, generatio, sensus, motus, 
+      co<lb ed="#H" n="55" break="no"/>gitatio, affectus in corde. Hi spiritus sunt immediata animae instru 
+      <lb ed="#H" n="56"/>menta, quibus corpus vivificat &amp; movet. Apparet etiam in eo 
+      sa<lb ed="#H" n="57" break="no"/>pientia &amp; bonitas Creatoris, quod in justa contemperatione humo, 
+      <lb ed="#H" n="58"/>um spirituumque bonam valetudinem sanitatemque corporis 
+      con<lb ed="#H" n="59" break="no"/>stituerit: sicut corpus condidit in optimo &amp; perfectissimo tempera 
+      <lb ed="#H" n="60"/>mento &amp; suavissima harmonia humorum &amp; qualitatum in eis, 
+      cali<lb ed="#H" n="61" break="no"/>ditatis &amp; siccitatis, humiditatis &amp; frigiditatis. Vita enim in humido 
+      <lb ed="#H" n="62"/>&amp; calido est, non simpliciter, sed in humido siccitate, &amp; in calido 
+      frigi<lb ed="#H" n="63" break="no"/>ditate temperatis. Haec suavissima in corpore humano harmonis 
+      <lb ed="#H" n="64"/>respondet quatuor elementis ex quibus corpus constat: respondet 
+      <lb ed="#H" n="65"/>esculentis &amp; poculentis, quibus corpus nutriendum est, quae similiter 
+      <lb ed="#H" n="66"/>quatuor elementis constant; ita simile nutritur simili. Haec est 
+      har<lb ed="#H" n="67" break="no"/>monia mundi in corpore humano, ob quam homo non temere μι 
+      <lb ed="#H" n="68"/>xροκοσμος, parvus mundus appellatur  
+      </p>
+            <p xml:id="yyy8Uu-e52914-d1e282">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Cernitur bonitas Dei ex mia erga homines &amp; in hoc, quod 
+      spi<lb ed="#H" n="70" break="no"/>ritibus nostris miscere se dignatur Spiritus Dei, ut eos efficiat 
+      fulgen<lb ed="#H" n="71" break="no"/>tiores. 
+      </p>
+            <p xml:id="yyy8Uu-e52914-d1e293">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Justitiae autem divinae monimentum est, si harmonia tempera 
+      <lb ed="#H" n="73"/>menti humorum &amp; spirituum turbetur aut labefactetur, unde morbi 
+      <lb ed="#H" n="74"/>exsistunt &amp; mala valetudo. Sic enim visum est Deo nos ob peccata 
+      <lb ed="#H" n="75"/>nosti a castigare, quem admodum fatetur David Psalm. 32. vers. 4. 
+      <lb ed="#H" n="76"/>aut nos explorate, ut in exemplo Jobi videre est, qui queritur quo 
+      <lb ed="#H" n="77"/>vehementia morborum &amp; dolorum a Deo immissorum, spiritu 
+      <lb ed="#H" n="78"/>suos quasi ebibat, cap. 6. 4 Horribile autem est justitiae &amp; irae 
+      divi<lb ed="#H" n="79" break="no"/>nae documentum, si spiritibus hominis sese mali spiritus &amp; daemones 
+      <lb ed="#H" n="80"/>misceant, eumque ad furorem impellant, ut triste exemplum Saulis 
+      <lb ed="#H" n="81"/>Regis Israelitatum ostendit 1. Sam.6 
+      </p>
+            <p xml:id="yyy8Uu-e52914-d1e319">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Eorundem humorum &amp; spirituum in corpore nostro 
+      consideratio<lb ed="#H" n="83" break="no"/>revocare nobis in memoriam debet effusionem sanguinis Jesu 
+      Chri<lb ed="#H" n="84" break="no"/>sti pro nobis in cruce factam. Quum enim sanguinem in corpore 
+      <lb ed="#H" n="85"/>humano nominamus, liquorem ex quatuor humoribus constantem 
+      <lb ed="#H" n="86"/>intelligimus. cum quibus &amp; spiritus ipsi totum corpus pervadunt; &amp; 
+      <lb ed="#H" n="87"/>sanguine effuso. spiritus una effunduntur. Synecdochica igitur 
+      lo<lb ed="#H" n="88" break="no"/>cutione nomine sanguinis caeteri humores cum spiritibus 
+      ompre<lb ed="#H" n="89" break="no"/>henduntur. Quum proinde de nostro sanguine cogitamus, aut san 
+      <!--cod-MkL9py-0345.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>guinem humatam intuemur; recordari debemus, hoc veluti signa 
+      <lb ed="#H" n="91"/>admoniti, sanguinis Domini nostri Jesu Christi pro nobis in 
+      remis<lb ed="#H" n="92" break="no"/>sionem peccatorum nostrorum effusi, ut hujus tanti beneficii divini 
+      <lb ed="#H" n="93"/>memoria semper in animis nostris recens sit, semper vigeat &amp; 
+      nun<lb ed="#H" n="94" break="no"/>quam intermoriatur. Ex sanguine Jesu Christi ut salus nostra 
+      aeter<lb ed="#H" n="95" break="no"/>na, ita solida consolatio in vita atque in morte ad nos promanat 
+      </p>
+            <p xml:id="yyy8Uu-e52914-d1e358">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Insuper sanguinis nostri consideratio refricet in cordibus nostris 
+      <lb ed="#H" n="97"/>memoriam communionis nostrae cum Christo, de qua ad Hebraeos 
+      <lb ed="#H" n="98"/>cap. 2. v. 13, 14. dicitur; Ecce ego &amp; pueri quos mihi dedit Deus. 
+      Quo<lb ed="#H" n="99" break="no"/>niam igitur pueri participes sunt carnis &amp; sanguinis, ipse quoque 
+      consimi<lb ed="#H" n="100" break="no"/>liter particeps factus est eorundem. 
+      </p>
+            <p xml:id="yyy8Uu-e52914-d1e374">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Praeterea continuo nos admoneat de spirituali potu sanguinis 
+      <lb ed="#H" n="102"/>Christi ad vitam aeternam, de quo Joh. 6. &amp; cujus sacramentum est, 
+      <lb ed="#H" n="103"/>potus vini Domini in sacra Coena. 
+      </p>
+            <p xml:id="yyy8Uu-e52914-d1e386">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Huc usque de materia hominis: sequitur de 
+      <lb ed="#H" n="105"/>forma eius.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

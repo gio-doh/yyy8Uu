@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 20</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 20</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="297"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e43082"> <!-- l5-c20 -->
+            <head xml:id="yyy8Uu-e43082-Hd1e109">Caput 20</head>
+            <p xml:id="yyy8Uu-e43082-d1e112">
+               <lb ed="#H" n="142"/>CAPUT XX. 
+      <lb ed="#H" n="143"/>In quo de fossilibus.
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e119">
+               <lb ed="#H" n="144"/>TOSSILIA dicuntur quae e terra effodiuntur, in qua generata 
+      <lb ed="#H" n="145"/>sunt. Sunt autem tria fossilium genera: metalla, lapides &amp; 
+      me<lb ed="#H" n="146" break="no"/>dia quaedam inter haec. De quorum loco genitali dicitur Jobi 2S 
+      <lb ed="#H" n="147"/>v. 1. Nam est argento eductio; &amp; locus auro quod liquant metallarii, 
+      <lb ed="#H" n="148"/>Ferrum e pulvere sumitur: &amp; lapis funditur ut aes. Et v. 6. Est locus 
+      <lb ed="#H" n="149"/>cujus lapides sunt sapphirus, habetque auri pulveres. Teperavit enim 
+      <lb ed="#H" n="150"/>Deus omnia hoc pacto, ut noluerit ubique omnia metalla generati 
+      <lb ed="#H" n="151"/>sed alibi unum, alibi aliud. Metalla &amp; lapides pretiosi nihil sunt si cum 
+      <lb ed="#H" n="152"/>sapientia Dei conferantur, Job. 28. v. 13, 14, 15, 16, 17, 18, 19. Psal. 119. 
+      <lb ed="#H" n="153"/>72. Proverb. 3. v. 14. 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e143">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Metalla sex numero recensentur Numer. 31. 22. Aurum &amp; 
+      ar<lb ed="#H" n="155" break="no"/>gentum, aes ferrum, stannum &amp;plumbum. Haec ut creata sunt a Deo. 
+      <lb ed="#H" n="156"/>ita etiam sunt Dei; ac proinde non sunt idola inde fabricanda, nequo 
+      <lb ed="#H" n="157"/>idolis consecranda. Quamobrem expostulat Deus cum Judaeis quod 
+      <lb ed="#H" n="158"/>ex auto &amp; argento divinitus dato, idola sibi fecissent, Ezech. 16. v. 17. 
+      <lb ed="#H" n="159"/>ex auro meo &amp; ex argento meo, quae dederam tibi, fecisti tibi imagi 
+      <lb ed="#H" n="160"/>nes masculi: ut scortareris cum eis. Et cum Gentilibus Joel. 3. 5. 
+      Ar<lb ed="#H" n="161" break="no"/>gentum meum &amp; aurum meum capitis, &amp; desiderubilia mea optima 
+      <lb ed="#H" n="162"/>infertis in templa vestra. Hinc etiam colligimus, Deum nobis 
+      ab<lb ed="#H" n="163" break="no"/>unde auti &amp; argenti daturum, si e re nostra esset aut ad cultum Dei 
+      <lb ed="#H" n="164"/>omnino requireretur: sicut dicit Chagg. 1. 8. Meum est argentum &amp; 
+      <lb ed="#H" n="165"/>meum est aurum, dicit Ichova exercituum. q. d. quod prior 
+      domu<lb ed="#H" n="166" break="no"/>auro &amp; argento ornata fuit, ne afficiat vos: nam illa tam mei juris 
+      <lb ed="#H" n="167"/>sunt quam olim fuerint; ego auri &amp; argenti montes creare &amp; dare 
+      <lb ed="#H" n="168"/>vobis possem, si autum ad cultum meum praecise requirerem 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e181">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>Auri materia est aqua &amp; terra, sed copiosior aqua quam terras 
+      <lb ed="#H" n="170"/>partibus utriusque bene compactis calore, densis &amp; flavis: sic ut autum 
+      <lb ed="#H" n="171"/>si materiam ejus spectes, revera nihil sit aliud quam lutum 
+      splendi<lb ed="#H" n="172" break="no"/>dius &amp; compactius. 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e194">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Finis auti est multiplex: non solum enim ad alenda corpora non 
+      <lb ed="#H" n="174"/>stra, ad valetudinem conservandam, ad morbos curandos prodest; 
+      <lb ed="#H" n="175"/>verum etium ad negotiationem cum hominibus aliis, &amp; justitiam 
+      <lb ed="#H" n="176"/>commutativam exercendam, ut pro auto merces alias nostris usibus 
+      <lb ed="#H" n="177"/>necessarias atque aptas permutatione quadam conparemus: que usam 
+      <lb ed="#H" n="178"/>ttia alia metalla habent. Quin etiam ad ornatum decentem &amp; alia vita 
+      <!--cod-MkL9py-0325.xml-->
+      <pb ed="#H" n="298"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>humanae commoda autum humano generi est concessum a Deo: ut 
+      <lb ed="#H" n="2"/>postendit exemplum Abrahami, &amp; Sarae, Isaaci &amp; Rebeccae Genes.  
+      <lb ed="#H" n="3"/>24. vers. 15. Iehova benedixit Domino meo valde(ait servus 
+      Abraha<lb ed="#H" n="4" break="no"/>mi,) adeo ut magnus effectus sit: dedit enim ei greges &amp; armenta &amp; 
+      <lb ed="#H" n="5"/>argentum &amp; aurum, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e229">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>in Veteri Testamento voluit Deus tabernaculum &amp; templum 
+      <lb ed="#H" n="7"/>auro ornati, &amp; multa vasa atque instrumenta, ut &amp; propitiatorium 
+      <lb ed="#H" n="8"/>ex auto fieri, veluti figuram Christi qui sine peccato, sine dolo omni, 
+      <lb ed="#H" n="9"/>&amp; perfectissima justitia ac sanctitate ornatus futurus erat. Christi 
+      ca<lb ed="#H" n="10" break="no"/>put dicitur insigne aurum, purgatissimum, Cantic. 5. v. 16. 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e245">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Aurum est etiam Ecclesia &amp; singuli fideles, qui afflictionibus &amp; 
+      <lb ed="#H" n="12"/>tentationibus veluti igne confiantur &amp; probantur Bach. 13. 9. 1. 
+      Co<lb ed="#H" n="13" break="no"/>rinth. 3. 12. v. Aurum est imago verbi Dei ac inprimis veri sensus 
+      il<lb ed="#H" n="14" break="no"/>lius; sicut Origenes ait homilia quilita in Matthaeum: Templum gle 
+      <lb ed="#H" n="15"/>riae Dei est omnis Scriptura diuvinitus inspirata; aurum autem, 
+      po<lb ed="#H" n="16" break="no"/>situs sensus in ea. Debemus ergo ad testimonium verborum quae 
+      pro<lb ed="#H" n="17" break="no"/>ferimus in doctrina, proferre sensum Scripturae, quasi confirmantem, 
+      <lb ed="#H" n="18"/>quem exponimus, sensum. Sicut enim omne aurum quodeunque fuerit, 
+      <lb ed="#H" n="19"/>extra templum, nonest sanctificatum, sic omnis sensus qui fuerit ex 
+      <lb ed="#H" n="20"/>tra divinam Scripturam (quamvis admirabilis videatur 
+      quibus<lb ed="#H" n="21" break="no"/>dam) non est sanctus, quia non continetur a sensu Scripturae, quae sos 
+      <lb ed="#H" n="22"/>let eum solum sensum sanctificare, quem habet in se sicut templum 
+      <lb ed="#H" n="23"/>proprium aurum. Non ergo debemus ad confirmandam doctrinam 
+      <lb ed="#H" n="24"/>tostram, nostros proprios intellectus jurare, id est, affirmare &amp; 
+      quas<lb ed="#H" n="25" break="no"/>testimonia assumere, quos unusquisque nostrum intelligit, &amp; 
+      secun<lb ed="#H" n="26" break="no"/>dum veritatem aestimat esse, ni ostendorit eos sanctos esse, ex eo quod in 
+      <lb ed="#H" n="27"/>Scripturis continentur, quasi in templis quibusdam Dei. Stulti ergo 
+      <lb ed="#H" n="28"/>&amp; caeci omnes, qui non cognoscunt, quoniam templum, id est, lectis 
+      <lb ed="#H" n="29"/>Scripturarum, magnum &amp; venerabilem facit sensum, sicut aurum 
+      <lb ed="#H" n="30"/>sacratum. 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e293">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Aurum est fides vera ac viva in Christum, Apocal. 3. v. 18. 
+      Consi<lb ed="#H" n="32" break="no"/>lium do tibi ut emas a me aurum igni exploratum, id est, ut in me 
+      fi<lb ed="#H" n="33" break="no"/>dem habeas quae in tentationibus &amp; persecutionibus non evanescat.  
+      <lb ed="#H" n="34"/>Quae etsi donum sit Dei gratuitum: tamen metaphora quadam 
+      em<lb ed="#H" n="35" break="no"/>dicitur, id est, accipi &amp; obtineri a Deo, sed sine pecunia, quomodo &amp; 
+      <lb ed="#H" n="36"/>Jesa. 55. 1. dicitur, Heus quisquis sitit, venite ad istas aquas, &amp; cu 
+      <lb ed="#H" n="37"/>nulla est pecunia: venite, comparate &amp; comedite, venite inquam, 
+      <lb ed="#H" n="38"/>comparate absque pecunia &amp; absque pretio vinum &amp; lac¬ 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e315">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>ARGENTUM est imago verbi Dei, sicut dicitur Psal. 13. 7. Dicti 
+      <lb ed="#H" n="40"/>lehovae dicta pura sunt, argentum purgatum in catino lectissime 
+      <lb ed="#H" n="41"/>terrae, defaecatum septies. 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e327">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Argentum lectissimum est lingua justi, Prover. 10. v. 20. id est, 
+      do<lb ed="#H" n="43" break="no"/>ctrina virorum bonorum praestatissima est instar argenti lectissimi¬ 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e336">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Argentum est imago optimatum seu gubernatorum in republi. 
+      <lb ed="#H" n="45"/>ca, Jesa. 1. v. 22. Argentum tuum abiit in scorias, id est, optimates 
+      tu<lb ed="#H" n="46" break="no"/>&amp; gubernatores evaserunt corruptissimi. 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e347">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Est imago vere fidelium, qui sunt partes aedificii mystici Ecclesia 
+      <lb ed="#H" n="48"/>super fundamentum, quod est Christus, aedificatae 1. Cor. 3. v. 12. 
+      <lb ed="#H" n="49"/>Simili ratione observandum, quarumnam rerum symbola atque 
+      ima<lb ed="#H" n="50" break="no"/>gines sint metalla alia. Vide quae de metallis in statua 
+      Nebucadnet<lb ed="#H" n="51" break="no"/>zari in somnio exhibita annotavimus in Danielis cap. 4. 
+      <lb ed="#H" n="52"/>De lapidibus pretiosis videatur Francisci Ruei tractatus, &amp; 
+      excel<lb ed="#H" n="53" break="no"/>entissimi Theologi Iohannis Iacobi Grynaei epistola de Margarita. 
+      <lb ed="#H" n="54"/>Evangelica in prima parte Theorematum &amp; Problematum Theo¬ 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e369">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>gicorum pag. 303. &amp; epistola deGemmis in secunda parte, pag. 295. 
+      <lb ed="#H" n="56"/>lo¬ 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e378">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Media inter metalla &amp; lapides, sunt multa, utpote sulphur, 
+      argen<lb ed="#H" n="58" break="no"/>tum vivum, vitriolum, terrae metallares, sal omnis generis, alumen 
+      <lb ed="#H" n="59"/>bitumen, naphtha, thus, myrrha, succinum, lacrymae arborum, 
+      are<lb ed="#H" n="60" break="no"/>na, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e391">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>SULPHUR, est beneficium Dei magnum ad varios usus hominum 
+      <lb ed="#H" n="62"/>a Deo creatum, inprimis ac medicinam &amp; morborum curationem 
+      <lb ed="#H" n="63"/>ut ostendunt thermae sulphureae &amp; remedia in quae sulphur 
+      ingredi<lb ed="#H" n="64" break="no"/>tur: ad domesticos etiam usus plurimum adhibetur. Sed idem servit. 
+      <lb ed="#H" n="65"/>Deo ad judicia ipsius justissima exsequenda: Nam Deus super 
+      Sodo<lb ed="#H" n="66" break="no"/>nam &amp; Gomorrham demisit pluviam sulphuris &amp; ignis, &amp; 
+      subver<lb ed="#H" n="67" break="no"/>tit civitates ipsas &amp; planitiem illam totam, &amp;c. Gen. 19. v. 24, 25. 
+      <lb ed="#H" n="68"/>Deut. 29, 23. Luc. 17. 29. Sic Psalm. 11. 5. Iehova depluet super 
+      im<lb ed="#H" n="69" break="no"/>probos ignem &amp; sulphur: Ezech. 39. 22. Sulphur depluam super eum; 
+      <lb ed="#H" n="70"/>Jesa. 30. v. 33. Flatus Iehovae quasi torrente sulphuris incendit eam. 
+      <lb ed="#H" n="71"/>Et cap. 34. v. 9 mutabitur pulvis ejus in sulphur. Unde &amp; sulphuris 
+      <lb ed="#H" n="72"/>Scriptura meminit in poenatum infernalium descriptione, Apocal. 
+      <lb ed="#H" n="73"/>14. 10, 11. &amp; cap. 19. 20. &amp; cap. 20. 10, &amp; cap. 21. 8 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e425">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Adhaec sulphur est symbolum doctrinae Antichristianae, qua 
+      ho<lb ed="#H" n="75" break="no"/>minum animae inficiuntur &amp; interficiuntur, Apocal. 9. v. 17, 18. 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e434">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>SAL in Scriptura Sacra frequenter memoratur. Gen. 14. v. 3. 
+      val<lb ed="#H" n="77" break="no"/>lis Siddimorum in qua erant sitae Sodoma &amp; Gomorrha, facta est 
+      <lb ed="#H" n="78"/>mare salis. Et cap. 19. v. 26. uxor Lothi statua salis effectu est, nempi 
+      <lb ed="#H" n="79"/>quo nos condiat ut sapiamus &amp; peccata vitemus, Deique mandatis 
+      <lb ed="#H" n="80"/>obtemperemus. 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e450">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Sal est incorruptionis symbolum in federe Dei: Sic enim Deus. 
+      <lb ed="#H" n="82"/>Levit. 2. v. 13. praeceperat: Omnem oblationem muneris tui sale salito. 
+      <lb ed="#H" n="83"/>neque cessare sinito salem federis Dei tui a munere tuo: cum omni 
+      obla<lb ed="#H" n="84" break="no"/>tione tua offerto sulem. Ex hoc mandato admonet Christus Marc. 9. 
+      <lb ed="#H" n="85"/>19. ut ad perpetuam &amp; incorruptam federis observationem 
+      sancti<lb ed="#H" n="86" break="no"/>tatemque comparemur, oblationum exemplo quae sine sale Deo 
+      in<lb ed="#H" n="87" break="no"/>gratae erant. Omnis victima sale condita esse debet. Ille autem vero 
+      <lb ed="#H" n="88"/>victima Domino grata est, qui corpus &amp; animam a vitiis 
+      emundan<lb ed="#H" n="89" break="no"/>do, Deo per amorem a Spiritu Sancto accensum consecrat, quand 
+      <lb ed="#H" n="90"/>non tantum peccati contagio pellitur, sed &amp; praesentis vitae 
+      delecta<lb ed="#H" n="91" break="no"/>tio tollitur; 
+      </p>
+            <p xml:id="yyy8Uu-e43082-d1e479">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>Sal est symbolum hominum piorum, qui doctrina &amp; vitae exeplo 
+      <lb ed="#H" n="93"/>alios ab interitu aeterno conservant: quemadmodum sal prohibet, ne¬ 
+      <!--cod-MkL9py-0325.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="94"/>carnes putredine corrumpantur &amp; vermium esca fiant atque ita pere 
+      <lb ed="#H" n="95"/>ant. Hoc Christus docet quum ait Matth. 5. v. 13. Vos estis sal terrae 
+      <lb ed="#H" n="96"/>quod si sal infatuatus fuerit, quo salietur? ad nihil valet amplius nisit 
+      <lb ed="#H" n="97"/>ut abijciatur foras, &amp; conculcetur a quibusvis. Christi discipulus 
+      <lb ed="#H" n="98"/>quilibet, sal esse debet, non solum ipse bonus exsistens, sed &amp; malitiae 
+      <lb ed="#H" n="99"/>non particeps, aliisque communicans bonitatem. Ita enim se habet sale 
+      <lb ed="#H" n="100"/>Ipsum enim quum maneat, nescium erit corruptionis, &amp; alia servare 
+      <lb ed="#H" n="101"/>valet, ne corrumpantur, quibus suam qualitatem communicat. At si 
+      <lb ed="#H" n="102"/>naturam suam sal abjecerit, omnino inutile erit &amp; neque terrae, neque 
+      <lb ed="#H" n="103"/>stercori accommodum. Quod igitur Christus dicit, hunc sensum 
+      ha<lb ed="#H" n="104" break="no"/>pet: Ego equidem omnem Christianum utilem, &amp; condire valentem 
+      <lb ed="#H" n="105"/>esse volo, non solum eum cui concreditum docendi donum, quales 
+      <lb ed="#H" n="106"/>sunt doctores, &amp; pastores, sed etiam exigo ut laici ipsi bonae frugis, &amp; 
+      <lb ed="#H" n="107"/>utiles sint proximis. Jam si profuturus aliis reprobus fiat, &amp; a 
+      Chri<lb ed="#H" n="108" break="no"/>stianorum ordine eiiciatur, neque prodesse, neque utilitatem capere 
+      po<lb ed="#H" n="109" break="no"/>terit. Neque in terram(inquit,) neque in sterquilinium utile est. 
+      Insinua<lb ed="#H" n="110" break="no"/>tur autem per terram, quod utilitatem capiat, per sterquilinium 
+      au<lb ed="#H" n="111" break="no"/>cem, quod prosit. Ideo reiicitur, &amp; reiiciendus est, tanquam qui nec 
+      <lb ed="#H" n="112"/>prosit, nec utilitatem percipiat. Et quoniam obscurus, parabolicusque  
+      <lb ed="#H" n="113"/>sermo ille fuit, excitans auditores Dominus, ut non simpliciter susc 
+      <lb ed="#H" n="114"/>piant dictum de sale, dicit: Qui habet aures ad audiendum, audiat  
+      <lb ed="#H" n="115"/>hoc est, qui habet intellectum, intelligat. Aures enim hoc loco 
+      sen<lb ed="#H" n="116" break="no"/>sitivam virtutem animae, &amp; ad intelligendum aptitudinem significat 
+      <lb ed="#H" n="117"/>Omnes itaque fideles sal sunt, ex divinis sermonibus, &amp; superna gratia 
+      <lb ed="#H" n="118"/>qualitatem suscipientes. Et quod gratia sal sit, audi Paulum dicentes 
+      <lb ed="#H" n="119"/>Sermo vester sit in gratia sale conaitus. Et ita si fuerit sermo ἀχαρισι 
+      <lb ed="#H" n="120"/>hoc est, sine gratia, insulsus dicitur. Igitur si divinorum eloquiorum 
+      <lb ed="#H" n="121"/>qualitatem contempserimus, &amp; non susceperimus eam in nos, stulti 
+      <lb ed="#H" n="122"/>&amp; intellectu carentes efficimur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

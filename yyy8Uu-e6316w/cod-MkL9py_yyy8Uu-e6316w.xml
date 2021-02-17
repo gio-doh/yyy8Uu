@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 14</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 14</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="NaN"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e6316w"> <!-- l1-c14 -->
+            <head xml:id="yyy8Uu-e6316w-Hd1e109">Caput 14</head>
+            <p xml:id="yyy8Uu-e6316w-d1e112">
+               <lb ed="#H" n="7"/>CAPUT XIV. 
+      <lb ed="#H" n="8"/>De differentia Theologiae nostrae &amp; prin¬ 
+      <lb ed="#H" n="9"/>cipio eiusdem.
+    </p>
+            <p xml:id="yyy8Uu-e6316w-d1e121">
+               <lb ed="#H" n="10"/>THEOLOGIAE nostrae genus esse sapientiam capite 
+      superio<lb ed="#H" n="11" break="no"/>re confirmatum est: jam consideranda est differentia &amp; causqae 
+      <lb ed="#H" n="12"/>efficiens proxima ac immediata, ad perfectam definitionem 
+      re<lb ed="#H" n="13" break="no"/>quisita. 
+      </p>
+            <p xml:id="yyy8Uu-e6316w-d1e132">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>DIFFERENTIA Theologiae nostrae intelligitur e subjecto 
+      <lb ed="#H" n="15"/>cum dicitur esse rerum divinarum. Divinas res cum appellamus, 
+      qua<lb ed="#H" n="16" break="no"/>druplicem conditionem Theologiae in eis complectimur, ortum 
+      <lb ed="#H" n="17"/>objectum, rgodum &amp; finem 
+      </p>
+            <p xml:id="yyy8Uu-e6316w-d1e146">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Ortus Theologiae hujus est divinus: sunt enim res in ea traditae, 
+      <lb ed="#H" n="19"/>divinitus patefactae nobis in Scriptura θεοπνρισῳ. Objectum, citca; 
+      <lb ed="#H" n="20"/>quod versatur Theologia, divinum est, nempe Deus ipse ad cujus 
+      co<lb ed="#H" n="21" break="no"/>gnitionem &amp; cultum omnia Theologiae praecepta ducunt, sive sint 
+      <lb ed="#H" n="22"/>de essentia &amp; natura seu attributis Dei, sive de personis Deitatis, sive 
+      <lb ed="#H" n="23"/>de operibus, ac in summa de omnibus quae Dei sunt, &amp; a Deo, &amp; ac 
+      <lb ed="#H" n="24"/>Deum recte cognoscendum, colendumque ordinata est. Modus etiam 
+      <lb ed="#H" n="25"/>illius divinus est, forma, actione &amp; effectu suo, non humana solum 
+      o<lb ed="#H" n="26" break="no"/>mnia transcendens in infinitum, sed &amp; natura hanc universam quam 
+      <lb ed="#H" n="27"/>longissime superans. Finis itidem divinus est &amp; perfectissimus, 
+      nem<lb ed="#H" n="28" break="no"/>pe gloria Dei &amp; gloriosa illa communio cum Deo, ad quam, 
+      Theo<lb ed="#H" n="29" break="no"/>logia duce, contendimus. 
+      </p>
+            <p xml:id="yyy8Uu-e6316w-d1e177">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>CAUSA Theologiae nostrae efficiens proxima ac immediata 
+      est<lb ed="#H" n="31" break="no"/>VERBUM DEI: quod proinde &amp; principium ejus est 
+      </p>
+            <p xml:id="yyy8Uu-e6316w-d1e186">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Primum siquidem principium in quod omnia dogmata 
+      Theolo<lb ed="#H" n="33" break="no"/>gica resolvuntur est, DOMINUS DIXIT, seu DEUS DIXIT. 
+      Ho<lb ed="#H" n="34" break="no"/>principium unicum est; atque unicum esse necesse est; tum quia 
+      om<lb ed="#H" n="35" break="no"/>nes Prophetae &amp; Apostoli ad illud solum nos revocant, ut tota 
+      Scri<lb ed="#H" n="36" break="no"/>ptura testatur: tum quia non potest Deus nisi per Deum intelligi.A 
+      <lb ed="#H" n="37"/>Deo discendum, quid de Deo intelligendum: quia nonnisi ipso au 
+      <lb ed="#H" n="38"/>tore cognoscitur. Huc refer locum Clementis Alexadrini lib. 7. 
+      Stro<lb ed="#H" n="39" break="no"/>mat. pag. 261. versionis Latinae Florentinae: Necesse est enim labi in 
+      <lb ed="#H" n="40"/>maximis, eos qui res maximas aggrediuntur, nisi regulam veritatis 
+      ab<lb ed="#H" n="41" break="no"/>ipsa veritate acceptam tenuerint. Qui autem sunt ejusmodi, at qui  
+      <lb ed="#H" n="42"/>recta via exciderint, merito etiam falluntur in plurimis singularibus. 
+      <lb ed="#H" n="43"/>propterea quoi non habeant verorum &amp; falsorum judicium plane 
+      ex<lb ed="#H" n="44" break="no"/>ercitatum in iis quae oportet eligere. Si enim haberent, parerent scripturis 
+      <lb ed="#H" n="45"/>divinis. Quomodo ergo si quis fiat bestia ex homine, similiter atque ij qui  
+      <lb ed="#H" n="46"/>fuerant infecti vinenis Circes: ita homo Dei esse, &amp; Domino fidelis esse 
+      <lb ed="#H" n="47"/>perdidit, qui adversus Ecclesiasticam recalcitravit traditionem, &amp; in 
+      <lb ed="#H" n="48"/>humanarum haeresium desiliit opiniones. Qui autem ex errore reversus. 
+      <lb ed="#H" n="49"/>obediit scripturis, &amp; vitam suam permisit veritati, Deus quodam mod 
+      <lb ed="#H" n="50"/>ex homine efficitur. Principium enim doctrinae habemus Dominum, qui 
+      <lb ed="#H" n="51"/>&amp; per Prophetas, &amp; per Evangelium, &amp; per beatos Apostolos, 
+      mul<lb ed="#H" n="52" break="no"/>tifariam multisque modis a principio ad finem deducit cognitionis. 
+      Prin<lb ed="#H" n="53" break="no"/>cipium autem si quis alio opus habere existimaverit non utique vere 
+      po<lb ed="#H" n="54" break="no"/>tuerit conservari principium. Qui est ergo ex seipso fidelis, Dominica 
+      scri<lb ed="#H" n="55" break="no"/>ptura &amp; voce est fide dignus, quae per Dominum exercetur ad hominem 
+      <lb ed="#H" n="56"/>beneficium. Ipsa autem judice utimur ad res inveniendas. Quicquid  
+      <lb ed="#H" n="57"/>autem judicatur, non creditur, priusquam fuerit judicatum. Quare neo 
+      <lb ed="#H" n="58"/>est principium id quod opus habet judicio. Merito ergo cum fide 
+      compre<lb ed="#H" n="59" break="no"/>henderimus principium indemonstrabile, &amp; ex redundanti quadam 
+      co<lb ed="#H" n="60" break="no"/>pia demonstrationes ab ipso principio sumserimus de principio, voce 
+      Do<lb ed="#H" n="61" break="no"/>mini erudimur ad agnitionem veritatis. Non enim absolute 
+      enuncian<lb ed="#H" n="62" break="no"/>tibus hominibus fidem habuerimus, quibus licet etiam enunciare 
+      con<lb ed="#H" n="63" break="no"/>trarium. Si autem non satis est solum absolute dicere quod visum est, sed  
+      <lb ed="#H" n="64"/>oportet etiam probare quod dictum est, non exspectamus testimonium 
+      <lb ed="#H" n="65"/>quod datur ab hominibus: sed voce Domini probamus quod quaeritur,  
+      <lb ed="#H" n="66"/>quae est magis fide digna quam quaevis demonstrationes, vel potius quo 
+      <lb ed="#H" n="67"/>est sola demonstratio per quam scientiam, qui solum quidem gustavere, 
+      <lb ed="#H" n="68"/>Scripturas, sunt fideles. Qui autem etiam ulterius processerunt, sunt 
+      per<lb ed="#H" n="69" break="no"/>fecti gnomones veritatis, it scilicet qui sunt cognitione praediti, quando 
+      <lb ed="#H" n="70"/>quidem etiam in iis quae ad vitam pertinent, eos qui sunt rudes superant 
+      <lb ed="#H" n="71"/>artifices, &amp; per communis notiones exprimunt id quod est melius. Sic 
+      er<lb ed="#H" n="72" break="no"/>go nos quoque ex ipsis de ipsis scripturis perfecte demonstrantes, ex fide 
+      per<lb ed="#H" n="73" break="no"/>suademus demonstrativo 
+      </p>
+            <p xml:id="yyy8Uu-e6316w-d1e282">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Verbum Dei re &amp; substantia unicum est &amp; simplex, sed revelatio 
+      <lb ed="#H" n="75"/>nis modo duplex est, ενδιαθετον α ωροφορικον, id est, internum &amp; exter. 
+      <lb ed="#H" n="76"/>num, Jesa. 59. vers. 21. De me autem, hoc erit fedus meum cum istis, ait 
+      <lb ed="#H" n="77"/>Iehova, spiritus meus qui est in te, &amp; verba mea quae posui in ore tuo 
+      <lb ed="#H" n="78"/>non recedent ex ore tuo, aut ex ore seminis tui, aut ex ore seminis seminis 
+      <lb ed="#H" n="79"/>tui, ait Iehova, ex hoc tempore, usque in saculum, Actor. 5. v. 32. Et nos sui 
+      <lb ed="#H" n="80"/>mus ei testes horum quae dicimus: atque etiam Spiritus ille sanctus, quem 
+       <lb ed="#H" n="81"/>dedit Deus iis qui dicto sunt audientes ipsi. Rom. 8. v.16. <quote xml:id="yyy8Uu-e6316w-Qd1e303" source="http://scta.info/resource/rom8_16">Et ipse 
+      Spiri<lb ed="#H" n="82" break="no"/>tus testatur una cum Spiritu nostro, nos esse filios Dei</quote>. 1. Cor. 2. v. 10, 11, 
+      <lb ed="#H" n="83"/>12, 13. Nobis autem Deus ea retexit per Spiritum suum. Spiritus enim 
+      o<lb ed="#H" n="84" break="no"/>mnia scrutatur, etiam profunditates Dei. Quis enim hominum 
+      novit<lb ed="#H" n="85" break="no"/>e? quae sunt hominis, nisi spiritus hominis qui est in eo? ita etiam ea quoe 
+      <lb ed="#H" n="86"/>sunt Dei nemo novitnisi Spiritus Dei. Nos vero non spiritum mundi 
+      ac<lb ed="#H" n="87" break="no"/>cepimus, sed Spiritum qui est ex Deo: ut sciamus quae Deus est nobus 
+      <!--cod-MkL9py-0041.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="88"/>gratificatus. Quae etiam loquimur, non sermonibus quos docet hulmana 
+      <lb ed="#H" n="89"/>sapientia, sed quos docet Spiritus sanctus, spiritualia cum iis quae spiritu 
+      <lb ed="#H" n="90"/>alia sunt conferentes. 
+      </p>
+            <p xml:id="yyy8Uu-e6316w-d1e331">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Internum verbum Dei, est quo Deus homines intus per Spiritum 
+      <lb ed="#H" n="92"/>sanctum alloquitur; seu est testificatio Spiritus saucti interna, per quam 
+      <lb ed="#H" n="93"/>intrinsecus Theologia fidelibus communicatur, oculis mentis 
+      illo<lb ed="#H" n="94" break="no"/>rum illustratis, &amp; luce spirituali cognitionis salvisicae accensa. Heb. 8. 
+      <lb ed="#H" n="95"/>v.I11 Neque docebunt singuli proximum suum, &amp; singuli fratrem suum 
+      <lb ed="#H" n="96"/>dicentes, Cognosce Dominum: nam omnes cognoscent me, ab eo qui 
+      pu<lb ed="#H" n="97" break="no"/>sillus fuerit inter eos, ad eum usque qui magnus fuerit inter eos. Verbum 
+      <lb ed="#H" n="98"/>Sl hoc internum dicitur etiam afflatus internus 
+      </p>
+            <p xml:id="yyy8Uu-e6316w-d1e353">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Externum verbum Dei, est quo Deus foris homines alloquitur 
+      il<lb ed="#H" n="100" break="no"/>ius praedicatione; seu, est testificatio Spiritus sancti externa, idem 
+      <lb ed="#H" n="101"/>prorsus de rebus divinis docens, quod verbum internum 
+      </p>
+            <p xml:id="yyy8Uu-e6316w-d1e365">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Hoc rursus multiplex est modo patefactionis seu 
+      communicatio<lb ed="#H" n="103" break="no"/>nis: nam olim illud vel viva voce sua, vel Angelorum ministerio, vel 
+      <lb ed="#H" n="104"/>hominum opera protulit, vel immissis somniis aut exhibitis 
+      visioni<lb ed="#H" n="105" break="no"/>bus, aut varus symbolis &amp; imaginibus, quae modo internis, modo 
+      <lb ed="#H" n="106"/>externis fuerunt sensibus objectae, a piisque quantum satis erat, 
+      in<lb ed="#H" n="107" break="no"/>tellectae, aliquando assumta humanam specie; ac proinde πολυμερς κ 
+      <lb ed="#H" n="108"/>πολθτροπος Deus homines compellavit &amp; instituit, &amp; verbum suum 
+      <lb ed="#H" n="109"/>cum illis communicavit: deinceps literis consignatum in libris 
+      Pro<lb ed="#H" n="110" break="no"/>pheticis &amp; Apostolicis Ecclesiae tradidit. Nunc vero postquam non 
+      <lb ed="#H" n="111"/>amplius immediate Prophetas &amp; Apostolos ad Ecclesiam mittit, al 
+      <lb ed="#H" n="112"/>loquitur eam extrinsecus, tantummodo per verbum scriptum 
+      inter<lb ed="#H" n="113" break="no"/>no verbo conjunctum, deinceps literis insuper consignatum in libris 
+      <lb ed="#H" n="114"/>Propheticis &amp; Apostolicis 
+      </p>
+            <p xml:id="yyy8Uu-e6316w-d1e398">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Externum verbum ab interno non est separandum, sed 
+      conjun<lb ed="#H" n="116" break="no"/>ctum cum eo esse necesse est, ut efficax &amp; salutare sit. Distinguendum 
+      <lb ed="#H" n="117"/>tamen est externum verbum ab interno, ut intelligamus quatenus 
+      <lb ed="#H" n="118"/>opus Dei in nobis procedat, ne hominibus, qui ministri tantum Dei 
+      <lb ed="#H" n="119"/>sunt, tribuamus id quod est Dei 
+      </p>
+            <p xml:id="yyy8Uu-e6316w-d1e414">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>Internum verbum principale est: externum vero instrumentale. 
+      <lb ed="#H" n="121"/>Utroque nobis opus est. Ut enim in tenebris foris lucerna opus est; 
+      <lb ed="#H" n="122"/>ntus oculorum luce: nam nec in tenebris sine lucerna videmus, 
+      <lb ed="#H" n="123"/>quamvis oculis valentissimi, nec in media luce vident qui oculis capti 
+      <lb ed="#H" n="124"/>sunt: ita in cognitione rerum divinarum semper conjungimus 
+      Scri<lb ed="#H" n="125" break="no"/>turae facem foris, &amp; illustrationem Spiritus sancti, sic ut Deus &amp; 
+      per<lb ed="#H" n="126" break="no"/>internum, &amp; per externum verbum nos doceat,  
+      </p>
+            <p xml:id="yyy8Uu-e6316w-d1e434">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Hoc verbum Dei internum quod Spiritus sanctus cordibs. nostris 
+      <lb ed="#H" n="128"/>inscribit, &amp; externum quod idem Spiritus sanctus in libris 
+      Propheti<lb ed="#H" n="129" break="no"/>cis &amp; Apostolicis tradit, aut per praedicationem annunciat, non 
+      diffe<lb ed="#H" n="130" break="no"/>runt re &amp; ratione, sed tantum modo. Non enim aliud verbum in 
+      cor<lb ed="#H" n="131" break="no"/>dibs nostris revelat, aliud in libris exhibet; sed prorsus unum &amp; idem 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="215"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e02893"> <!-- l3-c6 -->
+            <head xml:id="yyy8Uu-e02893-Hd1e109">Caput 6</head>
+            <p xml:id="yyy8Uu-e02893-d1e112">
+               <lb ed="#H" n="167"/>CAPUT VI 
+      <lb ed="#H" n="168"/>DE SPIRITV SANCTO 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e119">
+               <lb ed="#H" n="169"/>QEIRITUS SANCTUS est persona Deitatis tertia, a Patre &amp; 
+      <lb ed="#H" n="170"/>u Filio per aeternam atque unicam spirationem procedens. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e126">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>in hoc enunciato considerati debet primo nomen Spiritus 
+      <lb ed="#H" n="172"/>Sancti: deinde descriptio ipsa Spiritus Sancti, 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e136">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Nomen Spiritus Sancti duobus modis accipitur. Spiritus enim 
+      <lb ed="#H" n="174"/>Sanctus intelligitur vel ab aterno exsistens: vel certo tempore creatus 
+      <lb ed="#H" n="175"/>Spiritus Sanctus ab aeterno exsistens, vel essentialiter accipitur, ver 
+      <lb ed="#H" n="176"/>personaliter. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e149">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Essentialiter de essentia divina Patris, Filii &amp; Spiritus Sanctia 
+      <lb ed="#H" n="178"/>ut Joh. 4. vers. 24. Deus est Spiritus; Sic Deitas Christi, Spiritus nec 
+      <!--cod-MkL9py-0243.xml-->
+      <pb ed="#H" n="216"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>mine intelligitur Matth. 12. v. 28. Si autem per Spiritum Dei ego ejicit: 
+      <lb ed="#H" n="2"/>demonia, nempe pervenit ad vos regnum Dei. Rom. 1. v. 4. ubi dici 
+      <lb ed="#H" n="3"/>tur, Filium Dei factum ex semine Dovidis secundum carnem, declava 
+      <lb ed="#H" n="4"/>tum Filium Dei potenter secundum Spiritum sancti ficationis. 1. Tim. 3. 
+      <lb ed="#H" n="5"/>v.16. Deus cospicuus factus est in carne, justificatus est in Spiritu. Heb 
+      <lb ed="#H" n="6"/>9. v. 14. Christus per Spiritum aeternum seipsum obtulit inculpatum Deo. 
+      <lb ed="#H" n="7"/>I. Pet. 3. v. 18. mortificatus quidem carne, vivificatus autem Spiritu. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e180">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Personaliter accipitur de sola persona tertia, quae peculiariter 
+      Spi<lb ed="#H" n="9" break="no"/>titus Sanctus dicitur, ut Matth. 28. v. 19. Docete omnes gentes, bapti 
+      <lb ed="#H" n="10"/>gantes eas in nomen Patris &amp; Filii &amp; Spiritus Sancti 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e191">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>In tempore creatus Spiritus qui sanctus est, vel substantia est in 
+      <lb ed="#H" n="12"/>corporea, velut Angelus bonus &amp; anima hominis sanctificata: vel ac 
+      <lb ed="#H" n="13"/>cidens aliquod, nimirum motus aut donum aut virtus aliqua Spiritus 
+      <lb ed="#H" n="14"/>Sancti, ut cum dicitur Spiritus fortitudinis &amp; I. Thessal. 5. v. 19. Spiri 
+      <lb ed="#H" n="15"/>tum ne extinguite. Joh. 7. 37, 38, 39. clamavit Iesus dicens: Si quis sitit,  
+      <lb ed="#H" n="16"/>veniat ad me &amp; bibat. Qui credit in me, sicut dixit Scriptura, flumina 
+      <lb ed="#H" n="17"/>aquae vivae ex ventre ipsius fluent. Hoc autem dixit de Spiritu illo qui 
+      <lb ed="#H" n="18"/>accepturi erant credentes in eum. Nondum enim erat Spiritus Sanctus, 
+      <lb ed="#H" n="19"/>quia Iesus nondum erat glorificatus. Hic nomine Spiritus Sancti in 
+      <lb ed="#H" n="20"/>telligi debentχυρίσματα, dona &amp; virtutes Spiritus Sancti, quae post 
+      <lb ed="#H" n="21"/>adscensionem Christi in caelum &amp; sessionem ad dextram Dei Patris 
+      <lb ed="#H" n="22"/>effundi copiose in credentes debuerunt, secundum vaticinium Joel. 
+      <lb ed="#H" n="23"/>2 Galat 3. vers. 2. Hoc solum velim discere ex vobis, Ex operibus Legis 
+      <lb ed="#H" n="24"/>spiritum accepistis, an ex fide per auditum accepta? &amp; v. 5. Qui igitur 
+      sub<lb ed="#H" n="25" break="no"/>ministrat vobis spiritum, &amp; efficit virtutes in vobis, ex operibus Legis, 
+      <lb ed="#H" n="26"/>an ex fide per auditum percepta subministrat? Hic in utroque versu 
+      per<lb ed="#H" n="27" break="no"/>spiritum intelliguntur spirituales gratiae, seu dona Spiritus Sancti 
+      <lb ed="#H" n="28"/>quibus tum visibiliter donabantur fideles. Interdum per spiritum in 
+      <lb ed="#H" n="29"/>telligitur spiritualis efficacia Evangelii, ut Gal. 3. v. 3. Adeo amento 
+      <lb ed="#H" n="30"/>estis? quum spiritu inceperitis, num carne perficiemini; 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e239">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>In praesentia accipitur de Spiritu ab aeterno exsistente, ut est 
+      ter<lb ed="#H" n="32" break="no"/>tia persona Deitatis. Ac tum Spiritus dicitur, quia spiratur a Patre &amp; 
+      <lb ed="#H" n="33"/>Filio, procedens ab eis ab aeterno &amp; missus in corda electorum, in 
+      <lb ed="#H" n="34"/>quibus Pater &amp; Filius sunt efficaces per ipsum. Sanctus dicitur. 1. qui  
+      <lb ed="#H" n="35"/>in se &amp; natura sua sanctus est. 2. quia sanctificator est electorum 
+      <lb ed="#H" n="36"/>Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e257">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Hec de nomine Spiritus Sancti. 
+      <lb ed="#H" n="38"/>Descriptionis partes duae sunt: Prima est quod Spiritus Sanctus 
+      <lb ed="#H" n="39"/>sit persona Deitatus, id est, subsistentia totam essentiam divinam 
+      <lb ed="#H" n="40"/>natura habens, sed proprietate incommunicabili ab aliis personis 
+      <lb ed="#H" n="41"/>distincta 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e274">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Quod Spiritus Sanctus sit persona, hoc est, subsistentia, hypostasis, 
+      <lb ed="#H" n="43"/>ὑφιστάμενον, individuum per se subsistens, vivum, intelligens, 
+      incom<lb ed="#H" n="44" break="no"/>municabile, non sustentatum in alio, nec pars alterius; non autem 
+      <lb ed="#H" n="45"/>affectio duntaxat seu virtus a Deo in homine excitata, seu homini 
+      do<lb ed="#H" n="46" break="no"/>nata, aut afflatus quidam divinus, asserimus contra Samosatenianos 
+      <lb ed="#H" n="47"/>&amp; Macedonianos his argumentia 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e292">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>I. Quia ei tribuitur voluntas &amp; beneplacitum, 1. Cor. 12. vers. 11. 
+      <lb ed="#H" n="49"/>Actor. 15. v. 28. 
+      <lb ed="#H" n="50"/>II. Quia ei tribuuntur operationes seu actiones quae propriae 
+      <lb ed="#H" n="51"/>sunt alicujus personae, non autem accidentis, hoc est, motus vel 
+      qua<lb ed="#H" n="52" break="no"/>litatis alicujus. Nam assumpta visibili specie columbae &amp; 
+      ignita<lb ed="#H" n="53" break="no"/>rum linguarum apparuit. Matth. 3. versic.16. Johan. 1. vers. 32. Actor. 
+      <lb ed="#H" n="54"/>2. versic3 Idem docet 1. Cor. 2. versic. 13. 1. Johan. 2. vers. 27. Joh. 14. 
+      <lb ed="#H" n="55"/>vers. 26. Ducit in omnem veritatem. Johan. 16. vers. 13. In memoriam 
+      <lb ed="#H" n="56"/>revocat omnia quae Christus dixit. Johan. 14. v. 26. Testatur deChristo. 
+      <lb ed="#H" n="57"/>Johan. 15. vers 26. Venit ad nos. Johan. 16 v. 8. Non loquitur a seipso 
+      <lb ed="#H" n="58"/>sed quaecunque audierit, loquitur &amp; quae ventura sunt, renunciat. 
+      Jo<lb ed="#H" n="59" break="no"/>han. 16. vers. 13. Glorificat Christum, accipiens de eo quod est Christi &amp; 
+      <lb ed="#H" n="60"/>renuncians nobis. Joh 16. v. 14. Consolatur fideles. Actor. 9. v. 31. Dis. 
+      <lb ed="#H" n="61"/>tribuit dona ut vult. 1. Cor. 12. v. 11. Vocat &amp; mittit ministros Ecclesiae. 
+      <lb ed="#H" n="62"/>Actor. 13. v. 2. Per Prophetas &amp; Apostolos locutus est. 2. Pet. 1. v. 21. 
+      <lb ed="#H" n="63"/>Matth. 10. v. 20. Actor. 6. 10. Subsevat infirmitates nostras &amp; 
+      inter<lb ed="#H" n="64" break="no"/>pellat pro nobis gemitibus inenarrabilibus. Rom. 8. v. 25. Testatur 
+      <lb ed="#H" n="65"/>in caelo cum Patre &amp; Sermone, Iesum Mariae Virginis filium esse 
+      Chri<lb ed="#H" n="66" break="no"/>stum illum &amp; Filium illum Dei. I. Johan. 5. v. 7. Testatur una cum 
+      Spi<lb ed="#H" n="67" break="no"/>ritu nostro nos esse Filios Dei. Rom. 8. v. 16. Scrutatur omnia, etiam 
+      pro<lb ed="#H" n="68" break="no"/>sunditates Dei. 1. Cor 2. v. 10,11, &amp; alia opera, teste Scriptura, facit? 
+      <lb ed="#H" n="69"/>quae sunt opera personae per se subsistentis, viventis &amp; agentis pro 
+      li<lb ed="#H" n="70" break="no"/>bera sua voluntate 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e347">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>EXCIPIUNT Samosateniani ad hoc argumentum, esse in eo 
+      am<lb ed="#H" n="72" break="no"/>phiboliam. Etsi enim, exempli causa, Paulus dicat 1. Cor. 12. v. 11. 
+      Spi<lb ed="#H" n="73" break="no"/>ritum Sanctum distribuere dona ut vult; tamen inde non effici, Spiriti 
+      <lb ed="#H" n="74"/>Sanctum esse personam Trinitattis, quippe cum (ut ibidem proxime 
+      an<lb ed="#H" n="75" break="no"/>te videri possit; Spiritum Sanctum distribuere dona ut vult, nihil aliuc 
+      <lb ed="#H" n="76"/>significet, quam Deum Patrem, qui operatur omnia in omnibus pro sua. 
+      <lb ed="#H" n="77"/>voluntate per Spiritum suum distribuere. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e367">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>REPLIC. nostra. Argumentatio nostra est plane αυαμφιζολος 
+      <lb ed="#H" n="79"/>Quicunque distribuit dona ut vult, is est persona. Assumtio est Pauli 
+      <lb ed="#H" n="80"/>Apostoli, quam Samosateniani sic interpretantur, Non Spiritum 
+      Sam<lb ed="#H" n="81" break="no"/>ctum distribuere dona ut vult (qua in re contradicunt Apostolo) sed 
+      <lb ed="#H" n="82"/>Deum Patrem per Spiritum. At ista interpretatio est inepta: nam 
+      i<lb ed="#H" n="83" break="no"/>lem regcretur denuo, personam Patris operati per Spiritus Sancti 
+      <lb ed="#H" n="84"/>personam, quae oratio cum Scripturis Sanctis convenit. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e387">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>EXCIPIUMT amplius ad testimonium Joh 14. v. 26. Spiritus 
+      San<lb ed="#H" n="86" break="no"/>ctus vos docebit omnia &amp; suggeret vobis omnia quae dixi vobis, &amp; 
+      <lb ed="#H" n="87"/>dicut in eo esse itidem amphiboliam: Docere enim &amp; suggerere esse 
+      qui<lb ed="#H" n="88" break="no"/>dem personarum proprie loquendo: interdum tamen figurate per 
+      proso<lb ed="#H" n="89" break="no"/>popoeiam aut metonymiam etiam tribui rebus illis quae non sunt 
+      perso<lb ed="#H" n="90" break="no"/>nae, ut hoc loco Spiritui Sancto. Sic, ajunt, Abelis sanguinem clamasse ad 
+      <lb ed="#H" n="91"/>Deum, Gen. 4. v. 10 Sensum autem esse, Deum per S: Sanctum suum 
+      <lb ed="#H" n="92"/>docere &amp; suggerere omnia, ut est Matth. 10. 
+      <!--cod-MkL9py-0243.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>REPLICATIO nostra. Negatur hic esse amphibolia: sed in dicte 
+      <lb ed="#H" n="94"/>oh. 14. v. 26. verba docendi &amp; suggerendi tribuuntur Spiritui Sancti 
+      <lb ed="#H" n="95"/>proprie, non autem figurate: nam propriam significationem 
+      con<lb ed="#H" n="96" break="no"/>tendimus servari, ubicunque commode potest, oportere: At hic potes. 
+      <lb ed="#H" n="97"/>servari &amp; debet. Exemplum de Abelis sanguine Gen. 4. v. 10. est 
+      dis<lb ed="#H" n="98" break="no"/>simile. Nam Abelis sanguinem rem mortuam fuisse constat, quum 
+      <lb ed="#H" n="99"/>in terram, unde clamasse dicitur, profulus esset: figura itaque seu 
+      tropu<lb ed="#H" n="100" break="no"/>illic necessario statuitur. Spiritus autem Sanctus non est res mortua, 
+      <lb ed="#H" n="101"/>sed viva, sed intelligens, &amp; intellectum nobis dans: quapropter absque  
+      <lb ed="#H" n="102"/>amphibolia &amp; tropo dicitur docere &amp; suggerere omnia quae Christus 
+      <lb ed="#H" n="103"/>dixit.  
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e437">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Hactenus secundum argumentum: sequuntus  
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e445">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>reliqua. 
+      <lb ed="#H" n="106"/>III. Quia diserte distinguitur a donis quae efficit. 1. Cor. 12. 4. 
+      <lb ed="#H" n="107"/>II. Discrimina donorum sunt, sed idem Spiritus. Omnia autem haec 
+      effi<lb ed="#H" n="108" break="no"/>cit unus idemque Spiritus, distribuens illa privatim singulis sicut vult. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e458">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>IV. Quia in nomen ejus baptizamur, perinde ut in Patris &amp; Filij 
+      <lb ed="#H" n="110"/>nomen. Matth. 28. 19. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e467">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>V. Quia habitat in nobis ut in templo suo, Joh. 14. v. 17. 1. 
+      Cor<lb ed="#H" n="112" break="no"/>3. vers. 16. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e476">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>RESPON. Samosateniani ad hoc argumentum negando 
+      conse<lb ed="#H" n="114" break="no"/>quentiam propter amphiboliam in verbis, habitare in nobis ut in 
+      tem<lb ed="#H" n="115" break="no"/>plo suo: quorum sententia sit, Deum per virtutem suam, quae est 
+      Spiri<lb ed="#H" n="116" break="no"/>tus Sanctus, in Sanctorum cordibus operari, quia immensus Deus alios 
+      <lb ed="#H" n="117"/>modo quam virtute sua in hominibus esse non possit. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e492">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Ad istam responsionem sic replicamus. Falso negatur 
+      consequen<lb ed="#H" n="119" break="no"/>tia, quia nihil est in argumento nostro ἀαφισολον: Plana sunt verba 
+      <lb ed="#H" n="120"/>planus sensus. Spiritum Sanctum habitate in sanctis ut in templo 
+      <lb ed="#H" n="121"/>suo, non est idem quod Deum per virtutem suam in sanctorum 
+      cor<lb ed="#H" n="122" break="no"/>dibus operati. Etsi enim verum sit, Deum per virtutera suam 
+      o<lb ed="#H" n="123" break="no"/>erari in sanctis, tamen eo id non evertitur quod nos affirmamus: 
+      <lb ed="#H" n="124"/>tum quia virtus Dei non est separata ab essentia ejus, ibi enim est; 
+      <lb ed="#H" n="125"/>Deus, ubi operatur: tum quia aliud est operari in aliquo, aliud 
+      in<lb ed="#H" n="126" break="no"/>habitarte in eo. Deus in omnibus operatur &amp; est secundum essentia. 
+      <lb ed="#H" n="127"/>praesentiam &amp; potentiam suam: at in sanctis operatur &amp; est atqui 
+      <lb ed="#H" n="128"/>habitat velut in templo suo, secundum singularem praesentiam 
+      gra<lb ed="#H" n="129" break="no"/>tiae. Proinde licet operetur in omnibus, non tamen omnes sunt 
+      tem<lb ed="#H" n="130" break="no"/>plum ipsius, sed pii solum, quos sanctificat Spiritu Sancto suo. De 
+      <lb ed="#H" n="131"/>inde haec virtus qua Deus est &amp; operatur &amp; habitat in Sanctis, aut 
+      <lb ed="#H" n="132"/>essentialis est aut qualitatis. Non autem qualitatis est: Ergo 
+      essen<lb ed="#H" n="133" break="no"/>tialis. Si essentialis, certe aut communis essentiae divinae, aut 
+      perso<lb ed="#H" n="134" break="no"/>nae est. Non autem communis essentiae est: nam propterea Spiritu 
+      <lb ed="#H" n="135"/>Dei, Spiritus Domini, Spiritus Christi appellatur. Est igitur hoc 
+      pro<lb ed="#H" n="136" break="no"/>prium divinae personae nomen atque singulare. Praeterea toto caelo res 
+      <lb ed="#H" n="137"/>rant Samosateniani, quum ajunt, non alio modo Deum immensum, 
+      <lb ed="#H" n="138"/>quam virtute sua in hominibus esse posse: quum nec sine essentia. 
+      <lb ed="#H" n="139"/>nec sine praesentia virtus ipsius inesse possit. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e544">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>VI. Quia tentatur ab hominibus peccantibus. Act. 5. v. 9. Quid  
+      <lb ed="#H" n="141"/>est, cur convenerit inter vos, ut tentaretis Spiritum Domini? Tristitia 
+      <lb ed="#H" n="142"/>afficitur. Eph. 4. 30. Ne tristitia afficite Spiritum illum Sanctum Dei, 
+      <lb ed="#H" n="143"/>per quem obsignati estis in diem redemtionis: Ei obsistitur ab incredulis 
+      <lb ed="#H" n="144"/>&amp; contumacibus. Actor. 7. 51. Vos semper Spiritui illi Sancto obnitimini. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e561">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Ex his omnibus patet quod Spiritus Sanctus sit persona 
+      <lb ed="#H" n="146"/>OEIICITURI. Spiritus Sanctus significat, usitata phrasiScripturae 
+      <lb ed="#H" n="147"/>sanctitatem &amp; motus sanctos in hominibus a Deo excitatos: Ergo non 
+      <lb ed="#H" n="148"/>est persona seu ὑποςασιῳ 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e574">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>Antecedens probatur inductione locorum Scripturae. Luc. 1. 15. 
+      <lb ed="#H" n="150"/>Spiritu Sancto implebitur otiam a ventre matris suae Johan. 4. 23. 
+      <lb ed="#H" n="151"/>Veri adoratores adorabunt Patrem Spiritu &amp; vcritate. Philip. 3. vers. 
+      <lb ed="#H" n="152"/>3. Spiritu servimus Deo. Johan. 7. 39. Nondum enim erat Spiritus 
+      <lb ed="#H" n="153"/>Sanctus, quia Iesus nondum erat glorificatus. Et similia loca plura 
+      oc<lb ed="#H" n="154" break="no"/>currum. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e592">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>RESP. Ex particulari non recte infertur universaliter; Alicubi in 
+      <lb ed="#H" n="156"/>Scriptura Spiritus Sanctus non significat personam, Ergo nullibi 
+      signifi<lb ed="#H" n="157" break="no"/>cat personam. Etsi enim in locis adductis &amp; nonnullis aliis nomin 
+      <lb ed="#H" n="158"/>Spiritus Sancti intelligantur dona creata: tamen sunt alia loca, ut quae 
+      <lb ed="#H" n="159"/>supra adducta sunt, in quibus Spiritus Sanctus non potest intelligi, 
+      <lb ed="#H" n="160"/>nisi persona, operationum &amp; donorum effectrix 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e610">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>OBIICITUR II. Donum Dei non est persona: Spiritus Sanctus est 
+      <lb ed="#H" n="162"/>donum Dei: Non est igitur persona. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e619">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>RESP. Major propositio intellecta universaliter, est falsa. Nam 
+      <lb ed="#H" n="164"/>&amp; Filius Dei est donum Dei, ut ipsemet de seipso loquitur Joh. 3. v. 16. 
+      <lb ed="#H" n="165"/>Ita Deus dilexit mundum, ut Filium suum illum unigenitum dederit. 
+      Et<lb ed="#H" n="166" break="no"/>c. 4. v. 10. Si nosses donum illud Dei &amp; quis sit ille, qui dicit tibi: da mihi 
+      <lb ed="#H" n="167"/>potum: tu petusses ab eo, &amp; dedisset tibi aquam vivam. Sic Jes. 9. 6. 
+      Fi<lb ed="#H" n="168" break="no"/>lius datus est nobis. Rom. 8 32. qui non etiam cum eo omnia nobis 
+      gra<lb ed="#H" n="169" break="no"/>tificabitur? Et quis negaverit Filium Dei esse personam? Idem de 
+      <lb ed="#H" n="170"/>Spiritu Sancto statuendum 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e641">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Quod vero Spiritus Sanctus sit persona Deitatis, hoc est, verus 
+      <lb ed="#H" n="172"/>Deus natura, ευτηθεος, id est, a seipso Deus seu Jehova, sequentibus 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e651">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>gumentis evincimus. 
+      <lb ed="#H" n="174"/>Primum est, quia absolute in Scriptura vocatur Deus Actor. 5. 4. 
+      <lb ed="#H" n="175"/>Non es mentitus homini, sed Deo. Quod autem hic sermo sit de 
+      Spiri<lb ed="#H" n="176" break="no"/>tu Sancto, liquet ex contextu: nam paulo ante, versu nimirum 
+      tertio<lb ed="#H" n="177" break="no"/>Petrus dixit :naniae; Cur implevit Satanas cor tuum, ut mentireris in 
+      <lb ed="#H" n="178"/>Spiritum. Sanctum, ut interverteres ex pretio istius praedit: Et post 
+      rur<lb ed="#H" n="179" break="no"/>sus v. 9. ad Saphiram: Quid est, cur convenerit inter vos ut tentaretis 
+      <lb ed="#H" n="180"/>Spiritum Dominmicic. 1. Cor. 3. v16, 17. An nescitis vos esse templum 
+      <lb ed="#H" n="181"/>Dei, &amp; Spiritum Dei habitare in vobis? Si quis templum Dei 
+      <lb ed="#H" n="182"/>violat hunc perdet Deus: nam templum Dei sanctum est 
+      <lb ed="#H" n="183"/>quod estis vos 
+      <!--cod-MkL9py-0244.xml-->
+      <pb ed="#H" n="217"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>RESPONDENT ad hoc argumentum Samosateniani 
+      negan<lb ed="#H" n="2" break="no"/>do consequentiam, propter fallaciam amphiboliae: quandoquidem 
+      <lb ed="#H" n="3"/>mentiri Deo &amp; mentiri Spiritui Sancto, Actor. 5. significet mentiri 
+      <lb ed="#H" n="4"/>Deo, qui per Spiritum suum locutus est in Petro, ut Paulus 1. 
+      Thes<lb ed="#H" n="5" break="no"/>4. vers. 8. interpretetur, dicens, Proinde qui haec quae diximus vobis. 
+      <lb ed="#H" n="6"/>bernit, non spernit homines, sed Deum, qui aedit Spiritum suum 
+      <lb ed="#H" n="7"/>Sanctum in no¬ 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e701">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Sed responsio ista est falsa. Nam primum argumento nostro non 
+      <lb ed="#H" n="9"/>inest amphibolia. Spiritum Sanctum &amp; Spiritum Domini ipsum in 
+      <lb ed="#H" n="10"/>se dicimus appellari Deum proprie; &amp; qui mentitur Spiritui Sancto 
+      <lb ed="#H" n="11"/>cum proprie dici mentitum Deo, quare Spiritus Sanctus est Deus. 
+      <lb ed="#H" n="12"/>Secundo etiamsi concederemus, quod Samosateniani ajunt, mentir 
+      <lb ed="#H" n="13"/>Spiritui Sancto esse mentiri Deo, qui per Spiritum suum loquitur  
+      <lb ed="#H" n="14"/>in servis suis: tamen non sequeretur inde Spiritum Sanctum non est 
+      <lb ed="#H" n="15"/>se Deum in servis suis habitantem, sed contra sequeretur esse Deum 
+      <lb ed="#H" n="16"/>in suis habitantem. Nam quid est Spiritus Sanctus? an donum 
+      acci<lb ed="#H" n="17" break="no"/>dentale? atqui donum accidentale non loquitur, Spiritus autem 
+      San<lb ed="#H" n="18" break="no"/>ctus loquitur. An actus accidentalis? atqui actus accidentalis non 
+      a<lb ed="#H" n="19" break="no"/>git, sed agens agit actum. Ergo aut ipsam essentiam Dei oportet in 
+      <lb ed="#H" n="20"/>telligas, aut personam in essentia: nam actum divinum quod agat, 
+      a<lb ed="#H" n="21" break="no"/>liud nihil est. Essentiam intelligi non patitur Lucas, qui ibidem 
+      Spi<lb ed="#H" n="22" break="no"/>ritum Domini appellavit: alius aute Dominus, alius Spiritus ipsius 
+      <lb ed="#H" n="23"/>Personam igitur intelligi necesse est, quae est Spiritus Domini &amp; 
+      <lb ed="#H" n="24"/>servos Domini inspirat a Domino. Nec vero aliam esse mentem 
+      <lb ed="#H" n="25"/>Pauli I. Thes. 4. vers. 8. verba ipsius docent manifeste, &amp; evincit 
+      no<lb ed="#H" n="26" break="no"/>stra haec argumentatio. Loquitur enim Spiritus: non donum 
+      acci<lb ed="#H" n="27" break="no"/>dentale, non actus accidentalis, non essentia divina simpliciter: sed  
+      <lb ed="#H" n="28"/>persona illa divina a Patre &amp; Filio procedens in unitate essentiae 
+      at<lb ed="#H" n="29" break="no"/>que in Sanctis habitans. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e753">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>Hactenus primum argumentum pro aeterna Dei¬ 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e760">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>tate Spiritus Sancti, 
+      <lb ed="#H" n="32"/>Secundum argumentum petimus ex effectis: quia tribuuntur 
+      <lb ed="#H" n="33"/>Spiritui Sancto illa opera quae solus is facit qui est natura verus Dei, 
+      <lb ed="#H" n="34"/>us. Ipsius opus est 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e773">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>I. Creatio, Job. 26. 13. Spiritus ejus ornavit coelos &amp; 33. 4. 
+      Spiri<lb ed="#H" n="36" break="no"/>tus Dei fecit me. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e782">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>2. Spiritus Sancti opus est Providentia omnia fovens &amp; 
+      con<lb ed="#H" n="38" break="no"/>servans, Genes. 1. vers. 2. Spiritus Dei incubabat superficiei aquarum; 
+      <lb ed="#H" n="39"/>Spiritus non est hoc Mosis loco aer aut ventus, quia nondum 
+      for<lb ed="#H" n="40" break="no"/>mati erant, nec ille mundi spiritus, quem finxerunt Pythagoraei, nam 
+      <lb ed="#H" n="41"/>hic inesse mundo, non incubare diceretur, de quo Virgilius libro 6. 
+      <lb ed="#H" n="42"/>AEncidos 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e801">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Principio coelum ac terras, camposque liquentes 
+      <lb ed="#H" n="44"/>Lucentemque globum Lunae, Titantaque 
+      astra<lb ed="#H" n="45" break="no"/>Spiritus intus alit: totamque infusa per artus 
+      <lb ed="#H" n="46"/>Mens agitat molem, &amp; magno se corpore miscet. 
+      <lb ed="#H" n="47"/>Inde hominum pecudumque genus, vitaeque uolantum 
+      <lb ed="#H" n="48"/>Et quae marmoreo fert monstra sub aequore pontus. 
+      <lb ed="#H" n="49"/>De hoc spiritu Pythagorico multa tradit Macrobius in Somn. 
+      Sci<lb ed="#H" n="50" break="no"/>pionis lib. 1. cap. 14. &amp; 17. Et Lactantius de falsa religione lib. 1. cap.  
+      <lb ed="#H" n="51"/>5. &amp; 6. Ex loco Virgilii liquet, spititum illum Pythagoricum 
+      intu<lb ed="#H" n="52" break="no"/>alere. Proinde in loco Geneseωs intelligitur Sanctus ille Dei 
+      Spiri<lb ed="#H" n="53" break="no"/>tus, tertia persona Deitatis a Patre &amp; Filio procedens, qui essenti 
+      <lb ed="#H" n="54"/>unus est cum Patre &amp; Filio. Hic Spiritus dicitur incubasse superficies 
+      <lb ed="#H" n="55"/>aquarum, hoc est, materiam modo creatam fovisse formationis 
+      er<lb ed="#H" n="56" break="no"/>go, ut foventur pulli ab incubantibus matribus; quamvis spirituali &amp; 
+      <lb ed="#H" n="57"/>plane inenarrabili, non autem corporali 
+      modo<lb ed="#H" n="58" break="no"/>3. Spiritus Sancti est operatio miraculorum 1. Corinth. 12. 4. 
+      <lb ed="#H" n="59"/>Divisiones operationum sunt, sed idem Spiritus. Sic eduxit populum 
+      <lb ed="#H" n="60"/>Israeliticum ex AEgypto per mare rubrum, Jesa. 63. 14. Vt jumentum 
+      <lb ed="#H" n="61"/>in convalle descendens, Spiritus Iehovae quiete egit eum, nempe 
+      po<lb ed="#H" n="62" break="no"/>pulum Israeliticum. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e849">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>. Opus ejus est, vocatio &amp; missio Prophetarum &amp; Apostolorum 
+      <lb ed="#H" n="64"/>&amp; Episcoporum, hoc est, Pastorum Doctorumque Ecclesiae. Jesa. 48. 
+      <lb ed="#H" n="65"/>16. Dominus Iehovi misit me &amp; Spiritus ejus. Actor. 13. 2. Quum 
+      <lb ed="#H" n="66"/>ministrarent Domino &amp; jejunarent, dixit Spiritus Sanctus, 
+      separa<lb ed="#H" n="67" break="no"/>te mihi Barnabam &amp; Saulum ad opus ad quod eos advocavi. Actor 
+      <lb ed="#H" n="68"/>20. 28. Attendite vobis ipsis &amp; toti gregi, in quo vos Spiritus Sanctus 
+      <lb ed="#H" n="69"/>constituit episcopos, ad pascendam Ecclesiam Dei, quam suo illo 
+      san<lb ed="#H" n="70" break="no"/>guine acquisivit. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e871">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Opus ejus est missio ipsiusmet Christi, Jesa 61. 1. Luc. 4. vers. 18. 
+      <lb ed="#H" n="72"/>Spiritus Domini super me, propterea quod unxit me, ut evangelizem 
+      <lb ed="#H" n="73"/>pauperibus misit me, ut medear contritis corde, ut praedicem captivis 
+      <lb ed="#H" n="74"/>dimissionem &amp; caecis visus recuperationem, ut confractos emittam 
+      <lb ed="#H" n="75"/>in libertatem: ut praedicem annum Domini acceptum. Messiam set 
+      <lb ed="#H" n="76"/>Christum quis misit in mundum, nisi solus Deus Israe? Atqui 
+      Spi<lb ed="#H" n="77" break="no"/>ritus Sanctus misit Messiam seu Christum in mundum: Ergo 
+      Spiri<lb ed="#H" n="78" break="no"/>tus Sanctus est Deus Israelis 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e893">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>6. Opus ejus est collatio donorum ad ministerium Ecclesiae 
+      ne<lb ed="#H" n="80" break="no"/>cessariorum, Johan. 14. 26. Paracletus ille Spiritus Sanctus, quem 
+      <lb ed="#H" n="81"/>mittet Pater in nomine meo, ille vos docebit omnia, &amp; in memoriam 
+      <lb ed="#H" n="82"/>revocabit vobis omnia quae dixi vobis. Johan. 16. vers. 13. Quum 
+      au<lb ed="#H" n="83" break="no"/>tem venerit ille, Spiritus ille veritatis, introducet vos in omnem 
+      ve<lb ed="#H" n="84" break="no"/>ritatem. Quis docuit immediate Apostolos post adscensionem 
+      <lb ed="#H" n="85"/>Christi ad coelos, nisi Deus? oportuit enim esse divinitus edoctos. 
+      At<lb ed="#H" n="86" break="no"/>qui Spiritus Sanctus docuit immediate Apostolos post adscesionem: 
+      <lb ed="#H" n="87"/>Christi ad coelos: Ergo est Deus, 1. Cor. 12. 8. &amp; sequentibus usque ad 
+      <lb ed="#H" n="88"/>vers. 11. Omnia haec efficit unus ille &amp; idem Spiritus, distribuens 
+      pri<lb ed="#H" n="89" break="no"/>vatim illa singulis sicut vult. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e922">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>7. Opus ejus ut causae principis est patefactio doctrinae 
+      Prophe<lb ed="#H" n="91" break="no"/>ticao &amp; Apostolicae. 2. Sam. 23. 2. Spiritus Iehevae locutus est in me 
+      <!--cod-MkL9py-0244.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>&amp; Sermo ejus per linguam meam. Act. 1. v.16. Oporrait impieri Scri¬ 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e938">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>pturam hanc, quampraedixit Spiritus S. per os Davidis. Et. c. 4. v. 25. 
+      <lb ed="#H" n="94"/>Qui Spiritu 8. per os Davidis pueri tui dixisti. Quare fremuerunt 
+      <lb ed="#H" n="95"/>Gentes, &amp;c. 2. Petr. 1. 21. Sparitu Dei affluti loceti sunt sancti Dei 
+      <lb ed="#H" n="96"/>homines. Jes. 6. v. 9. Jehova quem Jesaias vidit, dixit: Vade ad populum 
+      <lb ed="#H" n="97"/>istum &amp; dic: Auditu audietis &amp; nen intelligetis, &amp; videntes 
+      vide<lb ed="#H" n="98" break="no"/>bitis &amp; non cernetis. At Paulus Act. 28. 15. ait, Spiritum S. tunc 
+      lo<lb ed="#H" n="99" break="no"/>cutum esse per Iesaiam Prophetam. Ergo Spiritus S est Jehova, 
+      ho<lb ed="#H" n="100" break="no"/>est; natura Deus. I. Cor. 2 9, 10. Sed praedicamus sicut scriptum est, 
+      <lb ed="#H" n="101"/>quae oculus non vidit, nec auris audivit, nec in mentem hominis 
+      vo<lb ed="#H" n="102" break="no"/>Snerunt, quae paravit Deus ijs a quibus ipse diligitur. Nobis autem 
+      <lb ed="#H" n="103"/>Deus ea retexit per Spiritum suum. Et v. 13. Quae etiam loquimur,  
+      <lb ed="#H" n="104"/>non sermonibus quos docet humana sapientia, sed quos docet 
+      Spiri<lb ed="#H" n="105" break="no"/>tus S. 1. Pet. 1. 12. dicitur quod Apostoli ea evangelizaverunt, per 
+      e<lb ed="#H" n="106" break="no"/>missum e coelo Spiritum Sanctum, in quae cupiunt Angeli 
+      introspi<lb ed="#H" n="107" break="no"/>cere, 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e976">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>8. Opus ejus est revelatio futurorum, ut causae efficientis 
+      princi<lb ed="#H" n="109" break="no"/>balis. Johan. 16. 13. Quae futura sunt annunciabit vobis. Act. 11. v. 29. 
+      <lb ed="#H" n="110"/>Agabus per Spiritum Sanctum praedixit famem. 1. Lim. 4. 1. Spiritus 
+      <lb ed="#H" n="111"/>liserte dicit, quod in posterioribus temporibus quidam desciscent a fide: 
+      <lb ed="#H" n="112"/>1. Petr. 1. 11. vocatur Spiritus Christi praenuncius ille, qui in 
+      Prophe<lb ed="#H" n="113" break="no"/>tis fuit. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e994">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>9. Opus ejus ut causae principalis, est collectio &amp; unitio Ecclesiae 
+      <lb ed="#H" n="115"/>Dei, Ephes. 2. 22. In quo &amp; vos aedificamini in domicilium Dei 
+      pe<lb ed="#H" n="116" break="no"/>Spiritum. 1. Corinth. 12, 13. Per unum Spiritum nos omnes in unum 
+      <lb ed="#H" n="117"/>corpus baptizati sumus. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1007">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>10. Opus ejus ut causae principalis est illuminatio mentium &amp; 
+      <lb ed="#H" n="119"/>institutio fidelium, tum in Veteri Testamento, quos docuit &amp; 
+      ad<lb ed="#H" n="120" break="no"/>monuit, ut dicitur Hebr. 3. v. 7. Quapropter sicut dicit Spiritus ille, 
+      <lb ed="#H" n="121"/>Sanctus, Hodie si vocem ejus audiveritis, Ne obturate corda vestra: 
+      <lb ed="#H" n="122"/>tum in novo Testamento, juxta promissionem Christi 1. Joh. 14. 26. 
+      <lb ed="#H" n="123"/>Paracletus autem ille, Spiritus Sanctus, quem mittet Pater in 
+      no<lb ed="#H" n="124" break="no"/>mine meo, ille vos docebit omnia, &amp; suggeret vobis omnia quae dix 
+      <lb ed="#H" n="125"/>vobis. Joh. 16. 14. Spiritus Sanctus ducet vos in omnem veritatem. 
+      <lb ed="#H" n="126"/>Luc. 12. v. 12. Spiritus S. docebit vos eo ipso momento, quae oporteat 
+      di<lb ed="#H" n="127" break="no"/>cere. 1. Joh. 2. 27. Unctio quam vos accepistis ab eo, manet in vobis: nec 
+      <lb ed="#H" n="128"/>necesse habetis, ut quisquam doceat vos: verum sicut eadem uncti 
+      <lb ed="#H" n="129"/>docet vos de omnibus, quae &amp; verax est &amp; non mendax: &amp; sicut 
+      do<lb ed="#H" n="130" break="no"/>cuit vos, manebitis in eo. Unctio enim per metonymia est ipse 
+      Spiri<lb ed="#H" n="131" break="no"/>tus Sanctus, quo unguntur regenerati. Illuminat autem Spiritus S 
+      <lb ed="#H" n="132"/>omnes fideles ubicunque sunt terrarum in omnibus Ecclesiis; quod  
+      <lb ed="#H" n="133"/>ignificatum fuit per septem spiritus Dei, quos Christus habet, Apoc 
+      <lb ed="#H" n="134"/>. v. 1. Nam unus idemque Spiritus S: septem illis Ecclesiis 
+      illuminan<lb ed="#H" n="135" break="no"/>dis ita sufficiebat, ac si totidem Spiritus in qualibet Ecclesiarum essent: 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1051">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>II. Opus ejus est justificatio nostri: 21 Cor. 3. 17. Ubi autem 
+      Spi<lb ed="#H" n="137" break="no"/>ritus ille Domini, illic libertas. Et I. Cor. 6. v. 11. Iustificati estis per 
+      <lb ed="#H" n="138"/>nomen Domini Iesu, &amp; per Spiritum Dei nostri 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1062">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>12. Opus ejus est nostra regeneratio. Joh: 3. vers. 5. Nisi quis 
+      re<lb ed="#H" n="140" break="no"/>natus fuerit ex aqua &amp; Spiritu, non potest introire in regnum Dei: 
+       <lb ed="#H" n="141"/>
+               <ref xml:id="yyy8Uu-e02893-Rd1e1072">Gal. 5. 22.</ref> 
+               <quote xml:id="yyy8Uu-e02893-Qd1e1076" source="http://scta.info/resource/gal5_22 gal5_23">Fructus Spiritus est charitas, gaudium, pax, irae cohibitio 
+      <lb ed="#H" n="142"/>benignitas, bonitas, fidei, lenitas, continentia</quote>. 25Cor. 3. 18. Nos aute 
+      <lb ed="#H" n="143"/>omnes retecta facie gloriam Domini ut in speculo intuentes, in 
+      ean<lb ed="#H" n="144" break="no"/>dem imaginem transformamur ex gloria in gloriam sicut a Domino 
+      <lb ed="#H" n="145"/>Spiritus 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1088">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>13. Opus ejus est gubernatio actionum &amp; vitae piorum. Psalmi. 
+      <lb ed="#H" n="147"/>143. 10. Spiritus tuus bonus deducat me per viam planam. Acto. 2. v. 
+      <lb ed="#H" n="148"/>4. Repleti sunt omnes Apostoli Spiritu Sancto, coeperuntque loqui alije 
+      <lb ed="#H" n="149"/>linguis, proui Spiritus ille dabat eis effari. Et cap. 18. 17. Spiritus 
+      S<lb ed="#H" n="150" break="no"/>prohibuit Paulum loqui senmonem in Asia. Rom. 8. v. 14. Quotquot 
+      <lb ed="#H" n="151"/>Spiritu Dei aguntur: ij sunt filij Dei 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1107">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>14. Opus ejus est consolatio in tentationibus, Joh. 14. 28. 
+      Para<lb ed="#H" n="153" break="no"/>cletus ille Spiritus Sanctus. Act. 9. 31. Ecclesiae per totam Iudaeam &amp; 
+      <lb ed="#H" n="154"/>Galileam &amp; Samariam habentes pacem, aedificabantur: &amp; per 
+      gen<lb ed="#H" n="155" break="no"/>tes in timore Domini &amp; consolatione Sancti Spiritus, 
+      multiplicaban<lb ed="#H" n="156" break="no"/>tur. Rom. 8. 26. Spiritus una sublevat infirmitates nostras: 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1123">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>15. Opus ejus est confirmatio &amp; conservatio renatorum 
+      adver<lb ed="#H" n="158" break="no"/>sus vim tentationum ad finem usque. Joh. 14. v.16. promittit Christus 
+      <lb ed="#H" n="159"/>Spiritum Sanctum mansurum cum fidelibus in aeternum. Ephes. 1. 
+      <lb ed="#H" n="160"/>13, 14. Obsignati estis Spiritu illo promissionis Sancto: Qui est 
+      arrha<lb ed="#H" n="161" break="no"/>bo haereditatis nostrae, ad obtinendam redemtionem ad laudem gloriae, 
+      <lb ed="#H" n="162"/>ipsius. Rom. 5. v. 5. Spes non pudefacit, eo quod charitas Dei effusa est. 
+      <lb ed="#H" n="163"/>in cordibus nostris per Spiritum Sanctum, qui datus est nobis. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1143">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>16. Opus ejus est interna testificatio in cordibus electorum &amp; 
+      <lb ed="#H" n="165"/>confirmatio quod sint filii Dei, Ro.8.16. Ipse Spiritus testatur una 
+      <lb ed="#H" n="166"/>cum Spiritu nostro, nos esse filios Dei 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1154">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>17. Opus ejus est donatio vitae &amp; salutis aeternae, Roman. 8. v. 11 
+      <lb ed="#H" n="168"/>Si Spiritus ejus qui suscitavit Iesum ex mortuis habitat in vobis: i1 
+      <lb ed="#H" n="169"/>qui excitavit Christum ex mortuis, vivificabi? etiam mortalia. 
+      <lb ed="#H" n="170"/>vestra corpora per inhabitantem ipsius Spiritum in vobis. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1167">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>I8. Opus ejus est judicium adversus peccata, Johan. 16. 8. Quum 
+      <lb ed="#H" n="172"/>venerit Spiritus ille, arguet mundum de peccato &amp; de justitia &amp; de 
+      <lb ed="#H" n="173"/>judicio 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1178">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Ex his omnibus talem exstruimus demonstrationem: 
+      <lb ed="#H" n="175"/>Cui tribuuntur ut causae efficienti principali, illa opera quae sunt 
+      <lb ed="#H" n="176"/>solius veri Dei, is certe verus est Deus; 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1190">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Atqui Spiritui Sancto tribuuntur ut causae efficienti principali 
+      <lb ed="#H" n="178"/>illa opera quae sunt solius veri Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1199">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>Ergo Spiritus Sanctus est verus Deus 
+      <lb ed="#H" n="180"/>III. Argumentum ducimus a proprietatibus: quia ei tribuuntur 
+      <lb ed="#H" n="181"/>proprietates Dei, soli vero Deo competentes 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1210">
+               <lb ed="#H" n="182"/>
+               <pc type="indent"/>Est aeteriius: quia fuit ante creationem ac proinde in 
+      principio<lb ed="#H" n="183" break="no"/>creationis, non vero creatus, sedcreans &amp; fovens omnia, nt dicitur 
+      <!--cod-MkL9py-0245.xml-->
+      <pb ed="#H" n="218"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Genesi4. vers. 2. Spiritus Dei incubabat superficiei aquarum. Sic 
+      di<lb ed="#H" n="2" break="no"/>citur Jehan. 1. v. 3. Omnia per hunc Sermonem facta sunt, &amp; absque eo 
+      <lb ed="#H" n="3"/>factum est nihil, quod factum est. Quibus verbis eximitur numero 
+      <lb ed="#H" n="4"/>creaturarum Spiritus Sanctus, quum is non dicatur factus, sed 
+      pro<lb ed="#H" n="5" break="no"/>cedere a Patre &amp; Filios 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1236">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>OBIICITVR: Qui habet principium, non est aeternus: Spiritus 
+      <lb ed="#H" n="7"/>Sanctus habet principium: Ergo non est aeternus. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1245">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>RESPON. Qui habet principium, nempe essentiae &amp;temporis; 
+      <lb ed="#H" n="9"/>non est aeternus: At Spiritum Sanctum habere principium eisentis. 
+      <lb ed="#H" n="10"/>&amp; temporis, negatur: habet enim tantum principium personae &amp; 
+      or<lb ed="#H" n="11" break="no"/>dinis 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1258">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Est ubique praesens, Psalm. 139. vers. 7. Quo irem a Spiritu tuos 
+      <lb ed="#H" n="13"/>aut quo a facie tua fugerem? Spiritus Sanctus habitat in omnibus. 
+      <lb ed="#H" n="14"/>fidelibus ubicunque sunt terrarum. Johan: 14. v.16. ait Christus: Ego 
+      <lb ed="#H" n="15"/>vero rogabo Patrem &amp; alium Paracletum dabit vobis; ut maneat 
+      <lb ed="#H" n="16"/>vobiscum in aeternum. Et vi17. Spiritus Scapud vos manet, &amp; in 
+      vo<lb ed="#H" n="17" break="no"/>bis erit. Rom. 8. v. 9. Spiritus Dei habitat in vobis. 1. Cor. 3.16. An 
+      <lb ed="#H" n="18"/>nescitis vos esse templum Dei, &amp; Spiritum Dei habitare in vobis: 
+      <lb ed="#H" n="19"/>Praeclara est sententia Basilij Magni de Spiritu Sancto cap. 22. Ego 
+      <lb ed="#H" n="20"/>vobiscum, dicit Dominus; &amp; Spiritus meus stat in medio vestrum: 
+      <lb ed="#H" n="21"/>Qui vero ubique est &amp; Deo adest, eum qualis naturae putare conveniti 
+      <lb ed="#H" n="22"/>Etu sne quae omnia coplectitur? aut ejus quae particularibus locis in 
+      <lb ed="#H" n="23"/>cluditur, qualem esse Angelorum naturam Scriptura ostendit ? 
+      <lb ed="#H" n="24"/>Insignis etiam est sententia Didymi Alexandrini in libro de Spiritu 
+      <lb ed="#H" n="25"/>Sancto: Ipse Spiritus Sanctus si una de creaturis esset, duntaxat 
+      cir<lb ed="#H" n="26" break="no"/>cumscriptam haberet substantiam, sicut universa, quae facta sunt. 
+      <lb ed="#H" n="27"/>Nam etsi non circumscribantur loco &amp; finibus invisibiles creaturae. 
+      <lb ed="#H" n="28"/>tamen proprietate substantiae finiuntur. Spiritus autem Sanctus. 
+      <lb ed="#H" n="29"/>quum in pluribus locis sit, non habet circumscriptam substantiam 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1303">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>Est omniscius: 11 Cor. 2. v. 10 Spiritus omnia scrutatur, etiam 
+      <lb ed="#H" n="31"/>profunditates Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1312">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Est justus &amp; potens ultor peccatorum, abiiciens peccatoresnon. 
+      <lb ed="#H" n="33"/>resipiscentes etiam in aeternas poenas, Jes. 63. v. 10, Illi rebelles fuerunt 
+      <lb ed="#H" n="34"/>&amp; irritarunt Spiritum Sanctum ejus. Ephes. 4. v. 30. Nolite 
+      contri<lb ed="#H" n="35" break="no"/>stare Spiritum Sanctum, quo obsignati estis. Acto. 5. v. 9. Quare 
+      con<lb ed="#H" n="36" break="no"/>venit inter vos, ut tentaretis Spiritum Domini? Matth. 12. v. 31. Qui  
+      <lb ed="#H" n="37"/>dixerit blasphemiam in Spiritum S ei non remittetur, nec in hoc 
+      se<lb ed="#H" n="38" break="no"/>culo, nec in futuro. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1332">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>Tribuitur ei honor quod in nomen ejus baptizamur, Matth. 28. 
+      <lb ed="#H" n="40"/>v. 19. In cujus quaeso nomen baptizamur, nisi in solius Dei? cum 
+      ba<lb ed="#H" n="41" break="no"/>ptizari in nomen Patris: Filii &amp; Spiritus Sancti, nihil sit aliud, quam 
+      <lb ed="#H" n="42"/>nos ad Patris, Filii &amp; Spiritus Sancti fidem, cultum, &amp; religionem 
+      <lb ed="#H" n="43"/>Jobligariinos in Patrem, Filium &amp; Spiritum Sanctum credituros, in 
+      <lb ed="#H" n="44"/>eo spem collocaturos, euni adoraturos 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1350">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Tribuitur ei honor fidei in ipsum. Nam credimus in Spiritum 
+      <lb ed="#H" n="46"/>Sanctum: atqui in solum verum Deum est credendum 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1359">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Tribuitur ei honor adorationis &amp; invocationis religiosae, idque 
+      <lb ed="#H" n="48"/>primo juxta mandatum, Baptizate in nomen Patris, Filij &amp; Spiritus 
+      <lb ed="#H" n="49"/>Sancti, id est, obligate eos sacramento Baptismi ad fidem, cultum &amp; 
+      <lb ed="#H" n="50"/>nvocationem Patris, Filii &amp; Spiritus Sancti. Deinde juxta exempla 
+      <lb ed="#H" n="51"/>2. Cor. 13. 13. Communicatio Spiritus Sancti sit cum omnibus vobis. 
+      <lb ed="#H" n="52"/>Apocal. I. v. 4. Gratia sit vobis &amp; pax a Qui est, &amp; Qui erat, &amp; Qui  
+      <lb ed="#H" n="53"/>venturus est: &amp; a septem spiritibus qui in conspectu throni ejus sunt:  
+      <lb ed="#H" n="54"/>hoc est, a Spiritu Sancto, qui quidem unus natura est, gratiarum 
+      di<lb ed="#H" n="55" break="no"/>stributione multiplex, ut recte interpretatur Glossa ordinaria 
+      inter<lb ed="#H" n="56" break="no"/>linearis; cui consentit Glossa marginalis, quae per septei Spiritus in 
+      <lb ed="#H" n="57"/>telligit Spiritum Sanctum ipsum: &amp; <name xml:id="yyy8Uu-e02893-Nd1e1387">Cardinalis Hugo de Sancto 
+      <lb ed="#H" n="58"/>Charo</name>, qui in Postilla ad hunc locum ait: A septem spiritibus, id est, a 
+      <lb ed="#H" n="59"/>Spiritu Sancto unico in natura: multiplici in effectibus. (Hoc 
+      no<lb ed="#H" n="60" break="no"/>tandum adversus Papistas, qui ex hoc loco Angelorum invocationem 
+      <lb ed="#H" n="61"/>colligere conantur.) Per hos septem spiritus, non sunt intelligendi 
+      <lb ed="#H" n="62"/>spiritus creati, seu Angelii quia sunt oculi &amp; cornua Agni, Apocal. 
+      s<lb ed="#H" n="63" break="no"/>v. 6. Ergo ejusdem essentiae cum Agno, ac proinde increati. 
+      Consen<lb ed="#H" n="64" break="no"/>tit <name xml:id="yyy8Uu-e02893-Nd1e1405">Justinus Martyr</name>, qui in Paraenesi ad Graecos sic ait: otἰερσι ωροοη¬ 
+      <lb ed="#H" n="65"/>ταν τοον κι τό ἀυτό πνεν μα εἰς ἐπια πενματα μοριζεο φασι: hoc est: 
+      <lb ed="#H" n="66"/>Sancti Prophetae unum &amp; eundem Spiritum in septem spiritus 
+      divi<lb ed="#H" n="67" break="no"/>di dicunt 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1415">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Hinc constat, Spiritum Sanctum fuisse a Johanne 
+      invoca<lb ed="#H" n="69" break="no"/>tum. Factitatum idem ab Ecclesia deinceps secuta, ut idem Justinus 
+      <lb ed="#H" n="70"/>Martyr in Apologia secunda pro Christianis ad <name xml:id="yyy8Uu-e02893-Nd1e1425">M. Antonium Pium</name> 
+               <lb ed="#H" n="71"/>testatur: πευκα τς το ωροφιιικον σεξομιθα κι ωροσκμνημεν: λόγῳ ακ 
+      <lb ed="#H" n="72"/>ἀληθεια αιμονleς, hoc est, Spiritumque Propheticum colimus &amp; 
+      adora<lb ed="#H" n="73" break="no"/>mus, cum ratione &amp; veritate venerantes. Clemens Alexandrinus 
+      <lb ed="#H" n="74"/>lib. 3. Paedagogi sub finem, ait: αμθετμσ δυχε ριστεῖν κι ανεῖν, τῶ κόνῳ 
+      <lb ed="#H" n="75"/>πάτοι κ κς, μα κοπτοι παιδαγαγῳ α διδυισκαλῳ. κῳ, σμ ι τῶ αγιῳ τνοι 
+      <lb ed="#H" n="76"/>μali. hoc est, laudantes gratias agere; &amp; laudes dicere, soli Patri &amp; 
+      <lb ed="#H" n="77"/>Filio, Filio &amp; Patri, paedagogo &amp; doctori Filio cum Spiritu Sancto. 
+      Hi<lb ed="#H" n="78" break="no"/>Patres ante Concilium Nicenum vixerunt &amp; adoratum fuisse 
+      Spiri<lb ed="#H" n="79" break="no"/>tum Sanctum docuerunt: ne obganniant novi Samosateniani, 
+      ado<lb ed="#H" n="80" break="no"/>rationem Spiritus Sancti Nicenae Synodi commentum esse 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1452">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Tertio tribuitur ei quod tentatus &amp; exacerbatus fuerit etiam in 
+      <lb ed="#H" n="82"/>Veteri Vestamento a populo Israelitico: quemadmodum 
+      Stepha<lb ed="#H" n="83" break="no"/>nus protomartyr post Christi adscensionem in coelum ait Act. 7. 51. 
+      <lb ed="#H" n="84"/>Vos semper Spiritui illi Sancto obnitimini, quemadmodum Patres 
+      <lb ed="#H" n="85"/>vestri, ita &amp; vos. Jes. 63. v. 10. Nam ipsis rebellantibus &amp; dolore 
+      affi<lb ed="#H" n="86" break="no"/>cientibus Spiritum Sanctitatis ejus, mutabatur quidem ipsis in 
+      ini<lb ed="#H" n="87" break="no"/>micum. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1472">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Ex his igitur hanc demonstrationem exstruimus 
+      <lb ed="#H" n="89"/>Cui tribuuntur proprietates soli vero Deo competentes, is certe 
+      <lb ed="#H" n="90"/>verus Deus est; 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1483">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>At Spiritur Sancto tribuuntur proprietates soli vero Deo 
+      com<lb ed="#H" n="92" break="no"/>petentes. 
+      <lb ed="#H" n="93"/>Ergo Spiritus Sauctus est verus Deus. 
+      <!--cod-MkL9py-0245.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="94"/>Explicata est descriptionis pars prima: sequitur secun¬ 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1501">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>da, nimirum differentia. 
+      <lb ed="#H" n="96"/>Differentia qua Spiritus Sanctus discernitur a Patre &amp; Filio, 
+      pro<lb ed="#H" n="97" break="no"/>bonitur. Una est, quod Spiritus Sanctus sit tertia persona Deitatis 
+      <lb ed="#H" n="98"/>nempe non tempore, nec gradu aut dignitate aut statu aut honores 
+      <lb ed="#H" n="99"/>sed ordine exsistendi, &amp; oeconomiae in operibus communibus 
+      Pa<lb ed="#H" n="100" break="no"/>tris, Filii &amp; Spiritus Sancti 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1519">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Ex eo quod tertia persona Deitatis esse dicitur, intelligitur esse 
+      <lb ed="#H" n="102"/>dλος id est, alius &amp; distinctus a Patre &amp; Filio, idque adversus 
+      Sabel<lb ed="#H" n="103" break="no"/>lianos. Esse autem distinctum haec argumenta probant  
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1530">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>I. Quia est Patris &amp; Filii Spiritus: nemo autem est sui ipsius 
+      spi<lb ed="#H" n="105" break="no"/>ritus, sicut nemo est sui ipsius Pater, &amp; nemo est suiipsius Filius 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1540">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>2. Quia expresse in Sacra Scriptura alius esse dicitur, Johan. 14. 
+      <lb ed="#H" n="107"/>vers. 16. Rogabo Patrem, &amp; alium paracletum mittet vobis. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1549">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>Quia mittit cum Pater per Filium &amp; Filius a Patre, Joha. 14. 
+      <lb ed="#H" n="109"/>3. 
+      <lb ed="#H" n="110"/>16. Johan. 15. 26. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1560">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>I. Quia solus Spiritus Sanctus apparuit in specie columbae &amp; 
+      lin<lb ed="#H" n="112" break="no"/>guarum ignearum: non Pater &amp; Filius 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1569">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Quia de Spiritu Sancto conceptus est Christus, non de Patre 
+      <lb ed="#H" n="114"/>vel de seipsos 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1578">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Altera differentia est sumta a τρυπῳ υπάζζεως, modo subsistendi. 
+      <lb ed="#H" n="116"/>quod a Patre &amp; Filio per aeternam &amp; aequalem processionem seu 
+      spi<lb ed="#H" n="117" break="no"/>rationem exsistat, communicata ipsi per eam tota illa, in qua ipsi 
+      <lb ed="#H" n="118"/>quoque subsistunt, Deitatis essentia. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1591">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Unde Spiritus Sanctus ortu (qui relationis est) non est a se, sed a 
+      <lb ed="#H" n="120"/>Patre &amp; Filio: actu vero (qui personae in se est) a se est, quia in se &amp; 
+      per<lb ed="#H" n="121" break="no"/>se subsistit: quod ad essentiam denique est ἀυlνθεος, quia est Deus est 
+      <lb ed="#H" n="122"/>sentia illa quae a seipsa est, &amp; non ab alia 
+      essentia<lb ed="#H" n="123" break="no"/>Hic jam consideranda doctrina de processione Spiritus Sancti: 
+      <lb ed="#H" n="124"/>Patre &amp; Filio, quae ut recte intelligatur, praemittenda est distinctio¬ 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1610">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>PROCESSIO alia est corporea, alia spiritualis 
+      <lb ed="#H" n="126"/>Processio corporea, est corporum ad extra, sic ut omne quod 
+      roce<lb ed="#H" n="127" break="no"/>lit ad extra, diversum sit ab eo a quo procedit. Sic ranae procedunt 
+      ex<lb ed="#H" n="128" break="no"/>aere, mures in AEgypto ex limo terrae, pediculi e capite, lumbrici ex 
+      <lb ed="#H" n="129"/>interaneis &amp; sexcenta alia ex aliis corporaliter procedunt; procedum 
+      <lb ed="#H" n="130"/>inquam, non generantur: Differt enim generatio a processione. Qui 
+      <lb ed="#H" n="131"/>ab altero generatur; similis est generanti &amp; filius ejus recte dicitur  
+      <lb ed="#H" n="132"/>at qui procedit, non illico similis est ei a quo procedit, neque illico est 
+      <lb ed="#H" n="133"/>filius ejus unde procedit. Omnis quidem generatus, procedit ab 
+      <lb ed="#H" n="134"/>alio: sed non omnis qui procedit ab alio, generatur: Augustinus 
+      sexto<lb ed="#H" n="135" break="no"/>tomo libro tertio contra Maximinum Arianorum episcopum cap. 
+      <lb ed="#H" n="136"/>decimoquarto ait: Non omne quod procedit nascitur, quamvis omne 
+      <lb ed="#H" n="137"/>procedat quod nascitur: sicut non omne quod bipes est, homo est, 
+      qua<lb ed="#H" n="138" break="no"/>vis bipes sit omnis qui homo est. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1645">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Processio spiritualis; est spirituum seu formarum intelligentium 
+      <lb ed="#H" n="140"/>propria: 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1654">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Eaque sit intus in agente &amp; processionis effectore. 
+      <lb ed="#H" n="142"/>Et quicquid a spiritu procedit, intelligibili emanatione procedit. 
+      <lb ed="#H" n="143"/>Non autem procedit foras: Nec ab eo a quo procedit, diversum 
+      <lb ed="#H" n="144"/>est: sed contra quanto perfectius procedit, tanto magis cum eo a quoe 
+      <lb ed="#H" n="145"/>procedit, unum est, 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1670">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>Processio spiritualis vel metaphysica est, vel hyperphysica. 
+      <lb ed="#H" n="147"/>Processio metaphysica; est in spiritibus creatis in quibus ea 
+      quae<lb ed="#H" n="148" break="no"/>procedunt non subsistunt per se; quia neque intelligere, neque velle 
+      <lb ed="#H" n="149"/>spirituum creatorum est substantia ipsorum, sed manet in ea, tanqua 
+      <lb ed="#H" n="150"/>in principio suo. Simplices quidem sunt intelligentiae seu spiritales 
+      <lb ed="#H" n="151"/>formae, processibus tamen essentialibus distinguuntur, quos 
+      pro<lb ed="#H" n="152" break="no"/>cessus, quia essentiales sunt, ipsi etiam philosophi per abusionem 
+      par<lb ed="#H" n="153" break="no"/>tes ipsarum vocant. Sic de esse illarum procedit intellectus agens &amp; 
+      <lb ed="#H" n="154"/>ab eo gignitur actione (ut vocant) immanente, nec ad res exteras 
+      <lb ed="#H" n="155"/>transeunte: de utroque vero, id est, de esse &amp; intelligere, procedit velle 
+      <lb ed="#H" n="156"/>secundum processus spiritualis modum: 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1699">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>Processio hyperphysica, est in divinis, in quibus procedens subsistit,  
+      <lb ed="#H" n="158"/>per se. Ita subsistit intelligere, subsistit velle: quia intelligere &amp; velle 
+      <lb ed="#H" n="159"/>divinum est ipsa substantia intelligentis &amp; volentis Patris. Alioquit 
+      <lb ed="#H" n="160"/>si Dei intelligere &amp; velle, aliud esset, quam substantia ejus, oportere 
+      <lb ed="#H" n="161"/>aliquid aliud esse actum &amp; perfectionem substantiae divinae, ad quod 
+      <lb ed="#H" n="162"/>se ita haberet divina substantia, ut potentia ad actum: quod impium 
+      <lb ed="#H" n="163"/>est &amp; blasphemum dicere. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1719">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Processio hyperphysica vel generatio est, vel spiratio: 
+      <lb ed="#H" n="165"/>Generatione procedit a Patre Filius: de qua jam dictum 
+      <lb ed="#H" n="166"/>Spiratione procedit Spiritus Sanctus 
+      <lb ed="#H" n="167"/>Damascenus quidem lib. 1: de Orthodoxa fide cap. 9. haec verbo 
+      <lb ed="#H" n="168"/>ρθθκτος &amp; εκπορουιώς, γινθεσιν &amp; εκπερδυσεν, ονώμδρον &amp; εκπορεσεε¬ 
+      <lb ed="#H" n="169"/>εθνον praecise urget: sic ut priora de Filio tantum, posteriora de 
+      Spi<lb ed="#H" n="170" break="no"/>ritu Sancto semper intelligi velit: sed res ipsa &amp; usus linguarum 
+      pro<lb ed="#H" n="171" break="no"/>bat eκωορευεοςιd est, procedere communiter de Filio &amp; Spiritu 
+      San<lb ed="#H" n="172" break="no"/>cto dici: adeo ut Scholastici doctores communi &amp; recepta in ipsis 
+      <lb ed="#H" n="173"/>Scholis phrasi dicant; Filium quoque ex Patre procedere, uti apparet 
+      <lb ed="#H" n="174"/>ex Thoma 1. parte. Quaest. 27. Ergo &amp; Filius &amp; Spiritus Sanctus 
+      <lb ed="#H" n="175"/>procedit ac emanat. Differt tamen processio &amp; emanatio utriusque 
+      <lb ed="#H" n="176"/>principio, modo &amp; ordine 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1753">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Principio; quia Filius procedit &amp; emanat ex Patre tantum: 
+      Spiri<lb ed="#H" n="178" break="no"/>tus Sanctus vero ex Patre &amp; Filio simul 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1762">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>Modo; quia Filius procedit &amp; emanat ex Patre per generationem: 
+      <lb ed="#H" n="180"/>Spiritus Sanctus vero procedit &amp; emanat ex Patre per spiratio; 
+      <lb ed="#H" n="181"/>nem 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1773">
+               <lb ed="#H" n="182"/>
+               <pc type="indent"/>Ordine; quia Filius procedit &amp; emanat ex Patre sic ut ratione 
+      or<lb ed="#H" n="183" break="no"/>dinis sit secunda Deitatis persona: Spiritus Sanctus vero procedit: 
+      <lb ed="#H" n="184"/>Patre &amp; Filio sic ut ratione ordinis sit tertia Deitatis parsona 
+      <!--cod-MkL9py-0246.xml-->
+      <pb ed="#H" n="219"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Quoniam vero de Filii processione &amp; emanatione seu 
+      generatio<lb ed="#H" n="2" break="no"/>ne ex Patre supra abunde est dictum: jam de processione &amp; emana 
+      <lb ed="#H" n="3"/>tione Spiritus Sancti est agendum 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1797">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Processio seu emanatio Spiritus Sancti, est modus 
+      communicatio<lb ed="#H" n="5" break="no"/>nis essentiae divinae, quo tertia persona Deitatis a Patre &amp; Filio, 
+      tan<lb ed="#H" n="6" break="no"/>quam Spiritus ab eo, cujus est Spiritus, essentiam accipit eandem &amp; 
+      <lb ed="#H" n="7"/>integram, quam Pater &amp; Filius habent &amp; retinent. Essentia enim 
+      di<lb ed="#H" n="8" break="no"/>vina tota a Patre &amp; Filio datur Spiritui Sancto non alienando, nec 
+      <lb ed="#H" n="9"/>multiplicando essentiam, sed eandem numero, in qua ipsi quoque 
+      sub<lb ed="#H" n="10" break="no"/>sistunt, communicando; sic ut communis sit essentia Deitatis 
+      omni<lb ed="#H" n="11" break="no"/>bus tribus personis. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1819">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Non est idem communicari &amp; procedere. Non enim id quod 
+      com<lb ed="#H" n="13" break="no"/>municatur procedit, sed ipse procedit, cui substantia spirantis 
+      com<lb ed="#H" n="14" break="no"/>proceder 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1830">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Processio Spiritus Sancti fit ex Patre &amp; Filio: ab utroque enim, 
+      <lb ed="#H" n="16"/>id est, a Patre &amp; Filio Spiritus Sanctus emanat.  
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1840">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Sicut productio Filii a Patre sit per generationem: ita 
+      productio<lb ed="#H" n="18" break="no"/>seu processio Spiritus Sancti a Patre &amp; Filio sit per Spirationem 
+      ae<lb ed="#H" n="19" break="no"/>ternam &amp; internam, cujus modus est nobis ακαταληπιος &amp; ἀ
+      p<lb ed="#H" n="20" break="no"/>pnrο 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1853">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Quod a Patre procedat, nunquam dubitatum fuit. Etsi autem a 
+      <lb ed="#H" n="22"/>Patre procedat &amp; ex essentia Patris est, Patrem tamen non habet, ut  
+      <lb ed="#H" n="23"/>Patrem sui, sed ut τον, causam &amp; fontem 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1864">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Quod a Filio procedat, a quibusdam solum Graecis, non ab 
+      omni<lb ed="#H" n="25" break="no"/>bus dubitatum fuit.  
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1873">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>2. Quia Filius eum mittit &amp; dat, Johan. 15. vers. 16. Ego mittam? 
+      <lb ed="#H" n="27"/>Quod vero etiam a Filio procedat, his argumentis evincitur 
+      <lb ed="#H" n="28"/>I. Quia est Filii Spiritus, Roman. 8. 9. Si quis Spiritum Christi. 
+      <lb ed="#H" n="29"/>non habet, is non est ejus. Gal. 4. vers. 6. Emisit Deus Spiritum Filij. 
+      <lb ed="#H" n="30"/>sui in corda vestra clamantem Abba Pater.  
+      <lb ed="#H" n="31"/>eum vobis a Patre. Johan. 20. v. 22. Accipite Spiritum Sanctum. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1891">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>3. Quia Spiritus Sanctus accipit de eo quod est Filii &amp; revela; 
+      <lb ed="#H" n="33"/>Johan. 16. 14. De meo accipiet &amp; annunciabit vobis. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1900">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>I. Quia omnia quae habet Deitatis ea habet per Filium, eaque 
+      <lb ed="#H" n="35"/>Filii sunt,  
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1910">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>5. Quia est flatus Filiis 
+      <lb ed="#H" n="37"/>6. Quia est in Filio &amp; Filius in 
+      ipso<lb ed="#H" n="38" break="no"/>Procedit autem Spiritus Sanctus a Patre &amp; Filio una &amp; eadem 
+      <lb ed="#H" n="39"/>spiratione, non autem duabus spirationibus: producitur enim &amp; 
+      e<lb ed="#H" n="40" break="no"/>manat hypostasis Spiritus Sancti de Patre &amp; Filio, ut de uno 
+      princi<lb ed="#H" n="41" break="no"/>pio, non tanquam e duobus principiis. Non enim ex eo 
+      procedi<lb ed="#H" n="42" break="no"/>Spiritus Sanctus, in quo plures personae sunt, Pater &amp; Filius: sed ex 
+      <lb ed="#H" n="43"/>eo in quo sunt unum, id est, ex essentia, quae Patri &amp; Filio una est &amp; oade 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1932">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Et quidem aequaliter ab utroque procedit: non autem principalis 
+      <lb ed="#H" n="45"/>ter a Patre &amp; minus princrpaliter a Filio, ut falso docuit P. 
+      Lombar<lb ed="#H" n="46" break="no"/>dus &amp; hujus seculi Scholastici: alioquin inaequalitas personarum in 
+      <lb ed="#H" n="47"/>troduceretur in Deitate 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1945">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Procedit non voluntate, ut Scholastici ambigue docuerunt &amp; 
+      pos<lb ed="#H" n="49" break="no"/>eos Catechismus Romanus, sed natura seu necessitate naturae: quen 
+      <lb ed="#H" n="50"/>admodum &amp; Filius natura est genitus ex Patre: Quia uterque &amp; 
+      Fi<lb ed="#H" n="51" break="no"/>lius &amp; Spiritus Sanctus, unus cum Patre sunt Deus. Alioquin 
+      Spiri<lb ed="#H" n="52" break="no"/>tus Sanctus voluntate tantum esset Deus, non autem natura: tum 
+      <lb ed="#H" n="53"/>non substantiae foret Spiritus, sed accidentis. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e1963">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Nec procedit per actionem aut actione voluntatis Patris &amp; 
+      Fili<lb ed="#H" n="55" break="no"/>(hoc enim periculose dicitur, ) sed secundum actionem voluntatis seu 
+      <lb ed="#H" n="56"/>per modum voluntatis: sicut Filius ex Patre est per modum 
+      intelle<lb ed="#H" n="57" break="no"/>stus. Ut igitur Filius ex Patre per modum naturalis ac essentialis ver 
+      <lb ed="#H" n="58"/>bi emanat: im Spiritus Sanctus ex Patre &amp; Filio per modum virtu 
+      <lb ed="#H" n="59"/>tis essentialis, &amp; aeternae ac in seipsos reflexae voluntatis seu 
+      dilectio<lb ed="#H" n="60" break="no"/>nis procedit. Alioquin cum Spiritus Sanctus dicatur voluntas 
+      Scho<lb ed="#H" n="61" break="no"/>lasticis, in Scripturis amor vel charitas, ut Augustinus docet, 
+      statue<lb ed="#H" n="62" break="no"/>retur voluntas agens voluntatem, voluntas, inquam, Patris &amp; Filii, 
+      <lb ed="#H" n="63"/>efficiens voluntatem, id est, Spiritum Sanctum: Atqui non voluntas, 
+      <lb ed="#H" n="64"/>sed natura est quae voluntatem efficit. Ergo procedit Spiritus 
+      San<lb ed="#H" n="65" break="no"/>ctus secundum actionem voluntatis, hoc est, secundum eum modu 
+      <lb ed="#H" n="66"/>quo naturaliter mens &amp; ratio producunt voluntatem; &amp; voluntas, 
+      <lb ed="#H" n="67"/>charitas, amor inde habet processionem: naturaliter, inquam, id est, 
+      <lb ed="#H" n="68"/>actione naturae, non autem voluntatis 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e2000">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Voluntas essentiae divinae est una numero: quia una numero est 
+      <lb ed="#H" n="70"/>essentia. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e2009">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Voluntas autem personae, quae numero una est in essentia, 
+      dut<lb ed="#H" n="72" break="no"/>bus modis consideratur in persona, communiter secundum essentia. 
+      <lb ed="#H" n="73"/>singulariter secundum personam &amp; relationem ad intra. Volunt 
+      qui<lb ed="#H" n="74" break="no"/>dem Pater &amp; Filius voluntate communi hanc processionem 
+      Spiri<lb ed="#H" n="75" break="no"/>tus Sancti, sed ipse procedit natura, 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e2026">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Ergo processio Spiritus Sancti ex Patre &amp; Filio non est actio 
+      vo<lb ed="#H" n="77" break="no"/>luntatis, sed naturae; etsi secundum voluntatis modum 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e2035">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Procedit autem non ex essentia tanquam ex materia, sed a 
+      perso<lb ed="#H" n="79" break="no"/>na Patris &amp; Filii in unitate essentiae. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e2044">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Procedit substantialiter, non accidentaliter  
+      <lb ed="#H" n="81"/>Processio haec est tantummodo interna, hoc est, quae fit in essentia. 
+      <lb ed="#H" n="82"/>divina, non extra essentiam 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e2055">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Estque aterna, hoc est, quae non coepit in tempore, sed semper est 
+      <lb ed="#H" n="84"/>ab aeterno in aeternum. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e2064">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>Nec est duplex processio Spiritus Sancti; altera aeterna, altera 
+      te<lb ed="#H" n="86" break="no"/>poralis, ut falso docuit P. Lombardus, &amp; a suis quoque discipulis est 
+      <lb ed="#H" n="87"/>refutatus. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e2075">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Nec confundenda est cum missione Spiritus Sancti, sed ab ea 
+      di<lb ed="#H" n="89" break="no"/>stinguenda. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e2085">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Missio enim Spiritus S. quae non intelligitur de motu locali 
+      per<lb ed="#H" n="91" break="no"/>sonae Spiritus S. (persona enim non mittitur, non descendit de coelo 
+      <lb ed="#H" n="92"/>non est proprie processio, sed declaratio τον ενιργημγτον Spiritus S. 
+      <!--cod-MkL9py-0246.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>seu φανιρωσις το ποευμαιος, quae fit; cum sua ille in nos dona confert,i 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e2103">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>Cor. 2. v. 7. Itaque Paulus versu 4. ejusdem capitis, distinguit 
+      Spiri<lb ed="#H" n="95" break="no"/>tum Sanctum ab ipsius donis 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e2112">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Si autum persona Spiritus Sancti diceretur de coelo in nos illab 
+      <lb ed="#H" n="97"/>&amp; immitti, tum illa vel hypostatica unione nobiscum coalesceret, 
+      ve<lb ed="#H" n="98" break="no"/>continetur a nobis ut a vase contineretur infusus liquor, quod utrum 
+      <lb ed="#H" n="99"/>que est absurdum 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e2125">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Procedit Spiritus Sanctus a Patre &amp; Filio, non ut accidens sed ut 
+      <lb ed="#H" n="101"/>nypostasis ex Patre &amp; Filio producta. Ideo etiam Spiritus Sanctus 
+      <lb ed="#H" n="102"/>est vera &amp; naturalis imago Patris &amp; Filii. Non est autem vera &amp; 
+      na<lb ed="#H" n="103" break="no"/>turalis imago, quae non producitur ab ipso exemplari 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e2138">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>IInde Spiritus Sanctus est personaliter αμοσσιος &amp; ενυποςαιος 
+      <lb ed="#H" n="105"/>Patri &amp; Filio, hoc est, consubstantialis seu coessentialis utrique, &amp; in 
+      <lb ed="#H" n="106"/>utroque, quemadmodum &amp; coaeternus &amp; coaequalis, eodem gradu&amp; 
+      <lb ed="#H" n="107"/>honore &amp; cultu; essentialiter vero est αυτοθεος 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e2151">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>Detestamur igitur Arianos &amp; Macedonianos, qui Spiritum 
+      San<lb ed="#H" n="109" break="no"/>ctum Patri &amp; Filio coessentialem esse negant: tum etiam eos qui una 
+      <lb ed="#H" n="110"/>&amp; eadem cum Patre &amp; Filio fide &amp; invocatione adorandum 
+      infi<lb ed="#H" n="111" break="no"/>ciantur. 
+      </p>
+            <p xml:id="yyy8Uu-e02893-d1e2165">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Hactenus de singulis personis Deitatis, 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

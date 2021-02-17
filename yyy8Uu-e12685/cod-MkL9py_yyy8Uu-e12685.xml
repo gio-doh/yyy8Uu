@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="NaN"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e12685"> <!-- l4-c1 -->
+            <head xml:id="yyy8Uu-e12685-Hd1e109">Caput 1</head>
+            <p xml:id="yyy8Uu-e12685-d1e112">
+               <lb ed="#H" n="6"/>CAPUT PRIMUM 
+      <lb ed="#H" n="7"/>In quo de operibus Dei in genere: 
+      </p>
+            <p xml:id="yyy8Uu-e12685-d1e119">
+               <lb ed="#H" n="8"/>Hactenus fuit de essentia Dei: sequitur de operibus ipsius. 
+      <!--cod-MkL9py-0263.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="9"/>PUS DEI, est quicquid Deus operatur: 
+      <lb ed="#H" n="10"/>propter suam gloriam 
+      </p>
+            <p xml:id="yyy8Uu-e12685-d1e132">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Definitum Opus Dei, est ambiguum. 
+      <lb ed="#H" n="12"/>Nam interdum dicitur opus Dei, id quod 
+      <lb ed="#H" n="13"/>Deus exigit a nobis eo quod ipsi gratum 
+      <lb ed="#H" n="14"/>sit: velut Johan. 6. 28. Dixerunt Iudaei ad 
+      <lb ed="#H" n="15"/>Christum: quid faciemus ut operemur 
+      o<lb ed="#H" n="16" break="no"/>pera Dei? Respondit Iesus &amp; dixit eis: Hoc 
+      <lb ed="#H" n="17"/>illud est opus Dei, ut credatis in eum quem 
+      <lb ed="#H" n="18"/>ille misit. Hoc enim loco opus Dei a 
+      <lb ed="#H" n="19"/>Christo vocatur quod Deus a nobis flagitat. Sic Joh. 4. 30. JESUS: 
+      <lb ed="#H" n="20"/>Esca mea est exsequi voluntatem ejus qui misit me, &amp; perficere ipsius 
+      <lb ed="#H" n="21"/>opus, hoc est, ab ipso mihi mandatum; quod opus erat promovere 
+      re<lb ed="#H" n="22" break="no"/>gnum Dei, animas perditas in vitam restituere, spargere lucem 
+      Ev<lb ed="#H" n="23" break="no"/>angelii, salutem afferre mundo. Sic opus Domini appellatur, 
+      ministe<lb ed="#H" n="24" break="no"/>rium quod a Domino est servis ipsius injunctum. 1. Corinth. 15. vers.  
+      <lb ed="#H" n="25"/>58. Fratres mei dilecti stabiles estote, immoti, eminentes in opere 
+      Do<lb ed="#H" n="26" break="no"/>mini semper, quum sciatis laborem vestrum non esse inanem in 
+      Do<lb ed="#H" n="27" break="no"/>mino. Et cap. 16. 10. Quod si venerit Timotheus, videte ut sine metis 
+      <lb ed="#H" n="28"/>sit apud vos, opus enim Domini operatur ut &amp; ego. Interdum vero &amp; 
+      <lb ed="#H" n="29"/>quidem frequentissime opus Dei dicitur, quod Deus ipse operatur.  
+      <lb ed="#H" n="30"/>Ac de hoc jam, Deo benedicente, est agendum. 
+      </p>
+            <p xml:id="yyy8Uu-e12685-d1e181">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Caeterum in definitione operis Dei, primo genus non est positum: 
+      <lb ed="#H" n="32"/>quia nullum est. Ut enim Dei genus dari nullum potest; ita nec operis 
+      <lb ed="#H" n="33"/>ejus: sed loco generis posita est vox quicquid: quam intelligitur tum 
+      <lb ed="#H" n="34"/>omnis actio seum operatio interna vel externa; tum omnis res actione 
+      <lb ed="#H" n="35"/>&amp; operatione producta. Deinde definitio ostedit operis Dei causam 
+      <lb ed="#H" n="36"/>efficientem &amp; finem. 
+      </p>
+            <p xml:id="yyy8Uu-e12685-d1e199">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Causa efficiens operis Dei, est Deus, qui id operatus est aut opera 
+      <lb ed="#H" n="38"/>tur. Finis autem summus &amp; αρχιιικτονικoς est gloria Dei, ad quam 
+      <lb ed="#H" n="39"/>omnia pertinent &amp; diriguntur, ut subjecta testimonia docent. Psal. 8. 
+      <lb ed="#H" n="40"/>2,3. Iehova Domine noster, quam magnificum est nomen tuum in 
+      u<lb ed="#H" n="41" break="no"/>niversa terra, cui exponis supercoelestem decorem tuum. Abore 
+      in<lb ed="#H" n="42" break="no"/>fantium &amp; lactentium fundatam disposuisti laudem; propter hostes. 
+      <lb ed="#H" n="43"/>tuos, ad compescendum inimicum &amp; ultorem sui, hoc est, inde a 
+      tenuis<lb ed="#H" n="44" break="no"/>simo illo exordio humanae vitae, etiam in perpusillis &amp; recens natis 
+      <lb ed="#H" n="45"/>infantibus usque ad exitum hujus vitae gloria Dei semper illustratur,  
+      <lb ed="#H" n="46"/>idque ad confundendos pudore hostes Dei &amp; inimicos, qui suae gloriae 
+      <lb ed="#H" n="47"/>studiosi, gloriam Dei impedire, quantum in ipsis est, conantur; quem 
+      <lb ed="#H" n="48"/>admodum Pharisaei conabantur, aegre ferentes, quod discipuli &amp; 
+      in<lb ed="#H" n="49" break="no"/>fantes Christo acclamarent, Hosanna filio David, Benedictus qui 
+      ve<lb ed="#H" n="50" break="no"/>nit in nomine Domini, ut legitur Matt. 21. 15, 16. Ps. 19. 2. Coeli 
+      enar<lb ed="#H" n="51" break="no"/>rant gloriam Dei &amp; opus manuum ejus indicat expansum eorum. Psa. 
+      <lb ed="#H" n="52"/>104. Benedic anima mea Iehovae, Iehova Deus mi, magnus es valde; 
+      <lb ed="#H" n="53"/>decorum &amp; majestatem induisti. Prov. 14. 4. Omnes (uel omnia) 
+      ope<lb ed="#H" n="54" break="no"/>ratus est Iehova propter se, etiamque improbum ad diem mali. Propter 
+      <lb ed="#H" n="55"/>se, hoc est, propter suam gloriam, Jesa. 48. 9. Propter nomen meum 
+      <lb ed="#H" n="56"/>longanimis ero, &amp; laudem meam obsignatam asservabo tibi, ut non 
+      <lb ed="#H" n="57"/>exscindam te. Et v. 11. Propter me, propter me faciam. Ro. 1. v. 20, 21. 
+      <lb ed="#H" n="58"/>Ipsius enim invisibilia jam inde a condito mundo ex rebus factis 
+      in<lb ed="#H" n="59" break="no"/>tellecta pervidentur, aterna videlicet ejus, tum potentia, tum 
+      divi<lb ed="#H" n="60" break="no"/>nitas: ad hoc ut sint inexcusabiles. Propterea quod quum Deum 
+      co<lb ed="#H" n="61" break="no"/>gnoverint, tamen ut Deum non glorificaverunt, neque gratias ei 
+      ege<lb ed="#H" n="62" break="no"/>runt. Ex quibus Pauli verbis promtum est colligere, Deum ex 
+      ope<lb ed="#H" n="63" break="no"/>ribus suis cognosci, ut glorificetur: Proinde operum Dei finis 
+      supre<lb ed="#H" n="64" break="no"/>mus, est gloria Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e12685-d1e264">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Quod vero dicitur, Deum esse finem operum suorum omnium. 
+      <lb ed="#H" n="66"/>eodem redit. Nam non debemus animo fingere, Deum esse talem 
+      <lb ed="#H" n="67"/>finem, qui ex iis rebus, quae ad finem spectant, perficiatur, sicut 
+      beati<lb ed="#H" n="68" break="no"/>tas, dum in nobis acquititur, quodammodo perficitur, hoc est, consit. 
+      <lb ed="#H" n="69"/>in nobis, per debita illa media, quae ad illam habendam necessaria. 
+      <lb ed="#H" n="70"/>sunt. Alimentum, somnus, &amp; alia multa, quia sunt media ad vita 
+      prae<lb ed="#H" n="71" break="no"/>sentem conservandam: ideo haec perficitur in nobis per illa. Non 
+      ita<lb ed="#H" n="72" break="no"/>se habet res in Deo, sed contra; nam omnia media ordinantur ad hunc 
+      <lb ed="#H" n="73"/>finem, ut ipsa a fine, hoc est, a Deo perficiantur. Quare Deus non vult.  
+      <lb ed="#H" n="74"/>nec facit quicquam propter se, nempe perficiendum (sic enim haec- 
+      <lb ed="#H" n="75"/>vellet &amp; faceret egens &amp; necessario,) sed iis omnibus, quae vult &amp; 
+      fa<lb ed="#H" n="76" break="no"/>cit, communicandum &amp; gloriam suae sapientiae &amp; bonitatis in illis 
+      re<lb ed="#H" n="77" break="no"/>ipsa declarandam. Ideo quum Deus aliquid facit, nihil sibi acquirit,  
+      <lb ed="#H" n="78"/>sed se &amp; sua nobis donat: unde &amp; solus vere liberalis est 
+      </p>
+            <p xml:id="yyy8Uu-e12685-d1e299">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Operatio Dei non est motus: quia si esset motus, Deus non esset 
+      <lb ed="#H" n="80"/>immutabilis. Nam quod movetur, non est immutabile. Unde 
+      Chry<lb ed="#H" n="81" break="no"/>sostomus ait, Deum ne moveri quide eo motu quo omnes moventur 
+      <lb ed="#H" n="82"/>homilia quinta in caput secundum epistolae Pauli ad Colossenses. 
+      </p>
+            <p xml:id="yyy8Uu-e12685-d1e312">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Opera Dei afficiunt pios laetitia, Psalm. 92. 5. Quid laetitia afficis 
+      <!--cod-MkL9py-0263.xml-->
+         <cb ed="#H" n="c"/>
+               <lb ed="#H" n="84"/>me, Iehova, opere tuo, de factis manuum tuarum cantabo. Psal. 111. 2. 
+      <lb ed="#H" n="85"/>Opera Dei quaesita, id est, exposita sunt omnibus, qui delectantur illis, 
+      <lb ed="#H" n="86"/>id est, piis. Excitant afflictos ad invocandum Deum. Psa. 143. v. 5, 6. 
+      <lb ed="#H" n="87"/>Recordans dierum priscorum, meditans totum opus tuum, factum 
+      ma<lb ed="#H" n="88" break="no"/>nuum tuarum recolens, Pando manus meas ad te, anima mea, ut ter¬ 
+      </p>
+            <p xml:id="yyy8Uu-e12685-d1e334">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>fessa, sitiente tui maxime 
+      <lb ed="#H" n="90"/>Sunt Magna, Ps. 92. 6 Quam magna sunt facta tua, 
+      Iehovasval<lb ed="#H" n="91" break="no"/>de profundae sunt cogitationes tuae. Et Ps. 111. 2. Magna opera Iehovae. 
+      </p>
+            <p xml:id="yyy8Uu-e12685-d1e346">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>Sunt constantia seu firma, Psal. 33. 4. Quia rectum est verbum 
+      Ie<lb ed="#H" n="93" break="no"/>hovae, &amp; omne opus ejus constans. Fiunt suine labore, sine 
+      defatigatio<lb ed="#H" n="94" break="no"/>ne Dei, Jes. 40. 28. Annon novisti? nonne audivisti? Deum aeternum. 
+      <lb ed="#H" n="95"/>Iehovam, creatorem extremitatum terrae non defetisci, neque 
+      defati<lb ed="#H" n="96" break="no"/>gari? nulla est pervestigatio prudentiae ejus. 
+      </p>
+            <p xml:id="yyy8Uu-e12685-d1e362">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>Non agnoscuntur &amp; animadvertuntur ab homine animali &amp; non 
+      <lb ed="#H" n="98"/>regenito, Psal. 92. 6, 7. Quam magna sunt facta tua, Iehovas valde 
+      <lb ed="#H" n="99"/>profundae sunt cogitationes tuae. Vir brutus non agnoscit, &amp; stultus 
+      <lb ed="#H" n="100"/>non animadvertit istud 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

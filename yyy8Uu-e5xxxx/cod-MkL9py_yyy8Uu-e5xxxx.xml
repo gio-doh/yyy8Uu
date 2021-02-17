@@ -1,0 +1,1690 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 5</title>
+        <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 5</title>
+          <date when="2021-02-17">February 17, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-17" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#H" n="3"/>
+        <cb ed="#H" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yyy8Uu-e5xxxx"> <!-- l1-c5 -->
+        <head xml:id="yyy8Uu-e5xxxx-Hd1e109">Caput 5</head>
+        <p xml:id="yyy8Uu-e5xxxx-d1e112">
+          <lb ed="#H" n="74"/>CAPUT V. 
+          <lb ed="#H" n="75"/>In quo de Summo Bono. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e119">
+          <lb ed="#H" n="76"/>HILOSOPHIS Summum bonum &amp; Beatitudo sunt unum &amp; 
+          <lb ed="#H" n="77"/>idem: sed Theologia haec duo distinguit. Nam secundum eam 
+          <lb ed="#H" n="78"/>SUMMUM BONUM creaturarum rationalium ac proinde &amp; 
+          ho<lb ed="#H" n="79" break="no"/>minis, est Deus ipse solus, tanquam primum principium &amp; finis 
+          ulti<lb ed="#H" n="80" break="no"/>mus omnis boni. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e132">
+          <lb ed="#H" n="81"/>
+          <pc type="indent"/>Summum Bonum comparate dicitur ad ea quae bona dicuntur 
+          <lb ed="#H" n="82"/>aequivoce. Summum Bonum autem idem est unicum bonum, quod 
+          <lb ed="#H" n="83"/>univoce est bonum: illud solus Deus est. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e144">
+          <lb ed="#H" n="84"/>
+          <pc type="indent"/>Idque confirmant tum testimonia Scripturae Sacrae, tum 
+          argu<lb ed="#H" n="85" break="no"/>menta alia ex Scriptura Sacra petita. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e153">
+          <lb ed="#H" n="86"/>
+          <pc type="indent"/>Testimonia haec sunt: Genes. 15. 1, ait Deus ipse de se ad 
+          Abra<lb ed="#H" n="87" break="no"/>hamum: Ne timeas Abram, ego clypeus sum tibi, merces tua ampla 
+          <lb ed="#H" n="88"/>valde. Psal. 16. 5. Iehova portio praedii mei &amp; poculi mei. Et Psal. 33. 
+          <lb ed="#H" n="89"/>v. 12 Beata gens illa, cujus Jehova Deus est. Et Psal. 40. 5. Leatus est 
+          <!--cod-MkL9py-0028.xml-->
+          <cb ed="#H" n="b"/>
+          <lb ed="#H" n="90"/>vir ille, qui ponit Iehovam fiduriam suam. Psal. 73. v. 25  
+          Ale<lb ed="#H" n="91" break="no"/>phus Propheta ad Deum: Quis esset mihi in caelis praeter te 
+          mprae<lb ed="#H" n="92" break="no"/>ter te nullo delector in terra. Psal. 142. 6. Clamo ad te, Iehova, dicens, 
+          <lb ed="#H" n="93"/>tu es receptus meus, portio mea in terra viventium. &amp; Psal. 144. 
+          <lb ed="#H" n="94"/>versic. 15. dicitur: Beatus populus, cuus Iehova est Deus. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e181">
+          <lb ed="#H" n="95"/>
+          <pc type="indent"/>Argumenta alia ex Scripturis Sacris depromta sunt haec: 
+          <lb ed="#H" n="96"/>I. Qui nobis est salus, gloria, robur, clypeus, atque adeo omnia 
+          <lb ed="#H" n="97"/>quaecunque sunt necessaria ad beatitudinem nostram, is est summum 
+          <lb ed="#H" n="98"/>nostrum bonum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e194">
+          <lb ed="#H" n="99"/>
+          <pc type="indent"/>Solus Deus est nobis salus, gloria, robur, clypeus, atque adeo 
+          o<lb ed="#H" n="100" break="no"/>mnia quaecunque sunt necessaria ad beatitudinem nostram: 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e203">
+          <lb ed="#H" n="101"/>
+          <pc type="indent"/>Ergo solus Deus est summum nostrum bonum. 
+          <lb ed="#H" n="102"/>Assumptionem probant plurima Scripturatum loca, e quibus 
+          <lb ed="#H" n="103"/>haec sunt, Psal. 27. v. 1. Iehova lux mea &amp; salus mea est, a quo 
+          time<lb ed="#H" n="104" break="no"/>rem? Iehova robur vitae mea est, a quo expavescerem? Psal. 28. 7. 
+          Ie<lb ed="#H" n="105" break="no"/>hova robur meum &amp; scutum meum. Psal. 62. 3. &amp; 7. Tantummodo 
+          <lb ed="#H" n="106"/>ipse rupes mea est &amp; salus mea. Psal. 3. v. 4. Tu Iehova clypeus meus 
+          <lb ed="#H" n="107"/>es circa me, gloria mea, &amp; extollens caput meum. Psal. 18. 2, 3. Ex 
+          in<lb ed="#H" n="108" break="no"/>mis visceribus diligam te, Iehova firmitas mea &amp; propugnaculum 
+          <lb ed="#H" n="109"/>meum, Deus fortis meus, rupes mea, ad quam me recipiam; clypeus 
+          <lb ed="#H" n="110"/>meus &amp; cornis salutis meae, editus locus meus. Coloss. 3. 11. Omnia &amp; 
+          <lb ed="#H" n="111"/>in omnibus Christus. 1. Cor. 15. vers. 28. Deus erit omnia in omnibus, 
+          <lb ed="#H" n="112"/>id est, ipse solus sine ullo mediatore aut medio erit in sempiternum 
+          im<lb ed="#H" n="113" break="no"/>mediata causa &amp; autor omnis nostri boni, omnisque felicitatis: &amp; 
+          <lb ed="#H" n="114"/>immediatum objectum, in quo nostra versabitur felicitas. 
+          <lb ed="#H" n="115"/>II. Quicquid nos vere beatos reddit, id est summum nostrum 
+          bo<lb ed="#H" n="116" break="no"/>num. Summum enim bonum est causa verae beatitudinis nostrae, &amp; 
+          <lb ed="#H" n="117"/>nos ab omni malo, &amp; ab omni miseria liberos facit 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e245">
+          <lb ed="#H" n="118"/>
+          <pc type="indent"/>At solus Deus nos vere beatos reddit. Neque enim facit beatum  
+          <lb ed="#H" n="119"/>hominem, nisi qui fecit hominem, Nam qui tot &amp; tanta creaturae suae 
+          <lb ed="#H" n="120"/>bona, bonis malisque largitur, ut sint, ut homines sint, ut vigentes 
+          <lb ed="#H" n="121"/>sensibus, valentes viribus, affluentes opibus sint seipsum bonis dat, 
+          <lb ed="#H" n="122"/>ut beati sint, quia ejus etiam hoc munus est ut boni sint. Ille in 
+          no<lb ed="#H" n="123" break="no"/>bis qui per peccatum mali evaseramus, bonitatem in nobis ex 
+          boni<lb ed="#H" n="124" break="no"/>tate sua instaurat, &amp; peccatum, quo premebamur, a nobis aufert. 
+          Un<lb ed="#H" n="125" break="no"/>de dicitur Psal. 32. 1, 2. Beatus levatus defectione, cujus tectum est. 
+          <lb ed="#H" n="126"/>peccatum, Beatus homo, cui non imputat Iehova iniquitatem, &amp; 
+          cu<lb ed="#H" n="127" break="no"/>jus spiritui non inest dolus. Psal. 36. v. 10. Penes te est fons vitae &amp; in 
+          <lb ed="#H" n="128"/>lumine tuo videbimus lumen. Psal. 94. 12. 13. 14. 1. Corinth. 11. 32. 
+          <lb ed="#H" n="129"/>Dum judicamur, a Domino erudimur, ne cum mundo condemnemur. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e277">
+          <lb ed="#H" n="130"/>
+          <pc type="indent"/>III. Quicquid animum tranquillum, pacatumque &amp; ab 
+          omni<lb ed="#H" n="131" break="no"/>bus affectibus vitiosis liberum facit, id est summum nostrum bonum. 
+          <lb ed="#H" n="132"/>Ille enim felix est, cujus animus tranquillus pacatusque non dolet,  
+          <lb ed="#H" n="133"/>nec metuit, nec solicite cupit, nec incerta sperat, sed in sancto pioque 
+          <lb ed="#H" n="134"/>gaudio ac spe, quam velut animae anchoram habet tutam ac firmam, 
+          <lb ed="#H" n="135"/>conquiescit 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e295">
+          <lb ed="#H" n="136"/>
+          <pc type="indent"/>At solus Deus id facit, ut David profitetur Psal. 23. 3. 4. 
+          Ani<lb ed="#H" n="137" break="no"/>mam meam quietam efficit, ducit me per orbitas justitiae propter 
+          no<lb ed="#H" n="138" break="no"/>men suum. Etiam quum ambularem per vallem lethalis umbrae, non 
+          <lb ed="#H" n="139"/>timerem malum, quia tu mecum es. Psal. 27. v. 1. 2. 3. Solus profecto 
+          <lb ed="#H" n="140"/>Deus hominis animum tranquillum pacatumque reddere potest 
+          <lb ed="#H" n="141"/>tum in vita tum in morte. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e313">
+          <lb ed="#H" n="142"/>
+          <pc type="indent"/>IV. In quo solo est perfecta atque solida consolatio nostra 
+          ad<lb ed="#H" n="143" break="no"/>versus omne malum, id est summum nostrum bonum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e322">
+          <lb ed="#H" n="144"/>
+          <pc type="indent"/>At in solo Deo est perfecta atque solida consolatio nostra 
+          ad<lb ed="#H" n="145" break="no"/>versus omne malum, Jacob. 5. 11. Malum autem est privatio boni 
+          re<lb ed="#H" n="146" break="no"/>quisiti ad creaturae cujuslibet perfectionem. Ergo, &amp;c. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e333">
+          <lb ed="#H" n="147"/>
+          <pc type="indent"/>V. Cujus cognitio &amp; fiducia vere beatos &amp; bonos efficit, id 
+          pro<lb ed="#H" n="148" break="no"/>fecto est summum nostrum bonum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e342">
+          <lb ed="#H" n="149"/>
+          <pc type="indent"/>At solius Dei cognitio &amp; fiducia vere beatos &amp; bonos efficit: ut  
+          <lb ed="#H" n="150"/>haec testimonia Scripturae Sacrae planum faciunt. Prov. 3. v. 13. 
+          Bea<lb ed="#H" n="151" break="no"/>tus homo qui consequitur sapientiam, &amp; homo qui provehit 
+          intelli<lb ed="#H" n="152" break="no"/>gentiam. Loquitur Salomon de sapientia &amp; intelligentia salvifica, de 
+          <lb ed="#H" n="153"/>qua 2. Tim. 3. 14. Sacras literas a puero nosti, quae te possunt 
+          sapien<lb ed="#H" n="154" break="no"/>tem reddere ad salutem. Joh. 17. 3. Hec est autem vita aterna, ut 
+          te<lb ed="#H" n="155" break="no"/>cognoscant illum solum verum Deum, &amp; quem misisti Iesum 
+          Chri<lb ed="#H" n="156" break="no"/>tum. Jesa. 53. 11. Cognitione suijustificabit justus servus meus 
+          mul<lb ed="#H" n="157" break="no"/>tos, quorum iniquitates ipse bajulaverit, 2. Pet. 1. 2. 3. 4. Gratia 
+          vo<lb ed="#H" n="158" break="no"/>bis &amp; pax multiplicetur in agnitione Dei &amp; Iesu Domini nostri: 
+          pro<lb ed="#H" n="159" break="no"/>ut divina vis ipsius omnia nobis donavit, quae ad vitam &amp; pietatem 
+          <lb ed="#H" n="160"/>pertinent, per agnitionem illius, qui vocavit nos ad gloriam ac 
+          vir<lb ed="#H" n="161" break="no"/>tutem. Ex eo quod maxima illa nobis ac pretiosa promissa donavit, ut  
+          <lb ed="#H" n="162"/>per haec efficeremini divina consortes naturae, elapsi ex corruptione 
+          <lb ed="#H" n="163"/>quae est in mundo per cupiditatem, &amp; v. 8. Haec enim si vobis adsint &amp; 
+          <lb ed="#H" n="164"/>abundent, no inertes vos nec infructuosos efficiet, in Domini nostri Iesus. 
+          <lb ed="#H" n="165"/>Christi agnitione. Psal. 2. v. 12. Beati omnes qui considunt in eo. Jer. 
+          <lb ed="#H" n="166"/>17. 7. Benedictus vir ille, qui fiduciam habet in Iehova, &amp; cuius 
+          con<lb ed="#H" n="167" break="no"/>fidentia est Iehova Psal. 146. 5. Beatus cui auxilio est Deus fortis 
+          Ia<lb ed="#H" n="168" break="no"/>cobi, cujus exspectatio est in Iehova Deo suo. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e391">
+          <lb ed="#H" n="169"/>
+          <pc type="indent"/>VI. Cujus timor &amp; amor vere beatos nos esse probat, is 
+          profe<lb ed="#H" n="170" break="no"/>cto est summum nostrum bonum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e400">
+          <lb ed="#H" n="171"/>
+          <pc type="indent"/>At solius Dei timor &amp; amor vere beatos nos esse probat. Psal. 
+          <lb ed="#H" n="172"/>112. 1. Beatus quisquis reveretur Iehovam, in mandatis ejus 
+          dele<lb ed="#H" n="173" break="no"/>ctatur valde. Psal. 1. v. 1. &amp; 2. Beatus est vir ille, qui non ambulat in 
+          <lb ed="#H" n="174"/>consilio improborum &amp; viae peccatorum non insistit, ac in consessu 
+          de<lb ed="#H" n="175" break="no"/>risorum non desidet: sed cujus oblectatio est in lege Iehova, &amp; qui de 
+          <lb ed="#H" n="176"/>lege illius meditatur interdiu &amp; noctu. Psal. 119. v. 1, 2. 3. Beati 
+          inte<lb ed="#H" n="177" break="no"/>gri via, qui ambulant in lege Iehovae. Beati custodientes testimonia 
+          <lb ed="#H" n="178"/>ejus, qui ex toto corde quaerunt eum. Etiam non operantur 
+          iniquita<lb ed="#H" n="179" break="no"/>tem. Jes. 56. 2. Bteatus mortalis qui fecerit justitiam &amp; filius hominis 
+          <lb ed="#H" n="180"/>qui prehenderit illam; observans sabbathumas profanet illud, &amp; 
+          ob<lb ed="#H" n="181" break="no"/>servans mani juam nefaciat ullum malum, Math. 5. v. 3. &amp; aliquot 
+          <!--cod-MkL9py-0029.xml-->
+          <pb ed="#H" n="4"/>
+          <cb ed="#H" n="a"/>
+          <lb ed="#H" n="1"/>sequentibus Beati pauperes spiritu, lugentes, mites, qua esuriunt &amp; 
+          si<lb ed="#H" n="2" break="no"/>tiunt justitiam, misericordes, mundi corde, pacifici, persequutionem 
+          <lb ed="#H" n="3"/>patientes justitiae on Christi causa. Prov. 8. 34. Beatus homo qui 
+          au<lb ed="#H" n="4" break="no"/>scultat mihi, sedulo insistendo foribus meis quotidie. Et c. 28. 14. 
+          Bea<lb ed="#H" n="5" break="no"/>tus homo, qui ad modum pavet jugiter: qui autem obdurat cor suam, 
+          <lb ed="#H" n="6"/>ruet in maiam. Eccl. 12. 15. Deii ipsum reverere &amp; praecepta ejus 
+          ob<lb ed="#H" n="7" break="no"/>serva, quia hoc est totum hominis. Jac. 5. 11. Ecce beatos praedicamus 
+          <lb ed="#H" n="8"/>eos, qui adversa sustinent. Apoc. 16. v. 15. Ecce venio ut fur. Beatus 
+          <lb ed="#H" n="9"/>qui vigilat &amp; serunt vestimenta sua, ne nudus ambulet, &amp; 
+          cernan<lb ed="#H" n="10" break="no"/>tur pudenda ipsius. Et talia multa passim in Scriptura utriusque 
+          Testa<lb ed="#H" n="11" break="no"/>menti occurrunt. Qualia sunt &amp; haec: Prov. 8. v. 17. Ego amantes mei 
+          <lb ed="#H" n="12"/>amo. Joh. 13. v. 17. Si haec noveritis, beati eritis si ea feceritis. Joh. 14. 23. 
+          <lb ed="#H" n="13"/>Si quis diligit me, sermonem meum servabit: &amp; Pater meus diliget  
+          <lb ed="#H" n="14"/>eum, &amp; veniemus ad eum, &amp; mansione apud cum faciemus. Solius, 
+          <lb ed="#H" n="15"/>inquam, Dei timor &amp; amor nos beatos esse probat, h. e. ostendit &amp; 
+          <lb ed="#H" n="16"/>declarat, non tanquam causa, sed tanquam siguum certum &amp; 
+          infalli<lb ed="#H" n="17" break="no"/>bile. Pietas est via ad beatitudinem, non causa beatitudinis: sicut 
+          Bern<lb ed="#H" n="18" break="no"/>ardus ait, bona opera esse viam ad regnum, non causam regnandi. 
+          <lb ed="#H" n="19"/>Quia gratuita remissio peccatorum nos beatos efficit, ut Paulus Rom. 
+          <lb ed="#H" n="20"/>4. v. 7, 8. Ps. 32. docet. Benti quorum vemisse sunt iniquitates, &amp; quo- 
+          <lb ed="#H" n="21"/>vii obicctis sunt poccote. Beatus vir cui non impittarit Dominus pec- 
+          <lb ed="#H" n="22"/>cutum. Deus autem zemittit nobis peccata, no quia ipsum timuimu- 
+          <lb ed="#H" n="23"/>&amp; amavimus; Sed ut ipsum timeamus &amp; amemus, quemadmodum 
+          <lb ed="#H" n="24"/>legitur Psal. N3o. 3. 4. Si iniquitates obserunveris Tah; Domine qui-  
+          <lb ed="#H" n="25"/>possit consistere? Nam apud te est condonatio, ut timenris, hoc est, 
+          reve<lb ed="#H" n="26" break="no"/>renter colaris, Luc. 7. 47. Remissa sunt multa ipsius peccata. Nam 
+          di<lb ed="#H" n="27" break="no"/>lexit multum: cui autem palulum remittitur, paululum diligit. Ps. 
+          <lb ed="#H" n="28"/>18. 2, 3. Ex intimis visceribus diligante Iehova firmitas mea, Iehova, 
+          <lb ed="#H" n="29"/>petra mea, &amp; propugnaculum meum, &amp; liberator meus: Deus fortis  
+          <lb ed="#H" n="30"/>meus, rupes mea, ad quem me recipiam, clypeus meus, &amp; cornu salutis 
+          <lb ed="#H" n="31"/>mea, editus locus meus. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e502">
+          <lb ed="#H" n="32"/>
+          <pc type="indent"/>VII. Quod est simpliciter perfectum, plane sufficiens &amp; summe 
+          de<lb ed="#H" n="33" break="no"/>siderabile, id est summum bonum nostrum. Hae enim tres sunt sunmi 
+          <lb ed="#H" n="34"/>boni conditiones, quas ipsi etiam Gentiles Philosophi agnoscunt. 
+          O<lb ed="#H" n="35" break="no"/>portet ipsum esse simpliciter perfectum: quia si summo pono aliquid  
+          <lb ed="#H" n="36"/>deesset, summum sane non esset. Idem est prorsus sufficiens: quia nihil 
+          <lb ed="#H" n="37"/>deest ei, cujus est. Est summe desiderabile: quia in illo &amp; ex illo &amp; 
+          pro<lb ed="#H" n="38" break="no"/>ter illud est, quod appetendum est; ad illud reliqua bona omnia 
+          re<lb ed="#H" n="39" break="no"/>feruntur.  
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e524">
+          <lb ed="#H" n="40"/>
+          <pc type="indent"/>Atqui solus Deus est simpliciter perfectus, prorsus sufficiens &amp; 
+          <lb ed="#H" n="41"/>summe desiderabilis: Fatentur id etiam ipsi Gentiles. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e533">
+          <lb ed="#H" n="42"/>
+          <pc type="indent"/>VIII. Prima idea boni, est summum bonum. 
+          <lb ed="#H" n="43"/>Prima idea boni, dicitur rerum omnium principium unum in 
+          ef<lb ed="#H" n="44" break="no"/>fabile, a quo uno omnia &amp; ad quod unum omnia: ipsum bonum 
+          uni<lb ed="#H" n="45" break="no"/>versale, non in praedicando, sed in causando secundum efficientiam, id  
+          <lb ed="#H" n="46"/>est, exemplar &amp; causa omnium creatorum bonorum, a cujus 
+          bonita<lb ed="#H" n="47" break="no"/>te bona alia omnis derivantur: ipsum pulcrum: primium pulcrum: 
+          <lb ed="#H" n="48"/>pelagus pulcritudinis: ωργιτον φιλον, primum amicum: αυξφιλον,  
+          <lb ed="#H" n="49"/>ipsum amicum: sincerum &amp; purum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e555">
+          <lb ed="#H" n="50"/>
+          <pc type="indent"/>Atqui Deus solus est prima idea boni. Nam in mente divina rerum 
+          <lb ed="#H" n="51"/>omnium sunt ideae, i. e. formae exemplares &amp; aeterne, quemadmodum 
+          <lb ed="#H" n="52"/>etiam Plato statuit, sicut ejus sententiam interpretatus est 
+          Augusti<lb ed="#H" n="53" break="no"/>nus quarto tomo, libro 83. quaest. c. 46. Clemens Alexandrinus lib. 4. 
+          <lb ed="#H" n="54"/>Stromatum pag. 230 &amp; lib. 5. pag. 236. &amp; pag. 249. Theodoretus de 
+          <lb ed="#H" n="55"/>Curatione Graecarum affectione Sermone secundo, qui est de 
+          prin<lb ed="#H" n="56" break="no"/>cipio, pag. 36. &amp; Sermone quarto, qui est de Materia &amp; Mundo, pag. 
+          <lb ed="#H" n="57"/>64: editionis Commeliniae anni 1592. Tertullianus lib. de anima, 
+          <lb ed="#H" n="58"/>c. 18. Eusebius de praepatatione Evangelica 15. lib. cap. 44. L. Annaus 
+          <lb ed="#H" n="59"/>Seneca epist. 59. Quid sit idea, id est, quid Platoni esse videatur, audi. 
+          <lb ed="#H" n="60"/>Idea est eorum quae naturaliter fiunt exemplar aternum. Plato enim 
+          <lb ed="#H" n="61"/>per ideas non intellexit species nescio quas in aere volitantes, ut falso 
+          <lb ed="#H" n="62"/>ei afflictum, sed quemadmodum jam dictum, formas exemplares, 
+          in<lb ed="#H" n="63" break="no"/>corporeas, invisibiles, aeternas &amp; immutabiles, veritates rexum 
+          omni<lb ed="#H" n="64" break="no"/>um quae sunt, semper in mente divina exsistentes, semper eodom 
+          mo<lb ed="#H" n="65" break="no"/>do sese habentes, quae ipsae formatae non sunt, sed secundum quas 
+          o<lb ed="#H" n="66" break="no"/>mnia a Deo creata sunt, quarum participatione fit, ut fit, quicquid est, 
+          <lb ed="#H" n="67"/>quoquo modo est; non enim Deus extra se quicquam positum 
+          intue<lb ed="#H" n="68" break="no"/>batur, ut secundum id constitueret, quod constituebat; nam hoc 
+          opi<lb ed="#H" n="69" break="no"/>nari sacrilegum est. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e604">
+          <lb ed="#H" n="70"/>
+          <pc type="indent"/>Idea &amp; ειδος differunt. Quid intersit, quaeris? Alterum exemplar  
+          <lb ed="#H" n="71"/>est, alterum forma ab exemplari sumta &amp; operi imposita: Alteram 
+          <lb ed="#H" n="72"/>artifex imitatur, alteram facit. Habet aliquam faciem statua, haec est 
+          <lb ed="#H" n="73"/>ειδος: Habet aliquam faciem exemplar ipsum, quod intuens opifex,  
+          <lb ed="#H" n="74"/>statuam figuravit: haec idea est. Etiamnum aliam desideras 
+          distinctio<lb ed="#H" n="75" break="no"/>nem? ειδος in opere est: Idea extra opus, nec tantum extra opus est, 
+          <lb ed="#H" n="76"/>sed ante opus. L. Annaus Seneca epist. quinquagesimanona. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e624">
+          <lb ed="#H" n="77"/>
+          <pc type="indent"/>Subscribunt orthodoxi Patres &amp; testantur, Summum bonium nostrum 
+          <lb ed="#H" n="78"/>esse Deum. AUGUSTINUS primo tomo, Retract. lib. 1 cap. 1. ait: Sine 
+          <lb ed="#H" n="79"/>controversia quaedam originalis regio beatitudinis animi, Deus ipse est 
+          <lb ed="#H" n="80"/>Et paulo post: In libro tertio; Si quid mihi videatur quaeris, inquam, 
+          <lb ed="#H" n="81"/>in mente arbitror esse summum hominis bonum: Verius dixissem; In 
+          <lb ed="#H" n="82"/>Deo: Ipso enim mens fruitur ut beata sit, tanquam sunmmo bono suo. 
+          <lb ed="#H" n="83"/>Vide septimo tomo, libro secundo de peccatorum meritis &amp; 
+          remissio<lb ed="#H" n="84" break="no"/>ne, caput decimumseptimum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e646">
+          <lb ed="#H" n="85"/>
+          <pc type="indent"/>FULGENTIUS libro primo de Praedestinatione ad Monimum, pag. 
+          <lb ed="#H" n="86"/>trices. sexta editionis Basiliensis Henricpetrinae: Creato bono 
+          sum<lb ed="#H" n="87" break="no"/>mum bonum (quod creatum non est &amp; a quo omne mutabile bonum 
+          <lb ed="#H" n="88"/>crentum est) jusse dominaretur: cujus etiam participatione 
+          beatum<lb ed="#H" n="89" break="no"/>esset, si summo bono humili dilectione serviret. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e662">
+          <lb ed="#H" n="90"/>
+          <pc type="indent"/>Ex his manifestum est, solum Deum esse summum nostrum 
+          bo<lb ed="#H" n="91" break="no"/>num. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e671">
+          <lb ed="#H" n="92"/>
+          <pc type="indent"/>Qua propter, ut falsas aliquot de summo bono opiniones remo¬ 
+          <!--cod-MkL9py-0029.xml-->
+          <cb ed="#H" n="b"/>
+          <lb ed="#H" n="93"/>veamus, nulla res mundana est summum hominis bonum, quod 
+          il<lb ed="#H" n="94" break="no"/>lum beatum efficiat: tum quia quaelibut illarum est vanitati subjecta, 
+          <lb ed="#H" n="95"/>mutabilis, instabilis, fluxa, caduca: tum quia nulla illarum mentem 
+          <lb ed="#H" n="96"/>tranquillam reddit, sed potius perturbat, ut docet Salomonis liber 
+          <lb ed="#H" n="97"/>dictus Ecclusiastes cap. 1. 2. &amp; cap. 12. 10 Vanitas vanissima: ista 
+          o<lb ed="#H" n="98" break="no"/>mnia sunt vanitas. Sic igitur fidelis ratiocinatur: 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e695">
+          <lb ed="#H" n="99"/>
+          <pc type="indent"/>Quicquid vanum est, &amp; animum non tranquillat, sed 
+          tantum<lb ed="#H" n="100" break="no"/>modo perturbat, id summum bonum nostrum non est. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e705">
+          <lb ed="#H" n="101"/>
+          <pc type="indent"/>Atqui omnes res miindanae sunt vanae, &amp; animum non 
+          tranquil<lb ed="#H" n="102" break="no"/>lant, sed tauntummodo perturbunt. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e714">
+          <lb ed="#H" n="103"/>
+          <pc type="indent"/>Rem ita habere ostendit I. Uniuscuiusque hominis in rebus 
+          hu<lb ed="#H" n="104" break="no"/>jus mundi occupatio &amp; defatigatio inutilis, qua nihil potest consequi,  
+          <lb ed="#H" n="105"/>quod vel in sese, vel in ipso homine durabile maneat, &amp; quietem 
+          tran<lb ed="#H" n="106" break="no"/>quillitatemque veram praestet, Ecclesiastae 1. v. 3. Quid emolumenti 
+          <lb ed="#H" n="107"/>est homini, ex toto labore suo quo laborat sub Sole? 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e730">
+          <lb ed="#H" n="108"/>
+          <pc type="indent"/>II. Familiarum &amp; Gentium totarum interitus, quibus terra ipsa 
+          <lb ed="#H" n="109"/>momentaneum illum statum exprobrat, dum ipsa perpetuo manet 
+          <lb ed="#H" n="110"/>theatri cujusdam instar, in quo eadem semper vel comoedia vel 
+          tra<lb ed="#H" n="111" break="no"/>goedia agitur, personis tantum mutatis, Ecclesiastae 1. v. 4. Generatio 
+          <lb ed="#H" n="112"/>una abit, &amp; altera aduenit: quamvis terra in saculum permaneat. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e746">
+          <lb ed="#H" n="113"/>
+          <pc type="indent"/>III. Natura rerum creatarum mutabilis &amp; vices innumeras 
+          <lb ed="#H" n="114"/>quotidie subiens, veluti Solis, aeris seu venti, fluminum, omnium 
+          de<lb ed="#H" n="115" break="no"/>nique rerum, in quarum vel cognitione vel usu homo laborat &amp; sese 
+          <lb ed="#H" n="116"/>fatigat, Ecclesiastae 1. v. 5, 6, 7. 8, 9, 10,11. Oritur Sol, &amp; occidit Sol;  
+          <lb ed="#H" n="117"/>iterumque ad locum suum aspirat, ubi oriatur: Properat ad meridiem, 
+          <lb ed="#H" n="118"/>&amp; circumit ad Aquilonem; conversatione sua circumiens properat  
+          <lb ed="#H" n="119"/>aer, &amp; secundum circuitus suos reuertitur aer: Omnia flumina 
+          pro<lb ed="#H" n="120" break="no"/>perant ad mare, nec tamen mare impletur; quocumque loci flumina 
+          <lb ed="#H" n="121"/>properant, eodem reuertuntur propere. Singularis ista fatigantur 
+          <lb ed="#H" n="122"/>non posset quisquam eloqui; non satiaretur oculus videndo, neque 
+          im<lb ed="#H" n="123" break="no"/>pleretur auris auditu. Id quod fuit, idem est quod futurum est, &amp; id 
+          <lb ed="#H" n="124"/>quod sit idem est quod fiet, neque est quidquam novi sub Sole. Estne 
+          <lb ed="#H" n="125"/>aliquid de quo dicitur, aspice hoc novum est? quod jam fuit per 
+          secu<lb ed="#H" n="126" break="no"/>la, quod fuit ante nos. Non est memoria de prioribus: etiamque de 
+          poste<lb ed="#H" n="127" break="no"/>rioribus quae futura sunt, non erit de ipsis memoria apud illos qui 
+          e<lb ed="#H" n="128" break="no"/>runt in posterum. <ref xml:id="yyy8Uu-e5xxxx-Rd1e785">Roman. 8. 20.</ref> 
+          <quote xml:id="yyy8Uu-e5xxxx-Qd1e788" source="http://scta.info/resource/rom8_20">Vanitatis mundus hic conditus. 
+            sub<lb ed="#H" n="129" break="no"/>jectus est, non sua sponte, sed propter eum qui subjecit eum isti 
+            vani<lb ed="#H" n="130" break="no"/>tati</quote>. I. Cor. 7. v. 31. Et qui utuntur hoc mundo, ut non abutentes: 
+          <lb ed="#H" n="131"/>praeterit enim habitus hujus mundi. I. Joh. 2. 17. Porro mundus 
+          prae<lb ed="#H" n="132" break="no"/>terit, &amp; cupiditas ipsius: qui vero praestat uoluntatem Dei, manet in 
+          <lb ed="#H" n="133"/>aeternum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e802">
+          <lb ed="#H" n="134"/>
+          <pc type="indent"/>IV. Temporum &amp; omnium quae fiunt &amp; eveniunt certis 
+          tempo<lb ed="#H" n="135" break="no"/>ribus a Deo destinatis mutabilitas, quam fluunt semper &amp; volvuntur  
+          <lb ed="#H" n="136"/>ac revolvuntur perpetua conversione, sic ut nullus actus, nullusque 
+          <lb ed="#H" n="137"/>eventus instabilitati temporis subjectus perpetuo duret, sed omnia 
+          <lb ed="#H" n="138"/>suis vicibus fiant &amp; eveniant, sic ut omnium rerum facilis sit 
+          conver<lb ed="#H" n="139" break="no"/>sio &amp; vicissitudo, quod inductione exemplorum probat Ecclesiastes 
+          <lb ed="#H" n="140"/>cap. 3. primis octo versibus, ut intelligamus, actuum &amp; eventuum 
+          isto<lb ed="#H" n="141" break="no"/>rum emolumentum ad neminem, quantumvis contendat, pervenire 
+          <lb ed="#H" n="142"/>posse stabile; ac proinde omnes res mundanas esse vanas, &amp; animum 
+          <lb ed="#H" n="143"/>hominis non tranquillare, sed tantummodo perturbare. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e828">
+          <lb ed="#H" n="144"/>
+          <pc type="indent"/>Hinc necessario conficitur, nullam tem mundanam esse 
+          sum<lb ed="#H" n="145" break="no"/>mum hominis bonum; nullam illarum efficere hominem beatum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e838">
+          <lb ed="#H" n="146"/>
+          <pc type="indent"/>Proinde SAPIENTIA HUMANA consistens in cognitione 
+          re<lb ed="#H" n="147" break="no"/>rum naturalium, &amp; in mundo gestarum, &amp; ab hominibus humano 
+          <lb ed="#H" n="148"/>spiritu traditatum de Philosophia Ethica seu morali &amp; rebus aliis . 
+          <lb ed="#H" n="149"/>non est summum hominis bonum. I. Quia est laboriosa &amp; 
+          molesta<lb ed="#H" n="150" break="no"/>compatatur enim cum molestia mala, quam inflixit Deus 
+          homini<lb ed="#H" n="151" break="no"/>bus, ut seipsos affligant, justo sane judicio profanam humani ingenii 
+          <lb ed="#H" n="152"/>audaciam sic ulciscens jam inde ab illo primo humani generis 
+          pa<lb ed="#H" n="153" break="no"/>rente. Ecclesiastae 1. v. 13. Applicans animum meum ad 
+          disquiren<lb ed="#H" n="154" break="no"/>dum &amp; ad explorandum sapientiam de omni es quod sit sub calis 
+          <lb ed="#H" n="155"/>(hanc occupationem malum dedit Deus filiis hominum, ut occuparent 
+          <lb ed="#H" n="156"/>se in ea) Et ver. 17. Adjeci quoque animum meum ad cognoscendum 
+          <lb ed="#H" n="157"/>sapientiam, &amp; scientiam omnis insanie &amp; stoliditatis, cognoui 
+          et<lb ed="#H" n="158" break="no"/>iam hoc esse afflictionem spiritus. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e871">
+          <lb ed="#H" n="159"/>
+          <pc type="indent"/>II. Quia versatur circa ea, quae per se vana sunt, neque salutem 
+          <lb ed="#H" n="160"/>aeternam regnumque caelorum afferunt, Ecclesiastis 1. 14. Vidi omnia 
+          <lb ed="#H" n="161"/>facta quae fiunt sub Sole, quod ecce, ista omnia sunt vanitas &amp; 
+          affli<lb ed="#H" n="162" break="no"/>ctio spiritus. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e884">
+          <lb ed="#H" n="163"/>
+          <pc type="indent"/>III. Quia est venti pabulum seu animi depastio, hoc est, nullum 
+          <lb ed="#H" n="164"/>inde operaepretium aliud refertur quam animi quasi vento sese 
+          pa<lb ed="#H" n="165" break="no"/>scentis inutilis defatigatio, qua animus non alitur, famesque eius non 
+          <lb ed="#H" n="166"/>expletur, Ecclesiastis 1. v. 14. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e897">
+          <lb ed="#H" n="167"/>
+          <pc type="indent"/>IV. Quia ne minimam quidem tem pravam potest corrigere, &amp; 
+          <lb ed="#H" n="168"/>defectus ejus, qui innumeri sunt, supplere, nedum calestem 
+          perfe<lb ed="#H" n="169" break="no"/>ctionem subministrare, Ecclesiastis 1. 15. Perversum non posse 
+          corri<lb ed="#H" n="170" break="no"/>gi, &amp; defectum non posse innumerum venire. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e910">
+          <lb ed="#H" n="171"/>
+          <pc type="indent"/>V. Quia non parit disuuitus, συθυμιαν sic ut in ea ne Reges quidem ipsi 
+          <lb ed="#H" n="172"/>tranquillitatem aliquam reperiant, ut suo exemplo Salomon tex 
+          sa<lb ed="#H" n="173" break="no"/>pientissimus &amp; potentissimus docet, Ecclesiastis 1. v. 12, 13. Ego 
+          Eccle<lb ed="#H" n="174" break="no"/>siastes, quum essem rex super Israelem Ierosolymis; Applicans animum. 
+          <lb ed="#H" n="175"/>meum ad disquirendum &amp; ad explorandum sapientiam de omni eo 
+          <lb ed="#H" n="176"/>quod sit sub coelis (hanc occupationem malam, &amp;c) Et ver 16, 17. 
+          Lo<lb ed="#H" n="177" break="no"/>quutus ego cum animo meo, dicendo; ecce, ego amplificavi &amp; adjeci 
+          <lb ed="#H" n="178"/>sapientiam supra omnes qui praefuerunt ante me Ierosolymis, &amp; 
+          ani<lb ed="#H" n="179" break="no"/>mus meus percepit multum sapientia &amp; scientiae. Adjeci quoque 
+          ani<lb ed="#H" n="180" break="no"/>mum meum ad cognoscendum sapientiam, &amp; scientiam omnis in 
+          sa<lb ed="#H" n="181" break="no"/>niae &amp; stoliditatis, cognovi etiam hoc esse afflictionem spiritus. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e939">
+          <lb ed="#H" n="182"/>
+          <pc type="indent"/>VI. Quia non parit αυτυρκειαν, sed conjuncta est cum multa 
+          in<lb ed="#H" n="183" break="no"/>dignatione &amp; dolore; quum tantum absit, ut in hac disquisitione 
+          pos<lb ed="#H" n="184" break="no"/>sit cujusquam, quantumvis sagassimi, animus invenire quod sibi 
+          <!--cod-MkL9py-0030.xml-->
+          <pb ed="#H" n="5"/>
+          <cb ed="#H" n="a"/>
+          <lb ed="#H" n="1"/>satisfaciat, ut contra quo longius fuerit in ista sapientia 
+          indagan<lb ed="#H" n="2" break="no"/>da progressus, eo magis offendatur; &amp; quo plura didicerit, eo magis 
+          <lb ed="#H" n="3"/>&amp; rerum non paucarum ignoratione &amp; earum, quas percepit, 
+          in<lb ed="#H" n="4" break="no"/>certissima notitia torqueatur &amp; doleat, Ecclesiastis 1. 18. juxta 
+          vul<lb ed="#H" n="5" break="no"/>gatam versionem, vel juxta Tremellij &amp; Junij editionem cap. 2. v. 1. 
+          <lb ed="#H" n="6"/>Deinde quia multitudini sapientiae inest multum indignationis, &amp; 
+          <lb ed="#H" n="7"/>qui auget scientiam, auget dolorem. Et cap. 9. v. 1, 2. Quum autem 
+          <lb ed="#H" n="8"/>adhiberem animum meum ad cognoscendum sapientiam, &amp; ad 
+          per<lb ed="#H" n="9" break="no"/>spiciendum ipsum negotium quod sit super terram; si etiam interdius 
+          <lb ed="#H" n="10"/>&amp; noctu somnum oculis suis quispiam non percipiat: Animadverti 
+          <lb ed="#H" n="11"/>totum opus Dei, non posse hominem assequi illud opus quod sit sub 
+          so<lb ed="#H" n="12" break="no"/>le, quamvis laboriose homo quaerat, non tamen assequuturum esse  
+          <lb ed="#H" n="13"/>quin etiam si cogitet sapientissimus cognoscere, non tamen posse assequi¬  
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e986">
+          <lb ed="#H" n="14"/>
+          <pc type="indent"/>VII. Quia non valet ad devitandos eventus casusque rerum 
+          hu<lb ed="#H" n="15" break="no"/>manarum, Ecclesiastis 9. v. 1. &amp; sequentibus 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e995">
+          <lb ed="#H" n="16"/>
+          <pc type="indent"/>VIII. Quia a vere fidelibus &amp; probatis Deo hominibus 
+          expeti<lb ed="#H" n="17" break="no"/>ra non fuit, 1. Cor. 1. v. 26. Cernitis enim vocationem vestram, fratres 
+          <lb ed="#H" n="18"/>vos videlicet non esse multos sapientes secundum carnem, non multo. 
+          <lb ed="#H" n="19"/>potentes, non multos nobiles. Et cap. 2. 1. Ego igitur cum venirem ad 
+          <lb ed="#H" n="20"/>vos, fratres, veni non cum eminentia orationis aut sapientiae, annum 
+          <lb ed="#H" n="21"/>cians vobis testimonium Dei. Et v. 4, 5. Neque oratio mea &amp; 
+          praeconi<lb ed="#H" n="22" break="no"/>um meum versatum est in persuasoriis humanae sapientia verbis, sed 
+          <lb ed="#H" n="23"/>in demonstratione spirituali &amp; potente. Ne fides vestra consistat in 
+          sa<lb ed="#H" n="24" break="no"/>pientia hominum, sed in potentia Dei 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1019">
+          <lb ed="#H" n="25"/>
+          <pc type="indent"/>IX. Quia abolebitur &amp; peribit, 1. Cor. 1. 19, 20. Scriptum est, 
+          <lb ed="#H" n="26"/>enim, Abolebo sapientiam sapientum; &amp; intelligentiam 
+          intelligen<lb ed="#H" n="27" break="no"/>tium tollame medio. Ubi sapiens? ubi Scriba? ubi disquisitor seculo 
+          <lb ed="#H" n="28"/>estius; nonne infatuavit Deus sapientiam mundi hujus: 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1032">
+          <lb ed="#H" n="29"/>
+          <pc type="indent"/>X. Quia est inutilis ad regnum coelorum, &amp; salutem aeternam. 
+          <lb ed="#H" n="30"/>nemini adfert, 1. Cor. 1. 21. Nam postquam in Dei sapientia mundus  
+          <lb ed="#H" n="31"/>non cognovit Deum per istam sapientiam, libuit Deo per stultitiam 
+          <lb ed="#H" n="32"/>praedicationis servare credentes. Et cap. 2. v4. Neque oratio mea &amp; prae 
+          <lb ed="#H" n="33"/>conium meum versatum est in persuasoriis humanae sapientiae verbis. 
+          <lb ed="#H" n="34"/>sed in demonstratione spirituali &amp; potentes 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1050">
+          <lb ed="#H" n="35"/>
+          <pc type="indent"/>XI. Quia alterius rei gratia appetitur, non propter se ipsam 
+          <lb ed="#H" n="36"/>Quis enim scire contentus est, non expetens aliquem fructum 
+          scien<lb ed="#H" n="37" break="no"/>tiae? Artes ideo discuntur, ut exerceantur: exercentur autem vel ad 
+          <lb ed="#H" n="38"/>subsidia vitae, vel ad voluptatem, vel ad gloriam. Non est autem 
+          sum<lb ed="#H" n="39" break="no"/>mum bonum, quod non propter se expetitur 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1066">
+          <lb ed="#H" n="40"/>
+          <pc type="indent"/>XII. Quia non adest homini in sepulcro, Ecclesiastae 9. vers. 12. 
+          <lb ed="#H" n="41"/>Quicquid assequitur manus tua ut facias pro facultate tua, fac:nam 
+          <lb ed="#H" n="42"/>nullum est opus, aut ratiocinium, aut scientia, sapientiave in sepuli, 
+          <lb ed="#H" n="43"/>cro quo iturus ex 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1080">
+          <lb ed="#H" n="44"/>
+          <pc type="indent"/>XIII. Quia ne quidem terrena bona praestat, Ecclesiastae 9. 13 
+          <lb ed="#H" n="45"/>Convertens me animadvertebam sub sole non esse levium cursum 
+          <lb ed="#H" n="46"/>neque robustorum praelium, nec etiam sapientum cibum, neque etiam 
+          pru<lb ed="#H" n="47" break="no"/>dentum divitias, neque etiam scitorum gratiam, sed tempus &amp; casum. 
+          <lb ed="#H" n="48"/>accidere omnibus his 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1096">
+          <lb ed="#H" n="49"/>
+          <pc type="indent"/>XIV. Quia plerunque est procul a nobis remota, ut de se 
+          profi<lb ed="#H" n="50" break="no"/>tetur Salomon Ecclesiastis 7. 24, 25. Quum dicerem sapio, ipsa (
+          Sa<lb ed="#H" n="51" break="no"/>pientia) longinqua erat a me. Longinquissimum quicquid fuit 
+          sem<lb ed="#H" n="52" break="no"/>per, &amp; quam profundissimum quis inveniat. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1109">
+          <lb ed="#H" n="53"/>
+          <pc type="indent"/>Obiicitur: Si sapientia non est summum hominis bonum, tum 
+          <lb ed="#H" n="54"/>illa nihil praestat stultitiae. At hoc absurdum est: Ergo &amp; illud: 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1118">
+          <lb ed="#H" n="55"/>
+          <pc type="indent"/>RESP. Negatur sumti consequentia. Etsi enim sapientia non 
+          <lb ed="#H" n="56"/>est summum hominis bonum: tamen praestat stultitiae. I. Quia 
+          sicu<lb ed="#H" n="57" break="no"/>i lux melior &amp; utilior est tenebris, ita sapientia praestabilior &amp; ut 
+          <lb ed="#H" n="58"/>lior est quam stultitia, Ecclesiastis 2. v 14. Vidi quidem ego esse emolus 
+          <lb ed="#H" n="59"/>mentii sapientiae prae stoliditate, ut est emolumentum lucis prae tenebris 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1134">
+          <lb ed="#H" n="60"/>
+          <pc type="indent"/>II. Quia sapientia oculatos reddit, stultitia caecos, Ecclesiastis a 
+          <lb ed="#H" n="61"/>v. 15. Sapientem ipsum, ut cui sunt oculi in capite; stolidum autem in 
+          <lb ed="#H" n="62"/>tenebris ambulare: sed agnoui similiter ego eventum eundem eveni 
+          <lb ed="#H" n="63"/>re omnibus istis. Sapiens oculos animi habet in capite tanquam in 
+          ar<lb ed="#H" n="64" break="no"/>ce, quibus praevidet, quid sequendum, quidve declinandum sit: at 
+          in<lb ed="#H" n="65" break="no"/>sipiens caret oculis mentis, neque novit quid agere debeat 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1152">
+          <lb ed="#H" n="66"/>
+          <pc type="indent"/>III. Quia sapientiae praestantissimus est fructus, non vana 
+          spe<lb ed="#H" n="67" break="no"/>culatio sed divinae providentiae cognitio, qua imbuti, agendi tempo 
+          <lb ed="#H" n="68"/>stivitates noscamus, &amp; rerum humanarum vicissitudines aequo 
+          ani<lb ed="#H" n="69" break="no"/>mo feramus, cujusmodi vicissitudines aliquot enumerat Ecclesiaste 
+          <lb ed="#H" n="70"/>cap. 3. v. 1. &amp; sequentibus. Cuique sua est tempestas, &amp; tempus cuique 
+          <lb ed="#H" n="71"/>voluntati sub coelis: Tempus pariendi, tempus plantandi, &amp; tempus 
+          <lb ed="#H" n="72"/>moriendi; tempus exstirpandi quod fuit plantatum: Tempus 
+          occi<lb ed="#H" n="73" break="no"/>dendi, &amp; tempus curandi; tempus rumpendi &amp; tempus aedificandi. 
+          <lb ed="#H" n="74"/>Tempus flendi, &amp; tempus ridendi; tempus plangendi, &amp; tempus 
+          sal<lb ed="#H" n="75" break="no"/>tandi, &amp;c. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1179">
+          <lb ed="#H" n="76"/>
+          <pc type="indent"/>IV. Quia sapientia vivum conservat possessorem suum, Ecclesiae 
+          <lb ed="#H" n="77"/>stae 7. v. 12. Nam alij in umbra sapientiae, alij in umbra pecuniae sunt 
+          <lb ed="#H" n="78"/>sed majoris emolumenti scientia est, sapientiam vivum conservare. 
+          <lb ed="#H" n="79"/>possessorem suum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1192">
+          <lb ed="#H" n="80"/>
+          <pc type="indent"/>V. Quia sapientia melior est robore, Ecclesiastae 9. v. 18, 19, 20. 
+          <lb ed="#H" n="81"/>Dico autem ego, meliorem esse sapientiam robore; quamvis sapientia 
+          <lb ed="#H" n="82"/>illius indigi despiciatur, &amp; verba ejus non audiantur: Verba 
+          sapi<lb ed="#H" n="83" break="no"/>entum submissorum audienda esse, potius quam clamorem 
+          dominan<lb ed="#H" n="84" break="no"/>tis cum stolidis suis: Meliorem esse sapientiam armis bellicis, 
+          aberran<lb ed="#H" n="85" break="no"/>tem vero unum perdere boni plurimum 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1210">
+          <lb ed="#H" n="86"/>
+          <pc type="indent"/>VI. Quia ipsa robur confert sapienti, magis quam decem 
+          domi<lb ed="#H" n="87" break="no"/>natores, qui sunt in eadem civitate, Ecclesiastae 7. v. 19. Haec sapiens 
+          <lb ed="#H" n="88"/>tia robur confert sapienti; magis quam decem dominatores, qui sum 
+          <lb ed="#H" n="89"/>in eadem civitate 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1223">
+          <lb ed="#H" n="90"/>
+          <pc type="indent"/>VII. Quia reipublicae conservandae utilis est, Eccles 9. 17. Adfuit. 
+          <lb ed="#H" n="91"/>in ea vir indigus sapies, qui liberavit ipse civitate ista sapientia sua. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1232">
+          <lb ed="#H" n="92"/>
+          <pc type="indent"/>VIII. Quia est emosumento ad dirigendas actiones humanas, 
+          <lb ed="#H" n="93"/>Ec les. 10. 7. Si postquam hebetaverit serrum, is aciem non exacuat,  
+          <!--cod-MkL9py-0030.xml-->
+          <cb ed="#H" n="b"/>
+          <lb ed="#H" n="94"/>sed vires intendat: at emolumento ad dirigendum est sapientia. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1248">
+          <lb ed="#H" n="95"/>
+          <pc type="indent"/>Neque GLORIA, id est, laus humana ac celebritas nominis 
+          lon<lb ed="#H" n="96" break="no"/>ge lateque propagata atque ad posteritatem commendata, est 
+          sum<lb ed="#H" n="97" break="no"/>mum hominis bonum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1260">
+          <lb ed="#H" n="98"/>
+          <pc type="indent"/>I. Quia plerunque paratur factis, quae humano quidem judicio 
+          <lb ed="#H" n="99"/>egregia putantur, verum coram Deo nihil aliud sunt, nisi gloriosa &amp; 
+          <lb ed="#H" n="100"/>plendida peccata, nempe absque fide &amp; propriae gloriae causa facta: 
+          <lb ed="#H" n="101"/>veluti quod Brutus Consul Romanus filios proditiotem patriae 
+          mo<lb ed="#H" n="102" break="no"/>lientes occidit, de quo Virgilius 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1276">
+          <lb ed="#H" n="103"/>
+          <pc type="indent"/>ficit amor patriae, laudumque immensa cupido 
+          <lb ed="#H" n="104"/>Quod Torquatus filium suum occidit, eo quod pugnando in hostem 
+          <lb ed="#H" n="105"/>legem militatem violasset, faciendo id absque jussu Imperatoris 
+          <lb ed="#H" n="106"/>Quod Camillus ejectus patria, eam postea oppressam a Gallis, 
+          ma<lb ed="#H" n="107" break="no"/>gno animo liberavit: Quod QMutius Scaevola dextram, quae in 
+          cae<lb ed="#H" n="108" break="no"/>de aberraverat, pro Rege Porsenna intersiciens ministrum, ultro 
+          <lb ed="#H" n="109"/>conjecit in fiammam: Quod Curtius armis instructus &amp; in equo 
+          se<lb ed="#H" n="110" break="no"/>dens, ultro se in hiatum terrae abjecit, quo civitas Romana a lue libe 
+          <lb ed="#H" n="111"/>raretur: Quod Decij se devoverunt, ut legiones salvae &amp; victrices 
+          eva<lb ed="#H" n="112" break="no"/>derent: Quod AI. Pulvillus, cum Jovi templum consecraret, nuncie 
+          <lb ed="#H" n="113"/>se morte filij non fuit motus &amp; animo consternatus: Quod Regulus 
+          <lb ed="#H" n="114"/>Carthaginem rediit ad exquisitissima supplicia: Quod Fabricius 
+          au<lb ed="#H" n="115" break="no"/>rum Regis Pyrrhi contemsit: Quod Alexander Magnus &amp; Iulius 
+          <lb ed="#H" n="116"/>Caesar brevi tempore multa regna subjugarunt  
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1311">
+          <lb ed="#H" n="117"/>
+          <pc type="indent"/>II. Quia impedit veram fidem in Deum. Nam qui pluris faciunt 
+          <lb ed="#H" n="118"/>gloriam humanam, quam pietatem, quam liberam atque ingenuam 
+          <lb ed="#H" n="119"/>confessionem veritatis Christi, non possunt in Christum vere 
+          crede<lb ed="#H" n="120" break="no"/>re: quemadmodum Christus ait Joh. 5. 44. quomodo vos potestis 
+          cre<lb ed="#H" n="121" break="no"/>dere, quum gloriam alij ab alijs captetis, &amp; gloriam illam quae a solo 
+          <lb ed="#H" n="122"/>Deo proficiscitur, non quaeratis? Similiter ex primoribus Iudaeorum 
+          <lb ed="#H" n="123"/>multi crediderunt in Iesum, sed propter Pharisaeos hoc non 
+          profiteban<lb ed="#H" n="124" break="no"/>tur, ne Synagoga moverentur: Dilexerunt enim gloriam hominum 
+          <lb ed="#H" n="125"/>potius, quam gloriam Dei, ut legitur Joh. 12. v. 3. 44. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1335">
+          <lb ed="#H" n="126"/>
+          <pc type="indent"/>III. Quia &amp; illa est vanitas: nam sequitur eam tandem oblivios 
+          <lb ed="#H" n="127"/>quae res omnes temporis progressu obliterat &amp; prorsus defet, 
+          Eccle<lb ed="#H" n="128" break="no"/>hastis 2. 17, 18. Nam non erit memoria tum sapientis, tum stolidi in 
+          <lb ed="#H" n="129"/>seculum: quandoquidem quae jam sunt, diebus adventuris ea omnia 
+          <lb ed="#H" n="130"/>oblivioni traduntur: at moritur sapiens ipse cum stolido: Itaque odi 
+          han<lb ed="#H" n="131" break="no"/>vitam, quia malum videtur mihi hoc opus quod sit sub sole:nam haec 
+          <lb ed="#H" n="132"/>omnia sunt vanitas &amp; afflictio spiritus. Certe est inconstans &amp; 
+          parvi<lb ed="#H" n="133" break="no"/>momenti, &amp; incerta propter hominum instabilitatem 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1357">
+          <lb ed="#H" n="134"/>
+          <pc type="indent"/>IV. Quia illam Christus, cujus imitatores nos esse decet, non 
+          ap<lb ed="#H" n="135" break="no"/>petivit: sicut Joh. 5. 41. ait; Gloriam ab hominibus non capto: Et cap. &amp; 
+          <lb ed="#H" n="136"/>50. Ego vero non quaero gloriam meam. Unde etiam miracula quae 
+          fe<lb ed="#H" n="137" break="no"/>cerat publicari vetuit. Matth. 8. 3. 4. Extensaque manu tetigit leprosum 
+          <lb ed="#H" n="138"/>Iesus, dicens, Volo, purificator, statim igitur purificata fuit ejus lepra, 
+          <lb ed="#H" n="139"/>Tunc dicit ei Iesus. Vide, ut nulli dicas; sed abi, ostende te Sacerdoti, &amp; 
+          <lb ed="#H" n="140"/>offer donum illud quod imperavit Moses, ut hoc sit eis testimonio. Et 
+          <lb ed="#H" n="141"/>cap. 9. 30. Et graviter interminatus est eis Iesus, dicens. Videte, nemo 
+          <lb ed="#H" n="142"/>sciat. Et cap. 12. v.16. Et interminatus est eis ne se manifestum facerent 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1381">
+          <lb ed="#H" n="143"/>
+          <pc type="indent"/>V. Quia illam vere fideles ac Deo probati homines non tantum 
+          <lb ed="#H" n="144"/>non appetiverunt, verum etiam contemserunt, probro Christi in 
+          se<lb ed="#H" n="145" break="no"/>potius suscepto, ut Moses Hebr. 11. v. 24, 25, 26. Per fidem Moses jam 
+          <lb ed="#H" n="146"/>grandis renuit vocari filius filiae Pharaonis: Potius eligens simul 
+          ma<lb ed="#H" n="147" break="no"/>lis vexari cum populo Dei, quam temporariam retinere peccati 
+          frui<lb ed="#H" n="148" break="no"/>tionem: Majores ducens divitias probrum Christi, quam 
+          AEgyptio<lb ed="#H" n="149" break="no"/>rum thesauros, Intuebatur enim in praemij retributionem. Ut 
+          Pau<lb ed="#H" n="150" break="no"/>lus Apostolus &amp; alij 2. Cor. 4. v. 5. Non enim nosipsos praedicamus, sed  
+          <lb ed="#H" n="151"/>Christum Iesum esse Dominum: nos autem, servos vestros propter 
+          Ie<lb ed="#H" n="152" break="no"/>um. Et cap. 6. v. 8. Per gloriam &amp; dedecus, per convitia &amp; laudes: ut 
+          <lb ed="#H" n="153"/>impostores, &amp; tamen veraces. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1411">
+          <lb ed="#H" n="154"/>
+          <pc type="indent"/>VI. Quia illius captatores &amp; mancipia sunt plerunque homines 
+          in<lb ed="#H" n="155" break="no"/>fideles, hypocritae &amp; Deo displicentes. 2. Cor. 5. v. 12. Non enim 
+          ite<lb ed="#H" n="156" break="no"/>rum nosipsos commendamus vobis, sed vobis occasionem praebemus. 
+          <lb ed="#H" n="157"/>gloriandi de nobis: ut habeatis quod dicatis adversus eos qui in 
+          facie<lb ed="#H" n="158" break="no"/>gloriam captant, at non in corde 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1427">
+          <lb ed="#H" n="159"/>
+          <pc type="indent"/>VII. Quia nemini adiumento est adversus mortem corporalem, 
+          <lb ed="#H" n="160"/>nedum aeternam. Ps. 49. 14, 15. Haec cum sit via istorum, exspectatio es 
+          <lb ed="#H" n="161"/>eis; &amp; posteri eorum os eorum approbant maxime. Tamqua pecudes, in 
+          <lb ed="#H" n="162"/>repulcre dispositos mors depascet eos; donec dominentur eis recti illo 
+          ma<lb ed="#H" n="163" break="no"/>ne, &amp; formam eorum cosumat infernus receptam ex habitaculo ejus. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1443">
+          <lb ed="#H" n="164"/>
+          <pc type="indent"/>VIII. Quia neminem comitatur post mortem, Psal. 49. 18. Non 
+          <lb ed="#H" n="165"/>enim in morte sua assumturus est illius quicquam, non descensura est 
+          <lb ed="#H" n="166"/>post eum gloria ejus. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1454">
+          <lb ed="#H" n="167"/>
+          <pc type="indent"/>IX. Quia non est a fidelibus appetenda, nisi quantum ad 
+          hono<lb ed="#H" n="168" break="no"/>rem Dei pertinuerit, Matth. 5. v.16. Ita splendeat lux vestra coram 
+          <lb ed="#H" n="169"/>hominibus, ut videant vestra bona opera, glorificentque Patrem illum 
+          <lb ed="#H" n="170"/>vestrum qui est in coelis. Phil. 2. v. 15, 16. Vt sitis inculpati &amp; simplices. 
+          <lb ed="#H" n="171"/>Dei, inquom, filij inculpati in medio gentis pravae ac perversae: inter 
+          <lb ed="#H" n="172"/>quos homines splendetis ut faces in mundo, Sermonem vitae 
+          praeten<lb ed="#H" n="173" break="no"/>dentes: ut gloriari possim in die Christi me non frustra cucurrisse, nec 
+          <lb ed="#H" n="174"/>frustra laborasse. 1. Thess. 2. ver. 10. Vos testes estis &amp; Deus, quomod 
+          <lb ed="#H" n="175"/>sancfe, juste &amp; incultare vobis, qui crediis, nes gesserimus. <ref xml:id="yyy8Uu-e5xxxx-Rd1e1477">Rom. 1. v. 
+            <lb ed="#H" n="176"/>8.</ref> 
+          <quote xml:id="yyy8Uu-e5xxxx-Qd1e1483" source="http://scta.info/resource/rom1_8">Primum quidem gratias ago Deo meo per Iesum Christum, 
+            supi<lb ed="#H" n="177" break="no"/>omnibus vobis, quod fides vestra annuncietur in toto mundo</quote>, I. 
+          Thes<lb ed="#H" n="178" break="no"/>sal 1. v. 3. &amp; sequentibus; Indesinenter commemorantes efficacem 
+          vo<lb ed="#H" n="179" break="no"/>stram fidem, &amp; laboriosam charitatem, &amp; patientem illam 
+          exspecta<lb ed="#H" n="180" break="no"/>tionem in Demino nestro Iesu Christo coram Deo &amp; Patre nostro. 
+          Sci<lb ed="#H" n="181" break="no"/>entes, fratres dilecti a Deo, electionem vestram. Quoniam 
+          Evangeli<lb ed="#H" n="182" break="no"/>um nostrum constitit apud vos non sermone solum, sed etiam 
+          poten<lb ed="#H" n="183" break="no"/>tia, &amp; Spiritu Sancto, &amp; certioratione; sicut nostis quales fuerimus 
+          <lb ed="#H" n="184"/>inter vos, vestri causa, &amp;c. At summum bonum est simpliciter 
+          appe<lb ed="#H" n="185" break="no"/>tendum: Inanis autem gloria appeteda non est, quum sit a Deo 
+          pro<lb ed="#H" n="186" break="no"/>hibita Matth. 6. v. 1. &amp; sequent. aliquot, Gal. 5. 26. Ne simus inanis glo¬ 
+          <!--cod-MkL9py-0031.xml-->
+          <pb ed="#H" n="6"/>
+          <cb ed="#H" n="a"/>
+          <lb ed="#H" n="1"/>rie cupidi. Phil. 2. v. 3. Nihil gerentes per contentionem aut per 
+          ina<lb ed="#H" n="2" break="no"/>nem gloriam. I. Thessal. 2. ver. 6. Neque ex hominibus quaerentes 
+          glo<lb ed="#H" n="3" break="no"/>riam. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1521">
+          <lb ed="#H" n="4"/>
+          <pc type="indent"/>X. Quia ejus studium excitat invidiam mutuam, Gal. 5. ver. 26. 
+          <lb ed="#H" n="5"/>Ne simus inanis gloriae cupidi, alij alios provocantes, alij aliis 
+          invi<lb ed="#H" n="6" break="no"/>dentes 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1532">
+          <lb ed="#H" n="7"/>
+          <pc type="indent"/>XI. Quia gloriae cupiditas est communis homini cum brutis. 
+          <lb ed="#H" n="8"/>Nam nonne in equis deprehenditur, cum victores exsultant, victi 
+          do<lb ed="#H" n="9" break="no"/>lent? Tantus amor laudum, tantae est victoria curae. Nec immerito 
+          <lb ed="#H" n="10"/>summus Poeta experiundum esse ait; Et quis cuique dolor victo, quae 
+          <lb ed="#H" n="11"/>gloria palmae. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1549">
+          <lb ed="#H" n="12"/>
+          <pc type="indent"/>XII. Quia in hominum tantum opinione &amp; aliorum 
+          existima<lb ed="#H" n="13" break="no"/>tione atque arbitrio posita est. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1558">
+          <lb ed="#H" n="14"/>
+          <pc type="indent"/>Neque VOLUPTAS CARNIS est summum hominis bonum: 
+          <lb ed="#H" n="15"/>I. Quia est vanitas, Ecclesiastae 2. 1. Dixi ego cum animo meo, 
+          a<lb ed="#H" n="16" break="no"/>gedum, probem te letitia, friuere igitur bono, sed ecce, etiam illud est 
+          <lb ed="#H" n="17"/>vanitas. 
+          <lb ed="#H" n="18"/>II. Quia est mera insania, Ecclesiastis 2. ver. 2. De risu dico, 
+          in<lb ed="#H" n="19" break="no"/>sanus est. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1576">
+          <lb ed="#H" n="20"/>
+          <pc type="indent"/>III. Quia nihil emolumenti adfert, Ecclesiastis 2. v. 2. Et de 
+          lae<lb ed="#H" n="21" break="no"/>titia (dico) ecquid ista facit? 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1585">
+          <lb ed="#H" n="22"/>
+          <pc type="indent"/>IV. Quia illa ne Reges quidem beatos efficit, ut exemplo suo 
+          <lb ed="#H" n="23"/>Salomon docet, Ecclesiastis 2. ver. 3. &amp; seqq. Exploravi animo meo, 
+          <lb ed="#H" n="24"/>continuando potationem in carne mea: idque animum meum ducens 
+          <lb ed="#H" n="25"/>in supientia ipsa exploravi amplectendo stoliditatem, usquedum 
+          vi<lb ed="#H" n="26" break="no"/>derem utrum hoc bonum sit filiis hominum, quod facturi sint sub 
+          cae<lb ed="#H" n="27" break="no"/>lis numero dierum vitae suae. Maxima opera feci, aedificavi mihi 
+          do<lb ed="#H" n="28" break="no"/>mos, plantavi mihi vineas: Paravi mihi hortos &amp; pomaria, in 
+          qui<lb ed="#H" n="29" break="no"/>bus consevs arbores quasque fructiferas: Paravi mihi piscinas 
+          aqua<lb ed="#H" n="30" break="no"/>rum, ad irrigandum illis nemus ferax arborum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1609">
+          <lb ed="#H" n="31"/>
+          <pc type="indent"/>V. Quia est pabulum venti seu depastio animi, Ecclesiastis 2. v. 
+          <lb ed="#H" n="32"/>II. Quum autem quicquid expetiverant oculi mei non seposuissem 
+          <lb ed="#H" n="33"/>ab eis: non cohibuissem animum meum ab ulla latitia; sed animus 
+          <lb ed="#H" n="34"/>meus lataretur ex omni labore meo, &amp; hoc cessisset in partem meum 
+          <lb ed="#H" n="35"/>ex omni labore meo, &amp;c. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1625">
+          <lb ed="#H" n="36"/>
+          <pc type="indent"/>VI. Quia in ea animus conquiescere non potest nec debet, 
+          Ec<lb ed="#H" n="37" break="no"/>clesiastis 2. v. 12. Respexi ego ad omnia opera mea quae fecerant 
+          mu<lb ed="#H" n="38" break="no"/>nus meae: &amp; ad laborem quem Ia oriose feceram: ecce autem, ista 
+          o<lb ed="#H" n="39" break="no"/>mnia sunt vanitas &amp; afflictio spiritus, vt non est emolumentum sub 
+          <lb ed="#H" n="40"/>Sole. 1. Corint. 7. v. 2.  29, 30, 31. Qui habent uxores, sint ut non 
+          haben<lb ed="#H" n="41" break="no"/>tes: &amp; qui gaudent, ut non, gaudentes: &amp; qui emunt, ut non 
+          obti<lb ed="#H" n="42" break="no"/>nentes. Et qui utimtur hoc mundo, ut non abutentes: praeterit enim 
+          <lb ed="#H" n="43"/>hubitus hujus mundi. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1648">
+          <lb ed="#H" n="44"/>
+          <pc type="indent"/>VII. Quia non est hominis propria, sed communis est ei cum 
+          <lb ed="#H" n="45"/>caeteris animalibus. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1657">
+          <lb ed="#H" n="46"/>
+          <pc type="indent"/>VIII. Quia est brevis. Summum autem bonum necesse est 
+          sem<lb ed="#H" n="47" break="no"/>piternum esse. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1666">
+          <lb ed="#H" n="48"/>
+          <pc type="indent"/>IX. Quia non sinit semen Verbi Dei radices in corde agere &amp; 
+          <lb ed="#H" n="49"/>fructum proferre Deo gratum, Luc. 9. v. 24. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1675">
+          <lb ed="#H" n="50"/>
+          <pc type="indent"/>X. Quia animum deprimit, ne se ad Deum attollat, 1. Pet. 2. 11. 
+          <lb ed="#H" n="51"/>abstineatis a carnis cupiditatibus, quae militant adver sus animam. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1684">
+          <lb ed="#H" n="52"/>
+          <pc type="indent"/>Imo neque VOLUPTAS CUM SAPIENTIA copulata, est 
+          sum<lb ed="#H" n="53" break="no"/>mum hominis bonum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1693">
+          <lb ed="#H" n="54"/>
+          <pc type="indent"/>I. Quia sic etiam vanitas est. 
+          <lb ed="#H" n="55"/>II. Quia ne quidem ista conjuncta animi tranquillitatem 
+          affe<lb ed="#H" n="56" break="no"/>tunt, ut exemplo suo docet Salomon, Ecclesiastis 2. ver. 3. Exploravi 
+          <lb ed="#H" n="57"/>animo meo, continuando potationem in carne mea: idque animum 
+          me<lb ed="#H" n="58" break="no"/>um ducens in sapientia ipsa, &amp;c. Depingit Salomon in suo ipsius 
+          ex<lb ed="#H" n="59" break="no"/>emplo mundanorum sapientum studium. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1712">
+          <lb ed="#H" n="60"/>
+          <pc type="indent"/>Obiicitur: Ergo omnis uoluptas fugienda. RESP. Est quaedam 
+          <lb ed="#H" n="61"/>voluptas honesta animi &amp; corporis, a Deo minime vetita, si quis 
+          <lb ed="#H" n="62"/>nempe rebus Dei munere concessis hilari gratoque animo fruatur.  
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1723">
+          <lb ed="#H" n="63"/>
+          <pc type="indent"/>Neque VOLUPTAS CARNIS CUM HONESTATE juncta, eest 
+          <lb ed="#H" n="64"/>summum hominis bonum: 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1732">
+          <lb ed="#H" n="65"/>
+          <pc type="indent"/>I. Quia haec conjuncta esse non possunt: quoniam qui voluptati  
+          <lb ed="#H" n="66"/>carnali deditus est, honestate careat necesse est, qui honestati studet,  
+          <lb ed="#H" n="67"/>voluptate abstineat oportet. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1743">
+          <lb ed="#H" n="68"/>
+          <pc type="indent"/>II. Quia honestas est honor perpetuus, ad aliquem secundo 
+          po<lb ed="#H" n="69" break="no"/>puli rumore delatus. At qui voluptatem carnis confectatur, is etiam 
+          <lb ed="#H" n="70"/>sapientum judicio male audit. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1754">
+          <lb ed="#H" n="71"/>
+          <pc type="indent"/>Neque DIGNITAS ET POTESTAS SUMMA in republica  
+          <lb ed="#H" n="72"/>summum hominis bonum 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1763">
+          <lb ed="#H" n="73"/>
+          <pc type="indent"/>I. Quia frequenter in alios est injuria, armaus quasi publica 
+          au<lb ed="#H" n="74" break="no"/>toritate omnem iniustitiam. Ali bone Deus, quot quantaque mala 
+          <lb ed="#H" n="75"/>grassantur tum in Republica, tum in Ecclesia, cum improbi 
+          Princi<lb ed="#H" n="76" break="no"/>pes &amp; Magistratus pro sua libidine, spreto Dei metu atque legibus, 
+          <lb ed="#H" n="77"/>omnia conturbant? Ecclesiastis 3. v.16. &amp; sequentibus: Nam adhuc 
+          <lb ed="#H" n="78"/>respiciens sub Sole, loco juris ibi improbitatem, loco, inquom, 
+          justi<lb ed="#H" n="79" break="no"/>tiae ibi improbitatem esse: Dixi ego cum animo meo, justum &amp; 
+          im<lb ed="#H" n="80" break="no"/>probum ipsum judicuturus est Deus: quia tempus quidem est cuique 
+          <lb ed="#H" n="81"/>voluntati, sed qui praeest toti isti facto, ibidem est. Dixeram ego cum 
+          <lb ed="#H" n="82"/>animo meo secundum rationem humanam, quum declavaret eos ipse  
+          <lb ed="#H" n="83"/>Deus, &amp; viderem hos bestias esse illis, &amp;c. Item cap. 4. &amp; 5. Qui 
+          abs<lb ed="#H" n="84" break="no"/>que divini Numinis metu, honores &amp; principatus inter alios 
+          quae<lb ed="#H" n="85" break="no"/>runt, quasi hac ratione felicitatem assequi possent, hi praepostera sua 
+          <lb ed="#H" n="86"/>ambitione omnia pervertunt, ut nullus sit justitiae locus; nihil etiam 
+          <lb ed="#H" n="87"/>ipsi tranquillitatis habeant. Propterea in divino cultu ut multae 
+          irre<lb ed="#H" n="88" break="no"/>pant corruptelae permittunt, dum modo ipsi emineant. Imo in 
+          re<lb ed="#H" n="89" break="no"/>publ. male administrata, simul cum politicis vitiis, religionis 
+          corru<lb ed="#H" n="90" break="no"/>ptelas ob malorum principum tyrannidem subditi amplexari atque 
+          <lb ed="#H" n="91"/>retinere coguntur.  
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1810">
+          <lb ed="#H" n="92"/>
+          <pc type="indent"/>II. Quia vanitatis, molestiarum, ac doloris semper multum con¬ 
+          <!--cod-MkL9py-0031.xml-->
+          <cb ed="#H" n="b"/>
+          <lb ed="#H" n="93"/>junctum habet. An tu vel illos putas tutos, illos saltem inter 
+          hono<lb ed="#H" n="94" break="no"/>rum infulas &amp; opes largas stabili firmitate securos, quos regalis 
+          au<lb ed="#H" n="95" break="no"/>lae splendore fulgentes armorum excubantium tutela citcumstat: 
+          <lb ed="#H" n="96"/>Major illis quam caeteris metus est: tam illi timere coguntur, quam 
+          <lb ed="#H" n="97"/>timentur: sint licet satellitum manu septi, &amp; clausum ac protectum 
+          <lb ed="#H" n="98"/>latus numeroso stipatore tueantur. Quam securos non sinunt esse 
+          <lb ed="#H" n="99"/>subjectos, tam necesse est non sint &amp; ipsi sicuri. Ante ipsos terret 
+          po<lb ed="#H" n="100" break="no"/>testas sua, quos facit esse terribiles. Arridet ut saeviat: blanditur ut 
+          <lb ed="#H" n="101"/>fallat: illicit ut occidat: extollit ut deprimat. Foenore quodam 
+          no<lb ed="#H" n="102" break="no"/>endi quam fuerit amplior summa dignitatis &amp; honorum, tam 
+          ma<lb ed="#H" n="103" break="no"/>jor exigitur usura poenatum, ut verbis utar Cypriani ex epistolam 
+          se<lb ed="#H" n="104" break="no"/>cunda. Ecclesiastis 4. vers. 11, 12. Vidi omnes viventes qui ambulant 
+          <lb ed="#H" n="105"/>sub Sole; adiungentes se puero illi secundo qui staturus est loco hujus: 
+          <lb ed="#H" n="106"/>Non esse finem ulli populo; de illo qui praesit ipsis etium posteros non 
+          lae<lb ed="#H" n="107" break="no"/>taturos esse: nam hoc quoque vanitas est &amp; afflictio spiritus. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1854">
+          <lb ed="#H" n="108"/>
+          <pc type="indent"/>III. Quia amitti potest, sic ut is qui cum potestate summa erat,  
+          <lb ed="#H" n="109"/>servus fieri possit; sicut Salomon ait Ecclesiastae 10. v. 4. Vidi principes 
+          <lb ed="#H" n="110"/>euntes tanquam servos super terram. Exemplo est Iehojacin, qui 
+          a<lb ed="#H" n="111" break="no"/>misso regno cum pretiosissimis spoliis &amp; captivorum numero in 
+          Ba<lb ed="#H" n="112" break="no"/>byloniam captivus abductus est, 2. Reg. 24. Septuaginta Reges 
+          pol<lb ed="#H" n="113" break="no"/>licibus manuum suarum &amp; pedum suorum mutilati collegerunt sub 
+          <lb ed="#H" n="114"/>mensa Adoni-Bezebi ossa &amp; micas panis canum instar, Jud. 1. v. 7. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1874">
+          <lb ed="#H" n="115"/>
+          <pc type="indent"/>IV. Quia omnino angustis hujus vitae spaciis terminatur. Etsi 
+          <lb ed="#H" n="116"/>enim quispiam dignitatem quoad vivit, retineat: tamen moriens eam  
+          <lb ed="#H" n="117"/>relinquere necesse habet: ut Salomon, ut alij Reges &amp; Principes 
+          in<lb ed="#H" n="118" break="no"/>numeri. Quod autem morte abrumpitur &amp; homini adimitur, 
+          sum<lb ed="#H" n="119" break="no"/>mum bonum non est. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1890">
+          <lb ed="#H" n="120"/>
+          <pc type="indent"/>V. Quia saepe contingit hominibus improbis, stolidis &amp; 
+          indi<lb ed="#H" n="121" break="no"/>gnis. Psal. 12. vers. 9. In qua circumquaque improbi obambulant; 
+          <lb ed="#H" n="122"/>quum extollitur res vilis inter filios hominum. Ecclesiastis 4 vers. 9. 
+          <lb ed="#H" n="123"/>Melior est puer indigus &amp; sapiens Rege sene &amp; stolido, qui nescit 
+          ad<lb ed="#H" n="124" break="no"/>moneri amplius. Et cap. 10. vers. 2. 3. 4. Est malum quod vide sub 
+          So<lb ed="#H" n="125" break="no"/>le, secundum errorem qui procedit a facie imperantis. Poni ipsam 
+          sto<lb ed="#H" n="126" break="no"/>liditatem in dignitatibus celsis &amp; amplis; divites uero in ipsa 
+          abje<lb ed="#H" n="127" break="no"/>ctione sidere. Vidi servos insidentes equis, principes autem euntes 
+          tan<lb ed="#H" n="128" break="no"/>quam seruos super terram. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1914">
+          <lb ed="#H" n="129"/>
+          <pc type="indent"/>VI. Quia non est ambienda fidelibus: etsi legitime oblata 
+          ad<lb ed="#H" n="130" break="no"/>mitti &amp; acceptari ab iis bonam conscientia possit. Quicquid apud 
+          cae<lb ed="#H" n="131" break="no"/>teros in rebus humanis sublime ac magnum videtur, intra 
+          Christia<lb ed="#H" n="132" break="no"/>ni jacet conscientiam. Nihil appetere jam, nihil desiderate de seculo 
+          <lb ed="#H" n="133"/>potest, qui seculo major est. Postquam autorem suum, coelum 
+          intu<lb ed="#H" n="134" break="no"/>ens, fidelis anima cognovit, solo altior &amp; hac omni terrena potestate 
+          <lb ed="#H" n="135"/>sublimior, id esse incipit, quod se esse credit. Qui renunciavit jam 
+          se<lb ed="#H" n="136" break="no"/>culo, major est &amp; honoribus ejus &amp; regno: &amp; ideo qui se Deo &amp; 
+          Chri<lb ed="#H" n="137" break="no"/>sto dedicat: non terrena sed coelestia regna desiderat 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1938">
+          <lb ed="#H" n="138"/>
+          <pc type="indent"/>VII. Quia saepe est malo eam possidentibus, eosque pessundat,  
+          <lb ed="#H" n="139"/>Ecclesiastis 8. vers. 8. Tempas est quo dominatur homo in hominem 
+          <lb ed="#H" n="140"/>malo suo. Exemplo est Pharao rex AEgypti, qui fretus potentia sua &amp; 
+          <lb ed="#H" n="141"/>persequens Israelitas seipsum in perniciem adduxit.  
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1952">
+          <lb ed="#H" n="142"/>
+          <pc type="indent"/>VIII. Quia Christus Dominus noster illam fugit, Iohan. 6. ver. 
+          <lb ed="#H" n="143"/>15. Quum nosset venturos &amp; se abrepturos ut facerent se regem, 
+          seces<lb ed="#H" n="144" break="no"/>sit rursus in montem solus ipse. Non appetit terrestria, qui regna dat 
+          <lb ed="#H" n="145"/>coelestia. 
+          <lb ed="#H" n="146"/>IX. Quia non semper absque peccato haberi aut retineri potest; 
+          <lb ed="#H" n="147"/>ut Naaman dignitatem suam retinere non potuit sine peccato, 2. 
+          <lb ed="#H" n="148"/>Reg. 5. v. 18. 
+          <lb ed="#H" n="149"/>X. Quia per illam ne una quidem nocte potest homo consistere. 
+          <lb ed="#H" n="150"/>Psal. 49. vex. 13. Neque tamen homo qui in honore est, per noctabit, 
+          si<lb ed="#H" n="151" break="no"/>milis sit jumentis quae intereunt. Eccles. 8 ver. 7. Nullus homo 
+          domi<lb ed="#H" n="152" break="no"/>natur spiritui suo, vt contineat spiritum suum, nullaque est 
+          domina<lb ed="#H" n="153" break="no"/>tio in die mortis, nullumque missile in isto praelio. Exemplo est 
+          Belschat<lb ed="#H" n="154" break="no"/>zar rex Babylonia Dan. 5. 30. 
+          <lb ed="#H" n="155"/>XI. Quia per illam non possunt etiam potentissimi Monarchae 
+          <lb ed="#H" n="156"/>impetrate a subditis, nedum a vicinis aut romotis populis, 
+          quaecun<lb ed="#H" n="157" break="no"/>que volunt. Docet hoc exemplum Rechabeami filij Salomonis: 
+          do<lb ed="#H" n="158" break="no"/>cent exempla Regum etiam hujus temporis. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e1994">
+          <lb ed="#H" n="159"/>
+          <pc type="indent"/>XII. Quia dignitas &amp; potentia ne Reges quidem immunes 
+          fa<lb ed="#H" n="160" break="no"/>cit a ludibriis, etiam subditorum, unde Regum animi indignatione 
+          <lb ed="#H" n="161"/>replentur. Job 12. 21. Qui effundit contemtum super Principes; &amp; 
+          <lb ed="#H" n="162"/>zona validos destituit. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2007">
+          <lb ed="#H" n="163"/>
+          <pc type="indent"/>XIII. Quia dignitas &amp; potentia saepe facit, ut illi qui eam pollent  
+          <lb ed="#H" n="164"/>non servent promisiam fidem, contemtu seu neglectu eorum, quibus 
+          <lb ed="#H" n="165"/>eam promiserant, ut experientia quotidiana testis est: quod a summi 
+          <lb ed="#H" n="166"/>boni natura penitus abhorret. 
+          <lb ed="#H" n="167"/>XIV. Quia dignitas &amp; potentia ambitiosos &amp; avaros impellit,  
+          <lb ed="#H" n="168"/>ut alios malis afficiant contra divina &amp; humana jura, ut aliena 
+          occu<lb ed="#H" n="169" break="no"/>pent &amp; per vim detineant, ut caedium multatum autoros sint: 
+          exem<lb ed="#H" n="170" break="no"/>plo est Pharao rex AEgypti, qui Israeliticum populum pressit, &amp; 
+          Ha<lb ed="#H" n="171" break="no"/>mam Judaeorum hostis, &amp; Xerxes ille magnus. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2031">
+          <lb ed="#H" n="172"/>
+          <pc type="indent"/>XV. Quia impellit hominem ut cor efferat adversus Deum, 
+          ir<lb ed="#H" n="173" break="no"/>ritat ad superbiam abominabilem, ut docet exemplum ejusdem 
+          Pha<lb ed="#H" n="174" break="no"/>raonis, Nebucadnetzaris, Antiochi Epiphanis, Herodis. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2042">
+          <lb ed="#H" n="175"/>
+          <pc type="indent"/>XVI. Quia est brevis &amp; momentanca, Jesa. 40. ver. 6. Vox. 
+          di<lb ed="#H" n="176" break="no"/>cens, praedica, etiam dicit quid praedicaturus sim; omnem carnem esse  
+          <lb ed="#H" n="177"/>gramen, etiam etiam benignitatem ejus similem esse flori agri. 1. Pet. 
+          <lb ed="#H" n="178"/>I. ver. 24. Omnis caro est gramen, &amp; omnis gloria hominis, ut flos 
+          gra<lb ed="#H" n="179" break="no"/>minis: exaruit gramen &amp; flos ejus decidit.  
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2058">
+          <lb ed="#H" n="180"/>
+          <pc type="indent"/>XVII. Quia non vindicat ab oblivione post mortem, Ecclesiastae 
+          <lb ed="#H" n="181"/>8. ver. 9. Nam ita dominatos animadverti improbos sepeliri, postquam  
+          <lb ed="#H" n="182"/>decesserunt: atque e loco sancti abierunt &amp; oblivioni tradi in ea 
+          civi<lb ed="#H" n="183" break="no"/>tate in qua sic fecerunt: etiam illud vanitatem est. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2072">
+          <lb ed="#H" n="184"/>
+          <pc type="indent"/>Neque DIVITIAE sunt summum hominis bonum: 
+          <!--cod-MkL9py-0032.xml-->
+          <pb ed="#H" n="7"/>
+          <cb ed="#H" n="a"/>
+          <lb ed="#H" n="1"/>I. Quia plerunque iniuste, aut saltem magno cum labore per 
+          <lb ed="#H" n="2"/>poeiiam divinitus insluctam parantur cum anxia occupatione &amp; 
+          mo<lb ed="#H" n="3" break="no"/>testa solicitudine: aut etiamsi juste partae sint, tamen iniuste homines. 
+          <lb ed="#H" n="4"/>iis utuntur, Jerem. 5. vers. 27. Vt cavea plena avibus, ita domus eo 
+          <lb ed="#H" n="5"/>rum plenae sunt dolo: propterea magni &amp; divites sunt. Unde 
+          CHRI<lb ed="#H" n="6" break="no"/>STUS divitias injustum Mammona nominat Luc. 16. vers. 9, 11. 
+          Ec<lb ed="#H" n="7" break="no"/>clesiastis cap. 2. vers. ult. Deus peccatori dat occupationem ad 
+          con<lb ed="#H" n="8" break="no"/>gregandum &amp; ad congerendum 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2103">
+          <lb ed="#H" n="9"/>
+          <pc type="indent"/>II. Quia molesto cruciatu augentur &amp; custodiuntur. 
+          Eccle<lb ed="#H" n="10" break="no"/>siastae 5. vers. 12. Saturitas ipsius divitis non permittit ei ut 
+          dor<lb ed="#H" n="11" break="no"/>miat. Nam quos divites opinaris, continuantes saltibus saltus 
+          <lb ed="#H" n="12"/>domibus domos, &amp; de confinio pauperibus exclusis infinita ac 
+          si<lb ed="#H" n="13" break="no"/>ne terminis rura latius porrigentes, quibus argenti &amp; auti maxi 
+          <lb ed="#H" n="14"/>mum pondus &amp; pecuntatum ingentium vel exstructi aggeres vel 
+          <lb ed="#H" n="15"/>defessae strues: hos etiam inter divitias suas terpidos cogitationis 
+          <lb ed="#H" n="16"/>incertae solicitudo discruciat, ne praedo vastet, ne percussor 
+          infe<lb ed="#H" n="17" break="no"/>stet, ne inimica cujusque locupletioris invidia calumniosis 
+          liti<lb ed="#H" n="18" break="no"/>bus inquietet. Non cibus securus, somnus ve contingit, suspirat ille 
+          <lb ed="#H" n="19"/>in convivio, bibat licet gemma, &amp; cum epulis marcidum corpus, 
+          to<lb ed="#H" n="20" break="no"/>rus mollior alto sinu condiderit, vigilat in pluma: nec intelligit 
+          mi<lb ed="#H" n="21" break="no"/>ser sibi speciosa esse supplicia, auto se alligatum teneri, &amp; possideri 
+          <lb ed="#H" n="22"/>magis quam possidere divitias atque opes. O detestabilis caecita. 
+          <lb ed="#H" n="23"/>mentium, &amp; cupiditatis insanae profunda caligo: cum exornare se 
+          <lb ed="#H" n="24"/>possit &amp; levare ponderibus, pergit magis fortunis angentibus 
+          incu<lb ed="#H" n="25" break="no"/>bare, pergit poenalibus cumulis pertinaciter adhaerere. Nulla in 
+          cli<lb ed="#H" n="26" break="no"/>entes inde largitio est, cum indigentibus nulla partitio, &amp; pecuniam. 
+          <lb ed="#H" n="27"/>suam dicunt, quam velut alienam domi clausam solicito labore 
+          cu<lb ed="#H" n="28" break="no"/>stodiunt: ut Cyprianus scribit epistolam secunda quae scripta est 
+          Do<lb ed="#H" n="29" break="no"/>nato 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2153">
+          <lb ed="#H" n="30"/>
+          <pc type="indent"/>III. Quia sunt corruptibiles, Matth. 6. vers. 19. Ne thesauros re 
+          <lb ed="#H" n="31"/>condite in terra, ubi tinea &amp; erosio corrumpit, &amp; ubi fures 
+          perfodi<lb ed="#H" n="32" break="no"/>unt ac furantur. I. Timoth. 6. 17. Iis qui divites sunt in hoc seculo. 
+          <lb ed="#H" n="33"/>denuncia ne efferantur animo, neque spem ponant in divitiis incertis 
+          <lb ed="#H" n="34"/>sed in illo Deo vivo, qui praebet nobis omnia copiose ad fruendum. 
+          <lb ed="#H" n="35"/>Jac. 5. vers. 2, 3. Divitiae vestrae putrefactae sunt, vestimenta vestra 
+          <lb ed="#H" n="36"/>sunt a tineis vorata: Aurum &amp; argentum vestrum aerugine vitia. 
+          <lb ed="#H" n="37"/>tum est, &amp; aerugo eorum testabitur adversum vos, &amp; exedet carne. 
+          <lb ed="#H" n="38"/>vestras velut ignis: thesaurum recondidistis in ultimos die: 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2177">
+          <lb ed="#H" n="39"/>
+          <pc type="indent"/>IV. Quia amitti possunt ab illo ipso qui eas magnis molestiis 
+          <lb ed="#H" n="40"/>comparaverat, Matth. 6. vers. 19. Proverb. 23. vers. 5. Divitiae non 
+          <lb ed="#H" n="41"/>semper penes eundem dominum permanent, sed huc illuc commeant. 
+          <lb ed="#H" n="42"/>Ecclesiastis 5. 14, 15,16. Aut pereunt divitiae illae in occupatione 
+          ma<lb ed="#H" n="43" break="no"/>la: ita ut quum genuit filium, non habeat in manu sua quicquam, 
+          <lb ed="#H" n="44"/>Quemadmodum prodiit ex utero matris suae, nudus iterum abit ut 
+          <lb ed="#H" n="45"/>venerat; &amp; quicquam non reportat labore suo, quod deferat in 
+          mu<lb ed="#H" n="46" break="no"/>nu sua: Quamobrem etiam hoc malum est afferens aegritudinem, 
+          o<lb ed="#H" n="47" break="no"/>mnino prout venit, ita abit. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2201">
+          <lb ed="#H" n="48"/>
+          <pc type="indent"/>V. Quia inferiores sunt coelestibus bonis, quae potius, quia sum 
+          <lb ed="#H" n="49"/>incorruptibilia &amp; perpetua, comparate a CHRISTO jubemur. 
+          <lb ed="#H" n="50"/>Matth. 6. vers. 20. Sed recondite vobis thesauros, in coelo, ubi neque. 
+          <lb ed="#H" n="51"/>tinea, neque erosio corrumpit, &amp; ubi fures non perfodiunt neque 
+          fu<lb ed="#H" n="52" break="no"/>rantur.  
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2217">
+          <lb ed="#H" n="53"/>
+          <pc type="indent"/>VI. Quia sibi servam reddunt &amp; affigunt humi mentem 
+          homi<lb ed="#H" n="54" break="no"/>nis, ne illam in coelum erigere possit, Matth. 6. vers. 21. Nam ubi ex 
+          <lb ed="#H" n="55"/>tmesaurus vester, illic erit etiam cor vestrum. Et cap. 13. Solicitud 
+          <lb ed="#H" n="56"/>seculi hujus &amp; fallacia divitiarum suffocat sermonem, qui sit 
+          fru<lb ed="#H" n="57" break="no"/>ctus expers. Certe plerique divites sunt servi pecuniae. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2234">
+          <lb ed="#H" n="58"/>
+          <pc type="indent"/>VII. Quia mentem hominis excaecant, ut vera bona non possit 
+          <lb ed="#H" n="59"/>videre, Matth. 6. vers. 22. Lucerna corporis est oculus: itaque si oculus 
+          <lb ed="#H" n="60"/>tuus simplex fuerit, totum corpus tuum lucidum erit. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2245">
+          <lb ed="#H" n="61"/>
+          <pc type="indent"/>VIII. Quia non reddunt hominem DEOacceptum, nihilqui 
+          <lb ed="#H" n="62"/>homini a DEO impetrant: ut exemplum ostendit divitis epulonis &amp; 
+          <lb ed="#H" n="63"/>fi atrum ejus, Luc. 16. 
+          <lb ed="#H" n="64"/>IX. Quia impediunt cultum DEI &amp; ab eo abstrahunt, Matth. 
+          <lb ed="#H" n="65"/>6. vers. 24. Nemo potest duobus dominis servire, aut enim unum 
+          ha<lb ed="#H" n="66" break="no"/>bebit odio, &amp; alterum diliget: aut uni adhaerebit, &amp; alterum 
+          con<lb ed="#H" n="67" break="no"/>temnet. Non potestis Deo servire &amp; mammona 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2265">
+          <lb ed="#H" n="68"/>
+          <pc type="indent"/>X. Quia auctae multiplicant vanitatem, quum satis esse deberet 
+          <lb ed="#H" n="69"/>homini quod ipse sit vanitas, Ecclesiastis 6.11. Quum adsunt res 
+          <lb ed="#H" n="70"/>multae, multiplicant vanitatem, quid amplius isti homini est 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2276">
+          <lb ed="#H" n="71"/>
+          <pc type="indent"/>XI. Quia hanc temporalem vitam non conservant, sed DEUS, 
+          <lb ed="#H" n="72"/>sua providentia, Matth. 6. 25. &amp; seqq aliquot: Ne estote soliciti de 
+          ani<lb ed="#H" n="73" break="no"/>a vestra, quid esuri sitis, aut quid bibituri: neque de corpore vestro, 
+          <lb ed="#H" n="74"/>quam re sitis induendi, nonne anima plus est quam alimentum, &amp; 
+          cor<lb ed="#H" n="75" break="no"/>pus quam indumentum? Intuemini in volucres coeli: non enim serunt. 
+          <lb ed="#H" n="76"/>neque metunt; neque cogunt in horrea, sed Pater ille vester coelestis alit. 
+          <lb ed="#H" n="77"/>eus: nonne vos multo praestatis eis, &amp;c. Luc. 12. vers. 15. Videte &amp; 
+          ca<lb ed="#H" n="78" break="no"/>vite ab avaritia: nec enim cujusquam vita ex iis quae ipsi suppetunt, 
+          <lb ed="#H" n="79"/>in ea sita est ut redundet  
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2300">
+          <lb ed="#H" n="80"/>
+          <pc type="indent"/>XII. Quia neminem liberant a morte temporali, nedum ab 
+          a<lb ed="#H" n="81" break="no"/>terna, Proverb. 10. 2. Non prosunt thesauri improbitatis, sed justitio 
+          <lb ed="#H" n="82"/>eripit a morte. Et cap. 11. 4. Non prodest substantia die furoris. Psa. 
+          <lb ed="#H" n="83"/>19. vers. 7. &amp; seqq. Eorum qui confidunt in opulentia sua, &amp; in 
+          mul<lb ed="#H" n="84" break="no"/>titudine divitiarum suarum gloriantur: Fratrem nullo modo 
+          redi<lb ed="#H" n="85" break="no"/>mere potest quisquam, non dare Deo redemturam ejus: (Est enim 
+          ca<lb ed="#H" n="86" break="no"/>ra redemtio vitae eorum, imo cessat in saculum) ut vivat adhuc 
+          in<lb ed="#H" n="87" break="no"/>ternum, non experiatur corruptionem. Nam videt, sapientes mori 
+          <lb ed="#H" n="88"/>foriter stultum &amp; brutum perire, ac relinquere aliis opulentiam 
+          <lb ed="#H" n="89"/>suam, &amp;c. Et Psal. 52. 7. 8, 9. Etiam Deus fortis demoliturus est te in 
+          <lb ed="#H" n="90"/>aeternum, abripiet te, &amp; avellet te a tentorio; eradicabitque te e terra 
+          <lb ed="#H" n="91"/>vivintium vehementissime. Quod videntes justi reverebuntur; &amp; 
+          <lb ed="#H" n="92"/>de isto ridebunt; dicentes: Ecce virum illum, qui non proposuerat 
+          <!--cod-MkL9py-0032.xml-->
+          <cb ed="#H" n="b"/>
+          <lb ed="#H" n="93"/>Deum robur suum, sed confidebat amplitudini divitiarum 
+          sua<lb ed="#H" n="94" break="no"/>rum, roborabat se in substantia sua. Luc. 16. 22, 23. mortuus est vero 
+          <lb ed="#H" n="95"/>etiam dives, ac sepultus est: Et apud inferos sublatis oculis suis, 
+          <lb ed="#H" n="96"/>quum esset in tormentis, &amp;c. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2346">
+          <lb ed="#H" n="97"/>
+          <pc type="indent"/>XIII. Quia illas appetere &amp; coacervare prohibemur, Matth. 
+          <lb ed="#H" n="98"/>6. vers. 19. Ne thesauros recondite in terra, ubi tinea &amp; erosio 
+          cor<lb ed="#H" n="99" break="no"/>cumpit, &amp; ubi fures perfodiunt ac furantur. Et cap. 10 vers. 9. 10. 
+          <lb ed="#H" n="100"/>Ne comparate aurum, neque argentum, neque aes in. Bonis vestris. 
+          <lb ed="#H" n="101"/>Neque peram ad iter, neque binas tunicas, neque soleas, neque 
+          bacu<lb ed="#H" n="102" break="no"/>lum: nam dignus est operarius alimento suo. Proverb. 23. 4. Ne 
+          fati<lb ed="#H" n="103" break="no"/>ges te ut ditescas 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2367">
+          <lb ed="#H" n="104"/>
+          <pc type="indent"/>XIV. Quia illarum possessio hujus angustae vitae spaciis 
+          termi<lb ed="#H" n="105" break="no"/>natur, sic ut illas nemo retineat, cum ex hac vita excedit, sed aliis 
+          no<lb ed="#H" n="106" break="no"/>lens volens relinquat. I. Timoth. 6. 7. Nihil intulimus in 
+          mun<lb ed="#H" n="107" break="no"/>dum, videlicet nec efferre quicquam possumus. Job. 1. 21. Nudus 
+          <lb ed="#H" n="108"/>exivi ex utero matris meae, &amp; nudus redibo illuc, Iehova dedit, &amp; 
+          <lb ed="#H" n="109"/>Iehova recepit: sit nomen Iehovae benedictum. Psalm. 49, 11. Nam 
+          <lb ed="#H" n="110"/>videt, sapientes mori: pariter stultum &amp; brutum perire, ac 
+          relinque<lb ed="#H" n="111" break="no"/>re alijs opulentiam suam. Et vers. 18. Non enim in morte sua 
+          as<lb ed="#H" n="112" break="no"/>sumturus est illius quicquam, non descensura est post eum gloria ejus. 
+          <lb ed="#H" n="113"/>Ecclesiastis 5. 15,16. Quemadmodum prodiit ex utero matris suae, 
+          <lb ed="#H" n="114"/>nudus iterum abit ut venerat; &amp; quicquam non reportat labore 
+          <lb ed="#H" n="115"/>suo, quod deferat in manum suam. Quamobrem etiam hoc malum 
+          <lb ed="#H" n="116"/>est afferens aegritudinem, omnino prout venit, ita abit: ecquid 
+          emo<lb ed="#H" n="117" break="no"/>lumenti est ei, quod laboraverit vento? Luc. 16. vers. 16. usque 
+          <lb ed="#H" n="118"/>ad 21. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2404">
+          <lb ed="#H" n="119"/>
+          <pc type="indent"/>XV. Quia illarum cupiditas &amp; possessio multa mala affert 
+          ho<lb ed="#H" n="120" break="no"/>minibus. 1. Timoth. 6. 9, 10. Qui volunt ditescere incidunt in 
+          ten<lb ed="#H" n="121" break="no"/>tationem &amp; laqueum, &amp; cupiditates multas amentes &amp; damnosas; 
+          <lb ed="#H" n="122"/>quae demergunt homines in exitium &amp; perniciem. Siquidem 
+          ra<lb ed="#H" n="123" break="no"/>dix omnium malorum est amor pecuniae: quam quidam dum 
+          appe<lb ed="#H" n="124" break="no"/>cunt, aberrarunt a fide, &amp; seipsos undiquaque transfixerunt 
+          dolori<lb ed="#H" n="125" break="no"/>bus multis. Ecclesiastis 5. 13. Est malum afferens aegritudinem, quod  
+          <lb ed="#H" n="126"/>vidi sub Sole: divitiae quae asservantur domino suo in malum 
+          <lb ed="#H" n="127"/>ipsius, 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2428">
+          <lb ed="#H" n="128"/>
+          <pc type="indent"/>XVI. Quia non afferunt animi tranquillitatem, sed augent 
+          in<lb ed="#H" n="129" break="no"/>quietudinem, quum divitis desiderium satiari &amp; expleri nequeat,  
+          <lb ed="#H" n="130"/>Ecclesiastis 6. vers. 7. Vt omnis labor hominis obveniat ori ipsius, 
+          et<lb ed="#H" n="131" break="no"/>iam desiderium ejus non expletur 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2441">
+          <lb ed="#H" n="132"/>
+          <pc type="indent"/>XVII. Quia in illis fiduciam ponere prohibemur. 1. Timoth. 
+          <lb ed="#H" n="133"/>6. 17. Iis qui divites sunt in hoc seculo, denuncia ne efferantur 
+          ani<lb ed="#H" n="134" break="no"/>mo, neque spem ponant in divitiis incertis, sed in illo Deo vivo, qui  
+          <lb ed="#H" n="135"/>praebet nobis omnia copiose ad fruendum. Caduca sunt quaecunque 
+          <lb ed="#H" n="136"/>terrena sunt, nec fiduciam praebent possidentibus stabilem, quae 
+          pos<lb ed="#H" n="137" break="no"/>sessionis non habent veritatem: 
+          <lb ed="#H" n="138"/>XVIII. Quia illarum possessores per illas non redduntur 
+          me<lb ed="#H" n="139" break="no"/>liores, sed plerunque deteriores, deliciosi, intemperantes, fastuosi, 
+          <lb ed="#H" n="140"/>crudeles &amp; immites in pauperes, luxuriosi. Proverb. 10. vers. 16. 
+          <lb ed="#H" n="141"/>Proventus improbi in peccatum. Jacob. 2. 6, 7. Nonne divites per 
+          ty<lb ed="#H" n="142" break="no"/>annidem opprimunt vos, &amp; trahunt vos ad tribunalia? Nonne 
+          <lb ed="#H" n="143"/>blasphemant praeclavum illud nomen a quo estis cognominati? Et  
+          <lb ed="#H" n="144"/>cap. 5. vers. 5, 6. In luxu vixistis super terram &amp; lascivistis: enu 
+          <lb ed="#H" n="145"/>tristis corda vestra ut in die epuli. Condemnastis, occidistis 
+          ju<lb ed="#H" n="146" break="no"/>stum: non obsistit vobis. Exemplum est in divite epulone Luc. 16. 
+          <lb ed="#H" n="147"/>vers. 19, 20, 21. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2480">
+          <lb ed="#H" n="148"/>
+          <pc type="indent"/>XIX. Quia illis totis nemo fruitur, sed transferuntur 
+          haeredi<lb ed="#H" n="149" break="no"/>tate plerunque ad stolidos homines, qui eas magnis laboribus &amp; 
+          su<lb ed="#H" n="150" break="no"/>doribus partas, stolide dissipant, Ecclesiastis 2. vers. 19. 20. Odi 
+          et<lb ed="#H" n="151" break="no"/>iam ego omnem laborem meum, quem ego laboro sub Sole; quod relis 
+          <lb ed="#H" n="152"/>cturus sum eum homini qui futurus est post me. Et quis scit, utrum 
+          <lb ed="#H" n="153"/>sapiens futurus sit an stolidus, qui dominaturus est in omnem 
+          labo<lb ed="#H" n="154" break="no"/>rem meum quem elaboravero &amp; quem sapienter comparavero 
+          sub<lb ed="#H" n="155" break="no"/>Soletetiam hoc vanitas est. Et vers. 22, 23, 24. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2502">
+          <lb ed="#H" n="156"/>
+          <pc type="indent"/>XX. Quia illae saepe in manus veniunt eorum, qui nec filii, nec 
+          <lb ed="#H" n="157"/>sanguine, nec affinitate sunt conjuncti, quae res hominis, qui oper 
+          <lb ed="#H" n="158"/>magnas collegit, animum divino spiritu destitutum, vehementer 
+          ex<lb ed="#H" n="159" break="no"/>cruciat, Ecclesiastis 6. 1, 2. Est malum quod vidi sub Sole, idque 
+          maxi<lb ed="#H" n="160" break="no"/>mum super homines: Viro cui dederit Deus ipse divitias, 
+          facultates<lb ed="#H" n="161" break="no"/>que &amp; honorem, &amp; cujus animus non destituatur ulla re, qua 
+          dele<lb ed="#H" n="162" break="no"/>ctetur, quum huic non faciat copiam Deus ipse fruendi re illa, sed vite 
+          <lb ed="#H" n="163"/>alienus fruitur illa: hoc vanitatem &amp; aegritudinem pessimam esse. 
+          <lb ed="#H" n="164"/>uc. 12. vers. 20. Desipiens, hac nocte animam tuam repetunt abs 
+          te<lb ed="#H" n="165" break="no"/>quae vero parasti cujus erunt... 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2529">
+          <lb ed="#H" n="166"/>
+          <pc type="indent"/>XXI. Quia saepe perveniunt ad inimicos nostros, non solum 
+          <lb ed="#H" n="167"/>cum nos ex hac vita excesserimus, sed etiam nobis adhuc viventibus; 
+          <lb ed="#H" n="168"/>ut docent exempla tot civitatum ab hostibus occupatarum, velus 
+          <lb ed="#H" n="169"/>urbis Ierosolymorum 1. Reg. 14. vers. 25, 26. &amp; 2. Reg. 24. 15. urbis 
+          <lb ed="#H" n="170"/>Tyri Ezech. 26. 12. urbium AEgypti Ezech. 29. 19. Sic ait Dominus. 
+          <lb ed="#H" n="171"/>Iehovi, ecce ego trado Nebucaderetzari Regi Babyloniae terram 
+          AE<lb ed="#H" n="172" break="no"/>typti, ut tollat multitudinem ejus &amp; spoliet spolium ejus ac 
+          praede<lb ed="#H" n="173" break="no"/>tur praedam ejus, unde sit merces copus ipsius. Idem docent exempla 
+          <lb ed="#H" n="174"/>regum pacem redimentium, ut Ezechiae 2. Reg. 18. 14. Ioachazt 2. 
+          <lb ed="#H" n="175"/>Reg. 25. 35. Exempla item confessorum veritatis coelestis; quorum 
+          <lb ed="#H" n="176"/>facultates direptae, Hebr. 10. 3. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2558">
+          <lb ed="#H" n="177"/>
+          <pc type="indent"/>XXII. Quia illas probati DEO viri non expetiverunt, ut 
+          Mo<lb ed="#H" n="178" break="no"/>ses majores duxit divitias probrum Christi, quam AEgyptiorum 
+          the<lb ed="#H" n="179" break="no"/>sauros, Hebr. 11.16. Alij oberraverunt cum ovillis &amp; 
+          caprini<lb ed="#H" n="180" break="no"/>pellibus, destituti, afflicti, male habiti, quibus indignus erat 
+          mun<lb ed="#H" n="181" break="no"/>dus, in desertis errantes, &amp; montibus ac speluncis &amp; cavernis terrae, 
+          <lb ed="#H" n="182"/>Heb. 11. 37, 38. 2. Cor. 6. 4. In omnibus nos approbantes, ut Dei 
+          mini<lb ed="#H" n="183" break="no"/>stri, tolerantia multa in afflictionibus, in necessitatibus, in angustiis. 
+          <!--cod-MkL9py-0033.xml-->
+          <pb ed="#H" n="8"/>
+          <cb ed="#H" n="a"/>
+          <lb ed="#H" n="1"/>Et vers. 10. Vt tristes, semper tamen, gaudentes: ut pauperes sed 
+          mul<lb ed="#H" n="2" break="no"/>tos ditantes: ut nihil habentes, sed omnia obtinente. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2589">
+          <lb ed="#H" n="3"/>
+          <pc type="indent"/>XXIII. Quia illas neque CHRISTUS Dominus noster 
+          appe<lb ed="#H" n="4" break="no"/>tivit, 2. Cor. 8. v. 9. Nostis beneficentiam Domini nostri Iesu Christi. 
+          <lb ed="#H" n="5"/>eum videlicet propter vos pauperem factum esse: quum esset dives, ut 
+          <lb ed="#H" n="6"/>vos illius paupertate ditesceretis. Matth. 8. vers. 20. Dicit Iesus: 
+          <lb ed="#H" n="7"/>Vulpes habent lustra, &amp; volucres coeli nidos: Filius autem hominis: 
+          <lb ed="#H" n="8"/>non habet ubi caput reclinet. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2607">
+          <lb ed="#H" n="9"/>
+          <pc type="indent"/>XXIV. Quia impellunt hominem ut se efferat adversus Dei 
+          <lb ed="#H" n="10"/>tum, &amp; superbe verbum ejus contemnat, Proverb. 10. vers. 16. Quod 
+          <lb ed="#H" n="11"/>opere suo comparat justus, comparat in vitam: proventus improbi 
+          <lb ed="#H" n="12"/>in peccatum. Exempla sunt in divite epulone &amp; fratribus ejus Luc. 16. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2620">
+          <lb ed="#H" n="13"/>
+          <pc type="indent"/>XXV. Quia impediunt plerosque ab ingressu in regnum caelo. 
+          <lb ed="#H" n="14"/>rum, Matth. 19. vers. 23, 24. Iesus dixit discipulis suis: Amen dico 
+          <lb ed="#H" n="15"/>vobis, dives difficulter introibit in regnum coelorum. Rursum vero 
+          <lb ed="#H" n="16"/>dico vobis, Facilius est camelum per foramen acus transire, quam 
+          di<lb ed="#H" n="17" break="no"/>vitem in regnum Dei introire. Diabolus per cupiditatem opum 
+          <lb ed="#H" n="18"/>terrenatum privat homines coelestibus. Ista versutia est diaboli, qui 
+          <lb ed="#H" n="19"/>per parva magnis nos spoliat: &amp; lutum praebet (quid enim autum est. 
+          <lb ed="#H" n="20"/>aliud quam lutum paulo solidius &amp; splendidius? Jut auferat coelum: 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2642">
+          <lb ed="#H" n="21"/>
+          <pc type="indent"/>Imo neque DIVITIAE cum SAPIENTIA copulatae sunt 
+          sum<lb ed="#H" n="22" break="no"/>mum hominis bonum 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2652">
+          <lb ed="#H" n="23"/>
+          <pc type="indent"/>I. Quia &amp; sic vanitas sunt, Ecclesiastis 2. v. 11. 
+          <lb ed="#H" n="24"/>II. Quia neque sic tranquillum animum reddunt, ut suo 
+          exem<lb ed="#H" n="25" break="no"/>plo docet Salomon, Ecclesiastis 2. vers. 5. &amp; sequentibus: Maxima 
+          <lb ed="#H" n="26"/>opera feci, aedificavi mihi domos, plantavi mihi vineas: Paravi mihi 
+          <lb ed="#H" n="27"/>hortos &amp; pomaria, in quibus consevi arbores quasque fructiferas: 
+          Pa<lb ed="#H" n="28" break="no"/>ravi mihi piscinas aquarum, ad irrigandum illis nemus ferax 
+          ar<lb ed="#H" n="29" break="no"/>borum: Comparavi servos &amp; ancillas, &amp; vernae fuerunt mihi:etiam 
+          <lb ed="#H" n="30"/>possessio armentorum &amp; gregum multa fuit mihi prae omnibus 
+          qui<lb ed="#H" n="31" break="no"/>fuerint ante me Ieruschalaimis, &amp;c. Rospexi ego ad omnia opera 
+          <lb ed="#H" n="32"/>mea quae fecerant manus meae, &amp; ad laborem quem laboriose 
+          fece<lb ed="#H" n="33" break="no"/>ram: ecce autem ista omnia sunt vanitas &amp; afflictio spiritus: ut non 
+          <lb ed="#H" n="34"/>est emolumentum sub sole 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2683">
+          <lb ed="#H" n="35"/>
+          <pc type="indent"/>OBIICITUR: Si divitiae non sunt summum hominis bonum: 
+          <lb ed="#H" n="36"/>sunt igitur malae. RESP. Non sunt malae, si justa sit earum possessio 
+          <lb ed="#H" n="37"/>&amp; usus legitimus, Ecclesiastis 2. vers. 24. &amp; seqq. Non est bonum 
+          pe<lb ed="#H" n="38" break="no"/>nes hominem, ut comedat, bibat, efficiatque ut animus suus fruatur: 
+          <lb ed="#H" n="39"/>bono ex labore suo, etiam hoc vidi ego a manu Dei ipsius esse. [Nam 
+          <lb ed="#H" n="40"/>quis esset fruiturus praeterquam ego?) Homini enim qui bonus vide 
+          <lb ed="#H" n="41"/>tur in conspectu ipsius, Deus dat sapientiam &amp; scientiam cum laeti 
+          <lb ed="#H" n="42"/>tia: peccatori autem dat occupationem ad congregandum &amp; ad 
+          con<lb ed="#H" n="43" break="no"/>gerendum, ut tradat ei qui bonus videbitur in conspectu suo. Etiam 
+          <lb ed="#H" n="44"/>illud vanitas est, &amp; afflictio spiritus. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2709">
+          <lb ed="#H" n="45"/>
+          <pc type="indent"/>Veque VIRTUS ejusque actio, (utut a Philosophis summis 
+          lau<lb ed="#H" n="46" break="no"/>dibus tanquam summum bonum praedicetur) est summum hominis 
+          <lb ed="#H" n="47"/>bonum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2720">
+          <lb ed="#H" n="48"/>
+          <pc type="indent"/>I. Quia de virtute nobis gloriandum non est, 
+          <lb ed="#H" n="49"/>II. Quia virtus non potest efficere quenquam beatum: Lactan 
+          <lb ed="#H" n="50"/>tius libro tertio divinarum institutionum capitae octavo. 
+          Quan<lb ed="#H" n="51" break="no"/>quam sine virtute nemo beatus est, tamen ipsa non est beatitudinis 
+          <lb ed="#H" n="52"/>causa; sed via ad beatitudinem 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2736">
+          <lb ed="#H" n="53"/>
+          <pc type="indent"/>III. Quia propter se non expetitur, sed propter beatam vitam. 
+          <lb ed="#H" n="54"/>Unde Philosophis multis in ore est, Virtutis praemium esse vitam 
+          <lb ed="#H" n="55"/>beatam. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2747">
+          <lb ed="#H" n="56"/>
+          <pc type="indent"/>IV. Quia sine alio bono subsistere non potest, Multis enim ex 
+          <lb ed="#H" n="57"/>trinsecus adjumentis indiget, nec suis per se viribus nititur. At 
+          sum<lb ed="#H" n="58" break="no"/>mum bonum nullo extrinsecus adjumento indigere debet. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2759">
+          <lb ed="#H" n="59"/>
+          <pc type="indent"/>V. Quia vis ejus in malorum perferentia posita est. Lactant 
+          <lb ed="#H" n="60"/>libro tertio divinarum Institutionum cap. undecimo. At summum 
+          <lb ed="#H" n="61"/>bonum ab omni malo sejunctum sit necesse est. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2770">
+          <lb ed="#H" n="62"/>
+          <pc type="indent"/>VI. Quia per seipsam beata non est. Lactant. dicto lib. cap. duo. 
+          <lb ed="#H" n="63"/>decimo¬. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2779">
+          <lb ed="#H" n="64"/>
+          <pc type="indent"/>VII. Quia non est similis &amp; eadem semper. At qui summum 
+          <lb ed="#H" n="65"/>bonum simile est &amp; idem semper, solumque nec imminui, nec auge 
+          <lb ed="#H" n="66"/>ti, nec immutari potest. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2790">
+          <lb ed="#H" n="67"/>
+          <pc type="indent"/>VIII. Quia nostrarum calamitatum testis est: quod probari 
+          <lb ed="#H" n="68"/>potest inductione specierum virtutis. Quid enim sibi vult 
+          temperan<lb ed="#H" n="69" break="no"/>tia, quae propterea datur, ut fraenentur ebrietates, comessationes, 
+          li<lb ed="#H" n="70" break="no"/>bidines, &amp; animorum turpes ac foedi motus? Nam ista declarant; 
+          <lb ed="#H" n="71"/>eam non habere locum, nisi in animis ejusmodi corruptioni adhuc 
+          <lb ed="#H" n="72"/>obnoxiis: quae corruptio, quanto est interior, tanto nos facit 
+          miserio<lb ed="#H" n="73" break="no"/>res, &amp; ut hostis domesticus in cordium nostrorum penetralibus. 
+          <lb ed="#H" n="74"/>grassatur. Isti affectus sunt vitia, quae nos impediunt, ne ea faciamus 
+          <lb ed="#H" n="75"/>quae volumus, ut Paulus docet <ref xml:id="yyy8Uu-e5xxxx-Rd1e2813" source="http://scta.info/resource/rom7_7">Roman. 7. vers. 17.</ref> &amp; sequentibus 
+          <lb ed="#H" n="76"/>Nunc itaque non amplius ego id perpetro, sed peccatum quod in 
+          me<lb ed="#H" n="77" break="no"/>habitat, id perpetrat. Novi enim non habitare in me(id est in 
+          car<lb ed="#H" n="78" break="no"/>ne mea) bonum: nam velle adest mihi, sed ut quod bonum est efficiam 
+          <lb ed="#H" n="79"/>non assequor: Non enim facio bonum quod volo: sed malum quod  
+          <lb ed="#H" n="80"/>nolo, hoc ago. Quod si id, facio ego quod ego nolo, non amplius ego ia 
+          <lb ed="#H" n="81"/>perpetro, sed peccatum quod in me habitat, id perpetrat, &amp;c. Quod 
+          <lb ed="#H" n="82"/>munus est prudentiae, nisi ut provideat, ne fallamur per errorem in 
+          <lb ed="#H" n="83"/>deligendis bonis &amp; evitandis malis? Certe nisi erroribus &amp; tenebris 
+          <lb ed="#H" n="84"/>involveremur, hoc remedio non esset opus: cum autem adhibetur,  
+          <lb ed="#H" n="85"/>declarat, homines adhuc non esse felices, sed magnis &amp; gravibus 
+          er<lb ed="#H" n="86" break="no"/>roribus implicari. Justitia quoque, quam unicuique redditur quod 
+          <lb ed="#H" n="87"/>suum est, necessaria est, ut latrocinia, rapinae, violentiae co erceantur. 
+          <lb ed="#H" n="88"/>Neque vero ea tantum potest obtinere, quin homines justi &amp; 
+          prob<lb ed="#H" n="89" break="no"/>multa saepe injuste faciant, multa etiam saepe injuste ab aliis 
+          patian<lb ed="#H" n="90" break="no"/>tur. Jam quid dicemus de fortitudine? Illa vero armat homines, ut 
+          <lb ed="#H" n="91"/>dolores, pericula, cruciatus, mortem denique ipsam, si nocesse sit 
+          <lb ed="#H" n="92"/>tolerate possint: ac proinde mala nostra testatur.  
+          <!--cod-MkL9py-0033.xml-->
+          <cb ed="#H" n="b"/>
+          <lb ed="#H" n="93"/>Neque VIRTUS cum HONESTATE juncta, est summum 
+          <lb ed="#H" n="94"/>hominis bonum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2863">
+          <lb ed="#H" n="95"/>
+          <pc type="indent"/>I. Quia nulla virtus potest esse inhonesta, ac si quid habuerit:  
+          <lb ed="#H" n="96"/>turpitudinis, virtus esse desinit 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2872">
+          <lb ed="#H" n="97"/>
+          <pc type="indent"/>II. Quia si virtus cum honestate juncta, est summum hominis 
+          <lb ed="#H" n="98"/>bonum; sequeretur eum qui virtuti studet, existimationi hominum 
+          <lb ed="#H" n="99"/>servire debere. Quod qui facit, a recto bonoque discedit: quia non 
+          <lb ed="#H" n="100"/>est in nostra potestate, ut virtus pro suis meritis honestetur. Tum 
+          <lb ed="#H" n="101"/>quid fiet, si errore ac pravitate hominum, mala existimatio 
+          subse<lb ed="#H" n="102" break="no"/>quatur: si virtutem invidia premat? imo &amp; opprimat; 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2891">
+          <lb ed="#H" n="103"/>
+          <pc type="indent"/>Neque VITA HAEC TERRENA ET TEMPORALIS est 
+          sum<lb ed="#H" n="104" break="no"/>mum hominis bonum: 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2900">
+          <lb ed="#H" n="105"/>
+          <pc type="indent"/>I. Quia innumeris malis est obnoxia 
+          <lb ed="#H" n="106"/>II. Quia est brevis. Summum autem bonum est sempiternum. 
+          <lb ed="#H" n="107"/>III. Quia summum bonum non est quaerendum in ima mundi 
+          <lb ed="#H" n="108"/>parte, id est, in terra unde corpus est. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2913">
+          <lb ed="#H" n="109"/>
+          <pc type="indent"/>IV. Quia summum bonum non est corporis. 
+          <lb ed="#H" n="110"/>V. Quia vana est. Quicquid enim ad corpus spectat &amp; 
+          immorta<lb ed="#H" n="111" break="no"/>litatis est expers, vanum sit necesse est. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2924">
+          <lb ed="#H" n="112"/>
+          <pc type="indent"/>VI. Quia beatum non facit? 
+          <lb ed="#H" n="113"/>VII. Quia nihili ducitur a sanctis &amp; Deo placentibus 
+          homini<lb ed="#H" n="114" break="no"/>bus prae altera illa vita. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2935">
+          <lb ed="#H" n="115"/>
+          <pc type="indent"/>VIII. Quia eam sibi abrumpendam statuerunt qui 
+          sapientissi<lb ed="#H" n="116" break="no"/>mi &amp; fortissimi viri apud Gentiles habiti sunt, ut Cato, Brutus &amp; alii  
+          <lb ed="#H" n="117"/>Quod si vita haec summum bonum est, cur ut finiretur, mortis 
+          quae<lb ed="#H" n="118" break="no"/>siverunt isti auxilium? 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2948">
+          <lb ed="#H" n="119"/>
+          <pc type="indent"/>Imo neque IMMORTALITAS HOMINIS est summum ejus 
+          bo<lb ed="#H" n="120" break="no"/>num, quamvis non semel ita statuerit Lactantius. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2958">
+          <lb ed="#H" n="121"/>
+          <pc type="indent"/>I. Quia immortalitas est tantum accidens quoddam hominis: 
+          <lb ed="#H" n="122"/>Summum autem bonum rem seipsa subsistentem esse necesse est. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2967">
+          <lb ed="#H" n="123"/>
+          <pc type="indent"/>II. Quia a Deo efficitur in homine 
+          <lb ed="#H" n="124"/>III. Quia immortalitas per se beatum non efficit: nam 
+          Diabo<lb ed="#H" n="125" break="no"/>lus est immortalis spiritus, nec tamen propterea beatus; &amp; 
+          reproba<lb ed="#H" n="126" break="no"/>torum hominum animae sunt immortales seu naturae immortalis, 
+          <lb ed="#H" n="127"/>nec tamen idcirco beatae. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2983">
+          <lb ed="#H" n="128"/>
+          <pc type="indent"/>Neque CARENTIA DOLORIS est summum bonum, ut aegroti 
+          <lb ed="#H" n="129"/>atque in dolore positi existimant, &amp; Diodorus putavit. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e2992">
+          <lb ed="#H" n="130"/>
+          <pc type="indent"/>I. Quia ab nomine dari potest. Quid autem tam ridiculum, 
+          <lb ed="#H" n="131"/>quam id habere pro summo bono, quod homo possit dare: 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3001">
+          <lb ed="#H" n="132"/>
+          <pc type="indent"/>II. Quia ejus cupiditas est communis homini cum aliis 
+          anima<lb ed="#H" n="133" break="no"/>libus, quum omne animal doloris sit fugiens 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3010">
+          <lb ed="#H" n="134"/>
+          <pc type="indent"/>III. Quia miserrimus esset qui nunquam doluit, quia bono 
+          ca<lb ed="#H" n="135" break="no"/>ret. Dolendum est ergo ut fruamur bono, &amp; quidem graviter ac 
+          sae<lb ed="#H" n="136" break="no"/>pe, ut sit postea non dolere jucundius 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3022">
+          <lb ed="#H" n="137"/>
+          <pc type="indent"/>Neque ullius Principis, vel propinqui, vel cujuscunque alterius 
+          <lb ed="#H" n="138"/>PAVOR &amp; GRATIA, est summum hominis bonum 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3031">
+          <lb ed="#H" n="139"/>
+          <pc type="indent"/>I. Quia illi sunt homines. Psalm. 146. 3. Nec fiduciam habetore 
+          <lb ed="#H" n="140"/>in ingenuis, in ullo filio hominum, penes quem nulla est salus 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3040">
+          <lb ed="#H" n="141"/>
+          <pc type="indent"/>II. Quia omnis homo est vanitas, Psalm. 62. 19. Tantummodo 
+          <lb ed="#H" n="142"/>vanitas sunt nati plebejo homine, mendacium sunt nati praestante. 
+          <lb ed="#H" n="143"/>viro: lancibus illi simul impositi, adscensuri essent supra 
+          vani<lb ed="#H" n="144" break="no"/>tatem 
+          <lb ed="#H" n="145"/>III. Quia nullus hominum potest quenquam cripere a morte 
+          <lb ed="#H" n="146"/>Psalm. 49. 8, 9, 10. Fratrem nullo modo redimere potest quispiam, 
+          <lb ed="#H" n="147"/>non dare Deo redemturam ejus: (Est enim cara redemtio vitae 
+          co<lb ed="#H" n="148" break="no"/>rum, imo cessat in saculum:) Vt vivat adhuc in aeternum, non 
+          expe<lb ed="#H" n="149" break="no"/>riatur corruptionem. Psalm. 146. 3. Ne fiduciam habetote in 
+          inge<lb ed="#H" n="150" break="no"/>nuis, in ullo filio hominum, penes quem nulla est salus 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3066">
+          <lb ed="#H" n="151"/>
+          <pc type="indent"/>IV. Quia omnis homo est mortalis, Psalm. 146. 4. Exit 
+          spiri<lb ed="#H" n="152" break="no"/>tus ejus, revertitur in terram suam (nimitum non spiritus, sed 
+          ho<lb ed="#H" n="153" break="no"/>mo corpore suo;) die eodem pereunt cogitationes ejus. Jesa. 2. v. ult.  
+          <lb ed="#H" n="154"/>Abstinete vos ab ipso homine, cui halitus est in naso ipsius: nam 
+          <lb ed="#H" n="155"/>quanti aestimandus esset? Et ca. 40. 6, 7. 8. Vox dicens, praedica, etiam 
+          <lb ed="#H" n="156"/>dicit quid praedicaturus sim; omnem carnem esse gramen, etiam 
+          o<lb ed="#H" n="157" break="no"/>mnem benignitatem ejus similem esse flori agri. Exarescit gramen 
+          <lb ed="#H" n="158"/>decidit flos; quum Spiritus Iehovae perstat ipsum, utique gramen est, 
+          <lb ed="#H" n="159"/>populus. Exarescit gramen, decidit flos; at verbum Dei nostri 
+          perma<lb ed="#H" n="160" break="no"/>net in saculum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3092">
+          <lb ed="#H" n="161"/>
+          <pc type="indent"/>V. Quia in hominibus fiduciam collocare prohibemur, Psalm. 
+          <lb ed="#H" n="162"/>VI. Quia in hominibus posita fiducia est maledicta, Jerem. 17. 7. 
+          <lb ed="#H" n="163"/>Maledictus vir ille qui fiduciam habet in homine, &amp; statuit carnem 
+          <lb ed="#H" n="164"/>brachium suum, a Iehova autem recedit anima ejus. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3105">
+          <lb ed="#H" n="165"/>
+          <pc type="indent"/>VII. Quia gratiam atque favorem hominum, etiam eorum qui 
+          <lb ed="#H" n="166"/>corporaliter multum prodesse poterant, vere fideles ropudiare non 
+          <lb ed="#H" n="167"/>dubitarunt, ut Moses iam grandis, per fidem renuit vocari filius filiae 
+          <lb ed="#H" n="168"/>Pharaonis, potius esigens simul malis vexari cum populo Dei, quam 
+          <lb ed="#H" n="169"/>temporariam retinere peccati fruitionem, Hebr. 11. 24, 25. 
+          Samuel<lb ed="#H" n="170" break="no"/>Elias, Elisaeus, Iesaias, Ieremias, Iohannes Baptista &amp; alij Prophetae, 
+          <lb ed="#H" n="171"/>qui ob peccata Reges graviter reprehendere non dubitarunt.  
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3126">
+          <lb ed="#H" n="172"/>
+          <pc type="indent"/>VIII. Quia gratia humana est vana, temporaria, brevis atque 
+          <lb ed="#H" n="173"/>adeo momentaneca. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3135">
+          <lb ed="#H" n="174"/>
+          <pc type="indent"/>IX. Quia hominem voluntates sunt inconstantes &amp; flexibiles. 
+          <lb ed="#H" n="175"/>&amp; vel calumniis aliorum vel levibus etiam suspicionibus mutare 
+          <lb ed="#H" n="176"/>gratiam in odium, favorem in iram solent  
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3146">
+          <lb ed="#H" n="177"/>
+          <pc type="indent"/>Nec TORIUNA se accommodans complexinni hominum, est 
+          <lb ed="#H" n="178"/>summum illorum bonum &amp; causa felicitatis humanae 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3155">
+          <lb ed="#H" n="179"/>
+          <pc type="indent"/>I. Quia sortuna per se nihil est, sed merum figmentum 
+          poeta<lb ed="#H" n="180" break="no"/>rum Gentilium, qui eam fingunt esse Deam, quae det bona &amp; mala 
+          <lb ed="#H" n="181"/>quibus velit,  
+          <lb ed="#H" n="182"/>II. Quia fortuna est abnegatio Dei &amp; providentiae ejus. Nam 
+          <lb ed="#H" n="183"/>qui sibi persuadet, felicitatem qua fruitur, bona quae possidet, non a¬ 
+          <!--cod-MkL9py-0034.xml-->
+          <pb ed="#H" n="9"/>
+          <cb ed="#H" n="a"/>
+          <lb ed="#H" n="1"/>Deo, sed a fortuna se habere, contemnit &amp; abnegat Deum &amp; 
+          provi<lb ed="#H" n="2" break="no"/>dentiam ejus, deserit facillime purum cultum ejus. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3181">
+          <lb ed="#H" n="3"/>
+          <pc type="indent"/>III. Quia a fortuna a sanioribus etiam Poetis, Philosophis &amp; 
+          <lb ed="#H" n="4"/>Historicis Gentilibus non est agnita. Noti sunt versus Iuvenalis. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3190">
+          <lb ed="#H" n="5"/>
+          <pc type="indent"/>Nullum numen abest, si sit prudentia, sed ter 
+          <lb ed="#H" n="6"/>Nos facimus Fortuna deam coeloque locamus. 
+          <lb ed="#H" n="7"/>IV. Quia si quid fortuna est, nihil aliud est, quam accidentium 
+          <lb ed="#H" n="8"/>rerum subitus atque inopinatus eventus. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3204">
+          <lb ed="#H" n="9"/>
+          <pc type="indent"/>Gravissimus est igitur eorum error, qui statuunt hominem esse 
+          <lb ed="#H" n="10"/>felicem tantisper dum fortuna se accommodat complexioni &amp; 
+          hu<lb ed="#H" n="11" break="no"/>mori ejus. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3215">
+          <lb ed="#H" n="12"/>
+          <pc type="indent"/>Neque RELIGIO HUMANO ARBITRIO INVENTA, etiamsi 
+          <lb ed="#H" n="13"/>publice sit communiter recepta &amp; magno studio colatur: imo neque 
+          <lb ed="#H" n="14"/>externa Ceremoniarum a Deo praeceptarum observatio inprimis 
+          <lb ed="#H" n="15"/>sine side vera, est summum bonum &amp; causa felicitatis humanae¬ 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3228">
+          <lb ed="#H" n="16"/>
+          <pc type="indent"/>I. Quia illa abducit a vero Deo qui autor est omnis veri boni 
+          <lb ed="#H" n="17"/>Jesa. 1. v. 4. Ah, gens peccatrix, populus gravissimus iniquitate, 
+          semen<lb ed="#H" n="18" break="no"/>maleficentissimam, filij corruptores, dereliquerunt Iehovam, 
+          contem<lb ed="#H" n="19" break="no"/>tim irritaverunt sanctum Israelis, abalienantes sese averterunt. 
+          <lb ed="#H" n="20"/>retrorsum, 
+          <lb ed="#H" n="21"/>II. Quia omni studio est nobis fugienda, Jesa. 1. vers. 11, 12, 13, &amp; 
+          <lb ed="#H" n="22"/>I4. Quorsum mihi multitudo sacrificiorum vestrorum? dicit 
+          Ieha<lb ed="#H" n="23" break="no"/>va; Satur sum holocaustis arietum, &amp; adipe pinguium: &amp; sanguine 
+          <lb ed="#H" n="24"/>iuvencorum, agnorumque &amp; hircorum non delector. Quid advenitis: 
+          <lb ed="#H" n="25"/>an ut compareatis in conspectu meo? quis quaesivit hoc a manu 
+          ve<lb ed="#H" n="26" break="no"/>stra ut conculcetis atria mea? Ne pergitote offerre munus vanitatis 
+          <lb ed="#H" n="27"/>suffitus abominationi est mihi: novilunio, &amp; sabbatho convocando 
+          <lb ed="#H" n="28"/>convocationem, non possum ferre iniquitatem, neque interdicti die 
+          <lb ed="#H" n="29"/>Novilunia vestra, &amp; statas ferias vestras odit anima mea, sunt mihi 
+          <lb ed="#H" n="30"/>laboriosae; defessus sum ferendi. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3265">
+          <lb ed="#H" n="31"/>
+          <pc type="indent"/>III. Quia est mala, Ecclesiastis 5. 1. Observa pedem utrumque 
+          <lb ed="#H" n="32"/>tuum quum adis domum ipsam Dei, idque paratus ad audiendum 
+          po<lb ed="#H" n="33" break="no"/>tius quam ad dandum stolidorum sacrificium: nam hi non 
+          adver<lb ed="#H" n="34" break="no"/>tunt se facere malum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3278">
+          <lb ed="#H" n="35"/>
+          <pc type="indent"/>IV Quia nihil prodest cultoribus suis, Jesa. 1. vers. 15. Propterea. 
+          <lb ed="#H" n="36"/>expandentibus vobis manus vestras, occulto oculos meos a vobis, 
+          et<lb ed="#H" n="37" break="no"/>ium quum utimini multa oratione, non exaudio: manus vestrae 
+          cae<lb ed="#H" n="38" break="no"/>dibus plenae sunt.  
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3291">
+          <lb ed="#H" n="39"/>
+          <pc type="indent"/>V. Quia non est causa beatitudinis aeternae. Matth. 15. 9. Frustra 
+          <lb ed="#H" n="40"/>me colunt, docentes doctrinas quae sunt mandata hominum 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3301">
+          <lb ed="#H" n="41"/>
+          <pc type="indent"/>Quapropter errant, qui affirmant causam felicitatis reipubi 
+          <lb ed="#H" n="42"/>Romanae fuisse religionem Numae &amp; multorum deorum cultum: 
+          <lb ed="#H" n="43"/>nec minus imponunt simplicioribus ij qui praedicant, religionem 
+          <lb ed="#H" n="44"/>Romanae Ecclesiae qualis maxime inde a Gregorio Magno usque 
+          <lb ed="#H" n="45"/>in hodiernum diem fuit, causam fuisse atque etiamnum esse 
+          felicita<lb ed="#H" n="46" break="no"/>tis Reipublicae Christianae: 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3319">
+          <lb ed="#H" n="47"/>
+          <pc type="indent"/>Denique (ne plures opiniones falsas de Summo Bono enumerem 
+          <lb ed="#H" n="48"/>quarum ducentas &amp; octoginta quinque diversas Varro 
+          commemo<lb ed="#H" n="49" break="no"/>rat,) neque STATUS BONORUM OMNIUM corporis, &amp; (ut vocant)  
+          <lb ed="#H" n="50"/>fortunae aggregatione adeptioneque perfectus, est summum 
+          no<lb ed="#H" n="51" break="no"/>strum bonum. 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3335">
+          <lb ed="#H" n="52"/>
+          <pc type="indent"/>I. Quia est incertus 
+          <lb ed="#H" n="53"/>II. Quia hujus vitae terminis coarctatur.  
+          <lb ed="#H" n="54"/>III. Quia bona fortunae nulla sunt, quum fortuna Ethnicum 
+          <lb ed="#H" n="55"/>commentum sit, ut paulo ante dictum 
+          <lb ed="#H" n="56"/>Hucusque dictum est, quodnam sit &amp; quod non sit sum¬ 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3351">
+          <lb ed="#H" n="57"/>
+          <pc type="indent"/>mum bonum creaturarum rationalium atque in¬ 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3358">
+          <lb ed="#H" n="58"/>
+          <pc type="indent"/>primis hominis: sequitur de beatitudi¬ 
+        </p>
+        <p xml:id="yyy8Uu-e5xxxx-d1e3365">
+          <lb ed="#H" n="59"/>
+          <pc type="indent"/>ne edrundem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

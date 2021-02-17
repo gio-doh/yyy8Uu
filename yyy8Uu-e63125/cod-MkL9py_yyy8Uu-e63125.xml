@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="135"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e63125"> <!-- l2-c5 -->
+            <head xml:id="yyy8Uu-e63125-Hd1e109">Caput 5</head>
+            <p xml:id="yyy8Uu-e63125-d1e112">
+               <lb ed="#H" n="107"/>CAPUT V. 
+      <lb ed="#H" n="108"/>In quo docetur quid sit essentia Dei, quodque uni¬ 
+      <lb ed="#H" n="109"/>ca, &amp; quot modis consideretur.  
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e121">
+               <lb ed="#H" n="110"/>TIDEI de Deo duae sunt partes: prima de essentia Dei, secunda de 
+      <lb ed="#H" n="111"/>operibus ipsius. Psalmo 136 in quo hortatur Psaltes fideles o 
+      <lb ed="#H" n="112"/>mnes ad praedicandas Dei laudes propter naturam ejus bonam? 
+      <lb ed="#H" n="113"/>&amp; opera. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e132">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>ESSENTIA DEI, est ipsa Deitas, quam Deus a se &amp; per se 
+      ab<lb ed="#H" n="115" break="no"/>solute est &amp; exsistit. Gal. 4. 8. Imo tur, quidem ignorantes Deum, 
+      ser<lb ed="#H" n="116" break="no"/>viebatis iis, qui natura non sunt dii. Coloss. 2. 9. In eo (Christo) 
+      inha<lb ed="#H" n="117" break="no"/>bitat omnis plenitudo Deitatis corporaliter. Psaimo 90. 2. Quum 
+      non<lb ed="#H" n="118" break="no"/>lum montes editi essent, aut formasses terram orbemque habit abilem; 
+      de<lb ed="#H" n="119" break="no"/>nique inde a seculo &amp; usque in saculum tu Deus fortis es. Apoc. 1. 8. Ego sum 
+      <lb ed="#H" n="120"/>A &amp; ζ, id est, principium &amp; finis, dicit Dominus, id est. Qui est, &amp; Qui 
+      <lb ed="#H" n="121"/>erat, &amp; Qui venturus est, ille, inquam, omnipotens. Exod 3. 14. Dixit  
+      <lb ed="#H" n="122"/>itaque Iehova Moschi, Eheie, qui sum, dixitque, ita dices filiis Israelis, 
+      E<lb ed="#H" n="123" break="no"/>heie misit me ad vos. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e159">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Nomen hoc Hebraice in Scriptura PPUyIp dicitur: &amp; exstat 
+      Jes<lb ed="#H" n="125" break="no"/>28. v. 28. Etiam hoc a lehova exercituum prode, qui mirifitus est 
+      consi<lb ed="#H" n="126" break="no"/>sio, magnificus essentia. Nam quum in re qualibet modus eperationum 
+      <lb ed="#H" n="127"/>sequatur modum τοῦ ειναν sive essendi illius, quis neget hunc Iesaiae locum 
+      <lb ed="#H" n="128"/>si bene attenderit, ad essentiam Dei pertinere? THIT derivatur a 
+      ra<lb ed="#H" n="129" break="no"/>dice PH? fuit, pro quo etiam usurpatur anomalum Nν. A Graecis 
+      Pa<lb ed="#H" n="130" break="no"/>tribus appellatur ἐσια id est, essentia, &amp; quidem propriissime; quia Deus 
+      <lb ed="#H" n="131"/>solus propriissime est. Una &amp; sola Dei natura vere est. Id enim quod 
+      sub<lb ed="#H" n="132" break="no"/>sistit, non habet aliunde, sed suum est. Caetera quae creata sunt, etiamsi 
+      vi<lb ed="#H" n="133" break="no"/>dentur esse, non sunt, quia aliquando non fuerunt: &amp; potest rursum non 
+      <lb ed="#H" n="134"/>esse, quod non fuit. Deus solus qui aeternus est, hoc est, qui exordium non 
+      <lb ed="#H" n="135"/>habet, essentiae nomen vere tenet, ait Hieronymus secundo tomo 
+      epi<lb ed="#H" n="136" break="no"/>stota ad Damasum Dicitur etiam φυσις, natura, Gal. 4. v. 8. Imo tum 
+      <lb ed="#H" n="137"/>quidem ignorantes Deum serviebatis iis, qui τῆ φυσnid est, natura non 
+      <lb ed="#H" n="138"/>munt dii. Quanquam per naturam divinam intelliguntur quandoque dona 
+      <lb ed="#H" n="139"/>&amp; effecta Dei in nobis, ut 2. Pet. 1. v. 4. dicuntur fideles consortes effiei 
+      di<lb ed="#H" n="140" break="no"/>vinae naturae, hoc est, donorum Dei quibus similes fimus Deo; ut est regent 
+      <lb ed="#H" n="141"/>ratio &amp; naturae nostrae renovatio per Spiritum Sanctum. Vocatur etiam μocon 
+      <lb ed="#H" n="142"/>Ses, forma Dei. Philip. 2. v. 6. Quanquam autem ἔσια, φυσις &amp; μοζφη 
+      de<lb ed="#H" n="143" break="no"/>Philosophorum sententia differunt: ἀσια enim proprie significat nuda 
+      essen<lb ed="#H" n="144" break="no"/>tiam, quae, cum de rebus creatis sermo est exprimi solet per definitionem ex 
+      <lb ed="#H" n="145"/>genere &amp; differentia conflata, verbi gratia, ὕσια hominis est, esse animal 
+      <lb ed="#H" n="146"/>ratione praeditum: φυσιsς vero seu natura ipsi essentiae addit proprietate. 
+      <lb ed="#H" n="147"/>essentiales &amp; naturales; uti sunt in homine, esse capace disciplinae &amp; 
+      sci<lb ed="#H" n="148" break="no"/>entiarum, esse aptum ad ridendum, ad loquendum, esse immortalem anima: 
+      <lb ed="#H" n="149"/>μocoi, id est, forma: denique addit essentiae &amp; proprietatibus essentialibus 
+      <lb ed="#H" n="150"/>&amp; naturalibus alia etiam accidentia quae naturam sequuntur, &amp; quibs  
+      <lb ed="#H" n="151"/>quasi lineamentis &amp; coloribus ἔτια &amp; φυσις conformatur atque 
+      depingun<lb ed="#H" n="152" break="no"/>tur, uti in homine est, esse facie ad coelumerecta, esse tali forma corporis &amp; 
+      <lb ed="#H" n="153"/>figura membrorum praeditum: ac proinde φυσis complectitur etiam ἔσιαν, 
+      <lb ed="#H" n="154"/>vocon vero complectitur in se &amp; ἀσιαν &amp; φυσν: tamen secundum sanctos 
+      <lb ed="#H" n="155"/>Patres in doctrina de Deo, haec tria idem sunt, ut docet Damascenus in 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e233">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>χgoge c. 1. ὑσία και φυσις κι μοξφη κος τος αγιας πατερασεταυτὸν ἔσι 
+      <lb ed="#H" n="157"/>Essentia &amp; δῶν, qui est, in creaturis differunt: at Deus est id solus 
+      <lb ed="#H" n="158"/>quod est &amp; qui est, id est, Scia alteri non innitens 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e244">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>Essentia item &amp; exsistentia, quamvis in creaturis differant, tamen 
+      <lb ed="#H" n="160"/>non in Dei, 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e253">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Essentia &amp; substantia similiter differunt in creaturis, quia in 
+      sub<lb ed="#H" n="162" break="no"/>tantia essentia continetur &amp; praeter essentiam ipsam quaecunque 
+      natura<lb ed="#H" n="163" break="no"/>liter inhaerent essentiae: at in diuvinis pro eodem usurpantur 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e264">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Θεδτης verο κιΘειιτης, hoc est, Deitas, &amp; divinitas differunt ut causa 
+      <lb ed="#H" n="165"/>effectum, Θειοτης enim est ffectum, donum &amp; gratia Θεοτητυς 
+      <lb ed="#H" n="166"/>Eadem essentia Dei a Tertulliano, libro adversus Praxean c. 2. vo. 
+      <lb ed="#H" n="167"/>atur status, cum mait, tres sunt, non statu sed gradu; non substantia sed  
+      <lb ed="#H" n="168"/>dis consideretur. 
+      <lb ed="#H" n="169"/>forma, &amp;c. Ab eodem &amp; aliis Latinis Patribus substantia: a Graeci¬t 
+      <lb ed="#H" n="170"/>Patribus, ut paulo ante dictum est, Eσia appellatur, velut a Justino Man 
+      <lb ed="#H" n="171"/>yre Respons. 239. ad Orthodoxeos, item in expositione fidet: ab 
+      Athena<lb ed="#H" n="172" break="no"/>tora de resurrectione mortuorum pagina prima, ab Athanasio 
+      fre<lb ed="#H" n="173" break="no"/>quentissime. Licet Ionatius epistolam ad Magnesianos Scias nomen 
+      pro<lb ed="#H" n="174" break="no"/>ὑτοσάσει, sicut &amp; Hilarius, substantia pro persona dicat, sed improprie 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e293">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>Deinceps de essentia Dei quaeritur, unane sit an plures? &amp; quot me 
+      <lb ed="#H" n="176"/>Quum quaetitur, unane sit essentia Dei, an plures? respondemus 
+      <lb ed="#H" n="177"/>quod tantummodo una aut potius unica &amp; singularis sit, ag proinde 
+      <!--cod-MkL9py-0163.xml-->
+      <pb ed="#H" n="136"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>non aggregatione, non consensu, non genere vel specie, ut quidem 
+      <lb ed="#H" n="2"/>speciei vocem Philosophi accipiunt, sed numero, aut potius ante 
+      nu<lb ed="#H" n="3" break="no"/>merum: sic ut essentia nunquam de Deo dicatur in plurali numero 
+      <lb ed="#H" n="4"/>nullaque ratione possit concedi, in DEO esse tres essentias relativas 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e320">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Proinde etiam Deus est unus, non aggregatione, non consensu 
+      <lb ed="#H" n="6"/>non genere nec specie; sed tantum numero, aut potius ante 
+      nume<lb ed="#H" n="7" break="no"/>rum: unde eti im convenientius dicitur, unicus DEUS, quam unus, 
+      <lb ed="#H" n="8"/>Unicus enim dicitur per remotionem, ut vocant, plurium: unus vero 
+      <lb ed="#H" n="9"/>positiva significatione usurpatur frequentissime, non exclusis aut 
+      <lb ed="#H" n="10"/>negatis aliis. Itaque quum de DEO dicitur, quod sit unus, 
+      intel<lb ed="#H" n="11" break="no"/>ligendum est per exclusionem seu remotionem plurium, tumqui 
+      <lb ed="#H" n="12"/>valet tantundem, quod unicus Deus 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e342">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Deusque non est aggregativus, non consensione unus, non uni 
+      <lb ed="#H" n="14"/>versalis, non generalis nec specialis, seu non est totum quoddam agi 
+      <lb ed="#H" n="15"/>gregativum, non consensu duntaxat unus vel unum quiddam, non 
+      <lb ed="#H" n="16"/>universale, aut genus aut species; sed est numero unus, aut potius 
+      na<lb ed="#H" n="17" break="no"/>tura unus nullas habens partes, nullum genus, nullam speciem. Deus 
+      <lb ed="#H" n="18"/>ergo est ita unus essentia, ut simul sit numero unus Etsi enim tres sunt 
+      <lb ed="#H" n="19"/>numero personae Deitatis, Pater. Filius &amp; Spiritus Sanctus: illae tamet 
+      <lb ed="#H" n="20"/>sunt unus numero absolute seu unicus Deus ratione essentiae 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e364">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Basilius Magnus epistolam centesima quadragesimaprima, ad 
+      Cae<lb ed="#H" n="22" break="no"/>sarienses scripta, negat Deum esse unum numero; Non (inquit Junum 
+      <lb ed="#H" n="23"/>Deum numero, sed natura confiti mur. Omne enim quod unum numere 
+      <lb ed="#H" n="24"/>dicitur, hoc nen unum revera est, neque natura simplex. Deum autem 
+      <lb ed="#H" n="25"/>simplicem &amp; incompositum esse, omnes confitentur. Non igitur unus na 
+      <lb ed="#H" n="26"/>mero est Deus. At quod dico tale est. Vnum numero mundum esse dicimus 
+      <lb ed="#H" n="27"/>sed non unum natura, &amp; neque simplicem hunc quendam. Secamus enim 
+      <lb ed="#H" n="28"/>ipsum in ea ex quibus compositus est elementa, in ignem &amp; aquam, &amp; 
+      <lb ed="#H" n="29"/>aerem ac terra. Rursus homo unus numero nominatur: unum enim ho¬c 
+      <lb ed="#H" n="30"/>minem sape dicimus, sed non simplex quis hic est, ex corpore &amp; anima 
+      co<lb ed="#H" n="31" break="no"/>stans. Similiter autem &amp; angelum unum numero dicimus, sed non unum 
+      <lb ed="#H" n="32"/>natura neque simplicem. Essentiam enim cum sanctificatione, angeli 
+      sub<lb ed="#H" n="33" break="no"/>stantiam intelligimus. Si igitur omne unum numero, unum natura non 
+      <lb ed="#H" n="34"/>est: &amp; unum natura ac simplex, unum numero non est: nos autem dici 
+      <lb ed="#H" n="35"/>nus unum natura Deum: quomodo superinducunt nobis numerum 
+      <lb ed="#H" n="36"/>cum nos ipsum penitus a beata ac spirituait natura exterminemus? 
+      Nu<lb ed="#H" n="37" break="no"/>merus enim est quantitatis, quantitas aute corporali naturae coiuncta est 
+      <lb ed="#H" n="38"/>Numerus enim cerporeae est naturae. Corporum autem Opificem Dominum 
+      <lb ed="#H" n="39"/>nostrum esse credimus. Qua propter etam numerus omnia illa significat.  
+      <lb ed="#H" n="40"/>quibus materialem &amp; circumscriptam naturalem habere datum est. 
+      V<lb ed="#H" n="41" break="no"/>nitas autem simplicis ac incomprehensibilis essentiae significativa es¬ 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e414">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>
+               <name xml:id="yyy8Uu-e63125-Nd1e420">Ruffinus</name> in expositione Symboli Apostolici, sectione sexta ait, 
+      <lb ed="#H" n="43"/>Deum unum esse non numero sed universitate. verbi gratia, Si quis dicit 
+      <lb ed="#H" n="44"/>unum hominem, aut unum equum, hic unum pro numero posuit. Potest. 
+      <lb ed="#H" n="45"/>enim alius homo esse, &amp; tertius, vel equus. Ubi aute secundus vel tertius 
+      <lb ed="#H" n="46"/>non potest iungi, unus si dicatur, non numeri, sed universitatis est nomens 
+      <lb ed="#H" n="47"/>Vt si exempli causa dicamus unum solem: hic unus ita dicitur, ut alius 
+      <lb ed="#H" n="48"/>vel tertius addi non possit, unus est enim Sol. Multo magis ergo Deus 
+      <lb ed="#H" n="49"/>cum unus dicitur, unus non numeri, sed universitatis vocabulo 
+      nuncu<lb ed="#H" n="50" break="no"/>patur, qui propterca unus dicatur, quod alius non sit. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e441">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>At neque Basilius, neque Ruffinus pugnat nobiscum: quia unum 
+      nu<lb ed="#H" n="52" break="no"/>mero ambigue dicitur. Nam vel idem est quod unum individuum 
+      sub<lb ed="#H" n="53" break="no"/>specie certa habente plura sub se individua, quemadmodum Abrahamu 
+      <lb ed="#H" n="54"/>est homo unus numero, hoc est, individuum hominis, ac praeter illum 
+      plu<lb ed="#H" n="55" break="no"/>res sunt homines. Hoc sensu rocto negatur Deus unus esse numero, quia 
+      <lb ed="#H" n="56"/>Deus sub nulla est specie, nec ipse est species sive subalterna sive specialissi 
+      <lb ed="#H" n="57"/>ma. Vel unum numero idem est quod μόνον, solum non cum alio. Nos 
+      er<lb ed="#H" n="58" break="no"/>go dicimus, Deum esse unum numero, hoc est, esse μόνον, id est, solum, cum 
+      <lb ed="#H" n="59"/>quo &amp; praeter quem nullus est alius Deus, ut legitur Iohan. 
+      decimosepti<lb ed="#H" n="60" break="no"/>mo, versu tertio; Haec est vita aeterna, ut cognoscant te solum esse 
+      ve<lb ed="#H" n="61" break="no"/>rum illum Deum &amp; quem misisti Jesum Christum, seu, nullum 
+      esse<lb ed="#H" n="62" break="no"/>Deum cum ipso vel praeter ipsum, ut est Jesa. 44, 1. Sic ait Jehova Rex 
+      <lb ed="#H" n="63"/>Israelis &amp; vindex ejus, Jehova exercituum: Ego sum primus &amp; ego ul 
+      <lb ed="#H" n="64"/>timus, ac praeter me nullus est Deus: seu nullum esse alium Deum, nisi 
+      <lb ed="#H" n="65"/>unum, ut loquitur Paulus 1. Corin. 8 4. De esu igitur corum quae ido 
+      <lb ed="#H" n="66"/>lis immolantur, scimus idolum nihil esse in mundo, &amp; nullum esse 
+      <lb ed="#H" n="67"/>Deum alium nisi unum 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e483">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Quod autem τὸν μόιον ἀληθενὸν Θεον dicimus esse unum numero, δlο¬ 
+      <lb ed="#H" n="69"/>κρισεως causa facimus, ne quis unum specie specialissima, vel unum 
+      spo<lb ed="#H" n="70" break="no"/>cie vel unum genere esse existimet. Species non est aut subsistit per se (ideo 
+      <lb ed="#H" n="71"/>secunda substantia a Logicis appellatur) non loquitur, non agit per se: Al 
+      <lb ed="#H" n="72"/>Deus est, loquitur &amp; agit per se: Deus igitur non est species. Abrahamus, 
+      <lb ed="#H" n="73"/>Isaacus &amp; lacobus sunt unum specis vel genere (nam spocies subalterns 
+      <lb ed="#H" n="74"/>capitur etiam pro genere respectu specierum infra illud constitutarum) 
+      scu<lb ed="#H" n="75" break="no"/>secundum speciei humanae vel generis humani unitatem, seu unitate 
+      spe<lb ed="#H" n="76" break="no"/>ciei vel generis. Pater vero, Filius &amp; Spiritus Sanctus sunt unus Deus 
+      u<lb ed="#H" n="77" break="no"/>nitate numeri, seu sunt secundum essentiam unus numero. In homine 
+      <lb ed="#H" n="78"/>communis &amp;i singularis est unitas, comunis secundum speciem vel genus 
+      <lb ed="#H" n="79"/>singularis secundum matet iale individuum: in Deo vero est Deitas per 
+      <lb ed="#H" n="80"/>fectissima saundum essentiam communem, &amp; rationem personarum 
+      sin<lb ed="#H" n="81" break="no"/>gularem, una per omnia unitate numeri: quia Deus unica spiritualis 
+      es<lb ed="#H" n="82" break="no"/>sentia est non divisis materialiter personis, sed ratione distinctis realite 
+      <lb ed="#H" n="83"/>in unuate essentie. Dispar est ratio, quia quod in homine est imperfecte 
+      <lb ed="#H" n="84"/>ut consmunera &amp; singularem humanitatem habeat; id in Deo est 
+      perfe<lb ed="#H" n="85" break="no"/>ctissie, quod Deitatem totam essentia Dei habet communiter &amp; 
+      perso<lb ed="#H" n="86" break="no"/>na singularitera. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e530">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Vt eutem amhiguitas omnis evidentius tollatur, sciendum omnino est 
+      <lb ed="#H" n="88"/>quod numero unus non eode modo dicatur, sed vel absolute vel relate: 
+      <lb ed="#H" n="89"/>sicut unum dicitur vel absolute vel relate. Vnum absolute est, quod cum 
+      <lb ed="#H" n="90"/>Ente convertitur, &amp; non addit ad Ens rem aliquam, sed tantum negat: 
+      <lb ed="#H" n="91"/>de eo divisionem omnem. Vnum relate est, quod est principium numeri 
+      <lb ed="#H" n="92"/>&amp; habet se relative ad alios sequentes numeros. Sic numero unus ab¬ 
+      <!--cod-MkL9py-0163.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>solute, dicitur qui ita unus est, ut solus sit &amp; praeter eum mn sit alius, qua 
+      <lb ed="#H" n="94"/>Graeci μοναδινον appellant. Quicquid igitur numero unum absolute est, 
+      <lb ed="#H" n="95"/>simplicem negatione seu remotionem &amp; exclusione omnis divisionis 
+      sta<lb ed="#H" n="96" break="no"/>tuit, &amp; nihil aliud significat, qua ens indivisum, ut loquuntur Scholae: ac 
+      <lb ed="#H" n="97"/>propterea unum hoc cum ente convertitur, quia videlicet unumquodque 
+      <lb ed="#H" n="98"/>ens tam diu confervat suum esse, quamdiu conservat unitatem suam. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e565">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Numero unus relate, dicitur qui ita unus est, ut tamen praeter eum. 
+      <lb ed="#H" n="100"/>sint alii eiusde essentiae seu ordinis: velut Petrus Apostolus est homo unus 
+      <lb ed="#H" n="101"/>numero, sed relate, quia praeter eum alii quoque sunt homines. Quicquid 
+      i<lb ed="#H" n="102" break="no"/>gitur est numero unum relati, est principium numeri, &amp; respicit 
+      additio<lb ed="#H" n="103" break="no"/>nem ad ens, per multiplicationem unitatum 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e581">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Itaque unum quod cum ente convertitur, sive absolute dictum, 
+      multi<lb ed="#H" n="105" break="no"/>tudini opponitur per modum privationis seu remotionis, ut indivisum 
+      <lb ed="#H" n="106"/>diviso: unum vero relate dictum, multitudini opponitur per modum 
+      adje<lb ed="#H" n="107" break="no"/>ctionis, quae adiectio nihil est aliud, quam numerus: &amp; numerus ipse 
+      ni<lb ed="#H" n="108" break="no"/>hil nisi multitudo, per unum unitatemve mensurata. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e597">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Deo autem prior modus unius numero tribuitur, si ad essentiam 
+      re<lb ed="#H" n="110" break="no"/>spexeris, maxime proprie: posterior autem non nisi καταχρισιϰώς 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e606">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>Deus igitur est numero unus absolute, non relare, sicut Tertullianus 
+      <lb ed="#H" n="112"/>ait, libro adversus Hermogenem, c. 17. Unici Dei status hanc regulam 
+      <lb ed="#H" n="113"/>vindicat: non aliter unici, nisi quia solius: non aliter solius, nisi quia 
+      <lb ed="#H" n="114"/>nihil cum ille, 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e619">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Deum esse unum numero absolute, probamus primo Scriptura 
+      <lb ed="#H" n="116"/>testimoniis: deinde aliis argumentis, 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e629">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Sacrae Scripturae testimonia sunt Deut. 4. 35. Tibi exhibita sunt 
+      vi<lb ed="#H" n="118" break="no"/>denda, ut cognoscas Jehovam esse Deum ipsum, nullum amplius esse praete 
+      <lb ed="#H" n="119"/>eum. Et v. 39. Agnoscas igitur hodie, &amp; revoces in animum tuum, 
+      Jeho<lb ed="#H" n="120" break="no"/>vam Deum ipsum esse, in coelis superne, &amp; in terra inferne, nullii amplius 
+      <lb ed="#H" n="121"/>esse. Deut. 6. 4. Audi Israel, Jehova Deus noster, Jehova unus est. Deut. 
+      <lb ed="#H" n="122"/>32. v. 39. Videte nunc me, meipsum esse, &amp; nullum esse Deum mecum. 1. 
+      <lb ed="#H" n="123"/>Corinth. 8. vers. 4. Scimus idolum nihil esse in mundo, &amp; nullum esse 
+      <lb ed="#H" n="124"/>Deum alium, nisi unum 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e651">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Argumenta vero alia, quibus Dei unitas evincitur, inter plurima 
+      <lb ed="#H" n="126"/>haec sunt.  
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e660">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>I. Quia ens a se non potest esse nisi unum: Deus est ens a se: Ergo 
+      <lb ed="#H" n="128"/>non potest esse nisi unum. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e669">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>II. Quia Deus est summe perfectus. Summe perfectum non 
+      po<lb ed="#H" n="130" break="no"/>test nisi unum exsistere. Qui enim solus habet totum, ille perfectus 
+      <lb ed="#H" n="131"/>demum est: imperfecti autem sunt, qui habent aliquid inter se 
+      distri<lb ed="#H" n="132" break="no"/>butum. Unica est igitur essentia divina, siquidem sparsa in plures deos 
+      <lb ed="#H" n="133"/>Deitas in nullo esset universa: ideoque nullus eorum perfectus, ac 
+      pro<lb ed="#H" n="134" break="no"/>inde nullus esset verus Deus. 
+      <lb ed="#H" n="135"/>III. Quia gubernatio Mundi plures deos non admittit. Est 
+      ver<lb ed="#H" n="136" break="no"/>sus Homeri de Rege, 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e691">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Θυκ αγαθον πολθκοιρανιηιεις κοιρανος ἔστα¬ 
+      <lb ed="#H" n="138"/>Multos imperitare malum est; Rex unicus esto 
+      <lb ed="#H" n="139"/>Hoc multo magis de Deo dici potest. Nam minime obscurum 
+      <lb ed="#H" n="140"/>est, illius majorem esse autoritatem &amp; majestatem, qui solus imperat 
+      <lb ed="#H" n="141"/>universis, &amp; omnia solus gubernat, quam qui diversae essentiae socios 
+      <lb ed="#H" n="142"/>dominationis habet; ideoque illi majestati, quae summa sit, convenit, ut  
+      <lb ed="#H" n="143"/>sine sociis imperet. Divinam vero majestatem esse tantam, ut major 
+      <lb ed="#H" n="144"/>neque cogitari neque exsistere ulla queat; etiam naturali judicio 
+      men<lb ed="#H" n="145" break="no"/>tes hominum agnoscunt 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e715">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>IV. Quia Deus est omnipotens. Non possunt esse plures 
+      omni<lb ed="#H" n="147" break="no"/>potentes, quam unus: nam si plures pariter omnipotentes constitus 
+      <lb ed="#H" n="148"/>antur, alius alium impediendi potestatem habebit: Si non habebit; 
+      <lb ed="#H" n="149"/>mullus erit omnipotens ac proinde nullus erit Deus 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e729">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>V. Quia est sufficientissimus. Si plures essent dii, aut imperfecti 
+      <lb ed="#H" n="151"/>aut superflui essent, ac proinde deitatis nomine indigni 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e738">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>VI. Quia est ubique. At si plures sunt dii, ubi sunt? nam ut ratio 
+      <lb ed="#H" n="153"/>cinatur Athenagoras in legatione ad M. Antoninum Philosophum &amp; 
+      <lb ed="#H" n="154"/>Commodum Imperatores; Si duo aut plures ab initio dii fuerunt, vel 
+      con<lb ed="#H" n="155" break="no"/>iuncti illi pariter in una eademque natura, vel separati fuere singuli. At 
+      <lb ed="#H" n="156"/>coniuncti simul esse non poterant, utpote dissimiles: nam ut divinitate 
+      si<lb ed="#H" n="157" break="no"/>miles sint: co tamen erunt dissimiles, quod alii infecti sunus nepe verus &amp; 
+      <lb ed="#H" n="158"/>summus Deus, infectus est) alii vero facti sint. Factum autem exemplar  
+      <lb ed="#H" n="159"/>suo est simile: infectum non item; quum neque de aliquo, neque ad aliquia  
+      <lb ed="#H" n="160"/>factum sit. Quod si quis ita plures deos in unum conifunctos existimet, ut parte 
+      <lb ed="#H" n="161"/>quaedam unius sint atque totius: sicuti unum animantis corpus partes 
+      di<lb ed="#H" n="162" break="no"/>versae costituunt, manus, pes, oculus: audiet ille a nobis, Socratem quatenus 
+      <lb ed="#H" n="163"/>generationi &amp; corruptioni obnoxius est, &amp; e partibus componi, ac rursus 
+      <lb ed="#H" n="164"/>in eas dividi: Deum vero infectum &amp; impassibilem, divisionem nullam 
+      <lb ed="#H" n="165"/>admittere, neque ex partibus constare. At si eorum quisque seorsum fuerit, 
+      <lb ed="#H" n="166"/>eo qui mundum fecit, supra mundum &amp; circa opera sua quae fecit atque, 
+      <lb ed="#H" n="167"/>digessit, exsistente alter aut reliqui ubi erunt? Si enim mundus, orbicula. 
+      <lb ed="#H" n="168"/>ris cum sit, sphaeris coelestibus concluditur, mundi vero architectus suis est 
+      <lb ed="#H" n="169"/>sublimior operibus, isque providedo praeest mundo, quemnam alteri aut re. 
+      <lb ed="#H" n="170"/>liquis assignabimus locum? Nempe in mundo non est, quum is sit alterius 
+      <lb ed="#H" n="171"/>nimirum supremi Dei,) neque circa mundum: supra hunc enim Deus. 
+      <lb ed="#H" n="172"/>mundi opifex est. Quod si neque in mundo est, neque circa mundum (
+      o<lb ed="#H" n="173" break="no"/>mnis enim illi circuitus ab opifice occupatur) quo tandem in loco supra 
+      <lb ed="#H" n="174"/>mundum, supraque Deum eru? In alione mundo, aut circa alium? Sed 
+      si<lb ed="#H" n="175" break="no"/>ve in alio mundo sive circa alium est, non amplius circa nos est(&amp; nihili 
+      <lb ed="#H" n="176"/>ad nos) qui mundum (nostrum) non regat. Item si intra mundum est, 
+      po<lb ed="#H" n="177" break="no"/>tentia eius magna non fuerit, quod loco definiatur. Ergo si neque in nostra 
+      <lb ed="#H" n="178"/>mundo est, neque circa nostrum: neque in alio, aut circa alium: quoniam 
+      <lb ed="#H" n="179"/>ut unus his noster mundus corpora omnia occupat, completurque ex 
+      o<lb ed="#H" n="180" break="no"/>mnibus ita ut nihil extra ipsum relinquatur: sic opifex eius totum ipsius 
+      <lb ed="#H" n="181"/>imbitum unicus obtinet: sequitur ut omnino nonsit, quum nullus ei 
+      lo<lb ed="#H" n="182" break="no"/>cus supersit: sed ut sit alicubi, quidnam operis faciet? Nihil, ut apparet: 
+      <lb ed="#H" n="183"/>quum alius sit, ad quem mundus pertinet, ipse vero neque in mundo, 
+      <lb ed="#H" n="184"/>neque circa eum, sed (extrinsecus alicubi) supra opificem mundi. 
+      <!--cod-MkL9py-0164.xml-->
+      <pb ed="#H" n="137"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Nihil cerre abiud superest ubi Deus factus cum ente, (id est, summo 
+      infe<lb ed="#H" n="2" break="no"/>ctoq) consistat. Hic enim infectus &amp; ea quae ipsius sunt, mundum ita 
+      ex<lb ed="#H" n="3" break="no"/>cedit, ut impleat undiquaque quicquid supra ipsum est, nec locum ullum se 
+      <lb ed="#H" n="4"/>vacuum relinquat. Sed providere forsan eum aliquis dicat. Verum no 
+      <lb ed="#H" n="5"/>provideat quidem iis quae non fecit. Itaque efficitur, ut si nihil facit, neque  
+      <lb ed="#H" n="6"/>providet, neque locus ei superest ullus, nusquam &amp; omnino non exstet. 
+      <lb ed="#H" n="7"/>unus vero ille a principio &amp; solus mundi opifex Deus relinquatur. His &amp; 
+      <lb ed="#H" n="8"/>hujusmodi tantum rationihus si niteremur, merito humanam esse 
+      per<lb ed="#H" n="9" break="no"/>suasionem nostram aliquis judicaret. Verum insuper Prophetarum 
+      vo<lb ed="#H" n="10" break="no"/>ces animos nostros muniunt. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e842">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>VII. Quia Deus est primum ens. Haec est maxima unitas, quae 
+      <lb ed="#H" n="12"/>non est ulterius divisibilis. Porro cum Deus ens primum dicitur, res 
+      <lb ed="#H" n="13"/>latio fit, vel ad entia caetera, quae ab ipso sunt, in ipso (quamvis extra 
+      i<lb ed="#H" n="14" break="no"/>ipsum,) per ipsum &amp; propter ipsum 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e855">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>IIX. Quia Deus est summum ens. Unum est passio entis: ac 
+      <lb ed="#H" n="16"/>proinde quo aliquid est magis ens eo est etiam magis unum 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e864">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>IX. Quia si Deus non est unus, omnino non est. Tertullianus libr 
+      <lb ed="#H" n="18"/>4. adversus Marcionem hoc argumentum affert; ait enim: Veritas 
+      <lb ed="#H" n="19"/>Christiana districte pronunciat, Deus si non unus est, non est 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e875">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>X. Quia ipsimet Gentiles agnoscunt &amp; fatentur, unum tantum 
+      <lb ed="#H" n="21"/>esse Deum: velut Orpheus canit. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e885">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>εις κσ, αυτογιωῆς ενος ἐκγονα πανλα τετυκται 
+      <lb ed="#H" n="23"/>Unicus est, per se exsistens: qui cuncta creavit.  
+      <lb ed="#H" n="24"/>Ita prisca valdeque antiqua Sybilla, cujus Plato &amp; Aristophanes ut 
+      <lb ed="#H" n="25"/>fatidicae meminerunt . 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e898">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>εis δέ θεος μοόνος ἐστιν, ὑπερμεγίθες, αγινητος 
+      <lb ed="#H" n="27"/>παντοκργτον, αοργτος, ρωμδος ἀυτός ἀπαγτα. hoc est, 
+      <lb ed="#H" n="28"/>Hnus vero Deus solus est, maximus, non factus 
+      <lb ed="#H" n="29"/>Omnipotens: invisibilis, ipse omnia cernens. 
+      <lb ed="#H" n="30"/>εἰς ταις ειληδειαισεν, εἰς ἔσι θεός 
+      <lb ed="#H" n="31"/>ωσ δρανον τοτουχεκι γαιαν μακραν, hoc est. 
+      <lb ed="#H" n="32"/>Unus revera, unus est Deus, 
+      <lb ed="#H" n="33"/>Qui coelum condidit &amp; terram patentem. 
+      <lb ed="#H" n="34"/>At Deus ille unus non est alius, nisi Deus Israelis seu in Israele 
+      pa<lb ed="#H" n="35" break="no"/>tefactus 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e924">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Hujus axiomatis cognitio magni est momenti: non est satis nosse, 
+      u<lb ed="#H" n="37" break="no"/>num esse Deum: sed necesse est praeterea scire, quisnam ille sit. Orpheus, 
+      <lb ed="#H" n="38"/>Sophocles, Pythagoras, Plato, Aristoteles, Cicero &amp; alii sapientiore 
+      <lb ed="#H" n="39"/>Sentiles fatebantur esse unum Deum: interim a vero Deo aberrarunt. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e937">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Testatur id Sacra Scriptura: Deut 4. v. 6, 7. Haec est sapientia vestra 
+      <lb ed="#H" n="41"/>&amp; prudentia vestra ante orulos populorum: qui audientes omnia statuta. 
+      <lb ed="#H" n="42"/>ista dicent, tantum gens ista maxima populus sapiens est &amp; prudens. Nam 
+      <lb ed="#H" n="43"/>quae gens est quantumvis maxima, cui sit Deus ita propinquus; sicut 
+      Ie<lb ed="#H" n="44" break="no"/>nova Deus noster est quotiescunque invocamus eum? Psal. 76. 2. Notus est 
+      <lb ed="#H" n="45"/>in Iuda Deus, in Israele magnum nomen ejus. Dan. 2. 47. dixit 
+      Nebu<lb ed="#H" n="46" break="no"/>cadnetzar Danieli: ex veritate est quod Deus vester est Deus Deorum &amp; 
+      <lb ed="#H" n="47"/>Dominus regum ac revelans arcana. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e959">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Fateri coguntur ipsimet Ethnici. Varro Romanorum doctissimus 
+      <lb ed="#H" n="49"/>qui deorum omnium indicem seu inventarium ex antiquis 
+      monu<lb ed="#H" n="50" break="no"/>mentis confecit, Ne forte, ut ipse loquitur, clade aliqua perirent; 
+      agi<lb ed="#H" n="51" break="no"/>noscit, verum Deum ab illis tantum coli qui unum &amp; absque statu. 
+      <lb ed="#H" n="52"/>venerantur, quem universi rectorem credunt: Hunc vero quocunqui 
+      <lb ed="#H" n="53"/>alio nomine significetur, a Judaeis vere adorari, quorum (inquit Varre 
+      <lb ed="#H" n="54"/>exemplo, si imaginum prohibitus fuisset usus, in tot tamque 
+      multi<lb ed="#H" n="55" break="no"/>plices errores superstitionesque non incidissemus. Strabo retum 
+      Geo<lb ed="#H" n="56" break="no"/>graphicarum lib. decimosexto dicit de Mose &amp; successoribus ejus 
+      <lb ed="#H" n="57"/>quod fuerint δικαιοπξαγοτες κι θεοσεβεις ας ἀληδῶς οντες, iustitiae studios 
+      <lb ed="#H" n="58"/>dediti &amp; vere religios. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e988">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Consulente quodam, ut refert Iustinus Martyr in Paraenesi ad 
+      <lb ed="#H" n="60"/>Graecos, oraculum Ethnicum, quinam unquam exstiterint vere pii &amp; 
+      <lb ed="#H" n="61"/>religiosi homines, tale responsum id edidit: 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e1000">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Μονοι χαλδαιοσ σογιλιν λαχον, ηδι ας εορασοι, 
+      <lb ed="#H" n="63"/>Aυτογρθηοον αυακζα σεζαζομδον θεον αγνώς., hoc est, 
+      <lb ed="#H" n="64"/>Solus Chaldeus sapit, &amp; Iudeaus apella, 
+      <lb ed="#H" n="65"/>Per se exsistentem regemque Deumque colentes. 
+      <lb ed="#H" n="66"/>Cornelius Tacitus, quem Tertullianus in Apologetico cap. 16, 
+      men<lb ed="#H" n="67" break="no"/>daciorum loquacissimum appellat, in quinto Historiarum ab excessu 
+      Ne<lb ed="#H" n="68" break="no"/>ronis libro, bellum contra Iudaeos susceptum descripturus, etiam de ipsa 
+      <lb ed="#H" n="69"/>tam origine, quam de nomine &amp; religione gentu quae voluit, edidit: Mo 
+      <lb ed="#H" n="70"/>sique maxime infestus, eum dicit, cum Iudaei extorres vastis Arabiae in 
+      loci<lb ed="#H" n="71" break="no"/>aquarum ogentissimis siti fatigarentur, iamque haud procul exitio, totis 
+      <lb ed="#H" n="72"/>campis procubuissent, onagros seu asinos agrestes, e pastu in rupem nemore 
+      <lb ed="#H" n="73"/>opacam concidentes, potumque petituros secutum, coniectura herbidi soli,  
+      <lb ed="#H" n="74"/>largas aquarum venas aperuisse: id levame siti Iudaeorum attulisse. 
+      Mo<lb ed="#H" n="75" break="no"/>sen quod asino indice fontes reperisset, &amp; errorem sitimque depu:isset, ob 
+      <lb ed="#H" n="76"/>eam gratiam effigiem animalis, nimirum asini, penetrali sacravisse, 
+      no<lb ed="#H" n="77" break="no"/>vos ritus contrariosque caeteris mortalibus, quo sibi in posterum gentem 
+      fir<lb ed="#H" n="78" break="no"/>maret, indidisse: caetera instituta sinistra, foeda pravitate valuisse: pessu 
+      <lb ed="#H" n="79"/>mum quemque, spretis religionibus patriis tributa &amp; stipes illuc congessisse 
+      <lb ed="#H" n="80"/>unde res Iudaeorum auctae. Mox sibi ipse contradicens. Tacitus, Iudaeos 
+      <lb ed="#H" n="81"/>, laudat, quod apud ipsos fides obstinata &amp; constans, misericordia in 
+      prom<lb ed="#H" n="82" break="no"/>, tu: necare quemquam ex gnatis nefas: eos animas praelio aut suppliciis 
+      <lb ed="#H" n="83"/>o, peremtorum aeternas putare, hinc generandi amore &amp; moriendi 
+      contem<lb ed="#H" n="84" break="no"/>a tum AEgyptios pleraque animalia effigiesque compositas venerart: Iudaeo 
+      <lb ed="#H" n="85"/> mente solam, unumque numen intelligere, profanos censere qui Deam 
+      ima<lb ed="#H" n="86" break="no"/>ii gines, mortalibus materiis, in spectes hominum effingant. Summum 
+      illu<lb ed="#H" n="87" break="no"/>9, &amp; aeternum, neque mutabile neque interiturum. Igitur nulla simulacra 
+      ur<lb ed="#H" n="88" break="no"/>o bibus suis, nedum templis habere. Non regibus hanc adulationem, non 
+      <lb ed="#H" n="89"/>ai Caesaribus honorem. Cn. Pompeium, cum Hierosolymam cepisset, templ 
+      <lb ed="#H" n="90"/>jure victoriae ingressum speculandis Iudaicae religionis arcanis, vacuam 
+      <lb ed="#H" n="91"/>οo sedem &amp; inania arcana, nullum intus reperisse simulacrum. Tacitus 
+      igi<lb ed="#H" n="92" break="no"/>tur semetipsum refellit. Nam si Moses asini cuitum instituit, si animalis 
+      <!--cod-MkL9py-0164.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>effigiem sacravit, si ea a Iudaeis culta fuit, nusquam magis quam in 
+      sacra<lb ed="#H" n="94" break="no"/>rio suo exhiberetur, eo magis quia nec verebantur extraneos arbitros, 
+      <lb ed="#H" n="95"/>quanquam vana cultura. Solis enim sacerdotibus adire licitum &amp; 
+      con<lb ed="#H" n="96" break="no"/>spectus caeterorum velo oppanso interdicebatur. Iudaeorum igitur longe 
+      <lb ed="#H" n="97"/>alius Deus, quam initis Tacitus ferebat: &amp; asininum eius commentum 
+      <lb ed="#H" n="98"/>longiore refutatione est indignam. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e1089">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Quidam alii autumarunt, Iudaeos Saturnum in honore habuisse, quia 
+      <lb ed="#H" n="100"/>Sabbatho quiescebant, qui dies apud Ethnicos Saturno sacer 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e1098">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Hactenus asseruimus unitatem essentiae divinae contra Gentiles 
+      <lb ed="#H" n="102"/>πολθθείας autores: contra Tritheitas, qui tres divinas essentias &amp; 
+      qui<lb ed="#H" n="103" break="no"/>dem inaequales statuunt: contra Tetratheitas, qui quatuor deos 
+      con<lb ed="#H" n="104" break="no"/>stituerunt: denique contra quosvis haereticos plures quam unum 
+      <lb ed="#H" n="105"/>Deum introducentes. Nunc explicandum, quot modis essentia Dei, 
+      <lb ed="#H" n="106"/>consideretur. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e1116">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>Essentia Dei duobus modis consideratur, nempe vel communiter,  
+      <lb ed="#H" n="108"/>vel singulariter 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e1125">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Communiter quidem consideratur, ut est in se Patri, Filio &amp; 
+      Spiri<lb ed="#H" n="110" break="no"/>tui Sancto communis aequaliter. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e1134">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>Singulariter vero consideratur, ut est in persona qualibet, 
+      secun<lb ed="#H" n="112" break="no"/>dum certum modum subsistendi, in Patre αγλονυτος, in Filio θοονητῶς 
+      <lb ed="#H" n="113"/>in Spiritus Sancto εκπορδετυς, 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e1146">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Proinde essentiae divinae alia est ratio in se;alia in persona qualibet;  
+      <lb ed="#H" n="115"/>quum modi subsistendi valde inter se differant.  
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e1155">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>Porro cum dicimus, essentiam divinam esse in Patre ἀρλονητυς, 
+      <lb ed="#H" n="117"/>in Filio θονητῆς, in Spiritu Sancto εκπορδυτος, non hoc volumus, 
+      es<lb ed="#H" n="118" break="no"/>sentiam divinam esse in Patre ingenitam, in Filio genitam, in Spiriti 
+      <lb ed="#H" n="119"/>Sancto procedentem, sic enim triplex essentia divina statueretur: sed 
+      <lb ed="#H" n="120"/>adverbiis illis duntaxat modos subsistendi diversos, quibus essentia 
+      <lb ed="#H" n="121"/>divina in singulis personis subsistit, indicamus, nempe quod illa in 
+      <lb ed="#H" n="122"/>Patre non sit per generationem, in Filio per generationem 
+      commu<lb ed="#H" n="123" break="no"/>nicata a Patre, in Spiritu Sancto per processionem seu spirationem 
+      <lb ed="#H" n="124"/>communicata a Patre &amp; Filioe 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e1179">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Eodem prorsus sensu dicitur essentia divina considerati vel 
+      indi<lb ed="#H" n="126" break="no"/>stincte vel distincie. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e1188">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Indistincte, cum secundum perfectionem suam consideratur in se 
+      <lb ed="#H" n="128"/>absolute. 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e1197">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>Distincte vero, cum relationum divinarum adjectu induit 
+      ratio<lb ed="#H" n="130" break="no"/>nem personalitatis 
+      </p>
+            <p xml:id="yyy8Uu-e63125-d1e1206">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>Ac rursus eodem sensu digitur essentia divina considerati vel 
+      ab<lb ed="#H" n="132" break="no"/>olute, vel relate.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

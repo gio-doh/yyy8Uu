@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="137"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e64179"> <!-- l2-c6 -->
+            <head xml:id="yyy8Uu-e64179-Hd1e109">Caput 6</head>
+            <p xml:id="yyy8Uu-e64179-d1e112">
+               <lb ed="#H" n="133"/>CAPUT VI 
+      <lb ed="#H" n="134"/>In quo de nominibus Dei
+    </p>
+            <p xml:id="yyy8Uu-e64179-d1e119">
+               <lb ed="#H" n="135"/>TIDEI de essentia Dei, duae sunt partes: prima de attributis Deii 
+      <lb ed="#H" n="136"/>Tsecunda de personis Deitatis, 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e126">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>ATTRIBUTA DEI, sunt quae Deo adscribuntur in 
+      Scri<lb ed="#H" n="138" break="no"/>turis Sanctis, non tam ad essentiam naturamque Dei explicandam 
+      <lb ed="#H" n="139"/>quam ad declarandum nobis aliquo modo pro nostro captu illud quod 
+      <lb ed="#H" n="140"/>de Ipso a nobis cognosci potest. Quanqua ex illis potius quis &amp; quos 
+      <lb ed="#H" n="141"/>modo non sit, qua quis &amp; quomodo qualisque sit a nobis cognoscatur.  
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e143">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>eAxiomata: 
+      <lb ed="#H" n="143"/>I. Quicquid de Deo dicitur, non est Deus, quia est ineffabilis 
+      <lb ed="#H" n="144"/>II. Nulla attributa divina essentiam naturamque Dei sufficient 
+      <lb ed="#H" n="145"/>ter explicant: quia illa est infinita: Infinitum autem per id quod 
+      fini<lb ed="#H" n="146" break="no"/>tum est, digne satis, pleneque explicari non potest. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e159">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>III. Attributa DEI in Scripturis tradita nostram notitiam de 
+      <lb ed="#H" n="148"/>Deo, tum insitam tum acquisitam, juvant &amp; perficiunt  
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e168">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>Damascenus libro primo εκδυσεωσ της οθρουgα πιςεως cap. 1. ait: 
+      pon<lb ed="#H" n="150" break="no"/>πον τῶυ δεῖον κα ἀκαταληπτον Ineffabile est divinum numen &amp; 
+      incompro<lb ed="#H" n="151" break="no"/>hensibile. Nam essentia Dei quid &amp; qualis in se sit, comprehendi a 
+      crea<lb ed="#H" n="152" break="no"/>to intillectu, &amp; humano sermone efferri non potest: ideo Spiritus Sanctu 
+      <lb ed="#H" n="153"/>demisit se ad nostrum captum, &amp; attributis quibusdam essentiam suam, 
+      <lb ed="#H" n="154"/>descripsit.  
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e186">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Attributa divina primo vel affirmativa sunt, vel negativa 
+      <lb ed="#H" n="156"/>Affirmaciva, sunt quae perfectionem aliquam in Deo ponunt, ut  
+      <lb ed="#H" n="157"/>indicent &amp; Deum perfectum esse in se &amp; autorem omnium 
+      perfecti<lb ed="#H" n="158" break="no"/>onum in creaturis: ut cum dicitur Iehova, sapiens, bonus, potens. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e199">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>Negativa, sunt quae imperfectiones creaturarum a Deo removent. 
+      <lb ed="#H" n="160"/>quum Deus dicitur infinitus, immensus, incorruptibilis, immortalis 
+      <lb ed="#H" n="161"/>Attributa divina secundo vel propria sunt, vel figurata. 
+      <lb ed="#H" n="162"/>Attributa divina propria, sunt quae Deo proprie competunt, ac 
+      pro<lb ed="#H" n="163" break="no"/>inde etiam proprie de Deo dicuntur, si tem significatam inspicias; exsi 
+      <lb ed="#H" n="164"/>improprie, si modum significandi 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e217">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Distingui debet vox are per vocem significata. Si voces consideres 
+      qui<lb ed="#H" n="166" break="no"/>bus attributa Dei efferuntur, nulla proprie attribuitur Deo: Quia nulla 
+      <lb ed="#H" n="167"/>omnino vox est, quae vel rei creatae natura plene &amp; integre significet: muli 
+      <lb ed="#H" n="168"/>Ominus divinam naturam ἐλoς exprimet seu describet. Vox quaelibet. 
+      <lb ed="#H" n="169"/>finita est &amp; humano captui accomodata: quaelibet autem proprietas Dei 
+      <lb ed="#H" n="170"/>essentialis est infinita &amp; omnium creaturarum captum prorsus excedit. Sine 
+      <lb ed="#H" n="171"/>vero rem spectes, quae voce significatur, illa Deo proprie convenit. Hinc fit. 
+      <lb ed="#H" n="172"/>ut nullum attributum de Deo affirmetur, quod de eodem non possit 
+      nega<lb ed="#H" n="173" break="no"/>ci suo modo. Videatur Philo Judaeus libro de Abrahamo, item de 
+      migra<lb ed="#H" n="174" break="no"/>tione Abrahami, item de somniis, &amp; libro primo de vita Mosit. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e244">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>Eaque non sunt σuυώνυμα, quamvis rem simplicissima signent. 
+      Ratio<lb ed="#H" n="176" break="no"/>aunt non est, quia distinguantur formaliter secundum natura rei, quod 
+      <lb ed="#H" n="177"/>falso docuit Scotus: sed quia unicae rei multiplices virtutes &amp; 
+      operatio<lb ed="#H" n="178" break="no"/>nes, nos variis conceptibus effigiamus, quum uno non possimus 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e257">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>Quaedam ex illis de solo DEO enunciantur &amp; nulli creaturae 
+      un<lb ed="#H" n="180" break="no"/>quam ne analogice quidem attribui possunt, ut nomen Iehovae, eique 
+      <lb ed="#H" n="181"/>equipollentia, 
+      <!--cod-MkL9py-0165.xml-->
+      <pb ed="#H" n="138"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Quae vero ex illis de Deo &amp; creaturis enunciantur; sunt Deo &amp; 
+      <lb ed="#H" n="2"/>creaturis communia, non συνωνυμως, neque oμωγυμςως, sed κα ἀναλο¬ 
+      <lb ed="#H" n="3"/>γιμν: ut Deus, bonus, sapiens, Rex, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e281">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Distributiones propriorum attributorum Dei sunt praecipuae duae; 
+      <lb ed="#H" n="5"/>PRIMO attribura divina propria sunt tum nomina divina, tum 
+      <lb ed="#H" n="6"/>proprietates Dei essentiales. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e292">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Multi &amp; veteres &amp; recentes nomina &amp; proprietates Dei pro eodes 
+      <lb ed="#H" n="8"/>sumunt, sic ut proprietates etiam appellent nomina. Sed quum nos 
+      pro<lb ed="#H" n="9" break="no"/>prietati vocum studere debeamus, nomina Dei a proprietatibus essentia. 
+      <lb ed="#H" n="10"/>libus distinguere malumus. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e305">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Nomen Dei αμωνυμως dicitur. Primo enim significat notam, quae 
+      <lb ed="#H" n="12"/>Deus proprie designatur, &amp; a creaturis discernitur Gen. 32. 29. Ro. 
+      <lb ed="#H" n="13"/>ganti Jacobo &amp; dicenti, indica quaeso nomen tuum, dixit, quorsum ver 
+      <lb ed="#H" n="14"/>logas de nomine meo? &amp; illic benedixit ei. Exod. 3. 15. Edixitque iterum 
+      <lb ed="#H" n="15"/>Deus Mosi, sic dicito filiis Iisraelis; Iehova Deus patrum vestrorum, Deus 
+      <lb ed="#H" n="16"/>Abrahami, Deus Isaaci, &amp; Deus lacobi misit me ad vos: hoc est nomo, 
+      <lb ed="#H" n="17"/>meum in saculum, &amp; hoc memoriale meum in omnem atatem. Et c. 15. 
+      <lb ed="#H" n="18"/>4. Currus Pharaonis &amp; copias eius praecipitavit in mare; delectusque prae 
+      <lb ed="#H" n="19"/>fectorum eius demersi sunt in mare algosum 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e329">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Secundo accipitur pro Deo ipso Deut. 28. 58. Nisi observans feceris 
+      <lb ed="#H" n="21"/>omnia verba Legis huius, quae scripta sunt in libro hoc: timendo nomen 
+      <lb ed="#H" n="22"/>gloriosissimum &amp; summe reverendum istud, nempe Iehovam Deum, 
+      <lb ed="#H" n="23"/>tuum: Omnino mirabiles efficiet Iehovaplagas tuas. Psal. 5. v. 12. Et 
+      lae<lb ed="#H" n="24" break="no"/>tabuntur omnes recipientes se ad te, in seculum canent quos protectus es: 
+      <lb ed="#H" n="25"/>&amp; exsultabiii in te amantes nominis tui. Ps. 20. v. 2. Exaudiat te 
+      Ieho<lb ed="#H" n="26" break="no"/>vae tempore angustiae, te in edito collocet nomen Dei lacobi. Et Psal. 116. 
+      <lb ed="#H" n="27"/>t. Si nomon Iehovae invoco, dicendo; obsecro Iehova, libera animam 
+      <lb ed="#H" n="28"/>meam. Et Psal. 7. 18. Celebrabo Iehevam secundum iustitiam eius; &amp; 
+      <lb ed="#H" n="29"/>psallam noini Iehovae excelsi. Proverb. 18. 10 Turris robusta est 
+      no<lb ed="#H" n="30" break="no"/>men Jehovae, quo accurrens justus, in edito collocatur.  
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e359">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Tertio idem est quod fortitudo &amp; favor Dei, Psal. 118. 10, 11, 12. 11. 
+      <lb ed="#H" n="32"/>nomine Iehovae enervavi eas, id est, fortitudine &amp; favore Dei 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e368">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Quario accipitur pro voluntate &amp; mandato Dei, Deut. 18. vors. 19. 
+      <lb ed="#H" n="34"/>Erit autem, ut quisquis non auscultaverit verbis meis quae loquuturus 
+      <lb ed="#H" n="35"/>est in nomine meo, ego reposcam ab illo. 1. Sam. 17. 45. Ego venio ad te in 
+      <lb ed="#H" n="36"/>nomine Iehovae exercituum. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e381">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Quinto accipitur pro fide, cultu, invocatione, celebratione &amp; 
+      pro<lb ed="#H" n="38" break="no"/>fessione Dei. Mich. 4. v. 5. Omnes populi ambulabant quisque in nomino 
+      <lb ed="#H" n="39"/>Dei sui: nos autem ambulabimus in nomine Iehovae Dei nostri in saculus 
+      <lb ed="#H" n="40"/>&amp; in aeterni. Matt. 28. 19. Profecti ergo docete omnes gentes, 
+      baptizan<lb ed="#H" n="41" break="no"/>tes eos in nomen Patris &amp; Filii &amp; Spiritus Sancti. Act. 21. 13 Ego nen solum 
+      <lb ed="#H" n="42"/>vinciri, sed &amp; mori paratus sum Hierosolymis pro nomine Domini Iesu. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e399">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>In praesenti autem tractatione nomina Dei prima significatione 
+      <lb ed="#H" n="44"/>sumuntur, quorum talis est descriptio¬ 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e408">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Nomina divina, sunt quibus Deus in sacris literis se appellat aut 
+      <lb ed="#H" n="46"/>immediate per se, aut per sanctos viros, Prophetas nempe &amp; 
+      Aposto<lb ed="#H" n="47" break="no"/>los suo Spirii:u afflatos, ut iis, quantum nobis ad salutem utile &amp; 
+      ne<lb ed="#H" n="48" break="no"/>cessarium est, quis &amp; qualis sit explicetur  
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e421">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>Quod Prov. 30. 4. Agur Filius Iahe de Deo dicit: Quod est nomen 
+      <lb ed="#H" n="50"/>ejus? &amp; quod nomen Filii ipsius? si noveris? Inde non efficitur, nullum esse 
+      <lb ed="#H" n="51"/>Dei nomen: cum etiam ipse Agur, qui hoc loquitur, mox Deum nominet, 
+      <lb ed="#H" n="52"/>nomine Iehova &amp; Eloah: sed significare tantum voluit, Deum eiusque 
+      <lb ed="#H" n="53"/>Filium non esse ulli netum natura, sed ex gratia se cognoscendum 
+      praebe<lb ed="#H" n="54" break="no"/>re. Neque obstat nobis Justinus Martyr, qui in Paraenesi ad Graecos ait 
+      <lb ed="#H" n="55"/>ὑδεν ονομα επι θεοῦ κυριολογειο δμωαον. τα το ογόματα εἰς δηλωσιν καν 
+      <lb ed="#H" n="56"/>δγνωστον το χστοκειμδον κειτη πζαγμτον, πολον α δφορανονταν.  
+      <lb ed="#H" n="57"/>hoc est: Fieri omnino non potest, ut proprium aliquod Deo nome 
+      <lb ed="#H" n="58"/>attribuatur, propterea quod nomina ad designationem &amp; 
+      discretio<lb ed="#H" n="59" break="no"/>nem subjectarum rerum imponantur, quae variae sunt &amp; multae. Neque 
+      <lb ed="#H" n="60"/>Damascenus, qui ait φ θειον ἀκμτάληηιον, πατσ κι εινώνυμον, hoc est 
+      <lb ed="#H" n="61"/>Numen incomprehensibile &amp; omnino absque nomine esse. Nam 
+      Ju<lb ed="#H" n="62" break="no"/>stinus &amp; Damascenus loquuntur de naturali comprehensione &amp; 
+      no<lb ed="#H" n="63" break="no"/>menclatura Dei, qualis dari nequit. Deinde, quum nullum omnino 
+      no<lb ed="#H" n="64" break="no"/>men sit, quod vel rei creatae naturam plene &amp; integre significet: multo 
+      <lb ed="#H" n="65"/>minus ullum erit nomen, quod divinam naturam plene &amp; integre 
+      de<lb ed="#H" n="66" break="no"/>scribat, ne ipsum quide nomen Iehovae. Hac ratione Deus est ἀνώνυμος 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e466">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Porro aos jam ea nomina dunt axtat considerabimus, quae no caro &amp; 
+      <lb ed="#H" n="68"/>sanguis, sed Spiritus Dei nobis revelauit. Non enim proferemus illa, quae 
+      <lb ed="#H" n="69"/>suprosititius Dionysius Arcopagita confinxit, licet divina appellet, sed 
+      <lb ed="#H" n="70"/>alio sensu, quam :unt a nobis dicuntur. Divina enim ille appellat, quae de 
+      <lb ed="#H" n="71"/>Deo dici possunt, licet non sint a Deo ipso profecta: At nos divina voca 
+      <lb ed="#H" n="72"/>mus, quae non solum de Deo dici possunt, sed etiam a Deo ipso de se sunt  
+      <lb ed="#H" n="73"/>usurpata;. Eaque eo sine considerabomus, qui in definitione ponitur? 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e486">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Nomina divina quaeda in Veteri sunt Testamento, quaedam in Novo. 
+      <lb ed="#H" n="75"/>Quae in Veteri sunt Testamento alia essentiam Dei, designant,  
+      <lb ed="#H" n="76"/>alia eius essentia propria 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e497">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Nomina essentiam Dei designantia sunt Iehova, lach, 
+      Eheie<lb ed="#H" n="78" break="no"/>JEHOVA fHi7 quod in versione Fibliorum Graeca redditur 
+      <lb ed="#H" n="79"/>Ruριο non ex superstitione Judaica, orta ex mala interpretatione 
+      pro<lb ed="#H" n="80" break="no"/>cepti Decalogi, Non sumes nomen sehova Dei tui in vanum: qua 
+      no<lb ed="#H" n="81" break="no"/>men illud JEHOVAE statuitur non debere pronunciari nisi a Pontifici 
+      <lb ed="#H" n="82"/>Maximo die decimo Tisri, idque ἐν ἀγίoις, ut Philo Iudaeus lib. tertio 
+      de<lb ed="#H" n="83" break="no"/>vita Mosis refert; ne videlicet profanetur, si extra Sanctuarium 
+      Jeroso<lb ed="#H" n="84" break="no"/>lymitanum proferatur: sed quia Graece communiter nec scribi nec 
+      e<lb ed="#H" n="85" break="no"/>munciari potuit litera Vav quae est digamma AEolibus solis inter 
+      Grae<lb ed="#H" n="86" break="no"/>cos notum, quod caeteri Graeci exprimere ac proinde nec scribere 
+      po<lb ed="#H" n="87" break="no"/>turrunt: in Germanica versione sλζθεQθn Gallica? Eternel, in 
+      Bo<lb ed="#H" n="88" break="no"/>nemica Sospobin: est nomen solius veri Dei proprium. Exod. 15. 3. 
+      Ie<lb ed="#H" n="89" break="no"/>hova est bellicosissimus, nomen etus est Iehova. Psal. 83. 19. Vt 
+      cognosca<lb ed="#H" n="90" break="no"/>tur, te, cui soli nomen est Iehova, excelsum esse supra universam terram. 
+      <lb ed="#H" n="91"/>Jes 42. 8. Ego sum lehova, illud est nomen meum; &amp; gloriam meam 
+      al<lb ed="#H" n="92" break="no"/>teri non dabo, &amp; laudem meam sculptilibus. Et c. 48. 2. Quamvis a 
+      civi<lb ed="#H" n="93" break="no"/>cate sancta se vocent, &amp; Deo Israelis imitantur, cuius nomen est Iehova. 
+      <!--cod-MkL9py-0165.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="94"/>exercituum, Jerem. 16. v. 19. Iehova robur meum &amp; munitio mea 
+      pera<lb ed="#H" n="95" break="no"/>sugiumque meum in die angustiae. Divinam significat essentiam, 
+      indi<lb ed="#H" n="96" break="no"/>vidua &amp; singularem, creaturis incommunicabilem, &amp; prae ceteris 
+      quae<lb ed="#H" n="97" break="no"/>cunque sunt exsistentem, &amp; facientem ut alia omnia exsistant 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e552">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Nomen JEHOVAM ductum est a radice PTITH vel P PTIid est, 
+      <lb ed="#H" n="99"/>fuit: praefixa litera iod quae nomen format: sicut in λο8ν, PPNUI. Un 
+      <lb ed="#H" n="100"/>de Graece redditur o ἐν a Philone Judaeo lib. de Abralhamos item in libre 
+      <lb ed="#H" n="101"/>le somniis, &amp; lib. primo de vita Mosis: &amp; aClemente Alexandrino 
+      lib<lb ed="#H" n="102" break="no"/>5. Stromatum, &amp; a Theodoreto in Exodum quaestione 15, &amp; in 
+      epito<lb ed="#H" n="103" break="no"/>me divinorum decretorum capite de Spiritu Sancto, Tἐπξαγρα μματον 
+      no<lb ed="#H" n="104" break="no"/>men dicitur, quod quatuor literis constet, nimirum consonis: nam si vos 
+      <lb ed="#H" n="105"/>cales tres adiungas, septem elementis constat: unde Deus ἐπτακιφωιης 
+      di<lb ed="#H" n="106" break="no"/>citur in oraculo: κι σφρορα κι καγ εκασον ἀει θεόν ἐπτακιφωνlν. Et ab aus 
+      <lb ed="#H" n="107"/>tore epigrammatis: 
+      <lb ed="#H" n="108"/>Eπ τεόμε φωνκρνλα θεον μεγαν αφθετον αινet 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e581">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Tργμματάττ πάγτον ακαματον ωατιρα 
+      <lb ed="#H" n="110"/>Eigi δι ἐγωπτάητον χιλυσ αφθετοσ, η τα λυραδη 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e590">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>Hζμοσαμιιν δεωε Sρανίηιo μελη 
+      <lb ed="#H" n="112"/>Nam nomen PPPTPPJEHOVAH septem elementis, videlicet quatuos 
+      <lb ed="#H" n="113"/>consonantibus &amp; tribus vocalibus scribitur &amp; exprimitur. Nec enim 
+      <lb ed="#H" n="114"/>tantum vocales, sed etiam consonantes φωνηεντα vocant: sicut Flavius 
+      <lb ed="#H" n="115"/>Josephus quatuor literas nominis PHIP vocat τέτίαρα φωνηεντα. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e607">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>Philo Judaeus libro tertio de vita Mosis, nomen hoc dici τετξκχραμ¬ 
+      <lb ed="#H" n="117"/>ματον existimat ad denotandam omnium perfectionem in Deo: Quater.  
+      <lb ed="#H" n="118"/>nioni (ait) insunt omnia, punctum, linca, superficies, soliditas, 
+      men<lb ed="#H" n="119" break="no"/>surae universorum, &amp; musicae symphoniae potissimae, diatessaron 
+      tati<lb ed="#H" n="120" break="no"/>one supertertia, diapente sesqualtera, diapason dupla, disdiapason 
+      qua<lb ed="#H" n="121" break="no"/>drupla. Quin &amp; alias ineffabiles virtutes habet quaternatius, &amp;c. 
+      <lb ed="#H" n="122"/>Hinc dicitur, Deum esse mensuram omnium 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e627">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Iudei illud vocarunt PBDPI QU id est, nomen illud expositum; 
+      <lb ed="#H" n="124"/>quia id veteres Hebraeorum per nomina tum duodecim, tum 
+      quadragin<lb ed="#H" n="125" break="no"/>ta duarum literarum exposuerunt, &amp; melius adhuc atque distinctius a 
+      <lb ed="#H" n="126"/>Messia exponendum fuisse dixerunt. Nomina illa duodecim &amp; 42. 
+      litera<lb ed="#H" n="127" break="no"/>rum recitat Rabbenu Haccadosch in Galarazeiia. Nome duodecim lite. 
+      <lb ed="#H" n="128"/>ard est UPTDHIPHPIAHAN Pater, Filius &amp; Spiritus Sanctus. 
+      <lb ed="#H" n="129"/>Nomen, autem quadraginta duarum lii crarum e. 
+      <lb ed="#H" n="130"/>οτοN ὕιλρςε πηονηbον :Xροσηbη 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e649">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>ποηογορνν θPNη πωοη 
+      <lb ed="#H" n="132"/>Pater Deus, Filius Deus Spiritus Sanctus Deus: tres in uno, unum 
+      <lb ed="#H" n="133"/>in tribus. Addit Rabbenu Haccadosch: Notate debes haec nomina esse 
+      <lb ed="#H" n="134"/>ex divinis arcanis, quae a quocunque occultari debent, quousque 
+      ve<lb ed="#H" n="135" break="no"/>niat Messias justus noster 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e665">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>Rabbi Mosche Ben Maimon, qui etiam Rambam vocatur, eande 
+      no<lb ed="#H" n="137" break="no"/>minis Iehovae expositionem tradit in lib. More, c. 61. &amp; 62. primae partis: &amp; 
+      <lb ed="#H" n="138"/>isseverat, priores sanctos patres Iudaeorum quotiescunque in Scriptura 
+      nomi<lb ed="#H" n="139" break="no"/>quaruor literarum occurrebat, his nominibus illud exposuisse: illosque hant 
+      <lb ed="#H" n="140"/>expositionem nemini tradidisse nisi filiis suis atque discipulis, qui tales essent, 
+      <lb ed="#H" n="141"/>ut illud scire mererentur, sed videntes postea nominis huius abusum, 
+      ne<lb ed="#H" n="142" break="no"/>minem ulterius id docuisse: &amp; Simeonem justum ultimum e doctoribus 
+      Ma<lb ed="#H" n="143" break="no"/>gnae Synagogae, ultimum etiam populo benedixisse cum nomine Iehovae, 
+      <lb ed="#H" n="144"/>ut referunt in Talmud Babylonico, tractatu loma, cop. 4. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e689">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Nunc aute Iudaeis illud est: ἵι εκφώγητον, αρεττον, id est, ineffabile: quod  
+      <lb ed="#H" n="146"/>nullis amplius habeant templi, in quo duntaxat hoc sanctissimum nomen 
+      <lb ed="#H" n="147"/>debeat eniciari, alicqui illud profanari. Et quoties octurrit in veteri 
+      fe<lb ed="#H" n="148" break="no"/>dere, legut pro eo vel Adonai; vel Elohim, si nomen Adonai proxime 
+      prae<lb ed="#H" n="149" break="no"/>redat, veluti Ezech. 16. v. 30 Atque hic mos pronunciandi Adonai vel 
+      E<lb ed="#H" n="150" break="no"/>lohim pro Jehovah, iam tepore Theodoreti fuit, qui scribit in Epitomae 
+      <lb ed="#H" n="151"/>divinorum decretorum, fuisse hoc nome ἀνεκφονήτον, i, e, ineffabile apud Heb. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e709">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Ego salvo aliorum iudicio, sentio, nomen HebretP Pefferri posse 
+      <lb ed="#H" n="153"/>&amp; licere: nam Dei iussu a Mose in Scripturam Sacram relatum est, quod  
+      <lb ed="#H" n="154"/>nequaqua factum fuisset, si a fidelibus legi &amp; pronunciari Deus noluisset 
+      <lb ed="#H" n="155"/>Deinde expresso Dei mandato a Sacerdotibus ad benedicendum populi, 
+      <lb ed="#H" n="156"/>sanctificatis enunciatum fuit in benedictionibus &amp; quideter, ut legitur  
+      <lb ed="#H" n="157"/>Nu. 6. v. 22. &amp; sequentibus: &amp; fatentur Hebraet scriptores ipsimet, veluti 
+      <lb ed="#H" n="158"/>in Codice Talmudico Sotah c. 7. &amp; in Scholiis ad c. 11. Codicis 
+      Sanhe<lb ed="#H" n="159" break="no"/>dtin. Adhaec quicquid est memoriale Dei exercituum, illud profecto 
+      <lb ed="#H" n="160"/>pronunciari &amp; memorari aequum est. Atqui hoc ipsum nomen est 
+      me<lb ed="#H" n="161" break="no"/>moriale Dei exercituum, ut legitur Hos. 12. 5. Iehova Deus exercitum, 
+      <lb ed="#H" n="162"/>lehova est memoriale eius. Tum pronunciatum fuit ad mortem usque 
+      Si<lb ed="#H" n="163" break="no"/>meonis illius iusti, (qui Domino Iesu nato superstes fuisse creditur) ut 
+      Rab<lb ed="#H" n="164" break="no"/>hini Iudaeorum ipsimet tradunt, quod paulo ante monuimus. Imo &amp; post. 
+      <lb ed="#H" n="165"/>Christi adscensionem in coelum adhuc pronunciatum fuit: nam Philo 
+      Iu<lb ed="#H" n="166" break="no"/>daeus, qui Caii Caligula temporibus vixit, &amp; celeberrimae famae fuit, id 
+      <lb ed="#H" n="167"/>hunc modum li. 3. de vita Mosis scribit; Adhaec χρυσον πεταλον, id est, 
+      la<lb ed="#H" n="168" break="no"/>mina autea quasi corona insculpta erat quatuor literis nominis illius, 
+      <lb ed="#H" n="169"/>quod solis autes linguamque sapientia purgatis fas est audire 
+      nomina<lb ed="#H" n="170" break="no"/>reque in sacris, praeterea nemini: id Theologi ajunt esse 
+      tetragramma<lb ed="#H" n="171" break="no"/>ton, &amp;c. Insupet planum est inde: pronuncietum fuisse ab Hebraeis, quia 
+      <lb ed="#H" n="172"/>Sentiles &amp; Christiani linguae Hebraeae non assuti, illud ab Hebraeis 
+      audie<lb ed="#H" n="173" break="no"/>runt pronunciati, ei se non rette pronunciationem perceperint, ut in linguis 
+      <lb ed="#H" n="174"/>peregrinis accidere solet, quae ab exteris plerunque non recte percipiuntur &amp; 
+      <lb ed="#H" n="175"/>imitatione vitiosa perperam efferuntur. Ita Orpheus pronunciavit ido: 
+      <lb ed="#H" n="176"/>Diodorus. Siculus lib. 1. partu. 2. refert παροι τυις Ιυδείσις ΜωσυT IAst 
+      <lb ed="#H" n="177"/>επικαλαδον θεον, apud Iudaos Musis Deum nominari Iαῳ: Irenaeus 
+      Mar<lb ed="#H" n="178" break="no"/>tyr lib, sec c.16. ait Deum abHebraeis vocari Jaoth: Tertullianus adver 
+      <lb ed="#H" n="179"/>jus Vaelentinianos c 14. Jao: Epiphanius haeresi 13. Jaoth: Origenesite 
+      <lb ed="#H" n="180"/>contra Celsum l.6. Cleinens Alexandrinus Stromatuml. 5. mysticum Dei. 
+      <lb ed="#H" n="181"/>nome, quod τεπξαχζαμμον vocit, lu8 dici perhibet. Eusc. l. 4. Demostrat 
+      <lb ed="#H" n="182"/>Evangelicaec. ult putans nomen Josuae Hebraice componi ex PHHPPE 
+      <lb ed="#H" n="183"/>Qy) exponit lπσωτήρία, Theodoret in Epitome decretoru divinorum 
+      <lb ed="#H" n="184"/>ait, a Samaritanis nomen illud pronunciari Iαζαι, quod est quasi IIi 
+      <lb ed="#H" n="185"/>vel PPIP. Unde apparet: Iudaeos templo Ierosolymitano a Romanis sole 
+      <lb ed="#H" n="186"/>aequato ex superstitione quadam hoc nomen nunamplius proniiciare voluisset 
+      <!--cod-MkL9py-0166.xml-->
+      <pb ed="#H" n="139"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Eut rarius salte pronunciasse, quia iudicariit, fas non esse illud proferre nisi 
+      <lb ed="#H" n="2"/>ἐν αγσις. Hieron. Commetar. in Ps. 8 nffirmat PPHTP legi posse Iehova, 
+      <lb ed="#H" n="3"/>ut in emendata Mariani Victorii editione excuditur: Basiliensis editio 
+      <lb ed="#H" n="4"/>habetiaho. Vide plura de nomine Iehova Fagium in expositione c. 28. Exo. 
+      <lb ed="#H" n="5"/>Paraphraseos Chaldaicae quae Thargum vocatur: Galatinum li. 2. c. 10. 11 
+      <lb ed="#H" n="6"/>12. Reuchlinum seu Capnionem li. 3. in Cabala: Porchetum c.1. &amp; &amp; 
+      <lb ed="#H" n="7"/>secundae partis victoriae suae adversus Iudaeos: Guilielmum Postellum 
+      <lb ed="#H" n="8"/>cap. 3. li. 1. de Orbis terrae concordia: Antonium Margaritam in lib. de 
+      <lb ed="#H" n="9"/>ritibus ac ceremoniis Iudaeorum: Marcus Marinus in Arca Noe, in nomine 
+      <lb ed="#H" n="10"/>PNVPait, Ethnicos suum Iovem ab hoc denominasse, quum priscis o 
+      <lb ed="#H" n="11"/>mnibuna fuerit de rebus diuvinis Theologia, quae a Graecis postea ad 
+      fa<lb ed="#H" n="12" break="no"/>bulas versa est, Haud absurda est Marini conjectura, quandoquidem 
+      ab<lb ed="#H" n="13" break="no"/>Ennio &amp; Suida Jovis dicitur nominativo casu: nec Cretensem, aut alis 
+      <lb ed="#H" n="14"/>quenquam mortale, notarunt eavoceveteres Romani. Bellarminus li. 1. 
+      <lb ed="#H" n="15"/>deChristo, c. 7. ait melius efferri per vocem Ihje, id est, erit, quam per 
+      vo<lb ed="#H" n="16" break="no"/>cem Iehova quae nuper excogitata sit. Sed Bellarminum refellunt supra 
+      <lb ed="#H" n="17"/>citati autores. Nolim tamen cum quoquam contendere super nominis 
+      hu<lb ed="#H" n="18" break="no"/>jus PHHP pronunciatione, sive quis legat Jehova, sive Adonai, aut 
+      con<lb ed="#H" n="19" break="no"/>tinue praecedente vel sequente Adonai, Elohim, de qua lectione vide 
+      Jo<lb ed="#H" n="20" break="no"/>hannis Buxtorfii fidissimi diligentissimique linguae Sanctae in nostra Bas 
+      <lb ed="#H" n="21"/>diensi Academia Professoris Epitomen Radicum Hebraicarum &amp; 
+      Chal<lb ed="#H" n="22" break="no"/>daicarum. Sed quum omnino distinguendum sit nome hoc ab aliis 
+      qui<lb ed="#H" n="23" break="no"/>bus Deus in Scriptura nominatur, praesertim quum conjuncta 
+      occurrun<lb ed="#H" n="24" break="no"/>&amp; singula explicanda sunt distincte, veluti Psal. 8. v. 2. &amp; 10. 
+      pronun<lb ed="#H" n="25" break="no"/>cietur sane cum Petro Galatino, &amp; aliis JEHOVA 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e851">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>Interdum autem communiter omnes tres personas Deitatis 
+      signi<lb ed="#H" n="27" break="no"/>ficat, veluti Jes. 6. 3. &amp; 5. Et clamans alter ad alterum dicebat, sanctus 
+      <lb ed="#H" n="28"/>sanctus, sanctus est Iehova exercituum: implet totam hanc terram 
+      glo<lb ed="#H" n="29" break="no"/>ria ejus. Quamobrem dixi, Hei mihi, quod exscindor; quia vir pollutus 
+      <lb ed="#H" n="30"/>labiis sum, &amp; in medio populi polluti labiis habito, cum rege illum 
+      Icho<lb ed="#H" n="31" break="no"/>vam exercituum viderint oculi mei. Nam de Patre intelligendum 
+      loci<lb ed="#H" n="32" break="no"/>llum nemo dubitaverit: DeFilio interpretatur Joh. c. 12. 41. Haec dixit. 
+      <lb ed="#H" n="33"/>Esaias quando vidit gloriam ejus, &amp; loquutus est de eo: De Spiritu Sa 
+      <lb ed="#H" n="34"/>cto interpretatur Paulus Act. 28. 25. Quum autem inter se discordes 
+      <lb ed="#H" n="35"/>essent, digressi sunt postquam Paulus hoc verbum dixisset, Bene sane Spi 
+      <lb ed="#H" n="36"/>ritus Sanctus loquutus est per Esaiam Prophetam patribus nostris. Exo 
+      <lb ed="#H" n="37"/>17. 2. dixit Moses ad populum Israeliticum: Quid tentatis Iehovam 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e882">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Interdum singulas personas denotat: veluti Deum Patrem, ut Ps 
+      <lb ed="#H" n="39"/>2. 2. Sistunt se Reges terrae &amp; proceres consultant simul contra Iehovam 
+      <lb ed="#H" n="40"/>&amp; contraChristum ejus. Item Psal. 110. Dixit Iehova Domino meo. 
+      <lb ed="#H" n="41"/>Sede a dextris meis. Bach. 1. 10. dicit Filius Dei de Patre suo: Hi sum 
+      <lb ed="#H" n="42"/>quos misit Iehova ad perambulandum terram: &amp; quot es Filius Dei 
+      <lb ed="#H" n="43"/>appellatur Angelus Jehovae, ut Zach. 1. 11, 12. Et re spondentes angele 
+      <lb ed="#H" n="44"/>Iehovae stanti inter myrtos, dixerunt, perambulavimus terram; &amp; 
+      ecco<lb ed="#H" n="45" break="no"/>tota terra desidet, &amp; tranquilla est. Tunc loquutus Angelus Iehovae 
+      di<lb ed="#H" n="46" break="no"/>xit: o Iehova exercituum, quousque tu non miserturus es Ieruschalaimorum, 
+      <lb ed="#H" n="47"/>&amp;civitatum Iehudae: in quas indignatus es jaseptuaginta annis? &amp; passim? 
+      <lb ed="#H" n="48"/>Interdum significat Filium Dei, ut Gen. 18. v. 1. Apparuit Abrahae 
+      <lb ed="#H" n="49"/>molehova in planitie Mamre, &amp; passim toto capite. Et c. 19. v 24. 
+      Ieho<lb ed="#H" n="50" break="no"/>va demisit super Sodomam&amp; Gomorrham pluviam sulphuris &amp; ignis, a 
+      <lb ed="#H" n="51"/>Iehova e caelis, id est, Filius demisit pluviam illam a Patre: quia Filius 
+      <lb ed="#H" n="52"/>est is per quem Pater judicia sua exsequitur, &amp; is non a seipso, sed o 
+      <lb ed="#H" n="53"/>mnia a Patre operatur. Jesa. 25. 9. Hic est Iehova quem exspectamus, 
+      ex<lb ed="#H" n="54" break="no"/>sultabimus &amp; laetabimur de salute eius. Jes. 60. 2. Super te orietur Ieho 
+      <lb ed="#H" n="55"/>va, id est, Messias ille promissus. Zach. 3. 2. Dicebat autem Iehova 
+      Sa<lb ed="#H" n="56" break="no"/>tanae, increpet Iehova te o Satan, increpet te inquam Iehova. id est, 
+      di<lb ed="#H" n="57" break="no"/>cebat Filius Dei Angelus ille magni consilii; Deus Pater depellat  
+      <lb ed="#H" n="58"/>verbo potente suo a tribunali suo &amp; adimat tibi facultatem accusandi 
+      <lb ed="#H" n="59"/>losuam summum Sacerdotem. Ps. 16. v. 8. Propono mihi lehovam 
+      iu<lb ed="#H" n="60" break="no"/>giter: quia a dextra mea est, non dimoveber. Hoc Psalmi loco David de 
+      <lb ed="#H" n="61"/>Christo Filio Dei loquitur, ut interpretatur Petrus Act. 2. v. 25. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e939">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Nomen hoc ita proprium Dei est, ut nulli prorsus competat 
+      crea<lb ed="#H" n="63" break="no"/>turae, sicut dicit Jesa 45. 8. Ego sum Iehova, illud est nomen meum, &amp; 
+      <lb ed="#H" n="64"/>gloriam meam alteri non dobo, &amp; laudem meam sculptilibus. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e950">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>biiciunt Photiniani &amp; recentes Samosateniani, altari a Mose ex 
+      <lb ed="#H" n="66"/>structo hoc nomen fuisse inditum, Exod 17. v. 15. Tunc exstruxit 
+      Mo<lb ed="#H" n="67" break="no"/>se altare; tuius vocavit nomen, Iehova vexillum meum: Hinc 
+      colli<lb ed="#H" n="68" break="no"/>gunt non esse proprium Dei solius. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e963">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Sed illi primo falluntur amphibolia phraseos, vocare nomen, quam 
+      <lb ed="#H" n="70"/>hoc loco significatur, titulo hoc Mosen ornasse altare, ut perpetuum 
+      <lb ed="#H" n="71"/>esset monimentum Jehovam esse vexillum &amp; protectionem Israelis. 
+      <lb ed="#H" n="72"/>Deinde faliaciam divisionis committunt, dum verba Mosis 
+      discer<lb ed="#H" n="73" break="no"/>punt, &amp; ex illis solis nomen Iehovae altari accommodant: quum tota 
+      <lb ed="#H" n="74"/>haec oratio, Iehovae vexilli mei, vel Iehovae vexillo meo, vel Iehova 
+      ve<lb ed="#H" n="75" break="no"/>xillum meum, quocunque modo Latine vertas, sensus enim manet i 
+      <lb ed="#H" n="76"/>dem, tota, inquam, oratio haec incisa seu insculpta fuerit altari, ceu 
+      ti<lb ed="#H" n="77" break="no"/>tulus aliquis, quo altare fuit insignitum, ut ostenderet Moses, se Deo 
+      <lb ed="#H" n="78"/>acceptam ferre protectionem &amp; rerum bene gestarum felicitatem: 
+      <lb ed="#H" n="79"/>ac proinde se altate hoc ad Jehovae sui vexilli gloriam ac laudem ex 
+      <lb ed="#H" n="80"/>struxisse: quemadmodum usitate etiamnum Epitaphiis &amp; aliis 
+      publi<lb ed="#H" n="81" break="no"/>cis tabulis inscribi solet D. O. M. S. id est, Deo Optimo Maximo 
+      Sa<lb ed="#H" n="82" break="no"/>crum aut sacratum. Nominatur Iehova vexillum Mosis, per 
+      Meto<lb ed="#H" n="83" break="no"/>nymiam, quia Jehova per Mosen populo fuo in conflictu cum 
+      A<lb ed="#H" n="84" break="no"/>malelitis vexillum erexit &amp; in perpetuum erigit: 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1002">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>Secundo objiciunt, hoc nomen urbi Jerosolymorum tribui Jerem 
+      <lb ed="#H" n="86"/>33. v.16. Diebus illis servabitur Iuda, &amp; Ierosolyma habitabit securo 
+      <lb ed="#H" n="87"/>&amp; hoc est nomen quo vocabunt eam, Iehova iustitia nostra. Ezec. 48: 
+      <lb ed="#H" n="88"/>v. 35. Nomen vero civitatis ab eo die futurum est, Ibi Iehova. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1016">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Sed dictum Jeremiae mala versione est depravatum; verba enim 
+      <lb ed="#H" n="90"/>Hebraes sunt,  
+      <lb ed="#H" n="91"/>EDγPPTTIIPTPPNτνUIN PIIIReddita debent. 
+      <lb ed="#H" n="92"/>Et ii qui vocabit eam, (est) Iehov. Vustitia nostra. Nam PHest pronos 
+      <lb ed="#H" n="93"/>men masculini generis: ac praedicitur, eum qui vocaturus sit urbem 
+      <!--cod-MkL9py-0166.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="94"/>Jerosolymorum, nimirum ad promissam salutem de qua loquitur  
+      <lb ed="#H" n="95"/>praedicatione Evangelii, esse Jehovam justitiam nostram. Hoc igitur  
+      <lb ed="#H" n="96"/>nomen a Jeremia tribuitur Messiae &amp; non urbi Jerosolymorim. 
+      <lb ed="#H" n="97"/>Deinde in dicto Ezechielis primo vitanda est amphibolia in 
+      phra<lb ed="#H" n="98" break="no"/>si, nomen civitatis ab eo die futurum est, qua duntaxat significatur, de 
+      <lb ed="#H" n="99"/>civitate Jerosolymorum seu Ecclesia dictum iri, de ea hanc famam 
+      <lb ed="#H" n="100"/>futuram. Secundo cavenda est fallacia διαιρίσεως: nam non solum 
+      no<lb ed="#H" n="101" break="no"/>men Jehovae praedicatur de urbe Jerosolymorum, sed totum hoc  
+      <lb ed="#H" n="102"/>complexum: Ibi Iehova, nimirum habitat in sempiternum 
+      <lb ed="#H" n="103"/>Tria autem hoc nomine significantur: ex quibus nominis hujus 
+      <lb ed="#H" n="104"/>asus intelligitur? 
+      <lb ed="#H" n="105"/>I. Deum ex se &amp; per se semper fuisse, esse &amp; futurum esse: seu 
+      <lb ed="#H" n="106"/>Deum esse essentiam ex se &amp; per se subsistentem: quemadmodum 
+      <lb ed="#H" n="107"/>hoc nomen declaratur Apocal. 1. v. 4. Gratia sit vobis &amp; pax a Qui 
+      <lb ed="#H" n="108"/>ist, &amp; Qui erat, &amp; Qui venturus est. Et c. 16. v. 5. Iustus es Domine, 
+      <lb ed="#H" n="109"/>Qui es, &amp; Qui eras, &amp; Qui eris, quod haec judicaris. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1071">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>II. A Deo omnium rerum creatarum essentiam esse: sicut dicitur  
+      <lb ed="#H" n="111"/>Actor. 17. 28. In ipso vivimus, movemur &amp; sumus. Rom. 11. v. 36. 
+      <lb ed="#H" n="112"/>Ex eo &amp; per eum &amp; in ipsum sunt omnia 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1082">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>III. Deum suis promissis &amp; comminationibus dare esse quasi 
+      <lb ed="#H" n="114"/>reale (ut ita loquar,) hoc est, dare illis complementum, esse 
+      veracissi<lb ed="#H" n="115" break="no"/>num &amp; constantem in servandis promissis &amp; comminationibus: 
+      e<lb ed="#H" n="116" break="no"/>facere ut promissa sua &amp; minae sint &amp; realiter exsistant. Hoc tertio 
+      <lb ed="#H" n="117"/>significato dicitur Exod. 6. v. 12. Ego sum Iehova: Apparueram quidem 
+      <lb ed="#H" n="118"/>Abrahamo, Isaaco &amp; lacobo nomine Dei fortis omnipotentis: at 
+      nomi<lb ed="#H" n="119" break="no"/>ne meo Iehova non cognitus sum illis. Sensus est, Deum Patribus 
+      fu<lb ed="#H" n="120" break="no"/>isse patefactum per potentiam in creatione mundi, in ejusdem 
+      per<lb ed="#H" n="121" break="no"/>ditione per aquas diluvii, in collatione multorum in eos 
+      beneficio<lb ed="#H" n="122" break="no"/>rum, unde Patres cognoverint, eum esse potentem &amp; sufficientem ad 
+      <lb ed="#H" n="123"/>omnia ea bona illis praestanda, quae promiserat: sed nomine Iehovae non 
+      <lb ed="#H" n="124"/>fuisse eis cognitum, hoc est, Deum nondum declarasse reipsa se esse 
+      Je<lb ed="#H" n="125" break="no"/>hovam, quia nondum exhibuerat sua promissa, hoc est, nondum edus 
+      <lb ed="#H" n="126"/>xerat populum Israeliticum ex AEgypto, &amp; introduxerat in terram 
+      <lb ed="#H" n="127"/>promissam Abrahamo, Isaaco &amp; Jacobo. Hinc Exod. 20. 2. ait: Ego 
+      <lb ed="#H" n="128"/>lehova Elohim, qua eduxi te e terra AEgypti Jer. 16. v. 20, 21. An 
+      factu<lb ed="#H" n="129" break="no"/>vus esset sibi homo deos? atqui isti non sunt dii. Idcirco ego faciens ut 
+      ex<lb ed="#H" n="130" break="no"/>periantur illi vice hac, demonstrabo his manum meam &amp; potentiam 
+      <lb ed="#H" n="131"/>meam, ut cognoscant nomen meum esse Iehovam. In primis per 
+      Eze<lb ed="#H" n="132" break="no"/>chielem, quum judiciorum suorum, quae comminatus fuerat, 
+      exsecu<lb ed="#H" n="133" break="no"/>tionem certam Deus praedicit, istud addit, ut agnoscant, ut experiam 
+      <lb ed="#H" n="134"/>tur me esse Iehovam, ut c. 6. v. 13. &amp; 14. &amp; c. 7. v. 27. &amp; c. 11. 10, &amp; passim 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1134">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>Haec tria significata nominis Jehovae, explicat ipse Deus Jesa. 42. 
+      <lb ed="#H" n="136"/>95336, 38. Vos testes mei estis, dictum Iehovae, &amp; servus meus quem 
+      ele<lb ed="#H" n="137" break="no"/>gi: ut sciatis &amp; credatis mihi, intelligatisque me ipsum esse, ante me non 
+      <lb ed="#H" n="138"/>esse formatum Deum, &amp; post me non futurum. Ego, ago sum Iehova, &amp; 
+      <lb ed="#H" n="139"/>nullus est praetir me Servator. Ettam antequam esset dis, ego ille sum; 
+      <lb ed="#H" n="140"/>&amp;nemo e manis mea erisit: quum operor, quis avertat illam? Ideo 
+      no<lb ed="#H" n="141" break="no"/>men hoc PHHPP Judaei appellant NTPIM quia nobis in memo, 
+      <lb ed="#H" n="142"/>riam revocet divinam majestatem, essentiam &amp; operationem: 
+      <lb ed="#H" n="143"/>Unde solus Deus est ἀυτυανος, quum revera ipse sit αυτοών &amp; ἀυ¬ 
+      <lb ed="#H" n="144"/>οaι, &amp; omnium rerum origo &amp; fons quae in ipso sunt &amp; moventur.  
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1160">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Nominis ejusdem consideratio exhibet consolationem eximiam 
+      <lb ed="#H" n="146"/>Deus noster est Jehova: Ergo dabit nobis certo quaecunque nobis 
+      <lb ed="#H" n="147"/>promisit, Exod, 6. v. 5, 6, 7. Idcirco dic filiis Israelis, ego sum Iehova; 
+      ita<lb ed="#H" n="148" break="no"/>que eximam vos ne subjecti sitis oneribus AEgyptiorum, &amp; cripiam 
+      vo<lb ed="#H" n="149" break="no"/>E servitute eorum :redimamque vos brachio exserto &amp; iudiciis magnis. 
+      <lb ed="#H" n="150"/>Et assumens vos mihi in populum, ero vobis Deus: sic experiemini 
+      mi<lb ed="#H" n="151" break="no"/>isse Iehovam Deum vestrum eximentem vos ne subiecti sitis oneribus 
+      <lb ed="#H" n="152"/>EEgyptiorum. Denique introducam vos in eam terram quam sublate 
+      <lb ed="#H" n="153"/>manu mea iuravi me daturum Abrahame, Isaaco &amp; lacobo: &amp; 
+      dabo<lb ed="#H" n="154" break="no"/>eam vobis in haereditatem, ego sum Iehova 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1186">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Tantum de primo nomine Dei Hebraico, quod exstat 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1194">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>in Veteri Testamento 
+      <lb ed="#H" n="157"/>SECUNDUM nomen essentiam Dei designans est JAH, ePe cum 
+      <lb ed="#H" n="158"/>Mappile in TTut fortius exprimatur: etsi in compositione puncturm 
+      <lb ed="#H" n="159"/>Mappile abjiciat, ut in Cantico Caticorum cap. 6. v. 6. PPPHPPylls 
+      <lb ed="#H" n="160"/>flammae Dei, &amp; in nomine proprio Prophetae PPPTP Eecharja: Est? 
+      <lb ed="#H" n="161"/>tamen in voce PHPPyrT laudate Iah. Est autem idens quod o dν. Qui 
+      <lb ed="#H" n="162"/>EST, Exstat Exod 15. 2. Robur meum &amp; carmen Tah, qui fuit mihi 
+      <lb ed="#H" n="163"/>saluti. Psal. 68. v. 5. Extollite eum qui in sidet amoenitatibus de nomine 
+      <lb ed="#H" n="164"/>eius Tah. Et Psal. 94. v. 7. Dicentes, non respicit Tah; neque animadvertis 
+      <lb ed="#H" n="165"/>Deus Iacobi. &amp; v. 12. Beatus ille vir quem castigas Iah, &amp; quem ex legi 
+      <lb ed="#H" n="166"/>tua doces. Psal. 118 14. Robur meum &amp; carmen Tah. &amp; v. 17, 18. 19. Non 
+      <lb ed="#H" n="167"/>moriar, sed vivam ut enarrem opera Iah; Sovere castigavit me Tah; sed  
+      <lb ed="#H" n="168"/>morti non tradidit me. Aperite mihi portas iustitiae, ut ingressus per ea 
+      <lb ed="#H" n="169"/>celebrem Iah. Jesa. 38. 11, alt Ezechias rex in scripto suo: Non sum 
+      vi<lb ed="#H" n="170" break="no"/>surus Tah, Iab in terra viventium 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1231">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Hoc etiam nomen a radice P PTI, quae significat fuit, deducitur  
+      <lb ed="#H" n="172"/>&amp; divinae essentiae nomen est, sicut Jehova, hoc est, quo significatur,  
+      <lb ed="#H" n="173"/>Deum esse, &amp; cunctis rebus ESSE tribuere. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1242">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Cum vult Sacra Scriptura aliquid angere, postponit ei hoc 
+      no<lb ed="#H" n="175" break="no"/>men, ut Jerem 2. 31. vocatur terra P TPyQNI caliginis Iah, id est; 
+      <lb ed="#H" n="176"/>maximae caliginis, q. d. admodum caliginosa 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1253">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Rabbi Schelomoi putat a timendo ductum: cui &amp; Thargum 
+      ad<lb ed="#H" n="178" break="no"/>stipulatur, pro PPsaepius vertens PPyPPItimorem. 
+      Consentane<lb ed="#H" n="179" break="no"/>um est decurtatum esse ex nomine Tetragrammato PIIr, do 
+      <lb ed="#H" n="180"/>quo nuper dictum 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1266">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>Et hoc igitur nomen etiam essentiam divinam significat: Licet Rae 
+      <lb ed="#H" n="182"/>David Rimchi tantum nomen? THP velit esse proprium nomen 
+      <lb ed="#H" n="183"/> 
+            </p>
+            <p xml:id="yyy8Uu-e64179-d1e1277">
+               <lb ed="#H" n="184"/>
+               <pc type="indent"/>Interdum nomenJali cum aliis nominibs conjungitur: ut Jesa. 12. v. 2. 
+      <lb ed="#H" n="185"/>Robur meum &amp; carmen est Ialbi Iehova, qui fuit minisaluti. Ps. G8:ES8 
+      <!--cod-MkL9py-0167.xml-->
+      <pb ed="#H" n="140"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>19. Etiam rebelles habitando captivos facis, Iah Deus 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1296">
+               <lb ed="#H" n="2"/>
+               <pc type="indent"/>TERTIUM nomen essentiam Dei designans est Eheje, PTPIN 
+      <lb ed="#H" n="3"/>quod exstat Exod. 3. 13, 14. Dixit Moses Deo, ecce, me veniente ad filios 
+      <lb ed="#H" n="4"/>Israelis; quum dixero eis, Deus patrum vestrorum misit me ad vos: si 
+      di<lb ed="#H" n="5" break="no"/>cerent mihi, quod est nomen ejus? quid dicerem illis? Dixit itaque Iehova 
+      <lb ed="#H" n="6"/>Moschi, Cheie, qui sum: dixitque ita dices filiis Israelis, Eheie misit me advos: 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1312">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Hoc etiam nomen a radice P PTI quae significat fuit, est dedus 
+      <lb ed="#H" n="8"/>ctum: &amp; denotat Dei essentiam ac simul essentiae propria, nimirum 
+      <lb ed="#H" n="9"/>aeternitatem &amp; immutabilitatem, hoc est, indicat Deum qui ab 
+      aeter<lb ed="#H" n="10" break="no"/>no in aeternum, &amp; immutabilem tum in essentia tum in promissis. 
+      Er<lb ed="#H" n="11" break="no"/>go hoc nomen idem significat cum superioribus duobus. Ad hoc 
+      <lb ed="#H" n="12"/>nomen allusit Christus Joh 8. v. 58. Prius quam Abrahamus 
+      exsiste<lb ed="#H" n="13" break="no"/>ret, ego sum. Hoc testimonium ergo est Deitatis aeternae Christi: quia 
+      <lb ed="#H" n="14"/>qui Abrahamo apparuit &amp; loquutus est; Angelus Jehovae seu 
+      aeter<lb ed="#H" n="15" break="no"/>nus Dei Filius fut 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1336">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Omnis creatura &amp; temporaria est &amp; mutabilis: nulli igitur 
+      crea<lb ed="#H" n="17" break="no"/>turae hoc nomen competit. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1345">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Nomina divina in Veteri Testamento occurrentia, quae designant 
+      <lb ed="#H" n="19"/>propria Dei essentiae, sunt; El, Elohim, Schaddai, Adonai, Helion, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1354">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>QUA RTUM igitur nomen estE2, yN quod significat, δυνάτον, 
+      i<lb ed="#H" n="21" break="no"/>χυχον, potentem, fortem, cujus se potentia tam longe exserit, ut di 
+      o<lb ed="#H" n="22" break="no"/>mnia suam quamcunque. habent virtutem &amp; potentiam acceptam ferre 
+      <lb ed="#H" n="23"/>debeant. Proinde Deus PN a fortitudine appellatur: tum quod ipse  
+      <lb ed="#H" n="24"/>essentia sua sit fortissimus, atq; adeo ipsa fortitudo: tum quod 
+      forti<lb ed="#H" n="25" break="no"/>tudinem aliis tribuat: Unde ab Immanuele Tremellio &amp; Francisco 
+      Iu<lb ed="#H" n="26" break="no"/>nio reddi solet, Deus fortis: quemadmodum etiam verti debet Jes. 9. v. 
+      <lb ed="#H" n="27"/>6. Quoniam puer natus est nobis: filius datus est nobis: &amp; est principatus 
+      <lb ed="#H" n="28"/>ipse super humerum eius: &amp; vocabit, Inimuum Iehova) nomen eius ad 
+      <lb ed="#H" n="29"/>mirabilem, consiliarium, Da PyN Deum forte, robustissimum, 
+      pa<lb ed="#H" n="30" break="no"/>trem aeternitatis, principe pacis. Verba illa TOPyNLutherus vertit, 
+      <lb ed="#H" n="31"/>trasstipelo) &amp; contendit ita esse vertendum. ac manifeste rejicit altera 
+      <lb ed="#H" n="32"/>interpretationem, veriore. Sed versioni Lutheri repugnat primo 
+      si<lb ed="#H" n="33" break="no"/>gnificatio nominis 7N, quod absolute potentem significat, &amp; 
+      adje<lb ed="#H" n="34" break="no"/>ctivuum est: non ergo est substantivum trasst. Deinde Lutherus, 
+      con<lb ed="#H" n="35" break="no"/>mate distinguit trasst a sequenti heso) at in textu Hebraeo nome, 
+      <lb ed="#H" n="36"/>nullum habet accentum e Syntacticis, qui soli orationem distinguunt:  
+      <lb ed="#H" n="37"/>sed habet duntaxat Etymologicum accentum Munach, qui vocem 
+      <lb ed="#H" n="38"/>acuit.  
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1400">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>QUiNTUM nomen est ELOHIM CPPPyN a singulari PHyN 
+      <lb ed="#H" n="40"/>quod nomen est potentiae &amp; fortitudinis magnarumque virium, sicut yN 
+      <lb ed="#H" n="41"/>Mercerus tamen &amp; Cevallerius docent, hoc nomen proprie judicem 
+      <lb ed="#H" n="42"/>sonare. Tribuiturque proprie vero Deo: Angelisvero &amp; hominibus. 
+      <lb ed="#H" n="43"/>admitatione dignis, praesertim qui aliis praesunt, tribuitur per 
+      Me<lb ed="#H" n="44" break="no"/>taphoram propter communicatam a Deo potentiam atque officium 
+      <lb ed="#H" n="45"/>aliis opem ferendi, eosque defendendi, sustentandi, fovendi, mundum 
+      <lb ed="#H" n="46"/>regna, urbesque regendi, diis denique fictis, per κατριχρισιν, quod illis sui 
+      <lb ed="#H" n="47"/>cultoresvim divinam tribuant. Singulare autem hoc. nomen raro 
+      u<lb ed="#H" n="48" break="no"/>surpatur, &amp; de vero Deo dicitur Chabal. 3. v. 3. PPyN Deus ab 
+      Au<lb ed="#H" n="49" break="no"/>stro veniet. &amp; Job. 12. v. 4. Clamans ad Deum. Et huic singulari etiam 
+      <lb ed="#H" n="50"/>plurale nomen jungitur, ut Job. 35. v. 10. UOUPPyN TPN, ubi est 
+      <lb ed="#H" n="51"/>Deus factores met? hoc pertinet ad denotandum mysterium Sancte 
+      <lb ed="#H" n="52"/>Triados. Frequentius autem in plurali numero reperitur, idque ad 
+      de<lb ed="#H" n="53" break="no"/>monstrandam pluralitatem personarum in essentia Dei: Nam 
+      de<lb ed="#H" n="54" break="no"/>quo nomen plucale Elohim proprie ac non per tropum aliquem set 
+      <lb ed="#H" n="55"/>figurate dicitur, in eo plures sint personae, quam una, necesse est. Inter 
+      <lb ed="#H" n="56"/>dum autem tres personas Deitatis significat, ut, Gen. 1v. 1. Deuter, 6. 
+      <lb ed="#H" n="57"/>vers. 4. Interdum duas, ut Genes1 vers. 2. [PPPyN PHPHEtSpiritus 
+      <lb ed="#H" n="58"/>Elohim, id est, Patris &amp; Filii. Interdum per Synecdochen etiam 
+      u<lb ed="#H" n="59" break="no"/>nam, sed quae non sit sola &amp; ab aliis personis separata, ut Genes. 1. 1 
+      <lb ed="#H" n="60"/>26. de Patre intelligitur. Et dixit Deus, Faciamus hominem, &amp;c. 
+      Di<lb ed="#H" n="61" break="no"/>xit Deus, nempe Pater Filio &amp; Spiritui Sancto, tanquam autor &amp; 
+      fon<lb ed="#H" n="62" break="no"/>creationis, &amp; omnium operum divinorum. Hosc. 12. vers. 4. dicitur 
+      <lb ed="#H" n="63"/>quod Jacobus Patriarcha robore suo principe se gesserit DPPyN TIN 
+      <lb ed="#H" n="64"/>cum Deo, id est, cum aeterno Dei Filio, qui mox etiam TNyOmaleaci, 
+      <lb ed="#H" n="65"/>id est, Angelus dicitur. De Mose quidem nomen Elohim etiam 
+      plu<lb ed="#H" n="66" break="no"/>raliter dicitur Exod. 4. v. 16. Tu vero sis ei (Aharoni) vice Elohim, &amp; 
+      <lb ed="#H" n="67"/>cap. 7. vers. 4. Dixit Iehova Mosi, vide constitui te vice Elohim 
+      Pha<lb ed="#H" n="68" break="no"/>aoni. Sed improprie &amp; tropice de Mose hoc nomen dicitur 
+      plura<lb ed="#H" n="69" break="no"/>iter: &amp; subest hic etiam mysterium Sanctae Triados, quia Moses, ut 
+      <lb ed="#H" n="70"/>legatus personam veri Dei Trinuni apud Aharonem &amp; 
+      Pharao<lb ed="#H" n="71" break="no"/>nem gessit, exponens illis voluntatem illius Trinuni Dei. 
+      Proin<lb ed="#H" n="72" break="no"/>de hoc nomen etiam verbo vel nomini plurali interdum jungitur, ut 
+      <lb ed="#H" n="73"/>ἐμφατκωτορωε, pluralitas personarum in divinis exprimatur. Genes. 
+      <lb ed="#H" n="74"/>20. v. 3. DPPPNPTN JXTTH errare vel vagari me fecerunt dii, id 
+      <lb ed="#H" n="75"/>est, Deus me fecit errate, verha sunt Abrahami. Sic Genes. 35. 7. 
+      <lb ed="#H" n="76"/>OPPPPNIHPyIa apparuerunt Dii, id est, apparuit Deus. Sic 2. 
+      Sa<lb ed="#H" n="77" break="no"/>muel. 7. v. 23. [PPPyN PPyTHiverunt Di, id est, ivit Deus ad 
+      redi<lb ed="#H" n="78" break="no"/>nen sum sibi Gentem in populum. Sic Josu. 24. v. 19. 3?T DUθεi  
+      <lb ed="#H" n="79"/>DPPPyNP Quoniam di sancti ille. ser. 10 v. 10. Dupt DPrPyR 
+      <lb ed="#H" n="80"/>NITITIUN DHPPN PTITPI Iehova vero Dii veritatis, dii vi 
+      <lb ed="#H" n="81"/>ventes. Licet interdum etiam singularibus verbis, nominibus &amp; 
+      pro<lb ed="#H" n="82" break="no"/>hominibus jungatur, ut Genes. 1. vers. 1. Deut. 6. v. 4. Jos. 24. vers. 15. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1501">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>SEXTUM nomen est ScHAODAITQ, id est, omnipotens. Hoc 
+      <lb ed="#H" n="84"/>nomine se Deus solitus est appellare, cum Patriarchas alloquebatur,  
+      <lb ed="#H" n="85"/>ut Gen. 17. v. 1. inquit ad Abrahamum PIU γN PN, Ani 
+      El<lb ed="#H" n="86" break="no"/>Schaddai. Ego sum Deus fortis omnipotens, Graecis est παυτόκργτuρ. 
+      <lb ed="#H" n="87"/>Significat autem omnipotentiam Dei, tum ad benefaciendum, ad 
+      <lb ed="#H" n="88"/>protegendum, ad beatos efficiendum, ad praestandum promissa; unde 
+      <lb ed="#H" n="89"/>plene persuasus fuit Abraham, eum posse facere quod promisera 
+      <lb ed="#H" n="90"/>tum ad puniendum, perdendum &amp; exequendum minas. Graecis 
+      eti<lb ed="#H" n="91" break="no"/>est, αυζιρκης, qui sufficit, qui sufficiens est sibi, &amp; aliis sufficientiam 
+      tri<lb ed="#H" n="92" break="no"/>buit. Ideo hoc nomen ne quidem humanae Christi naturae competit, 
+      <!--cod-MkL9py-0167.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>quia nec sibi ipsa sufficiens est, &amp; omnem suam sufficientiam a divine 
+      <lb ed="#H" n="94"/>natura habet. Nomen hoc nunquam apud Hebraeos, nisi de solo 
+      <lb ed="#H" n="95"/>Deo usurpatur  
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1538">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>SEPTIMUM nomen est ADONAIPIN Dominus, quod proprie 
+      <lb ed="#H" n="97"/>etiam soli Deo competit: Analogice vero creaturis. Et de vero Deo 
+      <lb ed="#H" n="98"/>dicitur etiam plurali numero, ad mysterium S. Triados denotandum, 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1549">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Malach. 1. vers. 6. AN DPPPIN DN) &amp; si Domini ego: ubi 
+      <lb ed="#H" n="100"/>POPIN est plurale nomen? δN vero pronomen singulare. Dani. 9. 
+      <lb ed="#H" n="101"/>17. dicitur de Christo seu Rege Messia: Fac ut luceat facies tua 
+      supe<lb ed="#H" n="102" break="no"/>sanctuarium tuum, quod desolatum est. PPIN PPD) propter 
+      Domi<lb ed="#H" n="103" break="no"/>num. Nomen hoc? PIN quoties de Deo usurpatur, habet semper 
+      <lb ed="#H" n="104"/>subNun vocalem Zamete. Porro nomen hoc Judaei vocant? TT hoc 
+      <lb ed="#H" n="105"/>est confessum &amp; certum: &amp; 134. in locis reperiri Massoretae tradunt 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1569">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>OCTAVUM nomen Dei est HELJON PPPTI id est, Excelsus 
+      seu<lb ed="#H" n="107" break="no"/>Altissimus. ExstatPsal. 3. 9. Psallam nomini tuo Excelse. Et Ps. 9 1. 9. Ex 
+      <lb ed="#H" n="108"/>celsum statueris habitaculum tuum. Et Psal. 92. 9. Te autem o Excelse; 
+      <lb ed="#H" n="109"/>in seculum esse Iehovam, Dan. 4. v. 17. Vt agnoscant viventes, 
+      dominae<lb ed="#H" n="110" break="no"/>ri Excelsum in regno hominum, Et v. 24, 25. Haec interpretatio est Regis 
+      <lb ed="#H" n="111"/>&amp; decretum Excelsi est quod superventurum est Domino meo Regi. 
+      Ni<lb ed="#H" n="112" break="no"/>te depellent homines a se, &amp; cum bestiis agri futura est habitatio tua, 
+      <lb ed="#H" n="113"/>herbamque ut bobus tibi gustandam dabunt, &amp; rore caeli te intingent, se 
+      <lb ed="#H" n="114"/>ptemque tempora praeteribunt te:usque dum noscas dominari Excelsam in 
+      <lb ed="#H" n="115"/>regno hominum, &amp; cui vult dare illud. Et v. 34. Excelso benedixi. Idque 
+      <lb ed="#H" n="116"/>Deo tribuitur, quod prae omnibus creaturis, etiam Angelis, ut in 
+      al<lb ed="#H" n="117" break="no"/>tissimo &amp; supremo gradu, essentia &amp; gloria omnem humanum sensur. 
+      <lb ed="#H" n="118"/>xcedat, Huic nomini Hebraeo respondet Graecum ψψισος, id est, 
+      <lb ed="#H" n="119"/>Altissimus, quod usurpat Angelus Gahriei, cum Luc. 1. v. 32. ad 
+      Ma<lb ed="#H" n="120" break="no"/>tiam ait de Christo, &amp; deς υψιστα κληθεσετιι, &amp; Filius altissimi 
+      vo<lb ed="#H" n="121" break="no"/>cabitur.  
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1608">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Hactenus pleraque nomina divina in Veteri Testamen¬ 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1615">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>ro occurrentia. 
+      <lb ed="#H" n="124"/>In Novo Testamento frequentissima sunt Θeos &amp; Rυριος 
+      <lb ed="#H" n="125"/>Nomen Θeis, DEus, quum simpliciter &amp; absolute ponitur, 
+      signi<lb ed="#H" n="126" break="no"/>ficat ipsam aeternam essentiam divinam, &amp; nulli creaturae hoc 
+      signi<lb ed="#H" n="127" break="no"/>ficato convenire potest. Institutum est enim nomen hoc ad aliquid 
+      si<lb ed="#H" n="128" break="no"/>gnificandum super omnia exsistens &amp; omnia complectens sua 
+      po<lb ed="#H" n="129" break="no"/>tentia: hoc intendunt significare nominantes Deum. Proinde recte 
+      <lb ed="#H" n="130"/>dixit Ambrosius, nomen Dei esse natura, hoc est, naturam seu 
+      essenti<lb ed="#H" n="131" break="no"/>am divinam significare; non autem officii proprie loquendo 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1640">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>Porro interdum nomine Dei intelligitur tota Sacrosancta 
+      Trini<lb ed="#H" n="133" break="no"/>tas, ut Matth. 4. v. 7. Non tentabis Deminum Deum tuum. Et v. 10. 
+      <lb ed="#H" n="134"/>Dominum Deum tuum adorabis, &amp; illum solum coles. Interdum 
+      una<lb ed="#H" n="135" break="no"/>persona S. Trinitatis, ut Pater. 1. Tim. 2. v. 5. Unus enim est Deus, unus 
+      <lb ed="#H" n="136"/>etiam mediator Dei &amp; hominum homo Christus Iesus. Vel Filius 1. Tim. 
+      <lb ed="#H" n="137"/>3.16. Deus conspicuus est in carne, justificatus est in Spiritu, &amp;c. Vel Sp. 
+      <lb ed="#H" n="138"/>ritus Sanctus Actor. 5. 4. non es mentitus hominibus sed Deo, 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1660">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Rυριος cum Deo absolute tribuitur, rospondet Hebraeo nomini: 
+      <lb ed="#H" n="140"/>sehova, Deus autem ita est Dominus, ut sit αυτεκυριος, hoc est, a 
+      sci<lb ed="#H" n="141" break="no"/>pso Dominus. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1671">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>Oecutrunt etiam ista: ὕψισος, Altissimus seu Excelsissimus. Act. 7. 
+      <lb ed="#H" n="143"/>48. Excelsissimus ille in manufactis templis non habitat. Πaτης τῶν φω¬ 
+      <lb ed="#H" n="144"/>τον, Pater luminum. Jac. 1. 17. Omnis donatio bona, &amp; omne integrum 
+      <lb ed="#H" n="145"/>donum est superne, descendens a Patre luminum, apud quem non inest 
+      <lb ed="#H" n="146"/>transmutatio, aut conversionis obumbratio. Sic autem vocatur, non 
+      <lb ed="#H" n="147"/>tantum quia ipse essentia sua lux est 1. Joh. 1. vers. 5. &amp; in luce habitat  
+      <lb ed="#H" n="148"/>Dan. 2. v. 22. 1. Joh. 1. v. 7. eaque inaccessa, 1. Tim. 6.16. sed etiam quia 
+      <lb ed="#H" n="149"/>autor est lucis, seu luminis omnis, tum naturalis, sive in 
+      communi<lb ed="#H" n="150" break="no"/>natura, sive in Angelis &amp; hominibus, quos luce rationis illustravit: 
+      <lb ed="#H" n="151"/>tum luci gratiae, quae ad lucem naturae singulari beneficio accessit, in 
+      <lb ed="#H" n="152"/>Angelis inde ab initio creationis ipsorum constanter, in hominibus. 
+      <lb ed="#H" n="153"/>autem partim initio creationis ante lapsum, partim post lapsum 
+      per<lb ed="#H" n="154" break="no"/>regenerationem, accensa in regeneratis luce fidei, 2. Cor. 4. luce 
+      bo<lb ed="#H" n="155" break="no"/>norum operum, quae opponuntur peccatis tanquam operibus 
+      tene<lb ed="#H" n="156" break="no"/>brarum, Rom. 13. v. 12. luce consolationis. Psalm. 27. v. 1. praelucente 
+      <lb ed="#H" n="157"/>luce verbi Dei, Psal. 119. v. 105. luce Evangelii, I. Joh. 5. v. 35. 2. Cor. 4. 
+      <lb ed="#H" n="158"/>v. 6. de luce illa mundi, nempe Christo, Matth. v. 16. Lucae 2. vers 32. 
+      <lb ed="#H" n="159"/>Johan. 1. vers. 4, 5, 9 &amp; cap. 3. v. 19. &amp; cap. 6. v. 12. cujus itidem 
+      prae<lb ed="#H" n="160" break="no"/>cones, imo etiam omnes fideles credentes in Christum sunt lux,¬ 
+      <lb ed="#H" n="161"/>Matth. 5. 14. Ephes 5. 8. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1719">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Reperiuntur in Novo Testamento haec etiam 
+      nomina<lb ed="#H" n="163" break="no"/>Eli. Matt. 27. 46. Eli, Eli, lama-sabachthani, hoc est, Deus mi, Deus 
+      <lb ed="#H" n="164"/>mi, cur deseruisti me? Item Eloi. Marc. 15. v. 34. Eloi, Eloi lamma-
+      sa<lb ed="#H" n="165" break="no"/>bachtani, id est, Deus mise quibus illud Hebraicum, hoc vero Syria¬ 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1732">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>n est. 
+      <lb ed="#H" n="167"/>Abba, quod nomen est Syriacum, &amp; idem est quod Pater, Rom. 
+      <lb ed="#H" n="168"/>8. 15. 
+      </p>
+            <p xml:id="yyy8Uu-e64179-d1e1743">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>Rήριος σαρκωῳ, Dominus Sabaoth, hoc est, exercituum, Ro. 9. v. 
+      <lb ed="#H" n="170"/>29. Nisi Dominus Sabaoth reliquisset nobis semen, facti fuissemus ut 
+      So<lb ed="#H" n="171" break="no"/>doma, &amp; Gomorrhae similes facti fuissemus. Jac. 5. 4 Vociferationes eori 
+      <lb ed="#H" n="172"/>qui messuerunt, in aures Domini Sabaoth introierunt. Hoc nomine 
+      <lb ed="#H" n="173"/>summa potentia Deo tribuitur: exercitui enim nomine 
+      intelligun<lb ed="#H" n="174" break="no"/>tur quaecunque supra caelum, in caelo, &amp; inde a terrae centro ad 
+      conve<lb ed="#H" n="175" break="no"/>xam usque caeli apsidem ordinata exstant, quibus omnibus in caelo &amp; 
+      <lb ed="#H" n="176"/>terra cohonestatur Deus, sicuti Imperator numerosis suis exercitibus 
+      <lb ed="#H" n="177"/>Nomine igitur Sabaoth, id est, exercituum comprehenduntur 
+      innu<lb ed="#H" n="178" break="no"/>merae legiones Angelorum, Gen. 32. v. 1. 2. Iacob vero abiit itinere suo, 
+      <lb ed="#H" n="179"/>veneruntque ei obviam Angeli Dei. Dixitque Iacob cum videret eos, acies 
+      <lb ed="#H" n="180"/>Dei haec est: quapropter vocavit nomen loci illius Machanajima. 2. Reg. 
+      <lb ed="#H" n="181"/>0. 17. Et orans Elisaus dixit, o Iehova aperi quaeso oculos eius ut videat:  
+      <lb ed="#H" n="182"/>&amp;aperiente Iehova oculos pueri illius vidit quod ecce mons ille 
+      plenu<lb ed="#H" n="183" break="no"/>erat equis &amp; curribus igneis circa Elisaeum. Dan. 7. v. 10. Acuius 
+      con<lb ed="#H" n="184" break="no"/>spectus flumus ignis manabat prodiens, cui milliis mille ministrabant, &amp; 
+      <!--cod-MkL9py-0168.xml-->
+      <pb ed="#H" n="141"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>eoram quo mytias myriadum stabant: donet judicio considente 
+      libri<lb ed="#H" n="2" break="no"/>norti sunt. Ingens multitudo populi, veluti populi Dei seu Ecclesiae 
+      <lb ed="#H" n="3"/>Exod. 7. v. 7. Educamus exercitus meos, populum meum, filios Israelis 
+      <lb ed="#H" n="4"/>terra AEzypti judiciis magnis. Vel conjunctim Angeli &amp; homines 
+      fi<lb ed="#H" n="5" break="no"/>deles quorum princeps est Filius Dei, Jos. 6. v. 2. Quin &amp; hostes 
+      <lb ed="#H" n="6"/>quos Deus adducit ad puniendos impios sunt exercitus Dei: item 
+      <lb ed="#H" n="7"/>animalia, verno tempore germina, flores, fructumque 
+      nascentem<lb ed="#H" n="8" break="no"/>perdentia, Jocl2. 6. &amp; c. 2. 11. &amp; 25. tum &amp; innumera multitudo 
+      stel<lb ed="#H" n="9" break="no"/>larum 
+      <lb ed="#H" n="10"/>Tantum de nominibus diuvinis: sequitur de proprietatis 
+      <lb ed="#H" n="11"/>bus Dei essentialibus.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

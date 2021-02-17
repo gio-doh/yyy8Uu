@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="268"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e28766"> <!-- l5-c7 -->
+            <head xml:id="yyy8Uu-e28766-Hd1e109">Caput 7</head>
+            <p xml:id="yyy8Uu-e28766-d1e112">
+               <lb ed="#H" n="130"/>CAPUT VII. 
+      <lb ed="#H" n="131"/>In quo de Mundo communiter.
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e119">
+               <lb ed="#H" n="132"/>Sic fuit definitio creaturae. 
+      <lb ed="#H" n="133"/>TPORRO omnes res creatae vel coniunctim considerantur, vel  
+      <lb ed="#H" n="134"/>distinci. 
+    </p>
+            <p xml:id="yyy8Uu-e28766-d1e128">
+               <lb ed="#H" n="135"/>Creaturae conjunctim consideratae uno nomine MUNDI 
+      com<lb ed="#H" n="136" break="no"/>prehenduntur: ac proinde de Mundo non tantum Philosophia, sed 
+      <lb ed="#H" n="137"/>etiam Th ologia tractat, sed alio modo haec, alio illa. Phiiosophia 
+      e<lb ed="#H" n="138" break="no"/>nim, Mundi &amp; corporum naturalium quae in ipso sunt proximas 
+      cau<lb ed="#H" n="139" break="no"/>sas seu principia atque proprietates in sua unicuiusque natura 
+      perscru<lb ed="#H" n="140" break="no"/>tatur, non altius adscendins ad Deum, ut ille est primum puincipium 
+      <lb ed="#H" n="141"/>quo, &amp; ultimus finis sub ratione summi boni supernaturalis. 
+      Theo<lb ed="#H" n="142" break="no"/>logia autem a Deo omnia deducit, ut ad eundem reducat, fidei, 
+      cha<lb ed="#H" n="143" break="no"/>ritatis, spei, fiduciae in Deum, humijitatis, patientiae, in vocations 
+      reli<lb ed="#H" n="144" break="no"/>giosae, celebrationis &amp; laudis divinae materiam inde desumens 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e153">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Nobis hoc loco propositum est, Theologicam de mundo 
+      tracta<lb ed="#H" n="146" break="no"/>tionem instituere hoc ordine, ut primum de voce Mundi, deinde de re 
+      <lb ed="#H" n="147"/>ipsa agamus.
+    </p>
+            <p xml:id="yyy8Uu-e28766-d1e164">
+               <lb ed="#H" n="148"/>MUNDUS est nomen homonymum, quod alias adiective 
+      sumi<lb ed="#H" n="149" break="no"/>tur, &amp; purum immunemque a sordibus vel peccatis significat: alias 
+      <lb ed="#H" n="150"/>substantive capitur  
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e173">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>Sed &amp; cum substantive accipitur, varia significata haber  
+      <lb ed="#H" n="152"/>Primo sumitur proprie pro tota rerum creatarum universitate, pro 
+      <lb ed="#H" n="153"/>ingenti ista machina, caelum &amp; terram &amp; mare &amp; omnia quae in eis 
+      <lb ed="#H" n="154"/>continentur, comprehendente, velut Johan. 1. vers. 10 Mundu per 
+      i<lb ed="#H" n="155" break="no"/>psum factus est, &amp; c. 17. 5. Nunc igitur glorifica metu Pater apud 
+      temet<lb ed="#H" n="156" break="no"/>ipsum ea gloria quam habui apud te prius quam mundus esset. Ephes. 
+      <lb ed="#H" n="157"/>1. v. 4, sicut elegit nos in ipso ante iactum mundi fundamentum 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e193">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Secundo sumitur Synecdochice pro parte universitatis, idque 
+      di<lb ed="#H" n="159" break="no"/>stinctis modis. Interdum pro orbe terrarum, seu terra in qua homines 
+      <lb ed="#H" n="160"/>vivunt ad tempus: ut Matt. 4. v. 8. ostendit et omnia regna mundi. Joh. 
+      <lb ed="#H" n="161"/>1. vers 9. lux quae illuminat omnem hominem venientem in hunc 
+      mun<lb ed="#H" n="162" break="no"/>dum 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e209">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>Interdum pro hominibus tantum, iisque vel omnibus in genere 
+      <lb ed="#H" n="164"/>universe quotquot naturaliter ab Adamo propagati sunt, ut Rom 5. 
+      <lb ed="#H" n="165"/>v. 12, Sicut per unum hominem peccatum in mundum introiit: Vel pro 
+      <lb ed="#H" n="166"/>solis electis hominibus, ex toto genere humano in toto mundo 
+      colle<lb ed="#H" n="167" break="no"/>ctis. Hoc olim Donatistae impugnarunt &amp; hodie nonnulli negant.  
+      <lb ed="#H" n="168"/>Proinde priimum loca Scripturae annotabimus, in quibus vox mundi 
+      <lb ed="#H" n="169"/>pro solis electis Dei ponitur: deinde orthodoxum antiquitatis 
+      con<lb ed="#H" n="170" break="no"/>pensum proferemus. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e231">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Joh. 1. v. 29. Ecce agnus ille Dei qui tollit peccatum mundi. Joh. 3. v. 16.. 
+      <lb ed="#H" n="172"/>Ita Deus dilexit mundum, ut Filium suum Vnigen tu dederit: &amp; v. 17. ut 
+      <lb ed="#H" n="173"/>servetur mundius per eum. Joh. 4. v. 42. Scimus hunc esse vere Servatore: 
+      <lb ed="#H" n="174"/>illum mudi Christim. Joh. 6. v. 33. Panis enim ille Dei is est qui de caelo de¬ 
+      <!--cod-MkL9py-0296.xml-->
+      <pb ed="#H" n="269"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>scendit, &amp; dat vitam mundo. &amp; v. 15. Si quis ederit ex hoc pane, vivet in 
+      A<lb ed="#H" n="2" break="no"/>aeternum: panis autem quem ego dabo pro mundi vita. Joh. 8. v. 12. Ego 
+      <lb ed="#H" n="3"/>sum lux illa mundi. Johan. 12. vers. 47. Veni ut servem mundm. Joh. 
+      <lb ed="#H" n="4"/>14. v. 51. Sed ut norit mundus quod ego Patrem diligo. Joh. 17. v. 21. ut 
+      <lb ed="#H" n="5"/>credat midus me a te missum esse, &amp; v. 23. ut cognoscat mundus quod 
+      tu<lb ed="#H" n="6" break="no"/>me miseris. Rom. 11. v. 15. Si abiectio eorum est reconciliatio mundi, quo 
+      <lb ed="#H" n="7"/>erit assumtio, nisi vita ex mortuis? 2. Cor. 5. v. 19. Deus erat in Christ. 
+      <lb ed="#H" n="8"/>mundum reconcilians sibi, non imputando eis lapsus ipsorum. 1. Joh. 2. v. 
+      <lb ed="#H" n="9"/>2. Et ipse est propitiatio pro peccatis nostris: nec pro nostris solum, sed etiam 
+      <lb ed="#H" n="10"/>pro totius mundi peccatis. 1. Joh. 4. v. 14. Nos vero spectavimus &amp; 
+      testa<lb ed="#H" n="11" break="no"/>mur, Patrem misisse Filium qui esset Servator mundi. In his omnibus 
+      <lb ed="#H" n="12"/>Scripturae locis, mundi nomine soli electi seu vere fideles &amp; servandi. 
+      <lb ed="#H" n="13"/>intelligi debent. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e280">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Nunc orthodoxum consensum antiquitatis producamus 
+      <lb ed="#H" n="15"/>AUGUSTINUS 7. tomo, libro contra Donatistas post 
+      Collatio<lb ed="#H" n="16" break="no"/>nem pag. 403. sic ait: Nolentes (Donatistae) consentire, mundi nomino 
+      <lb ed="#H" n="17"/>Ecclesiam posse significari, contra verba Apostoli, qui dixit, Deus erat in 
+      <lb ed="#H" n="18"/>Christo mundum reconcilians sibi: &amp; contra ipsius verba Domini, qui 
+      di<lb ed="#H" n="19" break="no"/>xit, Non venit Filius hominis ut iudicet mundum, sed ut salvetur 
+      mun<lb ed="#H" n="20" break="no"/>dus per ipsum. Neque enim reconciliari Deo &amp; salvari per ipsum mundis 
+      <lb ed="#H" n="21"/>potest, nisi mundi nomine intelligatur Ecclesia, quae sola per eum Deo 
+      res<lb ed="#H" n="22" break="no"/>conciliata, salvatur. Hactenus Aug. Praecedente vero pag. 40 2. ait de 
+      <lb ed="#H" n="23"/>Donatistis: Illi(Donatistae) dicebant, mundum semper in malam 
+      signi<lb ed="#H" n="24" break="no"/>ficationem positum, &amp; testimonia de Scripturis dabant, quia scriptu est 
+      <lb ed="#H" n="25"/>si quis dilexerit mundum, non est charitas Patris in illo &amp; caetera talia. 
+      <lb ed="#H" n="26"/>Nos vero, non solum in malam, sed etiam in bonam significationem mundum 
+      <lb ed="#H" n="27"/>in Scripturis positum, respondebamus, &amp; commemorabamus etiam 
+      illud<lb ed="#H" n="28" break="no"/>quod scriptum est, Deus erat in Christo mundum reconcilians sibi, qui 
+      uti<lb ed="#H" n="29" break="no"/>que non sibi reconciliat, nisi Ecclesiam. Similiter in Breviculo 
+      colla<lb ed="#H" n="30" break="no"/>tionum cum Donatistis, in collatione tertii diei pag. 387. Dissensio nata 
+      <lb ed="#H" n="31"/>est propter Mundi nomen, quod Donatistae nolebant intelligi Ecclesiam. 
+      <lb ed="#H" n="32"/>quia scriptum est, Ager est hic mundus. Et multa testimonia protulerunt,  
+      <lb ed="#H" n="33"/>quibus Sicra Scriptura mundum nonnisi malos comemorasset, sicut est, 
+      <lb ed="#H" n="34"/>Qui dilexerit mundum, non est charitas Patris in illo, &amp; caetera talia, ut  
+      <lb ed="#H" n="35"/>quasi ex hoc ostenderet mundi nomine Ecclesiam significari minime 
+      po<lb ed="#H" n="36" break="no"/>tuisse. Centra Catholici alia testimonia proferebat, quibus in bono 
+      mun<lb ed="#H" n="37" break="no"/>di nomen esse positum ostenderunt, sicuti est, Deus erat in Christo 
+      mun<lb ed="#H" n="38" break="no"/>dum reconcitians sibi; &amp; caetera huiusmodi ubi ostederetur Ecclesia, quo- 
+      <lb ed="#H" n="39"/>niam ipsa utique per Christum recociliatur Deo. Tomo nono Tract. 
+      8<lb ed="#H" n="40" break="no"/>in Johan. pag. 312. Si de mundo essetis, mundus quod suum erat 
+      dilige<lb ed="#H" n="41" break="no"/>ret. Universae utique hoc dicit Ecclesiae, quam plerunque etiam ipsam mundi. 
+      <lb ed="#H" n="42"/>nomine appellat, sicut est illud: Deus erat in Christo mundum 
+      reconci<lb ed="#H" n="43" break="no"/>lians , ibi. Itemque illud: Non venit Filius hominis ut iudicet mundum, 
+      <lb ed="#H" n="44"/>sed ut salvetur mundus per ipsum; &amp; in epistola sua Iohannes ait; 
+      Advo<lb ed="#H" n="45" break="no"/>catum habemus apud Patrem, Iesum Christum iustum, &amp; ipse propitia 
+      <lb ed="#H" n="46"/>tor est peccatorum nostrorum, non tantum nostrorum, sed etiam totius 
+      <lb ed="#H" n="47"/>mundi. Totus ergo mundus Ecclesia est, &amp; totus mundus odit Ecclesiam. 
+      <lb ed="#H" n="48"/>Mundus igitur odit mundum, inimicus reconciliatum, damnatus 
+      salva<lb ed="#H" n="49" break="no"/>tum, inquinatus mundatum: sed iste mundus, quem Deus in Christo 
+      re<lb ed="#H" n="50" break="no"/>conciliat sibi &amp; per Christum salvatur, &amp; cui per Christum peccatum  
+      <lb ed="#H" n="51"/>omne donatur, de mundo electus est inimico, damnato, concaminato. Et  
+      <lb ed="#H" n="52"/>tractat. 110. pag. 355. Eodem tomo nono, tract. 1. in epistolam B Jol 
+      <lb ed="#H" n="53"/>Christus propitiatio est peccatorum nostrorum, non tantum nostrorum, 
+      <lb ed="#H" n="54"/>sed &amp; totius mundi Ecce habes Ecclesiam per totum mundum. Et mox: 
+      <lb ed="#H" n="55"/>Christus propitiatio est peccatorum nostrorum, non tantum nostrorum. 
+      <lb ed="#H" n="56"/>sed &amp; totius mundi quem sanguine suo comparauit. Tomo 2. epist. 48. 
+      <lb ed="#H" n="57"/>pag. 118. Et totu mundus in maligno positus est, propter zizania quo 
+      <lb ed="#H" n="58"/>sunt per totum mundum; &amp; Christus propitiator est peccatorum nostro. 
+      <lb ed="#H" n="59"/>rum, non tantum nostrorum, sed totius mundi, propter triticum quod est, 
+      <lb ed="#H" n="60"/>per totum mundum. Similiter totum mundum interpretatur Cyrillus 
+      <lb ed="#H" n="61"/>in Johannem lib. undecimo cap. 19. cum verba Christi Joh. 17. Nos 
+      <lb ed="#H" n="62"/>oro pro mundo, &amp; verba haec Johannis, propitiatio est pro peccatis totius 
+      <lb ed="#H" n="63"/>mundi, quae pugnantia videntur conciliat: Beatus Iohannes (inquit 
+      Cy<lb ed="#H" n="64" break="no"/>rillus) quoniam erat Iudaeus, ne pro Iudaeis tantum paracletus esse 
+      Domi<lb ed="#H" n="65" break="no"/>nus apud Patrem videretur, non aute etiam pro aliis Gentibus, quae 
+      vo<lb ed="#H" n="66" break="no"/>catae, obsecutae sunt, necessarto adiecit, pro toto mundo, id est, pro omnibus, 
+      <lb ed="#H" n="67"/>qui per fidem vocati ad iustitiam &amp; sanctificationem perveniunt. Haec 
+      <lb ed="#H" n="68"/>Cyrillus. Similiter explicat mundi nomen Hieronymus lib. 2. adver. 
+      <lb ed="#H" n="69"/>sus Jovinianum, &amp; alii Patres orthodox. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e406">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>Hactenus de voce mundi pro solis electis hominibus sumta 
+      <lb ed="#H" n="71"/>Interdum intelliguntur nomine mundi soli non regenerati, infide 
+      <lb ed="#H" n="72"/>les &amp; reprobi, ut Joh. 1. v. 10. Mundus eum non cognovit. Joh. 14. v. 17. 
+      <lb ed="#H" n="73"/>Spiritum veritatis mundus non potest accipere: &amp; cap. 17. ver. 9. Non 
+      pro<lb ed="#H" n="74" break="no"/>mundo rogo. &amp; v. 25. Pater iuste mundus te non novit. 1. Joh. 5. v. 19. 
+      Sci<lb ed="#H" n="75" break="no"/>mus nos ex Deo esse, &amp; mundum totum in malo iacere. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e424">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Interdum voce mundi intelliguntur homines qui in diluvio 
+      perie<lb ed="#H" n="77" break="no"/>runt. Hebr. 11. v. 7. Noe per arcam condemnavit mundum. 2. Pet. 2. v. 5. 
+      <lb ed="#H" n="78"/>Prisco mundo non pepercit, sed octavum Noe iustitiae praeconem 
+      custodi<lb ed="#H" n="79" break="no"/>vit, diluvio imniorum inducto, 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e437">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Interdum Judaeorum gens. Johan. 7. 4. Manifesta teipsum mundo, 
+      <lb ed="#H" n="81"/>Galat. 4. 3. Sub elementis mundi eratis 
+      <lb ed="#H" n="82"/>Tertrio sumitur metonymice pro eo quod in mundo est contrarium 
+      <lb ed="#H" n="83"/>pirituali regno Christi, seu quicquid cum voluntate Dei non 
+      consen<lb ed="#H" n="84" break="no"/>tit, ut 1. Johan. 2. v. 15. Ne diligite mundum Gal. 6. v. 14. Mundus mihi 
+      <lb ed="#H" n="85"/>crucifixus est &amp; ego mundo. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e455">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Quarto, mundus muliebrem ornatum significat &amp; plerumque 
+      con<lb ed="#H" n="87" break="no"/>juncte mundus muliebris appellatur, ut Esther. 2. v. 3. ut adhibeat 
+      mun<lb ed="#H" n="88" break="no"/>dum earum. &amp; v 9. celeriter dedit Esthirae mundum eius 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e466">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>In praesentia nomine mundi utimur prima ac propria 
+      significatio<lb ed="#H" n="90" break="no"/>ne pro tota universitate rerum creatarum Sic autem definitur? 
+      <lb ed="#H" n="91"/>MUNDUS, est systema seu compages, constans ex caelo, terra &amp; 
+      <lb ed="#H" n="92"/>mari &amp; caeteris omnibus rebus quae m iis continentur, excepto omni¬ 
+      <!--cod-MkL9py-0296.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>um autore Deo, a quo uno omnia sunt, &amp; ad quem unum omnia 
+      ten<lb ed="#H" n="94" break="no"/>dunt. 2. Petr. 2. v. 7. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e489">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Unde a Graecis nominatur ταν, id est, universum, non quod extra 
+      <lb ed="#H" n="96"/>cum nihil sit test enim extra ipsum Deus,) sed quod sit universitas 
+      o<lb ed="#H" n="97" break="no"/>mnium creaturarum Dei. Vocatur ab iisdem xόσμος duabus de causis: 
+      <lb ed="#H" n="98"/>Prior est, quia nihil tota hac compage neque ornatius, neque pulchrius, 
+      <lb ed="#H" n="99"/>propter puleras rerum formas amoenissimamque caeli faciem &amp; 
+      gratis<lb ed="#H" n="100" break="no"/>simam lucem; posterior, quia nihil hac compage ornatius propter 
+      pul<lb ed="#H" n="101" break="no"/>cherrimam rerum omnium intar se δυταζιαν, φιλιαν, κοινώονίαν, αρμο¬ 
+      <lb ed="#H" n="102"/>νιαν, quatenus a Deo creatae fuerunt &amp; reguntur. Sic igitur κόνμoς 
+      di<lb ed="#H" n="103" break="no"/>citur a perfecta absolutaque elegantia &amp; congruente undecunque 
+      dispo<lb ed="#H" n="104" break="no"/>sitione, ut docet Tertullianus lib. adversus Hei mogenem, cap. 40. &amp; 
+      <lb ed="#H" n="105"/>Beatus Athanasius oratione contra idola. Deus mundum verbo quo 
+      <lb ed="#H" n="106"/>jussit, ratione qua disposuit, virtute qua potuit, de nihilo expressit in 
+      or<lb ed="#H" n="107" break="no"/>namentum maiestatis suae, ut loquat cum Tertulliano 
+      Apologetico<lb ed="#H" n="108" break="no"/>adversus Gentes, cap. decimo septimo, 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e524">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Hebraeis appellatur CPIU, id est, jον, ut redditur Hebr. 11. v. 3. 
+      <lb ed="#H" n="110"/>non ab aeternitate, quasi semper fuerit, sed a fixo illo ordine, quem 
+      <lb ed="#H" n="111"/>Deus in illo constituit, quemque adhuc hodse durare cernimus: qualis 
+      <lb ed="#H" n="112"/>ortus &amp; occasus solis, quatuor anni tempora, tempestatum vicissitudo, 
+      <lb ed="#H" n="113"/>fluminum perennitas, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e540">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Porro quaeritur de mundi causa efficiente, materia, forma, fine, &amp;c. 
+      <lb ed="#H" n="115"/>Causam efficientem mundus haber: est enim creatus, hoc est, factus 
+      <lb ed="#H" n="116"/>a Deo ex nihilo: quod tum Deus ipse affirmat, tum rationes evincunt. 
+      <lb ed="#H" n="117"/>tum gentiles nonnulli fatentur.  
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e553">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Quod Deus mundum fecerit, nulli tutius credimus quam ipsi 
+      <lb ed="#H" n="119"/>Deo, in Scriptura Sacra id testanti. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e562">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>Expressa testimonia sunt haec in veteri quidem Testamento Gen. 
+      <lb ed="#H" n="121"/>1. v. 1. In principio creavit Deus caelum &amp; terram. &amp; c. 2 v. .. Itaque per 
+      <lb ed="#H" n="122"/>fecti sunt caeli &amp; terra, omnisque exercitus illorum. &amp; v. 4. Istae sunt 
+      gene<lb ed="#H" n="123" break="no"/>rationes caeli &amp;terrae, quando creata sunt: qua die Ieheva Deus fecit 
+      ter<lb ed="#H" n="124" break="no"/>ram &amp; caelum. Job. 38. v. 4. &amp; seqq. respondit Jehova Jobo e turbine 
+      <lb ed="#H" n="125"/>Vbinam eras cum fundarem terram? indica, si novisti intelligentiam. 
+      <lb ed="#H" n="126"/>Quis disposuit mensuras eius; quandoquidem scitus est aut quis extendi. 
+      <lb ed="#H" n="127"/>in ea regulam? Cui rei bases eius demersae incumbunt? aut quis iecit 
+      la<lb ed="#H" n="128" break="no"/>pidem angularem eius? Quum canerent simul stellae matutinae; &amp; cui vos 
+      <lb ed="#H" n="129"/>iferati sunt omnes filii Dei? Aut quis occlusit valvis mare; quum ederem 
+      <lb ed="#H" n="130"/>ipsum tanquam e vulva exiens? In hoc Jobi loco asserit Deus se funt 
+      <lb ed="#H" n="131"/>dasse terram, se disposuisse mensuras ejus, se adhibuisse ei aedificandae 
+      <lb ed="#H" n="132"/>regulam, se bases ejus posuisse, se lapidem ejus angularem jecisse, se 
+      <lb ed="#H" n="133"/>edidisse mare velut e vulva. Compatat creationem tum architecturae; 
+      <lb ed="#H" n="134"/>tum geniturae humanae: additque applaudisse &amp; congratulatas esse Deo. 
+      <lb ed="#H" n="135"/>creatori stellas matutinas, hoc est, lucidas quae sub autoram magis 
+      <lb ed="#H" n="136"/>splendere videntur: cique acclamasse &amp; in vocem laetam prorupisse 
+      An<lb ed="#H" n="137" break="no"/>gelos, quod mundum initio tanta sapientia ac proportione condidit. 
+      <lb ed="#H" n="138"/>Ps. 33. v. 6. Verbo Ihovae caeli facti sunt, &amp; Spiritu oris eius totus exercitus 
+      <lb ed="#H" n="139"/>eo-um. Ps. 102. v. 26. Ante quam terram fundasses, &amp; opus manuum tuarum 
+      <lb ed="#H" n="140"/>ssent caeli. Ps. 104. v. 2. &amp; 3. Extendens caelos tanquam aulaum. Qui 
+      con<lb ed="#H" n="141" break="no"/>ignat in aquis coenacula sua, qui disponit densas nubes in vehiculum 
+      <lb ed="#H" n="142"/>suum. v.5 Fundavit terram super bases eius, ne dimoveretur in saculum &amp; 
+      <lb ed="#H" n="143"/>perpetuum. Ps. 104. v. 8. Auxilium nostrum in nomine Iehovae, qui fecit, 
+      <lb ed="#H" n="144"/>caelos &amp; terram. Ps. 136 v. 5, 6. Qui fecit caelos intelligentia, quia in seculo; 
+      <lb ed="#H" n="145"/>st benignitas eius. Qui expandit terram super aquas, quia in saculum est. 
+      <lb ed="#H" n="146"/>beninitas eius. Ps 146. v. 6. Qui fecit caelos &amp; terram, mare &amp; quicquid  
+      <lb ed="#H" n="147"/>est in eis. Jes. 40. v. 22. Qui extendit velut conopaeum caelos &amp; distendit eo. 
+      <lb ed="#H" n="148"/>sicut tentorium ad habitationeme &amp; c. 42. v. 5. Sic ait Deus ille fortis 
+      Ie<lb ed="#H" n="149" break="no"/>hova, creator caelorum &amp; qui extendit eos, qui expandit terram. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e632">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>In novo Testamento sunt haec de mundi creatione testimonia. Joh. 
+      <lb ed="#H" n="151"/>1. v. 3. Omnia per hunc Sermonem facta sunt. &amp; v. 10. Mundus per eum 
+      <lb ed="#H" n="152"/>factus est. Act. 14. v. 15. annunciantes, ut a vanis istis rebus convertatis 
+      <lb ed="#H" n="153"/>vos ad Deum illum vivum, qui fecit caelum &amp; terram &amp; mare &amp; omnia 
+      <lb ed="#H" n="154"/>quae in eis sunt, &amp; cap. 17. vers. 24. Deus ille qui fecit mundum &amp; omnis 
+      <lb ed="#H" n="155"/>quae in eo sunt, quum sit caeli &amp; terrae Dominus, in manu factis templis 
+      <lb ed="#H" n="156"/>non habitat, Rom. 1. v. 20 Ipsius invisibilia, iam inde a condito munde 
+      <lb ed="#H" n="157"/>ex rebus factis intellecta pervidentur, aterna videlicet eius tum potentia 
+      <lb ed="#H" n="158"/>tum diuvinitas: ad hoc ut sint inexcusabiles. Quapropter Deus eodem 
+      <lb ed="#H" n="159"/>cap. v. 25. appellatur Creator qui est benedictus in secula. Amen. Hebr. 
+      <lb ed="#H" n="160"/>1. v. 2. Per quem etiam mundum condidit. &amp; v. 10. Tu in initio Domine 
+      <lb ed="#H" n="161"/>terram fundasti, &amp; opera manuum tuarum sunt caeli. Hebr. 11. v. 3. Pet. 
+      <lb ed="#H" n="162"/>fidem intelligimus constructum fuisse mundum verbo Dei, ut quae 
+      cerni<lb ed="#H" n="163" break="no"/>mus sint ex non apparentibus facta. Apocal. 14. v. 7. Adorate eum, qui  
+      <lb ed="#H" n="164"/>fecit caelum &amp; terram &amp; mare &amp; fontes aquarum: 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e670">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Ex his testimoniiis omnibus liquet: mundum esse a Deo creatum 
+      <lb ed="#H" n="166"/>&amp; certo tempore exsistere coepisse, quum antea non esset. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e679">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Deinde idem rationibus certissimis evincitur.  
+      <lb ed="#H" n="168"/>Primo, quia mundi temporum seriem Scriptura accurate recenset. 
+      <lb ed="#H" n="169"/>Quod demonstrant tot loca ex quibus chronologiam mundi 
+      con<lb ed="#H" n="170" break="no"/>teximus. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e692">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Sccundo, quia Gentium mundi origines a Mose sunt descriptae: 
+      <lb ed="#H" n="172"/>quod fieri neutiquam potuisset, si mundus semper exstitisset.  
+      <lb ed="#H" n="173"/>Tertio, quia mundus ipse ordinatissima sui dispositione &amp; motu, &amp; 
+      <lb ed="#H" n="174"/>visibilium omnium pulcherrima specie quodammodo tacitus, &amp; 
+      fa<lb ed="#H" n="175" break="no"/>ctum se esse, &amp; nonnisi a Deo ineffabiliter atque invisibiliter 
+      magno<lb ed="#H" n="176" break="no"/>ineffabiliter atque invisibiliter pulchro fieri se potuisse 
+      procla<lb ed="#H" n="177" break="no"/>mat. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e712">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Quarto, quia mundus variis mutationibus subjectus est, ut 
+      Ec<lb ed="#H" n="179" break="no"/>clesiastes Salomonis multis docet &amp; experientia abunde testatur. 
+      <lb ed="#H" n="180"/>Omne autem creatum mutabile est, solum increatum est 
+      immuta<lb ed="#H" n="181" break="no"/>bile. 
+      <!--cod-MkL9py-0297.xml-->
+      <pb ed="#H" n="270"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Quinto, quia si mundus non esset creatus, esset Deus, &amp; actu 
+      infini<lb ed="#H" n="2" break="no"/>tus. At mundus non est Deus, non est actu infinitus: Ergo est creatus. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e736">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Sexto, quia mundus finem est habiturus, 2. Petr. 3. 7, 10, 11, 12. 
+      A<lb ed="#H" n="4" break="no"/>quicquid finem habet, id etiam aliquo tempore initium habuisse 
+      <lb ed="#H" n="5"/>constat.  
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e747">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Sic testimoniis diuvinis &amp; rationibus confirmavimus. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e755">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>mundum a Deo creatum esse: videamus nunc 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e762">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>confessionem Gentilium, tum Philosopho 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e769">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>rum, tum Poetarum. 
+      <lb ed="#H" n="10"/>Gentiles plerique agnoverunt, mundum esse creatum, adducti 
+      ra<lb ed="#H" n="11" break="no"/>tionibus naturalibus, quibus absolute confirmatur, creatum esse; &amp; 
+      <lb ed="#H" n="12"/>testimoniis Mosis, Chaldaeorum, Phoenieum, Israelitatum quidam 
+      <lb ed="#H" n="13"/>didicerunt, creatum esse e nihilo, idque certo temporis principio¬ 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e785">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Mercurius vel Hermes Trismegistus in Sermone ad Asclepium &amp; 
+      <lb ed="#H" n="15"/>in libris Diexodicon Sermone primo mundum a Deo per Verbum 
+      <lb ed="#H" n="16"/>creatum esse asserit, &amp; prope eadem quae Moses de Creatione dicit:  
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e796">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Pythagoras ait, quod Deus sit δξχα πάιτον, ἐν, αν Sρανῶ φωσηῳ, η 
+      <lb ed="#H" n="18"/>πλθτεν πτηῳ. Principium omnium, unum, caeli lumen, &amp; parens 
+      omni<lb ed="#H" n="19" break="no"/>um. Plato in Timaeo sic scribit: Dicamus itaque quam ob causum 
+      ge<lb ed="#H" n="20" break="no"/>nerationem rerum confecit, &amp; hoc omne quod cernimus ipse opifex 
+      con<lb ed="#H" n="21" break="no"/>stituit. Bonus erat. Bonum vero nulla rei cuius quam subit invidia. 
+      <lb ed="#H" n="22"/>Quum itaque extra invidiam esset, voluit omnia esse sibiipsi quam 
+      ma<lb ed="#H" n="23" break="no"/>xim e similia. Diximus autem similia, non secundum naturam, sed eo 
+      <lb ed="#H" n="24"/>duntaxat quod &amp; ipsa sunt. Sicut enim ipse est, ita uoluit ut quae olim 
+      <lb ed="#H" n="25"/>non erant, fierent atque essent. Verum ipse sic est, ut a nullo Esse 
+      accepe<lb ed="#H" n="26" break="no"/>rit, omnibus autem quae sunt Esse ipsum tribuerit. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e822">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Sunt ejusdem Platonis haec quoque admiratione dignissima: 
+      V<lb ed="#H" n="28" break="no"/>trum semper mundus hic fuit, ut nullum habuerit generationis 
+      princi<lb ed="#H" n="29" break="no"/>pium? An potius ita est genitus, ut ab aliquo initio coeperit? Tum ita 
+      re<lb ed="#H" n="30" break="no"/>spondet, Genitus sane est. Cui comprobandae sententiae rationem ad 
+      <lb ed="#H" n="31"/>ducit: Videri enim potest, inquit, ac manibus contrectari. Quum itaque 
+      <lb ed="#H" n="32"/>tactui sit obnoxius, utique habet &amp; corpus. Cuncta autem huiusmod 
+      <lb ed="#H" n="33"/>sensibilia sunt. Quae vero sensu percipiuntur, comprehendi quoque possum 
+      <lb ed="#H" n="34"/>opinione, ac genita esse constat. Genitas autem factasque res, oportere 
+      cen<lb ed="#H" n="35" break="no"/>semus a causa aliqua prodiisse. Haec igitur Plato de creatis rebus 
+      pro<lb ed="#H" n="36" break="no"/>loquutus sapientissime nos edocuit, quid de illarum rerum autore 
+      <lb ed="#H" n="37"/>sentiendum sit 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e852">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Hactenus Philosophorum confessio; sequitur  
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e859">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>Poetarum. 
+      <lb ed="#H" n="40"/>Orpheus ad filium suum Musaeum. 
+      <lb ed="#H" n="41"/>εἰς οτ, αυτογοοης, ενός ἔκγονα παν α τοτυκται. hoc est 
+      <lb ed="#H" n="42"/>Vnicus est, per se exsistens, qui cuncta creavit. 
+      <lb ed="#H" n="43"/>Idem in juramentis sic loquitur. 
+      <lb ed="#H" n="44"/>Θυρανον oρκιζω σε θεον μεγαλη σορον ἔργον 
+      <lb ed="#H" n="45"/>Aυο ορκιζωσε πα τρος, τυν φθεγζαλο πξώον, 
+      <lb ed="#H" n="46"/>Hνικα κοσμον ἀπανζα εωισ σηριζαδο δολῶῆς. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e881">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Hoc est? 
+      <lb ed="#H" n="48"/>Caelum juro Deo a magno &amp; sapiente creatum, 
+      <lb ed="#H" n="49"/>Vocem juro Patris primam quam prodidit ore. 
+      <lb ed="#H" n="50"/>Consilio ipse suo mundum cum conderet omnem. 
+      <lb ed="#H" n="51"/>Sophocles ait de Deo: 
+      <lb ed="#H" n="52"/>εἰς τάῆς ἀληδειαισιν, κς ἐσι θεός; 
+      <lb ed="#H" n="53"/>ός κρανον τιτοχε, γαιαν μακρασ, 
+      <lb ed="#H" n="54"/>ποντῳ το χαροπον διδμα, κανεμων Sιας 
+      <lb ed="#H" n="55"/>Vnum profecto numen, unus est Deus, 
+      <lb ed="#H" n="56"/>Qui condidit caelum, &amp; solum terrae patens, 
+      <lb ed="#H" n="57"/>Marisque fluctus, vimque ventorum gravem 
+      <lb ed="#H" n="58"/>Homerus etiam mundi creationem sic expofuit: 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e912">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Iliad. 
+      <lb ed="#H" n="60"/>ἐν ζζο γαίαν ἐτριχ εν δι ξχγον, ἐν ι θαλασσαν,  
+      <lb ed="#H" n="61"/>ΠEλεοντ ἀκαμαθτα, σελδθλν τε ωληομσαν  
+      <lb ed="#H" n="62"/>ενδε τε τειπεα πάντα, τάτ αρανοσ ἐτεφανκται, 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e925">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Hoc est, 
+      <lb ed="#H" n="64"/>Hic caelum effinxit, terram, pelagusque profundum, 
+      <lb ed="#H" n="65"/>Et Solem indefessum, &amp; pleno sidere Lunam, 
+      <lb ed="#H" n="66"/>Astraque quis magni distincta est regia caelis 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e938">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>RETVTATIO MRGVMEN¬ 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e946">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>TORVM PROAETER 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e953">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>nitate mundi. 
+      <lb ed="#H" n="70"/>Contra hanc verissimam sententiam de mundi creatione 
+      quami<lb ed="#H" n="71" break="no"/>initium temporis habuit, pugnant illi qui contendunt, Mundum esse 
+      <lb ed="#H" n="72"/>aeternum, hoc est, nec principium temporis habuisse, nec finem 
+      habi<lb ed="#H" n="73" break="no"/>turum. Quicquid enim proprie aeternum est, hoc est, quicquid 
+      ne<lb ed="#H" n="74" break="no"/>principium nec finem temporis habet, id creatum non est. At mun 
+      <lb ed="#H" n="75"/>dus aeternus est, secundum Aristotelis sententiam quam &amp; olin 
+      <lb ed="#H" n="76"/>Thomas Aquinas defendere conatus &amp; hodie nonnulli 
+      Pseudochri<lb ed="#H" n="77" break="no"/>stiani &amp; pseudophilosophi conantur, quasi Aristoteles dispurans 
+      con<lb ed="#H" n="78" break="no"/>tra Platonem, mundum esse aeternum, non intellexerit, mundum 
+      ini<lb ed="#H" n="79" break="no"/>tio temporis caruisse, sed tantum negaverit per generationem 
+      Physi<lb ed="#H" n="80" break="no"/>cam de subjecto aliquo velut materia productum esse, negaverit 
+      con<lb ed="#H" n="81" break="no"/>trarium habuisse ex quo generatus sit. At hanc non fuisse Aristotelis 
+      <lb ed="#H" n="82"/>mentem, argumenta ejus pro aeternitate mundi adversus Platonem, 
+      <lb ed="#H" n="83"/>manifeste evincunt. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e990">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>I. Omne incorruptibile est sempiternum. 
+      <lb ed="#H" n="85"/>Mundus est incerruptibilis. Ergo sempiternus. 
+      <lb ed="#H" n="86"/>Minorem probat: quia caelum est incorruptibile. 
+      <lb ed="#H" n="87"/>RESP. Primo major non est universe vera: nam dari potest 
+      tan<lb ed="#H" n="88" break="no"/>tum de eo quod natura sua est incorruptibile, velut Deus solus; non 
+      <!--cod-MkL9py-0297.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>vero de eo, quod voluntate Dei duntaxat incorruptibile est. Quod ad 
+      <lb ed="#H" n="90"/>minorem attinet, &amp; ejus probationem; respondeo. Primo, Mundus 
+      <lb ed="#H" n="91"/>est incorruptibilis, ut &amp; caelum tale est, non natura sua, sed voluntati  
+      <lb ed="#H" n="92"/>Dei: quod Plato etiam in Timaeo docuit, Mundum esse factum a 
+      <lb ed="#H" n="93"/>Deo &amp; temporis initium habuisse: interim tamen nunquam desitu 
+      <lb ed="#H" n="94"/>rum, non quidem sua natura, sed Deo sic volente &amp; illum 
+      conser<lb ed="#H" n="95" break="no"/>vante ἀλυθεσεται δέ κδε τευζεταν θεενἀτο μόιρας, δα τν ξουλησιν το 
+      <lb ed="#H" n="96"/>θeoo, hoc est, non solvetur, neque fatum mortis subibit, propter 
+      uolunta<lb ed="#H" n="97" break="no"/>tem Dei. Quod ipsum citat Justinus Martyr in Dialogo cum 
+      Try<lb ed="#H" n="98" break="no"/>phone Judaeo pag. 172. edit. Commel 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1032">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Secundo caelum est incorruptibile, scil. naturali corruptione, sed per 
+      <lb ed="#H" n="100"/>potentiam Dei est corruptibile. Tertio proceditur a dicto secundum 
+      <lb ed="#H" n="101"/>quid ad dictum simpliciter: Caelum est incorruptibile, scil quam diu 
+      <lb ed="#H" n="102"/>Deus tale esse volet. Scriptura autem praedicit solutum iri, 2. Petr. 3. v. 
+      <lb ed="#H" n="103"/>12. Caeli conflagrantes solventur 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1048">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>II. Quicquid est ingenitum, hoc est, non productum per generationem 
+      <lb ed="#H" n="105"/>naturalem de subiecto aliquo velut materia, illud est aeternum: 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1057">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Mundus est ita ingenitus. Ergo, &amp;c. 
+      <lb ed="#H" n="107"/>RESP. Major negatur propter falsam definitionem aeterni. Nam 
+      <lb ed="#H" n="108"/>aeternum salso definitur, quod sit ingenitum seu non generatum ex 
+      <lb ed="#H" n="109"/>contrario: cum aeternum proprie sit, quod nec principium nec finem 
+      <lb ed="#H" n="110"/>temporis habet, quod vel Graeci nominis αἰονis notatio ab 
+      Aristotelo<lb ed="#H" n="111" break="no"/>tradita evincit. Docet enim Aristoteles, αἰώνιον dici, quod semper 
+      ha<lb ed="#H" n="112" break="no"/>pet Esse: nam αjον dicitur quasi ἀci ds, semper exsistens 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1078">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>III. Locum aeterni Dei &amp; ipsum aeternum esse necesse est. 
+      <lb ed="#H" n="114"/>Mundus est locus aterni Dei. 
+      <lb ed="#H" n="115"/>Ergo, &amp;c. 
+      <lb ed="#H" n="116"/>RESP. Minor est falsa, nam Deus nec localiter capi, nec 
+      loco<lb ed="#H" n="117" break="no"/>circumscribi nec definiri potest, sed incommunicabili proprietate est 
+      <lb ed="#H" n="118"/>sentiae suae inimenius &amp; incircumscriptus est. Deus ist ubique totus in 
+      <lb ed="#H" n="119"/>seipse. Quomodo ubique si in scipic?Ubique, quia nusquam est absens. In 
+      <lb ed="#H" n="120"/>seipso autem, quia non contiretur ab eis, quibus est praesens, tanquam sint 
+      <lb ed="#H" n="121"/>eis esse non pessit; ut recte pronunciat Augustinus epist. 57. quae est ad 
+      <lb ed="#H" n="122"/>Dardanum. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1104">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>IV. Cuius motus est aeternas, &amp; ipsum est aternum. 
+      <lb ed="#H" n="124"/>Mundi motus est aeternus, Ergo: &amp;c. 
+      <lb ed="#H" n="125"/>Minorem probat Aristoteles duobus argumentis: primum est, quia 
+      <lb ed="#H" n="126"/>nullius rei motus dari possit, quem alius non praecesserit motus: secundum 
+      <lb ed="#H" n="127"/>est, Quia tempus est aeternum. 
+      <lb ed="#H" n="128"/>RESP. Minor negatur &amp; ejus probatio: nam &amp; motus creatus 
+      <lb ed="#H" n="129"/>est, &amp; tempus creatum est Primum mobile est productum &amp; initium 
+      <lb ed="#H" n="130"/>habuit: productum autem est sine aliqua mutatione &amp; motu: quia pes 
+      <lb ed="#H" n="131"/>creationem jussu Dei tantum. Ita &amp; primum motum nulla praecessit. 
+      <lb ed="#H" n="132"/>mutatio &amp; motus. Neque etiam tempus ante motum fuit. Ante 
+      mo<lb ed="#H" n="133" break="no"/>bile generatum est motus, sed non ante creatum  
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1133">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>INSTANTIA I. Si ante mobile creatum non fuit motus, quies 
+      <lb ed="#H" n="135"/>igitur fuit. Quod si quies fuit, praecessit igitur alius motus: Atque ita ad 
+      <lb ed="#H" n="136"/>huc motus erit aeternus. Nem quies est cessatio seu impedimentum motus. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1144">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>RESP. Propositio connexa laborat elencho παρα τῶ ἐπομδυον.  
+      <lb ed="#H" n="138"/>Primum enim motuum in natura initium, non praecessit alius 
+      mo<lb ed="#H" n="139" break="no"/>tus, nec quies creato motui opposita, sed tunc voluntas Dei sola erat 
+      <lb ed="#H" n="140"/>impedimentum motuum, quae voluntas ab aeterno in aeternum 
+      ea<lb ed="#H" n="141" break="no"/>dem exsistens, liberrime &amp; sine ulla sui ipsius mutatione efficit 
+      prin<lb ed="#H" n="142" break="no"/>cipia &amp; fines, &amp; mutationes sive motus rerum: &amp; quietem sive cessa 
+      <lb ed="#H" n="143"/>tionem, atque in eodem statu perseverantiam. Summa: Motus est 
+      <lb ed="#H" n="144"/>creatus: Ergo &amp; quies est creata; quia quies est cessatio motus creatis 
+      <lb ed="#H" n="145"/>nec potuit ante motum esse quies, sed sequuta est demum, 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1168">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>INSTANTIA II. Si impossibile est vel esse vel intelligi tempus absque  
+      <lb ed="#H" n="147"/>NUNG: necesse est semper esse tempus: At prius est;: Ergo &amp; posterius. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1177">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Assumtionis probatio: quia NUNC, est medium temporis, initium 
+      <lb ed="#H" n="149"/>futuri, finis praeteriti: &amp; ideo necesse est ipsum in utramque partem 
+      sem<lb ed="#H" n="150" break="no"/>per esse aternum 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1189">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>RESPON. In propositione committitur elenchus παροι τό ἐπο¬ 
+      <lb ed="#H" n="152"/>μηνον. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1198">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Nam etsi tempus esse &amp; intelligi non possit absque NUNc: tamen 
+      <lb ed="#H" n="154"/>non necesse est semper esse tempus, sed quum Deus vult. Nec necesse 
+      <lb ed="#H" n="155"/>est semper esse NUNe, hoc est, medium temporis, initium futuri &amp; 
+      <lb ed="#H" n="156"/>finis praeteriti. Nam ut non fuit tempus ante creationem, ita quoque 
+      <lb ed="#H" n="157"/>non fuit tale NUNC ante creationem. Ac ut non erit tempus post 
+      <lb ed="#H" n="158"/>mundi finem, ita non erit etiam ejusmodi NUNG 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1216">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>Assumtionis probatio habet axioma non universaliter verum. 
+      <lb ed="#H" n="160"/>nam primum NUNe, non fuit finis praeteriti: &amp; ultimum NUNC non 
+      <lb ed="#H" n="161"/>erit initium futur. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1227">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>INSTANTIA III. Paulus nominat tempora aterna, 2. Timi 
+      <lb ed="#H" n="163"/>1. 9. Qui servavit nos, &amp; vocavit vocatione sancta: non ex operibus 
+      no<lb ed="#H" n="164" break="no"/>stris, sed ex suo proposito &amp; gratia, quae data quidem est nobis in Christo. 
+      <lb ed="#H" n="165"/>Iesu ante tepora secularia. Tit. 1 v. 2. Ad spem vitae aternae, quam 
+      promi<lb ed="#H" n="166" break="no"/>ut Deus ille mentiri nescius, ante tempora secularia, patefecit autem 
+      <lb ed="#H" n="167"/>temporibus suis. Ergo tempus est aeternum. 
+      <lb ed="#H" n="168"/>RESP. Est αμωνυμια in Graeca voce αἰώνιος, quae &amp; aeternum &amp; 
+      <lb ed="#H" n="169"/>seculare significat. Vertendum autem, tempora secularia seu 
+      tempo<lb ed="#H" n="170" break="no"/>ra seculorum: non autem tempora aeterna; quia id repugnaret textui, 
+      <lb ed="#H" n="171"/>in quo dicitur ωρο κανιρν, ante tempora, quae si aeterna fingantur, fiet 
+      <lb ed="#H" n="172"/>contradictio in adjecto 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1256">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Aliarum objectionum refutationes alibi videantur. Ex his autem 
+      <lb ed="#H" n="174"/>certum est, Mundum esse creatum a Deo, ac proinde causam 
+      efficien<lb ed="#H" n="175" break="no"/>tem mundi esse Deum 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1267">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Est autem mundus a Deo creatus non contingenter, quia a Deo 
+      <lb ed="#H" n="177"/>nihil sit contingenter; contingentia enim mutabilitatem &amp; 
+      imperfe<lb ed="#H" n="178" break="no"/>ctionem in operante innuit: neque necessitate absoluta, sed tantum 
+      <lb ed="#H" n="179"/>necessitate ex hypothesi voluntatis suae liberrimae, quia ab aeterno 
+      de<lb ed="#H" n="180" break="no"/>creverat mundi creationem. 
+      <!--cod-MkL9py-0298.xml-->
+      <pb ed="#H" n="271"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>De Materia Mundi 
+      <lb ed="#H" n="2"/>Mundi materia dupliciter consideratur, vel ex qua ille sit creatus; 
+      <lb ed="#H" n="3"/>vel ex qua post creationum jam constitutus constet. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1297">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>ateria ex qua creatus sit non est essentia Dei; neque substantia 
+      ul<lb ed="#H" n="5" break="no"/>la Deo coaterna, sed prima materia mundi, &amp; ipsa facta est ex nihile 
+      <lb ed="#H" n="6"/>hoc est, ex nulla alia praejacente materia, ita ut nihil ejus antea fuerit: 
+      <lb ed="#H" n="7"/>voce NIHILaccepta negative, non privative ut supra dictum. Undi 
+      <lb ed="#H" n="8"/>prima materia Mundi aeterna non est: &amp; Mundus proprie loquendo 
+      <lb ed="#H" n="9"/>a potentia ad actum non transiit, quum in potentia non fuerit, nulla 
+      <lb ed="#H" n="10"/>praeexsistente materia, in qua Mundus esset δυυαμει 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1317">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Istud ex sola patefactione divina per verbum Dei nobis innotuit. 
+      <lb ed="#H" n="12"/>&amp; ex sola illa innotescere potuit: quia est res fidei, sicut dicitur Heb. 11 
+      <lb ed="#H" n="13"/>3. Per fidem intelligimus compactum fuisse mundum verbo Dei, ut que 
+      <lb ed="#H" n="14"/>cernimus non sint ex apparentibus facta¬ 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1330">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Ex natura vero istud cognosci non potuit. Fidei enim Christiana 
+      <lb ed="#H" n="16"/>fundamentum non est natura: quum fidei Christianae articuli sint sua 
+      <lb ed="#H" n="17"/>pra &amp; contra ordinem naturae 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1341">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Convenientissimum autem est Deo, ut primam materiam 
+      produ<lb ed="#H" n="19" break="no"/>ceret absque ulla praeexsistente alia materia. Ut enim quaeque res est, ita 
+      <lb ed="#H" n="20"/>agit. Sed Deus ita est, ut non aliunde pendeat, nec aliud quid ad suum 
+      <lb ed="#H" n="21"/>esse praeexigat: Ergo similiter in agendo, nec prejacentem materiam, 
+      <lb ed="#H" n="22"/>nec quicquam aliud requirit aut supponit.  
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1357">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Ex materia vero prima e nihilo creata, deinceps aliae visibiles 
+      <lb ed="#H" n="24"/>creaturae sunt productae Sic mundus &amp; omnes partes ejus sunt crea 
+      <lb ed="#H" n="25"/>tae ex ihilo, immediate quidem si spectes primam materiam: 
+      media<lb ed="#H" n="26" break="no"/>te vero si spectes res alias vilibiles productas ex materia prima 
+      ini<lb ed="#H" n="27" break="no"/>tio ex nihilo creata. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1373">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Materia autem mundi jam creati &amp; constituti, si partes ejus 
+      incor<lb ed="#H" n="29" break="no"/>sin vero partes ejus corporeas spectes, distincta est &amp; multiplex, 
+      ad<lb ed="#H" n="30" break="no"/>miranda harmonia inter se compacta. Al a enim est materia caelo 
+      <lb ed="#H" n="31"/>alia terrae, alia aquae, alia aliorum corporum naturalium usque ad 
+      <lb ed="#H" n="32"/>semina minima: sicut Paulus ait 1. Corinth. 15. 37, 38, 39. Quod seris 
+      <lb ed="#H" n="33"/>non corpus oriturum seris, sed nudum granum, si cajus tulerit, 
+      tritio<lb ed="#H" n="34" break="no"/>poreas consideres, nulla est, ut Ange orum &amp; animarum humanarum; 
+      <lb ed="#H" n="35"/>aut alicujus ex reliquis seminibus. Sed Deus dat ei corpus quod veluit  
+      <lb ed="#H" n="36"/>&amp; singulis seminibus suum corpus. Non omnis caro, eadem caro, sed alia 
+      <lb ed="#H" n="37"/>quidem caro hominum, alia autem caro pecorum, alia autem piscium, 
+      <lb ed="#H" n="38"/>alia vero volucrium. Ita discernit Christus corpus humanum a 
+      spiri<lb ed="#H" n="39" break="no"/>tu, Luc 24. 39. Videte manus meus &amp; pedes meos: nam ego ipse sum: 
+      <lb ed="#H" n="40"/>contrectate me &amp; videte: nam spiritus carnem &amp; ossa non habet, sicut  
+      <lb ed="#H" n="41"/>me conspicitis habere. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1409">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>FORMA Mundi alia est connexa mundo, alia separata. Illa tum 
+      <lb ed="#H" n="43"/>interna tum externa. Forma interna, est ordinatissima illa 
+      omni<lb ed="#H" n="44" break="no"/>um partium Mundi dispositio inter se, quam nulla pulchrior, nule 
+      <lb ed="#H" n="45"/>la aptior, nulla perfectior dari potest, per quam singulae partes, licet 
+      <lb ed="#H" n="46"/>materia diversa, &amp; impati dignitate &amp; virtute sint, tamen conspiram 
+      <lb ed="#H" n="47"/>inter se &amp; quasi concinunt suavissima harvonia: sic ut ad Mundi 
+      per<lb ed="#H" n="48" break="no"/>fectionem nihil possit amplius desiderati. Ac certe ex partium 
+      con<lb ed="#H" n="49" break="no"/>unctarum proportione &amp; ordine pulchritudo mundi elucet. Haec 
+      <lb ed="#H" n="50"/>partium Mundi harmonia naturalis admonet nos homines de 
+      har<lb ed="#H" n="51" break="no"/>monia spirituali colenda in Christo Domine 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1435">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>Forma externa est sphaetica, hoc est, ratunda, orbicularis, seu 
+      circu<lb ed="#H" n="53" break="no"/>laris, ut colligi potest ex eo quod Job. 22. 14. dicitur; Deum ambitum 
+      <lb ed="#H" n="54"/>caelorum obambulare: &amp; Prov. 5. 26, 27. Adhuc non fecerat terram aut 
+      <lb ed="#H" n="55"/>rura: imo principium, pulveres orbis habitabilis. Quum aptaret caelos, 
+      <lb ed="#H" n="56"/>ibi eram, tum statueret ambuum in superficie abyssi. Jesa. 40. 22. Deus 
+      <lb ed="#H" n="57"/>insidet ambitui terrae. Jac. 3. v. 6 mundus dicitur rota geniturae nostrae 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1453">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Forma autem mundi separata, est idea ejus in mente divina, juxte 
+      <lb ed="#H" n="59"/>quam velut archetypum creatus est mundus. Philo Judaeus libro de 
+      <lb ed="#H" n="60"/>mundi opificio inquit: Liquet autem quod archetypum sigillum, quem 
+      <lb ed="#H" n="61"/>dicimus esse mundum intelligibilem, ipse sit archetypum illud exemplar,  
+      <lb ed="#H" n="62"/>idea idearum, verbum Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1469">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>FINIS Mundi praecipuus, universalis &amp; ultimus est Deus ipse, a 
+      <lb ed="#H" n="64"/>quo ut sunt omnia, ita in ipsum seu gloriam ipsius ordinata sunt 
+      o<lb ed="#H" n="65" break="no"/>mnia, sicut dicitur Proverb. 16. 4. Omnia fecit lebova propter 
+      semeti<lb ed="#H" n="66" break="no"/>psum. Unde nulla est pars mundi, nulla creatura, cui non insculpserit 
+      <lb ed="#H" n="67"/>Deus gloriae suae notam, Psal 8. 2. &amp; Psa. 19. vers. 2. &amp; sequentibus. 
+      Et<lb ed="#H" n="68" break="no"/>Psal. 36.6. Immediatus vero, particularis &amp; proximus finis est 
+      ho<lb ed="#H" n="69" break="no"/>mo: nam propter ipsum conditus est, ut in eo tanquam habitatorI 
+      <lb ed="#H" n="70"/>&amp; dominus in domo amplissima habitaret &amp; omnibus rebus 
+      a<lb ed="#H" n="71" break="no"/>liis in eo uteretur, frueretur, idque non tam ad suam utilitatem, quam 
+      <lb ed="#H" n="72"/>ad gloriam Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1495">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Porro cum Mundi finis particularis dicitur esse homo, 
+      intelligi<lb ed="#H" n="74" break="no"/>tur tum humanum genus communiter, tum Ecclesia Dei speciatim 
+      <lb ed="#H" n="75"/>Omnes enim aliae res in Mundo creatae sunt tum hominum 
+      univer<lb ed="#H" n="76" break="no"/>sorum, tum peculiariter Ecclesiae Dei causa, ut ipsius bono &amp; salut  
+      <lb ed="#H" n="77"/>servirent. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1511">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>De adiunctis mundi Theses. 
+      <lb ed="#H" n="79"/>Thesis I. Mundus factus est in principio temporis Gen. 1. non 
+      <lb ed="#H" n="80"/>quod tempus proprie acceptum fuerit ante mundum, sed quod 
+      Mun<lb ed="#H" n="81" break="no"/>dus principium durationis acceperit, atque sic mundus cum tempore 
+      <lb ed="#H" n="82"/>factus sit &amp; tempus cum mundo inceperit; neque quod tempus 
+      pro<lb ed="#H" n="83" break="no"/>prie sit creatura; creaturae enim proprie sunt substantiae, sed quod tam 
+      <lb ed="#H" n="84"/>quam accidens inseparabile statim concreatum mundo eumque 
+      co<lb ed="#H" n="85" break="no"/>mitatum sit. Unde mundi tempus inde a primordio ejus per Mosem 
+      <lb ed="#H" n="86"/>&amp; Prophetas, aliosque Chronologos per annos, menses &amp; dies 
+      nume<lb ed="#H" n="87" break="no"/>ratum est &amp; deinceps numerabitur Itaque creatio mundi non est 
+      in<lb ed="#H" n="88" break="no"/>temporalis: &amp; mundi temporisque unum est principium, nec aliud alio 
+      <lb ed="#H" n="89"/>praevenitur. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1543">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Thesis II. Natalis mundi fuit Verno aequinoctio nostri haemia 
+      <!--cod-MkL9py-0298.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>sphaerii, quod aequinoctium olim erat die primo primi mensis qui Ni¬ 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1556">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>ian, item Abib dicitur, hoc est, canonice seu regulariter die 25. 
+      men<lb ed="#H" n="93" break="no"/>sis Martii nostri, Sole ingrediente arietem Dixi canonitce seu 
+      regula<lb ed="#H" n="94" break="no"/>riter, quia in alium diem Martii interdum cadebat. Nunc diversita. 
+      <lb ed="#H" n="95"/>Calendarii veteris &amp; novi diem aequinoctii variat. Nam secundum 
+      <lb ed="#H" n="96"/>Calendarium novum interdum est dies 20, interdum 21, interdum 
+      <lb ed="#H" n="97"/>22. Martii: secundum vetus 10 vel 11 vel ia dies Martiis 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1574">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Natalem vero Mundi fuisse verno aequinoctio patet ex eo I. quia 
+      <lb ed="#H" n="99"/>inde a principio mundi annus a verno aequinoctio inchoatus fuit: ut  
+      <lb ed="#H" n="100"/>colligi potest ex c8. Genes. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1585">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>II. Quia Deus ipse per Mosen justam rationem anni, ejusque 
+      <lb ed="#H" n="102"/>principium declaravit, instaurata veteri ratione quam Israelitae in 
+      <lb ed="#H" n="103"/>AEgypto intermiserant. Sic enim Deus Exod. 12. 2. ait: Hic mensit 
+      <lb ed="#H" n="104"/>(nempe Abib ut appellatur Exod. 13. 4.) vobis principium mensium 
+      <lb ed="#H" n="105"/>erit: primus illa esto vobis inter menses cujusque anni, sacri videlicet. 
+      Du<lb ed="#H" n="106" break="no"/>plex enim annus erat, sacer &amp; civilis: uterque AEquinoctialis seu per a 
+      <lb ed="#H" n="107"/>AEquinoctia distinctus. Sacer annus, erat qui ad redemtionem &amp; 
+      ra<lb ed="#H" n="108" break="no"/>tionem festorum pertinebat, initium habens verno AEquinoctio  
+      <lb ed="#H" n="109"/>quod Sole tenente octavam partem Arietis inire solet. Civilis annus, 
+      <lb ed="#H" n="110"/>erat qui res civiles, nempe Jubilaeum intermissionem terrae atque 
+      pro<lb ed="#H" n="111" break="no"/>ventus spectabat, ducens initium ab autumnali a quinoctio cum Sol; 
+      <lb ed="#H" n="112"/>in Libra ageret. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1616">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>III. Quia etiam Chaldaei &amp; Petsae eandam rationem anni, 
+      vel<lb ed="#H" n="114" break="no"/>ut a Patribus per manus traditam, coluerunt: ac propterea Mithras 
+      <lb ed="#H" n="115"/>Persarum Deus sedem in AEquinoctio verno habens figurabatur, &amp; 
+      <lb ed="#H" n="116"/>ladium gestans Arietis. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1629">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>IV. Quia consentaneum est, voluisse Deum mundo recens nato 
+      <lb ed="#H" n="118"/>optimum anni tempus largiti. Esse autem vernum tempus anni 
+      to<lb ed="#H" n="119" break="no"/>tius optimum, indicat ejus amoenitas, temperies, &amp; ad res gignendas 
+      <lb ed="#H" n="120"/>conseivandas atque ad incrementum provehendas commoditas: 
+      <lb ed="#H" n="121"/>cum tempore Autumni deflorescant paulatim omnia, &amp; ad 
+      corru<lb ed="#H" n="122" break="no"/>ptionem tendant. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1648">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>V. Quia Mundum verno tempore creatum affirmant pleriqui 
+      <lb ed="#H" n="124"/>Patres, ut Athanasius Quaestionibus ad Antiochum, responsione ad 
+      <lb ed="#H" n="125"/>quaestionem quinquagesimamquartam: Ambrosius quarto tomo 
+      o<lb ed="#H" n="126" break="no"/>perum. lib. 1. Hexameron, cap. 4. Mensis hic initium mensium eritvos 
+      <lb ed="#H" n="127"/>bis, quamvis &amp; de tempore istud accipiatur, quia de Pascha Domini 
+      lo<lb ed="#H" n="128" break="no"/>quebatur, quod veris initio celebrabatur. In hoc ergo principio mensium: 
+      <lb ed="#H" n="129"/>caelum &amp; terram fecit, quod inde mundi capi oportebat exordium ubi: 
+      <lb ed="#H" n="130"/>at opportuna omnibus verna temperies. Unde &amp; aunus mundi 
+      ima<lb ed="#H" n="131" break="no"/>ginem nascentis expressit, ut post hybernas glacies atque hyemales 
+      cali<lb ed="#H" n="132" break="no"/>gines serenior solito verni temporis splendor eluceai. Dedit ergo 
+      for<lb ed="#H" n="133" break="no"/>mam fructus annorum curriculis mundi primus exortus, ut ea 
+      lo<lb ed="#H" n="134" break="no"/>ge annorum vices surgerent, atque initio cujusque anni 
+      produce<lb ed="#H" n="135" break="no"/>ret terra nova seminum germina, quae primum Dominus Deus 
+      dixe<lb ed="#H" n="136" break="no"/>rat: Germinet terra herbum foeni, seminans semen secundum genus 
+      <lb ed="#H" n="137"/>&amp; secundum similitudinem, &amp; lignum fuctiferum faciens fructum. Et 
+      <lb ed="#H" n="138"/>statim produxit terra herbam foeni, &amp; lignum fructiferum: in quo 
+      no<lb ed="#H" n="139" break="no"/>bis &amp; moderationis perpetuae divina providentia, &amp; celeritas terrae 
+      ger<lb ed="#H" n="140" break="no"/>minantis ad aestimationem vernae suffragatur aetatis. Nam etsi 
+      quo<lb ed="#H" n="141" break="no"/>cunque tempore &amp; Deo jubere promium fuit &amp; terrae obedire naturae, 
+      <lb ed="#H" n="142"/>ut inter hybernas glacies &amp; hyemales pruinas, caelestis imperit fotu 
+      ger<lb ed="#H" n="143" break="no"/>minans terra foetum produceret, non erat tamen dispositionis aeternae, 
+      <lb ed="#H" n="144"/>rigido stricta gelu in virides subue fructus laxari arva, etque horrentibus 
+      <lb ed="#H" n="145"/>pruinis florulenta misceri. Ergo ut ostenderet Scriptura veris tempora in 
+      <lb ed="#H" n="146"/>constitutione mundi ait: Mensis hic vobis initium mensium: primus est 
+      <lb ed="#H" n="147"/>vobis in mensibus anni. Primum mensem, vernum tempus appellans 
+      <lb ed="#H" n="148"/>Decebat enim principium anni, principium esse generationis, &amp; ipsam 
+      <lb ed="#H" n="149"/>generationem mollioribus auris fover: Neque enim possent tenera 
+      rerun<lb ed="#H" n="150" break="no"/>exordia aut asperioris laborem tolerare frigoris, aut torrentis aestus 
+      in<lb ed="#H" n="151" break="no"/>juriam sustinere. Simul illud ad vertere licet, quia jure concurrit ut eo 
+      <lb ed="#H" n="152"/>tempore videatur in hanc generationem atque in hos usus ingressus 
+      <lb ed="#H" n="153"/>tributus, quo tempore ex hac generatione in regenerationem 
+      legiti<lb ed="#H" n="154" break="no"/>mus est transitus. Siquidem verno tempore filii Israel Aegyptum 
+      <lb ed="#H" n="155"/>reliquerunt, &amp; per mare transierunt, baptizaui in nube &amp; in 
+      ma<lb ed="#H" n="156" break="no"/>ri, ut Apostolus dixit: Et eo tempore Domini quotannis Iesu Christi 
+      Pa<lb ed="#H" n="157" break="no"/>scha celebratur, hoc est, animarum transitus a vitiis ad virtute, a 
+      pas<lb ed="#H" n="158" break="no"/>sionibus carnis ad gratiam sobrietatemque mentis, a malitiae nequitiaeque  
+      <lb ed="#H" n="159"/>fermento ad veritatem &amp; sinceritatem 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1733">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Idem sentit Theodoretus quaestione septuagesimasecunda in 
+      Exo<lb ed="#H" n="161" break="no"/>dum: Quamobrem prima die primi mensis Deiuis jussit erigi 
+      tabernacu<lb ed="#H" n="162" break="no"/>lum? Propterea quod eodem fere tempore Deus creaturas condidit. Cui 
+      <lb ed="#H" n="163"/>jus rei fidem facit arborum germinatio. Germinet, inquit, terra herbam 
+      <lb ed="#H" n="164"/>virentem, ferentem semen secundum genus &amp; similitudinem suam: &amp; 
+      <lb ed="#H" n="165"/>lignum fructiferum faciens fructum, cujus semen in ipso sit, ad 
+      similitu<lb ed="#H" n="166" break="no"/>dinem, juxta genus suum super terram. Incipiente euim vere prata 
+      flo<lb ed="#H" n="167" break="no"/>vere solent, segetes semina concipiunt, arbores fructum emittunt. Ed de 
+      <lb ed="#H" n="168"/>causa Deus etiam sub idem tempus liberavit popuium Israela servitute 
+      <lb ed="#H" n="169"/>Agyptiorum. Et Gabriel Archangelus sanctae virgini Mariae laetum 
+      nun<lb ed="#H" n="170" break="no"/>tium admirandi partus attulit. Eodem quoque tempore Christus 
+      Domi<lb ed="#H" n="171" break="no"/>nus salutarem pertulit passionem. Cyrillus Jerosolymitanus 
+      Cateche<lb ed="#H" n="172" break="no"/>si 14. Leo Sermone 9. de Passione: Damascenus secundo libro 
+      Fi<lb ed="#H" n="173" break="no"/>dei Orthodoxae, septimo capite: Beda in libro de ratione 
+      tempo<lb ed="#H" n="174" break="no"/>tum, capite 28. Isidorus 5. Etymologiarum, capite de Temporibus 
+      <lb ed="#H" n="175"/>Rabanus ad caput 12. Exodi: Synodus Palaestina coacta a 
+      Theophi<lb ed="#H" n="176" break="no"/>lo Episcopo Caesariensi; decreti illius meminit Beda, libro jam 
+      alle<lb ed="#H" n="177" break="no"/>gato, cap. 10. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1777">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Idem visum fuit antiquis Astrologis, qui popterea Solarem 
+      <lb ed="#H" n="179"/>motum a principio Arietis auspicabantur: &amp; poetis, quorum 
+      inter<lb ed="#H" n="180" break="no"/>Latinos princeps ita cecinit lib. 2. Georgicone 
+      <lb ed="#H" n="181"/>Non alios prima nascentis origine mundi. 
+      <lb ed="#H" n="182"/>Illuxisse dies, aliumve habuisse tenorem 
+      <!--cod-MkL9py-0299.xml-->
+      <pb ed="#H" n="272"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Crediderim: Ver illud erat, ver magnus 
+      ageba<lb ed="#H" n="2" break="no"/>Orbis &amp; hybernis parcebant flatibus Euri¬ 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1803">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>OEIECTIO I. Aegyptii &amp; Israelitae ante redemtionem suam ex 
+      <lb ed="#H" n="4"/>servitute Aegyptiaca, initium anni ac proinde &amp; natalem mundi 
+      ha<lb ed="#H" n="5" break="no"/>buerunt Autumnali aequinoctio, quod est 25. Septemb. Sole ingresso 
+      Li<lb ed="#H" n="6" break="no"/>bram. Ergo non fuit verno aequinoctio. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1816">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>RESP. Est processus secundum non causam ut causam. Nam quod 
+      <lb ed="#H" n="8"/>ÆEgyptii principium anni AEquinoctio assignarunt, non factum id 
+      <lb ed="#H" n="9"/>eo quod natalis mundi AEquinoctio Autumnali esset, sed factum est 
+      <lb ed="#H" n="10"/>civili observatione, propter fructus terrae &amp; actiones annuas ad cul 
+      <lb ed="#H" n="11"/>turam, quae tum regresso Nilo, &amp; solo AÆEgypti ficcato (nam Nilus ant 
+      <lb ed="#H" n="12"/>exundabat Sole Leonem ingresso vigesimo Julii mensis) 
+      redintegra<lb ed="#H" n="13" break="no"/>bantur: quemadmodum etiam civilem rationem eandem Deus in 
+      <lb ed="#H" n="14"/>populo suo observari voluit &amp; mandavit lege. Non sequitur autem 
+      <lb ed="#H" n="15"/>si rationem hanc Israelitae observaverint in AEgypto, eandem quoque 
+      <lb ed="#H" n="16"/>ante observasse quam in AEgyptum transivissent, praesertim cum 
+      <lb ed="#H" n="17"/>Chaldaei a quibus venerant, &amp; Persae communi cum Chaldaeis 
+      ratio<lb ed="#H" n="18" break="no"/>ne principium anni aequinoctio verno statuerem 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1847">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>OEIRCTIO II. Anni Sabbathici seu Sabbatharii, id est, 
+      intermis<lb ed="#H" n="20" break="no"/>sionis seu quietis terrae, itemque Iubilaei supput abantur ab aequi noctio 
+      Au<lb ed="#H" n="21" break="no"/>cumnali;. Ergo illo fuit natalis mundi, &amp; non aequinoctio verno 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1859">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>RESP Est processus secundum non causam. Nam Sabbathioi &amp; 
+      <lb ed="#H" n="23"/>subilaei anni supputabantur ab AEquinoctio Autumnali non ob ea 
+      <lb ed="#H" n="24"/>causam quod eo mundi natalis esset, sed civili ratione, nempe ob 
+      ces<lb ed="#H" n="25" break="no"/>sationem a cultura agrorum, ob relaxationem mancipiorum, ob 
+      re<lb ed="#H" n="26" break="no"/>versionem fundorum ad suos dominos &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1875">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>OBIECTIOIII. Quo tempore, rerum Mundi profectio exsistit 
+      se<lb ed="#H" n="28" break="no"/>cundum rationem ipsius &amp; secundum naturalem statum rerum quae in 
+      <lb ed="#H" n="29"/>hac mundi universitate sunt: eo maxime verisimile est natalem 
+      Mun<lb ed="#H" n="30" break="no"/>di fuisse. Atqui aequinoctio Autumnali rerum mundi perfectio exsistit. 
+      <lb ed="#H" n="31"/>Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1891">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Assumtio probatur: Nam in historia diluvii cap. 6. sit mentio 
+      fron<lb ed="#H" n="33" break="no"/>dis oleagineae, quam columba ad Noachum in arcam apportavit. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1900">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>RESP. Dist nguo. Perfectionis modus est duplex, unus, quum 
+      il<lb ed="#H" n="35" break="no"/>la fit: alter, quum facta &amp; consummata est. Non videtur autem 
+      per<lb ed="#H" n="36" break="no"/>fectio consummata ad natalem Mundi pertinere, sed potius 
+      perfe<lb ed="#H" n="37" break="no"/>ctio incipiens &amp; (ut ita dicam) vernans; praesertim quum nec 
+      primi<lb ed="#H" n="38" break="no"/>parentibus nostris tantam bonorum copia opus esset, nec 
+      animanti<lb ed="#H" n="39" break="no"/>bus caeteris in prima creatione; idque in ea regione ubi fruges &amp; res 
+      <lb ed="#H" n="40"/>nascentes terra, duobus ante mensibus ferme, quam in regione hac 
+      <lb ed="#H" n="41"/>maturescunt &amp; grandiores proferuntur: Ita esse autem regionem 
+      Ba<lb ed="#H" n="42" break="no"/>bylonicam &amp; tractum Orientalem illum patet ex sinapi &amp; hyssopi &amp; 
+      <lb ed="#H" n="43"/>aliorum incremento: atque hinc illud in Evangelio de grano sinapis 
+      <lb ed="#H" n="44"/>Matth. 13. Nam constat &amp; celerius crevisse in Judaea, &amp; grandius 
+      <lb ed="#H" n="45"/>fuisse. Quapropter etiam id ex eo sequitur potius, exhaustam esse 
+      <lb ed="#H" n="46"/>ibi perfectionem quum Sol libram ingressus est, quam ut 
+      perfectio<lb ed="#H" n="47" break="no"/>Mundi in eo tempore statuatus 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1935">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Minoris probatio non est firma: nam olea sempor virens est, &amp; ae 
+      <lb ed="#H" n="49"/>quinoctio verno cum alia multa, tum osea in partibus illis vim suam 
+      <lb ed="#H" n="50"/>exserit. Huic rei confirmandae rationem hanc adduco. Nam cum pri 
+      <lb ed="#H" n="51"/>mo die primi mensis Noachus Arcam aperuerit, non redeunte 
+      colun<lb ed="#H" n="52" break="no"/>ba, &amp; septimo ante die emissa columba fronde oleae attulerit, 
+      omni<lb ed="#H" n="53" break="no"/>no constat illum fuisse diem 24. mensis ultimi, quo columba fro de 
+      <lb ed="#H" n="54"/>ad Noachum attulit. Est autem dies p.imus primi mensis canonicus 
+      <lb ed="#H" n="55"/>aequinoctiis vernis, id est, 25. Martii nostri. Quis igitur non videat, die 
+      <lb ed="#H" n="56"/>18. mensis Martii in illo caelo &amp; solo germinate oleam potuisse, cum 
+      <lb ed="#H" n="57"/>in his ipsis partibus tam multa jam eo tempore germinent. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1961">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>OBIECTIOIV. Quum perfecti sunt omnes fructus terrae, tum est 
+      <lb ed="#H" n="59"/>tempus Autumnale: 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1971">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>At quum mudus creatus est, perfecti mox fuerunt omnes fructus terrae: 
+      <lb ed="#H" n="61"/>Ergo quum mundus creatus est, fuit tempus Autumnale. 
+      <lb ed="#H" n="62"/>Minor probatur ex Gen. 1. v. 12. Produxit terra herbulas, herbas 
+      se<lb ed="#H" n="63" break="no"/>mentantes semen in species suas &amp; arbores edentes fructum in quibus 
+      <lb ed="#H" n="64"/>semen est in species suas. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e1987">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>RESP. Distinguendum ut antea. Quum perfecti sunt omnes 
+      fru<lb ed="#H" n="66" break="no"/>ctus terrae, nimirum perfectione consummata, tum est tempus 
+      Au<lb ed="#H" n="67" break="no"/>tumnale. At quum mundus creatus est, perfecti mox fuerunt fructus 
+      <lb ed="#H" n="68"/>terrae, at non perfectione consummata, sed duntaxat incipiente seu 
+      <lb ed="#H" n="69"/>vernante. Alioquin multi fructus terrae etiam ante Autumnum 
+      cor<lb ed="#H" n="70" break="no"/>summate perfecti sunt in nostris quoque region bus: ut ostedit 
+      mes<lb ed="#H" n="71" break="no"/>sis tempus. In regionibus vero Orientalibus quaedam terra 
+      nascen<lb ed="#H" n="72" break="no"/>tia citius etiam proveniunt quam in nostris regionibus. Nam anter 
+      <lb ed="#H" n="73"/>festum Paschatis in terris AEgypti fuit hordeo spica mutica &amp; linc 
+      <lb ed="#H" n="74"/>culmus, Exod. 9. v. 31. Hactenus Thesis 2 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e2013">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>Thesis III. Temporis initium &amp; decursum Deus revelavit, &amp; in 
+      <lb ed="#H" n="76"/>sacris literis consignati voluit propter has causas. Una est ut fidele 
+      <lb ed="#H" n="77"/>confirmarentur in fide in Christum, propter quem anni tam 
+      diligen<lb ed="#H" n="78" break="no"/>ter sunt notati inde ab exordio quo omnia creata sunt &amp; quo facti 
+      <lb ed="#H" n="79"/>est prima promissio de Semine illo mulieris: sicut dicit Apostolus 
+      <lb ed="#H" n="80"/>Paulus Gal. 4. v. 4. Postquam venit plenitudo temporis, misit Deus 
+      Fi<lb ed="#H" n="81" break="no"/>lium suum factum ex muliere, factum Legi subjectum, ut eos qui Legi es 
+      <lb ed="#H" n="82"/>rant subjecti redimeret, ut adoptionem acciperemus. Quum igitur 
+      <lb ed="#H" n="83"/>Christus Patribus saepe promissus, tandem destinato tempore 
+      exhi<lb ed="#H" n="84" break="no"/>bitus, atque sic promissuo de Christo impleta sit: confirmamur de 
+      ve<lb ed="#H" n="85" break="no"/>citate aliarum etiam promissionum, quae omnes in Christo sunt 
+      et<lb ed="#H" n="86" break="no"/>iam &amp; Amen 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e2044">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Secunda causa est ut continua annorum serie fideles ad primam 
+      <lb ed="#H" n="88"/>humani generis &amp; rerum omnium originem pervenirent, quae 
+      co<lb ed="#H" n="89" break="no"/>gnitio apprime utilis est ut obviam eatur prodigiosis fabulis Æ
+      gy<lb ed="#H" n="90" break="no"/>ptiorum &amp; aliorum, qui gentis suae origines antiquiores faciunt  
+      <lb ed="#H" n="91"/>Mundo. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e2060">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>Tertia causa est, ut cognito Mundi exordio, clarius cluceat Dei 
+      <!--cod-MkL9py-0299.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>aeternitas, nosque in sui admirationem magis rapiat, Psalm. 102. 25. 
+      <lb ed="#H" n="94"/>26, 27, 28. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e2076">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Quarta causa est, ut intelligeremus Mundum esse creatum propter. 
+      <lb ed="#H" n="96"/>nos qui in tempore vivimus &amp; quorum est orare quotidie cum 
+      Mose<lb ed="#H" n="97" break="no"/>Psal. 390. 12 Numerare dies nostros ita doce nos, ut induamus cor sapoes 
+      <lb ed="#H" n="98"/>Non autem propter Deum, qui sine mundo in aeternitate illa 
+      im<lb ed="#H" n="99" break="no"/>mensa semper erat, &amp; futurus erat beatissimus 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e2093">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Quinta causa est, ne animis nostris haereamus in hoc mundo, qui 
+      <lb ed="#H" n="101"/>paucis ab hinc annorum millibus factus, non diu etiam duraturus 
+      <lb ed="#H" n="102"/>est cum hac forma: Praeterit enim schema seu species hujus mundi, 1. 
+      Cor<lb ed="#H" n="103" break="no"/>v. 31. &amp; ut logiturI Joh. 217. Mundus praeterit &amp; cupiditas ipsius: qui  
+      <lb ed="#H" n="104"/>vero praestat uoluntatem Dei, manet in aeternum. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e2109">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Thesis IV. Mundus non est creatus citius vel tardius; quia Deo 
+      <lb ed="#H" n="106"/>sic placuit, qui mundum condidit, quando voluit. Sicut autem 
+      te<lb ed="#H" n="107" break="no"/>mere quaeritur, cur non plura majorave corpora, cur non plure 
+      <lb ed="#H" n="108"/>mundos &amp; aliis in locis Deus fecerit; nam cum illa corpora 
+      quanta<lb ed="#H" n="109" break="no"/>cunque fierent, oporteret esse finita, &amp; mundos finitos, semper ea 
+      <lb ed="#H" n="110"/>dem quaestio in termino cogitationis haerebit, desiderio finis alterius 
+      <lb ed="#H" n="111"/>semperque rogandum supererit, cur Deus non plura &amp; ampliora 
+      <lb ed="#H" n="112"/>corpora, cur non plures mundos fabricarit: eodem modo temerati 
+      <lb ed="#H" n="113"/>um est inquirere cur Deus tunc potius, quam antea posteave 
+      mun<lb ed="#H" n="114" break="no"/>dum creaverit; siquidem quocunque temporevel temporis initio creas 
+      <lb ed="#H" n="115"/>set, eadem esset quaestio occursura. Deus igitur creavit mundum 
+      <lb ed="#H" n="116"/>quando voluit. Quaestionem hanc expedit Augustinus quinto tomo, 
+      <lb ed="#H" n="117"/>l.b. 11. de civitate Dei, cap. 7. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e2142">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>OBIICITUR: Si Deus creavit mundum quando voluit, tum ante. 
+      <lb ed="#H" n="119"/>creatum mundum fuit otiosus. At posterius est absurdum. Ergo &amp; prius 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e2151">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>RESP. Negatur connexi consequentia. Nec enim. si Deus 
+      mun<lb ed="#H" n="121" break="no"/>dum produxit quando voluit, propterea Deus ociosus fuit ante 
+      mun<lb ed="#H" n="122" break="no"/>dum productum. Nam Pater ab aeterno genuit Filium: Filius ab 
+      ae<lb ed="#H" n="123" break="no"/>erno natus est a Patre: Pater &amp; Filius spirant ab aeterno Spiritum 
+      <lb ed="#H" n="124"/>Sanctum: Spiritus Sanctus ab aeterno processit a Patre &amp; Filio. 
+      <lb ed="#H" n="125"/>dem Deus, Pater, Filius &amp; Spiritus Sanctus ab aeterno decrevit. 
+      con<lb ed="#H" n="126" break="no"/>stituit &amp; ordinavit omnia quae in tempore futura erant: ab aeterno. 
+      <lb ed="#H" n="127"/>praedestinavit alias creaturas ad vitam aeternam, alias ad mortem ae 
+      <lb ed="#H" n="128"/>ternam: elegit nos in Christo ante jactum mundi fundamentum, 
+      E<lb ed="#H" n="129" break="no"/>phes. 1. v. 4. Sapientiam suam latentem in mysterio praefinivit Deus. 
+      <lb ed="#H" n="130"/>ante secula ad gloriam nostram 1. Cor. 2. v. 7. praeparavit Deus opera 
+      <lb ed="#H" n="131"/>Fona ut in eis ambularemus Ephes. 2. 10. Dedit nobis gratiam in 
+      <lb ed="#H" n="132"/>Christo Jesu ante tempora seculorum 2. Tim. 1. 9. Estne hoc ante 
+      <lb ed="#H" n="133"/>mundi creationem ociosum fuisse 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e2186">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Thesis V. A principio mundi usque ad hunc annum Domine 
+      <lb ed="#H" n="135"/>&amp; Servatoris nostri Jesu Christi in carne manifestati mil esimum. 
+      <lb ed="#H" n="136"/>sexcentesimum &amp; nonum, effluxerunt jam anni quinquies mille 
+      <lb ed="#H" n="137"/>quingenti septuagintanovem juxta Abrahami Bucholceri 
+      supputa<lb ed="#H" n="138" break="no"/>tionem. 
+      </p>
+            <p xml:id="yyy8Uu-e28766-d1e2202">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Thisis VI. Mundus est unus, isque perfectus, sed finitus 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

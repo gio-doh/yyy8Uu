@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 44</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 44</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="93"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e43348"> <!-- l1-c44 -->
+            <head xml:id="yyy8Uu-e43348-Hd1e109">Caput 44</head>
+            <p xml:id="yyy8Uu-e43348-d1e112">
+               <lb ed="#H" n="17"/>CAPUT XLIV. 
+      <lb ed="#H" n="18"/>In quo primo status controversiae de perspicuitate 
+      <lb ed="#H" n="19"/>Scripturae Sacrae figitur: deinde orthodoxa 
+      <lb ed="#H" n="20"/>sententia proponitur &amp; confir¬ 
+      <lb ed="#H" n="21"/>matur.
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e125">
+               <lb ed="#H" n="22"/>E perspicuitate Sacrae Scripturae inter nos &amp; Papistas non leviae 
+      <lb ed="#H" n="23"/>Vest controversia: sed Papistae in statu controversiae calumniam 
+      <lb ed="#H" n="24"/>committunt. Bellarm. lib tert. de Verbo Dei, cap. primo, sect. 
+      <lb ed="#H" n="25"/>prima, quaestionis controversae statum hoc modo proponit, Sinine 
+      <lb ed="#H" n="26"/>Scriptura Sacrae per se facillimae atque apertissimae, an vero interpretatione 
+      <lb ed="#H" n="27"/>endigeant? statuitque Scripturam non esse tam apertam per se, ut sine ex 
+      <lb ed="#H" n="28"/>plicatione sufficiat ad controversias fidei terminandas. At si hic statur 
+      <lb ed="#H" n="29"/>controversiae ponatur, Andabatarum more pugnat, &amp; aerem frustra 
+      <lb ed="#H" n="30"/>ferit, cum nullos in ea adversarios habeat, non Lutherum, non 
+      Bren<lb ed="#H" n="31" break="no"/>tium, non alios orthodoxos. Lutheri sententia a Bellarmino allegata. 
+      <lb ed="#H" n="32"/>seipsam a calumnia vindicat. Sic enim Lutherus praefatione 
+      assertio<lb ed="#H" n="33" break="no"/>nis articulorum a Leone Pontifice damnatorum ait: Oportet scriptus 
+      <lb ed="#H" n="34"/>ra judice hanc sententiam ferre: quod fieri non potest, nisi Scripturae de 
+      <lb ed="#H" n="35"/>derimus principe locum in omnibs quae tribuuntur Patribus, h. e. ut sit ipsa 
+      <lb ed="#H" n="36"/>per se certissima, facillima, apertissima, suiip sius interpres, omnium omnio 
+      <lb ed="#H" n="37"/>probans judicans &amp; illuminas. Hactenus verba Lutheri a Bellar, produ 
+      <lb ed="#H" n="38"/>cta: unde sic colligimus: Si scriptura esse per se certissimam, facillima, 
+      <lb ed="#H" n="39"/>apertissimam, sunpsius interpretem Lutherus asserit, tum certe non 
+      <lb ed="#H" n="40"/>sentit, eam sine interpretatione sufficere ad fidei controversias diri 
+      <lb ed="#H" n="41"/>mendas: sed tantum docet quis sit omnium optimus interpres 
+      Sacr<lb ed="#H" n="42" break="no"/>Scripturae. Et quod ibidem Lutherus contendit: Scripturam esse 
+      cla<lb ed="#H" n="43" break="no"/>riorem omnium patrum commentariis, hoc rursus non contradie:t 
+      the<lb ed="#H" n="44" break="no"/>si a Bellarmino propositae: siquidem Lutherus commentarios 
+      Pa<lb ed="#H" n="45" break="no"/>trum quibus illi Scripturam interpretantur non rejicit, sed tantum  
+      <lb ed="#H" n="46"/>cum Scriptura comparat in claritate, docetque Scripturam esse 
+      clari<lb ed="#H" n="47" break="no"/>orem, idque recte docet, quum Patres iis quae ipsi dicunt lucem ex 
+      scri<lb ed="#H" n="48" break="no"/>tura sacra mutuentur, memores illius quod dicitur Psal. 119. v. 10 
+      <lb ed="#H" n="49"/>Lucerna pedi meo verbum tuum est &amp; lux itineri meo. Quin etiam se 
+      <lb ed="#H" n="50"/>quentia, quibus sententiam suam Lutherus restringit, eum a 
+      calu<lb ed="#H" n="51" break="no"/>lumnia Bellarmini vindicant. Duo enim a Luthero dici fatetur: unum 
+      <lb ed="#H" n="52"/>quod Scriptura etiamsi alicubi sit obscura, tamen illud idem alibi 
+      cla<lb ed="#H" n="53" break="no"/>re proponat: alterum, quod Scriptura, licet per se clarissima, tamen 
+      <lb ed="#H" n="54"/>superbis &amp; infidelibus sit obscura ob eorum caecitatem &amp; pravum 
+      af<lb ed="#H" n="55" break="no"/>fectum. Atque haec non effugia sunt Lutheri, ut Bellarminus 
+      cavilla<lb ed="#H" n="56" break="no"/>tur, sed vera dogmata. Nec aliud Brentius aut nos sentimus. Alii 
+      Pa<lb ed="#H" n="57" break="no"/>pistae fingunt, nos statuere, Omnia in Sacra Scriptura esse per se 
+      facilli<lb ed="#H" n="58" break="no"/>ma &amp; nulla egere interpretatione, sic ut laici per se omnia possint 
+      inte<lb ed="#H" n="59" break="no"/>ligere, unde etiam laicis lectionem Scripturae concedamus: atque ita 
+      <lb ed="#H" n="60"/>quod cum certa limitatione dicimus, illi absque limitatione profe¬ 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e212">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>int. 
+      <lb ed="#H" n="62"/>Verum nos omissis Papistarum calumniis, nostram sententiam 
+      <lb ed="#H" n="63"/>hac thesi complectimur: 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e224">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Stera Scriptura nulla sui parte per se &amp; in se obscura est: sed aperte, 
+      <lb ed="#H" n="65"/>clare &amp; perspicue tradit omnia quae continent fidem, bonaque opera, sic ut  
+      <lb ed="#H" n="66"/>omnes Spiritu Dei praediti, etiam plebeji, qui eam attente, assidueque 
+      le<lb ed="#H" n="67" break="no"/>gunt, &amp; voces phrasesque per aetatem &amp; cognitionem linguae in qua 
+      Scri<lb ed="#H" n="68" break="no"/>pturam legunt, percipiunt, &amp; veritatem investigare uoluntatemque Dei, 
+      <lb ed="#H" n="69"/>facere uolunt, recte intelligere possint &amp; fructum maximum inde 
+      conse<lb ed="#H" n="70" break="no"/>qui.  
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e244">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Haec thesis primo declavanda, deinde confirmanda, 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e251">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>&amp; adversus Papistarum obiectiones. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e258">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>defendenda. 
+      <lb ed="#H" n="74"/>Non est sententia nostra, omnia esse in Scriptura cnivis legenti 
+      ve<lb ed="#H" n="75" break="no"/>audienti facilia, perspicua &amp; clara, nihil ulli obscurum, nihil intellectu 
+      <lb ed="#H" n="76"/>difficile: nam quaedam loca Scripturae esse difficilia intellectu &amp; ob 
+      <lb ed="#H" n="77"/>scura reprobis percuntibusque, aliquando etiam electis ad temrus, 
+      <lb ed="#H" n="78"/>fatemur: Sed primo Scripturam esse in se &amp; suapte natura 
+      perspicu<lb ed="#H" n="79" break="no"/>am, &amp; tradere perspicue totam doctrinam fidei &amp; bonotum operum. 
+      <lb ed="#H" n="80"/>docere clare fundamentum doctrinae Christianae omnibus fidelibus. 
+      <lb ed="#H" n="81"/>cognitu necessatium, haud sane in singulis Scripturae locis, sed in 
+      sin<lb ed="#H" n="82" break="no"/>gulis utique doctrinae Christianae capitibus, ad fidem cultumque Dei 
+      <lb ed="#H" n="83"/>necessarus: seu, ut verbis Augustini utat, quae exstant libro secundo 
+      de<lb ed="#H" n="84" break="no"/>doctrina Christiana, capite nono: Ia his quae aperte in Scriptura post  
+      <!--cod-MkL9py-0120.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="85"/>ta sunt, inveniri illa omnia quae continent fidem moresque vivendi. Dein 
+      <lb ed="#H" n="86"/>de non dicimus, quibusvis Scripturam Sacram esse claram &amp; perspi 
+      <lb ed="#H" n="87"/>cuam, sed illis qui praediti sunt Spiritu Dei quo illa scripta est, quibus 
+      <lb ed="#H" n="88"/>que nullum ab aetate vel ab ignoratione linguae in qua Scripturam 
+      <lb ed="#H" n="89"/>legunt, impedimentum est: hi soli illam inteiligunt ut intelligi 
+      de<lb ed="#H" n="90" break="no"/>bet, etiamsi plebeji essent. Quemadmodum homo constat ex 
+      corpo<lb ed="#H" n="91" break="no"/>re &amp; anima, ita ut sit corpus animae domicilium: ita constat S 
+      Scri<lb ed="#H" n="92" break="no"/>ptura ex litera &amp; spiritu, ita ut sit litera quoddam quasi spiritus 
+      domi<lb ed="#H" n="93" break="no"/>ilium. Et quemadmodum hominis corpus videre &amp; vocem audirie 
+      <lb ed="#H" n="94"/>possunt bestiae; sed ejus animum aut orationem perspicere nequeunt, 
+      <lb ed="#H" n="95"/>quippe quae non sint eadem anima praeditae, cujus oculis ita cernere 
+      <lb ed="#H" n="96"/>valcant: sic Sacrae Scripturae literam videre &amp; verba audire possum 
+      <lb ed="#H" n="97"/>impii, sed quis sit literae spiritus, &amp; quo spectet divina mens, ii soli 
+      in<lb ed="#H" n="98" break="no"/>relligunt, qui eo spiritu praediti sunt, a quo Scriptura Prophetis &amp; 
+      A<lb ed="#H" n="99" break="no"/>postolis inspirata est. Impii quidem non magis eum vident, quam 
+      <lb ed="#H" n="100"/>pestiae sermonem hominum, quorum tantum voces paucas, &amp; eas vit 
+      <lb ed="#H" n="101"/>intelligunt, exclamationes, increpationes, adhortationes, minas. 
+      Sic<lb ed="#H" n="102" break="no"/>impii vident in sacris literis quid narretur, quid jubeatur aut vetetur. 
+      <lb ed="#H" n="103"/>sed spiritum &amp; quasi medullam literae non habent. Ut enim hominis: 
+      <lb ed="#H" n="104"/>negotia solus hominis spiritus novit: sic Dei negotia nullus scit, nisi 
+      <lb ed="#H" n="105"/>.Spiritus Dei, &amp; is quem Spiritus ille docuerit. 1. Cor. 2. vers. 9. &amp; se¬ 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e339">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>quentibus. Tertio distinguimus res divinas quas Scriptura tradit ab 
+      <lb ed="#H" n="107"/>poratione qua ipsas docet. Res ipsae sunt altissimae &amp; profundissimae &amp; 
+      <lb ed="#H" n="108"/>a naturali intellectu humano remotae: ipsae tamen per Scripturam 
+      <lb ed="#H" n="109"/>divina revelatione inspiratam clara oratione explicantur.  
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e352">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Sic explicata est thesis nostra: nunc est con¬ 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e360">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>firmanda. 
+      <lb ed="#H" n="112"/>Confirmatur PRIM o testimoniis Scripturae. Primum est Deut, 
+      <lb ed="#H" n="113"/>30. v. 11, &amp; sequentibus. Praeceptum hoc, quod ego praecipio tibi hodie 
+      <lb ed="#H" n="114"/>occultum non est a te, neque longinquum. Non est in toelis; ut dicas, qui  
+      <lb ed="#H" n="115"/>adscendet nobis in coelum, qui sumens afferat illud nobis, &amp; enunciet 
+      no<lb ed="#H" n="116" break="no"/>bis illud, ut faciamus illud? sed propinquum est tibi verbum hoc valde? 
+      <lb ed="#H" n="117"/>in ore tuo &amp; in animo tuo, ad faciendum illud. Unde colligimus in 
+      <lb ed="#H" n="118"/>munc modum: 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e382">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Quod non est occultum neque longinquum; sed propinquum 
+      fide<lb ed="#H" n="120" break="no"/>libus, id profecto aperte &amp; perspicue tradit fidei morumque 
+      doctri<lb ed="#H" n="121" break="no"/>nam. At Sacra Scriptura &amp; maxime doctrina Evangelii non occulta 
+      <lb ed="#H" n="122"/>neque longinqua, sed propinqua fidelibus: Ergo aperte &amp; perspicue 
+      <lb ed="#H" n="123"/>radit fidei morumque doctrinam 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e398">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>RESPONDET Bellarminus per inficiationem minoris, eamque 
+      <lb ed="#H" n="125"/>negat ex loco adducto probari posse, eo quod plurimi veterum exponant 
+      <lb ed="#H" n="126"/>eum non de facilitate intelligendi Scripturas, sed de facilitate implendi 
+      <lb ed="#H" n="127"/>mandota Decalogi, cum adest gratiae auxilium, quod sit contra omnes 
+      <lb ed="#H" n="128"/>Lutheranos, qui dicant impossibilia esse Dei mandata: aitque sic 
+      interpre<lb ed="#H" n="129" break="no"/>tari Tertullianum libro quarto contra Marcionem, sic item exponere 
+      <lb ed="#H" n="130"/>Origenem, Ambrosium, Chrysostomum &amp; alios in capite decimo ad 
+      <lb ed="#H" n="131"/>Romanos, &amp; Augustinum libro de perfectione justitiae, responsione 
+      pe<lb ed="#H" n="132" break="no"/>nultima. Alios tamen in quibus est Abulensis concedit hunc locum 
+      ex<lb ed="#H" n="133" break="no"/>ponere de facilitate cognitienis, non quidem Scripturarum S io cruma 
+      <lb ed="#H" n="134"/>quae tunc adhuc nullae erant fortasse, sed praeceptorum tantum Decalogi. 
+      <lb ed="#H" n="135"/>quae, cum sint naturalia, facilime intelligintur, &amp; Iudaei illi tcaecipue 
+      <lb ed="#H" n="136"/>facile poterant ea scire, qui, Mosen explicantem audierant, &amp; consessi fui 
+      <lb ed="#H" n="137"/>erant, se percepisse omnia, &amp; promiserant se ea observaturos. Ideo 
+      subdi<lb ed="#H" n="138" break="no"/>tur: Prope est sermo in ore tuo &amp; in corde tuo, id est, in corde tuos 
+      <lb ed="#H" n="139"/>quia jam intellexisti quid sit agendum: &amp; in ore tuo, quia jam cojessus 
+      <lb ed="#H" n="140"/>es te intellexisse. Hactenus exceptio Bellarmini. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e440">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Ad quam nostra haec est REPLICATIO. Primo, negari minor 
+      <lb ed="#H" n="142"/>propositio argumentationis nostrae non potest, quae loco niosis revera 
+      <lb ed="#H" n="143"/>nititur &amp; ex eo sumta est. Deinde locus Mosis nequaquam est 
+      intelli<lb ed="#H" n="144" break="no"/>gendus de facilitate implendi mandata Decalogi: quia praeceptum 
+      <lb ed="#H" n="145"/>de quo Moses in loco citato loquitur non Legis est, sed Evangelii de 
+      <lb ed="#H" n="146"/>conversione ad Deum &amp; fide in Christum, interprete Paulo Rom. 
+      <lb ed="#H" n="147"/>10. vers. 6. &amp; sequentibus. Solius Pauli autoritas sufficere Bellu. mino 
+      <lb ed="#H" n="148"/>debuisset, hunc locum nequaquam de mandatorum Decalogi 
+      im<lb ed="#H" n="149" break="no"/>pletione exponendum. Pauli autem interpretationem veram esse 
+      ex<lb ed="#H" n="150" break="no"/>tra controversiam apud omnes pios esse debet. Nam &amp; antecedentia 
+      <lb ed="#H" n="151"/>omnia in cap. trigesimo Deuteronomii de doctrina sunt Evangelii: 
+      <lb ed="#H" n="152"/>quia agunt de conversione ad Deum seu resipiscentia; invitare autem 
+      <lb ed="#H" n="153"/>ad resipiscentiam &amp; gratiam offerre resipiscentibus &amp; credentibus 
+      <lb ed="#H" n="154"/>promissioni gratiae est Evangelii, cujus veritatem a Deo praestari &amp; 
+      a<lb ed="#H" n="155" break="no"/>hobis facile percipi Moses affirmat. Deinde Paulus inepte 
+      argumen<lb ed="#H" n="156" break="no"/>caretur ex loco Mosis, nisi is de doctrina Evangelii esset intelligendus, 
+      <lb ed="#H" n="157"/>Nam Paulus justitiae, quae est ex lege, consistenti in praestatione 
+      man<lb ed="#H" n="158" break="no"/>datorum Legis opponit justitiam quae est ex fide: &amp; justitiae, quae est 
+      <lb ed="#H" n="159"/>ex lege, accommodat locum Levit. 18. v. 5. Qui praestitesst ea, vivet per 
+      <lb ed="#H" n="160"/>ilis: justitiae vero quae est ex fide, accommodat hunc locum Mosis ex 
+      <lb ed="#H" n="161"/>Deuteronomio, &amp; verbis illis: Prope te verbum est in ore tuo &amp; in 
+      cor<lb ed="#H" n="162" break="no"/>de tuo, diserte addit explicationem; Hoc est verbum illud fidei quod 
+      <lb ed="#H" n="163"/>praedicamus. Proinde hic locus Mosis de facilitate implendi mandata 
+      <lb ed="#H" n="164"/>Decalogi non est accipiendus, neque contra nos facit? 
+      <lb ed="#H" n="165"/>Tertio testes a Be llarmino laudati nihil tale deponunt, quale illig 
+      <lb ed="#H" n="166"/>Bellariminus affingit, non Tertullianus, nec magis Origenes, neque 
+      <lb ed="#H" n="167"/>Ambrosius, neque Chrysostomus, neque Augustinus, sed ad doctrinam 
+      <lb ed="#H" n="168"/>Evangelii &amp; apprehensionem illius per fidem hunc locum ex Mose a 
+      <lb ed="#H" n="169"/>Paulo allegatum referunt. Ita Bellarminus nomina quidem Patrum 
+      <lb ed="#H" n="170"/>veluti territandi gratia recenset, at res de qua agitur non videtur 
+      us<lb ed="#H" n="171" break="no"/>quam, 
+      <lb ed="#H" n="172"/>Quarto quod ait Bellarminus fortasse nullas fuisse Scripturas S 
+      <lb ed="#H" n="173"/>cum Moses istum locum proferret; mirum est potuisse ei in mentem 
+      <!--cod-MkL9py-0121.xml-->
+      <pb ed="#H" n="94"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>venire, cum hunc ipsum cogitare potuerit a Mose scriptum post 
+      li<lb ed="#H" n="2" break="no"/>bros praecedentes &amp; magnam partem Deuteronomii. Itaque 
+      Bellarmi<lb ed="#H" n="3" break="no"/>nus falsum dicit, vel Mosis ipsius testimonio. Equidem tunc jam 
+      per<lb ed="#H" n="4" break="no"/>scriptos &amp; penes Ecclesiam Israeliticam fuisse quatuor primos 
+      li<lb ed="#H" n="5" break="no"/>bros Mosis &amp; partem magnam Deuteronomii, testatur Moses eo 
+      <lb ed="#H" n="6"/>dem cap. 30. Deuteronomii, vers. 10. his verbis: Si auscultaveris 
+      vo<lb ed="#H" n="7" break="no"/>ci Iehovae Dei tui, observando praecepta ejus &amp; statuta ejus, quicquid  
+      <lb ed="#H" n="8"/>scriptum est in libro hoc Legis, si conversus fueris ad Iehovam Deum 
+      <lb ed="#H" n="9"/>tuum ex toto corde tuo &amp; ex toto animo tuo. Et cap. 31. v. 9. Quumque 
+      <lb ed="#H" n="10"/>Moses scripta hac lege, dedisset eam Sacerdotibus, filiis Levi, qui portant 
+      <lb ed="#H" n="11"/>arcam federis Iehovae, &amp; omnibus senioribus Israelis, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e547">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Quinto quod Bellarminus denuo hunc locum Mosis de facilitate 
+      <lb ed="#H" n="13"/>intelligendi praecepta Decalogi interpretatur, iisdem argumentis 
+      <lb ed="#H" n="14"/>falsi convincitur, quae modo adduximus 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e558">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Hactenus prima confirmatio sententiae. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e566">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>nostrae. 
+      <lb ed="#H" n="17"/>SECUNDO confirmant thesin nostram illa ex Psalmis &amp; 
+      Pro<lb ed="#H" n="18" break="no"/>verbiis testimonia, in quibus de Scriptura dicitur, quod sit lucida, lux, 
+      <lb ed="#H" n="19"/>lucerna. ut Psalmo 18. vel, juxta supputationem Hebraeam, 19. v. 6. 
+      <lb ed="#H" n="20"/>Praeceptum lehovae lucidum, illuminans oculos: &amp; Psal. 118. vel juxt  
+      <lb ed="#H" n="21"/>supputationem Hebraeam 119. v. 105. Lucerna pedi meo verbum tuum 
+      <lb ed="#H" n="22"/>est, &amp; lux itineri meo, &amp; v. 130. aditus verborum tuorum illuminat 
+      <lb ed="#H" n="23"/>prudentia instruit simplices. Prover. 6. v. 23. Lucerna praeceptum est, &amp; 
+      <lb ed="#H" n="24"/>lex lux, viaque vitae, correctiones erudientes. Unde sic argumentamur: 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e590">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Quicquid divino modo est lucidum, imo lucerna &amp; lux divina, il  
+      <lb ed="#H" n="26"/>luminans oculos mentis nostrae: id profecto in se &amp; per se obscurum. 
+      <lb ed="#H" n="27"/>non est, sed clarum &amp; perspicuum fidelibus, filiis lucis, Spiritus S. 
+      in<lb ed="#H" n="28" break="no"/>terna luce illustratis: 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e603">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>At Scriptura S. divino modo est lucida, imo lucerna &amp; lux divina; 
+      <lb ed="#H" n="30"/>illuminans oculos mentis nostrae: 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e612">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Ergo Scriptura Si in se &amp; per se obscura non est, sed clara &amp; 
+      perspi<lb ed="#H" n="32" break="no"/>cua fidelibus, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e621">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Bellarminus sic EX CIPIT, ut minorem, de universis Scripturis 
+      <lb ed="#H" n="34"/>diuvinis agentem, primo neget, recte probari ex testimoniis adductis, quae 
+      <lb ed="#H" n="35"/>non agant de universis Scripturis, sed tantum de praeceptis Dominicis, 
+      <lb ed="#H" n="36"/>quae dicantur lucida, lucerna &amp; lux, non quod facile intelligantur, 
+      quan<lb ed="#H" n="37" break="no"/>quam &amp; hoc verum sit, sed quod intellecta &amp; cognita dirigant 
+      homi<lb ed="#H" n="38" break="no"/>nem in operando. Deinde sentiens hujus responsionis suae infirmitatem 
+      <lb ed="#H" n="39"/>&amp; viveritatis in conscientia sua convictus respondet per fiduciariam 
+      <lb ed="#H" n="40"/>reprobationem: nam largitur, agi quidem de scripturis omnibus, sed ea 
+      <lb ed="#H" n="41"/>dici lucidas, lucem &amp; lucernam, non quod facile intelligantur, sed quod,  
+      <lb ed="#H" n="42"/>intellectae cum fuerint, mentem illustrent. Prophetam enim in Psalm. 
+      <lb ed="#H" n="43"/>18. seu potius 19. locutum fuisse, ait Bellarminus, de cognitione Philosos 
+      <lb ed="#H" n="44"/>phorum, quam assecuti fuerant ex creaturis, cum ait: Coeli enarrant 
+      <lb ed="#H" n="45"/>gloriam Dei, &amp;c. Postea, ut ostenderet eos non per venisse ad eam lucem 
+      <lb ed="#H" n="46"/>ad quam perveniunt fideles, subjungere: Lex Domini immaculata, &amp;c. 
+      <lb ed="#H" n="47"/>Similiter Psal. 118. svel potius Ps. 119.) ait demonstrare voluisse, 
+      majo<lb ed="#H" n="48" break="no"/>tem esse cognitionem quae habetur ex verbo Dei revelato, quam ex 
+      crea<lb ed="#H" n="49" break="no"/>turis, ac propterea comparasse verbum Dei lucernae, quae ad noctis 
+      tene<lb ed="#H" n="50" break="no"/>bras dispellendas multo nobis utilior est, quam omnium stellarum lumen 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e665">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>REPLICATIO nostra. Primo negatur restrictio 
+      Bellarminia<lb ed="#H" n="52" break="no"/>na, quia testimonia adducta non tantum de praeceptis Dominicis, sed 
+      <lb ed="#H" n="53"/>de universis Scripturis divinis agunt, ut singulorum antecedentia &amp; 
+      <lb ed="#H" n="54"/>consequentia ostendunt. Sic Augustinus octavo tomo in enarratione 
+      <lb ed="#H" n="55"/>Psalmi 118. concione vigesima-tertia ait: Quod itaque hic ait, Lucerna 
+      <lb ed="#H" n="56"/>pedibus meis verbum tuum &amp; lumen semitis meis, verbum est quos 
+      <lb ed="#H" n="57"/>Scripturis sanctis omnibus continetur. Eadem est sententia Hieronym, 
+      <lb ed="#H" n="58"/>Nicolai Lyrani &amp; aliorum. Certe Augustinus sententias Scripturae, 
+      fi<lb ed="#H" n="59" break="no"/>dei doctrinam continentes appellat lumen, item lucem. Sept. tomo, 
+      li<lb ed="#H" n="60" break="no"/>bro primo de peccatorum meritis &amp; remissione contra Pelagianos, 
+      <lb ed="#H" n="61"/>cap. septimo ait: Apostolicae sententiae lumen attende. Si autem Christus. 
+      <lb ed="#H" n="62"/>sinquit) in nobis est, corpus quidem mortuum est propter peccatum, 
+      spiri<lb ed="#H" n="63" break="no"/>tus autem vita est propter justitiam. Et paulo post: Quid adhuc tantae 
+      <lb ed="#H" n="64"/>luci fumus contentionis offunditur? Secundo responsio per 
+      fiduciari<lb ed="#H" n="65" break="no"/>am reprobationem assignat falsam causam, cur Scripturae dicantur 
+      <lb ed="#H" n="66"/>lucidae, lucerna &amp; lux, nempe quia intellectae mentem illustrent, quasi 
+      <lb ed="#H" n="67"/>intellectus earum praecederet illuminationem mentis. Atqui ideo 
+      sic<lb ed="#H" n="68" break="no"/>dicuntur, quia ipsae mentem illustrant ad intelligendum magnalia 
+      <lb ed="#H" n="69"/>Dei, quae in ipsis proponuntur: Sic ut illuminatio mentis per 
+      Scri<lb ed="#H" n="70" break="no"/>pturam praecedat intelligentiam, non sequatur. Sic enim 
+      interpreta<lb ed="#H" n="71" break="no"/>tur David seipse, cum ait Psal. 119. v. 98. Inimicis meis sapientiorem 
+      <lb ed="#H" n="72"/>me reddit (videlicet Lex tua) praeceptis tuis. David autem nomine 
+      le<lb ed="#H" n="73" break="no"/>gis non intelligit decem illa praecepta solum, sed omnes divinas 
+      scri<lb ed="#H" n="74" break="no"/>pturas: qua significatione utitur etiam Dominus in Evangelio, cum 
+      <lb ed="#H" n="75"/>ait; ut impleatur quod in Lege eorum scriptum est, qui odio habuerum 
+      <lb ed="#H" n="76"/>me gratis, Johan. 15. ut Bellarminus ipse fatetur libro tertio de Verbo 
+      <lb ed="#H" n="77"/>Dei, capite secundo, sectione tertia: &amp; v. 104. Mandatis tuis prudenm 
+      <lb ed="#H" n="78"/>sum: &amp; v. 130. Aditus verborum tuorum illuminat, prudentia instruit 
+      <lb ed="#H" n="79"/>simplices. Tertio explicatio ultimo posita Bellarmino, nostrum 
+      argu<lb ed="#H" n="80" break="no"/>mentum magis confirmat: nam si major lux, major cognitio 
+      habe<lb ed="#H" n="81" break="no"/>tur ex verbo Dei revelato, quam ex creaturis: tum sequitur Verbum 
+      <lb ed="#H" n="82"/>Dei scriptum vere instar solis cujusdam spiritualis lucidum esse, vere 
+      <lb ed="#H" n="83"/>lucere, vere illustrare intellectum nostrum, dissipatis tenebris nostris: 
+      <lb ed="#H" n="84"/>ac proinde esse clarum &amp; perspicuum &amp; a fidelibus interna Spiritus 
+      <lb ed="#H" n="85"/>S. luce illustratis facile percipi¬ 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e747">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Quintum testimonium Scripturae est Matth. 5. vers. 14. Vos estis 
+      lu<lb ed="#H" n="87" break="no"/>mundi. Hinc argumentamur. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e756">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Si Apostoli sunt iux mundi, tum profecto Scripturae illorum 
+      qui<lb ed="#H" n="89" break="no"/>bus mundum illustrarunt atque etiamnum illustrant, clare doctrinam 
+      <!--cod-MkL9py-0121.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>fidei &amp; bonorum operum tradunt. Verum est antecedens. Ergo &amp; 
+      <lb ed="#H" n="91"/>consequens. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e774">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>RESPONDET Bellarminus per restrictionem assumtionis &amp; 
+      di<lb ed="#H" n="93" break="no"/>cti Christi ad lucem exemplorum, probitatis &amp; merum: quia voliu 
+      <lb ed="#H" n="94"/>Dominus Apostolos esse quaedam exempla sanctitatis omnibus ad 
+      imi<lb ed="#H" n="95" break="no"/>tandum proposita: quocirca subjecerit continub; sic luceat lux vestis 
+      <lb ed="#H" n="96"/>coram hominibus ut videant opera vestra bona. Addit; si loqueretur 
+      <lb ed="#H" n="97"/>Dominus de luce doctrinae, non fore sensum. Apostolorum Scripturam est. 
+      <lb ed="#H" n="98"/>se facilimam ad intelligendum, sed intellectam illustrare mentem, &amp;c. 
+      <lb ed="#H" n="99"/>rudire de rebus altissimis &amp; tenebras errorum omnium fugare: non 
+      tam<lb ed="#H" n="100" break="no"/>enim illuminare, qui clare loquitur vel scribit, quam qui sive clare, si 
+      ve<lb ed="#H" n="101" break="no"/>obscure loquatur aut scribat, lumen veritatis in mente accendit &amp; 
+      tene<lb ed="#H" n="102" break="no"/>bras errorum depellit  
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e803">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>REPLICATIO nostra. Primo negatur restrictio; Christus 
+      e<lb ed="#H" n="104" break="no"/>nim loquitur de luce tam doctrinae quam vitae: sicut Apostoli 
+      illumi<lb ed="#H" n="105" break="no"/>narunt mundum &amp; doctrina sua &amp; vita. De doctrinae luce ipse 
+      Chri<lb ed="#H" n="106" break="no"/>stus interpretatur in loco consimili, qui exstat Actor. 26. v. 16, 17, 18. 
+      <lb ed="#H" n="107"/>subi sic Apostolum Paulum alloquitur: Idcirto apparui tibi, ut 
+      desi<lb ed="#H" n="108" break="no"/>gnarem te ministrum ac testem tum eorues quae vidisti, tum eorum in 
+      <lb ed="#H" n="109"/>quibus apparebo tibi. Eruens te ex hec populo &amp; centibus ad quas nuno 
+      <lb ed="#H" n="110"/>te mitto: ut aperias oculos eorum &amp; convertas eos a tenebris ad lucem 
+      <lb ed="#H" n="111"/>&amp; a potestate Satanae ad Deum ut rexissionem peccatorum &amp; sortem 
+      <lb ed="#H" n="112"/>inter sanctificatos accipiant per fidem quae est in me. Cum quo 
+      consen<lb ed="#H" n="113" break="no"/>tit &amp; alter locus Actor. 13. vers. 46, 47. Vobis necesse fuit primum ex 
+      <lb ed="#H" n="114"/>poni sermonem Dei: postquam autem: lum repellitis, &amp; indignos ipsos 
+      <lb ed="#H" n="115"/>decernitis vita aterna, ecce, convertimus nos ad Gentes. Ita cim nobis 
+      <lb ed="#H" n="116"/>mandavit Dominus, dicens, constitu ic ut sis lux Gentium, ut sis salut 
+      <lb ed="#H" n="117"/>usque ad ultimas terras. Gentes autem haec audientes gavise sunt, &amp; 
+      lau<lb ed="#H" n="118" break="no"/>dibus extulerunt sermonem Domini &amp; crediderunt quotquot erant 
+      or<lb ed="#H" n="119" break="no"/>dinati ad vitam aeternam. Huc pertinent &amp; illa loca 2. Tim. 1. v. 9. 10. 
+      <lb ed="#H" n="120"/>Qui servavit vos &amp; vocavit vocatione sancte: nen ex opcribus nostris, 
+      <lb ed="#H" n="121"/>sed ex suo proposito &amp; gratia quae data quidem est nobis in Christo Iesu 
+      <lb ed="#H" n="122"/>ante tempora seculorum: Sed patefacta ouna est per illustrem illum,d 
+      <lb ed="#H" n="123"/>ventum Servatoris nostri Iesu Christi, qui &amp; mertem abolevis, &amp; v. 
+      <lb ed="#H" n="124"/>tam in lucem produxit ac immortatitatem per Evangelium. Quin et 
+      <lb ed="#H" n="125"/>iam contextus ipse Matth. 5. satis oscendit, Apostolos lucem inunoi 
+      <lb ed="#H" n="126"/>dictos tam quoad doctrinam quam que ad vitam: quia ben.u 
+      <lb ed="#H" n="127"/>in bene docendo recteque vivende Christus statuit: et certe pur: &amp; 
+      <lb ed="#H" n="128"/>corrupta praedicatio est praecipuum opus bonum quod Afplor. 
+      <lb ed="#H" n="129"/>cerunt. Sicut ibidem sal terra dicuntur, ratione purae dociring 
+      <lb ed="#H" n="130"/>ctae vitae: Ideo v. 19. subjicitur: Quisquis solverit unum, 
+      <lb ed="#H" n="131"/>hisce minimis, &amp; ita docuerit homines, minimas vocabitur 
+      in<lb ed="#H" n="132" break="no"/>lorum: Quisquis autem fecerit &amp; docuerit, iste magnus vocabitur i 
+      <lb ed="#H" n="133"/>gno coelorum. Sentit nobiscum Tertullianus, qui libro de 
+      puaescriptio<lb ed="#H" n="134" break="no"/>nibus adversus haereticos, cap vigesimo-sexto ait; Ipse Deminus de 
+      <lb ed="#H" n="135"/>cebat lucernam non sub modio obstrui sclere, sed in candelabeum co 
+      sti<lb ed="#H" n="136" break="no"/>tui, ut luceat omnibus qui in domo sunt. Haec Apostoli aut neglexerunt. 
+      <lb ed="#H" n="137"/>aut minime intellexerunt, si non adimpleverunt, abscondentes aliquid  
+      <lb ed="#H" n="138"/>de lumine, id est, Dei Verbo, &amp; Christi Sacramento 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e886">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Secundo vitiat Bellarminus statum controversiae. Nam neque nos 
+      <lb ed="#H" n="140"/>asserimus simpliciter, Scripturam esse facillimam ad intelligendum, 
+      <lb ed="#H" n="141"/>quasi promiscue a quocunque intelligi posset: sed ipsam tradere totam 
+      <lb ed="#H" n="142"/>doctrinam fidei &amp; bonorum operum aperte &amp; perspicue, sic ut vere 
+      <lb ed="#H" n="143"/>fideles assidue attenteque legentes possint eam intelligere. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e902">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Tertio non pugnat rationes, Apostolos ideo vocari lucem mundi. 
+      <lb ed="#H" n="145"/>quia Scriptura Apostolica aperta &amp; clara est, sic ut a fidelibus 
+      persri<lb ed="#H" n="146" break="no"/>cue intelligi possit: quia intellecta mentem illusiret, de rebus 
+      altissi<lb ed="#H" n="147" break="no"/>mis erudiat, tenebrasque errorum omnium dispellat. Utraque enim 
+      <lb ed="#H" n="148"/>ratio simul vera est. Inique ergo opponit &amp; diejungit eas LEellarmin, 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e919">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>quum consentiant &amp; conjunctae sint 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e926">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>Quarto perinde loquitur, ac si Sol nullum in se lumen habeat, nis 
+      <lb ed="#H" n="151"/>caeci ipsum videant. Atqui ut Sol &amp; lucidus est in se, &amp; lute illa. quam 
+      <lb ed="#H" n="152"/>in se habet, omnes illustrat, nisi qui aut caeci sunt, aut oculos claudunt,  
+      <lb ed="#H" n="153"/>ita Scriptura S. &amp; in se lucis divinae plena est, &amp; luce eadem nostras 
+      <lb ed="#H" n="154"/>mentes illuminat 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e942">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Sextum testimonium est 2. Petr. 1. 19. Et habemus firmiorem 
+      il<lb ed="#H" n="156" break="no"/>lum sermonem Propheticum: quem benefacitis quod aetenditis velus 
+      <lb ed="#H" n="157"/>lucernam splendentem in obscuro loco, usque dum dies illucescat G 
+      luciscr<lb ed="#H" n="158" break="no"/>exoriatur in cordibus vestris. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e955">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>Hinc ita argumentamur: 
+      <lb ed="#H" n="160"/>Si Scriptura S. est velut lucerna splendens in obscuto loco tum 
+      <lb ed="#H" n="161"/>profecto nulla sui parte in se &amp; per se obscura est, sed aperte &amp; clare 
+      <lb ed="#H" n="162"/>tradit omnia quae continent fidem moresque vivendi, &amp;c. Verum est 
+      <lb ed="#H" n="163"/>antecedens, teste Petro: Ergo &amp; consequens. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e971">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>RESPONDET Bellarminus, Prophetaram voces vocari 
+      lucer<lb ed="#H" n="165" break="no"/>nam, non quia facile intelligantur, sed quia intellectae illuminant, &amp; iter 
+      <lb ed="#H" n="166"/>ostendunt ad Christum, qui est verus Sol justitiae, 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e982">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>REPLICATIO nostra. Primo peccat Bellarm. ignoratione e 
+      <lb ed="#H" n="168"/>lenchi: Neque enim nos simpliciter asseveramus, Scripturam sacram 
+      <lb ed="#H" n="169"/>esse lucernam, quia possit a quibusvis facile intelligi: nam sermo ille, 
+      <lb ed="#H" n="170"/>de crace iis qui pereunt stultitia est, 1. Cor. 1. 18. &amp; animalis homo non 
+      <lb ed="#H" n="171"/>est capax eorum quae sunt Spiritus Dei; sunt enim ei stultitia, nec potes. 
+      <lb ed="#H" n="172"/>ea cognoscere, 1. Cor. 2. v. 14. Verum ideo dicimus Scripturam sacram 
+      <lb ed="#H" n="173"/>vocari lucernam, quia lucet, ut Petrus ipsemet loquitur, hoc est, quia 
+      <lb ed="#H" n="174"/>tum in se lucem ac claritatem habet, tum eam hominibus ostendit.  
+      <lb ed="#H" n="175"/>clare tradens &amp; aperte totam fidem de Christo &amp; ratione 
+      consequen<lb ed="#H" n="176" break="no"/>di salutem aeternam, ac proinde monstrans hominibus viam ad 
+      salu<lb ed="#H" n="177" break="no"/>tem, nisi illi aut caeci sint, aut oculos avertant, aut ultro claudant, 
+      au<lb ed="#H" n="178" break="no"/>ab aliis sibi claudi patiantur. Ut enim Sol nemini obscurus est, utqui 
+      <lb ed="#H" n="179"/>lucerna accensa in caliginoso loco &amp; in medio posita non est 
+      obscura<lb ed="#H" n="180" break="no"/>nisi aut caecis, aut ocuios elausos habentibus: sic nec ipsa Saimtura. 
+      <!--cod-MkL9py-0122.xml-->
+      <pb ed="#H" n="95"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Notatu vero dignum est quod Apostolus docet, Scripturam 
+      Prophe<lb ed="#H" n="2" break="no"/>ticam lucere in loco caliginoso: ergo tenebras fugat &amp; caliginem a 
+      <lb ed="#H" n="3"/>mente nostra depellit, doctrinam claram atque illustrem proponendo 
+      <lb ed="#H" n="4"/>perrores omnes detegentem &amp; refellentem &amp; certa nobis veritatis 
+      iti<lb ed="#H" n="5" break="no"/>ntera monstrantem 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1035">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Secundo Bell irminus nostram sententiam confirmat. Nam si 
+      scri<lb ed="#H" n="7" break="no"/>ptura sacra est lucerna, quia intellecta illuminat, tum profecto ipsa 
+      <lb ed="#H" n="8"/>non est obscura, sed clara, sed manifesta. Si iter ostendit ad Christum, 
+      <lb ed="#H" n="9"/>tum lucida atque aperta sit necesse est. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1048">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Tertio dissentit Bellarminus in loci hujus interpretatione ab alii  
+      <lb ed="#H" n="11"/>Papistis. Nam Hosius Cardinalis libr. tertio de autoritate Ecclesiae 
+      <lb ed="#H" n="12"/>ait, sermonem Propheticum dici lucernam, quia multa clara sunt, &amp; 
+      <lb ed="#H" n="13"/>quia quae quondam umbrae &amp; anigmata fuerunt, ea nunc in Evangelios 
+      <lb ed="#H" n="14"/>declavantur. Hoc ipsum nos defendimus; multa esse in Scripturis 
+      no<lb ed="#H" n="15" break="no"/>bis clara, unde alia quae obscuriora videntur possunt declarai 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1066">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Septimum testimonium est 2. Cor. 4. v. 2, 3. 4. Sed 
+      abrenunciavi<lb ed="#H" n="17" break="no"/>mus pudendis latebris, non cum calliditate ambulantes, neque falsantes 
+      <lb ed="#H" n="18"/>sermonem Dei, sed declavatione veritatis commendantes nos ipsos apud 
+      <lb ed="#H" n="19"/>omnem conscientiam hominum, in conspectu Dei. Quod si opertum est, 
+      <lb ed="#H" n="20"/>Evangelium nostrum, iis qui pereunt opertum est. In quibus Deus huc 
+      <lb ed="#H" n="21"/>jus seculi excaecavit mentes nempe in infidelibus, ne irradiet eos 
+      illustra<lb ed="#H" n="22" break="no"/>tio Evangelii gloriae Christi, qui est imago Dei, 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1086">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Respondet Bellarminus, Apostolum non loqui de intelligentia 
+      Scri<lb ed="#H" n="24" break="no"/>pturarum, sed de cognitione &amp; fide in Christum, quam Apostoli 
+      praedica<lb ed="#H" n="25" break="no"/>bant. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1097">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>REPLICATIO nostra. Primo negatur distinctio &amp; disjunctio 
+      <lb ed="#H" n="27"/>rerum relatarum, &amp; natura simul exsistentium: nam cognitio &amp; side 
+      <lb ed="#H" n="28"/>in Christum non potest consistere sine intelligentia Scripturarum. 
+      <lb ed="#H" n="29"/>Scripturae externae sunt instrumentum externum &amp; causa 
+      cognitio<lb ed="#H" n="30" break="no"/>nis fideique internae in Christum. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1113">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Secundo ambigue loquitur Bellarm. nam cognitionis &amp; fidei 
+      no<lb ed="#H" n="32" break="no"/>mine in Christum vel doctrina foris praedicata de cognitione &amp; fide 
+      <lb ed="#H" n="33"/>in Christum, vel habitus animi internus cognitionis &amp; fidei intellig 
+      <lb ed="#H" n="34"/>potest. Paulus vero absque ambiguitate ostendit, se loqui de 
+      Evange<lb ed="#H" n="35" break="no"/>lio, quod iis qui pereunt opertum est. Sed quodnam evangelium 
+      per<lb ed="#H" n="36" break="no"/>cuntibusopertum est? none illud quod in Scriptura continetur? aut 
+      <lb ed="#H" n="37"/>an aliud Evangelium Papistae habent extra Scripturam? vel an aliud 
+      <lb ed="#H" n="38"/>Evangelium Apostoli praedicarunt, quam scriptis tradiderunt? Ire 
+      <lb ed="#H" n="39"/>neaum Bellarmino opponimus sic loquentem libro tertio adversus 
+      hae<lb ed="#H" n="40" break="no"/>reses capit. primo: Non per alios dispositionem salutis nostrae 
+      cognovi<lb ed="#H" n="41" break="no"/>mus, quam per eos per quos Evangelium pervenit ad nos, quod quidem 
+      <lb ed="#H" n="42"/>tunc praeconiaverunt, postea vero per Dei uoluntatem in Scripturis nobis 
+      <lb ed="#H" n="43"/>tradiderunt, fundamentum &amp; columnam fidei nostrae futurum. Certis 
+      <lb ed="#H" n="44"/>nobiscum sentiunt Patres, Chrysostomus in octava homilia in 
+      episto<lb ed="#H" n="45" break="no"/>am secundam ad Corinthios super haec verba ait; Apostolos non 
+      mo<lb ed="#H" n="46" break="no"/>do in vita, sed ne in doctrina quidem ac praedicatione, ἐν αυτῳ τῶ κυρυγ. 
+      <lb ed="#H" n="47"/>uan quicquam συνίσκιασ μδον, umbrosum habuisse. Ambrosius quo- 
+      <lb ed="#H" n="48"/>que haec verba de toto Evangelio ab Apostolis tradito intelligit: 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1158">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>Hactenus prima confirmatio theseos de perspicui¬ 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1165">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>tate sacrae Scripturae, ex Scripturae te¬ 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1172">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>stimoniis. 
+      <lb ed="#H" n="52"/>DEINDE confirmatur rationibus, quarum prima est: Totius 
+      <lb ed="#H" n="53"/>Scripturae summa, quae consistit in Symbolo Apostolico, praeceptis 
+      <lb ed="#H" n="54"/>Decalogi, Oratione Dominica &amp; Saeramentorum institutione 
+      ha<lb ed="#H" n="55" break="no"/>bet aperta testimonia in Scriptura. Hinc non inferimus, quod fingi 
+      <lb ed="#H" n="56"/>Bellarminus, totam Scripturam apertissimam esse, sed istud, sacram 
+      <lb ed="#H" n="57"/>Scripturam aperte docere illa omnia quae pertinent ad fidem, cultum 
+      <lb ed="#H" n="58"/>Dei, moresque vivendi &amp; Sacramenta. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1194">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>RESPONDET Bellarminus negando consequentiam &amp; 
+      ante<lb ed="#H" n="60" break="no"/>cedens: illam quidem, quia eisi omnia aliquo modo ad illa reduci 
+      pos<lb ed="#H" n="61" break="no"/>sint summaria capita quae in antecedente recensentur, tamen ipsa in se 
+      <lb ed="#H" n="62"/>obscurissim aesse, ut pateat de vaticiniis Prophetarum, de Canticis 
+      Can<lb ed="#H" n="63" break="no"/>ticorum de epistola ad Romanos, de Apocalypsi: hoc vero, quia si tam 
+      <lb ed="#H" n="64"/>ctara testimonia exstarent de omnibus articulis Symboli, omnibusque 
+      Sa<lb ed="#H" n="65" break="no"/>cramentis, omnes controversiae essent finitae; cum tamen de singulis 
+      ar<lb ed="#H" n="66" break="no"/>ticulis Symboli &amp; singulis etiam Sacramentis controversiae sint 
+      gravis<lb ed="#H" n="67" break="no"/>simae, nec solum de his rebus Catholici cum haereticis, sed etiam haeretic. 
+      <lb ed="#H" n="68"/>inter se dissideant. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1220">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>REPLICATIO nostra. Neutrum recte negatur: nam &amp; 
+      con<lb ed="#H" n="70" break="no"/>sequentia bona est &amp; antecedens verum. Ut autem consequentiae 
+      fir<lb ed="#H" n="71" break="no"/>mitas manifestior sit, age explebimus enthymema &amp; siyllogismum 
+      fa<lb ed="#H" n="72" break="no"/>ciemus terminis ad pauciora verba contractis: 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1233">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Quicquid habet aperta testimonia de capitibus omnibus Catechescos 
+      <lb ed="#H" n="74"/>Christianae, id perspiciue tradit totam doctrinam de fide &amp; bonis operibus 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1243">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>Sacra Scriptura habet aperta testimonia de capitibus omnibus 
+      Cate<lb ed="#H" n="76" break="no"/>cheseos Christianae: Sacra Scriptura igitur perspicue tradit totam 
+      do<lb ed="#H" n="77" break="no"/>ctrinam fidei &amp; bonorum operum. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1254">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Syllogismus est in prima figura in modo Darii: nullaque est ambis 
+      <lb ed="#H" n="79"/>guitas in terminis, sic ut plures tribus non habeat, bona igitur est 
+      con<lb ed="#H" n="80" break="no"/>sequentia illius. Attamen eam Bellarminus negat, nulla negationis 
+      <lb ed="#H" n="81"/>causa allegata idonea. Nam illa quam allegat, cdiena est: 
+      argumen<lb ed="#H" n="82" break="no"/>tum enim nostrum agit de perspicuitate verborum, &amp; orationis 
+      sen<lb ed="#H" n="83" break="no"/>susque Scripturae in tradenda tota doctiina fidei &amp; bonorum operum. 
+      <lb ed="#H" n="84"/>at ratio B. llarmini partim de rebus quae naturali nostro intellectus 
+      <lb ed="#H" n="85"/>obscuriores sunt ob amplitudinem earum &amp; infirmitatem nostram:? 
+      <lb ed="#H" n="86"/>partim de quibusdam vaticiniis &amp; Scripturae voluminibus, quae in si 
+      <lb ed="#H" n="87"/>obscurissima esse ait. Verum primo distinguenda est obscuritas 
+      ora<lb ed="#H" n="88" break="no"/>tionis sensusque ejus ab obscuritate reium quae oratione tractantur  
+      <lb ed="#H" n="89"/>Res quidem coelestes in se sublimes sunt &amp; difficiles, &amp; humana raco¬ 
+      <!--cod-MkL9py-0122.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>ne incomprehensibiles &amp; oratione humana inenartabiles: attamet 
+      <lb ed="#H" n="91"/>divina oratio, qua in Scriptura exponuntur, plerisque in locis constat 
+      <lb ed="#H" n="92"/>summa facilitate &amp; captui nostro accommodata. Quid enim 
+      impo<lb ed="#H" n="93" break="no"/>dit, quo minus res humanam rationem superantes, oratione 
+      perspi<lb ed="#H" n="94" break="no"/>cua exponat Deus? quis enim hominum possit; si Deus in Scripturis 
+      <lb ed="#H" n="95"/>non fecit? Quae res al strusior &amp; humano intellectui possit esse ob 
+      <lb ed="#H" n="96"/>scurior Diviaitate, id est, anitate essentiae divinae &amp; personarum in 
+      ea<lb ed="#H" n="97" break="no"/>Trinitate, unione item personali duarum in Christo naturarum? 
+      E<lb ed="#H" n="98" break="no"/>tamen Deus in criptura sacra tum Divinitatem tum unionem illam 
+      <lb ed="#H" n="99"/>dlocuit tam perspicue ut nulla creatura magis perspicue possit? 
+      Dein<lb ed="#H" n="100" break="no"/>de vaticinia prophetarum &amp; alia oracula divina in Cantico Cantico. 
+      <lb ed="#H" n="101"/>rum, epistoia ad Romanos, Apocalypsi &amp; aliis libris divinis, etsi 
+      no<lb ed="#H" n="102" break="no"/>bis ex parte obscura sunt ob rerum rationi nostrae a natura 
+      ignota<lb ed="#H" n="103" break="no"/>rum sublimitatem, nostramque nativam ad res divinas intelligendas 
+      <lb ed="#H" n="104"/> 
+               <lb ed="#H" n="105"/>sunt pedibus nostris, &amp; luxsemitae nostrae, Psal. 119. vers. 105. splendent 
+      <lb ed="#H" n="106"/> 
+               <lb ed="#H" n="107"/>animi oculos Psal. 19. vers. 8 9, notum faciunt mysterium Christi 
+      Eph<lb ed="#H" n="108" break="no"/>vers. 3. 4. &amp; maxime haec omnia praestat epistola Pauli ad 
+      Roma<lb ed="#H" n="109" break="no"/>nos veteres, quae clarissime ostendit, Romano: hodiernos in crassissi 
+      <lb ed="#H" n="110"/>mis errorum teneleris desidere, sic ut adversus hodiernos Romanos 
+      <lb ed="#H" n="111"/>quorum errores Spiritus sanctus ab aeterno praevidit, singulari 
+      divi<lb ed="#H" n="112" break="no"/>nae providentiae consilio exarata videatur. Notanda autem 
+      detestabi<lb ed="#H" n="113" break="no"/>lis ingratitudo Bellarmini &amp; aliorum Papistarum adversus 
+      Prophe<lb ed="#H" n="114" break="no"/>cas &amp; Apostolos: nam cum mysterium quod a temporibus 
+      seculati<lb ed="#H" n="115" break="no"/>bus tacitum fuit, nunc factum sit manifestum &amp; per sceipturas 
+      Prophe<lb ed="#H" n="116" break="no"/>icas ex imperio aeterni Dei ad obedientiam fidei, omnibus Gentibus 
+      no<lb ed="#H" n="117" break="no"/>tificatum, ut Paulus diserte scribit Romanor. 16. vers. 26. cumque Ev 
+      <lb ed="#H" n="118"/>ingelium sit instar speculi limpidissimi quod suis radiis ita illustrat a 
+      <lb ed="#H" n="119"/>ciem intuentium, ut eos veluti transformet, quo &amp; ipsi sint ejus glorie 
+      <lb ed="#H" n="120"/>c splendoris participes ad alios illustrandos, ut idem docet 2. Cor. 3. 
+      <lb ed="#H" n="121"/>vers. 18. quod gratis animis agnoscendum erat: ipsi non modo non 
+      <lb ed="#H" n="122"/>agnoscunt, sed etiam Scripturam Propheticam &amp; Apostolicam 
+      ac<lb ed="#H" n="123" break="no"/>cusant tanquam in se obscurissimam 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1363">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Negationem antecedentis seu assumtionis ista ratione Bellarmi 
+      <lb ed="#H" n="125"/>nus fulcit; Si tam clara testimonia de fide &amp; Sacramentis exstarent in 
+      <lb ed="#H" n="126"/>Scriptura, tum omnes controversiae essent finitae: At hoc non est: Ergo 
+      <lb ed="#H" n="127"/>nec illud. Verum fallacia est a non causa, ut loquuntur: quod enim 
+      <lb ed="#H" n="128"/>sunt dissidia &amp; controversiae, non accidit obscuritate Scripturae, sed 
+      ca<lb ed="#H" n="129" break="no"/>ligine &amp; malitia mentis humanae. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1381">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>Hactenus prima ratio. 
+      <lb ed="#H" n="131"/>Secunda: Ex quo Patres Orthodoxi doctrinam fidei &amp; bonorum. 
+      <lb ed="#H" n="132"/>operum, quam proponebant, illustrarunt &amp; probarunt; id certe eam 
+      <lb ed="#H" n="133"/>perspicue tradit. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1394">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Ex Scriptura Patres Orthodoxi doctrinam fidei &amp; bonorum 
+      o<lb ed="#H" n="135" break="no"/>perum, quam proponebant, illustrarunt &amp; probarunt: Scriptura 
+      igi<lb ed="#H" n="136" break="no"/>tur perspicue doctrinam illam tradit. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1405">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Major tropositio certa est: quia non potest nec debet probari quod 
+      <lb ed="#H" n="138"/>notius est, ex minus noto, sed minus notum ex magis noto 
+      proban<lb ed="#H" n="139" break="no"/>dum est 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1417">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Minor probatione non eget.  
+      <lb ed="#H" n="141"/>RESPONPET Bellarminus ad probationem majoris 
+      proposi<lb ed="#H" n="142" break="no"/>tionis per distinctionem, ait, regulam hanc, Minus notum ex magis 
+      <lb ed="#H" n="143"/>noto probandum, non intelligendam de notitia verborum, quae in 
+      per<lb ed="#H" n="144" break="no"/>spicuitate sententiae consistit, quemadmodum dicimus, notiorem esse, id 
+      <lb ed="#H" n="145"/>est faciliorem &amp; clariorem sententiam propriam, quam figuratam; sed  
+      <lb ed="#H" n="146"/>de notitia veritatis rerum, quae in eo posita est, ut quis intelligat id quod  
+      <lb ed="#H" n="147"/>dicitur esse verum: Ita Patres sententias suas Scripturarum testimoniis, 
+      <lb ed="#H" n="148"/>confirmare, quia notius est verum esse, quod in Scripturis habetur, quam 
+      <lb ed="#H" n="149"/>quod habetur in Patribus: &amp; tamen eosdem Patres commentarus suis 
+      <lb ed="#H" n="150"/>Scripturas illustrare, quia verba Scripturae sint obscuriora, quam verba 
+      <lb ed="#H" n="151"/>Patrum 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1448">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>REPLICATIO nostra. Negatur restrictio: nam regula haec: 
+      <lb ed="#H" n="153"/>Minus notum ex magis noto probandum est, quia propositio major 
+      <lb ed="#H" n="154"/>probatur est vera sive eam de utravis notitia, sive de utraque acceperis, 
+      <lb ed="#H" n="155"/>ac proinde &amp; argumentatio ipsa. Nam quod divinam ac perfectam 
+      <lb ed="#H" n="156"/>in se claritatem habet verborum seu sententiarum, &amp; rerum, id per se 
+      <lb ed="#H" n="157"/>clarius est &amp; notius humano &amp; imperfecto, ut fons purus clarior est 
+      <lb ed="#H" n="158"/>rivis ex eo ductis. Scriptura sacra divinam ac perfectam in se 
+      clarita<lb ed="#H" n="159" break="no"/>tem habet verborum seu sententiarum, &amp; rerum: Est igitur per se 
+      <lb ed="#H" n="160"/>clarior &amp; notior omnibus humanis &amp; imperfectis scriptis. At nobis 
+      <lb ed="#H" n="161"/>dixerit quispiam, non est peraeque clara ac nota. Certe: nam homo, 
+      <lb ed="#H" n="162"/>quum natura sit animalis, non est capax eorum quae sunt Spiritus Dei 
+      <lb ed="#H" n="163"/>quumque sit natura caecus in rebus divinis, lucem Spiritus sancti in 
+      il<lb ed="#H" n="164" break="no"/>lis splendentem non videt, sicut caeco a nativitate lux solis non est 
+      cla<lb ed="#H" n="165" break="no"/>ra ac nota, sed num propterea lux Solis est obscura? Regenerato 
+      au<lb ed="#H" n="166" break="no"/>tem homini &amp; nacto illuminatos mentis oculos per Spiritum 
+      San<lb ed="#H" n="167" break="no"/>ctum clara atque nota sit Scriptura divina. Quum vero regeneratio 
+      <lb ed="#H" n="168"/>it imperfecta in hac vita &amp; sua incrementa successiva habeat, ideo 
+      <lb ed="#H" n="169"/>mirum non est, si homo id, quod divino modo perfectum est &amp; 
+      qui<lb ed="#H" n="170" break="no"/>dem perfectione supra naturam facultatesqu naturalis hominis, qua 
+      <lb ed="#H" n="171"/>se est mysterium salutis in Scriptura revelatum, non iliico capit, &amp;s 
+      <lb ed="#H" n="172"/>quid inde capit, id isec perfecte m se, nec modo perfecto capit, sed 
+      pro<lb ed="#H" n="173" break="no"/>suo modulo imperfectis &amp; proportionatis ipsi (ut loquuntur) 
+      medi<lb ed="#H" n="174" break="no"/>is. Hujusmodi autem media humana sunt, quum ea illustravit &amp; 
+      dis<lb ed="#H" n="175" break="no"/>posuit Deus: &amp; in hoc numero sunt sanctorum hominum &amp; 
+      orthodo<lb ed="#H" n="176" break="no"/>xorum Patrum commentaria. Sequentia Bellarmini nihil ad rem¬ 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1507">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Tertia ratio: Scriptura S olim sine commentariis Patrum 
+      lege<lb ed="#H" n="178" break="no"/>batur &amp; intelligebatur a fidelibus; Ergo perspicue tradit doctrinam 
+      <lb ed="#H" n="179"/>fidei &amp; bonorum operum. 
+      <!--cod-MkL9py-0123.xml-->
+      <pb ed="#H" n="96"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Antecedens confirmatur exemplo Boeroensium, quos scrutatos 
+      est<lb ed="#H" n="2" break="no"/>se &amp; intellexisse Scripturas Lucas Actor. 17. 11. testatur, 
+      commenta<lb ed="#H" n="3" break="no"/>riorum nulla facta mentione. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1531">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Bellarminus in hac nostra ratione referenda aliud ab hac 
+      contro<lb ed="#H" n="5" break="no"/>versia consequens nobis affingit, nempe, non opus esse Patrum 
+      com<lb ed="#H" n="6" break="no"/>mentariis: &amp; simpliciter accipit quod a Luthero secundum quid 
+      di<lb ed="#H" n="7" break="no"/>ctum est de commentariis, qua de re sequenti capite dicendi locus e 
+      <lb ed="#H" n="8"/>rit.  
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1547">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>Quarta: Si Scriptura non tradit aperte, clare &amp; perspicue omnia 
+      <lb ed="#H" n="10"/>quae continent fidem moresque vivendi, tum Spiritus sanctus aut non 
+      <lb ed="#H" n="11"/>potuit apertius scribere, aut noluit. Non potuisse nemo dicet: 
+      nolu<lb ed="#H" n="12" break="no"/>isse pugnat cum scribendi fine, quia quaecunque scripta sunt, ad nostram 
+      <lb ed="#H" n="13"/>doctrinam scripta sunt, teste Paulo Rom. 15. 4. Ergo Scriptura tradit 
+      <lb ed="#H" n="14"/>perspicne omnia ad salutem necessaria. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1565">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Quinta: Scripturam jubemur legere, ut inde veritatem salvificam 
+      <lb ed="#H" n="16"/>cognoscamus. Joh. 5. Scrutamini Scripturas, quia vos videmini vobis in 
+      <lb ed="#H" n="17"/>ipsis vitam aeterna habere: &amp; illae sunt quae testantur de me. Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1577">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Sexta: Scriptura est regula fidei &amp; bonorum operum: At regula 
+      <lb ed="#H" n="19"/>est clarior &amp; notior regulato. Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1586">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Septima: Scripturae intellectus a Deo fidelibus promissus est, &amp; 
+      <lb ed="#H" n="21"/>datur Jeremiae 31. v. 34. Non autem solum docebunt amplius quisque 
+      <lb ed="#H" n="22"/>imicum suum &amp; quisque fratrem suum, dicendo; cognoscite Iehovam, 
+      <lb ed="#H" n="23"/>nam quotquot erunt cognoscent me a minimo eorum usque ad maximum 
+      <lb ed="#H" n="24"/>eorum, dictum Iehova, me condonare iniquitatem ipsorum, &amp; peccat 
+      <lb ed="#H" n="25"/>ipserum non rocordari amplius. Luc 8. v. 10. Vobis datum est nosse 
+      my<lb ed="#H" n="26" break="no"/>steria regni Dei: reliquis autem per parabolas loquor, ut videntes non 
+      <lb ed="#H" n="27"/>videant, &amp; audientes non intelligant. 1, Cor. 2. v. ult. Quis enim 
+      novit<lb ed="#H" n="28" break="no"/>mentem Domini, qui instructurus sit eum? nos autem mentem Christ. 
+      <lb ed="#H" n="29"/>habemus. 2. Cor. 4. vers. 6. Qoniam Deus, qui dixit ut e tenebris 
+      lu<lb ed="#H" n="30" break="no"/>splendesceret, is est qui splenduit in cordibus nostris, ad praebendam lucen 
+      <lb ed="#H" n="31"/>notitiae gloria Dei in facie Iesu Christi. Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1617">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Octava: Scriptura etiam a plebejis intelligitur, ut docet exemplum 
+      <lb ed="#H" n="33"/>Berocensium, Act. 17. 11. exempla item tot Ecclesiarum ad quas 
+      Epi<lb ed="#H" n="34" break="no"/>stolae ab Apostolis sunt exaratae. Nam Apostolos misisse epistolas 
+      <lb ed="#H" n="35"/>quas ii ad quos scriptae &amp; missae etant, non intelligerent, absurdissi¬ 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1630">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>um. Ergo, &amp;c. 
+      <lb ed="#H" n="37"/>Nona: Scriptura potest sapientem reddere hominem ad salutem 
+      <lb ed="#H" n="38"/>&amp;c. 2. Tim. 3. 15, 16, 17. Ergo perspicue tradit doctrinam ad salutem 
+      <lb ed="#H" n="39"/>hobis scitu necessariam. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1643">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Decima: Si Scriptura S. non tradit perspicue omnia quae nobis ad 
+      <lb ed="#H" n="41"/>salutem scitu sunt necessatia, sed est ambigua, obscura &amp; caliginosa 
+      <lb ed="#H" n="42"/>tum multa inde absurda sequuntur, sive autorem Scripturae S. sive 
+      <lb ed="#H" n="43"/>ipsam, sive sacros scriptores, sive Ecclesiam spectes. Qui enim 
+      Scri<lb ed="#H" n="44" break="no"/>pturae tribuunt obscuritatem tenebriones, maligne accusant Deum; 
+      <lb ed="#H" n="45"/>qui nobis Testamentum obscurum dederit, quasi haeredibus lites 
+      se<lb ed="#H" n="46" break="no"/>rere voluisset: accusant Lucem illam veram, Lumen de lumine, 
+      qua<lb ed="#H" n="47" break="no"/>si mentibus hominum tenebras offundere voluerit, quas illustratur  
+      <lb ed="#H" n="48"/>venerat: Spiritum S. Scripturae inspiratorem, in λόgιαν quendam 
+      A<lb ed="#H" n="49" break="no"/>pollinem, &amp; ambiguitatibus &amp; obscuritatibus hominibus illudem 
+      <lb ed="#H" n="50"/>tem, oracula Scripturae, in insidiosa &amp; αμφιζολα χρήσμωδημαζα, a 
+      <lb ed="#H" n="51"/>manuenses Spiritus S. in vafros praestigiososque χοnσμολόγuς; 
+      Eccle<lb ed="#H" n="52" break="no"/>siam Dei, in qua Scriptura S. legitur &amp; in pretio est, in Ethnicum 
+      <lb ed="#H" n="53"/>quoddam χρνστήριον, vel opacum quendam &amp; horridum lucum, lucis 
+      <lb ed="#H" n="54"/>expertem, non sine horrenda blasphemia transformant  
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1680">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Fixum igitur firmumque esto, Scripturam sacram veluti Solem 
+      <lb ed="#H" n="56"/>quendam spiritualem semper claram &amp; perspicuam in se esse, &amp; 
+      aper<lb ed="#H" n="57" break="no"/>te tradere totam doctrinam ad salutem nobis cognitu necessa riam? 
+      <lb ed="#H" n="58"/>eandem etiam claram &amp; perspicuam esse iis quorum oculi mentis 
+      in<lb ed="#H" n="59" break="no"/>ternum luce Spiritus sancti sunt illuminat  
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1697">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>Confirmatur idem testimoniis Patrum orthodoxorum, quae 
+      vi<lb ed="#H" n="61" break="no"/>leantur in Symphonia nostra Catholica cap. primo, Thesi quarta: 
+      qui<lb ed="#H" n="62" break="no"/>bus addantur &amp; ista. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1708">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>AUGUSTINUS septimo tomo, libro de peccatorum meritis &amp; 
+      <lb ed="#H" n="64"/>remissione contra Pelagianos, cap. quarto allegans sententiam 
+      quan<lb ed="#H" n="65" break="no"/>dam Pauli ex capite octavo ad Romanos ait; Puto quod non 
+      exposito<lb ed="#H" n="66" break="no"/>re, sed tantum lectore opus habet tam clara &amp; aperta sententia. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1721">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Et nono tomo, tractatu quinquagesimo in Evangelium Johannis: 
+      <lb ed="#H" n="68"/>Quaedam in Scripturis tam manifesta sunt; ut potius auditorem, quam 
+      <lb ed="#H" n="69"/>expositorem desiderent. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1732">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>THEODORETUS in argumento Prophetae Ezechielis: Ubie 
+      <lb ed="#H" n="71"/>(nempe menti hominis) offusa est caligo, idem, quod oculi corporis, ipsa 
+      <lb ed="#H" n="72"/>sustinet, &amp; alia pro alijs intuetur, vel turbatione superante victa nihili 
+      <lb ed="#H" n="73"/>omnino videt. In istiusmodi morbum collapsi quidam Scripturam 
+      accu<lb ed="#H" n="74" break="no"/>sare aggressi sunt, &amp; praecipue Prophetarum oracula, veluti obscuritate 
+      <lb ed="#H" n="75"/>operta: contra quos merno D. Paulus dixerit, Quod si opertum est Ev 
+      <lb ed="#H" n="76"/>angelium nostrum, inijs qui pereunt est opertum: sapientiam enim 
+      lo<lb ed="#H" n="77" break="no"/>quimur inter perfectos: &amp; his ea quoque consentiunt, quae a Domino &amp; 
+      <lb ed="#H" n="78"/>Salvatore nostro Sanctis Apostolis dicta sunt, Vobis datum est, inquit  
+      <lb ed="#H" n="79"/>nosse mysteria regni, illis autem non est datum, causamque docens statim 
+      <lb ed="#H" n="80"/>subjicit, ut videntes non videant, &amp; audientes non intelligant: ipsi enim 
+      <lb ed="#H" n="81"/>voluntarias, inquit, ad se inscitiae tenebras attrahunt. Nam si conversi 
+      <lb ed="#H" n="82"/>fuerint ad Dominum, sicut autor est Divus Apostolus, auferetur vela 
+      <lb ed="#H" n="83"/>men: non omnibus igitur divina obscura sunt, sed uoluntaria caecitate. 
+      <lb ed="#H" n="84"/>laborantibus. Et aliquanto post: Nemo igitur ex iis praesertim qui 
+      sum<lb ed="#H" n="85" break="no"/>pietatis alumni, in divinum Spiritum audacter invectus ejus orationes. 
+      <lb ed="#H" n="86"/>condemnet obscuritatis 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1774">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>GREGORIUS MAGNUS Romanus Pontifex, primo 
+      tomo<lb ed="#H" n="88" break="no"/>homilia decima- septima super Ezechielem: Multa in illa (nempo 
+      <lb ed="#H" n="89"/>Scriptura S. Jua aperta sunt ut pascant parvulos: quaedam veo 
+      obscu<lb ed="#H" n="90" break="no"/>rioribus sententiis ut exerceant fortes. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1787">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>AUGUSTINUS tertio tomo, libro secundo de doctrina 
+      Chri<lb ed="#H" n="92" break="no"/>stiana, cap. sexto: Magnisite &amp; salubriter Spiritus sanctus ita Scriptu¬ 
+      <!--cod-MkL9py-0123.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>ras modificavit, ut locis apertioribus fami occurreret, obscurioribus 
+      au<lb ed="#H" n="94" break="no"/>tem fastidia detergeret, nihil enim fere de illis obscuritatibus eruit, quod 
+      <lb ed="#H" n="95"/>non planissime dictum alibi reperiatur 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1808">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Ad hoc testimonium Augustini excipit Bellarminus in hunc 
+      mo<lb ed="#H" n="97" break="no"/>dum: RESPONDEO, non frustra B. Augustinum addidisse illud 
+      <lb ed="#H" n="98"/>Fere: nam quaedam reperiuntur obscurissima, quae nunqaam in 
+      tota<lb ed="#H" n="99" break="no"/>Scriptura explicantur, ut magna pars Apocalypsis, principium &amp; 
+      finis<lb ed="#H" n="100" break="no"/>Ezechielis, &amp;c. Deinde hoc ipsum est valde difficile, invenire nimirum 
+      <lb ed="#H" n="101"/>id, quod uno loco obscurissime dicitur, ubinam aperte dicatur, alioqui  
+      <lb ed="#H" n="102"/>quomodo diceret idem Augustinus in epist. 119. cap. 21. se plura nescire, 
+      <lb ed="#H" n="103"/>quam scire in sacris literis? Quid, quod illa etiaem loca, quae nobis 
+      viden<lb ed="#H" n="104" break="no"/>tur apertissima, alicui alteri obscura forte videbuntur? Non igitur 
+      Scri<lb ed="#H" n="105" break="no"/>ptura sola sufficit dirimere controversias. Certe illa verba Matth. 26. 
+      <lb ed="#H" n="106"/>Hoc est corpus meum, videntur nobis tam clara, ut non potuerit 
+      cla<lb ed="#H" n="107" break="no"/>rius lequi Evangelista: at Zuvinglianis videntur obscura &amp; figurata. 
+      <lb ed="#H" n="108"/>Et illa ibidem: Bibite ex hocomnes, videntur clarissima, &amp; nobis, &amp; 
+      <lb ed="#H" n="109"/>Lutheranis: &amp; tamen diversissime explicantur. Nos enim cum 
+      lega<lb ed="#H" n="110" break="no"/>mus Marc. 14. Et biberunt ex eo omnes, quod de duodecim discipulis 
+      <lb ed="#H" n="111"/>intelligitur, Scripturam per Scripturam interpretantes, dicimus 
+      Domi<lb ed="#H" n="112" break="no"/>num duodecim discipulis dixisse: Bi bite ex hoc omnes. BRENTIUS 
+      <lb ed="#H" n="113"/>vero in suis illis prolegomenis dicit clarissime, hic praecipi non solum 
+      Apo<lb ed="#H" n="114" break="no"/>stolis, sed etiam aliis omnibus, ut ex calice Domini bibant. Et cum 
+      peti<lb ed="#H" n="115" break="no"/>mus, an etiam Turcae, &amp; Iudeai, &amp; infantes bibere debeant? tum vero 
+      <lb ed="#H" n="116"/>idjiciunt glossam, Omnes, id est, omnes fideles adulti 
+      <lb ed="#H" n="117"/>Hactenus Bellarminus. REPLICATIO nostra. Primo falsa est 
+      <lb ed="#H" n="118"/>Bellarmini resttictio: nam Augustinus de dogmatibus Christianis 
+      <lb ed="#H" n="119"/>agit in loco allegato, non de visionibus Propheticis. Seipsum vero 
+      fa<lb ed="#H" n="120" break="no"/>cis explicat, capite nono ejusdem libri, cum ait; In his quae aperte i1 
+      <lb ed="#H" n="121"/>Scriptura posita sunt, inveniuntur illa OMNIA quae continent fident 
+      <lb ed="#H" n="122"/>moresque vivendi. Quum ergo utitur particula fere capite sexto, hoc  
+      <lb ed="#H" n="123"/>tantum ostendit, etsi quaedam nobis in hac vita sint obscura, qualia 
+      <lb ed="#H" n="124"/>esse nonnulla fatemur quae ad salutem aeternam scitu non sunt 
+      neces<lb ed="#H" n="125" break="no"/>saria: tamen OMNIA quae sunt necessaria ad salutem aperte in 
+      scri<lb ed="#H" n="126" break="no"/>turis inveniri. Secundo negatur esse difficile quod uno loco obscure 
+      <lb ed="#H" n="127"/>dicitur, in altero aperte explicatum invenire, siquidem logentes 
+      no<lb ed="#H" n="128" break="no"/>lint esse negligentes &amp; scripturae loca inter se conferant. Te. to, quum 
+      <lb ed="#H" n="129"/>Augustinus dicit, se plura nescite, quam scire in sacris literis, loquitu 
+      <lb ed="#H" n="130"/>de rebus coelestibus in Scriptura perspicue traditis, &amp; infirma sui in 
+      <lb ed="#H" n="131"/>genii humani acie ad eas pervidendas: quis fidelium hoc de se negare 
+      <lb ed="#H" n="132"/>audeat? at non propterea Scriptura obscura est. Quarto, quod 
+      Bellar<lb ed="#H" n="133" break="no"/>minus ratiocinatur, eo quod loca nobis apertissima, alicui alteri ob 
+      <lb ed="#H" n="134"/>scura videri forte possint, ideo Scripturam solam non sufficere ad 
+      di<lb ed="#H" n="135" break="no"/>rimendas controversias: in eo fallere conatur ex accidente &amp; ex 
+      par<lb ed="#H" n="136" break="no"/>ticulari. Nam vitio hominis sit si loca apertissima sint alicui 
+      obscura<lb ed="#H" n="137" break="no"/>&amp; hoc particulare tantum est, non universale. Quint o, aliud est 
+      oliscu<lb ed="#H" n="138" break="no"/>rum, aliud figuratum: imo figurae Rhetoricae sunt lumina orationis. 
+      <lb ed="#H" n="139"/>Orthodoxi verba Coenae Dominicae, Hoc est corpus meum, figurata esse 
+      <lb ed="#H" n="140"/>dicunt, non autem obscura. Sexto, quod hoc mandatum Christi, Eic ite 
+      <lb ed="#H" n="141"/>ex hoc omnes, etiam ad laicos Christianos, baptizatos in nomen 
+      Pa<lb ed="#H" n="142" break="no"/>tris &amp; Filii &amp; Spiritus sancti &amp; seipsos probantes, pertinere dicimus, 
+      <lb ed="#H" n="143"/>id colligimus ex interpretatione Apostoli Pauli :. Cor. 11. Septimo, 
+      <lb ed="#H" n="144"/>nostram sententiam orthodoxam, quam oppugnat Bellarminus, ipse  
+      <lb ed="#H" n="145"/>met confirmat, quum ait; Certe illa verba, Matth. 26. Hoc est 
+      cor<lb ed="#H" n="146" break="no"/>pus meum, videntur nobis tam clara, ut non potuerit clarius loqui Ev 
+      <lb ed="#H" n="147"/>angelista. Et illa ibidem: Bibite ex hoc omnes; videntur clarissima &amp; 
+      <lb ed="#H" n="148"/>nobis &amp; Lutheranis. Et passim testimonia Scripturae quae pro se alle 
+      <lb ed="#H" n="149"/>gat, dicit esse clarissima THOMAS AQUINAS in Sum. part. 1.. 
+      <lb ed="#H" n="150"/>1. art. 10. Nihil sub spirituali sensu continetur fidei necessarium, quod 
+      <lb ed="#H" n="151"/>Scriptura per literalem sensum alicubi manifeste non tradat. PETRUS 
+      <lb ed="#H" n="152"/>DEALLIACO Cardin. in 2. Sentent. f. 12. de Novo Testamento ex 
+      <lb ed="#H" n="153"/>usque doctrina loquens, ait: esse rutilantem ut lucernam, quae per 
+      no<lb ed="#H" n="154" break="no"/>cturna hujus mundi silentia lumen commeantibus exhibet, ne pedem 
+      <lb ed="#H" n="155"/>suum ad lapidem erroris exsul homo &amp; peregrinus offendat. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1943">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Sic confirmata est Thesis nostra: nunc adversus 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1950">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>obiectiones Papistarum est defen¬ 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1957">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>denda, 
+      <lb ed="#H" n="159"/>Objectio prima. Scriptura ipsa de sua difficultate atque obscuritate. 
+      <lb ed="#H" n="160"/>testimonium perhibet Psal. 118. Da mihi intellectum, &amp; scrutabor 
+      le<lb ed="#H" n="161" break="no"/>gem tuam. Ibidem: Revela oculos meos, &amp; considerabo mitabilia 
+      <lb ed="#H" n="162"/>de lege tua. Ibidem: Faciem tuam ilumina super servum tuum, &amp; 
+      <lb ed="#H" n="163"/>doce justificationes tuas. Et certe David noverat totam Scripturam, 
+      <lb ed="#H" n="164"/>quae iunc erat, &amp; noverat phrases linguae Hebraicae, nec erat superbus aut 
+      <lb ed="#H" n="165"/>infidelis. Quocirca merito S. Hietonymus in epist. ad Paulinum de 
+      in<lb ed="#H" n="166" break="no"/>stitutione Monachi, tractans haec verba, sic ait; Si tantus Propheta 
+      te<lb ed="#H" n="167" break="no"/>nebras ignorantiae confitetur; qua nos putas parvulos, &amp; pene 
+      la<lb ed="#H" n="168" break="no"/>ctentes inscitiae nocte citcumdari 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e1986">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>RESPONSIO nostra. Enthymema Bellarmini tale est; 
+      Scriptu<lb ed="#H" n="170" break="no"/>ra ipsa de difficultate &amp; obscuritate testatur: Ergo non est perspicua. 
+      <lb ed="#H" n="171"/>Necatur antecedens, &amp; testimonia e Psalmis adducta illud minime 
+      <lb ed="#H" n="172"/>probant. Nam David non loquitur de Scripturae obscuritate, sed sua 
+      <lb ed="#H" n="173"/>mentis tenebras, tum naturales, tum adventitias atque circumstantes a 
+      <lb ed="#H" n="174"/>tenebrarum principo, agnoscens, desiderabat coelestem illam 
+      divini<lb ed="#H" n="175" break="no"/>spiritus lucem suae menti indi &amp; tenebras suas dispelli, quae lux divini 
+      <lb ed="#H" n="176"/>spiritus ad intelligendas salutariter Scriptures est necessaria. Simili 
+      <lb ed="#H" n="177"/>ter Hieronymus non dicit, Davidem confiteri tenebras Scripturae, sed 
+      <lb ed="#H" n="178"/>ignorantiae suae in mente sua haerentis 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e2012">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>Objectio secunda. Luc. 24, 27, 75. Scriptura a Domino exposita. 
+      <lb ed="#H" n="180"/>fuit discipulis, qui certe noverant phrases Hebraicas cum essent Hebraei, 
+      <lb ed="#H" n="181"/>nec erant superbi vel infideles: Ergo non est perspicua. 
+      <!--cod-MkL9py-0124.xml-->
+      <pb ed="#H" n="97"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>RESP. Neg: tur consequentia, quia aliud concluditur, quam 
+      fe<lb ed="#H" n="2" break="no"/>Iatantecedens: hoc enim concludendum erat, Scripturam Sacram 
+      <lb ed="#H" n="3"/>nondum intellectam fuisse a discinulis Christi donec illis 
+      expone<lb ed="#H" n="4" break="no"/>retur. Nondum autem discipuli Christi intelligebant Scripturam, 
+      <lb ed="#H" n="5"/>tum quia &amp; ipsi adhuc laborabant naturali infirmitate, quae non 
+      <lb ed="#H" n="6"/>potest assequi arcana Dei: tum quia adhuc in animis ipsorum 
+      opi<lb ed="#H" n="7" break="no"/>nio de terreno Messiae regno haerebat,  
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e2046">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Objectio tertia. Act. 8. 30, 31. Eunuchus reginae AEthiopum versabatur  
+      <lb ed="#H" n="9"/>in Scripturis, easque diligenter legebat, &amp; sanctus, pius, &amp; humilis erat; &amp; 
+      <lb ed="#H" n="10"/>tamen interrogatus a Philippo an intilligeret quae legeret, respondit; Et 
+      <lb ed="#H" n="11"/>quomodo possim, nisi aliquis ostenderit mihi? Ergo Scriptura Sacre 
+      <lb ed="#H" n="12"/>non est perspicua. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e2062">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>RESP. Non sequitur ex particulari: aliquod oraculum fuit 
+      ob<lb ed="#H" n="14" break="no"/>scurum Eunucho: Ergo Script. 8. communiter seu tota est 
+      obscura<lb ed="#H" n="15" break="no"/>Deindi infirmitas mentis humanae, non comprehendentis lucem 
+      <lb ed="#H" n="16"/>Scripturae Sacrae, sed capientis paulatim modulo suo, non est 
+      im<lb ed="#H" n="17" break="no"/>putanda Scripturae divinae 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e2078">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Objectio quarta, 2. Petr. 3. 15,16. B. Petrus asserit in epistolis Pauli, 
+      <lb ed="#H" n="19"/>esse quaedam difficilia intellectu. Dici: difficilia non indoctis, &amp; 
+      in<lb ed="#H" n="20" break="no"/>stabilib sed absolute Nam B August. qui certe indoctus &amp; instabilis non 
+      <lb ed="#H" n="21"/>erat, libro de fide &amp; operibus, 15. &amp;i6 fatetur, sibi difficillimum esse 
+      in<lb ed="#H" n="22" break="no"/>tellectu locum illum. 1. Cor. 3. v. 12. Si quis autem superaedificat super  
+      <lb ed="#H" n="23"/>fundamentum, &amp;c. &amp; dicit, hunc esse unum ex iuis locis, quae B. Petrus 
+      <lb ed="#H" n="24"/>monuit esse difficilia intellectu 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e2098">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Ergo Sacra Scriptura non est perspicua, sed obscura 
+      <lb ed="#H" n="26"/>RESP. Primo negatur omissa propositio major: In quocunque 
+      sun<lb ed="#H" n="27" break="no"/>quaedum difficilia intellectu, id non est perspicuum in se. Potest aliquiod  
+      <lb ed="#H" n="28"/>esse clarum in se, cujus sensus aliquibus sit difficilis intellectu. 
+      Sic<lb ed="#H" n="29" break="no"/>ut Bellarminis ait, verba Christi, Hoc: st corpus meum esse tam clara 
+      <lb ed="#H" n="30"/>ut non potuerit clarius Evangelista loqui: &amp; tamen sensus eorum 
+      <lb ed="#H" n="31"/>a multis difficulter, a quibusdam nunquam intelligitur. Deinde 
+      <lb ed="#H" n="32"/>assumtio, in Scriptura Sacra esse quaedam difficilia intellectu 
+      con<lb ed="#H" n="33" break="no"/>ceditur a nobis, recte accepta, nimirum si de rebus quas Sacra 
+      Ser<lb ed="#H" n="34" break="no"/>tractat, accipiatur: quo sensu B. Petrus de nonnullis in epistolis 
+      <lb ed="#H" n="35"/>Pauli loquitur. Non enim dicit Petrus, eν ois, in quibus videlicet e 
+      <lb ed="#H" n="36"/>pistolis: sed el ois, in quibus, nimirum πραγμασι, rebus esse quaeda 
+      <lb ed="#H" n="37"/>difficilia intellectu: nam eν obs non refertur ad nomen remotius 
+      i<lb ed="#H" n="38" break="no"/>rιστολαις, quod foemininum est, sed ad proxime praecedens 
+      prono<lb ed="#H" n="39" break="no"/>men τυτυ, nempe ωραγμάτον. Verba Petri quippe sunt: Ds &amp; 
+      o<lb ed="#H" n="40" break="no"/>πασκμς ται ἐπισολαῆς λαλῶν εν αυτῶησ ωοι τκτεον ἐν, ες εσι δυσνοητα τι 
+      <lb ed="#H" n="41"/>vae. Petri ergo sententia est; in rebus, de quibus in epistolis suis 
+      Pau<lb ed="#H" n="42" break="no"/>sus loquitur, esse quaedam difficilia intellectu: in quibus rebus 
+      et<lb ed="#H" n="43" break="no"/>iam est extremus mundi dies, &amp; adventus Christi gloriosus &amp; quae 
+      <lb ed="#H" n="44"/>in illo fient: de his enim Petrus agit hoc in loco. Esse autem in iis 
+      <lb ed="#H" n="45"/>de quibus Scriptura agit quaedam δυσvonia, difficilia intellectu, 
+      mi<lb ed="#H" n="46" break="no"/>nime dissimulamus, sed ultro profitemur, idque tum Petri Apostoli 
+      <lb ed="#H" n="47"/>monitu, tum experientiae sensu edocti 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e2153">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Operae pretium autem est considerate causas tum efficientes tum 
+      <lb ed="#H" n="49"/>finales; cur nonnulla sint difficilia intel. ectu in iis de quibus Ser.Sa 
+      <lb ed="#H" n="50"/>tra docet. Effi. ienies causae sunt duae: prima est a rebus de quibus 
+      a<lb ed="#H" n="51" break="no"/>itur, quae natura sua intellectu difficiles sunt aut propter 
+      obsct<lb ed="#H" n="52" break="no"/>itatem suam ut res futurae, aut propter majestatem excellentiaque 
+      <lb ed="#H" n="53"/>suam, ut mysterium Sacrosanctae Triados, mysterium unionis 
+      per<lb ed="#H" n="54" break="no"/>onalis duarum naturarum in Christo. Quid Sole clarius: quid 
+      ve<lb ed="#H" n="55" break="no"/>ro difficilius aspectumam hebescit acies oculorum nostrorum 
+      clari<lb ed="#H" n="56" break="no"/>tate radiorum illius. Dogmatum quae in Scriptura Sacra tradum 
+      <lb ed="#H" n="57"/>tur, alia habent difficultatem credendi, alia non habent. Difficul 
+      <lb ed="#H" n="58"/>tatem credendi habent, quae remotiora sunt a naturae luce, 
+      ratio<lb ed="#H" n="59" break="no"/>ne &amp; sensu. Ut Deum esse trinum personis in unitate essentiae: Filium Dei, 
+      <lb ed="#H" n="60"/>esse incarnatum: Christum esse verum Deum &amp; verum hominem in una 
+      <lb ed="#H" n="61"/>persona &amp; distinctis duabus naturis: Virginem peperesse: Christam: 
+      esur<lb ed="#H" n="62" break="no"/>rexisse ex mortuis tertio die: Christum adscendisse ad coelum: Multes 
+      vo<lb ed="#H" n="63" break="no"/>catos, paucos electos esse. Peccatores just, ficari apud Deum fide, non 
+      operi<lb ed="#H" n="64" break="no"/>bus: Omnes mortuos resurrecturos ex pulvere terrae, &amp;c. Non habent  
+      <lb ed="#H" n="65"/>difficultatem credendi, quae patent naturae luce vel sensu: Ut esse 
+      <lb ed="#H" n="66"/>Deum, esse unum, sse ommpotentem, sap entem, optimum, causam 
+      boni<lb ed="#H" n="67" break="no"/>justum, Christum esse passum, mortuum, sepultum, &amp;c. altera causa 
+      effi<lb ed="#H" n="68" break="no"/>tiens est ab hominibus percipientibus: nam homo vetus seu 
+      ani<lb ed="#H" n="69" break="no"/>malis non potest capere ea quae sunt Spiritus Dei novus intantum 
+      <lb ed="#H" n="70"/>capit, inquatum renovatus est, id est, inchoatione &amp; ex parte. 
+      Cau<lb ed="#H" n="71" break="no"/>sas fina ei, cur nonnulla difficilia intellectu traderet Deus, gravissi 
+      <lb ed="#H" n="72"/>mas habuit: nempe ut arcanorum suorum magnitudinem &amp; digi 
+      <lb ed="#H" n="73"/>gnitatem commendaret: nativam nostram ignorantiam demon 
+      <lb ed="#H" n="74"/>straret: veternum in rerum divinarum cognitione animis excute 
+      <lb ed="#H" n="75"/>ret, religiosum studium cognoscendi res illas quae ignorari non 
+      <lb ed="#H" n="76"/>possunt sine crimine, &amp; investigari possunt sine discrimine 
+      intra<lb ed="#H" n="77" break="no"/>patefactae veritatis limites pie subsistendo, in nobis excitaret: 
+      fasti<lb ed="#H" n="78" break="no"/>asiu Scripturam legendi audiendive abstergeret praesumtionem 
+      <lb ed="#H" n="79"/>cadeptae perfectae scientiae adimeret, ut semper quide Deus doceat,  
+      <lb ed="#H" n="80"/>homo aut semper discat quae sunt a Deo: a nugis nos ad haec seria 
+      <lb ed="#H" n="81"/>revncaret: admirationem Scripturarum in animis nostris excitaret, 
+      <lb ed="#H" n="82"/>ne nobis illae vilescerent  fieret si omnia facile a nobis intellige 
+      <lb ed="#H" n="83"/>centur: inprimisque ut ardorem nostrum in orando diligentiam in 
+      <lb ed="#H" n="84"/>legendo, humilitatem in meditando excitaret atque acueret. Hacto 
+      <lb ed="#H" n="85"/>mus igitur nonnulla difficilia intellectu in iis quae S. S. tradit esse 
+      <lb ed="#H" n="86"/>scimus &amp; ultro fatemur. Si vero a Scripturas. difsicultate esse statur 
+      <lb ed="#H" n="87"/>atur, negamus: Screnim S est clara &amp; illuminat oculos mentis, 
+      ne<lb ed="#H" n="88" break="no"/>habet obscuritatem a se &amp; in se ullam: utut nobis nonnulla 
+      obscu<lb ed="#H" n="89" break="no"/>ra sint ob rerum altitudinem &amp; nostram infirmitatem. Tertio, 
+      Au<lb ed="#H" n="90" break="no"/>gustin locum 1. Cor. 3. 12. etsi difficilem esse dicit, tamen non dicit 
+      <lb ed="#H" n="91"/>esse ex iis quos innuit Petrus. Male autem Bedarminus 
+      argumen<lb ed="#H" n="92" break="no"/>tatur, quocunque modo ex hoc loco argumentetur. Nam si ita col¬ 
+      <!--cod-MkL9py-0124.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>igat: Locus est difficilis Augustino, absolute igitur difficilis; Falsum 
+      col<lb ed="#H" n="94" break="no"/>igit ob processum a dicto secundum quid ad dictum simplicitera 
+      <lb ed="#H" n="95"/>in vero hoc modo; Locus est difficilis, Ergo Scriptura Sacra difficilis, 
+      <lb ed="#H" n="96"/>Non valet argumentatio a parte integrali &amp; quae minime 
+      princi<lb ed="#H" n="97" break="no"/>palis est, ad totum. Non enim quicquid de parte integrali dicitur,  
+      <lb ed="#H" n="98"/>etiam de toto integrali dici potest. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e2273">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Objectio 5. Communis sensus veterum Patrum ostendit, 
+      Scriptu<lb ed="#H" n="100" break="no"/>ram esse obscuram &amp; difficilem intellectu Ergo non est perspicua. 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e2283">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>RESp. Testimonia impertinentia nihil probant. Patrum autem 
+      <lb ed="#H" n="102"/>testimonia quae Bellarminus &amp; alii Papistae adducunt, sunt 
+      imper<lb ed="#H" n="103" break="no"/>tinentia. Papistae enim simpliciter affirmant Ser. Sacram esse 
+      ob<lb ed="#H" n="104" break="no"/>scurissimam; at Patres quum dicunt, Scripturam multis in locis 
+      es<lb ed="#H" n="105" break="no"/>se difficilem &amp; obscuram, χετοη id intelligunt, nempe quod 
+      ob<lb ed="#H" n="106" break="no"/>scura sit nobis ob rerum divinarum excellentiam &amp; nostram 
+      infir<lb ed="#H" n="107" break="no"/>mitatem, &amp; difficilis intellectu, non sua obscuritate, sed rerum de 
+      <lb ed="#H" n="108"/>quibus agit respectu, quae nec sua natura nobis notae nec nobis 
+      <lb ed="#H" n="109"/>pervestigabiles sum 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e2307">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Objectio sexta. Si in Scripturis duo considerari possunt; RES, quae 
+      di<lb ed="#H" n="111" break="no"/>cuntur, &amp; MoDUS quo dicuntur, utriusque autem ratione obscura sunt; 
+      <lb ed="#H" n="112"/>um illae sunt obscu issimae. Verum est quisquid antecedit: Ergo &amp; quod 
+      <lb ed="#H" n="113"/>sequitur. Assumtio probatur a Bellarm, hoc modo: Si res consideret 
+      <lb ed="#H" n="114"/>necessario fatendum est, ocripturas esse obscurissimas. Si quidem iradunt 
+      <lb ed="#H" n="115"/>summa mysteria, de divina Trinitate, de incarnatione verbi, de 
+      Sacrame<lb ed="#H" n="116" break="no"/>tis coelestibus, denatura Angelorum, de operatione Dei in mentihus 
+      nu<lb ed="#H" n="117" break="no"/>manis, de aeterna praedestinatione ac reprobatione, deque aliis rebus arcanis, 
+      <lb ed="#H" n="118"/>&amp; supernaturalibus, quae non sine magno studio &amp; labore, nec sine 
+      gra<lb ed="#H" n="119" break="no"/>vissimi erroris periculo investigantur. Certe si scientia Metaphysicorum 
+      <lb ed="#H" n="120"/>difficilior, atque obscurior est omnibus aliis naturalib. disciplinis, quia 
+      cau<lb ed="#H" n="121" break="no"/>sas altissimus tractat, quomodo non obscur:ssima erit Saera Scriptura, quae 
+      <lb ed="#H" n="122"/>de ribus longe alt. oribus agit? Quia, quod magna pars Scripturae vaticinia 
+      <lb ed="#H" n="123"/>continet de rebus futuris, &amp; vaticinia carmine scripta; quibus certe nihil 
+      <lb ed="#H" n="124"/>fficilius, nihil obscurius 
+      <lb ed="#H" n="125"/>Si vero modum dicendi consideremus, inveniemus innumerabiles 
+      ra<lb ed="#H" n="126" break="no"/>tiones difficultatis PLIMo, sunt in Scripturis plurimae, quae prima fronte 
+      <lb ed="#H" n="127"/>videntur contraria, ut idud Exod. 20. Ego Deus gzelotes visitans 
+      pec<lb ed="#H" n="128" break="no"/>cata patrum in filios, in tertiam &amp; quartam generationem. Et illud 
+      <lb ed="#H" n="129"/>Ezech. 18. Filius non portabit iniquitatem patris, sed anima quae 
+      <lb ed="#H" n="130"/>peccaverit, ipsa morietur. SECUNDO, sunt verba &amp; orationes 
+      ambi<lb ed="#H" n="131" break="no"/>quae, ut Joh. 8. v. 25. pe- entibus Iudaeis. Tu quis es: Respondit Christus 
+      <lb ed="#H" n="132"/>Principium, qui &amp; loquor vobis. Mire erum terquent hic se omnes 
+      in<lb ed="#H" n="133" break="no"/>terpretes, nec auhucicitur, quid iliud sit; Principium qui, &amp; in Graeco 
+      <lb ed="#H" n="134"/>adhuc est res obscurior, ubi, Principium, est accusas iv cosus τὸν Xξχμ. 
+      <lb ed="#H" n="135"/>TERTIO, sunt orationes imperfectae ut Rom. 5 v12 Sicut per unum 
+      ho<lb ed="#H" n="136" break="no"/>minem peccatum intravit in mundum, &amp; per peccatum mors, &amp; 
+      <lb ed="#H" n="137"/>&amp; ita in omnes homines mors transiit, in quo omne peccaverum. 
+      <lb ed="#H" n="138"/>&amp; quae sequuntur, ubiin tota periodo non est verbum principale QUA 
+      R<lb ed="#H" n="139" break="no"/>T0, sunt orationes praeposterae, ut Gen. 10. Isti sunt filii Sem secundum 
+      <lb ed="#H" n="140"/>cognationes &amp; linguas, &amp; regiones in gentibus suis. Nam cunt uo 
+      se<lb ed="#H" n="141" break="no"/>quicur initeo ca pitis i1 Erat autem terra labii unius, &amp; sermonum 
+      eo<lb ed="#H" n="142" break="no"/>cundem. QuiNro sunt phrases propriae Hebraeor, ut Ps.8E. Thronus 
+      e<lb ed="#H" n="143" break="no"/>jus sicut dies coeli, item 118. Anima mea in manib.meis semper, &amp; a 
+      <lb ed="#H" n="144"/>vae permul.ae Sexrὸ, sunt orationes figuratae plurimo, Tropi, metaphorae, 
+      <lb ed="#H" n="145"/>Allrgo vae,. hyperbata, Ironiae &amp; alia id genus, sine ullo numero 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e2390">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>RESP. I. in distributione eorum, quae in Scripturis considerantur,  
+      <lb ed="#H" n="147"/>omittitur a Bellarm, tertium, nimirum hominum Scripturas 
+      legen<lb ed="#H" n="148" break="no"/>tium aut audientium naturalis insufficientia &amp; infirmitas ad 
+      intelli<lb ed="#H" n="149" break="no"/>gendum &amp; credendum coelestia. I. rerum altissimarum &amp; a naturali 
+      <lb ed="#H" n="150"/>cognitione remotarum ratione, Scriptura est difficilis &amp; obscura 
+      <lb ed="#H" n="151"/>nobis. Non sequitur autem, Nobis est a fueris &amp; obscura: Ergo in s&amp; 
+      <lb ed="#H" n="152"/>per se est talis. III. difficultas ratione modi dicendi quo res divinae 
+      <lb ed="#H" n="153"/>exponuntur, est accidentaria, cripturae, non essentialis illi. 
+      Sophisti<lb ed="#H" n="154" break="no"/>cum est ab eo quod per accidens est, colligere aliquid quod per s 
+      <lb ed="#H" n="155"/>intelligitur. IV. rationes difficultatis ex modo dicendi quo 
+      Scri<lb ed="#H" n="156" break="no"/>ptura utitur, partim ambiguae, partim ineptae ad probandum. Nam 
+      <lb ed="#H" n="157"/>nitioquae in cripturis prima fronte videntur contraria, videntur 
+      <lb ed="#H" n="158"/>nobis, non sunt revera: ergo respectu nostri difficultate habent, qvi  
+      <lb ed="#H" n="159"/>in se clara &amp; facilia sint. Deinde voces &amp; orationes in (criptura 
+      oc<lb ed="#H" n="160" break="no"/>currunt ambiguae, non respectu Dei qui illas dictavit, nec respectu 
+      <lb ed="#H" n="161"/>cripturae, quae est vox Dei, sed respectu hominum non assequentium 
+      <lb ed="#H" n="162"/>vel non investigantium sensum Dei in Scriptura loquentis: sic ut am¬ 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e2432">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>biguitas illa non sit in Scriptura, sed in animo hominis. Quod ad 
+      <lb ed="#H" n="164"/>locum Ioh. 8. 25. attinet, ambiguus est ex Latina versione; in 
+      textu<lb ed="#H" n="165" break="no"/>Graeco nulla est ambiguitas, quam Syntaxis removet; τυν αρχυοο, τῳ 
+      <lb ed="#H" n="166"/>μον λαλῳ υμιν. Nam primo est ellipsis verbi substantivi eigi, sum, o 
+      <lb ed="#H" n="167"/>ex praecedente interrogatione necessario subintelligitur: de nde 
+      <lb ed="#H" n="168"/>accusativus τυν ορχιν consuetudineGraecorum ponitur per enale 
+      <lb ed="#H" n="169"/>cagen loco adverbii quod convenit verbo λακα, ô τι non est 
+      con<lb ed="#H" n="170" break="no"/>unctio sed pronomen, idque non masculinum, sed neutrum: &amp; 
+      or<lb ed="#H" n="171" break="no"/>dinari secundum Syntaxin verba sic debent: Sum id quod amine: 
+      pio<lb ed="#H" n="172" break="no"/>nico vobis Sententia autem est: Sum Christus &amp; Salvator ille 
+      mun<lb ed="#H" n="173" break="no"/>di, quod &amp; a principio dixi vobis, quod &amp; jam pridem toties &amp; tot 
+      <lb ed="#H" n="174"/>modis vobis inculco, concionibus &amp; operibus meis. Praeterea 
+      ora<lb ed="#H" n="175" break="no"/>iones imperfectae extra usum loquendi in : criptura non sunt: &amp; 
+      <lb ed="#H" n="176"/>Rom. 5. v. 12. non est imperfecta oratio, sed hyperbatica, quod 
+      ho<lb ed="#H" n="177" break="no"/>minem Grammaticum videre oportuit. adios non omnes 
+      oraito<lb ed="#H" n="178" break="no"/>nes praeposterae, id est, in quibus ordo naturae vel temporis non 
+      ob<lb ed="#H" n="179" break="no"/>servatur, sunt vitiosae: non enim est praeposterum, si post factum 
+      <lb ed="#H" n="180"/>narretur causa ipsius, ut sit Genes 10. &amp; 11, &amp; passim: Insepir phrases 
+      <lb ed="#H" n="181"/>propriae Hebraeorum non tam dfficiles sunt, quin a lectore vel 
+      au<lb ed="#H" n="182" break="no"/>ditore attento intelligi possint. Deique orationes figuratae non 
+      <lb ed="#H" n="183"/>adhibentur in Scriptura ad obscurandam illam, nec offundunt 
+      te<lb ed="#H" n="184" break="no"/>nebras veritati, sed sunt lumina orationis, Spiritu Sancto adnibi¬ 
+      <!--cod-MkL9py-0125.xml-->
+      <pb ed="#H" n="98"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>ta ad efficaciter movendum animos hominum, quod praeclare 
+      <lb ed="#H" n="2"/>explicat Augustinus secundo tomo, epistolam centesima 
+      decimano<lb ed="#H" n="3" break="no"/>na quae est scripta Januario, capite vndecimo, quae (inquit) nsinuam 
+      <lb ed="#H" n="4"/>tur nobis figurate. Plus enim movent &amp; accendunt amorem, quam se 
+      <lb ed="#H" n="5"/>nuda &amp; sine ullis sacramentorum similitudinibus ponerentur. Cujus 
+      re<lb ed="#H" n="6" break="no"/>causam difficile est dicere. Sid tamen ita se habet, ut aliquid per 
+      allegori<lb ed="#H" n="7" break="no"/>cam significationem intimatum plus moveat, plus delectet, pus 
+      honore<lb ed="#H" n="8" break="no"/>tur, quam si verbis propriis diceretur apertissime. Credo quod ipse 
+      ani<lb ed="#H" n="9" break="no"/>mi motus quamdiu rebus adhuc terrenis implicatur, pigrius 
+      inflamma<lb ed="#H" n="10" break="no"/>tur: si vero feratur ad similitudines corporales, &amp; inde feraturad 
+      sperita<lb ed="#H" n="11" break="no"/>lia, quae illis similitudinibus figurantur, ipso quasi transitu vegetatur &amp; 
+      <lb ed="#H" n="12"/>tanquam in facula ignis agitatus accenditur, &amp;c. Et tertio tomo, libro 
+      <lb ed="#H" n="13"/>secundo de doctrina Christiana, capite sexto. Num aliud homo 
+      di<lb ed="#H" n="14" break="no"/>scit, quam cum illud planissimis verbis, sine similitudinis huiusmodiadme 
+      <lb ed="#H" n="15"/>niculo audiret: Et tamen nescio quomodo suav us intueor, quum eos (
+      ni<lb ed="#H" n="16" break="no"/>mirum sanctos homines; quasi dentes Ecclesiae video praescindere ab 
+      er<lb ed="#H" n="17" break="no"/>roribus homines, atque in eius corpus cmollita duritia quasi demorsos 
+      man<lb ed="#H" n="18" break="no"/>sosque transferre. Et paulo post: Quare suavius videam, quam si nulla de 
+      <lb ed="#H" n="19"/>diuvinis libris talis similitudo promeretur, cum res eadem sit, eademque 
+      co<lb ed="#H" n="20" break="no"/>nitio, difficile est dicere, &amp; alia questio est. Nunc tamen nemo ambigit, &amp; 
+      <lb ed="#H" n="21"/>per similitudines libentius quaeque cognosci, &amp; cum aliqua difficultate quaest 
+      <lb ed="#H" n="22"/>ta multo gratius inveniri. Itaque voces &amp; orationes fi guratae non red 
+      <lb ed="#H" n="23"/>dunt Scripturam in se obscuram, sed nobis ad agnoscendum 
+      effica<lb ed="#H" n="24" break="no"/>ciorem &amp; gratiorem 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e2543">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Objectio septima. Adversarij ipsi testimonium veritati, velint nolint, 
+      <lb ed="#H" n="26"/>coguntur perhibere tum factis tum verbis, Factis quidem, quia tot 
+      com<lb ed="#H" n="27" break="no"/>mentaria in Scripturam, tot versiones ejus edunt, tam varie Scriptura 
+      ex<lb ed="#H" n="28" break="no"/>plicant: Verbis autem, quia expresse fatentur, se non omnia in Scripturis 
+      <lb ed="#H" n="29"/>intelligere; mpudentissimae esse temeritatis eum qui audeat profiteri, unum 
+      <lb ed="#H" n="30"/>Scripturae librum a se in omnibus partibus intellectum: se magno sudore. 
+      <lb ed="#H" n="31"/>viram ac germanam sententiam quaerere coactos: donum interpretationis, 
+      <lb ed="#H" n="32"/>isse in Ecclesia: Patres multa Scripturae loca commentariis suis utiliter 
+      il<lb ed="#H" n="33" break="no"/>lustrasse. Hinc sequitur, ipsosmet testari, Scripturam obscuram esse 
+      </p>
+            <p xml:id="yyy8Uu-e43348-d1e2567">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>ResP. Negatur id sequi. Non enim pugnant quae diverso 
+      dicun<lb ed="#H" n="35" break="no"/>tur respectu &amp; modo, veluti haec duo, Scripturam Sacram esse 
+      cla<lb ed="#H" n="36" break="no"/>tam nempe per se &amp; in se, ita ut multis in locis non expositore, sed 
+      le<lb ed="#H" n="37" break="no"/>ctore tantum indigeat: &amp; eande non esse claram cuivis, non a quo- 
+      <lb ed="#H" n="38"/>vis in omnibus linguis &amp; in omnibus locis intelligi, proinde ab iis 
+      <lb ed="#H" n="39"/>qui intelligunt in aliorum gratiam versionibus in vernaculas 
+      lin<lb ed="#H" n="40" break="no"/>guas transferri, &amp; commentariis explicari utilibus ab iis qui 
+      do<lb ed="#H" n="41" break="no"/>num interpretationis a Spiritu Sancto acceperunt .
+    </p>
+            <p xml:id="yyy8Uu-e43348-d1e2590">
+               <lb ed="#H" n="42"/>Haec de perspicuitate Sacrae Scripturae: de interpre¬ 
+      <lb ed="#H" n="43"/>tatione ejusdem sequitur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

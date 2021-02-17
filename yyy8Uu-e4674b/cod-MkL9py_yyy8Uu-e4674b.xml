@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="NaN"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e4674b"> <!-- l1-c11 -->
+            <head xml:id="yyy8Uu-e4674b-Hd1e109">Caput 11</head>
+            <p xml:id="yyy8Uu-e4674b-d1e112">
+               <lb ed="#H" n="120"/>CAPUT XI. 
+      <lb ed="#H" n="121"/>De Theologiae revelatae necessitate.
+      </p>
+            <p xml:id="yyy8Uu-e4674b-d1e119">
+               <lb ed="#H" n="122"/>HAPROPTER praeter Theologiam naturalem est homini 
+      <lb ed="#H" n="123"/>Pnecessaria Theologia supernaturalis &amp; revelata. 
+      </p>
+            <p xml:id="yyy8Uu-e4674b-d1e126">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Primo, quia homo ordinatus est ad Deum cognoscendum. 
+      <lb ed="#H" n="125"/>&amp; colendum, sicut ad quendam finem, qui comprehensionem 
+      ratio<lb ed="#H" n="126" break="no"/>nis naturalis excedit, secundum illud Jesa. 64. 4. juxta suppiitationem 
+      <lb ed="#H" n="127"/>vulgatam, vel vers. 8. juxta editionem Tremelli &amp; Junii: Et inde es se 
+      <lb ed="#H" n="128"/>culo inaudita, auribus minime percepta; quae oculus non vidit, o 
+      see<lb ed="#H" n="129" break="no"/>us, praeter te, Deus comparet praestolanti ipsum. Finem autem oportet. 
+      <lb ed="#H" n="130"/>esse praecognitum hominibus, qui suas intentiones &amp; actiones 
+      de<lb ed="#H" n="131" break="no"/>bent ordinare in finem: unde necessarium fuit homini ad salutem 
+      <lb ed="#H" n="132"/>quaedam ei nota fieri per revelationem divinam, quae rationem 
+      natu<lb ed="#H" n="133" break="no"/>ralem excedunt. Cum, inquam, genus humanum ad agnitionem &amp; 
+      <lb ed="#H" n="134"/>celebrationem Dei sit conditum, neque tamen agnosci &amp; coli Deus 
+      <lb ed="#H" n="135"/>possit sine sui &amp; voluntatis suae patefactione, necesse fuit a Deo ipse 
+      <lb ed="#H" n="136"/>ostendi, quid de se credi &amp; quomodo coli velle 
+      <lb ed="#H" n="137"/>Secundo, quia sincera veritas de Deo per rationem naturalem in 
+      <lb ed="#H" n="138"/>vestigari non potest. Ab illius autem veritatis cognitione dependet. 
+      <lb ed="#H" n="139"/>tota hominum salus quae est in Deo, juxta illud Johan. 17. 3. Haec est 
+      <lb ed="#H" n="140"/>autem vita aterna, ut te cognoscant esse illum solum verum Deum, 
+      <lb ed="#H" n="141"/>&amp; quem misisti Iesum Christum. Necessarium igitur est 
+      praete<lb ed="#H" n="142" break="no"/>Theologiam naturalem esse etiam supernaturalem per 
+      revelatio<lb ed="#H" n="143" break="no"/>nem divinam. Haec omnia praeclare tradit Paulus 1. Cor. 2. vers. 9. 
+      <lb ed="#H" n="144"/>usque ad finem capitis 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

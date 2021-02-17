@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 24</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 24</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="NaN"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e13629"> <!-- l1-c24 -->
+            <head xml:id="yyy8Uu-e13629-Hd1e109">Caput 24</head>
+            <p xml:id="yyy8Uu-e13629-d1e112">
+               <lb ed="#H" n="15"/>CAPUTTII 
+      <lb ed="#H" n="16"/>In quo refelluntur argumenta Papistarum, quibus e¬ 
+      <lb ed="#H" n="17"/>uincere conantur, Sacrae Scripturae autorita¬ 
+      <lb ed="#H" n="18"/>tem a testimonio Ecclesiae pendere.
+      </p>
+            <p xml:id="yyy8Uu-e13629-d1e123">
+               <lb ed="#H" n="19"/>EcUNEA quaestio est; An Sacrae Scripturae autoritas a testimonia 
+      <lb ed="#H" n="20"/>PEcclesiae pendeat? 
+      </p>
+            <p xml:id="yyy8Uu-e13629-d1e130">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Papistae affirmant; freti argumentis sequentibus: 
+      <lb ed="#H" n="22"/>Quodcunque est primum medium per quod cognoscitur, Sacram 
+      <lb ed="#H" n="23"/>Scripturam esse vere divinam, ab eo cerre pendet Sacrae Scripturae 
+      auto<lb ed="#H" n="24" break="no"/>ritas: Atqui testimonium Ecclesiae est primum medium per quod 
+      cogno<lb ed="#H" n="25" break="no"/>scitur Sacram Scripturam esse vere divinam, 
+      </p>
+            <p xml:id="yyy8Uu-e13629-d1e147">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>Ergo a testimonio Ecclesiae pendet Sacrae Scripturae autoritas 
+      <lb ed="#H" n="27"/>Assumtio probatur ex Rom. 10. v. 24. 15. Quomodo credent, nisi 
+      <lb ed="#H" n="28"/>audiant? Quomodo audient, sine praedicante; quomodo praedicabunt,  
+      <lb ed="#H" n="29"/>nisi mittantur? Ita nemo nost: um est, cui non fuerit testimonium 
+      Eccle<lb ed="#H" n="30" break="no"/>siae midis primum per quod cognovit Sacram Scriptura esse vere divina 
+      </p>
+            <p xml:id="yyy8Uu-e13629-d1e163">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>RESP. Matar propositio negatur: quia non omne primum medium 
+      <lb ed="#H" n="32"/>per quod in alicujus rei cognitionem deducimur, est idcirco ita suffici 
+      <lb ed="#H" n="33"/>ens, ut ab eo rei illius pendeat autoritas Exempli gratia: 
+      Testimoni<lb ed="#H" n="34" break="no"/>um mulieris Samaritanae de Jesu fuit primum medium, per quod  
+      <lb ed="#H" n="35"/>multi Samaritanorum crediderunt, ipsum esse Christum illum: sic 
+      <lb ed="#H" n="36"/>ut legitur Joh. 4. 39. Ex urhe autem illa multi Samaritanorum 
+      credi<lb ed="#H" n="37" break="no"/>derunt in eum propter sermonem mutieris illius, testantis, Certe dixit.  
+      <lb ed="#H" n="38"/>mihi omnia quae feci: Num igitur autoritas Domini Jesu, sive in se sive 
+      <lb ed="#H" n="39"/>quoad Samaritanos a mulieris illius testimonio pendebat? 
+      Nequa<lb ed="#H" n="40" break="no"/>quam; nam multo plures crediderunt propter sermonem ipsius Domine 
+      <lb ed="#H" n="41"/>Iesu: &amp; illi mulieri dicebant: Non amplius propter tuos sermones 
+      credi<lb ed="#H" n="42" break="no"/>mus: ipsi enim audivimus, &amp; scimus, hunc esse vere Servatorem illum 
+      <lb ed="#H" n="43"/>mundi Christum, ut ibide scribitur v. 41, 42. Similiter Petri 
+      Aposto<lb ed="#H" n="44" break="no"/>li sermo &amp; testimonium deJesu crucifixo quod esset Christus ille, fuit 
+      <lb ed="#H" n="45"/>primum medium per quod magno illo die Pentecostes quo effusus 
+      <lb ed="#H" n="46"/>est Spiritus Sanctus in Apostolos, quasi ter mille animae inJesum 
+      cre<lb ed="#H" n="47" break="no"/>diderunt, ut narratur Actor. 2. 41. Num idcirco autoritas Jesu 
+      pen<lb ed="#H" n="48" break="no"/>debat a testimonio Petri Apostoljautoritas Domini ab autoritate 
+      <lb ed="#H" n="49"/>serui? Ita etiam non est necesse ut ab eo quod est primum medium 
+      pe<lb ed="#H" n="50" break="no"/>quod Scripturae divinitatem agnoscimus, Scripturae autoritas poden 
+      </p>
+            <p xml:id="yyy8Uu-e13629-d1e211">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Assumtio etiam non est simpliciter vera: non enim semper, neque 
+      ad<lb ed="#H" n="52" break="no"/>pud omnes testimonium Ecclesiae est primum medium, per quod 
+      co<lb ed="#H" n="53" break="no"/>gnoscant, Scripturam Sacram esse vere θεόπουτον. Nam Moses, 
+      Pro<lb ed="#H" n="54" break="no"/>phetae &amp; Apostoli de Sacra Scriptura, quam ipsi conscribebant, 
+      per<lb ed="#H" n="55" break="no"/>suasi erant esse vere verbum Dei, sine testimonio Ecclesiae 
+      </p>
+            <p xml:id="yyy8Uu-e13629-d1e227">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>II. Ex solius Ecclesiae testimonio pendet certitudo autorum qui 
+      li<lb ed="#H" n="57" break="no"/>pros sacros scripserunt: nam ex solius Ecclesiae testimonio constat, 
+      episto<lb ed="#H" n="58" break="no"/>lam ad Romanos esse Pauli;. Evangelium Marci esse Marci, &amp;c. Ergo a 
+      <lb ed="#H" n="59"/>testimonio Ecclesiae pendet Scripturae Sacrae autoritus. 
+      </p>
+            <p xml:id="yyy8Uu-e13629-d1e240">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>RESP Negatur antecedens: nam de autorum certitudine, non est 
+      <lb ed="#H" n="61"/>Ecclesiae, sed ipsorum librorum testimonio judicamus. Credimus &amp; 
+      <lb ed="#H" n="62"/>pistolam ad Romanos esse Pauli, quia id Scriptura Sacra testatur: na 
+      <lb ed="#H" n="63"/>mox in exordio hujus epistolae est, Paulus Apostolus Iesu Christi, &amp;c. 
+      <lb ed="#H" n="64"/>Hoc aute exordium epistolae ad Romanos est pars Scripturae Sacrae¬ 
+      </p>
+            <p xml:id="yyy8Uu-e13629-d1e256">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>III. Ex solius Ecclesiae testimonio nobis constat, quinam libri 
+      sin<lb ed="#H" n="66" break="no"/>vere diuvini: Ergo ab illo pendet Scripturae Sacrae autoritas 
+      </p>
+            <p xml:id="yyy8Uu-e13629-d1e266">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>RESP. Antecedens nequaquam concedimus. Spiritus enim 
+      San<lb ed="#H" n="68" break="no"/>ctus &amp; in Scriptura &amp; in cordibs fidelium idem testatur, &amp; longe qui  
+      <lb ed="#H" n="69"/>dem certius quam Ecclesia Ideo Ireneus libro tertio adversus 
+      haere<lb ed="#H" n="70" break="no"/>ses, capite undecimo inde dicit ostendi Evangelium 
+      Valentiniano<lb ed="#H" n="71" break="no"/>rum quod illi Veritatis Evangelium nuncupabant, non esse divinum 
+      <lb ed="#H" n="72"/>quod in nihilo conveniens esset Apostolorum Evangeliis, sed 
+      dissi<lb ed="#H" n="73" break="no"/>mile ab illis. Qui igitur solius Ecclesiae testimonio hac in re nituntur. 
+      <lb ed="#H" n="74"/>illi praecipua testimonia se nondum fensisse aut intellexisse ostendunt, 
+      </p>
+            <p xml:id="yyy8Uu-e13629-d1e288">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>IV. Quod est antiquius quam Scriptura, ab eo Scripturae 
+      autorita<lb ed="#H" n="76" break="no"/>pendet: Ecclesie est antiquior quam Scriptura: Ergo ab Ecclesia 
+      Scriptu<lb ed="#H" n="77" break="no"/>rae autoritas pendet. 
+      </p>
+            <p xml:id="yyy8Uu-e13629-d1e299">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Majot em sic probant: quia testis antiquioris est major autoritas 
+      <lb ed="#H" n="79"/>quam recentioris, Minorem vero sic stabiliunt: quia Ecclesia fuit ante 
+      <lb ed="#H" n="80"/>Mosen, et Scriptura non fuit ante Mosens 
+      </p>
+            <p xml:id="yyy8Uu-e13629-d1e310">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>RESP. Primo major propositio ut &amp; probatio ejus non est 
+      neces<lb ed="#H" n="82" break="no"/>saria &amp; tantum particularis. Artifex enim junior potest esse 
+      peritio<lb ed="#H" n="83" break="no"/>seniore. Potest etiam ea esse conditio recentioris testis, ut fidem 
+      me<lb ed="#H" n="84" break="no"/>reatur majorem, quam antiquior. Testabatur de se SERMo ille 
+      car<lb ed="#H" n="85" break="no"/>factus: testati fuerant etiam de ipso jam olim, Moses &amp; Prophetae 
+      ve<lb ed="#H" n="86" break="no"/>teris Testamenti: neque tamen ideo major est autoritasvel omnium a 
+      <lb ed="#H" n="87"/>liorum testium quam solius Christi. Deinde in assumtione ejusque 
+      pro<lb ed="#H" n="88" break="no"/>batione fallacia est a dicto secudum quid: nam Ecclesia non omns, sed  
+      <lb ed="#H" n="89"/>tantum illa quae ante scriptos a Mose libros fuit, antiquior est quam 
+      <!--cod-MkL9py-0056.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>Scriptura, non quoad substantia Scriptura, sed tantum quoad accidens 
+      <lb ed="#H" n="91"/>Nam quoad substantiam, id est, quoad doctrinam ipsam seu verbum 
+      <lb ed="#H" n="92"/>ipsum Dei, Scriptura Sacra est aeterna in ipso Deo sapietia, neque ejus 
+      <lb ed="#H" n="93"/>notitia tum demum Ecclesiae patefacta est, quando literis est consignata, 
+      <lb ed="#H" n="94"/>sed ejus patefactio cum ipsa generis humani creatione in Paradiso 
+      coe<lb ed="#H" n="95" break="no"/>pit, estque immortale illud semen ex quo primum Ecclesia nata fuit &amp; 
+      <lb ed="#H" n="96"/>deinceps crevit: non igitur potuit Ecclesia exsistere, nisi verbo Dei, 
+      <lb ed="#H" n="97"/>cujus summa deinceps a Mose &amp; aliis servis Dei mandata est literis, 
+      <lb ed="#H" n="98"/>prius exsistente. Verbum Dei est causa Ecclesiae: Ecclesia igitur non 
+      po<lb ed="#H" n="99" break="no"/>test esse antiquiorverbo Dei. Quodvero aliud nunc est verbum Dei quam 
+      <lb ed="#H" n="100"/>quod in Scriptura continetur? Nunquam igitur Papistae obtinebunt. 
+      <lb ed="#H" n="101"/>Ecclesiam etiam illam quae ante Mosen fuit, esse simpliciter 
+      Scriptu<lb ed="#H" n="102" break="no"/>ra Sacra antiquiorem. Quod vero Ecclesiam Novi Testamenti, 
+      pos<lb ed="#H" n="103" break="no"/>Apostolos maxime exsistentem, de cujus autoritate Papani pugnant. 
+      <lb ed="#H" n="104"/>attinet, ea nullo modo antiquior fuit, quam Scriptura, neque quoad  
+      <lb ed="#H" n="105"/>substantiam, neque quoad accidens. Cortuit igitur conclusio 
+      </p>
+            <p xml:id="yyy8Uu-e13629-d1e373">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>V. 1. Tim. 3. Ecclesia appellatur columna &amp; stabilimentum 
+      verita<lb ed="#H" n="107" break="no"/>tis.: Ergo ab autoritate Ecclesiae pendet Scripturae Sacrae autoritas 
+      </p>
+            <p xml:id="yyy8Uu-e13629-d1e382">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>RESP. Negatur propositionis omissae consequentia; nempe, S 
+      <lb ed="#H" n="109"/>Ecclesia est columna &amp; stabilimentum veritatis, ab illa pendet Scristus 
+      <lb ed="#H" n="110"/>rae autoritas. Ecclesia enim est columna ac stabilimentum veritatis 
+      <lb ed="#H" n="111"/>quatenus est custos, vindex, praeco seu testis &amp; interpres veritatis e 
+      Sa<lb ed="#H" n="112" break="no"/>cra Scriptura depromtae Sed num propterea ab Ecclesia Scripturae 
+      <lb ed="#H" n="113"/>autoritas pedet? Nequaquaimo contra potius Saera ocriptura 
+      conci<lb ed="#H" n="114" break="no"/>liat autoritatem suo custodi, vindici, praeconi seu testi &amp; interpreti¬ 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

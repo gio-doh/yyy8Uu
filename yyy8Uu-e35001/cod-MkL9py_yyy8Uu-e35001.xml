@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="280"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e35001"> <!-- l5-c12 -->
+            <head xml:id="yyy8Uu-e35001-Hd1e109">Caput 12</head>
+            <p xml:id="yyy8Uu-e35001-d1e112">
+               <lb ed="#H" n="163"/>CAPUT XII. 
+      <lb ed="#H" n="164"/>In quo de bonis Angelis.
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e119">
+               <lb ed="#H" n="165"/>E bonis Angelis ita agemus, ut primum de nominibus ipsorum 
+      <lb ed="#H" n="166"/>Dsimus dicturi, deinde de reipsa 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e126">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Angelorum bonorum nomina alia sunt comunia, alia propria. 
+      <lb ed="#H" n="168"/>Communiter Angeli boni nominantur Cherubim Genes. 3. v. 24. 
+      <lb ed="#H" n="169"/>Ezech. 10. v. 1. &amp; seqq aliquoties, ob sapientiae cognitionisque copia &amp; 
+      <lb ed="#H" n="170"/>divinae contemplationis vim, quae eis inest: &amp; quia capaces sunt divine 
+      <!--cod-MkL9py-0308.xml-->
+      <pb ed="#H" n="281"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>lucis &amp; pulchritudinis, quemadmodum homo solus inter animalia 
+      <lb ed="#H" n="2"/>scientiae cognitionisque est capax &amp; omnia animalia pulchritudine 
+      <lb ed="#H" n="3"/>superat. Quapropter forma imberbium juvenum aut animalium 
+      <lb ed="#H" n="4"/>similitudinem humanam habentium apparere soliti sunt: unde 
+      Che<lb ed="#H" n="5" break="no"/>ubini gloriae in tabernaculo a Mose parato imaginibus humanis, sed 
+      <lb ed="#H" n="6"/>alatis vestitisque facti, Exod. 25. 18, 19, 20. Et Ezechieli c. 1. sub speci 
+      <lb ed="#H" n="7"/>animalium humanam similitudinem habentium visi sunt. Capite 
+      ve<lb ed="#H" n="8" break="no"/>so 41. 20. visi sunt ei Cherubini in parietibus templi, habentes 
+      singu<lb ed="#H" n="9" break="no"/>li binas facies, nempe faciem humanam &amp; faciem juvenis leonis. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e166">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Nominantur Seraphim Jes. 6. 2. ab ardore &amp; incendio, quasi dicas, 
+      <lb ed="#H" n="11"/>ardentes tanquam ignis, ob eorum perennem in divinis rebus mobi 
+      <lb ed="#H" n="12"/>litatem, singularemque fervorem continuae ac nunquam interrupta 
+      <lb ed="#H" n="13"/>motionis, vimque sursum ducendi ea quae subjecta sunt, quasi calor 
+      <lb ed="#H" n="14"/>suo illa ad similem calorem excitantem, vim etiam purgandi, 
+      obscuri<lb ed="#H" n="15" break="no"/>tatem &amp; tenebras expellendi exterminandique, &amp; adducendi ad 
+      lu<lb ed="#H" n="16" break="no"/>cem claram quae extingui non potest: denique ob officium purgano 
+      <lb ed="#H" n="17"/>electos per vocationem Dei &amp; consumendi reprobos; quia Angele 
+      <lb ed="#H" n="18"/>boni sunt exsequutores judiciorum Dei Judicis totius mundi, tum i1 
+      <lb ed="#H" n="19"/>electos tum in reprobos. Unde apud Jesaiam Deo in solio judiciario  
+      <lb ed="#H" n="20"/>contra populum sedenti, ardore irae divinae accensi adstabant, parati ad 
+      <lb ed="#H" n="21"/>exsequenda Dei judicia. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e197">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Nominantur Filii Dei Job. 1. v. 6. &amp; 2. 1. &amp; 38. 7. non quod 
+      propri<lb ed="#H" n="23" break="no"/>geniti sint ex Deo, (solus enim SERMo ille aeternus proprie genitus 
+      <lb ed="#H" n="24"/>est ex Deo, unde unigenitus appellatur) sed quia creati ad imaginem 
+      <lb ed="#H" n="25"/>Dei in ea ex gratia confirmati &amp; adoptati sunt in filios 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e210">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>Nominantur custodes &amp; vigiles Dan. 4. v. 10. quia in caelo tanquam  
+      <lb ed="#H" n="27"/>in specula vigiles orbem &amp; in eo fideles custodiunt 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e219">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Nominantur viri, item viri Dei Gen.18. &amp; Jud. 13. quia tum viro 
+      <lb ed="#H" n="29"/>rum forma apparuerunt 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e228">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>Sic fuerunt communia bonorum eAngelo¬ 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e235">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>rum nomina. 
+      <lb ed="#H" n="32"/>Propria quorundam bonorum Angelorum nomina sunt Gabrie. 
+      <lb ed="#H" n="33"/>Dan. 8 &amp; 9. Luc 1. ver. 19, 26 quod significat virtutem seu fortitudi. 
+      <lb ed="#H" n="34"/>nem Dei. Item Raphael in libro Thobiae, dictus a medendo. Alia 
+      <lb ed="#H" n="35"/>exstant in aliis libris Apoctyphis, ideo illa nos omittimus, qui 
+      Ca<lb ed="#H" n="36" break="no"/>nonicas Scripturas solas pro unico Theologiae principio 
+      habe<lb ed="#H" n="37" break="no"/>mus 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e256">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>His accensent quidam nomen Michaelis quod exstat Dan. 10. &amp;. 
+      <lb ed="#H" n="39"/>II. item in epistola Judae v.9 &amp; in Johannis Apocalypsi cap 12. 7. ve. 
+      <lb ed="#H" n="40"/>rum illud nulli creato Angelo competit, sed tantum Christo 
+      Domi<lb ed="#H" n="41" break="no"/>no, qui est par &amp; aequalis Deo, quod nomen istud sonat, qui est 
+      Ar<lb ed="#H" n="42" break="no"/>changelus &amp; Pi inceps ille creatorum Angelorum, dux populi 
+      pu<lb ed="#H" n="43" break="no"/>gnans pro populo, ωρομαχος Ecclesiae, cujus συμμααοι sunt Angelis 
+      <lb ed="#H" n="44"/>boni: qui est fortis ille bellator qui Satanam vincit &amp; prosternit, &amp; 
+      <lb ed="#H" n="45"/>quidem solus, ut opera Angeiorum non indigeat, licet eorum 
+      mini<lb ed="#H" n="46" break="no"/>sterio utatur? 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e280">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Hactenus de nominibus bonorum Angelorum: nunc 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e287">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>de reipsa agemus. ponendo primo loco de 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e294">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>finitionem. 
+      <lb ed="#H" n="50"/>BONIANGELI, sunt caelestes spiritus, qui in sua integritate 
+      <lb ed="#H" n="51"/>in qua conditi erant, a Deo ex gratia confirmati perstiterum. 
+      <lb ed="#H" n="52"/>Integritas illa omnibus Angelis naturalis erat, hoc est, secundum 
+      <lb ed="#H" n="53"/>naturam &amp; in natura ipsorum insita, cum ea primum exsistere coepit,  
+      <lb ed="#H" n="54"/>seu concreata naturae ipsorum: quod vero Angelis qui in illa 
+      integri<lb ed="#H" n="55" break="no"/>tate perstiterunt, id gratiae accessit, ut vellent immutabiliter Deo ad 
+      <lb ed="#H" n="56"/>haerescere, hoc supernaturale est 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e316">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Cause cur in sua integritate Angeli quidam perstiterunt, sunt istae 
+      <lb ed="#H" n="58"/>proxima quidem &amp; immediata causa, bona ipsorum Angelorum 
+      vo<lb ed="#H" n="59" break="no"/>luntas: remotiores vero &amp; superiores causae, sunt tum supernaturalo 
+      <lb ed="#H" n="60"/>auxitium aut potius supernaturalis gratia Dei, sine qua neque velle 
+      <lb ed="#H" n="61"/>neque perficere possunt Angeli, quae naturam creatam superant: tum 
+      <lb ed="#H" n="62"/>pratuita Dei erga illos benevolentia, a qua auxilium gratiae 
+      profe<lb ed="#H" n="63" break="no"/>ctum est, non ab Angelorum meritis &amp; dignitate: &amp; aeternum 
+      electio<lb ed="#H" n="64" break="no"/>nis ipsorum decretum, quo ad hanc sempiternam beatitudinem electi 
+      <lb ed="#H" n="65"/>fuerunt: &amp; Christus Dominus &amp; caput ipsorum, in quo subsistunt 
+      se<lb ed="#H" n="66" break="no"/>cundum electionem ut in Deo immutabili, &amp; in quo Deus ipsos 
+      in<lb ed="#H" n="67" break="no"/>tuetur, ac proinde in illo jam effecti sunt immutabiles. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e345">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Unde consequitur Angelos in bono confirmatos, a Summo ille 
+      <lb ed="#H" n="69"/>bono cui adhaeserunt, ad aliquod malum sua voluntate deficere, eo 
+      <lb ed="#H" n="70"/>que peccare minime amplius posse 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e357">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Unde sunt beati, quia semper vident Deum, hoc est, non 
+      solummo<lb ed="#H" n="72" break="no"/>do Patrem, sed totam Sacrosanctam Trinitatem. Semper enim 
+      vi<lb ed="#H" n="73" break="no"/>dent faciem Patris per Filium in Spiritu Sancto. August. sept. 
+      tomo<lb ed="#H" n="74" break="no"/>libro tertio contra duas epistolas Pelagianorum ad Bonifacium, cap. 
+      <lb ed="#H" n="75"/>septimo, 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e373">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Ac licet amplius peccare miserique fieri non possint: tamen non 
+      <lb ed="#H" n="77"/>solum non desierunt esse liberi arbitrii, verum etiam magis liberi sunt,  
+      <lb ed="#H" n="78"/>quam antea fuerunt, cum poterant peccare &amp; non peccare. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e384">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Proinde liberum arbitrium bonorum Angelorum est ad bona 
+      tan<lb ed="#H" n="80" break="no"/>um, quia jam confirmatisunt in bono, ita ut nec falli atque errare 
+      <lb ed="#H" n="81"/>mens in judicando, hoc est, approbando vel improbando objecto, 
+      <lb ed="#H" n="82"/>nec voluntas aliud, quam mens judicat, velle, sed quod illa probat 
+      eli<lb ed="#H" n="83" break="no"/>ere; quod improbat, repudiare atque rejicere possit. 
+      <lb ed="#H" n="84"/>Idcitco amant Deum super omnia. 
+      <lb ed="#H" n="85"/>I. Quia obediunt legi naturali &amp; aeternae, quam omnes creatura 
+      <lb ed="#H" n="86"/>rationales obligat sunt ad diligendum Deum super omnia. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e406">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>II. Quia sunt amici Dei. 
+      <lb ed="#H" n="88"/>III. Quia ipsorum summum bonum Deus est. 
+      <!--cod-MkL9py-0308.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>IV. Quia fruuntur Deo &amp; vident eum de facie ad faciem. 
+      <lb ed="#H" n="90"/>V. Quia cupiunt Dei gloriam ante omnia, cupiunt ejus cul 
+      <lb ed="#H" n="91"/>tum verum promotum. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e426">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>VI. Quia amant nos, ut ex subjectis argumentis liquet,  
+      <lb ed="#H" n="93"/>I. Quos Deus amat, eosdem &amp; boni Angeli amant: At nos Deus 
+      <lb ed="#H" n="94"/>imat: Ergo &amp; boni Angel 
+      <lb ed="#H" n="95"/>2. Quia qui malis Angelis e caelo detrusis, succedunt in caelesti: 
+      <lb ed="#H" n="96"/>beatitudine, eos amari a bonis Angelis necesse est: At nos malis 
+      An<lb ed="#H" n="97" break="no"/>gelis e caelo deturbatis, succedimus in caelesti beatitudine. Ergo, &amp;c. 
+      <lb ed="#H" n="98"/>3. Qui totam legem naturae implent, ii etiam nos homines ad 
+      <lb ed="#H" n="99"/>mant: At boni Angeli totam naturae legem implent: Ergo, &amp;c. 
+      <lb ed="#H" n="100"/>I. Qui nostram desiderant salutem, &amp; partam nobis gaudent, &amp; 
+      <lb ed="#H" n="101"/>plene tandem nobis datum iri sperant atque ut eam assequamur nihil 
+      <lb ed="#H" n="102"/>non agunt; &amp; contra tristantur nostra impoenitentia, nostris peccatis 
+      <lb ed="#H" n="103"/>&amp; calamitatibus, &amp; curam nostri gerunt, ii profecto nos amant. 
+      An<lb ed="#H" n="104" break="no"/>geli boni ista omnia faciunt: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e459">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>VII. Quia officium omne quod Deo &amp; nobis exhibent, ex 
+      per<lb ed="#H" n="106" break="no"/>fecto amore in Deum &amp; nos proficisci necesse est. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e469">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>Bonorum Angelorum OEPICIUM duplex est: vel erga Deum: 
+      <lb ed="#H" n="108"/>vel erga homines. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e478">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Erga Deum officium illorum est duplex: primum, ministrare Deo 
+      <lb ed="#H" n="110"/>&amp; voluntatem ejus facere, Ps 103. 20 Matth. 18. 10. Unde Deus 
+      stipa<lb ed="#H" n="111" break="no"/>us multitudine innumerabili Angelorum tanquam satellitum &amp; ad 
+      <lb ed="#H" n="112"/>ministrorum tulit legem in monte Sinai, Exod. 19. 16, 18. Deut. 33. 
+      <lb ed="#H" n="113"/>2. Gal 3. 19. Actor. 7. 53. Et visi sunt Deo adstantes in throno sedenti 
+      <lb ed="#H" n="114"/>1. Reg. 22. 19. Job. 1. v. 6. &amp; c. 2. 1. Sic Dan. 7. v. 10. dicitur de Angelis: 
+      <lb ed="#H" n="115"/>Antiquo dierum millies mille ministrabant, &amp; coram eo myrias 
+      myria<lb ed="#H" n="116" break="no"/>dum stabant. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e500">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Alterum, perpetuis laudibus Deum celebrare &amp; adorare, Job. 38. 
+      <lb ed="#H" n="118"/>7. Cui vociferati sunt omnes filii Dei? His verbis docetur, Angelos 
+      prae<lb ed="#H" n="119" break="no"/>dicasse laudes Dei Creationis suae &amp; aliorum nomine. Psal. 103. 26. 
+      <lb ed="#H" n="120"/>&amp; 148.2. Jes. 6. 3. &amp; clamans alter ad alterum dicebat, sanctus, sanctus, 
+      <lb ed="#H" n="121"/>sanctus est Iehova exercituum: implet totam hanc terram gloria eius. 
+      <lb ed="#H" n="122"/>Apoc. 4. v. 8. Apoc. 7. v. 11, 12. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e518">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Huc pertinet officium quod exhibent aeterno Filio Dei 
+      Christo<lb ed="#H" n="124" break="no"/>Domino, etiam quatenus θεανθρωπος est &amp; Caput Ecclesiae. Adoram 
+      <lb ed="#H" n="125"/>ipsum, ut legitur Hebr. 1. v. 6. Rursum autem quum inducit 
+      primoge<lb ed="#H" n="126" break="no"/>nitum in orbem terrarum, dicit; &amp; adorent eum omnes Angeli Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e531">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Celebrant Christum &amp; laudant, Apocal 5. v. 11, 12. Tum adspexi, &amp; 
+      <lb ed="#H" n="128"/>audivi in circuitu throni &amp; animalium &amp; Senierem illorum 
+      vocem<lb ed="#H" n="129" break="no"/>Angelorum multorum, &amp; erat eorum numerus millies centena millia; 
+      <lb ed="#H" n="130"/>icentes voce magna: Dignus est Agnus ille mactatus qui accipiat 
+      vir<lb ed="#H" n="131" break="no"/>tutem, &amp; divitias &amp; sapientiam &amp; fortitudinem, &amp; honorem, &amp; 
+      glo<lb ed="#H" n="132" break="no"/>riam &amp; benedictionem. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e549">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>Agnoscunt Christi primatum summumque Principatum inter 
+      An<lb ed="#H" n="134" break="no"/>gelos, sicut Angelus ille ad Danielem missus ait Dan. 10. v. 13. 
+      Ecce<lb ed="#H" n="135" break="no"/>Michael primus e principibus primariis venit ad adiuvandum me. Unus 
+      <lb ed="#H" n="136"/>nim, ut ex textu Hebraeo sonat, valet hoc loco idem quod primus. 
+      Ec<lb ed="#H" n="137" break="no"/>cap. 12 v. 1. ait, Tempore autem illo, adstabit Michael, Princeps ille 
+      ma<lb ed="#H" n="138" break="no"/>ximus, qui stat pro filiis populi tui. Unde Christus appellatur 
+      Archan<lb ed="#H" n="139" break="no"/>gelus. 1. Thes. 4. 16. Cum voce Arthangeli &amp; cum Dei tuba descendet e caelo. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e570">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Subjiciunt se Christo ut Domino suo &amp; Regi &amp; capiti Ecclesiae 
+      <lb ed="#H" n="141"/>Philip. 2. 9, 10. Quapropter etiam Deus ipsum in summam extulit sub. 
+      <lb ed="#H" n="142"/>limitatem, ac donavit et nomen quod est supra omne nomen, ut in 
+      nomi<lb ed="#H" n="143" break="no"/>ne Iesu omne genu se flectat caelestium acterrestrium &amp; subterraneorum. 
+      <lb ed="#H" n="144"/>Omne genu caelestium se flectit in nomine Iesu, id est, omnes Angeli 
+      cae<lb ed="#H" n="145" break="no"/>estes agnoscunt Jesum Christum esse Dominum ad gloriam Dei 
+      <lb ed="#H" n="146"/>Patris, omnes se ei subjiciunt ut Domino suo &amp; Capiti 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e590">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Serviunt Christo, stant coram eo &amp; exspectant jussa ejus, eaque 
+      acce<lb ed="#H" n="148" break="no"/>ta fideliter faciunt, sive ad judicia ejus prestanda, sive ad beneficia 
+      ex<lb ed="#H" n="149" break="no"/>hibenda, sive ad utrumque conjunctim mittantur. Hoc significatum  
+      <lb ed="#H" n="150"/>fuit in visione prophetica Jesa. 6. v1. &amp; sequentibus, ut interpretatur  
+      <lb ed="#H" n="151"/>Joh. c. 12. 41, &amp; per similitudinem quatuor animalium, Ezech. 1. v. 5. &amp; 
+      <lb ed="#H" n="152"/>sequentibus: similiter per equites insidentes equis rusis, baliis &amp; albis, 
+      <lb ed="#H" n="153"/>in visione Zachariae oblata c. 1. v. 8. Et per quatuor currus prodeunte 
+      <lb ed="#H" n="154"/>e medio duorum montium chalybeorum, Zach. 6. 1. Et per quatuos 
+      <lb ed="#H" n="155"/>ventos caelorum procedentes inde ubi constiterunt apud Dominato. 
+      <lb ed="#H" n="156"/>em totius terrae, Zach. 6. 5. Rationem Christo reddunt actionum 
+      <lb ed="#H" n="157"/>suarum nomine Zach. 1. v. 11. Quum Christus tentatus esset a 
+      diabo<lb ed="#H" n="158" break="no"/>to, accesserunt Angeli &amp; ministrarunt ei Matt. 4. v. 11. Luctanti ipsi in 
+      <lb ed="#H" n="159"/>horto cum horribili sensu irae Dei adversus peccata nostra, conspectus 
+      <lb ed="#H" n="160"/>est Angelus e caelo corroborans eum, Luc. 22. 43. Huc pertinet quod 
+      <lb ed="#H" n="161"/>Christus ipse dicit Joh. 1. 52. Ab hoc tempore videbitis caelum apertum 
+      <lb ed="#H" n="162"/>&amp; Angelos Dei adscendentes ac descendentes super Filium hominis, hoc 
+      <lb ed="#H" n="163"/>est, ministrantes ei ut capiti Ecclesiae 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e632">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Angelus devolvit saxum ab ostio monumenti, quasi minister a 
+      <lb ed="#H" n="165"/>Deo Patre missus ad emittendum Christum e sepulchro, velut e 
+      car<lb ed="#H" n="166" break="no"/>cere, in quo ut sponsor noster detinebatur, Mat. 28. 2. Angeli stiparunt,  
+      <lb ed="#H" n="167"/>&amp; comitati sunt Christu adscendentem in caelum &amp; deduxerunt cum 
+      <lb ed="#H" n="168"/>ad Antiquum dierum, a quo ei datum regnum in omnes creatura. 
+      <lb ed="#H" n="169"/>Dan. 7. v. 13, 14. fuerunt συuμαχει Michaelis, id est, Christi, qui est 
+      ae<lb ed="#H" n="170" break="no"/>qualis Deo, &amp; praeliati sunt cum Dracone Apoc. 12. 7. Per Angelum 
+      <lb ed="#H" n="171"/>misit Christus Apocalypsin Johanni, Apocal. I. v. 1. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e654">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Quum venerit Filius hominis cum gloria sua, stipatus erit 
+      glorio<lb ed="#H" n="173" break="no"/>so comitatu sanctorum Angelorum, Matth. 25. 31. 2. Thess. 1. 7. 
+      pate<lb ed="#H" n="174" break="no"/>fiet Dominus Iesus de caelo, cum Angelis suis potentibus. Epist. Judae v. 
+      <lb ed="#H" n="175"/>14 Ecce venit Dominus cum sanctis millibus suis 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e667">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Sic Angeli exhibuerunt Christo officium debitum tum ante 
+      in<lb ed="#H" n="177" break="no"/>carnationem, tum post incarnationem, in statu humilitatis &amp; gloriae 
+      <lb ed="#H" n="178"/>&amp; exhibebunt in extremo dic &amp; in aeternum. 
+      <!--cod-MkL9py-0309.xml-->
+      <pb ed="#H" n="282"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Haec de officio bonorum Angelorum erga Deum &amp; 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e687">
+               <lb ed="#H" n="2"/>
+               <pc type="indent"/>Christum Dominum. 
+      <lb ed="#H" n="3"/>Erga homines etiam duplex est eorum officium 
+      <lb ed="#H" n="4"/>Unum, beneficia Dei dispensare, &amp; ministrare iis qui electi sunt ad 
+      <lb ed="#H" n="5"/>vitam aeternam, sicut de illis dicitur Hebr. 1. vers. 14. No, ne omnes sunt 
+      <lb ed="#H" n="6"/>ministratores spiritus, qui ministerit causa emittuntur propter eos, qui  
+      <lb ed="#H" n="7"/>haeredes erunt salutii 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e706">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Officium hoc exsequuntur multis modis.: Primo docent electos &amp; 
+      p<lb ed="#H" n="9" break="no"/>revelant illis voluntatem judicia &amp; mysteria Dei, annunciant opera 
+      <lb ed="#H" n="10"/>&amp; beneficia ejus, dubios &amp; perturbatos de veritate instruunt, ab 
+      er<lb ed="#H" n="11" break="no"/>roribus atque idololatria abducunt. Genes. 19. v. 12, 13. Loto indicant  
+      <lb ed="#H" n="12"/>voluntatem Dei de perdenda Sodoma &amp; Gomortha. Danieli 
+      Pro<lb ed="#H" n="13" break="no"/>phetae Angelus Gabriel declaravit visionem quatuor animalium 
+      <lb ed="#H" n="14"/>Dan 6. ver. 6. &amp; sequentibus. Idem informavit Danielem &amp; 
+      imbui<lb ed="#H" n="15" break="no"/>intelligentia de septimanis septuaginta Dan. 9. a v. 21. usque ad finem: 
+      <lb ed="#H" n="16"/>&amp; de multis mysteriis eum instruxit cap. 10. &amp; 15. &amp; 12. In novo 
+      Te<lb ed="#H" n="17" break="no"/>stamento Angelus Gabries edocuit Zachariam sacerdotem pium 
+      de<lb ed="#H" n="18" break="no"/>filio Johaune Baptista, Luc. 1. ver. 11 &amp; sequentibus &amp; Mariam, 
+      virgi<lb ed="#H" n="19" break="no"/>nem de incarn: tione Filii Dei in ipsa, Luc. 1. v 26. &amp; sequentibus. An 
+      <lb ed="#H" n="20"/>gelus Dei Josephum cui virgo Maria desponsa erat, dubium &amp; pertur. 
+      <lb ed="#H" n="21"/>batum de Maria quo praegnans esset, certiorem fecit de 
+      conceptio<lb ed="#H" n="22" break="no"/>ne Christi ex Spiritu Sancto Matth. 1. v. 20, 21. Annanciavit 
+      pastori<lb ed="#H" n="23" break="no"/>bus Evangelium de nato Christo, Luc. 2. vers. 8. &amp; sequentibus. 
+      Infor<lb ed="#H" n="24" break="no"/>mavit muneres de resurrectione Christi, Matth. 28. v. 5. &amp; sequenti 
+      <lb ed="#H" n="25"/>bus. Informarunt Angeli discipulos Christi de adscensione ejus in 
+      ce<lb ed="#H" n="26" break="no"/>lum &amp; reditu in fine mundi Act. 1. v. 10, 11. Angeius Dei Cornelium 
+      <lb ed="#H" n="27"/>Centurionem admonuit, ut Petrum Apestoium accerseret &amp; ipsum 
+      <lb ed="#H" n="28"/>audiret Act. 10 ver 3 &amp; sequentibus. Sic Angelus significavit Johanni I 
+      <lb ed="#H" n="29"/>Apostolo futurum mundi &amp; Ecclesiae Dei statum, Apop.  v. 1. &amp; 
+      cap<lb ed="#H" n="30" break="no"/>ult. ver 16. Eto Ieius misi Angelum meum, ut haec vobis testificaretur in 
+      <lb ed="#H" n="31"/>Ecclesis. Quum Johannes Apostolus procidisset ante pedes Angeli us 
+      <lb ed="#H" n="32"/>eum adoraret, prohibuit Johannem id facere, &amp; Deo cultum 
+      adora<lb ed="#H" n="33" break="no"/>tionis exhibere jussit, Apoc. 19. 10 &amp;c. ult. v. 8, 9. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e767">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Sicundo custodiunt boni Angeli electos contra omnia pericula 
+      a<lb ed="#H" n="35" break="no"/>nimae &amp; corporis, contra Satanae &amp; aliorum hostium insidias, 
+      moli<lb ed="#H" n="36" break="no"/>tiones, conatus insuitus, quem idmodum dicitur Psalm. 34. 8. Castro 
+      <lb ed="#H" n="37"/>metatur Angelus Ichovae cirta timentes eum &amp; cripit eos. Psalm. 91. 
+      <lb ed="#H" n="38"/>11, 12. Angetis suis praecipiet dite, ut conservent te in omnibus viius tuis: 
+      <lb ed="#H" n="39"/>Ambabus palinis sust, neant te, ne offendas ad lapidem pedem tuum 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e785">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Exempla sunt plurima in Scriptura Sacra. Angeli cripuerunt 
+      Lo<lb ed="#H" n="41" break="no"/>tum, quum Sodoma &amp; Gomorrha perdenda esset, Genes. 19. 
+      Custo<lb ed="#H" n="42" break="no"/>des fuerunt Lume. Patriarchae in Mesopotamiam euntis &amp; ex ea 
+      re<lb ed="#H" n="43" break="no"/>deuntis, quod ipsi Deus pollicitus fuerat, stans supra scalam, quam 
+      vi<lb ed="#H" n="44" break="no"/>debar Jacobus in somnio constitutam in terra, cujus summitas 
+      per<lb ed="#H" n="45" break="no"/>tingebat ad caelum &amp; Angeli Dei adscendebant &amp; descendebant 
+      pe<lb ed="#H" n="46" break="no"/>eam, Genes. 25. 12: Nam scala designat iter Jacobi: Angeli 
+      adscen<lb ed="#H" n="47" break="no"/>dentes abeuntis sunt custodes; sicut descendentes redeuntis. Deus 
+      <lb ed="#H" n="48"/>summitatem scalae obtinet, quia totam tem providentia sua modera 
+      <lb ed="#H" n="49"/>tur, ut ipsemet Deus interpretatur v. 15. Ego sum tecum ut servem 
+      te<lb ed="#H" n="50" break="no"/>quocunque iveris, &amp; reducam te in hanc ipsam terram, non enim 
+      dese<lb ed="#H" n="51" break="no"/>rain te usque dum perfecero quae eloquutus sum tibi. Quapropter 
+      rede<lb ed="#H" n="52" break="no"/>unti Jacobo ex Mesopotamia venerunt obviam Angeli Dei, dixitquo 
+      <lb ed="#H" n="53"/>Iacob cit: videret eos, acies Dei haec est, Gen. 31 v. 1, 2. Angelus Dei 
+      op<lb ed="#H" n="54" break="no"/>posuit se Bileamo in via ut esset ei adversarius &amp; prohibuit ei ne 
+      ma<lb ed="#H" n="55" break="no"/>lediceret populo Iiraelitico Numer 22. v. 22. &amp; sequentibus 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e824">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Angelus Jehovae liberavit Regem Ezechiam &amp; regnum 
+      Judaeo<lb ed="#H" n="57" break="no"/>rum a Sennacheribi potentia 2 Reg. 19. v 35. Jesa. 37. v. 35. 36. Davia 
+      <lb ed="#H" n="58"/>ait Psalm 18. 17, 18. Mittens (nempe sanctos Angelos suos) ex edito 
+      <lb ed="#H" n="59"/>assumit ma, extrahit me ex aquis muliis: &amp; cripit me ab inimico mes 
+      <lb ed="#H" n="60"/>valentioro, &amp; ab asoribus meis, quii robustiores sunt me. Elisaeo magnus 
+      <lb ed="#H" n="61"/>exercitus Angelorum Dei praesto fuit adversu. Syros 2. Reg 6. v 16, 
+      <lb ed="#H" n="62"/>17. Angelus Dei custodivit tres Danielis socios &amp; amicos 
+      Schadra<lb ed="#H" n="63" break="no"/>chum, Mesch ichum &amp; Abednegonem in mediis flammis, in 
+      fornace<lb ed="#H" n="64" break="no"/>Bahylonica, in quam jussu Nebucadnetzaris conjecti fuerant, 
+      Dan<lb ed="#H" n="65" break="no"/>3. 25 &amp; sequentibus. Deus misit Angelum suum qui occlusit ora leo 
+      <lb ed="#H" n="66"/>num ut non laederent Danielem in foveam leonum projectum, 
+      Dan<lb ed="#H" n="67" break="no"/>6. v 23. Angelus restitit Cambysi filio Cyri &amp; consiliariis ejus, proco 
+      <lb ed="#H" n="68"/>ribusque regni, &amp; impedivit molitiones eorum in Judaeos, quos Deus 
+      <lb ed="#H" n="69"/>servatum voluit, Dan. 10 v. 13 Quum Pontifex maximus 
+      Jerosolymi<lb ed="#H" n="70" break="no"/>tanus injecisset manus in Apostolos posuissetque eos in custodia 
+      publi<lb ed="#H" n="71" break="no"/>ca; Angelus Domini per noctem aperuit fores carceris, eduxitque eos 
+      <lb ed="#H" n="72"/>ac publice docere jussit, Act 5. v. 17. 18, 19. Quum Herodes Petrum 
+      <lb ed="#H" n="73"/>in carcerem conjecisset &amp; postridie producturus esset, Angelus 
+      Do<lb ed="#H" n="74" break="no"/>mini Petrum e carcere eduxit &amp; a morte liberavit, Actorum 12. 7. 8. 
+      <lb ed="#H" n="75"/>9, 10¬ 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e872">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Apocal. 7. 1. vidit Johannes quatuor Angelos insistentes quatuor 
+      <lb ed="#H" n="77"/>angulis terrae &amp; retinentes quatuor vento- terrae, ne flaret ventus 
+      su<lb ed="#H" n="78" break="no"/>per terram, neque super mare, neque in ullam arborem. Quo 
+      osten<lb ed="#H" n="79" break="no"/>sum fuit a ngelos has inferiores partes mundi custodite a malo, doneo 
+      <lb ed="#H" n="80"/>praecipiat Deus ut judicia exsequantur in impios 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e888">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Tertio, boni Angeli tum alloquio tum declaratione praesentiae suae 
+      <lb ed="#H" n="82"/>consol intur consternatos, afflictos &amp; anxios. Sic Angelus consolatus 
+      <lb ed="#H" n="83"/>est Hagaram matrem Ismaelis, Gen. 21 17, 18. Castra Angelorum 
+      Ja<lb ed="#H" n="84" break="no"/>cobo Vatriarchae e Mesopotamia revertenti magnum praesentia suam 
+      <lb ed="#H" n="85"/>solatium attulerunt. Genes. 32. 1, 2. Unus ex Seraphim Jesaiam 
+      Pro<lb ed="#H" n="86" break="no"/>phetam consternatum visione Jehovae &amp; conquerentem de 
+      pollutio<lb ed="#H" n="87" break="no"/>ne labiorum suorum, consolatus est &amp; confirmavit: nam advolavit ad 
+      <lb ed="#H" n="88"/>esaiam habens in manu sua prunam (figuram igniculi virtutis de 
+      <lb ed="#H" n="89"/>norumque Spiritus Dei,) quam forcipibus sumserat ab altari sfigura 
+      <lb ed="#H" n="90"/>Christi, ex cujus plenitudine haurimus omnes per Spiritum ipsius,, 
+      <!--cod-MkL9py-0309.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>admovitque ori eius dicens: ecce attingit hoc labia tua: iam amovetur 
+      <lb ed="#H" n="92"/>iniquitas tua &amp; peccatum tuum expiatur, Jesa. 6. vers. 6, 7: Danielen 
+      <lb ed="#H" n="93"/>consternatum consolatus est Angelus, Dan. 10. ver. 12. Ne cimeto 
+      Da<lb ed="#H" n="94" break="no"/>niel:nam inde a die primo quo applicuisti animum tuum ad 
+      consideran<lb ed="#H" n="95" break="no"/>dum &amp; ad affligendum te, coram Deo tuo, exaudita sunt verba tua: &amp; 
+      <lb ed="#H" n="96"/>ego veni propter verba tua. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e933">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>Angelus Gabriel Mariam perturbatam super ejus sermone, 
+      con<lb ed="#H" n="98" break="no"/>solatus est in hunc modum Luc. 1. v. 30: Ne time Maria: es enim in 
+      gra<lb ed="#H" n="99" break="no"/>tia apud Deum. Angelus Domini pastores timore magno timentes 
+      <lb ed="#H" n="100"/>consolatus est, Luc. 2. v. 10. Item mulieres, quae ad sepulchrum Christ. 
+      <lb ed="#H" n="101"/>venerant Matt. 28. Cornelium Centurionem, Act. 10. 4. cui dicebat,  
+      <lb ed="#H" n="102"/>preces tuae &amp; eleemosynae tuae adscenderunt in memoriam in Dei 
+      conspe<lb ed="#H" n="103" break="no"/>ctu. Paulum Apostolum in gravissima tempestate maris versantem 
+      <lb ed="#H" n="104"/>consolatus est Angelus Dei, Act. 27. 23, 24. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e955">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Quarto portant Angeli sancti electorum morientium animas in 
+      <lb ed="#H" n="106"/>caelum, ut videre est in exemplo Lazari, Luc. 16. v. 22. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e964">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>Quinto, in extremo illo die &amp; illustri adventu Christi, cogent 
+      ele<lb ed="#H" n="108" break="no"/>ctos homines a quatuor ventis ab extremo terrae usque ad extremum. 
+      <lb ed="#H" n="109"/>caeli, Matth. 24. 31. Marci 13 22. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e975">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Hactenus primum bonorum eAngelorum of¬ 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e982">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>ficium erga homines. 
+      <lb ed="#H" n="112"/>Alterum est, judicia Dei exsequi in homines. 
+      <lb ed="#H" n="113"/>Officium hoc exsequuntur boni Angeli duobus modis. 
+      <lb ed="#H" n="114"/>Primo enim in hac vita castigationis paternae in electos, &amp; 
+      vindi<lb ed="#H" n="115" break="no"/>ctae divinae severissimae in reprobos sunt administri. Sic Angelus 
+      Je<lb ed="#H" n="116" break="no"/>hovae castigavit Davidem, qui populum sibi subditum numerari 
+      cu<lb ed="#H" n="117" break="no"/>raverat, perdendo e populo peste septuaginta millia virorum, 2. Sam. 
+      <lb ed="#H" n="118"/>24. 16, 17. Vindictam divinam exsecutus est in Sodomitanos cives 
+      <lb ed="#H" n="119"/>Genes. 19. versicul. 11. in Si nnacheribum &amp; exercitum ejus, 2. Reg 
+      <lb ed="#H" n="120"/>19. versicul. 35. Jes 37. versicul 36: in Herodem, quem percussit, eo 
+      <lb ed="#H" n="121"/>quod non tribuisset gloriam Deo, &amp; erosus a vermibus, exanimatus 
+      <lb ed="#H" n="122"/>est, Actor. 12. versicul 23. Sic per Angelos vindictam suam se 
+      exse<lb ed="#H" n="123" break="no"/>quuturum praedixit Deus Johanni in Apocalypsi cap. 8. &amp; 14 &amp; I5. 
+      <lb ed="#H" n="124"/>&amp;16. Apocal. 16. v. 16. dicitur quod Angelus sextus qui effudit 
+      phia<lb ed="#H" n="125" break="no"/>lam suam in flumen illud magnum Euphratem, congregavit hostes 
+      <lb ed="#H" n="126"/>Christi in locum qui vocatur. Hebratte Armageddone 
+      <lb ed="#H" n="127"/>Exsequuntur autem judicia DEI Iusse; quod indicatur lino 
+      mun<lb ed="#H" n="128" break="no"/>do quo dicuntur induti, Apocal. 15. 6. Cum omni diligentia: quod 
+      <lb ed="#H" n="129"/>indicatur praecinctura vestium Apocal. 15. 6. Cum puritate ac fide in 
+      <lb ed="#H" n="130"/>mandatis Dei capessendis, quod indicatum zonis aureis circa 
+      pecto<lb ed="#H" n="131" break="no"/>ta. Apoc. 15. 6. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e1032">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>Secundo in ultimo die segregabunt reprobos ab electis &amp; in 
+      sem<lb ed="#H" n="133" break="no"/>piternum ignem projicient, ut legitur Matth. 13. ver. 40, 41, 42. Sicut  
+      <lb ed="#H" n="134"/>colliguntur Tizania &amp; igni exuruntur: ita erit in consummatione seculi 
+      <lb ed="#H" n="135"/>huius, Mittet filius hominis Angelos suos, qui colligent ex ipsius regno 
+      o<lb ed="#H" n="136" break="no"/>mnia offendicula, &amp; eos qui dant operam transgressioni legis: 
+      Proicient<lb ed="#H" n="137" break="no"/>que eos in fornacem ignis: illic erit fletus stridorque dentium. Et rursus, 
+      <lb ed="#H" n="138"/>1. 49, 50: ita erit in consummatione seculi: Prodibunt Angeli &amp; segret 
+      <lb ed="#H" n="139"/>gabunt malos e medio iustorum, proticientque eos in caminum ignis: illit 
+      <lb ed="#H" n="140"/>erit fletus &amp; stridor dentium 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e1057">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Plura de Angelis sanctis videantur in Commentariis nostris in 
+      <lb ed="#H" n="142"/>Ezechielem &amp; Danielem. 
+      </p>
+            <p xml:id="yyy8Uu-e35001-d1e1066">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Sic fuit de bonis Angelis: se¬ 
+      <lb ed="#H" n="144"/>quitur
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

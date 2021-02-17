@@ -1,0 +1,1564 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 47</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 47</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="124"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e57662"> <!-- l1-c47 -->
+            <head xml:id="yyy8Uu-e57662-Hd1e109">Caput 47</head>
+            <p xml:id="yyy8Uu-e57662-d1e112">
+               <lb ed="#H" n="32"/>CAPUT XLVII. 
+      <lb ed="#H" n="33"/>In quo agitur de Traditionibus non scriptis.
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e119">
+               <lb ed="#H" n="34"/>E Traditionibus non scriptis duae sunt praecipuae quaestiones: 
+      <lb ed="#H" n="35"/>TPUna, An jam sint aliquae traditiones de fide &amp; bonis operibus ve¬ 
+      <lb ed="#H" n="36"/>re divinae &amp; Apostolicae non scriptae? Altera, an sint jam praetet 
+      <lb ed="#H" n="37"/>Scripturam Sacram necessariae? De quibus ut recte agatur, a genere ad 
+      <lb ed="#H" n="38"/>speciem erit progrediendum. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e132">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>TRADITIONIS VOX, in sermone Ecclesiastico, ambigua 
+      <lb ed="#H" n="40"/>est: nam interdum sumitur pro re tradita, id est, pro doctrina, seu 
+      hi<lb ed="#H" n="41" break="no"/>storia, seu testificatione, seu ceremonia: interdum pro actione 
+      traden<lb ed="#H" n="42" break="no"/>di, ut cum significat factum Ecclesiae per manus tradentis Scripturam 
+      <lb ed="#H" n="43"/>posteris 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e149">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Quum pro re tradita accipitur, tum interdum generaliter 
+      signifi<lb ed="#H" n="45" break="no"/>cat doctrinam, historiam aut ceremoniam, sive sermone nudo &amp; vivia 
+      <lb ed="#H" n="46"/>voce, sive scripto traditam: interdum specialiter significat aliquid 
+      scri<lb ed="#H" n="47" break="no"/>pto traditum, ut cum Hieronymus ait, unam esse quadragesimam 
+      se<lb ed="#H" n="48" break="no"/>cundum traditionem, id est, historiam Evangelicam ab Apostolis 
+      <lb ed="#H" n="49"/>scriptam: vel aliquid viva solum voce traditum. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e167">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Traditio quum pro re tradita accipitur est E CAUSIS EEF 
+      I<lb ed="#H" n="51" break="no"/>IENTIRUS vel divina vel humana. 
+      <lb ed="#H" n="52"/>Traditio divina, est quae a Deo Ecclesiae est commendata per 
+      Pro<lb ed="#H" n="53" break="no"/>phetas, Christum in carne exhibitum, &amp; Apostolos 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e180">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Eaque est ESUBIECTIS vel dogmatica, vel historica, vel ritualis 
+      <lb ed="#H" n="55"/>Traditio dogmatica, est dogma seu doctrina de fide aut de bonis 
+      o<lb ed="#H" n="56" break="no"/>peribus. Hoc significato usurpatur traditionis nomen 2. Thess. 2 15. 
+      <lb ed="#H" n="57"/>Nempe igitur fratres, perstate &amp; retinete ζασ παραδυσεις, traditiones, quas 
+      <lb ed="#H" n="58"/>docti estis sive per sermonem, sive per epistolam nostram. Et cap. 3. 6. Dei 
+      <lb ed="#H" n="59"/>nunciamus autem vobis fratres, in nomine Domini nostri Iesu Christi, ut 
+      <lb ed="#H" n="60"/>subducatis vos ab omni fratre, qui inordinate incedit, &amp; non secundum 
+      <lb ed="#H" n="61"/>graditionem, quam accepit a nobis 
+      <lb ed="#H" n="62"/>Traditio hisforica, est historia &amp; narratio singularium dictorum 
+      <lb ed="#H" n="63"/>aut factorum aut eventuum Christi aut Apostolorum aut aliorum: 
+      <lb ed="#H" n="64"/>qualis est traditio de communione facultatum in primitiva Ecclesia, 
+      <lb ed="#H" n="65"/>Actor. 2. 44. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e211">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Traditio ritualis, est ritus seu 
+      ceremonia<lb ed="#H" n="67" break="no"/>Estque traditio ritualis e subjectis vel universalis, vel particularis. 
+      <lb ed="#H" n="68"/>Vniversalis, est quae in universis Ecclesiis observanda, 
+      <lb ed="#H" n="69"/>Particularis, est quae in particulari Ecclesia una aut pluribus 
+      obti<lb ed="#H" n="70" break="no"/>net: qualis erat observatio Agaparum, de quibus in epistola Judae. 
+      <lb ed="#H" n="71"/>12. Hi sunt in agapis vestris ma ulae, dum vobiscum convivantur, secur 
+      <lb ed="#H" n="72"/>seipsos pascentes, nubes aqua carentes, ventis circumactae, arbores emar 
+      <lb ed="#H" n="73"/>cidae, infrugiferae, bis emortuae. Et I. Corinth. 11. 21. Actor. 2. 46. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e233">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Ex adjunctis traditio ritualis est vel vel perpetua, vel temporaria. 
+      <lb ed="#H" n="75"/>Perpetua, est quae immutabilis semper observanda est, usque ad 
+      fi<lb ed="#H" n="76" break="no"/>nem mundi: ut Baptismus &amp; Coena Domini: 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e244">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Temporaria, est quae pro citcumstantiarum, veluti temporum, 
+      lo<lb ed="#H" n="78" break="no"/>corum ac personarum varietate mutari potest, ac propterea libera es 
+      <lb ed="#H" n="79"/>ejus observatio ac nequaquam perpetuo necessaria, etsi ad tempus 
+      <lb ed="#H" n="80"/>fuerit vel sit necessaria; qualis fuit Apostolica traditio de abstinentia. 
+      <lb ed="#H" n="81"/>a sanguine &amp; suffocato, Act. 15. v. 28, 29. &amp; cap. 16. 4. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e261">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Homana traditio, est quae nuda hominum voluntate excogitata &amp; 
+      <lb ed="#H" n="83"/>m Ecclesiam introducta est: quales erant traditiones multae 
+      Phari<lb ed="#H" n="84" break="no"/>aeorum &amp; Seniorum in populo Judaico, quales item plurimae sunt in 
+      <lb ed="#H" n="85"/>Christianas Ecclesias introductae 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e274">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Hae traditionum partitiones verae sunt ac legitimae Papistae aute 
+      tra<lb ed="#H" n="87" break="no"/>ditionum nomine intelligunt doctrinas quae nusqua in Veteri &amp; 
+      Nove<lb ed="#H" n="88" break="no"/>Testameto scriptae exstant Easque dicunt esse triplices, diuvinas, 
+      Aposto<lb ed="#H" n="89" break="no"/>icas &amp; Ecclesiasticas. DIVINAE traditiones dicuntur, (ait Bellarminus) 
+      <lb ed="#H" n="90"/>quae acceptae sunt ab ipso Christo Apostolos docente, &amp; nusquam in divi¬ 
+      <!--cod-MkL9py-0151.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>nis literis inveniuntur: talia sunt ea quae ad materiam &amp; formam 
+      Sa<lb ed="#H" n="92" break="no"/>cramentorum pertinent, pauca enim de his habemus in diuvinis literis. 
+      <lb ed="#H" n="93"/>&amp; tamen certum est Sacramentorum essentiam non potuisse, nisi a 
+      Chri<lb ed="#H" n="94" break="no"/>sto institui: Propterea enim Apostolus 1. Cor. 11. loquens de Saccamento 
+      <lb ed="#H" n="95"/>Eucharistiae dicebat: Ego enim accepi a Domino, quod &amp; tradide 
+      <lb ed="#H" n="96"/>vobis. 
+      <lb ed="#H" n="97"/>APOSTOLIC AEtraditiones proprie dicuntur illae, quae ab 
+      Aposto<lb ed="#H" n="98" break="no"/>lis institutae sunt, non tamen sine assistentia Spiritus Sancti, &amp; nihilomi 
+      <lb ed="#H" n="99"/>nus non exstant scriptae in eorum epistelis: quale est ieiunium 
+      Quadrage<lb ed="#H" n="100" break="no"/>simae, &amp; quatuor temporum, &amp; alia multa, de quibus postea. Solent 
+      ta<lb ed="#H" n="101" break="no"/>men interdum etiam divinae traditiones dici Apostolicae, &amp; Apostolica 
+      <lb ed="#H" n="102"/>dicuntur divinae: divinae traditiones dicuntur Apostolicae, non quod 
+      ab<lb ed="#H" n="103" break="no"/>illis sint institutae, sed quod ab eis primum Ecclesiae traditae sint, cum ipsi 
+      <lb ed="#H" n="104"/>seorsim eas a Christo accepissent: &amp; Apostolicae dicuntur divinae, non quos 
+      <lb ed="#H" n="105"/>eas Deus immediate instituerit, sed quod non sine spiritu Dei cas 
+      Aposto<lb ed="#H" n="106" break="no"/>li instituerint. Quomodo omnes epistola Apostolorum dicuntur divina &amp; 
+      <lb ed="#H" n="107"/>Apostolica scripta, etiam si quaedam in eis sint praecepta divina, &amp; 
+      quae<lb ed="#H" n="108" break="no"/>dam proprie Apostolica, ut patet ex illo priore ad Corin. 7. Praecipio non 
+      <lb ed="#H" n="109"/>ego, sed Dominus; &amp; postea, Dico ego, non Dominus. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e335">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Ec CLESIASTIC AEtraditiones proprie dicuntur consuetudines 
+      quae<lb ed="#H" n="111" break="no"/>dam antiquae vel a praelatis, vel a populis inchoatae, quae paulatim tacite 
+      <lb ed="#H" n="112"/>consensu populorum vim legis obtinuerunt. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e346">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Sed Bellarminus primo vitios e distribuit traditiones in diuvinas, 
+      A<lb ed="#H" n="114" break="no"/>postolicas &amp; Ecclesiasticas: Nam vere Apostolicae sunt divinae: &amp; 
+      Ec<lb ed="#H" n="115" break="no"/>clesiasticae αμαγυμως dicuntur, vel quae Ecclesiae a Deo datae &amp; in 
+      ea<lb ed="#H" n="116" break="no"/>dem atque ab eadem observantur; vel quae ab Ecclesia ipsa sunt 
+      intro<lb ed="#H" n="117" break="no"/>ductae. Apostolica traditio ab Athanasio appellatur quae tamen scripta 
+      <lb ed="#H" n="118"/>est in sacris literis; Epistolam ad Adelphium contra Arianos primo 
+      to<lb ed="#H" n="119" break="no"/>mo, pagina trecentesima trigesimatertia ait: Et Apostolica traditio 
+      <lb ed="#H" n="120"/>commonstret, Petro referente, Christum in carne passum; Paulo item 
+      lo<lb ed="#H" n="121" break="no"/>quente, Exspectantes beatam spem &amp; adventum gloriae magni Dei. 
+      Sic<lb ed="#H" n="122" break="no"/>Cyprianus, epistolam sexagesimatertia sectione secunda, juxta 
+      editio<lb ed="#H" n="123" break="no"/>nem Pamelii, vel libro secundo epistolam tertia juxta editionem 
+      Eras<lb ed="#H" n="124" break="no"/>mi, dicit, Dominicam esse traditionem, ut calix qui in 
+      commemoratio<lb ed="#H" n="125" break="no"/>nem Christi offertur, mixtus vino offeratur. Haec traditio etiam scripta 
+      <lb ed="#H" n="126"/>est; nam Dominus in institutione Coenae Dominicae accepit calicem:? 
+      <lb ed="#H" n="127"/>vino mistum, id est, cui vinum infusum fuit. Loquutus est Cyprianus 
+      <lb ed="#H" n="128"/>Latino more, quo calix seu porulum dicitur misceri potu aliquo, cum 
+      <lb ed="#H" n="129"/>calici seu poculo potus ille infunditur. Ideo non dicit Cyprianus, 
+      cali<lb ed="#H" n="130" break="no"/>cem offerendum mistum aqua, sed mistum vino: idque dicit contra 
+      <lb ed="#H" n="131"/>Aquarios, qui pro vino aquam populo offerebant, contra 
+      Domini<lb ed="#H" n="132" break="no"/>cam traditionem. Aquam autem vino miscendam humana 
+      traditio<lb ed="#H" n="133" break="no"/>est, de qua suo postea loco in eadem epistola Cyorianus agit.  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e396">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Distinctionem suam Bellarminus vult probare, quod &amp; in scriptis 
+      <lb ed="#H" n="135"/>Apostolicis quaedam sint praecepta divina &amp; quaedam proprie Apostolicat 
+      <lb ed="#H" n="136"/>ut pateat ex 1 Cor. 7. v. 10. Praecipio non ego, sed Dominus: &amp; postea v. 12. 
+      <lb ed="#H" n="137"/>Dico ego, non Dominus. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e409">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>RESP. Falsa est haec distinctio: nam omnia praecepta Apostolica, 
+      <lb ed="#H" n="139"/>in epistolis illorum consignata, vere sunt etiam divina. Locus vero ex 
+      <lb ed="#H" n="140"/>11. Cor. 7. ad probandum institutum Bellarmini non facit, quia ejus 
+      in<lb ed="#H" n="141" break="no"/>terpretatio a Bellarmino data, non convenit cum mente Pauli. Etenim 
+      <lb ed="#H" n="142"/>praecopta sua non opponit Paulus divinis respectu autorum seu 
+      cau<lb ed="#H" n="143" break="no"/>sarum efficientium simpliciter, sed secundum quid, nempe quoad 
+      mo<lb ed="#H" n="144" break="no"/>dos, quibus praecepta illa sunt a Domino Apostolo tradita: Facit enim 
+      <lb ed="#H" n="145"/>discrimen inter illa quae Dominu: Jesus ipse in terris versans cum 
+      di<lb ed="#H" n="146" break="no"/>scipulis suis &amp; docens immediate per se praecepit, quale est praeceptu 
+      <lb ed="#H" n="147"/>matrimonio junctis datum Matthaei 19. 6. Quod Deus coniunxit, 
+      ho<lb ed="#H" n="148" break="no"/>mo ne separet; quod Apostolus his verbis repetit, Vxor a viro ne se se 
+      <lb ed="#H" n="149"/>parato: &amp; inter ea quae ipse Apostolus Spiritu Christi afflatus ad 
+      quae<lb ed="#H" n="150" break="no"/>stiones a Corinthiis per epistolam propositas praesciipsit, non autem 
+      <lb ed="#H" n="151"/>ex se aut ex proprio arbitrio constituit, ut aperte indicat in 
+      conclusio<lb ed="#H" n="152" break="no"/>ne capitis, quum ait: setundum meam sententiam, puto autem me quo- 
+      <lb ed="#H" n="153"/>que Spiritum Dei habere: ut intelligerent Corinihii, quod ipse non 
+      <lb ed="#H" n="154"/>propria autoritate ita sentiret ut scriberet, sed per afflatum Spiritus 
+      <lb ed="#H" n="155"/>Dei. Hoc ipsum etiam indicat versicul. 25. in quo Paulus ait: De 
+      vir<lb ed="#H" n="156" break="no"/>inibus praeceptum Domini non habeo, sed do quod sentio, ut cui 
+      Domi<lb ed="#H" n="157" break="no"/>nus per misericordiam dederit fidum esse. id est, non habeo praeceptum 
+      <lb ed="#H" n="158"/>quod Dominus ipsemet immediate dederit docens in terris, quale est, 
+      <lb ed="#H" n="159"/>illud vers. 10. Vxor a viro ne seseparato: sed meam sententiam expono, 
+      <lb ed="#H" n="160"/>non privata autoritate excogitata, sed a Domino per Spiritum 
+      San<lb ed="#H" n="161" break="no"/>ctum mihi inditam: nam tota Scriptura est θεοπρους ο, est divinitus 
+      <lb ed="#H" n="162"/>inspirata; Ergo &amp; haec praecepta Apostolica sunt θεοπ διστα, divinitus 
+      <lb ed="#H" n="163"/>inspitata: ac de his &amp; similibus praeceptis ait idem Apostolus 1. 
+      Cor<lb ed="#H" n="164" break="no"/>14. 37. Si quis videtur Propheta esse, aut spiritualis, agnoscat quae scribo 
+      <lb ed="#H" n="165"/>vobis, esse Domini mandata. Quae ergo mandata Apostolus scripsit, 
+      il<lb ed="#H" n="166" break="no"/>sa omnia unius &amp; ejusdem autoris, nimirum Domini mandata 
+      fue<lb ed="#H" n="167" break="no"/>tunt, sed alia immediata, alia mediata: illa Dominus ipse in terris 
+      cor<lb ed="#H" n="168" break="no"/>poraliter versans in sua propria persona ore suo protulit; haec vero 
+      A<lb ed="#H" n="169" break="no"/>postolus, in quo idem Dominus loquebatur 2. Cotin. 13. 3. &amp; per 
+      Spi<lb ed="#H" n="170" break="no"/>ritum Sanctum revelabat. 1. Corinth. 7. 46. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e486">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Secundo tota essentia Sacramentorum ac proinde materia ac 
+      for<lb ed="#H" n="172" break="no"/>ma illorum, est traditionis scriptae non autem ἀχρεφς. Ieiunium 
+      qua<lb ed="#H" n="173" break="no"/>dragesimae &amp; iciunia quatuor temporum &amp; similia multa, non sunt 
+      tra<lb ed="#H" n="174" break="no"/>ditiones Apostolicae: imoetiamsi essent, tamen omnia dogmata 
+      no<lb ed="#H" n="175" break="no"/>bis ad salutem necessatia in Scriptura Sacra continerentur. jejunia 
+      e<lb ed="#H" n="176" break="no"/>nim non (unt dogmata ad salutem necessaria. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e504">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Hic igitur gravissima controversia oritur: An iam sint aliquae 
+      tra<lb ed="#H" n="178" break="no"/>ditiones de fide &amp; bonis operibus vere divinae &amp; Apostolica non scriptae in 
+      <lb ed="#H" n="179"/>ibris diuinibus Canonicis. 
+      <lb ed="#H" n="180"/>Quaestionem primum explico. Non quaeritur, an olim fuerit aliqua 
+      <lb ed="#H" n="181"/>traditio non scripta? Nam principio nascenti Ecclesiae verbum Dei 
+      <lb ed="#H" n="182"/>fine scripto traditum fuit: sed postea procedente tempore idem 
+      <!--cod-MkL9py-0152.xml-->
+      <pb ed="#H" n="125"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>verbum sctiptis comprehensum est &amp; penes Ecclesiam, veluti 
+      thesau<lb ed="#H" n="2" break="no"/>tus coelestis, depositum. Ante Mosen igitur fuerunt traditiones 
+      di<lb ed="#H" n="3" break="no"/>vinae non scriptae; &amp; traditiones Evangelicae initio praedicationis 
+      Ev<lb ed="#H" n="4" break="no"/>angelii fuerunt non scriptae: sed sicut in Veteri Testamento 
+      doctri<lb ed="#H" n="5" break="no"/>na Prophetica tota, ita &amp; in Novo Testamento Apostolica 
+      doctri<lb ed="#H" n="6" break="no"/>na tota certis &amp; numero finitis libris comprehensa fuit. Non ergo 
+      <lb ed="#H" n="7"/>quaeritur, quid olim fuerit; sed an hoc tempore SINT aliquae divinae &amp; 
+      <lb ed="#H" n="8"/>Apostolicae traditiones de fide &amp; bonis operibus non scriptae, extra libros 
+      <lb ed="#H" n="9"/>Propheticos &amp; Apostolicos; 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e548">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Papani contendunt esse, &amp; sequentibus argumentis evincere 
+      co<lb ed="#H" n="11" break="no"/>quantur, quae Bellarminus recitat:  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e557">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>PRIMUM: Si Scriptura non continet omnia, &amp; necessarium est 
+      <lb ed="#H" n="13"/>verbum traditum (nimirum non scriptum) sequitur esse aliquod ver 
+      <lb ed="#H" n="14"/>bum traditum, alioqui Deus non bene providisset Ecclesiae. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e568">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>RESP. Primo: Utrumque antecedentis membrum est falsum: &amp; 
+      <lb ed="#H" n="16"/>consequens igitur. Secundo consequentiae probatio est inconsequens. 
+      <lb ed="#H" n="17"/>quia Scriptura continet omnia ad salutem necessaria dogmata &amp; 
+      ver<lb ed="#H" n="18" break="no"/>bum aliquod non scriptum non est necessarium: Deus ergo optime 
+      <lb ed="#H" n="19"/>providit Ecclesiae 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e584">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>SECUNDUM, Testimoniis aliquot Scripturae constat, quae 
+      or<lb ed="#H" n="21" break="no"/>dine considerabimus. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e594">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Primum testimonium. 
+      <lb ed="#H" n="23"/>Joh. 16. 12. Adhuc multa habeo quae vobis dicam, sed non potestis 
+      por<lb ed="#H" n="24" break="no"/>tare modo. Illa, quae promittebat Dominus se dicturum loan. 16. dixit.  
+      <lb ed="#H" n="25"/>haud dubie post resurrectionem suam. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e607">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>Syllogismus talis erit 
+      <lb ed="#H" n="27"/>Si multa Apostolis a Christo fuerunt dicenda, sed quae tum portare. 
+      <lb ed="#H" n="28"/>non potuerunt, sequitur esse traditiones: sed illud. Ergo &amp; hoc 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e618">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>RESP. Primo verbis Augustini Tract. 97. in Johannem: O 
+      <lb ed="#H" n="30"/>mnes insipientissimi haeretici, qui se Christianos vocari uolunt, audacias 
+      <lb ed="#H" n="31"/>figmentorum suorum hac occasione Evangelicae sententiae colorare 
+      co<lb ed="#H" n="32" break="no"/>nantur, ubi Dominus ait: Adhuc habeo multa, &amp;c. Hoc sibi dictum 
+      <lb ed="#H" n="33"/>Papistae seque insipientissimos haereticos esse sciant, etiamsi 
+      Christi<lb ed="#H" n="34" break="no"/>ani &amp; Catholici vocari velint. Deinde ad omnia distincte responde 
+      <lb ed="#H" n="35"/>mus in hunc modum. Primum struit Bellarminus fallaciam a dicte 
+      <lb ed="#H" n="36"/>secundum quid ad dictum simpliciter. Nam simpliciter intelligit, multa 
+      <lb ed="#H" n="37"/>illa quae Christus adhuc habebat dicenda Apostolis, prorsus alia ess 
+      <lb ed="#H" n="38"/>quam quae illos jam docuerat: &amp; quae postea a Spiritu sancto ipsis il 
+      <lb ed="#H" n="39"/>mentem revocata ipsi scripserunt: quum Dominus eadem intelligat,  
+      <lb ed="#H" n="40"/>duntaxat clarius ipsis explananda, quia tum non potuetant ea ferre. 
+      <lb ed="#H" n="41"/>Quis autem non intelligit, multa adhuc dicenda esse illi, qui illa quae 
+      <lb ed="#H" n="42"/>etiam saepe dicta sunt, &amp; quae saepe audita, nondum tamen est asse 
+      <lb ed="#H" n="43"/>quutus, nondum intellexit? Deinde illa multa Christus post resurre 
+      <lb ed="#H" n="44"/>ctionem dixit Apostolis &amp; per se apparens eis &amp; loquens de regno. 
+      <lb ed="#H" n="45"/>Dei per dies quadraginta: &amp; per Spiritum Sanctum die Pentecostes. 
+      <lb ed="#H" n="46"/>coelo effusum &amp; deinceps. Tertio quod ait, Apostolos de gestis &amp; 
+      <lb ed="#H" n="47"/>e verbis Domini post resurrectionem paucissima scripsisse; ac proinde 
+      <lb ed="#H" n="48"/>multa αχραφως Ecclesiis tradidisse, cum nec invidi, aut obliviosi 
+      fue<lb ed="#H" n="49" break="no"/>rint, ut nollent, aut non possent ea dicere: in eo decipere conatur 
+      fal<lb ed="#H" n="50" break="no"/>acia consequentis. Paucissima quidem scripserunt, si verba spectes; 
+      <lb ed="#H" n="51"/>sed plurima scripserunt si res spectes paucis verbis,indicatas, Matth. 
+      <lb ed="#H" n="52"/>28. Marc. 16. Luc. 24. Johan. 20. &amp; 21. Actor. 1. Et post in historia 
+      <lb ed="#H" n="53"/>tota Evangelica &amp; epistolis plenius explicatas. Nec enim alia ipsis de 
+      <lb ed="#H" n="54"/>regno Dei tradidit, quam quae postea praedicarunt &amp; scripserunt. 
+      O<lb ed="#H" n="55" break="no"/>mnia autem necessaria scripta sunt: quia electa sunt quae scriberentur 
+      <lb ed="#H" n="56"/>quae saluti credentium sufficere visa sunt, ut ait Augustinus Tractatu 
+      <lb ed="#H" n="57"/>quadragesimonono in Johannem. Firmum igitur ratumque esto 
+      <lb ed="#H" n="58"/>multa illa quae Dominus Apostolis dicenda habuit, non alia fuisse, 
+      <lb ed="#H" n="59"/>quam quae antea docuerat, sed tantum alio modo dicenda fuerant.  
+      <lb ed="#H" n="60"/>Quod Thomas Aquinas ipse in cap. 16. Johann. lect. tertia docet 
+      hi<lb ed="#H" n="61" break="no"/>verbis. Non est intelligendum quod aliqua secreta doctrinae taceantus 
+      <lb ed="#H" n="62"/>fidelibus parvulis, seorsum dicenda majoribus, &amp;c, sed omnibus fidelibus 
+      <lb ed="#H" n="63"/>proponuntur, quae fidei sunt Matth. 10. Quod in aurem audivistis, &amp;c. 
+      <lb ed="#H" n="64"/>sed aliter proponenda sunt rudibus, aliter peritis, sicut in mysterio 
+      incar<lb ed="#H" n="65" break="no"/>nationis, &amp;c. quia cum non intelligerent scandalizarentur. Omnia ergo 
+      <lb ed="#H" n="66"/>quae fidei erant, Dominus proposuit eis, sed non eo modo quo postea 
+      reve<lb ed="#H" n="67" break="no"/>lavit, &amp;c. Non altiora quidem, sed altiori modo: nimirum post resurrecti 
+      <lb ed="#H" n="68"/>onem, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e709">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Quod si quis in specie requitat nonnulla, quae Apostoli ante 
+      Chri<lb ed="#H" n="70" break="no"/>sti passionem &amp; resurrectionem non poterant portare; respondeo cum 
+      <lb ed="#H" n="71"/>Origene contra Celsum libro secundo: Hic quaerimus quaenam sint 
+      ill<lb ed="#H" n="72" break="no"/>multa, quae Iesus habebat dicenda discipulis, &amp;c. Dixerim ista habuisse. 
+      <lb ed="#H" n="73"/>licenda; Quae sit vera Lex, quarumve coelestium rerum umbris 
+      conste<lb ed="#H" n="74" break="no"/>cultus Iudaicus, &amp; quae ferre nondum poterant educati in litera Legis, 
+      <lb ed="#H" n="75"/>16c. quaeque ideo distulit in tempus opportunius, post passionem &amp; 
+      resur<lb ed="#H" n="76" break="no"/>vectionem, &amp;c Respondeo cum Catetano Cardinali, qui in cap. 
+      deci<lb ed="#H" n="77" break="no"/>mumsextum Johann, sic commentatur: Sunt autem multa quae 
+      resta<lb ed="#H" n="78" break="no"/>hant dicenda: Quod conceptus est de Spiritu Sancto, quod conceptus &amp; 
+      <lb ed="#H" n="79"/>natus de virgine, quod descensurus ad inferos, quod adscensurus in coelis 
+      <lb ed="#H" n="80"/>&amp; illa quae Apostoli post resurrectionem didicerunt. In libro 
+      Responsio<lb ed="#H" n="81" break="no"/>num ad quasdam Christianas quaestiones ad Orthodoxos qui Iustino. 
+      <lb ed="#H" n="82"/>Martyri adjunctus est, docetur in responsione ad quaestionem 
+      centes<lb ed="#H" n="83" break="no"/>mam duodecimam, unum ex eis quae ab Apostolis ante adventum 
+      <lb ed="#H" n="84"/>spiritus Sancti cognosci non potuerunt, pro eo atque dictum est; Mul 
+      <lb ed="#H" n="85"/>ta habeo quae vobis dicam, &amp;c. esse etiam hoc, regnum Israelis non 
+      es<lb ed="#H" n="86" break="no"/>se gloriam &amp; delicias terrenas 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e753">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Quod si quis non acquiescat istis, sed alia potius fingat fuisse, quae 
+      <lb ed="#H" n="88"/>tum Dominus dicere noluerit: ei respondeo verbis Augustini ex 
+      Tra<lb ed="#H" n="89" break="no"/>ctat, nonages. sexto in Johannem: Cum Dominus ipse tacuerit: quis 
+      no<lb ed="#H" n="90" break="no"/>strum dicat, ista vel illa sunt? quis est tam vanus &amp; temerarius, qui sine ulli 
+      <lb ed="#H" n="91"/>testimonio divino affirmet ea esse qua tunc Dominus dicere noluerit? 
+      <!--cod-MkL9py-0152.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>Praeterea dissentit Bellarminus ab aliis Papanis. Nam Glossa 
+      or<lb ed="#H" n="93" break="no"/>dinaria intersineatis dicit, multa illaqua Christus tum reticuit, 
+      nemi<lb ed="#H" n="94" break="no"/>nem habere determinare. Quin etiam Nicolaus Lyranus aliter quam 
+      <lb ed="#H" n="95"/>resuita hunc locum interpretatur: Hic, inquit, ostendit Christus 
+      <lb ed="#H" n="96"/>efficaciam spiritus Sancti respectu Apostolorum, quae consistit in illustra 
+      <lb ed="#H" n="97"/>tione ipsorum de profundissimis &amp; altissimis fidei secretis. Et paulo post: 
+      <lb ed="#H" n="98"/>Docebit vos omnem veritatem, scilicet necessariam ad salutem: non 
+      <lb ed="#H" n="99"/>solum pro personis vestris, sed etiam ad regimen Ecclesiae &amp; fidelium 
+      in<lb ed="#H" n="100" break="no"/>structionem. Quid haec interpretatio ad traditiones non scriptas 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e792">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Secundum testimonium 
+      <lb ed="#H" n="102"/>Johan. 21. 25 dicitur: Sunt autem &amp; alia multa, quae fecit Iesus; quae 
+      <lb ed="#H" n="103"/>si scribantur singula, nec ipsum arbitror mundum capere posse eos, qui  
+      <lb ed="#H" n="104"/> 
+               <lb ed="#H" n="105"/>quae non sunt scripta 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e809">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Syllogismus talis erit 
+      <lb ed="#H" n="107"/>Si multa Dominus dixit &amp; fecit, quae non sunt scripta, tum sunt 
+      ali<lb ed="#H" n="108" break="no"/>quae traditiones non scriptae. Antecedens est verum. Ergo &amp; consequens. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e820">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>RESP. Connexum non est necessarium, &amp; simpliciter verum. 
+      <lb ed="#H" n="110"/>Esset autem necessarium &amp; simpliciter verum, si ea quae non sunt 
+      scri<lb ed="#H" n="111" break="no"/>pta, viva voce Apostoli ita tradidissent suis auditoribus, ut propagata 
+      <lb ed="#H" n="112"/>ad posteros extra omnem controversiam versarentur, vere a 
+      Domi<lb ed="#H" n="113" break="no"/>no esse dicta ac facta. Jam vero talia nulla proferri queunt, quae 
+      pro<lb ed="#H" n="114" break="no"/>babiliter saltem judicari possint, esse a Domino certo dicta vel 
+      fa<lb ed="#H" n="115" break="no"/>cta. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e840">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>INSTANTIA. Constat nihilominus, multa Dominum fecisse 
+      <lb ed="#H" n="117"/>vel dixisse, quae non sunt scripta. Nam istos libros, qui exstant, una 
+      ma<lb ed="#H" n="118" break="no"/>nus capere potest: Iohannes autem dicit, totum mundum non posse capere. 
+      <lb ed="#H" n="119"/>libros, qui scribendi essent 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e853">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>RESP. Primo concedimus multa Dominum fecisse &amp; dixisse, 
+      <lb ed="#H" n="121"/>uae non sunt scripta: sed quis nostrum dicat, illa vel illa sunt? aut si 
+      di<lb ed="#H" n="122" break="no"/>cere audeat, unde probat 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e864">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Secundo pueriles sunt ineptiae, captare amphibolias: nunquid enim 
+      <lb ed="#H" n="124"/>Johannes putavit libros a mundo tanquam locatum a loco capi non 
+      pos<lb ed="#H" n="125" break="no"/>se? nequaquam: sed sensus hic est, non esset futurus in mundo quisqua 
+      <lb ed="#H" n="126"/>qui ea omnia animo capere &amp; mente complecti posset prae varietat  
+      <lb ed="#H" n="127"/>rerum gestarum ac multitudine &amp; excellentia. Potuisset hoc Jesuita. 
+      <lb ed="#H" n="128"/>x Glossa ordinaria cognoscere, quae haec verba sic explicat: Non dicit:  
+      <lb ed="#H" n="129"/>spacio non posse capi, sed capacitate legentium. Et ex Nicolao Lyrano, qui  
+      <lb ed="#H" n="130"/>sic hunc locum explanat: Nec ipsum arbitror mundum, id est, homines 
+      <lb ed="#H" n="131"/>huius mundi: Capere posse eos qui scriberentur libros. Facta enim &amp; 
+      <lb ed="#H" n="132"/>verba Christi non sunt hominis tantum, sed Dei: quoniam illa 
+      huma<lb ed="#H" n="133" break="no"/>ntas erat organum diuvinitatis: &amp; ideo non possunt ad plenum ab 
+      homi<lb ed="#H" n="134" break="no"/>nibus explicari aut etiam comprehendi. Et mox: Facta sunt &amp; dicta 
+      <lb ed="#H" n="135"/>Dei, quae sunt nobis incomprehensibilia propter eorum excellentiam 
+      re<lb ed="#H" n="136" break="no"/>specta intellectus nostri¬ 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e899">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Tertium testimonium 
+      <lb ed="#H" n="138"/>Lucas testatur Actor. 1. ver. 3. Christum post resurrectionem per dies 
+      <lb ed="#H" n="139"/>quadraginta discipulis apparuisse &amp; locutum esse de regno Dei. At de 
+      ge<lb ed="#H" n="140" break="no"/>stis &amp; verbis Domini post resurrectionem paucissima scripserunt Evan 
+      <lb ed="#H" n="141"/>gelistae. Non autem est ullo modo credibile, Apostolos, qui illa viderant &amp; 
+      <lb ed="#H" n="142"/>audierant, non tradidisse Ecclesiis, nec enim invidi, aut obliviosi erant; 
+      <lb ed="#H" n="143"/>ut nollent aut non possent ea dicere. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e920">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Syllogismus talis est: 
+      <lb ed="#H" n="145"/>Si Christus post resurrectionem per dies quadraginta discipulis 
+      locu<lb ed="#H" n="146" break="no"/>tus est de regno Dei: &amp; ea quae tum locutus est, non sunt omnia scripta 
+      <lb ed="#H" n="147"/>nihilominus tamen ab Apostolis tradita Ecclesiis, tum sunt traditiones 
+      <lb ed="#H" n="148"/>non scriptae. Omnia quae antecedunt vera sunt: Ergo &amp; quod sequitur. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e936">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>RESP. Primo, in propositione est fallacia consequentis. Etsiet 
+      <lb ed="#H" n="150"/>nim totum antecedens concederetur, ex eo tamen nequaquam 
+      se<lb ed="#H" n="151" break="no"/>queretur, jam hoc tempore revera Apostolicas aliquas traditione 
+      <lb ed="#H" n="152"/>exstare. Quis enim est tam vanus, tam temerarius, qui cum dixerit, 
+      <lb ed="#H" n="153"/>etiam vera, quibus voluerit &amp; quae voluerit, sine ullo testimonio 
+      divi<lb ed="#H" n="154" break="no"/>no affirmet ea esse, quae Dominus per quadraginta dies post 
+      resurre<lb ed="#H" n="155" break="no"/>ctionem est locutus? Quis hoc nostrum faciet, &amp; non maximam 
+      te<lb ed="#H" n="156" break="no"/>meritatis culpam incurrat, in quo nec Prophetica nec Apostelica ex 
+      <lb ed="#H" n="157"/>cutus. 
+      <lb ed="#H" n="158"/>cellit autoritas? Haeretici solent hoc argumento uti, &amp; dicere, suas 
+      im<lb ed="#H" n="159" break="no"/>munditias, esse ea quae Christus post resurrectionem discipulis est lo¬ 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e965">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Secundo, assumtionis tria sunt membra. Primum &amp; tertium 
+      mem<lb ed="#H" n="161" break="no"/>brum est verum: medium vero, videlicet quae Christus locutus est, 
+      <lb ed="#H" n="162"/>non esse omnia scripta: est ambiguum. Si enim intelligas, non esse 
+      o<lb ed="#H" n="163" break="no"/>mnia totidem verbis quae a Domino usurpata sunt, conscripta; verum 
+      <lb ed="#H" n="164"/>est: Sin autem intelligas, ne quidem summam eorum ad salutem ne 
+      <lb ed="#H" n="165"/>cessariam esse scriptam; falsum est. Nam scriptum est licet summarie 
+      <lb ed="#H" n="166"/>tamen diserte &amp; nominatim, quid Christus locutus sit, quid ve egerit:  
+      <lb ed="#H" n="167"/>videlicet dixit ea quae ad regnum Dei pertinent Actor. 1. 3. demon 
+      <lb ed="#H" n="168"/>stravit se vere resurrexisse ex mortuis, jussitque suam resurrectionem 
+      <lb ed="#H" n="169"/>fratribus renunciare, eosque in Galilaeam abire, promisitque sui ibi 
+      <lb ed="#H" n="170"/>manifestationem Matthaei 28. 9, 10. docuit oportuisse se pati &amp; sit 
+      <lb ed="#H" n="171"/>intrate in gloriam suam: &amp; oxorsus a Mose &amp; omnibus Prophetis 
+      <lb ed="#H" n="172"/>interpretatus est illis in omnibus Scripturis, quae de se scripta erant  
+      <lb ed="#H" n="173"/>Luc. 24. 26, 27. revocavit eis in mentem quae docuerat ante 
+      passio<lb ed="#H" n="174" break="no"/>nem suam, addens explicationem Scripturarum Luc. 24. versi. 44. 
+      <lb ed="#H" n="175"/>45, 46. instituit ministerium Matth. 28. 29. promisit Spiritum 
+      San<lb ed="#H" n="176" break="no"/>ctum, &amp; alia locutus est, &amp; egit multa, quorum summa est ab 
+      Evan<lb ed="#H" n="177" break="no"/>gelistis conscripta 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1009">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Tertio, quod pauciora dicta &amp; facta Christi post resurrectionem 
+      <lb ed="#H" n="179"/>commemorantur, sit tdeo, quia, ut Glossa ordinaria &amp; Nicolaus 
+      Lyra<lb ed="#H" n="180" break="no"/>nus recte annotant, non continue per dies illos quadraginta, sed tant 
+      <lb ed="#H" n="181"/>tum aliquoties discipulis apparuit. 
+      <!--cod-MkL9py-0153.xml-->
+      <pb ed="#H" n="126"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>REPLICATIO ad primam responsionis partem. De 
+      Sacramen<lb ed="#H" n="2" break="no"/>torum institutione sine dubio Dominus tradidit in illis diebus 
+      quadra<lb ed="#H" n="3" break="no"/>ginta, quae scripta non sunt  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1035">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>RESP. Primo, Si de Baptismo intelligas; scripta est illa traditio 
+      <lb ed="#H" n="5"/>Matthaei 28. versi. 19. Profecti docete omnes gentes, baptizantes eos in 
+      <lb ed="#H" n="6"/>nomen Patris &amp; Filis &amp; Spiritus Sancti. Sic Marc. 16.16. Traditio 
+      <lb ed="#H" n="7"/>Coenae Domini etiam est scripta a Matthaeo, Marco, Luca &amp; Paulo. 
+      <lb ed="#H" n="8"/>Aliorum Sacramentorum traditiones scriptae non sunt, quia sine 
+      o<lb ed="#H" n="9" break="no"/>mni dubio de aliis Sacramentis Dominus non tradidit quicquam  
+      <lb ed="#H" n="10"/>Secundo audacior est Jesuita, quam Glossa ordinaria &amp; Nicolaus 
+      Lyra<lb ed="#H" n="11" break="no"/>nus, qui contenti narratione Lucae, dicunt, Christum de Evangelio 
+      <lb ed="#H" n="12"/>Ecclesia, regno &amp; beatitudine coelesti locutum: novorum autem 
+      Sa<lb ed="#H" n="13" break="no"/>cramentorum non meminerunt. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1061">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Quartum testimonium. 
+      <lb ed="#H" n="15"/>I. Corinth. 11. 2. ait Paulus: Laudo vero vos fratres; quod omnia mea 
+      <lb ed="#H" n="16"/>meministis, &amp; sicut tradidi vobis, traditiones retinetis. Ergo sunt 
+      tradi<lb ed="#H" n="17" break="no"/>tiones non scriptae. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1075">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>RESP. Plus colligitur, quam antecedens permittit. Hec enim 
+      <lb ed="#H" n="19"/>tantum sequitur, Apostolum tradidisse Corinthiis particulares de 
+      <lb ed="#H" n="20"/>decoro &amp; honestate leges, ad Ecclesiasticam politiam spectantes 
+      <lb ed="#H" n="21"/>non autem hinc sequitur jam illas traditiones exstare. Multo minus 
+      <lb ed="#H" n="22"/>inde sequitur, illas traditiones quas Corinthiis Paulus tradidit esse 
+      <lb ed="#H" n="23"/>Papisticas traditiones, cum pleraeque Apostolorum doctrinae 
+      maxi<lb ed="#H" n="24" break="no"/>me adversentur. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1095">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Deinde peccat Bellarminus ignoratione elenchi: nam nos nuno 
+      <lb ed="#H" n="26"/>disceptamus de doctrina ad salutem necessaria: at Bellarminus 
+      obji<lb ed="#H" n="27" break="no"/>cit locum de ritibus externis seu ceremoniis, nempe de modo orandi. 
+      <lb ed="#H" n="28"/>&amp; de modo sumendae Eucharistiae 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1108">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>INSTAT: Ista praecepta de modo orandi &amp; sumendae Eucharistiae. 
+      <lb ed="#H" n="30"/>nusquam scripta inveniuntur. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1117">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>RESP. Falsum est istud: nam ipsemet Bellarminus testatur, 
+      Pau<lb ed="#H" n="32" break="no"/>lum I. Corinth. 11. duas quaestiones tractare, unam de modo orandi in 
+      Ec<lb ed="#H" n="33" break="no"/>clesia; alteram de modo sumendae Eucharistiae. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1128">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Quintumtestimonium 
+      <lb ed="#H" n="35"/>I Corinth. 11. vers. 23. ait Paulus: Ego accepi a Domino, quod &amp; 
+      tra<lb ed="#H" n="36" break="no"/>didi vobis. Ergo sunt traditiones non scriptae 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1139">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>RESP. Primo committitur elenchus allegati impertinentis te 
+      <lb ed="#H" n="38"/>stimonii. Nam dictum Pauli loquitur de traditione scripta, 
+      institutio<lb ed="#H" n="39" break="no"/>ne videlicet sacrae Coenae, quam ibidem mox subjicit: at thesis 
+      proban<lb ed="#H" n="40" break="no"/>da loquitur de traditionibus non scriptis. Secundo prorsus aliud 
+      col<lb ed="#H" n="41" break="no"/>ligitur, quam antecedens admittat. Non enim sequitur ex verbis 
+      A<lb ed="#H" n="42" break="no"/>postoli, esse traditiones non scriptas; verum sacram Coenam non 
+      ab<lb ed="#H" n="43" break="no"/>Apostolo excogitatam, sed a Domino ipso institutam esse. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1160">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Sextum testimonium. 
+      <lb ed="#H" n="45"/>I. Corinth. 11. v 34. ait Paulus: Caetera cum venero, disponam: Quid  
+      <lb ed="#H" n="46"/>autem disposuerit, nusquam scriptum invenitur.  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1171">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Syllogismus erit talis 
+      <lb ed="#H" n="48"/>Si Paulus quaedam apud Corinthios ordinavit, quae nusquam script 
+      <lb ed="#H" n="49"/>inveniuntur: tum sunt traditiones non scriptae. Antecedens est verum: &amp; 
+      <lb ed="#H" n="50"/>consequens igitur.  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1184">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>RESP. Primo sophisma est τuρα τόεπόμηνον in propositione 
+      con<lb ed="#H" n="52" break="no"/>nexa: quia etsi tunc cum Paulus illa ordinaret apud Corinthios 
+      quae<lb ed="#H" n="53" break="no"/>pollicitus erat, fuerunt illae traditiones non scriptae: tamen non 
+      sequi<lb ed="#H" n="54" break="no"/>tur, jam queque illas exstare. Secundo committitur elenchus 
+      imperti<lb ed="#H" n="55" break="no"/>nentis testimonii. Nam Pauli testimonium non dicit, hac nostra 
+      aeta<lb ed="#H" n="56" break="no"/>te fore traditiones non scriptas: sed pollicetur tantum dispositionem 
+      <lb ed="#H" n="57"/>eorum, quae ad bonum ordinem in Ecclesia Corinthiaca servandum 
+      <lb ed="#H" n="58"/>pertinebant. Tertio plus concludunt adversarii, quam praemissae 
+      pa<lb ed="#H" n="59" break="no"/>tiuntur: nam etsi concederetur (quod tamen non conceditur) 
+      tradi<lb ed="#H" n="60" break="no"/>tiones non scriptas de ceremoniis aliquibus ad bonum ordinem 
+      tu<lb ed="#H" n="61" break="no"/>endum spectantibus ab Apostolo institutis exstare: tamen inde non 
+      <lb ed="#H" n="62"/>sequeretur, etiam non scriptas traditiones dogmatum ad salutem 
+      <lb ed="#H" n="63"/>necessatiorum jam exstare; id quod volunt Papistae 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1217">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>INSTANTIA. Merito censent Catholici Apostolum non solum, 
+      <lb ed="#H" n="65"/>disposuisse quae ad ritus &amp; ceremonias pertinebant, sed etiam tradidisse. 
+      <lb ed="#H" n="66"/>alia graviora, ut de ordinatione ministrorum, de sacrificio altaris, de alio 
+      <lb ed="#H" n="67"/>rum Sacramentorum forma &amp; materia, nec haeretici possunt ullo modo 
+      <lb ed="#H" n="68"/>contrarium ostendere. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1233">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>RESP. Primo merito censetur Jesuita principium petere, qui 
+      as<lb ed="#H" n="70" break="no"/>severat tantum: non probat quicquam. Unde enim probabit, haec qui 
+      <lb ed="#H" n="71"/>enumerat, Apostolum disponere voluisse? Secundo dum pro 
+      traditio<lb ed="#H" n="72" break="no"/>nibus non scriptis Jesuita pugnat, deυ5ατα scribit. Nam paulo anter 
+      <lb ed="#H" n="73"/>fassus est, quid Apostolus disposuerit, nusquam scriptum inveniri: hic 
+      <lb ed="#H" n="74"/>vero quidnam illud sit, quasi certo cognitum esset, commemora 
+      <lb ed="#H" n="75"/>Tertio petit principium dum asserit, Apostolum non tantum 
+      dispo<lb ed="#H" n="76" break="no"/>suisse, quae ad ritus &amp; ceremonias pertinebant, sed etiam alia 
+      gravio<lb ed="#H" n="77" break="no"/>ta. Nam verbum δατυζομαι, ordinabo, quo Apostolus utitur, 
+      indi<lb ed="#H" n="78" break="no"/>cat, ea qualiacunque fuerunt, ad ordinem Ecclesiasticum pertinuisse. 
+      <lb ed="#H" n="79"/>non ad dogmata. Haec enim est hujus verbi notatio propria; quod la 
+      <lb ed="#H" n="80"/>quet ex simili loco 1. Corinth. 16. vers. 1. Porro de collecta in sanctos 
+      <lb ed="#H" n="81"/>quemadmodum δξτεζα, ordinavi ecclesiis Galatiae, ita &amp; vos facite 
+      <lb ed="#H" n="82"/>Quod vero non etiam alia graviora se ordinaturum pollicitus est, 
+      <lb ed="#H" n="83"/>potuisset Jesuita ex Thoma Aquinate discere, qui hunc Apostoli locum 
+      <lb ed="#H" n="84"/>ita explanat: Caetera scilicet quae non sunt tanti periculi, cum venero 
+      prae<lb ed="#H" n="85" break="no"/>sentialiter disponam, qualiter scilicet ea conservare debeatis. Quario 
+      <lb ed="#H" n="86"/>manifesta est antilogia, cum dicit, Apostolum non solum disposuisse 
+      <lb ed="#H" n="87"/>quae ad ritus &amp; ceremonias pertinebant, sed etiam alia graviora: &amp; 
+      ta<lb ed="#H" n="88" break="no"/>men ea graviora quae enumerat, sunt ritus &amp; ceremoniae. Quini 
+      <lb ed="#H" n="89"/>contradicit Scripturae: nam cum illa sacrificium altatis proprie lo¬ 
+      <!--cod-MkL9py-0153.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>quendo in Coena Domini non agnoscat, nec super altati sed super  
+      <lb ed="#H" n="91"/>mensa Dominus epulum illud sacrum instituerit: Jesuita contra 
+      ne<lb ed="#H" n="92" break="no"/>scio quod sacrificium altaris comminiscitur. Sexto, falsum est alia 
+      Sa<lb ed="#H" n="93" break="no"/>cramenta a Paulo fuisse Corinthiis tradita, quam quae DOMINU, 
+      <lb ed="#H" n="94"/>instituit. In rebus divinis nefas est opinionibus humanis ludere, quod 
+      <lb ed="#H" n="95"/>Jesuitae faciunt. Septimo, Sophistice mutat personam in disputando. 
+      <lb ed="#H" n="96"/>Nam cum non possit probare, traditiones quas allegat, ab Apostolo 
+      <lb ed="#H" n="97"/>Corinthiis commendatas esse, contra disputandi leges praepostere &amp; 
+      <lb ed="#H" n="98"/>nique nos contrarium ostendere jubet: cum aequius fuerit, ipsum 
+      <lb ed="#H" n="99"/>quod proposuit, idoneis argumentis probare. Nam opponenti 
+      in<lb ed="#H" n="100" break="no"/>cumbit probatio, non respondenti 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1311">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Septimum testimonium. 
+      <lb ed="#H" n="102"/>2. Thess. 2. 15. Itaque fratres, tenete traditiones quas accepistis, sive 
+      <lb ed="#H" n="103"/>per sermonem sive per epistolam nostram. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1323">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Syllogismus est: 
+      <lb ed="#H" n="105"/>Si sunt tenendae traditiones sive per sermonem sive per epistolam 
+      ac<lb ed="#H" n="106" break="no"/>ceptae: tum sunt praeter Scripturam traditiones non scriptae. At illud est: 
+      <lb ed="#H" n="107"/>Ergo &amp; hoc 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1336">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>RESP. Primo est homonymia in nomine traditionis. Nam 
+      A<lb ed="#H" n="109" break="no"/>ostolus nomine traditionum hic intelligit dogmata ad salutem 
+      ne<lb ed="#H" n="110" break="no"/>cessaria, in quibus perstare &amp; quae totis vitibus retinere oportet 
+      o<lb ed="#H" n="111" break="no"/>mnes quicunque salutem a Domino exspectant: at Jesuitae intelligunt 
+      <lb ed="#H" n="112"/>foetidissimas superstitiones, quas imperitis hominibus obtrudunt. 
+      <lb ed="#H" n="113"/>Secundo, non est necessaria propositionis connexae consequentia. 
+      Ne<lb ed="#H" n="114" break="no"/>cessaria autem esset, si duo probare Jesuitae possent: alterum, 
+      traditio<lb ed="#H" n="115" break="no"/>nes illas sermone a Paulo propositas, alias &amp; prorsus diversas fuisse 
+      <lb ed="#H" n="116"/>ab iis, quae in epistolis continentur: Secundo esse eas, quas Papistae 
+      <lb ed="#H" n="117"/>venditant. Sed unde utrumque probabunt? Tertio plus concluditur 
+      <lb ed="#H" n="118"/>quam debet: nam hoc tantum sequitur, vel cum illam Epistolam 
+      A<lb ed="#H" n="119" break="no"/>postolus scriberet, tum nondum omnia dogmata scripta, ac ideo 
+      tra<lb ed="#H" n="120" break="no"/>ditiones fuisse, non autem sequitur nunc traditiones esse: vel ean 
+      <lb ed="#H" n="121"/>dem doctrinam &amp; viva voce &amp; per epistolam ab Apostolo traditam 
+      <lb ed="#H" n="122"/>fuisse 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1373">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>INSTANTIA I. Particula disiunctiva, sive, aperte indicat 
+      di<lb ed="#H" n="124" break="no"/>versa esse quae tradiderat &amp; quae scripserat. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1382">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Syllogismus talis erit 
+      <lb ed="#H" n="126"/>Quandocunque oratio constat disiunctiva particula sive, tum aliae 
+      <lb ed="#H" n="127"/>atque aliaeres indicantur.  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1393">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>Atqui haec oratio Paulina constat disiunctiva particula 
+      sive<lb ed="#H" n="129" break="no"/>Ergo aliae atque aliae res per eam indicantur: 
+      <lb ed="#H" n="130"/>RESP. Primo propositio est amphibola. Nam si per alias atque 
+      <lb ed="#H" n="131"/>alias res intelligantur diversi modi rei alicujus propositae, vera est; 
+      <lb ed="#H" n="132"/>sin autem intelligantur res prorsus disparatae, est falsa. Jam quam hoc 
+      <lb ed="#H" n="133"/>est frequentissimum, unam eandemque rem diversis modis effici? ut 
+      <lb ed="#H" n="134"/>cum dicitur, eandem justificationis &amp; regenerationis benedictionem. 
+      <lb ed="#H" n="135"/>significari credentibus, sive per circumcisionem sive per baptismum: 
+      <lb ed="#H" n="136"/>Eandem Christi communionem credentibus offerri, sive per Evan¬ 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1417">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>elium sive per Sacramenta. Nam diversi modi dandi vel 
+      accipien<lb ed="#H" n="138" break="no"/>di rem aliquam, non efficiunt tem ipsam diversam: ut eadem est 
+      fi<lb ed="#H" n="139" break="no"/>des, sive quae confirmata fuit olim patribus per circumcisionem &amp; 
+      <lb ed="#H" n="140"/>Pascha, sive quae nunc fidelibus confirmatur Baptismo &amp; Coena 
+      Do<lb ed="#H" n="141" break="no"/>mini. Idem est Christus, sive olim patribus per sacrificia &amp; figuras 
+      <lb ed="#H" n="142"/>varias significatus, sive hodie nobis in Evangelio clare 
+      demon<lb ed="#H" n="143" break="no"/>stratus 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1438">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Secundo, concedo quidem distributionem Paulinam constare 
+      <lb ed="#H" n="145"/>particula disiunctiva sive: sed illa non indicantur reipsa diversae 
+      tradi<lb ed="#H" n="146" break="no"/>tiones, sed tantum diversi modi accipiendi easdem traditiones. Nam 
+      <lb ed="#H" n="147"/>postolus non dicit, se alias traditiones per sermonem, alias per 
+      epi<lb ed="#H" n="148" break="no"/>stolam Thessalonicensibus commisisse: sed ostendit duntaxat duos 
+      <lb ed="#H" n="149"/>distinctos modos, per quos Thessalonicenses easdem traditione 
+      <lb ed="#H" n="150"/>acceperant; qui modi fuerunt, viva vox &amp; epistola. Neque modorum 
+      <lb ed="#H" n="151"/>&amp; instrumentorum diversitas tem diversam reddit: ut quis ferret ita 
+      <lb ed="#H" n="152"/>argumentantem: Sive vivamus, sive moriamur, Domini sumus Rom. 
+      <lb ed="#H" n="153"/>14. 8 Ergo alterius sumus si vivamus, alterius si moriamur? Et I. 
+      Co<lb ed="#H" n="154" break="no"/>tinth. 15. 11. Sive igitur ego, sive illi ita praedicamus: Ergo aliud Evan 
+      <lb ed="#H" n="155"/>gelium praedicavit Paulus, aliud alii Apostoli 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1469">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>INSTANTIA II. Si easdem traditiones &amp; viva voce &amp; per 
+      e<lb ed="#H" n="157" break="no"/>pistolam Thessalonicenses accepissent, deberet epistola una ad 
+      Thessaloni<lb ed="#H" n="158" break="no"/>cinses continere omnem Evangelii doctrinam. Atqui posterius non est 
+      <lb ed="#H" n="159"/>Ergo nec prius 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1482">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Probatio connexi: Quia sine dubio totum Evangelium plene illis 
+      <lb ed="#H" n="161"/>praeditaverat, ut etiam colligitur ex cap. 1. &amp; 2. prioris epistola. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1491">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>RESP. Nego propositionis connexae consequentiam: &amp; ad ejus 
+      <lb ed="#H" n="163"/>probationem dico nihil facere citata testimonia: nam neque in 
+      prime<lb ed="#H" n="164" break="no"/>neque in secundo capite id dicitur, quod Jesuita praetendit. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1502">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Deinde singulis quidem Ecclesiis Paulus tradidit omnem 
+      Evan<lb ed="#H" n="166" break="no"/>gelii doctrinam: sed non necesse erat perscribere ad singulas omnia 
+      <lb ed="#H" n="167"/>dogmata. Nam Ecclesiae epistolas Apostolicas inter se 
+      communica<lb ed="#H" n="168" break="no"/>bant: ideo quod in una non erat, ex alia epistola discebant  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1515">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>INSTANTIA III. Apostolus dicit in hoc ipso capite, se illis 
+      <lb ed="#H" n="170"/>raedicasse de Antichristo, &amp; praeter alia docuisse, quando esset venturus. 
+      <lb ed="#H" n="171"/>Et nunc, inquit, quid detineat scitis. Et, Num retinetis, quia cum est 
+      <lb ed="#H" n="172"/>sem vobiscum, haec dicebam vobis? Hoc autem nusquam scriptum est. 
+      <lb ed="#H" n="173"/>quando scilicet sit Antichristus venturus. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1532">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>RESPON. Primo, negatur Apostolum docuisse 
+      Thessaloni<lb ed="#H" n="175" break="no"/>censes, quando Antichristus esset venturus. Deinde committitur 
+      elen<lb ed="#H" n="176" break="no"/>chus allegationis impertinentium testimoniorum: Nam in 
+      testimo<lb ed="#H" n="177" break="no"/>niis citatis non dicitur, Thessalonicenses scivisse quando 
+      Antichri<lb ed="#H" n="178" break="no"/>stus esset venturus: sed quid detineret, hoc est, quae esset caussa 
+      mo<lb ed="#H" n="179" break="no"/>cae ipsius, ut Glossa ordinaria &amp; Lyranus declarant. Detinuit autem, 
+      <lb ed="#H" n="180"/>quod tum Romani imperii vires adhuc integrae essent &amp; non distractae 
+      <!--cod-MkL9py-0154.xml-->
+      <pb ed="#H" n="127"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>&amp; quod Roma adhuc in plenaria potestate Romani Imperatoris 
+      <lb ed="#H" n="2"/>esset. Illis autem verbis, Annon meministis me, cum adhuc essem 
+      a<lb ed="#H" n="3" break="no"/>pud vos, hoc dixisse vobis? multo minus significatur tempus adventus 
+      <lb ed="#H" n="4"/>Antichristi: sed revocat Paulus Thessalonicensibus in memoriam, 
+      <lb ed="#H" n="5"/>quid ipsis dixerit: quod videl. Antichristus venturus, qualis futurus 
+      <lb ed="#H" n="6"/>quid facturus esset? 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1571">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>ctavum Testimonium. 
+      <lb ed="#H" n="8"/>1. Tim. 8. 20. dicitur, O Timothee depositum custodi. 
+      <lb ed="#H" n="9"/>Syllogismus talis erit: 
+      <lb ed="#H" n="10"/>Si Timotheus debet custodire depositum: ergo jam exstant traditio 
+      <lb ed="#H" n="11"/>nes non scriptae. Antecedens est;. Ergo &amp; consequens. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1587">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>RESP. Primo nulla est propositionis consequentia, cum ea 
+      con<lb ed="#H" n="13" break="no"/>nectantur, quorum alterum ex alterius conditione non consequitur.  
+      <lb ed="#H" n="14"/>Secundo per depositum non intelliguntur traditiones non scriptae: 
+      <lb ed="#H" n="15"/>sed sana Evangelii doctrina, &amp; dona quaecunque ad Ecclesiae 
+      aedifi<lb ed="#H" n="16" break="no"/>cationem, veluti depositum, Deus commiserit Timotheo: Sicut &amp; 
+      <lb ed="#H" n="17"/>Thomas Aquinas in explanatione hujus loci ait: Depositum 
+      homi<lb ed="#H" n="18" break="no"/>is est omne bonum, quod habet quilibet, quod sibi comissum est a Deo, 
+      <lb ed="#H" n="19"/>ut conservet &amp; multiplicet. 1. Cor. 15. Et gratia ejus in me vacua non 
+      <lb ed="#H" n="20"/>fuit. Et sic dicit ei, ut depositum custodiat, id est, ut se in gratia Dei 
+      con<lb ed="#H" n="21" break="no"/>servet &amp; multiplicot. Et specialiter praelati habent depositum, scilicet 
+      cu<lb ed="#H" n="22" break="no"/>ram proximorum &amp; fidelium. Ioh, ult. Pasce oves meus. Hebr. ult. Ipsi  
+      <lb ed="#H" n="23"/>pervigilant quasi rationem reddituri pro animabus vestris. Similiter  
+      <lb ed="#H" n="24"/>Nicolaus Lyranus per depositum intelligit gregem Timothei 
+      fidelita<lb ed="#H" n="25" break="no"/>ti commissum. Jesuita igitur per depositum traditiones non 
+      scripta<lb ed="#H" n="26" break="no"/>intelligens &amp; ab Apostoli sensu &amp; ab aliorum Catholicorum 
+      inter<lb ed="#H" n="27" break="no"/>pretatione dissentit. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1626">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Tertio, calumniam committit Jesuita, dum nobis impingit, ad 
+      <lb ed="#H" n="29"/>si depositum de libris scriptis seu membranis aut chartis quibus 
+      <lb ed="#H" n="30"/>Verbum Dei inscriptum est, interpretaremur: aliud enim per 
+      depo<lb ed="#H" n="31" break="no"/>situm intelligimus, quam membranas vel chartas. Ac propterea 
+      et<lb ed="#H" n="32" break="no"/>iam vanus est &amp; puerilis lusus, cum subjicit: Si loqueretur de verbis 
+      <lb ed="#H" n="33"/>scriptis, non tam anxie commendaret depositum: Scripturae enim 
+      facili<lb ed="#H" n="34" break="no"/>conservantur in thecis &amp; a librariis. Quasi vero putaremus, 
+      Aposto<lb ed="#H" n="35" break="no"/>lum solicitum fuisse, ne Timotheus membranas aut librum incuria 
+      <lb ed="#H" n="36"/>quadam amitteret, ut negligentes scholastici solent. O subtiles 
+      con<lb ed="#H" n="37" break="no"/>jecturas Jesuitae 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1652">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/> Nonum testimonium 
+      <lb ed="#H" n="39"/>2. Timoth 1. 13, 14. Formam habe sanorum verborum, quae a me 
+      au<lb ed="#H" n="40" break="no"/>disti. Bonum depositum custodi per Spiritum Sanctum, qui habitat in nobis. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1663">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>Syllogismus talis erit: 
+      <lb ed="#H" n="42"/>Si minister Ecclesiae habero debet formam sanorum verborum, ab 
+      A<lb ed="#H" n="43" break="no"/>postolo auditorum: eaque tanquam bonum depositum custodieda per 
+      Spi<lb ed="#H" n="44" break="no"/>ritum Sanctum, qui habitat in nobis; tum sunt traditiones non scriptae. 
+      <lb ed="#H" n="45"/>Quae antecedunt vera sunt omnia. Ergo &amp; quod sequitur  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1680">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>RESPON. Primo, Fallit connexum sophismate παρα τό ἐπόμρνον,  
+      <lb ed="#H" n="47"/>Nam dictum Apostoli non loquitur de traditionibus non scriptis: 
+      <lb ed="#H" n="48"/>sed de forma sanorum verborum &amp; praeclaro deposito, hoc est, 
+      de<lb ed="#H" n="49" break="no"/>sincera Evangelii doctrina., quam a Paulo audiverat Timotheus, &amp; 
+      <lb ed="#H" n="50"/>de praeclaris illis donis, quae Deus tanquam talentum in usum 
+      Eccle<lb ed="#H" n="51" break="no"/>siae conferendum, Timotheo commiserat. Secundo, committit Jesui 
+      <lb ed="#H" n="52"/>ta calumniam, dum testimonium Apostoli truncat, dissimulatis 
+      ii<lb ed="#H" n="53" break="no"/>quae tegi nequaquam debebant. Omisit enim haec verba, in fide &amp; 
+      <lb ed="#H" n="54"/>charitate, quae est in Christo Iesu. At cur omisit? quia sententiam ipsius 
+      <lb ed="#H" n="55"/>evertebat Nam cum sanae doctrinae duo capita Apostolus statuat, 
+      fi<lb ed="#H" n="56" break="no"/>dem &amp; charitatem, quae est in Christo Iesu: utrumque perfecte in 
+      Scri<lb ed="#H" n="57" break="no"/>ptura traditur: ita ut ex traditionibus quicquam adjici necesse non sit  
+      <lb ed="#H" n="58"/>Nam si fidem spectes, ea scripta sunt, quae credentes vitam aeternam. 
+      <lb ed="#H" n="59"/>habeamus per nomen Christi. Joh. 20. 31. Haec autem scripta sunt, ut 
+      <lb ed="#H" n="60"/>credatis Iesum esse Christum illum, Filium illum Dei, &amp; ut credento 
+      <lb ed="#H" n="61"/>vitam habeatis per nomen ejus. Ergo nulla, non scripta traditio 
+      de<lb ed="#H" n="62" break="no"/>fide, ad salutem nunc est necessaria. Sin vero charitatis doctrinam in 
+      <lb ed="#H" n="63"/>tuearis, ea quoque perfecte in Scriptura traditur: nam tota charitatis 
+      <lb ed="#H" n="64"/>summa duobus illis mandatis comprehenditur: Diliges Dominum 
+      <lb ed="#H" n="65"/>Deum tuum ex toto corde tuo &amp; ex tota anima tua &amp; ex tota 
+      cogitatio<lb ed="#H" n="66" break="no"/>ne tua. Istud est primum &amp; magnum mandatum. Secundum autem sit 
+      <lb ed="#H" n="67"/>mile est huic: Diliges proximum tuum ut teipsum. Abistis duobus 
+      man<lb ed="#H" n="68" break="no"/>datis TOTA Lex &amp; Prophetae pendent. Matth. 22. 37, 38, 39, 40. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1735">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Decimum testimonium. 
+      <lb ed="#H" n="70"/>2. Tim. 2. 1. Tu ergo, fili mi, confortare in gratia quae est in Christo 
+      Ie<lb ed="#H" n="71" break="no"/>su: &amp; quae audisti a me por multos testes, haec commenda fidelibus 
+      homi<lb ed="#H" n="72" break="no"/>nibus, qui idonei erunt &amp; alios docere. Non loquitur de verbis scriptis 
+      <lb ed="#H" n="73"/>nam alioquin non adderet; Haec commenda fidelibus, qui idonei enintt 
+      <lb ed="#H" n="74"/>alios docere, sed diceret, commenda librariis, ut multa 
+      exemplatransscri<lb ed="#H" n="75" break="no"/>bant. Nec diceret; Quae audisti a me per multos testes, sed, quaescripsi tibi. 
+      <lb ed="#H" n="76"/>Itaque non verba sosum, sed etiam sensum, ac multo magis hunc, quam 
+      <lb ed="#H" n="77"/>illa Timotheo Apostolus commendat, ac ut per manus tradat 
+      successo<lb ed="#H" n="78" break="no"/>ribus suis, jubet. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1761">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Syllogismus est talis: 
+      <lb ed="#H" n="80"/>Si audita ab Apostolo fuerunt commendanda fidelibus hominibus, 
+      <lb ed="#H" n="81"/>qui essent idonei ad alios quoque docendos: tum certe sunt traditiones non 
+      <lb ed="#H" n="82"/>scriptae. Atqui prius est. Ergo &amp; posterius. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1774">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>RESPON. Primo in propositione est fallacia consequentis: quia 
+      <lb ed="#H" n="84"/>audita possunt esse scripta. Cujus rei evidens est testimonium Actor 
+      <lb ed="#H" n="85"/>17. 11. Nam quae Berocenses audiverant a Paulo, eadem in Scripturis 
+      <lb ed="#H" n="86"/>repererunt. Qualis igitur est haec consequentia: Audita sunt: Ergo 
+      <lb ed="#H" n="87"/>scripta non sunt: 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1790">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Secundo dissentit Jesuita a Thoma Aquinate magistro suo, qui ex 
+      <lb ed="#H" n="89"/>hoc loco Pauli nullas traditiones non scriptas gollegit, sed eum ita 
+      <!--cod-MkL9py-0154.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>explanavit, ut satis appareat, eum audita illa intellexisse de doctrina 
+      <lb ed="#H" n="91"/>Evangelii Propheticis scriptis confirmata. Sic enim ait Aquinas: 
+      Mo<lb ed="#H" n="92" break="no"/>net eum, ut si ad martyrium venerit, ut dispenset doctrinam fidei. 
+      Pau<lb ed="#H" n="93" break="no"/>lo post: Quae audisti a me &amp; ego a Christo: &amp; dico a me non singulariter,  
+      <lb ed="#H" n="94"/>sed confirmata per multos testes, id est, per legem &amp; Prophetas, Rom. 3. 
+      <lb ed="#H" n="95"/>Testificata a lege &amp; Prophetis: vel per Apostolos 1. Cor. 15. Sive enim 
+      <lb ed="#H" n="96"/>ego, sive illi, sic praedicamus &amp; sic credidistis. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1819">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>INSTANTIA I. Si innueret Apostolus doctrinam fidei quae ipsius 
+      <lb ed="#H" n="98"/>scriptis est comprehensa; tum non dixisset, commenda fidelibus 
+      homini<lb ed="#H" n="99" break="no"/>bus, sed commenda librariis, ut multa exempla transscribunt. Atqui 
+      di<lb ed="#H" n="100" break="no"/>xit, Commenda fidelibus, &amp; non, commenda librariis, ut multa 
+      exem<lb ed="#H" n="101" break="no"/>pla transscribant: Igitur non innuit Apostolus doctrinam fidei quae 
+      <lb ed="#H" n="102"/>ipsius scriptis est comprehensa. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1838">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>RESPON. Primo propositio negatur. Cui enim sano persuadebi  
+      <lb ed="#H" n="104"/>tur, quae commendanda sunt fidelibus hominibus ad docendum 
+      <lb ed="#H" n="105"/>ea non esse scripta? Vetus &amp; Novum Testamentum 
+      commendan<lb ed="#H" n="106" break="no"/>dum est diligenter fidelibus hominibus qui apti sint ad docendum 
+      <lb ed="#H" n="107"/>alios: Nunquid igitur Vetus &amp; Novum Testamentum scriptum 
+      <lb ed="#H" n="108"/>non est? Secundo mutatur status quaestionis usitata Bellarmino 
+      Sophi<lb ed="#H" n="109" break="no"/>stica: non enim dicimus, Apostolo curae fuisse, ut multa exemplaria 
+      <lb ed="#H" n="110"/>Scripturae haberentur, ut falso innuit Jesuita: Sed doctrinam illam 
+      <lb ed="#H" n="111"/>ndelibus commendandam hominibus, non fuisse aliam, quam quae 
+      <lb ed="#H" n="112"/>Scripturis continetur.  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1864">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>INSTANTIA II. Si doctrinam scriptam Apostolus intelligeret, ne 
+      <lb ed="#H" n="114"/>diceret, Quae audisti, sed, quae scripsi tibi. At dixit, quae audisti, non aute, 
+      <lb ed="#H" n="115"/>quae scripsi tibi. Ergo doctrinam scriptam Apostolus non intelligit.  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1875">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>RESPON. Connexum non est necessariae veritatis: quia audita 
+      <lb ed="#H" n="117"/>possunt esse scripta. Audimus in templis doctrinam Evangelii: 
+      <lb ed="#H" n="118"/>num igitur illa scripta non est? Imo ex Scriptura recitatam audimus. 
+      <lb ed="#H" n="119"/>Nam auditum esse &amp; scriptum esse non sunt opposita, cum simul esse 
+      <lb ed="#H" n="120"/>possin. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1891">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>Vltimum testimonium. 
+      <lb ed="#H" n="122"/>In 2. &amp; 3. epistola Johannes dicit: Multa habens scribere vobis, 
+      no<lb ed="#H" n="123" break="no"/>lui per chartam &amp;atramentum, &amp;c. Ex his intelligimus, multa ab 
+      A<lb ed="#H" n="124" break="no"/>postolo Iohanne dicta esse discipulis, &amp; per discipulos Ecclesiae universa, 
+      <lb ed="#H" n="125"/>quae tamen scripta non sunt. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1907">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>Syllogismus hujusmodi fuerit: 
+      <lb ed="#H" n="127"/>Si Iohannes &amp; alii discipuli multa dixerunt, quae tamen scripta non 
+      <lb ed="#H" n="128"/>sunt: tum sunt traditiones non scriptae. Antecedens est verum, ut patet ex 
+      <lb ed="#H" n="129"/>allegatis testimoniis. Ergo &amp; consequens verum est. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1920">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>RESPON. Primo assumtum est ambiguum. Nam si 
+      intelligun<lb ed="#H" n="131" break="no"/>tur quae scripta non sunt, scil. totidem expressis verbis quibus sunt 
+      <lb ed="#H" n="132"/>proposita ab Apostolis, est verum: neque nos asseveramus, omnia 
+      <lb ed="#H" n="133"/>omnino verba ab Apostolis prolata, esse conscripta: sed omnia 
+      do<lb ed="#H" n="134" break="no"/>gmata ad salutem necessaria Scriptura Sacra esse comprehensa 
+      dici<lb ed="#H" n="135" break="no"/>mus. Sin autem intelligatur assumtum etiam de dogmatibus ipsis, 
+      <lb ed="#H" n="136"/>videl. ea quoque omnia scripta non exstare, falsum est. Omnia enim 
+      <lb ed="#H" n="137"/>dogmata ad salutem necessaria sacris literis continentur: quia Sacrae 
+      <lb ed="#H" n="138"/>literae possunt hominem sapientem reddere ad salutem, ut testatur 
+      Pau<lb ed="#H" n="139" break="no"/>lus 2. Timoth. 3. 15. 
+      <lb ed="#H" n="140"/>Secundo allegantur ad probationem assumtionis testimonia ime 
+      <lb ed="#H" n="141"/>pertinentia. Nam testimonia illa in 2. &amp; 3. Johan. loquuntur tantum 
+      <lb ed="#H" n="142"/>de brevibus illis Johannis epistolis: at assumtio etiam de aliorum 
+      A<lb ed="#H" n="143" break="no"/>postolorum scriptis. Videte igitur, qualis sit argumentatio. In duabus 
+      <lb ed="#H" n="144"/>epistolis Iohannis non sunt omnia scripta: Ergo in Sacra Scriptura non 
+      <lb ed="#H" n="145"/>sunt omnia scripta? Atqui Sophisticum est, negato uno membro, 
+      in<lb ed="#H" n="146" break="no"/>tegrum negare. Ac perinde est ac si quis ita argumentaretur: Iste homo 
+      <lb ed="#H" n="147"/>non habet digitum. Ergo non habet corpus. Vel: Hominis aures duae 
+      <lb ed="#H" n="148"/>non moventur: Ergo corpus non movetur. Tertio plus 
+      concludi<lb ed="#H" n="149" break="no"/>tur, quam legitime potest. Nam non sequitur, si Johannes multa 
+      <lb ed="#H" n="150"/>noluit scribere in duabus illis epistolis; esse nunc traditiones non 
+      <lb ed="#H" n="151"/>scriptas: sed hoc tantum sequitur, Apostolum multa in adventum 
+      <lb ed="#H" n="152"/>suum distulisse, quae coram exponeret. Illa autem multa, fuerunt  
+      <lb ed="#H" n="153"/>necessaria dogmata de Christo salutis autore, cujus Evangelium 
+      <lb ed="#H" n="154"/>olidam laetitiam auditoribus affert: talia enim fuisse quae coram 
+      Jo<lb ed="#H" n="155" break="no"/>hannes declarare voluit, contextus indicat. Non fuerunt autem 
+      tra<lb ed="#H" n="156" break="no"/>ditiones de rebus inanibus &amp; ridiculis ceremoniis: nam ex his 
+      gau<lb ed="#H" n="157" break="no"/>dium nostrum non sit completum 
+      <lb ed="#H" n="158"/>Denique prorsus aliud colligitur &amp; principium manifeste petitura 
+      <lb ed="#H" n="159"/>cum impudenter asseritur, Traditiones Papisticas esse ea, quae 
+      Jo<lb ed="#H" n="160" break="no"/>hannes in duabus illis brevibus epistolis non scripsit.  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e1993">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Haec sunt omnia Scripturae testimonia a Bellarmino citata, 
+      quae<lb ed="#H" n="162" break="no"/> 
+            </p>
+            <p xml:id="yyy8Uu-e57662-d1e2002">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>TERTIUM argumetum ducit Bellarminus a testimoniis Pontifici, 
+      <lb ed="#H" n="164"/>Conciliorum &amp; Patrum. Adfert dicta ex epistolis Fabiani, Innocentii 
+      <lb ed="#H" n="165"/>Leonis primi: Cocilium Nicensi I. ait damnasse haeresin Arii ex doctrina non 
+      <lb ed="#H" n="166"/>scripta: Concilium Nicenum II. &amp; Concilium IIX, generale dicit 
+      ample<lb ed="#H" n="167" break="no"/>xum traditiones non scriptas. Postea Patrum testimonia recenset multa. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2018">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>RESP. Primo toto isto probationis genere petitur principium: 
+      <lb ed="#H" n="169"/>nam unicum probandi dogmata religionis principium agnoscimus, 
+      <lb ed="#H" n="170"/>nempe verbum Dei, quod DEUS per Propnetas &amp; Apostolos 
+      Ec<lb ed="#H" n="171" break="no"/>clesiae suae tradidit, jam in Scriptura Sacra comprehensum. Secundo 
+      <lb ed="#H" n="172"/>testimonia Pontificum Romanorum non sunt idonea. 1. quia sunt 
+      <lb ed="#H" n="173"/>in propria Pontificum causa. 2. quia sunt supposititia &amp; Fabiano 
+      at<lb ed="#H" n="174" break="no"/>ue Innocentio falso adscripta. 3. quia non testantur de 
+      traditioni<lb ed="#H" n="175" break="no"/>bus fidei &amp; bonorum operum, sed tantum de ritibus quibusdam? 
+      <lb ed="#H" n="176"/>nunc autem de illis est controversia nobis, non de his. Concilium 
+      Ni<lb ed="#H" n="177" break="no"/>cenum I. Ari haeresin damnavit ex Scripturis Sacris, ut acta 
+      Con<lb ed="#H" n="178" break="no"/>cilii testantur, item Athanasius, Ambrosius. Theodoretus itidem 
+      <lb ed="#H" n="179"/>ex Scriptura Arium evictum dicit. Etsi autem vocem δμονο, ο 
+      in<lb ed="#H" n="180" break="no"/>Scriptura esse neget: res tamen hac voce significata in Scriptura doce¬ 
+      <!--cod-MkL9py-0155.xml-->
+      <pb ed="#H" n="128"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>tur. Concilii Niceni II. testimonium minime idoneum est: quia 
+      <lb ed="#H" n="2"/>Concilium idololatricum fuit. Concilii IIX. generalis testimonium 
+      <lb ed="#H" n="3"/>non majoris est momenti, maxime quia Canones Conciliorum 
+      ac<lb ed="#H" n="4" break="no"/>dicta cujus libet Deiloqui Patris &amp; magistri, per quos intelligit 
+      Epi<lb ed="#H" n="5" break="no"/>scopos &amp; Doctores Ecclesiasticos post Apostolos, Scripturis Sanctis 
+      <lb ed="#H" n="6"/>aequat. Patrum testimonia a Bellarmino allegata in hac causa, vel de 
+      <lb ed="#H" n="7"/>traditionibus scriptis in libris Propheticis &amp; Apostolicis loquum 
+      <lb ed="#H" n="8"/>tur, ut ignatii apud Eusebium lib. 3. Histor. cap. 36. Iustini Apolo 
+      <lb ed="#H" n="9"/>ia secunda: Irenaei &amp; aliorum: Est autem inscitia vel fallacia indigna 
+      <lb ed="#H" n="10"/>Christiano, ubicunque vox traditionis in Patribus occurrit, illico 
+      <lb ed="#H" n="11"/>eam interpretari de traditione non scripta, quum intelligi debeat 
+      <lb ed="#H" n="12"/>traditio scripta: vel sunt additionibus alienis corrupta, ut Ignatii in 
+      e<lb ed="#H" n="13" break="no"/>pistolis: vel sunt plane supposititia, ut Dionysii Areopagitae: vel de 
+      tra<lb ed="#H" n="14" break="no"/>ditionibus rituum &amp; ceremoniarum agunt, de quibus jam non 
+      quae<lb ed="#H" n="15" break="no"/>ritur ut pleraque alia: vel non sunt proba, ut eorum Patrum qui  
+      <lb ed="#H" n="16"/>jam corruptis admadum temporibus vixerunt, ex quibus est 
+      Da<lb ed="#H" n="17" break="no"/>mascenus. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2094">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>QUARTUM argumentum alii Papistae praeter Bellarminum sup 
+      <lb ed="#H" n="19"/>peditant: Odurrunt hinc inde quaedam dicta aut facta Christi &amp; 
+      Apo<lb ed="#H" n="20" break="no"/>colorum quae in historia Evangelica aut in aliis Novi Testamenti 
+      li<lb ed="#H" n="21" break="no"/>bris nullibi exstant: ut Paulus Apostolus Actor. 20. 35. ait, Dominum 
+      <lb ed="#H" n="22"/>Iesum dixisse, Beatius est dare potius quam accipere, at hoc in 
+      histo<lb ed="#H" n="23" break="no"/>ria Evangelica non reperitur. Clemens Alexandrinus recitat quaedam 
+      <lb ed="#H" n="24"/>ex praedicatione Petri li, sexto Stromatum pagina ducaentesima sexagesit 
+      <lb ed="#H" n="25"/>manona &amp; sequentibus: &amp; pagina ducentesima octogesimaoctava, 
+      ub<lb ed="#H" n="26" break="no"/>inter alia haec verba Petri recitat, ὕδεν ἀτες γραφῆς λεγημεν, NIHII. 
+      <lb ed="#H" n="27"/>ABSQUE SCRIPTURA DICIMUS: in Eclogis seu Collectaneis ex 
+      Pro<lb ed="#H" n="28" break="no"/>phetis, pagina trecentesima quinquagesima Citat etiam quaedam ex Peti. 
+      <lb ed="#H" n="29"/>Apocalypsi in iisdem Eclogis. Et lib. 7. Stromatum pag. centes. duodeci 
+      <lb ed="#H" n="30"/>ma refert, quibro verbis Petrus uxorem ad supplicium martyrii vadetem 
+      <lb ed="#H" n="31"/>cohortatus sit. Irenaeus Martyr li. 3. adversus haereses, cap. 3. recitat 
+      Io<lb ed="#H" n="32" break="no"/>hannis Evangelistae dictum quoddam exeuntis e balneo in quo 
+      Cerin<lb ed="#H" n="33" break="no"/>thus erat. Et haec tamen nusqua in libris Novi Testamenti inveniuntur. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2133">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>RESP. Concedimus singularia quaedam dicta aut facta 
+      Christi<lb ed="#H" n="35" break="no"/>vel Apostolorum a Patribus rotari, sed quae tamen ratione 
+      commu<lb ed="#H" n="36" break="no"/>ni in Sacris literis comprehensa sunt: &amp; talia sunt jam 
+      commemora<lb ed="#H" n="37" break="no"/>ta ex Clemente &amp; Irenaeo. Non enim alia Petrus in locis allegatis 
+      do<lb ed="#H" n="38" break="no"/>ret, quam quae Scriptura docet. Nunc autem quaestio est de dogma 
+      <lb ed="#H" n="39"/>tibus fidei &amp; cultus divini, quae nusquam in Scriptura Sacra inveni 
+      <lb ed="#H" n="40"/>untur Quum omnium rerum singularium non possit homini cuit. 
+      <lb ed="#H" n="41"/>quam inesse scientia, sed communium κο λογισμον ex singularibus, 
+      <lb ed="#H" n="42"/>optime non omnia singularia dicta ac facta in libris sacris sunt 
+      consi<lb ed="#H" n="43" break="no"/>gnata, sed quaedam duntaxat, ut fides piorum revocetur ad credendi 
+      <lb ed="#H" n="44"/>ea quae rationis communis sunt ex nonnullis singularibus. Quod ad 
+      <lb ed="#H" n="45"/>dictum Christi attinet a Paulo recitatum, id licet in historia quatuor  
+      <lb ed="#H" n="46"/>Evangeliorum non exstat, tamen non est amplius traditio αγραφο 
+      <lb ed="#H" n="47"/>quum in Actis Apostolicis sit a Luca consignatum. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2168">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Sic refutata sunt Papanorum argumenta pro tra¬ 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2176">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>ditionibus non scriptis. 
+      <lb ed="#H" n="50"/>Orthodoxa sententia de traditionibs non scriptis, an jam sint, haec 
+      <lb ed="#H" n="51"/>est: Traditiones non scriptae de fide &amp; cultu Dei, ad salutem aeternam 
+      ne<lb ed="#H" n="52" break="no"/>pessariae, quas cerro constet esse vere divinas &amp; Apostolicas, jam nulla 
+      <lb ed="#H" n="53"/>sunt, Hanc sententiam probamus sequentibus argumentis: 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2192">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>I. Si traditiones non scriptae de fide &amp; cultu Dei ad salutem 
+      ae<lb ed="#H" n="55" break="no"/>ternam necessariae, Ecclesiis essent ab Apostolis commendatae; tum 
+      <lb ed="#H" n="56"/>Apostoli etiam ad illas obligassent fideles ad finem usque mundi ob 
+      <lb ed="#H" n="57"/>servandis &amp; non perpetuo ad Scripturam Sacram eos revocassent. 
+      <lb ed="#H" n="58"/>Sed ad illas non obligarunt fideles, verum perpetuo ad Scripturam 
+      <lb ed="#H" n="59"/>Sacram revocarunt Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2210">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>II. Si essent Ecclesiis datae traditiones non scriptae de fide &amp; culo 
+      <lb ed="#H" n="61"/>tu Dei ad salutem aeternam necessariae, tum prima Concilia ex illis 
+      <lb ed="#H" n="62"/>haeretices refutassent. Sed hoc non fecerunt: uec enim ex Actis 
+      conci<lb ed="#H" n="63" break="no"/>liorum primorum potest probari quod fecerint. Ergo nullae sunt 
+      <lb ed="#H" n="64"/>III. Si traditiones ἀγργφοι vere divinae &amp; Apostolicae jam essent, 
+      <lb ed="#H" n="65"/>exempla earum certa dari possent. Sed nulla possunt exempla 
+      proba<lb ed="#H" n="66" break="no"/>ta dari: nam illae quas Papistae recensent, nempe consubstantialitas 
+      Pa<lb ed="#H" n="67" break="no"/>tris &amp; Fili, paedobaptismus, essentia Sacramentorum, sunt traditionis 
+      scri<lb ed="#H" n="68" break="no"/>ptaej ejunium quadragesimae &amp; quatuor temporum non sunt ab 
+      Apo<lb ed="#H" n="69" break="no"/>stolis. Ergo nullae jam sunt:  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2236">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>IV. Si essent ab Apostolis relictae traditiones aliquae non scripta 
+      <lb ed="#H" n="71"/>de fide &amp; bonis operibus ad salutem necessariae, tum Patres 
+      orthodoxi<lb ed="#H" n="72" break="no"/>non tam graviter redarguissent eos qui ad traditiones provocabant,  
+      <lb ed="#H" n="73"/>Sed redarguerunt eos graviter. HiERONVMUS adversus Helvidium 
+      <lb ed="#H" n="74"/>Quae absque autoritate &amp;testimoniis Scripturarum, quasi Apostolica 
+      tra<lb ed="#H" n="75" break="no"/>ditione sponte reperiunt, percutit gladius Dei. Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2254">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>V. Sitempore Papie Hierapolitani Episcopi, qui Polycarpi 
+      fa<lb ed="#H" n="77" break="no"/>miliaris fuerat, certitudo traditionum ἀγραφαν nulla fuit: sicut sub 
+      <lb ed="#H" n="78"/>nomine traditionum Apostolicarum Papias in errorem gravissime 
+      <lb ed="#H" n="79"/>inciderit &amp; alios in errorem induxerit: tum multo minus jam est. 
+      An<lb ed="#H" n="80" break="no"/>tecedens verum est, teste Eusebio lib. 3. Histor. Eccles. cap. triges. 
+      no<lb ed="#H" n="81" break="no"/>no, ubi memorat dixisse Papiam, plurima a majoribus sibi tradita 
+      mi<lb ed="#H" n="82" break="no"/>racula &amp; novas quasdam parabolas Salvatoris &amp; doctrinam incogniti 
+      <lb ed="#H" n="83"/>magisque fabulosam, mille annos futuros post resurrectionem, quibus 
+      cor<lb ed="#H" n="84" break="no"/>poraliter regnum Christi in hac terra futurum sit. Et mox: Multis 
+      ta<lb ed="#H" n="85" break="no"/>men post se Ecclesiasticis viris erroris hujus praebuit causas, autoritatem 
+      <lb ed="#H" n="86"/>dogmati tantum ex vetustate tribuens, non etiam ex ratione dictorum 
+      <lb ed="#H" n="87"/>sicut Irenaeo Martyri, &amp; si quis alius eum in hac parte visus est sequi. Ita. 
+      <lb ed="#H" n="88"/>sub nomine traditionis Apostolicae, antiquitatis specie, Christianis 
+      <lb ed="#H" n="89"/>jam olim impositum &amp; illusum fuit. Multo minus igitur hoc 
+      tem<lb ed="#H" n="90" break="no"/>pore sunt verae traditiones Apostolicae non scriptae. 
+      <!--cod-MkL9py-0155.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>Sic expedita est priia questio de traditionibus. 
+      <lb ed="#H" n="92"/>SECUNDA est, An traditiones non scriptae sint jam praeter Scriptura 
+      <lb ed="#H" n="93"/>necessariae, &amp; paremvim autoritate: mque habeant cum Scriptura 
+      Sacra<lb ed="#H" n="94" break="no"/>Paterculi Concilii Tridentini affirmant Sessione quarta decreto de 
+      <lb ed="#H" n="95"/>Canonicis Scripturis: Tridentina Synodus (inquiunt) omnes libros 
+      tan<lb ed="#H" n="96" break="no"/>Veteris quam NoviTestamenti, cum utriusque unus Deus sit autor: nec 
+      <lb ed="#H" n="97"/>non traditiones ipsas, tum ad fidem, tum ad mores pertinentes, tanquam 
+      <lb ed="#H" n="98"/>vel oretenus a Christo, vel a Spiritu Sancto dictatas &amp; continua 
+      succes<lb ed="#H" n="99" break="no"/>sione in Ecclesia Catholica conservatas, pari pietatis affectu ac 
+      reveren<lb ed="#H" n="100" break="no"/>tia suscipit &amp; veneratur. Quae ista est impietas certo verbo Dei quod  
+      <lb ed="#H" n="101"/>in Scriptura Sacra continetur, traditiones ementitas, incertas, dubias 
+      <lb ed="#H" n="102"/>aequare? Bellarminus cumulum impietatis auget; audet enim 
+      assevera<lb ed="#H" n="103" break="no"/>re, Scripturas sine traditionibus nec fuisse simpliciter necessarias, nec susg 
+      <lb ed="#H" n="104"/>ficientes; traditiones vero non scriptas esse necessarias: traditionem 
+      so<lb ed="#H" n="105" break="no"/>lam sufficere, Scripturas autem non sufficere. Ita traditiones non 
+      scri<lb ed="#H" n="106" break="no"/>ptas praefert Scripturae certo a Deo inspiratae 
+      <lb ed="#H" n="107"/>Argumenta quibus probare conatur necessitatem traditionum 
+      <lb ed="#H" n="108"/>non scriptarum ista sunt:  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2335">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>I. Haereticorum magnus est consensus in traditienibus contemnendis 
+      <lb ed="#H" n="110"/>&amp; Scripturis solis urgendis: Ergo truditiones non scriptae sunt necessariae. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2345">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>RESP. Negamus antecedens: nam Pharisaeorum religio praecipue 
+      <lb ed="#H" n="112"/>traditionibus non scriptis nitebatur, ut Novum Testamentum pas 
+      <lb ed="#H" n="113"/>sim testatur. Sic Ireneaus Martyr, lib. 3. udversus haereses, ca. 1. &amp; 2. de: 
+      <lb ed="#H" n="114"/>Valentinianis, Marcionitis, Cerinthianis, Basilidianis &amp; aliis 
+      haere<lb ed="#H" n="115" break="no"/>ticis scribit: Quibus (nempe Sacris Scripturis) siquis non assentit, 
+      sper<lb ed="#H" n="116" break="no"/>nit quidem participer Domini spernit autem &amp; ipsum Christum 
+      Domi<lb ed="#H" n="117" break="no"/>tum, spernit vero &amp; Patrem, &amp; est a semetipso damnatus, resistens &amp; 
+      <lb ed="#H" n="118"/>repugnans saluti suae: quod faciunt omnes haeretici. Quum enim ex 
+      Scra<lb ed="#H" n="119" break="no"/>pturis arguuntur, in accusationem convertuntur ipsarum 
+      Scriptura<lb ed="#H" n="120" break="no"/>rum, quasi non recte habeam, neque sint ex autoritate, &amp; quia varie sint 
+      <lb ed="#H" n="121"/>dictae, &amp; quia non possit ex his inveniri veritas ab hnis qui nesciant 
+      tra<lb ed="#H" n="122" break="no"/>ditionem. Non enim per literas traditam illam, sed per vivam 
+      <lb ed="#H" n="123"/>vocem, ob quam causam &amp; Paulum dixisse, Sapientiam antem 
+      loqui<lb ed="#H" n="124" break="no"/>mur inter perfectos: sapientiam autem non mundi hujus. Idem lib. 1. 
+      <lb ed="#H" n="125"/>cap. primo, pag. vigesimaquarta, de haereticis iisdem ait, quod tale sic 
+      <lb ed="#H" n="126"/>principium doctrinae ipsorum, quam neque Prophitae praedicaverunt, 
+      <lb ed="#H" n="127"/>neque Dominus docuit, neque Apostoli tradiderunt, de qua gloriantur  
+      <lb ed="#H" n="128"/>se plus quam alii de universis rebus cognovisse, quum ἐ, ἀγραφον, id  
+      <lb ed="#H" n="129"/>est, ex iis quae scripta non sunt pronuncient, ac studeant (ut vuigo dici 
+      <lb ed="#H" n="130"/>solet) ex arena restes connectere. Ergo haeretici teste Irenaeo 
+      Scriptu<lb ed="#H" n="131" break="no"/>tam Sacram imperfectionis arguunt &amp; traditiones non scriptas 
+      <lb ed="#H" n="132"/>urgent. Sic &amp; Tertullianus de hareticis ait libro de Resur 
+      <lb ed="#H" n="133"/>rectione carnis capite tertio: Aufer haereticis quae cum Ethnicis 
+      sa<lb ed="#H" n="134" break="no"/>piunt, ut de SOL1S Scripturis quaestiones suas sistant, &amp; stare non 
+      <lb ed="#H" n="135"/>poterunt. Et capite quadragesimo septimo haeretici dicuntur lucifuge 
+      <lb ed="#H" n="136"/>Scripturarum. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2406">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Ariani doctrinam in Scriptura Sacra traditam de consubstantia; 
+      <lb ed="#H" n="138"/>litate rejiciebant &amp; oppugnabant; dum vocem δμεκσις quod non 
+      to<lb ed="#H" n="139" break="no"/>tidem literis &amp; syllabis in Scriptura exstaret, repudiabant. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2417">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Alii haeretici non rejiciebant omnes traditiones, sed has, illas 
+      or<lb ed="#H" n="141" break="no"/>thodoxorubi opeugnabant, ut propugnarent suas 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2426">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>II. Iudaei &amp; aliae omnes gentes habuerunt traditiones aliquas non 
+      <lb ed="#H" n="143"/>scriptas quas in religione sequebantur, &amp; omnes prophanae Respublicae, 
+      <lb ed="#H" n="144"/>magna ex parte legibus non scriptis reguntur: &amp; nobilissimi Philesophi 
+      <lb ed="#H" n="145"/>Pythagoras &amp; Socrates nihil scripserunt: &amp; in jure Civili atque 
+      Ca<lb ed="#H" n="146" break="no"/>nonico eadem tribuitur autoritas! gi scriptae &amp; consuetudini non 
+      scri<lb ed="#H" n="147" break="no"/>ptae: Ergo natura clamatetiam in Ecclesia Christiana traditiones non 
+      <lb ed="#H" n="148"/>scripias esse necessarios. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2446">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>RESPON. Petitio primo est principii: mos enim Judaeorum &amp; 
+      <lb ed="#H" n="150"/>Gentilium non est principium quod Christiani in religione sequi  
+      <lb ed="#H" n="151"/>debeant: mos enim ille fuit caecus in causa religionis. Ideo Judaei 
+      <lb ed="#H" n="152"/>ob traditiones suas reprehenduntur Jesa. 29. v. 13. Matth. 15. 3. Et  
+      <lb ed="#H" n="153"/>uorsum Gentilium mos funestus &amp; exitialis adducatur 
+      Christia<lb ed="#H" n="154" break="no"/>nis? Neque etiam principium religionis Christianae est exemplum 
+      <lb ed="#H" n="155"/>prophanarum Rerumpublicarum, Philosophorum, 
+      consuetudi<lb ed="#H" n="156" break="no"/>num politicarum. Deinde magna est disparitas rerum 
+      humana<lb ed="#H" n="157" break="no"/>rum &amp; divinarum. Nam in rebus humanis homo deficit, &amp; supplet  
+      <lb ed="#H" n="158"/>nec unquam sine defectu &amp; imperfectione leges facit: in divinis vero 
+      <lb ed="#H" n="159"/>munquam deficit Deus. Quod si deficere in re ulla (quod absit) dice 
+      <lb ed="#H" n="160"/>retur, quis homo suppleat? Tertio Christus &amp; Apostoli non 
+      jusse<lb ed="#H" n="161" break="no"/>runt in religione Philosophos imitari, sed sacras literas scrutari &amp; iis 
+      <lb ed="#H" n="162"/>attendere ut veritatem cognoscamus. Quarto natura non clamat,  
+      <lb ed="#H" n="163"/>traditiones non scriptas in Ecclesia Christiana esse necessarias: nam 
+      <lb ed="#H" n="164"/>quomodo natura superiora se judicet: 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2485">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>III. Sinulla essent traditiones non scriptae, tum nullum esset 
+      privi<lb ed="#H" n="166" break="no"/>legium Ecclesiaprae haereticis, paganis &amp; Iudeis; &amp; sic sublata esset 
+      Eccle<lb ed="#H" n="167" break="no"/>siae Catholicae dignitas At hoc esset abjurdium;: Ergo necesse est aliquas 
+      tra<lb ed="#H" n="168" break="no"/>ditiones non scriptas exstare. Probatur connexi consequentia: quias 
+      <lb ed="#H" n="169"/>omnia essent scripta &amp; apertissime, tum non minus scirent haeretici, 
+      pa<lb ed="#H" n="170" break="no"/>gani &amp; Iudaei de mysterus fidei nostrae atque ipsa Ecclesia, neque essetverum. 
+      <lb ed="#H" n="171"/>quod ait Irenaus lib. 3. c. 4. in solum Ecclesiam, tanquam in 
+      repositori<lb ed="#H" n="172" break="no"/>um dives, repositam ab Apostolis scientiam rerum divinarum. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2508">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>RESPON. Trimo negamus sumti consequentiam: Nam et 
+      <lb ed="#H" n="174"/>amsi nullae essent: aditiones non scriptae, tamen magna essent 
+      Ec<lb ed="#H" n="175" break="no"/>clesiae privilegia, magna esset dignitas Quid enim? an non praeclarum 
+      <lb ed="#H" n="176"/>privilegium est Ecclesiae, quod ei concredita sunt De; oracula? quod 
+      <lb ed="#H" n="177"/>verus oraculorum divinorum intellectus est penes eam solam? quo- 
+      <lb ed="#H" n="178"/>verum &amp; genuinum sensum Scripturae divinae aliis hominibus 
+      <lb ed="#H" n="179"/>indicat, annunciat, explanat? Secundo negamus probationem, quic 
+      <lb ed="#H" n="180"/>etiamsi haetetici, pagani &amp; haeretici habgant Sacram Scripturam 
+      <!--cod-MkL9py-0156.xml-->
+      <pb ed="#H" n="129"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>&amp; legant:inon tamen intelligunt salutariter quicquam, si modo quie  
+      <lb ed="#H" n="2"/>quam intelligunt. Tertio Ireneus allegato loco de Scripturae 
+      Sacra<lb ed="#H" n="3" break="no"/>Thesauto loquitur, non de traditienibus ἀγρχφοισ 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2543">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>IV. Si nullae essent traditiones non scriptae, tum periret multorum 
+      <lb ed="#H" n="5"/>mysteriorum, quae silentium requirunt, dignitas: Atqui absardum esset 
+      <lb ed="#H" n="6"/>illam peririt Ergo traditiones non scriptas esse necessarium est. Probatur 
+      <lb ed="#H" n="7"/>sumti consequentia: Si enim ad videnda tremenda mysteria Missae non 
+      <lb ed="#H" n="8"/>licet admittera ullos non baptizatos, quomodo licebit eis eadem scripta 
+      <lb ed="#H" n="9"/>tradere? Hinc Dominus seersim discipulis interpretabatur parabolas, 
+      <lb ed="#H" n="10"/>quas populo loquutus erat, Luc. 8. &amp; Apostolus ait 1. Cor. 2. Sapien 
+      <lb ed="#H" n="11"/>tiam loquimur inter perfectos. Et passim veteres, cum de Sacramento 
+      <lb ed="#H" n="12"/>Eucharistia loquuntur, dicere solent; Norunt fideles, norunt initiatis 
+      <lb ed="#H" n="13"/>Hanc rationem attingunt Dionysius cap. 1. Eccles. hicrarch. Origenes 
+      <lb ed="#H" n="14"/>homil. 5. in Numer. Basilius cap. 27. lib. de Spiritu Sancto, &amp; 
+      Innocen<lb ed="#H" n="15" break="no"/>tius I. in epistol.  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2574">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>RESP. Primo falsum est multa mysteria, ad salutem nostram a 
+      <lb ed="#H" n="17"/>Deo revelata, silentium requirere. Quae Deus non revelavit, ea 
+      ne<lb ed="#H" n="18" break="no"/>quidem investigari a quoquam hominum possunt, ne dum 
+      profer<lb ed="#H" n="19" break="no"/>ti: quae autem Deus patefecit, ea vult omnibus filiis suis 
+      innotesci<lb ed="#H" n="20" break="no"/>re, non autem coram illis silentio tegi, sicut Matth. 10. vers. 26, 27. 
+      <lb ed="#H" n="21"/>Christus ait: Nihil est opertum, quod non sit retegendum, &amp; nihil 
+      oc<lb ed="#H" n="22" break="no"/>cultum quod non sit cognoscendum. Quod dico vobis In tenebris, dicite 
+      <lb ed="#H" n="23"/>in luce: &amp; quod in aurem auditis, praedicate in solariis. Secundo 
+      ne<lb ed="#H" n="24" break="no"/>gamus sumti consequentiam; nec ad eam probandam quicquam  
+      <lb ed="#H" n="25"/>faciunt ea quae Bellarminus adfert. Nam mysteria Missae nulla 
+      <lb ed="#H" n="26"/>sunt quae purum putum inventum est hominum rebus carnalibus 
+      <lb ed="#H" n="27"/>affixorum: longissime enim a Coena Dominica distat. Recte tre 
+      <lb ed="#H" n="28"/>monda mysteria Misse vocat: nam merito omnibus piis terrorem &amp; 
+      <lb ed="#H" n="29"/>tremorem incutere debet horrenda illa Coenae Dominicae profanae 
+      <lb ed="#H" n="30"/>tio, imo abolitio, &amp; sacrificii illius propitiatorii semel a Christo 
+      per<lb ed="#H" n="31" break="no"/>acti abnegatio quae in Missa sit. Luc. 8. versic. 10. Dominus 
+      scorsin<lb ed="#H" n="32" break="no"/>interpretabatur parabolas quas populo loquutus erat, non quo 
+      <lb ed="#H" n="33"/>metueret, dignitatem parabolis illis perituram, si palam populo 
+      ex<lb ed="#H" n="34" break="no"/>licarentur: sed propter eam causam quae diserte exprimitur a Deoi 
+      <lb ed="#H" n="35"/>mino ipso dicente, Vobis datum est nosse mysteria regni Dei; rele 
+      <lb ed="#H" n="36"/>quis autem per parabolas loquor, ut videntes non videant, &amp; 
+      audien<lb ed="#H" n="37" break="no"/>tes non intelligant. Haec causa pluribus explicatur Matth. 13. v. 10. 
+      <lb ed="#H" n="38"/>&amp; sequentibus 1. Corinth. 2. versic. 6. dicens Paulus, Supientiam 
+      lo<lb ed="#H" n="39" break="no"/>quimur inter perfectos, nequaquam hoc sibi vult, esse traditiones 
+      <lb ed="#H" n="40"/>quasdam non scriptas, quas Apostoli non omnibus fidelibus, sed  
+      <lb ed="#H" n="41"/>perfectioribus duntaxat seorsim tradiderint, ac proinde in 
+      Scriptu<lb ed="#H" n="42" break="no"/>tam Sacram non retulorint; ut innuit hoc loco Bellarminus &amp; 
+      plu<lb ed="#H" n="43" break="no"/>ribus inculcat eodem libro quarto de verbo Dei, capite undecimo 
+      <lb ed="#H" n="44"/>ectione quarta &amp; sexta. Haeretici enim ita ut Bellarminus 
+      inter<lb ed="#H" n="45" break="no"/>pretantur locum hunc Pauli, sicut Ireneaus Martyr de Valentinianis, 
+      <lb ed="#H" n="46"/>Marcionitis, Cerinthianis, Basilidianis libro tertio adversus 
+      haere<lb ed="#H" n="47" break="no"/>ses, capite secundo scribit; Cum ex Scripturis arguuntur, in accusae 
+      <lb ed="#H" n="48"/>tionem convertuntur ipsarum Scripturarum, quasi non recte 
+      ha<lb ed="#H" n="49" break="no"/>beant, neque sint ex autoritate, &amp; quia varse sint dictae, &amp; quia non 
+      <lb ed="#H" n="50"/>possit ex his inveniri veritas ab his qui nesciant traditionem. Non 
+      <lb ed="#H" n="51"/>enim per literas traduam illam, sed per vivam vocem, ob quam 
+      cau<lb ed="#H" n="52" break="no"/>sam &amp; Paalum dixisse, Sapientiam autem loquimur inter perfectos 
+      <lb ed="#H" n="53"/>sapientiam autem non mundi hijus. Sic doctrina hodiernorum 
+      Pa<lb ed="#H" n="54" break="no"/>vistarum est doctrina Valentinianorum, Marcionitatum &amp; aliorum 
+      <lb ed="#H" n="55"/>haereticorum a veteri orthodaxa Ecclesia damnatorum 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2665">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Quod de Sacramentis norunt fideles &amp; initiati, id ex Scriptura 
+      <lb ed="#H" n="57"/>Sacra norunt, non ex traditionibus ἀγραφοις: nam orthodoxi Patres. 
+      <lb ed="#H" n="58"/>docebant Catechumenos &amp; alios fideles ex Scriptura Sacra quae 
+      de<lb ed="#H" n="59" break="no"/>religione &amp; Sacramentis scienda sunt,  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2678">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>Denique Dionysius, Origenes, Basilius, &amp; alii orthodoxi 
+      Pa<lb ed="#H" n="61" break="no"/>tres quum de traditionibus quibusdam loquuntur, non dogmata 
+      <lb ed="#H" n="62"/>intelligunt ad salutem aeternam necessaria; nam illa omnia ex 
+      di<lb ed="#H" n="63" break="no"/>vinis literis sumenda esse constanter docent, ut ostensum in 
+      Sym<lb ed="#H" n="64" break="no"/>phonia Catholica primo capite, thesi secunda: sed ritualia intelligunt 
+      <lb ed="#H" n="65"/>ad modum &amp; ordinem externum seu Agendam Ecclesiasticam, 
+      <lb ed="#H" n="66"/>ut vulgo nominant, pertinentia, &amp; commoditati cujusque 
+      Eccle<lb ed="#H" n="67" break="no"/>siae attemperata piorumque Pastorum judicio permissa, hac lege 
+      <lb ed="#H" n="68"/>ut prudenter observent vetus illud dictum, ὕτε ωαντα, γτε πκθτετε, 8η 
+      <lb ed="#H" n="69"/>ραι α. ταν. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2704">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>Ex his manifestum est, Papanos nequaquam probare posse 
+      opi<lb ed="#H" n="71" break="no"/>nionem suam. Nostra autem eaque orthodoxa sententia est; 
+      Tradi<lb ed="#H" n="72" break="no"/>tiones non scriptas de rebus ad salutem aeiernam necessariis, ac proinde 
+      <lb ed="#H" n="73"/>de fide &amp; bonis operibus, praeter Scripturam diuinitus inspiratam, hoc  
+      <lb ed="#H" n="74"/>tempore in Ecclesia Christi necessarias non esse. Quam fententiam 
+      ar<lb ed="#H" n="75" break="no"/>jumentis sequentibus confirmamus 
+      <lb ed="#H" n="76"/>I. Quia traditiones ejusmodi esse probari non potest ullis 
+      ido<lb ed="#H" n="77" break="no"/>neis argumentis aut testibus. Quod autem plane non est, quomo 
+      <lb ed="#H" n="78"/>do tenendum &amp; observandum necessario? Non eutis nulla est 
+      neces<lb ed="#H" n="79" break="no"/>saria observatio.  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2731">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>II. Quia sine illis Scriptura Sacra potest hominem sapientem 
+      <lb ed="#H" n="81"/>reddere ad salutem. 2. Timoth. 3. v. 15. Sine illis Scriptura Sacra 
+      do<lb ed="#H" n="82" break="no"/>cet omnia quae continent fidem, moresque vivendi, ac proinde omnia 
+      <lb ed="#H" n="83"/>necessaria ad salutem 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2744">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>III. Quia a traditionibus ἀγρχιφοις non vult Deus Ecclesiam 
+      <lb ed="#H" n="85"/>postremorum temporum, ut nec olim quum adhuc mittebat ad 
+      Ec<lb ed="#H" n="86" break="no"/>clesiam Prophetas &amp; Apostolos immediate vocatos &amp; a se instru 
+      <lb ed="#H" n="87"/>ctos, sed a verbo praescripto pendere. Johan. 5. v. 39. Scrutamini 
+      Scri<lb ed="#H" n="88" break="no"/>oturas, quia vos videmini vobis in ipsis vitam aeternam habere: &amp; illae 
+      <lb ed="#H" n="89"/>sunt quae testantur de me. 1. Tim. 4. v. 13. Interem dum verio, intentus 
+      <lb ed="#H" n="90"/>esto lectioni, exhortationi, doctrinae. 2. Tim. 3. v. 15,16. Tota Scriptura 
+      <lb ed="#H" n="91"/>divinitus est inspirata, &amp;c. 1. Petr. 1. v. 25. Verbum Domini manet in 
+      <lb ed="#H" n="92"/>aternum: hoc autem est verbum illud quod evangelizatum est vobis. 2. 
+      <!--cod-MkL9py-0156.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>Pets. 1. v. 19. Et habemus firmiorem illum sermonem propheticum: quem 
+      <lb ed="#H" n="94"/>benefacitis quod attenditis, velut lucernam splendentem in obscuro loco; 
+      <lb ed="#H" n="95"/>usquedum dies illuxerit, &amp; lucifer exoriatur in cordibus vestris. 
+      Apo<lb ed="#H" n="96" break="no"/>stoli nihil docebant extra ea quae Moses &amp; caeteri Prophetae 
+      futura<lb ed="#H" n="97" break="no"/>praedixerant: ad Scripturas Mosis &amp; Prophetarum fideles 
+      revoca<lb ed="#H" n="98" break="no"/>bant, ad traditiones non scriptas nunquam  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2786">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>IV. Quia traditiones non scriptae aut idem dorent, quod 
+      Scri<lb ed="#H" n="100" break="no"/>ptura Sacra, aut aliud. Si idemi tum superfluae sunt: si aliud, tum 
+      fu<lb ed="#H" n="101" break="no"/>giendae; quia aliud Evangel um aliamque Legem quam Deus in 
+      <lb ed="#H" n="102"/>Scriptura tradidit, suscipere expresso verbo Dei prohibemur. Galati 
+      <lb ed="#H" n="103"/>. v. 8. &amp; 9. Sed etiam si nos, aut Angelus e caelo evangelixet vobis praete 
+      <lb ed="#H" n="104"/>id quodvobis evangelizavimus, anathema esto. Vt ante diximus, etiam 
+      <lb ed="#H" n="105"/>nunc iterum dico, Si quis vobis evangelizaverit praeterid quod accepi 
+      <lb ed="#H" n="106"/>stis, anathema esto. Deut. 4. v. 2. Ne addite ad verbum illud quod ego 
+      <lb ed="#H" n="107"/>praecipio vobis, neque detrahite de eo, ut servetis praecepta Iehova Dei 
+      ve<lb ed="#H" n="108" break="no"/>stri, quae ego praecipio vobis. Prov. 30. v. 6. Ne adjicito ad verba eius, ut 
+      <lb ed="#H" n="109"/>non corripiat te, ut efficiaris mendax 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2815">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>V. Quia traditiones illae non scriptae, quae tam atrocibus 
+      dissi<lb ed="#H" n="111" break="no"/>diis hodie collidunt Christianos, pleraeque manifeste pugnant cum 
+      <lb ed="#H" n="112"/>Scriptura Sacra, quam veri Christiani omnes absque 
+      contradictio<lb ed="#H" n="113" break="no"/>ne fatentur esse verbum Dei &amp; Canonem fidei bonorumque operum 
+      <lb ed="#H" n="114"/>aliae sunt ineptae &amp; ridiculae, 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2831">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>VI. Quia traditiones illae non continent res ad salutem 
+      <lb ed="#H" n="116"/>aeternam necessarias. Nam si essent necessariae, divino jussu 
+      perscri<lb ed="#H" n="117" break="no"/>ptae fuissent, ut conservari possent in tanta hominum oblivione, 
+      <lb ed="#H" n="118"/>vel malitia prona ad salutis doctrinam corrumpendam, in tot 
+      impe<lb ed="#H" n="119" break="no"/>riorum, regnorum &amp; Ecclesiarum dissidiis &amp; disputationibus. Imo 
+      <lb ed="#H" n="120"/>nec dogmata ista ἀγραφα conservata fuissent aut consorvari 
+      potuis<lb ed="#H" n="121" break="no"/>sent, nisi ab aliquibus in literas relata fuissent. Quod si illae 
+      tradi<lb ed="#H" n="122" break="no"/>tiones scribendae non erant, sed viva voce propagandae, cur ab 
+      anti<lb ed="#H" n="123" break="no"/>quis quibusdam scriptae sunt? sin vero erant scribendae, cur ab aliis 
+      <lb ed="#H" n="124"/>potius quam ab Apostolis autoribus divinitus inspiratis, scribendae 
+      <lb ed="#H" n="125"/>fuerunt?. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2860">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>VII. Quia traditiones illae sunt prorsus incertae: nam unam 
+      ean<lb ed="#H" n="127" break="no"/>demque traditionem ex veteribus alius affirmat esse Apostolicam, 
+      <lb ed="#H" n="128"/>alius negat: ut traditionem quam Chiliastae praetendunt, alii dicebant  
+      <lb ed="#H" n="129"/>esse Apostolicam, alii postea negarunt  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2874">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>VIII. Quia traditiones non scriptae etiam antiquos Patres in 
+      <lb ed="#H" n="131"/>errores induxerunt noxios, ut accinit Papiae Episcopo Hieropolitae no 
+      <lb ed="#H" n="132"/>&amp; Chiliastis, teste Eusebio libro tertio Histor. Ecclesiast. capite 
+      <lb ed="#H" n="133"/>ultimo. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2887">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>IX. Quia traditiones illae quas Papistae urgent, sunt infinitae: 
+      in<lb ed="#H" n="135" break="no"/>finitorum autem nulla est scientia. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2896">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>X. Quia multitudine sua serviliter onerant Christianos gravius 
+      <lb ed="#H" n="137"/>quam olim onerati fuerunt Judaei: ideo abolendae potius, quam 
+      <lb ed="#H" n="138"/>Christianis imponendae. Videatur Augustinus secundo tomo, ad 
+      Ja<lb ed="#H" n="139" break="no"/>nuarium epistolam centesima decimanona. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2909">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>XI. Quia si hoc quoque tempore, quo nullos amplius 
+      Pro<lb ed="#H" n="141" break="no"/>hetas &amp; Apostolos immediate illis verbum suum inspirans, ut 
+      o<lb ed="#H" n="142" break="no"/>lim, Deus excitat, traditiones non scriptae essent praeter Scripturam 
+      <lb ed="#H" n="143"/>Sacram necessariae, gravia inde absurda sequerentur: nam 
+      religio<lb ed="#H" n="144" break="no"/>nem ἀπιραντον &amp; infinitam facerent, cum quae &amp; quot sint 
+      traditio<lb ed="#H" n="145" break="no"/>nesnon scriptae nullis idoneis argumentis ostendi possit: ad 
+      huma<lb ed="#H" n="146" break="no"/>na commenta delaberemur: puo divinis oraculisemulta venditaren 
+      <lb ed="#H" n="147"/>tur, quae non sunt: Testamento DEI, quod est Sacra Scriptura 
+      <lb ed="#H" n="148"/>multa adderentur, quum ne humano quidem addere quicquam 
+      li<lb ed="#H" n="149" break="no"/>ceat: susciperemus alia, imo &amp; aliena ab his quae in tatjuis federis, 
+      <lb ed="#H" n="150"/>quod Deus nobiscum pepigit, perscripta sunt: fingulis annis mutare 
+      <lb ed="#H" n="151"/>tur religio, prout jam hic, jam ille novas traditiones tanquam 
+      divi<lb ed="#H" n="152" break="no"/>nas &amp; Apostolicas proferret: vagaremur extra metas intia quas 
+      A<lb ed="#H" n="153" break="no"/>postoli ipsi se continuerunt ad Scripturam Sacram tam aicte 
+      adhae<lb ed="#H" n="154" break="no"/>rescentes ut nihil dixerint extra ea quae Moses &amp; alii Prophetae 
+      futu<lb ed="#H" n="155" break="no"/>ra praedixerunt; quanto magis nos, qui nec pari donorum 
+      Spiri<lb ed="#H" n="156" break="no"/>lus Sancti mensura donati, nec pari autoritate puaediti sumus, ei ad 
+      <lb ed="#H" n="157"/>naerere par est, postquam vetus ille Canon tam lucu enta Novi 
+      Te<lb ed="#H" n="158" break="no"/>stamenti accessione auctus est &amp; collocupletatus? accusarentur 
+      Pro<lb ed="#H" n="159" break="no"/>hetae &amp; Apostoli, qui ut tabellarii &amp; actuarii Ec lesiae Dei, 
+      inaxi<lb ed="#H" n="160" break="no"/>mam pattem rerum ad salutem necessariarum praetermisissent 
+      <lb ed="#H" n="161"/>qui Testamentum DEI imperfectum reliquissent, qui tabulas 
+      fe<lb ed="#H" n="162" break="no"/>deris inter Deum &amp; nos tam multis necessarii: omissis truncas &amp; 
+      <lb ed="#H" n="163"/>mutilas nomine Dei Ecclesiae obtulissent: illis solis non adquie 
+      <lb ed="#H" n="164"/>scentes negarent aut saltem in dubium vocarent S: ripturam 
+      Sa<lb ed="#H" n="165" break="no"/>cram, verum ac germanum principium religionis Christianae, 
+      pe<lb ed="#H" n="166" break="no"/>quod DEUS omnes controversias, quotcunque in domo sua oriri 
+      pos<lb ed="#H" n="167" break="no"/>gent decidit, nec secus facerent quam haeredes illi qui alios cohaeredes 
+      <lb ed="#H" n="168"/>defraudare volentes testamentum quo testator adhibitis testibus omne 
+      <lb ed="#H" n="169"/>exceptione majoribus, voluntatem suam accuratissime exposuit, vel  
+      <lb ed="#H" n="170"/>occultant, vel imperfectum ac non sufficiens esse causantur  
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e2981">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Omissis igitur traditionibus non scriptis, maneamus in iis quae 
+      <lb ed="#H" n="172"/>didicimus &amp; quae nobis concredita sunt, scientes quod a 
+      DEOiI<lb ed="#H" n="173" break="no"/>pso per scripta Prophetica &amp; Apostolica nobiscum lo uente ea 
+      di<lb ed="#H" n="174" break="no"/>dicerimus: sacrarum literarum, quas inde a puero nosse necessarium 
+      <lb ed="#H" n="175"/>&amp; salutare nobis, cognitioni &amp; meditationi incumbamus, illis in 
+      <lb ed="#H" n="176"/>tota Theologia ac religione insistamus, quae nos possunt 
+      sapien<lb ed="#H" n="177" break="no"/>tes reddere ad salutem per fidem quae est in Christo Jesu, cui cum 
+      <lb ed="#H" n="178"/>Patre &amp; Spiritu Sancto sit laus, honor &amp; gloria in saculorum 
+      myria<lb ed="#H" n="179" break="no"/>des infinitas, ANEN 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e3005">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>Hectenus igitur edisseruimus principia Theologiae Christ: anae; 
+      <lb ed="#H" n="181"/>si prolixius forte, attamen fructuosius ut speramus, quem si obitere 
+      <lb ed="#H" n="182"/>nimis breviter ea perstrinxissemus, sine quibus caetera omnia, de qui  
+      <lb ed="#H" n="183"/>bus deinseps tractandum, explipari non potuissent commode &amp; abs¬ 
+      <!--cod-MkL9py-0157.xml-->
+      <pb ed="#H" n="130"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>que interruptione ordinis didascalici, quem DOMINO benigne 
+      ju<lb ed="#H" n="2" break="no"/>vante tenere coastituimus. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e3030">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Explicata est simo vox Theologiae &amp; distincta significationibus: 
+      <lb ed="#H" n="4"/>deinde quod ad, LM ipsam attinet, tradita Theologiae definitio &amp; 
+      <lb ed="#H" n="5"/>distributio in archetypam &amp; ectypam, &amp; haec rursus distributa 
+      in<lb ed="#H" n="6" break="no"/>specres suas, donec ad Theologiam Christianam, qualis in hac vit: 
+      <lb ed="#H" n="7"/>nobiscum a Christo communicatur, ventum est, cujus principium 
+      <lb ed="#H" n="8"/>externum est Sacra Scriptura Prophetica &amp; Apostolica, quae vox 
+      <lb ed="#H" n="9"/>Dei ipsius est, ex qua sola docenda atque discenda vera religio, ex quae 
+      <lb ed="#H" n="10"/>sola omnes controversiae de religione exortae, decidendae; 
+      nequa<lb ed="#H" n="11" break="no"/>quam autem ex scriptis Patrum qui post Apostolorum tempora in 
+      <lb ed="#H" n="12"/>Ecclesia docuerunt. Nam plane absurdum foret, aliter de Deo aut de 
+      <lb ed="#H" n="13"/>religione divina loqui, quam Deus ipse in Scriptura Sacra: iniquum 
+      <lb ed="#H" n="14"/>etiam esset, in negotio salutis conscientias hominum revocare &amp; 
+      <lb ed="#H" n="15"/>alligare ad hominum potius, quam ad Dei verba: &amp; si in Scriptura 
+      <lb ed="#H" n="16"/>divina non reperiretur integra ac perfecta institutio ad salutem 
+      ne<lb ed="#H" n="17" break="no"/>cessaria, multo minus in humanis scriptis reperiretur. Omnis 
+      et<lb ed="#H" n="18" break="no"/>iam aequitas &amp; ratio postulat, ut Deus verbo suo judicet potius de 
+      <lb ed="#H" n="19"/>hominibus &amp; illorum verbo, quam ut homines &amp; scripta illorum 
+      <lb ed="#H" n="20"/>judicent de Deo &amp; Scripturis ipsius. Scriptura a Deo inspirata 
+      opti<lb ed="#H" n="21" break="no"/>mo jure praefertur scriptis hominum: Et ex eadem Scriptura Dei 
+      <lb ed="#H" n="22"/>aequius est ut decidantur omnes controversiae in domo Dei motae, 
+      <lb ed="#H" n="23"/>quam ex scriptis humanis. Nequaquam committendum ut 
+      praero<lb ed="#H" n="24" break="no"/>gativam soli Scripturae divinae debitam, in scripta Patrum 
+      transfe<lb ed="#H" n="25" break="no"/>ramus: quod fieret, si ex hominum potius quam Dei ipsius scriptis: 
+      <lb ed="#H" n="26"/>de religione judicium petere, &amp; pendere vellemus. Homines sunt  
+      <lb ed="#H" n="27"/>mutabiles in suis opinionibus: &amp; nisi certa esset immutabilisque 
+      <lb ed="#H" n="28"/>norma religionis, singulis annis novae religiones procuderentur. 
+      Pa<lb ed="#H" n="29" break="no"/>trum orthodoxorum scriptis tribuimus quantum par est &amp; quam 
+      <!--cod-MkL9py-0157.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="30"/>tum ipsi voluerunt. Etsi enim Scripturam ex Scriptura 
+      interpre<lb ed="#H" n="31" break="no"/>tandam merito censeamus: tamen ut infinmitati hominum 
+      com<lb ed="#H" n="32" break="no"/>muni hac quoque in re succurratur; non repudiamus Patrum 
+      ex<lb ed="#H" n="33" break="no"/>positiones &amp; sententias, sed quascunque habent analogiae fidei 
+      con<lb ed="#H" n="34" break="no"/>sentaneas &amp; Scripturis divinis conformes acceptamus, gratias 
+      a<lb ed="#H" n="35" break="no"/>gentes Deo pro laboribus utilissimis quibus Patres Ecclesiae 
+      Chri<lb ed="#H" n="36" break="no"/>sti profuerunt. Quin ex Patribus refutamus Papistas quia illos 
+      pro<lb ed="#H" n="37" break="no"/>principio religionis &amp; judicibus controversiarum Ecclesiasticarum 
+      <lb ed="#H" n="38"/>ignoscunt. Summa est; Scripta Patrum qui post Apostolos 
+      vixe<lb ed="#H" n="39" break="no"/>runt, non acceptamus pro religionis principio, neque ex illis 
+      contro<lb ed="#H" n="40" break="no"/>versias debere judicari supremo judicio, cui omnino 
+      acquiescen<lb ed="#H" n="41" break="no"/>dum sit, concodimus, etiamsi omnes unanimi consensu pro nobis 
+      <lb ed="#H" n="42"/>facerent: quia non oportet homines facere summos judices 
+      contro<lb ed="#H" n="43" break="no"/>versiarum roligionis loco Dei: non decet jus &amp; privilegium soli 
+      Scri<lb ed="#H" n="44" break="no"/>pturae divinae competens transferre in scripta humana: multorum 
+      <lb ed="#H" n="45"/>dogmatum falsitas multo facilius ex Scriptura Sacra judicari potest, 
+      <lb ed="#H" n="46"/>quam ex commentariis &amp; scriptis Patrum, qui saepe Scripturae 
+      con<lb ed="#H" n="47" break="no"/>tradicunt, &amp; probant quae Scriptura improbat, damnant quae 
+      Scriptu<lb ed="#H" n="48" break="no"/>ra laudat; saepe dubitant de iis quae Scriptura clare &amp; perfecte 
+      deter<lb ed="#H" n="49" break="no"/>minat; saepe ab aliis Patribus, saepe a seipsis dissident. Quum itaque 
+      <lb ed="#H" n="50"/>de rebus Dei erit sermo, concedamus cognitionem sui Deo, 
+      dictis<lb ed="#H" n="51" break="no"/>que ejus pia veneratione famulemur. Idoneus enim sibi testis est, qui  
+      <lb ed="#H" n="52"/>nisi per se cognitus non est. 
+      </p>
+            <p xml:id="yyy8Uu-e57662-d1e3147">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Satia nos, o Iehova, unoquoque mane benignitate tua, ut cantemus &amp; 
+      <lb ed="#H" n="54"/>laetemur omnibus diebus nostris. Laetifica nos, ut dies multos afflixisti 
+      <lb ed="#H" n="55"/>nos, annis multis experti sumus malum. Perspicuum sit erga servos tuos 
+      <lb ed="#H" n="56"/>opus tuum, &amp; decor tuus in filiis eorum. Denique adsit amoenitas Iehovae? 
+      <lb ed="#H" n="57"/>Dei nostri nobis: &amp; opus manuum nostrarum confirma in nobis; ipsum, 
+      <lb ed="#H" n="58"/>inquam, opus manuum nostrarum confirma. AMENi 
+      <!--cod-MkL9py-0157.xml-->
+      <pb ed="#H" n="130"/>
+               <cb ed="#H" n="c"/>
+               <lb ed="#H" n="59"/>FINIS PRIMILIBRI. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

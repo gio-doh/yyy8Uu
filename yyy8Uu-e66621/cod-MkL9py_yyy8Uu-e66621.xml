@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="345"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e66621"> <!-- l6-c7 -->
+            <head xml:id="yyy8Uu-e66621-Hd1e109">Caput 7</head>
+            <p xml:id="yyy8Uu-e66621-d1e112">
+      <!--cod-MkL9py-0372.xml-->
+               <pb ed="#H" n="345"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>CAPUT VII 
+      <lb ed="#H" n="2"/>In quo de partibus actualis providentiae Dei.
+    </p>
+            <p xml:id="yyy8Uu-e66621-d1e125">
+               <lb ed="#H" n="3"/>CTUALIS providentiae Dei partes duae sunt: actio &amp; permissio. 
+      <lb ed="#H" n="4"/>August. Enchirid ad Laurent. cap. 95. Non sit aliquid, nisi 
+      O<lb ed="#H" n="5" break="no"/>el. X mnipotens fieri velit, vel sinendo ut fiit (non fieret autem, si non 
+      <lb ed="#H" n="6"/>sineret, nec utique nolens sinit, sed volens) velipse faciendo. Unde 
+      provi<lb ed="#H" n="7" break="no"/>dentia ipsa duplex statuitur: efficiens &amp; permittens. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e138">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Nihil igitur fit, nisi quod Deus velit, quodque vel ipse agit, vel  
+      <lb ed="#H" n="9"/>fieri permittit: Nihilque aliter, quam Deus voluit, evenit. Hoc 
+      asseri<lb ed="#H" n="10" break="no"/>mus merito, ne divinae illi omnipotentiae probrum inferatur, &amp; 
+      <lb ed="#H" n="11"/>irritam ejus aliquam voluntatem, aut inane decretum esse 
+      conse<lb ed="#H" n="12" break="no"/>quatur.  
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e155">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Distributio autem haec non ita intelligenda, ac si permissio divina 
+      <lb ed="#H" n="14"/>mullomodo esset actus; est enim revera actus voluntatis transiens ad 
+      <lb ed="#H" n="15"/>ea quae extra Deum sunt: sed opponitur actioni divinae illi quae non 
+      <lb ed="#H" n="16"/>tantum actus voluntatis est, sed etiam actus Dei externus quo opus 
+      <lb ed="#H" n="17"/>externum producit. Sed de utraque agendum deinceps distincte, 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e171">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>ACTIG DEI quae pars est actualis providentiae Dei, est tantum 
+      bo<lb ed="#H" n="19" break="no"/>norum, qua Deus inde a creatione prima rerum omnium efficit vel 
+      <lb ed="#H" n="20"/>per se, vel per alios, in quibus etiam mala poenae, quae vocant, 
+      nume<lb ed="#H" n="21" break="no"/>tantur, quia (ut supra dictum) boni moralis rationem habent, Psal. 
+      <lb ed="#H" n="22"/>74 v. 8. Sed Deus judex, hunc deprimit &amp; illum extollit. Intelligitur  
+      <lb ed="#H" n="23"/>nomine semitarum seu viarum Dei, Psal. 25. v. 10. Omnes semitae seu 
+      <lb ed="#H" n="24"/>viae Dei sunt benignitas &amp; fides, id est, quicquid facit Deus, est 
+      ple<lb ed="#H" n="25" break="no"/>num benigniiate &amp; veritate erga observantes federis sui. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e193">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>Eaque vel mediata est, vel immediata. 
+      <lb ed="#H" n="27"/>Mediata, est quum ministerio causarum secundarum tanquam 
+      in<lb ed="#H" n="28" break="no"/>strumentorum Deus utitur ad opera certa perficienda, non 
+      necessi<lb ed="#H" n="29" break="no"/>tate aliqua adductus, sed libera voluntate, Ezech. 1. 4. &amp; seqq. &amp; cap. 
+      <lb ed="#H" n="30"/>to. vers. 9. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e209">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Instrumenta vero quibus Deus utitur, sunt vel bona vel mala. 
+      <lb ed="#H" n="32"/>Utrisque, non solum bonis, sed etiam malis instrumentis Deus 
+      sem<lb ed="#H" n="33" break="no"/>per bene utitur.  
+      <lb ed="#H" n="34"/>Deus utitur malis vel ad exercendum &amp; explorandum fidem, 
+      pa<lb ed="#H" n="35" break="no"/>tientiam &amp; constantiam electorum, ut patet ex Jobi exemplo: vel ad 
+      <lb ed="#H" n="36"/>castigandum electos, sicut usus est Absalomo ad castigandum 
+      Davi<lb ed="#H" n="37" break="no"/>dem: vel ad puniendum malos, ut mali per malos plectantur, Jes. 10. 
+      <lb ed="#H" n="38"/>v.16. &amp; cap. 21. 2. Per Assyrios punivit Deus Israelitas; Per 
+      Chal<lb ed="#H" n="39" break="no"/>daeos &amp; Babylonios punivit Deus Judaeos. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e233">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Licet vero malis instrumentis utatur: tamen nullius omnino 
+      pec<lb ed="#H" n="41" break="no"/>cati est autor vel particeps: hoc vel inde apparet, quod mala 
+      instru<lb ed="#H" n="42" break="no"/>menta, quorum opera usus erat, deinceps severissime punit, Jesa 14. 
+      <lb ed="#H" n="43"/>v. 5, 6, 29. Sic Propheta Chabbacuc docet, per Chaldaeos impios &amp; 
+      <lb ed="#H" n="44"/>crudeles puniturum Deum Judaeos, sed postea Chaldaeos poenas 
+      et<lb ed="#H" n="45" break="no"/>iam daturos scelerum suorum. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e251">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>Etsi etiam mali nihil agant neque agere possint, quod a Deo 
+      decre<lb ed="#H" n="47" break="no"/>tum non sit: tamen excusari vel excusationem praetexere non possunt. 
+      <lb ed="#H" n="48"/>&amp; merito puniuntur: quia ipsi non respiciunt decretum &amp; gloriam 
+      <lb ed="#H" n="49"/>Dei, neque cum finem quem Deus sibi propositum habet; sed suum 
+      <lb ed="#H" n="50"/>propmum malum propositum, ut illud effectum reddant, id est, ut faciat  
+      <lb ed="#H" n="51"/>quae malitia ipsis innata dictat, repleti ira, invidia, odio, studio 
+      vindi<lb ed="#H" n="52" break="no"/>ctae; &amp; nullum alium finem sibi proponunt, quam ut suo desiderio, 
+      a<lb ed="#H" n="53" break="no"/>varitiae, ambitioni satisfaciant, ut statum suum conservent vel 
+      auge<lb ed="#H" n="54" break="no"/>ant, ut honos evertat, ut se ulciscantur. Exemplum illustre est, Jes. 10. 
+      <lb ed="#H" n="55"/>5.6. &amp; seq Jesa. 14. 5. &amp; 5. 7, 5. Impii enim semper finem malum 
+      pro<lb ed="#H" n="56" break="no"/>positum sibi habent. Gen. 50. 20. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e281">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Etsi vero DEUS malos movet ut per eos bene agat: ipsi tamen 
+      con<lb ed="#H" n="58" break="no"/>tratio motu se movent ad agendum male, &amp; ut velint quod malum 
+      <lb ed="#H" n="59"/>est, &amp; perficiant, sicut legitur, Ps. 10 5. 25. Mutavit cor eorum (nempe 
+      <lb ed="#H" n="60"/>AEgyptiorum) ut odio haberent populum suum (nimirum Israeliticum; 
+      <lb ed="#H" n="61"/>ut machinarentur contra servos suos. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e297">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Interim DEUS etiam mala quae impii faciunt, ad bonum finem 
+      <lb ed="#H" n="63"/>dirigit, nempe ad suam gloriam &amp; salutem electorum. Grassari, 
+      rape<lb ed="#H" n="64" break="no"/>re, saevitiam suam explere, mens Nebucadnetzaris est: 
+      grassantemJu<lb ed="#H" n="65" break="no"/>daeoram nequitiam, flagro isto plectere ac coercere, mens Deo. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e310">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Scivit enim DEUS magis ad suam omnipotentissimam bonitate 
+      <lb ed="#H" n="67"/>per nalis benefacere, quam mala esse non sinere 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e319">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>GA va (cecant Satan &amp; impii eorum est; quod peccado hoc I 
+      <lb ed="#H" n="69"/>vel illud agunt, ex virtute DEI est: id est, quod moventur &amp; agunt 
+      ma<lb ed="#H" n="70" break="no"/>li, ex virtute DEI est: sed quod male, id est, malis affectibus, malis 
+      con<lb ed="#H" n="71" break="no"/>siliis, malo modo, malo fine moventur &amp; agunt, id ipsorum est: 
+      dis<lb ed="#H" n="72" break="no"/>cernenda est enim malitia ab ipsa actione, cui malitia adjuncta est. 
+      <lb ed="#H" n="73"/>Opus &amp; consilium Dei distingui debet ab opere &amp; consilio 
+      peccan<lb ed="#H" n="74" break="no"/>tis creaturae. Peccant homines multa male faciendo, quae Deus 
+      bene<lb ed="#H" n="75" break="no"/>facit puniendo, siquidem sceleris supplicium in scelere est Quod 
+      ma<lb ed="#H" n="76" break="no"/>lum est, faciunt mali; Deus autem id quod bonum: &amp; consilium aliud 
+      <lb ed="#H" n="77"/>malis, aliud Deo. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e345">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Omnis actio, quatenus actio est, a DEO est: nam in ipso vivimus, 
+      <lb ed="#H" n="79"/>movemur &amp; sumus, Act. 17. 28. &amp; is omnia efficit ex consilio 
+      volun<lb ed="#H" n="80" break="no"/>tatis suae, Eph. 1. 11. Malitia vero actionis ex hominis voluntate 
+      na<lb ed="#H" n="81" break="no"/>scitur, nec DEUM attingit, qui malis &amp; vitiosis instrumentis sic uti 
+      po<lb ed="#H" n="82" break="no"/>test ut interim nulla ipse mali contagione inficiatur. Motus &amp; 
+      actio<lb ed="#H" n="83" break="no"/>nes sunt Dei, qui expers omnis naevi: exorbitationes &amp; 
+      claudicatio<lb ed="#H" n="84" break="no"/>nes, aberrationes a lege Dei sunt hominum, qui natura suapte vitiosi 
+      <lb ed="#H" n="85"/>peccant ultro. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e367">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>
+               <name xml:id="yyy8Uu-e66621-Nd1e373">Anselmus</name> de casu diaboli c. 71. Cur hoc pro absurdo habemus, ut  
+      <lb ed="#H" n="87"/>Deus faciat singulas actiones per malum creaturarum uoluntatem, 
+      <lb ed="#H" n="88"/>cum sciamus illum facere singulas substantias, quae prodacuntur per 
+      in<lb ed="#H" n="89" break="no"/>honestam actionem? ut cum filius procreatur per adulterium. 
+      Adulteri<lb ed="#H" n="90" break="no"/>um malum esse nemo dubitat, at puer ille est creatura Dei. 
+      <!--cod-MkL9py-0372.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>Quicquid ergo est in actione peccati in instrumentis haeret, a 
+      qui<lb ed="#H" n="92" break="no"/>bus etsi fiunt quae DEUS voluit, nor tamen semper eodom modo 
+      fi<lb ed="#H" n="93" break="no"/>unt, qui ei placeat: &amp; alium finem sibi proposuerunt, quam eum que 
+      <lb ed="#H" n="94"/>DEUS spectavit.  
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e400">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Utraque instrumenta &amp; bona &amp; mala, vel ordinaria sunt, vel 
+      extra<lb ed="#H" n="96" break="no"/>ordinaria. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e409">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>Ordinaria, quibus ordinarie DEUS utitur ad exsequendum suum 
+      <lb ed="#H" n="98"/>decretum. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e418">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Extraordinaria contra. 
+      <lb ed="#H" n="100"/>Rursus vel animata sunt vel inanimata. 
+      <lb ed="#H" n="101"/>Instrumenta animata vel rationalia sunt vel rationis expertia. 
+      <lb ed="#H" n="102"/>Rationalia, ut Angeli boni &amp; mali 2. Reg 6. v. 17. Job. 2. v. 7. Psal. 
+      <lb ed="#H" n="103"/>34. v. 8 Ezech. cap. 1. v. 4. &amp; sequent. visiono quatuor animalium 
+      do<lb ed="#H" n="104" break="no"/>cetur, Deum gloriae &amp; Dominum Jesum Christum Spiritu aeterno 
+      <lb ed="#H" n="105"/>suo caelum &amp; terram &amp; omnia in eis gubernate ministerio 
+      Angelo<lb ed="#H" n="106" break="no"/>rum suorum. Sic Ezech. 10. v. 9. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e440">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>Et homines Genes. 45. 4. Sic hostes Ecclesiae suae Deus per 
+      ipsos<lb ed="#H" n="108" break="no"/>met hostes delevit, dum obvertit gladium unius in alterum, Judic. 7. 
+      <lb ed="#H" n="109"/>v. 22. 2. Chron. 20 v. 22, 23. Pet Philistaeos, qui impressionem in 
+      fi<lb ed="#H" n="110" break="no"/>nes Israeliticos fecerant, retraxit Saulem a persequendo Davide, 
+      at<lb ed="#H" n="111" break="no"/>que ita Davidem ex praesentissimo periculo liberavit, 1. Sam. 23. v. 
+      <lb ed="#H" n="112"/>25. &amp; seqq. 2. Sam. 16. 10. Jerem 25. 9. Ezech. 21. 21. &amp; 30. 4. Joh. 19. 
+      <lb ed="#H" n="113"/>II. Actor. 2. 13 &amp; 4. 27. qui dicuntur fabri Zachar. 1. 20. id est, 
+      admi<lb ed="#H" n="114" break="no"/>nistri artificesque judiciorum Dei, quos Deus undiquaque 
+      congre<lb ed="#H" n="115" break="no"/>gat ad deturbanda cornua, hoc est, ad dejiciendos hostes Ecclesiam 
+      <lb ed="#H" n="116"/>Dei persequi &amp; ferire non cessantes. Per Eliam confudit regem 
+      A<lb ed="#H" n="117" break="no"/>chabum potentem, 1. Reg. 17. 1. &amp; 18. 1. Per Gamalielem disturbavit.  
+      <lb ed="#H" n="118"/>consilium Sacerdotum Jerosolymitanorum de interfectione 
+      Apo<lb ed="#H" n="119" break="no"/>stolorum, act. 5. v. 34. &amp; seqe 
+      <lb ed="#H" n="120"/>Porro quum Deus per instrumenta rationalia agit, attenta 
+      coside<lb ed="#H" n="121" break="no"/>ratione discerni debet opus Dei proprium ab opere instrumentorum. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e477">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Nam opus Dei semper sit sapientissime, semper est bonum, justu 
+      <lb ed="#H" n="123"/>ac sanctum: cum actione vero instrumentorum concurrit saepe 
+      ma<lb ed="#H" n="124" break="no"/>litia, injustitia, mala cupiditas, fraus, dolus, mendacium, imprudentia 
+      <lb ed="#H" n="125"/>&amp; alia vitia, non a Deo, sed ab instrumentis provenientia, quae tamen 
+      <lb ed="#H" n="126"/>consilium &amp; opus Dei irritum non faciunt, nec impediunt, nec 
+      viti<lb ed="#H" n="127" break="no"/>ant Vis enim operum omnium, ad quae efficienda causae plures 
+      con<lb ed="#H" n="128" break="no"/>veniunt, ita se habet, ut principalis causa non cedat inferiori vim &amp; 
+      au<lb ed="#H" n="129" break="no"/>toritatem suam. Exempla. Deus probavit constantiam Jobi in vera 
+      <lb ed="#H" n="130"/>pietate erga Deum: Usus est ad eam tem Satana &amp; Chaldaeis, e 
+      qui<lb ed="#H" n="131" break="no"/>bus ille malitia sua, hi injustitia sua &amp; rapina opus Dei vitiare minime 
+      <lb ed="#H" n="132"/>potuerunt Deus castigavit Davidem: usus est ad opus illud Semejo, 
+      <lb ed="#H" n="133"/>qui improbitate sua opus Dei minime vitiavit.  
+      <lb ed="#H" n="134"/>Similiter Deus imprudentibus tum servis suis, tum etiam exteris 
+      <lb ed="#H" n="135"/>in consiliorum suorum exsequutione sapientissime utitur, ut illi aut 
+      <lb ed="#H" n="136"/>nihil aut aliud cogitantes volentesque, tamen voluntatem Dei 
+      exse<lb ed="#H" n="137" break="no"/>quuti sint, imo eriam in ea ipsa actione imprudentes saepe 
+      impege<lb ed="#H" n="138" break="no"/>rint, ut tota laus penes Deum ut autorem sui operis, permaneret. 
+      Ex<lb ed="#H" n="139" break="no"/>empla. Deus decreverat, Jacobo filio Isaaci benedictionem ad 
+      pri<lb ed="#H" n="140" break="no"/>mogenitum alioquin pertinentem largiti. Itaque in collatione 
+      bene<lb ed="#H" n="141" break="no"/>dictionis illius causa principalis fuit Deus, qui sibi Isaacum ut 
+      instru<lb ed="#H" n="142" break="no"/>mentum ad benedictionem illam Jacobo conferendam, non 
+      necessi<lb ed="#H" n="143" break="no"/>tate, sed bonitate &amp; gratia adjunxit, sic ut Deus personam Isaaci &amp; 
+      <lb ed="#H" n="144"/>vocationem patriam hoc ministerio honoraverit. Jam Deus in 
+      ope<lb ed="#H" n="145" break="no"/>re illo egit sapientissime, optime &amp; justissime. Isaacus vero, 
+      circum<lb ed="#H" n="146" break="no"/>ventus fraude uxoris &amp; filii Jacobi mendacio, quam benedictionem 
+      <lb ed="#H" n="147"/>Esavo conferre constituerat per imprudentiam in Jacobum 
+      transtu<lb ed="#H" n="148" break="no"/>lit. Hic fraus Rebeccae, mendacium Jacobi &amp; imprudentia Isaaci 
+      <lb ed="#H" n="149"/>nequaquam irritum fecit aut vitiavit opus nei. veus benedixit 
+      Israe<lb ed="#H" n="150" break="no"/>litis etiam per Bileamum externum &amp; infidelem, qui maluisset eis 
+      <lb ed="#H" n="151"/>maledicere. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e547">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Deus transtulit regnum decem tribuum a domo Davidis in 
+      Ja<lb ed="#H" n="153" break="no"/>robeamum: fecit idem Ahias Propheta: fecerunt &amp; Israelitae. Deus 
+      <lb ed="#H" n="154"/>&amp; Ahias Propheta sancte egerunt: Israelitae peccarunt, sed tamen 
+      pec<lb ed="#H" n="155" break="no"/>cato suo opus Dei minime potuerunt vitiare. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e561">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Adhibentur a Deo instrumenta etiam rationis expertia: ut bestise, 
+      <lb ed="#H" n="157"/>2. Pet. 2. v. 16. subjugis asina muta, humana voce loquuta, prohibuit. 
+      <lb ed="#H" n="158"/>Prophetae dementiam. Corvi afferebant Prophetae Eliae quotidie 
+      pa<lb ed="#H" n="159" break="no"/>nem &amp; carnem mane ac vesperi, 1. Reg. 174, 5, 6. Ezech. 14. v. 15 2. 
+      <lb ed="#H" n="160"/>Reg. 2. 24. Egrissae duae ursae e sylva illius, disciderunt ex eis 
+      quadragin<lb ed="#H" n="161" break="no"/>ta duos pueros. Exo. 8. v. 2. Quod situ renues dimittere, ecce ego 
+      verbera<lb ed="#H" n="162" break="no"/>turus sum totam oram tuam ranis. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e581">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>Instrumenta inanimata, sunt sulphur, ignis, Gen. 19. v. 24. Iehova 
+      <lb ed="#H" n="164"/>demisit super Sodomam &amp; super Hamoram pluviam sulphuris &amp; ignis: 
+      <lb ed="#H" n="165"/>grando, Exo 9. v. 22. Extende manum tuam versus caelum, ut sit 
+      gran<lb ed="#H" n="166" break="no"/>do intota terra Aegyptiorum, super homines, &amp; super jumenta, &amp; super  
+      <lb ed="#H" n="167"/>omnes herbas agri, quae sunt in terra Aegyptiorum: manna, Exo. 16. v. 
+      <lb ed="#H" n="168"/>14. carnes, Exod. 16. v. 13. E caelis pugnarunt sidera ipsa contra 
+      Sise<lb ed="#H" n="169" break="no"/>tam, torrens Rischon evertit hostes populi Dei, Jud. 5. v. 20, 21, 
+      po<lb ed="#H" n="170" break="no"/>tus &amp; cibus, 1. Reg. 17. 4. item, siceitas, fames, morbus, pestis, sicut  
+      <lb ed="#H" n="171"/>anno Christi 1562. reformati in oppido Galliae Pamiers praesidio 
+      pe<lb ed="#H" n="172" break="no"/>stis in oppido grassantis conservati sunt ab hoste interno &amp; externos 
+      <lb ed="#H" n="173"/>Nam cives Papani fere omnes peste sunt extincti &amp; milites 
+      Pa<lb ed="#H" n="174" break="no"/>iani non sunt ausi oppidum oppugnare &amp; ingredi metu pestis: Ita 
+      pe<lb ed="#H" n="175" break="no"/>stis servivit Deo ad pios conservandos adversus violentiam 
+      perse<lb ed="#H" n="176" break="no"/>quutorum. Similiter serviunt Deo gladius, bellum, mors, Jesa. 13. 4, 
+      <lb ed="#H" n="177"/>17. vincula captivorum, venti, tempestates marinae, Psalm. 107. 14, 
+      <lb ed="#H" n="178"/>25. Aquarum diluvia seu inundationes, Gen. 7. Omnia enim ista 
+      <lb ed="#H" n="179"/>sunt ministri Dei. Omnes etiam minimae &amp; vilissimae res serviunt 
+      <lb ed="#H" n="180"/>Deo ad res magnas &amp; mirandas efficiendas: ut stimulus bovis ad 
+      in<lb ed="#H" n="181" break="no"/>terficiendos sexcentos Philistaeos per Schamgarem Judicem populi, 
+      <lb ed="#H" n="182"/>Israelitici, Jud. 3. v. 31. Maxilla asini ad interficiendos mille Philistae 
+      <!--cod-MkL9py-0373.xml-->
+      <pb ed="#H" n="346"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>os per Simsonem. Jud. 15. v. 15. Lapillus funda contortus ad 
+      interfi<lb ed="#H" n="2" break="no"/>ciendum Goliathum per puerum Davidem, 1. Sam. 17. 49. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e640">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Sic fuit de actione Dei mediata: sequitur de immediata 
+      <lb ed="#H" n="4"/>Actio Dei immediata, est qua Deus absque mediis seu instrumentis: 
+      <lb ed="#H" n="5"/>quaecunque vult efficit, Gen. 20. v. 3. Matth. 4. v. 4. Deut. 8. v. 3. Sic 
+      Ge<lb ed="#H" n="6" break="no"/>nes. 2. v. 1. quum nondum pluisset Jehova super terram nec quisqu 
+      <lb ed="#H" n="7"/>esset qui coleret terram: tamen omnia virebant &amp; florebant in 
+      cam<lb ed="#H" n="8" break="no"/>po, &amp; frumenta erant in campis 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e658">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>Discimus inde, Deum etiam sine mediis omnia efficere &amp; 
+      produ<lb ed="#H" n="10" break="no"/>cere posse. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e667">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Nec tamen inde sequitur, non esse colendam terram, quum Deus 
+      <lb ed="#H" n="12"/>possit omnia ex terra sine mediis producere, id est, etiamsi non 
+      <lb ed="#H" n="13"/>pluat, etiamsi non colatur terra: quia Deus media deinceps 
+      ordi<lb ed="#H" n="14" break="no"/>navit, per quae vult agere. His jam utendum est: alioquin Deum 
+      ten<lb ed="#H" n="15" break="no"/>taremus. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e683">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Quin hominem Deus laborare voluit etiam in statu integritati 
+      <lb ed="#H" n="17"/>ut nempe tueretur hortum Eden, Gen. 2. v. 15. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e693">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Sic fuit de actione Dei sequitur de permissione. 
+      <lb ed="#H" n="19"/>Permissio diuvina, est actus voluntatis divinae, quo Deus in cujus 
+      <lb ed="#H" n="20"/>potestate est alienas actiones inhibere si vellet, eas non inhibet, sed  
+      <lb ed="#H" n="21"/>uxta aeternum justumque suum decretum sinit a creatura rationalis 
+      <lb ed="#H" n="22"/>fieri συγχαρισις, item ωρονοια κι σγχαρησιν,  
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e709">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Eaque vel boni est, vel mali culpae seu peccat:  
+      <lb ed="#H" n="24"/>Permittere, dicitur ambigue, vel enim significat concedere aliquid 
+      si<lb ed="#H" n="25" break="no"/>ve bonum illud sit, sive malum: vel significat non velle impedire quum 
+      <lb ed="#H" n="26"/>possit. Priore sensu Deus non permittit peccatum, quia illud Lege sus 
+      <lb ed="#H" n="27"/>prohibet: Posteriore autem significato permittit. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e725">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Permissio boni, est concessio gratiae per quam facere aut consequi 
+      <lb ed="#H" n="29"/>possumus, quae desideramus &amp; optamus in actionibus &amp; rebus 
+      bo<lb ed="#H" n="30" break="no"/>nis aut mediis seu indifferentibus. Hebr. 6. vers 3. Atque id faciemus, 
+      <lb ed="#H" n="31"/>siquidem permiserit Deus. 1. Corinth. 16 vers 7. Nolo enim vos nuno 
+      <lb ed="#H" n="32"/>in transcursu videre: sed spero temporis aliquantum mansurum me 
+      a<lb ed="#H" n="33" break="no"/>pud vos, si Dominus permiserit. Haec permissio conjuncta est cum 
+      ap<lb ed="#H" n="34" break="no"/>probatione eorum quae permittit, quia quae Deus sic permittit, 
+      ap<lb ed="#H" n="35" break="no"/>probat &amp; efficit, 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e747">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Permissio mali culpae seu peccati, est privatio gratiae &amp; auxilii 
+      divini<lb ed="#H" n="37" break="no"/>quo posito, peccatum impediretur. Ista permissio non est conjuncta 
+      <lb ed="#H" n="38"/>cum approbatione eorum quae permittit; quia quae sic permittit, 
+      ne<lb ed="#H" n="39" break="no"/>quaquem approbat, nequaquam efficit, ac proinde impune fieri non 
+      <lb ed="#H" n="40"/>sinit Privat autem Deus auxilio suo dum gratiam non peccandi 
+      ve<lb ed="#H" n="41" break="no"/>non prorogat, ut Adamo &amp; Evae non prorogavit in Paradiso, alios 
+      <lb ed="#H" n="42"/>quin non peccassent; vel eam non largitur peccantibus &amp; eorum 
+      vo<lb ed="#H" n="43" break="no"/>untatem ad obtemperandum divinae voluntati non flectit &amp; non 
+      <lb ed="#H" n="44"/>impedit peccatum, etsi posset, Jesa 2. vers. 6 Jerem 16. vers 13. coletis 
+      <lb ed="#H" n="45"/>ibi deos alienos interdiu &amp; noctu, quamdiu non dedero vobis gratiam, 
+      <lb ed="#H" n="46"/>Act. 14. v. 16. Rom. 1. v. 24, 28. Psal. 81. 13 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e776">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Permissio peccati est duplex: vel simplex &amp; absoluta, ut quum 
+      Ada<lb ed="#H" n="48" break="no"/>mum permisit labi: vel ex hypothesi, quum Deus permissionum suam 
+      <lb ed="#H" n="49"/>attemperat conditioni &amp; naturae hominum, quorum opera uti 
+      decre<lb ed="#H" n="50" break="no"/>vit ad conservationem justitiae suae &amp; stabilimentum ordinis publici; 
+      <lb ed="#H" n="51"/>quemadmodum superior causa non aliter agit per inferiorem, quam 
+      <lb ed="#H" n="52"/>secundum modum ipsius: ut quum Deus Israelitis permitteret 
+      ven<lb ed="#H" n="53" break="no"/>dere &amp; in servitutem dedere liberos, Exod. 21. v. 2. Sic divortium quod 
+      <lb ed="#H" n="54"/>Moles Israelitis permiserat propter duritiem cordis ipsorum erat  
+      <lb ed="#H" n="55"/>peccatum, Matth. 19. v. 3. &amp; seque 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e800">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Igitur mala culpae, id est, peccata Deus non facit, sed fieri 
+      secun<lb ed="#H" n="57" break="no"/>dum suum decretum permittit, Act. 4. v. 27. non quatenus peccata 
+      <lb ed="#H" n="58"/>sed quatenus actiones sunt &amp; vel medium patefactioni gloriae Dei 
+      <lb ed="#H" n="59"/>serviens vel reatus, id est, obligatio ad poenam, vel poena. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e814">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>Permissio haec non est separanda a voluntate Dei. Quando 
+      e<lb ed="#H" n="61" break="no"/>nim permittit quippiam Deus, aut volens utique permittit, aut 
+      no<lb ed="#H" n="62" break="no"/>lens. Deum aliquid permittere nolentem, id est, invito &amp; 
+      pror<lb ed="#H" n="63" break="no"/>sus nullo modo volente Deo aliquid fieri, nemo pius dixerit, neque 
+      <lb ed="#H" n="64"/>in animum suum induxerit. Hoc enim esset Dei omnipotentiam in 
+      <lb ed="#H" n="65"/>ficiari ore blasphemo Ergo volente Deo &amp; non impediente sit quic. 
+      <lb ed="#H" n="66"/>quid sit Deum namque id voluisse credendum est, quod non fieret, nisi 
+      <lb ed="#H" n="67"/>vellet aliquo modo 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e836">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Permittit ergo Deus malum culpae non per impotentiam quasi 
+      <lb ed="#H" n="69"/>impedire illud non posset, qualis impotentia in Deo esse nequit, sed 
+      <lb ed="#H" n="70"/>er sanctam dispositionem suam, sed certo consilio: neque invitus 
+      <lb ed="#H" n="71"/>permittit, sed ita, ut non fiat, nisi volente ipso, &amp; aliter non fiat quam 
+      <lb ed="#H" n="72"/>permittit, ut illud interim dirigat ad bonum finem. Quicquid Deus 
+      <lb ed="#H" n="73"/>pormittit, volens permittit, simulque decretum &amp; factum ejus in 
+      <lb ed="#H" n="74"/>tercedit. Sivit gentes incedere viis suis, Act. 14. v.16. sed ita ut 
+      tradi<lb ed="#H" n="75" break="no"/>derit eos cupiditatibus cordium ipsorum &amp; in mentem judicii 
+      o<lb ed="#H" n="76" break="no"/>mnis expertem, Rom. 1 vers. 24, 28. Titum Hierosolyma 
+      expu<lb ed="#H" n="77" break="no"/>gnantem sua impulit ambitio: Interim Deus corruptissimos 
+      civi<lb ed="#H" n="78" break="no"/>um mores, &amp; ipsius Christi Filii sui necem ultus est. Judas Iscariotes 
+      <lb ed="#H" n="79"/>avaritia impulsus Christo mortem adscivit: Deus vero per 
+      han<lb ed="#H" n="80" break="no"/>mortem genus humanum servavit.  
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e869">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Causa idcirco efficiens permissionis divinae non est ignorantia a 
+      <lb ed="#H" n="82"/>liqua Dei aut negligentia, nam adversatur sapientiae Dei: non est 
+      im<lb ed="#H" n="83" break="no"/>potentia aliqua Dei: nam homines quidem multa permittunt, quis 
+      <lb ed="#H" n="84"/>non possunt vi sua inhibere illa; ast in Deum impotentia non cadit. 
+      <lb ed="#H" n="85"/>quia vel momento omnium creaturarum actiones inhibere posset, 
+      <lb ed="#H" n="86"/>si velet: sed voluntas Dei liberrima ac justissima est illius efficiens 
+      <lb ed="#H" n="87"/>causa. Deus suum auxilium, quo posito peccatum impeditur, dat 
+      qui<lb ed="#H" n="88" break="no"/>busdam, &amp; non dat quibusdam Si enim daret auxilium efficax 
+      o<lb ed="#H" n="89" break="no"/>mnibus nulli peccarent. Hominibus quantumvis 
+      potentissi<lb ed="#H" n="90" break="no"/>mis, veluti Regibus &amp; Principibus, extorqueri potest invitis rei ali¬ 
+      <!--cod-MkL9py-0373.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>cujus permissio, sic ut illa sit involuntaria: at permissio divina es¬ 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e902">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>prorsus voluntatia. Nec sapientissimus quicquam agit imprudem 
+      <lb ed="#H" n="93"/>ter: nec omnipotens mundi gubernator incuria aut invitus. Qua 
+      <lb ed="#H" n="94"/>propter errant graviter, qui permissionem divinam consilio &amp; 
+      volun<lb ed="#H" n="95" break="no"/>cati ejus opponunt. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e915">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Deus permittit malum culpae, sed non nisi propter majus bonum 
+      <lb ed="#H" n="97"/>universi. Si enim non esset peccatum, haud esset locus patientiae 
+      mar<lb ed="#H" n="98" break="no"/>yrum &amp; hostiae Christi in cruce oblatae, quae infinite excedit 
+      omne<lb ed="#H" n="99" break="no"/>malum culpae universi mund. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e928">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Permisit labi primum hominem duas ob causas: prima est, ut 
+      cog<lb ed="#H" n="101" break="no"/>nosceret homo suam infirmitatem &amp; impotentiam 
+      persistendi<lb ed="#H" n="102" break="no"/>in bono, si sibi relinqueretur &amp; ei vel ad momentum gratia Dei 
+      <lb ed="#H" n="103"/>non prorogaretur: secunda, ut hac ratione Deus declararet tum 
+      mi<lb ed="#H" n="104" break="no"/>sericordiam &amp; potentiam suam in electis hominibus reparancis &amp; 
+      <lb ed="#H" n="105"/>salvandis, tum justitia &amp; potentia in reprobis puniendis perdendsque, 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e947">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Permittit etiamnum sanctos labi in peccatum, ut propter 
+      pecca<lb ed="#H" n="107" break="no"/>tum castigatos ad veram sui agnitionem &amp; humilitatem adducat.  
+      <lb ed="#H" n="108"/>Psal. 19. Bonum est mihi Domine quod humiliaveris me, ut discerem 
+      <lb ed="#H" n="109"/>justificationes tuas 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e960">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Permittit etiam reprobos ruere in peccatum, ut in illis puniendi 
+      <lb ed="#H" n="111"/>propter peccatum demonstret gloriam suae justitiae. Rom. 9. v. 17. 
+      <lb ed="#H" n="112"/>Exod. 9. v. 16. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e971">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Nec enim sineret bonus fieri male, nisi omnipotens esiam de 
+      ma<lb ed="#H" n="114" break="no"/>lo facere posset bene 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e980">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Sic igitur aeterno, immutabili, sapientissimo &amp; justissimo 
+      consilio<lb ed="#H" n="116" break="no"/>nequaquam effecit aut approbavit, sed permisit ut praecipuae creature 
+      <lb ed="#H" n="117"/>laberentur in peccatum  
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e991">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Porro sicut monstra, licet alienam suae speciei deformitatem 
+      ha<lb ed="#H" n="119" break="no"/>beant, faciunt tamen ad Universitatis elegantiam, quatenus alia ex 
+      <lb ed="#H" n="120"/>eorum collatione pulchriora apparent, Augustin. lib. 16. de 
+      Civi<lb ed="#H" n="121" break="no"/>tate Dei, cap. 6. Ita mala culpae (ut inter alia asserit idem Augustinus 
+      <lb ed="#H" n="122"/>lib. 3. de libero arbitrio, capite 9.) quantumlibet in se turpia sint &amp; 
+      <lb ed="#H" n="123"/>deformia, atque secundum se praecise spectata dedecoris notam 
+      <lb ed="#H" n="124"/>Mundo inurant; conferunt tamen ad Mundi ornamentum, 
+      qua<lb ed="#H" n="125" break="no"/>tenus ex eorum comparatione virtutum splendor magis enitet, &amp; 
+      <lb ed="#H" n="126"/>bona eminentius commendantur ac magis placent: tum 
+      praeser<lb ed="#H" n="127" break="no"/>tim quia Deus, quae ipsius bonitas est &amp; potentia, e malis bona elicit, 
+      <lb ed="#H" n="128"/>lum mala recte ordinat &amp; peccati dedecus emendat poena peccatis 
+      <lb ed="#H" n="129"/>Quare multa impedirentur bona, si nullum malum culpae a Deo 
+      <lb ed="#H" n="130"/>ermitteretur. Neque enim justitia vindicans &amp; patientia sufferens 
+      <lb ed="#H" n="131"/>laudaretur, si iniquitas non esset. Augustinus Enchirid ad Lauren 
+      <lb ed="#H" n="132"/>tium cap. 11. Item libro primo de ordine, cap. 7. Lactantius libro de 
+      <lb ed="#H" n="133"/>ira Dei, cap. 13. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e1030">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Caeterum diabolus &amp; impii, imo omnes creaturae ita sunt in DE, 
+      <lb ed="#H" n="135"/>potestate, ut sine ejus arbitrio non modo nihil agere sed ne movero 
+      <lb ed="#H" n="136"/>se quidem possint. Gen. 20. v. 6. Sic pseudopropheta Bileam non 
+      <lb ed="#H" n="137"/>potuit maledicere Israelitico populo Num. 22. Job. 1. v. 12. &amp; 2. 6. 
+      <lb ed="#H" n="138"/>Prov. 21. 1. Act. 17. 25, 28. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e1047">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Unde duo colligimus confectaria. 
+      <lb ed="#H" n="140"/>Primum pertinet ad nostram consolationem, nimirum nobis 
+      ni<lb ed="#H" n="141" break="no"/>hil mali a diabolo vel ab improbis hominibus posse accidere sine 
+      <lb ed="#H" n="142"/>voluntate &amp; permissione Dei 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e1060">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Alterum pertinet ad institutionem nostram, nempe quicquid 
+      no<lb ed="#H" n="144" break="no"/>bis adversi eveniat, esse animum a nostris hostihus &amp; malis, quibus 
+      <lb ed="#H" n="145"/>affligimur, avertendum, &amp; erigendum ad DEUM, patienter 
+      perferen<lb ed="#H" n="146" break="no"/>da omnia, Job. 1. agnoscenda DEI justa judicia &amp; adoranda. Psa. 119. 
+      <lb ed="#H" n="147"/>Bonum est mihi Domine quod humiliasti me, &amp;c. apud Deum 
+      depo<lb ed="#H" n="148" break="no"/>nendam injuriam, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e66621-d1e1078">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>Hactenus fuerunt partes actualis Providentiae divinae. 
+      <lb ed="#H" n="150"/>sequuntur species.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 17</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 17</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="291"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e40143"> <!-- l5-c17 -->
+            <head xml:id="yyy8Uu-e40143-Hd1e109">Caput 17</head>
+            <p xml:id="yyy8Uu-e40143-d1e112">
+               <lb ed="#H" n="108"/>CAPUT XVII
+      <lb ed="#H" n="109"/>In quo de dere &amp; meteoris in eo
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e119">
+               <lb ed="#H" n="110"/>PERA a Deo die primo mundi facta, explieata sunt hactenus 
+      <lb ed="#H" n="111"/>ISecundi dici opus fuit Expansum, de quo Moses agit Genes. 1. 
+      <lb ed="#H" n="112"/>v. 6, 7, 8. Dixit Deus, esto expansum inter aquas, ut sit 
+      distin<lb ed="#H" n="113" break="no"/>quens inter aquas unas &amp; alteras. Fecit ergo Deus hoc expansum, &amp;c.
+    </p>
+            <p xml:id="yyy8Uu-e40143-d1e130">
+               <lb ed="#H" n="114"/>EXPANSUM istud non idem sonat quod σερίώμα Graecis &amp; 
+      firma<lb ed="#H" n="115" break="no"/>mentum Letinis. Hebraeum enim nomen Vipasignificat aliquid 
+      di<lb ed="#H" n="116" break="no"/>ductum, extensum, expansum instar pellis, cortinae; tentorij vel metale 
+      <lb ed="#H" n="117"/>li in laminam. Per hoc expansum autem intelligitur elementum 
+      ae<lb ed="#H" n="118" break="no"/>ris scu aer, ut manifestum est ex eo, quod distinguat aquas superiores. 
+      <lb ed="#H" n="119"/>ab inferioribus, id quod proprium est aeris. Nominatur etiam 
+      coe<lb ed="#H" n="120" break="no"/>lum &amp; δαϰριτιϰώς hoc coelum: 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e149">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>Aquae superiores, non sunt aquae quaedam coelestes supra coelum 
+      <lb ed="#H" n="122"/>stellatum, quae de natura coeli sint. Nec enim recipiendum 
+      commen<lb ed="#H" n="123" break="no"/>lum coeli erystallini, quod forsitan inde ortum, quod cum ij qui aquas; 
+      <lb ed="#H" n="124"/>supra coelum stellatum collocant, non possent comprenendere, quo- 
+      <lb ed="#H" n="125"/>modo aquae materiales, quae sua natura sunt corruptibiles, possent, 
+      <lb ed="#H" n="126"/>esse supra sphaeras coelestes, supra planetas &amp; stellas; putarint aquas 
+      <lb ed="#H" n="127"/>illas esse induratas &amp; conversas in crystallum: nam crystallus fit ex, 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e169">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>lacie, &amp; glacies ex aqua. Quicquid autem est supra Lunam, non est 
+      <lb ed="#H" n="129"/>subjectum tali corruptioni &amp; mutationi, quali obnoxium est id quod  
+      <lb ed="#H" n="130"/>est sub Luna. Nec facit ad tuendum eoelum crystallinum, quod 
+      dici<lb ed="#H" n="131" break="no"/>tur Gen. 7. v. 11. cataractas coeli se aperuisse ut esset imber super 
+      ter<lb ed="#H" n="132" break="no"/>ram, quadraginta dies &amp; quadraginta noctes: Et Psal. 147. 4. 
+      Lau<lb ed="#H" n="133" break="no"/>date eum coeli coelorum &amp; aquae quae supra coelum sunt: Nam 
+      cata<lb ed="#H" n="134" break="no"/>ractae coeli sunt specus nubium &amp; densae nubes pluviae in aere, 
+      vehemen<lb ed="#H" n="135" break="no"/>tia summa aquas eructantes tanquam sublatis obturaculis: &amp; aquae 
+      <lb ed="#H" n="136"/>upra coelum sunt nubes pluviae &amp; alia meteora aerea supra hoc 
+      coe<lb ed="#H" n="137" break="no"/>lum, id est, quae supra in aere fiunt, seu in supera parte hujus expansi. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e195">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>Quomodo autem meteora in aere salutariter a nobis considerati 
+      <lb ed="#H" n="139"/>debeant, in aliquot exemplis videbimus, veluti in nube, pluvia, rore 
+      <lb ed="#H" n="140"/>grandine, vento, fulgetro, tonitru: De illis in genere dicitur Psal. 148. 
+      <lb ed="#H" n="141"/>8. quod serviant voluntati &amp; nutui divino ad laudem Dei; Laudate 
+      <lb ed="#H" n="142"/>lehovam ignis &amp; grando, nix &amp; exhalatio, ventus turbineus 
+      effi<lb ed="#H" n="143" break="no"/>ciens verbum ejus. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e213">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Nubes, est corpus vel ex copioso vapore e locis humentibus in 
+      <lb ed="#H" n="145"/>sublime adscendente, vel ex maxime humidis partibus aeris in media 
+      <lb ed="#H" n="146"/>teris regione concretum, quod a Deo a quo excitatum est, in aëre 
+      <lb ed="#H" n="147"/>suspensum tenetur. Breviter: Nubes, est vapor humidus &amp; 
+      addensa<lb ed="#H" n="148" break="no"/>tus qui in media aeris regione a frigore citcumstante constrictus &amp; 
+      <lb ed="#H" n="149"/>quasi congelatus penidet. Hanc definitionem suppeditat 
+      confideratio<lb ed="#H" n="150" break="no"/>caliginis sub pedibus Dei, Psal. 18 v. 10. vapores enim in sublime 
+      e<lb ed="#H" n="151" break="no"/>sevati, vel maxime humidae aeris partes condensatae, quae gemina 
+      ma<lb ed="#H" n="152" break="no"/>teria est ex qua nubes generantur &amp; constant, caliginosum aerem 
+      es<lb ed="#H" n="153" break="no"/>ficiunt. Vapores autem copiosi ex mari adscendunt, unde aquae maris 
+      <lb ed="#H" n="154"/>sunt velut radices nubium, Job. 36. v. 30. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e242">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Quod ad causas efficientes attinet, nubes sunt opus Dei: nam 
+      il<lb ed="#H" n="156" break="no"/>arum causa efficiens princeps est Deus ipse: hoc docetur eo, quod 
+      <lb ed="#H" n="157"/>Psal. 18. v. 10. Jehova dicitur coelos inclinasse &amp; descendisse, id est, 
+      coe<lb ed="#H" n="158" break="no"/>lum nubibus operuisse, quod clarius docetur Gen. 9. v. 24. ubi dicit 
+      <lb ed="#H" n="159"/>Deus se nube terram obnubilaturum. Job. 26. v. 8, 9. Iehova ligat 
+      a<lb ed="#H" n="160" break="no"/>quas in densis nubibus suis, adeo ut non findatur nubes sub eis. 
+      Con<lb ed="#H" n="161" break="no"/>tinet superficiem solij (id est, coeli,) expandit ad illud nubem suam. 
+      <lb ed="#H" n="162"/>Et cap. 37. vers. 15. ait Elihu ad Jobum; Nostine de libramentis 
+      den<lb ed="#H" n="163" break="no"/>sae nubis, mirabilia Dei perfecti scientiis? quasi dicat, potesne judicat 
+      <lb ed="#H" n="164"/>ro de admirabili opere Dei, quo nubes velut aequilibrio in aere 
+      sus<lb ed="#H" n="165" break="no"/>pendit? Et cap. 38. vers. 9. Deus ipse ad Jobum dicit, Ubinam era 
+      <lb ed="#H" n="166"/>quum ponerem nubem indumentum maris? &amp; caliginem cunabula. 
+      <lb ed="#H" n="167"/>ejus? Psal. 104. vers. 3. legitur de Jehova; Qui contignat in aquis 
+      coe<lb ed="#H" n="168" break="no"/>nacula sua (id est, regionem aeris, velut in coenacula nubibus 
+      distin<lb ed="#H" n="169" break="no"/>ctam;) qui disponit densas nubes in vehiculum suum. Et Psalm. 105. 
+      <lb ed="#H" n="170"/>vers 29. Expandit nubem pro tegumento. Et Psal. 135. vers. 7. &amp; Jer. 
+      <lb ed="#H" n="171"/>II. ver. 16. Facit ut adscendant vapores seu nubes ab extremitate 
+      ter<lb ed="#H" n="172" break="no"/>rae. Et Psal. 147. v. 8. Qui obtegit coelos densis nubibus. Ezech. 32. v. 7. 
+      <lb ed="#H" n="173"/>Solem nube operiam. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e288">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Causa nubium instrumentalis est primo frigus accedens &amp; supor. 
+      <lb ed="#H" n="175"/>veniens vaporibus in sublime elevatis, cujus vi illi condensantur. 
+      Pre<lb ed="#H" n="176" break="no"/>mente enim frigore concrescit paulatim vapor ac tandem in nubem 
+      <lb ed="#H" n="177"/>cogitur 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e302">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Deinde, ministrant Deo in nubibus excitandis etiam ventus, 
+      Sol<lb ed="#H" n="179" break="no"/>&amp; reliqua astra, vapores illos e locis humentibus ad mediam aeris 
+      re<lb ed="#H" n="180" break="no"/>gionem elevantia: quemadmodum eidem serviunt in nubibus 
+      discu<lb ed="#H" n="181" break="no"/>tiendis, ut colligi potest ex Job. 37. vers. 8, 9, 10. ubi Elihu ad Jobum 
+      <!--cod-MkL9py-0319.xml-->
+      <pb ed="#H" n="292"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>dicit: E suo penetrali prodit turbo; &amp; adispergentibus frigus. 
+      Afla<lb ed="#H" n="2" break="no"/>tu suo Deus fortis edit glaciem; &amp; latitudinem aquarum coarctat.  
+      <lb ed="#H" n="3"/>Etiam pro irrigatione fatigat densam nubem; dispergit nubem lucis 
+      <lb ed="#H" n="4"/>suae, 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e330">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Fines seu causae finales nubium sunt aliquot,  
+      <lb ed="#H" n="6"/>I. Nubes sunt veluti utres quidam coelestes, in sublimi suspensi ad 
+      <lb ed="#H" n="7"/>gestandas &amp; continendas ad tempus aquas, vel ad irriganda omnia 
+      <lb ed="#H" n="8"/>quae humore indigent ad foecunditatem, vel ad aquas effundendas 
+      <lb ed="#H" n="9"/>quando Domino visum est aut beneficiis cumulare, aut judiciis 
+      visi<lb ed="#H" n="10" break="no"/>tare homines, Job. 36. 27, 28. Subtrahit stillas aquarum, quae 
+      funde<lb ed="#H" n="11" break="no"/>bant pluviam ad calamitatem ejus; Quum fluerent superiores nubes; 
+      <lb ed="#H" n="12"/>stillarent super homines multos. Unde etiam comparantur cataractis 
+      <lb ed="#H" n="13"/>pecubusque aquas e coelo vehementia summa eructantibus, tanquam  
+      <lb ed="#H" n="14"/>ablatis obthuraculis, ut legitur Genes. 7. vers. 11, 12. cataractae coeli se 
+      <lb ed="#H" n="15"/>aperuerunt, Vt esset imber ille super terram, quadraginta dies &amp; 
+      qua<lb ed="#H" n="16" break="no"/>draginta noctes. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e361">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>II. Nubes in magnis caloribus aestivis nos, omniaque haec 
+      info<lb ed="#H" n="18" break="no"/>ciora a nimio Solis aestu &amp; ardore defendunt, tanqua puscherrimum 
+      <lb ed="#H" n="19"/>latissimumque velum oppansum, Job. 36. vers. 29. Si etiam considere. 
+      <lb ed="#H" n="20"/>homo extensiones densarum nubium, fragores in tugurio illius. Et v 
+      <lb ed="#H" n="21"/>32. Manibus obtegit lucem, &amp; interdicit ipsi propter intercedentem; 
+      <lb ed="#H" n="22"/>Indicans in eum beneuolentiam suam, &amp;c. Nubes ab ardore Solis 
+      <lb ed="#H" n="23"/>nos defendentes admonent nos de umbraculo, quod Deus adversus 
+      <lb ed="#H" n="24"/>aestum malorum spiritualium nobis praebet, de quo Psalm. 91. v. 12. 
+      <lb ed="#H" n="25"/>Qui considet in lutibulo Excelsi, in umbra omnipotentis indesinenter 
+      <lb ed="#H" n="26"/>pernoctat. Apoc. 7. v. 15. Qui insidet throno, proteget eos umbraculos 
+      <lb ed="#H" n="27"/>nec in eos cadet Sol, neque aestus 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e390">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>III. Nubes prognostica seu praesagia temporum suppeditant  
+      <lb ed="#H" n="29"/>Nam quum in cacuminibus montium consident, hyemabit. 
+      Nube<lb ed="#H" n="30" break="no"/>gravida candicante, grando imminebit. Istud nos admonet de 
+      pro<lb ed="#H" n="31" break="no"/>gnosticis malorum quae ob peccata hominibus impendent 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e403">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>IV. Nubes sunt testimonia ac signa praesentiae, potentiae &amp; gloriae 
+      <lb ed="#H" n="33"/>Dei, ad protectionem &amp; consolationem piorum &amp; ad declarandam 
+      <lb ed="#H" n="34"/>illis divinam gratiam, Exod. 13. v. 21. Columna nubis Deus 
+      praesen<lb ed="#H" n="35" break="no"/>tem declaravit se populo Israelitico ex AEgyptiaca servitute educto 
+      <lb ed="#H" n="36"/>Exod. 16. vers. 10. Gloria Jehovae apparuit in nube, Exod. 19. v. 9. 
+      Sic<lb ed="#H" n="37" break="no"/>ait Johova; Ecce ego venturus sum ad te in densa hac nube, ut audias 
+      <lb ed="#H" n="38"/>hic populus, quum alloquar te, etiamque tibi fidant in saculum. 2. 
+      <lb ed="#H" n="39"/>Chronic. 5. v. 13, 14. Fuit, inquam, pariter clangentibus &amp; Musicis 
+      e<lb ed="#H" n="40" break="no"/>dentibus concentum unum laudando &amp; celebrando Iehavam, quum 
+      <lb ed="#H" n="41"/>fferrent concentum tubis &amp; cymbalis ac instrumetis musicis, quum 
+      <lb ed="#H" n="42"/>que laudarent Iehovam, quia bonus est, quia in saculum 
+      benignita<lb ed="#H" n="43" break="no"/>ejus: ut intus domum Iehovae impleret nubes: Adeo ut non possent 
+      Sa<lb ed="#H" n="44" break="no"/>cerdotes consistere ad ministrandum propter illam nubem: quod 
+      im<lb ed="#H" n="45" break="no"/>plevisset gloria Iehovae Domum Dei, &amp; cap. 71, 2. Quin etiam in 
+      ae<lb ed="#H" n="46" break="no"/>re pendentes nubes sunt insigne gloriae Dei documentum: quid enim 
+      <lb ed="#H" n="47"/>esse mirabilius potest aquis in coelo stantibus? 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e442">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>V. Serviunt ad exhibenda nobis sacramenta federis a Deo nobil 
+      <lb ed="#H" n="49"/>cum initi. Genes. 9. vers. 13. Arcum meum ponam in nubibus. I. 
+      Co<lb ed="#H" n="50" break="no"/>rinth. 10. 2. baptizati sunt in, nube &amp; mari¬ 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e454">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>VI. Nubes repraesentant similitudine &amp; imagine quadam 
+      diffe<lb ed="#H" n="52" break="no"/>rentia inter homines, ac inprimis inter eos qui alios docent. Quem 
+      <lb ed="#H" n="53"/>idmodum enim ex nubibus quaedam sunt sicciores &amp; evanidae atqui 
+      <lb ed="#H" n="54"/>infoecundae, quae tametsi pluviis ventis incitentur, non effundunt 
+      in<lb ed="#H" n="55" break="no"/>bres, sed in aeris naturam facessunt; aliae sunt irriguo quodam 
+      hu<lb ed="#H" n="56" break="no"/>more scatentes, proindeque foecundae &amp; ad pariendam pluviam ide 
+      <lb ed="#H" n="57"/>neae: Ita hominum quidam scientiae opinione turgent, &amp; magnam 
+      <lb ed="#H" n="58"/>quandam scientiam jactant, sed intus nihil habent, nisi vel prorsus 
+      va<lb ed="#H" n="59" break="no"/>num vel magnopere noxium, quamvis magni cujusdam boni specien. 
+      <lb ed="#H" n="60"/>prae se ferant: alij autem θεοδίδεικιο prosunt aliis salutaribus 
+      docu<lb ed="#H" n="61" break="no"/>mentis: De priore genere dicitur Proverb. 25. v. 14. Velut vapores &amp; 
+      <lb ed="#H" n="62"/>ventus, quibus non est pluvia; est vir qui se jactat de dono falso. 
+      Sen<lb ed="#H" n="63" break="no"/>tentia est, Jactator chrestologus, qui montes auri &amp; argenti 
+      pollice<lb ed="#H" n="64" break="no"/>tur, &amp; nihil (ut ille Antiochus δεισον propterea nominatus) est velus 
+      <lb ed="#H" n="65"/>nubes sine aquis. Et in epistola Judae fratris Jacobi vers. 12. dicitur de 
+      <lb ed="#H" n="66"/>hominibus profanis: Hi sunt in agapis vestris maculae, dum 
+      vobis<lb ed="#H" n="67" break="no"/>cum convivantur, secure seipsos pascentes, nubes aqua carentes, 
+      ven<lb ed="#H" n="68" break="no"/>tis circumactae, id est, plurimum speciei habent afficiendis imperito 
+      <lb ed="#H" n="69"/>rum animis, sed veritatis &amp; (ut ita dicam) substantiae nihil, ideo 
+      ver<lb ed="#H" n="70" break="no"/>tis dissipantur. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e502">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>De posteriore genere dicitur Deut. 32. v. 2. Stillet tanquam 
+      plu<lb ed="#H" n="72" break="no"/>via disciplina mea. Nam doctores nubi, doctrina illorum pluviae 
+      <lb ed="#H" n="73"/>comparatur. Hebr. 12. vers. 1. Proinde nos quoque, cum tanta nos 
+      cir<lb ed="#H" n="74" break="no"/>cumstet testium nubes, abjecto omni pondere, &amp; peccato ad nos 
+      cir<lb ed="#H" n="75" break="no"/>cumcingendos proclivi, per tolerantiam propositum nobis stadium 
+      de<lb ed="#H" n="76" break="no"/>curramus. Quapropter nubes aqua carentes cautioni nostrae 
+      servi<lb ed="#H" n="77" break="no"/>unt, ut meminerimus quid nobis fugiendum: nubes autem 
+      foecun<lb ed="#H" n="78" break="no"/>dae nos admonent, ut talibus adhaereamus hominibus, a quibus 
+      mu<lb ed="#H" n="79" break="no"/>tum boni discamus, &amp; ut nos quoque stillemus aliis pluviam 
+      saluta<lb ed="#H" n="80" break="no"/>ris doctrinae &amp; exempli 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e528">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>VII. Nubes serviunt Christo Domino &amp; fidelibus ejus pro vehi 
+      <lb ed="#H" n="82"/>culis. Nam Christo adscendente in coelum, nubes susceptum eum 
+      abs<lb ed="#H" n="83" break="no"/>tulit ab oculis discipulorum, ut legitur Actor. 1. v. 9. In nubibus 
+      coe<lb ed="#H" n="84" break="no"/>di idem Christus veniet judicatum vivos &amp; mortuos, ut ipsemet 
+      prae<lb ed="#H" n="85" break="no"/>dixit, Matth. 26. v. 46. Sic dicitur Apoc. I. vers. 7. Ecce venit cum 
+      nu<lb ed="#H" n="86" break="no"/>bibus. Apoc. 10. v. 1. vidit Johannes Angelam validum, id est, 
+      Chri<lb ed="#H" n="87" break="no"/>stum, descendentem de coelo, id est, patefacientem arcana coelestia, 
+      a<lb ed="#H" n="88" break="no"/>mictum nube. Nos quoque in extremo die rapiemur in nubes, in 
+      oc<lb ed="#H" n="89" break="no"/>cursum Domini in aera, I. Thess. 4. v. 17. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e552">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Haec de nube: sequitur de pluvia. 
+      <lb ed="#H" n="91"/>PLUVIA, est fluxus humidae nubis, quae a calore Solis paulatim 
+      <!--cod-MkL9py-0319.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>soluta, aquam guttatim e media aeris regione demittit. Autor ejum 
+      <lb ed="#H" n="93"/>est Deus ipse, Levit 26. v. 4. dabo pluvias vestras. Jobi 5. v. 10. Que 
+      <lb ed="#H" n="94"/>edit pluviam in superficie terrae. Et cap. 37. vers. 5. Quum nivi 
+      edi<lb ed="#H" n="95" break="no"/>cit, esto in terra, aut imbri acpluviae: mox imber pluviaque ejus 
+      ad<lb ed="#H" n="96" break="no"/>sunt. Et cap. 38. v. 28. Estne pluviae pater? scil. praeter me. Ministram 
+      <lb ed="#H" n="97"/>Deo in pluviis efficiendis sidera &amp; venti. Nam ad pluviam 
+      gignen<lb ed="#H" n="98" break="no"/>dam coelestes influxus multum faciunt: unde quando Saturnus cum 
+      <lb ed="#H" n="99"/>love jungitur in Cancro; Scorpione vel Piscibus signis Zodiaci 
+      ver<lb ed="#H" n="100" break="no"/>no tempore multi exsistunt imbres. Frequenter etiam interlunij &amp; 
+      <lb ed="#H" n="101"/>lenilunij diebus pluvia exsistit. Sic stellae Suculae orientes vel 
+      occi<lb ed="#H" n="102" break="no"/>dentes pluvias cient quas ob id Graeci pluvio nomine Hyadas 
+      appel<lb ed="#H" n="103" break="no"/>iant: a Latinis Suculae dicuntur quod instar suum luto delectari 
+      vide<lb ed="#H" n="104" break="no"/>antur: exoriuntur autem XI1. Calend. Junij. Venti saepe nubes 
+      co<lb ed="#H" n="105" break="no"/>sunt &amp; ex iisdem motu suo aquam excutiunt. Nam ut legitur Zach. 
+      <lb ed="#H" n="106"/>10. v. 2. Iehova efficit nimbos &amp; pluviam imbriferam est editurus eis. 
+      <lb ed="#H" n="107"/>Exemplum 1. Reg. 18. v. 45. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e600">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>Pluviae finis natutralis est ut variis hominum &amp; animalium alios 
+      <lb ed="#H" n="109"/>rum usibus serviant, terram foecundando, ingentes calores aestivos 
+      <lb ed="#H" n="110"/>mitigando, liomines &amp; animantia caetera &amp; omnia terra nascentia. 
+      <lb ed="#H" n="111"/>recreando, ut herbae crescant, fruges gignantur, arbores fruticesque 
+      <lb ed="#H" n="112"/>vivant, &amp;c. Levit. 26. v. 4. utique dabo pluvias vestras tempore, suo: &amp; 
+      <lb ed="#H" n="113"/>detque terra proventum suum &amp; arbor agri edet fructum suum., 
+      Ja<lb ed="#H" n="114" break="no"/>cob. 5. vers. 18. Elias oravit &amp; coelum dedit pluviam, &amp; terra 
+      pro<lb ed="#H" n="115" break="no"/>duxit fructum suum. Jesa. 30. vers. 23. Tum dabit pluviam sementis: 
+      <lb ed="#H" n="116"/>tuae qua conseveris terram, adeo ut panis, proventus terrae sit uber &amp; 
+      <lb ed="#H" n="117"/>pinguis. Psal. 104. vers. 13, 14, 15,16. Si fines supernatur ales specte 
+      <lb ed="#H" n="118"/>mus, sunt pluviae testimonium bonitatis &amp; providentiae Dei erga 
+      ho<lb ed="#H" n="119" break="no"/>nines &amp; animalia caetera. Boni enim patrisfamilias est domesticis 
+      <lb ed="#H" n="120"/>suis prospicere de rebus omnibus necessariis, quod Deus facit etiam 
+      <lb ed="#H" n="121"/>pluviam dando. Quo pertinet illud Pauli Actor. 14. vers. 17. Deus 
+      <lb ed="#H" n="122"/>non passus est se esse expertem testimonij, bona tribuendo, dans 
+      nobi<lb ed="#H" n="123" break="no"/>coelitus pluvias ac praestituta tempora fructibus perferendis, implen. 
+      <lb ed="#H" n="124"/>cibo &amp; delectatione corda nostra. Et Matth. 5. vers. 45. Facit ut Sol 
+      <lb ed="#H" n="125"/>suus exoriatur super malos ac bonos &amp; pluit super justos &amp; injustos. 
+      <lb ed="#H" n="126"/>E contrario indicium est irae Dei, adversus homines propter peccata. 
+      <lb ed="#H" n="127"/>si Deus diu nullam det pluviam quam valde opus erat, unde magnam 
+      <lb ed="#H" n="128"/>ficcitatem, rerum omnium penuriam &amp; famem interitumque 
+      homi<lb ed="#H" n="129" break="no"/>num &amp; pecudum sequi necesse est, juxta comminationem divinam 
+      <lb ed="#H" n="130"/>Deuter. 28. vers. 15, 23, 24. Si non auscultaveris voci Iehovae Dei. 
+      <lb ed="#H" n="131"/>tui, &amp;c. erunt coeli tui qui sunt supra caput tuum, aenei; &amp; terra 
+      <lb ed="#H" n="132"/>quae subest tibi, ferrea. Et Jesa. 5. vers. 6. nubibus interdicam, ne 
+      de<lb ed="#H" n="133" break="no"/>mittant in eam pluviam. Ita per triennium factum est in Israele 
+      <lb ed="#H" n="134"/>tempore Regis Davidis 2. Samuel. 21. &amp; tempore Eliae Prophetae 
+      <lb ed="#H" n="135"/>tribus annis &amp; sex mensibus 1. Regum. 17. vers. 1. Luc. 4. v. 25. claus 
+      <lb ed="#H" n="136"/>sum fuit coelum ad tres annos &amp; sex menses, adeo ut fuerit fames 
+      ma<lb ed="#H" n="137" break="no"/>gna per totam regionem. Jacob. 5. vers. 17. Jerem. 14. vers. 4. Eo quo- 
+      <lb ed="#H" n="138"/>non fuerit pluvia in terra, erubescentes agricolae operient capus 
+      <lb ed="#H" n="139"/>um 
+    </p>
+            <p xml:id="yyy8Uu-e40143-d1e674">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Proinde pluviae necessitas &amp; utilitas nos instigat ad veram 
+      pieta<lb ed="#H" n="141" break="no"/>tem &amp; seriam invocationem Dei: quo pertinet quod dicitur Levit. 
+      <lb ed="#H" n="142"/>26. vers. 3. 4. Si ambulaveritis in statutis meis, &amp; mandata mea 
+      ser<lb ed="#H" n="143" break="no"/>vantes feceritis ea: utique dabo pluvias vestras tempore suo, &amp;c. Deu 
+      <lb ed="#H" n="144"/>teron. 11. vers. 13, 14. Si serio auscultaveritis praeceptis meis quae ego 
+      <lb ed="#H" n="145"/>praecipio vobis hodie; diligendo Iehovam Deum vestrum &amp; colendo 
+      <lb ed="#H" n="146"/>eum ex toto corde vestro &amp; ex toto animo vestro; Ut dem pluviam 
+      <lb ed="#H" n="147"/>terrae vestrae tempore suo, tempestivam &amp; serotinam, sic colligas 
+      fru<lb ed="#H" n="148" break="no"/>mentum tuum, &amp; mustum tuum, &amp; oleum tuum, &amp; cap. 28. v. 1, 12. 
+      <lb ed="#H" n="149"/>Si fideliter auscultaveris voci Iehovae Dei tui, &amp;c. aperiet tibi 
+      Ie<lb ed="#H" n="150" break="no"/>hova thesaurum suum optimum e coelis, dando pluviam terrae tuae 
+      <lb ed="#H" n="151"/>tempore suo. 1. Reg. 8. vers. 35, 36. Zachar. 10. vers. 1. Petite a Iehova 
+      <lb ed="#H" n="152"/>pluviam tempore serotinae. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e708">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Pluvia est etiam documentum sapientiae Dei Jobi 28. vers. 23. 24. 
+      <lb ed="#H" n="154"/>25. &amp; documentum potentiae Dei vel in servandis illis quos vult 
+      ser<lb ed="#H" n="155" break="no"/>vare, ut cum pluviam dedit post triennalem famem tempore 
+      Davi<lb ed="#H" n="156" break="no"/>dis &amp; Prophetae Eliae: vel in perdendis illis ex justo judicio quos 
+      con<lb ed="#H" n="157" break="no"/>stituit perdere, ut cum imber ruit e coelo ad inducendum universalo 
+      <lb ed="#H" n="158"/>diluvium, Geni7. v. 11, 12. Jobi 36. v. 27, 28. cum ad preces Samuelis 
+      <lb ed="#H" n="159"/>pluit 1. Sam. 12. vers. 19, 20. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e728">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Pluvia frugifera nos incitat ad celebrandum Deum, ut ostendit 
+      E<lb ed="#H" n="161" break="no"/>iphax Themanites Jobi 5. ver. 9, 10. Qui facit res magnas, &amp;c. qui  
+      <lb ed="#H" n="162"/>odit pluviam in superficie terrae. Sic dicitur Psal. 147. 7, 8. 
+      Acclama<lb ed="#H" n="163" break="no"/>te Iehovae gratiarumactione, psallite Deo nostro cithara: Qui obtegit 
+      <lb ed="#H" n="164"/>coelos densis nubibus; qui comparat terrae pluviam 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e744">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Pluvia insuper multatum rerum nos admonet. Est enim imago 
+      <lb ed="#H" n="166"/>verbi Dei ejusque doctrinae salutaris: sicut Moses ait Deuteron. 323. 
+      <lb ed="#H" n="167"/>vers. 2. Stillet tanquam pluvia discipliua mea, fluat tanquam ros 
+      ser<lb ed="#H" n="168" break="no"/>mo meus, ut tenues pluviae super teneram herbam, &amp; sicut imbres 
+      su<lb ed="#H" n="169" break="no"/>per adultam herbam: Et Deus ipse Jesa. 55. vers. 10, 11. Quum 
+      doscen<lb ed="#H" n="170" break="no"/>dit pluvia aut nix de coelo, rursus illuc non reuertitur, sed inebriat 
+      <lb ed="#H" n="171"/>terram ipsam, facitque ut pariat ipsa &amp; producat; ut edat semen sato 
+      <lb ed="#H" n="172"/>ri, &amp; panem comedenti: Sic erit verbum meum quod egressum fuerit 
+      <lb ed="#H" n="173"/>ex ore meo; non reuertetur ad me vacuum, sed faciet id quo delector,  
+      <lb ed="#H" n="174"/>&amp;c. Quem enim fructum profert pluvia tempestiva in terra: eum 
+      <lb ed="#H" n="175"/>profert verbum Dei &amp; doctrina coelestis in cordibus hominum 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e773">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Quin etiam imago est hominis salutaria documenta ac consilis 
+      <lb ed="#H" n="177"/>dantis aliis; sicut Jobus de se dicit cap129. vers 23. Exspectabant 
+      tan<lb ed="#H" n="178" break="no"/>quam pluviam me; &amp; os suum distendebant, ut ad pluviam 
+      seroti<lb ed="#H" n="179" break="no"/>nam. In primis est imago doctorum Evangelij de Christo, Mich. 5. 
+      <lb ed="#H" n="180"/>vers. 7. erunt ut tenues pluviae super herbam. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e789">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>Est imago benedictionis quam piis hominibus Deus confert in 
+      <lb ed="#H" n="182"/>Christo, ut dicitur Psal. 72, 6, 7. Vt quum descendit pluvia super se¬ 
+      <!--cod-MkL9py-0320.xml-->
+      <pb ed="#H" n="293"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>ctam herbam; quum imbres, irrigatio terrae; Florebit temporibus 
+      <lb ed="#H" n="2"/>ejus justus. Hole. 6. v. 3. adveniet ut pluvia nobis tanquam serotino 
+      <lb ed="#H" n="3"/>&amp; tempestiva terrae. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e811">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Est nota vultus indignabundi seu indignationis provocatae 
+      lingu<lb ed="#H" n="5" break="no"/>simulantis, Prov. 25. 23. Vt Caecias gignit pluviam, ita vultum 
+      indi<lb ed="#H" n="6" break="no"/>gnabundum lingua simulantis. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e823">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Pluvia intempestiva &amp; noxia qualis est pluvia tempore messis quo 
+      <lb ed="#H" n="8"/>serenitas expetitur, est imago honoris delati homini stolido, 
+      Prover<lb ed="#H" n="9" break="no"/>26. 1. Vt nix aestati, &amp; ut pluvia messis ita non convenit stulto honor 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e834">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Pluvia inprimis impetuosa ac gravis, est imago calamitatum 
+      quae<lb ed="#H" n="11" break="no"/>in homines incidunt; quo sensu in senectute dicuntur recurrere 
+      den<lb ed="#H" n="12" break="no"/>sae nubes post pluviam, in libro Ecclesiastae Salomonis cap. 12. v. 2. 
+      <lb ed="#H" n="13"/>In senectute enim homines, calamitates subinde succedunt aliae aliis. 
+      <lb ed="#H" n="14"/>Sic Matth. 7. v. 26, 27. calamitates quibus hypocritae obruuntur &amp; 
+      <lb ed="#H" n="15"/>evertuntur, comparantur pluviae.
+     </p>
+            <p xml:id="yyy8Uu-e40143-d1e852">
+               <lb ed="#H" n="16"/>Pluviae imminentis sunt quaedam signa naturalia ac praesagia, quae 
+      <lb ed="#H" n="17"/>nequaquam sunt contemnenda: naturae enim autor &amp; hominum 
+      pa<lb ed="#H" n="18" break="no"/>rens Deus ea ordinavit ob hominum commodum, ut illi cavere 
+      pos<lb ed="#H" n="19" break="no"/>sint incommoda &amp; rursus observare opportunitates commodas a 
+      <lb ed="#H" n="20"/>griculturae, navigationi, peregrinationi, aliisque negotiis vitae 
+      hu<lb ed="#H" n="21" break="no"/>maiiae. Signa illa ac praesagia sumuntur a rebus vel inanimatis, vel 
+      a<lb ed="#H" n="22" break="no"/>nimatis, Ab inanimatis, ut quando ante ortum Solis nubes expalle 
+      <lb ed="#H" n="23"/>scunt, vel nigrae rubentibus intermiscentur, pluviam portendunt. Ab 
+      <lb ed="#H" n="24"/>animatis, ut si ranae rhetoricentur &amp; ultra solitum vocales sint, si 
+      fu<lb ed="#H" n="25" break="no"/>licae matutinum clangorem edant, &amp;c. Alia plurima videantur in 
+      <lb ed="#H" n="26"/>Plinio &amp; aliis rerum naturalium scriptoribus. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e878">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Hoc etiam ad spiritualem usum pertinet. Nam si tempestatis sign 
+      <lb ed="#H" n="28"/>observamus propter corporales commoditates vitae humanae: multo 
+      <lb ed="#H" n="29"/>magis signa temporum observanda, quae ad juvandum animarum 
+      <lb ed="#H" n="30"/>nostrarum salutem aeternam Deus exhibet, ne similes evadamus 
+      Pha<lb ed="#H" n="31" break="no"/>risaeis &amp; Sadducaeis hypocritis, quibus signum postulantibus e coelo, 
+      <lb ed="#H" n="32"/>Christus respondit Matth. 16. v. 2, 3. Quando serum est diei, diciti 
+      <lb ed="#H" n="33"/>Serenitus erit: rubet enim coelum. Et mane, hodie erit tempestas: 
+      ru<lb ed="#H" n="34" break="no"/>bet enim coelum triste. Hypocritae, faciem quidem coeli nostis 
+      discerne<lb ed="#H" n="35" break="no"/>re, signa vero temporum illorum non potestis: 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e902">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Sic fuit de pluvia: sequitur de 
+      rore<lb ed="#H" n="37" break="no"/>ROS, est vapor subtilior &amp; tenuior, qui levi &amp; miti frigore in 
+      ter<lb ed="#H" n="38" break="no"/>rae aut herbarum superficie a Deo compactus est, tum ad eas 
+      foven<lb ed="#H" n="39" break="no"/>dum recreandumque a flacciditate aestu contracta, tum ad juvandam 
+      <lb ed="#H" n="40"/>terrae foecunditatem, tum etiam ad aerem ipsum, in quo versamur, 
+      re<lb ed="#H" n="41" break="no"/>frigerandum 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e920">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Est a Deo, ut causa omnium prima, sicut dicitur Jobi 38. 28. Quis 
+      <lb ed="#H" n="43"/>genuit guttas roris? scilicet praeter me. Gutiae roris vocantur; quia ros 
+      <lb ed="#H" n="44"/>leni frigore concrescit &amp; exoriente Sole in stillas &amp; guttas aquae 
+      dis<lb ed="#H" n="45" break="no"/>solvitur quae herbis insident  
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e934">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>AEstate fieri solet, si qua nempe nox tunc fuerit humidior: &amp; mane 
+      <lb ed="#H" n="47"/>apparet. Si valentior fuisset hic humor, factus esset nubes &amp; pluvia 
+      <lb ed="#H" n="48"/>sed substitit in terrae superficie propter imbecillitatem exhalationis 
+      <lb ed="#H" n="49"/>&amp; suae materiae, Jobi 29. 19. ros per noctabit in ramo meo, 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e947">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Ros autem est documentum sapientiae ac scientiae Dei, ut dicitur  
+      <lb ed="#H" n="51"/>Prov. 3. v. 20. Scientia ejus (nempe Dei) abyssi diffisse sunt, &amp; 
+      supe<lb ed="#H" n="52" break="no"/>riores nubes destillant rorem. Est argumentum bonitatis Dei 
+      erga<lb ed="#H" n="53" break="no"/>homines, quum in usum hominum foecundet terram rore: unde 
+      Isaa<lb ed="#H" n="54" break="no"/>cus quum Jacobo benediceret ait, Gen. 27. v. 30. Det Deus ipse tibi 
+      <lb ed="#H" n="55"/>de rore coeli, variaque pinguedine terrae, &amp; copiam frumenti &amp; musti. 
+      <lb ed="#H" n="56"/>&amp; quum Esavo benediceret v. 41. ecce praepinguis soli erit habitatio 
+      <lb ed="#H" n="57"/>tua &amp; rore coeli perfusa superne. Et Moses quum benediceret tribus 
+      <lb ed="#H" n="58"/>Josephi ait Deuter. 33. 13. Benedicta Iehovae sit terra ejus: a rebus 
+      pre<lb ed="#H" n="59" break="no"/>tiosis coeli, a rore &amp; ab abysso subjacente: Et toti populo Israelitico v: 
+      <lb ed="#H" n="60"/>28. Vt habitet Israel secure solus, fonte lacobi, in terra frumenti &amp; 
+      <lb ed="#H" n="61"/>musti ferace; etiam coelis ejus stillantibus rorem. Sic ait Deus Zach. 
+      <lb ed="#H" n="62"/>8. v. 12. terra edit proventum suum coelique edunt rorem suum. Ex 
+      ad<lb ed="#H" n="63" break="no"/>verso quum Deus prohibet ne ros longo tempore terra nascentia 
+      hu<lb ed="#H" n="64" break="no"/>mecter, indicium est irae Dei adversus homines. Unde Elias Propheti 
+      <lb ed="#H" n="65"/>impio Regi Achabo dixit 1. Reg. 17. 1. Vt vivit Iehova Deus 
+      Israe<lb ed="#H" n="66" break="no"/>lis ante quem adsto, non est futurus annis istis ros aut pluvia. Et Deus 
+      <lb ed="#H" n="67"/>lsraelitis Chagg. 1. 10, 11. Idcirco contra vos cohibentur coeli a rore 
+      <lb ed="#H" n="68"/>&amp; terra cohibetur frumento suo, me advocante siccitatem super hanc 
+      <lb ed="#H" n="69"/>terram, &amp;c. Insuper ros testatur potentiam Dei, ut manifestum est. 
+      <lb ed="#H" n="70"/>ex signo dato Gideoni Judic. 6. v. 36. &amp; sequentibus. Quemadmodum 
+      <lb ed="#H" n="71"/>in eodem loco fuit sacramentum divini favoris &amp; certae liberationis 
+      <lb ed="#H" n="72"/>populi Israelitici a tyrannide hostium. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1002">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Praeterea ros est aliarum etiam multatum rerum imago. Est enim 
+      <lb ed="#H" n="74"/>mago Christi, qui de se ait Hosc. 14. 5. Ero velut ros Israeli. 
+      Consi<lb ed="#H" n="75" break="no"/>deremus rationes propter quas Christus rori se comparat. Ut ros 
+      ex<lb ed="#H" n="76" break="no"/>sistit sereno coelo, quod observavit etiam Aristoteles libr. 1. Meteor  
+      <lb ed="#H" n="77"/>cap. 10. Ita Christus benedictione sua adest nobis, quum vultum 
+      se<lb ed="#H" n="78" break="no"/>renum nobis ostendit, quum lucem faciei suae super nos extollit, quum 
+      <lb ed="#H" n="79"/>nos screna benignitate complectitur. Ut ros arva arentia, &amp; siccitate 
+      <lb ed="#H" n="80"/>flaccidas herbas reficit &amp; fovet: ita Christus pectora nostra natura 
+      a<lb ed="#H" n="81" break="no"/>rida, gratia Spiritus Sancti, quae peccata remittit, gratia supernae 
+      lar<lb ed="#H" n="82" break="no"/>gitatis infusa recreat, &amp; feracia bonorum operum reddit. Ut ros 
+      ca<lb ed="#H" n="83" break="no"/>lores magnos temperat, &amp; terram humectat, quo semente ipsa 
+      red<lb ed="#H" n="84" break="no"/>dat: ita Christus ignita diaboli tela, aestumque persequutionum 
+      re<lb ed="#H" n="85" break="no"/>frigerat, ut fructum ipsi gratum, aliis utilem proferammus: sine rore 
+      <lb ed="#H" n="86"/>Christi non potest ulla anima afferre frumenta. Ut ros in angusto 
+      lo<lb ed="#H" n="87" break="no"/>co cogitur, quemadmodum notat Aristot. lib. 1. Meteor. cap. 11. It; 
+      <lb ed="#H" n="88"/>Christus affatim rore Spiritus sui irrigat sideles, qui in angustiis &amp; 
+      <lb ed="#H" n="89"/>rebus adversis sunt constituti. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1044">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Deinde est imago verbi Dei &amp; doctrinae salvificae, sicut Moses ait 
+      <lb ed="#H" n="91"/>Deut. 32. 2. fluat tanquam res sermo meus. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1053">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>Est imago multitu dinis fidelium in novo Testamento &amp; regno¬ 
+      <!--cod-MkL9py-0320.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>Christi, Psal. 110. 3. tibi aderitros juventae tuae, id est, innumera 
+      mul<lb ed="#H" n="94" break="no"/>titudo electorum comparebit in Ecclesia tua, tanquam stillans ros 
+      <lb ed="#H" n="95"/>coelo &amp; sub autoram depluens. Inprimis est ros imago administro 
+      <lb ed="#H" n="96"/>rum &amp; doctorum Evangelij de Jesu Christo. Mich. 5. v. 7. Erunt 
+      reli<lb ed="#H" n="97" break="no"/>quiae Iacobi inter populos multos, sicut ros a Iehova: nam ministris 
+      <lb ed="#H" n="98"/>Evangelij tribuitur effectus verbi Dei tanquam si ipsi ros essent qui 
+      <lb ed="#H" n="99"/>irrorant agrum Dei. Simile vide 2. Corinth. 2. v. 15. &amp; 1. Coriuth. 3 
+      <lb ed="#H" n="100"/>v.6. Apollos rigavit 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1082">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Est imago omnis boni quod Deus fidelibus in Ecclesia copiose 
+      <lb ed="#H" n="102"/>confert. Psal. 133. 3. Vt ros Chermonis, ut qui descendit super montes 
+      <lb ed="#H" n="103"/>Tionis: nam illic mandat Iehova benedictionem suam, vitam usque  
+      <lb ed="#H" n="104"/>in seculum. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1096">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Est imago benevolentiae Principis seu Magistratus erga 
+      subdi<lb ed="#H" n="106" break="no"/>tos, 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1105">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>Prov. 19. v. 12. Ut ros super herbam, beneuolentia Regis. 
+      <lb ed="#H" n="108"/>Est imago hominum impiorum, qui cito transeunt, Hosc. 13. v. 3. 
+      <lb ed="#H" n="109"/>Sunt ut nubes matutinae &amp; veluti ros mane stillans qui abit.  
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1116">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Est imago pietatis hypocrytarum, Hosc. 6. v. 4. Quid facerem 
+      tibi<lb ed="#H" n="111" break="no"/>Ephrasim? quid facere tibi Iuda; quum benignitas vestra tanquam, 
+      <lb ed="#H" n="112"/>nubes matutina, &amp; velut ros mane stillans abeat, id est, sit inconstant 
+      <lb ed="#H" n="113"/>&amp; facile evanescat.  
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1129">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Haec de rore: sequitur de grandine. 
+      <lb ed="#H" n="115"/>GRANDO, χαλαζα Graece, est pluvia in aere inter descendendum 
+      <lb ed="#H" n="116"/>conglaciata propter antiperistasin aeris calidi, frigiditate naturali 
+      se<lb ed="#H" n="117" break="no"/>se contrahenter 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1142">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Materia grandinis est nubes aquosa durius congelata propter dν¬ 
+      <lb ed="#H" n="119"/>lπορίσασιν caloris aeris. Nam quando descendit guttatim materia 
+      <lb ed="#H" n="120"/>grandinis, tum in infima regione aeris magis ac magis congelatur  
+      <lb ed="#H" n="121"/>uidque propterea quod aeris calor, frigus nubis, ex cujus dissolutione 
+      <lb ed="#H" n="122"/>grando fit, intra nubem pellit &amp; constringit: 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1158">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Causa efficiens princeps est DEUS De his causis dicitur Psal. 147. 
+      <lb ed="#H" n="124"/>v. 17. Dejicit gelu suum tanquam frusta (seu buccellas, ut versio Vuli 
+      <lb ed="#H" n="125"/>gata habet,) coram frigore ejus quis consistat? Gutrae enim ex 
+      disso<lb ed="#H" n="126" break="no"/>luta aquosa nube decidentes: nimio suo frigore propter ἀνκπιρισασιν, 
+      <lb ed="#H" n="127"/>aeris calidi magis unitae, condensantur, &amp; ideo quasi in frustula 
+      for<lb ed="#H" n="128" break="no"/>mantur. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1177">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>Finis grandinis proximus, est quod sit ordinata a Deo ad 
+      exsequu<lb ed="#H" n="130" break="no"/>tionem justissimorum judiciorum ejus laedendo fruges, arbores &amp; 
+      a<lb ed="#H" n="131" break="no"/>nimalia atque ita &amp; homines, propter peccatum: sic ut grando sit 
+      te<lb ed="#H" n="132" break="no"/>stimonium irae Dei contra peccatum &amp; justitiae in puniendo 
+      pecca<lb ed="#H" n="133" break="no"/>lo. De hoc fine dicit Deus Jobo cap. 38. v. 22, 23. Pervenistine ad 
+      the<lb ed="#H" n="134" break="no"/>sauros nivis? an in thesauros grandinis inspectionem habes? Quae 
+      co<lb ed="#H" n="135" break="no"/>hibeo ad tempus angustiae, ad diem conflictus &amp; belli? Ultimus finis est 
+      <lb ed="#H" n="136"/>gloria DEI: ideo Psal. 148. v. 8. hortatur Psaltes inter alias res 
+      crea<lb ed="#H" n="137" break="no"/>tas etiam grandinem ad laudandum Deum: Laudate Iehovam ignis 
+      <lb ed="#H" n="138"/>&amp; grando, nix &amp; exhalatio
+     </p>
+            <p xml:id="yyy8Uu-e40143-d1e1203">
+               <lb ed="#H" n="139"/>Exempla grandinis Exod. 9. v. 17, 18, 19. Adhuc tu teipsum extol 
+      <lb ed="#H" n="140"/>lis, (ait Jehova ad Pharaonem,) in populum meum, ut non dimittas 
+      <lb ed="#H" n="141"/>nos? Ecce ego demittam pluviam sub hoc tempus eras, &amp; grandinem 
+      <lb ed="#H" n="142"/>gravem valde, cui par non fuit in AEgypto ex quo die fundata fuit. 
+      <lb ed="#H" n="143"/>usque adhuc. Nunc itaque mitte congregatum pecus tuum &amp; 
+      quic<lb ed="#H" n="144" break="no"/>quid est tibi in agro, quicunque homo aut jumentum invenietur in 
+      <lb ed="#H" n="145"/>agro, neque receptus fuerit in domum, simul ac descenderit super eos 
+      <lb ed="#H" n="146"/>haec grando, morientur. Et v 22, 23, 24, 25, 26. Edixit Iehova Mosi, ex 
+      <lb ed="#H" n="147"/>tende manum tuam versus caelum, ut sit grando in tota terra 
+      AEgy<lb ed="#H" n="148" break="no"/>ptiorum super homines &amp; super jumenta, &amp; super omnes herbas agre 
+      <lb ed="#H" n="149"/>quae sunt in terra AEgyptiorum. Itaque extendit Moses baculum suum 
+      <lb ed="#H" n="150"/>versus coelum, &amp; Iehova edidit sonos &amp; grandinem, adeo ut obiret 
+      <lb ed="#H" n="151"/>gnis per terram: &amp; demisit Deus pluviam cum grandine super 
+      ter<lb ed="#H" n="152" break="no"/>ram AEgyptiorum. Fuitque grando, in qua permistus ignis sese 
+      accen<lb ed="#H" n="153" break="no"/>debat, grando gravis admodum, cui par non exstitit in tota terra 
+      AE<lb ed="#H" n="154" break="no"/>typti, ex quo fuit gens in illis. Et percussit illa grando in tota terra 
+      AE<lb ed="#H" n="155" break="no"/>gyptiorum quicquid exstabat in agro, tam homines quam jumenta: 
+      <lb ed="#H" n="156"/>omnem quoque herbam agri laesit illa grando &amp; omnem arborem 
+      a<lb ed="#H" n="157" break="no"/>gri fregit. Tantummodo in terra Goschenis, ubi erant filij Israelis, non 
+      <lb ed="#H" n="158"/>uit grando. Idem exemplum repetitur Psal. 78. v. 47. Occidit 
+      gran<lb ed="#H" n="159" break="no"/>dine vites eorum: Et v. 48. Dedidit etiam cidem grandini bruta eo 
+      <lb ed="#H" n="160"/>rum. Et Psal. 105. v. 32. Reddiderat pluvias eorum grandinem: &amp; v 
+      <lb ed="#H" n="161"/>33. Quibus percussit vites illorum &amp; ficus illorum, confregitque arbores 
+      <lb ed="#H" n="162"/>termini illorum. 
+    </p>
+            <p xml:id="yyy8Uu-e40143-d1e1258">
+               <lb ed="#H" n="163"/>Josu. 10. v. 11, quum hostes populi Israelis fugerent a facie Israelis 
+      <lb ed="#H" n="164"/>dejecit Iehova in eos lapides magnos e coelis Hagcham usque, quibus 
+      <lb ed="#H" n="165"/>moriebantur: plures fuerunt qui moriebantur lapidibus illis 
+      gran<lb ed="#H" n="166" break="no"/>dinis, quam quos occiderunt filij Israelis gladios 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1269">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Chagg. 2. v. 17. dicit Deus ad populum ex captivitate Babylonica 
+      <lb ed="#H" n="168"/>reducem: Percussi vos uredine, &amp; rubigine, ac grandine, totum opus 
+      <lb ed="#H" n="169"/>manuum vestrarum, &amp; nullus apud vos ad me venit. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1280">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>In Apocalypsi Johannis praedicta est grando ingesis quam Deus. 
+      <lb ed="#H" n="171"/>contumacibus immissurus erat; ut cap. 68. v. 7. Primus igitur 
+      Ange<lb ed="#H" n="172" break="no"/>lus clanxit, &amp; facta est grando &amp; ignis, mista sanguine, projectaque 
+      <lb ed="#H" n="173"/>sunt in terram: &amp; tertia pars arborum exusta est, &amp; omne gramen 
+      <lb ed="#H" n="174"/>viride exustum. Et cap. 11. v. 19. Tunc apertum est templum Dei in 
+      <lb ed="#H" n="175"/>coelo, &amp; visa est Arca federis ipsius in ejus templo: &amp; facta sunt 
+      ful<lb ed="#H" n="176" break="no"/>gura, &amp; voces &amp; tonitrua, &amp; terrae-motus &amp; grando magna. Et cap. 
+      <lb ed="#H" n="177"/>16. v. 12. Et grando magna, quasi talenti pondo descendit e coelo in 
+      ho<lb ed="#H" n="178" break="no"/>mines: &amp; blasphemarunt Deum homines propter plagam grandinis, 
+      <lb ed="#H" n="179"/>quoniam magna fuit ejus ploga vehementer 
+     </p>
+            <p xml:id="yyy8Uu-e40143-d1e1306">
+               <lb ed="#H" n="180"/>In Marcomannos &amp; Quacos, quorum nongenta septuaginta 
+      mil<lb ed="#H" n="181" break="no"/>lia erant, Christianis qui in exercitu M. Antonini Philosophi 
+      Impe<lb ed="#H" n="182" break="no"/>ratoris Romani erant preces ad Deum fundentibus, grando ignea 
+      <lb ed="#H" n="183"/>cecidit &amp; victoriam Imperatori Romanorum comparavit: Vide 
+      Ju<lb ed="#H" n="184" break="no"/>stinum Martyrem pag. 82. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1320">
+               <lb ed="#H" n="185"/>
+               <pc type="indent"/>Basilius Magnus in explicatione Psalmi 18. ait: In pugnis non ita 
+      <!--cod-MkL9py-0321.xml-->
+      <pb ed="#H" n="294"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>pridem gestis, barbaros populos ad Septentrionem spectantes, inque nos 
+      <lb ed="#H" n="2"/>impetum facientes, grandine ac igni Deus ad internecionem redegit.  
+      <lb ed="#H" n="3"/>Quin &amp; Persas, qui se urbibus nostris potituros spem animo 
+      concepe<lb ed="#H" n="4" break="no"/>rant, his ipsis obstaculis remoratus est: &amp; alios quidem interemit, 
+      a<lb ed="#H" n="5" break="no"/>lios vero ad annuncianda, quae viderant, domum remisit. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1344">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Quumque grandinis plaga sit magna per metaphoram ac simili 
+      <lb ed="#H" n="7"/>tudinem quandam exercitus hostilis omnia obvia proterens &amp; 
+      per<lb ed="#H" n="8" break="no"/>dens grandini comparatur, ut Jesa. 28. ver. 2. de Schalmanesere regi 
+      <lb ed="#H" n="9"/>Assyrio &amp; copiis ipsius dicitur: Ecce robustus &amp; fortis Domino, 
+      simi<lb ed="#H" n="10" break="no"/>lis inundationi grandinis. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1360">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Et quaevis horribilia judicia Dei comparantur grandini, ut Jesa. 
+      <lb ed="#H" n="12"/>X817. Disponam enim judicium ad lineam, &amp; justitiam ad 
+      perpen<lb ed="#H" n="13" break="no"/>diculum, ut excernat grando receptum fallaciae. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1371">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Tantum de grandine: sequitur de vento. 
+      <lb ed="#H" n="15"/>VENTUS, est exhalatio sicca copiosa, a terra sursum tendens, quae 
+      <lb ed="#H" n="16"/>ex ordinatione &amp; voluntate Dei repressa ab occurrente nube frigida, 
+      <lb ed="#H" n="17"/>in media regione aeris, &amp; succedente nova exhalatione per aërem 
+      <lb ed="#H" n="18"/>oblique propulsa, lateraliter in locum oppositum loco unde flare 
+      in<lb ed="#H" n="19" break="no"/>cipit, fertur &amp; spirat, ad varios fines divinitus ordinatos 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1389">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Materia igitur venti, est exhalatio sicca copiosa, a terra sursum 
+      <lb ed="#H" n="21"/>tendens; sicca autem dicitur κας ὑπρροχισ, non quod nullum habeat 
+      <lb ed="#H" n="22"/>Eumorem, sed quia ficcitas praedominatur. Materia igitur venti non 
+      <lb ed="#H" n="23"/>est ipse aer commotus seu fluens: nam omnium meteororum 
+      mate<lb ed="#H" n="24" break="no"/>rtia sunt exhalationes, vel siccae, e terra; vel humidae, ex aquis  
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1405">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Causa efficiens venti alia est supernaturalis, alia naturalis. 
+      Su<lb ed="#H" n="26" break="no"/>pernaturalis seu prima causa est Deus, qui excitat &amp; producit, qui 
+      fla<lb ed="#H" n="27" break="no"/>re jubet ventos: Naturalis est gemina, nempe nubes frigida 
+      occur<lb ed="#H" n="28" break="no"/>rens vaporibus in media aeris regione, &amp; successio novae 
+      exhalatio<lb ed="#H" n="29" break="no"/>nis copiosae impedientis rectum descensum aut reditum exhalationis 
+      <lb ed="#H" n="30"/>antea in sublime elevatae. Hoc docet Scriptura Psal. 135. 6, 7. 
+      Quic<lb ed="#H" n="31" break="no"/>quid placet sibi, Iehova facit; in coelis ac in terra, per maria &amp; omnes 
+      <lb ed="#H" n="32"/>abyssos, Faciens ut adscendant vapores ab extremitate terrae: fulgura 
+      <lb ed="#H" n="33"/>cum pluvia facit, depromit ventum e thesauris suis, id est, specubus 
+      <lb ed="#H" n="34"/>&amp; locis abditis, in quibus velut thesauris continet ventos Deus. Idem 
+      <lb ed="#H" n="35"/>repetitur Jer. 10. v. 13. &amp; cap. 51. v. 16. Effert vapores ab extremitat.  
+      <lb ed="#H" n="36"/>terrae; fulgura cum ipsa pluvia facit, &amp; profert ventum e 
+      thesauri<lb ed="#H" n="37" break="no"/>suis. De supernaturali causa efficiente plura exstant Scripturae 
+      testi<lb ed="#H" n="38" break="no"/>monia, veluti Exod. 10. v. 13. Iehova adduxit Eurum in eam terram. 
+      <lb ed="#H" n="39"/>Et v.19. Immisit Iehova ex adverso ventumoccidentalem vehemen 
+      <lb ed="#H" n="40"/>tem valde. Num. 11. v. 31. Ventus profectus a Iehova, abripuit 
+      cotur<lb ed="#H" n="41" break="no"/>nices a mari &amp; dissevit ad castra. Amos. 4. v. 13. Deus dicitur creator 
+      <lb ed="#H" n="42"/>venti. Jon. 1. v. 4. Iehova injecit ventum magnum in mare. Psal. 18. 
+      <lb ed="#H" n="43"/>v. 11. dicitur, Deum equitare super Cherubinis &amp; volare super 
+      ala<lb ed="#H" n="44" break="no"/>venti. Et Psal. 104. v. 3. Deus itat super alas venti. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1454">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Forma venti est obliquus motus exhalationis lateraliter 
+      propul<lb ed="#H" n="46" break="no"/>sae ex loco, unde flare coepit, in locum oppositum. Ideo quidam 
+      ven<lb ed="#H" n="47" break="no"/>tum ajunt nihil aliud esse quam motum, propulsionem &amp; 
+      agitatio<lb ed="#H" n="48" break="no"/>nem exhalationis, quasi ventus esset tantum affectio exhalationis. 
+      <lb ed="#H" n="49"/>Sed istud repugnat Scripturae Sacrae &amp; veritati naturali. Nam 
+      Scri<lb ed="#H" n="50" break="no"/>ptura dicit, quod ventus spirat seu flat: ventus igitur non est tantum 
+      <lb ed="#H" n="51"/>accidens, nempe, motio quaedam, sed corpus habens motum, 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1474">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>Fines venti sunt plures. Nam primo ordinatus est ventus a Deo ad 
+      <lb ed="#H" n="53"/>repurgandum aerem &amp; ad recreanda fovendaque corpora animata 
+      <lb ed="#H" n="54"/>&amp; omnia terra nascentia maturanda. Sic post siccitatem triennalem 
+      <lb ed="#H" n="55"/>ad preces Eliae coeli obscurati sunt nubibus &amp; vento, unde fuit pluvia 
+      <lb ed="#H" n="56"/>magna, I. Reg. 18. v. 45. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1490">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Deinde, immittitur a Deo adconferendum beneficia miraculosa 
+      <lb ed="#H" n="58"/>in Ecclesiam suam: Sic enim tempore diluvij transmisit Deus 
+      ven<lb ed="#H" n="59" break="no"/>tum superterram, ut sedarentur aquae, Gen. 8. v. 1. &amp; quum populum 
+      <lb ed="#H" n="60"/>sraeliticum educeret ex AEgypto, abigens mare ipsum Euro 
+      vehe<lb ed="#H" n="61" break="no"/>mente tota illa nocte, redegit mare in sicceum. Exod. 14. v. 21. Imo 
+      et<lb ed="#H" n="62" break="no"/>iam ad preces piorum in improbos homines, ut Exod. 19. v. 19. quum 
+      <lb ed="#H" n="63"/>Moses supplex orasset, immisit ex adverso Iehova ventum 
+      occiden<lb ed="#H" n="64" break="no"/>talem vehementem valde, qui exportavit locustas illas, quibus 
+      coo<lb ed="#H" n="65" break="no"/>perta erat AEgyptus, &amp; defixit eas in mare algosum. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1514">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Tertio, servit ventus Deo ad judicia ipsius in mortales 
+      exsequen<lb ed="#H" n="67" break="no"/>da; ut Exod. 10. ver. 13. Extendente Mose baculum suum contra 
+      ter<lb ed="#H" n="68" break="no"/>ram AEgyptiorum Iehova adduxit Eurum in eam terram toto die 
+      il<lb ed="#H" n="69" break="no"/>lo &amp; tota illa nocte; mane erat, quum Eurus ille apportavit 
+      locusta<lb ed="#H" n="70" break="no"/>super universam terram AEgyptiorum. Job. 1. v. 19. Ecce ventus 
+      ma<lb ed="#H" n="71" break="no"/>gnus venit a plaga deserti, quo impetente quatuor angulos domus, 
+      <lb ed="#H" n="72"/>corruit illa super pueros, ita ut mortui sint, Jon. 1. v. 4. Iehova injeci. 
+      <lb ed="#H" n="73"/>ventum magnum in mare, fuitque procella magna in mari, adeo ut 
+      na<lb ed="#H" n="74" break="no"/>vem illam cogitarent fractum ir¬ 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1538">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>Quarto, ventus est signum praesentiae potentiaeque Dei, ut Psal. 18. 
+      <lb ed="#H" n="76"/>I1. docetur. Act. 2. v. 1, 2. Quum advenisset dies Pentecostes, erant 
+      o<lb ed="#H" n="77" break="no"/>mnes concorditer eodem loci. Tum exstitit repente sonitus e coelo 
+      tan<lb ed="#H" n="78" break="no"/>quam ruentis flatus violenti, qui replevit totam domum ubi erau. 
+      <lb ed="#H" n="79"/>considentes. Hoc symbolum erat effusi e coelo S. Sancti, &amp; virtuti 
+      <lb ed="#H" n="80"/>ejus. Sicut enim ventus homines recreat: ita S. Sanctus electos rege, 
+      <lb ed="#H" n="81"/>nerat. Deinde sicut ventum nemo impedire potest, quo minus 
+      ubi<lb ed="#H" n="82" break="no"/>cunque vult spiret: ita Spiritui Sancto in servis suis loquenti neme 
+      <lb ed="#H" n="83"/>potest obsistere. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1562">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>Quinto, ventus variarum rerum imago est, de quibus nos saluta. 
+      <lb ed="#H" n="85"/>riter admonet. Nam sicut ventus quo vult spirat, &amp; sonum ejus 
+      au<lb ed="#H" n="86" break="no"/>dis, sed nuscis unde veniat &amp; quo vadat: ita est quisquis genitus est 
+      <lb ed="#H" n="87"/>ex Spiritis, ut legitur Johan. 3. ver. 8. Sententia est; Quemadmodum 
+      <lb ed="#H" n="88"/>ventus libero &amp; vago impetu spirat: ita etiam Spiritus Dei, quos 
+      <lb ed="#H" n="89"/>vuit regenerat. Deinde, sicut ventus orbem perflans, solo adesse 
+      <lb ed="#H" n="90"/>sono cognoscitur, nec cernitur ulli, sed tenuissima quadam auta 
+      cor<lb ed="#H" n="91" break="no"/>pora humana tangens, operationis suae imprimit sensum: Ita Spi 
+      <lb ed="#H" n="92"/>ritus Sanetus regenerans virtute sua ab hominibus regenitis perci¬ 
+      <!--cod-MkL9py-0321.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>pitur. Tertio, sicut homines ignorant, unde velitus spiret, &amp; quo va ; 
+      <lb ed="#H" n="94"/>dat: Ita etiam ignorant modum, quo Spiritus S. cos regenerat. Etsi 
+      <lb ed="#H" n="95"/>enim perspicimus in hominis regeneratione Spiritus Dei motum &amp; 
+      <lb ed="#H" n="96"/>actionem, sicut venti in hac terrestri &amp; externa vita: tamen modus est 
+      <lb ed="#H" n="97"/>reconditus. Motum regenerationis spiritualiter sentimus: modum 
+      <lb ed="#H" n="98"/>nescimus. Ita opera naturae serviunt nobis ad consideranda opera 
+      <lb ed="#H" n="99"/>gratia 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1607">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Postea ventus est imago sanctorum Angelorum. Sic enim legitur 
+      <lb ed="#H" n="101"/>Zach. 6. 5. Hi quatuor sunt venti coelorum procedentes inde ubi 
+      con<lb ed="#H" n="102" break="no"/>titerant apud dominatorem totius terrae, id est, Angeli ex quatuor  
+      <lb ed="#H" n="103"/>coeli partibus se sistentes Deo &amp; ab illo excurrentes ad exsequenda 
+      <lb ed="#H" n="104"/>mandata illius celerrime, non secus ac si rapidissimi venti essent: ut 
+      <lb ed="#H" n="105"/>suo exemplo nos incitent ad promte capessenda jussa Dei, 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1625">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Praeterea ventus est imago publicarum calamitatum quae propter 
+      <lb ed="#H" n="107"/>peccata humanum genus pervadunt, tanquam vetus: sicut legitur 
+      A<lb ed="#H" n="108" break="no"/>poc 7. 1. Postea vidi quatuor Angelos insistentes quatuor Angelis 
+      ter<lb ed="#H" n="109" break="no"/>rae κραγτονλας, tenentes (seu retinentes) quatuor ventos terrae, ne flaret  
+      <lb ed="#H" n="110"/>ventus super terram, neque super mare, neque in ullam arborem. Sunt: 
+      <lb ed="#H" n="111"/>qui hoc loco per ventum intelligunt autam salutaris doctrinae, cujus 
+      <lb ed="#H" n="112"/>cursum diaboli impediant, Alij, praecones Evangelij, quos 
+      Antichri<lb ed="#H" n="113" break="no"/>stus per suos administios ubique locorum prohibebit flare, id est, 
+      an<lb ed="#H" n="114" break="no"/>nunciare puram Evangelij doctrinam. Sed haec interpretatio aliena 
+      <lb ed="#H" n="115"/>est. Nam ut contextus satis ostendit, per quatuor illos ventos intelli 
+      <lb ed="#H" n="116"/>gendae sunt calamitates publicae, quae impiis in omnibus mundi 
+      par<lb ed="#H" n="117" break="no"/>tibus immittendae erant ab Angelis exsequutoribus judiciorum Dei, 
+      <lb ed="#H" n="118"/>qui accincti jam erant ad immittendas calamitates illas publicas in 
+      <lb ed="#H" n="119"/>mundum tanquam ventos, sed tamen tantisper retinentes illas mam 
+      <lb ed="#H" n="120"/>dato Christi Domini, qui est Angelus ille federis, donec piis Deo fide 
+      <lb ed="#H" n="121"/>iter servientibus cautum &amp; prospectum esset, ut e flagellis mundi istius 
+      <lb ed="#H" n="122"/>impij eximerentur. Hanc interpretationem veram esse ostendunt 
+      se<lb ed="#H" n="123" break="no"/>quentia, ubi v. 2 &amp; 3. Johannes dicit: Et vidi alium Angelum 
+      adscen<lb ed="#H" n="124" break="no"/>dentem ab ortu solis, habente sigillum Deo vivi: qui acclamavit voce 
+      <lb ed="#H" n="125"/>magna quatuor illis Angelis quibus datum est laedere terram &amp; 
+      ma<lb ed="#H" n="126" break="no"/>re; Dicens, Ne laedite terram, neque mare, neque arbores, nempe ventis 
+      il<lb ed="#H" n="127" break="no"/>is, id est, afflictionibus gravissimis, quos aliquantisper retinere justi 
+      <lb ed="#H" n="128"/>sunt, quousque obsignaverimus servos Deinostri in frontibus suis. 
+      Ad<lb ed="#H" n="129" break="no"/>ministri enim judiciorum Dei non prius ea exsequuntur nec exsequi 
+      <lb ed="#H" n="130"/>possunt, donec praecipiat Deus 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1684">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>Unde etiam Ezech. 1. 4. Ventus turbineus est imago exercitus 
+      ho<lb ed="#H" n="132" break="no"/>stilis ex improviso impressionem facientis &amp; absque impedimento 
+      o<lb ed="#H" n="133" break="no"/>mnia devastantis. Quin omnis calamitas subita &amp; cui resisti non 
+      po<lb ed="#H" n="134" break="no"/>test, comparatur nimbo furenti, maxima vi irrumpenti subito. Qui 
+      <lb ed="#H" n="135"/>referri debet, quod Prov. 1. 24. &amp; sequent. denunciatur 
+      contemptori<lb ed="#H" n="136" break="no"/>bus sapientiae Dei: Quandoquidem invito &amp; renuitis, extendo 
+      ma<lb ed="#H" n="137" break="no"/>num meam &amp; nemo advertit, sed abstrahitis vos ab omni consilio meo, 
+      <lb ed="#H" n="138"/>&amp; correctioni meae non acquiescitis: Ego quoque in calamitate vestra 
+      <lb ed="#H" n="139"/>ridebo, subsannabo quum advenerit id quod expavescitis: Quum 
+      ad<lb ed="#H" n="140" break="no"/>venerit tanquam fremebunda vastatio id quod expavescitis, &amp; 
+      cala<lb ed="#H" n="141" break="no"/>mitas vestra tanquam turbo adventaverit: quum irruerit in vos 
+      <lb ed="#H" n="142"/>pppressio &amp; angustia. Sic Jes. 41. v. 16. Ventus auferet eos, ac turbo 
+      di<lb ed="#H" n="143" break="no"/>sperget eos. &amp; c. 57. 17. Quum clamaveris, cripiant te congregatione 
+      <lb ed="#H" n="144"/>tuae: atqui omnes eas tollet ventus, intercipiet vanitas 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1719">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Aptissime autem tum hostilis exercitus, tum vindicta divina 
+      com<lb ed="#H" n="146" break="no"/>paratur vento procelloso: quia improbi sunt similes domui super 
+      are<lb ed="#H" n="147" break="no"/>nam aedificatae, quae, si in eam flant &amp; impingunt venti, cadit &amp; est rui 
+      <lb ed="#H" n="148"/>na ejus magna, Matt. 7. 17. Quia sunt similes luteo parieti, inepto 
+      te<lb ed="#H" n="149" break="no"/>ctorio obducto, qui si in eum ingruat ventus, subvertitur, ut locus 
+      E<lb ed="#H" n="150" break="no"/>zech. 13. 10, 11. docet: Quia sunt similes paleae, quam dispellit ventus 
+      <lb ed="#H" n="151"/>ut dicitur Job. 21. 17. Quoties sunt ut palea coram vento, &amp; ut glumae 
+      <lb ed="#H" n="152"/>quam surripit turbo? &amp; Psal. 1 ver. 4. Non ita improbi sunt, sed sicut  
+      <lb ed="#H" n="153"/>gluma, quam dispellit ventus. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1743">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Imo cujusque hominis subita calamitas comparatur vento, ut Job 
+      <lb ed="#H" n="155"/>21. 18. Improbi sunt ut palea coram vento, &amp; ut gluma quam 
+      surri<lb ed="#H" n="156" break="no"/>pit turbo. Et c. 30.1. Obversa est in me irruptio cum terrorum 
+      mul<lb ed="#H" n="157" break="no"/>titudine, prosequitur quasi ventus ingenuitatem meum. Jar. 22. 22. 
+      <lb ed="#H" n="158"/>Omnes pastores tuos depascet ventus, id est, auferat eos subita 
+      calami<lb ed="#H" n="159" break="no"/>tas. Et c. 18. 17. Euro dispergam illos coram inimico 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1761">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Insuper ventus est imago vanitatis seu rei vanae. Unde Scriptura 
+      <lb ed="#H" n="161"/>Saera sermonem vanum, irritum &amp; futilem dicit esse ventum, ut Jobi 
+      <lb ed="#H" n="162"/>6. 26 ait, An disceptando verba reputare debetis, &amp; ventum eloquid  
+      <lb ed="#H" n="163"/>desperati? id est, an sermones meos censetis esse ventum, id est, nullius 
+      <lb ed="#H" n="164"/>ponderis, nullius valoris, eo quod tantopere afflictus sum, &amp; in quasi 
+      <lb ed="#H" n="165"/>desperato malo constitutus? Sic vita nostra est ventus, id est, brevis &amp; 
+      <lb ed="#H" n="166"/>mox evanitura instar venti qui transit &amp; non redit. Job. 7. 7. explicans 
+      <lb ed="#H" n="167"/>suas aerumnas coram Deo ait, Recordare ventum esse vitam meam. 
+      <lb ed="#H" n="168"/>d est, brevem &amp; desituram instar venti, qui subito transit &amp; non redit. 
+      <lb ed="#H" n="169"/>Job. 15. 2. respondere scientiam venti, est oratione respondere 
+      evani<lb ed="#H" n="170" break="no"/>da, ut est ventus, quae nihil habet praeter verba in ventos fugientia, ibil 
+      <lb ed="#H" n="171"/>dem, implere Euro ventrem suum, est intus in animo vanas ac 
+      fluctu<lb ed="#H" n="172" break="no"/>antes cogitationes admittere, spe vanam se implere. Hos. 12. 2. 
+      Ephra<lb ed="#H" n="173" break="no"/>jim depascitur ventum &amp; persequitur Eurum, id est, inani spe seipsum 
+      <lb ed="#H" n="174"/>lactat &amp; sectatur eam contentissime. Prov. 11. 29. Qui conturbat 
+      do<lb ed="#H" n="175" break="no"/>mum suam, possidebit ventum, id est, faciet ut sua possessio in ventum 
+      <lb ed="#H" n="176"/>abeat, sitque totus vacuus. Job. 30. 22. ait Jobus ad Deum: Exponis me 
+      <lb ed="#H" n="177"/>in ventum, ei imponis me; &amp; efficis ut diffluam substantia. 
+      Ecclesia<lb ed="#H" n="178" break="no"/>stae 5.16. est, cum laborare vento, qui frustra opes magno labore 
+      cu<lb ed="#H" n="179" break="no"/>mulaverit, quae momento quasi ingruente vento dissipentur. 
+      Pro<lb ed="#H" n="180" break="no"/>verbialis loquendi forma, quam vanitas laboris cumulandi opes 
+      terre<lb ed="#H" n="181" break="no"/>nas explicatur. Unde &amp; idololatria vento comparatur, Jer. 2. 24. ubi  
+      <lb ed="#H" n="182"/>Ecclesia Jerosolymitana confertur onagro feminae, assuetae deserto, quae 
+      <lb ed="#H" n="183"/>pro desiderio animae suae haurit ventum, id est, non quiescit uno 
+      loco<lb ed="#H" n="184" break="no"/>sed huc illuc discursat ad locd idololatriae destinata: quid enim aliud est 
+      <!--cod-MkL9py-0322.xml-->
+      <pb ed="#H" n="295"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>pdololatria ideo quam ventus, quam vanitas? Quin etiam a vento 
+      <lb ed="#H" n="2"/>compatatur, quia est res inanis &amp; infructuosa, ut dicitur Oseae 8. v. 
+      <lb ed="#H" n="3"/>7. Qui vento seminaverint, turbini metent. Jer. 5. 13. esse ventus seu 
+      <lb ed="#H" n="4"/>abire in ventum dicuntur, quorum sermones eventu ipsovani 
+      depre<lb ed="#H" n="5" break="no"/>henduntur. Et c. 14. 6. onagros, dicit Deus, hausturos ventum, id est; 
+      <lb ed="#H" n="6"/>nihil habituros unde sitim &amp; famem sedent. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1840">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Subministrat venti consideratio etiam morales nuthesias, ut 
+      Pro<lb ed="#H" n="8" break="no"/>verb. 25. 23. Vt Caecias ventus (inter Aquilonem &amp; Orientem situs. 
+      <lb ed="#H" n="9"/>gignit pluviam: ita vultum indignabundum lingua simulantis 
+      <lb ed="#H" n="10"/>Hanc Caeciae naturam esse ut nubilus &amp; pluviosus sit, docet etiam 
+      <lb ed="#H" n="11"/>Arist. lib. 2. meteoron, c. 9. unde proverbium, Caecias nubes. Et Prov. 
+      <lb ed="#H" n="12"/>27. 16. abscondere ventum, est frustra conari occultate rem quae occul 
+      <lb ed="#H" n="13"/>tari nequit, sicut ventus abscondi nulla ratione potest. Abscondentia 
+      <lb ed="#H" n="14"/>contentiosam mulierem quisque absconderit ventum. Sententia est 
+      <lb ed="#H" n="15"/>Contentiosa mulier seipsam exponit ignominiae omnium ob 
+      libidi<lb ed="#H" n="16" break="no"/>nem contendendi, &amp; nulla ratione potest cohiberi ignominia illa 
+      <lb ed="#H" n="17"/>quin pervagetur in autes omnium. Eccles. c. 11. 4. ait: Qui obseruat 
+      <lb ed="#H" n="18"/>ventum, non seminabit: Sententia est, non sunt in beneraciendo 
+      ne<lb ed="#H" n="19" break="no"/>ctendae morae: nam qui spe majoris gratiae meliores opportunitates 
+      <lb ed="#H" n="20"/>exspectans, beneficia sua differt conferre in alios, tandem omne 
+      be<lb ed="#H" n="21" break="no"/>ne agedi tempus amittit; quemadmodum agricolis, dum quemlibe 
+      <lb ed="#H" n="22"/>ventum intuentur, tranquillioremque autam exspectant, sementim in 
+      <lb ed="#H" n="23"/>crastinum semper reiicientes, non raro sementis faciendae tempus 
+      <lb ed="#H" n="24"/>elabitur. Proinde ne metu ingratitudinis aut indignitatis pauperum 
+      <lb ed="#H" n="25"/>aut spe majorum facultatum quas sis consequuturus, ut postea eo 
+      <lb ed="#H" n="26"/>commodius possis aliis benefacere, abstine a beneficentia erga 
+      pau<lb ed="#H" n="27" break="no"/>peres: ne diffidentia utitor, ut manum a beneficentia in egenos 
+      re<lb ed="#H" n="28" break="no"/>trahas; neve has aut illas excusationes obtedas, ignavos rusticos 
+      imi<lb ed="#H" n="29" break="no"/>tando, qui dum haec aut illa causantur, justum sementis tempus 
+      si<lb ed="#H" n="30" break="no"/>nunt effugere. Idem dictum proverbiale generaliter accommodar  
+      <lb ed="#H" n="31"/>potest ad omnia, quae ex officio sunt facienda, absque procrastinatione. 
+      <lb ed="#H" n="32"/>Ut qui ventum observat, qui metu venti hodie sementim facere 
+      recu<lb ed="#H" n="33" break="no"/>saverit, eras quoque ob eandem causam sementim differat, ac deinceps 
+      <lb ed="#H" n="34"/>per plures dies ventus vigeat, itaque praeterierit interim sementis 
+      tem<lb ed="#H" n="35" break="no"/>pus, is nunquam seret: sic si quis pericula omnia aut incommoda, que 
+      <lb ed="#H" n="36"/>in aliquo opere faciendo eventura sint, aut evenire possint, velit at 
+      <lb ed="#H" n="37"/>tendere, nunquam quicquam aget. Qui non est hodie, cras minus 
+      a<lb ed="#H" n="38" break="no"/>ptus erit 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1914">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>Eodem cap. v. 5. ait Ecclesiastes: Quemadmodum ignoras quae sit. 
+      <lb ed="#H" n="40"/>via venti, ut ignoras, quae via ossium in utero gravidae: ita ignoras 
+      o<lb ed="#H" n="41" break="no"/>pus ipsius Dei, qua via faciat haec omnia. Sententia est: Quicunqui 
+      <lb ed="#H" n="42"/>aliquam benefaciendi aliis facultatem habes, ne differto benefacere. 
+      <lb ed="#H" n="43"/>Nam ignoras, quid Deus facturus sit, an semper sit concessurus tibi 
+      <lb ed="#H" n="44"/>ut facultatem benefaciendi habeas, an vero in inopiam conjecturus 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e1932">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Paulus Apost. Ephes. 4. 14. nos dehortatur ab amplectendis 
+      hu<lb ed="#H" n="46" break="no"/>manis doctrinis, quia illae sunt ventus, id est, frivolae, inanes: Ne 
+      am<lb ed="#H" n="47" break="no"/>plius, inquit, simus pueri, qui fluctuemus &amp; circumferamur quovis 
+      <lb ed="#H" n="48"/>vento doctrinae.
+     </p>
+            <p xml:id="yyy8Uu-e40143-d1e1945">
+               <lb ed="#H" n="49"/>Sumic etiam Scriptura Sacra similitudines a vento ad eventus a 
+      <lb ed="#H" n="50"/>nimi vel corporis repraesentandos, ut Jes. 7. 2. narratur, Achabi regis 
+      <lb ed="#H" n="51"/>Judaeae &amp; populi ejus aninmum a rumore de conspiratione Syrorum 
+      <lb ed="#H" n="52"/>&amp; Israelitatum ita commotum fuisse, sicut commoventur arbore. 
+      <lb ed="#H" n="53"/>sylvae a vento. Psalm. 85. 24. &amp; Jes. 18. 2. de dissipatione multitudinis: 
+      <lb ed="#H" n="54"/>hostium Ecclesiae Dei &amp; persequutionum dicitur; Agitabitur ut 
+      <lb ed="#H" n="55"/>gluma montium coram vento &amp; ut rota coram turbine. Jes. 64. 10 
+      <lb ed="#H" n="56"/>Diffluimus velut folium omnes nos, &amp; iniquitates nostrae ut ventus 
+      <lb ed="#H" n="57"/>auferunt nos. Jerem. 13. 24. comminatur Deus impiis, 
+      Dispergan<lb ed="#H" n="58" break="no"/>eos velut stipulam praetereuntem, ad ventum deserti. Sic 
+      dubitatio<lb ed="#H" n="59" break="no"/>nes quae turbant animum precantis sunt similes ventis quibus 
+      flu<lb ed="#H" n="60" break="no"/>ctus maris agitatur &amp; jactatur, ut Jacob. 1. 6. dicitur: Qui ambigit 
+      <lb ed="#H" n="61"/>similis est fluctui maris; qui ventis agitatur &amp; jactatur. Tentatio  
+      <lb ed="#H" n="62"/>nes item, quibus probamur, ventis similes sunt. Ut enim venti irrue 
+      <lb ed="#H" n="63"/>tes in domum aedificatam super arenam, ideoque fundamento 
+      ca<lb ed="#H" n="64" break="no"/>rentem, eam impellunt ut concidat: ita tentationes facile pessundam 
+      <lb ed="#H" n="65"/>animos instabiles, super hypocrisin aedificatos: ut Christus 
+      doce<lb ed="#H" n="66" break="no"/>Matth. 7. v. 26, 27. Quisquis audit ex me hos sermones, &amp; eos non 
+      prae<lb ed="#H" n="67" break="no"/>stat assimilabitur viro fatuo qui aedificavit domum suam super 
+      are<lb ed="#H" n="68" break="no"/>nam: Descendit autem pluvia, &amp; venerunt flumina &amp; flaverunt. 
+      <lb ed="#H" n="69"/>venti, &amp; impegerunt in domum illam &amp; cecidit, &amp; fuit casus ejus 
+      <lb ed="#H" n="70"/>magnus. Et cap. 11. 7. negat Johannem Baptistam esse arundinem, 
+      <lb ed="#H" n="71"/>quae vento agitetur, id est, instabilem &amp; tentationibus se huc illud 
+      <lb ed="#H" n="72"/>flecti patientem: 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2000">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Denique venti consideratio suggerit etiam consolationis mate 
+      <lb ed="#H" n="74"/>tiam, ut Jes. 32. 2. dicitur; Et erit vir tanquam absconsio seu latibus 
+      <lb ed="#H" n="75"/>lum a verto, hoc est, Christus Dominus erit spes &amp; perfugium 
+      no<lb ed="#H" n="76" break="no"/>strum in his procellis injuriarum &amp; persequutionum, quibus nos 
+      a<lb ed="#H" n="77" break="no"/>gitari necesse est, quamdiu in hoc mundo versamur. Tantum bona 
+      <lb ed="#H" n="78"/>ad nos redit ex regimine Christi. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2018">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Tantum de finibus venti. 
+      <lb ed="#H" n="80"/>Porro venti sunt subjecti Christo, ut Deo &amp; Domino suo, ideo 
+      <lb ed="#H" n="81"/>voci &amp; imperio ejus obtemperatunt, ut legitur Matth. 8. 26, 27. &amp; 
+      <lb ed="#H" n="82"/>Marc. 4. vers. 39, 40. Quapropter testimonium dederunt 
+      Christo<lb ed="#H" n="83" break="no"/>quod natura verus Deus sit. Vide Chrysostomum in Psalmum δ6ι 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2035">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>Sufficiat de vento: sequitur de fulgetro &amp; tonitrus 
+      <lb ed="#H" n="85"/>FULGETRUM seu CORUSCATIO, est splendor flammae emicam 
+      <lb ed="#H" n="86"/>tis, per totum aerem uno momento transcurrens, per intervalla; vel 
+      <lb ed="#H" n="87"/>cum nullo vel cum parvo sonitu, ortus ex modica tenuique 
+      exhala<lb ed="#H" n="88" break="no"/>tione in nube accensa. In Graeca versione Ps. 18. dicitur τῆλαυγήσις 
+      <lb ed="#H" n="89"/>id est, splendor eminus apparens, longeque sparsus 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2053">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Definitio fulgetri seu coruscationis est petita ex his verbis Psal 
+      <lb ed="#H" n="91"/>18. 13. Asplendore qui est ante eum nubes ejus transierunt 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2062">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>Ut autem reges anteambulones suos majestatis causa habentiita¬ 
+      <!--cod-MkL9py-0322.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>etiam Deo fulgetra veluti anteambulones serviunt in tempestati¬ 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2075">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>bus quas ciet. Similiter de igne anteambulone Dei dicitur Psalm. 
+      <lb ed="#H" n="95"/>30. 3. Ignis ante ipsum consumit &amp; circa ipsum procellosus valde: 
+      <lb ed="#H" n="96"/>Suntque fulgetra saepe noxia teneris praesertim herbulis, quas 
+      ex<lb ed="#H" n="97" break="no"/>siccant, quia ignita sunt  
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2088">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Tonitru, est sonitus in aere aut ex agitatione vaporis calidi &amp; sic. 
+      <lb ed="#H" n="99"/>ci, in nube frigida &amp; humida, propter antiperistasin excitatus: aut ex 
+      <lb ed="#H" n="100"/>jusdem vaporis, e nube vidsenter fracta eruptione generatus: aut 
+      <lb ed="#H" n="101"/>etiam nonnunquam ex nubium cavarum collisione coortus. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2101">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>De Tonitra agitur Psalm. 29. 3. &amp; sequentibus aliquot, in 
+      qui<lb ed="#H" n="103" break="no"/>bus describitur a causa efficiente, ab adjunctis, effectis &amp; fine. Namsi 
+      <lb ed="#H" n="104"/>causam efficientem requiras, est tonitru vox Dei fortis: is enim est qui  
+      <lb ed="#H" n="105"/>conat in coelis &amp; edit vocem suam, Psalm 18 14. Exod. 9. 23. Quod  
+      <lb ed="#H" n="106"/>adiuncta attinet, est tonitru meteoron vehementissimum, superans 
+      <lb ed="#H" n="107"/>vehementia sua fragores, plausus, fremitus &amp; strepitus etiam aquarum 
+      <lb ed="#H" n="108"/>multatum: est meteoron potens &amp; decorum. Si effecta intueamur, 
+      o<lb ed="#H" n="109" break="no"/>mnia etiam validissima fragit, veluti cedros, arbores procerissimas. 
+      <lb ed="#H" n="110"/>crassissimas &amp; maxime durabiles: firmissima quaeque &amp; quae stabilia 
+      <lb ed="#H" n="111"/>judicantur commovet, exempli gratia, montes, ut exsiliant sicut 
+      vi<lb ed="#H" n="112" break="no"/>tulus aut pullus unicornium: caedit fiammas ignis, id est, 
+      coruscatio<lb ed="#H" n="113" break="no"/>nes, fulgetra, &amp; fulgura quae dissipat: perhorrefacit omnia animalia 
+      <lb ed="#H" n="114"/>non tantum homines, sed etiam feras ac horrificas bestias desertum. 
+      <lb ed="#H" n="115"/>incolentes; unde &amp; cervas, quantumvis prae angustia utantur 
+      diffici<lb ed="#H" n="116" break="no"/>liore partu, abortire cogit, &amp; feris trepidantibus in antra &amp; latibula; 
+      <lb ed="#H" n="117"/>sua compulsis, sylvas denudat, 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2141">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Finis tonitru est gloria potentiae Dei, ut Psalmus vigesimus 
+      no<lb ed="#H" n="119" break="no"/>nus docet. Sic Jobus c. 26. v. 14. ait tonitru summae potentiae ejus 
+      qui<lb ed="#H" n="120" break="no"/>intelligat? Quapropter Deus est etiam a siliis fortium, hoc est, a 
+      ge<lb ed="#H" n="121" break="no"/>nerosissimis &amp; potentissimis quibusque glorificandus, laude 
+      exrol<lb ed="#H" n="122" break="no"/>lendus, &amp; humillime adorandus. Eodem pertinet descriptio tonitru 
+      <lb ed="#H" n="123"/>quae exstabit Jobi 37, ubi Elihu omnipotentiam Dei asserit 
+      conside<lb ed="#H" n="124" break="no"/>ratione tonitru; ut Jobum revocet ad humilitatem, cognitionem in 
+      <lb ed="#H" n="125"/>firmitatis &amp; ignorantiae suae, &amp; ad dandam Deo laudem 
+      omnipoten<lb ed="#H" n="126" break="no"/>tiae, bonitatis, justitiae &amp; misericordiae. Audite, inquit Elihu, 
+      diligen<lb ed="#H" n="127" break="no"/>ter conjunctam commotione vocem ejus &amp; loquelam ex ore ejus 
+      pro<lb ed="#H" n="128" break="no"/>deuntem, (id est, tonitru) Sub omnes coelos dirigit eam, &amp; lucem 
+      sub<lb ed="#H" n="129" break="no"/>Vid est, fulgetra lucida) ad oras terrae. Post eam rugit sonus, tonat vos 
+      <lb ed="#H" n="130"/>ce excellentiae suae, neque differt illa, quum audieda est vox ejus. (Nam 
+      <lb ed="#H" n="131"/>rius videtur coruscatio, quam audiatur sonus.) Tonat Deus fortia 
+      <lb ed="#H" n="132"/>voce sua mirabiliter: facit res adeo magnas ut non possimus 
+      cognosce<lb ed="#H" n="133" break="no"/>re. Ad declarandam potentiam suam formidandam, quam possit 
+      ju<lb ed="#H" n="134" break="no"/>dicia sua facillime exsequi adversus omnes contemtores mandatorum 
+      <lb ed="#H" n="135"/>suorum, &amp; domare superbissimos etiam &amp; potentissimos in terris 
+      <lb ed="#H" n="136"/>Reges, tonitrua horribilia edidit in AEgypto, Ezod. 9. 23. adeo ut 
+      <lb ed="#H" n="137"/>prae metu quem tonitrua incutiebant, Pharao rex AEgypti 
+      cocere<lb ed="#H" n="138" break="no"/>tur fateri se peccasse; &amp; Jehovae justitiam, sibi vero ac suis improbita. 
+      <lb ed="#H" n="139"/>tem tribuere, vers. 27, 28. accersivit Mosen &amp; Aaronem &amp; dixit eis, 
+      <lb ed="#H" n="140"/>peccavi hac vice: Iehova justissimus est, ego vero &amp; populus meus 
+      im<lb ed="#H" n="141" break="no"/>probissimi sumus. Supplices orate Iehovam(nam fatis est) ne pergant. 
+      <lb ed="#H" n="142"/>sse soni Dei &amp; grando: tum dimittam vos &amp; non ultra manebitis: 
+      <lb ed="#H" n="143"/>dem docetur Psalm. 77. 18, 19. Idem fecit cum Decalogum 
+      pro<lb ed="#H" n="144" break="no"/>mulgaret. Exod. 19.16. &amp; cap. 20. 18, 1. Sam. 12. v. 18, 19, 20. populo 
+      <lb ed="#H" n="145"/>Israelitico Deus per tonitru declaravit magnitudinem peccati 
+      ipso<lb ed="#H" n="146" break="no"/>rum quod regem sibi petivissent, &amp; potentiam suam in ipsis ob 
+      pec<lb ed="#H" n="147" break="no"/>catum puniendis &amp; consumendis. Huc pertinet quod Channa mater 
+      <lb ed="#H" n="148"/>Samuelis ait 1. Sam. 2. 10. Contendentes in Iehivam conterentur 
+      <lb ed="#H" n="149"/>contra quemque in coelis intonabit, Iehova judicabit fines terrae: Et 
+      <lb ed="#H" n="150"/>quod legitur Jes. 29. vers. 6. A Iehova exercituum visitabitur urbs 
+      <lb ed="#H" n="151"/>Davidis tonitrus 
+     </p>
+            <p xml:id="yyy8Uu-e40143-d1e2219">
+               <lb ed="#H" n="152"/>Tonitru facit etiam eo, ut agnoscamus tum nostram injustitiam, 
+      <lb ed="#H" n="153"/>tum impotentiam ac infirmitatem, &amp; ut Deo integram gloriam 
+      sic<lb ed="#H" n="154" break="no"/>ut justitiae, ita &amp; ominipotentiae tribuamus. Hoc docet Deus cum 
+      Jo<lb ed="#H" n="155" break="no"/>bo e turbine respondens dicit cap. 40. 3. 4. An etiam irritum facie. 
+      <lb ed="#H" n="156"/>judicium meum? condemnabis me ut justus sis? Aut an braceum ut 
+      <lb ed="#H" n="157"/>Dei fortis est tibi? &amp; voce, ut ipse, intonabis? Exemplum 1. Sam. 12. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2235">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Insuper tonitru edit Deus etiam ad hunc finem, ut sit timor Dei, 
+      <lb ed="#H" n="159"/>ante faciem nostram, ne peccemus, quemadmodum Moses docet. 
+      <lb ed="#H" n="160"/>Exod. 20. v. 26. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2246">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Denique tonitru est imago verbi Dei, ac inprimis Evangelii, 
+      cu<lb ed="#H" n="162" break="no"/>us sonus totum orbem terrarum subito pervasit, &amp; corda hominum 
+      <lb ed="#H" n="163"/>perculit, ut ad Christum converterentur. Quo pertinet quod dicitur: 
+      <lb ed="#H" n="164"/>Apocal. 4. v. 5. Prodibant autem ex illo throno fulgura &amp; tonitrua: 
+      <lb ed="#H" n="165"/>&amp; voces. Et cap. 14. 2. Audivi vocem e coelo tanquam sonum 
+      coni<lb ed="#H" n="166" break="no"/>tru magni. Evangelium de Jesu Christo terribile &amp; adversum est 
+      An<lb ed="#H" n="167" break="no"/>tichristo &amp; factioni ipsius impiae non secus ac tonitru. Unde etiam 
+      <lb ed="#H" n="168"/>imago est praeconum Evangelii, Apoc. 10. 3. 4. loquuta sunt septem 
+      <lb ed="#H" n="169"/>tonitrua voces suas, id est, Apostoli &amp; alii praecones Evangelii annum 
+      <lb ed="#H" n="170"/>ciarunt Evangelium de jesu Christo cum potenti declaratione 
+      Spi<lb ed="#H" n="171" break="no"/>ritus. Quam ob causam Jacobo &amp; Johanni filiis Zebedaei Apostolis 
+      <lb ed="#H" n="172"/>imposuit Christus nomina Boanerges, quod est filii tonitrui, 
+      Marci<lb ed="#H" n="173" break="no"/>3. vers. 17. ut significaret, ipsos votem Evangelii tonaturos in tote 
+      <lb ed="#H" n="174"/>Jorbe 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2281">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>Est imago etiam comminationum divinarum quibus Deus 
+      judi<lb ed="#H" n="176" break="no"/>cia sua denunciavit impiis. Huc facit quod legitur Apocal. 6. 1. Postea 
+      <lb ed="#H" n="177"/>vidi, quum aperuisset Agnus primum ex sigillis, &amp; audimi unum ex 
+      <lb ed="#H" n="178"/>quatuor illis animalibus dicens, tanquam vocem tonitrui, Veni &amp; 
+      <lb ed="#H" n="179"/>aspice. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2297">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>Denique est imago magni consensus &amp; vehernentis 
+      contentioni<lb ed="#H" n="181" break="no"/>omnium electorum in laudando Deo; quo referendum quod legitur  
+      <lb ed="#H" n="182"/>Apocal. 19. 6. Et audivi tanquam sonitum turba multae, &amp; tanquo 
+      <lb ed="#H" n="183"/>sonitum aquarum nultarum, &amp; tanquam sonitum tonitruorum 
+      <lb ed="#H" n="184"/>vehementium, dicentium, Hallelusah: quoniam regnum inijt 
+      Do<lb ed="#H" n="185" break="no"/>minus Deus ille noster omnipotens. 
+      <!--cod-MkL9py-0323.xml-->
+      <pb ed="#H" n="296"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Ad extremum de tonitru &amp; hoc notandum, quod illud ad 
+      preces<lb ed="#H" n="2" break="no"/>piorum ad Deum ardenter fusas fiat, etiam tempore illo quo 
+      alio<lb ed="#H" n="3" break="no"/>quin coelum sudum esse solet, quale ad messem tempestivum est, ut 
+      <lb ed="#H" n="4"/>exemplum Samuelis ostendit 1. Sam. 12. 19. ubi ait Samuel; Nonne 
+      <lb ed="#H" n="5"/>dies messis triticeae est hodie? ubi invocavero Iehovam, edet sonos &amp; 
+      <lb ed="#H" n="6"/>luvia. Et v. 20. Quumque clamaret Samuel ad Iehovam, edidit 
+      Ie<lb ed="#H" n="7" break="no"/>hova sonos &amp; pluviam. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2337">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Ad piorum preces tonitru etiam cessat, ut videre est Exod. 9. 29. 
+      <lb ed="#H" n="9"/>Dixit Pharaoni Moses, quum egressus hac civitate expandero 
+      ma<lb ed="#H" n="10" break="no"/>nus meas ad Iehovam, soni illi cessabunt. Et v. 33. Moses a Pharaone 
+      <lb ed="#H" n="11"/>egressus uroe, expandit manus suas ad Iehovam, cessaveruntque 
+      so<lb ed="#H" n="12" break="no"/>ni illi. 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2353">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Tempus tonitru etiam observadum: nam si insueto tempore fiat,  
+      <lb ed="#H" n="14"/>de reb. magnis peculiariter admonet, ut cum in AEgypto mense 
+      A<lb ed="#H" n="15" break="no"/>rili horribilia tonitrua Deus edidit, Exod. 9. v. 23. Anno 1584. 
+      Ca<lb ed="#H" n="16" break="no"/>endis Januarii tonitrua Basileae audita, Anno 1609. dic 4. Decem 
+      <lb ed="#H" n="17"/>bris veteri stylo, Argentinae, subito coorta tempestate ronitrua duo 
+      <lb ed="#H" n="18"/>cum fulguribus exstiterunt, quae sphaerae &amp; summae coronae partem 
+      <lb ed="#H" n="19"/>avulsere de turri summi templa 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2373">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Ex his exemplis intelligi potest, quomodo meteora in aere 
+      saluta<lb ed="#H" n="21" break="no"/>riter possint considerati: 
+      </p>
+            <p xml:id="yyy8Uu-e40143-d1e2382">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Porro elementum aeris seu aer non est accidens, sed substantia 
+      <lb ed="#H" n="23"/>corporea seu corpus. Perpetuo motu agitur &amp; per cunctas res mea 
+      <lb ed="#H" n="24"/>bilis totoque mundo confertus ultro citroque commeat, ut legitur 
+      <lb ed="#H" n="25"/>in Ecclesiaste Salomonis cap. 1. v. 6. Properat ad meridiem, &amp; 
+      cir<lb ed="#H" n="26" break="no"/>cumit ad Aquilonem; conversatione sua circumiens properat aer,  
+      <lb ed="#H" n="27"/>&amp; secundum circuitus suos reuertitur aer. Regio aeris veluti i1 
+      <lb ed="#H" n="28"/>coenacula nubibus est distincta, sicut legitur Psalm. 104. 3. Qui 
+      con<lb ed="#H" n="29" break="no"/>tignat in aquis coenacula sua. Aeris potestas est Satanae &amp; malis 
+      an<lb ed="#H" n="30" break="no"/>gelis, ut Paulus docet Ephes. 2. v. 2. &amp; cap. 6. 12. Aer praeterea figurat, 
+      <lb ed="#H" n="31"/>plebem Ecclesiasticam, quae ab Episcopis veluti Sole quopiam 
+      luce<lb ed="#H" n="32" break="no"/>loctrinae &amp; inculpatae vitae illustrari debet, sed a fumo putei abyssis 
+      <lb ed="#H" n="33"/>id est, erroribus doctrinae &amp; idololatriae Antichristianae, proh 
+      dolo<lb ed="#H" n="34" break="no"/>obscuratur, sicut praedictum fuit Apocal. 9. 2. Insuper aeris considera 
+      <lb ed="#H" n="35"/>tio subministrat proverbiales loquendi formulas: veluti aerem caede 
+      <lb ed="#H" n="36"/>re seu verberare, 1. Corinth. 9. 26. ita pugilem ago, ut non aerem 
+      cae<lb ed="#H" n="37" break="no"/>dens. Item in aerem loqui, id est, frustra &amp; absque aliorum aedificatio 
+      <lb ed="#H" n="38"/>ne, 1. Corinth. 14. 9. Denique consolationis materia est, quod in 
+      ex<lb ed="#H" n="39" break="no"/>tremo illo die rapiemur in occursum Domini in aera, I. Thes. 4. 17. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

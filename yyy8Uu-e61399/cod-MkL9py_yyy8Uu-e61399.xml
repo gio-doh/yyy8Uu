@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="132"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e61399"> <!-- l2-c2 -->
+            <head xml:id="yyy8Uu-e61399-Hd1e109">Caput 2</head>
+            <p xml:id="yyy8Uu-e61399-d1e112">
+               <lb ed="#H" n="29"/>CAPUT II. 
+      <lb ed="#H" n="30"/>In quo doctrina fidei seu credendorum distribuitur, &amp; 
+      <lb ed="#H" n="31"/>quid articuli fidei vocentur explicatur.  
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e121">
+               <lb ed="#H" n="32"/>RIMA PARS Theologiae est de fide, docens quid sit 
+      homi<lb ed="#H" n="33" break="no"/>ni Christiano credendum ad salutem aeternam. Johan. 20. v. 31. 
+      <lb ed="#H" n="34"/>Haec autem scripta sunt, ut credatis Iesum esse Christum illum 
+      <lb ed="#H" n="35"/>Filium Dei, &amp; ut credentes vitam habeatis per nomen ejus. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e132">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Additur ad salutem, ut discernatur haec fidei doctrina a profana 
+      hi<lb ed="#H" n="37" break="no"/>storia &amp; philosophia: imo &amp; a cognitione Dei, quae natura omnibus 
+      <lb ed="#H" n="38"/>hominibus est insita, sed ad salutem non est sufficiens. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e144">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>Haec pars jure prima est, quia prius est Deum nosse, consequens. 
+      <lb ed="#H" n="40"/>colere. Deinde ut fides bona opera antecedit, ita etiam doctrina 
+      fi<lb ed="#H" n="41" break="no"/>dei antecedit doctrinam bonorum operum. Praeterea ex Dei 
+      cogn<lb ed="#H" n="42" break="no"/>tione pendet judicium rectum de agendis. Subscribunt Patres sua 
+      <lb ed="#H" n="43"/>pra citati, quibus accedit Theodoretus Cyrensis Episcopus, qui 
+      ser<lb ed="#H" n="44" break="no"/>mone primo de Curatione Graecarum affectionum ait: Apostolus 
+      <lb ed="#H" n="45"/>aulus manifeste exclamat: Credere oportet accedentem ad Deum 
+      <lb ed="#H" n="46"/>quod sit &amp; quod iis, qui eum inquirunt, remunerator sit. Idcirco 
+      <lb ed="#H" n="47"/>&amp; nos accedentibus ad Christianam religionem, divinarumque rerum 
+      <lb ed="#H" n="48"/>mysteria discere cupientibus, prae caeteris cunctis rebus doctrinam fidei 
+      <lb ed="#H" n="49"/>proponimus. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e173">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Doctrinae fidei partes sunt duae: prima de Deo, secunda de 
+      Ec<lb ed="#H" n="51" break="no"/>clesia. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e182">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>Has tantum duas esse doctrinae fidei partes confirmat 
+      Symbo<lb ed="#H" n="53" break="no"/>lum Apostolicum, fidei Christianae perfectum compendium: nam 
+      il<lb ed="#H" n="54" break="no"/>lius duae sunt partes istae. Articuli enim fidei de Deo Patre, Filio &amp; 
+      <lb ed="#H" n="55"/>Spiritu Sancto, item de operibus &amp; beneficiis Dei, ut Creatione, 
+      <lb ed="#H" n="56"/>Redemtione, Sanctificatione, peccatorum remissione, carnis 
+      resusci<lb ed="#H" n="57" break="no"/>tatione, vitae aeterne donatione, pertinent ad locum de Deo: reliqua 
+      <lb ed="#H" n="58"/>ad locum de Ecclesia Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e202">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Summa igitur doctrinae de fide comprehensa est in articuli 
+      <lb ed="#H" n="60"/>Symboli Apostoliti, cujus expositiones sunt caetera Symbola 
+      Ecclesia<lb ed="#H" n="61" break="no"/>stica, nempe Nicenum, Athanasianum, Ephesinum, Chalcedonense &amp; alia 
+      <lb ed="#H" n="62"/>ab Ecclesia Christiana publice approbata atque recepta: quae quia 
+      <lb ed="#H" n="63"/>sequentibus omnibus, quae deinceps tractantur, magnam lucem 
+      ad<lb ed="#H" n="64" break="no"/>ferent, praecipua de verbo ad verbum recensere operaepretium 
+      vi<lb ed="#H" n="65" break="no"/>sum fuit. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e222">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>EIMEOAONTSNAHOETOASN 
+      <lb ed="#H" n="67"/>Πισευω εἰς ΘεονΠατερα ωμστοκργτορα, σωοιητον Xραυοκ γης. α eis 
+      In<lb ed="#H" n="68" break="no"/>πτοῦν Xρισὸν τον κον αυγ τον μόνογλθη, Rυρεον ημῶν συλληφοενλα εκ τυουμα¬ 
+      <lb ed="#H" n="69"/>τος αγια, γθηδενζα εκ Μαριας τῆς παρδενα παδονζα επι Ποντς Πιλῶτο, 
+      <lb ed="#H" n="70"/>σαθρωοεναα θανοθζα, αι αγενλα κατελλονλα εισ ἀδον τ τριτιη ημερα ανα¬ 
+      <lb ed="#H" n="71"/>σανζα εκ νεκεν αυελδονα εισ κραγος, μοθεζαμανον εκ δεξιον Θεκ γ Πα¬ 
+      <lb ed="#H" n="72"/>τεος παυτυκργτερος ηθεν μιλλει ἐι χο κριναν ζονλαςηινεκρος 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e242">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Πεσευο εἰς Πυσομα αγιον πισευω τυν αγιαν εκκλησεαν καθολικλν, α 
+      <lb ed="#H" n="74"/>γιων κοινώονίαν, αφισιν αμαρλόν, σαρϰος αυdσασιν, μιι ζωlν αιώνεον. Aμlis. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e252">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>SYMEOLUM APOSTO¬ 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e259">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>LORUM 
+      <lb ed="#H" n="77"/>Credo in Deum Patrem omnipotentem, creatorem caeli &amp; terrae: 
+      E<lb ed="#H" n="78" break="no"/>in Iesum Christum Filium ejus unicum, Dominum nostrum: qui 
+      con<lb ed="#H" n="79" break="no"/>ceptus este Stiritu Sancto, natus ex Maria virgine: passus sub Pontis 
+      <lb ed="#H" n="80"/>Pilato, crucifixus, mortuus, &amp; sepultus: descendit ad inferos: tertia 
+      di<lb ed="#H" n="81" break="no"/>resurrexit ex mortuis: adscendit in caelum, sedet ad dexteram Dei 
+      Pa<lb ed="#H" n="82" break="no"/>tris omnipotentis: inde venturus ad judicandum vivos &amp; 
+      mor<lb ed="#H" n="83" break="no"/>tuos. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e281">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>Predo in Spiritum Sanctum: credo sanctam Ecclesiam Catholicam, 
+      <lb ed="#H" n="85"/>sanctorum communionem, remissionem peccatorum, carnis 
+      resurrectio<lb ed="#H" n="86" break="no"/>nem &amp; vitam aeternam Amen 
+      <lb ed="#H" n="87"/>De Symbolo ait Ambresius libro tertio de Virginibus: Symbolum 
+      <!--cod-MkL9py-0159.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="88"/>quoque specialiter debemus tanquam nostri signaculum cordis 
+      anteluca<lb ed="#H" n="89" break="no"/>nis horis quotidie recensere. Quod etiam cum horremus aliquid, animo 
+      <lb ed="#H" n="90"/>percurrendum est. Quando enim sine militiae sacramento miles in 
+      tento<lb ed="#H" n="91" break="no"/>rio, bellator in praelio? Symbolum igitur Apostolicum quotidie 
+      profi<lb ed="#H" n="92" break="no"/>tendum &amp; commemorandum: 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e309">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>I. quia est tessera nostra a Deo nobis per Christum data, quam 
+      no<lb ed="#H" n="94" break="no"/>bis opus est in quotidiana &amp; continua militia adversus Satanam 
+      <lb ed="#H" n="95"/>mundum, peccatum, carnem, Antichristum: Opus est enim nos 
+      dis<lb ed="#H" n="96" break="no"/>cerni ab hostibus nostris contra quos pugnandum est, ut constet: 
+      <lb ed="#H" n="97"/>qua parte stemus. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e325">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>II. quia nos admonet de quotidiana nostri exploratione, an 
+      si<lb ed="#H" n="99" break="no"/>mus in fide. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e334">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>III. quia nos incitat ad studium ardens orandi Deum pro in 
+      <lb ed="#H" n="101"/>crementis &amp; conservatione fidei in nobis 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e344">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>IV. quia nobis in memoriam revocat baptismum nostrum i1 
+      <lb ed="#H" n="103"/>quo baptizati sumus in nomen Patris, Filii &amp; Spiritus Sancti, in quo 
+      <lb ed="#H" n="104"/>obligati sumus ad craedendum in hunc Deum &amp; ad serviendum ei. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e355">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>V. quia subministrat nobis multiplicom consolationem qua 
+      in<lb ed="#H" n="106" break="no"/>digemus quotidie adversus tot tentationes quibus obnoxii sumus. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e364">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>HENTH RATA THNNIRAIAN 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e371">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>ζνοόῳ εκτεθεισα πισς. 
+      <lb ed="#H" n="109"/>ΠHισενομεν εἰς ἵνα Θεο, Πατερα παυτοκργτορα, ποιητκν κραγο κι γης 
+      <lb ed="#H" n="110"/>δργτιὸν τε ωαντον α αοργτονκι εισ ὀνα Xυριονlήσοθκ χριστον, τον dον φOει¬ 
+      <lb ed="#H" n="111"/>τὸ μόνογλθή, τον εκ φ Πατρος θοηθενζα ωρς ωαγτον ταν αιώνον Θεον eκ 
+      <lb ed="#H" n="112"/>Θεκ, χφῶς εκ φωος, Θεον ἀληθενὸν εκοεκ ἀληθενοῦ θοθενζα κ ποενθείζασ 
+      <lb ed="#H" n="113"/>δμοσσιον τῶ Πατριιδι α ζα πανζα εγιιειο τον δι ημας τος αυθρωστιο κ δια 
+      <lb ed="#H" n="114"/>τοον ημεπεραν σθτηριαν κατελθείλι εκ τ κραγώι, μα σαακοθενλα ια ευμο 
+      <lb ed="#H" n="115"/>τος αγία κι Μαρις τῆς παρθενα, κα ενανθρωπησονζα σαναωδενζα το ὑπο 
+      <lb ed="#H" n="116"/>δμόν ἐπι Ποντιν Πιλατα, χ πδονοα κταφενζα α ανασαθζα τι τοο η η¬ 
+      <lb ed="#H" n="117"/>μερα κγζας γργφκ, α ανελθεντα εις τας κρανος, ει καθεζεμενον εν δεζισιν 
+      <lb ed="#H" n="118"/>φ Πατροσ κα παλιν ἔζχιμμενον μοτα δυοησ κρινει ζαγλασ κι νεκρας, κ της κα¬ 
+      <lb ed="#H" n="119"/>σιλειας κκ κσμσ τολος ζαι εἰς τό πευμα το ἀγεον, τό λαησαν δα τόν ωι 
+      <lb ed="#H" n="120"/>pnτοον κι μιαν αγιαν καθολικλιν α λστοσολικλιι εκκλησίαν. Θμολογο 
+      <lb ed="#H" n="121"/>φἀωlισμα εις ἀφισιν αμαριιον, ωροσοεκῶ ανάσασιν νεκρῶν, κι ζωlν α 
+      <lb ed="#H" n="122"/>μελλοντος αἰσνος 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e408">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>FIDEI CONPESSIOEPITAIN 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e415">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Synodo Nicena. 
+      <lb ed="#H" n="125"/>Credo in unum Deum Patrem omnipotintem factorem caliterrae, 
+      <lb ed="#H" n="126"/>visibilium omnium &amp; invisibilium. Et in unum Dominum Iesum 
+      Chri<lb ed="#H" n="127" break="no"/>stum, Filium Dei Unigenitum, ex Patre natum ante omnia seculu: Dei 
+      <lb ed="#H" n="128"/>de Deo, lumen de lumine: Deum verum de Deo vero: genitum, non 
+      fa<lb ed="#H" n="129" break="no"/>ctum, consubstantialem Patri: per quem omnia facta sunt. Qui prootet 
+      <lb ed="#H" n="130"/>nos homines &amp; propter nostram salutem descendit de caelis: &amp; incarnatus 
+      <lb ed="#H" n="131"/>est deSpiritu sancto &amp; Maria virgine, &amp; homo factus est: crucifixusque 
+      tro<lb ed="#H" n="132" break="no"/>nobis sub Pontio Pilato, passus &amp; sepultus est. Et resurr: xit tertia die 
+      se<lb ed="#H" n="133" break="no"/>iundum Scripturas, &amp; adscendit in caelos, &amp; sedet a dextris Patri. Et 
+      te<lb ed="#H" n="134" break="no"/>rum venturus est cum gloria judicare vivos &amp; mortuos: c jus regni non 
+      <lb ed="#H" n="135"/>erit finis. Et in Spiritum Sanctum, qui loquutus est per Prophetas. Et vi 
+      <lb ed="#H" n="136"/>am sanctam, Catholicam &amp; Apostolicam Ecclesiam. Confiteor unum 
+      <lb ed="#H" n="137"/>baptisma in remissionem peccatorum: &amp; exspecto resurrectionem 
+      mor<lb ed="#H" n="138" break="no"/>tuorum, &amp; vitam venturi seculi. Amen 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e453">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Constantinopolitana autem Synodus prima, praeterquam quod 
+      Ni<lb ed="#H" n="140" break="no"/>cenam Synodum sancivit, hanc etiam particulam, contra Macedonis 
+      <lb ed="#H" n="141"/>&amp;Pneumatomachos, post εἰς τι πυευμα το ἀγιον, addidit, Τὸκυριον, τ 
+      <lb ed="#H" n="142"/>ωοποιον, το εκ το Πατζος, ι το Υεαεκπορυαμενον, το σς Πατρι &amp; Υιη, 
+      <lb ed="#H" n="143"/>συμωροσκμθαμενον κα συθλοζαζεμενον. Id est, Post illa verba, Et in 
+      Spi<lb ed="#H" n="144" break="no"/>ritum sanctum, addidit, Dominum, vivificantem, qui ex Patre &amp; Filio 
+      <lb ed="#H" n="145"/>procedit: qui cum Patre &amp; Filio simul adoratur &amp; conglorificatur.  
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e473">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>ETMBOAONTOT APIOT AOANAXIOI.  
+      <lb ed="#H" n="147"/>VOσῆς δολετυι σωδλναι, ωρο ωαιτον χρι κργτειν τον καθελικλιν πισιν 
+      <lb ed="#H" n="148"/>ψγ ει μι εἰς ἔκασος σωαν αι αμαμετον τηρήση, αυο δισαγμα εισ τον αjόνο 
+      <lb ed="#H" n="149"/>δστολεῖτας Πισις δ ἡ καθρλικη αυτη ἔστιν, ἵνα εναΘεον ἐν τριαδι, α τριαδει ει 
+      <lb ed="#H" n="150"/>μοναδε σεοω μεθα μιτε συγχεονλεσλας θσσκσασειε, μητε τυν κσιαν μεριζον¬ 
+      <lb ed="#H" n="151"/>τες, αλλη φο εσῖν η θπυσασες τοῦ Πατζοσ, ελλη το Υιο, αλλη το αγίς Πνδυμος 
+      <lb ed="#H" n="152"/>τος Aλλα Πατζος κΥιγκι αγιη Πνσμαιος μια εσινη θεότης, ἵση η δυξαι 
+      <lb ed="#H" n="153"/>ζναιδιος ι μεγα λειώςας, οιος ο Πατῆρ τοεθτος ὀ Υιος, τοικτο κι το ἀγιον,  
+      <lb ed="#H" n="154"/>πνεθμα, ἀκτςος σ πκτηριτλκπσος ὀ Υιδς, ακλισον κι τό πγουμα το ἀγιον α 
+      <lb ed="#H" n="155"/>ματαληεκος σ πατηρακαταληωιος o Υιος, ἀματαλησιον κα τό πθουμα 
+      <lb ed="#H" n="156"/>αγιον αιώνιος ο πάτηρ, αιώνιος o Υιος, ανώνιον κι ζα πθημα κι αγιον, πλκσ  
+      <lb ed="#H" n="157"/>τοείσ αjώνιοι, αλλ εισ αιώνιος ωσπερ αδιε τξεις ακαταληαλοι, κδιε τξεις ακ¬ 
+      <lb ed="#H" n="158"/>κστοι αλ εις ἀκλισος, μι εισ ἀκαταληποος, O μοιως πανοδυνιαμος σ πα¬ 
+      <lb ed="#H" n="159"/>τηρ, παναδθνος κιοΥιοε, παυτθδυναμον κα πμαοογον. πλλο α 
+      <lb ed="#H" n="160"/>τοεις ωονλοδυναμοι, αλ εις ωανοδμναμος Θυτο Θεοσ ο πατηῳ, Θεος ο 
+      <lb ed="#H" n="161"/>Tιος, Θεός κι κα τθευμα φι αγιον ωλ α πρεις θεον, αλγ εἰς θεος. Oμοιως κυ¬ 
+      <lb ed="#H" n="162"/>ριος ωπάτηρ, χυριος o Υιος, χυριος κι το πευμα και αγιον ωλκ α ποεις 
+      <lb ed="#H" n="163"/>κυριει, αλγ εις ἐσι κυριος δα ως ἰδιαν μιαν εκασον χθσάσασιν Θεον κκωρι¬ 
+      <lb ed="#H" n="164"/>ἐν δμολογεῖν τη χρισιανικη αληθεια οιαζρμεθα, θτι τρεις Θεος η τρος κθ 
+      <lb ed="#H" n="165"/>ρικς λεγειν, τῆ καθολικῆ ευσεθεια κωλυομετα, Oπάτηρ απ ξδενος εσι τοι¬ 
+      <lb ed="#H" n="166"/>nτος, κτε μl κλιστος, αδιε οηλος ὀ Υιoς δοτκ το ωατρος μόνσ εσίν, κ ποιηος 
+      <lb ed="#H" n="167"/>ακλισος, αλλα γιοητος το πνευμα κγ αγιον δο τοπατεος, μι τοI. 8, α ποιη¬ 
+      <lb ed="#H" n="168"/>τον, α κλισὸν, θδιι τθλυητον, αλν ικσορδυλον. Eισουθ πατηρ α τρεις πατερες 
+      <lb ed="#H" n="169"/>κς Υιοε, κ τρεις μονον πνεόμα αγιον, ατρια τδυματα αγια. Rανζαυτς τῳ  
+      <lb ed="#H" n="170"/>rριαδικδλεν ωροτεχον τη υσερον, γδιεν μειζον ἡ ἔλατιον, αλλα σι αι ρεις 
+      <lb ed="#H" n="171"/>γτθςασεισ, κι σνκιδιαί εισιν καυτθισ κι εσαμ. ωσε κγ ωαιταλκαδως εισηταιν,  
+      <lb ed="#H" n="172"/>Eτν μοναδαεν τοιαδε σεοεδι δει, α τυυν τριαδα εν μοναδι, o γομν οο 
+      <lb ed="#H" n="173"/>λόμενος συθlιν α, γτα ωροι τριαδος φρονειτῳ  
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e538">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Πλν ἀναγκαίον εσι, ωρος αιονιον συτηριαν, θπς κι τιν υνσειρκεισιν,  
+      <lb ed="#H" n="175"/>τοκωριη ημῶν ΙσοXρισοῦ εη ὀρρλας πισεθσκ, εσι ηο πισες οξτὴ, ἵνα πισευω¬ 
+      <lb ed="#H" n="176"/>μεν κγομολ λγακεν θπ εκυριος ημν Ιήσος Xρν ασο Υιον το Θες, Oios &amp; 
+      <lb ed="#H" n="177"/>ἄνθρωπος οτι, Θεος εκ τηῆς εσιας το πατρος σζα αιωνον δθυηθεις, α ενθε ω¬ 
+      <lb ed="#H" n="178"/>πος εκ τῆς εσισ τησ μητροσ εν τῶ αἰώνε τεχθεις Tελειος Θεος, μι τολεος 
+      <!--cod-MkL9py-0160.xml-->
+      <pb ed="#H" n="133"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>ἄνθρωπος, εκ ψυχις λογικῆσ κανθρωπινης σαρκος υφιτάμδος ισος το 
+      <lb ed="#H" n="2"/>πατρι νγ τον θεοτηζα, ελκτιον τεῶ πατρος κγ τυι ανθεωποτητα, ώς ει και 
+      <lb ed="#H" n="3"/>Θεως κι αν τρωπος ἔσιν, o δυο δμως, αλ εἰς ἐσι Xριστὸς εἴς δε, ευ τροπς τη 
+      <lb ed="#H" n="4"/>θεοτητ ος εἰς σκρκα, αλλα σωροσληγῳ τ αυτρωποτηιος εις Θεόν εἰς παντυς, 
+      <lb ed="#H" n="5"/>ρυ συγχυσει γ ουσίας, αλλ ενοτητ τ θτοσάσεως, κι γο ως ψυχι λογικη, &amp; 
+      <lb ed="#H" n="6"/>σαρς εις ἐστίν αυθρωπος, κτα κα ὀ θεονθρωπος εις εσι Xρισος, Oς ἐπαθε δα 
+      <lb ed="#H" n="7"/>τάν σθθτηριαν ημών κατηηθεν εἰσ αδον, ανεση τς τριτι ημερα εκ τὸν νικρων.  
+      <lb ed="#H" n="8"/>ἄνηλθεν εἰς ουρανος, καθεται εκ δεχιον τοῶ Πατρος κιγεοω παυτοκρατρρος 
+      <lb ed="#H" n="9"/>δθεν τζεικριναι ζοανλασ κα νεκρονς, οο τῆ παρουσιχᾳ πάντες oι αυθρωποι αυα¬ 
+      <lb ed="#H" n="10"/>σκσονταημετα ττ σωματαν αυτεν, χι ργτρδεισουσιν ἔκ ιδιον εργων τζν γπολ
+      o<lb ed="#H" n="11" break="no"/>γιαν, κι οι μετα τα αγαθα πραζαντες, πορδυσονται εις ζωlνν αἰώνεον, ει δι τα 
+      <lb ed="#H" n="12"/>φαγλα, εισ το σκρ το αἰώνιον. Αὕτη ἐσίν η καθολικῆ πισις, κ σαν μη τις πι¬ 
+      <lb ed="#H" n="13"/>συς πισεθση, σοισασ α δήσεται. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e588">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>SVMEOLUM SANCTI 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e595">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>ATHANASII. 
+      <lb ed="#H" n="16"/>Quicunque vult salvus esse, ante omnia opus est ut teneat 
+      Catholi<lb ed="#H" n="17" break="no"/>cam fidem: quam nisi quisque integram, inviolatamque servaverit, absque  
+      <lb ed="#H" n="18"/>dubio in aeternum peribit. Fides autem Catholica haec est, ut unum Deum 
+      <lb ed="#H" n="19"/>in Trinitate, &amp; Trinitatem in unitate veneremur: neque confundentes 
+      <lb ed="#H" n="20"/>personas, neque substantiam separantes. Alia est enim persona Patris, alis  
+      <lb ed="#H" n="21"/>Flii, alia Spiritus Sancti. Sed Patris, &amp; Filii, &amp; Spiritus Sancti una es 
+      <lb ed="#H" n="22"/>divinitas, aequalis gloria, coaterna majestas: qualis Pater, talis Filius, 
+      ta<lb ed="#H" n="23" break="no"/>lis Spiritus Sanctus: Increatus Pater, increatus Filius, increatus Spiritus 
+      <lb ed="#H" n="24"/>Sanctus: immensus Pater, immensus Filius, immensus Spiritus Sanctus: 
+      <lb ed="#H" n="25"/>aeternus Pater, aeternus filius, aeternus Spiritus Sanctus. Et tamen non tres 
+      <lb ed="#H" n="26"/>aeterni, sed unus aeternus: sicut non tres increati, nec tres immensi, sed unus 
+      <lb ed="#H" n="27"/>increatus, &amp; unus immensus. Similiter omnipotens Pater, omnipotens 
+      <lb ed="#H" n="28"/>Filius, omnipotens Spiritus Sanctus: &amp; tamen non tres omnipotentes. 
+      <lb ed="#H" n="29"/>sed unus omnipotens. Ita Deus Pater, Deus Filius, Deus Spiritus San 
+      <lb ed="#H" n="30"/>ctus: &amp; tamen non tres dii, sed unus est Deus. Ita Dominus Pater, 
+      Domi<lb ed="#H" n="31" break="no"/>nus Filius, Dominus Spiritus Sanctus: &amp; tamen non tres Domini, sed 
+      u<lb ed="#H" n="32" break="no"/>nus est Dominus. Quia sicut sigillatim unamquanque personam Deum 
+      ac<lb ed="#H" n="33" break="no"/>Dominum confiteri Christiana veritate compellimur: ita tres Deos aut 
+      <lb ed="#H" n="34"/>Dominos dicere Catholica religione prohibemur. Pater a nullo est factus, 
+      <lb ed="#H" n="35"/>nec creatus, nec genitus. Filius a Patre solo est, non factus, nec creatus, sed 
+      <lb ed="#H" n="36"/>genitus. Spiritus Sanctus a Patre &amp; Filio, non factus, nec creatus, nec 
+      ge<lb ed="#H" n="37" break="no"/>nitus, sed procedens. Unus ergo Pater, non tres Patres: unus Filius, non 
+      tro<lb ed="#H" n="38" break="no"/>filii: unus Spiritus Sanctus, non tres Spiritus Sancti. Et in hac Trinitate 
+      <lb ed="#H" n="39"/>nihil prius aut posterius, nihil majus aut minus, sed totae tres personae 
+      coa<lb ed="#H" n="40" break="no"/>ternae sibi sunt &amp; coaequales. Ita ut per omnia (sicut jam supra dictum 
+      <lb ed="#H" n="41"/>est) &amp; unitas in Trinitate, &amp; Trinitas in unitate veneranda sit. Qui 
+      <lb ed="#H" n="42"/>vult ergo salvus esse, ita de Trinitate sentiat. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e660">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Sed necessarium est ad aternam salutem ut incarnationom quoque 
+      Do<lb ed="#H" n="44" break="no"/>mini nostri Iesu Christi fideliter credat. Est ergo fides recta, ut credamus 
+      <lb ed="#H" n="45"/>&amp; confiteamur: quod Dominus nosterlesus Christus Dei Filius, Deus &amp; 
+      <lb ed="#H" n="46"/>homo est: Deus est ex substantia Patris ante secula genitus, &amp; homo ex 
+      <lb ed="#H" n="47"/>substantia matris in saculo natus. Perfectus Deus, perfectus homo, ex 
+      ani<lb ed="#H" n="48" break="no"/>ma rationali &amp; humana carne subsistens. Aequalis Patri secundum 
+      di<lb ed="#H" n="49" break="no"/>vinitatem, minor Patre secundum humanitatem. Qui licet Deus sit &amp; 
+      <lb ed="#H" n="50"/>homo, non duo tamen, sed unus est Christus: unus autem non conversione 
+      <lb ed="#H" n="51"/>divinitatis in carnem, sed assumtione humanitatis in Deum: unus 
+      o<lb ed="#H" n="52" break="no"/>mnino non confusione substantiae, sed unitate personae. Nam sicut anima 
+      <lb ed="#H" n="53"/>rationalis &amp; caro, unus est homo: ita Deus &amp; homo, unus est Christus. 
+      <lb ed="#H" n="54"/>Qui passus est pro salute nostra, descendit ad inferos, tertia die resurrexit.  
+      <lb ed="#H" n="55"/>a mortuis. Adscendit ad coelos, sedet ad dexteram Dei Patris 
+      omnipoten<lb ed="#H" n="56" break="no"/>tis: unde venturus est judicare vivos &amp; mortuos. Ad cujus advenium 
+      o<lb ed="#H" n="57" break="no"/>mnes homines resurgere habent cum corporibus suis, &amp; reddituri sunt de 
+      <lb ed="#H" n="58"/>factis propriis rationem. Et qui bona egerunt ibunt in vitam aeternam. 
+      <lb ed="#H" n="59"/>qui vero mala, in ignem aternum. Haec est fides Catholica, quam nisi 
+      <lb ed="#H" n="60"/>quisque fideliter firmiterque crediderit, salvus esse non poterit. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e705">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>EPHESINAESYNODI DETERMI¬ 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e712">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>NATIONES, ISTISANATHEMATISMI, 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e719">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>a Cyrillo Alexandrino conceptae. 
+      <lb ed="#H" n="64"/>I. Si quis non confitetur Deum esse veraciter Emmanuelem, &amp; 
+      pro<lb ed="#H" n="65" break="no"/>pterea Dei genitricem, sanctam virginem, (peperit enim secundum 
+      car<lb ed="#H" n="66" break="no"/>nem, carnem factum Dei Verbum, secundum quod scriptum est. Verbum 
+      <lb ed="#H" n="67"/>caro factum est) anathema sit. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e735">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>II. Si quis non confitetur, carni secundum substantiam unitum Dei 
+      <lb ed="#H" n="69"/>Patris Verbum, unumque esse Christum cum propria carne, eundem 
+      sci<lb ed="#H" n="70" break="no"/>licet Deum simul &amp; hominem, anathema sit. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e746">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>III. Si quis in uno Christo dividi substantias post unitatem, sola eor 
+      <lb ed="#H" n="72"/>connexione conjungens, eamque quae secundum carnis dignitatem fit, 
+      <lb ed="#H" n="73"/>vel etiam autoritatem &amp; potestatem, ac non potius conventu qui per 
+      u<lb ed="#H" n="74" break="no"/>nitatem factus est naturalem, anathema sit. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e759">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>IV. Si quis in personis duabus vel subsistentiis eas voces quae in 
+      A<lb ed="#H" n="76" break="no"/>postolicis scriptis continentur &amp; Evangelicis, dividit, vel quae de 
+      Christ<lb ed="#H" n="77" break="no"/>dicntur a sanctis, vel ab ipso, aliquas quidem ex his, velut homini, qui 
+      <lb ed="#H" n="78"/>praeter Dei verbum specialiter intelligatur, aptaverit: illas autem 
+      tan<lb ed="#H" n="79" break="no"/>quam dignas Deo, soli Dei Patris Verbo deputaverit, anathema sit. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e776">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>V. Si quis audeat dicere, hominem Christum θεοφόσον, id est, 
+      deife<lb ed="#H" n="81" break="no"/>rum, ac non potius Deum esse veraciter, dixerit, tanquam Filium 
+      pe<lb ed="#H" n="82" break="no"/>naturam, secundum quod Verbum caro factum est, &amp; communicavit. 
+      <lb ed="#H" n="83"/>similiter ut nos, carni &amp; sanguini, anathema sit. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e789">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>VI. Si quis dicit, Deum esse vel Dominum Christi Dei Patris 
+      Ver<lb ed="#H" n="85" break="no"/>bum, &amp; non magis eundem ipsum confitetur Deum simul &amp; 
+      homi<lb ed="#H" n="86" break="no"/>nem, propterea quod Verbum caro factum est, secundum Scripturas, 
+      ana<lb ed="#H" n="87" break="no"/>thema sit. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e802">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>VII. Si quis velut hominem, Jesum operante Deo Verbo dicit 
+      adju<lb ed="#H" n="89" break="no"/>tum, &amp; unigeniti gloriam, tanquam alteri praeter ipsum exsistenti, 
+      tri<lb ed="#H" n="90" break="no"/>buit, anathema sit. 
+      <!--cod-MkL9py-0160.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>IIX. Siquis audet dicere assumtum, hominem coadorandum Dei. 
+      <lb ed="#H" n="92"/>Verbo, &amp; conglorificandum &amp; connuncupandum Deum, tanquam 
+      ali<lb ed="#H" n="93" break="no"/>erum cum altero, (nam con syllaba super adjecta haec cogit intelligi) ac 
+      <lb ed="#H" n="94"/>non potius una supplicatione veneratur. Emmanuclem, unamque ei 
+      glo<lb ed="#H" n="95" break="no"/>ificationem dependit, juxta quod Verbum caro factum est, anathema. 
+      <lb ed="#H" n="96"/>sit. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e831">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>IX. Si quis unum Dominum Jesum Christum glorificatum dicit a 
+      <lb ed="#H" n="98"/>Spiritu Sancto, tanquam qui aliena virtute per eum usus fuerit, &amp; ab 
+      e<lb ed="#H" n="99" break="no"/>acceperit efficaciam contra imenundos spiritus, posse &amp; coram hominibus. 
+      <lb ed="#H" n="100"/>divina signa perficere, ac non potius proprium fatetur ejus Spiritum per 
+      <lb ed="#H" n="101"/>quem divina signa explevit, anathema sit. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e847">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>X. Pontificem &amp; Apostolum confessionis nostrae factum esse 
+      Chri<lb ed="#H" n="103" break="no"/>stum, divina Scriptura commemorat. Obiulit enim semetipsum pro nobis. 
+      <lb ed="#H" n="104"/>in odorem suavitatis Deo &amp; Patri. Si quis ergo Pontificem &amp; Apostolum 
+      <lb ed="#H" n="105"/>nostrum dicit factum non ipsum Dei Verbum, quando caro factum est, &amp; 
+      <lb ed="#H" n="106"/>hemo juxta nos homines, sed velut alterum praeter ipsum specialiter 
+      ho<lb ed="#H" n="107" break="no"/>minem ex muliere: aut qui dicit, quod pro se obtulisset semetipsum 
+      obla<lb ed="#H" n="108" break="no"/>tionem, &amp; non potius pro nobis solis (non enim eguit oblatione, qui per 
+      <lb ed="#H" n="109"/>catum omnino nescivit) anathema sit. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e869">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>XI. Si quis non confitetur, carnem Domini vivificatricem esse &amp; 
+      <lb ed="#H" n="111"/>propriam ipsius Verbi Dei Patris, sed velut alterius praeter ipsum, 
+      con<lb ed="#H" n="112" break="no"/>iuncti eidem per dignitatem, aut quusi divinam habentis habitationem, 
+      <lb ed="#H" n="113"/>ac non potius vivificatricem esse, quia facta est propria Verbi cuncta 
+      vi<lb ed="#H" n="114" break="no"/>vificare valentis, anathema sit. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e886">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>XII. Si quis non confitetur Dei Verbum passum carne, &amp; crucifi. 
+      <lb ed="#H" n="116"/>xum carne, &amp; mortem carne gustasse, factumque primogenitum ex 
+      mor<lb ed="#H" n="117" break="no"/>tuis, secundum quod vita est, &amp; vivificator ut Deus, anathema sit 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e897">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>HERTEOEIXA HAPA THEEN 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e904">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Raλχηδενε σνδδα σισις, 
+      <lb ed="#H" n="120"/>E πουδυοσ τονν τεῆς αγιεισ παάτργσιν, ἵνα κι τεν αυτὸν ὀ μόλογξμδμσον,  
+      <lb ed="#H" n="121"/>τον κυριον ἡμῶν Ιnσοαν Xριστον, χι συμφώνας απαιτεσ εκδιδασκουδτολdo 
+      <lb ed="#H" n="122"/>ον αυτὸν ἐν θεοτοτι, μι τιλειον τον ἀυτὸν ἐν αυθρωπτοτητ Θεον ἀληθεῆς, κι αυ¬ 
+      <lb ed="#H" n="123"/>θρωπον ἀληθς τον αυτὸν εκ ψυχῆς λογικῆσ κι σαματος ομοσσιον τῳ Πα¬ 
+      <lb ed="#H" n="124"/>rρι κι τυν θεοτηζα, κι ρμργσεον ημιν κι τυν αυθρωποτηζα και πάντα σμοιo, 
+      <lb ed="#H" n="125"/>ημτν, χωρις αμαρτιας, τωρο αιώναν υδυ εκ το Πατρος ηθηθεντα κγ τν θεό¬ 
+      <lb ed="#H" n="126"/>τήτα, επ εχάτεν δε τὸ ημερν τον ἀυτὸν δι ημας κιδα τυκ ημστεραν συη, 
+      <lb ed="#H" n="127"/>γιαν εκ Μααίας της πορθεεκ κι θεοτόκον, κγτυθι αυθρωποτητα ενακς τοη 
+      <lb ed="#H" n="128"/>ευτόν Ιπσομν Xρισον, κον το Θες, Xυριον μόνογλθη, εν δυο φυσεσιν, ἀσυχχυ¬ 
+      <lb ed="#H" n="129"/>τος, ἀποεπτος, αδεαιρετιως, αχωρσσ, γνωριζεμδμον, θδυμα της τον φυσεα, 
+      <lb ed="#H" n="130"/>δαορα αυηρημδηης δα τθενωσιν, σζομδαης δι μαλλον τ ἰδιοτητος 
+      <lb ed="#H" n="131"/>ἐἀτορασ φυσεως, χι εισ εν ωωροσυπον και μιαν θτόσασιν σωτξεχρυσης, Eχ ως 
+      <lb ed="#H" n="132"/>εις δυο πωροσπα μοριζιμδμον, ἡ δναιρουμδμον, αλλ τινα κι τον αυτὸν υον μόνo 
+      <lb ed="#H" n="133"/>γοιή, Θιον λόγον κι Rυριον Ιήστοωη Xριστον κατάπεο ανωόον oι ωροφιται ωο 
+      <lb ed="#H" n="134"/>ἀνθτο και ημας αυτος ο Xριστκς ἔζεποιδουσε, κα τό τν ωατιον ημιν ωαραδεδυ¬ 
+      <lb ed="#H" n="135"/>κε συμσολον.  
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e946">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>CONEESSIOEIDEIIN 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e953">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>CHALCEDONENSISYN¬ 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e960">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>odo edita. 
+      <lb ed="#H" n="139"/>Sanctos itaque Patres sequentes unum &amp; eundem confitemur 
+      Fi<lb ed="#H" n="140" break="no"/>lium, Dominum nestrum Jesum Christum, &amp; concorditer docemus 
+      o<lb ed="#H" n="141" break="no"/>mnes: perfectum in diuvinitate, &amp; eundem perfectum in humanitate: 
+      ve<lb ed="#H" n="142" break="no"/>rum Deum &amp; verum hominem, eundem ex rationali anima &amp; corpores 
+      <lb ed="#H" n="143"/>coessentialem Patri secundum diuvinitatem, &amp; coessentialem nobis 
+      se<lb ed="#H" n="144" break="no"/>cundum humanitatem, per omnia nobis similem, demto peccato: ante. 
+      <lb ed="#H" n="145"/>secula quidem genitum ex Patre secundum diuvinitatem, postremis vero 
+      <lb ed="#H" n="146"/>diebus propter nos &amp; propter nostram salutem, ex Maria virgine &amp; 
+      dei<lb ed="#H" n="147" break="no"/>para, secundum humanitatem: unum &amp; eundem Jesum Christum, 
+      Fi<lb ed="#H" n="148" break="no"/>lium Dei Dominum &amp; unigenitum, in duabus naturis, incenfuse, 
+      in<lb ed="#H" n="149" break="no"/>convertibiliter, indivulse &amp; inseparabiliter manifestatum: haud 
+      qua<lb ed="#H" n="150" break="no"/>quam differerentia naturarum propter unitate sublata, sed magis utrius 
+      <lb ed="#H" n="151"/>que naturae (in unam personam &amp; unam hypostasin concurrentis) 
+      pro<lb ed="#H" n="152" break="no"/>prietate servata: non ut in duas personas bipartiatur aut dividatur, sed  
+      <lb ed="#H" n="153"/>ut sit unus &amp; idem Filius unigenitus, Deus Verbum, &amp; Dominus 
+      no<lb ed="#H" n="154" break="no"/>ster Jesus Christus: sicut de illo olim Prophetae vaticinati sunt, &amp; ipse nos 
+      <lb ed="#H" n="155"/>Christus instruxit, ac Patrum symbolum nobis tradidit 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e1005">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Haec sunt praecipua symbola Ecclesiae quibus articuli fidei 
+      conti<lb ed="#H" n="157" break="no"/>nentur &amp; exponuntur. Ut autem omnis ambiguitas tollatur, 
+      expli<lb ed="#H" n="158" break="no"/>candum quotupliciter articuli fidei dicantur. 
+      <lb ed="#H" n="159"/>ARTICULIPIDEI dicuntur dupliciter: proprie &amp; improprie 
+      <lb ed="#H" n="160"/>Proprie articuli fidei dicuntur tantum dogmata Evangelii, quae 
+      <lb ed="#H" n="161"/>passim in Veteri &amp; Novo Testamento credenda praescribuntur &amp; 
+      in<lb ed="#H" n="162" break="no"/>Symbolo Apostolico summatim comprehenduntur. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e1025">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>Atque sic distinguuntur a praeceptis Legis divinae quibus docetur. 
+      <lb ed="#H" n="164"/>quae bona opera Deus a nobis requirat.  
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e1034">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Distinguuntur etiam a principiis Theologiae &amp; Christianae 
+      do<lb ed="#H" n="166" break="no"/>ctrinae, e quibus articuli fidei tanquam conclusiones sunt deductae: 
+      <lb ed="#H" n="167"/>tujusmodi principia fidei sunt, Biblia sancta esse Scripturam vere 
+      di<lb ed="#H" n="168" break="no"/>vinam; continere doctrinam coelestem &amp; immutabiliter veram de 
+      <lb ed="#H" n="169"/>Deo, ejus voluntate &amp; operibus: esse a Deo sanctis Prophetis 
+      Apo<lb ed="#H" n="170" break="no"/>stolis &amp; Evangelistis inspirata: esse canonica &amp; firmiter credenda 
+      at<lb ed="#H" n="171" break="no"/>ne tenenda tanquam unicam regulam doctrinae fidei &amp; bonorum. 
+      <lb ed="#H" n="172"/>operum, propter gloriam Dei &amp; propter nostram salutem: esse in se 
+      <lb ed="#H" n="173"/>&amp; per se clara ac perspicua: seipsa interpretari; continere perfecte 
+      o<lb ed="#H" n="174" break="no"/>mnia dogmata ad salutem aeternam nobis necessaria: de quibus 
+      <lb ed="#H" n="175"/>principiis superiore libro actum est, 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e1063">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Improprie articuli fidei dicuntur lata &amp; generali acceptione omnia 
+      <lb ed="#H" n="177"/>dogmata non solum Evangelii, sed etiam Legis seu praecepta Deca¬ 
+      <!--cod-MkL9py-0161.xml-->
+      <pb ed="#H" n="134"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>logi &amp; omnes conciones ac promissiones legales, omnes item 
+      histo<lb ed="#H" n="2" break="no"/>riae sac, ae denique quicquid in Sacris literis scriptum continetur? 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e1083">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Hoc sensu etiam principia Theologiae &amp; Christianae doctrinae 
+      so<lb ed="#H" n="4" break="no"/>lent a nonnullis &amp; possunt articuli fidei nuncupari: eo quod partim in 
+      <lb ed="#H" n="5"/>Scripturis Sacris diserte continentur, partim evidenter inde 
+      deducun<lb ed="#H" n="6" break="no"/>tur. Quicquid enim partim Scripturis Sacris expresse traditur, partim 
+      <lb ed="#H" n="7"/>bona consequentia inde exstruitur: id fide Theologica credendum 
+      <lb ed="#H" n="8"/>est &amp; proinde fidei articulus generaliter dici potest: quippe fides in 
+      ge<lb ed="#H" n="9" break="no"/>nere est assentiri omni verbo Dei nobis tradito 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e1103">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Etsi autem principia fidei improprie articuli fidei dicantur: tamen 
+      <lb ed="#H" n="11"/>reduci possunt ad articulos fidei. Nam si credendum est in Deum, 
+      <lb ed="#H" n="12"/>tum credendum etiam est, quod is se patefecerit operibus &amp; verbo 
+      <lb ed="#H" n="13"/>suo, quod deinde per Prophetas &amp; Apostolos suos scriptum tradi 
+      Ec<lb ed="#H" n="14" break="no"/>clesiae voluerit, ut esset norma fidei &amp; bonorum operum. 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e1120">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Hinc intelligitur, quae sint proprio &amp; univoce de fide, quae non. Pro 
+      <lb ed="#H" n="16"/>prie &amp; univoce de fide sunt ea, quae ad rationem &amp; essentiam fidei 
+      per<lb ed="#H" n="17" break="no"/>tinent primo &amp; per se. Improprie &amp; aequivoce de fide sunt ea, quae ad 
+      ra<lb ed="#H" n="18" break="no"/>tionem illam perpetuam essentiamque fidei accedunt, sive ut adiuncta 
+      <lb ed="#H" n="19"/>necessaria, sive ut contingentia quocunque modo, propter aliud ad 
+      fi<lb ed="#H" n="20" break="no"/>dem aut instrumenta Fidei pertinent etiam materialiter. Sive(ut ali 
+      <lb ed="#H" n="21"/>modo eadem res exprimatur) fides aut primam veritatem respicit, aut 
+      <lb ed="#H" n="22"/>res ad primam veritatem ordinatas. Quae autem res ad primam vers 
+      <lb ed="#H" n="23"/>tatem ordinatae sunt, aut per se ordinatae sunt, aut propter aliud. Qua 
+      <lb ed="#H" n="24"/>per se ad primam veritate ordinatae sunt, eae de fide sunt: quae propter 
+      <lb ed="#H" n="25"/>aliud, non sunt de fide, sed dicuntur esse ααταχρήστιϰώς. Cur aute? quia 
+      <lb ed="#H" n="26"/>fides, ut intelligentia, scientia, non est singularium; sed ratione conmunt 
+      <lb ed="#H" n="27"/>Deum &amp; res divinas contemplatur ac percipit. Ergo Paulum 
+      Aposto<lb ed="#H" n="28" break="no"/>lum habuisse penulam, non est proprie &amp; univoce de fide: 
+      </p>
+            <p xml:id="yyy8Uu-e61399-d1e1155">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>QUAERITUR: An omnia quae sunt de jure diuvino, sint de fide 
+      <lb ed="#H" n="30"/>RESP. Esse de jure divino &amp; esse de fide differunt, ut totum &amp; pars: 
+      <lb ed="#H" n="31"/>quum de jure divino sint Lex &amp; Evangelium, resipiscentia &amp; fides. 
+      Ex<lb ed="#H" n="32" break="no"/>eo conficitur necessario, quicquid de fide est, id de jure divino esse: 
+      A<lb ed="#H" n="33" break="no"/>non ex contrario, quicquid de jure divino est, idem esse de fide. Cum 
+      <lb ed="#H" n="34"/>taque perfecta ratio fidei sit Scripturis Sacris comprehensa, non est de 
+      <lb ed="#H" n="35"/>fide quicquid Scripturis non comprehenditur; nec de jure divino est, 
+      <lb ed="#H" n="36"/>quia jus divinum habetur in Scripturis: Exempli causa, Papani 
+      affir<lb ed="#H" n="37" break="no"/>mant, Pontificem Romanum jute divino succedere Petro in 
+      prefectu<lb ed="#H" n="38" break="no"/>tam totius Ecclesiae: idque esse de fide. Nos vero utrumque negamus &amp; 
+      <lb ed="#H" n="39"/>nostram sententiam probamus enumeratione partium essentialium. 
+      <lb ed="#H" n="40"/>Nam cum juris divini duae sint essentiales partes, Lex &amp; Evangelium, 
+      <lb ed="#H" n="41"/>quarum relatio est ad resipiscentiam &amp; fidem: Ista autem successio nec 
+      <lb ed="#H" n="42"/>Legis instituto sit, nec Evangelii: Omnino sequitur, eam nec de jure 
+      <lb ed="#H" n="43"/>divino esse, (quod totius rationem habet,) nec de fide, in qua 
+      saluta<lb ed="#H" n="44" break="no"/>tis pars versatur divini juris 
+      <lb ed="#H" n="45"/>Ut autem in articulis fidei Christianae primum de Deo professio in 
+      <lb ed="#H" n="46"/>stituitur: Ita etiam nos in doctrina fidei primum de Deo, per gratiam 
+      <lb ed="#H" n="47"/>salvificam Sancti Spiritus, religiose agemus 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,2275 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="227"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e08377"> <!-- l3-c8 -->
+            <head xml:id="yyy8Uu-e08377-Hd1e109">Caput 8</head>
+            <p xml:id="yyy8Uu-e08377-d1e112">
+               <lb ed="#H" n="2"/>CAPUT XIIe 
+      <lb ed="#H" n="3"/>In quo refutantur obiectiones contra oμουσίαν Patris, 
+      <lb ed="#H" n="4"/>Filii &amp; Spiritus Sancti.
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e121">
+               <lb ed="#H" n="5"/>YTUCUSQue exposita est vera doctrina de unitate essentiae 
+      divi<lb ed="#H" n="6" break="no"/>IHnae &amp; Trinitate personarum in ea, earundemque 
+      consubstam<lb ed="#H" n="7" break="no"/>tialitate &amp; aequalitate. Qui vero eam oppugnant; varios 
+      erro<lb ed="#H" n="8" break="no"/>res statuunt: nam Filium Dei negant esse αμουσιον Patri, ac proinde 
+      <lb ed="#H" n="9"/>negant esse verum Deum natura; ut &amp; Spiritum Sanctum: alij 
+      infi<lb ed="#H" n="10" break="no"/>ciantur aequalitatem personarum: alij distinctionem personarut. 
+      <lb ed="#H" n="11"/>impugnant; alij alia. Producunt autem tum Scripturae Sacrae 
+      testi<lb ed="#H" n="12" break="no"/>monia, tum argumenta quibus impietatem suam stabilire conantur. 
+      <lb ed="#H" n="13"/>se quibus praecipua recitabimus &amp; refellemus. Ac primo videda sunt 
+      <lb ed="#H" n="14"/>quae contra αμουσίαν Patris, Filij &amp; Spiritus Sancti objiciantur, atc 
+      <lb ed="#H" n="15"/>ad ea respondendum 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e147">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>OBIECTIO I. Imago Dei non est ipsemet Deus: Filius Dei est 
+      <lb ed="#H" n="17"/>imago Dei, ut dicitur Coloss. 1. v. 15. Non est ergo ipsemet Deus. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e157">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>RESP. Negatur consequentia, quia plures sunt termini quam 
+      <lb ed="#H" n="19"/>tres, propter homonymiam geminam. Nam primo imago vel 
+      perfe<lb ed="#H" n="20" break="no"/>cta est vel imperfecta. Perfecta imago, est cui non deest aliquid quod 
+      <lb ed="#H" n="21"/>insit archetypo seu exemplari illi de quo expressa est, sed ei responde 
+      <lb ed="#H" n="22"/>similitudine plena &amp; aequalitate simul. Haec imago est substantialis 
+      <lb ed="#H" n="23"/>essentialis, naturalis, in identitate substantiae; essentiae &amp; naturae 
+      po<lb ed="#H" n="24" break="no"/>ita. Imperfecta imago; est quae non perfecte respondet exemplari de 
+      <lb ed="#H" n="25"/>quo expressa est: sed aliqua tantum similitudise, non autem 
+      aequali<lb ed="#H" n="26" break="no"/>tate illud repraesentat. Ista imago accidentalis est 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e181">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Secundo praedicatum ipsemet Deus vel ἔσιαδς accipitur pro 
+      essen<lb ed="#H" n="28" break="no"/>tia Dei, vel ἐσρσαλϰώς pro persona divina. Jam Samosateniani 
+      intel<lb ed="#H" n="29" break="no"/>ligunt imaginem Dei imperfectam, &amp; accidentalem, quam ultro fa 
+      <lb ed="#H" n="30"/>remur; non esse Deum: at Paulus Filium Dei appellat imaginem 
+      <lb ed="#H" n="31"/>perfectam &amp; substantialem; in Deo enim nihil imperfectum, sed o 
+      <lb ed="#H" n="32"/>mnia absolutissime perfecta sunt: unde sequitur, Filium esse Deum; 
+      <lb ed="#H" n="33"/>nam perfecta ac substantialis imago &amp; archetypus sunt idem 
+      essen<lb ed="#H" n="34" break="no"/>tia, sicut Christus dicit Joh. 10. 30. Ego &amp; Pater unumsumus. 
+      Chri<lb ed="#H" n="35" break="no"/>stus qua Filius Dei aeternus, est imago Dei genita ab aeterno ex 
+      Pa<lb ed="#H" n="36" break="no"/>tre, non facta aut creata in tempore. Ut igitur Pater est aeternus, 
+      im<lb ed="#H" n="37" break="no"/>mortalis, omnipotens, Deus, Dominus; Creator: Ita etiam Filium 
+      <lb ed="#H" n="38"/>Dei aeternum, immortalem, omnipotentem; Deum; Dominum, 
+      <lb ed="#H" n="39"/>Creatorem esse necesse est, alioquin ipse genita imago non fuerit 
+      <lb ed="#H" n="40"/>sed facta, quemadmodum nos homiises. Atqui aliter imago Dei est 
+      <lb ed="#H" n="41"/>in Christo, aliter in nobis. Imago Dei est in Christo Filio Dei 
+      uni<lb ed="#H" n="42" break="no"/>genito, sicut imago Regis in filio ejus est, communis naturae cum 
+      pa<lb ed="#H" n="43" break="no"/>tre: in hominibus autem imago Dei est, ut imago Caesaris seu Regis 
+      <lb ed="#H" n="44"/>in nummo argenteo; quia nostra fatura alia est quam Dei 
+      natura<lb ed="#H" n="45" break="no"/>Hoc igitur argumentum pro nobis est contra Samosatenianos. 
+      Fi<lb ed="#H" n="46" break="no"/>lius Dei est perfecta, essentialis &amp; ab aeterno genita imago Dei: 
+      Er<lb ed="#H" n="47" break="no"/>go est natura Deus, est ejusdem naturae cum Genitore Deinde si prae 
+      <lb ed="#H" n="48"/>dicatum ipsemet Deus accipiatur personaliter; nempe pro persona 
+      <lb ed="#H" n="49"/>Dei Patris, totum concedinius recte intellectum: nam Filius Dei 
+      <lb ed="#H" n="50"/>non est Pater ipsemet: at hinc neutiquam conficitur, Filium Dei non 
+      <lb ed="#H" n="51"/>esse Deum essentialiter: Ergo Christus Filius Dei alius est a Dei 
+      <lb ed="#H" n="52"/>Patre quoad personam, quia est imago Dei Patris? non autem aliuo 
+      <lb ed="#H" n="53"/>est a Deo Patre quoad essentiam, quia est perfecta &amp; genita imago 
+      <lb ed="#H" n="54"/>Dei Patris 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e246">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>OEIECTIOII. Qui est splendor gloriae Dei &amp; figura substantiae, 
+      <lb ed="#H" n="56"/>ejus, non est ipsemet Deus invisibilis &amp; illa ipsa Dei substantia: At 
+      <lb ed="#H" n="57"/>Filius Dei est splendor gloria Dei &amp; figura substantiae ejus: Ergo: &amp;c. 
+      <lb ed="#H" n="58"/>Assumtio probatur ex testimonio Pauli Hebr. 1. v. 2. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e259">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>RESP. Major propositio universaliter accepta falsa est: nam vera 
+      <lb ed="#H" n="60"/>est tantum de splendore &amp; figura accidentali; de essentiali autem 
+      ne<lb ed="#H" n="61" break="no"/>gatur. Deinde minor propositio &amp; probatio ejus est desumta ex 
+      vi<lb ed="#H" n="62" break="no"/>tiosa versionem Latina vulgata. Graecus textus habet: Os ἀν ἀπαυγα, 
+      <lb ed="#H" n="63"/>σμα τδοοης, καχαρακτηῳ τθοσάσεως αυτο Vertendum: Qui est splen 
+      <lb ed="#H" n="64"/>dor seu effulgentia gloriae; &amp; character hypostaseos ejus: χαρακτηρiν 
+      <lb ed="#H" n="65"/>vulgata Latina redditur figura, sed impar est vis utriusque vocis. Nam 
+      <lb ed="#H" n="66"/>omnis quidem character est figura, sed non omnis figura est chara 
+      <lb ed="#H" n="67"/>cter: ita figura latius patet charactere, qui praeter figuram haec 
+      re<lb ed="#H" n="68" break="no"/>quirit, ut sit expressus ad archetypum, &amp; adaequatus essentialiter, &amp; 
+      <lb ed="#H" n="69"/>ut possit μαραοσειν, id est; rebus alijs foris imprimere sui imaginem: 
+      <lb ed="#H" n="70"/>Differunt autem imago Dei &amp; character hypostaseos personae. Nam 
+      <lb ed="#H" n="71"/>(ut Athanafius ait Dialogo primo de S. Trinitate pagina ducentesa 
+      <lb ed="#H" n="72"/>quadrages. secundi tomi) opus quodpiam habet quidem imaginem 
+      <lb ed="#H" n="73"/>artis cujus periius est artifex a quo effectum est, hypostaseus vero 
+      mi<lb ed="#H" n="74" break="no"/>nime. Et mox: Scamnum habet imaginem ariis fabri: Nam si 
+      scam<lb ed="#H" n="75" break="no"/>num videro; agnosco a fabro factum esse: &amp; si navigium conspexero 
+      <lb ed="#H" n="76"/>agnosco esse opus a fabricatore navium confectum, quod sit imago &amp; 
+      <lb ed="#H" n="77"/>gloria artis illius, qui id fabricatus est: at non hypostaseωs character. 
+      <lb ed="#H" n="78"/>Nec enim aut scamnum aut navigium habet characterem ejus quo 
+      <lb ed="#H" n="79"/>id effecit, quum hic quidem sit homo hypostasi, scamnum autem 
+      ve<lb ed="#H" n="80" break="no"/>navigium non item. Sic etiam homo est imago &amp; gloria Dei quo 
+      <lb ed="#H" n="81"/>psum condidit. Etenim, ut ait sanctus Salomon: Convenienter &amp; 
+      <lb ed="#H" n="82"/>proportione quadam effector illarum rerum conspicitur &amp; gloria 
+      af<lb ed="#H" n="83" break="no"/>ficitur ex eo quod effectum est: non tamen est character hypostaseωs 
+      o<lb ed="#H" n="84" break="no"/>pificis, sed duntaxat virtutis ejus effectricis: At Filius est characte 
+      <lb ed="#H" n="85"/>ενθποςατος. Inquit enim; Qui vidit me, vidit Patrem meum: 
+      ne<lb ed="#H" n="86" break="no"/>mo vero qui vidit hominem, idcirco vidit Patrem 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e324">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>συστάσις autem non debet verti substantia, sed persona aut 
+      subsi<lb ed="#H" n="88" break="no"/>stentia, ut supra dictum. Restituta versione facile intelligitur, nequa 
+      <lb ed="#H" n="89"/>quam inde confici posse, Filium non esse Deum seu divinam substan¬ 
+      <!--cod-MkL9py-0254.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>tiam; sed potius, quia est character hypostaseas Patris, esse ejusdem 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e342">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>cummpso substantiae. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e350">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>OBIECTIOIII. Gen. 19. v. 24. Iehova demisit super Sodomam 
+      <lb ed="#H" n="93"/>&amp; super Gomorrhampluviam sulphuris &amp; ignis, a Iehova e coelis. 
+      <lb ed="#H" n="94"/>Ergo Pater &amp; Filius non sunt consubstantiales, sed essentia differunt 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e361">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>RESP. Xριανον. Imo hoc dictum Saniosatenianis &amp; Arianis 
+      <lb ed="#H" n="96"/>adversatur. Nam quum uterque istorum, qui pluit nimirum &amp; a quoe 
+      <lb ed="#H" n="97"/>pluit, Jehova nominetur, Jehova autem nonnisi unicus sit: eandem 
+      <lb ed="#H" n="98"/>esse utriusque essentiam necesse est. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e374">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>OBIECTIOIV. Psal 33. 6. Verbo Iehovae coeli facti sunt, &amp; 
+      Spiri<lb ed="#H" n="100" break="no"/>tu oris ejus totus exercitus eorum Ergo Iehova, Verbum &amp; Spiritus 
+      <lb ed="#H" n="101"/>non sunt ejusdem essentiae. 
+      <lb ed="#H" n="102"/>RESP. Primo in hoc Psalmi loco quidam interpretes existimant 
+      <lb ed="#H" n="103"/>nomen Jehovae essentialiter sumi, &amp; per verbum ac spiritum oris 
+      in<lb ed="#H" n="104" break="no"/>telligi rem eandem: nimirum mandatum seu jussum divinum quo 
+      o<lb ed="#H" n="105" break="no"/>mnia exstiterunt in prima creatione. Quem locum si ita interprete 
+      <lb ed="#H" n="106"/>mur, nihil ex eo contra αμονσίαν personarum Deitatis inferri poterit. 
+      <lb ed="#H" n="107"/>Secundo quum plerique veteres &amp; recentes Theologi personas Dei, 
+      <lb ed="#H" n="108"/>catis tres hoc in loco distingui affirment, &amp; Iehovae nomen 
+      persona<lb ed="#H" n="109" break="no"/>liter pro Patre accipi, per Verbum Iehovae autem Filium Dei; 
+      Ser<lb ed="#H" n="110" break="no"/>monem illum per quem omnia facta sunt; &amp; per Spiritum oris 
+      Ieho<lb ed="#H" n="111" break="no"/>vae Spiritum Sanctum intelligi asseverent: nos illorum 
+      interpreta<lb ed="#H" n="112" break="no"/>tionem temere non rejiciemus. Inde autem non sequitur, Verbum 
+      <lb ed="#H" n="113"/>Jehovae &amp; Spiritum oris ejus diversae substantiae a Jehova esse: qui  
+      <lb ed="#H" n="114"/>quod in Deo Patre est &amp; ex ejus essentia procedit, non est accidentale 
+      <lb ed="#H" n="115"/>quiddam, sed ὑφισζαμνον, eiquε ὀμοσσιον: est enim divina essentia 
+      sim<lb ed="#H" n="116" break="no"/>plicissima. Hanc expositionem confirmant loca parallela. Nam de 
+      <lb ed="#H" n="117"/>Verbo Jehovae dicitur Johan. 1. v. 1, 2, 3. In principio erat Verbum, &amp; 
+      <lb ed="#H" n="118"/>Verbum erat apud Deum, &amp; Deus erat illud Verbum. Hoc erat in 
+      <lb ed="#H" n="119"/>principio apud Deum. Omnia per illud facta sunt, &amp; sine illo factum, 
+      <lb ed="#H" n="120"/>est nihil quod factum est. Hoc ergo idem Verbum Jehovae est; quo 
+      <lb ed="#H" n="121"/>coeli facti sunt. Et de Spiritu oris Jehovae, (sic autem ab hominibus 
+      <lb ed="#H" n="122"/>petita loquendi forma nominatur Spiritus Sanctus,) dicitur Geh. 1. 
+      <lb ed="#H" n="123"/>v. 2. Spiritus Elohim incubabat superficiei aquarum: 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e433">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>OEIECTIOV. Filius Altissimi non est ipsemet Altissimus: 
+      Chri<lb ed="#H" n="125" break="no"/>stus est Filius Aliissimi, Luc. 1. 32. Hic erit magnus, &amp; Filius 
+      Altissi<lb ed="#H" n="126" break="no"/>mi vocabitur. Ergo non est ipsemet Altissimus: &amp; per consequens non 
+      <lb ed="#H" n="127"/>est ejusdem substantiae cum Altissimo 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e446">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>RESPON. Primo argumentationem absque consectario per 
+      con<lb ed="#H" n="129" break="no"/>sequens adjecto concedimus recte intellectam, nempe si nomine 
+      Al<lb ed="#H" n="130" break="no"/>issimi ὑποσατικώς intelligatur Pater: nam Filius non est Pater ipse 
+      <lb ed="#H" n="131"/>Sin vero nomen Altissimi ἀσιαδυς capiatur, vitiosa est 
+      argumenta<lb ed="#H" n="132" break="no"/>tio. Idiomata personalia non sunt communia; at essentialia attributa. 
+      <lb ed="#H" n="133"/>sunt communia omliibus personis; ideo sic de una persona 
+      praedican<lb ed="#H" n="134" break="no"/>tur, ut de aliis minime negentur; &amp; rale est attributum Altissimi 
+      E<lb ed="#H" n="135" break="no"/>nadoς acceptum. Absurda sane fuerit argumentatio: Pater est 
+      altis<lb ed="#H" n="136" break="no"/>simus: Filius non est Pater: Ergo Filius non est altissimus. Similis 
+      isti<lb ed="#H" n="137" break="no"/>Filius est Dominus: Pater non est Filius;. Ergo Pater non est Dominus. 
+      <lb ed="#H" n="138"/>Et isti: Pater est dominus coeli &amp; terrae: Filius non est Pater: Ergo 
+      Fi<lb ed="#H" n="139" break="no"/>lius non est Dominus coeli &amp; terrae. Quil potius sicut essentia 
+      com<lb ed="#H" n="140" break="no"/>munis est; persona incommunicabilis: ita attributa essentialia sum 
+      <lb ed="#H" n="141"/>communia, personalia autem, ἰδεατικα sive characteristica Graecis 
+      di<lb ed="#H" n="142" break="no"/>cta, sunt cuique personae propria 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e483">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>OBIECTIOVI. Quibuscunque diversae proprietates essentiales 
+      <lb ed="#H" n="144"/>tribuuntur, eorum non est eadem essentia: Patri, Filio &amp; Spiritui 
+      <lb ed="#H" n="145"/>Sancto diversae proprietates essentiales tribuuntur: Ergo Patris, Fili 
+      <lb ed="#H" n="146"/>&amp; Spiritus Sancti non est eadem essentia. Assumtionem probant 
+      ex<lb ed="#H" n="147" break="no"/>dictis sequentibus, I Co.8. Unus Deus Pater, ex quo omnia: unus 
+      Do<lb ed="#H" n="148" break="no"/>minus Iesus Christus, per quem omnia. Et Rom. 8. de Spiritu Sancto 
+      <lb ed="#H" n="149"/>dicitur, quod in eo clamamus, Abba Pater 1. Tim. 2. Unus Deus, unus 
+      <lb ed="#H" n="150"/>Mediator Dei &amp; hominum, homo Iesus Christus. Joh. 17. Vt 
+      cogno<lb ed="#H" n="151" break="no"/>scant te solum verum Deum, &amp; quem misisti Iesum Christum. Eph. 
+      <lb ed="#H" n="152"/>2. Habemus accessum ad Patrem per Christum in uno Spiritu. Psalm: 
+      <lb ed="#H" n="153"/>110. Dixit Iehova Domino meo, &amp;c. Rom. 1. Gratia a Deo Patre &amp; 
+      <lb ed="#H" n="154"/>Domino nostro Iesu Christo. Jacob. 1. Dei &amp; Domini nostri Iesu 
+      Chri<lb ed="#H" n="155" break="no"/>sti servus. 1. Thessal. 1. Ecclesiae, quae est in Deo Patre e Domino Iesu 
+      <lb ed="#H" n="156"/>Christo. Coloss. 3. Vita nostra abscodita est cum Christo in Deo. 1. 
+      Ti<lb ed="#H" n="157" break="no"/>moth. 6. Praecipio tibi in conspectu Dei, qui vivificat omnia, &amp; 
+      Do<lb ed="#H" n="158" break="no"/>mini Iesu Christi. 2. Thessal. 1. Qui non noverunt Deum, neque 
+      au<lb ed="#H" n="159" break="no"/>scultant Evangelio Domini Iesu Christi. Coloss. 3. Gratias agentes 
+      <lb ed="#H" n="160"/>Deo &amp; Patri per Iesum Christum. Coloss. 2. In agnitionem Dei &amp; 
+      <lb ed="#H" n="161"/>Patris, &amp; Domini IesuChristi. Philip. 4. Pax Dei custodiat corda 
+      ve<lb ed="#H" n="162" break="no"/>tra in Christo Iesu. 1. Thess. 3. Coram Deo &amp; Patre hostro in 
+      adven<lb ed="#H" n="163" break="no"/>tu Domini Iesu Christi. 2. Thess. 1. Ex gratia Dei nostri; &amp; 
+      Domini<lb ed="#H" n="164" break="no"/>Iesu Christi. I. Corinth. 12. Discrimina donorum sunt, sed idem 
+      Spi<lb ed="#H" n="165" break="no"/>ritus, &amp; discrimina ministeriorum, sed idem Dominus: &amp; 
+      discrimi<lb ed="#H" n="166" break="no"/>na facultatum, sed idem est Deus efficiens eas omnes in quibusvis: 
+      E<lb ed="#H" n="167" break="no"/>phes. 1. Deus Domini nostri Iesu Christi, pater gloriae det vobis 
+      Spiri<lb ed="#H" n="168" break="no"/>cum sapientiae. 2. Corinth; 1. Qui confirmat nos in Christo, Deus est; 
+      <lb ed="#H" n="169"/>qui dedit arrham Spiritus. Ephes. 2. In lapide angulari Christo, 
+      aedi<lb ed="#H" n="170" break="no"/>ficamini in templum Dei per Spiritum. Johan. 14. Ego rogabo Paa. 
+      <lb ed="#H" n="171"/>trem, &amp; alium Paracletum dabit vobis. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e552">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>RESP. Assumtio negatur: nec ea probatur ex locis adductis, 
+      in<lb ed="#H" n="173" break="no"/>quibus personae &amp; ordo earum in exsistendo &amp; agendo &amp; officia 
+      ea<lb ed="#H" n="174" break="no"/>rum duntaxat distinguuntur: non autem proprietates essentiales. 
+      Ex<lb ed="#H" n="175" break="no"/>empli gratia, quum Paulus 1. Cor. 8. 6. dicit; Nobis unus est Deus, 
+      Pa<lb ed="#H" n="176" break="no"/>ter ille ex quo omnia &amp; nos in ipso: &amp; unus Dominus Iesus Christus. 
+      <lb ed="#H" n="177"/>per quem omnia; &amp; nos per ipsum: Patris &amp; Filij personam distingui 
+      <lb ed="#H" n="178"/>non Deitate &amp; dominio, uterque enim Deus est, uterque Dominus 
+      <lb ed="#H" n="179"/>est: sed ordine in exsistendo &amp; agendo. Patri enim principium 
+      tri<lb ed="#H" n="180" break="no"/>buit ut Deitatis &amp; operationum divinarum: ideo dicit, Vnum est 
+      <lb ed="#H" n="181"/>Deum Patrem illum, non quod Filius quoque &amp; Spiritus S. non sit 
+      <!--cod-MkL9py-0255.xml-->
+      <pb ed="#H" n="228"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Deus, sed quod pater sit principium Deitatis, quam communicavit 
+      <lb ed="#H" n="2"/>cum Filis &amp; Spiritu Sancto ab aeterno; dicit, ex Patre esse omnia, 
+      ra<lb ed="#H" n="3" break="no"/>tione ordinis quem personae divinae in operando, id est, in creandia 
+      <lb ed="#H" n="4"/>conservandis, &amp; gubernandis omnibus rebus tenent: nam alioquin  
+      <lb ed="#H" n="5"/>Filio Dei etiam competit, quod ab ipso sint omnia; essentiae 
+      absolu<lb ed="#H" n="6" break="no"/>te consideratae respectu, id est, quatenus Deus unus est cum Patre 
+      <lb ed="#H" n="7"/>Deinde dicit Apostolus, quod in Patre nimirum simus seu 
+      subsista<lb ed="#H" n="8" break="no"/>mus: quia vis quam conservatur rerum ἔσια principium habet a Patre: 
+      <lb ed="#H" n="9"/>interim etiam de Filio dicitur Joh. 1. v. 4. In ipso vita erat. Sic 
+      Coloss<lb ed="#H" n="10" break="no"/>1. 17. μ πανζα ἐν αυτῶ σνεσηκε, &amp; omnia in ipso consistunt. Ita idem 
+      <lb ed="#H" n="11"/>de Patre &amp; Filio praedicatur respectu essentiae: Ergo essentia Pater &amp; 
+      <lb ed="#H" n="12"/>Filius non differunt. De Filio idem Apostolus subjicit: Et unus 
+      Do<lb ed="#H" n="13" break="no"/>minus Iesus Christus, non quod Pater non sit quoque Dominus 
+      o<lb ed="#H" n="14" break="no"/>mnium, sed quia Pater per Filium exsequitur dominium &amp; omni 
+      <lb ed="#H" n="15"/>gubernat in coelo &amp; in terra. Addit Apostolus de filio; Per quem 
+      o<lb ed="#H" n="16" break="no"/>mnia &amp; nos per ipsum: hoc tribuit Filio relate considerato, id est, 
+      <lb ed="#H" n="17"/>quatenus Filius est, ita tamen ut sciamus, Filium non 
+      instrumenta<lb ed="#H" n="18" break="no"/>lem, sed efficientem causam esse cum Patre, tum in creando, tum in 
+      <lb ed="#H" n="19"/>conservando &amp; gubernando: quod &amp; ipsum rursus ita est 
+      accipien<lb ed="#H" n="20" break="no"/>dum, ut nec duas causas, id est, Deitatis constituamus, quum Filius 
+      <lb ed="#H" n="21"/>sit ἐτα unus cum Patre: nec rursus in personarum distinctione 
+      inae<lb ed="#H" n="22" break="no"/>qualitatem aut separationem imaginemur. Quod de primo loco 
+      di<lb ed="#H" n="23" break="no"/>ctum, de aliis similiter intelligendum. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e635">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>PIECTIOVII. Quicunque realiter inter se distinguuntur, 
+      il<lb ed="#H" n="25" break="no"/>lorum non est una &amp; eadem numero essentia: Pater, Filius &amp; 
+      Spiri<lb ed="#H" n="26" break="no"/>tus Sanctus realiter inter se distinguuntur: Ergo Patris, Filij &amp; 
+      Spi<lb ed="#H" n="27" break="no"/>ritus Sancti non est una &amp; eadem numero essentia. Assumtio 
+      proba<lb ed="#H" n="28" break="no"/>tur sequentibus testimonijs. Ioh. 1. Verbum erat apud Deum. Marc. 
+      <lb ed="#H" n="29"/>16. Baptizantes eos in nomine Patris, &amp; Filij, &amp; Spiritus Sancti. Jes. 
+      <lb ed="#H" n="30"/>9. Vocabitur Deus fortis. Jesa. 11. Requiescet super eo Spiritus 
+      Ieho<lb ed="#H" n="31" break="no"/>vae. Johan. 8. Quem vos dicitis Deum vestrum esse, Pater meus est 
+      <lb ed="#H" n="32"/>Matth. 16. Tu es Filius Dei vivi. Johan. 15. Qui a Patre procedit 
+      <lb ed="#H" n="33"/>Item: Quem ego mittam vobis a Patre. Et 14. Creditis in Deum, &amp; 
+      <lb ed="#H" n="34"/>in me credite. 1. Johan. 5. Vt agnoscamus verum Deum, &amp; manea 
+      <lb ed="#H" n="35"/>mus in vero, in Filio ejus Iesu Christo: 1: Thessal. 1. Vt serviretis Dei 
+      <lb ed="#H" n="36"/>vero &amp; vivo, &amp; exspectaretis Filium ejus e coelis. Matth. 3. Pater 
+      lo<lb ed="#H" n="37" break="no"/>quitur de coelis: Filius stans in Jordane baptizatur? Spiritus Sanctus 
+      <lb ed="#H" n="38"/>apparet specie columbae: Epes. 3. Electo genua ad Patrem 
+      Domini<lb ed="#H" n="39" break="no"/>nostri Iesu Christi, ut corroboremini Spiritu. Luc. 1. Spiritus Sanctu 
+      <lb ed="#H" n="40"/>superveniet in te, &amp; virtus altissimi obumbrabit tibi. propterea quo- 
+      <lb ed="#H" n="41"/>nascetur ex te Sanctum, Filius Dei vocabitur. 1. Joh. 5. Tres sunt qui  
+      <lb ed="#H" n="42"/>testimonium perhibent in coelo, Pater, Sermo &amp; Spiritus Sanctus. 
+      <lb ed="#H" n="43"/>Genes. 3. Faciamus hominem ad imaginem nostram. Item, Ecce 
+      A<lb ed="#H" n="44" break="no"/>dam tanquam unus ex nobis. Genes. 11. Venite, descendamus, 
+      confun<lb ed="#H" n="45" break="no"/>damus eorum linguas. Johan. 10. Ego &amp; Pater unum sumus. Johan. 
+      <lb ed="#H" n="46"/>17. Vt sint unum in nobis, sicut nos unum sumus. Johan. 14. Ego &amp; 
+      <lb ed="#H" n="47"/>Pater veniomus ad eum, &amp; apud eum manebimus. Galat. 4. Emisit 
+      <lb ed="#H" n="48"/>Deus Spiritum Filij sui. Sic in Symbolo: Credo in Deum Patrem, 
+      <lb ed="#H" n="49"/>&amp; in Filium, &amp; Spiritum Sanctum 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e696">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>RESPON Major propositio non est universaliter vera: illa igi 
+      <lb ed="#H" n="51"/>tur probanda erat, non autem assumtio, quam nemo in dubium 
+      vo<lb ed="#H" n="52" break="no"/>cat. Quicunque realitet inter se distinguuntur, nimirum si quilibet 
+      i<lb ed="#H" n="53" break="no"/>lorum finitus sit sive locali citcumscriptione sive substantiae 
+      proprie<lb ed="#H" n="54" break="no"/>tate, eorum non est eadem substantia singularis. At Pater, Filius &amp; 
+      <lb ed="#H" n="55"/>Spiritus Sanctus realiter quidem inter se distinguuntur, sed aliquem  
+      <lb ed="#H" n="56"/>eorum esse finitum, negatur. Ruit igitur conclusio¬ 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e716">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>OEIECTIOVIII. Quorum operationes sunt distinctae, eorum 
+      et<lb ed="#H" n="58" break="no"/>iam essentiae sunt distinctae. Patris, Filij &amp; Spiritus Sancti operationes 
+      <lb ed="#H" n="59"/>sunt distinctae: Ergo, &amp;c. Assumtio probatur: nam Pater gignit, 
+      Fi<lb ed="#H" n="60" break="no"/>lius non gignit nec Spiritus Sanctus. Filius nascitur, Pater non 
+      nasci<lb ed="#H" n="61" break="no"/>tur, ut nec Spiritus Sanctus. Spiritus Sanctus procedit per spirationem 
+      <lb ed="#H" n="62"/>a Patre &amp; Filio, quae operatio nec Patri, nec Filio convenit 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e734">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>RESP. Major propositio unit erse intellecta negatur: nam vera 
+      <lb ed="#H" n="64"/>est tantum de personis essentiam finitam habentibus: de personis 
+      ve<lb ed="#H" n="65" break="no"/>ro infinitis &amp; divinis est falsa 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e745">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>OBIECTIOIX. Quomodo fideles sunt unum inter se &amp; cum 
+      Chri<lb ed="#H" n="67" break="no"/>sto, ita etiam Pater, Filius &amp; Spiritus Sanctus sunt unum: At fideles 
+      <lb ed="#H" n="68"/>sunt unum inter se &amp; cum Christo tantum uoluntate, &amp; non 
+      essen<lb ed="#H" n="69" break="no"/>tia: Ergo etiam Pater, Filius &amp; Spiritus Sanctus sunt unum tantum 
+      <lb ed="#H" n="70"/>voluntate &amp; non essentia. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e762">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Major probatur his testimoniis, Joh. 17. v. 11. Pater sancte, 
+      serva<lb ed="#H" n="72" break="no"/>eos per nomen tuum, quos dedisti mihi, ut sint unum, prout &amp; nos. 
+      Et<lb ed="#H" n="73" break="no"/>v. 21. Vt omnes unum sint, sicut tu Pater in me, &amp; ego in te: ut &amp; ipsi  
+      <lb ed="#H" n="74"/>in nobis unum sint. Et v. 22. Et ego gloriam quam dedisti mihi, 
+      dedi<lb ed="#H" n="75" break="no"/>eis, ut sint unum, sicut &amp; nos unum sumus. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e778">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>RESP. Negatur minor propositio: quia fideles inter se &amp; cum 
+      <lb ed="#H" n="77"/>Christo non tantum voluntate consentiantem habent, sed naturam 
+      <lb ed="#H" n="78"/>quoque humanam communem &amp; eandem. Quod Paulus testatur,  
+      <lb ed="#H" n="79"/>quum ait Hebr. 2. v. 14. Quoniam igitur pueri participes sunt carnis 
+      <lb ed="#H" n="80"/>&amp; sanguinis, ipse quoque consimiliter, particeps factus est eorundem. 
+      <lb ed="#H" n="81"/>Et v. 16, 17. Semen Abrahami affumsit. Unde debuit per omnia 
+      fra<lb ed="#H" n="82" break="no"/>tribus similis fieri. Hinc in Confessione fidei edita in Synodo 
+      Chal<lb ed="#H" n="83" break="no"/>cedonensi, dicitur Filius Dei Dominus noster Iesus Christus 
+      coessen<lb ed="#H" n="84" break="no"/>tialis Patri secundum divinitatem, &amp; coessentialis nobis secundum 
+      <lb ed="#H" n="85"/>humanitatem. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e804">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Replicant adversarij; Christu non orare, ut fideles sint unum essen 
+      <lb ed="#H" n="87"/>tia, sed uoluntate. Ergo Pater &amp; Filius sunt unum tantum uoluntate 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e813">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>RESP. Abeo quod dicitur secundum quid ad dictum simplicite 
+      <lb ed="#H" n="89"/>non valet consequentia: Christus orat, ut fideles sint unum uolunta. 
+      <lb ed="#H" n="90"/>te; Ergo sunt unum tantum voluntate. Etsi enim Christus petit a 
+      Pa<lb ed="#H" n="91" break="no"/>tre, ut fideles sint unum pia consensione animorum &amp; voluntatum 
+      <lb ed="#H" n="92"/>non tamen propterea negat alios unitatis &amp; conjunctionis ipsorum 
+      <!--cod-MkL9py-0255.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>inter se modos. Et ut de aliquibus solum modis dicatur; naturaliter 
+      <lb ed="#H" n="94"/>omnes homines unum sunt participatione ejusdem naturae humanc 
+      <lb ed="#H" n="95"/>qua omnes ex aequo sunt homines: moraliter autem ex 
+      conversatio<lb ed="#H" n="96" break="no"/>ne familiari aut beneficiorum &amp; officiorum communicatione fiunt. 
+      <lb ed="#H" n="97"/>anum animorum &amp; voluntatum consensione &amp; amicitia: 
+      corporali<lb ed="#H" n="98" break="no"/>ter unum fiunt conjugio seu matrimonio: spiritualiter &amp; 
+      superna<lb ed="#H" n="99" break="no"/>turaliter unum fiunt cum Christo per Spiritum Sanctum &amp; fidem 
+      <lb ed="#H" n="100"/>facti unum corpus mysticum, cujus ipse Christus caput est, &amp; per 
+      Chri<lb ed="#H" n="101" break="no"/>stum unum fiunt cum Patre ab ipso adoptati in Christo in filios &amp; 
+      per<lb ed="#H" n="102" break="no"/>Spiritum Sanctum sanctificati: inter se vero unum corpus fiunt 
+      spi<lb ed="#H" n="103" break="no"/>tituale, una domus Dei, una civitas Dei, una sponsa Christi, &amp;c. 
+      Simi<lb ed="#H" n="104" break="no"/>i processu a dicto secundum quid ad dictum simpliciter utuntur ad 
+      <lb ed="#H" n="105"/>versarij, quum dicunt; Christus orat ut fideles sint unum, sicut ipse  
+      <lb ed="#H" n="106"/>&amp; Pater unum sunt: Ergo Pater &amp; Filius sunt unum tantummodo 
+      <lb ed="#H" n="107"/>voluntatum consensione. Etsi enim Christus orat ut fideles sint unum 
+      <lb ed="#H" n="108"/>&amp; concordes voluntatibus, sicut ipse &amp; Pater unum sunt: hinc tamen 
+      <lb ed="#H" n="109"/>non sequitur, nullam esse aliam aut arctiorem conjunctionem &amp; 
+      uni<lb ed="#H" n="110" break="no"/>tatem inter Patrem &amp; Filium, quam sit inter nos mutuo, vel inte 
+      <lb ed="#H" n="111"/>Deum &amp; nos. Non alia est ad objectum istud responsio Cyrilli 
+      Ale<lb ed="#H" n="112" break="no"/>xandrini lib. 11. Comment. in Evangelium Johannis, cap. 26. digna 
+      <lb ed="#H" n="113"/>Job insignem pietatis eruditionem, quae huc transscribatur. Sunt 
+      au<lb ed="#H" n="114" break="no"/>tem haec ejus verba: Quis igitur est iste petitionis modus: ut, inquit.  
+      <lb ed="#H" n="115"/>unum sint, sicut tu Pater in me, &amp; ego in te, ut &amp; ipsiunum in nobis. 
+      <lb ed="#H" n="116"/>sint. Charitatis ergo, pacis &amp; concordiae vinculum petit, quod ad 
+      tan<lb ed="#H" n="117" break="no"/>tam spiritalem credetes unionem perducat, ut naturalis 
+      consubstan<lb ed="#H" n="118" break="no"/>tialisque in Patre, Filio atque Spiritu, unionis similitudinem imitetur.  
+      <lb ed="#H" n="119"/>Nec tamen hujus charitatis virtus atque connexus efficere unquam,  
+      <lb ed="#H" n="120"/>poterit, ut incommutabiliter in identitate substantiae ita uniamur 
+      <lb ed="#H" n="121"/>ut modum unitatis divinae assequuti videamur. Illa enim quum 
+      na<lb ed="#H" n="122" break="no"/>turalis &amp; vera sit, in substantia ratione inspicitur: haec vero, 
+      unita<lb ed="#H" n="123" break="no"/>tis habitum imitatur. Quomodo enim veritati primitivae per 
+      imita<lb ed="#H" n="124" break="no"/>tionem nos adaequabimur? Non enim idem est veritas, &amp; veritatis 
+      imi<lb ed="#H" n="125" break="no"/>tatio: sed quamvis proportione atque similitudine aequalitatem habere 
+      <lb ed="#H" n="126"/>videantur, distant tamen ingentibus differentijs. Quando igitur ad 
+      <lb ed="#H" n="127"/>evertendam naturalem Trinitatis identitatem, hunc locum in 
+      medi<lb ed="#H" n="128" break="no"/>lum haereticus affert, quemadmodum dicens, nos non identitate 
+      absolu<lb ed="#H" n="129" break="no"/>tam corporum, nec animarum alterius in alteram cofusione unum sui 
+      <lb ed="#H" n="130"/>mus, sed affectu charitatis animarumque ad servanda mandata Dei. 
+      <lb ed="#H" n="131"/>consensu: sic &amp; unum Filius cum Patre est: repellamus ut imperitum 
+      <lb ed="#H" n="132"/>&amp; impium. Quare sic? quia quae supra nos sunt, ea conditionem 
+      no<lb ed="#H" n="133" break="no"/>stram sequi, &amp; corporali necessitati subjici impossibile est. Nam si 
+      nul<lb ed="#H" n="134" break="no"/>la inter nos &amp; Deum differentia esset, tunc recte illud diceretur: 
+      sin<lb ed="#H" n="135" break="no"/>vero infinitum caduca haec natura hominum a Deo distat, non est 
+      possi<lb ed="#H" n="136" break="no"/>bile, quasi exactam regulam, quae nostra sunt ad Deum trasferre. Nec 
+      <lb ed="#H" n="137"/>decet quae prima sunt, posteriorum conditione honorari, nec 
+      posterio<lb ed="#H" n="138" break="no"/>ribus virtutem primorum ad unguem attribuere. Verum ne 
+      longio<lb ed="#H" n="139" break="no"/>res esse videamur, illud necessario dicamus. Quum Christus per 
+      sub<lb ed="#H" n="140" break="no"/>stantialem, quam cum Patre habet unitatem, quam ad imaginem 
+      <lb ed="#H" n="141"/>concordiae, consensusque animorum in se gerit, modo simili voluit 
+      no<lb ed="#H" n="142" break="no"/>quoque inter nos consubstantialis virtute Trinitatis (quantum 
+      no<lb ed="#H" n="143" break="no"/>strae naturae licet) uniri: ut duorum populorum ad unum perfectum 
+      <lb ed="#H" n="144"/>in Christo populii concursu, atque conventu, unum totius Ecclesiae 
+      cor<lb ed="#H" n="145" break="no"/>pus intelligatur. Ipse namque pax nostra est, ut ait Paulus, qui fecit ut 
+      <lb ed="#H" n="146"/>traque unum &amp; medium parietem maceria solvens inimicos in 
+      carn<lb ed="#H" n="147" break="no"/>sua, legem mandatorum suorum decretis evacuans, ut duos covertat 
+      <lb ed="#H" n="148"/>in semetipso, in unum novum hominem faciens pacem, ut reconciliet  
+      <lb ed="#H" n="149"/>ambos in uno corpore Deo, per crucem interficiens inimicitias in 
+      se<lb ed="#H" n="150" break="no"/>metipso: quod jam consummatum est: credentes enim in Christum, ut 
+      <lb ed="#H" n="151"/>num animum consensu pietatis, &amp; credendi obedientia posstdent. 
+      <lb ed="#H" n="152"/>Haee quidem aliena esse non arbitror: verum quoniam propositi tex 
+      <lb ed="#H" n="153"/>tus vis, sublimiora dicere cogit, Salvator quoque invitat, dicens: Sicuo  
+      <lb ed="#H" n="154"/>tu Pater in me, &amp; ego in te, ut &amp; ipsi in nobis unum sint. 
+      Consideran<lb ed="#H" n="155" break="no"/>dum est, si ad unitatem consensus &amp; voluntatis, naturalem etiam 
+      in<lb ed="#H" n="156" break="no"/>venire possumus, per quam nos inter nos, &amp; omnes Deo colligemur: 
+      for<lb ed="#H" n="157" break="no"/>tassis enim etiam corporali unione conjungimur, licet adeo dissipat.  
+      <lb ed="#H" n="158"/>simus, ut unus quisque seorsum, &amp; subsistat &amp; circumscribatur. Namo 
+      <lb ed="#H" n="159"/>Petrus &amp; Paulus unum unitate in Christo sint, Petrus tamen Paulis 
+      <lb ed="#H" n="160"/>non est: Age igitur quum Trinitas unum natura sit, consideremus 
+      <lb ed="#H" n="161"/>quomodo etiam nos ipsi inter nos corporaliter, &amp; cum Deo 
+      spirituali<lb ed="#H" n="162" break="no"/>ter unum sumus. Ex Dei patris substantia unigenitus prodiens, &amp; 
+      to<lb ed="#H" n="163" break="no"/>tum in sua natura genitorem possidens, caro factus secundum 
+      Scri<lb ed="#H" n="164" break="no"/>pturam est, seque ipsum naturae nostrae ineffabiliter conjunxit atque 
+      uni<lb ed="#H" n="165" break="no"/>vit. Qui enim natura Deus est, vere homo factus est, non theophorus. 
+      <lb ed="#H" n="166"/>id est, Deum per se in gratiam habens, ut mysterij vim ignorantes 
+      con<lb ed="#H" n="167" break="no"/>tendunt: sed verus Deus simul &amp; homo est. Sic quae inter se plurimum 
+      <lb ed="#H" n="168"/>secundum naturam distant, in uno seipso conjunxit, &amp; naturae 
+      divi<lb ed="#H" n="169" break="no"/>nae participes nos effecit. Communicatio enim Spiritus, &amp; (ut ita 
+      di<lb ed="#H" n="170" break="no"/>cam) mansio, primum in Christo fuit, &amp; ab eo in nos penetravit: quid  
+      <lb ed="#H" n="171"/>homo factus, ipse templum suum proprio spiritu perunxit atque 
+      sancti<lb ed="#H" n="172" break="no"/>ficavit. Origo igitur &amp; via, quam Spiritu Sancto participamus, &amp; 
+      <lb ed="#H" n="173"/>Deo uniti sumus, Christi mysterium est. Omnes enim in illo 
+      sanctifi<lb ed="#H" n="174" break="no"/>camur. Vt igitur inter nos &amp; Deum singulos uniret, quamvis corpore 
+      <lb ed="#H" n="175"/>simul &amp; anima distemus, modum tamen adinvenit, consilio Patris &amp; 
+      <lb ed="#H" n="176"/>sapientiae suae congruentem: suo enim corpore credentes, per 
+      commu<lb ed="#H" n="177" break="no"/>nionem mysticam benedicens, &amp; secum, &amp; inter nos unum nos corpus 
+      <lb ed="#H" n="178"/>efficit. Quis enim eos, qui unius sancti corporis unione in uno Christo 
+      <lb ed="#H" n="179"/>uniti sunt, ab hac naturali unione alienos putabit? Nam si omnes 
+      u<lb ed="#H" n="180" break="no"/>num panem manducamus, unum omnes corpus efficimur: dividi enim 
+      <lb ed="#H" n="181"/>atque sejungi Christus non patitur. Idcirco etiam Ecclesia corpus 
+      Chri<lb ed="#H" n="182" break="no"/>sti facta est &amp; nos singuli membra Christi secundum Paulum. Una 
+      <lb ed="#H" n="183"/>enim Christo per corpus suum conjuncti, quoniam in nobis illum, qui  
+      <lb ed="#H" n="184"/>est indivisibilis, accepimus, ipsi potius quam nobis membra nostra ac¬ 
+      <!--cod-MkL9py-0256.xml-->
+      <pb ed="#H" n="229"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>commodantur. Quod autem Ecclesia corpus a singulis hominibus 
+      <lb ed="#H" n="2"/>tanquam membris compositum, Salvator vero caput sit, Paulus 
+      oste<lb ed="#H" n="3" break="no"/>dit dicens: Ut iam non simus parvuli fluctuantes, nec circumferamus 
+      <lb ed="#H" n="4"/>omni vento doctrinae, in nequitia hominum, in astutia ad 
+      circumven<lb ed="#H" n="5" break="no"/>tionem erroris: veritatem autem sequentes, in charitate crescamus 
+      i<lb ed="#H" n="6" break="no"/>illo per omnia, qui est caput Christus, ex quo totum corpus compactum 
+      <lb ed="#H" n="7"/>&amp; connexum per omnem juncturam subministrationis secundum 
+      o<lb ed="#H" n="8" break="no"/>perationem in mensuram uniuscujusque membri, augmentum 
+      corpo<lb ed="#H" n="9" break="no"/>ris facit in aedificationem sui in charitate. Quod autem corporalis 
+      hae<lb ed="#H" n="10" break="no"/>unio ad Christum participatione carnis ejus acquiritur, ipse rursus 
+      <lb ed="#H" n="11"/>Paulus de mysterio pietatis disserens, testatur: Quod aliis, inquit, 
+      ge<lb ed="#H" n="12" break="no"/>nerationibus non est agnitum filiis hominum, sicut nunc revelatum 
+      <lb ed="#H" n="13"/>est sanctis Apostolis ejus, &amp; Prophetis in Spiritu, esse gentes cohaeredes 
+      <lb ed="#H" n="14"/>&amp; concorpores, &amp; conparticipes promissionis in Christo. Si autem 
+      o<lb ed="#H" n="15" break="no"/>mnes inter nos in Christo unum sumus corpus, nec inter nos solum, 
+      ve<lb ed="#H" n="16" break="no"/>rum etium cum eo qui per carnem suam ad nos transivit: quomodo 
+      <lb ed="#H" n="17"/>universi &amp; inter nos, &amp; in Christo unum non erimus: Christus enim 
+      <lb ed="#H" n="18"/>est hujus unionis vinculum, qui Deus simul &amp; homo est. Sed de unio 
+      <lb ed="#H" n="19"/>ne corporali satis, de spirituali autem eandem viam sequentes, 
+      dici<lb ed="#H" n="20" break="no"/>mus: Quia Spiritu Sancto recepto, &amp; inter nos quodam modo &amp; cum 
+      <lb ed="#H" n="21"/>Deo unimur. Nam quamvis unicuique nostrum Patris, &amp; suum 
+      Chri<lb ed="#H" n="22" break="no"/>stus Spiritum distribuit, indivisibilis tamen Spiritus est, &amp; 
+      distribu<lb ed="#H" n="23" break="no"/>tus singulis Spiritus in seipso unit, &amp; omnes quibus distributio facti 
+      <lb ed="#H" n="24"/>est, unum in seipso efficit. Et sicut virtus sanctissimae Christi carnis 
+      u<lb ed="#H" n="25" break="no"/>num corpus facit participantes, eodem arbitror pacto, in quibus 
+      indi<lb ed="#H" n="26" break="no"/>visibilis Dei Spiritus habitavit, eos omnes ad unitatem spiritualem 
+      <lb ed="#H" n="27"/>conducit Ideo rursum Paulus nobis scripsit, Supportantes invicem in 
+      <lb ed="#H" n="28"/>charitate, solliciti servare unitatem Spiritus in vinculo pacis: unum 
+      <lb ed="#H" n="29"/>corpus, &amp; unus Spiritus, sicut &amp; vocati estis in una spe vocationis 
+      ve<lb ed="#H" n="30" break="no"/>strae. Vnus Dominus, una fides, unum baptisma, unus Deus &amp; Pater I 
+      <lb ed="#H" n="31"/>omnium, qui super omnes, &amp; per omnia, &amp; in omnibus nobis. Quum 
+      <lb ed="#H" n="32"/>enim unus in nobis habitat Spiritus, unus verus &amp; Pater omnium 
+      pe<lb ed="#H" n="33" break="no"/>Filium suum in nobis habitat, adinvicem &amp; secum sui participes 
+      Spi<lb ed="#H" n="34" break="no"/>ritus uniens. Quod autem Spiritui Sancto sic uniamur, etiam hac 
+      ra<lb ed="#H" n="35" break="no"/>tione modo quodam percipitur. Nam si animalem vitam 
+      contempsi<lb ed="#H" n="36" break="no"/>mus, &amp; legi nos spirituali subjecimus, nostri Domini in omnibus 
+      Spi<lb ed="#H" n="37" break="no"/>ritum facientes, perspicuum est ad aliam quasi naturam nos 
+      trans<lb ed="#H" n="38" break="no"/>formari: quum vivendi animalitatis nostrae modum fugientes, 
+      con<lb ed="#H" n="39" break="no"/>formationem habitantis in nobis Spiritus mirabilem susceperimus, 
+      <lb ed="#H" n="40"/>non solum homines, verum etiam Dei Filij, coelestesque homines 
+      parti<lb ed="#H" n="41" break="no"/>cipatione divinae naturae unum effecti. Ergo in Patre, Filio &amp; Spiriti 
+      <lb ed="#H" n="42"/>omnes sumus unum. Vnum autem dico habitudine atque affectu, ut in 
+      <lb ed="#H" n="43"/>cipientes dicebamus: Vnum pietatis consensu, unum sanctae Christ. 
+      <lb ed="#H" n="44"/>carnis communione, unum unius Sancti Spiritus partici? atione. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1134">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>dem cap. 27. Naturalem atque consubstantialem cum Patre 
+      uni<lb ed="#H" n="46" break="no"/>genitus unionem habet, ex quo natus est vere, &amp; in quo est. Vnum 
+      <lb ed="#H" n="47"/>enim est cum Patre identitate substantiae, quamvis in propria 
+      subsi<lb ed="#H" n="48" break="no"/>stentia sit. Et mox: Vniuntur enim inter se fideles illis modis, quos jam 
+      <lb ed="#H" n="49"/>exposuimus. Uniuntur autem etiam Deo, &amp; modum ipse Salvator 
+      a<lb ed="#H" n="50" break="no"/>peruit, dicens: Ego in ipsis, &amp; tu in me, ut in unum sint consummati. 
+      <lb ed="#H" n="51"/>Corporaliter enim Filius per benedictionem mysticam nobis ut home 
+      <lb ed="#H" n="52"/>unitur, spiritualiter autem ut Deus, sui spiritus gratia, nostrum 
+      ad<lb ed="#H" n="53" break="no"/>novam vitam, &amp; divinae naturae participationem, Spiritum redinte 
+      <lb ed="#H" n="54"/>grans. Nexus igitur unionis nostrae ad Deum Patrem Christus est: 
+      no<lb ed="#H" n="55" break="no"/>bis quidem ut homo Deo autem Patri ut Deus naturaliter unitus 
+      <lb ed="#H" n="56"/>Non erat enim possibile, corruptioni subjectam hominis naturam ad 
+      <lb ed="#H" n="57"/>immortalitatem conscendere, nisi natura immortalis atque 
+      incomuta<lb ed="#H" n="58" break="no"/>bilis ad eam descendisset, ac communione, participationeque sui a 
+      mor<lb ed="#H" n="59" break="no"/>talitatis nostrae terminis ad suum bonum reformatos elevaret. 
+      Con<lb ed="#H" n="60" break="no"/>summati ergo sumus, reductique ad unionem Dei Patris mediationes 
+      <lb ed="#H" n="61"/>Salvatoris, id est, Christi. Filium enim Dei natura Patri unitum, 
+      <lb ed="#H" n="62"/>corporaliter, substantialiterque (ut dictum est) accipientes, 
+      clarifica<lb ed="#H" n="63" break="no"/>mur glorificamurque supremae facti naturae participes. Accipi autem 
+      <lb ed="#H" n="64"/>nos ad Dei Patris unionem Christus vult, ut tum hanc gloriam 
+      na<lb ed="#H" n="65" break="no"/>turae per seipsum praebeat, tum hujus gratiae vi eos redarguat, qui eum 
+      <lb ed="#H" n="66"/>ex Deo esse negant. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1186">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>OEIECTIO X. Quorum diversa est uoluntas, eorundem diver 
+      <lb ed="#H" n="68"/>sa est essentia: Patris &amp; Filij diversa est uoluntas. Ergo &amp; diversa 
+      es<lb ed="#H" n="69" break="no"/>sentia. Assumtionem probant ex precatione illa Christi Matth. 26. 
+      <lb ed="#H" n="70"/>vers. 39. Pater mi, si possibile est, abeat a me poculum istud: 
+      verunta<lb ed="#H" n="71" break="no"/>men non ut ego volo, sed ut tu¬ 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1203">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>RESP Propositio major est distinguenda ac restringenda: Quo 
+      <lb ed="#H" n="73"/>rum diversa est uoluntas, eorum diversa est essentia, nimirum si 
+      qui<lb ed="#H" n="74" break="no"/>libet eorum unam solum naturam habeat. Jam Patris &amp; Filij diver 
+      <lb ed="#H" n="75"/>sam esse voluntatem concedimus, si humanam Filij Dei naturam spo 
+      <lb ed="#H" n="76"/>ctemus, eamque ut creatam secundum essentiam voluntati Patris 
+      u<lb ed="#H" n="77" break="no"/>increatae opponamus: atque ita duas diversas essentias, divinam &amp; 
+      hu<lb ed="#H" n="78" break="no"/>manam, increatam &amp; creatam agnoscimus. Si autem diversitatem 
+      <lb ed="#H" n="79"/>interPatris &amp; divinam Christi voluntatem qui statuerit, error est 
+      ma<lb ed="#H" n="80" break="no"/>nifestus. Nec ad cum probandum facit locus ex Matthaeo allegatus 
+      <lb ed="#H" n="81"/>qui non de divina, sed de humana Christi voluntate est intelligendus. 
+      <lb ed="#H" n="82"/>Humana enim Christi natura mortem &amp; sensum irae Dei 
+      expavesce<lb ed="#H" n="83" break="no"/>bat, fugiebat &amp; deprecabatur  
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1234">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>OBIECTIOXI. Qui Deum non alia ratione suum Patrem &amp; 
+      <lb ed="#H" n="85"/>Deum esse agnoscit, quam est alierum fidelium, is non est coessentialis 
+      <lb ed="#H" n="86"/>Deo Patri: Christus non alia ratione Deum agnoscit suum Patrem 
+      <lb ed="#H" n="87"/>&amp; Deum, quam est aliorum fidelium: Ergo Christus non est coessem 
+      <lb ed="#H" n="88"/>tialis Deo Patri. Assumtio probatur ex verbis Christi Joh. 20. v. 17. 
+      <lb ed="#H" n="89"/>Adscendo ad Patrem meum &amp; Patrem vestrum, ad Deum meum &amp; 
+      <lb ed="#H" n="90"/>ad Deum vestrum. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1254">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>RESP. Assumtio negatur: &amp; ad probandam illam perperam alle 
+      <lb ed="#H" n="92"/>gantur: erba Christi ad Mariam dicta. Nam repetitio illa nominum 
+      <!--cod-MkL9py-0256.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>Patris &amp; Dei cum distinctione quae est in pronominibus meum, 
+      ve<lb ed="#H" n="94" break="no"/>strum, adhibita, indicat diversam rationem. Nam Christus Patrem 
+      <lb ed="#H" n="95"/>meum dixit, secundum naturam in Deitate &amp; unionem personalem 
+      <lb ed="#H" n="96"/>in carne assumta, &amp; Patrem vestrum secundum gratiam in 
+      adoptio<lb ed="#H" n="97" break="no"/>ne filiorum Dei: Deum meum dicit, respectu naturae humanae, quia 
+      <lb ed="#H" n="98"/>arnem vestram assumsi, &amp; Deum vestrum natura ac veritate 
+      <lb ed="#H" n="99"/>QBIECTIOXII. Quicunque a Deo se desertum queritur, is nen est 
+      <lb ed="#H" n="100"/>usdem essentiae cum Deo: Christus a Deo se desertum queritur 
+      pen<lb ed="#H" n="101" break="no"/>dens in eruce &amp; exclamans voce magna, Deus mi, Deus mi, cur 
+      dese<lb ed="#H" n="102" break="no"/>ruisti me? Matth. 27. 46. Ergo: &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1289">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>RESP. Assumtio &amp; locus ex Matthaeo adductus intelligi debet 
+      se<lb ed="#H" n="104" break="no"/>cundum quid, non autem simpliciter. Nam querela &amp; exclamatio illa 
+      <lb ed="#H" n="105"/>fuit propria humanae Christi naturae demersae in infernales angores 
+      <lb ed="#H" n="106"/>&amp; incredibiles cruciatus ex sensu irae divinae in ipsam propter peccat;  
+      <lb ed="#H" n="107"/>nostra a Deo effusae. Quod autem a Christo secundum humanam 
+      <lb ed="#H" n="108"/>naturam dictum est, non recte ad Deitatem ejus torquetur.  
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1307">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>OEIECTIOXIII. Qui est mediator inter Deum &amp; homines, u 
+      <lb ed="#H" n="110"/>con est ejusdem cum Deo essentiae 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1316">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>Christus est mediator inter Deum &amp; homines: teste Paulo 1. 
+      Ti<lb ed="#H" n="112" break="no"/>moth 2. v. 5. ubi ait: Vnus enim est Deus, unus etiam mediator Dei &amp; 
+      <lb ed="#H" n="113"/>hominum, homo Christus Iesus. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1328">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Ergo Christus non est ejusdem cum Deo essentiae. 
+      <lb ed="#H" n="115"/>Hoc appellant Samosateniani insigne prorsus, semperque trium 
+      <lb ed="#H" n="116"/>phans argumentum. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1339">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>RESP. Propositio non est universaliter vera: dari enim potes. 
+      <lb ed="#H" n="118"/>duntaxat de eo, qui ita est mediator, ut sit solummodo internuncius 
+      <lb ed="#H" n="119"/>Dei ad homines, sicut Moses Gal. 3. v. 19. appellatur μισιτης, 
+      media<lb ed="#H" n="120" break="no"/>tor, hoc est, internuncius, cujus opera ac ministerio Deus usus est in 
+      <lb ed="#H" n="121"/>deferenda ad Israelitas lege ordinata, hoc est, tradita Mosi per 
+      An<lb ed="#H" n="122" break="no"/>gelos ut Dei administros. De eo autem qui ita Mediator est Dei &amp; 
+      <lb ed="#H" n="123"/>hominum, ut Deo irato reconciliet homines perditos, de eo, inquam, 
+      <lb ed="#H" n="124"/>dari nequit. Nam Deo nos reconciliare nemo potest, nisi idem 
+      natu<lb ed="#H" n="125" break="no"/>ra Deus sit. Jam in assumtione &amp; dicto Pauli Christus Mediator 
+      di<lb ed="#H" n="126" break="no"/>citur, qui Deum nobis placat, nosque ei reconciliat. Est igitur 
+      Chri<lb ed="#H" n="127" break="no"/>stus natura Deus ejusdem essentiae cum Patre. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1368">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>Instant: Apud Deum Christus est Mediator.  
+      <lb ed="#H" n="129"/>Apud seipsum Christus non est mediator: 
+      <lb ed="#H" n="130"/>Ergo ipse non est Deus. 
+      <lb ed="#H" n="131"/>RESP. Homonymia est primo in nomine Dei, tum in 
+      propositio<lb ed="#H" n="132" break="no"/>ne tum in conclusione. Nam Dei nomen vel ὑσεαδυς capitur, vel ὑ
+      e<lb ed="#H" n="133" break="no"/>σατιϰώς. Si θοσκτικως accipiatur, concedimus conclusionem: nam 
+      Fi<lb ed="#H" n="134" break="no"/>lius non est Pater: sin vero ὑσιοιδις sumatur, negamus. Sic si in 
+      pro<lb ed="#H" n="135" break="no"/>positione nomen Dei usurpetur ἐσιωδός, damus illam: sin ὑοσαλ¬ 
+      <lb ed="#H" n="136"/>κos, damus etiam recte intellectam: nempe si intelligatur de Patre. 
+      <lb ed="#H" n="137"/>non excluso Filio &amp; Spiritu Sancto. Sin vero excludatur Filius &amp; 
+      <lb ed="#H" n="138"/>Spiritus Sanctus, tum est falsa. Secundo falsa est assumtio: nam et 
+      <lb ed="#H" n="139"/>iam apud seipsum Christus est Mediator, si officium mediationis 
+      spe<lb ed="#H" n="140" break="no"/>ctemus. Et certe Mediator nomen officij potius est, quam personae. 
+      <lb ed="#H" n="141"/>Probamus enim quod Cyrillus tomo tertio libro de recta fide ad Re¬ 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1403">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>inas fol. 129. b. editionis Basiliensis Cratandrianae Anni 1528. 
+      scri<lb ed="#H" n="143" break="no"/>bit in hunc modum: Sacrificij modum, non sicut unus quidam ex 
+      no<lb ed="#H" n="144" break="no"/>bis sacerdotibus affert serviliter, nihil ipse in hoc commune habens, ut 
+      <lb ed="#H" n="145"/>illud suscipiat, sed sibiipsi conciliat, &amp; per seipsum &amp; in ipso Patri. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1416">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>Replicant Samosateniani. 
+      <lb ed="#H" n="147"/>Qui sibiipsi non potest dici recociliare alios per satisfactionem 
+      sibi<lb ed="#H" n="148" break="no"/>ipsi a seipso factam, is certe etiam non est apud seipsum Mediator: 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1427">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>At Christus non potest dici sibiipsi reconciliare alios per 
+      satisfactio<lb ed="#H" n="150" break="no"/>nem sibiipsi a seipso factam: 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1437">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>Ergo Christus apud seipsum non est Mediator.  
+      <lb ed="#H" n="152"/>Minorem probant, quia nemo potest dici sibi per actum justitiae 
+      <lb ed="#H" n="153"/>satisfacere, sed actus justitiae est ad alium 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1448">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>RESP. Assumtio est falsa: &amp; probatio ejus solum particularis. 
+      Et<lb ed="#H" n="155" break="no"/>si enim actus justitiae est ad alium conmuniter: tamen etiam ad ipsum 
+      <lb ed="#H" n="156"/>agentem respicit ferturque. Ita mediationis actus ad alium 
+      commu<lb ed="#H" n="157" break="no"/>niter pertinet, si personam tertiam ac intermediam spectes quae 
+      inter<lb ed="#H" n="158" break="no"/>offensum &amp; offendentem intercedit: si vero officium consideres, 
+      in<lb ed="#H" n="159" break="no"/>ter personam offensam &amp; partem offendente reconciliatio fieri pot 
+      <lb ed="#H" n="160"/>est, alia persona non interveniente. Hoc mandatum Christi docet, 
+      <lb ed="#H" n="161"/>&amp; exempla confirmant. Nam Christus diserte imperat Matth. 5. ver. 
+      <lb ed="#H" n="162"/>23, 24, 25. Si munus tuum attuleris ad altare, &amp; illic memineris 
+      fra<lb ed="#H" n="163" break="no"/>trem tuum habere aliquid contra te, Omitte illic munus tuum 
+      co<lb ed="#H" n="164" break="no"/>ram altari, &amp; abi: primum reconciliator fratri tuo, &amp; tunc ubi 
+      ve<lb ed="#H" n="165" break="no"/>neris offer munus tuum. Esto amicus adversario tuo cito. Et cap. 18. 
+      <lb ed="#H" n="166"/>ver. 15. Si peccaverit in te frater tuus, ito, &amp; argue eum inter te &amp; 
+      <lb ed="#H" n="167"/>ipsum solum: si te audierit, lucratus es fratrem tuum. Exempla vero 
+      <lb ed="#H" n="168"/>sunt illustria: Deus ipse, qui gravissime offensus fuerat ab Adamo &amp; 
+      <lb ed="#H" n="169"/>Eva per inobedientiam, primus &amp; ultro quaesivit Adamum &amp; Evam 
+      <lb ed="#H" n="170"/>latitantes &amp; sibi metuentes. Israelitae a Benjaminitis offensi 
+      confe<lb ed="#H" n="171" break="no"/>cto contra illos bello, ultro sibi illos reconciliarunt Judic. 20. Davie¬ 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1492">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>ost seditionem &amp; rebellionem subditorum, cujus autor Absalomus 
+      <lb ed="#H" n="173"/>suerat, nonne suam tribum solicitans ad se reducendum, subditos sibi 
+      <lb ed="#H" n="174"/>ipse reconciliavit? 2. Sam. 19. v. 12. &amp; sequentibus. Et absurdum erit 
+      <lb ed="#H" n="175"/>quod Filius Dei ipse sibi humanum genus reconciliavit: 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1505">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Instant: Nemo seipsum rogat ut offendentibus ignoscat: Ergo 
+      Fili<lb ed="#H" n="177" break="no"/>us Dei non est mediator noster apud seipsum. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1514">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>RESPON. Committitur sophisma ex nimis angusta definitiono 
+      <lb ed="#H" n="179"/>Mediatoris: nam Mediator non is tantum est qui pro alio rogat, sed  
+      <lb ed="#H" n="180"/>qui quocunque modo partem offendentem reconciliat parti 
+      offensae<lb ed="#H" n="181" break="no"/>sive alij, non tantum rogando, sed etiam aliis modis: sive sibiipsi. Rex 
+      <lb ed="#H" n="182"/>aliquis invitans rebelles subditos ut in viam &amp; ad debitam obediem 
+      <lb ed="#H" n="183"/>tiam redeant &amp; illos in gratiam recipiens, nonne mediationis officio 
+      <!--cod-MkL9py-0257.xml-->
+      <pb ed="#H" n="230"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>inter se &amp; illos ipsemet fungitur? &amp; num seipsum rogat? Falsum 
+      igi<lb ed="#H" n="2" break="no"/>tur est enthymematis consequens. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1543">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Urgent amplius: Si Pater, Filius &amp; Spiritus Sanctus sunt 
+      ejus<lb ed="#H" n="4" break="no"/>dem essentiae &amp; naturae, tum omnes aequaliter sunt offensi &amp; 
+      aequali<lb ed="#H" n="5" break="no"/>ter offensam ponunt, ac proinde unus apud alterum Mediator esse non 
+      <lb ed="#H" n="6"/>potest: At Filius est Mediator apud Patrem: Ergo non est ejusdem 
+      <lb ed="#H" n="7"/>essentiae &amp; naturae cum Patre. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1560">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>RESP. Negamus sumti consequentiam: quia si inter homines 
+      <lb ed="#H" n="9"/>Rege &amp; filio ejus aequaliter offenso a subditis rebellibus, silius me 
+      <lb ed="#H" n="10"/>diatorem se constituere potest vel dissimulans offensionem, non 
+      <lb ed="#H" n="11"/>quod ignoverit subditis, sed quod animum habeat ignoscendi, si ad 
+      <lb ed="#H" n="12"/>obsequium illi redierint; vel omnibus officiis &amp; beneficiis illos 
+      am<lb ed="#H" n="13" break="no"/>plius revincere volens; &amp; haec inter virtutes regias minime postrema 
+      <lb ed="#H" n="14"/>est: quidni eandem aut certe majorem in Christo Filio Dei 
+      agno<lb ed="#H" n="15" break="no"/>scamus? 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1582">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>OBIECTIOXIV. Si Pater, Filius &amp; Spiritus Sanctus sunt 
+      uni<lb ed="#H" n="17" break="no"/>us &amp; ejusdem singularis essentiae: tum Filio incarnato, etiam Pater 
+      <lb ed="#H" n="18"/>est incarnatus &amp; Spiritus Sanctus. Sed consequens est absurdum: 
+      Er<lb ed="#H" n="19" break="no"/>go &amp; antecedens 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1595">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>RESP. Negatur connexi consequentia: quia Filius non est 
+      in<lb ed="#H" n="21" break="no"/>carnatus in essentia quae ipsi communis est cum Patre &amp; Spiritu 
+      San<lb ed="#H" n="22" break="no"/>cto, sed in persona quae ipsi propria est, realiter a personis Patris &amp; 
+      <lb ed="#H" n="23"/>Spiritus Sancti distincta: sicut dicitur Johan. 1. vers. 14. Sermo ille 
+      ca<lb ed="#H" n="24" break="no"/>ro factus est. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1611">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Instant: Filius Dei est incarnatus: Filius Dei est tota essentia 
+      di<lb ed="#H" n="26" break="no"/>vina: Ergo tota essentia divina est incarnata 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1620">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>RESP. Filius Dei est incarnatus, nempe in persona sua. Filius 
+      <lb ed="#H" n="28"/>Dei est tota essentia divina, non simpliciter, sed modo exsistendi 
+      de<lb ed="#H" n="29" break="no"/>terminata in persona ipsius. Ideo non est incarnatus in essentia divi 
+      <lb ed="#H" n="30"/>na simpliciter, quatenus illa communis est ipsi cum Patre &amp; Spiriti 
+      <lb ed="#H" n="31"/>Sancto, sed qua peculiari modo in Filio subsistit. Ideo utrumque 
+      re<lb ed="#H" n="32" break="no"/>cte dicitur, Deus manifestatus est in carne, 1. Timoth. 3. vers. 16. Et  
+      <lb ed="#H" n="33"/>Filius semen Abrahami assumsit Hebr. 2. v. 16. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1640">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>OEIECTIOXV. Si Pater, Filius &amp; Spiritus Sanctus sunt ejus: 
+      <lb ed="#H" n="35"/>dem essentiae, tum plura sunt rerum principia, quam unum. At 
+      con<lb ed="#H" n="36" break="no"/>sequens est absurdum: Ergo &amp; antecedens: 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1652">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>RESP. Negatur connexi consequentia: quia ex posito 
+      antece<lb ed="#H" n="38" break="no"/>dente sequitur quod Samosatenianis &amp; Arianis est contrarium. Si 
+      <lb ed="#H" n="39"/>enim. Pater, Filius &amp; Spiritus Sanctus sunt una essentia singularis, 
+      <lb ed="#H" n="40"/>tum unum sunt rerum omnium principium 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1665">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>OBIECTIOXVI. Si Filius est verus Deus de Deo vero, tum 
+      <lb ed="#H" n="42"/>duae sunt essentiae Patris &amp; Filij. At prius est, ut habet expresse 
+      Sym<lb ed="#H" n="43" break="no"/>polum Nicaenum: Ergo &amp; posterius est 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1676">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>RESP. Errant adversarij ob homonymiam in nomine Dei. Nam 
+      <lb ed="#H" n="45"/>suum in Symbolo Nicaeno dicitur, quod Filius sit verus Deus 
+      geni<lb ed="#H" n="46" break="no"/>tus de Deo vero, nomen DEI χυσατικώς accipitur: at ipsi ἔσεωδυς 
+      <lb ed="#H" n="47"/>sumunt.  
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1689">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>OEIECTIO XVII. Si Filius ita est consubstantialis Patri 
+      se<lb ed="#H" n="49" break="no"/>eundum diuvinitatem, sicuti nobis hominibus consubstantialis est se 
+      <lb ed="#H" n="50"/>cundum humanicatem: tum non est ejusdem singularis essentiae cum 
+      <lb ed="#H" n="51"/>Patre. Ratio est: quia nobis hominibus ita consubstantialis est Filius 
+      <lb ed="#H" n="52"/>secundum humanitatem, ut sit nobiscum ejusdem substantiae in 
+      spe<lb ed="#H" n="53" break="no"/>cie tantum, non autem in individuo. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1707">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>At verum est antecedens, ut docet Symbolum Chalcedonense;. Ergo 
+      <lb ed="#H" n="55"/>verum est &amp; consequens. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1716">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>RESP. Negatur assumtum, si paritas consubstantialitatis Filij. 
+      <lb ed="#H" n="57"/>cum Patre &amp; nobiscum in ea statuitur. Nec paritas illa ex 
+      Symbolo<lb ed="#H" n="58" break="no"/>Chalcedonensi probari potest, quod particulas comparationis non 
+      <lb ed="#H" n="59"/>habet, sed tantum docet, Christum esse consubstantialem Patri se 
+      <lb ed="#H" n="60"/>cundum divinitatem &amp; consubstantiale nobis hominibus secundum 
+      <lb ed="#H" n="61"/>humanitatem, ad stabiliendam veritatem utriusque naturae in 
+      Chri<lb ed="#H" n="62" break="no"/>sto divinae &amp; humanae adversus Eutychen haereticum. Interim 
+      liben<lb ed="#H" n="63" break="no"/>ter fatemur esse discrimen inter utramque consubstantialitatem: nam 
+      <lb ed="#H" n="64"/>Deo Patri Filius ita est consubstantialis, ut eadem singularis 
+      sub<lb ed="#H" n="65" break="no"/>stantia Deitatis sit utrique communis, quia est infinita: nobis aute iden 
+      <lb ed="#H" n="66"/>Filius ita est consubstantialis, ut speciem eandam humanitatis nobis 
+      <lb ed="#H" n="67"/>cum participet, etiamsi assumtae humanitatis essentia singularis seu 
+      <lb ed="#H" n="68"/>individua ab aliorum hominum essentiis individuis realiter distincta 
+      <lb ed="#H" n="69"/>sit &amp; maneat, quia est finita 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1752">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>OEIECTIOXVIII. Qui est ab alio, non est ejusdem essentiae cum 
+      <lb ed="#H" n="71"/>eo qui a nullo est. Filius est ab alio, nempe a Patre; Spiritus Sanctus 
+      <lb ed="#H" n="72"/>itidem est ab alio, nempe a Patre &amp;, Filio: Ergo Filius &amp; Spiritus 
+      <lb ed="#H" n="73"/>Sanctus non sunt ejusdem essentiae cum Patre, qui a nullo est; 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1765">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>RESPON. Primo major propositio non est univerre vera, ne 
+      <lb ed="#H" n="75"/>quidem de rebus creatis: nam Abel fuit ab Adamo &amp; Eva genitus 
+      <lb ed="#H" n="76"/>Adamus a nullo homine est genitus; nihilominus tamen Abel fuit 
+      <lb ed="#H" n="77"/>ρμογσιος Adamo, uterque perfectus homo ejusdemque speciei, id est, 
+      <lb ed="#H" n="78"/>naturae &amp; essentiae. Diversus exsistendi modus non efficit diversam 
+      <lb ed="#H" n="79"/>essentiam, sed tantum aliam &amp; distinctam personam. Deinde minor 
+      <lb ed="#H" n="80"/>vera est secundum quid accepta: Filius est ab alio, nempe a Patre, 
+      ni<lb ed="#H" n="81" break="no"/>mirum quoad personam, non autem quoad essentiam, qua non 
+      mi<lb ed="#H" n="82" break="no"/>nus est Deus a seipso, quam Pater. Ita &amp; Spiritus Sanctus est ab alie 
+      <lb ed="#H" n="83"/>nempe a Patre &amp; Filio, itidem quoad personam, non autem quoa 
+      <lb ed="#H" n="84"/>essentiam, qua Deus est a seipso, non minus quam Pater &amp; Filius 
+      <lb ed="#H" n="85"/>Firmum igitur manet, Patrem, Filium &amp; Spiritum Sanctum est. 
+      <lb ed="#H" n="86"/>coessentiales, seu unam &amp; eandem numero essentiam singularem 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1798">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>esse; quod nobis erat propugnandum defenden¬ 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1805">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>dumque. 
+      <!--cod-MkL9py-0257.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>CAPUT X. 
+      <lb ed="#H" n="90"/>In quo refelluntur obiectiones contra aequalitatem 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1821">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>personarum Deitatis, 
+      <lb ed="#H" n="92"/>TUPERIORE capite refutatae sunt objectiones contra αμδυσίαν 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1830">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>personarum Sacrosanctae Trinitatis: jam confutandae sunt 
+      ob<lb ed="#H" n="94" break="no"/>jectiones, quas ad convellendam aequalitatem personarum in 
+      ve<lb ed="#H" n="95" break="no"/>ritatem divinam, contorquent ij qui personas Deitatis simpliciter &amp; 
+      <lb ed="#H" n="96"/>prorsus inaequales in omnibus rebus esse contendunt, tum ex 
+      Scri<lb ed="#H" n="97" break="no"/>pturae dictis male detortis, tum ex aliis argumentis. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1847">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>OEIECTIO I. Filio major est Pater: Ergo Filius non est aequalis 
+      <lb ed="#H" n="99"/>Patri. Antecedens probatur ex Johan. 14. 28. Proficiscor ad Patrem: 
+      <lb ed="#H" n="100"/>nam Pater major me est. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1858">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>RESP. Proceditur a dicto secundum quid ad dictum simpliciter  
+      <lb ed="#H" n="102"/>nam antecedens &amp; dictum Christi secundum quid intelligi debent, 
+      <lb ed="#H" n="103"/>Filio major est Pater, non Deitate, non proprietatibus essentialibus. 
+      <lb ed="#H" n="104"/>Deitatis, non majestate, gloria, honore; sed ratione generationis, 
+      of<lb ed="#H" n="105" break="no"/>ficij Mediatorij &amp; humanitatis Filij. Ratione generationis, quia 
+      Fi<lb ed="#H" n="106" break="no"/>lius a Patre est genitus ut a causa &amp; principio personae suae. Sic 
+      Gre<lb ed="#H" n="107" break="no"/>gorius Nagiangenus Orat. 2. de Filio ait, δἰλον, ὅπ τό μειζον μδυ ἐσι τη  
+      <lb ed="#H" n="108"/>ἄίτίας: το αι ἐτον, τῆε φυσεως, κι τοπο θτό πολλῆς δυγνωμοσθης ὀμολ
+      o<lb ed="#H" n="109" break="no"/>γουδημεις, id est, Manifestum, quod majus dicatur causae ratione; 
+      ae<lb ed="#H" n="110" break="no"/>quale autem naturae respectu; &amp; hoc cum multo animi candore non 
+      <lb ed="#H" n="111"/>confitemur. Sic Basilius Magnus libro primo adversus Eunomium 
+      <lb ed="#H" n="112"/>negantem aequalitatem Filij cum Patre, non procul a fine libri ait de 
+      <lb ed="#H" n="113"/>sensu verborum Christi, Pater major me est; λει πτι τοίνυν κο &amp; γ αι¬ 
+      <lb ed="#H" n="114"/>τιας λοόγον ενανθα τό μειζον λεγεο επειδη γι λι γ Πατζος ἡη αρχι τῶ ῳ 
+      <lb ed="#H" n="115"/>κι τοι μειζαν o Πατης, ως αιηος κι αρχε. hoc est, Relinquitur ergo 
+      u<lb ed="#H" n="116" break="no"/>majus dicatur eo loco pro causae ratione. Quoniam enim Filij origo est: 
+      <lb ed="#H" n="117"/>a Patre, eo respectu major est Pater, ut causa &amp; origo. Et ante hos B 
+      <lb ed="#H" n="118"/>Athanasius oratione secunda contra Arianos, pagina 181, edit 
+      Com<lb ed="#H" n="119" break="no"/>melin. ait: μιζαν εἰπονν α μεγιθει κνσ, α ι χζόιῳ αλλα δα τον εγ dνο ς 
+      <lb ed="#H" n="120"/>τάτιρος διόνκσιν, hoc est, Quod major sit dicit; non quidem 
+      magnitu<lb ed="#H" n="121" break="no"/>line aut aetate, sed propter generationem ex Patre ipso. Hoc dixerunt  
+      <lb ed="#H" n="122"/>Gregorius Nazianzenus, Basilius Magnus &amp; Athanasius Magnus 
+      <lb ed="#H" n="123"/>contra Arianos disputantes. Nec aliter Latini Theologi. 
+      TERTVI<lb ed="#H" n="124" break="no"/>IANUS libro adversus Praxean, capite nono: Pater tota substantia 
+      <lb ed="#H" n="125"/>est, Filius vero derivatio totius &amp; portio (id est, soboles cui tota 
+      sub<lb ed="#H" n="126" break="no"/>stantia communicata) sicut ipse profitetur: Quia Pater major me est. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1919">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Et mox: Sic &amp; Pater alius a Filio, dum Filio major: dum alius 
+      <lb ed="#H" n="128"/>qui generat, alius qui generatur, &amp;c. Hi LARIUS libro nono de 
+      <lb ed="#H" n="129"/>Trinitate, pagina centesima septuagesimaoctava: Major itaque Pate. 
+      <lb ed="#H" n="130"/>Filio est, &amp; plane major, cui tantum donat esse, quantus ipse est: cui  
+      <lb ed="#H" n="131"/>innascibilis esse imaginem, sacramento nativitatis impertit, quem ex 
+      <lb ed="#H" n="132"/>se in forma sua generat. Et aliquanto post: Major itaque Pater est, dum 
+      <lb ed="#H" n="133"/>Pater est. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1939">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Deinde Filio major est Pater ratione officij Mediatorij quo 
+      Fi<lb ed="#H" n="135" break="no"/>lius tum in statu humiliationis defunctus est, tum in statu 
+      exaltatio<lb ed="#H" n="136" break="no"/>nis adhuc fungitur. Nam Filius Mediator noster apud Patrem 
+      fa<lb ed="#H" n="137" break="no"/>ctus est &amp; semetipsum exinanivit forma servi accepta, similis 
+      homini<lb ed="#H" n="138" break="no"/>bus factus, legi factus subjectus, exsecrationem a nobis in se 
+      susci<lb ed="#H" n="139" break="no"/>piens &amp; pro nobis passus, cruci affixus, mortuus &amp; sepultus: Pater 
+      ve<lb ed="#H" n="140" break="no"/>ro exinanitionem, partum, praesepe, aetatem, passionem, crucem, mor 
+      <lb ed="#H" n="141"/>tem, sepulcrum non est expertus, sed in illa personae suae beata 
+      aeterni<lb ed="#H" n="142" break="no"/>tate sine carnis nostrae susceptione mansit; ut Hilarius eodem libro 
+      <lb ed="#H" n="143"/>nono de Trinitate pagina centesima septuagesimasexta docet. In 
+      sta<lb ed="#H" n="144" break="no"/>tu vero exaltationis Pater Filium ad dexteram suam collocavit eique 
+      <lb ed="#H" n="145"/>nomen donavit quod est supra omne nomen; Donans autem major 
+      <lb ed="#H" n="146"/>est accipiente donum. Sic Hilarius loco prius citato ait: Quando 
+      igi<lb ed="#H" n="147" break="no"/>tur illud est, Pater major me est? nempe tum quum donatur ei nomen 
+      <lb ed="#H" n="148"/>super omne nomen. Et mox: Donantis autoritate Pater major est. 
+      <lb ed="#H" n="149"/>tem, major donans est. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1978">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>Denique Filio major est Pater ratione humanitatis a Filio 
+      as<lb ed="#H" n="151" break="no"/>sumtae, cujus respectu simpliciter major est Pater ut Deus aeternus &amp; 
+      <lb ed="#H" n="152"/>Creator humanitatis, 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e1989">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Ergo ratione generationis, officij Mediatorij &amp; humanae 
+      natu<lb ed="#H" n="154" break="no"/>rae Filij Pater major est Filio: sed natura, potentia, sapientia, 
+      bonita<lb ed="#H" n="155" break="no"/>te, gloria, majestate, honore Filius non est minor Patre, sed ei 
+      ae<lb ed="#H" n="156" break="no"/>qualis. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2003">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>OEIECTIO II. Cujus caput est Deus Pater, non est aequalis Dei 
+      <lb ed="#H" n="158"/>Patri: Christi caput est Deus Pater, ut Paulus testatur 1. Cor. 11. v. 3. 
+      <lb ed="#H" n="159"/>Ergo Christus non est aequalis Deo Patr., 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2014">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>RESP. Abeo quod secundum quid dicitur ad dictum simpliciter  
+      <lb ed="#H" n="161"/>non valet consequentia. Christi caput est Deus Pater, non simplici 
+      <lb ed="#H" n="162"/>ter, non quatenus Christus est Deus, sed quatenus Christus est 
+      Me<lb ed="#H" n="163" break="no"/>diator inter Deum &amp; nos. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2027">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>OEIECTIO III. Filius Dei tradet regnum Deo &amp; Patri, ut 
+      Pau<lb ed="#H" n="165" break="no"/>lus docet 1. Cor. 1524. Ergo non est aequalis Patri. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2036">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>RESP. Antecedens verum est tantum de regno Oeconomico set 
+      <lb ed="#H" n="167"/>Mediatorio, quod communiter regnum gratiae vocatur, de quo 
+      re<lb ed="#H" n="168" break="no"/>gno etiam Paulus Apostolus loquitur: non autem de essentiali seu 
+      <lb ed="#H" n="169"/>mere divino, quo si Filius se olim abdicaret, Patri aequalis non esset, 
+      <lb ed="#H" n="170"/>im. Deus non esset. Distingui enim oportet regnum Mediatorium 
+      <lb ed="#H" n="171"/>a regno cssentiali Deitatis. Traditio igitur regni, quam Christus in 
+      <lb ed="#H" n="172"/>ultimo illo dic faciet, non erit abdicatio regni divini quod ei 
+      commu<lb ed="#H" n="173" break="no"/>ne est cum Patre &amp; Spiritu Sancto, sed depositio officij temporarii, 
+      <lb ed="#H" n="174"/>quod ad regni gratiae in hac vita administrationem pertinet. Non 
+      <lb ed="#H" n="175"/>enim opus erit amplius post hanc vitam tali gubernatione Ecclesia 
+      <lb ed="#H" n="176"/>Christi, qualis jam est quam diu illa militat adversus Satanam, 
+      mun<lb ed="#H" n="177" break="no"/>dum &amp; carnen: sed regnum gloriae succedet, cujus regni non erit finis 
+      <!--cod-MkL9py-0258.xml-->
+      <pb ed="#H" n="231"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>OBIRCTIOIV. Filius Dei subjicietur Patri, qui subjecit ipsi 
+      o<lb ed="#H" n="2" break="no"/>mnia, ut Paulus docet 1. Cor. 15. 28. Ergo non est aequalis Patri. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2078">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>RESP. A dicto secundum quid ad dictum simpliciter non valet: 
+      <lb ed="#H" n="4"/>consequentia. Filius Dei subjicietur Patri non simpliciter omni 
+      mo<lb ed="#H" n="5" break="no"/>do, non imminutione dignitatis naturae suae divinae aut personae: sed  
+      <lb ed="#H" n="6"/>subjectionis in natura sua humana &amp; in officio Mediatorio quo 
+      se<lb ed="#H" n="7" break="no"/>cundum utramque naturam functus est, manifestatione in conspecti 
+      <lb ed="#H" n="8"/>totius Ecclesiae ad Patrem adductae. Christus enim subjectionem 
+      <lb ed="#H" n="9"/>non demum inchoabit post hanc vitam, sed manifestabit solum ac 
+      te<lb ed="#H" n="10" break="no"/>stificabitur traditione &amp; resignatione regni gratiae in manum 
+      Pa<lb ed="#H" n="11" break="no"/>tris, a quo illud acceperat. Erit igitur illa subjectio secundum 
+      huma<lb ed="#H" n="12" break="no"/>nam naturam simpliciter, secundum quam Christus Patrem Deum 
+      <lb ed="#H" n="13"/>suum agnoscit &amp; agnoscet; secundum officium vero oἰκονομικώς, dum 
+      <lb ed="#H" n="14"/>non amplius administrabit Ecclesiam humili isto modo quo jam eam  
+      <lb ed="#H" n="15"/>administrat, sed Deus erit omnia in omnibus. Secundum Deitatem 
+      <lb ed="#H" n="16"/>autem suam simpliciter &amp; in se consideratam, nequaquam Filius 
+      Pa<lb ed="#H" n="17" break="no"/>tri subjicitur: ac proinde secundum eam non est inaequalis Patria 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2115">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>OEIECTIOV. Nulla creatura est aequalis Deo Patri: Filius est 
+      <lb ed="#H" n="19"/>creatura, ut &amp; Spiritus Sanctus: Ergo Filius &amp; Spiritus Sanctus non 
+      <lb ed="#H" n="20"/>sunt aequales Deo Patri. Assumtionis membra sunt duo. Prius, quod 
+      <lb ed="#H" n="21"/>est de Filio, probare nituntur adversarij subjectis testimoniis, 
+      Pro<lb ed="#H" n="22" break="no"/>verb. 8. v. 22. οκυριος ικλισι μς, DOMINUS creavit me principio 
+      vi<lb ed="#H" n="23" break="no"/>suae. Syrach. 1. v. 4. Prior omnibus creata est sapientia: Et cap. 24. v. 8. 
+      <lb ed="#H" n="24"/>Tunc mandavit mihi creator omnium, &amp; qui creavit me fecit ut res 
+      <lb ed="#H" n="25"/>quiesceret tentorium meum. Et v. 10. Ante seculum a principio 
+      crea<lb ed="#H" n="26" break="no"/>vit me, &amp; in secula minime defectura sum, in tentorio sancto 
+      coran<lb ed="#H" n="27" break="no"/>illo ministravi. Coloss. 1. 15. qui est primogenitus omnis rei conditae. 
+      <lb ed="#H" n="28"/>Johan. 1. v. 1. In principio erat Sermo: ergo non sine principio quo 
+      pri<lb ed="#H" n="29" break="no"/>mum exsistere coepit. Et v. 15. &amp; 27. ait de eo Johannes Baptista, Ipso 
+      <lb ed="#H" n="30"/>ist, qui post me venturus est, qui ante me factus est: &amp; v. 30. Hic est de 
+      <lb ed="#H" n="31"/>quo dixi: Post me venit vir, qui ante me factus est: quia prior me erat.  
+      <lb ed="#H" n="32"/>Actor. 2. 36. Certissime sciat ergo omnis domus Israel, quia &amp; 
+      Domi<lb ed="#H" n="33" break="no"/>num eum, &amp; Christum fecit Deus, hunc Iesum, quem vos crucifixit 
+      <lb ed="#H" n="34"/>stis. Hebr. 3. 1, 2. Considerate Apostolum &amp; Pontificem confessionis 
+      no<lb ed="#H" n="35" break="no"/>strae Iesum, qui fidelis est ei qui fecit illum 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2160">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Posterius membrum, quod est de Spiritu Sancto, conantur stabs 
+      <lb ed="#H" n="37"/>lire istis testimoniis, Amos 4. 13. Ecce ego qui stabilio tonitrua &amp; 
+      <lb ed="#H" n="38"/>treo spiritum. Joh. 1. v. 3. Omnia per hunc Sermonem facta sunt: 
+      Er<lb ed="#H" n="39" break="no"/>go etiam Spiritus Sanctus 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2173">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>RESP. Cavenda est primo fallacia secundum plura interrogati  
+      <lb ed="#H" n="41"/>in assumtione: quia aliter de Filio, aliter de Spiritu Sancto 
+      respon<lb ed="#H" n="42" break="no"/>dendum. Quod ad Filium attinet, distinctione utimur; quatenus enim 
+      <lb ed="#H" n="43"/>homo est, creatura est: quatenus vero Deus est, increatus est. Nunc 
+      <lb ed="#H" n="44"/>vero agitur de Christo secundum Deitatem ejus, secundum quam 
+      <lb ed="#H" n="45"/>non est creatura. Testimonia ex diversis Scripturae locis allata, ad 
+      <lb ed="#H" n="46"/>modum sunt dissimilia. Quod adducitur ex Prov. 8. v. 22. est falsa 
+      ver<lb ed="#H" n="47" break="no"/>sione depravatum, ut supra ostensum: vertendum, Dominus possedit. 
+      <lb ed="#H" n="48"/>me principio viae suae. Syracidae liber est apocryphus, quocirca non est: 
+      <lb ed="#H" n="49"/>idoneus ad dogmata fidei probanda. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2199">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Deinde etiamsi liber esset Canonicus ac vere divinus, nihil 
+      senten<lb ed="#H" n="51" break="no"/>tiae nostrae officeret. Nam Syracides cap. 1. v. 4. &amp; cap. 24. 8. non 
+      lo<lb ed="#H" n="52" break="no"/>quitur de Filio Dei, qui est sapientia increata, sed de sapientia creata. 
+      <lb ed="#H" n="53"/>qualis est ordo in rebus creatis omnibus, &amp; doctrina constans 
+      noti<lb ed="#H" n="54" break="no"/>tia naturali &amp; supernaturali ac patefacta. Ea dicitur prior omnibus 
+      <lb ed="#H" n="55"/>creata &amp; ante soculum, quia Deus ab aeterno decrevit eam creare. 
+      Co<lb ed="#H" n="56" break="no"/>loss. 1. v. 15. Filius Dei dicitur primogenitus omnis creaturae, tum 
+      qui<lb ed="#H" n="57" break="no"/>prius est genitus quam ulla esset creatura, tum quia ipse dominus &amp; 
+      <lb ed="#H" n="58"/>caput est omnium rerum creatarum, autoritate primas tenens a 
+      Pa<lb ed="#H" n="59" break="no"/>tre personaliter, cum Patre essentialiter. Neque enim primogenitu 
+      <lb ed="#H" n="60"/>omnis rei create dicitur ideo, quod sit prima creatura, quum ipsa 
+      ver<lb ed="#H" n="61" break="no"/>ba Pauli repugnent, qui non creatum, sed genitum Filium dicit: &amp; 
+      <lb ed="#H" n="62"/>aulo post addit, eum esse ante omnia, &amp; omnia per eum condita esse 
+      <lb ed="#H" n="63"/>&amp; subsistere. Johan. 1. v. 1. non dicitur, Sermonem illum coepisse in 
+      <lb ed="#H" n="64"/>principio exsistere, sed jam tum exstitisse quum res crearentur, ac 
+      <lb ed="#H" n="65"/>proinde ante res creatas fuisse. Johan. 1. v. 15, 27. &amp; 30: Graecus textus 
+      <lb ed="#H" n="66"/>habet, &amp;ς ἔμωροθιν μυ γιγονον: id male in vulgata editione Latina 
+      ver<lb ed="#H" n="67" break="no"/>sum est, qui ante me factus est, quasi ἐμωροεν temporis significatio  
+      <lb ed="#H" n="68"/>nem haberet. Atqui vel unicum ex novo Testamento exemplum 
+      <lb ed="#H" n="69"/>proferri nequit, in quo ἐμωροσeν tempus declaret. Quum autem 
+      no<lb ed="#H" n="70" break="no"/>mini vel pronomini personam denotanti jungitur, subjectum 
+      deno<lb ed="#H" n="71" break="no"/>tat: &amp; hoc loco verti debet, qui antepositus est mihi, seu qui supra me 
+      <lb ed="#H" n="72"/>st factus. Quibus verbis Johannes Baptista agnoscit Christum 
+      sub<lb ed="#H" n="73" break="no"/>limiorem &amp; excellentiorem esse, quam ipse sit, ratione tum personae 
+      <lb ed="#H" n="74"/>tum officij. Si esset sententia, Christum esse creatum ante Johannem 
+      <lb ed="#H" n="75"/>in eo nulla esset praerogativa Christi: quia creaturae quam creaturae, 
+      o<lb ed="#H" n="76" break="no"/>mnes sunt pares: &amp; repugnaret Johannes Baptista Johanni 
+      Evange<lb ed="#H" n="77" break="no"/>listae tam diserte aeternam Deitatem Sermonis illius ab initio capitis 
+      <lb ed="#H" n="78"/>hujus asserenti. Deinde factum esse hoc loco non est idem quod 
+      sub<lb ed="#H" n="79" break="no"/>stantiae originem seu temporis initium habere, sed constitutum set 
+      <lb ed="#H" n="80"/>ordinatum esse. Sic verba Johannis Baptistae hoc volunt, quod 
+      Chri<lb ed="#H" n="81" break="no"/>stus, qui post eum docere coeperat, ipsi praelatus, supra ipsum seu 
+      ipso<lb ed="#H" n="82" break="no"/>superior, fortior validiorque constitutus &amp; ordinatus sit, quemadmo 
+      <lb ed="#H" n="83"/>dum Matthaeus hanc eandem Baptistae concionem perscribens 
+      inter<lb ed="#H" n="84" break="no"/>pretatur cap. 3. v. 11, qui post me venit validior me est, cujus non sum 
+      <lb ed="#H" n="85"/>dignus qui soleas portem. Eodem sensu dicit Johannes Baptistes 
+      cap<lb ed="#H" n="86" break="no"/>3. Johannis v. 31. Qui superne venit, supra omnes est: qui e coelo venit 
+      <lb ed="#H" n="87"/>supra omnes est. Similiter Actor. 2. 36. &amp; Hebr. 3. 1, 2. facere tantum 
+      <lb ed="#H" n="88"/>dem valet ac constituere, ordinare ad officium &amp; dignitatem, eum 
+      <lb ed="#H" n="89"/>qui substantiae suae ratione jam antea exstitit. Itaque ex his locis 
+      pro<lb ed="#H" n="90" break="no"/>bari nequit, Filium Dei qua Deus est, esse creaturam. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2293">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Testimonia quibus conantur probare, Spiritum Sanctum est. 
+      <lb ed="#H" n="92"/>creaturam, multo alieniora suat. Nam Amos 4. 13. per spiritum 
+      <!--cod-MkL9py-0258.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>intelligitur ventus, qui a Deo creatur: &amp; Johan. 1. vers 3. eximitur? 
+      <lb ed="#H" n="94"/>Spiritus Sanctus numero creaturarum, quum verbis his, Omnia per 
+      <lb ed="#H" n="95"/>hunc Sermonem facta sunt, annectitur restrictio, quae facta sunt. 
+      Spi<lb ed="#H" n="96" break="no"/>ritus Sanctus autem non est factus, sed procedit a Patre &amp; Filios 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2315">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>QEIECTIOVI. Qui variis infirmitatibus laboravit, fame, siti. 
+      <lb ed="#H" n="98"/>fatigatione, ignoratione diei &amp; horae extremi judicij, tristitia, 
+      trepi<lb ed="#H" n="99" break="no"/>datione, anxiegate, &amp; confirmatus est ab Angelo, de sui desertione 
+      <lb ed="#H" n="100"/>questus, crucifixus, &amp; mortuus est; is non est aequalis Deo Patri: At 
+      <lb ed="#H" n="101"/>haec omnia de Christo vere dicuntur: Ergo non est aequalis Deo Patri: 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2331">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>RESP. Cavenda fallacia a dicto secundum quid ad dictum sim 
+      <lb ed="#H" n="103"/>pliciter: nam haec omnia dicuntur de Christo secundum humanam 
+      <lb ed="#H" n="104"/>naturam ejus, non autem secundum divinam, de qua jam quaeritur:  
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2343">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>OEIECTIOVII. Missus, non est aequalis mittenti: Filius est 
+      mis<lb ed="#H" n="106" break="no"/>sus a Patre; Spiritus Sanctus a Patre &amp; Filio: Ergo non sunt 
+      aequa<lb ed="#H" n="107" break="no"/>les mittentia 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2354">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>RESP. Propositio est tantum particularis: nam missio non tollit 
+      <lb ed="#H" n="109"/>unitatem essentiae &amp; aequalitatem potentiae, status, dignitatis, 
+      auto<lb ed="#H" n="110" break="no"/>ritatis, honoris. Petrus &amp; Johannes missi fuerunt Jerosolymis 
+      Sama<lb ed="#H" n="111" break="no"/>tiam ab aliis Apostolis, ut legitur Actor. 8. vers. 14. nec tamen 
+      illi<lb ed="#H" n="112" break="no"/>inferiores fuerunt illis Apostolis a quibus missi fuerunt, sed 
+      existima<lb ed="#H" n="113" break="no"/>ti sunt esse columnae, ut Paulus testatur Galat. 2. vers. 9. Paulus 
+      A<lb ed="#H" n="114" break="no"/>postolus missus fuit ab aliis Apostolis ad Ecclesias Actor. 15. vers. 25. 
+      <lb ed="#H" n="115"/>nec tamen inferior fuit aliis Apostolis. Itaque nec Filium, nec 
+      Spiri<lb ed="#H" n="116" break="no"/>lum Sanctum inferiorem esse Patre sequitur, eo quod missi sint ad 
+      <lb ed="#H" n="117"/>nos homines. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2380">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>OBIECTIGVIII. Qui non potest a se facere quicquam, nisi 
+      vi<lb ed="#H" n="119" break="no"/>derit Patrem operantem; is non est aequalis Patri: Filius non potest a 
+      <lb ed="#H" n="120"/>se facere quicquam, nisi viderit Patrem operantem, ut ipsemet 
+      fate<lb ed="#H" n="121" break="no"/>tur. Johan. 3. vers. 19. Ergo Filius non est aequalis Patri¬ 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2393">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>RESP. Distinguendum est. Qui non potest a se facere quicquam,  
+      <lb ed="#H" n="123"/>nimirum ut causaefficiens principalis &amp; αυτεργον, is non est aequalis 
+      <lb ed="#H" n="124"/>Patri. At Filium non posse a se facere quicquam, ut causam efficient 
+      <lb ed="#H" n="125"/>tem principalem &amp; αυτοργον, negatur: nam est in agendo, creando 
+      <lb ed="#H" n="126"/>conservando, gubernando omnia Patri ἐμδεργος &amp; ἐσόεργος. Quod 
+      <lb ed="#H" n="127"/>vero attinet locum Johan. 5. vers. 19. in eo Christus non loquitur de 
+      <lb ed="#H" n="128"/>defectu aut inaequalitate potentiae suae &amp; Patris, sed de societate &amp; 
+      or<lb ed="#H" n="129" break="no"/>dine divinarum operationum: nihil enim Filius vult aut facit, quod 
+      <lb ed="#H" n="130"/>non etiam Pater velit &amp; faciat, ut fons operationum divinarum: ideo 
+      <lb ed="#H" n="131"/>omnia opera sua ad illum tanquam ad primum principium refert. 
+      <lb ed="#H" n="132"/>Quod enim Filius agat aequali potentia cum Patre, ibidem testatur 
+      <lb ed="#H" n="133"/>ipse quum subjicit: Quaecunque Pater facit, haec etiam Filius pariter 
+      <lb ed="#H" n="134"/>acit, id est, una &amp; conjunctim; non enim res a Patre factas, aliis 
+      re<lb ed="#H" n="135" break="no"/>bus a se factis exprimit Filius; sed quia in agendo par &amp; conjuncta 
+      <lb ed="#H" n="136"/>est Patris ac Filij virtus &amp; dignitas. Et vers. 17. dixit: Pater meus usque 
+      <lb ed="#H" n="137"/>adhuc operatur, &amp; ego operor. Filius ergo aequali potestate cum 
+      Pa<lb ed="#H" n="138" break="no"/>re operatur.  
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2435">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>OUIECTIO IX Administer seu instrumentum Patris non 
+      a<lb ed="#H" n="140" break="no"/>it aequali virtute &amp; autoritate cum Patre, Filius est administer seu 
+      <lb ed="#H" n="141"/>instrumentum Patris: Ergo, &amp;c. Assumtionem cupiunt probare eo 
+      <lb ed="#H" n="142"/>quod dicuntur a Patre omnia facta per Filium Johan. 1. v. 3. &amp; I. Cor. 
+      <lb ed="#H" n="143"/>8. 6. Coloss. 1.16. Hebr. 1. v.  
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2451">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>RESPON. Negatur assumtio: nec potest ea probari adducto 
+      <lb ed="#H" n="145"/>argumento; quia particula PER non tantum causae administrae &amp; 
+      in<lb ed="#H" n="146" break="no"/>strumentali significandae adhibetur, sed etiam causae principali, vel 
+      <lb ed="#H" n="147"/>uti Roman. 11. vers. 36. Ex eo, &amp; per eum, &amp; in ipsum sunt omnias 
+      <lb ed="#H" n="148"/>I. Corinth. 1. vers. 9. Fidelis est Deus per quem vocati estis in 
+      commu<lb ed="#H" n="149" break="no"/>nionem Filij ipsius Iesu Christi Domini nostri¬ 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2470">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>INSTANT: In quo Pater manens ipse divina opera facit, is 
+      tan<lb ed="#H" n="151" break="no"/>tum est administer &amp; instrumentum Patris: Atqui in Filio Pater. 
+      <lb ed="#H" n="152"/>nanens ipse divina opera facit: Filius ergo tantum est administer &amp; 
+      <lb ed="#H" n="153"/>instrumentum Patris. Assumtio exstat Joh. 14. 10. 
+      <lb ed="#H" n="154"/>RESPON. Conceditur totum recte intellectum, nempe si argus 
+      <lb ed="#H" n="155"/>mentum accipiatur de Filij humana natura. Nec aliud sibi vult 
+      Chri<lb ed="#H" n="156" break="no"/>stus Johan. 14. 10. quum ait; Pater in me manens, ipse facit opera: 
+      <lb ed="#H" n="157"/>nam a natura sua humana ad voluntatem &amp; omnipotentiam Patris 
+      <lb ed="#H" n="158"/>transfert mitaculorum, quae Apostoli videbant, effectionem 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2494">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>INSTANT rursus: Quicunque miracula editurus, ea petit a Deo 
+      <lb ed="#H" n="160"/>Patre effici, is dumtaxat est administer &amp; instrumentum Dei Patris, 
+      <lb ed="#H" n="161"/>At Christus Filius Dei, editurus miracula, ea petivit a Deo Patri, 
+      <lb ed="#H" n="162"/>effici, exempli gratia, resuscitationem Lazari Iohan. 11. 41, 42. ubi 
+      <lb ed="#H" n="163"/>dixit, Pater, gratias ago tibi quod me audieris. Ego vero sciebam 
+      <lb ed="#H" n="164"/>me semper a te audiri: sed propter turbam citcumstantem hoc dixi, 
+      <lb ed="#H" n="165"/>vt credant me a te missum esse. Ergo Filius est duntaxat administer 
+      <lb ed="#H" n="166"/>&amp; instrumentum Patris 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2516">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>RESP. Datur totum de Christo secundum humanam naturam 
+      <lb ed="#H" n="168"/>intellectum, secundum quam est servus ille Patris, de quo per Jesaiam 
+      <lb ed="#H" n="169"/>Prophetam dicitur cap. 42. 1. &amp; allegatur Matth. 12. vers. 18. 
+      Ecce<lb ed="#H" n="170" break="no"/>servus ille meus, quem elegi, dilectus ille meus, in quo acquiescit 
+      ani<lb ed="#H" n="171" break="no"/>ma mea, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2532">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>QUIEerIO X. Qui Patrem adorat, tanquam Deum suum &amp; 
+      <lb ed="#H" n="173"/>Ecclesiae, is non est aequalis Patri: Christus Patrem adorat, tanquam  
+      <lb ed="#H" n="174"/>Deum suum &amp; Ecclesiae: Ergo, &amp;c. Assumtionem probant ex 
+      eo<lb ed="#H" n="175" break="no"/>quod Christus dicit Johan. 4. vers. 22. Nos adoramus quod scimus. 
+      E<lb ed="#H" n="176" break="no"/>Joh. 17. exstat precatio ipsius ad Patrem, Matth. 11. v. 25, 26. 
+      gratia<lb ed="#H" n="177" break="no"/>rumactio ad Patrem 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2550">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>RESP. Conceditur totum, de Christo intellectum secundum 
+      <lb ed="#H" n="179"/>humanam naturam, secundum quam Patrem adorat &amp; Patre 
+      infe<lb ed="#H" n="180" break="no"/>cior est. Adorantibus seipsum connumerat, qui cum Patre &amp; Spiritu 
+      <lb ed="#H" n="181"/>Sancto, tam ab Angelis quam a nobis adoratur. Quum enim 
+      servi<lb ed="#H" n="182" break="no"/>formam assumserit, servo conveniens ministerium suscepit, exemplar  
+      <lb ed="#H" n="183"/>nobis factus: nam quum sit Deo Patri aequalis, ultro ad humilitatem 
+      <lb ed="#H" n="184"/>ultimam propter nos descendit, Filius ergo Dei postquam factus est, 
+      <!--cod-MkL9py-0259.xml-->
+      <pb ed="#H" n="232"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>homo adorat Patrem ut homo, ut servus Dominum, ut creatura 
+      <lb ed="#H" n="2"/>Creatorem: adoratur autem semper cum Patre &amp; Spiritu, quoniam 
+      <lb ed="#H" n="3"/>Deus verus secundum naturam est. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2583">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>REPIICANT adversarij: Christus nec ut servus, nec ut creatura 
+      <lb ed="#H" n="5"/>sed ut Filius Patrem adorat, quum in ipsa filiationis ratione haec 
+      ado<lb ed="#H" n="6" break="no"/>ratio insit, quumque ad hoc Filius natus sit ut Patrem adoret: Ergo se 
+      <lb ed="#H" n="7"/>cundum divinam naturam Patri inaequalis est. 
+      <lb ed="#H" n="8"/>RESP. Frustra negant adversarij restrictionem a nobis allatam 
+      <lb ed="#H" n="9"/>nam contradicit illis Scriptura Saera quae adorationi seivitutem 
+      con<lb ed="#H" n="10" break="no"/>junxit, dicens Deuteron. 6. Dominum Deum tuum adorabis &amp; ipse 
+      <lb ed="#H" n="11"/>soli servies, Janua enim quasi quaedam, &amp; via ad servitutis opera, ado 
+      <lb ed="#H" n="12"/>ratio est: quum initium servitutis, quam Deo servire profitemur, 
+      exsi<lb ed="#H" n="13" break="no"/>stat. Ideo Psaltes adhortatur omnes dicens Psal. 95. 6. Venite adore 
+      <lb ed="#H" n="14"/>mmus, &amp; procidamus ante eum, flectamus genua coram Iehova qui 
+      fe<lb ed="#H" n="15" break="no"/>cit nos. Adoratio conjuncta est procidentiae, quae servitutis est 
+      indici<lb ed="#H" n="16" break="no"/>um: &amp; causa additur, quia Jehova fecit nos. Si autem Filius adoraret. 
+      <lb ed="#H" n="17"/>Patrem ut Filius &amp; λογος, &amp; non quatenus homo, tum antequam  
+      <lb ed="#H" n="18"/>homo fieret, Patrem adorasset. Atqui e Sacris literis nunquam 
+      o<lb ed="#H" n="19" break="no"/>stendetur, quod Filius antequam homo factus est, Patrem adorave 
+      <lb ed="#H" n="20"/>rit: Non igitur adorat Patrem ut Filius &amp; λιος, sed ut homo, ut 
+      <lb ed="#H" n="21"/>servus, ut creatura. Hoc ex verbis ipsius perspicue cognoscimus: nam 
+      <lb ed="#H" n="22"/>dicens plurali numero, Nos adoramus quod scimus, hominibus, 
+      ser<lb ed="#H" n="23" break="no"/>vis Dei, creaturis seipsum connumerat  
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2632">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>OEIECTIOXI. Qui Spiritu Sancto unctus est, is non est aequalis 
+      <lb ed="#H" n="25"/>Deo Patri: Filius Spiritu Sancto unctus est: Ergo non est aequalis 
+      <lb ed="#H" n="26"/>Deo Patri. Assumtio probatur ex Psal. 45. 8. Jesa. 61. 1. Hebr. 1. v. 9. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2643">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>RESP. Distinguo. Qui Spiritu Sancto unctus est, nimirum ut 
+      <lb ed="#H" n="28"/>naturaliter egens donis Spiritus Sancti, is non est aequalis Patri. 
+      As<lb ed="#H" n="29" break="no"/>sumtio similiter intelligenda est καζαι, secundum quid, nimirum non 
+      <lb ed="#H" n="30"/>quod filius naturali indigentia donorum Spiritus Sancti laborave 
+      <lb ed="#H" n="31"/>rit, sed unctus est ratione officij quo est Propheta, Sacerdos &amp; 
+      Rex<lb ed="#H" n="32" break="no"/>ac proinde unctus est non simpliciter ut Deus, sed ut Christus nostra 
+      <lb ed="#H" n="33"/>causa &amp; nostro bono¬ 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2663">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>INSTANT; Christus est Propheta, Sacerdos &amp; Rex secundum 
+      u<lb ed="#H" n="35" break="no"/>tramque naturam, divinam &amp; humanam: Ergo unctus est 
+      secun<lb ed="#H" n="36" break="no"/>dum utramque naturam, divinam &amp; humanam. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2674">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>RESP. Conceditur recte intellectum: Christus dicitur unctus 
+      <lb ed="#H" n="38"/>secundum utramque naturam, divinam &amp; humanam, sed aliter 
+      secun<lb ed="#H" n="39" break="no"/>dum divinam, aliter secundum humanam. Secundum humanam 
+      <lb ed="#H" n="40"/>simpliciter quatenus secundum illam ordinatus est ad officium 
+      Chri<lb ed="#H" n="41" break="no"/>sti &amp; in eam effusa sunt dona Spiritus Sancti: secundum divinam 
+      na<lb ed="#H" n="42" break="no"/>turam autem secundum quid, quatenus tantum ordinatus est 
+      secun<lb ed="#H" n="43" break="no"/>dum eam ad officium Christi, id est, Prophetae, Sacerdotis &amp; Regis 
+      <lb ed="#H" n="44"/>nostri aeterni, dona autem Spiritus Sancti in eam non sunt 
+      effusa<lb ed="#H" n="45" break="no"/>quia ipsa est quae alios ungit donis Spiritus Sancti, non autem illis 
+      <lb ed="#H" n="46"/>indiget 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2700">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>INSTANT IUrsus: Imo unctus est secundum divinam naturam 
+      <lb ed="#H" n="48"/>simpliciter, effusis in eam donis Spiritus Sancti: quia in locis supra 
+      al<lb ed="#H" n="49" break="no"/>legatis expresse dicitur: Unxit te, ô Deus, Deus tuus oleo latitiae. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2711">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>RESP. Fallacia struitur ex homonymia. Nam Dei nomen su 
+      <lb ed="#H" n="51"/>munt adversarij pro abstracto seu pro natura divina, quum sit 
+      con<lb ed="#H" n="52" break="no"/>cretum &amp; personam significet, quae Deus est. Deinde etsi nomen Dei 
+      <lb ed="#H" n="53"/>pro abstracto seu pro natura divina his in locis acciperetur: tamen se 
+      <lb ed="#H" n="54"/>cundum eam Christus diceretur unctus non simpliciter &amp; naturali 
+      <lb ed="#H" n="55"/>ter, sed το τ οἰκονρμιαν &amp; dispensationem voluntatiam, quam se Filius 
+      <lb ed="#H" n="56"/>quum esset in forma Dei, non ducens rapinam se esse aequalem Deo, 
+      <lb ed="#H" n="57"/>exinanivit ad officium Mediatoris in se suscipiendum. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2734">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>OBIECTIOXII. Qui fatetur non esse suum dare potestatem se 
+      <lb ed="#H" n="59"/>dendi ad dexteram suam &amp; sinistram suam in regno suo, sed illud esst 
+      <lb ed="#H" n="60"/>Patris sui; is non est aequalis Patri: Filius illud fatetur Matth. 20. v. 
+      <lb ed="#H" n="61"/>23. Ergo Filius non est aequalis Patri. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2747">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>RESP. Committitur ab adversariis fallacia a dicto secundum 
+      <lb ed="#H" n="63"/>quid ad dictum simpliciter. Christus enim, quum profiteretur, suum 
+      <lb ed="#H" n="64"/>non esse dare potestatem sedendi ad dexteram suam aut ad sinistram 
+      <lb ed="#H" n="65"/>suam in regno suo, sed datum iri illis quibus paratum est a Patre suo; 
+      <lb ed="#H" n="66"/>loquutus est ex sententia filiorum Zebedaei &amp; matris ipsorum a 
+      qui<lb ed="#H" n="67" break="no"/>bus tum compellabatur, &amp; qui sibi imperite inaginabantur, regnum 
+      <lb ed="#H" n="68"/>Messiae in his terris mundanum futurum, &amp; in quo prae aliis eminere 
+      <lb ed="#H" n="69"/>cupiebant. Hanc mundanam praeeminentiam Christus Apostolis 
+      <lb ed="#H" n="70"/>suis denegavit suum esse dare: &amp; illorum mentes ad coeleste regnum 
+      <lb ed="#H" n="71"/>subvexit, &amp; ad Patrem, ut Mediator, erexit. Hinc legitime non 
+      con<lb ed="#H" n="72" break="no"/>ficitur, Christi divinam omnipotentiam &amp; aequalitatem cum Patre. 
+      <lb ed="#H" n="73"/>excludi. Non negavit Christus suam omnipotentiam, sed negavit 
+      os<lb ed="#H" n="74" break="no"/>ficij sui esse honores mundi nos Apostolis distribuere: quia nec de 
+      <lb ed="#H" n="75"/>hoc mundo regnum ejus est. Johan. 12. 36. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2782">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>REPLICANT: Christus negat suum esse in regno coelesti gloriae 
+      <lb ed="#H" n="77"/>gradus assignare: Ergo non est aequalis Patri. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2791">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>RESP. Falsum est antecedens. Christus enim loquitur de tunc 
+      <lb ed="#H" n="79"/>praesenti ministerio ad quod missus erat a Patre in mundum, cujus 
+      <lb ed="#H" n="80"/>ministerij pars non erat, gradus diversos praemiorum &amp; gloriae 
+      assi<lb ed="#H" n="81" break="no"/>gnate electis in regno coelesti Quod vero Christus si divinam ejus. 
+      <lb ed="#H" n="82"/>potentiam spectemus, det gloriam &amp; beatitudinem coelestem electis, 
+      <lb ed="#H" n="83"/>docet aperte cum ait Joh. 10. 28. Ego vitam aeternam do cvibus meis, 
+      <lb ed="#H" n="84"/>nec peribunt in aeternum. Et Apoc. 2. v. 10. Esto fidelis usque ad 
+      mor<lb ed="#H" n="85" break="no"/>tem, &amp; dabo tibi coronam vitae. &amp; cap. 3. Qui vicerit tribuam ei ut 
+      <lb ed="#H" n="86"/>sedeat mecum in throno meo. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2815">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>OBIECTIO XIII. Quicunque mandata accipit a Patre, non est 
+      <lb ed="#H" n="88"/>aequalis Patri: Filius mandata accipit a Patre: Ergo; &amp;c. Minoris 
+      <lb ed="#H" n="89"/>probatio petitur ex sequentibus testimoniis, Joh. 6. v. 3v. Haec est 
+      au<lb ed="#H" n="90" break="no"/>tem ejus qui misit mePatris, ut quicquid inihi dederit, nin perdum ex 
+      <lb ed="#H" n="91"/>eo, sed juscitem illud in ultimo illo die. Et cap. 10. v. 18. Hoc fraeceptum, 
+      <!--cod-MkL9py-0259.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>accepi a Patre meo. Et cap 12. 49, 50. Qui misit me Pater, ipse mihi 
+      <lb ed="#H" n="93"/>praecepit, quid dicam &amp; quid loquar. Et scio praeceptum ejus vitam 
+      <lb ed="#H" n="94"/>aeternam esse. quae igitur ego loquor, prout dixit mihi Pater, ita 
+      lo<lb ed="#H" n="95" break="no"/>quor. Et cap. 14. 31. Sed ut norit mundus Patrem a me diligi: &amp; 
+      pro<lb ed="#H" n="96" break="no"/>ut praecepit mihi Pater, ita faciam: surgite, abeamus hinc. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2846">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>RESPON. Ambiguitas est in nomine mandati. Significat enim 
+      <lb ed="#H" n="98"/>vel jussum quale superior dat inferiori: vel decretum divinum de 
+      no<lb ed="#H" n="99" break="no"/>stri redemtione. Si priore significato accipiatur, conceditur argn 
+      <lb ed="#H" n="100"/>mentatio recte intellecta de Christo secundum humanam naturam 
+      <lb ed="#H" n="101"/>secundum quam Christus accipit mandata a Patre, tanquam creatur 
+      <lb ed="#H" n="102"/>ra a Creatore, tanquam inferior a superiore. Sin vero posteriore 
+      fi<lb ed="#H" n="103" break="no"/>gnificato capiatur, pro aeterno decreto de redemtione humani gene 
+      <lb ed="#H" n="104"/>ris, negatur propositio major: quia Filius Dei quum esset in 
+      formi<lb ed="#H" n="105" break="no"/>Dei &amp; aequalis Deo Patri, exinanivit se &amp; in se suscepit 
+      exsequutio<lb ed="#H" n="106" break="no"/>nem decreti aeterni de nostri redemtione. Secundum hanc 
+      distinctio<lb ed="#H" n="107" break="no"/>nem sunt etiam allegata dicta Scripturae distinguenda, 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2876">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>OEIECTIO XIV. Qui discit, videt, loquitur, agit a Patre, non 
+      <lb ed="#H" n="109"/>est aequalis Patri: Filius discit, videt, loquitur, agit a Patre: Ergo, 
+      <lb ed="#H" n="110"/>&amp;c. Assumtionem probare studio habent sequentibus testimoniis. 
+      <lb ed="#H" n="111"/>Johan. 3. 32. Quod vidit &amp; audivit, hoc testatur. Et cap. 6. v. 26. qui  
+      <lb ed="#H" n="112"/>me misit, verax est: &amp; ego quae audivi ab eo, haec loquor mundo. 
+      Et<lb ed="#H" n="113" break="no"/>vers. 28. Quum sustuleritis Filium hominis, tunc agnoscetis me eum 
+      <lb ed="#H" n="114"/>esse, &amp; a me ipso nihil facere, sed prout docuit me Pater, haec loqui. 
+      Et<lb ed="#H" n="115" break="no"/>v. 38. Ego loquor quod vidi apud Patrem meum. Et cap. 15. ver. 15. 
+      O<lb ed="#H" n="116" break="no"/>mnia quae audivi a Patre meo, nota feci vobis 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2900">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>RESPON. Distinguendum. Si argumentatio ista intelligatur de 
+      <lb ed="#H" n="118"/>Christo secundum humanam naturam, tota conceditur: nam menti 
+      <lb ed="#H" n="119"/>humanae voluntas Dei Patris per revelationem innotescit: 
+      secun<lb ed="#H" n="120" break="no"/>lum illam igitur Christus non est Patri aequalis. Sin vero 
+      intelliga<lb ed="#H" n="121" break="no"/>tur etiam de divina Christi natura, major propositio negatur; quum 
+      <lb ed="#H" n="122"/>uniuersaliter intellecta sit falsa. Qui enim per revelationem audite 
+      <lb ed="#H" n="123"/>discit arcana consilia Patris, est inaequalis Patri: at Filium Dei quam 
+      <lb ed="#H" n="124"/>Deus est &amp; Verbum, per revelationem audire &amp; discere consilium 
+      <lb ed="#H" n="125"/>arcanum Dei Patris, negatur. Per se enim &amp; natura sua perfectissime 
+      <lb ed="#H" n="126"/>novit atque intuetur ab aeterno omnia Patris arcana: quia Pater ei ut  
+      <lb ed="#H" n="127"/>essentiam, ita etiam sapientiam per aeternam generationem 
+      com<lb ed="#H" n="128" break="no"/>municavit.  
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2931">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>INSTANT: Filius nihilominus etiam secundum divinam 
+      natu<lb ed="#H" n="130" break="no"/>ram cognoscit, loquitur &amp; agit a Patre: Ergo secundum divinam 
+      <lb ed="#H" n="131"/>naturam est inaequalis Patri. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2942">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>RESP. Abeo quod figurate dicitur ad dictum proprie non valete 
+      <lb ed="#H" n="133"/>consequentia. Antecedens figuratum est: nam Synecdoche quadam 
+      <lb ed="#H" n="134"/>Filius dicitur a Patre cognoscere, loqui &amp; agere; quia quatenus est 
+      <lb ed="#H" n="135"/>Deus, a seipso cognoscit, loquitur &amp; agit, ut ἀυτθεος Scriptura 
+      au<lb ed="#H" n="136" break="no"/>tem ita de Filio loquitur, quod a Patre cognoscat, videat, loquatur,  
+      <lb ed="#H" n="137"/>agat: ut ostendat, Patrem esse fontem consiliorum divinorum &amp; 
+      o<lb ed="#H" n="138" break="no"/>erationum divinarum communium. 
+      <lb ed="#H" n="139"/>OEIECTIO XV. Spiritus Sanctus non loquutus est a semetipso 
+      <lb ed="#H" n="140"/>sed quaecunque audivit loquutus est, Johan. 16. v. 13. &amp; accepit de eo 
+      <lb ed="#H" n="141"/>quod est Filij &amp; renunciavit Apostolis, cod. cap. vers. 14. &amp; 15. Ergo 
+      <lb ed="#H" n="142"/>non est aequalis Filio, &amp; proinde nec Patri¬ 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e2971">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>RESP. Propositio major, quae dissimulatur, non est universe 
+      ve<lb ed="#H" n="144" break="no"/>ta: ideo restringenda. Qui non loquitur a semetipso, sed quaecunque 
+      <lb ed="#H" n="145"/>audiuit, loquitur, &amp; de eo quod est Filij Dei accipit &amp; renunciat.  
+      <lb ed="#H" n="146"/>nimirum si ea a Patre &amp; Filio cognoscat per revelationem, &amp; non 
+      sci<lb ed="#H" n="147" break="no"/>verit ab aeterno natura sua, is non est aequalis Patri &amp; Filio. Sed 
+      Spi<lb ed="#H" n="148" break="no"/>ritum Sanctum ita loqui quae audivit, &amp; de eo quod Filij est accipere 
+      <lb ed="#H" n="149"/>&amp; renunciare, quasi ea prius cognoverit per revelationem &amp; non 
+      sci<lb ed="#H" n="150" break="no"/>verit ab aeterno natura sua, negatur. Spiritus Sanctus autem non 
+      lo<lb ed="#H" n="151" break="no"/>quitur a seipso, sed quaecunque audivit loquitur, &amp; de eo quod Filij est 
+      <lb ed="#H" n="152"/>accipit &amp; renunciat nobis, quia docet eadem quae Filius, 
+      quando<lb ed="#H" n="153" break="no"/>uidem essentiam &amp; sapientiam suam Pater &amp; Filius per aeternam. 
+      <lb ed="#H" n="154"/>spirationem ipsi communicant. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3002">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>OBIECTIOXVI. Qui non alia ratione dicitur Deus, quam 
+      <lb ed="#H" n="156"/>Magistratus politici dicuntur dij Psalm. 82. vers. 6. Ego dixi, Dii 
+      e<lb ed="#H" n="157" break="no"/>stis: is non est aequalis Deo Patri, Filius, ut &amp; Spiritus Sanctus non 
+      <lb ed="#H" n="158"/>alia ratione dicitur Deus, quam Magistratus politici dicuntur dij 
+      <lb ed="#H" n="159"/>Ergo neque Filius, neque Spiritus Sanctus est aequalis Patri. 
+      Assum<lb ed="#H" n="160" break="no"/>tionem conantur probare ex Johan. 10. vers 33. 34. 35, 36. ubi 
+      dixe<lb ed="#H" n="161" break="no"/>runt Judaei ad Christum: Ob bonum opus non lapidamus te, sed ob 
+      <lb ed="#H" n="162"/>blasphemiam, quia tu, homo quum sis facis teipsum Deum. Respondit. 
+      <lb ed="#H" n="163"/>eis Iesus, Nonne scriptum est in Lege vestra, Ego dixi, dij estis? Si illos 
+      <lb ed="#H" n="164"/>dixit deos ad quos sermo Dei factus est, &amp; non potest solvi Scriptura, 
+      <lb ed="#H" n="165"/>Mene, quem Pater sanctificavit &amp; misit in mundum, vos dicitis 
+      bla<lb ed="#H" n="166" break="no"/>sphemare, quia dixi, Filius Dei sum; 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3034">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>RESPON. Negatur assumtio: &amp; ad probandam eam non facit 
+      <lb ed="#H" n="168"/>locus allegatus. Non enim Christus sic pro Deo se haberi vult, ut 
+      <lb ed="#H" n="169"/>Magistratus politici Psalm. 82. dij nuncupantur. Nam non 
+      argu<lb ed="#H" n="170" break="no"/>mentatur a pari, sed a minori ad majus, hoc sensu; Si non 
+      committi<lb ed="#H" n="171" break="no"/>tur blasphemia, cum Magistratus politici nuncupantur dij: Multo 
+      <lb ed="#H" n="172"/>minus ego blasphemus sum, quod me dixi Filium esse Dei. Ac 
+      ratio<lb ed="#H" n="173" break="no"/>nem hanc addit, quia Pater me sanctificavit &amp; misit in mundum, id  
+      <lb ed="#H" n="174"/>est, ego is sum quem solum Pater constituit Christum illum ac 
+      Me<lb ed="#H" n="175" break="no"/>diatorem &amp; caput Ecclesiae, qui non tantum omnibus Spiritus 
+      San<lb ed="#H" n="176" break="no"/>cti donis perfectissime ornatus sum, sed ipsa plenitudo Deitatis in 
+      me<lb ed="#H" n="177" break="no"/>habitat, sic ut omnes electos ad vita aeternam a me sanctificari 
+      opor<lb ed="#H" n="178" break="no"/>teat: Egn is sum, qui ab aeterno apud Patrem eram &amp; missus sum ale 
+      <lb ed="#H" n="179"/>eo, ut assumta carne genus humanum a peccato, &amp; morte aeterna &amp; 
+      <lb ed="#H" n="180"/>tyrannide diaboli redimerem: Quapropter verissime &amp; absque 
+      bla<lb ed="#H" n="181" break="no"/>phemia profiteor, me proprium &amp; omnipotentem Filium Dei, 
+      ve<lb ed="#H" n="182" break="no"/>rumque natura Deum ac Patr: aequalem esse. 
+      <!--cod-MkL9py-0260.xml-->
+      <pb ed="#H" n="233"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>OEIECTIOXVII. Quicunque omnia habetab alio, inferior est eo 
+      <lb ed="#H" n="2"/>i quo ea habet. Filius Dei omnia habet a Patre; Matth. 11. v. 27. 
+      Spi<lb ed="#H" n="3" break="no"/>ritus Sanctus a Patre &amp; Filio, Joh. 16. v. 14. 15. Ergo Filius est 
+      infe<lb ed="#H" n="4" break="no"/>rior Patre, Spiritus Sanstus inserior Patre &amp; Filio, &amp; non aequalis ei 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3088">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>RESP. Major universe intellecta negatur, particulariter tantum  
+      <lb ed="#H" n="6"/>vera est. Quicunque omnia habet ab alio; videlicet ex gratia &amp; do 
+      <lb ed="#H" n="7"/>nantis voluntate, is inferior est eo a quo illa habet. Filium vero a 
+      Pa<lb ed="#H" n="8" break="no"/>tre, &amp; Spiritum Sanctum a Patre &amp; Filio omnia habere ex gratia &amp; 
+      <lb ed="#H" n="9"/>donantis voluntate, negatur: quia habent ea natura, Filius quidem 
+      <lb ed="#H" n="10"/>per aeternam generationem ex Patre, Spiritus Sanctus vero per aetera 
+      <lb ed="#H" n="11"/>nam processionem seu spirationem a Patre &amp; Filio. Hinc minime 
+      <lb ed="#H" n="12"/>sequitur personarum inaequalitas, quia omnes personae natura 
+      ha<lb ed="#H" n="13" break="no"/>pent omnia quae habent  
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3112">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>OBIECTIOXVIII. Imperfectus non est aequalis perfecto: Filius 
+      <lb ed="#H" n="15"/>est imperfectus, item Spiritus Sanctus, Pater vero perfectus: Ergo 
+      Fi<lb ed="#H" n="16" break="no"/>lius &amp; Spiritus Sanctus non sunt aequales Patri. Assumtionem ad 
+      <lb ed="#H" n="17"/>versarij sic probant, quia producens alium ex se, perfectior est non 
+      pro<lb ed="#H" n="18" break="no"/>ducente: At solus Pater produxit Filium, Filius autem non produci: 
+      <lb ed="#H" n="19"/>alium filium, nec Spiritus Sanctus producit alium. Ergo: &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3130">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>RESP. Falsa est probationis major propositio universaliter in 
+      <lb ed="#H" n="21"/>tellecta. Nam animalia irrationalia, item plantae producunt ex se 
+      a<lb ed="#H" n="22" break="no"/>lia; Angeli non producunt ex se alios: nec tamen ideo quisquam 
+      sa<lb ed="#H" n="23" break="no"/>nae mentis dixerit, bruta animalia &amp; plantas perfectione antecellere 
+      <lb ed="#H" n="24"/>Angelis. Similiter homines in hac vita generant ex se prolem, in al 
+      <lb ed="#H" n="25"/>tera vita non generabunt; qui tamen perfectiores tum erunt quam 
+      <lb ed="#H" n="26"/>nunc sunt. Productio igitur alterius ex sese, pars est perfectionis in 
+      ii<lb ed="#H" n="27" break="no"/>rebus quibus ea convenit, &amp; eatenus quatenus eis convenit, 
+      secun<lb ed="#H" n="28" break="no"/>dum naturam &amp; ordinem divinae mentis. Petsonarum autem 
+      divina<lb ed="#H" n="29" break="no"/>rum perfectio haec est, ut unus sit Pater, non duo, non tres; unus 
+      Fi<lb ed="#H" n="30" break="no"/>lius, non duo, non plures: unus Spiritus Sanctus, non duo, non 
+      plu<lb ed="#H" n="31" break="no"/>res; quia sic personae Deitatis sunt patefactae. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3161">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>OEIECTIO XIX. Quicunque est aequalis Deo Patri, eum 
+      co<lb ed="#H" n="33" break="no"/>aeternum ei esse necesse est: Filius &amp; Spiritus Sanctus non sunt Dei. 
+      <lb ed="#H" n="34"/>Patri coaterni: Ergo non sunt aequales Deo Patri. Assumtio tali 
+      pro<lb ed="#H" n="35" break="no"/>syllogismo statuminatur: Genitus seu nascens non est coaternus 
+      gi<lb ed="#H" n="36" break="no"/>gnenti: Filius est genitus: Ergo non est coaternus gignenti. Major  
+      <lb ed="#H" n="37"/>prosyllogismi quia negatur, hujusmodi epilogismo adstruitur: Qui  
+      <lb ed="#H" n="38"/>posterior est gignente, non est ei coaternus: Genitus est posterior 
+      gignen<lb ed="#H" n="39" break="no"/>te: Ergo genitus non est coaternus gignenti 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3183">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>RESP. Major propositio epilogismi non est universaliter vera: 
+      <lb ed="#H" n="41"/>quia datur tantum de eo qui est posterior gignente in tempore, a 
+      <lb ed="#H" n="42"/>proinde posterior tempore. Jam quod ad minorem attinet 
+      proposi<lb ed="#H" n="43" break="no"/>tionem, Genitus est posterior gignente, natura, sed non semper 
+      tem<lb ed="#H" n="44" break="no"/>pore: ut ratio posterior est mente eam gignente, sed posterior 
+      tan<lb ed="#H" n="45" break="no"/>tum natura, tempore autem simul sunt: Similiter splendor Solis est 
+      <lb ed="#H" n="46"/>posterior Sole eum gignente, sed naturarantum est posterior, 
+      tem<lb ed="#H" n="47" break="no"/>pore autem est simul cum Sole. Filius Dei autem est genitus 
+      noni<lb ed="#H" n="48" break="no"/>tempore, sed ab aeterno: ac proinde non est tempore posterior 
+      Ge<lb ed="#H" n="49" break="no"/>nitore, sed ei coaeternus &amp; aequalis 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3210">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>INSTANT &amp; posterius in minore propositione principalis ob 
+      <lb ed="#H" n="51"/>jectionis membrum, quod est de Spiritu Sancto, firmare conantur  
+      <lb ed="#H" n="52"/>tali prosyllogismo: Qui procedit ab alio, non est coaternus ei a qui  
+      <lb ed="#H" n="53"/>procedit: Spiritus Sanctus procedit ab alio, nempe a Patre &amp; Filios 
+      <lb ed="#H" n="54"/>Ergo non est coaternus Patri &amp; Filio. Propositio major istius 
+      pro<lb ed="#H" n="55" break="no"/>syllogismi roboratur tali epilogismo: Qui posterior est eo a quo 
+      pro<lb ed="#H" n="56" break="no"/>cedit, non est ei coaternus: Spiritus Sanctus est posterior Patre &amp; 
+      Fi<lb ed="#H" n="57" break="no"/>lio, a quibus procedit: Ergo non est eis coaternus. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3232">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>RESPON. Major praemissa epilogismi universaliter accepta est? 
+      <lb ed="#H" n="59"/>falsa. Nam datur tantum de eo qui procedit in tempore. Spiritu 
+      <lb ed="#H" n="60"/>Sanctus autem non procedit in tempore, sed ab aeterno: ergo non 
+      <lb ed="#H" n="61"/>est tempore posterior Patre &amp; Filio, sed ambobus coaeternus &amp; 
+      ae<lb ed="#H" n="62" break="no"/>qualis 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3248">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>INSTANT rursus de Spiritu Sancto: Qui demum post 
+      glorifica<lb ed="#H" n="64" break="no"/>tionem Christi exstitit, is non est ei coaternus, ac multo minus Patri: 
+      <lb ed="#H" n="65"/>Spiritus Sanctus demum post glorificationem Christi exstitit;: Ergo: &amp;c. 
+      <lb ed="#H" n="66"/>Assumtionem conantur probare his testimoniis, Johan. 7. vers. 38. 
+      <lb ed="#H" n="67"/>19. Qui credit in me, sicut dixit Scriptura, flumina aquae vivae eax 
+      <lb ed="#H" n="68"/>ventre ejus fluent. Hoc autem dixit de Spiritu illo quem acceptur: 
+      <lb ed="#H" n="69"/>erant credentes in eum. Nondum enim erat Spiritus Sanctus, quid  
+      <lb ed="#H" n="70"/>Iesus nondum erat glorificatus. Actor. 19. vers. 2. discipuli Ephesi 
+      <lb ed="#H" n="71"/>dixerunt, Imo sit ne Spiritus Sanctus ne audivimus quidem, 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3272">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>RESPON. Distinguendum est. Qui demum post 
+      glorificatio<lb ed="#H" n="73" break="no"/>nem Christi exstitit, nimirum quoad personam, is non est ei 
+      coaeter<lb ed="#H" n="74" break="no"/>nus. Spiritum Sanctum autem demum post glorificationem 
+      Chri<lb ed="#H" n="75" break="no"/>sti exstitisse quoad personam, negatur. Nam in initio creationis in 
+      <lb ed="#H" n="76"/>cubabat superficies aquarum Genes. 1. vers. 2. idem in Prophetis 
+      ve<lb ed="#H" n="77" break="no"/>teris Testamenti fuit &amp; per eos locutus est 2. Sam. 23. 2. Spiritus 
+      Ie<lb ed="#H" n="78" break="no"/>hovae locutus est in me. 1. Petr. 1. vers. 11. Prophetae scrutati sunt in 
+      <lb ed="#H" n="79"/>quem aut qualem temporis articulum praenuncius ille qui in ipsi  
+      <lb ed="#H" n="80"/>erat Spiritus Christi, declavaret eventuras Christo perpessiones, &amp; 
+      <lb ed="#H" n="81"/>gloriam illas consequuturam. 2. Petr. 1. vers. 21. acti a Spiritu Sanct 
+      <lb ed="#H" n="82"/>loquuti sunt sancti Dei homines. Spiritus Sanctus igitur quoad 
+      per<lb ed="#H" n="83" break="no"/>sonam ante incarnationem ac proinde &amp; ante glorificationem 
+      Chri<lb ed="#H" n="84" break="no"/>sti exstitit. Quod vero Johan. 7. vers. 38, 39. dicitur, Spiritum 
+      San<lb ed="#H" n="85" break="no"/>ctum nondum fuisse, quia Christus nondum erat glorificatus, 
+      intel<lb ed="#H" n="86" break="no"/>igendum est de visibili illa ac miraculosa deniorum Spiritus Sancti 
+      <lb ed="#H" n="87"/>effusione in Apostolos &amp; alios deinceps fideles, quae a Deo per 
+      Pro<lb ed="#H" n="88" break="no"/>phetas promissa erant. Actor. 19. v. 2. itidem discipuli Ephesia 
+      Pau<lb ed="#H" n="89" break="no"/>lo interrogati fuerant non de persona Spiritus Sancti, sed de doni 
+      <lb ed="#H" n="90"/>illis eximus, quae tum in Ecclesia primitiva vigehant juxta vaticinia 
+      <lb ed="#H" n="91"/>Prophetica, &amp; quae inprimis requirebantur in illis qui Ecclesiarum 
+      <lb ed="#H" n="92"/>institutioni &amp; gubernationi praeficiebantur. Ex eo autem quod Bt 
+      <!--cod-MkL9py-0260.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>phesij illi responderunt, se ne audivisse qui dem sicue Spiritus 
+      San<lb ed="#H" n="94" break="no"/>ctus, colligere Spiritum Sanctum quoad personam ante 
+      glorifica<lb ed="#H" n="95" break="no"/>tionem Christi non fuisse, admodum est abiurdum: quia Ephesii illi 
+      <lb ed="#H" n="96"/>tenuiter adhuc in Christianismo profecerant &amp; eorum quae in 
+      Chri<lb ed="#H" n="97" break="no"/>stiana Ecclesia gerebantur ignari adhuc erant, ut ex ipsorum 
+      respon<lb ed="#H" n="98" break="no"/>sis apparet. Ex ignorantia autem aliorum, statuere fidei articulos, 
+      <lb ed="#H" n="99"/>plus quam absurdum est. Talibus igitur objectionibus aeternitas 
+      <lb ed="#H" n="100"/>personae Spiritus Sancti &amp; aequalitas cum Patre &amp; Filio minime tol 
+      <lb ed="#H" n="101"/>itur 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3346">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>OBIECTIO XX. Quicunque Deo Patri est aequalis, ei etiam 
+      eun<lb ed="#H" n="103" break="no"/>dem honorem exhiberi necesse est, qui Patri exhibetur: At Filio &amp; 
+      <lb ed="#H" n="104"/>Spiritui Sancto non exhibetur idem honor qui Patri: Ergo non sunt 
+      <lb ed="#H" n="105"/>aequales Patri. Assumtionem probant eo, quod Christus non Filij. 
+      <lb ed="#H" n="106"/>nec Spiritus Sancti, sed Patris tantum invocationem praescripserit in 
+      <lb ed="#H" n="107"/>Oratione Dominica Matth. 6. v. 9. Vos igitur ita precamini, PATER 
+      <lb ed="#H" n="108"/>noster qui es in coelis, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3366">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>RESP. Assumtio negatur, &amp; probatio ejus est vitiosa; nam quum 
+      <lb ed="#H" n="110"/>Christus id quod commune est omnibus personis divinis, Patri 
+      tri<lb ed="#H" n="111" break="no"/>buit, sibi &amp; Spiritui Sancto minime derogat. Invocatio religiosa ita 
+      <lb ed="#H" n="112"/>Patri exhibetur, ut Filio &amp; Spiritui Sancto non denegetur. Ideo 
+      Fi<lb ed="#H" n="113" break="no"/>lium quoque &amp; Spiritum Sanctum religiose invocandum, &amp; 
+      manda<lb ed="#H" n="114" break="no"/>um Dei &amp; exempla proba docent. Quod vero in Oratione 
+      Domi<lb ed="#H" n="115" break="no"/>dica jussi sumus Patrem invocare, in eo Christus ut Mediatorem 
+      de<lb ed="#H" n="116" break="no"/>cebat se gessit: quia ut Mediator omnia ad Patris, a quo missus erat  
+      <lb ed="#H" n="117"/>in mundum, gloriam referre debuit &amp; voluit.  
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3391">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>OEIECTIO XXI. Qui est humitiatus, is non est aequalis Deo 
+      Pa<lb ed="#H" n="119" break="no"/>tri qui semper gloriosus manet: Filius Dei est humiliatus: Ergo, &amp;c. 
+      <lb ed="#H" n="120"/>Assumtio traditur Philipp. 2. v. 7. &amp; 8. Ipse sese inanivit, forma servi 
+      <lb ed="#H" n="121"/>accepta, similis hominibus factus: Et habitu inventus ut homo, ipse  
+      <lb ed="#H" n="122"/>se submisit.  
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3407">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>RESP. Distinguendum est. Qui est humiliatus, nimirum 
+      divi<lb ed="#H" n="124" break="no"/>nae naturae suae mutatione aut imminutione, is non est aequalis Deo 
+      Pa<lb ed="#H" n="125" break="no"/>tri. At Filius Dei est humiliatus, non naturae suae divinae muratione 
+      <lb ed="#H" n="126"/>aut imminutione, sed voluntatia formae servi assumtione. Mansit id 
+      <lb ed="#H" n="127"/>quod erat, &amp; factus est quod non erat, non amissione Deitatis, sed 
+      <lb ed="#H" n="128"/>assumtione humanitatis 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3425">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>QEIECTIO XXII. Quem Deus suscitavit ex mortuis, is non est 
+      <lb ed="#H" n="130"/>aequalis Deo Patri: Christum Deus Pater suscitavit ex mortuis: 
+      Er<lb ed="#H" n="131" break="no"/>ro, &amp;c. Assumtionem probant his testimoniis, Actor. 2. v. 24. Quen 
+      <lb ed="#H" n="132"/>Deus suscitavit, solutis doloribus mortis. Rom. 8. v. 11. Sed si 
+      spiri<lb ed="#H" n="133" break="no"/>tus ejus qui suscitavit Iesum ex mortuis habitat in vobis: is qui 
+      ex<lb ed="#H" n="134" break="no"/>citavit Christum ex mortuis, vivificabit etiam mortalia corpora 
+      ve<lb ed="#H" n="135" break="no"/>stra per inhabitantem ipsius Spiritum in vobis. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3445">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>RESP. Restringenda est propositio major: Quem Deus Pater. 
+      <lb ed="#H" n="137"/>suscitavit ex mortuis, videlicet, nisi ipse quoque una operatus sit &amp; 
+      cor<lb ed="#H" n="138" break="no"/>pus suum e mortuis excitaverit, is non est aequalis Deo Patri. Jam 
+      <lb ed="#H" n="139"/>Christum Deus Pater suscitavit ex mortuis, verum ita ut ipse quoque 
+      <lb ed="#H" n="140"/>Christus Filius Dei unam cum Deo Patre operatus sit &amp; suum ipsius 
+      <lb ed="#H" n="141"/>corpus ex mortuis excitaverit &amp; propria voluntate ac virtute animam 
+      <lb ed="#H" n="142"/>ei restituerit &amp; vitam, quemadmodum ipsemet praedixerat Joh. 2. ver. 
+      <lb ed="#H" n="143"/>19, 20, 21, 22. Destruite templum hoc &amp; intra triduum excitabo 
+      il<lb ed="#H" n="144" break="no"/>lud; Dixerunt ergo Iudeai, quadraginta &amp; sex annis aedificatum est, 
+      <lb ed="#H" n="145"/>templum istud, &amp; tu intra triduum illud excitabis? At ille 
+      loqueba<lb ed="#H" n="146" break="no"/>tur de templo corporis sui. Postquam ergo suscitatus fuit ex mortuis. 
+      <lb ed="#H" n="147"/>recordati sunt ejus discipuli quod hoc sibi dixisset, &amp; crediderum 
+      <lb ed="#H" n="148"/>Scripturae, &amp; Sermoni quem Iesus dixerat. Joh. 10. v. 17, 18. Ego 
+      de<lb ed="#H" n="149" break="no"/>pono animam meam ut eam rursus assumam. Nemo tollit eam a mei 
+      <lb ed="#H" n="150"/>sed ego depono eam per meipsum: autoritatem habeo rursus eam 
+      as<lb ed="#H" n="151" break="no"/>sumendi. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3484">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>OBIECTIO XXIII. Qui est Dei, is non est aequalis Deo: 
+      Chri<lb ed="#H" n="153" break="no"/>stus est Dei: Ergo, &amp;c. Assumtio est 1. Corinth. 3. 22, 23. Omnia 
+      ve<lb ed="#H" n="154" break="no"/>stra sunt: Vos autem Christi: Christus vero Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3495">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>RESP. Negatur consequentia, quia sunt quatuor termini propter 
+      <lb ed="#H" n="156"/>ambiguitatem medij, qui aliter in majore propositione accipitur, 
+      a<lb ed="#H" n="157" break="no"/>iter in minore. Qui est Dei, nimirum quoad dominium quod Deus 
+      <lb ed="#H" n="158"/>in illum habet, is non est aequalis Deo, saltem secundum id in quod 
+      <lb ed="#H" n="159"/>dominium habet. At Christus est Dei, non quoad dominium quod 
+      <lb ed="#H" n="160"/>Pater habeat in Christum qua is Deus est: sed secundum 
+      Oecono<lb ed="#H" n="161" break="no"/>miam illam ac dispensationem voluntatiam, primum secundum 
+      sup<lb ed="#H" n="162" break="no"/>positum, ut est θεανθρωπο Mediator Dei &amp; hominum, gratiose sed 
+      <lb ed="#H" n="163"/>voluntatie nos adiungens sibi ad perfectionem salutis nostrae: dein 
+      <lb ed="#H" n="164"/>de secundum naturam humanam assumtam, prout conditio naturae 
+      <lb ed="#H" n="165"/>humanae est Deo subjecta: postremo secundum mysticum Ecclesiae 
+      <lb ed="#H" n="166"/>corpus, quod sibi tanquam Capiti adunavit. Atque hunc esse 
+      genui<lb ed="#H" n="167" break="no"/>num sensum verborum Pauli, tum propositum ejus seu scopus 
+      osten<lb ed="#H" n="168" break="no"/>dit, tum gradatio qua utitur, Omnia, inquit Paulus fideles 
+      compel<lb ed="#H" n="169" break="no"/>lans, vestra sunt, nimirum ut corporis illius mystici: vos autem 
+      Chri<lb ed="#H" n="170" break="no"/>sti, ut Capitis vos vivificantis &amp; consummantis: Christus vero Dei, 
+      <lb ed="#H" n="171"/>ut Patris qui misit ipsum, ut Mediatorem ab aeterno destinatum, ad 
+      <lb ed="#H" n="172"/>redemtionis vestri opiis persiciendum. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3540">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>QBIECTIO XXIV. Qui vitam a Patre accepit, is non est 
+      aequa<lb ed="#H" n="174" break="no"/>lis Patri: Filius vitam a Patre accepit: Ergo, &amp;c. Assumtionem 
+      <lb ed="#H" n="175"/>probant ex verbis Christi Johan. 5. 26. Sicut Pater habet vitam in 
+      <lb ed="#H" n="176"/>seipso, sic DEDIT &amp; Filio habere vitam in seipse  
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3553">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>RESP. Distinguo. Qui vitam nimirum accidentalem qualis 
+      <lb ed="#H" n="178"/>est creaturarum, a Patre accepit, is non est aequalis Patri. At Filius 
+      <lb ed="#H" n="179"/>qua Filius vitam a Patre accepit, non accidentalem, sed essentialem 
+      <lb ed="#H" n="180"/>&amp; eaudem quam Pater in seipso habet. Sicut enim Pater, ita &amp; Filius 
+      <lb ed="#H" n="181"/>est Deus vivens, habens essentiam viventem in seipsa, per seipsam &amp; 
+      <lb ed="#H" n="182"/>a seipsa &amp; vivificantem alios. Hanc essentiam viventem &amp; 
+      vivifican<lb ed="#H" n="183" break="no"/>tem, hanc vitam Pater Filio dedit &amp; Filius a Patre accepit per aeter 
+      <lb ed="#H" n="184"/>nam generationem. Hanc eandem tam Filius habet in seipso natura 
+      <!--cod-MkL9py-0261.xml-->
+      <pb ed="#H" n="234"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>quam Pater: propterea tam est causa vitae aeternae nobis, quam 
+      Pa<lb ed="#H" n="2" break="no"/>ter. Proinde aequalis est Patri, non autem inaequalis 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3586">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>REPLICANT: Qui vivit vita a Patre data, is aliam vita vivit. 
+      <lb ed="#H" n="4"/>quam Pater: At Filius vivit vita a Patre data: Ergo alia vita 
+      vi<lb ed="#H" n="5" break="no"/>vit, quam Pater 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3597">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>RESP. Distinctione utendum. Qui vivit vita a Patre data, nempe 
+      <lb ed="#H" n="7"/>piumero differente a vita Patris, is alia vita vivit quam Pater. At 
+      Fi<lb ed="#H" n="8" break="no"/>dius vivit vita a Patre data, sed numero non differente a vita Patris 
+      <lb ed="#H" n="9"/>Qam enim vitam Pater in seipso habet, eandem numero Filio 
+      de<lb ed="#H" n="10" break="no"/>dit habere in seipso: quia vita quae in Patre est, infinita est &amp; essentia 
+      <lb ed="#H" n="11"/>divina ipsamet est. Eandem vitam, hoc est, divinam essentiam ab 
+      a<lb ed="#H" n="12" break="no"/>terno in aeternum viventem &amp; electos omnes vivificantem, dedit 
+      Pa<lb ed="#H" n="13" break="no"/>ter Filio non ex parte, sed totam; nec similitudine, sed identitate: a 
+      <lb ed="#H" n="14"/>lioquinmin esset proprius &amp; unigenitus Filius Dei Patris. Quod 
+      au<lb ed="#H" n="15" break="no"/>tem Pater eandem numero vitam quam in seipso habet, dederit 
+      Fi<lb ed="#H" n="16" break="no"/>lio, non tantum inde paret, quod vita illa in Patre ac proinde in Filis 
+      <lb ed="#H" n="17"/>sit infinita &amp; ipsa divina essentia; sed etiam quia eadem effecta in eset 
+      <lb ed="#H" n="18"/>ctis operatur vita Filij quae vita Patris: non enim alios vivificat 
+      Pa<lb ed="#H" n="19" break="no"/>ter, alios Filius, sed eosdem electos: nec alia vita vivificat Pater ele 
+      <lb ed="#H" n="20"/>ctos, alia Filius; sed eadem. Ita vitae spiritualis quae nobis 
+      conmunica<lb ed="#H" n="21" break="no"/>tur, autor est pari virtute Pater &amp; Filius: unde etiam eam in seipsis 
+      <lb ed="#H" n="22"/>habent, ut effectum in causa efficiente, id est, causative, non subjectiv 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3639">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Instant: Qui vivit propter Patrem, &amp; quidem vita creata ut 
+      ho<lb ed="#H" n="24" break="no"/>mines fide Christum manducantes, is non habet in se vitam numero 
+      <lb ed="#H" n="25"/>eandem cum vita quam Pater in se habet, nec est aequalis Patri, sed  
+      <lb ed="#H" n="26"/>eo minor. At Filius, ajunt, vivit propter Patrem, &amp; quidem vita. 
+      <lb ed="#H" n="27"/>creata, ut homines fide Christum manducantes: Ergo Filius non 
+      ho<lb ed="#H" n="28" break="no"/>bet in se vitam numero eandem cum vita quam Pater in se habet, nec 
+      <lb ed="#H" n="29"/>est aequalis Patri, sed eo minor. Assumtionem probare nituntur 
+      testi<lb ed="#H" n="30" break="no"/>monio Christi Johan. 6. v. 57. Sicut misit me vivens ille Pater, &amp; ego 
+      <lb ed="#H" n="31"/>vivo δα τ Πατιρα, propter Patrem: ita etiam qui ederit me, vive 
+      <lb ed="#H" n="32"/>ipse quoque &amp;e ἐμi, propter me¬ 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3665">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>RESP. Negamus consequentiam, quia fallaciam struunt adver 
+      <lb ed="#H" n="34"/>sarij ex ambiguo. Aliter quippe Filius vivit propter Patrem: aliter 
+      <lb ed="#H" n="35"/>nos Christum fide manducantes vivimus propter ipsum. Filius 
+      vivi<lb ed="#H" n="36" break="no"/>propter Patrem, quoniam ex Patre qui naturaliter vita est aeterna &amp; 
+      <lb ed="#H" n="37"/>nos vivificans, natus est ipse itidem naturaliter vita aeterna exsistens 
+      <lb ed="#H" n="38"/>&amp; nos vivificans. Sicut enim Pater est vita aeterna: ita &amp; Filius est vi 
+      <lb ed="#H" n="39"/>ta illa aterna quae erat apud Patrem, ut dicitur I. Joh. 1. v. 2. Hic (
+      hi<lb ed="#H" n="40" break="no"/>lius) est verus ille Deus &amp; vita illa aterna, I. Joh. 5. v. 20. Quoniam 
+      <lb ed="#H" n="41"/>Deus Pater vita est secundum naturam, non autem per 
+      participatio<lb ed="#H" n="42" break="no"/>nem; Filius quoque, quia naturaliter ejus Filius est, hanc naturae sua 
+      <lb ed="#H" n="43"/>roprietatem, id est, vitam naturaliter in se habet, Filius vivit propter 
+      <lb ed="#H" n="44"/>Patrem, quia unius substantiae est cum Patre. Proinde eadem est 
+      nu<lb ed="#H" n="45" break="no"/>mero Patris &amp; Filij vita: &amp; exquisitissima utriusque aequalitas. Nos 
+      <lb ed="#H" n="46"/>autem fide manducantes Christum, vivimus propter ipsum; quia ipsie 
+      <lb ed="#H" n="47"/>Christus ex gratia donat nobis vitam aeternam propter seipsum, 
+      pro<lb ed="#H" n="48" break="no"/>ter justitiam suam: ut quemadmodum regnaverat peccatum ad 
+      <lb ed="#H" n="49"/>mortem, ita etiam gratia regnaret perjustitiam ad vitam aeternam. 
+      <lb ed="#H" n="50"/>per Iesum Christum Dominum nostrum, ut Paulus ait Rom. 5. v. 21 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3710">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>DBIECTIO XXV. Cui Pater gloriam dedit, is non est aequalis  
+      <lb ed="#H" n="52"/>Patri: Filio Pater gloriam dedit: Ergo Filius non est aequalis Patri. 
+      <lb ed="#H" n="53"/>Majorem sic probant; Qui gloriam non habet ex seipso naturaliter,  
+      <lb ed="#H" n="54"/>is non est aequalis Patri: At cui Pater glortam dedit, is eam non 
+      habo<lb ed="#H" n="55" break="no"/>ex seipso naturaliter: Ergo cui Pater gloriam dedit, is non est 
+      aequa<lb ed="#H" n="56" break="no"/>lis Patri. Minorem probant verbis Christi Johan. 17. ver. 24. Pater,  
+      <lb ed="#H" n="57"/>quos dedisti mihi, velim ut ubi sum ego, &amp; illi sint mecum: ut spectent 
+      <lb ed="#H" n="58"/>gloriam illam meam quam DEDISTI mihi 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3732">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>RESP. Primo Homonymia est in nomine gloriae. Cui Pater 
+      glo<lb ed="#H" n="60" break="no"/>riam dedit, nempe non ab aeterno, sed in tempore, eamque creatam; 
+      <lb ed="#H" n="61"/>is non est aequalis Patri, quatenus gloria creata potitur. Filio autem 
+      <lb ed="#H" n="62"/>Pater gloriam dedit non solum in tempore, gloriam creatam, 
+      qua<lb ed="#H" n="63" break="no"/>tenus Filius est Mediator &amp; Caput Dominusque Ecclesiae constitu 
+      <lb ed="#H" n="64"/>tus, quo respectu Patre inferior est: sed etiam increatam atque 
+      essen<lb ed="#H" n="65" break="no"/>tialem gloriam ab aeterno per aeternam generationem, cujus 
+      essem<lb ed="#H" n="66" break="no"/>tialis gloriae respectu Patri aequalis est. Eamque essentialem gloriam 
+      <lb ed="#H" n="67"/>a Patre habet, ut Filius naturaliter ex eo natus: naturaliter igitur 
+      il<lb ed="#H" n="68" break="no"/>lam habet  
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3758">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Deinde quod attinet locum Johan. 17. vers. 24. intelligitur in 
+      e<lb ed="#H" n="70" break="no"/>gloria, non quam Pater dedit Filio aequali eum ab aeterno gignens: 
+      <lb ed="#H" n="71"/>sed quam Filio homini facto dedit ab aeterno quidem secundum 
+      prae<lb ed="#H" n="72" break="no"/>destinationem, in tempore vero post mortem crucis quoad realem 
+      <lb ed="#H" n="73"/>illius collationem. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3774">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>OBIECTIO XXVI. Qui solus est sapiens, ei nemo est aequalis: 
+      <lb ed="#H" n="75"/>Deus Pater solus est sapiens: Ergo Deo Patri nemo est aequalis, ac 
+      pro<lb ed="#H" n="76" break="no"/>inde nec Filius, nec Spiritus Sanctus. Assumtio probatur verbis 
+      A<lb ed="#H" n="77" break="no"/>postoli Pauli, qui Roman. 16. v. 27. ait: Soli sapienti Deo gloria per 
+      <lb ed="#H" n="78"/>Iesum Christum in secula, Amen. Hic ajunt adversarij. Patrem a 
+      Fi<lb ed="#H" n="79" break="no"/>lio ita distingui, ut loco Patris ponatur citcumscriptio ejus ex eo 
+      <lb ed="#H" n="80"/>quod Patris est proprium, nempe Solus sapiens Deus: quia solus 
+      Pa<lb ed="#H" n="81" break="no"/>ter est sapiens sapientia increata. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3796">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>RESPON. Ludunt adversarij homonymia particulae solus, quae 
+      <lb ed="#H" n="83"/>in assumtione &amp; in dicto Pauli non absolute usurpatur, ad excluden 
+      <lb ed="#H" n="84"/>das etiam personas alias Deitatis praeter Patrem: sed secundum quid  
+      <lb ed="#H" n="85"/>ad excludendos omnes qui merae sunt creaturae. Nam Filium non 
+      <lb ed="#H" n="86"/>excludi, manifestum est ex eo, quod non tantum sapiens, sed etiam 
+      <lb ed="#H" n="87"/>sapientia proprie appellatur, &amp; quod alios sapientia donat: quod 
+      mi<lb ed="#H" n="88" break="no"/>nime fieret, nisi ipse increata sapientia esset. Idem de Spiritu Sancto 
+      <lb ed="#H" n="89"/>sentiendum: Spiritus enim Sanctus, quia sapientia Angelos &amp; 
+      ho<lb ed="#H" n="90" break="no"/>mines ornat, non potest nisi increata sapientia esse sapiens. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3820">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>OEIECTIO XXVII. Qui est Mediator noster apud Patrem, non 
+      <lb ed="#H" n="92"/>est aequalis Patri: Filius:si Mediator nosterapud Patrem: Ergo, &amp;c. 
+      <!--cod-MkL9py-0261.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>RESPON. Distinguendum est. Qui est Mediator noster 
+      apu<lb ed="#H" n="94" break="no"/>Patrem, non est aequalis Patri, nimirum quatenus est homo verus &amp; 
+      <lb ed="#H" n="95"/>quatenus dispensationem mediationis in se suscepit. At Filius, qui est 
+      <lb ed="#H" n="96"/>Mediator noster apud Patrem, est non tantum natura Deus, sed 
+      et<lb ed="#H" n="97" break="no"/>iam verus homo &amp; qui mediationis officium voluntatia 
+      dispensatio<lb ed="#H" n="98" break="no"/>ne in se fuscepit. Hinc ergo non sequitur, quod sit natura divina 
+      inae<lb ed="#H" n="99" break="no"/>qualis Patri 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3850">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>OEIECTIOXXVIII. Cujus minor est notitia quam 
+      Patri<lb ed="#H" n="101" break="no"/>&amp; Filij, is Patri &amp; Filio non est aequalis: Spiritus Sancti minor est 
+      no<lb ed="#H" n="102" break="no"/>titia, quam Patris &amp; Filij: Ergo Spiritus Sanctus non est Patri &amp; 
+      <lb ed="#H" n="103"/>Filio aequalis. Assumtionem probare student dicto Christi Matth. 
+      <lb ed="#H" n="104"/>II. vers. 27. Nemo novit Filium, nisi Pater, neque Patrem quisquam  
+      <lb ed="#H" n="105"/>novit, nisi Filius, &amp; cuicunque voluerit Filius retegere. Hic, ajunt,  
+      <lb ed="#H" n="106"/>nulla sit mentio Spiritus Sancti; sed solius Patris &amp; Filij, quibus 
+      so<lb ed="#H" n="107" break="no"/>lis notitia mutua tribuitur.  
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3872">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>RESPON. Negatur assumtio; eaque ex dicto Christi probari 
+      ne<lb ed="#H" n="109" break="no"/>uit. Etsi enim in illo non sit expressa mentio Spiritus Sancti, tamen 
+      <lb ed="#H" n="110"/>is a mutua notitia Patris &amp; Filij minime excluditur. Nam quum in 
+      <lb ed="#H" n="111"/>Scriptura Sacra, una Deitatis persona creaturis aut fictitus 
+      numi<lb ed="#H" n="112" break="no"/>nibus opponitur, &amp; ab his discernitur, non excluduntur ab ea alis  
+      <lb ed="#H" n="113"/>Deitatis personae, sed tantum creaturae &amp; numina fictitia. Ut in his 
+      <lb ed="#H" n="114"/>ipsis verbis, quum Christus dicit, Nemo novit Filium, nisi Pater, non 
+      <lb ed="#H" n="115"/>excluduntur aliae personae Deitatis, sic enim ne Filius quidem seipsum 
+      <lb ed="#H" n="116"/>nosset: &amp; quum dicit, Neque Patrem novit quisquam, nisi Filius, 
+      <lb ed="#H" n="117"/>non excluduntur aliae Deitatis personae, alioquin nec Pater seipsum 
+      <lb ed="#H" n="118"/>nosset. Sed haec tantum sententia est, nullam creaturam posse ad non 
+      <lb ed="#H" n="119"/>titiam Dei penetrare, nisi ipsum per Filium se illi patefaciat. Nec 
+      ta<lb ed="#H" n="120" break="no"/>men hinc excluditur Spiritus Sanctus, cum ipse Christus de eo dicat,  
+      <lb ed="#H" n="121"/>ohan. 15. vers. 26. Spiritus ille veritatis, qui a Patre emanat, ille 
+      te<lb ed="#H" n="122" break="no"/>stabitur de me. Et Paulus 1. Corinth. 2. vers. 10. Nobis autem Deus 
+      <lb ed="#H" n="123"/>ea retexit per Spiritum suum. Spiritus enim omnia scrutatur, etiam 
+      <lb ed="#H" n="124"/>profunditates Dei: &amp; vers. 11. Ea quae sunt Dei, nemo novit nisi 
+      Spi<lb ed="#H" n="125" break="no"/>ritus Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3916">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>Ex his quae ad objectiones contra aequalitatem personarum 
+      divi<lb ed="#H" n="127" break="no"/>narum respondimus, planum est firmissimam esse Ecclesiae 
+      orthodo<lb ed="#H" n="128" break="no"/>xae doctrinam, Patrem, Filium &amp; Spiritum Sanctum esse aequales 
+      se<lb ed="#H" n="129" break="no"/>cundum Deitatem &amp; omnes Deitatis perfectiones operationesque 
+      <lb ed="#H" n="130"/>essentiales. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3932">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>CAPTI 
+      <lb ed="#H" n="132"/>In quo refutantur obiectiones contra distinctionem 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3941">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>personarum. 
+      <lb ed="#H" n="134"/>CUPERIORIBUS capitibus duobus defendimus αμουσίαν &amp; aequa¬ 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3950">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>litatem personarum divinarum: hoc defendenda est earundem 
+      <lb ed="#H" n="136"/>distinctio realis adversus Sabellium &amp; alios haereticos, quorum 
+      <lb ed="#H" n="137"/>objectiones hujusmodi sunt:  
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3962">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>OBIECTIOI. Si videns Filium, videt Patrem: tum eadem est, 
+      <lb ed="#H" n="139"/>persona Patris &amp; Filij. At prius est: Ergo &amp; posterius. Assumtum 
+      co<lb ed="#H" n="140" break="no"/>nantur probare ex eo quod Joh. 14. v. 9. dicit Jesus ipse: Philippe qui  
+      <lb ed="#H" n="141"/>vidit me, vidit Patre: quomodo igitur tu dicis, ostende nobis Patrem? 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e3975">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>RESP. Negatur sumti consequentia: &amp; quod ad dictum 
+      Chri<lb ed="#H" n="143" break="no"/>sti attinet, non vult Christus se esse Patre, sed se doctrina &amp; factis 
+      per<lb ed="#H" n="144" break="no"/>sonam, sapientiam, omnipotentiam, bonitatem &amp; voluntatem 
+      Pa<lb ed="#H" n="145" break="no"/>tris manifestare &amp; referre, hoc est, docet Christus, ut in cogitatione 
+      <lb ed="#H" n="146"/>de Deo &amp; de voluntate Dei, sese, hoc est, Christum Mediatorem in 
+      <lb ed="#H" n="147"/>tueamur: &amp; statuamus hunc esse verum &amp; aeternum Deum, qui se per 
+      <lb ed="#H" n="148"/>Filium patefecit mundo &amp; per eum promisit salutem &amp; fiducia ejus 
+      <lb ed="#H" n="149"/>ult invocari. Itaque tantum abest, ut hoc loco tollatur discrimen 
+      <lb ed="#H" n="150"/>personarum divinitatis, ut potius confirmetur. Non enim vult 
+      Chri<lb ed="#H" n="151" break="no"/>stus se esse Patrem 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4001">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>OEIICTIOII. Si Filius est in Patre &amp; Pater in Filio: sequitur 
+      <lb ed="#H" n="153"/>non esse distinctam personam Filij a Patre, sed unam eandemque est. 
+      <lb ed="#H" n="154"/>personam Patris &amp; Filij. At verum est antecedens ex v. 10 Johan. 14. 
+      <lb ed="#H" n="155"/>Non credis me in Patre, &amp; Patrem in me esse? Ergo &amp; consequens. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4014">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>RESP. Negatur sumti consequentia. Nam Pater est in Filio &amp; 
+      <lb ed="#H" n="157"/>Filius in Patre. 1. essentiae unitate. 2. quia doctrina Filij est doctrina 
+      <lb ed="#H" n="158"/>Patris &amp; una communi voluntate promulgatur: ideo Christus mox 
+      <lb ed="#H" n="159"/>addit; Verba quae ego loquor vobis, a meipso non loquor; sed Pater qui  
+      <lb ed="#H" n="160"/>in me manet, ipse facit opera. 3. quia facta Filij sunt facta Patris &amp; 
+      u<lb ed="#H" n="161" break="no"/>na potentia patris &amp; Filij fiunt, ut mox etiam Christus subjicir; sed  
+      <lb ed="#H" n="162"/>Pater qui in me manet, ipse facit opera. 4. quia qui honorat Filium, 
+      <lb ed="#H" n="163"/>honorat Patrem: qui Filium non honorat, nec Patrem honorat. 
+      Cre<lb ed="#H" n="164" break="no"/>dendus est ergo Pater in Filio, &amp; Filius in Patre, per naturae 
+      identi<lb ed="#H" n="165" break="no"/>tatem, per doctrinae unitatem, per virtutis potestatem, per 
+      honori<lb ed="#H" n="166" break="no"/>aequalitatem. 5. Si ex phrasi ista unitas personae colligenda esset, 
+      se<lb ed="#H" n="167" break="no"/>queretur Christum &amp; nos etiam unam personam esse, quia Joh. 14. 
+      <lb ed="#H" n="168"/>v. 20. dicitur; In illo die vos cognoscetis me esse in Patre meo, &amp; vos 
+      <lb ed="#H" n="169"/>in me, &amp; me in vobis. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4049">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>QEIECTIOIII. Quod est in alio, id non est persona per se 
+      subsi<lb ed="#H" n="171" break="no"/>stens, sed accidens quoddam alterius: Filius est in alio, videlicet in 
+      Pa<lb ed="#H" n="172" break="no"/>tre, ut dicitur Joh. 14. v. 20. Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4060">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>RESP. Est primo amphibolia in phrasi esse in alio. Nam ea in 
+      pro<lb ed="#H" n="174" break="no"/>positione significat subsistere in alio, quemadmodum accidens subsi 
+      <lb ed="#H" n="175"/>stit in subjecto. At in assumtione &amp; dicto Christi significat ejusdem 
+      <lb ed="#H" n="176"/>esse essentiae cum Patre, eandem esse doctrinam Filij, quae Patris: 
+      fa<lb ed="#H" n="177" break="no"/>cta Filij esse facta Patris. Haec explicatio ni admittatur, sequeretur,  
+      <lb ed="#H" n="178"/>neque Patrem esse personam per se subsistente, sed accidens quoddam; 
+      <lb ed="#H" n="179"/>quia Pater quoque est in Filio, ut expresse dicitur versu 10, 11. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4081">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>Deinde major propositio vera est de natura, cujus signa sunt 
+      pro<lb ed="#H" n="181" break="no"/>nomina neutrius generis Quod, id: at si de persona intelligatur, est 
+      <lb ed="#H" n="182"/>falsa. Nam Filius non est in Patre ut aliud in alio, sed ut alius in alios 
+      <!--cod-MkL9py-0262.xml-->
+      <pb ed="#H" n="235"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>OBIECTIOIV. Quorum est una essentia, eorum una est 
+      perso<lb ed="#H" n="2" break="no"/>ma: Patris, Filij &amp; Spiritus Sancti est una essentia: Ergo eorundem. 
+      <lb ed="#H" n="3"/>ena est persona. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4105">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>RESPON. Major propositio negatur: quia omnium hominum 
+      <lb ed="#H" n="5"/>est una essentia, personae autem totidem, quot homines. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4114">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Instant: Quorum est una numero essentia, eorum una est persona: 
+      <lb ed="#H" n="7"/>Patris, Filij &amp; Spiritus Sancti est una numero essentia: 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4123">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Ergo: &amp;c. 
+      <lb ed="#H" n="9"/>RESP. Et ista major negatur: quia omnium hominum est una; 
+      <lb ed="#H" n="10"/>numero essentia, personae autem quam multae? Una numero est 
+      o<lb ed="#H" n="11" break="no"/>mnium hominum essentia, quia homines non differunt specie, id est; 
+      <lb ed="#H" n="12"/>natura &amp; essentia: etsi non sit una individua &amp; singularis. Nam unum 
+      <lb ed="#H" n="13"/>numero non dicitur tantum quod est individuum: sed etiam secunda 
+      <lb ed="#H" n="14"/>substantia, ut corpus, vel animal potest dici unum numero. Ensis &amp; 
+      <lb ed="#H" n="15"/>gladius est nomen speciei, &amp; nihilominus est unum numero: sic 
+      defi<lb ed="#H" n="16" break="no"/>nitio &amp; definitum, ut homo &amp; animal rationale. Etsi Patris &amp; Filii &amp; 
+      <lb ed="#H" n="17"/>Spiritus Sancti sit una numero essentia: non est tamen una persona. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4149">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Instant rursus. Essentia unica &amp; singularis non potest esse nisi 
+      uni<lb ed="#H" n="19" break="no"/>ca persona. Patris, Filij &amp; Spiritus Sancti essentia est unica ac 
+      singu<lb ed="#H" n="20" break="no"/>laris: Ergo Patris, Filij &amp; Spiritus Sancti non potest esse nisi unica. 
+      <lb ed="#H" n="21"/>persona. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4162">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>RESPONP. Major propositio negatur universe intellecta. Nam 
+      <lb ed="#H" n="23"/>vera est tantum de essentia finita, qualis est cujusque hominis 
+      essen<lb ed="#H" n="24" break="no"/>tia in individuo: at essentia infinita, qualis est divina, potest esse trium 
+      <lb ed="#H" n="25"/>personarum: imo revera est, sicut Scriptura Sacra testatur. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4176">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>OBIECTIO V. Si, quae Pater habet, Filij sunt; &amp; quae Filij sunt,  
+      <lb ed="#H" n="27"/>Patris sunt: tum sequitur, Patrem esse Filium, &amp; Filium esse Patrem. 
+      <lb ed="#H" n="28"/>Antecedens verum esse, firmat testimonium Christi, Johan. 16. v. 15. 
+      <lb ed="#H" n="29"/>Omnia qua Pater habet, mea sunt. Et cap. 17. v. 10. Et mea omnia 
+      <lb ed="#H" n="30"/>tua sunt: &amp; tua, mea sunt. Verum igitur est &amp; consequens. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4192">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>RESP. Negatur connexi consequentia. Tum demum ea 
+      conce<lb ed="#H" n="32" break="no"/>deretur, si eadem esset persona dans &amp; accipiens. Etsi igitur quae 
+      Pa<lb ed="#H" n="33" break="no"/>ter habet, Filii sunt: tamen Pater ea Filio dedit, &amp; Filius a Patre ac 
+      <lb ed="#H" n="34"/>cepit; &amp; quia Filius est, ideo perpetuo ex Patre habet, quaecunque 
+      ha<lb ed="#H" n="35" break="no"/>bet. Proinde alia est persona Patris, alia Filis 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4208">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>OBIECTIOVI. Filius &amp; Pater sunt unum: Ergo sunt una &amp; 
+      <lb ed="#H" n="37"/>tadem persona. Assumtionem probant eo quod Filius dicit 
+      Johar<lb ed="#H" n="38" break="no"/>10. v. 30. Ego &amp; Pater unum sumus 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4219">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>RESP. Propositio major, quae insidiose dissimulatur, falsa est; 
+      <lb ed="#H" n="40"/>nimirum, Quicunque sunt unum, illi sunt una persona. Nam omnes 
+      <lb ed="#H" n="41"/>homines sunt unum specie, id est, essetia ac natura: personae vero sunt:  
+      <lb ed="#H" n="42"/>infinitae. Ita Filius &amp; Pater sunt unum, nimirum essentia ac natura; 
+      <lb ed="#H" n="43"/>personis autem sunt realiter distincti 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4235">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>OBIECTIOVII. Si homo cum sua ratione verboque in anima 
+      <lb ed="#H" n="45"/>concepto est una persona, non multae personae: tum &amp; Deus Pater cum 
+      <lb ed="#H" n="46"/>Verbo suo est una persona. Antecedens verum est: Ergo &amp; consequens. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4246">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>RESP. Elenchus est παρα το μη ίσον ώς ἵσον. Non est enim par 
+      ra<lb ed="#H" n="48" break="no"/>tio verbi in anima humana, &amp; Verbi in divina essentia geniti. Nam 
+      <lb ed="#H" n="49"/>verbum in mente hominis conceptum, non est hypostasis, non 
+      hyphi<lb ed="#H" n="50" break="no"/>stamenon quiddam, non homo apud hominem, quum nec vivat, nec 
+      <lb ed="#H" n="51"/>subsistat; Verbum autem a Patre in unitate essentiae divinae genitum 
+      <lb ed="#H" n="52"/>est hypostasis seu ὑφιστάμνον apud Patrem: realiter ergo distinctum a 
+      <lb ed="#H" n="53"/>Patre. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4267">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>OUIECTIO VIII. Virtus altissimi est ipse Pater: Filius est vir 
+      <lb ed="#H" n="55"/>tus altiffimi; &amp; Spiritus Sanctus itidem est virtus altissimi: Ergo 
+      <lb ed="#H" n="56"/>Pater est ipse Filius &amp; Spiritus Sanctus. Assumtionis prius membrum 
+      <lb ed="#H" n="57"/>probatur testimonio Pauli Apostoli, qui 1. Corin. 1. 24. vocat. 
+      Chri<lb ed="#H" n="58" break="no"/>stum Dei potentiam ac Dei sapientiam: posterius membrum 
+      proba<lb ed="#H" n="59" break="no"/>tur testimonio Gabrielis Angeli qui ad MARIAM ait Luc. 1. 35. Spi. 
+      <lb ed="#H" n="60"/>ritus Sanctus superveniet inte, &amp; virtus Altissimi inumbrabit te. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4287">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>RESRON. Negatur consequentia, quia sunt quatuor termini 
+      ol<lb ed="#H" n="62" break="no"/>ambiguitatem medii. Nam virtus Altissimi in majore 
+      propositio<lb ed="#H" n="63" break="no"/>ne significat ipsam essentiam Dei seu essentialem proprietatem 
+      quae<lb ed="#H" n="64" break="no"/>reipsa non differt ab essentia. In minore autem sumitur personaliter  
+      <lb ed="#H" n="65"/>&amp; pro diversitate locorum Scripturae nunc Filium Dei, nunc 
+      Spiri<lb ed="#H" n="66" break="no"/>tum Sanctum significat, quia tum per Filium, tum per Spiritum 
+      San<lb ed="#H" n="67" break="no"/>ctum Deus Pater virtutem suam exserit 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4307">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>QBIECTIO IX. Verus Deus est Trinitas, id est, Pater, Filius &amp; 
+      <lb ed="#H" n="69"/>Spiritus Sanctus: Pater est verus Deus: Ergo Pater est Trinitas, id 
+      <lb ed="#H" n="70"/>est, Pater, Filius &amp; Spiritus Sanctus. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4318">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>RESP. Propositio major universaliter accepta est falsa. Non 
+      <lb ed="#H" n="72"/>enim quicquid est verus Deus, est Trinitas; neque etiam quisquis est 
+      <lb ed="#H" n="73"/>verus Deus, est Trinitas: sed vel Trinitas, vel aliqua Trinitatis 
+      per<lb ed="#H" n="74" break="no"/>sona. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4331">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>Sic igitur Pater, Filius &amp; Spiritus Sanctus sunt unus Deus 
+      essen<lb ed="#H" n="76" break="no"/>tia: ut sint tres personae realiter inter se distinctae; quod nobis erat 
+      <lb ed="#H" n="77"/>propugnandum. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4342">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Conclusio &amp; recapitulatio libri tertij. 
+      <lb ed="#H" n="79"/>Confirmavimus hoc libro quantum gratia divina largita est, 
+      ve<lb ed="#H" n="80" break="no"/>rum Deum, qui unus est essentia, esse tres personas αμουσιeς &amp; 
+      aequa<lb ed="#H" n="81" break="no"/>les, realiter tamen inter se distinctas, Patrem, Filium &amp; Spiritum S 
+      <lb ed="#H" n="82"/>Haec enim est fides Catholica, ut unum Deum in Trinitate; &amp; 
+      Tri<lb ed="#H" n="83" break="no"/>nitatem in unitate veneremur, neque confundentes personas, neque 
+      <lb ed="#H" n="84"/>substantiam separantes. Pater est id quod Filius &amp; Spiritus Sanctus 
+      <lb ed="#H" n="85"/>Filius est id quod Pater &amp; Spiritus Sanctus, Spiritus Sanctus est id 
+      <lb ed="#H" n="86"/>quod Pater &amp; Filius: nec tamen Pater est is qui Filius aut Spiritur 
+      <lb ed="#H" n="87"/>Sanctus, nec Filius est is qui Pater aut Spiritus Sanctus, nec Spiritus 
+      <!--cod-MkL9py-0262.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="88"/>Sanctus est is qui Pater aut Filius. 5. 1.ilio: Pater, alius Filius, alius 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4376">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Spiritus Sanctus: &amp; hi tamen tres sunt unum seu unus Deus, unus 
+      <lb ed="#H" n="90"/>ehova. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4385">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Proinde (ut verbis beati Fulgentii ex libro de fide orthodoxa ad 
+      <lb ed="#H" n="92"/>Donatum recapitulatio haec illustretur) principaliter teneas sanctam 
+      <lb ed="#H" n="93"/>Trinitatem, id est, Patrem &amp; Filium &amp; Spiritum Sanctum, 
+      natu<lb ed="#H" n="94" break="no"/>raliter verum esse Deum, sammum verum &amp; bonum, unius 
+      natu<lb ed="#H" n="95" break="no"/>rae, unius essentiae, unius omnipotentiae, unius aeternitatis, unius 
+      im<lb ed="#H" n="96" break="no"/>mensitatis. Ac sic, quum unum Deum audis, Patrem &amp; Filium &amp; 
+      <lb ed="#H" n="97"/>Spiritum Sanctum, unam naturam summae illius Trinitatis 
+      intelli<lb ed="#H" n="98" break="no"/>ge. Et quum Trinitatem audis, Patrem &amp; Filium &amp; Spiritum 
+      San<lb ed="#H" n="99" break="no"/>ctum, tres personas unius summae illius diuinitatis agnosce. Tres 
+      <lb ed="#H" n="100"/>nim personae sunt, Pater &amp; Filius &amp; Spiritus Sanctus, ideo 
+      Trini<lb ed="#H" n="101" break="no"/>tas dicitur. Sed una substantia est Patris &amp; Filij &amp; Spiritus Sancti 
+      <lb ed="#H" n="102"/>ideo ipsa Trinitas unus Deus veraciter a fidelibus praedicatur. Tres 
+      <lb ed="#H" n="103"/>itaque personas esse Patrem &amp; Filium &amp; Spiritum Sanctum, ostendunt  
+      <lb ed="#H" n="104"/>ipsius eloquia veritatis. Unde Salvator noster ait: Non sum solus, sed 
+      <lb ed="#H" n="105"/>go &amp; qui misit me Pater. De Spiritu Sancto quoque dicit: Ego 
+      roga<lb ed="#H" n="106" break="no"/>po Patrem, &amp; alium Paracletum dabit vobis spiritum veritatis, 
+      <lb ed="#H" n="107"/>Praecepit etiam baptizari gentes in nomine Patris &amp; Filij &amp; Spiritus. 
+      <lb ed="#H" n="108"/>Sancti. His itaque hujusmodi testimonis ostenditur, Patrem &amp; Filiis 
+      <lb ed="#H" n="109"/>&amp; Spiritum Sanctum, tres esse personas, sed non tres esse naturas. 
+      Un<lb ed="#H" n="110" break="no"/>de Trinitas illa sancta digne creditur in personis. Tres autem deos 
+      <lb ed="#H" n="111"/>dici, Patrem, Filium &amp; Spiritum S. non permittit unitas 
+      natura<lb ed="#H" n="112" break="no"/>lis. Et quia in una natura Trinitatis, nulla potest esse diversitas, ide 
+      <lb ed="#H" n="113"/>in tribus personis manet inconfusa proprietas, &amp; in unitate natura 
+      <lb ed="#H" n="114"/>regnat incommutabiliter substantialis aequalitas. Ideo de Filio 
+      dici<lb ed="#H" n="115" break="no"/>tur. Qui cum in forma Dei esset, non rapinam arbitratus est esse se 
+      <lb ed="#H" n="116"/>aequalem Deo. Et quia non solum solvebat Sabbatum, sed &amp; Patrem 
+      <lb ed="#H" n="117"/>suum dicebat Deum, aequalem se faciens Deo. Adhanc aequalitatem? 
+      <lb ed="#H" n="118"/>naturae virtutisque etiam illud pertinet, quod ipse Filius ait: Quid 
+      <lb ed="#H" n="119"/>quaecunque Pater facit, haec eadem &amp; Filius similiter facit. Et sicut  
+      <lb ed="#H" n="120"/>Pater suscitat mortuos &amp; vivificat, sic &amp; Filius quos vult 
+      vivifi<lb ed="#H" n="121" break="no"/>cat. In illa Trinitatis natura, sic totum unum est, ut nihil ibipossit.  
+      <lb ed="#H" n="122"/>separari vel dividi: sic totum aequale est, ut nihil ibi majus aut minus. 
+      <lb ed="#H" n="123"/>valeat inveniri. Trinitas est itaque unus solus creator omnium reri 
+      <lb ed="#H" n="124"/>Deus. Trinitas est unus solus immensus naturaliter Deus. Ad hujus 
+      <lb ed="#H" n="125"/>maginem Trinitatis, homo factus agnoscitur, in cujus nomine 
+      ba<lb ed="#H" n="126" break="no"/>ptizatus, denuo renovatur. Baptizari autem gentes, in nomine 
+      Pa<lb ed="#H" n="127" break="no"/>tris &amp; Filij &amp; Spiritus Sancti, Salvator noster edocuit, ut sicut 
+      Tri<lb ed="#H" n="128" break="no"/>nitatis opere initium conditionis accepimus, sic in nomine 
+      Trinita<lb ed="#H" n="129" break="no"/>eis, divinae adoptionis gratia frui mereremur. Unus est ergo verus 
+      <lb ed="#H" n="130"/>Deus Pater &amp; Filius &amp; Spiritus S. qui omnipotentissima bonitate 
+      <lb ed="#H" n="131"/>creat homines, &amp; gratuita miseratione justificat peccatores. Praeter 
+      <lb ed="#H" n="132"/>hunc unum Deum verum nullus est Deus, quia dum dicit: Videte. 
+      <lb ed="#H" n="133"/>quia ego sum Deus, &amp; non est alius praeter me: Docet nos &amp; admonet. 
+      <lb ed="#H" n="134"/>grave esse peccatum, si quis extra unum Deum alium credat. Alium 
+      <lb ed="#H" n="135"/>sine dubio credit, quisquis in Patre &amp; Filio &amp; Spiritu S: 
+      diversitu<lb ed="#H" n="136" break="no"/>tem diuvinitatis existimat, quum ille Deus qui solus habet veram 
+      di<lb ed="#H" n="137" break="no"/>vinitatem, colendi alterius Dei nullatenus tribuat facultatem: 
+      ne<lb ed="#H" n="138" break="no"/>Sacramento redemtionis sit aliquatenus nominandus, quisquis 
+      at<lb ed="#H" n="139" break="no"/>unius veri Dei natura invenitur extraneus. Mysterium autem 
+      re<lb ed="#H" n="140" break="no"/>demtionis humanae nulla ratione perficitur, si in baptismo vel Filij. 
+      <lb ed="#H" n="141"/>vel Spiritus S. vocabulum subtrahitur Vnus Deus est sancta 
+      Prini<lb ed="#H" n="142" break="no"/>tas, Pater &amp; Filius &amp; Spiritus S. Una est Patris &amp; Filij &amp; Spiritus 
+      <lb ed="#H" n="143"/>Sancti natura, sed non una persona. Proinde, ut retenta veritate. 
+      <lb ed="#H" n="144"/>possis refellere, vel certe respuere falsitatem, si quem videris, ita 
+      Pa<lb ed="#H" n="145" break="no"/>tris &amp; Filij &amp; Spiritus S. unam confiteri naturam, ut velit unam 
+      <lb ed="#H" n="146"/>isserere personam, noli Christianum Catholicum putare, sed 
+      haereti<lb ed="#H" n="147" break="no"/>cum Sabellianum agnosce. Si quem vero audieris, ita tres personas. 
+      <lb ed="#H" n="148"/>Patris &amp; Filij &amp; Spiritus S. dicere, ut velit tres naturas istarum 
+      <lb ed="#H" n="149"/>trium personarum asserere, Arrianum haereticum sine dubitations 
+      <lb ed="#H" n="150"/>intellige. Verum est enim quod Sabelliani de natura Patris &amp; Filij&amp; 
+      <lb ed="#H" n="151"/>Spiritus S. credunt, sed falsum est, quod tres personas esse non credunt. 
+      <lb ed="#H" n="152"/>Verum est etiam, quod Arriani tres personas Patris &amp; Filij &amp; 
+      Spiri<lb ed="#H" n="153" break="no"/>tus S. dicunt, sed falsum est, quod istarum trium personarum tres 
+      <lb ed="#H" n="154"/>naturas persuadere contendunt. Perverse itaque Arriani naturam 
+      <lb ed="#H" n="155"/>Trinitatis dividunt, personas Sabelliani confundunt: Cum ita sit. 
+      <lb ed="#H" n="156"/>unanatura Patris &amp; Filij &amp; Spiritus Sancti, ut non una persona: 
+      <lb ed="#H" n="157"/>quia alia est persona Patris, alia Filij, alia Spiritus Sancti. Siquem, 
+      <lb ed="#H" n="158"/>vero videris, Patris quidem &amp; Filij unam confiteri nuturam, sed  
+      <lb ed="#H" n="159"/>Spiritus S. alteram praedicare substantiam, ut aequalem quidem 
+      di<lb ed="#H" n="160" break="no"/>cat Patri Filium, &amp; solum minorem asserat Spiritum Sanctum, iste 
+      <lb ed="#H" n="161"/>non tenet Catholica fidei veritatem, sed Macedoniana perfidiae 
+      secta<lb ed="#H" n="162" break="no"/>tur errorem. Proinde quia non est Catholicus Christianus, sed 
+      Mace<lb ed="#H" n="163" break="no"/>donianus haereticus est, ab omnibus est fidelibus. 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4548">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Sed Trinitatem Omnipotentem quis intelligit? O ineffabilis 
+      <lb ed="#H" n="165"/>Trinitas (o indivisibilis Unitas! Tu nos doce de re, ut cognoscamus 
+      <lb ed="#H" n="166"/>te per te, qui non potes cognosci nisi docente te, Tibi gratias agimus 
+      <lb ed="#H" n="167"/>tibi laudes dicimus vera &amp; una Trinitas; una &amp; summa Deitas, 
+      san<lb ed="#H" n="168" break="no"/>cta &amp; una unitas. Laudant te Sancti Angeli, celebrant te Patriarchaer 
+      <lb ed="#H" n="169"/>Prophetae, Apostoli; Evangelistae; Martyres &amp; Confessores beati jam 
+      <lb ed="#H" n="170"/>in coelo triumphantes; cum quibus &amp; nos, adhuc in terra bonam 
+      mi<lb ed="#H" n="171" break="no"/>ditiam militantes, fidemque &amp; bonam conscientiam retinentes gratis 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4570">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>animis canimus; Sanctus, sanctus, sanctus est Jehova exerci¬ 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4577">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>tuum: implet totam terram gloria ejus, 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4584">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>AMEN 
+      <!--cod-MkL9py-0263.xml-->
+      <pb ed="#H" n="236"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>SYNTAGMATIS 
+      <lb ed="#H" n="2"/>THEOLOGIAE CHRISLIANAE 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4603">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>LIBER QVARTUS, 
+      </p>
+            <p xml:id="yyy8Uu-e08377-d1e4610">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Qui est 
+      <lb ed="#H" n="5"/>DE OPERIBVS DEI INTERNIS 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

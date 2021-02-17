@@ -1,0 +1,2060 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="256"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e22992"> <!-- l5-c3 -->
+            <head xml:id="yyy8Uu-e22992-Hd1e109">Caput 3</head>
+            <p xml:id="yyy8Uu-e22992-d1e112">
+               <lb ed="#H" n="168"/>CAPUT III 
+      <lb ed="#H" n="169"/>In quo de Creationis causa efficiente.
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e119">
+               <lb ed="#H" n="170"/>TXPLICATA definitione vocis &amp; rei, considerati 
+      operaepre<lb ed="#H" n="171" break="no"/>Etium est creationis causas, effecta, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e126">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>E causis prima est efficiens, de qua theses aliquot propones 
+      <lb ed="#H" n="173"/>mus. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e136">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Thesis 1. 
+      <lb ed="#H" n="175"/>Causa efficies creationis primae est Deus ille, qui se patefecit primun 
+      <lb ed="#H" n="176"/>Adamo &amp; Evae in Pargdi;o, deinde Abrahamo, Isaaco, Israeli, Mosi 
+      <!--cod-MkL9py-0284.xml-->
+      <pb ed="#H" n="257"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>&amp; caeteris Prophetis, nempe Pater, Filius &amp; Spiritus Sanctus: sic ut 
+      <lb ed="#H" n="2"/>Creatio sit opus commune omnibus personis Sanctae Trinitatis: 
+      Pa<lb ed="#H" n="3" break="no"/>ter tamen singulari jure appellatur Creator, nimirum ut principium 
+      <lb ed="#H" n="4"/>&amp; summus terminus Creationis. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e162">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Haec Thesis initio declavanda, ut de vero ejus sensu constet: dein 
+      <lb ed="#H" n="6"/>de confiemanda. Quum dicimus creatorem caeli &amp; terrae &amp; omnium. 
+      <lb ed="#H" n="7"/>quae in eis sunt, esse Vatrem, Filium &amp; Spiritum Sanctum, non ita 
+      ac<lb ed="#H" n="8" break="no"/>cipiendum ac si tres causas efficientes creationis vel tres creatores 
+      <lb ed="#H" n="9"/>constitueremus. Nam ut Patris, Filii &amp; Spiritus Sancti una est at 
+      <lb ed="#H" n="10"/>que eadem essentia, etiamsi ipsi personis distincti sint: ita etiam sunt 
+      <lb ed="#H" n="11"/>una causa efficiens creationis. Sicut unus sunt Deus: ita unus sunt, 
+      <lb ed="#H" n="12"/>Creator. Nomen Creatoris est essentiae, &amp; personae uniuscujusque 
+      <lb ed="#H" n="13"/>in essentia. Nam si absolute personam consideraveris, nihil quod est 
+      <lb ed="#H" n="14"/>essentiae, personae non est. Sin vero relate personam considerave 
+      <lb ed="#H" n="15"/>ris, secundum distinctionem &amp; ordinem personae unius ad alteram: 
+      <lb ed="#H" n="16"/>nomen Creatoris ratione ordinis est proprium Patris, non Filii. Idec 
+      <lb ed="#H" n="17"/>Pater dicitur creator, &amp; hoc titulo seorsim ornatur, non respectu 
+      per<lb ed="#H" n="18" break="no"/>sonae in se, sed ratione ordinis, dum respicitur ad alias Sanctae 
+      Trini<lb ed="#H" n="19" break="no"/>tatis personas. Ut enim pater est principium filii: ita etiam 
+      operatio<lb ed="#H" n="20" break="no"/>num, velut creationis, conservationis, gubernationis, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e201">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>iam eadem Thesis confirmanda. Stabilit illam primo 
+      testimo<lb ed="#H" n="22" break="no"/>nium Mosis, qui Genes. 1. vers. 1.ait: CrPyN NPTA τουγτ 
+      <lb ed="#H" n="23"/>Bereschith bara Elohim, quod ad verbum sonat, In principio creavit  
+      <lb ed="#H" n="24"/>Dii seu potius Elohim, sic ut unum idemque opus primae creationis: 
+      <lb ed="#H" n="25"/>non uni personae, sed pluribus tribuatur; quum PTA bara, sit ver 
+      <lb ed="#H" n="26"/>bum singulare. LOPPyN Elohim autem nomen plurale. 
+      Dein<lb ed="#H" n="27" break="no"/>de multo clarium, v. 26. Faciamus hominem ad imaginem nostram, sed 
+      <lb ed="#H" n="28"/>cundum simisitudimem nostram. Praeterea testimonium Job. 35. vers.  
+      <lb ed="#H" n="29"/>10. Ubi est Deus NNysy hosaj factores mei? Et Psal. 149. v. 2. laetetus 
+      <lb ed="#H" n="30"/>Israel qyuyθJ Bebeosav, in factoribus suis. Item. Jes. 54. 5. Nam 
+      ma<lb ed="#H" n="31" break="no"/>riti seu dominatores tui sunt TQQ hosajich opifices tut 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e230">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Haec Thesis est diligenter tenenda. Semper plurimi fuerunt, qui Pro 
+      <lb ed="#H" n="33"/>phetarum Scriptis fidem non habuerunt, ac conjectura propria 
+      du<lb ed="#H" n="34" break="no"/>cti, quod eis placitum esset de Deo &amp; creatione definierunt, me 
+      <lb ed="#H" n="35"/>gnumque est &amp; inter ipsos invicem, &amp; apud quemque eorum 
+      adver<lb ed="#H" n="36" break="no"/>sus seipsum, de rebus earumque principio, juxta substantiam &amp; 
+      nu<lb ed="#H" n="37" break="no"/>merum &amp; motum &amp; finem dissidium, ut Iustinus Martyr loquitur in 
+      <lb ed="#H" n="38"/>quorundam Aristotelicorum dogmatum eversione in prooemio pagina 
+      <lb ed="#H" n="39"/>87. Edit. Commelinianae. Creatorem alium seu diversum a primo Dei. 
+      <lb ed="#H" n="40"/>esse quidam putaverunt, ut refert Clemens Alexandrinus libro 4. 
+      spo<lb ed="#H" n="41" break="no"/>ματ: pagina 219. editionis Commelinianae, Anμiμρρον non esse Patrem 
+      <lb ed="#H" n="42"/>Christi, sed eo superiorem Valentiniani dixerunt. Mundum hunc esse 
+      <lb ed="#H" n="43"/>opus indignum Deo asseruerunt Marcionitae: nam Creatore Deo 
+      maio<lb ed="#H" n="44" break="no"/>rem finxit Marcio Deum, ut docet Iustinus Martyr Apologia 2. 
+      pro<lb ed="#H" n="45" break="no"/>Christianis pagina 54. editionis Commeliniana &amp; pagina 72. Mum 
+      <lb ed="#H" n="46"/>dum ab Angelis, non a Deo creatum dixerunt Simoniani, Nicolaitae, 
+      <lb ed="#H" n="47"/>Menandriani, Archontici. Mundum a septem tantum Angelis 
+      crea<lb ed="#H" n="48" break="no"/>tum, nugati sunt Saturniniani, Basilidiani, Mundum ab inferioribus 
+      <lb ed="#H" n="49"/>Angelis &amp; diabolo conditum finxerunt Cerinihiani, Luceferiani, 
+      Car<lb ed="#H" n="50" break="no"/>pocratiani, Valentiniani, Manichai, Priscillianistae. Mundi crentorem 
+      <lb ed="#H" n="51"/>esse malum Deum, statuerunt Cerdoniani, Marcionita, Apcllitae. Mum 
+      <lb ed="#H" n="52"/>di creatorem non esse Deum Abrahami, sed alium dixerunt Cajant. 
+      De<lb ed="#H" n="53" break="no"/>quibus antiquis haeresibus videatur Ireneaus Martyr libro 1. &amp; 2. ad 
+      <lb ed="#H" n="54"/>versus haereses, compluribus capitibus: item Tertullianus, Epiphanius, 
+      <lb ed="#H" n="55"/>Eusebius, &amp; Augustinus de haresibus ad Quodvultdeum. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e287">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Porro creatio immediate tanquam a proptio principio fuit opus 
+      <lb ed="#H" n="57"/>Patris, Filii &amp; Spiritus Sancti, quam ratione sunt omnes unius 
+      ejus<lb ed="#H" n="58" break="no"/>demque essentiae. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e298">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Hoc vero tempore de Patre nulla est disceptati: in Ecclesiis: 
+      o<lb ed="#H" n="60" break="no"/>mnes enim fatentur, ipsum esse Creatorem. At Samosateniani 
+      re<lb ed="#H" n="61" break="no"/>centes negant, Christum Filium Dei, item Spiritura Sanctum ese 
+      <lb ed="#H" n="62"/>creatorem caeli &amp; terrae, seu autorem primae illius creationis a 
+      Mose<lb ed="#H" n="63" break="no"/>descriptae. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e315">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>De Filio igitur Dei initio agemus, &amp; primo ex Scriptura, atque 
+      <lb ed="#H" n="65"/>primitivae Ecclesiae, quae ante concilium Nicenum fuit, consensu 
+      asse<lb ed="#H" n="66" break="no"/>remus, cum creasse caelum &amp; terram &amp; omnia quae in eis sunt: deind 
+      <lb ed="#H" n="67"/>assertionem nostram adversus exceptiones Samosatenianorum 
+      de<lb ed="#H" n="68" break="no"/>fendemus. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e331">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Primum locum occupet assertio nostrae orthodoxae sententiae, 
+      pe<lb ed="#H" n="70" break="no"/>tita tum ex testimoniis, tum aliis argumentis 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e340">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Testimonia sunt haec Joh. 1. v. 3. Omnia per hunc Sermonem facta 
+      <lb ed="#H" n="72"/>sunt, &amp; absque eo factum est nihil quod factum est. Et v. 10. Mundus 
+      po<lb ed="#H" n="73" break="no"/>eum factus est, sed mundus eum non agnovit. 1. Cor. 8. v. 6. Nobis 
+      ta<lb ed="#H" n="74" break="no"/>men unus est Deus, Pater ille a quo omnia &amp; nos in ipso: &amp; unus 
+      Do<lb ed="#H" n="75" break="no"/>minus Iesus Christus, per quem omnia &amp; nos per ipsum. Coloss. 1. vers.  
+      <lb ed="#H" n="76"/>16. per eum condita sunt omnia quae in caelis sunt &amp; quae in terra, visibi  
+      <lb ed="#H" n="77"/>lia &amp; invisibilia, sivs throni sive dominia, sive imperia, sive potestate. 
+      <lb ed="#H" n="78"/>omnia per eum &amp; eius respectis condita sunt. Estque ipse anes oninia &amp; 
+      <lb ed="#H" n="79"/>omnia per eum consist:ine. Hebr. 1. v. 1, 2. Mulius vicibus multisa 
+      <lb ed="#H" n="80"/>modis olim Deus loquutus est Patribus in Pruphetis, aliemis diebus 
+      hisce<lb ed="#H" n="81" break="no"/>locutus est in Filio, quema constituit haredem omnini, per quam etiam 
+      <lb ed="#H" n="82"/>mundum condidit. In Eis testirnoniis dicitur per fuium, hoc est, ipsius 
+      <lb ed="#H" n="83"/>propria vi &amp; efsficacia &amp; potentia omnis esse creata. N. anmi 
+      par<lb ed="#H" n="84" break="no"/>ticula PER significeai in his locis capsanm instrumentaium seu 
+      admi<lb ed="#H" n="85" break="no"/>nistram, sed ἀυικργον, sed verrm efficientem causam, seciam Paicis in 
+      <lb ed="#H" n="86"/>creando. Ac ubi Pate: dicitur condidisse per Filiu, ndhil alius 
+      in<lb ed="#H" n="87" break="no"/>telligitur, quam quod Filius Patri fuerit τuνερς ζιν &amp;ν δμυισς, α, hoc 
+      <lb ed="#H" n="88"/>est, quod operatus sic un? cum Patre; &amp; sicut Pater operatus est. uodi 
+      <lb ed="#H" n="89"/>sic cum eo Filius operatus sit. Hebr. 1. versic. 10. legitur, ad Filium 
+      <lb ed="#H" n="90"/>esse dictum: Tu in mitio Domine terrant fundasis, &amp; oper? 
+      mu<lb ed="#H" n="91" break="no"/>nuum tuarum sunt caeli, ipsi peribunt, tu autem permimes: &amp;: enines. 
+      <!--cod-MkL9py-0284.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>sut vestimentum veterascent: Ac velut amictum circumvolues eos, &amp; 
+      <lb ed="#H" n="93"/>mutabuntur: tu autem idem es &amp; anni tui non deficient. Apocal. 3. v. 
+      <lb ed="#H" n="94"/>14. Haec dixit Amen, testis ille fidelis &amp; verax, principium opificii Dei, 
+      <lb ed="#H" n="95"/>d est, a quo ortum ducunt omnes res conditae. Principii enim vox. 
+      <lb ed="#H" n="96"/>hoc loco non passive accipitur, sed active, pro autore &amp; causa 
+      effici<lb ed="#H" n="97" break="no"/>ente opificii Dei, 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e408">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Haec testimonia sufficienter confirmant, Filium Dei ab initic 
+      <lb ed="#H" n="99"/>creasse omnia. Idem evincunt argumenta sequentia 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e417">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>I. Verus Deus natura, est creator caeli &amp; terrae 
+      <lb ed="#H" n="101"/>Filius Dei est verus Deus natura 
+      <lb ed="#H" n="102"/>Ergo Filius Dei est Creator caeli &amp; terrae 
+      <lb ed="#H" n="103"/>Propositio major est firmissima: nam ita proprium est Dei ut sit 
+      <lb ed="#H" n="104"/>conditor caeli &amp; terrae, hoc est, totius mundi &amp; omnium quae in 
+      eo<lb ed="#H" n="105" break="no"/>sunt, ut verus Deus esse non possit, qui non sit mundi conditor. 
+      Sic<lb ed="#H" n="106" break="no"/>enim dicitur Jer. 10. v. 11. Dit isti qui caelum &amp; terram non fecerunt, 
+      <lb ed="#H" n="107"/>perituri sunt e terra &amp; regionibus sub caelo ipsi 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e439">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>Assumtio abunde probata est supra cum de aeterna Filii Dei 
+      Dei<lb ed="#H" n="109" break="no"/>cate ageretur.  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e449">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Hoc argumentum rejici non potest, quasi in eo sit petitio 
+      princi<lb ed="#H" n="111" break="no"/>pii, eo quod ex creatione rerum omnium supra sit probata aeterna 
+      <lb ed="#H" n="112"/>Deitas Filii Dei: &amp; hoc loco ex Deitate ejus probetur, quod sit 
+      crea<lb ed="#H" n="113" break="no"/>tor caeli &amp; terrae. Regressus enim talis vitiosus non est, sed usitatur 
+      <lb ed="#H" n="114"/>recte disserentibus, quem Logici reciprocationem demonstrationis 
+      <lb ed="#H" n="115"/>in &amp; διοη appeliant  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e467">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>II. Conservator mundi est ejusdem creator. 
+      <lb ed="#H" n="117"/>At Filius Dei est conservator mundi: ut dicitur Col. 1. v. 17. Omnia 
+      <lb ed="#H" n="118"/>per eum consistunt. Heb. 1. v. 3. Qui quum sit effulgentia gloriae &amp; 
+      cha<lb ed="#H" n="119" break="no"/>racter persona illius, sustineatque omnia verbo illo suo potente. Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e480">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>III. Quaecunque Pater facit, haec &amp; Filius pariter facit. Joh. 5. v. 19. 
+      <lb ed="#H" n="121"/>hoc est, una &amp; conjunctim cum Patre Non enim res a Patre factas 
+      <lb ed="#H" n="122"/>aliis rebus a se factis exprimit Filius, sed quia in agendo par, imo uno 
+      <lb ed="#H" n="123"/>&amp; eadem, &amp; conjuncta est Patris &amp; Filii, sapientia, voluntas, &amp; 
+      po<lb ed="#H" n="124" break="no"/>tentia. Christus de omni opere Patris universe loquitur: Ergo etiam 
+      <lb ed="#H" n="125"/>de creatione. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e498">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>At caelum &amp; terram &amp; omnia quae in eis sunt visibilia &amp; invisibilia 
+      <lb ed="#H" n="127"/>Pater facit. Praesenti tempore utimur, sicut Deus ipse loquens de 
+      creatio<lb ed="#H" n="128" break="no"/>ne, Jesa. 44. 19. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e509">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>Ergo &amp; Filius pariter facit 
+      <lb ed="#H" n="130"/>IV. Qui per Prophetam dicit, Ego Iehova facio omnia, extendo 
+      <lb ed="#H" n="131"/>caelos solus, expando terram per meipsum, Jesa. 44. 19. Item, Ego 
+      feci<lb ed="#H" n="132" break="no"/>terram &amp; hominem super eam creavi, ego manibus meis extendenti 
+      <lb ed="#H" n="133"/>bus caelos, omni quoque exercitui eorum praecepta dedi, Jesa. 45. 12. Item? 
+      <lb ed="#H" n="134"/>Sic ait Iehova creator caelorum ille ipse Deus, formator terrae &amp; opifex, 
+      <lb ed="#H" n="135"/>idem stabiliens eam, qui non ad inanitatem creavit eam, sed ad 
+      inhabi<lb ed="#H" n="136" break="no"/>candum formavit eam: ego sum Iehova &amp; nullus praeterea, Jesa. 45. v. 
+      <lb ed="#H" n="137"/>18. is profecto creavit omnia 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e533">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>At Filius Dei haec per Prophetam dicit: 
+      <lb ed="#H" n="139"/>Ergo Filius Dei omnia creavit. 
+      <lb ed="#H" n="140"/>Minor est certissima: nam. Qui per Jesaiam dixit; Certe mihi sese 
+      <lb ed="#H" n="141"/>flectet omne genu &amp; omnis lingua palam agnoscet Deum, Jesa. 45. 23. 11. 
+      <lb ed="#H" n="142"/>etiam superius allegata in eodem capite dixit. Atqui Filius Dei 
+      Chri<lb ed="#H" n="143" break="no"/>stus per Jesaiam dixit, Certe mihi sese flectet omne genu &amp; omnis lingua 
+      <lb ed="#H" n="144"/>palam agnoscet Deum: ut patet ex loco Pauli Eom. 14. 10, 11 Omnes 
+      <lb ed="#H" n="145"/>sistemur apud tribunal Christi. Scriptum est enim, Vivo ego, dicit 
+      Do<lb ed="#H" n="146" break="no"/>minus, certe mihi sese flectet omne genu &amp; omnis lingua palam 
+      agnoscet<lb ed="#H" n="147" break="no"/>Deum: Ergo &amp; paulo ante citata de creatione idem Filius dixit,  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e560">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Huc facit quod Justinus Martyr docet, Christum per Propheta. 
+      <lb ed="#H" n="149"/>vaticinatum &amp; loquutum, Apologia 1. pro Christianis p. 38. 
+      Apolo<lb ed="#H" n="150" break="no"/>gia item 2. p. 59. &amp; 60. Eadem vero Apologia 2. pag. 75. Judaeo 
+      <lb ed="#H" n="151"/>errate asserit, existimantes, semper Patrem cum Mose &amp; aliis 
+      Pro<lb ed="#H" n="152" break="no"/>phetis locutum, cum aeternus ille Sermo seu Filius Dei is fit, qui cum 
+      <lb ed="#H" n="153"/>Prophetis &amp; per eos est locutus. Sic &amp; Tertullianus ait, libro 
+      adver<lb ed="#H" n="154" break="no"/>sus Judaeos cap. 9. Qui ad Moysen loquebatur, ipse erat Dei Filius. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e580">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Hae sunt probationes ex Scriptura: sequitur Ecclesiae primitivae 
+      <lb ed="#H" n="156"/>consensus. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e589">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>Credidit &amp; docuit Ecclesia ante Synodum Nicenam primam 
+      <lb ed="#H" n="158"/>prorsus idem. Testimonia videantur supra tertio lib. capite quinte 
+      <lb ed="#H" n="159"/>de Filio Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e600">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Quapropter Filius Dei Christus est causa efficiens seu autor 
+      pri<lb ed="#H" n="161" break="no"/>mae creationis rerum omnium. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e609">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Sequitur jam secundo loco defensio hujus confirmationis contra 
+      <lb ed="#H" n="163"/>Samosatenianorum exceptiones, quas habent duplices; generales ad 
+      <lb ed="#H" n="164"/>pleraque testimonia Scripturarum supra allegata communiter; &amp; 
+      <lb ed="#H" n="165"/>speciales ad singulam seorsim. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e622">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Primo excipiunt generaliter ad testimonia allegata ex Joh. 1. 3. 10. 
+      <lb ed="#H" n="167"/>1. Cor. 8. 6. Coloss. 1.16. Hebr. 1. 2. eos illis mire abuti, qui inde 
+      pro<lb ed="#H" n="168" break="no"/>bant, Christum esse creatorem omnium, caeli terraeque. Sed in eo ipsos falli, 
+      <lb ed="#H" n="169"/>primum quod unum Deum esse Christum cum Patre somniaverint, 
+      il<lb ed="#H" n="170" break="no"/>lique coaternum &amp; coaequalem; quare etiam creatorem cum illo unum 
+      <lb ed="#H" n="171"/>esse commenti sint. Secundo quod creationis vocem non intellexerint, de 
+      <lb ed="#H" n="172"/>nova creatione seu renovatione, reconciliatione &amp; recapitulatione 
+      restau<lb ed="#H" n="173" break="no"/>rationeque accipi quoque saepe in Scripturis, ut Paulus doceat: Tum 
+      cumu<lb ed="#H" n="174" break="no"/>lant Samosateniani ex novo Testamento, quae de regeneratione 
+      loquun<lb ed="#H" n="175" break="no"/>tur per Christum facta 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e649">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Ad has generales exceptiones ista est nostra replicatio. Primo ac 
+      <lb ed="#H" n="177"/>cusant Samosateniani abusionis &amp; perversionis Scripturae non tam 
+      <lb ed="#H" n="178"/>nos vel eos, qui paulo ante nos in Ecclesia Christi docuerunt, sed 
+      o<lb ed="#H" n="179" break="no"/>mnes fidos Christi servos &amp; ipsorummet Apostolorum Christi 
+      disci<lb ed="#H" n="180" break="no"/>bulos &amp; eorum in primitiva &amp; sequente Ecclesia successores, qui ut  
+      <lb ed="#H" n="181"/>ab Apostolis &amp; viris Apostolicis edocti fuerunt, ita eo sensu quo nos 
+      <lb ed="#H" n="182"/>Scripturas superius recitatas intellexerunt, crediderunt &amp; 
+      explicave<lb ed="#H" n="183" break="no"/>tunt, ut postea patebit; sic ut insigniter artogantes sint Samosate¬ 
+      <!--cod-MkL9py-0285.xml-->
+      <pb ed="#H" n="258"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>mani, qui, ut suam haeresin salvent, ipsorummet Apostolorum γνήσίος, 
+      <lb ed="#H" n="2"/>discipulos deceptionis insimulant. Hi enim viri Apostolici non 
+      so<lb ed="#H" n="3" break="no"/>mniarunt, sed sancte ab Apostolis instituti religiose crediderunt &amp; 
+      <lb ed="#H" n="4"/>vigilantes confessi sunt, Christum esse unum Deum cum Patre, illis 
+      <lb ed="#H" n="5"/>que aeternum &amp; coaequalem, &amp; hanc confessionem sanguine suo 
+      <lb ed="#H" n="6"/>confirmarunt. Testimonia videantur supra in defensione Deitatis 
+      <lb ed="#H" n="7"/>Christi ad versus blasphemos haereticos 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e693">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Iidem discipuli Apostolorum &amp; sancti martyres. ut Christum non 
+      <lb ed="#H" n="9"/>somniarunt, sed pie confessi sunt Deum aeternum, Patri coaeternum 
+      <lb ed="#H" n="10"/>&amp; coaequalem: ita eundem non commenti sunt, sed secundum 
+      Scri<lb ed="#H" n="11" break="no"/>turas Sacras crediderunt Creatorem esse cum Patre, ut ex supra 
+      re<lb ed="#H" n="12" break="no"/>citatis testimoniis liquet.  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e709">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Secunde &amp; discipuli Apostolorum &amp; nos intelleximus 
+      Samosate<lb ed="#H" n="14" break="no"/>nianis non monentibus, creationis vocem saepe in Scripturis de se 
+      <lb ed="#H" n="15"/>cunda creatione &amp; regeneratione accipi. Sed tripliciter Samosatenia 
+      <lb ed="#H" n="16"/>ni in hoc peccant: Primo quod inscitiae accusant discipulos 
+      Aposto<lb ed="#H" n="17" break="no"/>lorum, quasi illi non intellexissent id quod Samosateniani, 
+      homine<lb ed="#H" n="18" break="no"/>scilicet admodum periti, intelligunt. Secundo quod peccant ωοοργείᾳ 
+      <lb ed="#H" n="19"/>probando multis testimoniis Spiritualem instaurationem 
+      homi<lb ed="#H" n="20" break="no"/>num per Christum, quam nemo piorum negat. Tertio perperam 
+      <lb ed="#H" n="21"/>locos de prima creatione interpretantur per locos de secunda 
+      crea<lb ed="#H" n="22" break="no"/>tione seu sprituali instauratione. Tum enim recte locus unus 
+      Scri<lb ed="#H" n="23" break="no"/>pturae per alios exponitur, quando in omnibus de re eadem agitur 
+      <lb ed="#H" n="24"/>Quod si in illis de re diversa agatur, non possunt mutuo sese 
+      expli<lb ed="#H" n="25" break="no"/>care. Jam in locis quos cumulant Samosateniani, non agitur de 
+      re<lb ed="#H" n="26" break="no"/>eadem, de qua testimonia a nobis adducta agunt, ut deinceps 
+      cla<lb ed="#H" n="27" break="no"/>rius patebit.  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e746">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Hoc replicatum esto ad generales exceptiones Samosa. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e753">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>tentanorum: videamus iam speciales exceptiones. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e760">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>ad singula loca 
+      <lb ed="#H" n="31"/>Ad locum Joh. 1. v. 3. speciatim excipiunt, Iohannem loqui de 
+      no<lb ed="#H" n="32" break="no"/>va creatione per Christum Deum verbum, qui fuit caro. Dictionem 
+      <lb ed="#H" n="33"/>gnim omnia non esse referendam (ut vulgo fiat) ad primam illam 
+      rerun<lb ed="#H" n="34" break="no"/>universarum creationem, non esse trahendam ad ista visibilia, sed res 
+      <lb ed="#H" n="35"/>stringendam esse ad negotium Evangelitiam tunc publicati &amp; recepti, 
+      <lb ed="#H" n="36"/>q. d. omnia quae nunc in Christi regno facta conspiciuntur (nam eo 
+      tem<lb ed="#H" n="37" break="no"/>pore quo Iohannes scripsit hanc suam de Iesu Christo historiam, multi 
+      <lb ed="#H" n="38"/>iam ad eius cognitionem venerant ac ex potestate tenebrarum ad verum. 
+      <lb ed="#H" n="39"/>Deum conversi erant) non aliunde facta sunt, quam Christi solius 
+      ope<lb ed="#H" n="40" break="no"/>ra, Evangeliique sui praedicatione. Nam, aiunt, &amp; Christum ipsum 
+      di<lb ed="#H" n="41" break="no"/>cere, sine me nihil potestis facere. Sic Paulum dicere 2. Cor. 5. si quis in 
+      <lb ed="#H" n="42"/>Christo nova creatura est: vetera praeterierunt, ecce nova facta sunt  
+      <lb ed="#H" n="43"/>omnia: Et Eph. 1. ut omnia per Christum restauraret, &amp; cap. 3. 
+      Omnia<lb ed="#H" n="44" break="no"/>creavit per Iesum Christum: &amp; hic creare, aiunt, pro instaurare a 
+      Pau<lb ed="#H" n="45" break="no"/>lo usurperi, ut multis etiam veteribus &amp; modernis placuerit. Ideo 
+      sta<lb ed="#H" n="46" break="no"/>tim additam restrictionem, ne quis universaliter de omnibus creaturi: 
+      <lb ed="#H" n="47"/>hoc dici putet; addi enim quod factum sit, ut intelligatur Iohannem 
+      <lb ed="#H" n="48"/>loqui de iis rebus quae factae sunt per eum. Nam ea exceptione innuere, 
+      <lb ed="#H" n="49"/>Iohannem, alia esse sine illo facta, antequam educeretur ex semine 
+      Da<lb ed="#H" n="50" break="no"/>vid, ut sub Vetert Testamento fuerit. Opera Christi futura describi 
+      le<lb ed="#H" n="51" break="no"/>sa. 35. &amp;. 61. quae Matth. 2. &amp; Luc. 4. recenseantur. Et haec esse opera 
+      <lb ed="#H" n="52"/>novae creationis seu restaurationis. Summa est loqui hic Iohannem de 
+      <lb ed="#H" n="53"/>Christo ex Maria nato, per quem locutus sit Pater, non olim, sed novissi 
+      <lb ed="#H" n="54"/>mis istis temporibus: unde quoque Sermo vel Verbum dicatur. De nove 
+      <lb ed="#H" n="55"/>Testamento eum loqui, cuius Christus homo, teste Paulo, sit Mediator 
+      <lb ed="#H" n="56"/>&amp; Mediatori competere ut sint per illum omnia, non autem ex ipso. Haec 
+      <lb ed="#H" n="57"/>autem factae novae creationis describere Evangelistas quatuor, quae 
+      pe<lb ed="#H" n="58" break="no"/>eum fecerit Pater. Nam &amp; Lucam scribere, signa fecisse Deum per 
+      il<lb ed="#H" n="59" break="no"/>cum, demones expulisse, &amp; omnes morbos sanasse, quia Deus erat cum 
+      <lb ed="#H" n="60"/>illo: nihil autem usquam tribui Deo in Christo incarnato. Et Christum 
+      <lb ed="#H" n="61"/>quoque sibi credi non velle, si a seipso loquatur vel faciat aliquid, sed 
+      pro<lb ed="#H" n="62" break="no"/>pter opera quae egit Pater per eum, sibi credi voluisse. Sic alias de 
+      Chri<lb ed="#H" n="63" break="no"/>sto scribere Evangelistam, bene omnia fecit: sed quae illa omnia? oporo 
+      <lb ed="#H" n="64"/>nempe novi Testamenti, novae creationis in sanandis mutis &amp; surdis, 
+      <lb ed="#H" n="65"/>quae etiam Iesaias ante mulio praedixerat: at de creatione caeli terraeque  
+      <lb ed="#H" n="66"/>per Christum, nusquam cum omnibus Prophetis, vel verbo meminisse 
+      <lb ed="#H" n="67"/>Sed &amp; Iohannem cap. 1. aperte ostendere gratiam &amp; veritatem 
+      pe<lb ed="#H" n="68" break="no"/>Christum factam esse seu exsolutam, ut per Mosem legem. Neminem 
+      er<lb ed="#H" n="69" break="no"/>go sibi somniare debere Filium Dei Christum aeternum, cuius generatio 
+      <lb ed="#H" n="70"/>vel unctio aeterna demonstrari non possit, sed nec ullum opus: tum quod  
+      <lb ed="#H" n="71"/>aliquid acceperit a Patre, aut illi potestas data sit omnium. Isti enim ex 
+      <lb ed="#H" n="72"/>Maria nato haec omnia tribuere Scripturam 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e859">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Haec est Samosatenianorum ad tertium versum primi capitis 
+      Jo<lb ed="#H" n="74" break="no"/>hannis prolixa exceptio, ad cujus partes singulas ordine replicabi  
+      <lb ed="#H" n="75"/>mus. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e870">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Primo excipiunt Johannem loqui non de prima illa creatione de 
+      <lb ed="#H" n="77"/>qua Genes. 1. Sed de nova creatione per Christum Deum Verbum. 
+      <lb ed="#H" n="78"/>qui fuerit caro: Novam autem creationem esse tum instaurationem 
+      <lb ed="#H" n="79"/>&amp; conversionem multorum ad verum Deum, signorum &amp; 
+      miracu<lb ed="#H" n="80" break="no"/>lorum patrationem, tum gratiae &amp; veritatis effectionem: 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e886">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Sed in ista exceptione quatuor continentur errores. Primo dicunt 
+      <lb ed="#H" n="82"/>Samosateniani hunc locum Johannis esse intelligendum non de 
+      pri<lb ed="#H" n="83" break="no"/>ma creatione sed de secunda seu nova creatione: secundo Christum 
+      <lb ed="#H" n="84"/>agnoscunt Deum, non natura &amp; reipsa, sed nomine duntaxat: 
+      terti<lb ed="#H" n="85" break="no"/>malitiose coriumpunt verba Joh 1 v. 14. λόγο σαρχ εγινεοο: 
+      quar<lb ed="#H" n="86" break="no"/>ro perperam definiunt secundam seu novam creationem: 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e904">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Primus errur est, hunc Johannis locum non esse de prima 
+      creatio<lb ed="#H" n="88" break="no"/>ne, sed de spirituali instauratione intelligendum. Atqui esse cum de 
+      <lb ed="#H" n="89"/>prinia cieatione intelligendum, scopus Johannis ostendit. Nam 
+      <!--cod-MkL9py-0285.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>propositum ei fuit docere, Sermonem illum ab aeterno Deum fuisset 
+      <lb ed="#H" n="91"/>Hoc confirmat his argumentis: 1. quia erat in principio scilicet 
+      mun<lb ed="#H" n="92" break="no"/>di, hoc est, cum mundus e nihilo crearetur: 2. quia erat apud Deum; 
+      <lb ed="#H" n="93"/>1. quia omnia quaecunque facta sunt, per ipsum facta sunt. Tertium 
+      <lb ed="#H" n="94"/>igitur argumentum sic concludendum: Pet quem omnia facta sunt  
+      <lb ed="#H" n="95"/>sine quo factum est nihil, quod factum est, is profecto fuit Deus 
+      ab<lb ed="#H" n="96" break="no"/>aeterno. At per Sermonem ilium omnia facta sunt, &amp; sine ipso 
+      fa<lb ed="#H" n="97" break="no"/>ctum est nihil quod factum est. Eigo Sermo ille fuit ab aeterno. 
+      <lb ed="#H" n="98"/>In hac confirmatione primum notanda Thesis quam Johannes 
+      con<lb ed="#H" n="99" break="no"/>stabilit: ea est, Sermo ille erat Deus. Non dicit, praesenti tempore 
+      <lb ed="#H" n="100"/>Sermo ille est Deus, ne quis cavilletur, esse jam quidem Deum, sed 
+      <lb ed="#H" n="101"/>non fuisse Deum ab aeterno: sed utitur verbo praeteriti tempori 
+      <lb ed="#H" n="102"/>ERAT, ut doceat, non coepisse demum esse Deum, postquam ex 
+      Ma<lb ed="#H" n="103" break="no"/>tia virgine natus est, sed fuisse Deum antequam ex illa natus est 
+      <lb ed="#H" n="104"/>Deinde perpendatur vis argumenti confirmationis, quia per ipsum 
+      <lb ed="#H" n="105"/>omnia facta sunt, &amp; sine eo factum est nihil quod factum est: hoc nihil 
+      <lb ed="#H" n="106"/>habere roboris ad Thesin hanc probandam, nisi de prima mundi &amp; 
+      <lb ed="#H" n="107"/>omnium quae sunt in mundo creatione ex nihilo intelligeretur. Nec 
+      <lb ed="#H" n="108"/>enim Deus est qui in tempore demum Deus esse coepit; &amp; per quem 
+      <lb ed="#H" n="109"/>rincipio omnia ex nihilo creata non sunt. Hic igitur Johanuis 
+      lo<lb ed="#H" n="110" break="no"/>cus de prima creatione est accipiendus. De secunda creatione intel 
+      <lb ed="#H" n="111"/>igendum esse Samofateniani evincere non poterunt. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e967">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Haec de primo errore. 
+      <lb ed="#H" n="113"/>Secundus error est ex homonymia, quod Christum esse Deum 
+      fa<lb ed="#H" n="114" break="no"/>centur, sed quomodo? non natura, sed nomine duntaxat, 
+      quemad<lb ed="#H" n="115" break="no"/>modum Moses vocatur Deus Aaronis &amp; Pharaonis, &amp; 
+      quemadmo<lb ed="#H" n="116" break="no"/>dum Augustus Caesar appellatur Deus a Meliboeo. Atqui si natura 
+      <lb ed="#H" n="117"/>Deus non est, a nobis Christianis pro Deo habendus non est. Nam 
+      <lb ed="#H" n="118"/>etiamsi sint qui dicantur dii, &amp; in caelo &amp; in terra (sicut sunt dii 
+      muli<lb ed="#H" n="119" break="no"/>i, &amp; domini multi) Nobis tamen unus est Deus, Pater ille a quo omnia 
+      <lb ed="#H" n="120"/>&amp; nos in ipso, ut Paulus docet 1. Cor. 8. v. 5. 6. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e991">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>Tertius error est ψδυδορμλωεια &amp; malitiosa depravatio insignis 
+      il<lb ed="#H" n="122" break="no"/>lius loci Johannis cap. 1. versic. 14. ὅλόγος σαρς ἔyυίςο. Hunc 
+      <lb ed="#H" n="123"/>enim sic vertunt; Sermo fuit caro: &amp; explicat, homo ille qui dicitur  
+      <lb ed="#H" n="124"/>permo, fuit vilis, infirmus &amp; in mundo contemtus: At hoc non est 
+      ver<lb ed="#H" n="125" break="no"/>tere, sed pervertere: non explicare, sed implicare: Verti autem debet 
+      <lb ed="#H" n="126"/>permo ille factus est caro: &amp; sententia est, Sermo ille qui erat Deus. 
+      <lb ed="#H" n="127"/>actus est homo assumta natura humana 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1012">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>Quartus error est falsa definitio secundae aut novae creationis. Sigi 
+      <lb ed="#H" n="129"/>norum enim &amp; miraculorum patratio non est nova illa creatio, nam 
+      <lb ed="#H" n="130"/>&amp; Prophetae in veteri Testamento signa &amp; miracula fecerunt, nec 
+      ta<lb ed="#H" n="131" break="no"/>men illi novae creationis effectores exstiterunt.  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1025">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>Ad hujus replicationis membrum primum duplicant Samosate 
+      <lb ed="#H" n="133"/>niani &amp; probare nituntur, non de prima creatione, sed de secunda 
+      <lb ed="#H" n="134"/>munc locum esse capiendum: non esse de prima creatione 
+      intelligen<lb ed="#H" n="135" break="no"/>lum conantur probare tribus rationibus: 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1038">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>Prima ratio est, quia Christus non sit unus Deus cum Patre. At hoc 
+      <lb ed="#H" n="137"/>falsum esse evicimus quum aeternam Filii Dei assereremus Deita. 
+      <lb ed="#H" n="138"/>cem¬ 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1049">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Secunda ratio est: Unus Deus Pater creavit omnia: alius ergo non 
+      <lb ed="#H" n="140"/>non est Greator. Solus erat &amp; nemo illi aderat, quum crearet caelos, 
+      le<lb ed="#H" n="141" break="no"/>saia 44. teste. Solus extendit caelos, Jobo teste c. 6. Ille creator omnium 
+      <lb ed="#H" n="142"/>ibique in lege: a Prophetis Christo, &amp; Apostolis praedicatur, tum in 
+      sym<lb ed="#H" n="143" break="no"/>bolo Apostolico. Vide locos Deuteron. 32. Esa. 49. 42. 44. Malath. 
+      <lb ed="#H" n="144"/>. Sic Act. 4. 14. 15. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1067">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Ad hanc secundam rationem triplicamus. Enthymema est tale: 
+      <lb ed="#H" n="146"/>Solus Pater omnia creavit: Non ergo Filius. Antecedens est ambi¬ 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1076">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>uum: nam si Deo Patri Creatori opponantur dii gentium fictitii 
+      <lb ed="#H" n="148"/>recte illi excluduntur a gloria creationis: dii enim gentium 
+      fictiti<lb ed="#H" n="149" break="no"/>non crearunt caelum &amp; terram. At si excludatur Filius Dei &amp; 
+      Spiri<lb ed="#H" n="150" break="no"/>tus Sanctus, quemadmodum a Samosatenianis excluditur, falsum est, 
+      <lb ed="#H" n="151"/>intecedens. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1093">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Ad probationem ejus loca adducta non faciunt. Primus locus 
+      <lb ed="#H" n="153"/>est Jesa. 44. versic. 19. ubi dicitur: Sic ait Iehova vindex tuus, &amp; 
+      <lb ed="#H" n="154"/>formator tuus ex utero: Ego Iehova facio omnia, extendo caelos solus, 
+      <lb ed="#H" n="155"/>expando terram per meipsum. At Jesaias non dicit, sic ait Deus 
+      Pa<lb ed="#H" n="156" break="no"/>ter, sed sic ait Jehova: Ergo Deus in hoc Jesaiae loco loquens non est? 
+      <lb ed="#H" n="157"/>olus Pater; sed unus ille Jehova Elohim, hoc est, Pater, Filius 
+      <lb ed="#H" n="158"/>Spiritus Sanctus, ut in loco de Deo est demonstratum. Deinde 
+      Je<lb ed="#H" n="159" break="no"/>hova ibi non excludit Filium suum, sed commentitios Gentilium 
+      <lb ed="#H" n="160"/>deos, ut contextus ostendit. Alter locus Jobi 9. vers. 8. Qui extendit 
+      <lb ed="#H" n="161"/>caelos solus &amp; calcat excelsa maris, tam non est de solo Patre 
+      intelligen<lb ed="#H" n="162" break="no"/>dus, quam praecedens. Solum Patrem creatorem omnium ubique 
+      <lb ed="#H" n="163"/>in Lege, a Prophetis, Christo &amp; Apostolis praedicari, esse falsum 
+      lo<lb ed="#H" n="164" break="no"/>ca de Filio Dei Creatore nuper allata ostendunt &amp; paulo post 
+      loca<lb ed="#H" n="165" break="no"/>quae de Spiritu Sancto proferemus, evincent. Quod vero in 
+      Sym<lb ed="#H" n="166" break="no"/>polo Apostolico soli Patri creatio tribuitur, non ideo fit, ut Filius 
+      ne<lb ed="#H" n="167" break="no"/>retur esse creator, sed quia Pater, ut Deitatis ipsius, ita etiam 
+      omni<lb ed="#H" n="168" break="no"/>um operum Deitatis fons est &amp; origo, ac proinde etiam creationis; 
+      <lb ed="#H" n="169"/>Nec magis sequitur, Filium non esse creatorem caeli &amp; terrae, quia 
+      so<lb ed="#H" n="170" break="no"/>lus Pater creator caeli &amp; terrae in symbolo praedicatur: quam Patrem 
+      <lb ed="#H" n="171"/>non esse Dominum nostrum, quia solus Filius Dominus noster in 
+      <lb ed="#H" n="172"/>Symbolo praedicatur. Allegant postea plura loca nempe Deuter. 32. 
+      <lb ed="#H" n="173"/>v. 18. Rupis quae genuit te oblitus es; &amp; oblivioni tradidisti Deum 
+      for<lb ed="#H" n="174" break="no"/>tem formatorem tuum, Jes. 40. v. 28. Annon novisti? nonne audivist. 
+      <lb ed="#H" n="175"/>Deum aeternum Iehovam, creatorem extremitatum terrae non defetisci, 
+      <lb ed="#H" n="176"/>neque defatigari? &amp; cap. 42. v. 5. Sic ait Deus ille fortis Iehova, creator 
+      cae<lb ed="#H" n="177" break="no"/>lorum &amp; qui extendit eos; qui expandit terra &amp; res prognatas ex ea, qui 
+      <lb ed="#H" n="178"/>ind t animam populo agenti in ea; &amp; Spiritum ambulantibus in ea, &amp; 
+      <lb ed="#H" n="179"/>cap. 44. v. 19. Sic ait, &amp;c. ut paulo ante est citatus locus Mala. 2. v. 10. 
+      <!--cod-MkL9py-0286.xml-->
+      <pb ed="#H" n="259"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Nonie Deus fortis unicus creavit nos? Actor. 4. v. 24. Domine, tues 
+      <lb ed="#H" n="2"/>Deus ille, qui fecisti coelum ac terram, mare &amp; omnia quae in eis sunt  
+      <lb ed="#H" n="3"/>&amp; cap. 14. v. 15. Viri cur ista facitis? nos quoque sumus homines iisdem 
+      <lb ed="#H" n="4"/>quibus vos affectionibus obnoxij, annunciantes, ut a vanis istis 
+      rebu<lb ed="#H" n="5" break="no"/>congertatis vos ad Deum illum vivum, qui fecit coelum &amp; terram, &amp; 
+      <lb ed="#H" n="6"/>mare &amp; omnia quae in eis sunt. Et cap. 17. vers. 24. Deus ille qui fecit 
+      <lb ed="#H" n="7"/>mundum &amp; omnia quae in eo sunt, quum sit coeli &amp; terrae Dominus in 
+      <lb ed="#H" n="8"/>ma factis templis non habitat. Ex his locis colligunt, solum 
+      Pa<lb ed="#H" n="9" break="no"/>trem, non autem Filium esse creatorem coeli &amp; terrae. At primo hoc 
+      <lb ed="#H" n="10"/>in iis non asseritur: deinde non magis hoc ex illis consici potest, quam 
+      <lb ed="#H" n="11"/>si quis ex illis locis in quibus Filio Dei creatio coeli &amp; terrae tribuitur.  
+      <lb ed="#H" n="12"/>non etiam expresse Patri, velut Joh. 1. 3. &amp; 10. Col116. Hebr. 1. 16. 
+      <lb ed="#H" n="13"/>colligere vellet, Filium solum esse creatorem coeli &amp; terrae, non 
+      et<lb ed="#H" n="14" break="no"/>am Patrem. Errant Samosateniani, dum pro oppositis habent, qua  
+      <lb ed="#H" n="15"/>opposita non sunt. Quum itaque dicunt; Pater creavit coelum &amp; 
+      ter<lb ed="#H" n="16" break="no"/>ram, Ergo Filius non creavit coelum &amp; terram: perinde faciunt ac 
+      <lb ed="#H" n="17"/>quis argumentaretur Pater conservat omnia; Ergo Filius non 
+      con<lb ed="#H" n="18" break="no"/>servat omnia. Pater est primus ille &amp; ultimus ille: ergo non Filius. 
+      <lb ed="#H" n="19"/>Paulus docuit Evangelium inter Gentes: Ergo Petrus non docuit.  
+      <lb ed="#H" n="20"/>Evangelium inter Gentes. At haec non sunt opposita: nam opposita 
+      <lb ed="#H" n="21"/>non definiuntur quibus idem non possit tribui, sed quae eidem non 
+      <lb ed="#H" n="22"/>possint tribui, secundum idem &amp; ad idem. Sic triplicavimus ad 
+      se<lb ed="#H" n="23" break="no"/>cundam rationem. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1215">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Tertia ratio Samosatenianorum haec est: 
+      <lb ed="#H" n="25"/>Omnia prorsus opera divina, sub veteri testamento facta, illi uni Deo 
+      <lb ed="#H" n="26"/>Patri Christi tribuuntur, non autem Filio: 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1226">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>At creatio prima coeli &amp; terrae est opus divinum sub veteri 
+      testa<lb ed="#H" n="28" break="no"/>mento factum: 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1235">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Ergo illi uni Deo Patri Christi tribuitur, non autem Filios 
+      <lb ed="#H" n="30"/>Propositionem probant ex cap. 13. Actor. v. 17. &amp; sequentibus, in 
+      <lb ed="#H" n="31"/>quibus multa opera divina sub veteri testamento facta enumerantur, 
+      <lb ed="#H" n="32"/>eaque uni Deo populi Israelis &amp; Patri Christi tribuuntur: Deus ille (aii 
+      <lb ed="#H" n="33"/>Paulus) populi hujus Israelis, elegit Patres nostros, &amp; populum sursum 
+      <lb ed="#H" n="34"/>evexit quum commoraretur in terra EEgypti, &amp; ex ea eduxit eos elato 
+      <lb ed="#H" n="35"/>brachio, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1255">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Ad istam rationem haec nostra est triplicatio. Primo propositio est 
+      <lb ed="#H" n="37"/>falsa: Deinde ad eam probandam non facit locus ex Actis 
+      Apostoli<lb ed="#H" n="38" break="no"/>cis adductus, quod liquet ex collatione illius cum aliis locis: Nam 
+      <lb ed="#H" n="39"/>quem tentarunt Israelitae in deserto, is eduxit illos ex AEgypto. At 
+      <lb ed="#H" n="40"/>Christum tentarunt Israelitae in deserto, ut docet Paulus 1. Cor. 10. v. 
+      <lb ed="#H" n="41"/>9. Ergo Christus eduxit illos ex ÆEgypto. Istud colligitur etiam 
+      a<lb ed="#H" n="42" break="no"/>perte ex loco Exod. 14. v. 19. Tum profectus Angelus ipse Dei, qui am 
+      <lb ed="#H" n="43"/>tecedebat castra Israelitarum, ivit a tergo eorum. Idem vero Angelus 
+      <lb ed="#H" n="44"/>Dei praecedente cap. 13. v. 21. dicitur Jehova: Iehova antecedebat 
+      eo<lb ed="#H" n="45" break="no"/>interdiu in columna nubis, ad deducendum eos via illa, &amp; noctu in 
+      co<lb ed="#H" n="46" break="no"/>lumna ignis, ad afferendum eis lucem. Et cap. 23. v. 20. Ecce ego mitt 
+      <lb ed="#H" n="47"/>Angelum ante te, ad servandum te in hac via, &amp; ad introducendum tio 
+      <lb ed="#H" n="48"/>in locum illum que praeparavi. Cave tibi ob praesentiam ejus, &amp; auscul 
+      <lb ed="#H" n="49"/>ta voci ejus, ne exacerbes eum: quia non feret defectionem vestram. 
+      <lb ed="#H" n="50"/>quia nomen meum est in eo. Nam si sedulo auscultaveris voci ejus, &amp; 
+      <lb ed="#H" n="51"/>feceris omnia quae edicam: plane inimicus ero inimicorum tuorum, &amp; 
+      <lb ed="#H" n="52"/>hostiliter agam cum hostibus tuis. Quum iverit Angelus meus ante 
+      te<lb ed="#H" n="53" break="no"/>&amp; introduxerit in terram Emoraei &amp; Chittaei, &amp;c. Unde etiam 2. Sam 
+      <lb ed="#H" n="54"/>7. v. 23. dicitur plurali numero, Quae enim est sicut populus tuus, sicut 
+      <lb ed="#H" n="55"/>Israel, gens ulla in terra: ad quam redimendam sibi in populum, 
+      <lb ed="#H" n="56"/>CyrPye POPyP verint Elobim: 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1305">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Falsitate propositionis ostendit etiam apertissime ipse Dominus 
+      <lb ed="#H" n="58"/>quum ait Johan. 8. v. 58. Amen amen dico vobis, prius quam 
+      Abrahan<lb ed="#H" n="59" break="no"/>exsisteret, ego sum. Qui fuit ante Abrahamum, is etiam operatus est, 
+      <lb ed="#H" n="60"/>ante Abrahamum. Johannes Evangelista cap. 12. v. 41. dicit, Jesaiat, 
+      <lb ed="#H" n="61"/>vidisse gloriam ejus (videlicet Christi, de hoc enim Johannem 
+      loqu<lb ed="#H" n="62" break="no"/>contextus ostendit) &amp; locutum esse de eo. Ergo Filius Dei in veter 
+      <lb ed="#H" n="63"/>testamento manifestavit gloriam suam, &amp; Prophetas ad Ecclesiam 
+      <lb ed="#H" n="64"/>suam misit 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1328">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Consentiunt orthodoxi veteres Patres: Iustinus Martyr Apolo 
+      <lb ed="#H" n="66"/>gia secuda pro Christianis ad M. Antoninum Imperatorem, pag. 75. 
+      <lb ed="#H" n="67"/>dicit: Iudaei existimantes, semper Parentem rerum cunctarum cum 
+      Mo<lb ed="#H" n="68" break="no"/>se esse locutum, cum qui cum eo est locutus, Filius Dei esset, qui &amp; 
+      An<lb ed="#H" n="69" break="no"/>gelus &amp; Apostelus cognominatus est: recte &amp; a Prophetico Spiritu &amp; 
+      <lb ed="#H" n="70"/>ab ipso Christo cvarguuntur, neque Patrem neque Filium nosse. Ibidem ait, 
+      <lb ed="#H" n="71"/>Filium prius per ignis formam &amp; imaginem incorpoream Mosi ad 
+      <lb ed="#H" n="72"/>caeteris Prophetis apparuisse. Et in Dialogo cum Ttyphone Judaec 
+      <lb ed="#H" n="73"/>pag. 280. ait: Itaque neque Abraam, neque Isaac, neque lacob, neque hominum 
+      <lb ed="#H" n="74"/>alius quisquam, Patrem &amp; ineffabilem Dominum rerum omnium 
+      u<lb ed="#H" n="75" break="no"/>niversorum &amp; ipsius Christi, vidit, &amp;c. Et paulo post de Filio Dei ait: 
+      <lb ed="#H" n="76"/>de uoluntate ejusdem, homo ex virgine natus est, qui etiam aliquando 
+      <lb ed="#H" n="77"/>ignis fuit, in suo cum Mose e rubo colloquio.  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1361">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Tertullianus libro adversus Judaeos cap. 9. ait: Qui ad Mosen 
+      lo<lb ed="#H" n="79" break="no"/>quebatur, ipse erat Dei Filius, qui &amp; semper videbatur. Deum enim 
+      Pa<lb ed="#H" n="80" break="no"/>trem nemo vidit unquam &amp; vixit: &amp; ideo constat ipsum Dei Filium 
+      <lb ed="#H" n="81"/>Mosi esse locutum  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1374">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Novatianus libro de Trinitate Tertulliani operibus adjuncto 
+      ca<lb ed="#H" n="83" break="no"/>pit. 26. Ecce idem Moses refert alio in loco, quod Abrahae visus sit Deus 
+      <lb ed="#H" n="84"/>Atqui idem Moses audit a Deo, quod nemo hominum Deum videat, &amp; 
+      <lb ed="#H" n="85"/>vivat. Si videri non potest Deus, quomodo visus est Deus? Aut si 
+      vi<lb ed="#H" n="86" break="no"/>sus est, quomodo videri non potest? Nam &amp; lohannes, Deum nemo, (
+      n<lb ed="#H" n="87" break="no"/>quit) vidit unquam. Et Apostolus Paulus: Quem vidit hominum 
+      ne<lb ed="#H" n="88" break="no"/>mo, nec videre potest. Sed non utique Scriptura mentitur. Ergo vere visus 
+      <lb ed="#H" n="89"/>est Deus. Ex quo intelligi potest, quod non Pater visus sit, qui nunquam, 
+      <lb ed="#H" n="90"/>visus est, sod Filius, qui &amp; descedere solitus est, &amp; videri quia descederat.  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1398">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Quinetiam Patres orthodoxi Filio Dei opus primae creationis 
+      a<lb ed="#H" n="92" break="no"/>perte tribuunt. Velut Jut. nus Martyr Apologia secunda pro Chri¬ 
+      <!--cod-MkL9py-0286.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>stianis, pag. 72. ait; Verbo Dei (sic ibi appellat Filiusm Dei) factum est 
+      <lb ed="#H" n="94"/>se mundum universum. Et Dialogo cum Ttyphone Judaeo pag. 221. 
+      <lb ed="#H" n="95"/>&amp; 222. in verbis illis, in creatione hominis Gen 1. v. 26. Faciamus 
+      ho<lb ed="#H" n="96" break="no"/>minem ad imaginem nostram, Deum Patrem dicit locutum esse, 
+      no<lb ed="#H" n="97" break="no"/>secum ipsum, nec cum elementis, nec cum Angelis, nec enim Angelorum 
+      <lb ed="#H" n="98"/>creaturam esse corpus humanum: sed cum Filio, de quo ait: Haec ipsa.; 
+      <lb ed="#H" n="99"/>a Patre revera edita progenies, ante creaturas omnes una cum Patre 
+      <lb ed="#H" n="100"/>fuit, &amp; cum ea Pater colloquitur. Filius ergo una cum Patre fecit 
+      ho<lb ed="#H" n="101" break="no"/>minem ex limo terrae. Supra plura ex Justino fuerunt allata. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1431">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Tertullianus Apologetico adversus Gentes, cap. 21. ait, Christum 
+      <lb ed="#H" n="103"/>miraculis ostendisse se esse Verbum Dei, sid est λόόγον) illud primordiale 
+      <lb ed="#H" n="104"/>primogenitum virtute &amp; ratione comitatum, &amp; Spiritis instructum 
+      <lb ed="#H" n="105"/>eundem qui verbo omnia &amp; faceret &amp; fecisset 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1444">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Sic triplicavimus ad tertiam rationem. 
+      <lb ed="#H" n="107"/>Quarta ratio est: Moses qui primam rerum omnium creationem 
+      ac<lb ed="#H" n="108" break="no"/>curate descripsit, non docet, ullum Filium Dei adfuisse Patri in 
+      creatio<lb ed="#H" n="109" break="no"/>ne. Ergo Filius non creavit cum Patre coelum &amp; terra &amp; caeteras creaturas. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1458">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>RESP. Antecedens est falsum. Nam Moses primo toties 
+      doce<lb ed="#H" n="111" break="no"/>Filium Patri in creatione adfuisse, quoties in historia creationis 
+      scri<lb ed="#H" n="112" break="no"/>bit, Dixit Deus, fiat hoc vel illud. Nec eludi hoc potest, quasi dicere 
+      <lb ed="#H" n="113"/>hic acciperetur pro jubere &amp; imperare: meliores enim sunt 
+      interpre<lb ed="#H" n="114" break="no"/>tes Mosis Apostoli, qui tradunt per Filium secula esse condita Joh. 1. 
+      <lb ed="#H" n="115"/>v. 3. Hebr. 1 v. 2. Col. 1. v.16. Deinde cum creationem hominis 
+      descri<lb ed="#H" n="116" break="no"/>bens ait, Deum dix sse Gen. 1. v. 26. Faciamus hominem ad imaginem 
+      <lb ed="#H" n="117"/>nostram, secundum similitudinem nostram: eo expresse docet, plures 
+      <lb ed="#H" n="118"/>personas creasse &amp; fecisse hominem, quam unam. Colloquium enim 
+      <lb ed="#H" n="119"/>non habuit una persona secum, nec cum elementis, nec cum Angelis 
+      <lb ed="#H" n="120"/>nec enim homo est creatura Angelorum: sed cum personis sibi 
+      ae<lb ed="#H" n="121" break="no"/>qualibus, quum idem ipsis quod sibi opus creationis hominis tribuit. 
+      <lb ed="#H" n="122"/>&amp; eandem ipsis gloriam, quam sibi adser bit, quum aeque ad illorum 
+      <lb ed="#H" n="123"/>atque ad suam imaginem hominem condendum dicit. Quod vero 
+      <lb ed="#H" n="124"/>cum Creator dixit, Faciamus hominem ad imaginem nostram, 
+      secun<lb ed="#H" n="125" break="no"/>dum similitudinem nostram, citra ambiguitatem certo ad aliquem  
+      <lb ed="#H" n="126"/>qui &amp; numero alius &amp; rationalis sit, ipsique aequalis, locutus est: cog. 
+      <lb ed="#H" n="127"/>noscere possumus ex aliis ejusdem verbis Gen. 3 v. 22. ubi dicit, Ecce 
+      <lb ed="#H" n="128"/>homo estne sicut unus ex nobis? Nam sicut unus ex nobis, dicens tum 
+      <lb ed="#H" n="129"/>numerum eorum qui una essent, tum minimum duos indicavit: tum 
+      <lb ed="#H" n="130"/>eorum inter se aequalitatem ostendit. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1508">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>INSTANT Samosateniani; Quum Moses enumeret etiam 
+      ani<lb ed="#H" n="132" break="no"/>mantia, bestias, insecta, herbas &amp; quidlibet suo genere; absurdum esset 
+      <lb ed="#H" n="133"/>non fieri aperte mentionem Filii Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1519">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>RESP. Primo si valere debet haec instantia, poterit ex historia 
+      <lb ed="#H" n="135"/>creationis a Mose descripta colligi, Angelos non esse creatos, quia 
+      <lb ed="#H" n="136"/>Moses nullo verbo illorum meminit: aut saltem absurdum erit, 
+      An<lb ed="#H" n="137" break="no"/>gelorum inter creaturas mentionem nullam fieri. Deinde falsum est, 
+      <lb ed="#H" n="138"/>non fieri mentionem Filii Dei, ut paulo ante ostendimus. Tertio 
+      et<lb ed="#H" n="139" break="no"/>iamsi plane nullam ejus faceret mentionem, tamen nobis nihil 
+      obes<lb ed="#H" n="140" break="no"/>set: nam argumentum a particulari autoritate negative non valet:  
+      <lb ed="#H" n="141"/>Moses hoc non scripsit; ergo credendum non est. Quod enim 
+      Mo<lb ed="#H" n="142" break="no"/>ses non scripsit, id alii Prophetae &amp; Apostoli scripserunt. Quid quoc 
+      <lb ed="#H" n="143"/>placuit Deo, non una vice plene, sed paulatim &amp; seipsum &amp; opera sua 
+      <lb ed="#H" n="144"/>manifestare: 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1548">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>INSTANTrursus: In praedictionibus de instauranda creatura 
+      la<lb ed="#H" n="146" break="no"/>psa sit mentio futuri Christi per quem instauratio erat facienda 
+      Geneso<lb ed="#H" n="147" break="no"/>3. &amp; 12. &amp; 22. &amp; passim in Mosaitis praedictionibus, typis, figuris &amp; umi 
+      <lb ed="#H" n="148"/>bris. Ergo absurdum esset non fieri ejus mentionem in historia primae 
+      <lb ed="#H" n="149"/>creationis. Absurdum esset insecta &amp; umbras memorari, non autem 
+      <lb ed="#H" n="150"/>ipsum Filium Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1566">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>RESP. Nego consequentiam: nec enim absurdum tale ex 
+      histo<lb ed="#H" n="152" break="no"/>cia creationis colligi potest. Fecit enim Moses mentionem Filii Dei 
+      <lb ed="#H" n="153"/>in creatione, ut ante ostendimus. Deinde etiamsi non fecisset, tamer 
+      <lb ed="#H" n="154"/>aibsurdum non foret: quia Deus sub veteri Testamento sese operaque  
+      <lb ed="#H" n="155"/>sua manifestabat paulatim, prout ipsi beneplacitum fuit. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1582">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Sic refutatae sunt rationes quatuor, quibus Samosateniani 
+      frustra<lb ed="#H" n="157" break="no"/>conantur evincere, verba Johannis, Omnia per ipsum facta sunt, non 
+      <lb ed="#H" n="158"/>esse de prima creatione intelligenda 
+      <lb ed="#H" n="159"/>His depravationibus Scripturae Samosatenicis praeferimus 
+      vete<lb ed="#H" n="160" break="no"/>ces orthodoxos Patres, qui hunc Johannis locum de prima creatione 
+      <lb ed="#H" n="161"/>intellexerunt. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1601">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>IGNATIUS epistolam ad Trallianos praemunit Christianos 
+      con<lb ed="#H" n="163" break="no"/>tra χριστεμπορονς, id est, Christilucriones quosdam qui dicebant, non 
+      <lb ed="#H" n="164"/>per Christum omnia creata. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1612">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>IRENAEUS libr. 1. adversus haereses cap. 1. pag. 33. hanne enim 
+      <lb ed="#H" n="166"/>ciante, per quem omnia facta esse dicit, bunc verbum Dei, hunc 
+      unige<lb ed="#H" n="167" break="no"/>unum Deum exponente, &amp; unum unigenitum Christum Iesum 
+      annun<lb ed="#H" n="168" break="no"/>nitum, hunc factorem omnium, hunc lumen verum illuminans omnem 
+      <lb ed="#H" n="169"/>hominem, hunc mundi fabricatorem, hunc in sua venisse, hunc eundem 
+      <lb ed="#H" n="170"/>carnem factum &amp; habitasse in nobis, Et cap. 19. ait: Vnus Deus 
+      omni<lb ed="#H" n="171" break="no"/>potens, qui omnia condidit per Verbum suum, &amp; aptavit &amp; fecit ex ea 
+      <lb ed="#H" n="172"/>quod non erat ad hoc ut sint omnia, quemadmodum Scriptura dicit, 
+      ver<lb ed="#H" n="173" break="no"/>bo enim Domini coeli firmati sunt, &amp; Spiritu oris ejus omnis virtus 
+      co<lb ed="#H" n="174" break="no"/>rum: Et iterum: Omnia per ipsum facta sunt &amp; sine ipso fectum est 
+      <lb ed="#H" n="175"/>nihil. Ex omnibus autem nihil subtractum est, sed omnia per ipsum fecit 
+      <lb ed="#H" n="176"/>Pater, sive visibilia, sive invisibilia, sive sensibilia, sive intelligibilia, 
+      <lb ed="#H" n="177"/>&amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1645">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Et lib. 3. cap. 8. Quoniam enim sive Angeli, sive Archangeli, sive 
+      <lb ed="#H" n="179"/>throni, sive dominationes, ab eo qui super omnes est Deus, &amp; constituta. 
+      <lb ed="#H" n="180"/>sunt &amp; facta per Verbum ejus, Iohannes quidem sic significavit. Cum 
+      <lb ed="#H" n="181"/>enim dixisset de Verbo Dei, quoniam erat in Patre, adjecit, Omnia per 
+      <lb ed="#H" n="182"/>cum facta sunt, &amp; sine eo factum est nihili 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1661">
+               <lb ed="#H" n="183"/>
+               <pc type="indent"/>Eodem libro, cap. undec. Omnia talia circumscribere volens 
+      disci<lb ed="#H" n="184" break="no"/>pulus Domini, &amp; regulam veritatis constituere in Ecclesia, quia est 
+      <!--cod-MkL9py-0287.xml-->
+      <pb ed="#H" n="260"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>unus Deus omnipotens, qui per Verbum suum omnia fecit &amp; visibilia 
+      <lb ed="#H" n="2"/>&amp; invisibilia: significans quoque quoniam per Verbum per quod DEVS 
+      <lb ed="#H" n="3"/>perfecit conditionem, in hoc &amp; salutem his qui in conditione sunt 
+      praesti<lb ed="#H" n="4" break="no"/>it hominibus: sic inchoavit in ea quae est secundum Evangelium 
+      do<lb ed="#H" n="5" break="no"/>ctrina, In principio erat Verbum &amp; Verbum erat apud Deum, &amp; Deus 
+      <lb ed="#H" n="6"/>erat Verbum: hoc erat in principio apud Deum. Omnia per ipsum facta 
+      <lb ed="#H" n="7"/>sunt, &amp; sine ipso factum est nihil quod factum est, 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1692">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Quatuor rationibus, quibus videri volunt probare Samosatenia. 
+      <lb ed="#H" n="9"/>ni, hunc Johannis locum non esse de prima creatione intelligendum: 
+      <lb ed="#H" n="10"/>subjiciunt probationes, quibus frustra conantur firmare, ceum de 
+      <lb ed="#H" n="11"/>secunda creatione seu regeneratione accipiendum 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1705">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Prima probatio haec est: Ubique in novo Testamento nova 
+      creatio<lb ed="#H" n="13" break="no"/>Christo tribuitur, per quem Deus hanc exsecutus est: Ergo &amp; hic 
+      lo<lb ed="#H" n="14" break="no"/>hannis locus de nova creatione est intelligendus. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1717">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Antecedens probant inductione multorum novi Testamenti 
+      lo<lb ed="#H" n="16" break="no"/>corum, qui de secunda creatione agunt. velut 1. Cor. 8. 6. Eph. 2. 10. 2. 
+      <lb ed="#H" n="17"/>Cor. 5. 17, 18, 19 Eph. 215, 16. Eph. 3. 9. Col. 1. 16. 20. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1728">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>RESP. Nego consequentiam: peccant enim primo Samosate 
+      <lb ed="#H" n="19"/>niani elencho parium, dum locorum de regeneratione, &amp; hujus in 
+      <lb ed="#H" n="20"/>Johanne loci parem esse rationem statuunt, quum par non sit. Dein 
+      <lb ed="#H" n="21"/>de multa testimonia de regeneratione nostri per Christum absque 
+      ne<lb ed="#H" n="22" break="no"/>cessitate coacervant: Quis enim piorum inficiatur per Christum non 
+      <lb ed="#H" n="23"/>regenerati i 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1746">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Tertrio testimonia congeruntur dissimilia: sunt enim quaedam 
+      ex<lb ed="#H" n="25" break="no"/>llis plane ἔζαγώνια. Velut quod allegant ex 1 Cor. 8. 6. Unus 
+      Domi<lb ed="#H" n="26" break="no"/>nus Iesus Christus per quem omnia &amp; nos per ipsum. Hunc locum 
+      a<lb ed="#H" n="27" break="no"/>probandam regenerationem per Christum adducentes, extra olea 
+      <lb ed="#H" n="28"/>quod ajunt) vagantur. Nam agitur de iis quae idolis fuerant 
+      immo<lb ed="#H" n="29" break="no"/>lata, an iis Christiani vesci debeant: &amp; ostenditur neque idola, neque eo 
+      <lb ed="#H" n="30"/>rum quenquam, qui dicuntur dii in coelo aut in terra quicquam in 
+      <lb ed="#H" n="31"/>idolothyta posse, sed eum solum, qui fecit omnia, eumque tum in res 
+      <lb ed="#H" n="32"/>quae idolis offeruntur, tum in idololatras potestatem omnem 
+      obtine<lb ed="#H" n="33" break="no"/>re, quum ipse unus sit Deus Pater ille a quo omnia &amp; nos in ipso: &amp; 
+      <lb ed="#H" n="34"/>unus Dominus Jesus Christus, per quem omnia; &amp; nos per ipsum. 
+      <lb ed="#H" n="35"/>Argumentatio Paulina haec est: Idolum nihil est in mundo: hoc est 
+      <lb ed="#H" n="36"/>quicquid est falsorum deorum quibus gentiles sacrificant, ii nihil 
+      ha<lb ed="#H" n="37" break="no"/>bent divini numinis, nullam exserunt vim &amp; efficaciam in ea quae ipsi 
+      <lb ed="#H" n="38"/>immolantur, ut nec iis qui immolant benefacere aut aliis qui non 
+      <lb ed="#H" n="39"/>immolant malefacere possunt. Istud Paulus confirmat hoc 
+      argumen<lb ed="#H" n="40" break="no"/>to: quia nullus est alius Deus, nisi unus. Hoc argumentum 
+      proba<lb ed="#H" n="41" break="no"/>quia etsi sint qui dicantur dij &amp; in coelo &amp; in terra (sicut sunt dij mult. 
+      <lb ed="#H" n="42"/>&amp; domini multi, videlicet ex hominum Deum verum ignorantium 
+      <lb ed="#H" n="43"/>opinione &amp; nuncupatione) nobis tamen (fidei domesticis &amp; verum 
+      <lb ed="#H" n="44"/>Deum cognoscentibus,) unus est Deus, Pater ille, a quo omnia &amp; 
+      no<lb ed="#H" n="45" break="no"/>in ipso, &amp; unus Dominus Iesus Christus, per quem omnia &amp; nos 
+      po<lb ed="#H" n="46" break="no"/>ipsum. hoc est, nos Christiani scimus unum tantum esse verum Deum, 
+      <lb ed="#H" n="47"/>rerumomnium creatorem; idola, ut ut dii vocentur &amp; domini, 
+      tan<lb ed="#H" n="48" break="no"/>quam aliquid sint, reipsa dii non sunt nec quicquam numinis &amp; 
+      pote<lb ed="#H" n="49" break="no"/>statis &amp; efficaciae habent.  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1807">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Ephes. 2. v. 10, 15. &amp; 2. Cor. 5. v. 17, 18, 19. agitur de nova creatione 
+      <lb ed="#H" n="51"/>seu rogeneratione: sed propterea non sequitur, de illa etiam Joh. 1. v. 
+      <lb ed="#H" n="52"/>3. agi. Nullus locus scripturae est trahendus ad explicationem alterius. 
+      <lb ed="#H" n="53"/>loci in quo de re prorsus alia tractatur. Scriptura per Scripturam tum 
+      <lb ed="#H" n="54"/>recte explanatur, quum illarum Scripturarum est analogia &amp; 
+      conve<lb ed="#H" n="55" break="no"/>nientia justa. Deinde cum Samosateniani argumentantur: Nova 
+      <lb ed="#H" n="56"/>creatio tribuitur Christo: non ergo prima illa creatio; aperte peccant  
+      <lb ed="#H" n="57"/>ignoratione elenchi, dum fingunt opposita esse quae non sunt. Quio 
+      <lb ed="#H" n="58"/>enim impedit quo minus uni &amp; eidem utriusque creationis 
+      effectio<lb ed="#H" n="59" break="no"/>tribui possit? Quod si haec propositio vera sit, Quisquis est autor rege, 
+      <lb ed="#H" n="60"/>nerationis, is non est autor primae creationis, tum sequetur nec Deum; 
+      <lb ed="#H" n="61"/>Patrem esse mundi molitorem; quia &amp; ipse novae creationis est 
+      au<lb ed="#H" n="62" break="no"/>tor. Si vero Patri alterum detrahi nequit, quia alterum ei competit: 
+      <lb ed="#H" n="63"/>prorsus idem de Filio sentiendum cri¬ 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1842">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Prgent in loco ex 2. Cor. 5. v. 17. particulam omnia, quae exstat 
+      et<lb ed="#H" n="65" break="no"/>iam Joh. 1. v. 3. Ajunt; addit praeterea, vetera praeterierunt, ecce nova 
+      fa<lb ed="#H" n="66" break="no"/>cta sunt omnia. En quoque omnia nova audis in Christo. Certe coelum. 
+      <lb ed="#H" n="67"/>terraque, mare, arbores, animantiaque omnia denuo creata non sunt 
+      pe<lb ed="#H" n="68" break="no"/>Christum. q d. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1858">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Quemadmodum 2. Cor. 5. v. 17. per particulam omnia, non 
+      <lb ed="#H" n="70"/>debent intelligi coelum, terra, mare, arbores, animantia omnia 
+      <lb ed="#H" n="71"/>ita nec Joh. 1. v. 3. At prius est. Ergo &amp; posterius. 
+      <lb ed="#H" n="72"/>RESP. Prius nunquam a nobis negatum fuit. Nam cum 
+      Apo<lb ed="#H" n="73" break="no"/>stolus dicit: vetera praeterierunt, intellige in eo qui est in Christo: eo 
+      <lb ed="#H" n="74"/>ce nova sacta sunt omnia, intellige in eodem homine qui est in 
+      Chri<lb ed="#H" n="75" break="no"/>sto: ut sensus sit, renovatus est per omnia: &amp; per particulam omnia 
+      <lb ed="#H" n="76"/>non intellige substantias animae &amp; corporis, multo minus ratione 
+      ca<lb ed="#H" n="77" break="no"/>rentes substantias, coelum, terram, arbores, &amp;c. sed solas qualitates in 
+      <lb ed="#H" n="78"/>omnibus regeneratis. Hoc igitur concedimus; sed postorius falsum 
+      <lb ed="#H" n="79"/>est, ob elenenum parium, neutiquam enim par est ratio dicti Joh. 1. v. 
+      <lb ed="#H" n="80"/>3. cum isto 2. Cor. 5. v. 17. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1890">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Locus Ephes. 3. v. 9. tam de regeneratione, quam de prima 
+      creati<lb ed="#H" n="82" break="no"/>one accipi potest. Imo ex prima creatione colligit Apostolus 
+      secun<lb ed="#H" n="83" break="no"/>dam. q. d. Pet quem Deus omnes populos condidit, per eundem illos 
+      <lb ed="#H" n="84"/>instaurat: At per Christum illos omnes condidit: Ergo per eundem: 
+      <lb ed="#H" n="85"/>illos instaurat.  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1906">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>De loco ad Col. 1. v. 18. postea dicetur. Sequitur refutatio SECUN 
+      <lb ed="#H" n="87"/>nA probationis, cujus summa huc redit: 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1915">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Si initium operum Christi fuit in novo Testamento, tum sequitur 
+      <lb ed="#H" n="89"/>hunc locum Iohannis non esse intelligendum de prima creatione, sed de 
+      <lb ed="#H" n="90"/>regeneratione: Illud est: Ergo &amp; hoc.  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1926">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Assumtum probant testimoniis Lucae, Pauli &amp; Marci: quia 
+      Lu<lb ed="#H" n="92" break="no"/>cas dicat Actor. I. omnia se scribere, quae Iesus coeperut facere &amp; docerc, 
+      <!--cod-MkL9py-0287.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>usque ad illud tempus, quo in coelum assumtus est: Paulus vero inipisto 
+      <lb ed="#H" n="94"/>a ad Hebraos cap. 1. v. 1. &amp; 2. &amp; 3. &amp; 12, Christo tribuat ea dunaxat 
+      <lb ed="#H" n="95"/>opera quae novissimis temporibus per ipsum Deus fecit: Marcus denique 
+      <lb ed="#H" n="96"/>describat initium Evangelii Iesu Christi. Hos testes omnes ajunt 
+      men<lb ed="#H" n="97" break="no"/>tituros, si Christus in principio mundum creasset, ipsi vero initium 
+      ope<lb ed="#H" n="98" break="no"/>vum Christi referant demum ad novi Testamenti tempus. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1952">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>RESP. Primo Samosateniani simpliciter accipiunt, quae a Luca, 
+      <lb ed="#H" n="100"/>Paulo &amp; Marco secundum quid dicuntur. Evangelistarum &amp; Paul 
+      <lb ed="#H" n="101"/>in locis allegatis propositum fuit describere res a Christo incarnato 
+      <lb ed="#H" n="102"/>gestas, quoniam hoc proprium est Evangelii stricte sic dicti, quod 
+      <lb ed="#H" n="103"/>proprie loquendo est bonum illud nuncium de Christo in carne 
+      ex<lb ed="#H" n="104" break="no"/>hibito. Itaque mentiti non sunt, etiamsi historiam de Filio Dei non 
+      <lb ed="#H" n="105"/>coeperunt inde a creatione mundi, quia iste ipsorum scopus non erat,  
+      <lb ed="#H" n="106"/>omnia omnino opera ejus describere, sed opera incarnati, itaque initii 
+      <lb ed="#H" n="107"/>eorum recte meminerunt. Sic igitur isti argumentantur; Cujus in 
+      <lb ed="#H" n="108"/>carnati opera initium certum habucrunt, is nthil fecit ante incarnatio: 
+      <lb ed="#H" n="109"/>nem: At Christi incarnati opera initium certum habuerunt: Ergo 
+      <lb ed="#H" n="110"/>Christus nihil fecit ante incarnationem. Quis non videt propositioni: 
+      <lb ed="#H" n="111"/>manifestam falsitatem. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e1985">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Secundo non omnino tacuerunt de opere primae creationis: nam 
+      <lb ed="#H" n="113"/>Paulus illud aperte Filio Dei tribuit Hebr. 1. vers. 2 Quem constitui 
+      <lb ed="#H" n="114"/>haeredem omnium, per quem etiam mundum condidit. Et vers. 10. 
+      te<lb ed="#H" n="115" break="no"/>statur ad Filium esse dictum illud Psal. 102. v. 26. Tu in initio Domine 
+      <lb ed="#H" n="116"/>terram fundasti, &amp; opera manuum tuarum sunt coel¬ 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2002">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Tertio etiamsi Lucas &amp; Marcus in historia Evangelica &amp; Paulus in 
+      <lb ed="#H" n="118"/>epistola ad Hebraeos Filio Dei opus primae creationis non 
+      tribuis<lb ed="#H" n="119" break="no"/>ent: falsum tamen esset, nihil de hoc in novo Testamento 
+      doceri<lb ed="#H" n="120" break="no"/>Nam quod in uno aut altero libro praeteritur, in aliis docetur, ut 
+      ex<lb ed="#H" n="121" break="no"/>supra allegatis locis patet: 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2018">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>TERTIA ipsorum probatio haec est: 
+      <lb ed="#H" n="123"/>Si Christus ipse Iohan. 5. probans adversus Iudaeos se esse Filium Dei. 
+      <lb ed="#H" n="124"/>non argumentatur ex opere primae creationis, sed tantum ex operibus 
+      se<lb ed="#H" n="125" break="no"/>cundae creationis: tum &amp; hic locus tantum de secunda creatione est 
+      acci<lb ed="#H" n="126" break="no"/>iendus: Prius est: Ergo &amp; posterius. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2034">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Assumtum duobus argumentis statuminare nituntur: 1, quia 
+      tan<lb ed="#H" n="128" break="no"/>sum meminerit sanationum, vivificationis, resuscitationis &amp; judicij. 2. 
+      <lb ed="#H" n="129"/>quia non de praeteritis operibus locutus sit, cum non dixerit, ut Pater 
+      ope<lb ed="#H" n="130" break="no"/>rabatur creando, ita &amp; ego operabar creando: sed de praesentibus, dicens: 
+      <lb ed="#H" n="131"/>Pater meus usque adhuc operatur, &amp; ego operor: item, quaecunque ille facit, 
+      <lb ed="#H" n="132"/>haec etiam Filius pariter facit. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2052">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>RESP. Assumtum vitiosum est dupliciter. Nam primo 
+      confun<lb ed="#H" n="134" break="no"/>duntur in eo quae erant distinguenda. Fingunt Samosateniani verbis 
+      <lb ed="#H" n="135"/>illis, v. 17. Pater meus usque adhuc operatur, &amp; ego operor, Christo 
+      pro<lb ed="#H" n="136" break="no"/>positum fuisse probare, se esse Filium Bei: cum potius CHRISTUS, 
+      <lb ed="#H" n="137"/>uum eum Judaei persequerentur &amp; studerent trucidare, quod die 
+      <lb ed="#H" n="138"/>babbathi sanasset miserum quendam, qui tricesimum-octavum 
+      an<lb ed="#H" n="139" break="no"/>num in morbo egerat; voluerit verbis adductis probare, se habere 
+      <lb ed="#H" n="140"/>potestatem operandidie Sabbathi, &amp; opere a se facto die Sabbathi, id 
+      <lb ed="#H" n="141"/>est, sanatione miseri illius, Sabbathi sanctitatem se non violasse. 
+      Sic<lb ed="#H" n="142" break="no"/>enim explitanda est Christi oratio 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2078">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Qui una cum Deo, quemadmodum ipse operatur, itidem divina 
+      <lb ed="#H" n="144"/>potentia operatur semper cum ante tempora omnia, tum inde ab 
+      o<lb ed="#H" n="145" break="no"/>mni tempore ad hoc usque momentum, non adstrictus observationis 
+      <lb ed="#H" n="146"/>ullius diei nec temporis sub umbra Legis; is etiam habet potestatem 
+      <lb ed="#H" n="147"/>operandi die Sabbathi, &amp; operans non violat sanctitatem Sabbathi, 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2094">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Ego autem unam cum Deo qui Pater meus est, quemadmodum 
+      <lb ed="#H" n="149"/>ipse operatur, itidem divina potentia operor semper, cum ante 
+      tem<lb ed="#H" n="150" break="no"/>pora omnia, tum inde ab omni tempore ad hoc usque momentum, 
+      <lb ed="#H" n="151"/>non adstrictus observationi ullius diei nec temporis, sub umbra 
+      Le<lb ed="#H" n="152" break="no"/>gis. Proinde ego habeo etiam potestatem operandi die Sabbathi, &amp; 
+      <lb ed="#H" n="153"/>operans non violo sanctitatem Sabbathi, 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2113">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Quaestio de qua agebatur &amp; quam Christus concludit est petenda 
+      <lb ed="#H" n="155"/>ex versibus antecedentibus, qui continent occasionem hujus 
+      sermo<lb ed="#H" n="156" break="no"/>nis a Christo prolati. Assumtio ponitur versu 17, his verbis: Pate. 
+      <lb ed="#H" n="157"/>meus hucusque operatur, &amp; ego operor, q. d. Ego, quemadmodum Pater 
+      <lb ed="#H" n="158"/>meus hucusque operatur, ego, inquam, pariter hucusque operor. Nam 
+      <lb ed="#H" n="159"/>illud hucusque λο κοινο est subintelligendum, nam aliter nulla 
+      <lb ed="#H" n="160"/>nujus orationis vis esset. Sic ut tria his verois apertissime Christus 
+      in<lb ed="#H" n="161" break="no"/>dicet: primum est, se eadem opera communiter cum Patre pariterque 
+      <lb ed="#H" n="162"/>coperati; id intelligitur ex eo, cum dicit: Pater operatur, &amp; ego operor: 
+      <lb ed="#H" n="163"/>secundum est, se divina potentia operati; id intelligitur ex verbo prae 
+      <lb ed="#H" n="164"/>sentis temporis, operor: nam hoc proprium est Deitatis praesentia 
+      ha<lb ed="#H" n="165" break="no"/>pere &amp; facere omnia: Tertium est, se semper cum ante omnia 
+      tem<lb ed="#H" n="166" break="no"/>pora, tum inde a temporis initio ad hoc usque momentum cum 
+      Pa<lb ed="#H" n="167" break="no"/>re operati sine observatione diei Sabbathi, cum manum admotam 
+      <lb ed="#H" n="168"/>habeat operi semper, ut pro beneplacito suo de creaturis omnibus. 
+      <lb ed="#H" n="169"/>disponat; id intelligitur ex particula hucusque  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2152">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Samosateniani igitur primo confundunt &amp; implicant omnia, &amp; ex 
+      <lb ed="#H" n="171"/>assumtione conclusionem faciunt imperite 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2161">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Secundo vitiosum est assumtum tertiae probationis Samosatenia. 
+      <lb ed="#H" n="173"/>norum propter homonymiam: nam Christus est Filius Dei natura 
+      <lb ed="#H" n="174"/>ab aeterno ex ipso genitus &amp; qui inde ab aeterno cum Patre usque 
+      ad<lb ed="#H" n="175" break="no"/>huc operatur: at ipsi Filium Dei intelligunt gratia, qui non sit 
+      geni<lb ed="#H" n="176" break="no"/>us ex Patre ab aeterno, ac proinde nec fuerit ab aeterno, nec inde ab 
+      <lb ed="#H" n="177"/>aeterno cum Patre usque adhuc operetur, sed demum exsistere 
+      coepe<lb ed="#H" n="178" break="no"/>rit quum natus est ex Maria virgine, &amp; certo itidem tempore operati 
+      <lb ed="#H" n="179"/>coeperit. Tertio falsum est assumtum ejusdem probationis, cum dicunt  
+      <lb ed="#H" n="180"/>Christum non ex primae, sed ex secundae tantum creationis operibus 
+      argu<lb ed="#H" n="181" break="no"/>mentati. Nam Christus dicens, Pater meus usque adhuc operatur, &amp; egi 
+      <lb ed="#H" n="182"/>operor: item quaecunque ille facit, haec etiam Filius pariter facit: ab 
+      uni<lb ed="#H" n="183" break="no"/>versis operibus Patris argumentatus est: Ergo etiam ab operibus 
+      pri<lb ed="#H" n="184" break="no"/>mae creationis. 
+      <!--cod-MkL9py-0288.xml-->
+      <pb ed="#H" n="261"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Quarto quod ad duo argumenta assumti ipsorum attinet, ambo 
+      <lb ed="#H" n="2"/>funt falsa. Primo ajunt, Christum meminisse tantum sanationum, 
+      vi<lb ed="#H" n="3" break="no"/>mificationis, resuscitationis &amp; judicii: Atqui Christus universaliter  
+      <lb ed="#H" n="4"/>pronunciat, v. 19. Quaecunque Pater facit, haec etiam Filius pariter facit. 
+      <lb ed="#H" n="5"/>Quod autem speciatim meminit tantum resuscitationis mortuorum 
+      <lb ed="#H" n="6"/>primae &amp; secundae &amp; judicii, hoc facit ideo, ut declaret quod dixerat vi 
+      <lb ed="#H" n="7"/>20. Opera istis majora monstrabit ei, ut vos miremini. Magnum enim 
+      <lb ed="#H" n="8"/>opus erat sanatio illa mitaculosa hominis, qui tot annos in morbo 
+      e<lb ed="#H" n="9" break="no"/>gerat: sed multo majora dicit Patrem Filio monstraturum: nempe 
+      <lb ed="#H" n="10"/>resuscitationem mortuorum primam &amp; secundam &amp; judicium 
+      uni<lb ed="#H" n="11" break="no"/>versale. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2224">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Etsi igitur hujus pronunciati declarandi causa speciatim 
+      quorun<lb ed="#H" n="13" break="no"/>dam duntaxat operum meminit: neutiquam tamen excludit alia, sed  
+      <lb ed="#H" n="14"/>ea omnia in genere universaliter comprehendit. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2235">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Secundo ajunt, Christum non de praeteritis, sed de praesentibus tantum 
+      <lb ed="#H" n="16"/>operibus loquo  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2244">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>At falsum &amp; hoc est. Nam cum universaliter de omnibs operibus 
+      <lb ed="#H" n="18"/>Dei loquatur, omnia intelligit praeterita &amp; praesentia, &amp; futura, nulla 
+      <lb ed="#H" n="19"/>excepto. Dicit enim expresse: Quaecunque Pater facit, haec etiam Filus 
+      <lb ed="#H" n="20"/>pariter facit. Pater enim amat Filium, &amp; omnia monstrat ei quae ipse. 
+      <lb ed="#H" n="21"/>facit. Deinde quum dicit Pater meus usque adhuc operatur, &amp; ego 
+      ope<lb ed="#H" n="22" break="no"/>ror, hoc ipso complectitur omnia opera praeterita, quaecunque usque 
+      <lb ed="#H" n="23"/>adhuc fecerat: neutiquam autem illa excludit, ut particula, usque ad 
+      <lb ed="#H" n="24"/>huc perspicue ostendit. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2267">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>DUPLICANT: Si Filius Dei operatus fuisset in prima creatione 
+      <lb ed="#H" n="26"/>tum dixisset, ut Pater operabatur creando, ita &amp; ego operabar: At hoc  
+      <lb ed="#H" n="27"/>non dixit: Ergo nec illud verum est. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2278">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>RESP. Falsum est connexum: quia colligitur, Christum dictu 
+      <lb ed="#H" n="29"/>rum fuisse, quod dicere non debuit. Non enim tum quaestio erat 
+      in<lb ed="#H" n="30" break="no"/>ter Christum &amp; Judaeos de prima creatione: ideo in specie de primi 
+      <lb ed="#H" n="31"/>creatione loqui non debuit. Quaestio erat, An Christo licuerit operat 
+      <lb ed="#H" n="32"/>seu sanare sabbatho? Quod Judaei negabant: Christus affirmabat  
+      <lb ed="#H" n="33"/>Confirmationis argumentum non erat Christo petendum ex allega 
+      <lb ed="#H" n="34"/>tione unius alicujus specialis operis, velut primae creationis, quia illa 
+      <lb ed="#H" n="35"/>non est facta die Sabbathi, imo dies Sabbathi finem creationi prima 
+      <lb ed="#H" n="36"/>attulit: sed a genere, quia Pater meus usque adhuc operatur; &amp; ego 
+      o<lb ed="#H" n="37" break="no"/>peror, quasi dicat, non tantum aliis diebus, sed etiam diebus Sabba 
+      <lb ed="#H" n="38"/>thi. Ex hoc autem ipso bonam consequentia colligitur, Filium Dei 
+      o<lb ed="#H" n="39" break="no"/>peratum esse in prima creatione. Nam qui operatur usque adhuc. sicut  
+      <lb ed="#H" n="40"/>Pater, is operat est etiam in prima creatione. At Filius Dei operatu 
+      <lb ed="#H" n="41"/>usque adhuc, sicut Pater: Ergo operatus est etiam in prima creatione. 
+      <lb ed="#H" n="42"/>Hactenus a depravatione Samosatenianorum asseruimus haeo 
+      <lb ed="#H" n="43"/>verba: omnia per ipsum facta sunt; nunc asserenda sunt 
+      se<lb ed="#H" n="44" break="no"/>quentia; &amp; sine ipso factum est nihil, quod factum est. 
+      <lb ed="#H" n="45"/>Ex his enim verbis recte colligimus in hunc modum: 
+      <lb ed="#H" n="46"/>Sine quo nihil factum est quod factum est, is profecto omnium rerum. 
+      <lb ed="#H" n="47"/>crentarum est effector: 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2326">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>At sine Sermone illo nihil factum est, quod factum est: 
+      <lb ed="#H" n="49"/>Ergo Sermo ille est omnium rerum creatarum effector  
+      <lb ed="#H" n="50"/>EXCIPIUNT Samosaten. Ioh. inquiunt, statim addit 
+      restrictio<lb ed="#H" n="51" break="no"/>nem, ne quis universaliter de omnibus creaturis haec dici putet: addit. 
+      <lb ed="#H" n="52"/>enim verba, quod factum est, intelligens de iis rebus quae factae sunt 
+      po<lb ed="#H" n="53" break="no"/>eum. Nam ea exceptione innuit, alia esse sine illo facta, antequam educe 
+      <lb ed="#H" n="54"/>retur ex semine Davidis, ut sub veteri Testamento fuisse diximus. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2346">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>REPLIG. Excipitur, Johannem ipsum addita restrictione 
+      exci<lb ed="#H" n="56" break="no"/>pere opera in veteri testamento facta sine Sermone illo. At haec 
+      ex<lb ed="#H" n="57" break="no"/>ceptio est primum falsa: Johannes enim non utitur restrictione ad 
+      <lb ed="#H" n="58"/>excipienda ulla opera facta. Quod sic ostendo 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2359">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Quae verba universale efficiunt hoc enunciatum, sine eo factum est 
+      <lb ed="#H" n="60"/>nihii, ea non habent vim restrictionis &amp; exceptionis. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2368">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>At haec verba: quod factum est, universale efficiunt hoc 
+      enuncia<lb ed="#H" n="62" break="no"/>tum, sine eo factum est nihili 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2378">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Ergo non habet vim restrictionis &amp; exceptionis. 
+      <lb ed="#H" n="64"/>Minor est certissima: nam illis verbis aliud indicatur nihil. quam 
+      <lb ed="#H" n="65"/>si dictum fuisset: Nihil sine eo factum est, quicquid factum est, seu, 
+      <lb ed="#H" n="66"/>nulla re quae facta est excepta. Ut ostendat Johannes, nullam tem 
+      fa<lb ed="#H" n="67" break="no"/>ctam excipi posse, quae non sit facta a Sermone illo: ex iis quae facta 
+      <lb ed="#H" n="68"/>sunt nihil factum esse absque eo. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2396">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Beinde ineptissima est haec restrictio: Sino ipso factum est nihil 
+      <lb ed="#H" n="70"/>quod factum est, scile per ipsum. Nam illud per ipsum restrictionis 
+      gra<lb ed="#H" n="71" break="no"/>ria addi, ridiculum est, quum Johannes hic non agat nisi de operibus 
+      <lb ed="#H" n="72"/>per Sermonem factis: nec similis restrictio dari unquam in exemplo 
+      <lb ed="#H" n="73"/>ullo poterit, cum sit non solum plane ἀλογος &amp; naturae 
+      enunciato<lb ed="#H" n="74" break="no"/>tum repugnans, sed etiam phrasi seu modo loquendi prorsus inusita 
+      <lb ed="#H" n="75"/>ta Ita desipere necesse est eos, qui aeternam illam Sapientiam DEI 
+      <lb ed="#H" n="76"/>oppugnant. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2418">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Tertio meliores Samosatenianis interpretes hujus loci sunt veteres 
+      <lb ed="#H" n="78"/>Patres, velut Irenaeus, qui, tantum abest ut in verbis illis, quod factum 
+      <lb ed="#H" n="79"/>est, restrictionem ullam statuerit, ut sine illis etiam hunc locum 
+      seme<lb ed="#H" n="80" break="no"/>atque iterum allegaverit, velut lib. 2. adversus haereses cap. &amp; lib. 5. cap. 
+      <lb ed="#H" n="81"/>16. Idem facit Tertullianus libro adversus Hermogenem cap. 18. &amp; 
+      <lb ed="#H" n="82"/>20 &amp; 45. Item in libro de resurrectione Christi cap. 5. lib. 5. adversus 
+      <lb ed="#H" n="83"/>Marcionem cap. 19. adversus Praxean cap. 7. 
+      <lb ed="#H" n="84"/>Ita vindicavimus primum testimonium a Samosateniano¬ 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2440">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>rum contradictione: sequitur secundum. 
+      <lb ed="#H" n="86"/>lllud extat Joh. 1. v. 10. his verbis: Mundus per eum factus est; 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2449">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Hinc exstruimus talem confirmationem nostrae 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2456">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>prthodoxae sententiae. 
+      <lb ed="#H" n="89"/>Per quem mundus factus est, is est primae creationis coeli &amp; terrae &amp; 
+      <lb ed="#H" n="90"/>omnium, quae in eis sunt, autor; 
+      <!--cod-MkL9py-0288.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>At per Filium Dei mundus factus est: Ergo, &amp;c. 
+      <lb ed="#H" n="92"/>EXCIPIUNT Samosateniani, homonymiam esse in nomine. 
+      <lb ed="#H" n="93"/>mundi, &amp; verbo fieri. Nam in majore ajunt signficari nomine 
+      mu<lb ed="#H" n="94" break="no"/>machinam coeli &amp; terrae, in assumtione vero &amp; loco Iohannis, 
+      homi<lb ed="#H" n="95" break="no"/>regeneratos spiritualiterque renovatos, qua sunt in regno Christi. Deinde 
+      <lb ed="#H" n="96"/>verbo fieri in majore significari creari ex nihilo: in minore autem &amp; 
+      lo<lb ed="#H" n="97" break="no"/>co Iohannis, regenerari seu fabricari docendo, divinam vim in miraculis. 
+      <lb ed="#H" n="98"/>exercendo, vivificando, illuminando, evangelizando pauperibus, 
+      sanan<lb ed="#H" n="99" break="no"/>lo infirmos, coecis visum restituendo. Sic ut sit sententia vereorum 
+      Mun<lb ed="#H" n="100" break="no"/>lus per ipsum factus est, hoc est, quod regenerati &amp; spiritualiter 
+      reno<lb ed="#H" n="101" break="no"/>vati in regno Christi insunt, non aliunde id factum est, quam beneficio 
+      <lb ed="#H" n="102"/>operaque Christi, per quem novus mundus est fabricatus 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2499">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Nos replicamus defendendae nostrae confirmationis gratia, &amp; 
+      di<lb ed="#H" n="104" break="no"/>cimus, hanc exceptionem falsam esse. Nam nulla est homonymia 
+      si<lb ed="#H" n="105" break="no"/>ve in nomine mundi, sive in verbo fieri: sed tum in utraque premissa 
+      <lb ed="#H" n="106"/>demonstrationis nostrae, tum in loco Johannis una est cujusque. vocis 
+      <lb ed="#H" n="107"/>significatio. In his enim verbis: mundus per eum factus est, significat 
+      <lb ed="#H" n="108"/>mundus hanc rerum universitatem, coelum, terram &amp; quae in eis sunt:  
+      <lb ed="#H" n="109"/>&amp; factus idem est quod e nihilo productus solo jussu &amp; mandato 
+      <lb ed="#H" n="110"/>Quod autem mundi nomine in hoc dicto non intelligendi sint 
+      rege<lb ed="#H" n="111" break="no"/>nerati per Spiritum Sanctum, ostendunt sequentia verba, sed mundus 
+      <lb ed="#H" n="112"/>um non agnovit: quod in regeneratos neutiquam competit Unde sic 
+      <lb ed="#H" n="113"/>concludimus: 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2528">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Per quem factus est etiam mundus ille, qui factorem suum non 
+      <lb ed="#H" n="115"/>agnovit, is non tantum per Spiritum Sanctum instauravit 
+      regenera<lb ed="#H" n="116" break="no"/>tos, sed etiam non regenitos atque adeo caeteras res creatas omnes 
+      <lb ed="#H" n="117"/>potentia sua creavit: 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2541">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>At per Filium factus est etiam mundus ille, qui factorem suum 
+      <lb ed="#H" n="119"/>non agnovit: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2550">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>Quod vero Samosateniani dicunt, fieri hoc loco esse regenerari set 
+      <lb ed="#H" n="121"/>abricari docendo, divinam vim in miraculis exercendo, vivificando, 
+      il<lb ed="#H" n="122" break="no"/>luminando; est nugatorium, falsum, inexplicabile &amp; male cohaerens. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2561">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>DUPLICANT Samosateniani, &amp; ajunt, verba iila, mundi 
+      po<lb ed="#H" n="124" break="no"/>cum factus est, explicanda esse per haec, Quotquot eum receperunt, eis 
+      <lb ed="#H" n="125"/>dedit potestatem filios Dei fieri, illa vero, sed mundus eum non agnovit. 
+      <lb ed="#H" n="126"/>hunc habere sensum, homines, qui mundo huic visibili sunt addicti, 
+      <lb ed="#H" n="127"/>eum non receperunt, quia fuit vilis homo, caro, subjectus, despectus 
+      <lb ed="#H" n="128"/>virorum. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2579">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>Huic duplicationi opponimus triplicationem istam. Primo 
+      nega<lb ed="#H" n="130" break="no"/>nus verba illa, mundus per eum factus est, explicari debere &amp; poss  
+      <lb ed="#H" n="131"/>per haec. Quotquot eum receperunt, eis dedit potestatem ut Filij Dei 
+      fie<lb ed="#H" n="132" break="no"/>pent. Nam qui potest dici, mundum, qui per Filium Dei factus ipsum 
+      <lb ed="#H" n="133"/>non agnovit, eum tamen recepisse &amp; eidem datam esse potestatem, ut  
+      <lb ed="#H" n="134"/>filii Dei fierent? Ita ἀσυσuζ loquuntur Samosateniani. Deinde 
+      ver<lb ed="#H" n="135" break="no"/>ba illa, &amp; mundus cum non agnovit. falso explicantur per haec, &amp; suit 
+      <lb ed="#H" n="136"/>eum non receperunt. Sic enim confunderentur distincti adventus 
+      Fi<lb ed="#H" n="137" break="no"/>lii Dei ad homines. Nam versus undecimus non agit de adventu 
+      ser<lb ed="#H" n="138" break="no"/>monis in carnem; quia venit etiam aliter &amp; alio tempore quam in 
+      <lb ed="#H" n="139"/>carne. Nam venit etiam ante assumtam carnem, virtute sua divina 
+      <lb ed="#H" n="140"/>praesentiam suam patefaciendo &amp; praedicans mundo per Prophetas, 
+      <lb ed="#H" n="141"/>sicut tempore Noe profectus Spiritu, praedicavit spiritibus qui jam 
+      <lb ed="#H" n="142"/>sunt in carcere, illi autem non agnoverunt eum &amp; immorigeri 
+      fue<lb ed="#H" n="143" break="no"/>unt, ut est: Petri 3. v. 19. quemadmodum locum Petri explicat 
+      Au<lb ed="#H" n="144" break="no"/>gustinus, tom. 2. epist. 99. quae est ad Evodium 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2619">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Ad locum ad Col. 1.16. excipiunt Samosateniani, eum etiam non 
+      <lb ed="#H" n="146"/>de prima illa creatione, quam Moses describit, sed de nova creation 
+      <lb ed="#H" n="147"/>esse accipiendum. Id nituntur firmare his argumentis: Primum a 
+      <lb ed="#H" n="148"/>gumentum. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2632">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>Hi locus non agit de Christo aliquo aterno 
+      <lb ed="#H" n="150"/>Ergo non est accipiendus de prima creatione, sed de secunda. 
+      <lb ed="#H" n="151"/>RESP. Antecedens est falsum. Illud igitur conantur probare 
+      Sa<lb ed="#H" n="152" break="no"/>mosateniani, primo quia Paulus loquatur de Christo ex Maria nato, 
+      <lb ed="#H" n="153"/>nabente sanguinem, per quem habemus remissionem peccaterum: 
+      <lb ed="#H" n="154"/>secundo, quia venerit ad opera tenebrarum destruenda: teriio. quit 
+      <lb ed="#H" n="155"/>regnum non habuerit ab aeterno, sed certo demum tempore coeperit. 
+      <lb ed="#H" n="156"/>habere. Luc. 1. quarto, quia sit imago Dei inconspicui: quinio, quiasit 
+      <lb ed="#H" n="157"/>primogenitus omnis creaturae 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2656">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>RESP. In prima probatione initio committunt ignorationem et 
+      <lb ed="#H" n="159"/>enchi, quia velut pugnantia opponunt, quae pugnantia non sunt. 
+      A<lb ed="#H" n="160" break="no"/>unt, Christus est natus ex Maria Virgine &amp; sauguitam habit: Ergi 
+      <lb ed="#H" n="161"/>non est aeternus Filius Dei. Atqui haec non sunt opposita, quia non 
+      di<lb ed="#H" n="162" break="no"/>cuntur secundum idem: est enim Christus natus ex Maria virgine &amp; 
+      <lb ed="#H" n="163"/>sanguinem habet, secundum humanam naturam, idemque est aeternus 
+      <lb ed="#H" n="164"/>Filius Dei secundum divinam naturam. Deinde fallere conantur 
+      se<lb ed="#H" n="165" break="no"/>cundum plura interrogata, quia conjungunt plura, quorum non est 
+      <lb ed="#H" n="166"/>eadem ratio: nam quod Christus natus est ex Maria virgine &amp; 
+      san<lb ed="#H" n="167" break="no"/>guinem habet, competit ei secundum humanam naturam tatum? 
+      <lb ed="#H" n="168"/>quod vero per ipsum habemus remissionem peccatorum, 
+      compi<lb ed="#H" n="169" break="no"/>ei secundum utramque naturam. Nam secundium humanam natur, in 
+      <lb ed="#H" n="170"/>est nobis remissionem peccatorum meritus perfectissima sua obedis 
+      <lb ed="#H" n="171"/>entia loco nostro praestita: secundum divinam autem naturam 
+      effi<lb ed="#H" n="172" break="no"/>caciter eam nobis confert. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2693">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>In secunda probatione auteredentis eadem duo sophismata usurpant, 
+      <lb ed="#H" n="174"/>Nam peccat ignoratione esechi quado velut repugnatia opponunt qui 
+      <lb ed="#H" n="175"/>repugnatia non sunt, Ajut. Christus venit tergo ro st aetera Dei Filius. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2704">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>At Christus venit secundum humanam naturam: &amp; est aeternus 
+      <lb ed="#H" n="177"/>Dei Filius secundum divina naturam. Deinde fraudem secundum 
+      <lb ed="#H" n="178"/>plura interrogata adhiventiquum faciunt mentionem destructionis 
+      <lb ed="#H" n="179"/>operum diaboli; quae Chrisio competit, secundum utramque natura. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2717">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>In terria probatione iturum conantur falleris εοiη γ ελεγχς. 
+      A<lb ed="#H" n="181" break="no"/>unt, coepit Christus hamo huvere: ignam, quus Tat XI. in etus, Dabix 
+      <lb ed="#H" n="182"/>illi Dut (honunse dedera) scue David patres jui, &amp; rignabit in ea, non 
+      <!--cod-MkL9py-0289.xml-->
+      <pb ed="#H" n="262"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>regnavit antea ab aterno. At haec non pugnant, Christus coepit 
+      habe<lb ed="#H" n="2" break="no"/>re regnum, juxta promissionem factam per Angelum Luc. 1: nempe 
+      <lb ed="#H" n="3"/>secundum humanam naturam: &amp; regnavit antea ab aeterno 
+      secun<lb ed="#H" n="4" break="no"/>dum divinam naturam 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2744">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Iin quarta probatione falso colligitur, Christum non esse aeternum. 
+      <lb ed="#H" n="6"/>Dei Filium, quia sit imago Dei inconspicui; quum potius sic 
+      colli<lb ed="#H" n="7" break="no"/>gendum sit: Christus est Dei inconspicui imago, nempe essentialis 
+      <lb ed="#H" n="8"/>imago, non accidentalis: Est ergo aeternus Dei Filius. Esse autem 
+      <lb ed="#H" n="9"/>Christum imaginem Dei invisibilis essentialem, demonstrat 
+      Aposto<lb ed="#H" n="10" break="no"/>lus validissimis argumentis, nempe ab ipsius effectis, destinatis &amp; 
+      ad<lb ed="#H" n="11" break="no"/>juncto. Ab effectis, nam per eum condita sunt omnia, &amp;c. Item per 
+      <lb ed="#H" n="12"/>eum omnia consistunt, A destinatis: nam ad ejus gloriam omnia 
+      <lb ed="#H" n="13"/>condita sunt, Ab adjuncto: nam est ante omnia. Ista neutiquam 
+      com<lb ed="#H" n="14" break="no"/>petunt in imaginem accidentalem: 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2770">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>In quinta probatione itidem falso concluditur; Quum Christus sit 
+      <lb ed="#H" n="16"/>primogenitus omnis creaturae; Propterea non esse aternum Dei Filium 
+      <lb ed="#H" n="17"/>Atqui contrarium sequitur; Est primogenitus omnis creaturae: 
+      Er<lb ed="#H" n="18" break="no"/>go est aeternus Dei Filius. Nam esse primogenitum omnis creatura 
+      <lb ed="#H" n="19"/>hoc est, cum genitum ante omnem creaturam, tum Dominum 
+      om<lb ed="#H" n="20" break="no"/>nis creature, non competit in eum, qui tantum sit creatura, sed in eut 
+      <lb ed="#H" n="21"/>duntaxat, qui simul aeternus atque increatus Deus est. Quod ex v. 18. 
+      <lb ed="#H" n="22"/>apertius liquet, in quo Christus vocatur principium, hoc est, causa 
+      effi<lb ed="#H" n="23" break="no"/>ciens &amp; autor nempe cum Ecclesiae, tum vitae verae 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2794">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Secundum argumentum, quo Samosateniani instituunt firmare 
+      <lb ed="#H" n="25"/>depravationem suam, est hoc  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2803">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>Quum Paulus dicit, omnia per Christum esse condita; intelligit 
+      om<lb ed="#H" n="27" break="no"/>nia per ipsum esse renovata, recapitulata, recollecta, ut ipse mox explicat,  
+      <lb ed="#H" n="28"/>&amp; ad Ephes. 1. v. 10. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2814">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Ergo non accipiendus locus hic de prima creatione, quam Moses de 
+      <lb ed="#H" n="30"/>cribit. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2823">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>RESP. Antecedens est falsum ob παρεζηγισιν, id est, 
+      expositio<lb ed="#H" n="32" break="no"/>nem falsam creationis de qua versus16. agit. Affirmant, creationem 
+      <lb ed="#H" n="33"/>illam esse renovationem, reconciliationem &amp; αυακεφαλαίωσιν, h. 
+      e<lb ed="#H" n="34" break="no"/>recapitulationem omnium quae sunt in coelis, &amp; quae in terra, ut 
+      con<lb ed="#H" n="35" break="no"/>stet ex eodem cap. 1. ad Col. v. 20. Et v. 10. capitis primi ad Ephesios 
+      <lb ed="#H" n="36"/>At haec aperta confusio est diversorum distinctorumque operum Dei, 
+      <lb ed="#H" n="37"/>Nam creatio de qua v.16. agit, pertinet non tantum ad homines 
+      ele<lb ed="#H" n="38" break="no"/>ctos, sed ad omnia quae sunt in coelo &amp; in terra, visibilia &amp; invisibilia. 
+      <lb ed="#H" n="39"/>sive throni sint, sive dominia, sive imperia, sive potestates, quibro etiam 
+      <lb ed="#H" n="40"/>diaboli intelliguntur, qui non minus ac boni angeli a Paulo 
+      appel<lb ed="#H" n="41" break="no"/>lantur imperia &amp; potestates Eph. 6. v. 12. ubi ait Apostolus: Non est? 
+      <lb ed="#H" n="42"/>nobis lucta adversus sanguinem &amp; carnem, sed adversus imperia, 
+      ad<lb ed="#H" n="43" break="no"/>versus potestates, adversus mundi principes, tenebrarum seculi hujus 
+      <lb ed="#H" n="44"/>adversus spirituales malitias, quae sunt in sublimi: At renovatio, 
+      res<lb ed="#H" n="45" break="no"/>conciliatio &amp; recapitulatio pertinent ad solos electos: renovatio 
+      qui<lb ed="#H" n="46" break="no"/>dem ad homines tantum electos, non ad Angelos, quia Angeli non 
+      <lb ed="#H" n="47"/>eguerunt renovatione: reconciliatio autem &amp; recapitulatio ad 
+      ho<lb ed="#H" n="48" break="no"/>mines electos simpliciter, quia illi reconciliati sunt cum Deo &amp; redu 
+      <lb ed="#H" n="49"/>cti sub caput suum Christum, a quo defecerant: ad Angelos vero res 
+      <lb ed="#H" n="50"/>spectu hominum, qui cum Angelis etiam censentur reconciliati, quo 
+      <lb ed="#H" n="51"/>rum inimici evaserant; rebelies Deo facti; &amp; cum iisdem Angelis 
+      <lb ed="#H" n="52"/>sub eodem Capite Christo sunt uniti, a quibus antea sejuncti fuerant  
+      <lb ed="#H" n="53"/>per diabolum serpentem illum antiquum  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2879">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Ita locum Col. 1.16. a corruptelis Samosatenianorum asseruimus 
+      <lb ed="#H" n="55"/>Ad locum Hebr. 1. v. 2. ubi dicitur, quod Deus per Filium seculo 
+      <lb ed="#H" n="56"/>condiderit; ExCIPIUNT Paulum hic agere de operibus novae 
+      crea<lb ed="#H" n="57" break="no"/>tionis quum novum Testamentum statuat initium tum dictorum 
+      <lb ed="#H" n="58"/>tum factorum Christi, ut pateat ex primo versu in quo dicitur; 
+      Mul<lb ed="#H" n="59" break="no"/>tis vicibus, multisque modis olim Deus locutus Patribus in Prophetis, 
+      ul<lb ed="#H" n="60" break="no"/>timis diebus hisce locutus est nobis in Filio. Exceptio ipsorum ad hunc 
+      <lb ed="#H" n="61"/>iyllogismum reduci potest: 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2901">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>In quo ultimis diebus hisce Deus locutus est, non autem olim sub 
+      ve<lb ed="#H" n="63" break="no"/>teri Testamento, is tantum novae creationis est autor, non autem primae 
+      <lb ed="#H" n="64"/>illius, quam Moses describit. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2912">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>At in Filio ultimis diebus hisce Deus locutus est, non autem olim 
+      sub<lb ed="#H" n="66" break="no"/>veteri Testamento: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2921">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>RESP. Nego consequentiam, quia in hoc parexelencho sunt 
+      <lb ed="#H" n="68"/>quatuor termini, propter ambiguitatem medii, quod dupliciter in 
+      <lb ed="#H" n="69"/>telligitur. In majore enim negatur simpliciter Deus locutus Patribus 
+      <lb ed="#H" n="70"/>in Filio: at in assumtione &amp; loco Pauli negatur id καζαη, nimirum 
+      <lb ed="#H" n="71"/>quatenus nondum in carne exhibitus fuerat, secundum 
+      promissio<lb ed="#H" n="72" break="no"/>nem. Nam Deus caeteroquin inde ab orbe condito multis vicibus 
+      mul<lb ed="#H" n="73" break="no"/>tisque modis locutus est Patribus in Prophetis per Filium suum, 
+      cu<lb ed="#H" n="74" break="no"/>jus Spiritus in Prophetis erat; ut testatur Petrus prima epistolam cap. 1. 
+      <lb ed="#H" n="75"/>v. 10, 11. De qua salute inquisierunt, &amp; quam scrutati sunt Prophetae, 
+      <lb ed="#H" n="76"/>qui de ventura in nos gratia prophetarunt: scrutantes in quem aut 
+      <lb ed="#H" n="77"/>qualem temporis articulum praenuncius ille qui in ipsis erat Spiritu 
+      <lb ed="#H" n="78"/>Christi, declavaret eventuras Christi perpessiones &amp; gloriam illas 
+      conse<lb ed="#H" n="79" break="no"/>cuturam: qui etiam per Spiritum, hoc est, Deitatem suam in Noacho 
+      <lb ed="#H" n="80"/>praedicavit olim resipiscentiam, &amp; futurum diluvium, ut docet idem 
+      <lb ed="#H" n="81"/>Petrus. 1ep. 3. v. 19, per quem scil. Spiritum etiam spiritibus, qui sunt id 
+      <lb ed="#H" n="82"/>carcere profectus (id est, descendens e coelo, non mutando locum, sed  
+      <lb ed="#H" n="83"/>verbo &amp; virtute sua divina praesentiam suam manifestando: nam 
+      et<lb ed="#H" n="84" break="no"/>iani antequam caro factus est ad sua venit secundum potentiam 
+      divi<lb ed="#H" n="85" break="no"/>nitatis suae, sine motu, divino modo, de quo adventu Joh. 1. v. 11. ut &amp; 
+      <lb ed="#H" n="86"/>post adscensionem in coelos secundum eandem Deitatem venit ad 
+      <lb ed="#H" n="87"/>eos cum Patre suo qui diligunt ipsum &amp; sermonem ejus servant, &amp; 
+      <lb ed="#H" n="88"/>apud eos habitat Joh. 14. v. 23. Apoc. 3. v. 20. Ecce, sto ad ostium &amp; 
+      pul<lb ed="#H" n="89" break="no"/>so: si quis audierit vocem meam, &amp; aperuerit ostium, ingrediar ad eum 
+      <lb ed="#H" n="90"/>&amp; coenabo cum eo, &amp; ipse mecum;) praedicavit (non post mortem 
+      <lb ed="#H" n="91"/>suam apud inferos, sed tempore Noe, ut recte hunc locum explicat 
+      <lb ed="#H" n="92"/>Augustin. tom. 2. epist. 99. quae est ad EvodiumJolim immorigeris. 
+      <!--cod-MkL9py-0289.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>quum semel exspectabat Dei lenitas in diebus Noe. Per hunc igitur 
+      Fi<lb ed="#H" n="94" break="no"/>lium Deus olim in Prophetis locutus est cum Patribus: in eodem, in 
+      <lb ed="#H" n="95"/>carne manifestato locutus est nobis novissime, ut nulla aut clarior aut 
+      <lb ed="#H" n="96"/>perfectior revelatio &amp; doctrina amplius requiri aut optari possit. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e2995">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>Major itaque exceptionis Samosatenianae, si intelligitur simplici 
+      <lb ed="#H" n="98"/>ter, est falsa. Assumtio autem vera est intellecta καζαη, ut etiam ver 
+      <lb ed="#H" n="99"/>sus primus, ad Hebraeos ααζατ intelligendus est. Proinde non potest. 
+      <lb ed="#H" n="100"/>inferri, Paulum in v. 2. agere de secunda tantum creatione. Quod 
+      <lb ed="#H" n="101"/>autem de prima creatione agat, apertissima verborum perspicuitas 
+      <lb ed="#H" n="102"/>ostendit; δι α κι τος αἰώνας ἐποιήσον, per quem etiam secula fecit. Pet Se 
+      <lb ed="#H" n="103"/>cula enim intelligit tempora, quae sunt duratio rei cujusque praesens, 
+      <lb ed="#H" n="104"/>raeterita &amp; futura, &amp; per metonymiam adjuncti intelligit etiam 
+      <lb ed="#H" n="105"/>quicquid unquam exstitit, exstat &amp; exstabit 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3019">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Refutatio exceptionum ad locum Hebr. 1. v. 8. 9, 10. exstat supra 
+      <lb ed="#H" n="107"/>in tertio libro, cap. quinto in defensione theorematis de aeterna Dei. 
+      <lb ed="#H" n="108"/>tate Filii Dei. 
+      <lb ed="#H" n="109"/>Hactenus asseruimus &amp; defendimus, Filium Dei esse 
+      <lb ed="#H" n="110"/>creatorem coeli &amp; terrae &amp; omnium creaturarum, quae 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3036">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>in eis sunt: nunc videamus quomodo Filius Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3043">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>sit creator rerum omnium: de hoc istae 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3050">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Theses sunto. 
+      <lb ed="#H" n="114"/>I. Filius Dei est Creator rerum omnium αυτυρρος, &amp; Patri 
+      e<lb ed="#H" n="115" break="no"/>μόεργος idem &amp; δμουσιος &amp; Ισος 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3061">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>2. Pater omnia condidit per Filium, non ut per instrumentum, 
+      <lb ed="#H" n="117"/>vel administrum adjutoremque extra se e creaturis sibi accitum &amp; 
+      <lb ed="#H" n="118"/>adjunctum: sed tanquam per sermonem &amp; sapientiam &amp; potentiam 
+      <lb ed="#H" n="119"/>in Patre ipso exsistentem. Omnia enim haec est Filius Patri. 
+      Siqui<lb ed="#H" n="120" break="no"/>dem Pater opifex est, sequitur omnino intelligendum, quod neque 
+      im<lb ed="#H" n="121" break="no"/>potens, neque insipiens exsistat, neque etiam sine verbo condat. Hoc 
+      <lb ed="#H" n="122"/>testatur Jeremias cap. 32. vers. 17. Domine Iehovi: ecce tu fecisti coelos 
+      <lb ed="#H" n="123"/>S terram virtute tua maxima, &amp; brachio tuo extento. Psalm. 33. v. 6. 
+      <lb ed="#H" n="124"/>Verbo Iehovae coeli facti sunt.  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3085">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Hoc ipsum Mercurius Trismegistus agnovit. Ait enim in 
+      sermo<lb ed="#H" n="126" break="no"/>ne ad Asclepium: Generatio Solis est per sanctum verbum ejus, quod  
+      <lb ed="#H" n="127"/>formandi vim habet, facta. Similiter in libris Diexodicon 
+      sermon<lb ed="#H" n="128" break="no"/>rimo dicit: Omnium Dominus statim dixit suo sancto &amp; mentali &amp; 
+      <lb ed="#H" n="129"/>vim condendi habente verbo, sit Sol: &amp; simul apparuit ignis qui natura 
+      <lb ed="#H" n="130"/>sursum fertur, dico sane purum &amp; fulgidissimum &amp; efficacissimum &amp; 
+      <lb ed="#H" n="131"/>foecundissimum, attracta est natura suo spiritu, &amp; in altum ab aquis 
+      e<lb ed="#H" n="132" break="no"/>vexit. Itaque imperio Dei, per verbum opifex, facta esse omnia, decet 
+      homi<lb ed="#H" n="133" break="no"/>nem &amp; intelligere &amp; dicere: quomodo autem &amp; quo pacto, ipse solus 
+      sci<lb ed="#H" n="134" break="no"/>at 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3111">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>Idem Philosophi Platonici agnoverunt, inter quos Amelius qui  
+      <lb ed="#H" n="136"/>Porphyrii scholis praefuit, Johanni Evangelistae assentiens, scribit: 
+      Ec<lb ed="#H" n="137" break="no"/>hoc utique erat verbum, secundum quod, quae semper exsistunt facta, facta. 
+      <lb ed="#H" n="138"/>sunt. Ita &amp; Heraclitus censuit esse, &amp; per Iovem Barbarus ille vult in 
+      <lb ed="#H" n="139"/>principii ordine &amp; dignitate constitutum apud Deum esse, &amp; Deum 
+      es<lb ed="#H" n="140" break="no"/>se, per quem simpliciter omnia facta sunt, in quo id quod factum, vivum 
+      <lb ed="#H" n="141"/>&amp; vita &amp; exsistens natum est, deinde in corpus cadere, &amp; carne 
+      indu<lb ed="#H" n="142" break="no"/>tum apparere hominem cum hac, &amp; simul monstrare naturae 
+      magnifi<lb ed="#H" n="143" break="no"/>centiam videlicet &amp; resolutum iterum deificari &amp; Deum esse, qualis 
+      <lb ed="#H" n="144"/>erat antequam in corpus &amp; carnem &amp; hominem deductum est, 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3138">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Cyrillus libr. 8. contra Julianum Apostatam. Theodoretus 
+      Cy<lb ed="#H" n="146" break="no"/>pensis Episcopus, Serm. 2. de curatione Graecarum affectionum. 
+      <lb ed="#H" n="147"/>Sic confirmavimus, Filium Dei esse autorem primae 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3149">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>creationis: sequitur ut idem planum fa¬ 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3156">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>ciamus de Spiritu San¬ 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3163">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>cto. 
+      <lb ed="#H" n="151"/>Spiritum Sanctum esse creatorem coeli &amp; terrae, &amp; omnium 
+      quae<lb ed="#H" n="152" break="no"/>in eis sunt, αυτυργον, &amp; δμόεργον, &amp; ἐσυεργον Patri &amp; Filio in creando, 
+      <lb ed="#H" n="153"/>confirmant tum sacrarum literarum testimonia, tum argumenta alia 
+      <lb ed="#H" n="154"/>Testimonia haec sunt, Job. 26. v. 13. Spiritus ejus ornavit coelos. 
+      <lb ed="#H" n="155"/>Psal. 33. 6. Verbo Iehovae coeli facti sunt, &amp; Spiritu oris ejus totus 
+      ex<lb ed="#H" n="156" break="no"/>ercitus eorum, hoc est, coelos &amp; exercitus eorum Deus Pater fecit per 
+      <lb ed="#H" n="157"/>Filium &amp; Spiritum Sanctum 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3185">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Argumenta alia idem stabilientia se¬ 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3192">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>quuntur.  
+      <lb ed="#H" n="160"/>II. Verus natura Deus est creator coeli &amp; terrae &amp; omnium quae 
+      <lb ed="#H" n="161"/>in eis sunt: 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3204">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Spiritus Sanctus est verus natura Deus: Ergo, &amp;c. 
+      <lb ed="#H" n="163"/>Propositio major paulo ante, assumtio vero in tertio libro, cap. 6. 
+      <lb ed="#H" n="164"/>probata est, cum de Spiritus Sancti Deitate aeterna ageretur. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3215">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>II. Qui Mundum inde ab initio virtute sua continet &amp; 
+      conser<lb ed="#H" n="166" break="no"/>vat; is profecto eundem creavit 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3224">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Atqui Spiritus Sanctus Mundum inde ab initio virtute sua 
+      conti<lb ed="#H" n="168" break="no"/>net &amp; conservat; ut dicitur Gen. 1. v. 2. Spiritus Dei incubabat 
+      superfi<lb ed="#H" n="169" break="no"/>ciei aquarum: quibus verbis Moses docet, ipsam elementorum 
+      na<lb ed="#H" n="170" break="no"/>turam initio creatam, non habuisse ex se ut persisteret, sed opus 
+      habu<lb ed="#H" n="171" break="no"/>sse, sicut productore, ita protectore, &amp; conservatore &amp; vivificatore 
+      <lb ed="#H" n="172"/>Spiritu Dei, vivificante omnia, qui vita etiam est ex se natura 
+      exsisten<lb ed="#H" n="173" break="no"/>ex Patre &amp; Filio: omnia autem illo opus habebant &amp; non aliter 
+      po<lb ed="#H" n="174" break="no"/>terant firme persistere. Ideo antequam accederet hic ornatus, jam 
+      <lb ed="#H" n="175"/>tunc in fovenda &amp; conservanda illa confusa mole Spiritus Sanctus 
+      o<lb ed="#H" n="176" break="no"/>perabatur. Et certe ille est, qui ubique praesens est, &amp; omnia sustinet  
+      <lb ed="#H" n="177"/>vegetat &amp; vivificat in coelo &amp; in terra, sicut dicitur Sapient. 1. vers. 7 
+      <!--cod-MkL9py-0290.xml-->
+      <pb ed="#H" n="263"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Epiritus Domini implet orbem terrarum, &amp; idem continens omnia 
+      cog<lb ed="#H" n="2" break="no"/>nitionem habet vocis 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3263">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>III. Qui autor est omnis boni, is profecto est creator coeli &amp; 
+      <lb ed="#H" n="4"/>terrae, &amp; omnium quae in eis sunt:  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3272">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>At Spiritus Sanctus est aistor omnis boni. 1. Cor. 12. 11. omnia hac 
+      <lb ed="#H" n="6"/>agit unus ille &amp; idem Spiritus, distribuens privatim illa singulis sicut. 
+      <lb ed="#H" n="7"/>vult. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3283">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>IV. Qui etiamnum creat homines, is profecto etiam ab initio 
+      om<lb ed="#H" n="9" break="no"/>nia ereavit. At Spiritus Sanctus etiamnum creat homines: Job. 33. 
+      <lb ed="#H" n="10"/>4. Spiritus Dei fecit me, Matth. 1. v. 20. Quod in ea genitum est, ex 
+      Spi<lb ed="#H" n="11" break="no"/>ritu Sancto est; quibus verbis docetur, Christi humanam naturam? 
+      <lb ed="#H" n="12"/>esse ex Spiritu Sancto, tanquam causa efficiente &amp; creatore, qui 
+      cor<lb ed="#H" n="13" break="no"/>pus illud Christi creavit ex substantia &amp; sanguine Virginis Moriae; 
+      <lb ed="#H" n="14"/>non autem ex sua essentia, alioquin Christus non haberet verum 
+      hu<lb ed="#H" n="15" break="no"/>manum corpus, sed spirituale, imo nullum: animam autem 
+      Christi<lb ed="#H" n="16" break="no"/>immediate e nihilo creavit: 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3308">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>V. Qui regenerat hominem, is etiam principio eum creavit: 
+      <lb ed="#H" n="18"/>Propositio haec est certissima: quia ejusdem est hominem regenera. 
+      <lb ed="#H" n="19"/>re, cujus est eundem creare. Nam quod in natura periit, non restitui 
+      <lb ed="#H" n="20"/>tur nisi ab autore naturae, ut ait Ambros. de vocatione Gentium, cap 
+      <lb ed="#H" n="21"/>tertio. At Spiritus Sanctus regenerat hominem. Ergo Spiritus 
+      San<lb ed="#H" n="22" break="no"/>ctus etiam hominem principio creavit.  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3326">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Ex his omnibus patet, creatorem rerum omnium esse Deum 
+      Pa<lb ed="#H" n="24" break="no"/>trem, Filium &amp; Spiritum Sanctum. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3335">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Hactenus confirmata &amp; asserta est prima Thesis de¬ 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3342">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>causa efficiente Creationis primae: se¬ 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3349">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>quitus 
+      <lb ed="#H" n="28"/>Thesis II 
+      <lb ed="#H" n="29"/>Causae creationis πζοηγυμδνας nullae sunt extra Deum quaerendae, 
+      <lb ed="#H" n="30"/>sed solum in Deo, illae autem sunt uoluntas, bonitas, sapientia &amp; 
+      po<lb ed="#H" n="31" break="no"/>tentia Dei. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3365">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Voluntas Dei, est causa creationis: quia ab aeterno voluit &amp; 
+      decre<lb ed="#H" n="33" break="no"/>vit Deus creare coelum &amp; terram &amp; omnia quae in eis sunt; &amp; non 
+      <lb ed="#H" n="34"/>necessitate naturae, sed summa libertate mundum hunc condidit, ita 
+      <lb ed="#H" n="35"/>ut olim citius seriusve condere, aut etiam a condendo prorsus 
+      absti<lb ed="#H" n="36" break="no"/>nere potuerit. Creavit, inquam, liberrime, sine ulla coactione, non 
+      <lb ed="#H" n="37"/>necessitate absoluta, sed tantum necessitate consequentiae; quia etsi 
+      <lb ed="#H" n="38"/>aeterno &amp; immutabili, tamen liberrimo decreto omnia creavit: 
+      sicu<lb ed="#H" n="39" break="no"/>dicitur Psalm. 115. 3. Deus noster in coelis est, omnia quaecunque voluit;  
+      <lb ed="#H" n="40"/>fecit. Et 135. 6. Quicquid placet sibi, Iehova facit, item Actor. 15. v. 16. 
+      <lb ed="#H" n="41"/>Nota sunt Deo ab aevo omnia opera sua. Apertissime autem Apocal. a. 
+      <lb ed="#H" n="42"/>vers. 11. Dignus es Domine, qui accipias gloriam &amp; honorem &amp; 
+      virtu<lb ed="#H" n="43" break="no"/>tem: quia tu condidisti omnia &amp; per uoluntatem tuam sunt &amp; creata 
+      <lb ed="#H" n="44"/>sunt. Justinus Martyr. Quest. &amp; responsionum ad Graecos capit. 3. 
+      <lb ed="#H" n="45"/>Deus creat τῶ ζολεθαι, voluntate. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3401">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>Bonicus Dei, est causa creationis omnium: quum enim id quo 
+      <lb ed="#H" n="47"/>vere bonum est, communicativum sui sit; Deus autem bonus, imo 
+      <lb ed="#H" n="48"/>ipsa bonitas sit; eo impulsus fuit, ut ad exsistentiam adduceret ea quae 
+      <lb ed="#H" n="49"/>non exsistebant, &amp; per gratiam faceret esse ea, quae ipsum esse non 
+      <lb ed="#H" n="50"/>dum sortita erant:  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3417">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Sapientia Dei est causa creationis, sicut dicitur Psal. 104 versic. 24. 
+      <lb ed="#H" n="52"/>Quam ampla sunt opera tua o Iehova lea omnia in sapientia fecisti. &amp; 
+      <lb ed="#H" n="53"/>136. v. 5. Qui fecit coelos intelligentia. Proverb. 3. v. 19. Iehova 
+      sapien<lb ed="#H" n="54" break="no"/>tia fundavit terram, statuit coelos intelligentia 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3430">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Potentia Dei, est causa creationis: nam creatio nulla unquam fieri 
+      <lb ed="#H" n="56"/>potuit fine virtute infinita, Jerem. 23. versic 17. Eheu Domine Iehovi: 
+      <lb ed="#H" n="57"/>ecce tufecisti caelos, &amp; terram virtute tua maxima, &amp; brachio tuo ex 
+      <lb ed="#H" n="58"/>tento: non potest occultari tibi ulla res. Unde Paulus docet Roman.1. 
+      <lb ed="#H" n="59"/>v. 20. quod Dei invisibilia jam inde a condito mundo ex rebus factis 
+      in<lb ed="#H" n="60" break="no"/>tellecta pervidentur, aterna videlicet ejus tam potentia tum 
+      diuvinita<lb ed="#H" n="61" break="no"/>Potentiam Dei esse causam rerum negat Stapletonus lib. 2. Defens. 
+      <lb ed="#H" n="62"/>Ecclesiasticae autor. cap. 4. fect. 17. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3452">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Ergo Deus, quia voluit, ex mera bonitate sua sapienter &amp; 
+      potenter<lb ed="#H" n="64" break="no"/>omnia condidit. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3461">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Thesis I11 
+      <lb ed="#H" n="66"/>Creatio est opus Patris, Filii &amp; Spiritus Sancti indivisum, omnibus 
+      <lb ed="#H" n="67"/>personis sacrosanctae Trinitatis competens aequaliter, non 
+      principa<lb ed="#H" n="68" break="no"/>liter Patri, &amp; minus principaliter Filio &amp; Spiritui Sancto; sic ut i1 
+      <lb ed="#H" n="69"/>creatione, eadem &amp; aequalis sit voluntas, sapientia &amp; potentia &amp; 
+      <lb ed="#H" n="70"/>operatio Patris, Filii &amp; Spiritus Sancti. Hoc testatur Christus, cum 
+      <lb ed="#H" n="71"/>ait Johan, 5. vers. 17. Pater meus usque adhuc operatur, &amp; ego operor, &amp; v. 
+      <lb ed="#H" n="72"/>19. Quaecunque Pater facit, haec etiam Filius pariter facit. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3483">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Thesis IV. 
+      <lb ed="#H" n="74"/>Deus ita creator est, ut solus creator sit; Quod testantur istae 
+      sacra<lb ed="#H" n="75" break="no"/>Scripturae loca. Jesaiae 44. 19. Sic ait Iehova vindex tuus &amp; formatos 
+      <lb ed="#H" n="76"/>tuus ex utero: ego Iehova facio omnia, extendo coelos solus, expando ter 
+      <lb ed="#H" n="77"/>ram per meipsum. Job. 9. v. 8. qui extendit coelos solus, &amp; calcat excelso 
+      <lb ed="#H" n="78"/>maris. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3502">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Rationes etiam sunt quae evincunt, Deum solum creare omnia 
+      <lb ed="#H" n="80"/>Nam primo, creatio fieri non potest sine virtute infinita, quae ne qui 
+      <lb ed="#H" n="81"/>dem per potentiam Dei absolutam potest ulli rei create communica 
+      <lb ed="#H" n="82"/>ri. Deinde quum Deus sit principium primum &amp; universale 
+      creatio<lb ed="#H" n="83" break="no"/>nis, solus Creator sit necesse est. Principii enim ratio est ut amet 
+      sin<lb ed="#H" n="84" break="no"/>gularitatem: &amp; primum universale nullum esse potest, nisi sit unum 
+      <lb ed="#H" n="85"/>nec unum nisi sit Deus. Tertio, quicquid boni est per participationem; 
+      <lb ed="#H" n="86"/>ab eo solo sit necesse est, qui est bonus per essentiam: Omnis autem 
+      <lb ed="#H" n="87"/>creatura bona est per participationem, Deus solus bonus est per 
+      es<lb ed="#H" n="88" break="no"/>sentiam: Omnis igitur creatura a Deo solo sit necesse est. Quarto, 
+      <lb ed="#H" n="89"/>Deus quaedam dutaxat crearet; Angelis vero caetera creanda relin¬ 
+      <!--cod-MkL9py-0290.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>queret, faceret id, vel quod gravetur, vel quod omnino non curet 
+      no<lb ed="#H" n="91" break="no"/>stra: At haec ambo a summa omnium essentia sunt penitus aliena. 
+      <lb ed="#H" n="92"/>Nam si bonus est opifex, quomodo illum ullius rei pigeret? Sic enim 
+      <lb ed="#H" n="93"/>ipse Plato dicit: Bonus est, bonoque nullius rei inest invidia. Dicere 
+      au<lb ed="#H" n="94" break="no"/>tem, quod non fuerit dignatus creare hominem &amp; alia inferiora, 
+      ni<lb ed="#H" n="95" break="no"/>hil aiud esset, quam fastum &amp; superbiae crimen Deo tribuere. 
+      Dein<lb ed="#H" n="96" break="no"/>de Deus curam rerum omnium gerit, etiam minimarum: ut etiam 
+      <lb ed="#H" n="97"/>Alexander Aristotelis discipulus in libro de providentia fatetur, &amp; 
+      <lb ed="#H" n="98"/>Seno Cittiensis, &amp; Stosci aliis 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3554">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Solus igitur Deus omnium est Creator.  
+      <lb ed="#H" n="100"/>Hinc colligitur, falli turpissime Judaeos, qui Angelis hunc 
+      hono<lb ed="#H" n="101" break="no"/>rem communicant, &amp; ipsos Deo in creando socios adiungunt. 
+      Erra<lb ed="#H" n="102" break="no"/>vit Plato, qui finxit Angelos, potestate a summo deorum accepta, tris 
+      <lb ed="#H" n="103"/>animalium genera formare. Platonis errorem secutus est Julianus 
+      A<lb ed="#H" n="104" break="no"/>postata quem refutat Cyrillus, tertio tomo, libro secundo contra 
+      Julia<lb ed="#H" n="105" break="no"/>num pro religione Christiana. Erravit Epicurus qui a Fortuna seu 
+      <lb ed="#H" n="106"/>fortuito concursu atomorum mundum exstitisse somniavit. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3576">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>Falso sensit Avicenna, potentiam creandi communicatam esse 
+      cre<lb ed="#H" n="108" break="no"/>aturis, &amp; Angelum superiorem creasse inferiorem sibi proximum, &amp; 
+      <lb ed="#H" n="109"/>infimum creasse res corporeas. Falso putavit <name xml:id="yyy8Uu-e22992-Nd1e3586">Durandus</name>, posse 
+      dari<lb ed="#H" n="110" break="no"/>creaturam, quae propria virtute creare 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3593">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>Hinc intelligitur quanta sit sacrificulorum Missaticorum 
+      blasphe<lb ed="#H" n="112" break="no"/>mia, qui se corporis Christi in Missa Creatores constituunt. Pervulgatum  
+      <lb ed="#H" n="113"/>est illud: Te ego creo, sine te, qui me creasti sine me. Questio olim mota 
+      <lb ed="#H" n="114"/>fuit, sacerdos ne conficiens praestantior esset, an BeV irgo: Et magistraliter 
+      <lb ed="#H" n="115"/>responsum, sacerdotem esse praestantiorem B. Virgine Maria: quia haec 
+      se<lb ed="#H" n="116" break="no"/>mel duntaxat Christum poperit, illum autem quotidie corpus Christi 
+      <lb ed="#H" n="117"/>creare quum in Missa conficit 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3613">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Hoc maxime contra divinam gloriam militat, etium alios petare. 
+      <lb ed="#H" n="119"/>posse creare &amp; ex nihilo posse producere. Non enim fas est dicere, quod et 
+      <lb ed="#H" n="120"/>quae divinae &amp; ineffabilis naturae propria &amp; eximia sunt, naturaliter 
+      <lb ed="#H" n="121"/>possint inesse quibusdam ab ipsa factis, Congruit autem magis ipsi &amp; solis 
+      <lb ed="#H" n="122"/>&amp; ad summam pertinet gloriam ejus res illa: nam inaccessa naturae 
+      <lb ed="#H" n="123"/>sunt, ea quae proprie sunt solius, &amp; omnium summae substantiae: quorum 
+      <lb ed="#H" n="124"/>unum esse dicimus, efficaciter operari posse ut creatorem &amp; producere rei 
+      <lb ed="#H" n="125"/>quae aliquando non erant, ait Cyrillus lib. 2. adversus, Julianum 
+      Apo<lb ed="#H" n="126" break="no"/>statam, 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3637">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Thesis V 
+      <lb ed="#H" n="128"/>Deus nullis administris, nullisque instrumentis usus est in 
+      creatio<lb ed="#H" n="129" break="no"/>ne, sed solam voluntate &amp; actu mandantis seu puro suo mandato omnia 
+      <lb ed="#H" n="130"/>potenti eam perfecit. Nam huic causae efficienti nimirum Deo 
+      Patri<lb ed="#H" n="131" break="no"/>Filio &amp; Spiritui S. modus unicus efficiendi tribuitur Sermo: sicut in 
+      <lb ed="#H" n="132"/>historia productionis rerum omnium legitur semper, Et dixit Deus 
+      <lb ed="#H" n="133"/>&amp; Psal 33. 9. Ipso dicente est quicquid est: ipso praecipiente exsistit. 
+      Ver<lb ed="#H" n="134" break="no"/>bo autem dicendi non est intelligendus hoc loco sermo ille ωροφωρ¬ 
+      <lb ed="#H" n="135"/>tos sive enunciativus, quo alii apud alibs uti solent; non item 
+      sermo<lb ed="#H" n="136" break="no"/>ille ἔμφυτος sive ingenitus &amp; innatus, non sermo εθρθειος qui 
+      nul<lb ed="#H" n="137" break="no"/>la ratione potest Deo competere: sed tantum intelligendus est actus 
+      <lb ed="#H" n="138"/>mandantis: &amp; puro suo mandato seu nutu rem ad esse producentis: 
+      <lb ed="#H" n="139"/>quo modo non tantum Pater, sed etiam Filius, sed etiam Spiritus S. 
+      <lb ed="#H" n="140"/>omnia creavit.  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3673">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Proinde etiam Filius non fuit instrumentum Patris in creando; 
+      <lb ed="#H" n="142"/>nec Spiritus Sanctus: sed uterque αυτυργος, uterque σμδρργ ο&amp;ς &amp; ἐσυ¬ 
+      <lb ed="#H" n="143"/>εργος Patri, ut nuper dictum 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3684">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Nec ullus Angelus vel alia res creata Deo adjumento fuit vel est 
+      <lb ed="#H" n="145"/>in creatione, quin hoc detraheret omnipotentiae Dei, quasi solus ac 
+      <lb ed="#H" n="146"/>perficiendam creationem non sufficeret, quasi adjutore eguisset vel 
+      <lb ed="#H" n="147"/>egeret: hoc pugnaret cum gloria Dei, qui apud Jesaiam opere 
+      crea<lb ed="#H" n="148" break="no"/>tionis se discernit a falsis diis atque adeo ab omnibus creaturis 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3700">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>Neque vero inferiori cuipiam causae, tanquam agenti 
+      instrumen<lb ed="#H" n="150" break="no"/>tali, supremae causae vis communicatur. Id enim tum demum fieri 
+      so<lb ed="#H" n="151" break="no"/>let, cum in ipso etiam instrumento propria ac peculiaris vis est qua 
+      a<lb ed="#H" n="152" break="no"/>gat, saltem δαθειιϰώς, dispositive, ad effectum producendum; quam 
+      <lb ed="#H" n="153"/>doquidem frustra adhiberetur, si plane iners &amp; vis omnis expers est 
+      <lb ed="#H" n="154"/>set; frustraque determinata determinatatum actionum essent 
+      instru<lb ed="#H" n="155" break="no"/>menta. Proprium autem Dei creantis effectum est id, quod caeteris 
+      <lb ed="#H" n="156"/>agentibus omnibus supponitur, nempe το εινον ipsum, sse acceptum 
+      <lb ed="#H" n="157"/>simpliciter. Quocirca nullus in creatione instrumento locus fuit, cum 
+      <lb ed="#H" n="158"/>nihil sit in quo ipsius opera occupari quiverit: nisi Deo alios 
+      creato<lb ed="#H" n="159" break="no"/>res adjungere quis velit,  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3729">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Quapropter blasphemus est Bellarminus Jesuita, qui tomo 2. 
+      con<lb ed="#H" n="161" break="no"/>trov. 4. lib 2. cap. 11. pag. 230. ultimae editionis ab ipso recognitae, ex 
+      <lb ed="#H" n="162"/>typographia Ingosstadiana in octavo, audat scribere: Non est 
+      impro<lb ed="#H" n="163" break="no"/>pabile posse creaturam concurrere, ut merum instrumentam Dei ad 
+      ve<lb ed="#H" n="164" break="no"/>ram creationem. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3745">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Franciscus Suarce Jesuita Metaphys. Disputationum tom. 1. 
+      Di<lb ed="#H" n="166" break="no"/>sput. 20, sect 3. pag. 527. col. 2. ait: Si Deus potest elevare creaturam, 
+      <lb ed="#H" n="167"/>ut per suammet entitatem absque alia superaddita efficiat effectum 
+      exce<lb ed="#H" n="168" break="no"/>dentem mirtutem suam naturalem, quod ego longe probabilius judice 
+      <lb ed="#H" n="169"/>sic enim existimo clivare aquam ad efficiendum gratiam, &amp; ignem ad 
+      <lb ed="#H" n="170"/>torquendos spiritus, &amp; verba ad transsubstantiandum;) Si hoc linqua, 
+      <lb ed="#H" n="171"/>est verum, non video qua ratione consequentia negari valeat, posse 
+      <lb ed="#H" n="172"/>Deum uti una creatura ut instrumento ad creandam aliam. Pacit 
+      au<lb ed="#H" n="173" break="no"/>tem differeutiam inter naturale &amp; supernaturale instrumentum: &amp; 
+      <lb ed="#H" n="174"/>naturale quidem instrumentum creationis esse creaturam negat, sui 
+      <lb ed="#H" n="175"/>pernaturale autem instrumentum creationis alicujus dari affirmat: 
+      <lb ed="#H" n="176"/>ut aquam baptismi esse supernaturale instrumentum creationis 
+      gra<lb ed="#H" n="177" break="no"/>tiae; ignem corporalem esse supernaturale instiumentum per quos 
+      <lb ed="#H" n="178"/>supernatura is qualitas in spiritibus creatur; quinque verba, hoc est 
+      <lb ed="#H" n="179"/>enim corpus meum, esse supernaturale instrumentum quo creatur  
+      <lb ed="#H" n="180"/>corpus Christi ex panis substantia. Idem cum Jesuitis sensit oliae 
+      <lb ed="#H" n="181"/>Lombardus in 4. &amp; eum sequutus Gabriel Bici 
+      <!--cod-MkL9py-0291.xml-->
+      <pb ed="#H" n="264"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>d haec omnia sunt falsissima: Nam etiam Bellarminus ipse 
+      fate<lb ed="#H" n="2" break="no"/>tur, gratiam proprie non creari. Deinde ignis purgatorius est 
+      fictiti<lb ed="#H" n="3" break="no"/>us: nullum igitur cruciatum animabus defunctorum infert. De igne 
+      <lb ed="#H" n="4"/>infernali loco suo dicetur. Corpus denique Christi in Missa creari 
+      <lb ed="#H" n="5"/>quinque verbis, Hoc enim est corpus meum, non tantum falsum est, sed  
+      <lb ed="#H" n="6"/>etiam blasphemum. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3806">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Pagina autem 528. col. 1. non erubescit scribere ista: Nullum est 
+      <lb ed="#H" n="8"/>inconveniens concedere, eandem rem jam creatam posse concurrere 
+      effe<lb ed="#H" n="9" break="no"/>ctive ad sui recreationem; sicut humanitas Christi concurrit effective 
+      <lb ed="#H" n="10"/>ad transsubstantiationem panis in ipsum. Ita secundum istum res unt 
+      <lb ed="#H" n="11"/>&amp; eadem potest esse causa efficiens suiipsius: secundum istum 
+      Chri<lb ed="#H" n="12" break="no"/>stus duplicem habet humanitatem, unam creatam in utero Virginis 
+      <lb ed="#H" n="13"/>Mariae, ex Mariae Virginis substantia: alteram, creatam in Missa 
+      ex<lb ed="#H" n="14" break="no"/>panis substantia. Tales monstrosas sententias detegere est refellere. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3829">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Thesis VI. 
+      <lb ed="#H" n="16"/>Deo non convenienter tantum, sed tam necessario tribuitur actio 
+      <lb ed="#H" n="17"/>creationis, quam necessario ipse creditur primum ac summum ens 
+      <lb ed="#H" n="18"/>ptima causa, principiumque principiorum. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3842">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Thesis VII. 
+      <lb ed="#H" n="20"/>Deo creanti in principio omnia, mutatio nulla accidit 
+      <lb ed="#H" n="21"/>I. Quia creavit omnia solo nutu, voluntate, verbo, sine labore 
+      <lb ed="#H" n="22"/>&amp; fatigatione. Talis enim operatio Deo convenit quae suprema est. 
+      <lb ed="#H" n="23"/>At solo nutu &amp; sine labore quid operari est supremum operationis: 
+      <lb ed="#H" n="24"/>genus. Is autem solo nutu &amp; sine labore operatur, cujus operatio a 
+      <lb ed="#H" n="25"/>solo intellectu &amp; voluntate manat secundum naturam ipsius. Etsi 
+      igi<lb ed="#H" n="26" break="no"/>tur Deus operatus est secundum naturam suam, cum intelligentia &amp; 
+      <lb ed="#H" n="27"/>voluntate, eaque sincera &amp; incorrupta: tamen nullius superioris 
+      sub<lb ed="#H" n="28" break="no"/>jectus fuit sapientiae &amp; voluntati, a qua mutaretur; fuitque &amp; est 
+      sem<lb ed="#H" n="29" break="no"/>per agens omnium liberrimum, sapientissimum, optimum &amp; infinite 
+      <lb ed="#H" n="30"/>potentiae, ac tale ut ab ejus nutu omnia alia dependeant  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3873">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>II. Quia nulla voluntas nova ipsum subiit, sed novum duntaxa 
+      <lb ed="#H" n="32"/>opus externum quod antea non fuerat, ab aeterna ipsius voluntate &amp; 
+      <lb ed="#H" n="33"/>actione interna prodiit: cum ne in humanis quidem rebus, novitas 
+      <lb ed="#H" n="34"/>effectus, actionis novitatem evincat; multaque sint etiam naturalia. 
+      <lb ed="#H" n="35"/>agentia, quae ex potentia propinqua activa absque ulla sui mutatione, 
+      <lb ed="#H" n="36"/>ad actum secundum transeunt. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3891">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>III. Quia Deo creanti creaturas nulla accessit realis relatio 
+      er<lb ed="#H" n="38" break="no"/>ga illas. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3900">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>Thesis IIX. 
+      <lb ed="#H" n="40"/>Deus cum mundum condidit non transiit ab otio ad negotium, 
+      <lb ed="#H" n="41"/>nec a potentia ad actum: minimeque tale otium vel quies Deo 
+      tri<lb ed="#H" n="42" break="no"/>bui potest quae sit privatio motus. Nam si moveri non potest, 
+      quiesce<lb ed="#H" n="43" break="no"/>re quoque motus privatione non potest: ac proinde qui ante mund 
+      <lb ed="#H" n="44"/>creationem Deum otiatum somniant; nec Deum, nec creaturam, nec 
+      <lb ed="#H" n="45"/>eipsos norunt.  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3920">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>Thesis 1X. 
+      <lb ed="#H" n="47"/>Deo nulla perfectio ex mundi creatione accessit aut accedere 
+      po<lb ed="#H" n="48" break="no"/>tuit: semper enim Deus in se fuit perfectissimus: nec mundo eguit 
+      <lb ed="#H" n="49"/>aut eget: nec instar naturalis agentis necessario &amp; semper externa 
+      o<lb ed="#H" n="50" break="no"/>pera producit. Praeterea actus qui perficiunt operantem, distinguen 
+      <lb ed="#H" n="51"/>di sunt ab actibus qui perficiunt opus; ad quod posterius genus 
+      cre<lb ed="#H" n="52" break="no"/>atio pertinet. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3941">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>OEJICITUR: Deus factus est felicior ex mundi creatione, quam 
+      <lb ed="#H" n="54"/>antea erat: Ergo Deo aliqua perfectio ex creatione mundi accessit 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3950">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Antecedens probatur hoc modo: Qui est actu Dominus, felicior 
+      <lb ed="#H" n="56"/>est eo qui tantum potentia est Dominus: Deus qui ante creationem 
+      <lb ed="#H" n="57"/>mundi tantum potentia fuit Dominus, post mundi creationem factus 
+      <lb ed="#H" n="58"/>est actu Dominus: Ergo factus est felicior ex mundi creatione. 
+      <lb ed="#H" n="59"/>RESP. Negatur primo antecedens Enthymematis. Deinde 
+      <lb ed="#H" n="60"/>probationis major propositio non est universaliter vera: datur enim 
+      <lb ed="#H" n="61"/>tantum de eo, qui ita est actu Dominus, ut ei ex actuali dominio &amp; 
+      <lb ed="#H" n="62"/>gubernatione aliquid accedat boni, quod antea non habuit. Deo 
+      au<lb ed="#H" n="63" break="no"/>tem ex actuali dominio in creaturas earumque gubernatione nihil 
+      <lb ed="#H" n="64"/>prorsus boni accessit, nec accedere potuit aut potest, quia summe 
+      per<lb ed="#H" n="65" break="no"/>fectus est: sed contra creaturae a Deo habent quicquid boni habent,  
+      <lb ed="#H" n="66"/>nimirum quod sunt, quod tales sunt quales esse debent, quod 
+      ope<lb ed="#H" n="67" break="no"/>rantur: &amp;c. Deus igitur ex mundi creatione non est factus felicior 
+      <lb ed="#H" n="68"/>sed ex sua natura ac per seipsum, felix est &amp; beatus, nihilque extra se 
+      <lb ed="#H" n="69"/>necessitate naturae appetit, proindeque nullam creaturam ex 
+      necessi<lb ed="#H" n="70" break="no"/>tate naturae produxit,  
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e3989">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Thesis X. 
+      <lb ed="#H" n="72"/>Deum esse causam efficientem creationis absolute sumtae satis 
+      e<lb ed="#H" n="73" break="no"/>videnter rationibus naturalibus demonstrari potest &amp; 
+      demonstra<lb ed="#H" n="74" break="no"/>tum est a Philosophis: sic ut creatio absolute sumta potuerit 
+      cogno<lb ed="#H" n="75" break="no"/>sci innato naturalis rationis lumine absque divino afflatu; ut liquet 
+      <lb ed="#H" n="76"/>ex testimonio Dav. Psalm. 19. 2. Coeli enarrant gloriam Dei fortis, &amp; 
+      <lb ed="#H" n="77"/>opus manuum ejus indicat expansum eorum, &amp;c. Extestimonio Pauli 
+      <lb ed="#H" n="78"/>Roman. 1 20. Ipsius enim invisibilia jam inde a condito mundo ex 
+      ii<lb ed="#H" n="79" break="no"/>quae fecit, mente perpensa pervidentur, aeterna ejus tum potentia tum 
+      di<lb ed="#H" n="80" break="no"/>vinitas: at hoc ut sint inexcusabiles. Constat idem ex testimoniis aliis. 
+      <lb ed="#H" n="81"/>veluti libri Sapientiae, in quo cap. 13. 5. legitur: Nam ex magnitudine. 
+      <lb ed="#H" n="82"/>&amp; specie ac creatis rebus, convenienter naturae earum opifex spectatu 
+      <lb ed="#H" n="83"/>est: Consensus Patrum orthodoxorum, veluti Iustini Martyris in 
+      Pa<lb ed="#H" n="84" break="no"/>raenesi prima ad Graecos: Athanasii in oratione contra idola: 
+      Au<lb ed="#H" n="85" break="no"/>gustini libr. undecimo de Civitate Dei, cap. quarto; &amp; undecimo 
+      li<lb ed="#H" n="86" break="no"/>bro, capite decimo-septimo: Lactantii septimo divinarum 
+      institu<lb ed="#H" n="87" break="no"/>tionum libro, qui est de divino praemio, capite tertio: Theodoreti de 
+      <!--cod-MkL9py-0291.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="88"/>curatione Graecarum affectionum, Sermone secundo, qui est de 
+      <lb ed="#H" n="89"/>Principio: Eusebii septimo libro de praepatatione Evangelica; capit.  
+      <lb ed="#H" n="90"/>secundo. Planum est idem ex scriptis Gentilium ipsorummet, 
+      crea<lb ed="#H" n="91" break="no"/>tionem statuentium: ut Lucretii libro quinto sui Poematis: Virgilii 
+      <lb ed="#H" n="92"/>secundo libro Georgicon. 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e4046">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>Thesis XI. 
+      <lb ed="#H" n="94"/>Quod Deus imperio &amp; voluntate certo temporis initio ex nihile 
+      <lb ed="#H" n="95"/>creaverit omnia, non potuit nec potest naturalis rationis lumine 
+      cog<lb ed="#H" n="96" break="no"/>nosci, sed lumine solo fidei, quae a primae veritatis luce descendit. Hoc 
+      <lb ed="#H" n="97"/>Paulus docet Hebr. 11. 3. Per fidem (inquit) intelligimus compactum 
+      <lb ed="#H" n="98"/>fuisse mundum verbo Dei. Ideo Deum initio creasse omnia, fidei est 
+      <lb ed="#H" n="99"/>articulus, non dogma Philosophicum. Deinde quod Deus certo 
+      tem<lb ed="#H" n="100" break="no"/>poris initio mundum condiderit, neque a priori neque a posteriori 
+      <lb ed="#H" n="101"/>demonstrari potest: Non a priori sive a causa, quae est voluntas Dei; 
+      <lb ed="#H" n="102"/>quia eam, nisi patefiat, nullius hominis mens pervestigare potest: 
+      <lb ed="#H" n="103"/>Nec a posteriori sive ab effectu; solent enim ejusmodi 
+      demonstrati<lb ed="#H" n="104" break="no"/>ones institui abstrahendo a circumstantiis temporis &amp; loci, ut hoc  
+      <lb ed="#H" n="105"/>modo τα καο ολο exstruantur, quae mens contemplans, semper &amp; 
+      ubi<lb ed="#H" n="106" break="no"/>que esse statuit; id autem in hac quaestione de creatione fieri nequit:  
+      <lb ed="#H" n="107"/>Tertio, si doctrinae istius cognitio tribueretur naturali rationi, tum 
+      <lb ed="#H" n="108"/>loctrina Ecclesiae ludibriis extraneorum pateret, existimantium 
+      fi<lb ed="#H" n="109" break="no"/>dem nostram rationibus niti, quas ipsi nullo negotio refellere 
+      que<lb ed="#H" n="110" break="no"/>ant. Proinde creationis vera ac certa cognitio non Philosophiae, sed  
+      <lb ed="#H" n="111"/>Theologiae; non naturae, sed fidei: non acumini mentis humanae, sed  
+      <lb ed="#H" n="112"/>divino lumini: non humanae ratiocinationi, sed divinae revelationi; 
+      <lb ed="#H" n="113"/>non rationibus &amp; demonstrationibus Physicis, sed autoritatibus &amp; 
+      <lb ed="#H" n="114"/>testimoniis divinis accepta est ferenda 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e4098">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Quae vero apud Platonem &amp; alios perpaucos, paulo saniora de 
+      <lb ed="#H" n="116"/>preatione leguntur, ea non ex rationis discursu, sed vel ex traditione 
+      <lb ed="#H" n="117"/>Chaldaeorum &amp; AÆEgyptiorum, vel ex ipsa Scriptura Sacra 
+      percepe<lb ed="#H" n="118" break="no"/>runt, ut ostendit Iustinus Martyr in Paraenesi seu cohortatione primae 
+      <lb ed="#H" n="119"/>ad Graecos, pagina vigesima-secunda &amp; sequente; &amp; Apologia 
+      se<lb ed="#H" n="120" break="no"/>cunda pro Christianis, pagina septuagesima-secunda: Et Theodores 
+      <lb ed="#H" n="121"/>tus de curatione Graecarum affectionum Sermone secundo, qui est 
+      <lb ed="#H" n="122"/>de Principio, pagina trigesima-tertia 
+      </p>
+            <p xml:id="yyy8Uu-e22992-d1e4120">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Hactenus de causa efnciente creationis tractatum est, ex qua 
+      tra<lb ed="#H" n="124" break="no"/>ctatione liquet, quam multi in hoc argumento erraverint &amp; 
+      Philo<lb ed="#H" n="125" break="no"/>sophi &amp; Judaei, &amp; titulotenus Christiani. Nam Aristoteles 
+      creatio<lb ed="#H" n="126" break="no"/>nem negavit: Plato concessit quidem, sed socios creationis Deo 
+      An<lb ed="#H" n="127" break="no"/>gelos adjunxit. Judaei Platonisantes Deo in creatione hominis 
+      An<lb ed="#H" n="128" break="no"/>gelos itidem adiungunt: Pseudochristiani varias de causa efficiente 
+      <lb ed="#H" n="129"/>creationis haereses invexerunt; Samosateniani Filium Dei, ut &amp; 
+      Spi<lb ed="#H" n="130" break="no"/>ritum Sanctum negarunt esse Creationis autorem: Arriani vero 
+      <lb ed="#H" n="131"/>concedunt quidem, Filium Dei esse creationis causam efficientem 
+      <lb ed="#H" n="132"/>sed non principalem, verum instrumentalem: Papani instrumentum 
+      <lb ed="#H" n="133"/>creationis supernaturale Deo adiungunt: alii denique Poetice de 
+      <lb ed="#H" n="134"/>Creatione philosophantur.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

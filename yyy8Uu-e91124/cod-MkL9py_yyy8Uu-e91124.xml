@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 33</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 33</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="NaN"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e91124"> <!-- l2-c33 -->
+            <head xml:id="yyy8Uu-e91124-Hd1e109">Caput 33</head>
+            <p xml:id="yyy8Uu-e91124-d1e112">
+               <lb ed="#H" n="38"/>CAPUT XXXIII. 
+      <lb ed="#H" n="39"/>In quo de metonymicis attributis Dei.
+      </p>
+            <p xml:id="yyy8Uu-e91124-d1e119">
+               <lb ed="#H" n="40"/>Hactenus explicata sunt attributa DEI 
+      <lb ed="#H" n="41"/>propria: sequuntur figu¬ 
+      <lb ed="#H" n="42"/>rata.
+    </p>
+            <p xml:id="yyy8Uu-e91124-d1e128">
+               <lb ed="#H" n="43"/>TIGURAT A attributa Dei, sunt quae per figuram aliquam, seu 
+      <lb ed="#H" n="44"/>Ttropum Rhetoricum de Deo praedicantur.  
+      </p>
+            <p xml:id="yyy8Uu-e91124-d1e136">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Eaque vel singula distincte adhibentur: vel plura conjunctim. 
+      <lb ed="#H" n="46"/>Singula distincte sunt vel metonymica, vel Ironica, vel metaphorica. 
+      <lb ed="#H" n="47"/>vel Synes dochicat 
+      </p>
+            <p xml:id="yyy8Uu-e91124-d1e147">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Mitenymica attributa Dei, sunt quae tropo metonymiae de Deo. 
+      <lb ed="#H" n="49"/>dicuntur: veluti cum Deus dicitur firmitas nostra, id est, qui dat nobis ¬ 
+      <lb ed="#H" n="50"/>firmitatem, sicut David Psal. 18. v. 2. ait; ex intimis visceribus diligam 
+      <lb ed="#H" n="51"/>te Iehova firmitas mea. Simili modo loquendi Deus est virtus 
+      seu<lb ed="#H" n="52" break="no"/>fortitudo nostra Psal. 22. 20, quia nobis vires &amp; fortitudinem largitur? 
+      <lb ed="#H" n="53"/>Est salus nostra, id est, autor salutis nostrae, Psal. 27. 1. Iehova lux mea 
+      <lb ed="#H" n="54"/>&amp; salus mea est, a quo timerem? Itemiest robur vitae nostrae, id est, 
+      lar<lb ed="#H" n="55" break="no"/>gitur nobis robur &amp; conservat vitam nostram diutissime, Psal. 27. 1. 
+      <lb ed="#H" n="56"/>Iehova robur vitae meae est, a quo expavescerem? Est auxilium nostris 
+      <lb ed="#H" n="57"/>id est, dator auxilii quo conservamur, Psal. 27. 9. Auxilium meum 
+      fu<lb ed="#H" n="58" break="no"/>isti, ne deseras me, neque derelinquas me, Deus salutis meae. Hoc 
+      invita<lb ed="#H" n="59" break="no"/>mur ad spem in Deo collocandam Psal. 33. v. 20. Et Psal. 46. 2. Deus 
+      <lb ed="#H" n="60"/>nobis est receptus &amp; robur, auxilium in angustuis praesentissimum. Psal.  
+      <lb ed="#H" n="61"/>70. v. 6. Auxilium meum &amp; liberator meus es; Iehova ne tardes. 
+      </p>
+            <p xml:id="yyy8Uu-e91124-d1e182">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Sic dicitur Deus carmen nostrum, Exod. 15. v. 2. quia est subjectum 
+      <lb ed="#H" n="63"/>&amp; argumentum carminis nostri, est is, de quo religiose, sancteque 
+      ca<lb ed="#H" n="64" break="no"/>nimus &amp; canere debemus. Psalm. 118. 14. Robur meum &amp; carmen 
+      <lb ed="#H" n="65"/>Iah. 
+      </p>
+            <p xml:id="yyy8Uu-e91124-d1e195">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Similiter Deus est laus nostra, id est, is quem laudamus &amp; laudare 
+      <lb ed="#H" n="67"/>debemus, is de quo certa fiducia gloriamur &amp; gloriari debemus: sic 
+      <lb ed="#H" n="68"/>ut Jetemias ait capit. 17. 14. Sana me Iehova &amp; sanabor, serva me &amp; 
+      <lb ed="#H" n="69"/>servabor, quia laus mea es. Est vita nostra &amp; longitudo dierum nostro. 
+      <lb ed="#H" n="70"/>rum, id est, is qui dat &amp; conservat vitam nostram, &amp; prorogat eam 
+      <lb ed="#H" n="71"/>quam longissime, Deuter. 30. 19, 20. Vitam electurus es, ut vivas 
+      tu<lb ed="#H" n="72" break="no"/>cum semine tuo, Diligendo Iehovam Deum tuum, auscultando voci 
+      e<lb ed="#H" n="73" break="no"/>jus, &amp; adhaerendo ei: nam ipse est vita tua &amp; longitudo dierum tuorum. 
+      <lb ed="#H" n="74"/>Est gloria nostra, Psal. 3. v. 4. id est is de quo gloriamur, &amp; qui veram 
+      <lb ed="#H" n="75"/>ploriam nobis tribuit adversus ignominiam qua impii nos afficiunt 
+      <lb ed="#H" n="76"/>Est honos noster Psal. 166. 20. quia eo nudati omnem ignominiam 
+      <lb ed="#H" n="77"/>apud inimicos subeamus oportet Est fiducia omnium excremitatum  
+      <lb ed="#H" n="78"/>terrae &amp; maris longinquarum. Psal. 65. 5. id est, is in quo confidunt 
+      o<lb ed="#H" n="79" break="no"/>mnes extremitates terrae &amp; maris longinquae. Jerem. 17. v. 17. Bene 
+      <lb ed="#H" n="80"/>dictus vir ille, qui fiduciam habet in lehova, &amp; cujus confidentia est 
+      le<lb ed="#H" n="81" break="no"/>hova. 
+      <!--cod-MkL9py-0219.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="82"/>Est spes nostra, 1. Tim. 1. v. 1. id est, is in quo spem ponimus. Jerem: 
+      <lb ed="#H" n="83"/>14. 8. O spes Israelis, servator ejus tempore angustiae. Est exspictatio 
+      fide<lb ed="#H" n="84" break="no"/>lium, quia is est cujus auxilium exspectant fideles. Jer. 17. 13. O ex. 
+      <lb ed="#H" n="85"/>pectatio Israelis Iehova, omnes delinquentes te crubescant. Est robur Ie 
+      <lb ed="#H" n="86"/>novae, 1. Chron. 16. 11. &amp; Psal. 78. 61. Est arca federis, nam illa erat 
+      <lb ed="#H" n="87"/>tymbolum praesentiae DEI robustissimi, 2. Chron. 6. 41. 
+      </p>
+            <p xml:id="yyy8Uu-e91124-d1e252">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Sic fuerunt attributa Dei metonymica. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

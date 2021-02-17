@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="NaN"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e3942x"> <!-- l1-c7 -->
+            <head xml:id="yyy8Uu-e3942x-Hd1e109">Caput 7</head>
+            <p xml:id="yyy8Uu-e3942x-d1e112">
+               <lb ed="#H" n="20"/>CAPUT VII. 
+      <lb ed="#H" n="21"/>In quo de Theologia Christi secundum humanita¬ 
+      <lb ed="#H" n="22"/>tem ipsius.
+      </p>
+            <p xml:id="yyy8Uu-e3942x-d1e121">
+               <lb ed="#H" n="23"/>PTHEOLOGIA ectypa confiderata ut est in creaturis rationali¬s 
+      <lb ed="#H" n="24"/>bus, est vel Christi tanquam Capitis Ecclesiae Dei secundum 
+      <lb ed="#H" n="25"/>humanitatem ipsius: vel membrorum Christi.
+    </p>
+            <p xml:id="yyy8Uu-e3942x-d1e130">
+               <lb ed="#H" n="26"/>Theologia Christi tanquam Capitis secundum humanitatem: 
+      <lb ed="#H" n="27"/>ipsius, est tota sapientia rerum divinarum per unionem personalem 
+      <lb ed="#H" n="28"/>communicata cum Christi θεανθρωπε humanitate unita &amp; per Spiri 
+      <lb ed="#H" n="29"/>tum Sanctum sine mensura in eam effusum, tum ad illius beatitudi. 
+      <lb ed="#H" n="30"/>nem sempiternam tum ad eorum omnium qui Christo ut Capit  
+      <lb ed="#H" n="31"/>conjuncti sunt illustrationem: 
+      </p>
+            <p xml:id="yyy8Uu-e3942x-d1e147">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Haec etiam Theologia unionis appellatur, quia illam Christi 
+      hu<lb ed="#H" n="33" break="no"/>manitas habet ex unione hypostatica cum divina natura. De hac 
+      le<lb ed="#H" n="34" break="no"/>gitur, Johan. 1. vers. 16. Et ex plenitudine ipsius omnes accepimus, &amp; 
+      <lb ed="#H" n="35"/>gratiam pro gratia. Et cap. 3. v. 11, 12, 13. Amen, amen dico tibi, quod 
+      <lb ed="#H" n="36"/>scimus loquimur, &amp; quod vidimus testamur: sed testimonium 
+      no<lb ed="#H" n="37" break="no"/>strum non recipitis. Si terrena dixi vobis, &amp; non creditis: quomodo 
+      si<lb ed="#H" n="38" break="no"/>dixero vobis coelestia, credetis? Nullus nascedit in coelum, nisi qui de 
+      <lb ed="#H" n="39"/>scendit e coelo, nempe Filius hominis qui est in coelo. Et v. 32. &amp; 
+      sequen<lb ed="#H" n="40" break="no"/>tibus. Quod vidit &amp; audivit, hoc testatur: sed testimonium eius. 
+      <lb ed="#H" n="41"/>nemo recipit. Qui recipit eius testimonium, is obsignavit Deum 
+      ve<lb ed="#H" n="42" break="no"/>racem esse. Nam is demum quem nisit Deus, verba Dei loquitur  
+      <lb ed="#H" n="43"/>non enim huic admetitur Deus spiritum: Pater diligit Filium, &amp; 
+      o<lb ed="#H" n="44" break="no"/>mnia credit ei in manum. Qui credit in Filium, habet vitam aeter 
+      <lb ed="#H" n="45"/>nam: qui vero non assentitur Filio, non videbit, etiam sed ira Dei 
+      <lb ed="#H" n="46"/>manet super eum. Coloss. 2. v. 3. In quo sunt omnes thesauri 
+      sapien<lb ed="#H" n="47" break="no"/>tiae ac notitiae absconditi. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

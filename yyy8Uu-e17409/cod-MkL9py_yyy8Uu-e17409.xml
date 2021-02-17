@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 29</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 29</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="38"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e17409"> <!-- l1-c29 -->
+            <head xml:id="yyy8Uu-e17409-Hd1e109">Caput 29</head>
+            <p xml:id="yyy8Uu-e17409-d1e112">
+               <lb ed="#H" n="139"/>CAPTTIII 
+      <lb ed="#H" n="140"/>In quo Iudaeorum, haereticorum &amp; Gentilium ipsorum¬ 
+      <lb ed="#H" n="141"/>met testimonium de divina autoritate S. Scri¬ 
+      <lb ed="#H" n="142"/>pturae exponitur
+    </p>
+            <p xml:id="yyy8Uu-e17409-d1e123">
+               <lb ed="#H" n="143"/>TTUCUSQUI de testimonio Ecclesiae quod illa de divinitate 
+      <lb ed="#H" n="144"/>seu divino ortu Scripturae Sacrae perhibet, egimus: testimonia 
+      <lb ed="#H" n="145"/>aliorum hominum extra Dei Ecclesiam sunt tum Iudaeorum, 
+      <lb ed="#H" n="146"/>tum haereticorum, tum Gentilium ipsorummet 
+      </p>
+            <p xml:id="yyy8Uu-e17409-d1e134">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Iudaei enim testantur, omnes libros veteris Testamenti vere esse 
+      <lb ed="#H" n="148"/>livinos: Quorum testimonium merito acceptamus, quia eis credita 
+      <lb ed="#H" n="149"/>sunt eloquia Dei, ut Paulus testatur Rom. 3. 2. Nam quod etiam nunc 
+      <lb ed="#H" n="150"/>apud Iudaeos pietatis nostrae libri asservantur, divinae id de nobis opus est 
+      <lb ed="#H" n="151"/>providentiae: ne enim ex Ecclesia eos proferentes occasionem quasi 
+      sup<lb ed="#H" n="152" break="no"/>positi a nobis aut corrupti sint, maledictis nos incessere uolentibus 
+      praebe<lb ed="#H" n="153" break="no"/>amus, ex illorum Synagoga producimus: ut ex ipsis hucusque apud eo, 
+      <lb ed="#H" n="154"/>censervatis libris, ad nos nostramque dectrinam a sanctis viris edita 
+      juri<lb ed="#H" n="155" break="no"/>liquido &amp; manifesto pertinere appareat: ut Iustinus Martyr ait in 
+      Pa<lb ed="#H" n="156" break="no"/>raenesi prima ad Graecos, pag. undecima. Quid est enim aliud hodieque 
+      <lb ed="#H" n="157"/>gens ipsa Iudaeorum nisi quaedam scriniaria Christianorum, bajulans 
+      Le<lb ed="#H" n="158" break="no"/>gem &amp; Prophetas ad testimonium assertionis Ecclesiae? ait August. sexto 
+      to<lb ed="#H" n="159" break="no"/>mo, libro duodecimo contra Faustum Manichaeum, cap. vigesimoter 
+      <lb ed="#H" n="160"/>io: Propterea adhuc Iudaei sunt, ut libros nestros portent ad confusionem 
+      <lb ed="#H" n="161"/>suam. Quando enim volumus ostendere prophetatum Christum, 
+      proferi<lb ed="#H" n="162" break="no"/>mus paganis istas literas. Et ne forte dicant duri ad fidem, quia nos illat 
+      <lb ed="#H" n="163"/>Christiani composuimus, ut cum Evangelio quod praedieamus finxerimus 
+      <lb ed="#H" n="164"/>Prophetas, per quos praedictum videretur quod praedicamus, hinc cos 
+      con<lb ed="#H" n="165" break="no"/>vincimus, quia omnes ipsae literae quibus Christus prophetatus est, apud 
+      <lb ed="#H" n="166"/>Iudaeos sunt: omnes ipsas literas habent Iudaei. Proferimus codices ab 
+      ini<lb ed="#H" n="167" break="no"/>micis, ut co fundamus alios inimicos. In quali ergo opprobrio sunt Iudaei 
+      <lb ed="#H" n="168"/>Codicem portat Iudaeus, unde credut Christianus. Librarii nostri facti sunt,  
+      <lb ed="#H" n="169"/>quomodo solent servi pest dominos codices ferre, ut illi portando deficiat,  
+      <lb ed="#H" n="170"/>illi legendo profitiant;ait idem Augustinus tomo octavo, in 
+      enarratio<lb ed="#H" n="171" break="no"/>ne Psalmi quinquagesimi sexti, pagina trecentesima 
+      octogesi<lb ed="#H" n="172" break="no"/>maquarta editionis Frobenianae Anni 1529. Et sub finem concionia 
+      <lb ed="#H" n="173"/>primae in enarratione Psalm. quinquagesi, octavi pag. quadringent 
+      <!--cod-MkL9py-0064.xml-->
+      <pb ed="#H" n="39"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>nona, Iudei sunt necessarii credentibus gentibus. Quare hoc? Vt 
+      demon<lb ed="#H" n="2" break="no"/>stret nobis Deus in inimicis nostris misericordiam suam (nempe erg 
+      <lb ed="#H" n="3"/>nos.) Et mox: Dispersi sunt Iudaei testes iniquitatis suae &amp; veritatis 
+      no<lb ed="#H" n="4" break="no"/>strae. Ipsi habent codices de quibus prophetatus est Christus, &amp; nos 
+      tene<lb ed="#H" n="5" break="no"/>mus Christum. Et si forte quado aliquis paganus dubitaverit, cum ei 
+      di<lb ed="#H" n="6" break="no"/>xerimus prophetias de Christo, quarum evidentiam obstupescit, &amp; ad 
+      <lb ed="#H" n="7"/>mirans putaverit a nobis esse conscriptas, de codicibus Iudaeorum 
+      proba<lb ed="#H" n="8" break="no"/>mus, quia hoc totum ante praedictum est. Videte quomodo de inimicis 
+      no<lb ed="#H" n="9" break="no"/>stris alios confundimus inimicos. Similia habet Augustinus tomo 
+      se<lb ed="#H" n="10" break="no"/>cundo epistolam quinquagesimanona quae est ad Paulinum: &amp; 
+      sexto<lb ed="#H" n="11" break="no"/>tomo, lib. tertiodecimo contra Faustum Manichaeum, capite decimo: 
+      <lb ed="#H" n="12"/>&amp; lib. sextodecimo contra eundem, cap. vigesimoprimo 
+      </p>
+            <p xml:id="yyy8Uu-e17409-d1e231">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Speciatim autem testatur libros veteris Testamenti esse divinitus. 
+      <lb ed="#H" n="14"/>inspiratos Flavius Iosephus gente &amp; professione Iudaeus, libro primo 
+      <lb ed="#H" n="15"/>contra Appionem Grammaticum Alexandrinum non ita procul 
+      ab<lb ed="#H" n="16" break="no"/>initio, quem locum Eusobius quoque citat histor. Eccles. lib. terrio, 
+      ca<lb ed="#H" n="17" break="no"/>pitibus nono &amp; decimo 
+      </p>
+            <p xml:id="yyy8Uu-e17409-d1e247">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Haec de Iudaeorum testimonio. 
+      <lb ed="#H" n="19"/>Haeretici etiam qui se ab Ecclesia separatunt testimonium reddunt 
+      <lb ed="#H" n="20"/>Sacrae Scripturae quod sit divina. Nam ex illa doctrina suam conantur 
+      <lb ed="#H" n="21"/>probare &amp; hominibus aliis persuadere: ut Ebionei retinebant E 
+      van<lb ed="#H" n="22" break="no"/>gelium Matthaei, Valentiniani Evangelium secundum lohannem, &amp;c. 
+      <lb ed="#H" n="23"/>Quum ergo hi qui contradicunt nobis testimonium perhibent 
+      divi<lb ed="#H" n="24" break="no"/>nitati Scripturae, firma &amp; vera est nostra demonstratio, ut docet 
+      Ire<lb ed="#H" n="25" break="no"/>naus lib. tertio adversus haereses, capite undecimo. Sic ait Tertullianus 
+      <lb ed="#H" n="26"/>libro de Praescriptionibus adversus haereticos capite decimoquinto 
+      <lb ed="#H" n="27"/>Sed ipsi (haeretici) &amp; de Scripturis agunt, &amp; de Scripturis suadent. 
+      Aliun<lb ed="#H" n="28" break="no"/>de scilicet loqui possent de rebus fidei, nisi ex literis fideit 
+      </p>
+            <p xml:id="yyy8Uu-e17409-d1e276">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Gentiles denique ipsimet, similiter fatentur, Scripturam nostram esse. 
+      <lb ed="#H" n="30"/>divinam. Nam miranti Ptolemaeo Regi AEgypti, cur divinorum libro 
+      <lb ed="#H" n="31"/>rum nulli neque Historici, neque Poetae veteres meminissent? Deme 
+      <lb ed="#H" n="32"/>trius Phalereus respondit, ut ex Aristaea referunt Iosephus libro 
+      duo<lb ed="#H" n="33" break="no"/>decimo Antiquitatum Judaicarum cap. secundo, &amp; Eusebius libro 
+      o<lb ed="#H" n="34" break="no"/>ctavo puaeparationis Evangelicae cap. primo, divinam hanc Scriptu 
+      <lb ed="#H" n="35"/>tam esse, atque a Deo ipso datam; propterea si qui profanorum 
+      ho<lb ed="#H" n="36" break="no"/>minum eam attingere voluerunt, eos a Deo percussos continuo resu 
+      <lb ed="#H" n="37"/>liisse. Significavit enim quomodo Theopompus volens in historia ali 
+      <lb ed="#H" n="38"/>quid de his conscribere, sit mente turbatus plus triginta diebus: &amp; ¬ 
+      <lb ed="#H" n="39"/>versus ad se, cum humilitate a Deo veniam supplex oravit, cum inde 
+      <lb ed="#H" n="40"/>sibi dementiam factam suspicatus esset, nec non &amp; in somnis vidisset 
+      <lb ed="#H" n="41"/>quod ei hoc ideo accidisset, quia divina scrutatus esset &amp; proferre e 
+      <lb ed="#H" n="42"/>ad homines imputos vellet: cumque conscribere quievisset, mentem 
+      <lb ed="#H" n="43"/>recepit. Referebat autem &amp; de Theodecte Tragoediarum poeta dici 
+      <lb ed="#H" n="44"/>quod cum conatus fuisfet in aliquo dramate eorum meminisse, quae 
+      <lb ed="#H" n="45"/>in divino volumine continentur, caecitate oculorum percussus sit, 
+      cum<lb ed="#H" n="46" break="no"/>que causam suae caecitatis recognovisset, liberatum esse a passione 
+      <lb ed="#H" n="47"/>Deo veniam indulgente¬ 
+      </p>
+            <p xml:id="yyy8Uu-e17409-d1e322">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>OEIICITUR I. Impiorum hominum testimoniis non est utendii ad 
+      <lb ed="#H" n="49"/>asserendam librorum Sarcorum divinam autoritatem: Iudaei vero, 
+      haere<lb ed="#H" n="50" break="no"/>tici &amp; Gentiles sunt impii homines: Illorum igitur testimoniis non utendum, 
+      </p>
+            <p xml:id="yyy8Uu-e17409-d1e333">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>RESP. Maior propositio est limitanda. Impiorum hominum 
+      testi<lb ed="#H" n="52" break="no"/>moniis non utendum in rebus divinis, scilicet nisi vel ad alios impios &amp; 
+      <lb ed="#H" n="53"/>hostes confundendos vel ad succurrendum hac in re infirmitati 
+      pio<lb ed="#H" n="54" break="no"/>rum, qui value confirmantur in veritate, cum vident etiam ab 
+      ho<lb ed="#H" n="55" break="no"/>stibus testimonium ei perhiberi. Illorum igitur testimoniis pro 
+      veri<lb ed="#H" n="56" break="no"/>tate nostra Christiana uti quis vetet? Certe universaliter magnam fi 
+      <lb ed="#H" n="57"/>dem habet inimicorum testimonium pro inimicis &amp; cupide suscipitur.  
+      </p>
+            <p xml:id="yyy8Uu-e17409-d1e353">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Deinde &amp; minor restringenda est, Judaei, haeretici &amp; Gentiles sunt 
+      <lb ed="#H" n="59"/>impii homines, non ex aequo &amp; eodem modo, sed alii ex malitia, alii 
+      <lb ed="#H" n="60"/>ex mera ignorantia¬ 
+      </p>
+            <p xml:id="yyy8Uu-e17409-d1e365">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>DBIICITURII. Quod Deus ab omnibus hominibus vult 
+      cognosci<lb ed="#H" n="62" break="no"/>ob eius cognoscendi &amp; ad alies propagandi studium non est verisimile. 
+      <lb ed="#H" n="63"/>quenquam a Deo puniri. 
+      <lb ed="#H" n="64"/>At Scripturam Saeram Deus ab omnibus hominibus vult cognosci: 
+      <lb ed="#H" n="65"/>Ergo non est verisimile quenquam ob eius cognoscendi &amp; ad alios 
+      pro<lb ed="#H" n="66" break="no"/>pagandi studium a Deo puniri, 
+      </p>
+            <p xml:id="yyy8Uu-e17409-d1e383">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>RESP. Maior est restringenda. Quod Deus ab omnibus homini 
+      <lb ed="#H" n="68"/>bus vult cognosci, scilicet quovis tempore, nulla habita ratione 
+      distin<lb ed="#H" n="69" break="no"/>ctionis Ecclesiae ab aliis hominibus extra Ecclesiam, nullo observate 
+      <lb ed="#H" n="70"/>discrimine populorum; ob ejus cognoscendi &amp; ad alios propagandi. 
+      <lb ed="#H" n="71"/>studium non est verisimise quenquam a Deo puniri 
+      </p>
+            <p xml:id="yyy8Uu-e17409-d1e399">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>At Sacram Scripturam Deum voluisse ab omnibus hominibus 
+      <lb ed="#H" n="73"/>cognosci quovis tempore, nulla habita ratione distinctionis Ecclesia 
+      <lb ed="#H" n="74"/>a reliqua colluvie hominum impiorum, negamus. Nam Deus anti 
+      <lb ed="#H" n="75"/>Christi adventum in carnem indicavit verba sua lacobo &amp; statuta sua. 
+      <lb ed="#H" n="76"/>&amp; jura sua Israeli. Non fecit ita ulli genti, ideoque iura ista non noverumm 
+      <lb ed="#H" n="77"/>vt dicitur Psal. 147. versibus duobus ultimis: Praeteritis aetatibus sivi 
+      <lb ed="#H" n="78"/>amnes Gentes suis ipsarum viis incedere, ait Paulus Actor. 14. v. 16, 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

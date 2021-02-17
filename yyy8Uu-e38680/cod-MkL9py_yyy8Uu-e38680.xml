@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 41</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 41</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="NaN"/>
+            <cb ed="#H" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e38680"> <!-- l1-c41 -->
+            <head xml:id="yyy8Uu-e38680-Hd1e109">Caput 41</head>
+            <p xml:id="yyy8Uu-e38680-d1e112">
+               <lb ed="#H" n="41"/>CAPUT XLI. 
+      <lb ed="#H" n="42"/>De versione Graeca LXX interpretum.
+      </p>
+            <p xml:id="yyy8Uu-e38680-d1e119">
+               <lb ed="#H" n="43"/>Indicatis praecipuis versionibus Scripturae: nunc quid 
+      <lb ed="#H" n="44"/>de quibusdam quaeratur, dispiciendum 
+    </p>
+            <p xml:id="yyy8Uu-e38680-d1e126">
+               <lb ed="#H" n="45"/>PE versione Graeca LXXII. aut ut brevitatis causa rotum 
+      <lb ed="#H" n="46"/>LIdato numero dicitur, Septuaginta interpretum queritur. 
+      </p>
+            <p xml:id="yyy8Uu-e38680-d1e134">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>PRIMO, an ea sit quae nunc habetur: 
+      <lb ed="#H" n="48"/>RESP. Graeca versio Veteris Testamenti, quae nunc habetur. 
+      <lb ed="#H" n="49"/>non est septuaginta duorum illorum interpretum, qui ad Ptolomae 
+      <lb ed="#H" n="50"/>um Philadelphum Jerosolymis missi fuerunt.  
+      <lb ed="#H" n="51"/>1. quia illi non omnem Scripturam Veteris Testamenti, sed 
+      tan<lb ed="#H" n="52" break="no"/>tum libros Legis a Mose scriptos verterunt, ut testatur Flavius 
+      Iose<lb ed="#H" n="53" break="no"/>ohus, qui prooemio in libros Antiquitatum Judaicarum in hunc 
+      mo<lb ed="#H" n="54" break="no"/>dum de Ptolomaeo Philadelpho loquitur: Neque enim ille amnem 
+      de<lb ed="#H" n="55" break="no"/>scriptionem a translatoribus accepit, quando ea tantummodo quae 
+      Le<lb ed="#H" n="56" break="no"/>gis sunt, hi qui ad explanationem missi fuerant Alexandriam 
+      tradide<lb ed="#H" n="57" break="no"/>runt: cum sint alia innumera, quae per sacras literas indicantur, utpote 
+      <lb ed="#H" n="58"/>quinque millium annerum historia in istis exposita, &amp; diversae quidem in 
+      <lb ed="#H" n="59"/>his cuntinentiae sunt, multae vero civitatum fortunae &amp; fortia facta 
+      du<lb ed="#H" n="60" break="no"/>cum &amp; mutabilitates conversationum. Similiter lib. duodecimo 
+      An<lb ed="#H" n="61" break="no"/>tiquitatum cap. secundo, &amp; li, secundo contra Appionem 
+      Gramma<lb ed="#H" n="62" break="no"/>ticum Alexandrinum interpretationis Legis duntaxat meminit. 
+      Si<lb ed="#H" n="63" break="no"/>militer Philo Iudaeus lib. secundo de vita Mosis solius Legis 
+      mentio<lb ed="#H" n="64" break="no"/>nem facit: ait LXXII. illos interpretes legem Mosis vertisse in 
+      <lb ed="#H" n="65"/>Graecum sermonem ex Chaldaeo, quia Abrahamus in cujus 
+      posteri<lb ed="#H" n="66" break="no"/>tate lingua Hebrea mansit fuit Chaldaeus. Multi quidem Patres 
+      scri<lb ed="#H" n="67" break="no"/>bunt totum Vetus Testamentum a LXXII. interpretibus in 
+      AE<lb ed="#H" n="68" break="no"/>gypto versum: sed testes sunt receptiores &amp; dissentiunt a testibus 
+      an<lb ed="#H" n="69" break="no"/>tiquioribus, qui rectius tem scire potuerunt. Si quis tamen Patrum 
+      <lb ed="#H" n="70"/>posteriorum autoritate motus, existimet totum Vetus Testamentum 
+      <lb ed="#H" n="71"/>aLXXII. illis interpretibus translatum, cum eo non judico 
+      con<lb ed="#H" n="72" break="no"/>tendendum 
+      <lb ed="#H" n="73"/>2. quia translatio illa Hebraeis fontibus fuit convenientissima, ut  
+      <lb ed="#H" n="74"/>testatur Aristeas Ptolemaei Regis hyperaspistes, qui ait reddita esse 
+      <lb ed="#H" n="75"/>propria propriis nominibus Graecis ad Hebraea exacte 
+      respondenti<lb ed="#H" n="76" break="no"/>bus, eamque interpretationem a plurimis discussam, consideratam, 
+      ex<lb ed="#H" n="77" break="no"/>aminatam, ante quam in Regis Bibliotheca poneretur, &amp; ab omnibus 
+      <lb ed="#H" n="78"/>acclamatum, sancte &amp; fideliter singula esse translata, ut nihil addi, 
+      ni<lb ed="#H" n="79" break="no"/>hil demi possit. Idem testatur Philo Iudaeus. At versio quae jam 
+      habe<lb ed="#H" n="80" break="no"/>tur, in plurimis locis dissentit ab Hebraeo textu, multa habet quae non 
+      <lb ed="#H" n="81"/>sunt in Hebraeo, &amp; rursus multa non habet quae sunt in Hebraeo: 
+      mul<lb ed="#H" n="82" break="no"/>ta etiam habet pugnantia cum Hebraeo ut annotavit quaedam 
+      Au<lb ed="#H" n="83" break="no"/>gustinus libro decimo quinto, de Civitate Dei, capite decimo-tertio: 
+      <lb ed="#H" n="84"/>plura vero observata sunt a Francisco Iunto per totum Vetus 
+      Testa<lb ed="#H" n="85" break="no"/>mentum in Graeca editione Francofortenum excusa in folio apud 
+      An<lb ed="#H" n="86" break="no"/>dreae Vecheli haeredes Claudium Marnium &amp; Johann. Aubium 
+      <lb ed="#H" n="87"/>Anno M. D. XCVII. Et Hieronymus ipse in praefatione in Para 
+      <!--cod-MkL9py-0108.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="88"/>lipomena &amp; in Esdram, &amp; alibi frequenter monet, versionem illam 
+      <lb ed="#H" n="89"/>LXX. multis &amp; variis modis esse vitiatam &amp; corruptam 
+      </p>
+            <p xml:id="yyy8Uu-e38680-d1e236">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Manifesta sunt Graecae hodiernae translationis vitia, quae nullo 
+      <lb ed="#H" n="91"/>modo excusari possunt. Illa enim annos a mundo condito ad 
+      diluvi<lb ed="#H" n="92" break="no"/>um numerat 2242, ut apud Augustinum, &amp; Eusebium &amp; Nicephorum 
+      <lb ed="#H" n="93"/>in chronologia legitur: in Hebraicis autem libris non plures 
+      ela<lb ed="#H" n="94" break="no"/>sos fuisse quam 1656. annos scribitur. Ita numerum Hebraicum 
+      <lb ed="#H" n="95"/>Graecus separat annis 586. Deinde a diluvio ad Abrahamum Graeca 
+      <lb ed="#H" n="96"/>translatio numerat annos 1082. quum in Hebraica veritate 
+      plure<lb ed="#H" n="97" break="no"/>quam 3 12. non inveniantur. Ita sunt inlibris Graecis 770. anni 
+      plu<lb ed="#H" n="98" break="no"/>res, quam in Hebraicis. Tertio, Gen. 5. 3. in libris Graecis Adamus 
+      <lb ed="#H" n="99"/>am vixisse dicitur annos 230, aut ut est in quibusdam exemplaribus 
+      <lb ed="#H" n="100"/>330. cum Sethum genuisset: Hebraeus vero codex testatur, Sethum 
+      <lb ed="#H" n="101"/>esse genitum, cum Adamus demum annos 13o haberet. Quarto, 
+      secun<lb ed="#H" n="102" break="no"/>dum Graecam translationem, Mathusalem annos 14. post diluvium 
+      <lb ed="#H" n="103"/>superstes fuit: at ex Hebreis codicibus colligimus, cum eodem 
+      anno<lb ed="#H" n="104" break="no"/>esse mortuum, quo tota terra diluvio est oppressa. Quinto, Jonae 3. in 
+      <lb ed="#H" n="105"/>Graeca versione exitium Ninivitis post triduum: at in Hebraea 
+      veri<lb ed="#H" n="106" break="no"/>tate post quadragesimum diem denunciatur. Talis est dissimilitude 
+      <lb ed="#H" n="107"/>etiam in reliquis passim numeris. 
+      </p>
+            <p xml:id="yyy8Uu-e38680-d1e280">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>Haec de prima quaestione. 
+      <lb ed="#H" n="109"/>SECUNDO quaeritur, An Graeca illa versto Veteris Testamenti, 
+      <lb ed="#H" n="110"/>quae septuaginta duorum interpretum esse dicitur, sit authentica? 
+      </p>
+            <p xml:id="yyy8Uu-e38680-d1e291">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>RESP. Non est. 1. quia non est immediate a Spiritu S. inspirata 
+      <lb ed="#H" n="112"/>a. quia est multis modis vitiosa, ut saepe queritur Hieronymus, &amp; 
+      <lb ed="#H" n="113"/>Franciscus Iunius in editione Bibliorum Graecorum ostendit. 3. quia 
+      <lb ed="#H" n="114"/>Augustinus, qui versioni septuaginta plurimum detulit, illam tamen 
+      <lb ed="#H" n="115"/>esse ex fontibus emendandam censuit. 
+      </p>
+            <p xml:id="yyy8Uu-e38680-d1e307">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>TERTIO quaeritur, An locorum illorum Veteris Testamenti que 
+      <lb ed="#H" n="117"/>in Novo Testamento a Christo, ab Evangelisti; &amp; Apostolis allegantur: 
+      <lb ed="#H" n="118"/>sit authentica versio, quum fontibus Hebraicis non videatur 
+      congrue<lb ed="#H" n="119" break="no"/>re. 
+      </p>
+            <p xml:id="yyy8Uu-e38680-d1e320">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>RESP. Est authentica versio omnium illorum locorum 
+      quae<lb ed="#H" n="121" break="no"/>Christo, ab E vangelistis &amp; Apostolis allegantur ad confirmationem 
+      <lb ed="#H" n="122"/>doctrinae coelestis quam illi annunciaverunt: quia est approbata, 
+      san<lb ed="#H" n="123" break="no"/>ctificata &amp; inspirata a Spiritu sancto dictante Novum 
+      Testamen<lb ed="#H" n="124" break="no"/>tum Apostolis &amp; Evangelistis. Nam si Gentilium sententiae quaedam 
+      <lb ed="#H" n="125"/>ex inspiratione divini Spiritus a Paulo Apostolo allegatae, sunt 
+      san<lb ed="#H" n="126" break="no"/>ctificatae &amp; authenticae redditae: quidni &amp; loca illa veteris 
+      Testamen<lb ed="#H" n="127" break="no"/>ti Graece adducta? 
+      </p>
+            <p xml:id="yyy8Uu-e38680-d1e343">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>OBIICITUR, loca e Veteri Testamento allecata in Novo non 
+      <lb ed="#H" n="129"/>respondere fontibus Hebraicis, sed vel contraria esse illis, vel differre ad 
+      <lb ed="#H" n="130"/>illis mutatione vocum aut omissione aut additione, &amp; membrorum aλ¬ 
+      <lb ed="#H" n="131"/>λοιώσε, ut ex comparatione locorum illorum omnium cum textu Hebraeo 
+      <lb ed="#H" n="132"/>pstendi possit. 
+      </p>
+            <p xml:id="yyy8Uu-e38680-d1e359">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>RESP. Loca illa sunt ευαντοφανκ κι ἐτεραχημονα, non autem, 
+      <lb ed="#H" n="134"/>εναιτία κετορσια, id est, videntur quidem prima specie esse contraria 
+      <lb ed="#H" n="135"/>&amp; aliam formam, alium sensum prae se ferre, sed revera contraria 
+      <lb ed="#H" n="136"/>fontibus non sunt, nec alium ab illis sensum habent, etiamsi in vocibus 
+      <lb ed="#H" n="137"/>&amp; phrasibus mutationes quaedam vocum &amp; membrorum interdum 
+      <lb ed="#H" n="138"/>occurrant non temere, leviterque &amp; citra judicium praeterque 
+      ratio<lb ed="#H" n="139" break="no"/>nem aut contra fidem factae, sed prudenter, certo judicio. ratione 
+      sum<lb ed="#H" n="140" break="no"/>ma &amp; fide optima, quemadmodum ab interpretibus Novi 
+      Testa<lb ed="#H" n="141" break="no"/>menti tum antiquis, tum recentibus, &amp; inprimis ex professo a 
+      Fran<lb ed="#H" n="142" break="no"/>cisco Iunio Sacrorum Parallelorum libris tribus Illustrissimo Prin 
+      <lb ed="#H" n="143"/>cipi <name xml:id="yyy8Uu-e38680-Nd1e387">VILHELMO LANDGRAVIO HASSIAE</name> inscriptis 
+      <lb ed="#H" n="144"/>declaratum demonstratumque est.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

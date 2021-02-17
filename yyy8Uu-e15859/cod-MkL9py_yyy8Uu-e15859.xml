@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 26</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 26</title>
+               <date when="2021-02-17">February 17, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#H" n="35"/>
+            <cb ed="#H" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-e15859"> <!-- l1-c26 -->
+            <head xml:id="yyy8Uu-e15859-Hd1e109">Caput 26</head>
+            <p xml:id="yyy8Uu-e15859-d1e112">
+               <lb ed="#H" n="117"/>CAPUT XXVI. 
+      <lb ed="#H" n="118"/>In quo plura argumenta ex consideratione Ecclesiae &amp; 
+      <lb ed="#H" n="119"/>dogmatis Pontificii sumta ad firmandam no¬ 
+      <lb ed="#H" n="120"/>stram sententiam
+    </p>
+            <p xml:id="yyy8Uu-e15859-d1e123">
+               <lb ed="#H" n="121"/>EcIMUMSEPTIMUM: Quisquis errare potest, ab eius testimonis 
+      <lb ed="#H" n="122"/>TPnon pendet Scripturae Sacra autoritas: At Ecclesia errate potest: 
+      <lb ed="#H" n="123"/>Ergo, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-e15859-d1e132">
+               <lb ed="#H" n="124"/>Mator per se manifesta est: quia autoritas ejus quod longissime ab 
+      <lb ed="#H" n="125"/>omni errore sejunctum est, non potest autoritatem accipere ab eo 
+      <lb ed="#H" n="126"/>quod erroribus obnoxium est. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e142">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Minor vera est vel ipsis adversariis confitentibus, qui dicunt 
+      Eccle<lb ed="#H" n="128" break="no"/>siam in quibusdam eirare posse, ut in agibilibus seu practicis &amp; 
+      quae<lb ed="#H" n="129" break="no"/>sunt juris humani, &amp; in Sanctorum canonizationibus, ut Gerson ait 
+      <lb ed="#H" n="130"/>tractatu de examine docttinatum parte prima, consideratione 
+      pri<lb ed="#H" n="131" break="no"/>ma: Quod &amp; Thomae Aquinati probatur. Quodlibeto octavo, 
+      arti<lb ed="#H" n="132" break="no"/>culo ultimo, nisi quod de canonizationibus existimat pie credendum, 
+      <lb ed="#H" n="133"/>n iis non errare Ecclesiam Melchior Canus lib. quarto locorum 
+      Con<lb ed="#H" n="134" break="no"/>mun. cap. quarto ait, Ecclesiam errare posse in iis rebus, quae non sunt 
+      <lb ed="#H" n="135"/>illi a Deo revelatae, ideo Ecclesiam etiam credere posse quae non sunt 
+      <lb ed="#H" n="136"/>ei revelata ac in iis ertrare, sed errore probabili, qui nec fidem 
+      excuti<lb ed="#H" n="137" break="no"/>at, nec veritatem Ecclesiae tollat. Aiphonsus libro sexto contra 
+      hae<lb ed="#H" n="138" break="no"/>reses fatetur. Ecclesiam errate posse in iis quae ad fidem non 
+      perti<lb ed="#H" n="139" break="no"/>nent, nempe errate posse in facto, sed non in jure &amp; dogmate. 
+      Ea<lb ed="#H" n="140" break="no"/>mundus Campianus Iesuita in Colloquio secundi diei similiter 
+      fase<lb ed="#H" n="141" break="no"/>sus est, Ecclesiam in facto errare posse, veluti damnare innocentem 
+      <lb ed="#H" n="142"/>Epis: opum &amp; nocentem absul vere. Alii excipiunt decantato illo 
+      <lb ed="#H" n="143"/>axiomate Pontificio Ecclesiam non posse errare: sed illud facilius 
+      di<lb ed="#H" n="144" break="no"/>citur, quam intelligitur, ne dum probatur: quod ostendit 
+      discre<lb ed="#H" n="145" break="no"/>pantia interpretationum axiomatis istius. Nos distinguimus 
+      du<lb ed="#H" n="146" break="no"/>liciter. Primo Ecclesia in se considerata &amp; sibiij si relicta a Deo: 
+      <lb ed="#H" n="147"/>non tantum potest errate sed etiam a Deo deficere, ut ostendit 
+      ex<lb ed="#H" n="148" break="no"/>emplum Ecclesiae omnium primae &amp; integrae in Paradiso. Nam 
+      <lb ed="#H" n="149"/>damus &amp; Eva repraesentabant tum Ecclesiam universalem, 
+      il<lb ed="#H" n="150" break="no"/>li vero &amp; in ipsis universi homines a Deo defecerunt. 
+      Conside<lb ed="#H" n="151" break="no"/>rata vero ut est in Christo &amp; quando eum sequitur, non potest 
+      er<lb ed="#H" n="152" break="no"/>rare, juxta illud Christi, Ego sum lux illa mundi, qui sequitur me, non 
+      <lb ed="#H" n="153"/>imbulabit in tenebris, sed habebit lumen vitae, Joh. 8. vers. 12. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e205">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Deinde rursus distinguenda est Ecclesia particularis ab universali. 
+      <lb ed="#H" n="155"/>Ecclesia quaelibet particularis non modo errare, sed etiam erroribus 
+      <lb ed="#H" n="156"/>obrui &amp; plane a Christo deficere potest, ut exempla testantur: 
+      Eccle<lb ed="#H" n="157" break="no"/>siam autem vere Catholicam seu universalem, quae tantum 
+      electo<lb ed="#H" n="158" break="no"/>rum est ad vitam aeternam, concedimus errare non posse cum 
+      qua<lb ed="#H" n="159" break="no"/>druplici restrictione scilicet; primo quando vocem Pastoris sui 
+      Chri<lb ed="#H" n="160" break="no"/>sti in Sacris literis sonantem audit &amp; sequitur juxta illud Joh. 10. ver. 
+      <lb ed="#H" n="161"/>4, 5ιO ves eum sequuntur, quia norunt vocem eius. Alienum autem 
+      <lb ed="#H" n="162"/>nequaquam sequentur, sed fugient ab eo: quia non norunt vocem 
+      alie<lb ed="#H" n="163" break="no"/>norum. &amp; v. 27. Oves illae mea vocem meam audiunt, &amp; ego eas 
+      agnosce<lb ed="#H" n="164" break="no"/>&amp; sequuntur me. Secundo, Ecclesia vere Catholica non potest errare. 
+      <lb ed="#H" n="165"/>scilicet in absolute necessariis ad salutem, ac proinde errores funda, 
+      <lb ed="#H" n="166"/>mentum evertentes non habet nec habere potest, propter 
+      promis<lb ed="#H" n="167" break="no"/>sionem Christi, Matth. 16. v. 18. Super hanc petram aedificabo 
+      Eccle<lb ed="#H" n="168" break="no"/>siam meam &amp; portae inferorum non superabunt eam: at in levioribus 
+      <lb ed="#H" n="169"/>rebus &amp; non necessariis ad salutem potest errate, sed erroribus non 
+      e<lb ed="#H" n="170" break="no"/>pertentibus fundamentum. Tertio dicimus Ecclesiam vere Catholis 
+      <lb ed="#H" n="171"/>eam errate non posse, scil. totam, tum quia semper Deus sibi servas 
+      <lb ed="#H" n="172"/>testes &amp; praecones veritatis suae &amp; qui eam profiteantur ac retineant  
+      <lb ed="#H" n="173"/>nata illud, Ecclesiam esse colum tam &amp; stabilimentum veritatis 1. Fim; 
+      <lb ed="#H" n="174"/>3. v. 15 Hanc ipsam restrictionem affert Iohannes de Turrecremata 
+      <lb ed="#H" n="175"/>Cardinalis lib. secundo Summae de Ecclesia cap. 91. &amp; li. 3. cap. 6o. 
+      Se<lb ed="#H" n="176" break="no"/>cundum Patrum doctrinam sic accipiendum qued dicimus, non posse 
+      <lb ed="#H" n="177"/>errare Ecclesiam in fi de &amp; moribus, nempe quod Deus ita assistat Ecclesiae 
+      <lb ed="#H" n="178"/>usque ad consummationem seculi, ut nunquamvero fides deficiat in ea: 
+      Nul<lb ed="#H" n="179" break="no"/>lum enim fore tepus usque ad finem seculi, quo non sint aliqui, etsi non 
+      o<lb ed="#H" n="180" break="no"/>mnes, veram fidem per dilectionem operantem habentes: Tum quia in 
+      <lb ed="#H" n="181"/>hac vita nunquam fuit, nunquam est, nunquam erit simul cota: sed  
+      <!--cod-MkL9py-0061.xml-->
+      <pb ed="#H" n="36"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>demum tora simul erit in extremo die, quum eam Christus addu 
+      <lb ed="#H" n="2"/>cet &amp; sistet Patri, 1. Corin. 15. Quarto dicimus, Ecclesiam vere 
+      Ca<lb ed="#H" n="3" break="no"/>tholicam errare non posse, scilicet finaliter. Etsi enim in re aliqua 
+      <lb ed="#H" n="4"/>falli &amp; errate potest, tamen in mortifero errore ad finem persistero 
+      <lb ed="#H" n="5"/>non potest: ut Ecclesia Jerosolymitana ex Apostolis &amp; discipulis 
+      <lb ed="#H" n="6"/>Christi co lecta erravit, cum cred dit Christi regnum terrestre 
+      futu<lb ed="#H" n="7" break="no"/>rum, Actor 1. vers. 6. sed in errore eo Christus Ecclesiam permane. 
+      <lb ed="#H" n="8"/>re passus non est. Itaque fatendum est, Ecclesiam universalem errare 
+      <lb ed="#H" n="9"/>posse atque aliquando errasse. Falli autem &amp; errate nunquam posse 
+      <lb ed="#H" n="10"/>solius Dei est, 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e298">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>DECIMUMOCTAVUM: Quisquis tantum declavat, 
+      Scriptu<lb ed="#H" n="12" break="no"/>ram Sacram esse authenticam, sed non facit authenticam, ab eo 
+      Scri<lb ed="#H" n="13" break="no"/>pturae Sacrae autoritas nullo modo pendt, ne quidem quoad nos. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e309">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>At Ecclesia tantum declavat, Scripturam Sacram esse authenticam, 
+      <lb ed="#H" n="15"/>non autem facit eam authenticam: 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e318">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Ergo, &amp;c. 
+      <lb ed="#H" n="17"/>Maior certa est, quia authenticum dici nihil potest quod nulli 
+      au<lb ed="#H" n="18" break="no"/>n thenticum videatur. Illud enim authenticum dicitur, quod sibi ad fi¬ 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e329">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>dem sufficit, quod ex se autoritatem habet, quod seipsum commen 
+      <lb ed="#H" n="20"/>dat, sustinet, probar 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e339">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Minor vera est adversariorum confessione. 
+      <lb ed="#H" n="22"/>DECIMUMNONUM: A quocunque Scripturae Sacrae 
+      auto<lb ed="#H" n="23" break="no"/>ritas quoad nos pendet, id necessario &amp; perpetuo efficit ut Scriptura 
+      Sa<lb ed="#H" n="24" break="no"/>tra apud nos autoritatem authenticam obtineat.  
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e352">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>At Ecclesia non efficit necessurio &amp; perpetuo, ut Scriptura Saera 
+      a<lb ed="#H" n="26" break="no"/>pud nos autoritatem authenticam obtineat: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e361">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>De maiore propositione dubitatio esse nulla potest: quia posita 
+      ve<lb ed="#H" n="28" break="no"/>ra, propria, necessaria &amp; sufficiente causa authenticae illius autoritatis 
+      <lb ed="#H" n="29"/>quam Scriptura Sacra apud nos obtinet, effectum ipsum poni 
+      ne<lb ed="#H" n="30" break="no"/>cesse est; Ut a Spiritus Sancti interno testimonio Sacrae Scripturae 
+      <lb ed="#H" n="31"/>autoritas quoad nos pendet, propterea Spiritus Sanctus necessario 
+      <lb ed="#H" n="32"/>&amp; porpetuo efficit ut Scriptura Sacra apud nos autoritatem 
+      authen<lb ed="#H" n="33" break="no"/>ticam obtineat.  
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e381">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Minorem propesitionem experientia confirmat. Ecclesia enim 
+      pri<lb ed="#H" n="35" break="no"/>mitiva non potuit persuadere innumeris Philosophis &amp; aliis 
+      gentili<lb ed="#H" n="36" break="no"/>bus ut Scripturam Propheticam &amp; Apostolicam pro divina &amp; 
+      reli<lb ed="#H" n="37" break="no"/>gionis divinae Canone agnoscerent: quod testantur tot 
+      persecutio<lb ed="#H" n="38" break="no"/>nes contra Christianos motae, tot scriptiones &amp; calumniae contra 
+      Eo<lb ed="#H" n="39" break="no"/>clesiam Christianam disseminatae, tot scripta Ecclesiastica Gentili 
+      <lb ed="#H" n="40"/>bus opposita, ut Justini Martyris, Athenagorae Atheniensis, Tertul 
+      <lb ed="#H" n="41"/>liani, Lactantii, Arnobii adversus Gentes, Athanasii contra 
+      Genti<lb ed="#H" n="42" break="no"/>les, Theodoreti de curatione Graecarum affectionum &amp; aliorum. 
+      <lb ed="#H" n="43"/>Tum multis etiam Christianum nomen profitentibus, videlicet 
+      hae<lb ed="#H" n="44" break="no"/>reticis, non potuit persuadere Ecclesia ut eos libros Propheticos &amp; 
+      <lb ed="#H" n="45"/>Apostolicos quos rejiciebant, pro vere divinis agnoscerent &amp; 
+      habe<lb ed="#H" n="46" break="no"/>rent, ut abunde patet ex Bellarmini libro primo de verbo Dei, capi 
+      <lb ed="#H" n="47"/>te quinto &amp; sexto, in quibus agit de haereticis qui libros Testament. 
+      <lb ed="#H" n="48"/>Veteris &amp; Novi oppugnabant. Similiter Ecclesia suo testimonio ne 
+      <lb ed="#H" n="49"/>potuit efficere, ut Scriptura Novi Testamenti apud Judaeos pro 
+      di<lb ed="#H" n="50" break="no"/>vina haberetur. Quin etsi Ecclesia adhuc constanter testetur &amp; 
+      as<lb ed="#H" n="51" break="no"/>severet, Scripturam Propheticam &amp; Apostolicam esse vere divinam 
+      <lb ed="#H" n="52"/>&amp; Canonicam: tamen hoc non potest efficere apud innumeram 
+      <lb ed="#H" n="53"/>multitudinem hominum, utpote apud Turcas, Saracenos &amp; alios 
+      <lb ed="#H" n="54"/>Gentiles, ut eam pro tali habeant &amp; suscipiant 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e431">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>VIGESIMUM: A quocunque Sacrae Scripturae autoritas quoaa 
+      <lb ed="#H" n="56"/>nos pendet, ab eo fidem, qua Scripturae Sacrae ut verbo Dei credimus, 
+      no<lb ed="#H" n="57" break="no"/>bis infundi necesse est: 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e442">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Atqui ab Ecclesia fides qua Scripturae Sacrae ut verbo Dei credimus 
+      <lb ed="#H" n="59"/>nobis non infunditur, neque vero etiam infundi potest;. Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e452">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>Maior propositio sic probatur: Quicquid est proxima, immediata &amp; 
+      <lb ed="#H" n="61"/>sufficiens causa, quae vi sua efficit ut Scripturam Propheticam &amp; A 
+      <lb ed="#H" n="62"/>postolicam acceptemus, ab eo profecto fides illa nobis infunditur? 
+      <lb ed="#H" n="63"/>inseritur. ingeneratur: Ratio est, quia Scripturae ut verbo Dei non 
+      po<lb ed="#H" n="64" break="no"/>test quisquam credere sine fide infusa. Jam vero id a quo Scriptura 
+      <lb ed="#H" n="65"/>Propheticae &amp; Apostolicae autoritas quoad nos pendet, &amp; proxima 
+      <lb ed="#H" n="66"/>immediata &amp; sufficiens causa quae vi sua efficit ut Scripturam 
+      Pro<lb ed="#H" n="67" break="no"/>pheticam &amp; Apostolicam acceptemus. Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e474">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Minor propositio adversariorum confessione vera est. Quod enim 
+      <lb ed="#H" n="69"/>a solo Deo in nobis generatur, id ab Ecclesia nobis non infunditur 
+      <lb ed="#H" n="70"/>credimus, a solo Deo in nobis generatur: Ergo ab Ecclesia nobis non 
+      <lb ed="#H" n="71"/>infunditur. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e487">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Assumtio prosyllogismi, quo propositio minor probatur, certissima 
+      <lb ed="#H" n="73"/>At fides, quam Scripturae Propheticae &amp; Apostolicae ut verbo Dei 
+      <lb ed="#H" n="74"/>est: quia etsi mitacula quis edat maxima; tamen nemo credit ei, nisi 
+      <lb ed="#H" n="75"/>is cujus cordi fidem Deus inspirat, ut constat ex Deuteronom. 29. 
+      <lb ed="#H" n="76"/>vers. 2. 3. 4. Convocans Moses omnes Israelitas, dixit eis; Vos vidisti 
+      <lb ed="#H" n="77"/>omnia quae fecit Iehova ante oculos vestros in terra EEgypti, Pharaon 
+      <lb ed="#H" n="78"/>&amp; omnibus servis eius, totique regioni eius: Probationes illas maximas 
+      <lb ed="#H" n="79"/>quas viderunt oculi tui, signa &amp; prodigia illa maxima. Sed non 
+      dede<lb ed="#H" n="80" break="no"/>rat vobis Iehoua cor ad cognoscendum, &amp; oculos ad videndum, &amp; 
+      au<lb ed="#H" n="81" break="no"/>res ad audiendum, usque in diem hunc. Ita Pharisaei &amp; Scribae &amp; 
+      alii<lb ed="#H" n="82" break="no"/>Judaei plurima miracula Christi v derunt, nec tamen Christo &amp; 
+      Apo<lb ed="#H" n="83" break="no"/>stolis crediderunt: multo minus igitur crederetur Ecclesiae, nude 
+      ali<lb ed="#H" n="84" break="no"/>quid asseveranti. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e520">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>VINESIMUMPRILUM: Quod recentius est quam Scriptura 
+      <lb ed="#H" n="86"/>Sacra, ab eius testimontio Scripturae Sacrae autoritas nullo modo 
+      pen<lb ed="#H" n="87" break="no"/>dete 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e531">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>At Ecclesia est recentior quam Scriptura Sacra: Ergo, &amp;c. 
+      <lb ed="#H" n="89"/>Moior per se clara est: 
+      <lb ed="#H" n="90"/>Minor inde patet; quia etiam prima omnium Ecclesia, quae in 
+      Pa<lb ed="#H" n="91" break="no"/>tadiso fuit, exstitit per &amp; post verbum Dei, &amp; quidem non aliud 
+      <lb ed="#H" n="92"/>verbum Dei, quam illud ipsum quod jam in Scriptura continetur: 
+      <!--cod-MkL9py-0061.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>Ecclesiam vero hodiernam, imo quaecunque post Apostolorum 
+      te<lb ed="#H" n="94" break="no"/>pora fuit, posteriorem esse Scriptura &amp; quoad substantiam, hoc 
+      <lb ed="#H" n="95"/>est, verbum Dei, seu doctrinam ipsam calestem: &amp; quoad 
+      acci<lb ed="#H" n="96" break="no"/>dens, hoc est, scriptionem eius, extra controversiam est, ut supra 
+      di<lb ed="#H" n="97" break="no"/>ctum 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e562">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>VIGESIMUMSECUNDUM. Quod ipsummet Scripturae Sacrae 
+      testi<lb ed="#H" n="99" break="no"/>monio eget &amp; nititur, ab eo nullo modo Scripturae Sacrae autoritas 
+      pen<lb ed="#H" n="100" break="no"/>det 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e574">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>At Ecclesia ipsamet Scripturae Sacrae testimonio eget &amp; nicitur: 
+      Er<lb ed="#H" n="102" break="no"/>S&amp; 
+      <lb ed="#H" n="103"/>Maior propositio per se vera est 
+      <lb ed="#H" n="104"/>Mnor inde patet, quia Ecclesia, se esse veram atque orthodoxam 
+      Ec<lb ed="#H" n="105" break="no"/>clesiam, probat testimonio Scripturae, nec aliunde id probare 
+      po<lb ed="#H" n="106" break="no"/>est. Sicut Chrysostom? in Matthaeum homilia quadragesimanona in 
+      o<lb ed="#H" n="107" break="no"/>pere imperfecto tertii tomi, pagina septingentesima 
+      vigesimasecun<lb ed="#H" n="108" break="no"/>dam Edit. Frobenianae Anni 1530. ait: Nulla probatio potest esse verae 
+      <lb ed="#H" n="109"/>Christianitatis, neque refugium potest esse Christianorum aliud, 
+      vo<lb ed="#H" n="110" break="no"/>lentium cognoscere fidei veritatem, nisi Scripturae diuinae. Antea enim 
+      <lb ed="#H" n="111"/>multis modis (viva voce Apostolorum, mitaculis ipsorum, prophae 
+      <lb ed="#H" n="112"/>tiis seu praedictionibus futurorum &amp; Scripturis SacrisJ 
+      ostendeba<lb ed="#H" n="113" break="no"/>tur, quae esset Ecclesia Christi &amp; quae Gentilitas: nunc autem nullo 
+      mo<lb ed="#H" n="114" break="no"/>do cognoscitur volentibus cognoscere quae sit vera Ecclesia Christi, nist 
+      <lb ed="#H" n="115"/>tantummodo per Scripturas. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e611">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>VIGESIMUMTERTIUM: Quodcunque testimonium 
+      vari<lb ed="#H" n="117" break="no"/>um &amp; a seipso dissidens ac proinde dubium, incertum &amp; fallax ist, ab eo 
+      <lb ed="#H" n="118"/>profecto autoritas Scripturae Sacrae nullo modo pendet 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e622">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>At testimonium Ecclesiae est varium &amp; a seipso dissidens ac proinde 
+      <lb ed="#H" n="120"/>dubium, incertum &amp; fallax: Ergo, &amp;c. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e631">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>Major extra controuersiam est; quia fidoi infallibilis debet esse 
+      in<lb ed="#H" n="122" break="no"/>fallibile fundamentum 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e640">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Minor inde patet; quia Ecclesia de libris Scripturae varie &amp; 
+      dis<lb ed="#H" n="124" break="no"/>crepanter statuit, quosdam libros modo ex divinorum censu 
+      ex<lb ed="#H" n="125" break="no"/>cludens, modo in cum recipiens: quod probat iudiciorum 
+      Eccle<lb ed="#H" n="126" break="no"/>siae de divinis Scripturis collatio. Mox post tempora Apostolo 
+      <lb ed="#H" n="127"/>rum, Ecclesia Graeca aliter pronunciavit de quibusdam libris, 
+      <lb ed="#H" n="128"/>quam Latina. Graeca epistolam ad Hebraeos pro divina agnovit, 
+      <lb ed="#H" n="129"/>Latina non agnovit, sicut testatur Hieronynius tomo quinto, 
+      Com<lb ed="#H" n="130" break="no"/>mentariis in sextum caput Esaiae, pagina trigesimaquinta Editionis 
+      <lb ed="#H" n="131"/>Frobenianae Anni 1525. ubi ait, Unde &amp; Pautus Apostolus in epistola 
+      <lb ed="#H" n="132"/>ad Hebraeos, quam Latina consuetudo non recipit, Nonne omnes, 
+      in<lb ed="#H" n="133" break="no"/>quit ministri sunt spiritus? Et tomo epistolarum tertio, epistola ad 
+      <lb ed="#H" n="134"/>Dardanum pag. sexagesimanona editionis Frobenianae Anni 1524. 
+      <lb ed="#H" n="135"/>ait, Quod si eam (nempe epistolam ad Hebraeos) Latinorum 
+      con<lb ed="#H" n="136" break="no"/>suetudo non recipit inter Scripturas Canonicas, neque Graecorum 
+      qui<lb ed="#H" n="137" break="no"/>dem Ecclesiae Apocalypsin Iohannis eadem libertate suscipiunt. 
+      Pro<lb ed="#H" n="138" break="no"/>inde Ecclesia Latina, hoc est, Romana aut olim erravit in epistola 
+      <lb ed="#H" n="139"/>ad Hebraeos repudianda, aut nunc errat in ea suscipienda. Concilium 
+      <lb ed="#H" n="140"/>Laodicenum confirmatum a Sexta Synodo Generali, e numero 
+      di<lb ed="#H" n="141" break="no"/>vinorum librorum exclusit librum Tobiae, Judithae, Sapientiae 
+      Sa<lb ed="#H" n="142" break="no"/>lomonis, Ecclesiastici seu Jesu Syrachi, Machabaeorum. Ante 
+      Con<lb ed="#H" n="143" break="no"/>cilium fecerunt idem Melito Sardensis Ecclesiae antistes, Origenes 
+      <lb ed="#H" n="144"/>Athanasius in Synopsi Sacrae Scripturae, Gregorius Nazianzenus; 
+      <lb ed="#H" n="145"/>&amp; post Concilium Hieronymus, Ruffinus Aquilejensis, 
+      Epiphani<lb ed="#H" n="146" break="no"/>us, Johannes Damascenus &amp; alii, ut alibi ostensum. At Concilium 
+      <lb ed="#H" n="147"/>Carthaginense tertium, Canone quadragesimoseptimo, quam 
+      <lb ed="#H" n="148"/>quam is adulterinus est, mutato judicio eosdem libros divinos &amp; 
+      Ca<lb ed="#H" n="149" break="no"/>nonicos fecit, quem adulterinum Canonem secutum est Concilium 
+      <lb ed="#H" n="150"/>Tridentinum &amp; ipsum adulterinum vel potius adulterum, cum 
+      spi<lb ed="#H" n="151" break="no"/>rituale adulterium confirmaverit. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e708">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Olim contradictum fuit epistolis quibusdam veluti Jacobi &amp; 
+      Ju<lb ed="#H" n="153" break="no"/>dae, &amp; posteriori Petri &amp; secundae &amp; terriae Johannis, ut patet ex 
+      Eu<lb ed="#H" n="154" break="no"/>sebii libro secundo Historiae Ecclesiasticae, capite vigesimotertio, ubi 
+      <lb ed="#H" n="155"/>de epistola Jacobi ait, ἐσεον ως νοθευεται μιν. κ πολλει γῆν τῶν παναι 
+      <lb ed="#H" n="156"/>ἀθτης εμγημονδυσαν, ως κδε τῆς λεγομινης ικδα. hoc est, Sciendum, eam 
+      <lb ed="#H" n="157"/>esse adulterinam, non multi quippe antiquorum eius meminerunt, vi 
+      <lb ed="#H" n="158"/>neque epistola quae dicitur Iudae. Et Hieronymus in Catalogo 
+      scripto<lb ed="#H" n="159" break="no"/>rum Ecclesiasticorum de ea ait, quod ipsa ab alio quodam sub lacobi 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e731">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>omine edita asseritur.  
+      <lb ed="#H" n="161"/>n 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e740">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>ExCIPIT Duraeus, Eusebium fiaudulenter citari, Hieronymum 
+      <lb ed="#H" n="163"/>Ivero mutilum: Eusebium hoc sibi velle, a quibusdam hanc 
+      episto<lb ed="#H" n="164" break="no"/>lam non haberi Jacobi; Eam tamen a plutimis Ecclesiis receptam 
+      <lb ed="#H" n="165"/>esse; Eusebium etiam de autore epistolae hujus minime dubi asse: 
+      <lb ed="#H" n="166"/>Hieronymum vero illico superioribus verbis addere, (icet paulatim 
+      <lb ed="#H" n="167"/>tempore procedente obtinuit autoritatem, 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e758">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>REPLICATIO nostra. Duraeus vim &amp; verbis &amp; sententiae 
+      Fuse<lb ed="#H" n="169" break="no"/>bii manifestam affert, vθευν ος enim libri dicuntur, non qui alterius 
+      <lb ed="#H" n="170"/>esse autoris putantur, quam illius cui vulgo adscribuntur, sed qui 
+      <lb ed="#H" n="171"/>sunt adulterini 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e771">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Quapropter Eusebius non ait, a quibusdam non haberi seu 
+      reci<lb ed="#H" n="173" break="no"/>pi pro Jacobi epistola: sed τοῦ ἐακωρκη πξῶτη τῶν σνεμαζομεναν καθε¬ 
+      <lb ed="#H" n="174"/>λικῶν ἐπισολῶών ειιαι λεγεταμ,εσοον ως vοθευεταμ μεν. hoc est, lacebi, 
+      pri<lb ed="#H" n="175" break="no"/>ma earum quae nomin intur Catholicae epistolae, esse dicitur. Mex 
+      pa<lb ed="#H" n="176" break="no"/>lam suum judicium verbis apertissimis declarat; Sccendum esse 
+      ad<lb ed="#H" n="177" break="no"/>ulterinam quidem. Quod deinde subjungit Eusebius, Sc nd ui 
+      ta<lb ed="#H" n="178" break="no"/>men, eam publ ce a purimis Ecclesiis receptam esse: Ex eo non potest. 
+      <lb ed="#H" n="179"/>concludi, illam divinam &amp; Canonicam esse judicatam ab Tusebio, 
+      <lb ed="#H" n="180"/>quia libro tertio, capit vigesimo tertio etiam librum Pastoris, quem 
+      <lb ed="#H" n="181"/>Hermae vulgo tribuunt, ait δεδημοσιδυμινον, hoc est, publite receptam, 
+      <lb ed="#H" n="182"/>uem tamen ἐν νυτυις numerat. Quo in capite etiam epistolam 
+      Jaco<lb ed="#H" n="183" break="no"/>bi non refert inter libros Novi Testamenti oμολογημιιες, hoc est, 
+      <lb ed="#H" n="184"/>certos &amp; exploratos, qui omnium confessione sunt divini &amp; 
+      Cano<lb ed="#H" n="185" break="no"/>nici, sed inter αυτιλεγειιίνος, hoc est, dubios, controversos, quibus 
+      <!--cod-MkL9py-0062.xml-->
+      <pb ed="#H" n="37"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>contradicitur. Nequaquam vero αν τλεγοθυοις libris illam 
+      accensuis<lb ed="#H" n="2" break="no"/>set, si A Jacobo Apostolo scriptam judicasset. 
+      <lb ed="#H" n="3"/>In allegatione Hieronymi nihil mutilatum: tum verba quae 
+      Pu<lb ed="#H" n="4" break="no"/>raeus addenda fuisse censet, nostram causam magis juvant. Nam 
+      <lb ed="#H" n="5"/>epistola Jacobi paulatim procedente tempore autoritatem obtinuit: 
+      <lb ed="#H" n="6"/>ergo autoritate aliquando caruit. De eadem epistola &amp; aliis vide 
+      si<lb ed="#H" n="7" break="no"/>milia apud Eusabium libro tertio Ecclesiast. Historiae, apite 
+      vigesi<lb ed="#H" n="8" break="no"/>moquarto &amp; sequenti Editionis Graecae Parisinae Roberti Stephani 
+      <lb ed="#H" n="9"/>ubi commemorat, illas eν αυηλεγομλσις esse, hoc est, quibus passim 
+      <lb ed="#H" n="10"/>conitadicitur tanquam non Apostolicis, at nunc pro vere divinis &amp; 
+      <lb ed="#H" n="11"/>Canonicis habentur. Quid hoc judicio &amp; testimonio Ecclesiae de 
+      li<lb ed="#H" n="12" break="no"/>biis sacris instabilius? tam instabile judicium an erit fidei nostrae 
+      in<lb ed="#H" n="13" break="no"/>fallibile fundamentum? &amp; a tam vario incertoque testimonio an 
+      Scri<lb ed="#H" n="14" break="no"/>turae Sacrae autoritas pendebit 
+      <lb ed="#H" n="15"/>VIGESIMUM QUARTUM: Quodcunque dogma est 
+      im<lb ed="#H" n="16" break="no"/>bium, perniciosum, ansurdum &amp; ἀτυστάτον, illud pro fecto est 
+      emproban<lb ed="#H" n="17" break="no"/>dum At Sa ra Scripturae autoritatem saltem quead nos, ex solius 
+      Eccle<lb ed="#H" n="18" break="no"/>siae testimonio pendere, est dogma impium, perniciosum, absurdum &amp; 
+      <lb ed="#H" n="19"/>ἀδθςτάτον: Ergo est improbandum. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e854">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Esse impium probo: primo, quia verbum Dei hominum arbitrio. 
+      <lb ed="#H" n="21"/>&amp; Deum hominibus ausu nefario subjicit, ut vel Deus nobis 
+      loqui<lb ed="#H" n="22" break="no"/>non credatur, vel Deo nobi, loquenti fides non habeatur, nisi 
+      quan<lb ed="#H" n="23" break="no"/>do &amp; quantum hominibus, qui Ecclesiae titulum gerunt, placuerit.  
+      <lb ed="#H" n="24"/>At istud blasphemum &amp; contumeliosum est in Deum, &amp; nihil 
+      diffe<lb ed="#H" n="25" break="no"/>rens ab etrote Gentilium, qui pro Deo coli non patiebantur 
+      Chri<lb ed="#H" n="26" break="no"/>stum, eo quod Senatus Romanus eum non declarasset Deum, sicut 
+      <lb ed="#H" n="27"/>Tertullianus scripsit in Apologetico adversus Gentes, capite quinto 
+      <lb ed="#H" n="28"/>Vetus erat decretum ne qui Deus ab Imperatore consecraretur, nisi a 
+      <lb ed="#H" n="29"/>Senatu probatus, ut M Aemilius de Deo suo Alburno. Facit &amp; hoc ad 
+      <lb ed="#H" n="30"/>causam nostram, quod apud vos de humano arbitratu diuvinitas 
+      pensa<lb ed="#H" n="31" break="no"/>tur. Nisi homini Deus placuerit, Deus non erit, homo iam Deo propitius 
+      <lb ed="#H" n="32"/>esse debebit. Tiberius ergo, cuius tempore nomen Christianum in saculum. 
+      <lb ed="#H" n="33"/>introivit, annunciatum sibi ex Syria Palaestina, quod illic veritatem 
+      il<lb ed="#H" n="34" break="no"/>lius diuvinitatis revelaverat, derulit ad Senatum cum praerogativa 
+      suf<lb ed="#H" n="35" break="no"/>fragii sui. Senatus quia non in se probaverat, respuit. Caesar in sententia. 
+      <lb ed="#H" n="36"/>mansit, comminatus vericulum accusatoribus Christi inorum. 
+      Genti<lb ed="#H" n="37" break="no"/>lem Senatum Romanum imitatur Cardinalium &amp; Episcoporum 
+      <lb ed="#H" n="38"/>Romanensium Senatus, nisi autoritatem divinam ipse Scripturae 
+      tri<lb ed="#H" n="39" break="no"/>buat, eamque suo judicio approbet, Scriptura divina nobis non erit 
+      <lb ed="#H" n="40"/>Ita apud Papanos de humano arbitratu divinitas Scripturae pensatur. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e904">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>EXCIPIUNT Papani; Scripturam Ecclesiae subucere, non esse 
+      <lb ed="#H" n="42"/>idem quod hominibus eam subi cere 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e914">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>REPLIC. Ista exceptio falsa est: quia Ecclesia quid aliud est, 
+      <lb ed="#H" n="44"/>uam coetus hominum? Tolle hom, nes, &amp; ubi erit Ecclesia Ergo est 
+      <lb ed="#H" n="45"/>unum &amp; idem, Scripturam subjicere Ecclesiae, &amp; eandem subjicere 
+      <lb ed="#H" n="46"/>hominibus. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e927">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Secinoo probo dogma istud Papanum esse impium hoc 
+      argumen<lb ed="#H" n="48" break="no"/>to, quia si Sacrae Scripturae autoritas div na quoad nos ex solius 
+      Ec<lb ed="#H" n="49" break="no"/>clesiae testimonio pendet, tum inter Propheticos &amp; Apostolicos libros 
+      <lb ed="#H" n="50"/>&amp; inter alcoraniblasphemias, nullum diicrimen relinquitur quoa, 
+      <lb ed="#H" n="51"/>nos, nisi quantum Ecclesia id facit. Atqui istud impium est: quoniam 
+      <lb ed="#H" n="52"/>hoc pacto Deia diabolo, veritas a mendacio, quoad nos differre 
+      <lb ed="#H" n="53"/>non plus fingitur, nisi quantum fert hominum, qui titulum Ecclesiae 
+      <lb ed="#H" n="54"/>sibi arrogant, judicium. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e949">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Idem dogma est perniciosum: quia duo pericula evidentia 
+      secum<lb ed="#H" n="56" break="no"/>trahit. Vnum est, quod omnem certitudine fidei &amp; salutis nostrae 
+      con<lb ed="#H" n="57" break="no"/>vellit, siquidem ideo tantum CERTO credimus, Scripturam esse divi 
+      <lb ed="#H" n="58"/>nam quia homines, qui se Ecclesiam vocant, sic volunt &amp; jubent nos 
+      <lb ed="#H" n="59"/>credere. Alterum, quod uniuersam religionem Christianam funditusr 
+      <lb ed="#H" n="60"/>evertit, &amp; Judaeorum ac Turcarum aliorumque impiorum ludibriis atque 
+      <lb ed="#H" n="61"/>sannis exponit, si ipsorum ora obturare volentes, ideo tantum nobis credi 
+      <lb ed="#H" n="62"/>postulemus, Scriptura hanc esse divinitus traditam, quia nos, qui 
+      Ec<lb ed="#H" n="63" break="no"/>clesia sumus, id affirmamus, Si enim tantum ideo certo credendum est, 
+      <lb ed="#H" n="64"/>Deum vere loqui in Scriptura Sacra, quia Ecclesia Christiana sic 
+      ju<lb ed="#H" n="65" break="no"/>dicat; universa nostra religio stat super testimonio nostro proprio, &amp; 
+      <lb ed="#H" n="66"/>nihilo plus firmitatis habet, quam Turcica, quae similiter stat 
+      supe<lb ed="#H" n="67" break="no"/>testimonio ipsorum proprio, hoc est, super arena: &amp; pari jure Turcae 
+      <lb ed="#H" n="68"/>postulabunt, ut Deum in Alcorano loqui credamus propter 
+      testi<lb ed="#H" n="69" break="no"/>monium ipsorum, quo nos postulamus ut Deum loqui in Scripturis 
+      <lb ed="#H" n="70"/>Propheticis &amp; Apostolicis, credatur propter testimonium nostrum. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e988">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Idem dogma est abiurdum &amp; ridiculum: quia Ecclesia, propter 
+      <lb ed="#H" n="72"/>cujus testimonium volunt nos credere, &amp; ipsi ajunt se credere 
+      Scri<lb ed="#H" n="73" break="no"/>pturas Propheticas &amp; Apostolicas esse divinas, est Papa cum 
+      Cardi<lb ed="#H" n="74" break="no"/>nalibus &amp; aliis Praelatis Romanensibus. Credunt igitur ipsi (si mode 
+      <lb ed="#H" n="75"/>credunt) Scripturas esse divinas, propter testimonium ecclesiae, hoc  
+      <lb ed="#H" n="76"/>est, suum &amp; antecessorum suorum: quod quid aliud est, quam quia sit 
+      <lb ed="#H" n="77"/>ipsis placuit &amp; pacet? quo nihil absurdius in rebus etiam humanis 
+      ne<lb ed="#H" n="78" break="no"/>dum divinis Et nos volunt credere, Scripturam esse divinam, propter 
+      <lb ed="#H" n="79"/>ejusdem Ecclesiae testimonium, hoc est, ideo quia Papae &amp; Cardinalis 
+      <lb ed="#H" n="80"/>bus, aiit que Praelatis Romanensibus probatur: Atque sic revera non 
+      <lb ed="#H" n="81"/>volunt nos credere Scripturae aut Deo, sed sibi: quo rursus nihil 
+      ab<lb ed="#H" n="82" break="no"/>surdius &amp; magis ridiculum. Summa, Omnes qui credunt &amp; alios 
+      vo<lb ed="#H" n="83" break="no"/>lunt credere, Scripturam aliquam esse divinam, quia ipsi sic judicam 
+      <lb ed="#H" n="84"/>&amp; testantur, faciunt absurde &amp; ridicule. Rietio est, quia propter suum 
+      <lb ed="#H" n="85"/>ipsorum testimonium credunt &amp; alios credere volunt. At quempiam 
+      <lb ed="#H" n="86"/>testimonio proprio niti velle, stolidum est in rebus humanis, quante 
+      <lb ed="#H" n="87"/>magis in rebus civinis? Jam Papiste illud faciunt &amp; statuunt Nam 
+      Ec<lb ed="#H" n="88" break="no"/>clesiam, a cujut testimonio autorit: tem acripturae divinam pendere. 
+      <lb ed="#H" n="89"/>volunt, dicunt esse Papam cum Episcopis. Ecclesiam namque desiniun 
+      <lb ed="#H" n="90"/>dupliciter, collemive &amp; epraesentanive. Collecti: ve ipsis Ecclesia est mul 
+      <lb ed="#H" n="91"/>tonido profitentium fidem eandem &amp; utentium Sacramentis iildem 
+      <lb ed="#H" n="92"/>tui uno capite Pontifice Romino. Regrasentative autem ipsis Ecclo¬ 
+      <!--cod-MkL9py-0062.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>sia est Epscoporum Pontifici Romano adhaerentium multitudo, 
+      <lb ed="#H" n="94"/>prout in Concilio congregata cernitur. Posteriore tantum sensu 
+      Ec<lb ed="#H" n="95" break="no"/>clesiam faciunt judicem controversiarum interpretem Scripturarum 
+      <lb ed="#H" n="96"/>infallibilem, testem omni exceptione majorem, a quo Scripturarum 
+      <lb ed="#H" n="97"/>autoritas necessario pendeat. Utroque autem sensu Ecclesia tenetur 
+      <lb ed="#H" n="98"/>credere Scripturae propter testimonium Ecclesiae. Ergo Ecclesia 
+      col<lb ed="#H" n="99" break="no"/>ectiva credit Scripturam esse divinam propter testimonium Ecclesiae 
+      <lb ed="#H" n="100"/>repraesentativae; Ecclesia repraesentativa propter suum ipsius: quo 
+      ni<lb ed="#H" n="101" break="no"/>hil stolidius 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e1064">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Adhaec absurdum est in rebus divinis, fidem niti autoritate 
+      homi<lb ed="#H" n="103" break="no"/>num non habentium a Deo testimonium expressum, quod non 
+      er<lb ed="#H" n="104" break="no"/>rint. quale olim habuerunt Prophetae &amp; Apostoli. At Papistae volunt  
+      <lb ed="#H" n="105"/>ut fides nostra nitatur autoritate hominum non habentium a Deo. 
+      <lb ed="#H" n="106"/>testimonium expressum quod non errent 
+      <lb ed="#H" n="107"/>Denique idem dogma est συsατὸν dupliciter, quia cum aliis 
+      Papi<lb ed="#H" n="108" break="no"/>tarum dogmatibus tum veris tum falsis non consistit, sed cum illis 
+      <lb ed="#H" n="109"/>pugnat e.que evertit Vera dogmata sunt: Sacris Scripturis quae 
+      Pro<lb ed="#H" n="110" break="no"/>pheticis &amp; Apostolicis literis continentur, nihil esse notius, nihil 
+      <lb ed="#H" n="111"/>certius, ut stultissimum necesse sit qui illis fidem esse habendam 
+      ne<lb ed="#H" n="112" break="no"/>get: Scripturas illas esse verbum Dei constare ex testimonio ipsius, 
+      <lb ed="#H" n="113"/>met Scripturae: Sacram Scripturam esse regulam credendi 
+      certissi<lb ed="#H" n="114" break="no"/>mam tutissimamque, ut sanus profecto non fit, qui eam neglecta 
+      spiri<lb ed="#H" n="115" break="no"/>tus interni saepe fallacis &amp; semper incerti judicio se commiserit. Qua 
+      <lb ed="#H" n="116"/>dogmata vera Bellarminus asserit contra Schyvenr Efeldianos ac 
+      Li<lb ed="#H" n="117" break="no"/>bertinos libro primo de Verbo Dei, cap. secundo, seccione sexta &amp; 
+      <lb ed="#H" n="118"/>undecima &amp; decimatertia. At haec dogmata evertit praeiens 
+      assertit<lb ed="#H" n="119" break="no"/>Papistarum: nam si Scripturarum autori tas tantum a testimonia 
+      <lb ed="#H" n="120"/>Ecclesiae pendet saltem quoad nos, tum falsum erit, illis nihil esse 
+      no<lb ed="#H" n="121" break="no"/>ius: sequetur Scripturas ex Scripturarum testimonio non posse 
+      <lb ed="#H" n="122"/>probari: sequetur Scripturam non esse regulam credendi 
+      certissi<lb ed="#H" n="123" break="no"/>mam, tutissimamque, sed hanc laudem ad Ecclesiam pertinere. Alia 
+      <lb ed="#H" n="124"/>dogmata Papistarum, sed falsa, sunt; Scripturis probari autoritatem 
+      <lb ed="#H" n="125"/>illam Conciliorum quam Episcopi Papani illis tribuunt: item 
+      Ec<lb ed="#H" n="126" break="no"/>clesiam falli &amp; errare non posse: item Romanum Papam habere 
+      <lb ed="#H" n="127"/>primatum in Ecclesia universa, seu esse universae Ecclesiae Christiana 
+      <lb ed="#H" n="128"/>caput &amp; Monarcham: Quae dogmata passim Papistae ex Scripturis 
+      <lb ed="#H" n="129"/>adstruere nituntur, sed praesente assertione destruunt. Si enim hoc 
+      <lb ed="#H" n="130"/>verum est, Scripturae autoritatem, quoad nos, ab Ecclesiae 
+      autorita<lb ed="#H" n="131" break="no"/>te pendere, ac proinde Scripturis credendum a nobis propter 
+      Eccle<lb ed="#H" n="132" break="no"/>siae autoritatem; tum falsum erit, Ecclesiam esse audiendam, 
+      Eccle<lb ed="#H" n="133" break="no"/>siam errare non posse, Papar. Romanum habere primatum in 
+      uni<lb ed="#H" n="134" break="no"/>versa Ecclesia propter autoritatem Scripturarum, cum sinc dubitatione 
+      <lb ed="#H" n="135"/>autoritas probans sit notior, certior &amp; major autoritate probanda. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e1142">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>VIGESIMUMQUINTUM: A quo Scripturae Sacrae 
+      autori<lb ed="#H" n="137" break="no"/>tas pendet, in eo fidem &amp; religionem Christianam terminari necesse est. 
+      <lb ed="#H" n="138"/>At in Ecclesia testimonio fides &amp; religio Christiana non terminatur. 
+      Er<lb ed="#H" n="139" break="no"/>go ab Ecclesiae testimonio Scripturae autoritas non pendet 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e1156">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>VIGESIMUMSEXTUM: Quodcunque dogma est haeresis 
+      Ma<lb ed="#H" n="141" break="no"/>nichaea, illud est reiiciendum. At dogma istud, Scripturae Sacrae 
+      autorita<lb ed="#H" n="142" break="no"/>tem oportere extra Scripturam probari esse divinam: est haeresis 
+      Mani<lb ed="#H" n="143" break="no"/>chaea. Ergo dogma istud est reiiciendum. 
+      </p>
+            <p xml:id="yyy8Uu-e15859-d1e1169">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Miner certa est ex Augustini tomo sexto libro primo de Actis cum 
+      <lb ed="#H" n="145"/>Felice Manichaeo cap. secundo, in quo Felix Manicheus sibi extra 
+      <lb ed="#H" n="146"/>Scriptura probari vult; Scripturam esse divinam: Et sanctitas tua, ait 
+      <lb ed="#H" n="147"/>Manichaeus ad Augustinum, mihi probet quod in Evangelio scriptum 
+      <lb ed="#H" n="148"/>est, Christo dicente, Vado ad Patrem &amp; mitto vobis Spiritum Sanctum 
+      <lb ed="#H" n="149"/>Paracletum, qui vos inducat in omnem veritatem. Hoc tu extra 
+      Scri<lb ed="#H" n="150" break="no"/>turam istam proba esse Scripturam spiritus Sancti quod Christus 
+      promi<lb ed="#H" n="151" break="no"/>sit, ubi omnis veritas reperiatur. Quid aliud statuunt Papistae? 
+      <lb ed="#H" n="152"/>Ex his argumentis manifestum esse cuivis potest, autoritatem 
+      <lb ed="#H" n="153"/>Scripturae Propheticae &amp; Apostolicae nullo modo a testimonio 
+      Ec<lb ed="#H" n="154" break="no"/>clesiae pendere. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>
