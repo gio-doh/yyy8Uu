@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd446"><!-- l9-c4 -->
+            <head xml:id="yyy8Uu-gxd446-Hd1e103">Caput 4</head>
+            <p xml:id="yyy8Uu-gxd446-d1e106">
+               <lb ed="#H" n="30"/>CAPUTII 
+      <lb ed="#H" n="31"/>In quo de irreligione seu impietate, quae e diametro 
+   con<lb ed="#H" n="32"/>
+               <pc type="indent"/>traria est religioni &amp; pietati verae.
+    </p>
+            <p xml:id="yyy8Uu-gxd446-d1e117">
+               <lb ed="#H" n="33"/>PTRRELIGIO seu impietas, est cum beluinae quaedam hominum 
+   ha<lb ed="#H" n="34" break="no"/>turae, Deum aut saltem providentiam Dei esse negant, aut quamvis 
+      <lb ed="#H" n="35"/>Deum se nosse verbis profiteantur, factis tamen suis impiis 
+      ab<lb ed="#H" n="36" break="no"/>negant. Vocatur Graece ἀσίρεια, item αθρήσκεια, Irreligiositas vocatur  
+      <lb ed="#H" n="37"/>a Tertulliano Apologetico adversus Gentes, c. 24. 
+    </p>
+            <p xml:id="yyy8Uu-gxd446-d1e130">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Eaque est vera fatuitas, stultitiae stoliditas, insania: ejusque sectato 
+      <lb ed="#H" n="39"/>res sunt fatui, stulti, stolidi, insani, qui ratione sua abutuntur ad 
+      insani<lb ed="#H" n="40" break="no"/>am, Prov 1. v. 22. Psalm. 14. v. 1. 
+    </p>
+            <p xml:id="yyy8Uu-gxd446-d1e141">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>Impietas est omnibus modis fugienda;, 
+      <lb ed="#H" n="42"/>I. Quia prohibetur a Deo. Prov. 1. v. 22. Quousque o fatui, amabitis 
+      <lb ed="#H" n="43"/>fatuitatem: &amp; derisores derisionem desiderabunt sibi: &amp; stolidi odio 
+      ha<lb ed="#H" n="44" break="no"/>bebunt scientiam? II. Quia Deo displicet, Psalm. 5, 6, 7. Nam non es 
+      <lb ed="#H" n="45"/>Deus fortis qui delectetur improbitate: non est commoraturum apud 
+      te<lb ed="#H" n="46" break="no"/>malum. Non consistunt insani e regione oculorum tuorum: odisti omnes. 
+      <lb ed="#H" n="47"/>qui operam dant iniquitati. Perditurus es loquentes medacium: virum 
+      <lb ed="#H" n="48"/>sanguinarium &amp; dolosum abominatur Iehova. III. Quia est 
+      causa<lb ed="#H" n="49" break="no"/>infelicitatis omnis magnarumque calamitatum, Pro. 1. v. 24. &amp; seqo 
+    </p>
+            <p xml:id="yyy8Uu-gxd446-d1e166">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Ostendunt id exempla in omnium ordinum hominibus, veluti in 
+      <lb ed="#H" n="51"/>Regibus &amp; Principibus aliisque magnatibus Vide Innocentii Gentillet.  
+      <lb ed="#H" n="52"/>ti Discursum contra Machiavellum. Irreligionis sunt quinque 
+      spe<lb ed="#H" n="53" break="no"/>cies: atheismus, contemtus externi cultus Dei, mutilatio &amp; 
+      corru<lb ed="#H" n="54" break="no"/>ptela cultus Dei, negligetia in cultu Dei, irreverentiae qua profanatur  
+      <lb ed="#H" n="55"/>cultus Dei, ad quam irreverentiam pertinet sacrilegium &amp; simonia. Vi 
+      <lb ed="#H" n="56"/>de Hier. Zanch. in enarratione Decalogi in 1. part. de Redemtione 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 32</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 32</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd8915"><!-- l9-c32 -->
+            <head xml:id="yyy8Uu-xd8915-Hd1e103">Caput 32</head>
+            <p xml:id="yyy8Uu-xd8915-d1e106">
+               <lb ed="#H" n="138"/>CAPUT XXXII. 
+      <lb ed="#H" n="139"/>In quo de usu linguae populo notae 
+      <lb ed="#H" n="140"/>in sacris. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e115">
+               <lb ed="#H" n="141"/>VAESTIO magni momenti hic movetur, nimirum, An 
+      religio<lb ed="#H" n="142" break="no"/>nis exercitium seu officium divinum, quod vocant, id est, cantus 
+      <lb ed="#H" n="143"/>vm Ecclesiasticus, lectio Sacrae Scripturae, gratiarum actio &amp; 
+      preca<lb ed="#H" n="144" break="no"/>tio ad Deum, administratio Baptismi &amp; Coenae Dominicae, 
+      inaugura<lb ed="#H" n="145" break="no"/>tio novorum conjugum in conventibus Ecclesiasticis lingua auditoribus 
+      <lb ed="#H" n="146"/>nota fieri debeat? Nos affirmamus: Papistae negant  
+      <lb ed="#H" n="147"/>Sententiae nostrae argumenta haec sunt:  
+      <lb ed="#H" n="148"/>I. Quicquid Christus per Apostolum Paulum jubet in Ecclesia 
+      <lb ed="#H" n="149"/>fieri, id est omnino faciendum. At cantum Ecclesiasticum, 
+      lectio<lb ed="#H" n="150" break="no"/>nem Sacrae Scripturae, gratiarum actionem &amp; precationem ad 
+      <lb ed="#H" n="151"/>Deum ac reliqua sacra in conventibus Ecclesiasticis Christus 
+      per<lb ed="#H" n="152" break="no"/>Apostolum Paulum jubet lingua auditoribus nota fieri: Ergo ita 
+      <lb ed="#H" n="153"/>omnino faciendum. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e146">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Minorem probamus ex 1. Cor. 14. v1. &amp; sequentibus 
+      <lb ed="#H" n="155"/>Bellarminus libro secundo de verbo Dei, capite decimosexto, 
+      ne<lb ed="#H" n="156" break="no"/>gat minorem, &amp; ad testimonium quo eam probamus respondet, 
+      cer<lb ed="#H" n="157" break="no"/>tum esse in magna parte capitis decimiquarti primae ad Corinthios non 
+      <lb ed="#H" n="158"/>igi de lectione Scripturarum nec officiis diuvinis, sed de exhortatione 
+      spi<lb ed="#H" n="159" break="no"/>rituali sive collatione. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e164">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Ad istam exceptionem tria replicamus. Primo, falsa est distinctio 
+      <lb ed="#H" n="161"/>inter lectionem Scripturarum &amp; exhortationem: nam exhortatio 
+      spi<lb ed="#H" n="162" break="no"/>ritualis seu verbum exhortationis, in Ecclesia est concio seu explicat 
+      <lb ed="#H" n="163"/>tio Scripturarum ac proinde nec potest, nec debet fieri absque 
+      lectio<lb ed="#H" n="164" break="no"/>ne vel recitatione Scripturarum, estque officium divinum. Tum ipsa 
+      <lb ed="#H" n="165"/>pro positio Apostoli est generalis in principio capitis, Ambite 
+      spiri<lb ed="#H" n="166" break="no"/>tualia, sed magis tamen ut prophetetis: postea vero reliquo capite 
+      <lb ed="#H" n="167"/>percurrit species ad genus istud pertinentes, modumque &amp; finem 
+      il<lb ed="#H" n="168" break="no"/>larum praescr.bit: modus est quod proponi debeant sic ut 
+      intelligan<lb ed="#H" n="169" break="no"/>tur: finis, aedificatio Ecclesiae Dei. In hoc autem genere Christiana 
+      <lb ed="#H" n="170"/>συζιτηης seu co latio inter Prophetas recensetur sub finem capitis: 
+      <lb ed="#H" n="171"/>Secundo perperam Bellarminus pro eodem sumit exhortationem &amp; 
+      <lb ed="#H" n="172"/>collationem, quum non sint idem: Nam exhortatio est concio, quam 
+      <lb ed="#H" n="173"/>Scripturae explicatae ad usum populi accommodantur, &amp; ab uno 
+      <lb ed="#H" n="174"/>nabetur solum: collatio de rebus diuvinis est disputatio &amp; nonnisi a 
+      <lb ed="#H" n="175"/>pluribus, nempe minimum a duobus aut tribus instituitur. Unde 
+      et<lb ed="#H" n="176" break="no"/>iam Bellarminus falso dicit, nonnisi ad exhortationem referri posse 
+      <lb ed="#H" n="177"/>istud, Prophetae duo aut tres dicant &amp; caeteri dijudicent. Et istud, Si 
+      <!--cod-MkL9py-0669.xml-->
+      <pb ed="#H" n="640"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>palii re velatum fuerit, prior tateat: &amp; istud, Mulieres in Ecclesia 
+      ta<lb ed="#H" n="2" break="no"/>ceant. Prima enim duo ad collationem seu disputationem 
+      perti<lb ed="#H" n="3" break="no"/>nent, tertium quod est de mulieribus simul ad collationem &amp; 
+      exhor<lb ed="#H" n="4" break="no"/>rationem. Tertio versus 14, 15. &amp; 16. capitis istius manifeste 
+      do<lb ed="#H" n="5" break="no"/>cent, preces publicas lingua omnibus nota concipi oportere: Se 
+      pre<lb ed="#H" n="6" break="no"/>cer lingua, Spiritus meus precatur, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e228">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Duplicant Bellarminus ad tertiam replicationis nostrae parten 
+      <lb ed="#H" n="8"/>&amp; ait, Apostolum in versibus illis non agere de diuvinis officiis, nec de 
+      <lb ed="#H" n="9"/>publica Scripturarum lectione, sed de canticis spiritualibus, quae 
+      Chri<lb ed="#H" n="10" break="no"/>stiani componebant ad laudandum Deum &amp; mutuam consolationem, 
+      <lb ed="#H" n="11"/>Apostolum autem non loqui de Scripturis vel officiis diuvinis, ex eo 
+      di<lb ed="#H" n="12" break="no"/>cit prohari, quod Scripturae sine dubio legebantur Graece, &amp; divina 
+      offi<lb ed="#H" n="13" break="no"/>cia siebant Graece in Graecia; Apostolum autem hic loqui de oratione. 
+      <lb ed="#H" n="14"/>&amp; gratiarum actione quae sit per donum linguae extraneae, quam nemo, 
+      <lb ed="#H" n="15"/>intelligebat, &amp; interdum neque is qui loquebatur, ut illa verba 
+      indi<lb ed="#H" n="16" break="no"/>cant: Si orem lingua, spiritus meus orat, mens autem sine fructu est 
+      <lb ed="#H" n="17"/>id est, si orem ex dono linguarum, lingua quam non intelligam 
+      <lb ed="#H" n="18"/>Spiritus, id est, affectus meus orat, tamen mens sine fructu est, id est, 
+      <lb ed="#H" n="19"/>intellectus non eruditur, quia non intelligo quid dicam. Item illa 
+      <lb ed="#H" n="20"/>Qui loquitur lingua, non hominibus loquitur, sed Deo, nemo enim 
+      <lb ed="#H" n="21"/>audit, id est, nemo attendit, quia nemo intelligit 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e265">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Ad illam Bellarmini duplicationem nos in hunc modum 
+      tripli<lb ed="#H" n="23" break="no"/>camus. Primo falsum est, Apostolum non agere in versibus illis de 
+      <lb ed="#H" n="24"/>officiis divinis &amp; publica Scripturarum lectione: nam quia agit de 
+      <lb ed="#H" n="25"/>exhortatione Christiana &amp; spirituali, necesse est, ut simul agat de 
+      <lb ed="#H" n="26"/>Scripturarum lectione, in quibus exhortationem Christianam &amp; 
+      <lb ed="#H" n="27"/>spiritualem fundari necesse est. Deinde Bellarminus aequivocatione 
+      <lb ed="#H" n="28"/>fallit triplici, quarum una est in voce Spiritus, altera in voce 
+      intelli<lb ed="#H" n="29" break="no"/>gentiae, tertia in voce ἀκαρωος, infructuosa seu sine fructu. Nam 
+      Be<lb ed="#H" n="30" break="no"/>larmino Spiritus hoc loco est affectus, quum significet donum 
+      spi<lb ed="#H" n="31" break="no"/>rituale agens intus in illis fidelibus quibus est datum: quo sensu 
+      ver<lb ed="#H" n="32" break="no"/>su 12. dicitur spiritus ambitis, id est, dona spiritualia. Intelligentia 
+      <lb ed="#H" n="33"/>autem eidem est proprius intellectus precantis, quum sit sententia 
+      <lb ed="#H" n="34"/>externo eloquio intelligenter prolata, sic ut possit ab aliis intelligi 
+      <lb ed="#H" n="35"/>ἀκαρπος id est, sine fructu, refertur a Bellarmino ad ipsum 
+      precan<lb ed="#H" n="36" break="no"/>rem, quasi ipse non intelligeret, quid diceret quod longe est absur  
+      <lb ed="#H" n="37"/>dissimum, quum referri debeat ad alienam intelligentiam seu ac 
+      <lb ed="#H" n="38"/>alios qui audiunt, &amp; nesciunt quid dicatur, si lingua ipsis incognita 
+      <lb ed="#H" n="39"/>preces fiant. Spiritu ergo fidelis orat, quando quacunque lingua 
+      <lb ed="#H" n="40"/>dono Spiritus Sancti ipsi data orat: sed intelligentia ejus, id est; 
+      sen<lb ed="#H" n="41" break="no"/>pentia orationis prolatae lingua extera, ut intelligeretur ab aliis, eest 
+      <lb ed="#H" n="42"/>une fructis, quia is qui audit nescit quid dica, ignarus linguae qui 
+      <lb ed="#H" n="43"/>uteris, non intelligit: nam tuquidem bene gratias agis, sed alius non 
+      <lb ed="#H" n="44"/>aedificatur, ut Paulus ipse interpretatur, v. 16, 17. Bellarminus vero 
+      <lb ed="#H" n="45"/>plane ridiculam &amp; absurdam interpretationem substituit, ut paulo 
+      <lb ed="#H" n="46"/>ante dictum: 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e324">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Tertio res ab Apostolo distinctas confundit &amp; sermonem 
+      Apo<lb ed="#H" n="48" break="no"/>stoli totum conturbat. Nam prino de prophetando agit Apostolus 
+      <lb ed="#H" n="49"/>universe ad versum usque duodecimum. Deinde de precibus &amp; 
+      gra<lb ed="#H" n="50" break="no"/>tiarum actione ad Deum tractat. v. 13. &amp; sequentibus, ubi simul agit 
+      <lb ed="#H" n="51"/>de Psalmis seu canticis. Sub finem capitis demum collationum 
+      mo<lb ed="#H" n="52" break="no"/>dum praescribit. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e342">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Hactenus primum argumentum eiusque defensio. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e349">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>sequitur secundum. 
+      <lb ed="#H" n="55"/>II. Quod ab omnibus audiri &amp; intelligi debet, id profecto 
+      lin<lb ed="#H" n="56" break="no"/>gua auditoribus nota legendum. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e360">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>At Scriptura Sacra ab omnibus audiri &amp; intelligi debet: juxta 
+      <lb ed="#H" n="58"/>haec testimonia, Deut. 31. v. 12, 13. Quum veniens totus Israel 
+      com<lb ed="#H" n="59" break="no"/>patebit ante faciem Iehovae Dei tui in loco quem elegerit: legito tu 
+      le<lb ed="#H" n="60" break="no"/>gem hanc coram toto Israele illis audientibus, congregando populum 
+      <lb ed="#H" n="61"/>viros feminasque &amp; parvulos &amp; peregrinum tuum qui erit in portis tuis 
+      <lb ed="#H" n="62"/>ut audiant &amp; ut discant, timeantque Iehovam Deum vestrum &amp; 
+      obser<lb ed="#H" n="63" break="no"/>vantes faciant omnia verba Legis huius. Filii quoque ipsorum qui ex 
+      <lb ed="#H" n="64"/>perti non fuerint, audientes discant timere Iehovam Deum vestrum. 
+      <lb ed="#H" n="65"/>Et 1. Corinth. 14. vers. 2. Nam qui loquitur lingua, non hominibus 
+      <lb ed="#H" n="66"/>loquitur, sed Deo, nullus enim audit, spiritu vero loquitur mysteria. 
+      <lb ed="#H" n="67"/>&amp; v. 7, 8, 9, 10, 11. Atqui in anima quae sonum edunt, sive tibia sit,  
+      <lb ed="#H" n="68"/>sive cithara, nisi distinctionem tonis dederint, quomodo cognoscetur. 
+      <lb ed="#H" n="69"/>quod tibia canitur aut cithara? etenim si incertum sonum tuba 
+      dede<lb ed="#H" n="70" break="no"/>rit, quis apparabitur ad bellum? Ita &amp; vos nisi per linguam bene signi 
+      <lb ed="#H" n="71"/>ficantem sermonem edideritis quomodo inti lligetur quod dicitur: 
+      <lb ed="#H" n="72"/>eritis enim in aerem loquentes. Tot, prout inciderit, genera vocum sunt  
+      <lb ed="#H" n="73"/>in mundo, &amp; nihil est mutum. Nisi igitur sciero vim vocis, ero ei qui  
+      <lb ed="#H" n="74"/>loquitur barbarus: &amp; qui loquitur, apud me barbarus fuerit. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e405">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>Ego Sacra Scriptura est legenda lingua auditoribus nota 
+      <lb ed="#H" n="76"/>Quod de Scriptura conclusum est, idem de precibus 
+      concludi<lb ed="#H" n="77" break="no"/>mus: 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e416">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Quicquid debet a populo intelligi; id profecto lingua populo 
+      no<lb ed="#H" n="79" break="no"/>ta dicendum: 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e425">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>At orationes Ecclesiae, hoc est, preces &amp; gratiarum actiones, qua 
+      <lb ed="#H" n="81"/>fiunt ab Ecclesia, debent a populo intelligi: 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e434">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Erco &amp; lingua populo nota dicendae. 
+      <lb ed="#H" n="83"/>Alsumtio probatur: quia ex oratione non intellecta nulla 
+      utili<lb ed="#H" n="84" break="no"/>tas sequitur, ut patet ex his testimoniis. Jesa. 29. &amp; Matth. 15 v. 8. 
+      <lb ed="#H" n="85"/>Appropinquat mihi populus hic ore suo &amp; labiis me honorat: cor 
+      au<lb ed="#H" n="86" break="no"/>tem eorum procul abest a me: quod dictum est contra omnem 
+      hy<lb ed="#H" n="87" break="no"/>pocrisin, cujus species est, putare Deum coli orationibus, ex 
+      super<lb ed="#H" n="88" break="no"/>stitione, certa quadam lingua, quamvis non intellecta, veluti La¬ 
+      <!--cod-MkL9py-0669.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>A tina, quasi prae aliis sanctiore conceptis. Et I. Corinth. 14. vers. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e460">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>14, 15,16. Nam si precer lingua, spiritus meus precatur, sed 
+      intelli<lb ed="#H" n="91" break="no"/>lentia mea est infructuosa. Quid est igitur? precabor spiritu, sed pre 
+      <lb ed="#H" n="92"/>abor etiam intelligentia: psallam spiritu, sed psallam etiam 
+      intelli<lb ed="#H" n="93" break="no"/>gentia. Quandoquidem si benedixeris spiritu; is qui implet locum, 
+      <lb ed="#H" n="94"/>idiotae, quomodo dicturus est Amen ad tuam gratiarum actionem:nam 
+      <lb ed="#H" n="95"/>quid dicas nescit. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e478">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Assumtionis probationem negat Bellarminus libro secundo de 
+      <lb ed="#H" n="97"/>verbo Dei, capite decimo sexto, &amp; testimonia adducta expositione 
+      <lb ed="#H" n="98"/>sophistica depravat. Negationem suam firmat aliquot argumentis: 
+      <lb ed="#H" n="99"/>ad quae singula replicabimus. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e492">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>primum argumentum negationis Bellarmini est: Oratio 
+      Eccle<lb ed="#H" n="101" break="no"/>siae non sit populo, sed Deo pro populo, itaeque non est opus ut populus 
+      in<lb ed="#H" n="102" break="no"/>telligat, ut ei prosit, sed satis est si intelligat Deus. Quemadmodum, sie 
+      <lb ed="#H" n="103"/>quis apud Regem Latine oraret, pro aliquo rustico, certe rustitus 
+      fru<lb ed="#H" n="104" break="no"/>ctum inde percipere poterit, etiamsi non intelligat orationem 
+      advoca<lb ed="#H" n="105" break="no"/>ti sui 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e510">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Ad hoc replicamus tria. Primo Iudit Bellarminus 
+      aequivocatio<lb ed="#H" n="107" break="no"/>ne Nam oratio Ecclesiae ei est, quae sit ab aliquo ex clero in Ecclesia 
+      <lb ed="#H" n="108"/>&amp; pro Ecclesia: at nobis ex mente Apostoli Pacsti oratio Ecclesiae, 
+      <lb ed="#H" n="109"/>est non tantum quae fit in Ecclesia &amp; pro illa, sed etiam quae sit ab 
+      Ec<lb ed="#H" n="110" break="no"/>clesia. hoc est, a populo Dei. Nam si qua non sit a populo Dei, non 
+      <lb ed="#H" n="111"/>est oratio Ecclesiae, etiamsi in Ecclesia fieret: &amp; Ecclesia non est 
+      se<lb ed="#H" n="112" break="no"/>lus clerus, quem vocant, sed etiam illi qui implent locum idiotarum 
+      <lb ed="#H" n="113"/>seu privatorum, hoc est, plebs Ecclesiastica. Deinde quae in 
+      pro<lb ed="#H" n="114" break="no"/>batione a nobis, ex sensu Pauli secundum quid, id est, certo respectu 
+      <lb ed="#H" n="115"/>dicuntur, ea Bellarminus accipit alio respectu. Etenim cum nos 
+      di<lb ed="#H" n="116" break="no"/>cimus cum Paulo, orationem non intellectam esse infructuosam 
+      <lb ed="#H" n="117"/>agimus de fructu seu utilitate aedificationis, per sermonem ejus qu 
+      <lb ed="#H" n="118"/>preces publicas concipit ad Ecclesiam perveniente: Bellarminus 
+      ve<lb ed="#H" n="119" break="no"/>ro refert id ad fructum exauditionis a Domino ad Ecclesiam 
+      perve<lb ed="#H" n="120" break="no"/>nientem. Atqui nos cum Paulo jam de illa utilitate non de hac 
+      agi<lb ed="#H" n="121" break="no"/>mus. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e549">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Aliud est autem agere de utilitate audientium ex auditu 
+      per<lb ed="#H" n="123" break="no"/>cepta, quam aedificationem vocat Paulus, aliud de impetratione 
+      bo<lb ed="#H" n="124" break="no"/>norum, quae a Deo dantur iis, pro quibus preces concipiuntur. Si 
+      <lb ed="#H" n="125"/>Bellarminus, dum manus petitur, pedem porrigit. Tertio exem 
+      <lb ed="#H" n="126"/>plum advocati Latine agentis apud Regem pro rustico, est 
+      dissimi<lb ed="#H" n="127" break="no"/>e. Nam coram Deo tota Ecclesia reipsa orat, &amp; orare debet, idqui 
+      <lb ed="#H" n="128"/>intelligenter, id est, ut ipsa intelligat, quid a Deo petat, licet unus 
+      <lb ed="#H" n="129"/>tantum verbis praeeat, quia Christus omnes in se &amp; secunt effecit 
+      Sa<lb ed="#H" n="130" break="no"/>cerdotes Deo &amp; Patri, ut dicitur Apocalyps. 1. tum Apostolus 
+      agi<lb ed="#H" n="131" break="no"/>de communi fidelium congregatorum oratione. Simile igitur nihil 
+      <lb ed="#H" n="132"/>ad rem¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e578">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>Secundum argumentum negationis Bellarmini: Ecclesia orat 
+      pro<lb ed="#H" n="134" break="no"/>fidelibus, &amp; aliis peccatoribus, qui saepe non solum non intelligunt,  
+      <lb ed="#H" n="135"/>sed nec audiunt, nec volunt pro se orati, &amp; tamen non frustra 
+      Eccle<lb ed="#H" n="136" break="no"/>sia orat; quanto igitur magis non frustra orat pro fidelibus 
+      praesen<lb ed="#H" n="137" break="no"/>ibus, &amp; cupientibus orari pro necessitatibus suis? Hinc Levitici 16. 
+      <lb ed="#H" n="138"/>Deus praecipiebat, ut dum Sacerdos Sanctuarium ingressus pro 
+      <lb ed="#H" n="139"/>&amp; pro populo oraret populus foris maneret, ita ut non solum non 
+      <lb ed="#H" n="140"/>intelligeret, sed nec audiret, nec videret Sacerdotem: quod etiam 
+      fa<lb ed="#H" n="141" break="no"/>ctum esse tempore Zachariae legimus Luc. 1. &amp; tamen quis dubitare 
+      <lb ed="#H" n="142"/>potest, quin illa oratio populo prodesset. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e604">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>REPLICATIO nostra. Elenchus idem committitur, qui in primo 
+      <lb ed="#H" n="144"/>argumento. Agitur enim a nobis ex sensu Pauli de utilitate aedificaet 
+      <lb ed="#H" n="145"/>tionis fidelium ad quam ministri Ecclesiae facere debent omnia. Bel 
+      <lb ed="#H" n="146"/>larminus autem agit de utilitate exauditionis precum: ac proinde 
+      <lb ed="#H" n="147"/>extra oleas vagatur.  
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e620">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Tertium argumentum negationis Bellarmini a testimoniis 
+      Pa<lb ed="#H" n="149" break="no"/>trum: 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e630">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>ORIGENES homilia 20. in Josue: si vides, inquit, aliquando 
+      <lb ed="#H" n="151"/>legi Scripturam in autibus tuis, quam non intelligis, interim hanc 
+      <lb ed="#H" n="152"/>primam scias te suscepisse utilitatem, quod solo auditu, velut 
+      preca<lb ed="#H" n="153" break="no"/>tione quadam noxiarum virtutum, quae te obsident, virus depelli 
+      <lb ed="#H" n="154"/>tur. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e646">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Et CHRISOSTOMUS homilia tertia de Lazaro. Quid,  
+      <lb ed="#H" n="156"/>me quidem, etiamsi non intelligas illic recondita, tamen ex ipsa 
+      le<lb ed="#H" n="157" break="no"/>inquit, si non intelligamus, quae continentur in sacris libris? 
+      maxi<lb ed="#H" n="158" break="no"/>ctione multa nascitur sanctimonia. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e659">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>REPLICATIONOSTRA. Non probat Bellarminus 
+      <lb ed="#H" n="160"/>quod probandum erat. Quia probandum ipsi erat, orationes 
+      Ec<lb ed="#H" n="161" break="no"/>clesiae ad Deum, etsi non intellectas ab Ecclesia, utiles tamen ei esset 
+      <lb ed="#H" n="162"/>quoad aedifi: ationem in fide &amp; pietate: testimonia autem Patrum, 
+      <lb ed="#H" n="163"/>a Bellarmino allegata, agunt, non de oratione ad DEUM, sed de 
+      <lb ed="#H" n="164"/>ectione vel auditione Scripturae, de qua ipsemet Bellarminus negat:  
+      <lb ed="#H" n="165"/>verba fieri 1. Corinth. 14. unde nostrum argumentum sumtum 
+      <lb ed="#H" n="166"/>est. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e681">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Atqui diversa &amp; disparata non probant. Non decet probando 
+      <lb ed="#H" n="168"/>extra viam currere, extra curriculum ferri¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e690">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>Quartum argumentum Bel¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e697">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>larmini. 
+      <lb ed="#H" n="171"/>Populus non solum ex oratione alterius fructum percipere 
+      potes<lb ed="#H" n="172" break="no"/>quamvis eam non intelligat, sed etiam ex ea, quam ipsemet pro se 
+      <lb ed="#H" n="173"/>ipso ad Deum fundit. nam ut S. August docet lib. 3. doct Christiam 
+      <lb ed="#H" n="174"/>c. 9. Judaei non frustra colebant Deum figuris &amp; ceremoniis variis, 
+      <!--cod-MkL9py-0670.xml-->
+      <pb ed="#H" n="641"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>quarum significationes multi eorum minus intelligebant, quam 
+      <lb ed="#H" n="2"/>verba Latina nostri rustici: 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e724">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>REPLICATIO nostra. Error a Bellarmino geminus 
+      committi<lb ed="#H" n="4" break="no"/>tur. Primus est falsorum parium. Dispar enim est ratio orationis 
+      <lb ed="#H" n="5"/>quam pro se unusquisque ad Deum fundit &amp; orationis alterius quam 
+      <lb ed="#H" n="6"/>pro alio concipit. Quia aliquis per multa milliaria a me dissitus 
+      <lb ed="#H" n="7"/>precari pro me potest, sic ut fructus precationis illius ad me redeat,  
+      <lb ed="#H" n="8"/>etiamsi ego precantem non audiam, imo nec videam, nec quam 
+      lin<lb ed="#H" n="9" break="no"/>gua precetur sciam: sed cum quo mihi praesente in eodem coetu una 
+      <lb ed="#H" n="10"/>porandum, eum profecto ut intelligam necesse est, ut precationem 
+      <lb ed="#H" n="11"/>ejus approbans dicere possim Amen. Qui alibi pro aliquibus orat,  
+      <lb ed="#H" n="12"/>uti potest lingua etiam illis ignota: sed in oratione in qua populus 
+      <lb ed="#H" n="13"/>praesens precantem verbis praecuntem corde sequi debet, imperatur  
+      <lb ed="#H" n="14"/>a Deo intelligentia, velut ad aedificationem coetus Ecclesiae 
+      perti<lb ed="#H" n="15" break="no"/>nens; quemadmodum &amp; in illa oratione quam unusquisque pro 
+      se<lb ed="#H" n="16" break="no"/>ad Deum fundit, intelligentia imperatur. Alter error est falsitas, qua 
+      <lb ed="#H" n="17"/>inest similitudini a Judaeis sumtae. Intelligebant enim Judaei olim 
+      <lb ed="#H" n="18"/>pro suo modulo significationes figurarum &amp; ceremoniarum 
+      varia<lb ed="#H" n="19" break="no"/>rum, quas Sacerdotes, Levitae, imo &amp; Prophetae fidelibus, 
+      quan<lb ed="#H" n="20" break="no"/>um illis necesse erat, exponebant: etsi in Novo Testamento clarius 
+      <lb ed="#H" n="21"/>sunt explicatae. Negamus etiam profuisse aliis quae videntes vel 
+      au<lb ed="#H" n="22" break="no"/>dientes non intellexerunt: quia si infideles fuerunt, nihil illis 
+      pro<lb ed="#H" n="23" break="no"/>fuerunt etiam intellecta; sin vero fideles, intellexisse eos vaticinia 
+      <lb ed="#H" n="24"/>de Christo, inter quae erant figurae &amp; ceremoniae tanquam vaticinia 
+      <lb ed="#H" n="25"/>visibilia, necesse est: quia fides non est ignorantia sed notitia, sic  
+      <lb ed="#H" n="26"/>ut Jesaias ait cap. 53. v. 11. Cognitione sui justificabit justus servus 
+      <lb ed="#H" n="27"/>meus multos, quorum inquitates ipse bajulaverit. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e783">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Quintum argumentum Bellarmini: Si etiam preces malae, 
+      ho<lb ed="#H" n="29" break="no"/>est, in quibus aliquid haeretici admistum est non sunt infructuosae 
+      <lb ed="#H" n="30"/>bonis evacuantibus mala quae sunt in eis: quanto magis preces 
+      opti<lb ed="#H" n="31" break="no"/>mae ab Ecclesia institutae, etiamsi non intelligantur proderunt? 
+      An<lb ed="#H" n="32" break="no"/>tecedens verum est, teste Augustino lib. 6. de Baptismo cap. 25. 
+      Er<lb ed="#H" n="33" break="no"/>go &amp; consequens. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e801">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>REPLICATIO. Primo sophisma committitur a 
+      Bellarmi<lb ed="#H" n="35" break="no"/>no ignorationis Elenchi, dum mutat terminos controversiae. Nam 
+      <lb ed="#H" n="36"/>concludit preces Ecclesiae prodesse, nempe quoad fructum 
+      exaudi<lb ed="#H" n="37" break="no"/>tionis, illis pro quibus concipiuntur, etiamsi eas non intelligant: 
+      <lb ed="#H" n="38"/>atqui hoc non est controversum, sed an preces incognita lingua 
+      <lb ed="#H" n="39"/>factae prosint Ecclesiae quo ad aedificationem illius, hoc est, an 
+      aedi<lb ed="#H" n="40" break="no"/>ficent &amp; instruant Ecclesiam? Summa, agimus de fructu aedifica. 
+      <lb ed="#H" n="41"/>tionis ex auditu ad alios perveniente, non de exauditione precum 
+      <lb ed="#H" n="42"/>apud Deum. Secundo inconsequens est propositio connexa ex dissi 
+      <lb ed="#H" n="43"/>mili: nam in precibus, quibus aliquid admistum est haeretici, 
+      qui<lb ed="#H" n="44" break="no"/>bus imperiti per ignorantiae simplicitatem non valentes eas 
+      discer<lb ed="#H" n="45" break="no"/>nere utuntur, &amp; decepti specie boni adjuncti arbitrantur quod 
+      bo<lb ed="#H" n="46" break="no"/>nae sint, bonum intelligitur, malum ab ipsis non animadvertitur  
+      <lb ed="#H" n="47"/>quorum illud accipit: hoc factum per simplicem ignorantiam, non 
+      <lb ed="#H" n="48"/>voluntatiam condonat DEUS: Quod igitur preces ejusmodi 
+      fru<lb ed="#H" n="49" break="no"/>ctuosae sunt, &amp; exaudiuntur a DEO, non est ab ipsis, sed a gratia Dei 
+      <lb ed="#H" n="50"/>acceptante, qui ignorantiam simplicem tolerat, voluntatiam de 
+      <lb ed="#H" n="51"/>mnat. At in precibus Latinis illi qui Latinam linguam nesciunt. 
+      <lb ed="#H" n="52"/>nihil intelligunt, nec bonum nec malum, idque ex ignorantia 
+      vo<lb ed="#H" n="53" break="no"/>suntaria &amp; crassa in qua eos sacrificuli confirmant, &amp; ipsi se in ea 
+      con<lb ed="#H" n="54" break="no"/>firmari stulte patiuntur.  
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e851">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Sextum argumentum negationis Bellarmini ductum 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e858">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>est ab autoritate Origenis. 
+      <lb ed="#H" n="57"/>ORIGENES homil. 20. in Josue. Etsi nos, inquit, non 
+      intelli<lb ed="#H" n="58" break="no"/>gimus, quae de ore proferimus, illae tamen virtutes quae nobis 
+      ad<lb ed="#H" n="59" break="no"/>sunt, intelligunt, &amp; velut carmine quodam invitatae adesse nobis, &amp; 
+      <lb ed="#H" n="60"/>ferre auxilium delectantur, &amp;c. Quam tem duabus 
+      similitudini<lb ed="#H" n="61" break="no"/>bus illustrat. Si enim creditum est, inquit, a gentibus, quod quae 
+      <lb ed="#H" n="62"/>dam carmina, quas praecantationes appellant, quibus istud artis 
+      <lb ed="#H" n="63"/>est, insusurrantes, nominibus quibusdam compellatis quae ne illi 
+      <lb ed="#H" n="64"/>quidem qui vocant norunt, ex solo vocis sono, vel sopiantur 
+      serpen<lb ed="#H" n="65" break="no"/>tes, vel etiam de cavernis protrahantur; quanto magis totius 
+      prae<lb ed="#H" n="66" break="no"/>cantationis, &amp; carminis validiorem &amp; potentiorem ducendam 
+      cre<lb ed="#H" n="67" break="no"/>dimus quamcunque Scripturae Sanctae, vel sermonum vel 
+      nomi<lb ed="#H" n="68" break="no"/>num appellationem? Et infra: solent medici praebere interdum 
+      <lb ed="#H" n="69"/>cibum aliquem, interdum etiam potum dare, nec tamen in 
+      eden<lb ed="#H" n="70" break="no"/>do ipso cibo, vel in potando sentimus, quia utile est, &amp;c. hoc ergo 
+      <lb ed="#H" n="71"/>modo, inquit, credendum est etiam de Scriptura Sancta, quia utilis 
+      <lb ed="#H" n="72"/>est &amp; animae prodest, etiamsi sensus noster ad praesens intelligentiam 
+      <lb ed="#H" n="73"/>non capit, 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e902">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>REPLICATIO NOSTRA. Iterum peccat Bellarminus 
+      <lb ed="#H" n="75"/>ignoratione elenchi: nam controvertitur jam de oratione 
+      Eccle<lb ed="#H" n="76" break="no"/>siae ad Deum: at Origenes loquitur de lectione Scripturae divinae 
+      <lb ed="#H" n="77"/>Est autem dispar omnino ratio: nam lectione Scripturae nos allo 
+      <lb ed="#H" n="78"/>quitur Deus, &amp; sensum nobis exponit: at oratione nostra nos 
+      lo<lb ed="#H" n="79" break="no"/>quimur ad Deum, &amp; sensa animi nostri exponimus Deo. 
+      Sen<lb ed="#H" n="80" break="no"/>sum Dei in Scriptura nobis loquentis tantum ex parte assequi 
+      pos<lb ed="#H" n="81" break="no"/>sumus, dum hic vivimus; ideo lectio Scripturae utilis nobis est 
+      <lb ed="#H" n="82"/>etiamsi non perfecte res divinas in hac vita intelligamus, quia 
+      ex<lb ed="#H" n="83" break="no"/>parte cognoscimus, ex parte prophetamus: at ratio quam cor 
+      no<lb ed="#H" n="84" break="no"/>strum coram Deo effundimus, quae index est sensus animi 
+      nostri<lb ed="#H" n="85" break="no"/>sine intellectu nostro uulla est, ridicula, indigna nobis, indigna quae 
+      <lb ed="#H" n="86"/>Deo offeratur. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e936">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Septimum Bellarmini argumen¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e943">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>tum 
+      <!--cod-MkL9py-0670.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>Si necessarium esset intelligere quicquid orantes vel Deum 
+      lau<lb ed="#H" n="90" break="no"/>dantes dicimus, profecto rari, aut nulli possent Psalmos Davidis 
+      <lb ed="#H" n="91"/>canere, &amp; Prophetas atque Apostolos in divinis officiis legeret 
+      <lb ed="#H" n="92"/>Quotus enim quisque est qui intelligat omnium Psalmorum, 
+      Pro<lb ed="#H" n="93" break="no"/>hetarum &amp; Apostolorum sententias? Quam multa occurrunt 
+      <lb ed="#H" n="94"/>dum psallimus, quae non intelligimus? nec tamen debemus curre 
+      <lb ed="#H" n="95"/>re ab Ecclesia ad commentaria; &amp; non propterea frustra 
+      psalli<lb ed="#H" n="96" break="no"/>mus, modo cum devotione &amp; reverentia psa llamus. Scimus enim 
+      <lb ed="#H" n="97"/>quicquid illud sit ad DEI laudem pertinere. Quid, quod 
+      San<lb ed="#H" n="98" break="no"/>ctus ANTONIUS dicere solebat, illam esse perfectam 
+      oratio<lb ed="#H" n="99" break="no"/>nem, in qua animus ita absorbetur in Deum, ut non intelligat ipso 
+      <lb ed="#H" n="100"/>verba sua. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e980">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>REPLICATIO nostra. Negatur connexi consequentia 
+      <lb ed="#H" n="102"/>quia aliud est, si utcunque aliquid intelligas, aliud si perfecte. 
+      Per<lb ed="#H" n="103" break="no"/>fecta intelligentia non est hujus vitae: at cognitio ex parte est ne 
+      <lb ed="#H" n="104"/>cessaria. Etsi igitur perfectam illam intelligentiam hic non 
+      conse<lb ed="#H" n="105" break="no"/>quimur, ac proinde in Psalmis &amp; Prophetis atque Apostolis non 
+      <lb ed="#H" n="106"/>omnia perfecte intelligimus: tamen &amp; Psalmos canere, &amp; Prophe 
+      <lb ed="#H" n="107"/>tas atque Apostolos legere debemus, ut qui sciamus a Deo 
+      exaudi<lb ed="#H" n="108" break="no"/>ri nos studentes verbo illius &amp; obtemperantes illis 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1002">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>His argumentis subjicit Bellarminus exceptionem ad dicta duo 
+      <lb ed="#H" n="110"/>allegata ex Jesaia &amp; Paulo, quibus probamus ex oratione non 
+      in<lb ed="#H" n="111" break="no"/>tellecta nullam utilitatem aedificationis ad Ecclesiam audientem 
+      re<lb ed="#H" n="112" break="no"/>dire. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1015">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Prius est Jesaiae capite vigesimo nono, Populus hic labiis me 
+      <lb ed="#H" n="114"/>honorat. In hoc dicit non agi de oratione aut lectione, sed de iis 
+      <lb ed="#H" n="115"/>qui ore profitentur pietatem, dicuntque se Deum diligere &amp; 
+      ta<lb ed="#H" n="116" break="no"/>men factis contrarium agunt, ut exponant Hieronymus &amp; 
+      Au<lb ed="#H" n="117" break="no"/>gustinus. Si tamen quis velit ea verba ad orationem referre, tum 
+      <lb ed="#H" n="118"/>ait reprehendi eos, qui quamlibet sibi nota lingua orantes, non 
+      at<lb ed="#H" n="119" break="no"/>cendunt quid dicant, sed vagantur animo ad alia negotia. 
+      <lb ed="#H" n="120"/>REPLICATIO nostra. Primo frustra negatur agi apud 
+      <lb ed="#H" n="121"/>Esaiam de oratione. Nam agitur de toto cultu DEI: ergo et 
+      <lb ed="#H" n="122"/>iam de oratione, quae honoris divini species est maxima 
+      dignissi<lb ed="#H" n="123" break="no"/>maque. Quicquid autem est generis, idem quoque est speciei 
+      <lb ed="#H" n="124"/>In toto cultu DEI nostro corde proximi esse debemus DEO 
+      <lb ed="#H" n="125"/>non tantum ore, non tantum labiis: Ergo etiam in orationes 
+      <lb ed="#H" n="126"/>Tum oratio ad DEUM est professionis modus sanctissimus: 
+      <lb ed="#H" n="127"/>nam qui DEUM invocat, is eo ipso profitetur pietatem &amp; 
+      dile<lb ed="#H" n="128" break="no"/>ctionem erga DEUM. Tertio de oratione praecipue agitur in 
+      <lb ed="#H" n="129"/>hoc Jesaiae dicto: quam enim specie cultus, corde propius esse Deo 
+      <lb ed="#H" n="130"/>nos decet, quam cum eum invocamus? quomodo autem cor 
+      no<lb ed="#H" n="131" break="no"/>trum proximum erit DEO si nihil intelligat eorum quae a DEG 
+      <lb ed="#H" n="132"/>petit? Quarto in concessione sua nimis stricte Bellarminus 
+      ver<lb ed="#H" n="133" break="no"/>pa DEI ad orationem accommodat. Addi enim oportet, 
+      repre<lb ed="#H" n="134" break="no"/>hendi etiam eos, qui non intelligunt preces quas dicunt, nec 
+      ope<lb ed="#H" n="135" break="no"/>ram dant ut intelligant, sed labiorum motu &amp; pronunciatione ex 
+      <lb ed="#H" n="136"/>terna verborum satis putant se officio suo fecisse ex opere operato, 
+      <lb ed="#H" n="137"/>ut vocant, crassa ignorantia &amp; stulta persuasione sua 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1074">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>Ad posterioris dicti ex 1. Corint. 14. allegationem sic excipit 
+      Bel<lb ed="#H" n="139" break="no"/>larminus 
+      <lb ed="#H" n="140"/>In posteriore Scriptura non reprehenditur oratio quae non 
+      intel<lb ed="#H" n="141" break="no"/>igitur. Non enim Apostolus dicit orationem esse sine fructu, sed  
+      <lb ed="#H" n="142"/>mentem. Qui enim orat lingua quam non novit, ut cum rudes 
+      <lb ed="#H" n="143"/>homines recitant Latine septem Psalmos, affectu quidem &amp; 
+      spi<lb ed="#H" n="144" break="no"/>ritu proficiunt, tamen mens eorum sine fructu est, quia non 
+      eru<lb ed="#H" n="145" break="no"/>ditur. Ejusmodi vero orationem, non reprehendi ut malam &amp; 
+      <lb ed="#H" n="146"/>benitus infructuosam, declarat Apostolus illis verbis: nam tu 
+      qui<lb ed="#H" n="147" break="no"/>dem bene gratias agis. Et idem aperte confirmat Chrysostomus. 
+      <lb ed="#H" n="148"/>hoc loco. Adde, quod, ut supra ostendimus, Apostolus loquitur  
+      <lb ed="#H" n="149"/>de lingua, quam nemo in tota Ecclesia intelligere potest. Quo- 
+      <lb ed="#H" n="150"/>circa frustra haec Apostolica verba adversus consuetudinem 
+      Eccle<lb ed="#H" n="151" break="no"/>siae Catholicae adducuntur. Etsi enim in communibus Ecclesia 
+      <lb ed="#H" n="152"/>precibus Latinis mens rusticorum sine fructu maneat, tamen non 
+      <lb ed="#H" n="153"/>manet affectus rusticorum sine fructu, nec mens plurimorum 
+      <lb ed="#H" n="154"/>aliorum, qui Latine sciunt, &amp; fructus mentis qui deest idiotis 
+      <lb ed="#H" n="155"/>compensatur utilitatibus multis, quae inde proveniunt, quod 
+      Scri<lb ed="#H" n="156" break="no"/>pturae in publico conventu, communissimo idiomate, id est, 
+      Latino<lb ed="#H" n="157" break="no"/>assidue leguntur  
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1123">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>REPLICATIO NOSTRA. Primo frustra tergiversatur 
+      <lb ed="#H" n="159"/>Bellarminus, non reprehendi a Paulo orationem quae non 
+      intelli<lb ed="#H" n="160" break="no"/>itur: nam vers. 23. aperte dicit: Si eodem loci convenerit tota 
+      <lb ed="#H" n="161"/>Ecclesia &amp; omnes linguis loquantur (nimirum quas audientes non 
+      <lb ed="#H" n="162"/>intelligant, ac proinde iis non instituantur,) ingrediantur autem 
+      <lb ed="#H" n="163"/>diotae vel infideles, nonne dicent vos furere, in eo profecto 
+      repre<lb ed="#H" n="164" break="no"/>henditur 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1143">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Secundo depravat Bellarminus interpretatione sua hunc 
+      lo<lb ed="#H" n="166" break="no"/>cum. Nam Paulus agit de intellectu audientium, ut illi 
+      instituan<lb ed="#H" n="167" break="no"/>tur &amp; aedificentur, ut ex allegato loco liquet, &amp; deinde ex versu 18, 
+      <lb ed="#H" n="168"/>19. Gratias ago DEO meo quod magis quam vos omnes linguis 
+      <lb ed="#H" n="169"/>loquar. Sed in Ecclesia malim quinque verba ex intelligentia mea 
+      loa<lb ed="#H" n="170" break="no"/>qui, ut &amp; alios instituam, quam decem millia verborum linguae, 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1161">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Tertio affingitur falsum Chrysostomo, cujus haec sunt verba: 
+      <lb ed="#H" n="172"/>TU quidem recte gratias agis spiritu, sed ille nihil audiens neque 
+      <lb ed="#H" n="173"/>sciens quae dicuntur, stat non magnam capiens utilitatem. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1172">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Quar: o Apostolum loqui de lingua quam nemo in tota Ecclesia 
+      <lb ed="#H" n="175"/>intelligat negatur: nec probari ullo pacto potes. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1181">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Quinto Iudit ambiguitate Bellarminus dum Latinum idioma 
+      <lb ed="#H" n="177"/>communissimum vocat: nam aliud est commune doctis, aliud est 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1190">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>commune in vulgo. Latina lingua est communissima doctis, sed  
+      <!--cod-MkL9py-0671.xml-->
+      <pb ed="#H" n="642"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>non in vuigo. AEdificatio autem Ecclesiae requirit ut preces 
+      conci<lb ed="#H" n="2" break="no"/>piantur idiomate, non communi tantum doctis, sed communi 
+      in<lb ed="#H" n="3" break="no"/>vulgo Ecclesiae: in quo quotusquisque doctus est, &amp; Latinam 
+      lin<lb ed="#H" n="4" break="no"/>guam intelligit: 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1213">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Sexto quae de fructu orationis dicit, aliena sunt a mente Pauli, qui 
+      <lb ed="#H" n="6"/>de fructu aedificationis loquitur, ut instituatur Ecclesia. Ita in 
+      <lb ed="#H" n="7"/>magno conatu Bellarmini pro amphora urceus exit, ut est in 
+      pro<lb ed="#H" n="8" break="no"/>verbio. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1226">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>Hucusque secundum argumentum eiusque defensio 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1233">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>sequitur tertium. 
+      <lb ed="#H" n="11"/>Cujus finis est instructio, consolatio &amp; aedificatio populi, id lin 
+      <lb ed="#H" n="12"/>gua populo cognita peragi debe 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1244">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>At publicae lectionis Scripturarum Sacrarum finis est 
+      instructio<lb ed="#H" n="14" break="no"/>consolatio &amp; aedificatio populi. Ergo lingua populo cognita 
+      peragi<lb ed="#H" n="15" break="no"/>debet. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1255">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Major certa est: quia ex lingua ignota &amp; peregrina quae 
+      instru<lb ed="#H" n="17" break="no"/>ctio, quae aedificatio, quae consolatio percipi potest? 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1264">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Assumtio patet ex Romanorum decimo quinto capite versiculo 
+      <lb ed="#H" n="19"/>quarto: Quae ante scripta sunt, ad nostram doctrinam ante scripta  
+      <lb ed="#H" n="20"/>sunt: ut per tolerantiam &amp; consolationem Scripturarum spem 
+      habea<lb ed="#H" n="21" break="no"/>mus. 1. Cor. 14. v. 3. &amp; seqq. Qui autem prophetat hominibus. 
+      <lb ed="#H" n="22"/>loquitur aedificationem &amp; exhortationem &amp; consolationem. Qui 
+      lo<lb ed="#H" n="23" break="no"/>guitur lingua, se ipsum aedificat: qui vero prophetat, Ecclesiam aedifi. 
+      <lb ed="#H" n="24"/>tat, &amp;c. &amp; versic. 19. In Ecclesia malim quinque verba ex intelli. 
+      <lb ed="#H" n="25"/>gentia mea loqui, ut &amp; alios instituam, quam decem millia 
+      verbo<lb ed="#H" n="26" break="no"/>rum lingua, Et versic. 26. quoties convenitis quisque vestrum canti 
+      <lb ed="#H" n="27"/>cum habet, doctrinam habet, linguam habet, revelationem habet, 
+      in<lb ed="#H" n="28" break="no"/>terpretationem habet; omnia ad aedificationem fiant 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1294">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Bellarminus ad hanc argumentationem excipit, primo negando 
+      <lb ed="#H" n="30"/>assumtionem, secundo respondendo ad probationem eius. Negatio 
+      <lb ed="#H" n="31"/>nem suam firmat rationibus duabus: prima est, quia finis praecipuus 
+      <lb ed="#H" n="32"/>divinorum officiorum non sit populi instructio vel consolatio, sed 
+      cul<lb ed="#H" n="33" break="no"/>tus Deo ab Ecclesia debitus: eo quod clericorum officium sit, nomine. 
+      <lb ed="#H" n="34"/>totius populi Christiani perpetuo immolare Deo sacrificium laudis, ut  
+      <lb ed="#H" n="35"/>ipse requirit Psalm. 49. &amp; more m lilum excubare ac vigiliis &amp; 
+      ora<lb ed="#H" n="36" break="no"/>tionibus tota castra Ecclesiae Protegere. Jesaiae capite vigesimo sexto? 
+      <lb ed="#H" n="37"/>Super muros tuos, Hierusalem, constitui custodes, tota die &amp; nocto 
+      <lb ed="#H" n="38"/>in perpetuum non tacebunt. Secunda ratio est, qui non sunt 
+      imperi<lb ed="#H" n="39" break="no"/>tissimi, ui Latine sciunt, &amp; instruuntur qui audiunt divina officia. 
+      Ca<lb ed="#H" n="40" break="no"/>teri autem non instruerentur etiamsi vulgari lingua officium 
+      celebra<lb ed="#H" n="41" break="no"/>retur: non enim in verbo, sed in sensu instructio est. Quare (concludit 
+      <lb ed="#H" n="42"/>rationes Bellarminus) plebis instructioni deserviunt conciones 
+      frequen<lb ed="#H" n="43" break="no"/>tissima, quae in siigulis Ecclesiis fieri debent 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1331">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>REPLICATIO nostra. Assumtio negari non potest, quia est 
+      <lb ed="#H" n="45"/>verissima. Rationes negationis nullius sunt ponderis. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1340">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>Prima ratio est vitiosa pluribus modis: primo propter sophisme 
+      <lb ed="#H" n="47"/>falsorum pugnantium. Nam cultus Deo ab Ecclesia debitus &amp; 
+      <lb ed="#H" n="48"/>aedificatio Ecclesiae non pugnant, quia sunt fines coordinati, seu u 
+      <lb ed="#H" n="49"/>alii loqui solent, subordinati. Coordinata autem seu subordinata 
+      <lb ed="#H" n="50"/>mon pugnant, neque positio unius est remotio seu negatio alterius. 
+      <lb ed="#H" n="51"/>Si assumtio esset, aedificationem Ecclesiae praecipuum vel solum est. 
+      <lb ed="#H" n="52"/>finem officiorum divinorum, tum recte negaretur: jam vero 
+      as<lb ed="#H" n="53" break="no"/>sumtio est indefinita. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1362">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Secundo vitiosa est prima ratio propter homonymiam in nomine 
+      <lb ed="#H" n="55"/>Ecclesiae: nam Bellarminus restringit ad Clerum, quem vocant  
+      <lb ed="#H" n="56"/>cum de tota multitudine fidelium intelligi debeat: non enim a 
+      so<lb ed="#H" n="57" break="no"/>lis Clericis cultus Deo exhiberi debet, sed etiam a caeteris fidelibus 
+      <lb ed="#H" n="58"/>omnibus 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1378">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Tertio locus Psalmi vitiose a Bellarmino restringitur ad solos 
+      cle<lb ed="#H" n="60" break="no"/>ricos, quum ad universos Christianos pertineat. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1387">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Quarto locus Jesaiae Bellarmino adversatur: Si enim custodes 
+      <lb ed="#H" n="62"/>Ecclesiae tacere non debent, tum loquantur quae a fidelibus 
+      intelligi<lb ed="#H" n="63" break="no"/>possint. Etenim si vocem incertam det tuba, quis se ad pugnam 
+      <lb ed="#H" n="64"/>comparet? 1. Cor. 14. 8. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1401">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Secunda ratio quinque modis vitiosa est: Primum enim finem 
+      <lb ed="#H" n="66"/>officiorum divinorum tantum ad Latine doctos restringit, qui 
+      com<lb ed="#H" n="67" break="no"/>munis est omnibus fidelibus. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1412">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Deinde agit de eventu sacrorum officiorum, quum nostrum 
+      argu<lb ed="#H" n="69" break="no"/>mentum de fine eorum agat. Servum autem Dei oportet officium 
+      <lb ed="#H" n="70"/>suum facere &amp; Deo eventum sinere. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1423">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Tertio eventus ipse hic falso ponitur, quum Bellarminus haud 
+      se<lb ed="#H" n="72" break="no"/>cus de plene pronunciet, quam de pecude experte omnis doctrinae 
+      <lb ed="#H" n="73"/>atque judicii: O miseram plebem, &amp; eo miseriorem, quod despe 
+      <lb ed="#H" n="74"/>tantes de profectu &amp; salute ipsius ductores habeat:  
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1436">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>Qarto evertit haec ratio Papanorum sententiam: nam si plebis 
+      <lb ed="#H" n="76"/>instructioni deserviunt conciones; Ergo Scripturae quae concionum 
+      <lb ed="#H" n="77"/>Sacrarum basis &amp; fundamentum sunt, lingua plebi cognita legi 
+      de<lb ed="#H" n="78" break="no"/>bent. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1449">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Quinto accusat haec ratio Papisticos doctores negligentiae in 
+      con<lb ed="#H" n="80" break="no"/>cionibus habendis: debent enim conciones frequentissimae in 
+      singu<lb ed="#H" n="81" break="no"/>lis Ecclesiis fieri, sed in Papatu non fiunt. Sic replicatum est ad 
+      nega<lb ed="#H" n="82" break="no"/>tionis rationes 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1462">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Ad probationem assumtionis nostrae in hunc modum 
+      Bellarmi<lb ed="#H" n="84" break="no"/>nus excipit: Primo negat Scripturae testimonia adducta sententiae 
+      <lb ed="#H" n="85"/>Papistarum ulla ratione officere. Ait enim illos fateri, Sacras 
+      Scri<lb ed="#H" n="86" break="no"/>pturas magnam adferre fidelibus consolationem, sed doctis quidem 
+      <lb ed="#H" n="87"/>dum leguntur, indoctis autem dum a concionatoribus explicantur  
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1479">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Deinde Paulum I. Corinth. 14. versic. 26. per Psalmum, de 
+      <lb ed="#H" n="89"/>ctrinam, apocalypsin, linguam &amp; interpretationem, non intellige¬ 
+      <!--cod-MkL9py-0671.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>re Scripturas divinas, sed quinque dona gratis data, nempe donum 
+      <lb ed="#H" n="91"/>psallendi seu componendi spiritualia cantica &amp; ea in Ecclesia 
+      mo<lb ed="#H" n="92" break="no"/>leste canendi: donum docendi: donum revelationis, quia Deus 
+      <lb ed="#H" n="93"/>saepe tunc sedentibus in Ecclesia revelaverit mysteria: donum 
+      lin<lb ed="#H" n="94" break="no"/>quarum: &amp; donum exponendi Scripturas &amp; de una lingua in aliam 
+      <lb ed="#H" n="95"/>transferendi: quae omnia referri debeant ad aed ficationem &amp; non 
+      <lb ed="#H" n="96"/>ad ostentationem 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1508">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>REPLICATIO nostra. Primo Bellarminus consolationem 
+      <lb ed="#H" n="98"/>ex lectione Scripturae provenientem falso restringit ad solos 
+      Lati<lb ed="#H" n="99" break="no"/>ne doctos: nam cum indoctorum longe major sit multitudo in 
+      <lb ed="#H" n="100"/>plebe Ecclesiastica, quam doctorum, quis non intelligit 
+      paucio<lb ed="#H" n="101" break="no"/>rum majorem rationem absurde haberi, quam plurium? scilicet 
+      <lb ed="#H" n="102"/>Christianae plebi istic vellus non carpitur. Secundo in expositione 
+      <lb ed="#H" n="103"/>versus vigesimi fexti 1. Corinth. 14. tragelaphos fingit: quis enim 
+      <lb ed="#H" n="104"/>illum sic exposuit praeter ipsum? si quidem Paulus non de externis. 
+      <lb ed="#H" n="105"/>donis, sed de externis officiis in Ecclesia praestandis a docentibus 
+      <lb ed="#H" n="106"/>agit: 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1534">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>Tertio quaecunque in coetibus Ecclesiasticis lingua ignota 
+      per<lb ed="#H" n="108" break="no"/>aguntur, ea nequaquam ad aedificationem, sed ad ostentationem 
+      <lb ed="#H" n="109"/>fiunt  
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1545">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>QUA RTUM argumentum nostrum est. Si Prophetae, 
+      Chri<lb ed="#H" n="111" break="no"/>stus ipse &amp; Apostoli in conventibus populi vernacula, aut omnibus 
+      <lb ed="#H" n="112"/>nota lingua in legenda Scriptura usi sunt: tum etiamnum idem 
+      no<lb ed="#H" n="113" break="no"/>bis faciendum. Quod antecedit verum est, ut videre licet. Nehem 
+      <lb ed="#H" n="114"/>8. v. 2, 3, 4, 8, 9. Luc. 4. v. 16, 17. Act. 13. v. 15. Ergo &amp; quod 
+      se<lb ed="#H" n="115" break="no"/>quitur, verum est 
+      <lb ed="#H" n="116"/>QUINTUM. Si Scriptura Sacra ideo olim in tot linguas 
+      ver<lb ed="#H" n="117" break="no"/>naculas est translata, ut ex illius auscultatione omnes auditores 
+      fru<lb ed="#H" n="118" break="no"/>ctum ahquem capere possent, tum profecto linguis vernaculis est 
+      <lb ed="#H" n="119"/>legenda. Prius est, ut testatur Socrates Historiae Ecclesiasticae libro 
+      <lb ed="#H" n="120"/>quarto, capite trigesimo tertio: &amp; Augustinus tertio tomo, libro 
+      <lb ed="#H" n="121"/>secundo, de doctrina Christiana, capite quinto. Quapropter et 
+      <lb ed="#H" n="122"/>iam vetus Testamentum translatum est in Graecam Linguam 
+      <lb ed="#H" n="123"/>item in Chaldaicam, tota Scriptura in Latinam. Hieronymus qui 
+      <lb ed="#H" n="124"/>erat Stridonensis Dalmata, transtulit Scripturam in linguam 
+      Dal<lb ed="#H" n="125" break="no"/>maticam: Methodius Moravorum Episcopus in Illyricam vel  
+      <lb ed="#H" n="126"/>Sclavonicam, Chrysostomus in Armeniacam, Umphilas Gothus 
+      <lb ed="#H" n="127"/>in Gothicam, alii in alias. Ergo verum &amp; posterius. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1589">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>Respondet Bellarminus varia: Primo se non negare posse 
+      Scri<lb ed="#H" n="129" break="no"/>pturas verti in linguas vulgares, sed tantum non debere pubfice 
+      le<lb ed="#H" n="130" break="no"/>gi lingua vulgari, nec passim omnibus permitti legendas lingua 
+      vul<lb ed="#H" n="131" break="no"/>gari. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1602">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>Deinde non ideo olim versas Scripturas ut publice legerentur.  
+      <lb ed="#H" n="133"/>sed tantum ad consolationem eorum hominum qui iis sine 
+      pericu<lb ed="#H" n="134" break="no"/>outi poterant.  
+      <lb ed="#H" n="135"/>Tertio Graecam Linguam item Latinam non fuisse omnibus vul 
+      <lb ed="#H" n="136"/>garem licet fuerit communissima 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1619">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Quarto Chaldaicam versionem esse potius paraphrasin. 
+      <lb ed="#H" n="138"/>REPLICATIO nostra. Ad primam responsionis partem 
+      <lb ed="#H" n="139"/>replicamus, frustra negari, Scripturas debere publice legi lingua 
+      <lb ed="#H" n="140"/>vulgari seu omnibus nota. Nam si transferendae sunt in linguam 
+      <lb ed="#H" n="141"/>vulgarem, certe etiam in illa legendae publice privatimque, quia 
+      <lb ed="#H" n="142"/>posito destinato ponitur &amp; finis. Sed translatio est destinata ad 
+      <lb ed="#H" n="143"/>hunc finem, ut Scripturae in linguis vernaculis legerentur. 
+      Bellar<lb ed="#H" n="144" break="no"/>minus perinde concedit versionem &amp; negat lectionem ac si diceret: 
+      <lb ed="#H" n="145"/>possunt quidem hospites invitari ad convivium, sed plerisque nihile 
+      <lb ed="#H" n="146"/>edendum nihilque bibendum: vel si quis convictoribus suis cibo 
+      <lb ed="#H" n="147"/>&amp; potus apponeret, sed ne omnes illis utantur. Legendas esse 
+      osten<lb ed="#H" n="148" break="no"/>dimus, quia Deus imperat, quia legentibus &amp; audientibus 
+      promit<lb ed="#H" n="149" break="no"/>tit dona sua &amp; salutem, quia ipsae Scripturae natura sua omnibus sunt, 
+      <lb ed="#H" n="150"/>salutares. In secunda parte responsionis negatur restrictio: nam 
+      il<lb ed="#H" n="151" break="no"/>lis gentibus sua lingua Scriptura edebatur, ut barbarie posita, inquit  
+      <lb ed="#H" n="152"/>Chrysostomus, melius philosophari discerent omnes. At 
+      Bellarmi<lb ed="#H" n="153" break="no"/>nus certis hominibus pauculis concedit, ne omnes philosophari 
+      di<lb ed="#H" n="154" break="no"/>scant, sed inter pauculos sint Scripturae velut sacra opertanea. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1663">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Ad tertiam partem replicamus, satis esse ad argumentum quod  
+      <lb ed="#H" n="156"/>lingua Graeca &amp; Latina fuerint communissimae, quia etiam vulge 
+      <lb ed="#H" n="157"/>communes erant.  
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1674">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Ad quartam partem replicamus, satis itidem esse ad argumentum 
+      <lb ed="#H" n="159"/>nostrum, quod Chaldaica versio sit paraphrasis, quia perscripta 
+      es<lb ed="#H" n="160" break="no"/>lingua vulgari Genti Chaldaeorum, &amp; communi finitimis multis 
+      <lb ed="#H" n="161"/>ideoque publice nota 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1687">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>SEXTUM. Pontifex Rom. Innocentius III. ipsemet libro primo, 
+      <lb ed="#H" n="163"/>decretalium Gregorii IX. titulo trigesimo primo de officio Judici: 
+      <lb ed="#H" n="164"/>ordinarii, capitulo Queniam in plerisque, quod est numero decimum 
+      <lb ed="#H" n="165"/>quartum, praecipit, ut, cum in aliqua urbe permisti sunt diversarum 
+      <lb ed="#H" n="166"/>linguarum homines, Episcopus provideat ut viri idonei diversis lin 
+      <lb ed="#H" n="167"/>guis divina officia celebrent &amp; Ecclesiastica Sacramenta ministrent, 
+      <lb ed="#H" n="168"/>instruendo eos verbo pariter &amp; exemplo. Similiter Papa Rom. 
+      con<lb ed="#H" n="169" break="no"/>cessit Cyrillo &amp; Methodio, ut lingua Sclavonica Moravis divina 
+      offi<lb ed="#H" n="170" break="no"/>cia celebrarent, quemadmodum refert AEneas Sylvius de 
+      Bohe<lb ed="#H" n="171" break="no"/>morum origine: Ergo Sacra linguis vernaculis celebranda, 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1713">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Respondet B. llarminus. Primo Innocentium tantum loqui in eo 
+      <lb ed="#H" n="173"/>capitulo de lingua Graeca &amp; Latina, non de linguis vulgaribus, 
+      alio<lb ed="#H" n="174" break="no"/>quin hoc decretum etiam fuisset in Italia obseivatum, in qua offici: 
+      <lb ed="#H" n="175"/>Latine celebrata fuerunt, cum tamen vulgaris lingua Italorum non 
+      <lb ed="#H" n="176"/>sit Latina. Secundo causam fuisse justam, cur Moravis Aposto 
+      <lb ed="#H" n="177"/>lica sedes concesserit lingua Sclavonica officia celebrare. quia 
+      <lb ed="#H" n="178"/>nimirum totum regnum simul convertebatur ad Christianisimum, 
+      <lb ed="#H" n="179"/>&amp; non poterant reperiri tot ministri, qui Latine celebrarent: postes 
+      <lb ed="#H" n="180"/>autem, ubi crevit cruditio, melius fuisse Latine sacra peragere, ut et 
+      <!--cod-MkL9py-0672.xml-->
+      <pb ed="#H" n="643"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>amnum Moravi Catholici faciant, secundum communem totius eo 
+      <lb ed="#H" n="2"/>clesiae consuetudinem. 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1748">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>REPLICATIO nostra. Quod ad decretum Innocentii attinet,  
+      <lb ed="#H" n="4"/>negatur ejus restrictio quam Bellarminus facit: nam primum ex 
+      <lb ed="#H" n="5"/>verbis capituli illa non potest probari: deinde etiamii expressa ibi 
+      ex<lb ed="#H" n="6" break="no"/>taret restrictio, consequi tamen juris ejusdem analogiam oportere. 
+      <lb ed="#H" n="7"/>de linguis aliis quibuscunque quum id quod commune est, ita de una 
+      <lb ed="#H" n="8"/>&amp; altem specie affirmetur, ut non negetur de aliis speciebus: postre 
+      <lb ed="#H" n="9"/>mo ipsa repugnant verba Canonis; sic enim ille habet: Quoniam in 
+      <lb ed="#H" n="10"/>plerisque partibus (non Constantinopoli aut in Graecia solum) intra 
+      <lb ed="#H" n="11"/>eandem civitatem atque dioecesin permisti sunt populi diversarum 
+      lin<lb ed="#H" n="12" break="no"/>guarum (non Graecae &amp; Latinae solum) habentes sub una fide virios 
+      <lb ed="#H" n="13"/>ritus &amp; mores; districte praecipimus, ut Pontifices hujusmodi civitatis 
+      <lb ed="#H" n="14"/>provideant viros idoneos, qui secundum diversitates rituum &amp; linguo 
+      <lb ed="#H" n="15"/>rum divina officia illis celebrent, &amp; Ecclesiastica Sacramenta 
+      mini<lb ed="#H" n="16" break="no"/>strent, instruendo eos verbo par ter &amp; exemplo. Evidentia omnia, &amp; ista 
+      <lb ed="#H" n="17"/>restrictionem evidenter refellentia. Ratio quam Bellarminus 
+      restri<lb ed="#H" n="18" break="no"/>ctioni suae addit, nulla est: quia in Italia communis diu fuerat Latinia 
+      <lb ed="#H" n="19"/>ingua, etsi vulgaris esset Italica, &amp; adhuc ex parte communis erat:  
+      <lb ed="#H" n="20"/>dispar igitur est ratio Italorum &amp; aliorum populorum. Tum quanta 
+      <lb ed="#H" n="21"/>linguarum Latinae &amp; Italicae inter se affinitas 
+    </p>
+            <p xml:id="yyy8Uu-xd8915-d1e1795">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Quod vero ad Moravos attinet, quae causa fuit illis concedendi 
+      u<lb ed="#H" n="23" break="no"/>sum linguae Sclavonicae initio conversionis ipsorum, eadem fuit 
+      sem<lb ed="#H" n="24" break="no"/>per &amp; est nunc continuandi usum illius. Nam etsi sacrificuli quidam 
+      <lb ed="#H" n="25"/>forte sint Latine eruditi: tamen plerosque indocta esse animalia 
+      <lb ed="#H" n="26"/>constat, &amp; quae Missa ventri obedientia reddidit: vulgus autem 
+      rusti<lb ed="#H" n="27" break="no"/>orum &amp; civium plerorumque tam novit hoc tempore Latinam 
+      <lb ed="#H" n="28"/>dinguam, quam initio conversionis. Ideo melius esset lingua 
+      verna<lb ed="#H" n="29" break="no"/>cula sacra ubique peragi, &amp; sacrificulos pseudocatholicos utilitatem 
+      <lb ed="#H" n="30"/>potius coetuum suae fidei commissorum sequi, quam stolidam atque 
+      <lb ed="#H" n="31"/>ineptam Romanae &amp; Antichristianae Synagogae (nam eam pro 
+      pu<lb ed="#H" n="32" break="no"/>ra &amp; orthodoxa Ecclesia Christi non agnoscimus) consuetudinem. 
+      <lb ed="#H" n="33"/>veritati divinae &amp; aedificationi Ecclesiae repugnantem. 
+      <lb ed="#H" n="34"/>Sic fuit de observationibus sacris: sequitur de aliis actios 
+      <lb ed="#H" n="35"/>
+               <pc type="indent"/>nibus religiosis ad sacra, quae vocant; 
+      <lb ed="#H" n="36"/>
+               <pc type="indent"/>pertinentibus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

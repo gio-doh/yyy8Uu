@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd523"><!-- l9-c8 -->
+            <head xml:id="yyy8Uu-gxd523-Hd1e103">Caput 8</head>
+            <p xml:id="yyy8Uu-gxd523-d1e106">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>CAPTII 
+      <lb ed="#H" n="151"/>In quo de Fiducia in Deum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e115">
+               <lb ed="#H" n="152"/>TIDUCIA in Deum, est virtus a Spiritu Sancto infusa, per quam 
+      <lb ed="#H" n="153"/>in Deo acquiescimus &amp; toti ab illo pendemus simpliciter &amp; 
+      per<lb ed="#H" n="154" break="no"/>se &amp; in omnibus rebus, sive ad salutem aeternam, sive ad hanc 
+      vi<lb ed="#H" n="155" break="no"/>tam pertinentibus, quas nobis promisit, nascens ex cognitione &amp; 
+      <lb ed="#H" n="156"/>contemplatione tum immutabilis voluntatis divine in promissionibus. 
+      <lb ed="#H" n="157"/>Dei declarate, tum potentiae divine, non qualicunque sed conjuncta 
+      ci<lb ed="#H" n="158" break="no"/>certissima persuasione de veritate promissionum Dei, qua confidi 
+      <lb ed="#H" n="159"/>mus nos certo consequuturos quaecunque nobis simpliciter pro sua 
+      <lb ed="#H" n="160"/>gratia pollicitus est. Jerem. 17. 7. Benedictus vir ille qui fiduciam 
+      <lb ed="#H" n="161"/>habet in Iehova, &amp; cujus confidentia est Iehova. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e139">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Ejus causa efficiens princeps est Deus, qui eam in cordibus nostris 
+      <lb ed="#H" n="163"/>excitat:  
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e148">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Causae impellentes nos ad eam sunt tentationes &amp; afflictiones in 
+      <lb ed="#H" n="165"/>quibus versamur. Psalm. 57. 2. beneficia ab ipso nobis praestita, Psal. 
+      <lb ed="#H" n="166"/>8. 2. Johan. 16. 33 
+      <lb ed="#H" n="167"/>Causa instrumentalis respectu Dei est verbum Dei, seu 
+      promissic<lb ed="#H" n="168" break="no"/>divina: Respectu nostri est fides, Ephes. 3. v. 12, ac proinde fiducia in 
+      <lb ed="#H" n="169"/>Deo nascitur ex cognitione Psal. 20. 7. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e167">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Fiduciae subjectum cui inest, est voluntas regenerata hominis 
+      cre<lb ed="#H" n="171" break="no"/>dentis: 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e176">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Ejusdem subjectum in quo collocatur &amp; collocari debet 
+      simplici<lb ed="#H" n="173" break="no"/>ter &amp; per se est Deus, &amp; quod eodem redit, sapientia, bonitas, justitia 
+      <lb ed="#H" n="174"/>gratia, misericordia, ac potentia Dei 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e187">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>Nam in Deo solo, cum de aliis rebus omnibus tum maxime 
+      de<lb ed="#H" n="176" break="no"/>remissione peccatorum ac vita aeterna consequenda, simpliciter &amp; 
+      <lb ed="#H" n="177"/>per se fiducia collocanda est, 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e198">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>I. Quia id nobis mandatum, Proverb. 3. 5. Fiduciam habe in 
+      Ie<lb ed="#H" n="179" break="no"/>hova ex toto corde tuo. Psalm. 4. 6. Fiduciam habete in Iehova, Psal 
+      <lb ed="#H" n="180"/>73. 3. Confide in Iehova. Et v. 5. Deuolve super Iehovam viam tuam 
+      <lb ed="#H" n="181"/>&amp; confide in eo. Et Psa. 62. 6. Tantummodo in Deo conquiesce anima 
+      <lb ed="#H" n="182"/>men. Et v. 9. Considite ei omni tempore, opopule, Jesa. 26. 4. 
+      <!--cod-MkL9py-0624.xml-->
+      <pb ed="#H" n="595"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>II. Quia Deus providentia sua nos servat &amp; tuetur, Psal. 4. v. 9. 
+      <lb ed="#H" n="2"/>In pace simul cubabo &amp; dormiam: cum tu Iehova solus facias ut 
+      se<lb ed="#H" n="3" break="no"/>cure habitem. Jes. 26. v. 4. Confidite Iehovae usque in sempiternum: nam 
+      <lb ed="#H" n="4"/>in Tah Iehova rupes seculorum est, id est, instar immotae arcis &amp; 
+      pro<lb ed="#H" n="5" break="no"/>pugnaculi fideles tuetur. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e231">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>III. Quia Deus opera edit eximia: nam succurrit omnibus in 
+      <lb ed="#H" n="7"/>quacunque afflictione constitutis, Psal. 62. v. 2. Tantummodo in Deo. 
+      <lb ed="#H" n="8"/>conquiescit anima mea, ab eo salus mea est. Et Psal. 37. v. 4, 5, 6. Oble 
+      <lb ed="#H" n="9"/>cta te in Iehova: qui dabit tibi petitiones animi tui. Devolve 
+      supe<lb ed="#H" n="10" break="no"/>lehovam viam tuam, &amp; confide in eo; nam ipse efficiet, Proferens 
+      <lb ed="#H" n="11"/>tanquam lucem justitiam tuam, &amp; jus tuum tanquam meridiem &amp; 
+      <lb ed="#H" n="12"/>v. 39, 40. Salus justorum a Iehova est, robur eorum tempore 
+      angu<lb ed="#H" n="13" break="no"/>stiae: Et adjuvat eos Iehova, ac liberat eos: liberat eos ab improbis 
+      ac<lb ed="#H" n="14" break="no"/>servat eos, quia recipiunt se ad ipsum. Et Psal. 115. v. 8. Israel confide 
+      <lb ed="#H" n="15"/>Iehovae, auxilium horum &amp; scutum horum est. Coercet vel destruit 
+      <lb ed="#H" n="16"/>suos &amp; Ecclesiae suae hostes, Jesa. 26. v. 5. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e260">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>IV. Quia in Deo vere fideles &amp; sancti fiduciam suam 
+      posue<lb ed="#H" n="18" break="no"/>runt, ut David, Psal. 11. v. 1. In Iehova confido, quomodo dicitis 
+      ani<lb ed="#H" n="19" break="no"/>maemeae, emigratee monte vestro ut avicula? Et. 13. v. 6. Ego in 
+      beni<lb ed="#H" n="20" break="no"/>gnitate tua fiduciam habeo. Et Psal. 16. v. 1. Recipio me ad te. Et 2. 
+      <lb ed="#H" n="21"/>v. 2. Deus mi, in te confido, &amp; 26. v. 1. Iehovae confido me non 
+      vacilla<lb ed="#H" n="22" break="no"/>turum. Psal. 57. v. 2. Gratiam fac mihi Deus, gratiam fac mihi: nam 
+      <lb ed="#H" n="23"/>in te cofidit anima mea, &amp; ad umbram alarum tuarum me 
+      receptu<lb ed="#H" n="24" break="no"/>rus sum, donec transiverint aerumnae. Similiter Judaei tempore Abijo 
+      <lb ed="#H" n="25"/>pugnantes adversus Jarobeamum &amp; Israelitas nitebantur Jehovi 
+      <lb ed="#H" n="26"/>Deo majorum suorum 2. Chron. 13. v. 18. Josaphatus rex Juda 2. Chri 
+      <lb ed="#H" n="27"/>to, audita Moabitarum contra se expeditione, etsi haberet ingene 
+      <lb ed="#H" n="28"/>tem exercitum, nempe undecies centenorum millium &amp; sexaginta. 
+      <lb ed="#H" n="29"/>millium praeter praesidiarios, ut ex cap. 17. liquet: tamen in tam nu 
+      <lb ed="#H" n="30"/>meroso exercitu non acquievit, sed ac si exercitu omni destitutus 
+      es<lb ed="#H" n="31" break="no"/>set, timuit &amp; ad Deum se convertit &amp; publico indicto jejunio 
+      preci<lb ed="#H" n="32" break="no"/>bus publicis divinam opem imploravit &amp; in ea promissa acquievit.  
+      <lb ed="#H" n="33"/>Istud est insigne exemplum verae fiduciae in Deo. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e303">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>V. Quia fiduciam in Deo collocantes beati sunt, Psal. 2. v. 12. 
+      Bea<lb ed="#H" n="35" break="no"/>ti omnes qui confidunt in eo seu qui se recipiunt ad eum. Et Psal. 40. 
+      <lb ed="#H" n="36"/>v. 5. Proverb. 16. v. 26. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e314">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>VI. Quia fiducia in Deo est utilissima, Prov. 22. v. 18, 19. 
+      Amoe<lb ed="#H" n="38" break="no"/>num erit, si servaveris haec in ventre tuo, sicomparentur pariter in 
+      <lb ed="#H" n="39"/>lubiis tuis: si fuerit in Iehova fiducia tua. Et cap. 28. v. 25. Qui 
+      con<lb ed="#H" n="40" break="no"/>fidit Iehovae, pinguis efficietur, id est, benedictionibus Dei 
+      ditabi<lb ed="#H" n="41" break="no"/>tur. Qui nituntur Jehova, prosperantur &amp; victorias de hostibus 
+      obti<lb ed="#H" n="42" break="no"/>nent, ut Judaei de Israelitis, 2. Chron. 13. vers. 18. &amp; de AEthiopibus: 
+      <lb ed="#H" n="43"/>Chron. 16. ver. 8. Annon AEthiopum illorum &amp; Libyum erant copiae 
+      <lb ed="#H" n="44"/>numerosae curribus &amp; equitibus quamplurimum: tamen quum in 
+      <lb ed="#H" n="45"/>nitereris Iehova, tradidit eas in manum tuam. Fiducia in Deo parit. 
+      <lb ed="#H" n="46"/>sanctam secutitatem &amp; tranquillitate animi, &amp; adimit omnem 
+      me<lb ed="#H" n="47" break="no"/>tum hostilem, ut Davidis exemplum docet, Psal. 3. v. 6, 7. Ego 
+      cubui<lb ed="#H" n="48"/>&amp; dormivi, expergefeci me; quia Iehova sustentat me. Non timebo 
+      <lb ed="#H" n="49"/>a myriadibus populi; quas circum disposuerint metatores contra 
+      me<lb ed="#H" n="50" break="no"/>Omnigenam benedictionem homini praestat, Jer. 17. v. 7, 8. 
+      Benedi<lb ed="#H" n="51" break="no"/>ctus vir ille qui fiduciam habet in Iehova, &amp; cujus confidentia est 
+      Ie<lb ed="#H" n="52" break="no"/>hova. Nam erit similis arbori plantatae secundum aquas, &amp; 
+      secun<lb ed="#H" n="53" break="no"/>dum processum aquarum mittenti radices suas, quae non sentit quum 
+      <lb ed="#H" n="54"/>advenerit aestus, sed sunt folia ejus virentia: &amp; anno cohibitionis non 
+      <lb ed="#H" n="55"/>est sollicita, neque desinit quin faciat fructum Psal. 21. v. 8. Quoniam 
+      <lb ed="#H" n="56"/>ipse rex confidit Iehovae, ideo fretus benignitate excelsi non 
+      dimave<lb ed="#H" n="57" break="no"/>bitur. &amp; 125. v. 1. Qui confidunt Iehovae, similes sunt monti Tionis, 
+      <lb ed="#H" n="58"/>qui non dimovetur, in saculum permanet. Jer. 39. ver. 18. ait Deus ad 
+      <lb ed="#H" n="59"/>Hebedmelechum: Omnino liberabo te &amp; gladio non cades: eritque 
+      ti<lb ed="#H" n="60" break="no"/>bi vita tua spolij loco, quia fiduciam habuisti in me¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e371">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>VII. Quia parit in credentibus sanctam securitatem, Psal. 3. v. 6. 
+      <lb ed="#H" n="62"/>Ego cubui &amp; dormivi, expergefeci me: quia Iehova sustentat me¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e380">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>QuaeRITUr, An &amp; quare in CHRISTO JESU sit fiducia collocan 
+      <lb ed="#H" n="64"/>da, quum sit homo, ac proinde creatura? RESP. Si Christus Jesus 
+      es<lb ed="#H" n="65" break="no"/>set tantum homo &amp; nuda creatura, tum non esset in eo fiducia 
+      collo<lb ed="#H" n="66" break="no"/>canda, sed quia non tantum homo &amp; creatura est, sed etiam verus 
+      na<lb ed="#H" n="67" break="no"/>tura Deus &amp; creator omnium, idcirco est in ipso fiducia religiose 
+      po<lb ed="#H" n="68" break="no"/>nenda. Qui autem negant aeternam &amp; increatam Deitatem 
+      Christi<lb ed="#H" n="69"/>&amp; faciunt Christum cum Cerinthianis, Samosatenianis, Arianis 
+      <lb ed="#H" n="70"/>Nestorianis, purum putum hominem, &amp; tamen in eo fiduciam 
+      salu<lb ed="#H" n="71" break="no"/>tis aeternae collocant; illi sunt idololatrae, &amp; percutiuntur anathema 
+      <lb ed="#H" n="72"/>te illo Jer. 17. v. 5. Maledictus vir ille, qui fiduciam habet in homine &amp; 
+      <lb ed="#H" n="73"/>statuit carnem brachium suum, a Iehova autem recedit cor ejus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e409">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Fiducia in Deum sincera esto, ut praecipitur Prov. 3. v. 5. Fiduciam 
+      <lb ed="#H" n="75"/>habe in Iehova ex toto corde tuo. Eadem stabilis esto, quamvis 
+      tenta<lb ed="#H" n="76" break="no"/>tionibus, minis, &amp; terroribus oppugnatur: qualis fuit Ezechiae &amp; Is 
+      <lb ed="#H" n="77"/>raelitatum, quum rex Assyriae regnum Judae invasisset, 2. Reg. 18. &amp; 15. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e422">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Est imperfecta in hac vita: nam habet admixtum aliquid diffider 
+      <lb ed="#H" n="79"/>tiae aut saltem aliquid dubitationis proficiscentis ab infirmitate 
+      car<lb ed="#H" n="80" break="no"/>nis nostrae, ut ostendit exemplum Zachariae Sacerdotis, patris 
+      Johan<lb ed="#H" n="81" break="no"/>nis Baptistae, Luc. 1. Est tamen perpetua, quae neque praesentibus pe 
+      <lb ed="#H" n="82"/>ticulis &amp; tentationibus, neque futuris, quaecunque carnis timor ingerit,  
+      <lb ed="#H" n="83"/>convellitur, sed stabilis permanet, sic ut illa Deo per omnem vitam 
+      <lb ed="#H" n="84"/>firmiter innitamur: sicut David Psalm. 18. v. 3. ait futuro tempore 
+      <lb ed="#H" n="85"/>quod se ad Deum recepturus sit. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e445">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Eam fideles testificantur &amp; profitentur ad gloriam Dei &amp; 
+      conso<lb ed="#H" n="87" break="no"/>lationem suam aliorumque fidelium, ut David Psal. 3. v. 4, 7. 
+      Eccle<lb ed="#H" n="88" break="no"/>sia item Psal. 20. v. 7. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e456">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Fiduciae in Deum contraria est diffidentia erga Deum, quae sic de 
+      <lb ed="#H" n="90"/>scribitur: 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e465">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Diffidentia erga Deum, est peccatum, quum quis aut omnino non 
+      <lb ed="#H" n="92"/>fidit soli promissioni divinae, de re aliqua vel ad salutem aeternam ve¬ 
+      <!--cod-MkL9py-0624.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>ad praesentem vitam pertinente, quamvis certae; aut de promissionis 
+      <lb ed="#H" n="94"/>illius impletione dubitat: proficiscens a nativa infidelitate hominum 
+      <lb ed="#H" n="95"/>propter defectum mediorum ordinariorum &amp; apparentem 
+      impos<lb ed="#H" n="96" break="no"/>sibilitatem consequendi id quod Deus promisit. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e487">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>Causa efficiens diffidentiae erga Deum est nativa infidelitas 
+      homi<lb ed="#H" n="98" break="no"/>num. Cur enim diffidunt plurimi homines de salute aeterna: per 
+      Chri<lb ed="#H" n="99" break="no"/>stum solum habenda? nisi quia promissioni divinae non credunt. 
+      Ex<lb ed="#H" n="100" break="no"/>emplum est in Pharisaeis qui diffidebant de vita aeterna per Christum 
+      <lb ed="#H" n="101"/>solum consequenda sine suis meritis. Exemplum diffidentiae erga 
+      <lb ed="#H" n="102"/>Deum est in Asa Rege Juda, qui licet alioquin fidelis esset, tamen 
+      me<lb ed="#H" n="103" break="no"/>tu Bahasae Regis Israelitici a Benhadado Rege Syriae auxilium 
+      peti<lb ed="#H" n="104" break="no"/>it &amp; non potius a Deo, 2. Chron. 16. Exemplum est in Achazo Jesa. 
+      <lb ed="#H" n="105"/>7. qui diffidebat Deo promittenti liberationem urbis 
+      Jerosolymo<lb ed="#H" n="106" break="no"/>rum &amp; regni Judae a Retzine Rege Syriae &amp; Peltacho filio Remaliae 
+      <lb ed="#H" n="107"/>Rege Israelis, &amp; alia sibi via prospicere adversus hostes volebat.  
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e516">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>Effectus diffidentiae erga Deum, est anxietas animi &amp; 
+      supervaca<lb ed="#H" n="109" break="no"/>neae curae, 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e525">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Serio est cavenda: 
+      <lb ed="#H" n="111"/>I. Quia a Deo prohibita est inprimo praecepto Decalogi &amp; 
+      pas<lb ed="#H" n="112" break="no"/>Csim in Scriptura Sacra¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e537">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>II. Quia a Deo reprehenditur in quovis: ut in Achaxo Rege 
+      Ju<lb ed="#H" n="114" break="no"/>dae, Jes. 7. v. 13. Audite jam (ait Propheta, per Spiritum Dei) domus 
+      <lb ed="#H" n="115"/>Davidis, an parva res est prae vobis, fatigare homines, quod etiam 
+      fa<lb ed="#H" n="116" break="no"/>tigatis Deum meum? In reliquiis Judaeorum ex praesente tenuitate 
+      <lb ed="#H" n="117"/>sua diffidentium magnificis promissionibus Dei, Zach. 8. v. 6. Sic ait 
+      <lb ed="#H" n="118"/>Iehova exercituum, quia mirabile est inoculis reliquiarum populi, 
+      <lb ed="#H" n="119"/>hujus diebus his, anetiam in oculis meis mirabile esset, id est, factu 
+      <lb ed="#H" n="120"/>impossibile 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e559">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>III. Quia certum affert damnum, Jesa. 31. v. 1. Vae illis qui non 
+      re<lb ed="#H" n="122" break="no"/>spiciunt ad Sanctum Israelis, &amp; Iehovam non requirunt 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e568">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Disparantur a vera fiducia in Deo, confidentia temeraria, fiducia 
+      <lb ed="#H" n="124"/>in Deo temporaria, fiducia idololatrica. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e577">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Confidentia temeraria, est peccatum, quum quis aliquid ad 
+      prae<lb ed="#H" n="126" break="no"/>sentem vel futuram vitam pertmens, se posse a Deo impetrate 
+      confi<lb ed="#H" n="127" break="no"/>dit, aut potius confidere se inaniter gloriatur, aut neglectis mediis a 
+      <lb ed="#H" n="128"/>Deo ordinatis, aut adhibitis mediis voluntati Dei adversantibus 
+      qua<lb ed="#H" n="129" break="no"/>si volens Deum ipsum antevertere: quum novam aut peculiarem 
+      <lb ed="#H" n="130"/>non habeat a Deo extraordinariorum mediorum promissionem. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e595">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>Media enim ad aliquid consequendum ordinata a Deo, adhiben 
+      <lb ed="#H" n="132"/>da &amp; nequaquam contemnenda aut negligenda sunt. Isle vero 
+      teme<lb ed="#H" n="133" break="no"/>rarius est, qui sine mediis divinitus ordinatis aliquid agere conatur &amp; 
+      <lb ed="#H" n="134"/>se posse perficere confidit, nisi novam &amp; peculiarem habeat 
+      promis<lb ed="#H" n="135" break="no"/>sionem divinam, quae talia ordinaria media non exigat. Ad talem 
+      <lb ed="#H" n="136"/>confidentiam Satanas Christum perducere conabatur, quum eum 
+      <lb ed="#H" n="137"/>tentans assumsisset in sanctam urbem &amp; statuisset super pinnas 
+      tem<lb ed="#H" n="138" break="no"/>pli, diceretque ei: Si Filius es Dei, dejice teipsum deorsum. 
+      Exem<lb ed="#H" n="139" break="no"/>plum confidentiae temerariae est in sacrificulis Papisticis, Monachis, 
+      <lb ed="#H" n="140"/>&amp; aliis clericis in Papatu, qui humanae suae infirmitatis obliti, 
+      perpe<lb ed="#H" n="141" break="no"/>tuo coelibatui se pares esse &amp; semper caste victuros confidunt absque 
+      <lb ed="#H" n="142"/>peculiari promissione divina: item in illis, qui praesumunt se vitam 
+      <lb ed="#H" n="143"/>habituros aeternam, quod credant in Christum, sed fide mortua 
+      <lb ed="#H" n="144"/>quodque Sacramentis utantur, contemto interim studio bonorum. 
+      <lb ed="#H" n="145"/>operum &amp; neglecta obedientia Legis divinae. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e632">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>Confidentia hujusmodi est fugienda: 
+      <lb ed="#H" n="147"/>I. Quia prohibita est a Deo Legibus duarum tabularum, 
+      nimi<lb ed="#H" n="148" break="no"/>rum lege prima, Non habebis Deos alienos coram mei 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e644">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>II. Quia est vana atque irrita: ut ostendit exemplum Petri, &amp; 
+      a<lb ed="#H" n="150" break="no"/>liorum Apostolorum, qui praesumebant, se non offensum iri in 
+      Do<lb ed="#H" n="151" break="no"/>mino Jesu, se non abnegaturos ipsum, etiamsi oporteret eos mor 
+      <lb ed="#H" n="152"/>cum ipso, sed inanis fuit illa confidentia: nam non multo post omnes. 
+      <lb ed="#H" n="153"/>relicto Jesu, fugerunt, Matth. 26. v. 33. 35, 36. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e660">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>III. Quia est noxia: ut ostendunt exempla. Amatzia rex Iudae 
+      <lb ed="#H" n="155"/>insignem conta Edomaeos consequutus victoriam, temere bellum 
+      <lb ed="#H" n="156"/>movit adversus Israelitas fiducia temeraria auxilij divini &amp; victoriae 
+      <lb ed="#H" n="157"/>etiam de Israelitis consequendae concepta, sed praelio inito fusus, 
+      ca<lb ed="#H" n="158" break="no"/>ptus &amp; gravi mulcta affectus est, 2. Reg. 14. Iosias rex Iuda non 
+      ne<lb ed="#H" n="159" break="no"/>cessarium bellum adversus Neconem regem AEgypti quaerens, fidu 
+      <lb ed="#H" n="160"/>cia inani auxilij divini &amp; victoriae de Rege AEgypti reportandae 
+      con<lb ed="#H" n="161" break="no"/>cepta contra monita divina signis collatis cum eo conflixit: sed 
+      letha<lb ed="#H" n="162" break="no"/>li vulnere accepto mortuus regnum turbatum reliquit 2. Regum 23 
+      <lb ed="#H" n="163"/>1. 29, 30. &amp; 2. Chron. 35. v. 20, 21, 22, 23, 24. Post omnia haec, quum 
+      <lb ed="#H" n="164"/>Ioschija constituisset domi, ascendebat Neco rex AEgypti ad 
+      oppugnan<lb ed="#H" n="165" break="no"/>dum Carcemischum ad Euphratem, cui procedebat obviam 
+      Ioschija<lb ed="#H" n="166" break="no"/>Et quamvis mitteret ad ipsum legatos, dicendo, quid mihi tecum, res 
+      <lb ed="#H" n="167"/>Iehudae? non contra te, heus tu, hac die, sed contra domum belligerum 
+      <lb ed="#H" n="168"/>tem adversum me, quo Deus edixit accelerare me: abstine te a Dei. 
+      <lb ed="#H" n="169"/>qui mihi adest, &amp; ne perdat te: Tamen non avertit Ioschija faciem 
+      <lb ed="#H" n="170"/>suam ab illo, sed ut pugnaret contra eum, dissimulavit se, neque ausculo 
+      <lb ed="#H" n="171"/>tavit verbis Neconis ex verbo Dei, venit autem ad pugnandum, in 
+      <lb ed="#H" n="172"/>convallem Megidduntis. Ubi quum jaculati essent jaculatores 
+      inre<lb ed="#H" n="173" break="no"/>gem Ioschijam; edixit rex servis suis, devehite me, quia agtotus 
+      fa<lb ed="#H" n="174" break="no"/>ctus sum valde. Devehentes itaque servi ejus, a curru ejus demissum 
+      <lb ed="#H" n="175"/>imposuerunt currui secundario quem habebat: &amp; deduxerurit eum 
+      <lb ed="#H" n="176"/>Ieruschalaima, ubi mortuus est, &amp; sepultus in sepulcris maj orum suo. 
+      <lb ed="#H" n="177"/>rum: toto Iehuda &amp; Ieruschalaimis lugentibus propter Ioschajam. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e717">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>IV. Quia vitata fuit a sanctissimis quibusque &amp; ob fidem 
+      testimo<lb ed="#H" n="179" break="no"/>nio divino ornatis, ut ab Abrahamo, Isaaco &amp; Jacobo Qui famis 
+      de<lb ed="#H" n="180" break="no"/>pellendae causa eterra promissa alio se contulerunt. Nechemias &amp; 
+      <lb ed="#H" n="181"/>cum eo fideles alij audita conspiratione vicinorum hostium qui 
+      con<lb ed="#H" n="182" break="no"/>stituerant venire ut oppugnaret Jerosolyma aut impedirent coeptam 
+      <lb ed="#H" n="183"/>turbis instaurationem, oraverunt quidem Deum &amp; defensionem ejus. 
+      <lb ed="#H" n="184"/>implorarunt; nihilominus tamen constituerunt custodiam adversus. 
+      <!--cod-MkL9py-0625.xml-->
+      <pb ed="#H" n="596"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>hostes interdium &amp; noctu metu eorum &amp; disciplinam militatem 
+      insti<lb ed="#H" n="2" break="no"/>tuerunt, ut legitur Nechem. 4. v. 8. &amp; sequentibus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e748">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>V. Quia temeraria confidentia tentatur Deus. Nam tentare 
+      <lb ed="#H" n="4"/>Deum, est ex incredulitate aut diffidentia erga Deum, aut 
+      contemt<lb ed="#H" n="5" break="no"/>Dei &amp; fiducia propriae sapientiae, justitiae, aut potentiae, aut gloriae; 
+      dis<lb ed="#H" n="6" break="no"/>cedere a verbo &amp; ordine divino, &amp; media ordinaria ad aliquid 
+      con<lb ed="#H" n="7" break="no"/>sequendum a Deo constituta relinquere &amp; ad sua propria 
+      figmenta<lb ed="#H" n="8" break="no"/>confugere atque ita experimentum capere divinae veritatis aut 
+      po<lb ed="#H" n="9" break="no"/>tentiae, ac Deum provocare ut edat veritatis, potentiae &amp; praesentiae 
+      <lb ed="#H" n="10"/>suae signa, atque sic eum contumaciter atque superbe ad iram iritare 
+      <lb ed="#H" n="11"/>quod summe Deo displicet &amp; ab ipso graviter prohibetur; Deut. 6. v. 
+      <lb ed="#H" n="12"/>16. Ne tentatote Iehovam Deum vestrum. Matth. 4. v. 7. Scriptum 
+      <lb ed="#H" n="13"/>est, Non tentabis Dominum Deum tuum. Actor. 15. v. 10. Nunc ergo 
+      <lb ed="#H" n="14"/>quid tentatis Deum ad imponendum jugum cervici discipulorum 
+      <lb ed="#H" n="15"/>quod neque Patres nostri, neque nos portare potuimus? id est, quid 
+      fidu<lb ed="#H" n="16" break="no"/>cia temeratia vestrarum virium inflati estis, ac si possetis Legem 
+      im<lb ed="#H" n="17" break="no"/>plere &amp; per ejus impletionem salutem aeternam consequi: ac proinde 
+      <lb ed="#H" n="18"/>idem jugum legis servandae imponere aliis quoque vultis 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e787">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Fiducia in Deum temporaria, est quae in homine etiam improbo 
+      <lb ed="#H" n="20"/>apparere aliquando potest, etiam in magno aliquo periculo, sed quia 
+      <lb ed="#H" n="21"/>erae fidei radices non habet, evanida est: qualis fuit fiducia Abijae 
+      im<lb ed="#H" n="22" break="no"/>probi Regis Juda pugnaturi contra Jarobeam regem Israelis, 2. 
+      Chr<lb ed="#H" n="23" break="no"/>13. v. 10, 11, 12. Improbum autem fuisse, narratur 1. Reg. 15. v. 3. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e803">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Attamen Abija Deo confisus felicissime contra Jarobeamum 
+      pu<lb ed="#H" n="25" break="no"/>gnavit, Deo plaga afficiente Jarobeamum &amp; totum Israelem, 1. 
+      Chr<lb ed="#H" n="26" break="no"/>13. v. 15, 16, 17. Non vero propter illam fiduciam Abijae, victoriam 
+      <lb ed="#H" n="27"/>Deus largitus est, &amp; lucernam, id est, regnum &amp; religionem 
+      Jeroso<lb ed="#H" n="28" break="no"/>lymis conservavit, sed propter fedus cum Davide initium &amp; 
+      promis<lb ed="#H" n="29" break="no"/>sionem Davidi factam, ut ostenditur I. Reg. 15. v. 4. 
+      <lb ed="#H" n="30"/>e Temporatiam autem illam fiduciam muneratus est Deus tam 
+      in<lb ed="#H" n="31" break="no"/>signi victoria ad consolationem nostram, ut nimirum inde statua. 
+      <lb ed="#H" n="32"/>mus, Deum multo magis praemio affecturum veram ac perpetuam 
+      <lb ed="#H" n="33"/>fiduciam qualem vere fideles in Deo habent 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e830">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Fiducia idololatrica, est peccatum cum quis confidit in quacunque 
+      <lb ed="#H" n="35"/>re alia praeter Deum, veluti in creaturis aut consiliis humanis, aut 
+      re<lb ed="#H" n="36" break="no"/>bus aliquibus manu humana factis, ut templis, muris urbium, 
+      muni<lb ed="#H" n="37" break="no"/>tionibus, &amp; non in Deo; aut plus quam in Deo, aut plus saltem quam 
+      <lb ed="#H" n="38"/>debebat, aut in quo fidere illis non debebat, sic ut honorem soli Deo. 
+      <lb ed="#H" n="39"/>debitum in res alias transferens, revera plures &amp; alios deos habeat 
+      <lb ed="#H" n="40"/>Asa in Benhadado Rege Syriae plus confidebat, quam in Deo, 1. Reg 
+      <lb ed="#H" n="41"/>15. v. 18. 2. Chron. 17. v. 2, 7. item morbo afflictus ad medicos 
+      tan<lb ed="#H" n="42" break="no"/>tum, non ad Deum recurrit, 2. Chron. 16. v. 12. Qui vitam acceptam 
+      <lb ed="#H" n="43"/>fert cibo &amp; potui aut sanitatem medicamentis, plus fidit creaturi: 
+      <lb ed="#H" n="44"/>quam debebat. Hoc peccato peccant, qui confidunt divitiis, qui fidus 
+      <lb ed="#H" n="45"/>ciam salutis aeternae collocant in re externa aliqua, velut in externo. 
+      <lb ed="#H" n="46"/>cultu Dei, in Sacramentis: aut in re non ordinata a Deo ut esset 
+      me<lb ed="#H" n="47" break="no"/>dium salutis aeternae, ut si homo confidat in meritis suis vel aliorum 
+      <lb ed="#H" n="48"/>hominum praeter Christum, in indulgentiis, in missis Papisticis, in Sa 
+      <lb ed="#H" n="49"/>ctis demortuis, (nam Thomas Aquinas secunda secundae quaest. 96. 
+      <lb ed="#H" n="50"/>art. 4. ait de reliquiis: Quod si portentur ex fiducia Dei &amp; sanctorum 
+      <lb ed="#H" n="51"/>quorum sunt reliquiae, non erit illicitum,) in cucullis aut promissis 
+      <lb ed="#H" n="52"/>monachorum, in rebus consecratis, in vigiliis, precibus pro defunctis 
+      <lb ed="#H" n="53"/>&amp; similibus nugis: imo etiam in fide sua, in charitate, in Evangelico 
+      <lb ed="#H" n="54"/>ipso, quum fiducia salutis aeternae in solo Deo sit collocanda, 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e880">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Fiducia quoque idololatrica omnino est fu¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e887">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>gienda, 
+      <lb ed="#H" n="57"/>I. Quia est a Deo prohibita, Psal. 62. v. 11. Opulentia si abundet 
+      <lb ed="#H" n="58"/>ne apponatis animum. Jerem. 7. v. 4. Ne habetote fiduciam vestram 
+      <lb ed="#H" n="59"/>in rebus falsis, dicendo: templum Iehovae, templum Iehovae, templum 
+      <lb ed="#H" n="60"/>Iehovae istud est 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e903">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>II. Quia a Deo reprehenditur, Jerem. 7. vers. 8. Ecce vos habeti 
+      <lb ed="#H" n="62"/>fiduciam vestram in verbis falsis, minime profuturis 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e912">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>III. Quia est inanis: ut ostendit exemplum Asae Regis Juda: 
+      <lb ed="#H" n="64"/>Chron. 16. ver. 7. cui Chanani Propheta dixit: quandoquidem 
+      inni<lb ed="#H" n="65" break="no"/>xus es Rege Syriae, ac non innixus es Iehova Deo tuo, idcirco 
+      proripi<lb ed="#H" n="66" break="no"/>unt se copiae Regis Syriae, ne sint ad manum tibi. Sic Psalm. 49. v. 7, 8. 
+      <lb ed="#H" n="67"/>Eorum qui confidunt in opulentia sua, &amp; in multitudine divitia 
+      <lb ed="#H" n="68"/>rum suarum gloriantur: Eratrem nullo modo redimere potest 
+      quis<lb ed="#H" n="69" break="no"/>quam, non dare Deo redemturam ejus. 
+      <lb ed="#H" n="70"/>IV. Quia est valde noxia, ut dicitur Proverb. 11. v. 28. Qui 
+      confi<lb ed="#H" n="71" break="no"/>dit in divitiis suis, ipse decidet, nempe, ut folium aridum &amp; putridus 
+      <lb ed="#H" n="72"/>ramus. Jesa. 31. 1. Vae descendetibus in AEgyptum ad auxilium &amp; qui 
+      in<lb ed="#H" n="73" break="no"/>nituntur equis: qui confidunt curribus quum multi sunt &amp; equiti. 
+      <lb ed="#H" n="74"/>bus cum sunt numerosi valde. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e943">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>Hujus peccati species sunt; fiducia in Principe seu homine alio, 
+      fi<lb ed="#H" n="76" break="no"/>ducia in idolis, fiducia in meritis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e953">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Fiducia sui, est peccatum cum homo in suis viribus confidit, &amp; s 
+      <lb ed="#H" n="78"/>facturum praesumit, quod nonnisi gratia Dei facit, &amp; habere se 
+      ali<lb ed="#H" n="79" break="no"/>quid putat cujus merito apud Deum commendetur, ac proinde 
+      ali<lb ed="#H" n="80" break="no"/>quid quod ad praesentem vel futuram vitam pertinet, se obtenturum 
+      <lb ed="#H" n="81"/>confidit propter suam aliquam dignitatem, vel per sapientiam &amp; 
+      pru<lb ed="#H" n="82" break="no"/>dentiam suam. Talis est fiducia perfectionis Papistica &amp; 
+      Anabapti<lb ed="#H" n="83" break="no"/>sticat 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e973">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>Fiducia sui abjicienda &amp; sedulo cavenda est? 
+      <lb ed="#H" n="85"/>I. Quia prohibetur a Deo, Prov. 3. v. 5. Intelligentiae tuae ne 
+      inni<lb ed="#H" n="86" break="no"/>titor 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e984">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>II. Quia a Christo reprehenditur etiam in sanctis hominibus, ut 
+      <lb ed="#H" n="88"/>in Petro Johan. 13. v. 38. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e993">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>III. Quia vana est, &amp; fallax, ut docet exemplum Petri, cui 
+      praesu<lb ed="#H" n="90" break="no"/>menti de se, respondit Dominus Johan. 13. v. 38. Animam tuam pro 
+      <lb ed="#H" n="91"/>me depones? Amen, amen dico tibi, non emittet vocem gallus, donec 
+      <lb ed="#H" n="92"/>ter me abnegaveris. 
+      <!--cod-MkL9py-0625.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>In nullo Principe seu quocunque alio homine fiducia est 
+      collo<lb ed="#H" n="94" break="no"/>canda: 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1015">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>I. Quia in homine fiduciam habere Deus prohibet, Psal. 146. v. 3. 
+      <lb ed="#H" n="96"/>Ne fiduciam habetote in Principibus. Jes. 3. v. 1. Abstinete vos ab ipso 
+      <lb ed="#H" n="97"/>homine 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1026">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>II. Quia in hominis nullius potestate est, aliis salutem praestaret. 
+      <lb ed="#H" n="99"/>Psal. 146. v. 3. penes quem nulla est salus. Ita rex Syriae nihil profuit 
+      <lb ed="#H" n="100"/>Asae Regi Judaeae 2. Chron. 16. v. 7. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1038">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>III. Quia homo est mortalis, Psal. 146. v. 4. Exit spiritus ejus, 
+      re<lb ed="#H" n="102" break="no"/>vertitur in terram suam. Jesa. 3. v. 1. halitus est in naso ipsius, id est 
+      <lb ed="#H" n="103"/>vita ejus est fumus, ac proinde nulla ex parte est cum Deo 
+      omnipo<lb ed="#H" n="104" break="no"/>tento comparandus, 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1051">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>IV. Quia hominis cogitationes die uno pereunt, Psal. 146. v. 4. 
+      <lb ed="#H" n="106"/>V. Quia homo est mera vanitas, sic ut exspectationem &amp; fiduciam 
+      <lb ed="#H" n="107"/>aliorum omnino frustretur, Psal. 62. vers. 10. Tantummodo vanitas. 
+      <lb ed="#H" n="108"/>sunt nati plebejo homine; mendacium sunt nati praestante viro: 
+      lan<lb ed="#H" n="109" break="no"/>libus illi simul impositi, ascensuri essent supra vanitatem. Jes. 3. ver. 1. 
+      <lb ed="#H" n="110"/>quanti aestimandus esset homo? q. de quid est homo? quid est homini: 
+      <lb ed="#H" n="111"/>aut quid inesse potest tantum quod non intereat ex se, aut amittatur 
+      <lb ed="#H" n="112"/>per voluntatem Dei momento uno? Exemplo est Achax rex Juda qui  
+      <lb ed="#H" n="113"/>ab Edomaeis &amp; Pelischthaeis pressus recurrit ad Assyrium Thiglath. 
+      <lb ed="#H" n="114"/>Pilneeserum, qui veniens angustia affecit eum, non autem 
+      confirma<lb ed="#H" n="115" break="no"/>vit eum, 2. Chron. 28. v. 20. 21. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1080">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>VI. Quia melius est recipere se ad Jehovam, quam fiduciam 
+      habe<lb ed="#H" n="117" break="no"/>re in ullo homine. Melius est recipere se ad Jehovam, quam fiduciam 
+      <lb ed="#H" n="118"/>habere in Principibus, Psal. 118. v. 8, 9. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1091">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Caeterum idololatrica fiducia est discernenda a liberali de aliis fi 
+      <lb ed="#H" n="120"/>ducia qua nobis persuademus nostrum laborem illorum causa 
+      susce<lb ed="#H" n="121" break="no"/>tum non esse inanem, nostram de illis exspectationem in 
+      praestan<lb ed="#H" n="122" break="no"/>do officio non fore irritam: qualis fuit πεπειθεσις seu fiducia Pauli 
+      A<lb ed="#H" n="123" break="no"/>postoli de Corinthiis, quam profitetur 2. Corinth. 3. v. 2, 3. 4. &amp; cap 
+      <lb ed="#H" n="124"/>8. v. 22. Et de Galatis Galat. 5. v. 10. Ego confido de vobis in Domino. 
+      <lb ed="#H" n="125"/>vos nihil aliud esse sensuros. Sic Augustinus secundo tomo epistolam; 
+      <lb ed="#H" n="126"/>decimanona ait: Petis vel potius fiducia charitatis jubes, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1113">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Fiducia in idolis itidem non collocanda: 
+      <lb ed="#H" n="128"/>I. Quia a Deo severe vetita est Lege, Non habebis Deos alios 
+      prae<lb ed="#H" n="129" break="no"/>ter me. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1124">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>II. Quia idola nihil sunt in mundo, 1. Corinth. 8. vers. 4. nimirum, 
+      <lb ed="#H" n="131"/>non quoad materiam vel formam suam, nec quoad 
+      repraesentatio<lb ed="#H" n="132" break="no"/>nem, sed quoad virtutem, potentiam, efficacitatem, quam minimum 
+      <lb ed="#H" n="133"/>valent, id est, non afficiunt malo, etiamque benefacere non est penes ipsa, 
+      <lb ed="#H" n="134"/>ut dicitur Jerem. 10. v. 5. 
+      <lb ed="#H" n="135"/>III. Quia idolis confidentes, evadunt illis similes, Psalm. 135. v. 18. 
+      <lb ed="#H" n="136"/>Similes illis futuri sunt, qui faciunt illa, quisquis confidit illis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1145">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>IV. Quia fiducia in idolis est noxia, Jesa. 42. v. 17. Auertentur res 
+      <lb ed="#H" n="138"/>trorsum, suffundentur pudore qui confidunt sculptili, qui dicunt 
+      fu<lb ed="#H" n="139" break="no"/>sili, vos estis dij nostri¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1156">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Etiam in meritis nostris nulla fiducia collocanda: quia nulla 
+      pla<lb ed="#H" n="141" break="no"/>ne sunt proprie loquendo: sicut dicitur Luc. 17. 10. Quum feceritis 
+      <lb ed="#H" n="142"/>ea omnia quae praecepta sunt vobis, dicite, Servi inutiles sumus: num 
+      <lb ed="#H" n="143"/>quod debuimus facere, fecimus 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1169">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Contra Bellarminus tertio tomo controversiarum, tertia 
+      contro<lb ed="#H" n="145" break="no"/>versia generali, parte secunda, quae est de Justificatione, quinto libro 
+      <lb ed="#H" n="146"/>capite septimo, hujusmodi propositionem statuit: In bonis meritis 
+      <lb ed="#H" n="147"/>quae vere talia esse compertum sit, fiducia aliqua collocari potest, modo 
+      <lb ed="#H" n="148"/>superbia caveatur. Eam confirmare conatur exemplis divinae 
+      Scri<lb ed="#H" n="149" break="no"/>pturae &amp; aliis ex testimoniis Patrum: &amp; ratione. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1187">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>Exempla divinae Scripturae producit quinque: primum est 
+      Neche<lb ed="#H" n="151" break="no"/>miae, qui cap. 5. v. 19. ait; Memento mei Domine in bono secundum 
+      o<lb ed="#H" n="152" break="no"/>mnia quae feci populo huic. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1198">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>RESP. Nechemias in meritis suis nequaquam fiduciam 
+      colloca<lb ed="#H" n="154" break="no"/>vit, sed verborum ejus sensus hic est; Nihil mihi apud homines hac 
+      <lb ed="#H" n="155"/>narratione arrogo, cujus testis est Deus: &amp; multo minus apud Deum, 
+      <lb ed="#H" n="156"/>cujus fidem &amp; misericordiam imploro, fretus non meis factis, sed ejus 
+      <lb ed="#H" n="157"/>bonitate, utcunque mihi bene sim conscius. Qui sensus facile 
+      inno<lb ed="#H" n="158" break="no"/>tescit ex collatione horum verborum cum oratione ejus ad Deum 
+      <lb ed="#H" n="159"/>cap. 1. v. 6, 7. ubi ait: Confiteor peccata Israelitarum, quibus 
+      peccavi<lb ed="#H" n="160" break="no"/>mus tibi, ego quoque &amp; familia patris mei peccavimus. Nexu 
+      obstrin<lb ed="#H" n="161" break="no"/>ximus nos ipsos tibi, qui non observavimus praecepta, statutaque ac 
+      ju<lb ed="#H" n="162" break="no"/>dicia illa quae praecepisti per Mosen servum tuum. Qui serio agnoscit 
+      <lb ed="#H" n="163"/>&amp; confitetur peccata sua, is profecto in meritis suis fiduciam non 
+      cor<lb ed="#H" n="164" break="no"/>locat. At Nechemias serio agnovit &amp; confessus est peccata sua: Ergo 
+      <lb ed="#H" n="165"/>fiduciam in meritis suis non collocavit.  
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1231">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Secundum exemplum est Davidis qui Psalm. 17. juxta vulgatae 
+      e<lb ed="#H" n="167" break="no"/>ditionis vel 18. Psalmo juxta Hebreae editionis supputationem, ait v 
+      <lb ed="#H" n="168"/>21, 22. Et retribuet mihi Dominus secundum justitiam meam, &amp; 
+      se<lb ed="#H" n="169" break="no"/>cundum puritatem manuum mearum retribuet mihi: Quia 
+      custodi<lb ed="#H" n="170" break="no"/>vi vias Domini, nec impie me gessi a Deo meo. Sic enim vulgata 
+      ver<lb ed="#H" n="171" break="no"/>sio habet,  
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1250">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>RESP. Primo vitiosa est versio vulgata. Etsi enim in textu Hebraec 
+      <lb ed="#H" n="173"/>v. 21. sint futura, tamen certum est illa per enallagen poni loco 
+      prae<lb ed="#H" n="174" break="no"/>teritorum, quia David commemorat ibi beneficia a Deo jam 
+      acce<lb ed="#H" n="175" break="no"/>ta, &amp; in eadem illa narratione antecedunt praeterita; &amp; futura 
+      po<lb ed="#H" n="176" break="no"/>Vavhippuch in praeterita commutantur. Deinde verbum yOa non 
+      <lb ed="#H" n="177"/>oportet necessario verti tribuere, quasi compensatio merita signifi 
+      <lb ed="#H" n="178"/>caretur: sed significat &amp; simpliciter tribuere seu conferre beneficium 
+      <lb ed="#H" n="179"/>quod satis evidenter ostendit Psal. 119. v. 17. ninis τεογ δῳ ιλα, id 
+      <lb ed="#H" n="180"/>st, Beneficium confer in servum tuum, ut vivam. Reddendum 
+      igi<lb ed="#H" n="181" break="no"/>tur: Tribuit mihi Iehova secundum justitiam meam; secundum 
+      pu<lb ed="#H" n="182" break="no"/>ritatem manuum mearum restituit mihi. Quia ebservavi vias 
+      Ie<lb ed="#H" n="183" break="no"/>hovae, neque improbe averti me a Deo meo. Deinde etiamsi verteretur,  
+      <lb ed="#H" n="184"/>Retribuit mihi Iehova secundum justitiam meam: tamen nec inde¬ 
+      <!--cod-MkL9py-0626.xml-->
+      <pb ed="#H" n="597"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>snferri posset, Davidem meritis suis confisum fuisse. Davidenim in 
+      A<lb ed="#H" n="2" break="no"/>hoc &amp; similibus locis non profitetur fiduciam suam in meritis 
+      pro<lb ed="#H" n="3" break="no"/>priis, nec merita sua jactat, sed praedicat Dei justitiam, qui ipsum 
+      bo<lb ed="#H" n="4" break="no"/>nam causam habentem &amp; a criminibus quorum a Saule &amp; adulato 
+      <lb ed="#H" n="5"/>ribus ejus accusabatur innocentem, &amp; a voluntate Dei cognita non 
+      <lb ed="#H" n="6"/>deflectentem ut contra officium quicquam adversus Saulem faceret: 
+      <lb ed="#H" n="7"/>contra hostes defenderit, ab illorum insidiis liberaverit &amp; in regis 
+      <lb ed="#H" n="8"/>solio tandem collocaverit 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1307">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>Tertium exemplum est Ezechiae orantis apud Jesaiam cap. 38. v. 3. 
+      <lb ed="#H" n="10"/>Obsecro Domine, memento, quaeso, quomodo ambulaverim coram?¬ 
+      <lb ed="#H" n="11"/>in veritate, &amp; in corde perfecto, &amp; quod bonum est in oculis tuis 
+      fe<lb ed="#H" n="12" break="no"/>cerim. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1320">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>RESP. Ezechias non confisus fuit propria justitia, sed hac 
+      oratio<lb ed="#H" n="14" break="no"/>ne nihil sibi aliud voluit, quam ex ipsa regeneratione, servum Dei se 
+      <lb ed="#H" n="15"/>ac filium testari, qualibus ille fore se propitium recipit: ac munivit se 
+      <lb ed="#H" n="16"/>&amp; alios fideles adversus difficilem tentationem, ne Deum videatur 
+      <lb ed="#H" n="17"/>iratum habere, quod vitia correxerit &amp; corruptelas, quae passim in 
+      re<lb ed="#H" n="18" break="no"/>gno, ac praesertim quoad religionem vigebant. Nam si tunc Ezechis 
+      <lb ed="#H" n="19"/>as mortuus fuisset, potuissent plurimi cogitare &amp; dicere, eum pro 
+      <lb ed="#H" n="20"/>pterea e medio sublatum, quod religionem Gentilium abrogasset. 
+      <lb ed="#H" n="21"/>quae publice recepta erat &amp; pro vera habebatur, quum tamen esset 
+      <lb ed="#H" n="22"/>abominabilis idololatria. Sed caro judicium fert sinistrum ex iis 
+      quae<lb ed="#H" n="23" break="no"/>contingunt, non ex rei veritate 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1349">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Quartum exemplum est Hesterae ita orantis cap. 14. v. 16, 17, 18, 1. 
+      <lb ed="#H" n="25"/>Tu scis necessitatem meam, quod abominer signum superbiae, &amp; gloriae, 
+      <lb ed="#H" n="26"/>meae, quod est super caput meum in diebus ostentationis meae, &amp; dete 
+      <lb ed="#H" n="27"/>ster illud, sicut panum menstruatae; &amp; non portem in diebus silentum 
+      <lb ed="#H" n="28"/>mei; &amp; quod non comederim in mensa Amam, nec mihi 
+      placueri<lb ed="#H" n="29" break="no"/>convivium Regis, &amp; non biberim vinum libaminum, &amp; nunquam, 
+      <lb ed="#H" n="30"/>latata sit ancilla tua, ex quo huc translata sum usque in praesente diem, 
+      <lb ed="#H" n="31"/>nisi in te Domine Deus Abraham. Deus fortis super omnes; exaudi 
+      <lb ed="#H" n="32"/>vocem eorum, qui nullam aliam spem habent &amp; libera nos de 
+      mani<lb ed="#H" n="33" break="no"/>iniquorum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1375">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>RESP. Primo petitur principium; quia caput hoc libro Esthera 
+      <lb ed="#H" n="35"/>adjectum, non est Canonicum, sed Apocryphum: Canonica enim 
+      <lb ed="#H" n="36"/>libri Estherae capita tantum decem sunt.  
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1386">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Deinde etsi esset caput hoc Canonicum, nihil aliud inde inferri 
+      <lb ed="#H" n="38"/>posset, quam licere piis sese in fiducia exauditionis precum 
+      confirma<lb ed="#H" n="39" break="no"/>re beneficio regenerationis spiritualis. Nam regeneratorum 
+      preces<lb ed="#H" n="40" break="no"/>Deus exaudit.  
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1400">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>Tertio hic ipse locus refutat sententiam Bellarmini: nam 
+      Esthe<lb ed="#H" n="42" break="no"/>ru testatur &amp; alios fideles Judaeos nullam aliam spem habere nisi in 
+      <lb ed="#H" n="43"/>Deo: non ergo in suis meritis 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1411">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Quintum exemplum est Apostoli Pauli, 2. Timoth. 4. versic. 7. 
+      <lb ed="#H" n="45"/>8. Bonum certamen certavi, cursum consummavi, fidem, servavi, 
+      <lb ed="#H" n="46"/>quod superest reposita est mihi corona justitiae; 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1422">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>RESPON. Apostolus Paulus non profitetur his verbis fiduciam 
+      <lb ed="#H" n="48"/>meritorum suorum: sed consolatur &amp; praemunit Timotheum &amp; 
+      a<lb ed="#H" n="49" break="no"/>lios fideles adversus gravem &amp; periculosam tentationem quae alioqui 
+      <lb ed="#H" n="50"/>obrepere ipsis potuisset ex morte Pauli. Nam quia caro solet ex 
+      o<lb ed="#H" n="51" break="no"/>ventu de aliis facere judicium, poterat damnati aut saltem in dubium 
+      <lb ed="#H" n="52"/>vocari Pauli certamen an bonum fuisset, an Deo placuisset, quum 
+      <lb ed="#H" n="53"/>minus prosper esset exitus. Timotheum ergo &amp; caeteros fideles 
+      con<lb ed="#H" n="54" break="no"/>solatur &amp; ad constantiam exemplo suo hortatur. Sic interpretatur 
+      <lb ed="#H" n="55"/>Chrysostomus hunc locum homilia nona in secundam ad Timothe 
+      <lb ed="#H" n="56"/>um: Saepe ego (inquit) quum Apostolum in manus sumerem, &amp; 
+      lo<lb ed="#H" n="57" break="no"/>cum istum inspicerem, haerebam ambigens, cujus rei gratia sic 
+      magni<lb ed="#H" n="58" break="no"/>fice loquitur Paulus, ut dicat, Bonum certamen certavit. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1453">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Nunc Dei gratia causam mihi invenisse videor, per quam tum 
+      <lb ed="#H" n="60"/>loqui sic maluit. Moerorem profecto discipuli solari cupit, bono illum 
+      <lb ed="#H" n="61"/>esse animo jubens, quasi ipse ad coronam pergat, omnibusque rite per 
+      a<lb ed="#H" n="62" break="no"/>ctis, praeclavum repererit finem. Gaudendum, inquit, non dolendum 
+      <lb ed="#H" n="63"/>est. Curi Bonum enim certamen certavi. Veluti si quis 
+      indulgentis<lb ed="#H" n="64" break="no"/>simus pater, parvulum sibi assistentem, &amp; orbitatem non ferentem 
+      <lb ed="#H" n="65"/>consoletur, ac dicat: Noli flere fili, bene enim viximus, pervenimus 
+      <lb ed="#H" n="66"/>ad senectutem, atque in ea atate relinquimus te, Fuit irreprehensi 
+      <lb ed="#H" n="67"/>bilis vita nostra, cum gloria hinc proficiscimur: eris &amp; ipse 
+      minutu<lb ed="#H" n="68" break="no"/>lus prohis, quae gesta sunt a nobis. Saepe rex ipse nobis gratias egit: 
+      ac<lb ed="#H" n="69" break="no"/>si diceret, trophaea saepe retulimus, hostesque superavimus, non 
+      ista<lb ed="#H" n="70" break="no"/>magniloquentiae studio, sed ut erigeret puerum, laudibusque erudiret  
+      <lb ed="#H" n="71"/>orbitatis suae casum levius ferre, melioresque esse jam spe prosequere 
+      <lb ed="#H" n="72"/>tur, ne putaret eam rem molestam esse atque gravem. Est enim 
+      re<lb ed="#H" n="73" break="no"/>vera perquam dura ea separatio. Audi denique quid idem 
+      Aposto<lb ed="#H" n="74" break="no"/>bus dicat: Nos autem destituti a vobis ad tempus horae, facie, non 
+      cor<lb ed="#H" n="75" break="no"/>de. Si igitur ipse quum a discipulis separaretur, ita affectus erat 
+      ani<lb ed="#H" n="76" break="no"/>mo, quid putas Timotheum passum esse, si vivente illo ad tempus se 
+      <lb ed="#H" n="77"/>paratus, ita lacrymabatur, ut diceret: Memor lacrymarum tuarum 
+      <lb ed="#H" n="78"/>ut gaudio implear: quanto magis vita functo? Haec itaque 
+      consolan<lb ed="#H" n="79" break="no"/>di eum gratia scribit, totaque epistola consolatione plena est, quam sit 
+      <lb ed="#H" n="80"/>bi ille Testamenti cujusdam vice servaret 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1505">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Bonum certamen certavi, cursum consummavi, fidem servavit 
+      <lb ed="#H" n="82"/>Certamen, inquit, bonum: &amp; tu ergo ipsum apprehende. Itane, 
+      ub<lb ed="#H" n="83" break="no"/>catena, ubi vincula, ubi mors denique, ibi certamenest? Ita sane 
+      <lb ed="#H" n="84"/>pro Christo enim fiunt omnia, coronas habent eximias. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1518">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>Certamenbonum. Nihil hoc certamine melius, nihil illustrius 
+      <lb ed="#H" n="86"/>nullo corona haec fine concluditur, non ea ex oleastri floribus texitur.  
+      <lb ed="#H" n="87"/>non habet editorem munerum hominem, neque homines spectatores. 
+      <lb ed="#H" n="88"/>Ex Angelis conflatum est theatrum. In certaminibus seculi 
+      labo<lb ed="#H" n="89" break="no"/>rant dies plurimos, &amp; in aerumnis degunt. unius horae momento 
+      ae<lb ed="#H" n="90" break="no"/>cepta corona, protinus uoluptas omnium emarcuit: hic autem non sic, 
+      <lb ed="#H" n="91"/>sed semper claritas, semper gloria, semper honor nugetur. Iam,gau¬ 
+      <!--cod-MkL9py-0626.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>dere oportet, quia ad requiem propero, ad stadium ex eo. Audisti quod 
+      <lb ed="#H" n="93"/>dissolvi, &amp; cum Christo esse sit melius. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1548">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>Cursum consummavi. Et certare enim oportet, &amp; currere: 
+      il<lb ed="#H" n="95" break="no"/>lud tribulationes perferendo, hoc non absque ratione, sed ad utilealis 
+      <lb ed="#H" n="96"/>quid faciendo. Bonum profecto certamen, quod non modo 
+      volupta<lb ed="#H" n="97" break="no"/>tem, verum utilitatem quoque spectantibus praestat. Cursus ille non 
+      <lb ed="#H" n="98"/>in nihilum desinit, neque roboris ostentatio; vel aucupatio gloriae est; 
+      <lb ed="#H" n="99"/>sed omnes ad coelum subvehit. Cursus hic Solepurior est, quem 
+      Pau<lb ed="#H" n="100" break="no"/>lus currebat in terra, plusque illustrat orbem, quam Solis igneum 
+      ju<lb ed="#H" n="101" break="no"/>bar: quomodo autem cursum consummavit? Orbem totum 
+      pervaga<lb ed="#H" n="102" break="no"/>tus est, incipiens a Galilaea &amp; Arabia, &amp; usque ad fines terrae 
+      progre<lb ed="#H" n="103" break="no"/>diens. Ut a Hierusalem, inquit, &amp; in circuitu usque Illyricum 
+      im<lb ed="#H" n="104" break="no"/>pleverim Evangelium Christi, omnemque orbem pervolans, volucris 
+      <lb ed="#H" n="105"/>cujusdam instar, imo volutri omni pernicius, atque vehementius. 
+      <lb ed="#H" n="106"/>Nam siquidem avis fuisset, simpliciter pervolasset: non sic autem ille 
+      <lb ed="#H" n="107"/>legit, sed pennis Spiritus praeditus innumera impedimenta transiliit; 
+      <lb ed="#H" n="108"/>mortes, calamitates, insidias, fuitque omni, ut diximus, ave 
+      perni<lb ed="#H" n="109" break="no"/>cior: si fuisset avis quandoque delapsu caperetur, quia ubi in 
+      subli<lb ed="#H" n="110" break="no"/>me ferebatur a Spiritu, veluti avis igneis suffulta alis, retia omnia 
+      <lb ed="#H" n="111"/>&amp; impedimenta transcendi. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1592">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Fidem, inquit, servavi, Plurima illum violare cupiebant, non 
+      <lb ed="#H" n="113"/>modo amicitiae hominum, verum &amp; comminationes, &amp; mortes, &amp; 
+      <lb ed="#H" n="114"/>alia innumera: verum his omnibus restitit. Quopacto? Sobrius 
+      sci<lb ed="#H" n="115" break="no"/>licet, ac pervigildurans: sufficere quidem &amp; istapoterant discipulis 
+      <lb ed="#H" n="116"/>consolandis, sed ipse praemia quoque subjecit. Quaenam vero illa sunt? 
+      <lb ed="#H" n="117"/>De reliquo reposita est, inquit, mihi justitiae corona. Iustitiam his 
+      <lb ed="#H" n="118"/>totam simul virtutem dixit. Non ergo dolendum, inquit, est, quod  
+      <lb ed="#H" n="119"/>proficiscor percepturus coronam quam imponat capiti meo Dominus. 
+      <lb ed="#H" n="120"/>Iesus Christus: quod si exciderem, ac perirem, dolendum profecto &amp; 
+      <lb ed="#H" n="121"/>ingemiscendum esset. Quam reddet mihi justus judex: Non solum 
+      <lb ed="#H" n="122"/>autem mihi, sed &amp; omnibus qui diligunt adventum ejus. Ex his item 
+      <lb ed="#H" n="123"/>illum erigit: nam si omnibus, multo magis Timotheo. Non ait, &amp; 
+      ti<lb ed="#H" n="124" break="no"/>bi, sed omnibus: multo magis &amp; tibi¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1625">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>His igitur verbis Paulus non fiduciam meritorum jactat, sed 
+      Ti<lb ed="#H" n="126" break="no"/>motheum &amp; alios sanctos consolatur &amp; praemunit adversus 
+      scanda<lb ed="#H" n="127" break="no"/>lum quod ex morte ejus poterat oboriri. Praeterea collatio hujus 
+      lo<lb ed="#H" n="128" break="no"/>ci cum aliis Paulinis clare evincit, Paulum in suis meritis fiduciam 
+      <lb ed="#H" n="129"/>non collocasse. Certamen enim illud bonum &amp; cursus fuit constans 
+      <lb ed="#H" n="130"/>praedicatio Evangelij Jesu Christi contemtis omnibus periculis, 
+      et<lb ed="#H" n="131" break="no"/>iam morte ipsa. De eo autem ait 1. Corinth. 9. vers. 16, 17. Etenim 
+      <lb ed="#H" n="132"/>si evangelixem, non est quod glorier: necessitas enim mihiincumbit. 
+      <lb ed="#H" n="133"/>Vae autem mihi est nisi evangelizem. Nam si volens hoc faciam, 
+      mer<lb ed="#H" n="134" break="no"/>cedem habeo: sin invitus, dispensatio credita est mihi. Quicquid ex 
+      <lb ed="#H" n="135"/>debito sit necessario, id nequaquam est meritum. At certamen illud 
+      <lb ed="#H" n="136"/>bonum quod certavit Paulus &amp; cursus quem cucurrit, &amp; conservatio 
+      <lb ed="#H" n="137"/>fidei, ex debito necessario fiebat: Non igitur meritum erat. Et cap. 
+      <lb ed="#H" n="138"/>4. vers. 2, 3, 4. Illud requiritur in dispenfatoribus ut quis fidus 
+      in<lb ed="#H" n="139" break="no"/>veniatur. Mihi vero pro minimo est quod a vobis dijudicer, aut at 
+      <lb ed="#H" n="140"/>humano judicio: imo nec ipse me dijudico. Nullius enim rei mihe 
+      <lb ed="#H" n="141"/>conscius sum: sed non per hoc justificatus sum: Dominus autem is est 
+      <lb ed="#H" n="142"/>qui me dijudicat. Quid potest esse clarius? Indicat, quamvis possit 
+      <lb ed="#H" n="143"/>prositeri se bonam conscientia in suo munere esse versatum: tamen non 
+      <lb ed="#H" n="144"/>ausit propterea sibi quicquam tribuere, utpote qui sciat se nihilomi 
+      <lb ed="#H" n="145"/>nus non esse irreprehensibile, coram Deo, qui aestimat 
+      unumquem<lb ed="#H" n="146" break="no"/>que suo pretio, ut qui norit cordis latebras quae saepissime homines 
+      <lb ed="#H" n="147"/>fallunt. Quid potest alienius esse a fiducia meritorum suorum 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1680">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Quapropter his exemplis Bellarminus mnime evicit, nos in 
+      bo<lb ed="#H" n="149" break="no"/>nis nostris meritis fiduciam aliquam posse ponere. Neque vero magis 
+      <lb ed="#H" n="150"/>id evincit exemplis aliis quae allegat ex testimoniis Patrum: quae 
+      <lb ed="#H" n="151"/>exempla sunt, Pauli primi Eremitae. Hilarionis, S. Martini. S. Fram 
+      <lb ed="#H" n="152"/>cisci Monachi. Verba Bellarmini sunt ista: Scribit S. Hieronymus in 
+      <lb ed="#H" n="153"/>vita Pauli primi Eremitae, eundem Paulum morti propinquum 
+      di<lb ed="#H" n="154" break="no"/>xisse, Peracto cursu superest mihi corona iustitiae. In vita vero 
+      Hi<lb ed="#H" n="155" break="no"/>larionis refert idem Hieronymus, dixisse Hilarionem: Egredere 
+      ani<lb ed="#H" n="156" break="no"/>ma mea: egredere, quid times? septuaginta prope annis seruisti 
+      Chri<lb ed="#H" n="157" break="no"/>sto, &amp; mortem times? Scribit quoque SULPITIUS, S. Martinum 
+      <lb ed="#H" n="158"/>in exitu Diabolo astanti, magna cum fiducia dixisse: Quid hic astas. 
+      <lb ed="#H" n="159"/>cruenta bestia? nihil inme funeste reperies: Abrahae me sinus 
+      exci<lb ed="#H" n="160" break="no"/>piet. Denique S. BONAVENTURA scribit, illa fuisse verba 
+      extre<lb ed="#H" n="161" break="no"/>maS. Erancisci: Educ de custodia animam meam ad confitendum 
+      <lb ed="#H" n="162"/>nominituo. Me exspectant iusti, donec retribuas mihi. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1717">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>RESP. Primum in genere: Exempla hominum 
+      superstitioso<lb ed="#H" n="164" break="no"/>rum ac ex vitae externa austeritate seu potius agrestitate sanctitatis 
+      <lb ed="#H" n="165"/>opinionem aucupantium non esse idonea ad constituendum vel 
+      con<lb ed="#H" n="166" break="no"/>armandum aliquod dogma de fide vel bonis operibus. Isti autem 
+      <lb ed="#H" n="167"/>quorum exempla ex Patribus adducuntur, fuerunt homines 
+      super<lb ed="#H" n="168" break="no"/>stitiosi. Deinde quibusdam ex illis parum conveniumt, quae ipsis 
+      tri<lb ed="#H" n="169" break="no"/>buuntur. Paulum primum Eremitam morti propinquum scribi 
+      <lb ed="#H" n="170"/>Hieronymus dixisse, verbis Pauli Apostoli: Peracto cursu superest, 
+      <lb ed="#H" n="171"/>mihi corona justitiae. Atqui Pauli Apostoli cursus fuit, praedicatio 
+      <lb ed="#H" n="172"/>constans Evangelij usque ad vitae finem absque metu mortis: hujus 
+      <lb ed="#H" n="173"/>autem continuata quies per sexaginta annos &amp; latitatio in spelunca 
+      <lb ed="#H" n="174"/>metu mortis obfidem Christi. Hilarionis verba desperationem 
+      po<lb ed="#H" n="175" break="no"/>tius prae se ferunt &amp; metum mortis, quam fiduciam aliquam S. 
+      Fran<lb ed="#H" n="176" break="no"/>ciscus ea moriturus precatur, quae non conveniunt nisi diuturniorem 
+      <lb ed="#H" n="177"/>in hac vita mansionem expetenti. Tertio etiamsi optime quadrarent  
+      <lb ed="#H" n="178"/>omnia: tamen ex iis colligi non potest, eos in meritis suis fiduciam 
+      <lb ed="#H" n="179"/>illam collocasse, nisi forte Monachus Franciseus, in hac vita 
+      glori<lb ed="#H" n="180" break="no"/>iam quaerens justitiae 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1761">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>Ratio denique Bellarmini est talis; In omni vera salutis 
+      <!--cod-MkL9py-0627.xml-->
+      <pb ed="#H" n="598"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>aternae causa licet confidere: Bona merita sunt vera salutis aeternae A 
+      <lb ed="#H" n="2"/>causa: Ergo in bonis meritis licet confidere. Propositionem majorem 
+      <lb ed="#H" n="3"/>probare nititur simili tali: Nam (inquit) &amp; in rebus corporalibus 
+      ae<lb ed="#H" n="4" break="no"/>grotus recte confidit non solum in arte &amp; industria medici, sed etiam 
+      <lb ed="#H" n="5"/>in medicamentorum virtute &amp; efficacia. Neque hoc est confidere in 
+      <lb ed="#H" n="6"/>propria virtute, sed in Deo &amp; ejus gratia, cujus sunt munera omnia 
+      <lb ed="#H" n="7"/>bona merita. Assumtionem videtur probare velle a pari: quoniam 
+      <lb ed="#H" n="8"/>(inquit) sicut misericordia Dei, ita etiam bona merita sunt vera 
+      sa<lb ed="#H" n="9" break="no"/>lutis causae 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1795">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>RESP. Primo distinguenda est principalis argumentationis 
+      pro<lb ed="#H" n="11" break="no"/>positio, quia est ambigua: nam per veram causam intelligit 
+      Bellar<lb ed="#H" n="12" break="no"/>minus vel principalem tantum causam efficientem &amp; ωροηγυυθλν 
+      <lb ed="#H" n="13"/>internam, id est, gratiam &amp; misericordiam Dei: vel etiam causam 
+      <lb ed="#H" n="14"/>ωροκαζαρκτικλν &amp; instrumentalem. Si principalem tantum causam &amp; 
+      <lb ed="#H" n="15"/>ωρολγυμδιλαν internam intelligat, tum major propositio conceditur: 
+      <lb ed="#H" n="16"/>Nam in Deo &amp; in gratia atque misericordia Dei simpliciter &amp; per se 
+      <lb ed="#H" n="17"/>fiducia est collocanda.  Sin autem intelligat etiam causam ωροϰαζαρ 
+      <lb ed="#H" n="18"/>ετικλιο, id est; carnem &amp; sanguinem Christi, tum distinguitur; quiai 
+      <lb ed="#H" n="19"/>Christi caro &amp; sanguis per se considerantur, id est, quatenus sunt 
+      crea<lb ed="#H" n="20" break="no"/>turae, non est in iis fiducia collocanda: Haec enim est voluntas Dei 
+      <lb ed="#H" n="21"/>hoc mandatum, ne in ulla creatura quatenus est creatura, aeternae 
+      sa<lb ed="#H" n="22" break="no"/>lutis fiduciam reponamus, sicut legitur Jerem. 17. v. 5. Maledictus vil 
+      <lb ed="#H" n="23"/>ille qui fiduciam habet in homine, &amp; statuit carnem brachium suum, 
+      <lb ed="#H" n="24"/>a Iehova autem recedit cor ejus: Sed in solo Deo qui solus nobis 
+      re<lb ed="#H" n="25" break="no"/>mittit peccata &amp; nos servat in nomine Christi, sicut dicitur Jesa. 43. v. 
+      <lb ed="#H" n="26"/>II. Ego, ego sum Iehova; &amp; nullus est praeter me servator: &amp; vers. 25. 
+      <lb ed="#H" n="27"/>Ego, ego ipse deleo defectiones tuas propter me, &amp; peccatorum tuorum 
+      <lb ed="#H" n="28"/>non recordor. Actor. 4. vers. 12. Nec est in alis quoquam salus, 
+      ne<lb ed="#H" n="29" break="no"/>enim aliud nomen est sub coelo quod datum sit inter homines, per quod 
+      <lb ed="#H" n="30"/>oporteat nos servari. Sin vero caro &amp; sanguis Christi considerent 
+      <lb ed="#H" n="31"/>tur, quatenus sunt caro &amp; sanguis Dei seu personae quae est verus 
+      na<lb ed="#H" n="32" break="no"/>tura Deus, αμουσιος Patri: tum in iis recte fiducia collocatur, quum 
+      <lb ed="#H" n="33"/>carne &amp; sanguine suo Christus nos servet. Attamen vis servandi nos 
+      <lb ed="#H" n="34"/>non est a carne aut sanguine Christi per se, sed a Deitate ipsius. 
+      Sic<lb ed="#H" n="35" break="no"/>enim dicit ipsemet Johan. 6. vers. 63. Spiritus est id quod vivificat. 
+      <lb ed="#H" n="36"/>caro non prodest quicquam, hoc est, Deitas aut virtus Deitatis 
+      vivifi<lb ed="#H" n="37" break="no"/>cat, non caro Christi per se, ut Cyrillus in hujus loci explicatione 
+      di<lb ed="#H" n="38" break="no"/>cit. Decebat enim nullam aliam rem &amp; creaturam vivificare posse. 
+      <lb ed="#H" n="39"/>&amp; corruptione superiorem, terrenam carnem ostendere, etiamsi 
+      intel<lb ed="#H" n="40" break="no"/>ligatur Christi secundum quod caro dicitur, nisi solam Deitatis 
+      na<lb ed="#H" n="41" break="no"/>turam, ut idem Cyrillus ait secundo tomo, libro sexto Dialogorum 
+      <lb ed="#H" n="42"/>de Trinitate, folio centesimo vigesimooctavo, litera C. Pari prorsus 
+      <lb ed="#H" n="43"/>ratione sanguis Jesu Christi Filij Dei emundat nos ab omni peccato. 
+      <lb ed="#H" n="44"/>I. Johan. 1. v. 7. non quatenus est sanguis, sed quatenus est sanguis Fi 
+      <lb ed="#H" n="45"/>lij Dei, quatenus est sanguis Dei, sicut Paulus docet Actor. 20. v. 28. 
+      <lb ed="#H" n="46"/>quod Deus sanguine suo Ecclesiam redemerit. Si etiam intelligimu 
+      <lb ed="#H" n="47"/>tanguinem Christi, non ut simpliciter est medium aliquod expiandi 
+      <lb ed="#H" n="48"/>peccata separatum a Deitate Christi, sed conjunctum, ac proinde san 
+      <lb ed="#H" n="49"/>guis Christi hoc sensu etiam recte principalis causa proxima expia 
+      <lb ed="#H" n="50"/>tionis peccatorum nostrorum &amp; meritum propter quod peccata 
+      re<lb ed="#H" n="51" break="no"/>mittuntur, statuitur, quia est sanguis non meri ac nudi hominis, sed 
+      <lb ed="#H" n="52"/>veri, aeterni &amp; omnipotentis Dei, tum etiam in eo fiducia collocanda, 
+      <lb ed="#H" n="53"/>(ut dictum est. 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1895">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Si denique eadem major propositio etiam de causa instrumentali 
+      <lb ed="#H" n="55"/>salutis aeternae intelligatur, nimirum de Evangelio, fide &amp; 
+      Sacramen<lb ed="#H" n="56" break="no"/>tis; tum major simpliciter negatur: nam certum est, non esse in eis 
+      fi<lb ed="#H" n="57" break="no"/>duciam salutis aeternae collocandam: quia non sunt Deus, sed tantum  
+      <lb ed="#H" n="58"/>separata instrumenta Dei ad nos servandum; &amp; fides salvifica est 
+      do<lb ed="#H" n="59" break="no"/>num Spiritus Sancti in nobis ab eo creatum &amp; excitatum, non autem 
+      <lb ed="#H" n="60"/>Deus ipse. Ac sane vana est illorum fiducia, qui se existimant vitam 
+      <lb ed="#H" n="61"/>aeternam consequuturos ideo, quod Evangelium habeant, quod 
+      Sa<lb ed="#H" n="62" break="no"/>cramenta, quod fidem habeant, aut potius se habere inaniter jactent 
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1919">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Sic responsum est ad propositionem majorem. Probatio 
+      majori<lb ed="#H" n="64" break="no"/>est sophistica; quia ambigua: nam etiam quod ad res corporales 
+      at<lb ed="#H" n="65" break="no"/>tinet in solo Deo simpliciter &amp; per se fiducia est collocanda, in rebus 
+      <lb ed="#H" n="66"/>creatis autem nequaquam simpliciter &amp; per se fidendum, sed tantum  
+      <lb ed="#H" n="67"/>quatenus sunt instrumenta Dei, quae id tantum praestant quod Deus 
+      <lb ed="#H" n="68"/>per illas dignatur efficere, imo nihil praestant sine Deo: Quanquam  
+      <lb ed="#H" n="69"/>Deus ordinariis instrumentis alligatus non est, sed tam per inepta, 
+      <lb ed="#H" n="70"/>quam per aptissima operati potest &amp; solet, felicemque ad exitum sua 
+      <lb ed="#H" n="71"/>perducere consilia atque opera: Imo etiam absque ullis 
+      instrumen<lb ed="#H" n="72" break="no"/>tis quaecunque vult efficere potest &amp; solet. Quapropter Josaphatur 
+      <lb ed="#H" n="73"/>rex Juda laudatur quod etiamsi exercitus numerosus ei non deesset. 
+      <lb ed="#H" n="74"/>tamen ad solum Deum confugit &amp; opem ejus contra Moabitas, 
+      Am<lb ed="#H" n="75" break="no"/>monitas, Edomaeos &amp; hostes alios imploravit, perinde ac si 
+      exerci<lb ed="#H" n="76" break="no"/>tum nullum haberet 2. Chron. 20. Contra Asa rex Juda vituperatur 
+      <lb ed="#H" n="77"/>2. Chron. 16. vers. 12. quod fiduciam recuperandae valetudinis non i1 
+      <lb ed="#H" n="78"/>Deo, sed in Medicis collocaverit, quum medici &amp; remedia sint dum 
+      <lb ed="#H" n="79"/>taxat instrumenta Dei ad valetudinem curandam &amp; conservandam: 
+      <lb ed="#H" n="80"/>sed valetudinis bonae autores &amp; causae efficientes principales non 
+      <lb ed="#H" n="81"/>sunt.  
+      <lb ed="#H" n="82"/>Deinde simpliciter falsa est assumtio; Nam nulla nostra bona 
+      me<lb ed="#H" n="83" break="no"/>rita sunt vera salutis aeternae causa: quia proprie loquendo nulla 
+      ha<lb ed="#H" n="84" break="no"/>bemus, quum omnia bona opera quaecunque facimus sint debita. Ac 
+      <lb ed="#H" n="85"/>dicet fides salvifica sit causa instrumentalis salutis nostrae: tamen non 
+      <lb ed="#H" n="86"/>est causa proprie quatenus est opus bonum, sed improprie seu 
+      figura<lb ed="#H" n="87" break="no"/>te quatenus per illam intelligitur Christus salutis nostrae autor, quem 
+      <lb ed="#H" n="88"/>fides apprehendit.  
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1980">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Probatio assumtionis est prorsus blasphema, quia misericordiae 
+      <lb ed="#H" n="90"/>Bei nostra bona merita aequat.  
+    </p>
+            <p xml:id="yyy8Uu-gxd523-d1e1989">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Hucusque de fiducia in Deum: sequitur
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

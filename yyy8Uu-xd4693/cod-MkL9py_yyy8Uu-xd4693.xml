@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 55</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 55</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd4693"><!-- l10-c55 -->
+            <head xml:id="yyy8Uu-xd4693-Hd1e103">Caput 55</head>
+            <p xml:id="yyy8Uu-xd4693-d1e106">
+               <lb ed="#H" n="57"/>CAPUII 
+      <lb ed="#H" n="58"/>In quo de Divortio Coniugum.
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e113">
+               <lb ed="#H" n="59"/>TIVORTIUM, est legitima conjugii solutio, a judice legitimo, 
+      <lb ed="#H" n="60"/>Opost sufficientem causae cognitionem facta sententia publicat 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e120">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Causae divortii duae sunt tantum: una adulterium, Matth. 
+      <lb ed="#H" n="62"/>5. v. 32. &amp; 19. 9. altera desertio, id est, malitiosa alterius conjugis 
+      dis<lb ed="#H" n="63" break="no"/>cessio, nulla justa causa sed vel odio verae religionis propter quam 
+      <lb ed="#H" n="64"/>cum conjuge habitare recusat vel levitate, vel injusta impatientia fre 
+      <lb ed="#H" n="65"/>ni conjugalis, vel aliis non justis &amp; sufficientibus causis, 1. Cor. 7. v. 15. 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e136">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Inter hat causas ea est differentia, quod adulterium sit propria 
+      at<lb ed="#H" n="67" break="no"/>que unica causa dimittendi conjugem adulterantem, atque in eo 
+      ca<lb ed="#H" n="68" break="no"/>iu proprie conjunx innocens divortium facit, ac proinde aliquid 
+      agi<lb ed="#H" n="69" break="no"/>conjugem dimittendo. In desertione autem malitiosa &amp; 
+      pertinaci<lb ed="#H" n="70" break="no"/>conjunx innocens non agit, sed patitur; aliud enim est dimittere 
+      con<lb ed="#H" n="71" break="no"/>ugem adulterantem, aliud a conjuge ultro discedente dimitti &amp; 
+      de<lb ed="#H" n="72" break="no"/>seri: nam qui a conjuge ex destinata malitia discedente deseritur, non 
+      <lb ed="#H" n="73"/>dimittit eam. Qui dimittit agit, non patitur. Qui deseritur, is 
+      pati<lb ed="#H" n="74" break="no"/>tur, &amp; non agit: non dimittit conjugem, sed animo retinet, &amp; retine 
+      <lb ed="#H" n="75"/>re cupit. Quapropter is maritus non potest dici fecisse divortium 
+      <lb ed="#H" n="76"/>contra Christi verbum, quod Matth. 5. 32. &amp; cap. 19. 9. exstat, qui in 
+      <lb ed="#H" n="77"/>juriam hanc ab infideli patitur &amp; qui manet in vocatione sua, quam 
+      <lb ed="#H" n="78"/>tum in ipso est, licet parte altera discedente. 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e170">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Caeterum in divortio observari dobet, tum modus procedendi, tum 
+      <lb ed="#H" n="80"/>tempus, quod personae innocenti possit concedi aliud conjugium. 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e179">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Modus procedendi complectitur tum legitimam cognitionem 
+      judi<lb ed="#H" n="82" break="no"/>tum, tum tentationem reconciliationis, vel pronunciationem sententiae. 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e188">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Modus igitur procedendi in casu adulterii ita institui debet, ut 
+      au<lb ed="#H" n="84" break="no"/>ditis partibus sufficienter confirmetur &amp; probetur adulterium 
+      com<lb ed="#H" n="85" break="no"/>missum, ita ut persona rea convicta sit. 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e199">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Si persona quae deliquit, rea peracta sit, &amp; persona innocens petat 
+      <lb ed="#H" n="87"/>fieri divortium, debet primum judex tentare reconciliationem &amp; 
+      ad<lb ed="#H" n="88" break="no"/>hortari, ut redeant in mutuam gratiam 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e210">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Si non procedit reconciliatio, pars innocens non potest cogi, ut 
+      re<lb ed="#H" n="90" break="no"/>cipiat ream. 
+      <!--cod-MkL9py-0714.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>Sed si persona accusans honeste vixit, &amp; pesit ferri sententiam, 
+      pro<lb ed="#H" n="92" break="no"/>huncietur hoc modo: Cum persona quae deliquit, suo scelere dissole 
+      <lb ed="#H" n="93"/>verit conjugium, judex autoritate Evangelii personam 
+      innocentem<lb ed="#H" n="94" break="no"/>pronunciat esse liberam, &amp; expresse ei concedit, ut pro sua 
+      conscien<lb ed="#H" n="95" break="no"/>tia pie contrahat aliud conjugium 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e234">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Sic legitime conjunx innocens potest dimittere conjugem 
+      adul<lb ed="#H" n="97" break="no"/>terantem &amp; aliud postea conjugium inire. At sine cognitione 
+      judi<lb ed="#H" n="98" break="no"/>ciali &amp; sententia publica dimittens, illegitime dimitti 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e246">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Persona condemnata debet puniri, quandoquidem maxima est 
+      <lb ed="#H" n="100"/>juris conjugalis necessitudo, quam conjugum alter frangens adulte 
+      <lb ed="#H" n="101"/>tio, eadem opera, juri divino &amp; naturali &amp; civili, publico &amp; privato 
+      <lb ed="#H" n="102"/>perfidia turpissima adversatur, jus suum erga conjugem 
+      innocentem<lb ed="#H" n="103" break="no"/>amittens, &amp; eidem cripiens debitum. Nam haec omnia maleficiae 
+      <lb ed="#H" n="104"/>concurrunt simul in causam adulteri: 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e264">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Puniri autem debet persona nocens a Magistratu politico, cujus 
+      <lb ed="#H" n="106"/>est adulteria punire: vel mortis supplicio secundum legem divinam 
+      <lb ed="#H" n="107"/>vel exsilio, ut pellatur ex iis locis, ubi vivit persona innocens, cui altera 
+      <lb ed="#H" n="108"/>videlicet condemnata, velut mortua existimanda: vel alia poena 
+      <lb ed="#H" n="109"/>quam Magistratus convenientem judicaverit. 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e280">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Sic debet institui modus procedendi in casu adulterii: 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e287">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>sequitur modus procedendi in casu de¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e294">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>sertionis, 
+      <lb ed="#H" n="113"/>In casu desertionis processus ita institui debet, ut audita petitione 
+      <lb ed="#H" n="114"/>personae accusantis, primum legitima cognitio fiat. Ea in noc 
+      con<lb ed="#H" n="115" break="no"/>sistit, ut primum exploretur, an persona vere deserta sit, ne levitati aut 
+      <lb ed="#H" n="116"/>perfidiae, desertionis umbra praetexatur. 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e310">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Non est enim desertor, qui abest vel officii causa, ut legatus, aut 
+      <lb ed="#H" n="118"/>miles legitima autoritate ad militandum delectus: vel voluntate 
+      con<lb ed="#H" n="119" break="no"/>ingis, ut si abest alibi in mercatu, aut alio honesto negotio, vel in 
+      ca<lb ed="#H" n="120" break="no"/>ptivitate detinetur: vel deportatus est, si nempe casus in quem 
+      mari<lb ed="#H" n="121" break="no"/>cus incidit, non mutat uxoris affectum, id est, si non tale scelus, quo 
+      <lb ed="#H" n="122"/>alioquin conjugium dissolveretur? 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e329">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Deinde postquam cognitum est personam vere desertam esse, 
+      vo<lb ed="#H" n="124" break="no"/>cetur persona desertrix in judicium legitima citatione in publico 
+      lo<lb ed="#H" n="125" break="no"/>co facta &amp; affixa, ut intra constitutum certum terminum 
+      compa<lb ed="#H" n="126" break="no"/>reat. 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e342">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Si persona desertrix comparet, reconciliator personae desertae. 1. 
+      <lb ed="#H" n="128"/>Cor. 7. v. 11 
+      <lb ed="#H" n="129"/>Si autem finito termino personae desertrix non comparet: aut  
+      <lb ed="#H" n="130"/>sub fide publica comparens nolle &amp; non posse se cum hoc conjuge 
+      <lb ed="#H" n="131"/>vivere &amp; cohabitare, nolle se eum sequi constanter testetur, atque sic in 
+      <lb ed="#H" n="132"/>desertione pertinax maneat; audiantur testimonia de personae 
+      inno<lb ed="#H" n="133" break="no"/>centis integritate, &amp; pronuncietur libera. 1. Cor. 7. v. 15. 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e362">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Papae Romani alias etiam causas divortii statuunt, supra Deum se 
+      <lb ed="#H" n="135"/>efferentes, qui qnos ipse conjunxit, non vult ab homine quoquam  
+      <lb ed="#H" n="136"/>separati. Nam Pontifices separant conjuges, quorum alter prolen 
+      <lb ed="#H" n="137"/>suam propriam ex lavacro sancto susceperit. Tomo secundo 
+      Con<lb ed="#H" n="138" break="no"/>cilior. in decretis Papae Deus dedit. Et Jur. Canon. 30. q. 1. can. Pera 
+      <lb ed="#H" n="139"/>venit ad nos, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e380">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Hactenus dictum est de modo procedendi in divortio: 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e387">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>iam dicendum est de tempore, post quod per¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e394">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>sonae innocenti possit aliud coniu¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e402">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>gium concedi 
+      <lb ed="#H" n="144"/>Temporis, post quod aliud conceditur conjugium personae 
+      inno<lb ed="#H" n="145" break="no"/>centi, duplex est consideratio: alia in casu adulterii, alia in casu 
+      deper<lb ed="#H" n="146" break="no"/>tionis. 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e415">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>In casu adulterii non praescribitur tempus innocenti personae, 
+      <lb ed="#H" n="148"/>postquam res est judicata. 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e424">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>In casu desertionis conceditur conjugium si certo constet 
+      perso<lb ed="#H" n="150" break="no"/>nam desertricem vel mortuam esse: vel nic aut alibi adulterio 
+      com<lb ed="#H" n="151" break="no"/>misso conjugium dissolvisse: vel cognita citatione comparere 
+      no<lb ed="#H" n="152" break="no"/>luisse 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e437">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Alias persona deserta debet exspectare: sit enim, ut post 
+      noven<lb ed="#H" n="154" break="no"/>nium demum interdum matitus redeat, praesertim si bello captus in 
+      <lb ed="#H" n="155"/>Turcia vel alibi ab hostibus in captivitate detentus fuit. 
+    </p>
+            <p xml:id="yyy8Uu-xd4693-d1e448">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Hactenus fuit de iustitia coniugum 
+   communi<lb ed="#H" n="157"/>
+               <pc type="indent"/>sequitur de propria. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

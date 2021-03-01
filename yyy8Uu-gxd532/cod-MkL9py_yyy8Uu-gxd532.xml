@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd532"><!-- l9-c5 -->
+            <head xml:id="yyy8Uu-gxd532-Hd1e103">Caput 5</head>
+            <p xml:id="yyy8Uu-gxd532-d1e106">
+               <lb ed="#H" n="57"/>CAPUT V. 
+      <lb ed="#H" n="58"/>In quo comparata, coniugata &amp; partes religionis, 
+      <lb ed="#H" n="59"/>seu pietatis verae,
+    </p>
+            <p xml:id="yyy8Uu-gxd532-d1e115">
+               <lb ed="#H" n="60"/>COMPARATA. Religio &amp; pietas vera pretiosior &amp; melior est 
+      o<lb ed="#H" n="61" break="no"/>mnibus huius mundi opibus, favoribus, amicitiis honoribus, 
+      di<lb ed="#H" n="62" break="no"/>gnitatibus imo patria, parentibs ipsis, uxore, liberis: imo etiam vi 
+      <lb ed="#H" n="63"/>ta, ppria: ideo illis longe anteponenda. Exempla. Noachus veram 
+      pie<lb ed="#H" n="64" break="no"/>tatem &amp; religionem erga Deum praetulit totius mundi favori &amp; 
+      am<lb ed="#H" n="65" break="no"/>citiae Gen. 6. v. 9. Abrahamus veram religionem praetulit patriae, &amp; co. 
+      <lb ed="#H" n="66"/>gnationi sua, &amp; familiae patris sui Gen 11. v. 31 &amp; c. 12. 1. Act. 7. 2, 3. 4 
+      <lb ed="#H" n="67"/>Asa rex Iudae veram religionem praetulit aviae suae Mahacae quam 
+      di<lb ed="#H" n="68" break="no"/>dignitate &amp; potestate privavit propter introductam seu aucta ab ipsa 
+      <lb ed="#H" n="69"/>idololatria in populo Dei, &amp; idolum eius comminuit &amp; exussit 1. Reg. 
+      <lb ed="#H" n="70"/>15. 12, 13. Socii Danielis &amp; ipse Daniel vera religionem praetulerunt gri 
+      <lb ed="#H" n="71"/>tiae maximorum Regum &amp; vitae suae Dan. 3. &amp; 6. Macchabai item &amp; 
+      in<lb ed="#H" n="72" break="no"/>numeri Martyres &amp; confessores: Coniugatum, A religione dicuntu 
+      <lb ed="#H" n="73"/>religiosi ἔυλκοείς, evνσεθεις, quatenus observationi primae tabulae 
+      Deca<lb ed="#H" n="74" break="no"/>logi sunt addicti, ut fuit Simeon ille senex, de quo Luc 2. 25. &amp; Cornele 
+      <lb ed="#H" n="75"/>Centurio Act. 10. 2. σepόμetos, id est, religiosi, proselyti vero dicunt a 
+      Luca<lb ed="#H" n="76" break="no"/>Act. 13. 43. extranei seu gentiles Iudaismum amplexi &amp; circumcisi: sic 
+      <lb ed="#H" n="77"/>&amp; σεζομινας γναικας, religiosas foeminas, v. 50. vocat mulieres Mosat 
+      <lb ed="#H" n="78"/>cam Lege amplexas, quibus tamen incognitus erat Christi adventus. 
+      <lb ed="#H" n="79"/>Quod denique partitionem attinet, Religionis verae partes generatinm 
+      <lb ed="#H" n="80"/>sunt: rectus de Deo sensus &amp; in eum cultus ex praescripto verbi eius. 
+      Par<lb ed="#H" n="81" break="no"/>es proinde verae religionis sunt speciatim omnes virtutes, quae in 
+      pri<lb ed="#H" n="82" break="no"/>ma iabula Decalogi praecipiuntur, ut sunt: fides qua verbo Dei credim: 
+      <lb ed="#H" n="83"/>cognitio Dei, fiducia in Deo, spes in Deo, charitas erga Deum, timor Dei 
+      fi<lb ed="#H" n="84" break="no"/>lialis, numilitas coram Deo, patientia, servitus Deo debita, hoc est, oratios 
+      <lb ed="#H" n="85"/>religiosa ad Deum, confessio veritatis, gelus pro gloria Dei, rituum a Deo 
+      <lb ed="#H" n="86"/>nstitutorum debita ob servatio, &amp;c. Synecdochice autem servitutis, ite 
+      <lb ed="#H" n="87"/>imoris Dei vocabulo tota religio coprehenditur passim in Scriptura.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

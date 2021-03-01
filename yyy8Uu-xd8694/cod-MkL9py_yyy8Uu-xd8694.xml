@@ -1,0 +1,1826 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 21</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 21</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd8694"><!-- l9-c21 -->
+            <head xml:id="yyy8Uu-xd8694-Hd1e103">Caput 21</head>
+            <p xml:id="yyy8Uu-xd8694-d1e106">
+      <!--cod-MkL9py-0650.xml-->
+               <pb ed="#H" n="621"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>CAPUT XXI. 
+      <lb ed="#H" n="2"/>In quo de precatione idololatrica.
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e119">
+               <lb ed="#H" n="3"/>PRECATIO prava, est quae destituitur conditionibus sive 
+      omni<lb ed="#H" n="4" break="no"/>bus sive aliquibus quae requiruntur ad precationem Deo gratam. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e126">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Estque vel precatio idololatrica vel precatio ad verum Deum 
+      <lb ed="#H" n="6"/>inanis. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e135">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Precatio idololatrica, est quae ad deos gentium, vel angelos &amp; sanctos 
+      <lb ed="#H" n="8"/>demortuos aliasve res creatas aut etiam fictas, vel ad daemones etiam 
+      <lb ed="#H" n="9"/>ditigitur. Qualis est Ethnicorum, Papistarum, incantatorum. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e147">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Exempla Ethnicarum precationum: 1. Reg. 18. vers. 26, 27, 28, 29. 
+      <lb ed="#H" n="11"/>Prophetae Baalis quum invocassent nomen Baalis a mane usque ad 
+      me<lb ed="#H" n="12" break="no"/>ridie dicendo, o Baal exaudi nos, &amp; nulla esset vox nullus &amp; exaudiens: 
+      <lb ed="#H" n="13"/>insultarunt in altare quod fecerat Elija. Fuit enim ipso meridie, ut  
+      <lb ed="#H" n="14"/>ludificans eos Elija diceret, clamate voce magna quandoquidem Deus 
+      <lb ed="#H" n="15"/>est, nam colloquium, aut nam insectatio est ei, aut nam iter est ei: 
+      for<lb ed="#H" n="16" break="no"/>tassis dormit ut evigilet. Qui clamabant voce magna &amp; incidebant sese 
+      <lb ed="#H" n="17"/>pro ratione ipsorum gladiis &amp; spiculis, usque adeo ut perfunderent se 
+      <lb ed="#H" n="18"/>sanguine. Fuit vero quum praeteriisset meridies, ut prophetas agerent 
+      <lb ed="#H" n="19"/>usquedum offertur munus, sed nulla erat vox, &amp; nullus exaudiens, 
+      nul<lb ed="#H" n="20" break="no"/>daque attentio. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e176">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Daniel. 3. versicul. 2, 3, 4, 5, 6, 7. Tunc congregati satrapae, 
+      antisti<lb ed="#H" n="22" break="no"/>tes, &amp; duces, senatores, thesauris praefecti, legisperiti, exactores, omnesque 
+      <lb ed="#H" n="23"/>dominotores provinciarum ad dedicationem imaginis, quam 
+      erexe<lb ed="#H" n="24" break="no"/>rat Nebucadnetzar Rex; stabant coram imagine quam erexerat 
+      Ne<lb ed="#H" n="25" break="no"/>bucadnetzar: Et praeco proclamavit strenue; vobis edicitur, o populi, 
+      <lb ed="#H" n="26"/>nationes &amp; linguae: Quo tempore audietis sonum cornu, fistulae, 
+      ci<lb ed="#H" n="27" break="no"/>tharae, sambucae, psalteriorum, symphoniae, &amp; omnium generum musices; 
+      <lb ed="#H" n="28"/>prociditote, &amp; adorate imaginem auream quam erexit Nebucadnetzar 
+      <lb ed="#H" n="29"/>Rex: Nam is qui non prociderit &amp; adoraverit, eadem hora 
+      proii<lb ed="#H" n="30" break="no"/>cietur in mediam fornacem ignis accensam. Propterea eodem 
+      tem<lb ed="#H" n="31" break="no"/>pore quum adirent omnes populi sonum cornis, fistula, citharae, sambucae, 
+      <lb ed="#H" n="32"/>psalteriorum, omniumque generum musices: procidentes omnes populi, 
+      <lb ed="#H" n="33"/>nationes &amp; linguae adorarunt imaginem auream quam erexerat 
+      Nebu<lb ed="#H" n="34" break="no"/>cadnetzar Rex. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e211">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>Quod vero Papisias attinet, illi multiplicem idololatriam 
+      com<lb ed="#H" n="36" break="no"/>mittunt, in adoratione religiosa &amp; invocatione creatorum 
+      Angelo<lb ed="#H" n="37" break="no"/>rum, beatae Virginis Mariae &amp; aliorum divorum seu demortuorum 
+      <lb ed="#H" n="38"/>sanctorum hominum, imo &amp; eorum qui nunquam fuerunt in rerum 
+      <lb ed="#H" n="39"/>natura. in adoratione imaginum, hostiae consecratae, crucis: in 
+      vene<lb ed="#H" n="40" break="no"/>ratione reliquiarum &amp; rerum consecratarum. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e229">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>Papistae enim invocant &amp; precantur Angelos creatos, beatam 
+      vir<lb ed="#H" n="42" break="no"/>ginem Mariam &amp; alios divos seu demortuos sanctos homines; nec 
+      <lb ed="#H" n="43"/>tantum ab eis perunt ut intercedant pro ipsis, sed idipsum ab eis 
+      di<lb ed="#H" n="44" break="no"/>recte petunt, quod a solo Deo petendum est, &amp; quod a solo Deo 
+      san<lb ed="#H" n="45" break="no"/>cti ipsi semper petiverunt, quod solus etiam Deus tribuere potest. 
+      <lb ed="#H" n="46"/>Nam a Maria petunt in hymno: Ave maris stella; Offic. B. Mariae i1 
+      <lb ed="#H" n="47"/>Breviario Romano. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e249">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Funda nos in pace: Et mox: 
+      <lb ed="#H" n="49"/>Solve vincla reis, 
+      <lb ed="#H" n="50"/>Profer lumen caecis, 
+      <lb ed="#H" n="51"/>Mala nostra pelle. Et mox: 
+      <lb ed="#H" n="52"/>Nos culpis solutos, 
+      <lb ed="#H" n="53"/>Mites fac &amp; castos. 
+      <lb ed="#H" n="54"/>Vitam praesta puram. 
+      <lb ed="#H" n="55"/>Iter para tutum, 
+      <lb ed="#H" n="56"/>Vt videntes Iesum, 
+      <lb ed="#H" n="57"/>Semper collaetemur.  
+      <lb ed="#H" n="58"/>Et in hymno: Memento salutis autor. in Officio parvo B. Mariae in 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e278">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>eodem Breviario. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e286">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>Maria mater gratiae, 
+      <lb ed="#H" n="61"/>Mater misericordiae, 
+      <lb ed="#H" n="62"/>Tu nos ab hoste protege, 
+      <lb ed="#H" n="63"/>Et hora mortis suscipe. 
+      <lb ed="#H" n="64"/>Et paulo post ibidem, talis est precatio ad eandem; Sub tuum 
+      prae<lb ed="#H" n="65" break="no"/>sidium confugimus sancta Dei genitrix, nostras deprecationes ne 
+      despi<lb ed="#H" n="66" break="no"/>cias in necessitatibus, sed a periculis cunctis libera nos semper virgo 
+      glo<lb ed="#H" n="67" break="no"/>riosa &amp; benedicta. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e308">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Et in officio Beatae Mariae Virginis, nuper reformato, &amp; Pii V. 
+      <lb ed="#H" n="69"/>Pont. Rom. jussu edito Roschachii anno 1598. lectione tertia: O 
+      Re<lb ed="#H" n="70" break="no"/>gina mundi: scala caeli, thronus Dei, janua paradisi, &amp;c. Dele peccata: 
+      <lb ed="#H" n="71"/>relaxa facinora: erige lapsos: solve compeditos: per te succidantur vepres 
+      <lb ed="#H" n="72"/>&amp; germina vitiorum: praebeantur flores &amp; ornamenta virtutum: placa 
+      <lb ed="#H" n="73"/>precibus judicem, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e326">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Ibidem in Cantico S.S. Ambrosii, &amp; Augustini, in laudem Beatae 
+      <lb ed="#H" n="75"/>Virginis transformato in secundo tomo, opusc D. Bonaventurae, ad 
+      <lb ed="#H" n="76"/>calcem Psalterii B. Virginis: 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e337">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Aeterna fac, pia Virgo, cum sanctis tuis nos gloria munerari. Et 
+      <lb ed="#H" n="78"/>paulo post: 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e346">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Dignare, dulcis Maria, nunc &amp; semper nos sine delicto conservare. 
+      <lb ed="#H" n="80"/>Miserere pia nobis, miserere nobis. 
+      <lb ed="#H" n="81"/>Fiat misericordia tua magna nobiscum, quia in te Virgo Maria, 
+      con<lb ed="#H" n="82" break="no"/>fidimus. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e359">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>In te, dulcis Maria, speramus, nos defendas in aeternum. 
+      <lb ed="#H" n="84"/>Abeadem non tantum petunt, ut intercedat pro ipsis apud 
+      Chri<lb ed="#H" n="85" break="no"/>stum, sed etiam ut imperet Christo. Sic enim in Missali Parisiensi ad 
+      <lb ed="#H" n="86"/>Mariam cantant: O felix puerpera, nostra pians scelera, jure matris 
+      im<lb ed="#H" n="87" break="no"/>pera Redemtori. O detestandam blasphemiam! o insaniam igne 
+      <lb ed="#H" n="88"/>sempiterno vindicandam! 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e378">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Verum ne sine ratione insanire videantur, argumentis quibusdam 
+      <lb ed="#H" n="90"/>probare nituntur, Angelos creatos &amp; demortuos sauctos homi¬ 
+      <!--cod-MkL9py-0650.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>nes esse religiose invocandos, quae recitabimus &amp; simul refellemus. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e394">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>PRIMVM. 
+      <lb ed="#H" n="93"/>Gen. 48. v.16. Angelus qui eruit me de cunctis malis, benedicat 
+      pue<lb ed="#H" n="94" break="no"/>ris istis. Hic aperte Sanctus Jacob Angelum invocavit, ait 
+      Bellarmi<lb ed="#H" n="95" break="no"/>nus lib. 1. de Sanctorum Beatitudine cap. 19. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e407">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Syllogismus erit talis: 
+      <lb ed="#H" n="97"/>Quicunque a Sancto Patriarcha lacobo est invocatus, is est 
+      invo<lb ed="#H" n="98" break="no"/>candus 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e418">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Angelus a Sancto Patriarcha Iacobo est invocatus: 
+      <lb ed="#H" n="100"/>Ergo Angeli sunt invocandi. 
+      <lb ed="#H" n="101"/>RESPON. Primo negatur consequentia, quia plus infertur 
+      <lb ed="#H" n="102"/>quam ferant praemissae: concludi enim debebat: Ergo Angelus ille, 
+      <lb ed="#H" n="103"/>nempe a patriarcha Jacobo invocatus, nobis est invocandus: quod 
+      <lb ed="#H" n="104"/>ultro concedimus. 
+      <lb ed="#H" n="105"/>Deinde propositionem majorem libenter damus, modo hoc 
+      ob<lb ed="#H" n="106" break="no"/>servetur, exempla Jacobi esse sequenda, quatenus cum lege divina 
+      <lb ed="#H" n="107"/>congruunt, quale est istud: Nam si idolum aliquod a Jacobo fuisset 
+      <lb ed="#H" n="108"/>invocatum, ejus exemplum nequaquam ad imitationem esset 
+      tra<lb ed="#H" n="109" break="no"/>hendum. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e447">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Tertio assumtionem distinguimus, quia homonymia est in 
+      nomi<lb ed="#H" n="111" break="no"/>ne Angeli. Angelus duplex est, creatus vel increatus. Increatus 
+      An<lb ed="#H" n="112" break="no"/>gelus est aeternus Dei Filius, qui Angelus ab officio appellatur, ipse  
+      <lb ed="#H" n="113"/>enini inde ab initio quaecunque cognita oportet ad salutem 
+      annun<lb ed="#H" n="114" break="no"/>ciat, ut Justinus Martyr ait Apologia secunda pro Christianis, pagina 
+      <lb ed="#H" n="115"/>septuagesimaquinta. Ipse nunciavit voluntatem Dei Patris de 
+      fede<lb ed="#H" n="116" break="no"/>re nobiscum inito, illiusque federis Mediator &amp; conservator est 
+      in<lb ed="#H" n="117" break="no"/>de ab initio, &amp; bona in federe promissa confert fidelibus, &amp; mala 
+      co<lb ed="#H" n="118" break="no"/>traria ab illis depellit. Hinc appellatur Augelus seu nuncius federis. 
+      <lb ed="#H" n="119"/>Malach. 3. vers. 1. &amp; absolute Angelus Exod. 14. versic. 19. sed qui 
+      i<lb ed="#H" n="120" break="no"/>dem dicitur Iehova Exod. 13. vers. 21. &amp; cap. 24. versic. 24. &amp; 23. v. 20. 
+      <lb ed="#H" n="121"/>Genes. 31. ver. 11, 13. Creati Angeli sunt caeteri qui hunc Angelum 
+      <lb ed="#H" n="122"/>increatum adorant, sicut dicitur Heb. 1. v. 6, 7. Quum inducit 
+      primo<lb ed="#H" n="123" break="no"/>genitum in orbem terrarum, dicit, Et adorent eum omnes Angeli Dei. 
+      <lb ed="#H" n="124"/>Et de Angelis quidem dicit, Qui Angelos suos facit ventos, &amp; ministros 
+      <lb ed="#H" n="125"/>suos, ignis flammam. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e486">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>Assumtio igitur de Angelo increato accepta, est vera. Ac 
+      increa<lb ed="#H" n="127" break="no"/>tum Angelum a Jacobo Patriarcha intelligi, patet: quia eadem 
+      iis<lb ed="#H" n="128" break="no"/>demque verbis Jacobus ab hoc Angelo perit, quae a Deo ipso, eumque 
+      <lb ed="#H" n="129"/>eodem honore, quo Deum Abrahami atque Isaaci afficit. Sic 
+      intelli<lb ed="#H" n="130" break="no"/>gunt locum hunc etiam Patres veteres. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e503">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>TERTULLIANUS sive NOVATIANUS Romanae Ecclesiae 
+      pres<lb ed="#H" n="132" break="no"/>byter libro de Ttinitate, cap. 15. Nemo Christum, sicut Angelum non 
+      <lb ed="#H" n="133"/>dubitat dicere. ita etiam Deum haesitet pronunciare, quum hunc 
+      eun<lb ed="#H" n="134" break="no"/>dem &amp; puerorum horum benedictionem per Sacramentum passionis 
+      di<lb ed="#H" n="135" break="no"/>gestum in figura manuum, &amp; Deum &amp; Angelum intelligat invocatum  
+      <lb ed="#H" n="136"/>fuisse. Ac si aliquis haereticus (nempe de Simoniacis, Menandrianis, 
+      <lb ed="#H" n="137"/>Appelletianis maxime, uti vult Pamelius Papista in Notis ad hunc 
+      <lb ed="#H" n="138"/>Tertulliani sive Novatiani locum) pertinaciter obluctans adversus 
+      <lb ed="#H" n="139"/>veritatem, voluerit in his omnibus exemplis proprie angelum aut 
+      in<lb ed="#H" n="140" break="no"/>telligere, aut intelligendum esse contenderit, in hoc quoque viribus 
+      verita<lb ed="#H" n="141" break="no"/>tis frangatur necesse est. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e532">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>Et rursus capite vigesimoseptimo: Non cessat eadem Scriptura 
+      di<lb ed="#H" n="143" break="no"/>vina, angelum Deum dicere, Deum angelum pronunciare. Nam quum 
+      <lb ed="#H" n="144"/>Manassen atque Ephren filios Ioseph benedicturus esset, hic ipse Iacob, 
+      <lb ed="#H" n="145"/>transversis super capita puerorum manibus collocatis, Deus, inquit, qui  
+      <lb ed="#H" n="146"/>pascit me a iuventute mea usque in hunc diem, angelus qui liberavit me 
+      <lb ed="#H" n="147"/>ex omnibus malis, benedicat pueris his. Vsque adeo autem eundem 
+      An<lb ed="#H" n="148" break="no"/>gelum ponit quem Deum dixerat, ut singulariter in exitu sermonis sui 
+      <lb ed="#H" n="149"/>posuerit personam de qua loquebatur dicendo, benedicat pueris his. Si 
+      <lb ed="#H" n="150"/>enim alterum Angelum voluisset intelligi, plurali numero duas 
+      per<lb ed="#H" n="151" break="no"/>sonas complexus fuisset: nunc unius persone singularem numerum in 
+      <lb ed="#H" n="152"/>benedictione deposuit, ex quo eundem Deum atque Angelum intelligi 
+      <lb ed="#H" n="153"/>voluit. Sed enim Deus Pater accipi non potest: Deus autem &amp; Angelus 
+      <lb ed="#H" n="154"/>Christus accipi potest. Quem ut huius benedictionis autorem etiam 
+      <lb ed="#H" n="155"/>transversas super pueros manus lacob ponendo significavit, quasi patet 
+      <lb ed="#H" n="156"/>illorum esset Christus. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e569">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>ATHANASIUS primo tomo contra Arianos oratione quarta, 
+      <lb ed="#H" n="158"/>pagina ducentesima quinquagesimanona: Ipse donandi modus clare 
+      <lb ed="#H" n="159"/>demonstrat unitatem Patris &amp; Fili: Nunquam enim quispiam 
+      proca<lb ed="#H" n="160" break="no"/>retur accipere a Deo, &amp; ab Angelis, aut ab ullis rebus creatis. 
+      Ne<lb ed="#H" n="161" break="no"/>que quispiam hanc verborum formam concepit, det tibi Deus &amp; 
+      Ange<lb ed="#H" n="162" break="no"/>lus, sed contra, a Patre &amp; Filio propter unitatem, uniformemque 
+      ratio<lb ed="#H" n="163" break="no"/>nem dandi. Siquidem per Filium dantur ea quae in dationem veniunt: 
+      <lb ed="#H" n="164"/>Nihil autem est omnium, quod non per Filium efficiat Pater: ita 
+      e<lb ed="#H" n="165" break="no"/>nim qui accipit, tutam &amp; certam gratiam adipiscitur. Iam si lacob in 
+      <lb ed="#H" n="166"/>benedicendis nepotibus Ephraim &amp; Manasse ad istum modum 
+      loquu<lb ed="#H" n="167" break="no"/>tus est: Deus aluit me a pueritia mea usque in hunc diem, Angelus 
+      <lb ed="#H" n="168"/>qui liberavit me ex omnibus malis, benedicat pueris istis, non tunc 
+      <lb ed="#H" n="169"/>aliquem Angelorum creatorum &amp; qui natura Angeli erant, in unum 
+      <lb ed="#H" n="170"/>copulavit cum Creatore Deo, neque omisso nutritio suo Deo ab Angelo 
+      be<lb ed="#H" n="171" break="no"/>nedictionem suis nepotibus postulavit: sed quia diserte loquutus est de 
+      <lb ed="#H" n="172"/>Angelo qui illum ab omnibus malis liberaverat, satis prae se tulit, non 
+      <lb ed="#H" n="173"/>ex creatitiis Angelis aliquem, sed Filium fuisse Patris, quem Patri im 
+      <lb ed="#H" n="174"/>suis precibus consociavit, per quem Deus liberat quos vult. Hunc enim 
+      ma<lb ed="#H" n="175" break="no"/>gni consilii Patris Angelum noverat, nec alium, nisi illum ipsum, qui 
+      be<lb ed="#H" n="176" break="no"/>nedicit &amp; liberat ex malis, suis verbis expressit. Non enim ille sibi a Deo, 
+      <lb ed="#H" n="177"/>nepotibus autem ab Angelo benedictionem dari voluisset, sed eundem 
+      <lb ed="#H" n="178"/>illum quem interpellabat, Non dimittam te (inquiens) nisi 
+      benedixe<lb ed="#H" n="179" break="no"/>tis mihi. Is enim erat Deus, ut verba lacobi clare testantur: Vidi 
+      <lb ed="#H" n="180"/>Deum facie ad faciem, illum ipsum (inquam) precatus est, ut 
+      ne<lb ed="#H" n="181" break="no"/>potibus benediceret. Angeli enim proprium est, Dei mandatis inservire 
+      <!--cod-MkL9py-0651.xml-->
+      <pb ed="#H" n="622"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>ac proinde aliquando progreditur, ut ciiciat Amorrhaeos, aliquando 
+      a<lb ed="#H" n="2" break="no"/>mandatur, ut tueatur populum in itmere. Caeterum, illud ipsum quod 
+      <lb ed="#H" n="3"/>sit, non est opus eius, sed Dei, qui imperat &amp; emittit eum: ejusdem quoque . 
+      <lb ed="#H" n="4"/>est, ut liberet quos voluit liberari. Non igitur alius quam ipse Dominus 
+      <lb ed="#H" n="5"/>Deus fuerit, qui ei apparens ita loquutus est: Ecce ego tecum sum, 
+      con<lb ed="#H" n="6" break="no"/>servans te in via, quacunque ieris, &amp; non alius 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e647">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>CTRILLUS ALEXANDRINUS lib. 3. Thesauri, capite primo: 
+      <lb ed="#H" n="8"/>Cur si creatura est Filius, ipse solus, &amp; nulla creaturarum alia cum 
+      Pa<lb ed="#H" n="9" break="no"/>tre operari, &amp; Spiritum dare dicitur? Nemo certe audire patietur dicens 
+      <lb ed="#H" n="10"/>tem aliquem, utinam Deus Pater &amp; Angelus (verbi gratia) quispiam 
+      <lb ed="#H" n="11"/>dirigat viam tuam. Gratiam enim dare, Deo soli conveuit. Quum 
+      <lb ed="#H" n="12"/>igitur una cum Filio, &amp; per Filium omnia in Spiritu Sancto Pater 
+      fa<lb ed="#H" n="13" break="no"/>ciat, patet Filium non esse creaturam, sed vere genitum ex Patre, &amp; 
+      Pa<lb ed="#H" n="14" break="no"/>trem in ipso esse, &amp; ipsum in Patre: &amp; ita universa fieri, &amp; gratiam 
+      <lb ed="#H" n="15"/>sanctis dari ex Patre per Filium, ut Paulus testatur: Gratias ago Deo 
+      <lb ed="#H" n="16"/>meo semper de vobis propter gratiam Dei, quae vobis data est in Christo. 
+      <lb ed="#H" n="17"/>Iesu. Sed si nulla, inquiunt, creatura cum Deo simul in faciendo, 
+      dan<lb ed="#H" n="18" break="no"/>dove aliquid accipitur, quamobrem Patriarcha lacob nepotibus Iosephi 
+      <lb ed="#H" n="19"/>fiiis benedicens, ait: Deus qui me alit ex infantia mea usque ad hunc 
+      <lb ed="#H" n="20"/>diem, &amp; Angelus qui liberat me ex omnibus malis, benedicat pueris 
+      <lb ed="#H" n="21"/>istis. Ecce Deus nominatur, &amp; Angelus una cum eo: &amp; quidem in 
+      sin<lb ed="#H" n="22" break="no"/>gulari numero benedicere dicitur. Si prophetico spiritu decoratum 
+      haere<lb ed="#H" n="23" break="no"/>tici fatentur, &amp; sanctum lacob fuisse virum non negant cuius gratia 
+      <lb ed="#H" n="24"/>ita ipsum errasse contendunt, ut Angelum Deo conjunxerit, &amp; una cum 
+      <lb ed="#H" n="25"/>Deo posse benedicere putaverit? Nolint quaeso ita sanctum virum illum 
+      <lb ed="#H" n="26"/>vituperare, sed verum suorum verborum sensum inquirant, si sanctum 
+      <lb ed="#H" n="27"/>fuisse illum arbitrantur: sin vero minime id putant, cur autoritate 
+      ipsi<lb ed="#H" n="28" break="no"/>us ad confirmanda dogmata utuntur? Sed nos nugis haereticorum 
+      con<lb ed="#H" n="29" break="no"/>temtis, Patriarchae verba breviter exponamus. Spiritu ergo ille Sancti 
+      <lb ed="#H" n="30"/>id veritatem dogmatum ductus, primo Deum orat, ut pueris benedicat.  
+      <lb ed="#H" n="31"/>&amp; simul etiam Angelum, qui liberabat eum ex omnibus malis: ut 
+      po<lb ed="#H" n="32" break="no"/>Deum Patrem ipsum significaret per Angelum autem Verbum Patris. 
+      <lb ed="#H" n="33"/>Non enim ignorabat, quia nomen ejus magni consilii Angelus est. Quoc 
+      <lb ed="#H" n="34"/>autem non Angelum (ut intelligunt haeretici) sed Filium Dei 
+      signifi<lb ed="#H" n="35" break="no"/>carit, inde patet, quod quum dixisset, Angelus, statim addidit, qui 
+      me<lb ed="#H" n="36" break="no"/>liberat ex omnibus malis. A verbis igitur ipsius consideremus, Deusne 
+      <lb ed="#H" n="37"/>ipsum a malis omnibus liberarit, an aliquis angelorum qui sunt creati. 
+      <lb ed="#H" n="38"/>Luctatus dicitur Angelus cum Patriarcha illo fuisse, idque Scriptura 
+      di<lb ed="#H" n="39" break="no"/>vina testatur: quem Patriarcha tenuisse, dixisseque ad ipsum dicitur: Ni 
+      <lb ed="#H" n="40"/>te dimittam, nisi mihi benedicas. Erat autem ille Deus in specie 
+      creatu<lb ed="#H" n="41" break="no"/>rae cum Patriarcha luctatus, sicut ipsius Patriarchae voce apparet: Vidi 
+      <lb ed="#H" n="42"/>faciem Dei. Hunc igitur Angelum quem tunc vidit, orabat ut pueris 
+      <lb ed="#H" n="43"/>benediceret. Praeterea, visus est (ut Scriptura dicit) Dominus Deus 
+      Pa<lb ed="#H" n="44" break="no"/>triarchae Iacob, &amp; dixit ipsi: Ecce ego tecum sum, &amp; custodiam te in 
+      o<lb ed="#H" n="45" break="no"/>mnia via quocunque ieris. Deus igitur erat, qui liberabat ipsum, non An¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e736">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>gelus. Et rursus, quando Laban persequutus, deprehendit eum, tunc quo 
+      <lb ed="#H" n="47"/>que Deus ipsum liberavit, ut ipse uxoribus dicens testatur: Et non dedit 
+      <lb ed="#H" n="48"/>inquit, Deus Laban potestatem male faciendi mihi. Et quando rursum 
+      <lb ed="#H" n="49"/>frater Esau insidiabatur ei, non angeli, sed Dei auxilium implorabat,  
+      <lb ed="#H" n="50"/>dicens: Libera me Domine de manu fratris mei Esau, quia timeo i 
+      <lb ed="#H" n="51"/>psum. Deus igitur ipse, hoc est, Filius Dei, nomine Angeli a lacob in 
+      be<lb ed="#H" n="52" break="no"/>nedictionem filiorum Ioseph nominatur: 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e756">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>SECVNDVM 
+      <lb ed="#H" n="54"/>Job. 5. 1. Voca si quis est, qui tibi respondeat, &amp; ad aliquem 
+      Sancto<lb ed="#H" n="55" break="no"/>rum convertere. Ubi nomine Sanctorum intelligi Angelos, ait 
+      Bel<lb ed="#H" n="56" break="no"/>larminus. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e770">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>RESP. Syllogismus est talis: 
+      <lb ed="#H" n="58"/>Quem Iobus jubetur invocare, is est invocandus: 
+      <lb ed="#H" n="59"/>Angelos Iobus iubetur invocare: 
+      <lb ed="#H" n="60"/>Ergo Angeli sunt invocandi. 
+      <lb ed="#H" n="61"/>Primo propositio major non est universaliter vera: sed κατα τη 
+      <lb ed="#H" n="62"/>Quem Jobus jubetur invocare, non a quovis, puta idololatra, sed a 
+      <lb ed="#H" n="63"/>Deo vel ministris Dei ex mandato divino: deinde si is quem 
+      jube<lb ed="#H" n="64" break="no"/>tur invocare, sit Deus; is est invocandus. Secundo assumtio est falsa. 
+      <lb ed="#H" n="65"/>Tertio assumtionis probatio est nulla: quia allegatur testimonium 
+      <lb ed="#H" n="66"/>tum imperita versione depravatum, tum impertinens. Nam textus 
+      <lb ed="#H" n="67"/>Hebraeus ita habet:  
+      <lb ed="#H" n="68"/>ντpo ηθN τοιν ὕν NSNT 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e801">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Pabi 
+      <lb ed="#H" n="70"/>Sic autem verti debet: Voca quaeso, an sit qui respondeat seu 
+      atteste<lb ed="#H" n="71" break="no"/>tur tibi &amp; ad quem e Sanctis respicies? seu, ad quem de Sanctis 
+      obtuebe<lb ed="#H" n="72" break="no"/>ris? ut Atias Montanus Papista ipse vertit. Jam vulgata versio 
+      o<lb ed="#H" n="73" break="no"/>rationem simplicem, hoc est, citra interrogationem prolatam 
+      ha<lb ed="#H" n="74" break="no"/>bet, quum textus Hebraeus interrogatione vim negationis 
+      haben<lb ed="#H" n="75" break="no"/>te constet. Deinde testimonium est impertinens: Nam in eo Job 
+      <lb ed="#H" n="76"/>non jubetur angelos invocare: sed quoniam cap. 3. v. 25. protestatus 
+      <lb ed="#H" n="77"/>erat, mentem suam consciam sibi esse bene anteactae vitae cum sum 
+      <lb ed="#H" n="78"/>ma religione, seque solicite cavisse ne Deum offenderet, tamen 
+      ca<lb ed="#H" n="79" break="no"/>lamitatem sibi tantam evenisse: ab Eliphazo Themanite 
+      redargui<lb ed="#H" n="80" break="no"/>tur, quod tanta calamitate afflictus auderet se justum asserere, ac 
+      per<lb ed="#H" n="81" break="no"/>consequens Deum injustitiae arguere. Negat igitur Eliphazus, que 
+      <lb ed="#H" n="82"/>quam hominum unqua tam graviter afflictum fuisse a Deo, quin 
+      pec<lb ed="#H" n="83" break="no"/>catis id sit promeritus. Negatio autem figurata est primo concessione. 
+      <lb ed="#H" n="84"/>Ironica q d. Age vero, voca huc &amp; adduc quempiam qui tibi atteste 
+      <lb ed="#H" n="85"/>tur, qui sermonibus tuis assentiatur: Deinde ἀνακοινώσει, ad quem 
+      san<lb ed="#H" n="86" break="no"/>ctorum convertes itqui videlicet tam gravia passus sit ac tu? q. d. ad 
+      ne<lb ed="#H" n="87" break="no"/>minem Per sanctos vero intelliguntur homines pii, quibus oppositi 
+      <lb ed="#H" n="88"/>versu sequente impii, vocantur stulti &amp; fatui, quos interficit 
+      indigna<lb ed="#H" n="89" break="no"/>tio Et hanc veran: esse interpretationem ostendit contextus. Proine 
+      <lb ed="#H" n="90"/>de hic locus Angelorum invocationi non patrocinatur.  
+      <!--cod-MkL9py-0651.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>INSTANT: Per sanctos hic intelligi Angelos, Augustinus docet in 
+      an<lb ed="#H" n="92" break="no"/>notationibus in lobum: 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e862">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>RESP. Primo ipsemet Augustinus Retractat. lib. 2. cap. 13. 
+      An<lb ed="#H" n="94" break="no"/>notationibs illis in Jobum non multum tribuit, ac prope pro suis non 
+      <lb ed="#H" n="95"/>agnoscit. Sic enim ait: Liber cuius est titulus, Annotationes in lob, 
+      u<lb ed="#H" n="96" break="no"/>trum meus habendus sit, an potius eorum, qui eas sicut potuerunt vel 
+      vo<lb ed="#H" n="97" break="no"/>luerunt redegere in unum corpus descriptas de frontibus codicis, non 
+      fa<lb ed="#H" n="98" break="no"/>cile dixerim Suaves enim paucissimis intelligentibus sunt, qui tamen 
+      ne<lb ed="#H" n="99" break="no"/>cesse est offendantur multa non intelligentes, quia nec ipsa verba quae 
+      ex<lb ed="#H" n="100" break="no"/>bonuntur ita descripta sunt in multis locis, ut appareat quid exponatur: 
+      <lb ed="#H" n="101"/>Deinde brevitatem sententiarum tanta est sequuta obscuritas, ut eam 
+      <lb ed="#H" n="102"/>lector vix ferre possit, quem necesse est plurima non intellecta transire 
+      <lb ed="#H" n="103"/>Postremo tam mendosum comperi opus ipsum in codicibus nostris, ut 
+      e<lb ed="#H" n="104" break="no"/>mendare non possem, nec editum a me dici vellem, nisi quia suo fratres 
+      <lb ed="#H" n="105"/>id habere, quorum studio non potuit denegari. Hactenus Augustinus; 
+      <lb ed="#H" n="106"/>unde liquet, quid sit annotationibus illis tribuendum. Secundo etiam 
+      <lb ed="#H" n="107"/>si Augustinus citra dubitationem de Angelis intellexisset: opponi 
+      ei<lb ed="#H" n="108" break="no"/>possunt alii interpretes, qui de vinis sanctis acceperunt, ut R. Mosche 
+      <lb ed="#H" n="109"/>ben Nahman, Aben Ezra, R SchelomoJarchi. Quin etiam Thomas 
+      <lb ed="#H" n="110"/>Aquinas &amp; Lyranus non de Angelis, sed de sanctis demortuis 
+      inter<lb ed="#H" n="111" break="no"/>pretantur, licet falso Tertio, Interpretatio Augustini Bellarmino ad 
+      <lb ed="#H" n="112"/>versatur: quia negat Angelos responso dignari aut audire stultum 
+      <lb ed="#H" n="113"/>quia immundus sit. Hinc certe nequit colligi, suaderi invocationem 
+      <lb ed="#H" n="114"/>Angelorum, sed potius dissuaderi¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e914">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>INSTANT rursus; Interpretationem Augustini aliis locis Iobi 
+      <lb ed="#H" n="116"/>confirmari. Nam Augustinus illud, cap 19. Miseremini mei amici mei 
+      <lb ed="#H" n="117"/>ad Angelos dici existimat, juxta quod dicitur, cap. 33. Si fuerit 
+      Ange<lb ed="#H" n="118" break="no"/>lus loquens pro eo unus de millibus miserebitur eius, &amp; dicet, libera eum. 
+      <lb ed="#H" n="119"/>Sicut etiam c. 15. quum dicit: Ecce inter sanctos eius nemo immutabilis. 
+      <lb ed="#H" n="120"/>Nomine sanctorum intelliguntur Angeli; nam idem habetur cap. 4. 
+      hi<lb ed="#H" n="121" break="no"/>verbis: Ecce, qui serviunt ci, non sunt stabiles, &amp; in Angelis suis reperit 
+      <lb ed="#H" n="122"/>pravitatem 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e936">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>RESP. Instantia comprehenditur hoc Syllogismo: Si per sanctos 
+      <lb ed="#H" n="124"/>in aliis locis Iobi intelliguntur Angeli, ergo &amp; hoc loco. Sed prius est; 
+      Er<lb ed="#H" n="125" break="no"/>go &amp; posterius. At primo propositio est inconsequens: Nam diversitas 
+      <lb ed="#H" n="126"/>circumstantiarum, diversam vocis alicujus significationem requirit. 
+      <lb ed="#H" n="127"/>Deinde ad assumtionem probandam tres loci inducuntur, quorum 
+      <lb ed="#H" n="128"/>primus &amp; ultimus plane sunt impertinentes, quia nulla mentio fit 
+      <lb ed="#H" n="129"/>sanctorum in illis. Imo locus ex c. 19. perperam ad Angelos 
+      torque<lb ed="#H" n="130" break="no"/>tur: Nec Augustinus quicquam certi ibi asseverat, sed alternative 
+      di<lb ed="#H" n="131" break="no"/>cit; Angelos VIDETUR postulare, ut pro eo deprecentur, aut certe 
+      <lb ed="#H" n="132"/>sanctos, ut pro poenitence orent. Non affirmat, nec sibi videri dicit,  
+      <lb ed="#H" n="133"/>sed videri solum. Jobus nec Angelos postulat, nec sanctos homineo 
+      <lb ed="#H" n="134"/>demortuos; sed facit Apostropham ad amicos suos praesentes, ut cos 
+      <lb ed="#H" n="135"/>ad misericordiam flectat commemoratione suarum calamitatum. 
+      <lb ed="#H" n="136"/>Dictum vero ex c. 33. non habetur in dicto loco Augustini, sed a Bela 
+      <lb ed="#H" n="137"/>larmino est additum, &amp; mala versione prorsus est depravatum. 
+      Lo<lb ed="#H" n="138" break="no"/>cus autem ex c. 15. solus non evincit veritatem assumti: sed opus era 
+      <lb ed="#H" n="139"/>inductione omnium aliorum locorum consentientium. Itaque ex 
+      par<lb ed="#H" n="140" break="no"/>iculari nihil sequitur. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e980">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>INSTANT amplius; Quamvis haec verba non videantur 
+      convince<lb ed="#H" n="142" break="no"/>re, quia non sunt ipsius scriptoris libri, sed Eliphaxi, amici Iobi: tamen 
+      <lb ed="#H" n="143"/>ideo convincunt, quia indicant tunc fuisse consuetudinem invocandi. 
+      <lb ed="#H" n="144"/>patrocinium sanctorum Angelorum. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e994">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>RESP. Primo, instantia ista est ἀπροσδιόνυσος: quia nihil tale fuit. 
+      <lb ed="#H" n="146"/>responsum, ad quod istud replicari necesse esset. Nihil enim interest, 
+      <lb ed="#H" n="147"/>sive sint Jobi, sive Eliphazi verba esse dicantur: nam etsi Eliphaxi 
+      in<lb ed="#H" n="148" break="no"/>stitutum improbandum sit, quum eo tendat ut Job sibi persuadeat,  
+      <lb ed="#H" n="149"/>se a Deo ob gravissima aliqua scelera rejectum: veras tamen 
+      senten<lb ed="#H" n="150" break="no"/>tias de Dei judiciis &amp; justitia affert &amp; doctrinae Spiritus Sancti 
+      con<lb ed="#H" n="151" break="no"/>sonas, itaque omnino recipiendas, ut recte monuit Mercerus 
+      Praefati<lb ed="#H" n="152" break="no"/>one in librum Jobi. Secundo; Verba Eliphazi non indicant tunc fuis. 
+      <lb ed="#H" n="153"/>se consuetudinem invocandi patrocinium sanctorum Angelorum: 
+      <lb ed="#H" n="154"/>nam alium sensum ea habere, ostendimus: Ergo non convincunt, 
+      es<lb ed="#H" n="155" break="no"/>se invocandos Angelos 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1023">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>INSTANT ulterius, Videtur tamen, per sanctos esse intelligendos 
+      <lb ed="#H" n="157"/>Angelos. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1032">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>RESP. Primo, videtur solvitur per non videtur. Deinde, 
+      etiam<lb ed="#H" n="159" break="no"/>si per sanctos, beati Angeli intelligerentur: tamen hic locus 
+      invoca<lb ed="#H" n="160" break="no"/>tioni illorum non patrocinaretur. Nam ex eo potius colligeretur,  
+      <lb ed="#H" n="161"/>Angelos non respondere vel comparere, ab hominibus sceleratis 
+      <lb ed="#H" n="162"/>vocatos. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1048">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>TERTIVM 
+      <lb ed="#H" n="164"/>Gen. 48. 16. Invocetur super eos nomen meum, nomina quo- 
+      <lb ed="#H" n="165"/>que patrum meorum Abrahami &amp; Isaaci: Ergo sancti defuncti sunt. 
+      <lb ed="#H" n="166"/>invocandi. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1061">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>RESP. Syllogismus est 
+      hujusmodi<lb ed="#H" n="168" break="no"/>Abrahamus, Isaacus &amp; lacobus sunt invocandi: 
+      <lb ed="#H" n="169"/>Abrahamus, Isaacus &amp; lacobus sunt sancti demortui: 
+      <lb ed="#H" n="170"/>Ergo sancti demortui sunt invocandi. 
+      <lb ed="#H" n="171"/>Primo, propositio major negatur. Secundo, ad eam probandam 
+      al<lb ed="#H" n="172" break="no"/>legatur testimonium tum male translatum, tum alienum. Nam 
+      tex<lb ed="#H" n="173" break="no"/>tus Hebraeus habet: 
+      <lb ed="#H" n="174"/>nλa mον Qυν ννν Onο Neyp 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1083">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>
+      Priyi<lb ed="#H" n="176" break="no"/>Veri debet: Et vocetur in eis nomen meum; &amp; nomen patrum 
+      <lb ed="#H" n="177"/>meorum Abrahami &amp; Isaaci. Alienum est autem a propositiones 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1095">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>probanda: quia Jacobus eo non praecipit invocationem sui &amp; 
+      Abraha<lb ed="#H" n="179" break="no"/>mi &amp; Isauci: sed adoptat Manassem &amp; Ephrajimum in filios.  
+      <!--cod-MkL9py-0652.xml-->
+      <pb ed="#H" n="623"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>d. vocentur nomine meo, denominentur a me: dicantor &amp; 
+      ha<lb ed="#H" n="2" break="no"/>beantor non nepotes, sed filii mei, vocantor mei &amp; meorum 
+      majo<lb ed="#H" n="3" break="no"/>rum filii eodem gradu quo reliqui mei filii: sunto mei, Isaaci &amp; 
+      A<lb ed="#H" n="4" break="no"/>brahami filii, atque ita in numerum filiorum meorum adoptati, sic 
+      <lb ed="#H" n="5"/>ut non in stirpem, sed in capita tanquam duae distinctae tribus, 
+      una<lb ed="#H" n="6" break="no"/>cum aliis meis filiis succedant in partitione &amp; possessione terrae 
+      Ca<lb ed="#H" n="7" break="no"/>nanaee, quod &amp; deinceps factum. Haec ergo verba sunt adoptanti 
+      <lb ed="#H" n="8"/>legitime Ephrajimum &amp; Manassem, sic ut deinceps filii &amp; 
+      haere<lb ed="#H" n="9" break="no"/>des sui judicarentur ipsius Jacobi, &amp; de ipsius nomine appellarem 
+      <lb ed="#H" n="10"/>tur habentes dignitatem &amp; jus Patriarcharum, atque ut duae tribus 
+      <lb ed="#H" n="11"/>Israel ex illis descenderent: In summa, adoptat illos, ut genere suo 
+      <lb ed="#H" n="12"/>censeantur, ut ita ad utrumque ipsorum transmittat aequaliter sue 
+      <lb ed="#H" n="13"/>cessionem federis, quod Deus cum ipso, Abrahamo &amp; Isaaco 
+      po<lb ed="#H" n="14" break="no"/>pigerat. Similis loquutio exstat Jesaiae 4. vers. 1. Septem multeres 
+      <lb ed="#H" n="15"/>dicent uni viro, tantum vocetur nomen tuum super nos, hoc est, dicat 
+      <lb ed="#H" n="16"/>mur uxores tuae, sinas nos sub tua, tanquam mariti fide &amp; 
+      tutela<lb ed="#H" n="17" break="no"/>degere. Tertio, sancti qui ante Christi adventum moriebantur  
+      <lb ed="#H" n="18"/>ex Papistarum opinione non intrabant in caelum, sed in limbum 
+      Pa<lb ed="#H" n="19" break="no"/>trum, nec Deum videbant, nec cognoscere poterant preces eorum quo 
+      <lb ed="#H" n="20"/>supplicabant: proinde a nullo fidelium in Veteri Testamento 
+      fue<lb ed="#H" n="21" break="no"/>runt invocati: nullus fidelium unquam sic oravit in Veteri Testamen 
+      <lb ed="#H" n="22"/>to, Sancte Abraham. Sancte Isaac, Sacte Jacob ora pro nobis. Quod 
+      <lb ed="#H" n="23"/>si fideles Veteris Testamenti ita intelligenda judicassent verba Jacobi 
+      <lb ed="#H" n="24"/>Patriarchae, ut ea exponunt Papani, tum profecto Abrahamum, 
+      Isaa<lb ed="#H" n="25" break="no"/>cum &amp; Jacobum invocassent, aut contemnentes mandatum sancti 
+      Pa<lb ed="#H" n="26" break="no"/>triarchae Jacobi graviter peccassent non invocando ipsum &amp; 
+      Abraha<lb ed="#H" n="27" break="no"/>mum &amp; Isaacum. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1169">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>QVARTVM 
+      <lb ed="#H" n="29"/>Exo. 32. 13. Moses ita orat: Recordare Domine Abraham, Isaac &amp; 
+      <lb ed="#H" n="30"/>Israel servorum tuorum. Ergo sencti sunt invocandi. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1180">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>RESP. Syllogismus talis est: Quorum recordationem haberi a Dei, 
+      <lb ed="#H" n="32"/>petit Moses, u sunt invocandi: Sanctorum Patriarcharum recordationa 
+      <lb ed="#H" n="33"/>habheria Deo petit Moses. Ergo sancti Patriarebae sunt invocandi. 
+      Pri<lb ed="#H" n="34" break="no"/>mo Propositio est falsa. Nam oratio Mosis qua petit ut Deus 
+      Abra<lb ed="#H" n="35" break="no"/>hami, Isaaci &amp; Jacobi recordetur, non est causa cur ipsi sint invocan 
+      <lb ed="#H" n="36"/>di nec invocatio, recordationis illius est confectarium. Deinde, Mo 
+      <lb ed="#H" n="37"/>ses non invocavit sanctos Patriarchas, sed Jehovam ipsum. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1200">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>RVINTVM 
+      <lb ed="#H" n="39"/>Si sancti viventes adhuc in terris, sunt a vere fidelibus invocati, &amp; 
+      <lb ed="#H" n="40"/>a nobis sunt invocandi: tunc multo magis nunc cum Christo regnantes 
+      <lb ed="#H" n="41"/>sunt invocandi. Illud est: Ergo &amp; hoc. Assumtum probare conantur  
+      <lb ed="#H" n="42"/>aliquot Scripturae locis: Nam lib. 1. Reg. capite 7. dicunt filii Israe 
+      <lb ed="#H" n="43"/>ad Samuelem: Ne cesses pro nobis clamare ad Dominum Deum 
+      no<lb ed="#H" n="44" break="no"/>strum. Item Job ultimo: Ite ad servum meum lob, ille orabit pro 
+      vo<lb ed="#H" n="45" break="no"/>bis. Roman. 15 Paulus ait: Obsecro vos, fratres, ut adiuvetis me in 
+      o<lb ed="#H" n="46" break="no"/>rationibus pro me ad Deum. Idem repetit Eph. 6. 1. Thess. 5. 2. Thess 
+      <lb ed="#H" n="47"/>3. Coloss.4. &amp; Heb. 13. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1226">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>RESP. Primo, negatur consequentia, quia sunt quatuor termini in 
+      <lb ed="#H" n="49"/>sto paralogismo. Alio enim significato verbum invocari accipitur 
+      <lb ed="#H" n="50"/>n antecedente propositionis connexae, alio in consequente. Nam 
+      <lb ed="#H" n="51"/>in antecedente sancti dicuntur invocari, id est, coram aut per ep 
+      i<lb ed="#H" n="52" break="no"/>stolam rogari ut apud Deum preces fundant pro nobis, ut ex 
+      loci<lb ed="#H" n="53" break="no"/>allegatis explicari necesse est, quanquam significatio haec inusitata sit. 
+      <lb ed="#H" n="54"/>in consequente autem idem est quod religiose in auxilium vocat,  
+      <lb ed="#H" n="55"/>jam demortuos &amp; absentes homines, qui neque noverunt calamita; 
+      <lb ed="#H" n="56"/>tes singulorum, neque preces illorum exaudiunt, neque exaudire 
+      pos<lb ed="#H" n="57" break="no"/>sunt. Deinde assumtum si ita intelligatur, sanctos in hac vita adhuc 
+      <lb ed="#H" n="58"/>degentes a vere fidelibus invocatos, id est, postulatos ut intercederet. 
+      <lb ed="#H" n="59"/>apud Deum, &amp; debere invocari, id est, rogari ut pro nobis Deum 
+      o<lb ed="#H" n="60" break="no"/>rent, conceditur, quanquam sit insolens ἀκυρολογία, si verbum 
+      invo<lb ed="#H" n="61" break="no"/>cari ita usurpetur: sic ut potius rejicienda sit assumtio ob phraseos 
+      <lb ed="#H" n="62"/>insolentiam, aut corrigenda phraseos mutatione: etsi non diffitear 
+      <lb ed="#H" n="63"/>quosdam ista phrasi uti &amp; statuere quod nobis liceat invocare sanctos 
+      <lb ed="#H" n="64"/>praesentes nobis in terra vel absentes interventu nuncii alicujus 
+      ve<lb ed="#H" n="65" break="no"/>repistolae. In vulgata tamen versione Latina nunquam invocandi ver 
+      <lb ed="#H" n="66"/>bum ad homines in terra refertur, nisi unico in loco, nempe Jesa. 34. 
+      <lb ed="#H" n="67"/>12. idque malam in partem: Regem potius invocabunt, &amp; omnes 
+      princi<lb ed="#H" n="68" break="no"/>pes eius erunt in nihilum. Sententia est, Edomaei in statu deplorato  
+      <lb ed="#H" n="69"/>ad regni gubernationem ex nobilibus vocabunt, sed frustra Sin vero 
+      <lb ed="#H" n="70"/>aliter intelligatur, nimirum, sanctos in hac vita degentes religiose 
+      <lb ed="#H" n="71"/>culti: in auxilium vocatos aut vocandos, simpliciter negatur: neque 
+      <lb ed="#H" n="72"/>loca adducta probant, religioso cultu sanctos in his terris viventes. 
+      <lb ed="#H" n="73"/>invocatos fuisse aut vocari debere in auxilium, sed hoc tantum, 
+      expe<lb ed="#H" n="74" break="no"/>tere licere, imo &amp; expetendum esse nobis, ut precibus adjuvemur 
+      a<lb ed="#H" n="75" break="no"/>liorum fidelium his in terris viventium, qui vel nostras necessitates i1 
+      <lb ed="#H" n="76"/>particulari vident, vel per sermonem, nuncios, epistolamve certiores 
+      <lb ed="#H" n="77"/>de rebus nostris fieri possunt.  
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1296">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>SEXTVM 
+      <lb ed="#H" n="79"/>Si sanctos demortuos nunc cum Christo regnantes invocare non 
+      li<lb ed="#H" n="80" break="no"/>cet, tum ideo non licet, vel quia nolunt, vel quia non possunt; 
+      <lb ed="#H" n="81"/>vel quia non sciunt quid oremus, vel demum quia sit iniaria Dei 
+      <lb ed="#H" n="82"/>aut Christo, si alius quam ipse invocetur. At nullum horum quatuor 
+      <lb ed="#H" n="83"/>est: non primum, quum sint maiori charitate praediti, quam antea, 
+      <lb ed="#H" n="84"/>CP Lut loquitur Cyprianus sermone de mortalitate) de sua 
+      immortali<lb ed="#H" n="85" break="no"/>fues securi, &amp; de nostra incolumitate soliciti: non secundum, quia si 
+      po<lb ed="#H" n="86" break="no"/>tellut, quum hic essent peregrini, quanto magis nunc poterunt in 
+      patria<lb ed="#H" n="87" break="no"/>noaeertium, quia unde sciunt Angeli conversionem peccatorum, 
+      pro<lb ed="#H" n="88" break="no"/>guntancopere gaudent in caelis, ut dicitur Luc. 15. inde sciunt sancti 
+      no<lb ed="#H" n="89" break="no"/>stras fritis: non denique quartum, quia tunc non liceret viven¬ 
+      <!--cod-MkL9py-0652.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>tes invocare. Ergo sanctos demortuos nunc cum Christo regnantes 
+      invo<lb ed="#H" n="91" break="no"/>care licet.  
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1336">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>De hoc argumento tanquam invincibili Achille Bellarminus 
+      <lb ed="#H" n="93"/>gloriose triumphat, jactatque Thrasonice quod illud adversarii 
+      nun<lb ed="#H" n="94" break="no"/>quam solvere potuerint  
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1347">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>RESP. Aliis cornibus Bellarminum uti necesse est, si victor 
+      eva<lb ed="#H" n="96" break="no"/>dere &amp; currrum triumphalem conscendere velit. Nam assumtionis 
+      <lb ed="#H" n="97"/>omnia quatuor membra sunt vitiosa. Primum enim falsum est, 
+      san<lb ed="#H" n="98" break="no"/>ctos jam cum Christo regnantes velle a nobis invocari: producatur  
+      <lb ed="#H" n="99"/>ex Scriptura Sacra vel unicus locus qui id affirmet. Ratiuncula quam 
+      <lb ed="#H" n="100"/>nititur Bellarminus id probare, talis est: Qui nunc maiori sunt 
+      chari<lb ed="#H" n="101" break="no"/>tate praediti quam antea, &amp; de sua immortalitate securi &amp; de nostra 
+      <lb ed="#H" n="102"/>incolumitate soliciti, illi volunt a nobis invocari: At sancti cum 
+      Chri<lb ed="#H" n="103" break="no"/>sto regnantes, nunc maiori sunt charitate praediti quam antea, &amp; de 
+      <lb ed="#H" n="104"/>sua immortalitate securi &amp; de nostra incolumitate soliciti: Ergo volunt. 
+      <lb ed="#H" n="105"/>a nobis invocari. Argumentationis istius major propositio negatur:  
+      <lb ed="#H" n="106"/>est enim falsa, nec ex Scriptura Sacra probari potest. Pugnat etiam 
+      <lb ed="#H" n="107"/>cum natura verae charitatis erga Deum &amp; homines. Quo enim 
+      <lb ed="#H" n="108"/>major ac perfectior est charitas sanctorum erga Deum &amp; homines; 
+      <lb ed="#H" n="109"/>eo magis volunt ut Deus solus religioso cultu invocetur, se vero sic 
+      <lb ed="#H" n="110"/>invocari nolunt: ut ostendit exemplum Angeli, qui Johanni 
+      proci<lb ed="#H" n="111" break="no"/>denti ante pedes ejus ut adoraret eum, dixit, non solum ex 
+      mode<lb ed="#H" n="112" break="no"/>stia ac humilitate, sed etiam ex veritate; Vide, ne feceris: conservus 
+      <lb ed="#H" n="113"/>tuus sum &amp; fratrum tuorum qui habent testimonium Iesu. Deum 
+      ad<lb ed="#H" n="114" break="no"/>pra, Apoc 19. 10. &amp; cap. 22. 9. Exemplum item Petri Apostoli, qui  
+      <lb ed="#H" n="115"/>Cornelium Centurionem accidentem ad ejus pedes &amp; adorantem 
+      <lb ed="#H" n="116"/>erexit, dicens, Surge: &amp; ego ipse homo sum, Actor. 10. v. 25 Exemplum 
+      <lb ed="#H" n="117"/>item Pauli &amp; Barnabae, qui in turbam volentem ipsis sacrificare, insi 
+      <lb ed="#H" n="118"/>lierunt diruptis palliis suis, clamantes, ac dicentes, Viri, cur ista facitu? 
+      <lb ed="#H" n="119"/>nos quoque sumus homines, iisdem quibus vos affectionibus obnoxii; 
+      an<lb ed="#H" n="120" break="no"/>nunciantes, ut a vanis istis rebus convertatis vos ad Deum illum 
+      vi<lb ed="#H" n="121" break="no"/>vum, qui fecit caelum &amp; terram, &amp; mare, &amp; omnia quae in eis sunt,  
+      <lb ed="#H" n="122"/>Actor. 14. v. 14, 15. Jam si sancti adhuc in terris versantes noluerum 
+      <lb ed="#H" n="123"/>religioso cultu adorari; multo minus jam vita functi &amp; in caelo 
+      re<lb ed="#H" n="124" break="no"/>gnantes volunt spoliis gloriae divinae honorari, quum charitas 
+      ipso<lb ed="#H" n="125" break="no"/>rum in Deum sit multo amplior, quam antea erat quum in terra 
+      ad<lb ed="#H" n="126" break="no"/>auc viverent peccatis obnoxis 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1421">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Secundum membrum itidem falsum est. Non enim jure possunmt 
+      <lb ed="#H" n="128"/>E sancti vita functi invocari a nobis, tum propter defectum mandatis 
+      <lb ed="#H" n="129"/>&amp; promissionis Dei de exauditione, &amp; exempli probi invocatio 
+      <lb ed="#H" n="130"/>nis talis; nusquam enim Deus mandavit, ut sancti caelites religio 
+      <lb ed="#H" n="131"/>Se invocarentur: nusquam promisit exauditum iri qui eos invocant: 
+      <lb ed="#H" n="132"/>nusquam probatum exemplum, quod a vere fidelibus invocati 
+      <lb ed="#H" n="133"/>sint, in Scriptura divina invenitur: tum propter rationem 
+      com<lb ed="#H" n="134" break="no"/>munem naturae ipsorum &amp; nostrae; cum neque nos per naturam 
+      <lb ed="#H" n="135"/>nostram voces &amp; vota nostra ferre in caelum possimus ad sensum 
+      i<lb ed="#H" n="136" break="no"/>psorum, neque illi e caelo quae hic dicuntur, optantur fiunt, per 
+      <lb ed="#H" n="137"/>suam naturam percipere possiut. Probatio a Bellarmino 
+      affer<lb ed="#H" n="138" break="no"/>tur a comparatione: Si, inquit, poterant invocari, quum hic essent per 
+      <lb ed="#H" n="139"/>egrini, quanto magis nunc poterunt in patria? Negatur connexio, quia 
+      <lb ed="#H" n="140"/>dispar omnino ratio. Nam cum hic essent peregrini, tum vel 
+      spe<lb ed="#H" n="141" break="no"/>ctatores erant necessitatum particularium hujus vel illius 
+      Eccle<lb ed="#H" n="142" break="no"/>siae aut hominis, vel de iis certiores reddi poterant per sermonem. 
+      <lb ed="#H" n="143"/>aut per epistolam: tum ex mandato Dei, &amp; promissione 
+      postulari<lb ed="#H" n="144" break="no"/>poterant, ut preces pro aliis conciperent, sicut dicitur Jacob. 4. vers. 
+      <lb ed="#H" n="145"/>14, 15. Infirmatur aliquis inter vos? accersat presbyteros Ecclesiae, &amp; 
+      o<lb ed="#H" n="146" break="no"/>rent pro eo, ungentes eum oleo in nomine Domini. Et oratio fidet servabit. 
+      <lb ed="#H" n="147"/>aborantem, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1471">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Tertium membrum ambiguum est, ideo distinguimus. Nam 
+      <lb ed="#H" n="149"/>quod sancti caelites sciant in universali seu generali quid precemur,  
+      <lb ed="#H" n="150"/>concedimus: quod autem sciant in particulari seu in specie hujus 
+      <lb ed="#H" n="151"/>vel illius Ecclesiae aut fidelis hominis orationem, negamus. Non 
+      <lb ed="#H" n="152"/>enim scire per naturam possunt particularia haec nostra. 
+      Bellarmi<lb ed="#H" n="153" break="no"/>nus tamen scientiam ejus, quod oramus in particulari, sanctis vita 
+      <lb ed="#H" n="154"/>functis tribuit, isto argumento: quia, unde sciunt Angeti 
+      conversio<lb ed="#H" n="155" break="no"/>nem peccatorum, pro qua tantopere gaudent in caelis, inde sciunt 
+      san<lb ed="#H" n="156" break="no"/>cti nostras preces. Sed elenchus est a falsis paribus, ut ex duo 
+      <lb ed="#H" n="157"/>bus his planum est. Primo enim alia est ratio conversionis ac 
+      <lb ed="#H" n="158"/>recum. Conversio peccatoris externis signis declarata ab 
+      An<lb ed="#H" n="159" break="no"/>gelis videri potest: precatio quae sit tantum intus in corde, a 
+      crea<lb ed="#H" n="160" break="no"/>tura alia nec auditur, nec videtur. Asanctis vero jam versantibus 
+      <lb ed="#H" n="161"/>in caelo nec conversio peccatorum videri, nec precatio ullius 
+      audi<lb ed="#H" n="162" break="no"/>ri potest. Secundo etiam diversa Angelorum conditio atque 
+      san<lb ed="#H" n="163" break="no"/>ctorum est Angeli a Deo ministerii causa emittuntur propter 
+      haere<lb ed="#H" n="164" break="no"/>des salutis futuros, Heb. 1. v. 14. ideo de caelo descendunt, vident 
+      <lb ed="#H" n="165"/>que praesentes &amp; audiunt quae ab iis fiant &amp; dicantur ad quos missi 
+      <lb ed="#H" n="166"/>sunt, &amp; in caelum redeuntes recordantur eorum, quae in terris 
+      vi<lb ed="#H" n="167" break="no"/>derunt &amp; audiverunt: sancti autem vita functi conquiescunt in 
+      <lb ed="#H" n="168"/>caelo, neque per naturam videre &amp; audire possunt, quae in terris fiant 
+      <lb ed="#H" n="169"/>aut dicantur.  
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1523">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>INSTANT. Sancti caelites ex Angelorum relatione 
+      cogno<lb ed="#H" n="171" break="no"/>scunt hominum in terra versantium preces. RESPON. petitio 
+      <lb ed="#H" n="172"/>est principii. Tu scilicet preces tuas dixeris ad sanctum 
+      quem<lb ed="#H" n="173" break="no"/>piam hominem in caelo degentem, Angelo audiente; 
+      Ange<lb ed="#H" n="174" break="no"/>us in caelum retulerit ad illum sanctum ad quem preces 
+      direxi<lb ed="#H" n="175" break="no"/>sti, sanctus ex Angelo cognoverit. Fabulae: imo impietas. 
+      Pri<lb ed="#H" n="176" break="no"/>mo enim Angeli, sunt Angeli Dei, legationes ab eo mandatas obe 
+      <lb ed="#H" n="177"/>untes, non a te vel sanctis hominibus ullis in caelo impositas. 
+      De<lb ed="#H" n="178" break="no"/>inde sancti Angeli non sunt approbatores, multo minus 
+      admini<lb ed="#H" n="179" break="no"/>stri alienae idololatriae: sciunt nec se, nec conservos suos sanctos hoc 
+      <!--cod-MkL9py-0653.xml-->
+      <pb ed="#H" n="624"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>mines esse adorandos, sed Deum solum: ideo si preces nostras in 
+      cae<lb ed="#H" n="2" break="no"/>lum referunt, ad Deum ad quem eas fundimus &amp; a quo mittuntur,  
+      <lb ed="#H" n="3"/>referunt, non ad homines sanctos. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1562">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Quartum denique meibrum itidem falsum est: nam plane fit, 
+      <lb ed="#H" n="5"/>injuria Deo, sit injuria Christo unico Mediatori inter Deum &amp; 
+      <lb ed="#H" n="6"/>homines, si quis sanctos vita functos religioso cultu invocet, quia 
+      <lb ed="#H" n="7"/>gloriam soli Deo debitam, dat creaturis. Ratiuncula 
+      Bellarmi<lb ed="#H" n="8" break="no"/>ni qua hoc meibrum probare conatur est ambigua ob homony 
+      <lb ed="#H" n="9"/>miam verbi invicare. Nam sanctos in terra viventes licet absque 
+      re<lb ed="#H" n="10" break="no"/>digioso cultu invocare, id est postulare ut precibus suis ad Deum non 
+      <lb ed="#H" n="11"/>adjuventised nequaquam licet eos invocare religioso cultu. De 
+      po<lb ed="#H" n="12" break="no"/>steriore jam invocatione agitur, non de priore: sed Bellarminus 
+      so<lb ed="#H" n="13" break="no"/>phistice omnia permiscet. Bellarmini igitur Achilles prostratus 
+      vi<lb ed="#H" n="14" break="no"/>ctusque jacet. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1592">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Eandem idololatriam in religioso sanctorum cultu conatur Bel 
+      <lb ed="#H" n="16"/>larminus confirmare ex Conciliis, &amp; Patribus, &amp; miraculis sanctorus 
+      <lb ed="#H" n="17"/>Sed nullum istorum argumentorum est idoneum ad confirmandum 
+      <lb ed="#H" n="18"/>dogma religionis divinae quia primo Conciliorum Episcopalium &amp; 
+      <lb ed="#H" n="19"/>Patrum Ecclesiasticorum humana duntaxat est autoritas: &amp; 
+      Con<lb ed="#H" n="20" break="no"/>ciliorum alia quidem proba sunt, sed improbantur tum ea quae illis 
+      <lb ed="#H" n="21"/>falso tribuuntur, tum interpretationes quae ipsis attexuntur; alia 
+      ve<lb ed="#H" n="22" break="no"/>ro negamus esse proba, videlicet quae posterioribus seculis involuta. 
+      <lb ed="#H" n="23"/>fuerunt tenebris publici erroris 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1616">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Primum testimonium a Bellarmino prolatum ex epistola 
+      Epi<lb ed="#H" n="25" break="no"/>scoporum Europae scripta ad Leonem Imperatorem, actis 
+      Conci<lb ed="#H" n="26" break="no"/>lii Chalcedonensis adjuncta, non est Conclii 
+      Chalcedonen<lb ed="#H" n="27" break="no"/>sis, nec Episcoporum totius Europae, imo nec magni coetus 
+      Epi<lb ed="#H" n="28" break="no"/>scoporum, sed quatuor Episcoporum solum in Europae illa 
+      par<lb ed="#H" n="29" break="no"/>te quae Orientali imperio suberat, degentium: iique non inter 
+      <lb ed="#H" n="30"/>fuerunt Concilio, sed scripserunt judicium suum ad Imperato 
+      <lb ed="#H" n="31"/>rem de Concilii Chalcedonensis definitionibus, deque Proterio 
+      or<lb ed="#H" n="32" break="no"/>thodoxo Episcopo Alexandrino Martyre &amp; Timotheo 
+      successo<lb ed="#H" n="33" break="no"/>re ejus haeretico. Ac etiamsi epistola Concilii esset, tamen nihil 
+      ali<lb ed="#H" n="34" break="no"/>ud inde colligi posset, quam quatuor illos Episcopos optasse genera. 
+      <lb ed="#H" n="35"/>les orationes Proterii pro Ecclesia militante, aut communes in 
+      <lb ed="#H" n="36"/>Christo. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1649">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Alterum testimonium est ex Actione undecima Concilii Chale 
+      <lb ed="#H" n="38"/>cedonensis, ubi dicunt Patres: Flavianus post mortem vivit, Marty 
+      <lb ed="#H" n="39"/>pro nobis oret 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1660">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>RESPON. Hoc Patres Concilii intellexerunt de oratione 
+      <lb ed="#H" n="41"/>communi seu generali, non autem in particulari: aut in Christo σuνex. 
+      <lb ed="#H" n="42"/>δοχικώς: si ut mox dicitur ibidem, Flavianus post mortem fidem ex 
+      <lb ed="#H" n="43"/>posuit. Flavianus hic est, Oithodoxus hic est. Flavianus nobiscum. 
+      <lb ed="#H" n="44"/>udicat.  
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1676">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Tertium testimonium est ex VI Synodo generali, capit. 7. ex 
+      ca<lb ed="#H" n="46" break="no"/>monibus recens editis, ubi sic dicitur: Solo Deo creatore adorato 
+      invo<lb ed="#H" n="47" break="no"/>cet Christianus sanctos, ut pro se intercedere apud majestatem divinam 
+      <lb ed="#H" n="48"/>dignentur. RESP. Petitio est principii, quia canon iste suppositius est 
+      <lb ed="#H" n="49"/>neque a Concilio sexto Oecumenico profectus. Testis nobis ipse Su 
+      <lb ed="#H" n="50"/>rius, qui lectori candido hac consuluit censura sua: Hi novem, inquit,  
+      <lb ed="#H" n="51"/>sequentes canones falso adscribuntur sextae Synodo, &amp;c. Atqui 
+      VObSe<lb ed="#H" n="52"/>σεγργφον non est aψaυδης autoritas 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1698">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Quartum est septimae Synodi generalis, actione sexta, id 
+      <lb ed="#H" n="54"/>qua sub finem dicitur: Cum timore omnia agamus, postulantes 
+      inter<lb ed="#H" n="55" break="no"/>cessiones incontaminota Deiparae, item sancteram Angelorum, omniumque  
+      <lb ed="#H" n="56"/>Sanctorum. RESP. Nicena secunda Synodus autoritatem nullam 
+      ha<lb ed="#H" n="57" break="no"/>bet, quia &amp; ψλυνσοίo &amp; est &amp; ψῳυη, 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1715">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Alia concilia omittto quae &amp; posteriora sunt &amp; plane corruptis 
+      <lb ed="#H" n="59"/>jam temporibus celebrata. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1724">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>T stimonis Patrum aut aliena plane sunt, aut ambigua aut 
+      corru<lb ed="#H" n="61" break="no"/>ptis jam temporibus edita: vetustiores patres primis seculis nihil tale 
+      <lb ed="#H" n="62"/>docuerunt  
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1735">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Argumentum a miraculis tale ducunt Papistae  
+      <lb ed="#H" n="64"/>Quic quid miratulis confirmatum est, id est luitum: 
+      <lb ed="#H" n="65"/>luvocatio sanctorum defunctorum est iciraculis confirmata: 
+      <lb ed="#H" n="66"/>Erco est licita; 
+      <lb ed="#H" n="67"/>Assumtionem probant commemoratione mitaculorum multo 
+      <lb ed="#H" n="68"/>rum quae a sanctis invocatis sint edita. RESP. Miraculorum illorum 
+      <lb ed="#H" n="69"/>alia falsa fuerunt alia narrantur falso, alia a Deo facta, non a fanctis 
+      <lb ed="#H" n="70"/>dicet ad sanctorum sepulcra seu memorias. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1757">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Sic refutata sunt argumenta, quibus Papani invocatio¬  
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1764">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>nem Angelorum &amp; sanctorum demortuorum 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1771">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>confirmare conantur. 
+      <lb ed="#H" n="74"/>Nos vero negamus, Angelos &amp; divos aut sanctos demortuos reli 
+      <lb ed="#H" n="75"/>giose esse invocandos, &amp; adorandos, freti sequentibus argumentis: 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1783">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>I. Quia cultum religiosum Deus prohibuit per Apostolum 
+      Pau<lb ed="#H" n="77" break="no"/>um Col 2. 18. Nemo adversum vos rectoris partes sibi ultro sumat, in 
+      <lb ed="#H" n="78"/>demissionae animi &amp; cultu Angelorum. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1794">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>II. Quia de illis invocandis nullum exstat in tota Sacra 
+      Scriptu<lb ed="#H" n="80" break="no"/>ra mandatum Dei, sine quo religiosus cultus nullus est instituendus 
+      <lb ed="#H" n="81"/>vel usurpandus, 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1805">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>III. Quia internos animorum nostrorum motus atque affectus 
+      <lb ed="#H" n="83"/>perspectos non habent. Atqui invocandus est, eum desideria 
+      sensum<lb ed="#H" n="84" break="no"/>qu: spiritus nostri nosse oportes 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1816">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>IV. Quia &amp; nos &amp; statum cujusque nostrum singularem ignorat:  
+      <lb ed="#H" n="86"/>Jes. 63. v. ,6. Tu enim Pater nosteres, &amp; Abraham nescivit nos, &amp; 
+      Is<lb ed="#H" n="87" break="no"/>rae: ignoravit nos: tu Domine pater noster, redemtor noster, a seculo 
+      no<lb ed="#H" n="88" break="no"/>men tuum Idem traditur in ipsomet Jure Canonico causa 13. quaest 
+      <lb ed="#H" n="89"/>capitulo Fatendum: Nescire mortuos quae hic a vivis geruntur. At R 
+      <lb ed="#H" n="90"/>quorsum attinet ab iis opem implorare, qui quis sis, aut ubi sis, aut 
+      <lb ed="#H" n="91"/>quid agas quibusve rebus indigeas nesciunt? 
+      <!--cod-MkL9py-0653.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>V. Quia preces nostas non audiunt. At qui est invocandus, cum 
+      <lb ed="#H" n="93"/>preces nostras audire oportet. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1845">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>VI. Quia non adsunt ubique nec possunt adesse ubi; se 
+      invo<lb ed="#H" n="95" break="no"/>cantibus. At qui est invocandus, eum adesse ubique se invocantibus 
+      o<lb ed="#H" n="96" break="no"/>portet. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1856">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>VII. Quia in sanctos non est credendum. At qui invocandus est, 
+      <lb ed="#H" n="98"/>in eum &amp; credendum est: sicut Paulus ait Rom. 10. v. 14. Quomodo 
+      <lb ed="#H" n="99"/>invocabunt eum, in quem non crediderint 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1868">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>IIX. Quia sunt nostri conservi. At conservi nostri non sunt 
+      invo<lb ed="#H" n="101" break="no"/>candi: quemadmodum hoc ipso argumento se adorari vetat Angelus 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1877">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Apoc. 19. &amp; 22. Vide ne feceris, conservus tuus sum &amp; fratrum tuorum 
+      <lb ed="#H" n="103"/>qui habent testimonium Iesu. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1886">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>IX. Quia non sumus nec fieri debemus servi Angelorum 
+      ve<lb ed="#H" n="105" break="no"/>sanctorum hominum defunctorum. Paulus ait 1. Cor. 7. v. 23. Nolite 
+      <lb ed="#H" n="106"/>fieri servi hominum. Loquitur autem de religionis servitute. Atqui in 
+      <lb ed="#H" n="107"/>vocandus est, ejus, non esse servos oportet. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1899">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>X. Quia a nullo piorum vel in veteri vel in novo Testamento a 
+      <lb ed="#H" n="109"/>Scriptura probato exemplo sunt invocati.  
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1908">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>XI. Quia ipsimet noluerunt invocari: sicut Angelus ait Apocal. 
+      <lb ed="#H" n="111"/>19. &amp; 22. Vide ne feceris. Actor. 10. cum Cornelius centurio 
+      accidis<lb ed="#H" n="112" break="no"/>set ad pedes Petri &amp; eum adoraret, Petrus erexit eum, dicens, Surge, 
+      <lb ed="#H" n="113"/>&amp; igo ipse homo sum. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1921">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>XII. Quia solus Deus est invocandus: hunc enim ubique 
+      Scri<lb ed="#H" n="115" break="no"/>ptura invocare jubet, ac nullum praeterea alium. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1931">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>Id patres etiam docuerunt  
+      <lb ed="#H" n="117"/>Cyrillus Thesauri lib. 2. cap. 1. Sed sic primum in idololatriam 
+      <lb ed="#H" n="118"/>incides, quum dominum vere non fatearis adoresque illum, quem Dei 
+      <lb ed="#H" n="119"/>Patri consubstantialem esse non credas, sed potius creaturam. Quicquid  
+      <lb ed="#H" n="120"/>enim vero Deo consubstantiale non est, id natura Deus esse non potest. 
+      <lb ed="#H" n="121"/>Dominus (inquit] Deus vester, dominus unus est. Una enim natura 
+      <lb ed="#H" n="122"/>Deitatis est, quam SOLUMMODO adorare oportet. Dominum (inquit  
+      <lb ed="#H" n="123"/>Deum tuum adorabis, &amp; ipsi soli servies: servitute videlicet qua Deus 
+      <lb ed="#H" n="124"/>est colendus. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1955">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Idem ibidem: 
+      <lb ed="#H" n="126"/>Non enim ex adorantibus verbum est sed cum Patre atque Spiritu 
+      <lb ed="#H" n="127"/>S. simul adoratur, Adorent (inquit) ipsum omnes angeli Dei. Nemo 
+      au<lb ed="#H" n="128" break="no"/>tem ignorat, nulli prorsus naturae, praeterquam Dei, adorationem a 
+      <lb ed="#H" n="129"/>Scriptura contribui. Scriptum est enim: Dominum tuum adorabis, &amp; 
+      <lb ed="#H" n="130"/>ipsi soli servies. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e1973">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>XIII. Quia si Angeli &amp; demortui sancti essent invocandi, 
+      rue<lb ed="#H" n="132" break="no"/>ret argumentum orthodoxorum Patrum qui ex invocatione 
+      proba<lb ed="#H" n="133" break="no"/>runt Christum esse natura Deum, item Spiritum Sanctum esse 
+      ve<lb ed="#H" n="134" break="no"/>rum natura Deum. Sic enim argumentatur Tertullianus libro de 
+      <lb ed="#H" n="135"/>Trinitate: Si homo tantummodo Christus, quomodo adest ubique 
+      invo<lb ed="#H" n="136" break="no"/>catus, cum haec hominis natura non sit, sed Dei, ut adesse omni loco 
+      pos<lb ed="#H" n="137" break="no"/>sit? Athanasius contra Arianos orat. 2. Christum esse verum Deum 
+      <lb ed="#H" n="138"/>demonstrat, quia ejus auxilium in rebus afflictis imploratur. Ita 
+      Ba<lb ed="#H" n="139" break="no"/>silius libro de Spiritu Sancto ca. 22. Spiritum Sanctum esse Deum 
+      <lb ed="#H" n="140"/>probavit, quia piorum preces ubique locorum exaudit. Si igitur 
+      Ange<lb ed="#H" n="141" break="no"/>li &amp; sancti demortui invocantur, dii omnino sunt.  
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2002">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>XIV. Quia sunt tantum creaturae. At qui est tantum creatura 
+      <lb ed="#H" n="143"/>non est invocandus. Damnat enim Paulus Rom. 1. illos qui coluc 
+      <lb ed="#H" n="144"/>runt ac servierunt creaturae potius, quam Creatori. Si Christus 
+      tan<lb ed="#H" n="145" break="no"/>tum creatura esset, non esset invocandus: nam si quis Christum 
+      tan<lb ed="#H" n="146" break="no"/>tum creaturam esse credit, &amp; eum tamen invocat, idololatra est: que 
+      <lb ed="#H" n="147"/>admodum ipsamet Synodus Nicena secunda Action. 7. epistolam 
+      Syn<lb ed="#H" n="148" break="no"/>opdica ad Constant. &amp; Irenen, anathematizat Nestorii idololatriam 
+      <lb ed="#H" n="149"/>vi homine, hoc est, idololatriae damnat Nestorium, quia Christum 
+      fi<lb ed="#H" n="150" break="no"/>lium virginis Mariae dicebat merum esse hominem, quem divino 
+      ta<lb ed="#H" n="151" break="no"/>men cultu venerabatur: Unde &amp; a Cyrillo anthropotatriae arguitur,  
+      <lb ed="#H" n="152"/>de Recta fide ad Reginas: &amp; anthropolutra nuncupatur a Justiniano 
+      <lb ed="#H" n="153"/>Constitut. 5. C. de summa Trinit. &amp; fide Cathe lica, S. Haec 
+      igi<lb ed="#H" n="154" break="no"/>tur. Et Constit. 6. Cum Salvatorem, S. His ita. Hinc non dubitavit 
+      <lb ed="#H" n="155"/>Cyrillus ad Theodosium Regem de recta fide sic scribere: Num 
+      igi<lb ed="#H" n="156" break="no"/>tur tanquam hominem adorabimus Emanuelem? Absit: deliramenti 
+      <lb ed="#H" n="157"/>enim hoc esset, &amp; deceptio ac error. In hoc enim nihil differremus ab his, 
+      <lb ed="#H" n="158"/>qui creaturam colunt ultra conditorem &amp; factorem. Eodem 
+      mo<lb ed="#H" n="159" break="no"/>do censuit Athanasius idololatras esse Arianos, quia Christum 
+      nega<lb ed="#H" n="160" break="no"/>bant esse Deum ejusdem cum Deo Patre naturae, sed ἐκ τῶν μη ὀτον  
+      <lb ed="#H" n="161"/>creatum asserebant &amp; tamen eum adorabant: Sic enim ait Orat.  
+      <lb ed="#H" n="162"/>contra Arianos: Non creaturam adoramus, ubsit. In Ethnicos &amp; 
+      Aria<lb ed="#H" n="163" break="no"/>nos istiusmodi delirium competit: sed Dominum rerum creatarum, 
+      in<lb ed="#H" n="164" break="no"/>carnatum Verbum Dei adoramus: Et paulo post: Cognoscant, nos, qui  
+      <lb ed="#H" n="165"/>Dominum in carne adoramus, non creaturam adorare, sed Creatorem 
+      <lb ed="#H" n="166"/>corpore creato indutum. Item orat. 1. contra Arianos: &amp; Gregor. 
+      Nys<lb ed="#H" n="167" break="no"/>sen. orat. in laudem Basilii Magni. Et quidam e praecipuis Synodi 
+      <lb ed="#H" n="168"/>Nicenae 2. antesignanis ait Action 6. Tom. 2. Arianos juste a 
+      Ca<lb ed="#H" n="169" break="no"/>tholica Ecclesia idololatras appellari. Jam si idololatra est, si delirat,  
+      <lb ed="#H" n="170"/>si decipitur &amp; errat, qui Christum invocat tatum creaturam esse 
+      cre<lb ed="#H" n="171" break="no"/>dens: multo magis idololatrae sunt, multo magis delirant, decipiuntur 
+      <lb ed="#H" n="172"/>&amp; errant, qui invocant angelos &amp; divos, quos tantummodo 
+      creatu<lb ed="#H" n="173" break="no"/>ras esse constat. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2076">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>XV. Quia nullus creatorum Angelorum vel sanctorum 
+      defun<lb ed="#H" n="175" break="no"/>ctorum est natura Deus. At invocandus est solus natura Deus: nam 
+      <lb ed="#H" n="176"/>qui in vocant eos qui non sunt natura dii, ii nihil differunt a 
+      Genti<lb ed="#H" n="177" break="no"/>ibus, qui ignorantes Deum, serviunt iis qui natura non sunt dii, ut  
+      <lb ed="#H" n="178"/>Paulus loquitur Gal. 4. v. 8. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2092">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>XVI. Quia eos vetus Ecclesia Catholica non adoravit: sicut 
+      Hie<lb ed="#H" n="180" break="no"/>zonymus contra Vigilantium inquit: Quis, o insanum caput, 
+      aliqua<lb ed="#H" n="181" break="no"/>do Mavyres adoravit? Et iterum: Nos non Angelos, non Archange 
+      <lb ed="#H" n="182"/>los, non Seraphim, non Cherubim colimus &amp; adoramus Et Epiphanius 
+      <lb ed="#H" n="183"/>li. 3. adversus haereses scribit in hunc modum de B. Virgine Maria: 
+      <!--cod-MkL9py-0654.xml-->
+      <pb ed="#H" n="625"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>taί θη παρθενος κγ η παρθενος κι τεπημηιδιη, αλλα σσκεις ωροσκνασιν A 
+      <lb ed="#H" n="2"/>ημιν δεδεισα, αλλα ωροσκμθκτα τ εξαυτῆς σαρκι γεθλθηηχον, ωπι κρανα 
+      <lb ed="#H" n="3"/>δεκκολπθπκτξεαν παραγεγώμδνον, hoc est, Nae cerre virgo erat; virgo 
+      <lb ed="#H" n="4"/>illa &amp; honorata, verum non ad adorationem nobis data, sed ipsa 
+      adora<lb ed="#H" n="5" break="no"/>vit eum qui ex ipsa quo ad carnem est genitus, de caelis vero ex sinu pateri 
+      <lb ed="#H" n="6"/>no advenit. Aug. Epist. 44. scribit: Scias a Christianis Catholicis nullis 
+      <lb ed="#H" n="7"/>toli mortuorum: nihil denique ut numen adorari quod sit factum &amp; 
+      con<lb ed="#H" n="8" break="no"/>ditum a Deo, sed unum ipsum Deum, qui fecit &amp; condidit omnia. Et lib.  
+      <lb ed="#H" n="9"/>22. de Civitate Dei c. 10. ait: Uni Deo &amp; martyrum &amp; nostro sacrificium 
+      <lb ed="#H" n="10"/>immolamus: ad quod sacrificium, sicut homines Dei, qui mundum in eius 
+      <lb ed="#H" n="11"/>confessione vicerunt, suo loco &amp; ordine nominantur: non tamen a 
+      Sacer<lb ed="#H" n="12" break="no"/>dote qui sacrificat, invocantur. Ex his apparet, quod veteres Christiam 
+      <lb ed="#H" n="13"/>Catholici nec Angelos, nec B. Virgine Mariam, nec martyres alios 
+      ve<lb ed="#H" n="14" break="no"/>sanctos demortuos invocarint. Papani igitur qui eos invocat, 
+      Catho<lb ed="#H" n="15" break="no"/>lici Christiani non sunt. Quin Papani etiam eos invocant velut sanctos 
+      <lb ed="#H" n="16"/>qui vel saucti non fuerunt, ut Georgius, vel nunqua in terum natura 
+      <lb ed="#H" n="17"/>exstiterunt, ut Catharina, ut Christophorus. Georgius, n. Cappadox. 
+      <lb ed="#H" n="18"/>quem Romanenses pro sancto colunt, fuit homo improbus, 
+      baereti<lb ed="#H" n="19" break="no"/>cus Arianus, malus genere, pejor animo qui cum militati manu &amp; 
+      sa<lb ed="#H" n="20" break="no"/>tellitibus Alexandriam a Constantio missus, pro episcopo ejus urbis s 
+      <lb ed="#H" n="21"/>gessit: ut testatur Athanasius in Apologia de fuga sua, &amp; Apologia 2 
+      <lb ed="#H" n="22"/>Epist. ad solitatia vitam agentes &amp; ad ubique orthodoxos: item 
+      Gre<lb ed="#H" n="23" break="no"/>gorius Naziangzenus Orat. in laude Athanasii. Hic Georgius 
+      Cap<lb ed="#H" n="24" break="no"/>padox, quum ab Ethnicis sub Juliano Apostata crudelissime peremtus 
+      <lb ed="#H" n="25"/>esset, cadaverque ejus igne ciematum &amp; cineres in mare projecti, u 
+      <lb ed="#H" n="26"/>refert Ammian. Marcellia lib. 22. a nonnullis postea pro martyre colis 
+      <lb ed="#H" n="27"/>coepit, sed immerito, ut eos redarguens docet Epiphanius Haeres. 76. 
+      <lb ed="#H" n="28"/>Etiam passio ejusdem Georgii Cappadocis a nonnullis est 
+      conscri<lb ed="#H" n="29" break="no"/>pta, de qua Gelasius in Jure Can. Dist. 15. Capitulo. Sancta Romana; 
+      <lb ed="#H" n="30"/>aperte ait: Georgii passionem ab haereticis perhiberi conscriptam. 
+      Gela<lb ed="#H" n="31" break="no"/>sio Pontifici Romano subscribit Baronius Cardinalis Rom. Nota. 
+      <lb ed="#H" n="32"/>tionibus in Martyrol. Rom. April. 23. ubi docet, illam de actis Georgii 
+      <lb ed="#H" n="33"/>fabulam fuisse commentum Arianorum. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2187">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Catharina vero virgo &amp; mattyr, Alexandrina, Costi regis filia, quae 
+      <lb ed="#H" n="35"/>quinquaginta Philosophis, quos Maxentius Imperator ad ipsam a 
+      <lb ed="#H" n="36"/>Christi fide abducendam adhibuisse fertur, non cesserit, &amp; cujus 
+      mor<lb ed="#H" n="37" break="no"/>tuae cadaver ab Angelis in montem Sinai asportatum sit; Catharina, 
+      <lb ed="#H" n="38"/>inquam, haec nunquam exstitit, sicut neque rex Costus unquam ullus 
+      <lb ed="#H" n="39"/>fuit. Non enim in Eusebio, neque in Socrate, neque in ullo alio veteri 
+      <lb ed="#H" n="40"/>historico qui de persecutionibus Christianorum scripserunt, vel jotaE 
+      <lb ed="#H" n="41"/>de Catharina Costi regis filia reperitur, sed tantum in recentibus 
+      <lb ed="#H" n="42"/>Monachorum fabulis. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2211">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Christophorus itidem, homo gigantea proceritate corporis, duo 
+      <lb ed="#H" n="44"/>decim minimum ulnas cubitos ve altus, qui Christum in humeros suo 
+      <lb ed="#H" n="45"/>sublatum, longa trabe innitens; periculosi fluminis aquas traduxerit,  
+      <lb ed="#H" n="46"/>&amp; postea sub Dagno rege, in Samo nescio qua passus sit: 
+      Christopho<lb ed="#H" n="47" break="no"/>rus, inquam, hic nunquam exstitit. Nam testis antiquus qui historiam 
+      <lb ed="#H" n="48"/>veterum martyrum scripsit produci potest nullus: fictitius etiam est 
+      <lb ed="#H" n="49"/>rex Dagnus: impia est fabula haec de Christophoro, cum fingat 
+      Chri<lb ed="#H" n="50" break="no"/>stum corpore suo post ascensionem in caelum iterum in terris versa 
+      <lb ed="#H" n="51"/>tum, contra Scripturam, contra testrmonium Petri Apostoli dicentis 
+      <lb ed="#H" n="52"/>Act. 3. v. 2.. de Christo, Quem oportet caeli capiant, usque ad tempora 
+      <lb ed="#H" n="53"/>restitutionis omnium, de quibus loquutus est Deus a seculo per os omnium, 
+      <lb ed="#H" n="54"/>sanctorum suorum Prophetarum. Est eadem fabula blasphema, quid  
+      <lb ed="#H" n="55"/>fingit CHR STUM nonnisi ope hominis istius flumen periculosum 
+      <lb ed="#H" n="56"/>transire potuisse. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2246">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Sic igitur Papani invocant Angelos, sanctosque demortuos: quin 
+      <lb ed="#H" n="58"/>etiam eos qui vel sancti non fuerunt, vel nunqua in mundo exstiterunt  
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2255">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Iidem adorant imagines seu idola, &amp; quidem si de re ipsa agatur  
+      <lb ed="#H" n="60"/>dicit Bellarminus tomo 1. Controv. 7. lib. 2. c. 23. admitti posse, 
+      ima<lb ed="#H" n="61" break="no"/>gines posse coli improprie vel per accidens eodem genere cultus, quo 
+      <lb ed="#H" n="62"/>exemplai ipsum colitur, ac proinde imagines Christi improprie, ve¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2268">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>non autem de imaginibus Christianorum 
+      <lb ed="#H" n="64"/>per accidens posse honorati cultu latriae. Et communiter hoc 
+      statue<lb ed="#H" n="65" break="no"/>cunt Thomas Aquinas, Bonaventura &amp; alii, eodem cultu coli 
+      imagi<lb ed="#H" n="66" break="no"/>nem &amp; exemplar, ut fatetur Bellarminus dicto lib. cap. 25. At 
+      imagi<lb ed="#H" n="67" break="no"/>num seu idolorum adoratio &amp; veneratio est illicita 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2284">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>I. Quia quicquid a Deo prohibitum est, id illicitum est At 
+      imagi<lb ed="#H" n="69" break="no"/>num adoratio a Deo est prohibita Exod. 20. v. 4. &amp; 5. Ne facito tibi scule 
+      <lb ed="#H" n="70"/>ptile, aut ullam imaginem eorum quae sunt in calis supra, aut quae in terra 
+      <lb ed="#H" n="71"/>infra, aut quae in aquis infra terram. Ne incurves te eis, neque colito ea. 
+      <lb ed="#H" n="72"/>Hujus prohibitionis rationem gravissimam addit Deus: Nam ego, 
+      Ieho<lb ed="#H" n="73" break="no"/>va Deus tuus Deus fortis zelotes sum, visitans iniquitatem patrum in 
+      <lb ed="#H" n="74"/>filios, in nepotes, &amp; in abnepotes, in eos qui edio prosequuntur me. Exercent 
+      <lb ed="#H" n="75"/>vero benignitatem in millesimos (nempe a patribus Jqui diligunt me &amp; 
+      <lb ed="#H" n="76"/>qui observant mandata mea. Haec ipsa prohibitio repetitur Deut. 5. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2309">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>II. Quia cujus rei ipsa etiam factura divinitus est prohibita, illius 
+      <lb ed="#H" n="78"/>certe adoratio est illicita. At imaginum ad religionem ipsa etiam 
+      fa<lb ed="#H" n="79" break="no"/>ctura est divinitus prohibita. Sic enim Moses expresse ait Deut. 4. v. 
+      <lb ed="#H" n="80"/>15. Cavebitis vobis ipsis valde: nam non animadvertistis ullam similitus 
+      <lb ed="#H" n="81"/>dinem, quo die alloquutus est Iehova vos in Chorebo e medio illius ignis 
+      <lb ed="#H" n="82"/>Vt non corrumpatis vos, &amp; faciatis vobis sculptile, similitudinem ullius 
+      <lb ed="#H" n="83"/>simulacris formam maris aut feminae: Formam ullius animalis, &amp;c. Et  
+      <lb ed="#H" n="84"/>Exod. 20. v. 22. Vos vidistis, ex calis me locutum esse vobiscum Ne 
+      faci<lb ed="#H" n="85" break="no"/>te deos mecum: deos argenteos, aut deos aureos ne facite vobis. Et rursum 
+      <lb ed="#H" n="86"/>Deut. 4. v. 23. Cavete vobis, ne obliviscamini federis Iehovae Dei vestri, 
+      <lb ed="#H" n="87"/>quod pepigit vobiscum, aut ficiatis vobis sculptile, similitudinem ullius 
+      <lb ed="#H" n="88"/>rei, quia interdixit tibi Iehova Deus tuus. Hoc argumentum usque 
+      <lb ed="#H" n="89"/>adeo firmum est, ut ipsa etiam Sinodus Nicena secunda imaginum 
+      <lb ed="#H" n="90"/>aliarum alioquin approbatrix, imagines tamen Dei non admiserit: 
+      <lb ed="#H" n="91"/>Nam Actione 3. dicit: Invisibilis est diuvinitatis natura, nec depingi, nec Et 
+      <lb ed="#H" n="92"/>figurari se permittu. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2348">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>III. Quia quicquid Deus mandat tolli &amp; aboleri, illius adoratio 
+      <!--cod-MkL9py-0654.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="94"/>atque veneratio est illicita At imagines &amp; idola Deus mandat tolli &amp; 
+      <lb ed="#H" n="95"/>aboleri. Exod. 23. vers. 24. Ne incurvato te diis eorum, neque colito eos 
+      <lb ed="#H" n="96"/>neque facito secundum opera eorum:sed omnino demolitor eos &amp; 
+      confrin<lb ed="#H" n="97" break="no"/>gito statuas eorum, &amp; cap. 34. vers. 13. Altaria eorum demolimini &amp; 
+      <lb ed="#H" n="98"/>statuas eorum frangitote, ac lucos eorum succiditote: Nam non convenit 
+      <lb ed="#H" n="99"/>te incurvatum honorem exhibera Deo alieno; Iehovae enim nomen est 
+      <lb ed="#H" n="100"/>zelotes, Deus fortis zelotes est 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2374">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Ad hoc argumentum, ut etiam ad alia, duo excipere solent 
+      Pa<lb ed="#H" n="102" break="no"/>bani. Primum est, suas imagines non esse idola. Alterum est, 
+      manda<lb ed="#H" n="103" break="no"/>tum divinum quo prohibentur &amp; aboleri jubentur idola, 
+      intelligen<lb ed="#H" n="104" break="no"/>dum esse duntaxat de idolis gentilium, non de imaginibus 
+      Christia<lb ed="#H" n="105" break="no"/>norum. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2390">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>REPLICO ad primam exceptionem, Papanorum imagines sunt 
+      <lb ed="#H" n="107"/>idola: primo, quia omnes imagines factitiae, quum coluntur &amp; 
+      adoran<lb ed="#H" n="108" break="no"/>tur, sunt idola. At Papistarum imagines coluntur &amp; adorantur. Sun 
+      <lb ed="#H" n="109"/>gitur idola. Major est certissima: nam Scriptura imagines ab 
+      homi<lb ed="#H" n="110" break="no"/>nibus fectas &amp; cultas vocat idola: Ita vitulum a populo Israelitice 
+      <lb ed="#H" n="111"/>cultum vocat idolum Act. 7. v. 41. Imago a Rachele surrepta in 
+      Grae<lb ed="#H" n="112" break="no"/>ca interpretatione &amp; in Latina versione Vulgata vocatur idolum 
+      <lb ed="#H" n="113"/>Gen. 31. v. 34. Simulacrum Michae vocatur idolum Jud. 18. v. 31. 
+      Vi<lb ed="#H" n="114" break="no"/>tuli Ephrajum vocantur idola Hosrae 4. vers. 17. &amp; 13. v. 2. &amp; 14. v. 9. 
+      <lb ed="#H" n="115"/>Idem testantur complurimi alii Prophetarum loci. Minor 
+      Papista<lb ed="#H" n="116" break="no"/>rum confessione vera est. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2419">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Secundo, quia quicquid de idolis Scriptura dicit, in imagines 
+      Pa<lb ed="#H" n="118" break="no"/>panorum competit: Sunt opera manuum hominum: Os est ei, sea 
+      non<lb ed="#H" n="119" break="no"/>loquuntur; ocule sunt eis, sed non vident: Aures sunt eis, sed non udiunt; 
+      <lb ed="#H" n="120"/>nasus est eis, sed non odorantur: Manus sunt eis, sed non palpant: peres. 
+      <lb ed="#H" n="121"/>sunt eis, sed non ambulant; non mutiunt gutture suo. Psalm: 115 vers. 41. 
+      <lb ed="#H" n="122"/>&amp; sequentibus 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2437">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Tertio, quia omnes imagines manu humana factae sunt idola: nam 
+      <lb ed="#H" n="124"/>haec δμώσnα α sunt, nepe imago mani huniana facea, &amp;. olum; 
+      tan<lb ed="#H" n="125" break="no"/>tum in eo differunt, quod illud Ladnun: est, hoc Oacum: &amp; unum 
+      <lb ed="#H" n="126"/>de altero enunciat Tertullianus sibro de idosolatria e. ia colis 
+      <lb ed="#H" n="127"/>numanus error, praeteripium omnium condicerei: corum imagines 
+      ido<lb ed="#H" n="128" break="no"/>la, imaginum cosecratio idolosatria. Quario, quia omnis forma vel 
+      for<lb ed="#H" n="129" break="no"/>mula opere hominis facta est idolum: sicut Tertullianus libro de 
+      i<lb ed="#H" n="130" break="no"/>dololatria c. 3. dicit: Omnis ferma vel formula idolum se dici exposcit  
+      <lb ed="#H" n="131"/>Unive, saliter pronunciat, OMNIS forma: Loquitur autem de forma 
+      <lb ed="#H" n="132"/>artifi.io humano effecta. At omnes Papisticae imagines sunt formae 
+      <lb ed="#H" n="133"/>vel fo mulae manibus humanis factae¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2467">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>REPLICO ad secundam exceptionem. Mandatum divinum quo 
+      <lb ed="#H" n="135"/>prohibentur &amp; aboleri jubentur idola inteliigendum est de omnibus. 
+      <lb ed="#H" n="136"/>imaginibus quae hominum manibus coluntur: Quia lex non distingui 
+      <lb ed="#H" n="137"/>inter imagines Judaeorum &amp; Gentilium, ideo nec nos distinguere 
+      de<lb ed="#H" n="138" break="no"/>bemus inter imagines Christianorum &amp; Gentilium; Deinde imagines 
+      <lb ed="#H" n="139"/>quibus Deus ab nominibus repraesentatur sunt simpliciter vetitae, 
+      fa<lb ed="#H" n="140" break="no"/>tente etiam Concilio Niceno secundo, etsi alias imagines fieri &amp; 
+      co<lb ed="#H" n="141" break="no"/>i concedens, idololatriam confirmatit: at nullum fere est apud 
+      Papa<lb ed="#H" n="142" break="no"/>nos templum, in quo non sit aliqua Dei imago. Et audent negare, 
+      di<lb ed="#H" n="143" break="no"/>vinum mandatum de suis imaginibus intelligendum 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2493">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>IV. Quicquid in Gentilibus ipsis detestatur Apostolus Paulus, 
+      <lb ed="#H" n="145"/>id multo magis Christianis est illicitum 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2502">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>At imaginum adora, ionem in Gentilibus ipsis detestatur 
+      Aposto<lb ed="#H" n="147" break="no"/>lus Paulus Rom. 1. v. 15. Vt qui Dei veritatem transmnt, rint in 
+      falsi<lb ed="#H" n="148" break="no"/>tatem, &amp; coluerint ac servierint rebus creatis, praeterito Creatore, qui est 
+      <lb ed="#H" n="149"/>benedictus in sacula, Amen. 
+      <lb ed="#H" n="150"/>Excipiunt Papani; Simulaera Gentilium fuisse idola; at se non 
+      ha<lb ed="#H" n="151" break="no"/>bere idola, sed imagines tantum 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2520">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>REPLICO. Imo simulaera a Gentilibus culta Paulus etiam 
+      <lb ed="#H" n="153"/>vocat imagines Rom. 1. v. 23. Mutaverunt gloriam incorruptibilis Dei. 
+      <lb ed="#H" n="154"/>in similitudinem IMAGINIS corruptibiis hominis &amp; volucrium, 
+      <lb ed="#H" n="155"/>&amp; quadrupedum &amp; serpentium. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2533">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Excipiunt rursum: Paulum hic loqui tantum de idolis Gentilium, 
+      <lb ed="#H" n="157"/> 
+            </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2542">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>REPL. Quod Paulus in Gentilibus exsecratur, id Christianis 
+      <lb ed="#H" n="159"/>nequaquam est licitum. Ideo Augustinus ad hunc ipsum Pauli locum 
+      <lb ed="#H" n="160"/>Tomo 3. lib. de Fide &amp; Symbolo c. 7. hoc notat. Exsecratur Apostolus 
+      <lb ed="#H" n="161"/>nos qui commutaverunt gloriam incorruptibilis Dei in similitudine 
+      cor<lb ed="#H" n="162" break="no"/>ruptibilis hominis. Tale enim simulacrum Deo nefas est Christiano in 
+      <lb ed="#H" n="163"/>templo collocare, malto magis in corde nefarium est, ubi vere est 
+      tem<lb ed="#H" n="164" break="no"/>plum Dei, si a terrena cupiditate atque errore mundetur: 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2563">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>V. Imaginum illarum, quas ipsemet Deus fieri expresse jusserat,  
+      <lb ed="#H" n="166"/>cultus fuit illicitus: nam serpentis aenei, quem Deus fieri jusserat 
+      cul<lb ed="#H" n="167" break="no"/>tus improbatus fuit: unde pius &amp; laudatissimus Rex Ezechias, eo 
+      <lb ed="#H" n="168"/>quod ei Israelitae adolerent, eum contudit &amp; confregit 2. Reg. 18. v. 4. 
+      <lb ed="#H" n="169"/>Multo magis igitur erit illicitus cultus imaginum, quas Deus non 
+      <lb ed="#H" n="170"/>ussit fieri, quales sunt Papistarum omnes 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2581">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>smo imagines religionis causa factae, nequaquam sunt retinendae, 
+      <lb ed="#H" n="172"/>sed auferendae &amp; comminuendae exurendaeque 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2590">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>I. Quia sunt a Deo vetitae in Decalogo 
+      <lb ed="#H" n="174"/>II Quia impurant terram, Ezech. 36. v. 18. 
+      <lb ed="#H" n="175"/>III. Quia sunt stercorei 
+      dii<lb ed="#H" n="176" break="no"/>IV. Quia sunt doctores mendacii &amp; vanitatis. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2603">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Hactenus de imaginum adoratione &amp; veneratio¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2610">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>ne: sequitur de adoratione hostiae con¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2617">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>secratae. 
+      <lb ed="#H" n="180"/>Papani adorant etiam hostiam consecratam quam Romae palam 
+      <lb ed="#H" n="181"/>ac publice crustulum nominant, ut videre est apud Anastal. German. 
+      <lb ed="#H" n="182"/>Protonoratium Apostolicum de sacror immuni:a lib 3. cap. 158. 20. 
+      <lb ed="#H" n="183"/>ex typographia Apostol. Vaticana ad Gregorium XIV. quam 
+      <!--cod-MkL9py-0655.xml-->
+      <pb ed="#H" n="626"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>sanctificum crustulum appellat Philander Annot. in Vitruν lib 4. c8. A 
+      <lb ed="#H" n="2"/>quam denique Deum suum &amp; Don inum vocant, quod Thomas 
+      Har<lb ed="#H" n="3" break="no"/>dingus adversus Juellum tueri non dubitavit Articul. 21. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2647">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Adorant autem Sacramentum cultu latriae, hoc est, cultu qui vero 
+      <lb ed="#H" n="5"/>Deo debetur, quasi Sacramentum esset verus Deus. Nam cultum la 
+      <lb ed="#H" n="6"/>triae esse Sacramento exhibendum decernere non erubuerunt patres 
+      <lb ed="#H" n="7"/>Concilii Tridentini Session. 13. c. 5. his verbis: Nullus dubitandi 
+      locus<lb ed="#H" n="8" break="no"/>relinquitur, quin omnes Christe fideles, pro more in Ecclesia Catholica 
+      <lb ed="#H" n="9"/>semper recepto, latriae cultum, Qui VERO DLODEBETUR, huic 
+      sanctis<lb ed="#H" n="10" break="no"/>simo Sacramento in veneratione adhibeant. O blasphemam 
+      idolola<lb ed="#H" n="11" break="no"/>triam!o idololatricam blasphemiam! Fatentur latriae cultum, vero 
+      <lb ed="#H" n="12"/>Deo deberi, tamen eum crustulo adhibendum decernere ausi sunt, 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2671">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Atqui I. Latriae cultus soli vero Deo debetur. 
+      <lb ed="#H" n="14"/>At Sacramentum non est verus Deus. 
+      <lb ed="#H" n="15"/>Ergo Sacramento latriae cultus non debetur? 
+      <lb ed="#H" n="16"/>II. Nec Christus Sacramento cultum latriae adhibere ullibi 
+      ju<lb ed="#H" n="17" break="no"/>sit, nec Apostoli, neque alii fideles in Ecclesia Catholica primitiva 
+      un<lb ed="#H" n="18" break="no"/>quam adhibuerunt. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2689">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Ergo Sacramento latriae cultus non debetur 
+      <lb ed="#H" n="20"/>At probare conantur patres Tridentini decretum suum hoc 
+      argu<lb ed="#H" n="21" break="no"/>mento: 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2700">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Ubi praesens adest Deus ille, quem Pater aternus introducens in 
+      or<lb ed="#H" n="23" break="no"/>bem terrarum dicit; Et adorent eum omnes Angeli Dei, quem Magi 
+      pro<lb ed="#H" n="24" break="no"/>cidentes adoraverunt, quem denique in Galilea ab Apostolis adoratum  
+      <lb ed="#H" n="25"/>fuisse Scriptura testatur: ibi est cultu latriae adorandus, 
+      <lb ed="#H" n="26"/>At in Sacramento, hoc est, in accidentibus panis (nam panis 
+      substan<lb ed="#H" n="27" break="no"/>tiam adesse negant &amp; accidentia sine substantia subsistere fingunt) 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2718">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>esens adest Deus illi, &amp;c. 
+      <lb ed="#H" n="29"/>pi. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2727">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>Ergo in Sacramento, hoc est, in accidentibus panis est cultu latriae, 
+      <lb ed="#H" n="31"/>adorandus. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2737">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>RESP. Primo peccatur sophismate ἔτεροζετίσεως seu alienae que 
+      <lb ed="#H" n="33"/>stionis. Nam cum probandum fuisset, Sacramentum esse cultu latriae 
+      <lb ed="#H" n="34"/>adorandum: probarunt aliud, nimirum, In Sacramento esse Deum; 
+      <lb ed="#H" n="35"/>cultu latriae adorandum. Deinde Major est ambigua. Nam cum in 
+      <lb ed="#H" n="36"/>Christo Domino duae sint naturae, divina &amp; humana, explicandum 
+      <lb ed="#H" n="37"/>fuerat patribus Tridentinis, de cujus naturae praesencia &amp; adoratio 
+      <lb ed="#H" n="38"/>ne loquantur. Nam si de divina natura loquuntur non potest ei 
+      assi<lb ed="#H" n="39" break="no"/>gnari ubi vel ibi, hoc est, locus determinatus, quum sit ubique, hoc est 
+      <lb ed="#H" n="40"/>non in aliquo ubi seu loco citcumscriptive, ut corpus; neque definitive 
+      <lb ed="#H" n="41"/>ut spiritus creatus: sed in omni loco repletive non inclusa, nec exclusa, 
+      <lb ed="#H" n="42"/>caelum &amp; terram implens essentia &amp; potentia. Ac etiamsi divina 
+      natu<lb ed="#H" n="43" break="no"/>ra sit ubique, non vult tamen Deus ut adoraturi convertamus 
+      corda<lb ed="#H" n="44" break="no"/>nostra ad res creatas in his terris, in quibus tamen omnibus divina 
+      <lb ed="#H" n="45"/>natura est praesens, ad res usque minimas: sed precaturi jubemur 
+      ac<lb ed="#H" n="46" break="no"/>cedere cum fiducia ad thronum gratiae, ut consequamur 
+      inisericor<lb ed="#H" n="47" break="no"/>diam, &amp; gratiam inveniamus ad opportunum auxilium Hebr. 4. v. 
+      <lb ed="#H" n="48"/>16. Thronus autem ille est in caelis Hebr. 8. v. 2. Sin vero de humana 
+      <lb ed="#H" n="49"/>Christi natura loquuntur, tum recte ubi &amp; ibi, hoc est, locus ei 
+      tribui<lb ed="#H" n="50" break="no"/>tur: &amp; recte ibi adoratur, ubi praesens visibiliter adest, sicut ab 
+      Ange<lb ed="#H" n="51" break="no"/>lis adoratur &amp; a Magis Bethlehemi atque a discipulis in Galilaea 
+      ado<lb ed="#H" n="52" break="no"/>rabatur quibus visibiliter praesens aderat  
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2787">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>am ad Minorem respondeo. Ajunt, in Sacramento, hoc est, in 
+      cru<lb ed="#H" n="54" break="no"/>stulo illo, aut potius in accidentibus sine substantia subsistentibus, ad 
+      <lb ed="#H" n="55"/>esse Deum illum quem Pater aeternus introducens in orbem terratum 
+      <lb ed="#H" n="56"/>dicit, Et adorent eum omnes Angeli Dei, que Magi procidentes ado 
+      <lb ed="#H" n="57"/>raverunt, quem denique in Galilaea ab Apostolis adoratum fuisse 
+      Scri<lb ed="#H" n="58" break="no"/>ptura testatur. Haec oratio itidem ambigua est: &amp; tamen prae se tule 
+      <lb ed="#H" n="59"/>runt patres isti belli se controversias decidere &amp; determinate, sic ut di 
+      <lb ed="#H" n="60"/>cere ausi sint; Nullus dubitandi locus relinquitur. Quidi nullus dubi 
+      <lb ed="#H" n="61"/>tandi locus est in oratione tam ambigua? Ajunt, Deus ille adest: at 
+      se<lb ed="#H" n="62" break="no"/>cundum quam naturamedivinam ne vel humanam? Si secundum di 
+      <lb ed="#H" n="63"/>vinam: at secundum illam non minus adest in aqua Baptismi; Ergo &amp; 
+      <lb ed="#H" n="64"/>aqua baptismi cultu latriae adoranda erit. Imo hoc pacto omnes res 
+      <lb ed="#H" n="65"/>creatae, etiam ligna &amp; lapides cultu latriae adorari debebunt, quum in 
+      <lb ed="#H" n="66"/>omnibus etiam minimis &amp; vilissimis creaturis secundum divinam 
+      <lb ed="#H" n="67"/>naturam sit praesens: sed ubi tandem thronum gratiae isti homines 
+      si<lb ed="#H" n="68" break="no"/>bi non constituent? Sin vero secundum humanam naturam 
+      praesen<lb ed="#H" n="69" break="no"/>tem adesse in crustulo illo dicat; adversantur illis Scripturae, adversar 
+      <lb ed="#H" n="70"/>tur Symbola, adversantur vetusta Oecumenica Concilia, adversantur 
+      <lb ed="#H" n="71"/>patres vetusti orthodoxi, adversantur rationes plurimae &amp; 
+      validissi<lb ed="#H" n="72" break="no"/>mae. Ex his enim omnibus constat; corpus Christi non esse in pane 
+      Eu<lb ed="#H" n="73" break="no"/>charistiae. Hoc ex Scriptura manifestum est. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2837">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>I. Quia ne quidem in prima Coene institutione fuit corpus 
+      Chri<lb ed="#H" n="75" break="no"/>sti in pane. Docet Scriptura, Christum accubuisse, &amp; in sinu ejus 
+      di<lb ed="#H" n="76" break="no"/>lectum ei discipulum Johannem, manibus corporis sui panem 
+      ac<lb ed="#H" n="77" break="no"/>cepisse, ejusdem corporis manibus fregisse &amp; discipulis suis dedisse 
+      <lb ed="#H" n="78"/>ejusdem corporis ore dixisse de pane quem dabat, Accipite, 
+      comedi<lb ed="#H" n="79" break="no"/>te, hoc est corpus meum. Hinc firmissimam hanc demonstrationem 
+      <lb ed="#H" n="80"/>exstruo: 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2857">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Quod corpus mensae accubuit, in sinu suo dilectum discipulum 
+      <lb ed="#H" n="82"/>Johannem complectens, &amp; in manibus suis panem habuit, fregit &amp; 
+      <lb ed="#H" n="83"/>distribuit &amp; de pane loquutum est: illud nequaquam fuit in eodem 
+      <lb ed="#H" n="84"/>pane. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2870">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>At corpus Christi mensae accubuit in sinu suo dilectum discipulum 
+      <lb ed="#H" n="86"/>Johannem complectens, &amp; in manibus suis panem habuit, fregit &amp; 
+      <lb ed="#H" n="87"/>distribuit &amp; de pane locutum est; 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2881">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Psoinde corpus Christi in pane eodem non fuit 
+      <lb ed="#H" n="89"/>II. Quod corpus in caelos adscendit &amp; est in caelis, sedetque ad dex 
+      <lb ed="#H" n="90"/>teram Dei in caelis, &amp; caelis oportet capi usque ad tempora 
+      restitutio<lb ed="#H" n="91" break="no"/>nis omnium: id non est in terris in pane Eucharistiae 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2895">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>At Christi corpus in caelos adscendit, &amp; est in caelis, sedetque ad 
+      dex<lb ed="#H" n="93" break="no"/>teram Dei in caelis, &amp; caelis oportet capi usque ad tempora restitutio¬  
+      <!--cod-MkL9py-0655.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="94"/>nis omnium. Quod in caelos ascenderit, testatur historia ascensionis 
+      <lb ed="#H" n="95"/>descripta Marc. 16. Luc. 24. Act. 1. Quod sit in caelis, sedeatque ad 
+      due<lb ed="#H" n="96" break="no"/>teram Dei in caelis docetur Colos 3. v. 1. Si resurrexistis cum Christo, 
+      <lb ed="#H" n="97"/>superna quaerite. Ubi Christus est ad dexteram Dei sedens. Ephes. 1. v. 20. 
+      <lb ed="#H" n="98"/>Suscitavit eum ex mortuis, &amp; collocavit ad dexteram suam in caelis. Heb. 
+      <lb ed="#H" n="99"/>1. v. 3. purgatione peccatorum nostrorum per seipsum facta, sedit ad dex: 
+      <lb ed="#H" n="100"/>tram maiestatis illius in excelsissimis. Hebr. 8. v. 1. Eorum quae dicimus. 
+      <lb ed="#H" n="101"/>haec summa est, Talem nos habere Pontificem, qui consedit ad dextram 
+      <lb ed="#H" n="102"/>throni maiestatis illius in caelis. Quod oporteat caelis capi usque ad 
+      <lb ed="#H" n="103"/>tempora restitutionis omnium, testatur Petrus Actor. 3. v. 21 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2930">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Ergo corpus Christi nunc non est in terris in pane Eucharistiae. 
+      <lb ed="#H" n="105"/>III. Si corpus Christi esset jam in terra, Christus non esset 
+      Sa<lb ed="#H" n="106" break="no"/>cerdos: At posterius est absurdum: Ergo &amp; prius. Connexi veritas 
+      pa<lb ed="#H" n="107" break="no"/>tet ex epistola ad Hebr. cap 8. v. 4 ubi Apostolus ait: Si esset in 
+      terra<lb ed="#H" n="108" break="no"/>ne Sacerdos quidem esset. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2946">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Idem patet ex Symbolis. Nam in illis profitemur Christum 
+      cor<lb ed="#H" n="110" break="no"/>pore suo ascendisse in caelos, sedere ad dexteram Dei Patris omnipo 
+      <lb ed="#H" n="111"/>tentis &amp; rediturum e caelo ad judicandum vivos &amp; mortuos: Ergo non 
+      <lb ed="#H" n="112"/>est jam eodem corpore in terra, in locis praesertim tam innumeris. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2959">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Idem evincunt rationes subjectae 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2966">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Quod in terra in vel sub specie panis adest, ad illius 
+      considera<lb ed="#H" n="115" break="no"/>tionem non est necesse fide sursum exaltari mentem. Atqui ad 
+      corpo<lb ed="#H" n="116" break="no"/>ris Christi considerationem necesse est fide sursum exaltari mentem. 
+      <lb ed="#H" n="117"/>Hoc liquet ex eo quod in Sacrae Coenae celebratione semper oportea 
+      <lb ed="#H" n="118"/>habere SURSUM CORDA. Haec mensa non est graculorum, sed 
+      adui<lb ed="#H" n="119" break="no"/>larum. Aquilas in hac vita fieri nos oportet, &amp; ad alta contendere, si ad 
+      <lb ed="#H" n="120"/>hoc corpus accedere volumus, ait Chrysostomus in 1. Cor. homil. 24. 
+      <lb ed="#H" n="121"/>Ergo, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e2988">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>II. Res caelestis non est in vel sub specie panis in terra. At corpus 
+      <lb ed="#H" n="123"/>Christi est res caelestis, hoc est, in caelo exsistens. Alioquin non esset 
+      <lb ed="#H" n="124"/>caelestis, sed terrena si in terra esset. Perpetuum discrimen maneat 
+      o<lb ed="#H" n="125" break="no"/>portet in Eucharistia inter rem terrenam &amp; caelestem. Terrena est in 
+      <lb ed="#H" n="126"/>terra, caelestis in caelo: &amp; res terrena nos admonet, ut fide elevemus 
+      <lb ed="#H" n="127"/>animum ad fruendum corpore Christi in caelis exsistente. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3007">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>III. Quicquid est &amp; manet semper vere visibile &amp; palpabile, id  
+      <lb ed="#H" n="129"/>non est invisibiliter &amp; impalpabiliter in vel sub specie panis. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3016">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>at corpus Christi naturale, est &amp; manet semper vere visibile &amp; 
+      <lb ed="#H" n="131"/>palpabile. Ergo 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3025">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>IV. Quod in uno loco esse oportet, id non est eodem tempore in 
+      <lb ed="#H" n="133"/>locis praesertim tam innumeris in vel sub specie panis: 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3034">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>At corpus Christi in uno loco esse oportet. Quod ipsummet 
+      Jus<lb ed="#H" n="135" break="no"/>Canonicum fatetur De consecratione, Distinctione 2. capitulo. 
+      Pri<lb ed="#H" n="136" break="no"/>ma quidem. in quo haec exstant verba: Donec seculum finiatur, SuR 
+      <lb ed="#H" n="137"/>SVM DOMINVS est, sed tamen etiam hic nobiscum est veritas 
+      Domi<lb ed="#H" n="138" break="no"/>ni. Corpus enim in quo resurrexit INUNO LOCO ESSE OPORTET,  
+      <lb ed="#H" n="139"/>veritas autem eius ubique diffusa est, 
+      <lb ed="#H" n="140"/>Ergo corgus Christi non est eodem tempore in locis praesertim 
+      <lb ed="#H" n="141"/>atque innumeris in vel sub specie panis. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3056">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>Hactenus de adoratione Sacramenti 
+      <lb ed="#H" n="143"/>Iidem Papani adorant imaginem crucifixi &amp; ipsam crucem latria, 
+      <lb ed="#H" n="144"/>quanquam alias dicant, latriam soli Deo deberi. Quod autem 
+      ima<lb ed="#H" n="145" break="no"/>inem crucifixi &amp; ipsam crucem latria colant, manifestum est ex Tohi 
+      <lb ed="#H" n="146"/>ma Aquinate, Cajetano Cardinale, Bellarmino: &amp; forma cultus. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3072">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Thomas Aquinas parte 3. Summae quaest. 25. artic. 3. ait, quod ead  
+      <lb ed="#H" n="148"/>reverentia exhibeatur imagini Christi &amp; ipso ChristosSic in exemplari M 
+      <lb ed="#H" n="149"/>excuso legitur quod Carthusiae Basiliensis fuit; si typographi culpa 
+      <lb ed="#H" n="150"/>non est, &amp; Aquinas scripsit ipso Christo, erravit &amp; in Theologia &amp; 
+      <lb ed="#H" n="151"/>Grammatica; Dativus enim pronominis ipse non est ipso, sed ipsi 
+      <lb ed="#H" n="152"/>Addit Thomas: Cum ergo Christus adoretur adoratione latriae, 
+      conse<lb ed="#H" n="153" break="no"/>quens est quod eius imago sit adoratione latriae adoranda. Et paulo post: 
+      <lb ed="#H" n="154"/>Nos adoramus adoratione latriae imaginem Christi qui est verus Deus 
+      <lb ed="#H" n="155"/>non propter ipsam imaginem, sed propter rem cuius imago est. Hanc 
+      ra<lb ed="#H" n="156" break="no"/>tionem colendi imaginem Christi exstruxit in hoc articulo Aquinas 
+      <lb ed="#H" n="157"/>non ex Scriptura Sacra: sed ex Philosophi, id est, Aristotelis libro de 
+      <lb ed="#H" n="158"/>memoria &amp; reminiscentia. Ita fons idololatriae huius Papisticae est 
+      <lb ed="#H" n="159"/>gentiliimus ex Aristotelis Philosophia haustus 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3106">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Articulo vero quarto Aquinas ait do cruce ipsa: Si loquamur di 
+      <lb ed="#H" n="161"/>ipsa cruce, in qua Christus crucifixus est, viroque modo est a nobis 
+      vene<lb ed="#H" n="162" break="no"/>randa, uno modo in quantum nobis repraesentat figuram Christi 
+      exten<lb ed="#H" n="163" break="no"/>si in ea. alio modo ex contactu ad membra Christi, &amp; ex hoc quod eius  
+      <lb ed="#H" n="164"/>sanguine est perfusa. unde utroque modo adoratur eadem adoratione R 
+      <lb ed="#H" n="165"/>cum Christo. ADORATIONE LATRIAE, &amp; propter hoc etiam crucem 
+      <lb ed="#H" n="166"/>illoquimur &amp; deprecamur quasi ipsam crucem. (o intoleranda 
+      idolo<lb ed="#H" n="167" break="no"/>atriam!) Si vero loquimur de effigie crucis Christi, in quaecunque alia 
+      <lb ed="#H" n="168"/>materia, puta lapidis vel ligni, argenti vel auri, sic veneramur 
+      crucen<lb ed="#H" n="169" break="no"/>tantum ut imaginem Christi. QUAM VENERAMURADORATIONE 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3132">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>ATRIAE 
+      <lb ed="#H" n="171"/>Thomae Aquinati subscribit Cardinalis Cajetanus, qui itidem 
+      di<lb ed="#H" n="172" break="no"/>cit imaginem Christi adorari latria: ut testis est Bellarminus Tomo, 
+      <lb ed="#H" n="173"/>1. controv. 7. generali lib. 2 qui est de reliquiis &amp; imaginibus 
+      san<lb ed="#H" n="174" break="no"/>ctorum cap. 23. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3148">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>Bellarminus hoc ipso libro &amp; capite docet, admitti posse, imagine 
+      <lb ed="#H" n="176"/>posse coli improprie, vel per accidens eodem genere cultus, quo exemplar 
+      <lb ed="#H" n="177"/>ipsum colitur. In eodem vero capite, quanquam brevi, sibi ex parti 
+      <lb ed="#H" n="178"/>contradicens ait: Quod possit imago adorari adoratione ipsius 
+      exem<lb ed="#H" n="179" break="no"/>plaris, proprie quidem, sed per accidens. Ita eadem imago eodem genere. 
+      <lb ed="#H" n="180"/>cultus quo exemplar ipsum colitur IMPROPRIE&amp; PROPRIBse 
+      <lb ed="#H" n="181"/>cundum Bellarminum. Capite vero 24. apertius ait: Imago 
+      adora<lb ed="#H" n="182" break="no"/>tur LATRIA, sed propter aliud. Hinc liquetvanissimum esse 
+      effu<lb ed="#H" n="183" break="no"/>gium, quando Papistae vulgo dicunt, se distinguere latriam, duliam &amp; 
+      hy<lb ed="#H" n="184" break="no"/>per duliam: &amp; latriam exhibere soli Deo, dulia sanctis, hyperduliam 
+      <!--cod-MkL9py-0656.xml-->
+      <pb ed="#H" n="627"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Virgini Mariae. Nam Angelici ipsorum Doctores &amp; Cardinases 
+      di<lb ed="#H" n="2" break="no"/>cunt latria adorari etiam imaginem Christi, item crucem Christis 
+      <lb ed="#H" n="3"/>item Sacramentum Eucharistiae: at num imago Christi est Deus: 
+      <lb ed="#H" n="4"/>num erux est Deus? num Sacramentum est Deus. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3189">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Verum etiamsi verbis non faterentur, se imaginem crucifixi &amp; 
+      i<lb ed="#H" n="6" break="no"/>psam crucem adorate latria: tamen forma cultus eos convinceret. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3198">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Nam ipsam crucem alloquuntur &amp; deprecantur quasi ipsam 
+      cru<lb ed="#H" n="8" break="no"/>cem: ut Thomas Aquinas expresse dicit Parte 3 quaest. 25. art.  
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3207">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>Lignum crucis invocant &amp; ab eo petunt quod a solo Deo est po 
+      <lb ed="#H" n="10"/>tendum: Sic enim ad crucem clamant: Salva catervam in tuis 
+      laudi<lb ed="#H" n="11" break="no"/>bus congregatam. Breviar. Roman. in festo Inventionis &amp; 
+      Exaltatio<lb ed="#H" n="12" break="no"/>nis S. Crucis. Et in Antiphona canunt: O crux ave spes unica, auge piis 
+      <lb ed="#H" n="13"/>iustitiam, reisque dona veniam. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3224">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Sic concionatores Papistici alloquuntur imaginem crucifixi, eique 
+      <lb ed="#H" n="15"/>dicunt: Tu nos redemisti, tu nos Patri reconciliasti: ut docet 
+      Bellarmi<lb ed="#H" n="16" break="no"/>nus Tomo 1. controv. 7. lib. 2. qui est de reliquiis &amp; imaginibus san 
+      <lb ed="#H" n="17"/>ctorum cap. 23. quanquam hanc idololatriam conatur salvare fictitia 
+      <lb ed="#H" n="18"/>distinctione. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3240">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Eandem crucem colunt templis, aris &amp; officiis quae vocant, quae 
+      <lb ed="#H" n="20"/>non nisi ad latriam pertinent. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3249">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Eandem colunt festo quod Innocentius VI. Anno 1460. 
+      insti<lb ed="#H" n="22" break="no"/>tuit. Atqui festorum dierum celebratio est pars latriae seu cultus sola 
+      <lb ed="#H" n="23"/>Deo debiti. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3260">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Sequitur de reliquiarum veneratione. 
+      <lb ed="#H" n="25"/>Reliquias quasdam Papani invocarunt &amp; adorarunt, ut ut 
+      Bellar<lb ed="#H" n="26" break="no"/>minus Tomo 1. controv. 7. lib. 2 cap. 2. neget. Nam ante 
+      Veroni<lb ed="#H" n="27" break="no"/>cam shoc est, ante sudarium seu linteum in quo facies Christi 
+      expres<lb ed="#H" n="28" break="no"/>sa a Veronica, ut fingunt, vel Veronicae datum, ut aliis placety dicer 
+      <lb ed="#H" n="29"/>solent: Salne sancta facies impressa panniculo: nos ab omni macula 
+      pur<lb ed="#H" n="30" break="no"/>ga vitiorum, atque nos consortio iunge beatorum: ut recitat Durandus 
+      <lb ed="#H" n="31"/>ex oratione Johannis XXII. Papae, quae ita habet  
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3282">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Salve sancta facies nostri Redemtoris, 
+      <lb ed="#H" n="33"/>In qui nitet species diuvini splendoris. 
+      <lb ed="#H" n="34"/>Impressa panniculo nivei candoris, 
+      <lb ed="#H" n="35"/>Lataque Veronicae signum ob amoris. 
+      <lb ed="#H" n="36"/>Seelve decus seculi, speculum sanctorum 
+      <lb ed="#H" n="37"/>Quod videre cupiunt spiritus caelorum: 
+      <lb ed="#H" n="38"/>Nos ab omni macula purga vitiorum, 
+      <lb ed="#H" n="39"/>Atque nos consortio iunge beatorum. 
+      <lb ed="#H" n="40"/>Salve vultus Domini imago 
+      beata<lb ed="#H" n="41" break="no"/>Ex aeterno munere mire decorata: 
+      <lb ed="#H" n="42"/>Lumen funde cordibus ex vi tibi data, 
+      <lb ed="#H" n="43"/>Et a nostris sensibus tolle colligata 
+      <lb ed="#H" n="44"/>Salve robur fidei nostrae Christiana. 
+      <lb ed="#H" n="45"/>Destruens haereticos qui sunt mentis vanae: 
+      <lb ed="#H" n="46"/>Horunm auge meritum qui te credunt sane, 
+      <lb ed="#H" n="47"/>Illius effigie qui rex sit ex pane. 
+      <lb ed="#H" n="48"/>Salve nostrum gaudium in hac vita dura; 
+      <lb ed="#H" n="49"/>Labili, &amp; fragili, cito peritura: 
+      <lb ed="#H" n="50"/>Nos deduc ad propria, O TELIX FIGURA 
+      <lb ed="#H" n="51"/>Ad videndam faciem quae est Christi 
+      pura<lb ed="#H" n="52" break="no"/>Orationem istam devote dicentibus, inspiciendo Veronicam, 
+      <lb ed="#H" n="53"/>memorantur libro orationum inscripto Antidotarium animae, a 
+      Pa<lb ed="#H" n="54" break="no"/>ba illo Johanne XXII. concessa decem millia dierum indulgent 
+      <lb ed="#H" n="55"/>tiarum. Caeterum Veronica asservatur Romae in aede S. Petri, &amp; 
+      ibi<lb ed="#H" n="56" break="no"/>populo adoranda ostenditur. Lucius vero Marineus Siculus, 
+      histo<lb ed="#H" n="57" break="no"/>riographus regius Imperatoris Caroli Quinti lib. 5. de rebus Hisi 
+      <lb ed="#H" n="58"/>illam in Hispania esse scribit. Romana an Hispanica Veronica vera 
+      <lb ed="#H" n="59"/>fit, Pontificii viderint.  
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3347">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>In Processionali Cadurcorum qui sunt Galliae Aquitanicae 
+      po<lb ed="#H" n="61" break="no"/>puli, Vulgo Cahors dicti, sudarium Christi invocabatur his verbis. 
+      <lb ed="#H" n="62"/>Sancte Sudari ora pro nobis, Sudarium Christi liberet nos a peste &amp; 
+      <lb ed="#H" n="63"/>morte tristi. Apud eosdem Cadurcos in Abbatia Fontis invocabatur  
+      <lb ed="#H" n="64"/>Mappa, super quam dicitur Christus Coenam celebrasse, &amp; cantabatur 
+      <lb ed="#H" n="65"/>magno monachorum boatu: Sanctissima Dei mappa ora pro nobis. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3366">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Bellarminus religiose venerandas reliquias sanctorum 
+      conten<lb ed="#H" n="67" break="no"/>dit. Tom. 1. Controv. 7. lib. 2. qui est de reliquiis &amp; imaginibus 
+      san<lb ed="#H" n="68" break="no"/>ctorum cap. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3377">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Veneratio autem &amp; cultus earum incredibilis esset, nisi ante 
+      o<lb ed="#H" n="70" break="no"/>mnium oculos esset. Nam capita, dentes, manus, pedes &amp; alia 
+      corpo<lb ed="#H" n="71" break="no"/>rum humanorum frusta e terra effossa aut aliunde accepta 
+      magno<lb ed="#H" n="72" break="no"/>sumtu ornant. Petri &amp; Pauli capita, si tamen Petri &amp; Pauli sunt, at 
+      <lb ed="#H" n="73"/>gento quod excedere fertur quatuor millia pondo, sunt inclusa, ut est 
+      <lb ed="#H" n="74"/>in Comment Pii II. lib. 8. adjectis gemmis &amp; margaritis, inaesti 
+      <lb ed="#H" n="75"/>mabilisque pretii unionibus, ut refert Qnuphrius de septem urbis 
+      <lb ed="#H" n="76"/>Ecclesiis. Tum sepulcra sanctorum Papistae ornant argento, auto &amp; 
+      <lb ed="#H" n="77"/>umonibus. Ratisbonae corpus S. Dionysii Arcopagitae in argenteo 
+      <lb ed="#H" n="78"/>loculo asservatur in templo S. Emerani. Aureum Thomae 
+      Cantua<lb ed="#H" n="79" break="no"/>riensis mansoleum tectum fuit adamantibus, unionibus &amp; carbum 
+      <lb ed="#H" n="80"/>culis, ut est in Commentar. Pii II. lib. 1. vilissima pars erat aurum. 
+      <lb ed="#H" n="81"/>gemmis raris ac praegrandibus collucebant, nitebant, ac fulgurabant  
+      <lb ed="#H" n="82"/>omnia Erasm. colloq. de peregrinat, religionis ergo 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3412">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Porro reliquiae sanctorum tali cultu qualem Papani adhibent, 
+      ve<lb ed="#H" n="84" break="no"/>nerandae non sunt, propter has rationes: 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3421">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>I. Quia divino mandato nullo sic coli jubentur.  
+      <lb ed="#H" n="86"/>II. Quia illarum talis cultus a Christo damnatur. Matth. 23. v. 23. 
+      <lb ed="#H" n="87"/>Vae vobis Soribae &amp; Pharisai hypocritae, qui aedificatis sepulcra 
+      Propheta<lb ed="#H" n="88" break="no"/>rum, &amp; ornatis monumenta iustorum. Luc. 11. v. 47. Vae vobis quoniam 
+      <lb ed="#H" n="89"/>aedificatis monumenta Prophetarum, patres autem vestri trucidarunt. Rt 
+      <lb ed="#H" n="90"/>tos. Nempe testimonio vestro comprobatis facta patrum vestrorum: 
+      <lb ed="#H" n="91"/>quoniam illi quidem eos trucidarunt, vos autem aedificatis eorum mo¬ 
+      <!--cod-MkL9py-0656.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>numenta. Quod Christus in Scribis &amp; Pharisaeis Judaicis damnavit. 
+      <lb ed="#H" n="93"/>id neutiquam in Scribis &amp; Pharisaeis Romanensibus approbat. Quid 
+      <lb ed="#H" n="94"/>aliud faciunt Romanenses, quam ut aedificent sepulcra Apostolorum 
+      <lb ed="#H" n="95"/>&amp; Martyrum &amp; ornent monumenta sanctorum, quos patres 
+      ipso<lb ed="#H" n="96" break="no"/>rum trucidarunt? AEdificatione &amp; exornatione monumentorum. 
+      <lb ed="#H" n="97"/>comprobant facta patrum suorum: quoniam illi quidem eos 
+      truci<lb ed="#H" n="98" break="no"/>darunt, ipsi autem sepulcra ipsis exstruunt &amp; ornant, ut ostendant, se 
+      <lb ed="#H" n="99"/>gaudere de ipsorum morte, ut ex reliquiis ipsorum lucrum facere 
+      <lb ed="#H" n="100"/>possint. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3465">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>III. Quia reliquias sanctorum, velut ossa, manus, pedes, &amp;c. 
+      se<lb ed="#H" n="102" break="no"/>peliri vult Deus ne colantur. Sic enim corpus Moiis abscondit, ne 
+      co<lb ed="#H" n="103" break="no"/>leretur ab Israelitis. Deuteron. ult.  
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3476">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>IV. Quia reliquiarum cultus est inventum hominum 
+      supersti<lb ed="#H" n="105" break="no"/>tiosorum. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3486">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>V. Quia nobis Christianis nemo secundum carnem quaerendus 
+      <lb ed="#H" n="107"/>&amp; cognoscendus. 2. Cor. 5. 16 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3495">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>VI. Quia reliquiae pleraeque omnes sunt supposititiae: quod inde 
+      <lb ed="#H" n="109"/>aperitissime manifestum est, quia unius ejusdemque sancti plura 
+      cor<lb ed="#H" n="110" break="no"/>pora, vel eaedem partes corporis diversis in locis monstrantur. Divus 
+      <lb ed="#H" n="111"/>Petrus (exempli gratia) reconditus est integer uno loco Romae in 
+      <lb ed="#H" n="112"/>Vaticano, ut autor est Baronius Annal. Eccles tom. 1. &amp; 3. ann Domi 
+      <lb ed="#H" n="113"/>69 &amp; 324. Dimidiatus habetur in alio loco Romae, in via Ostiensi 
+      <lb ed="#H" n="114"/>Qnuphr. de 7. urbis Ecclesiis, cap. de Basil. 8. Pauli. Et aliquae particu 
+      <lb ed="#H" n="115"/>lae reliquiarum Petri sunt loco tertio videlic Canstantinopoli, ut 
+      re<lb ed="#H" n="116" break="no"/>fert Bellarm. li. 2. de Eccles. Triumphante cap. 3. &amp; 4. Caput ejus 
+      as<lb ed="#H" n="117" break="no"/>servatur in quarto loco, nimirum Romae in Basilica Lateranensi, 
+      O<lb ed="#H" n="118" break="no"/>nuph. de 7. urbis Ecclesiis. Pars capitis in quinto loco, Romae 
+      nimi<lb ed="#H" n="119" break="no"/>rum in Ecclesia S. Praxedis. Onuphr., ibidem. In sexto loco, videl. 
+      Pi<lb ed="#H" n="120" break="no"/>ctavii in Gallia, mandibula cum barba, Calvin de reliquiis. In septi 
+      <lb ed="#H" n="121"/>mo loco, vel in septem potius locis, dentes, alibi plures, alibi singulis 
+      <lb ed="#H" n="122"/>velut Romae in Eccles. 88. Vincentii &amp; Anastasii. S. Crucis, S. 
+      Salva<lb ed="#H" n="123" break="no"/>toris Lateranensis. S. Laurentii extra mutos, S Sebast. 8. Praxedis, ut 
+      <lb ed="#H" n="124"/>recitat Qnuph. de 7. urbis Ecclesiis. Octavo loco erat cerebrum. 
+      <lb ed="#H" n="125"/>nempe Genevae; quale autem cerebrum fuerit, in Reformatione 
+      Ec<lb ed="#H" n="126" break="no"/>clesiae Genevensis reipsa deprehensum est, pumex videlicet pro 
+      cere<lb ed="#H" n="127" break="no"/>pro ostentabatur, ut docet Calvinus admonitione de reliquiis: Adde 
+      <lb ed="#H" n="128"/>ossa multa, Romae in templo B. Mariae populi, ut testatur liber 
+      inscri<lb ed="#H" n="129" break="no"/>ptus, Mirabilia Romae, excusus permistu Superiorum cum privilegite 
+      <lb ed="#H" n="130"/>ixti V. Item in templo S. Laurentii extra muros, Qnuphr. de 7. 
+      ur<lb ed="#H" n="131" break="no"/>bis Ecclesiis. Adde partem laceiti, Romae in basilica S. Crucis, 
+      Onu<lb ed="#H" n="132" break="no"/>hr. ibid partem costae &amp; digitum manus, Romae in Ecclesia S. 
+      Seba<lb ed="#H" n="133" break="no"/>stiani Onuphr ibid. digitum pedis, Romae in Eccles. 8. Praxed. 
+      Onu<lb ed="#H" n="134" break="no"/>phr. ibid, articulum digiti gigantei, in Anglia, ad D. Parathalassiae 
+      <lb ed="#H" n="135"/>Erasm. peregrinat. telig ergo. praeter reliquias absque nomine, 
+      Ro<lb ed="#H" n="136" break="no"/>mae, in Eccles. S. Sebastiani, S. Crucis, S. Mariae majoris. Qnuphr. de 
+      <lb ed="#H" n="137"/>7. urbis Ecclesiis. In templo S Chrysogoni, Mirabil Romae 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3565">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>Hoc non soli Petro accidit, sed aliis etiam sanctis. S. Dionysii 
+      cor<lb ed="#H" n="139" break="no"/>pus ostendunt Monachi in monasterio S. Emerani Ratisbonae, cum 
+      <lb ed="#H" n="140"/>Bulla Pontificis attestante, verum corpus Ratisbonae esse: ejusdem 
+      <lb ed="#H" n="141"/>Dionysii caput apud S. Dionysium in Gallia monstratur. Corpora 
+      <lb ed="#H" n="142"/>trium regum, seu Magorum qui Christum Bethlehemae adorarum 
+      <lb ed="#H" n="143"/>ostenduntur Coloniae Agrippinae; eorundem corpora Mediolana 
+      <lb ed="#H" n="144"/>monstrantur. Summa, nullus est sanctus fere, aliquantum celebris; 
+      <lb ed="#H" n="145"/>cujus non monstrentur apud Papistas diversis in locis duo aut tria 
+      <lb ed="#H" n="146"/>corpora. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3589">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Satis est de reliquiis 
+      <lb ed="#H" n="148"/>Quanta idololatria in rerum variarum consecratione &amp; rebus 
+      con<lb ed="#H" n="149" break="no"/>secratis committatur, horreo commemorare. Papa solet certo &amp; 
+      sta<lb ed="#H" n="150" break="no"/>to die imagunculas quasdam effingere in formam agni, ex cera alba 
+      <lb ed="#H" n="151"/>oleo delibuta, adhibitis certis preculis: has imagunculas Agnos Dei, 
+      <lb ed="#H" n="152"/>vocat, eisque tribuit vim divinam, quae ipsi Filio Dei, qui solus est 
+      ve<lb ed="#H" n="153" break="no"/>re Agnus ille Dei, competit. Has imagunculas affirmat de collo sus 
+      <lb ed="#H" n="154"/>pensas &amp; munde gestatas fulgura depellere, peccata aeque purgare 
+      u<lb ed="#H" n="155" break="no"/>Christi sanguis purgat, parturientibus opem ferre &amp; homines ex 
+      in<lb ed="#H" n="156" break="no"/>cendio ac naufragio cripere. Qua de re exstant versus leonini, 
+      impie<lb ed="#H" n="157" break="no"/>tatis plenissimi lib. 1. Ceremoniar. Pontificalium, titulo 7. 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3618">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Salsamus &amp; cera munda, cum chrismatis unda 
+      <lb ed="#H" n="159"/>Conficiunt Agnum: quod munus do tibi magnum: 
+      <lb ed="#H" n="160"/>Fonte velut natum, per mystica sanctificatum, 
+      <lb ed="#H" n="161"/>Fulgura desursum depellis, &amp; omne malignum. 
+      <lb ed="#H" n="162"/>Peccatum frangit, ut Christi sanguis, &amp; angit. 
+      <lb ed="#H" n="163"/>Praegnans servatur, simul &amp; partus liberatur.  
+      <lb ed="#H" n="164"/>Dona refert dignis, virtutem destruit ignis, 
+      <lb ed="#H" n="165"/>Portatus munde de fluctibus eripit undae. 
+      <lb ed="#H" n="166"/>Quid sceleratius dici aut cogitari potuit? quid est avertere corda a 
+      <lb ed="#H" n="167"/>Creatore ad creaturas, si hoc non est? 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3644">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>De consecrationibus Papisticis vide sub finem in Missali 
+      Roma<lb ed="#H" n="169" break="no"/>no ex Decreto Concilii Tridentini restituto &amp; Pii V. jussu edito 
+      pri<lb ed="#H" n="170" break="no"/>mum Romae, deinde Antverpiae. Quid vero de illis sentiendum vide 
+      <lb ed="#H" n="171"/>in Concilii Tridentini recusatione ab Electoribus, Principibus &amp; 
+      <lb ed="#H" n="172"/>Ordinibus Imperii Protestantibus publicata, pag.168. &amp; sequenti 
+      <lb ed="#H" n="173"/>bus, Editionis Anni 1597. Gabrielis Carterii in octavo 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3663">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>De idololatrico usu campanatum baptizatarum &amp; consecrata. 
+      <lb ed="#H" n="175"/>rum, vide in eadem Recusatione Ordinum Imperii Protestantium 
+      <lb ed="#H" n="176"/>pagina 175. &amp; sequentibus 
+    </p>
+            <p xml:id="yyy8Uu-xd8694-d1e3674">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Hucusque de precatione idololatrica: 
+   se<lb ed="#H" n="178"/>
+               <pc type="indent"/>quitur.  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

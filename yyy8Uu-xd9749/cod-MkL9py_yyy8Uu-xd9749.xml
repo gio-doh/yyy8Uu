@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 18</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 18</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd9749"><!-- l10-c18 -->
+            <head xml:id="yyy8Uu-xd9749-Hd1e103">Caput 18</head>
+            <p xml:id="yyy8Uu-xd9749-d1e106">
+               <lb ed="#H" n="124"/>CAPUT XIIX. 
+      <lb ed="#H" n="125"/>In quo de Charitate nostra erga sanctos 
+      <lb ed="#H" n="126"/>Angelos 
+    </p>
+            <p xml:id="yyy8Uu-xd9749-d1e115">
+               <lb ed="#H" n="127"/>NGELI sancti sunt a nobis diligendi &amp; honorandi: 
+    </p>
+            <p xml:id="yyy8Uu-xd9749-d1e120">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>I. Quia praecepto quo jubemur diligere proximum 
+      et<lb ed="#H" n="129" break="no"/>iam sancti Angeli continentur: qua de re AUGUSTINU S 
+      <lb ed="#H" n="130"/>tertio tomo libro primo de doctrina Christiana, cap. trigesimo. 
+    </p>
+            <p xml:id="yyy8Uu-xd9749-d1e131">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>II. Quia sunt nobiscum membra ejusdem corporis Ecclesiae 
+      <lb ed="#H" n="132"/>Catholicae, cujus Caput est Christus 
+      <lb ed="#H" n="133"/>III. Quia ipsi sunt amici nostri per Christum nobis conciliati 
+      <lb ed="#H" n="134"/>&amp; nos diligunt: quod declarant abunde officiis &amp; beneficiis suis 
+      quae<lb ed="#H" n="135" break="no"/>nobis cupidissime jussu Dei praestant, &amp; laetitia quam ex 
+      resipiscen<lb ed="#H" n="136" break="no"/>tia nostra percipiunt, Lucae 15. 7, 10. Imo quo diutius nostrae saluti 
+      <lb ed="#H" n="137"/>serviunt, eo magis ipsorum erga nos amor augetur. Nam amor quo 
+      <lb ed="#H" n="138"/>magis officiis, obsequiis erga personam amatam exercetur: eo etiam 
+      <lb ed="#H" n="139"/>semper sit major. Unde &amp; ad quaestionem, uter magis amet, qui 
+      bene<lb ed="#H" n="140" break="no"/>ficium confert, an qui accipit? responsum est a sapientibus, illum qui 
+      <lb ed="#H" n="141"/>confert. Et quo quis diutius alicui inservit, si praesertim hoc faciat 
+      ex<lb ed="#H" n="142" break="no"/>animo, &amp; ex amore, ut Angeli boni certe nobis inserviunt: eo etiam 
+      <lb ed="#H" n="143"/>indies majori erga eum, cui inservit, amore afficitur: sive Doctor er¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd9749-d1e165">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>a suam Scholam, sive Pastor erga Ecclesiam, sive paedagogus erga 
+      <lb ed="#H" n="145"/>quum discipulum, sive aulicus erga suum Principem, sive mater &amp; 
+      <lb ed="#H" n="146"/>pater erga suos liberos, sive denique famulus &amp; ancilla erga suum 
+      he<lb ed="#H" n="147" break="no"/>rum atque dominam. Dubitandum igitur non est, quin ex tam 
+      mul<lb ed="#H" n="148" break="no"/>tis diuturnisque &amp; magnis Angelorum sanctorum officiis, ipsorum 
+      <lb ed="#H" n="149"/>erga nos amor, suo quodam modo, indies auctior fiat. Quapropter I 
+      <lb ed="#H" n="150"/>nos quoque, quantus sit ipsorum erga nos amor, qualia ve &amp; quanta 
+      <lb ed="#H" n="151"/>nobis praestent obsequia ac beneficia, diligenter perpendamus: 
+      ae<lb ed="#H" n="152" break="no"/>quum est ut vicissim erga illos magis ac magis amore &amp; reverentia. 
+      <lb ed="#H" n="153"/>afficiamur.  
+    </p>
+            <p xml:id="yyy8Uu-xd9749-d1e191">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>IV. Quia illorum imitatores esse debemus. Qui ergo non 
+      di<lb ed="#H" n="155" break="no"/>ligamus eos, quorum exemplum continenter imitati debemus? 
+      Sio<lb ed="#H" n="156" break="no"/>enim in Oratione Dominica quotidie precamur mandato Christi,. 
+      <lb ed="#H" n="157"/>Fiat uoluntas tua, sicut in coelo, sic etiam in terra¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd9749-d1e204">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>V. Quia illis in altera vita similes erimus. Qui ergo non 
+      diliga<lb ed="#H" n="159" break="no"/>mus eos, quibus similes erimus? quibus similes ut simus exoptare 
+      <lb ed="#H" n="160"/>debemus. 
+    </p>
+            <p xml:id="yyy8Uu-xd9749-d1e215">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Honor seu cultus qui a nobis exhibendus est &amp; exhibetur sanctis 
+      <lb ed="#H" n="162"/>IAngelis, non est cultus religiosus, quia is soli Deo debetur; sed poli¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd9749-d1e224">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>ticus seu civisis, quem συμπελίνας concivibus suis habent: nam 
+      san<lb ed="#H" n="164" break="no"/>cti Angeli sunt cives τ πολεων, hoc est, civitatis Dei &amp; concives nostri 
+      <lb ed="#H" n="165"/>&amp; commune nobiscum habent πολίτῳίμα in coelis. 
+    </p>
+            <p xml:id="yyy8Uu-xd9749-d1e235">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Hactenus de charitate erga proximum: sequitur  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

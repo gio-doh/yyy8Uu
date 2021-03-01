@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 48</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 48</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd715"><!-- l6-c48 -->
+            <head xml:id="yyy8Uu-gxd715-Hd1e103">Caput 48</head>
+            <p xml:id="yyy8Uu-gxd715-d1e106">
+               <lb ed="#H" n="141"/>CAPUT XLIIV. 
+      <lb ed="#H" n="142"/>In quo de Obsignatione beneficiorum 
+   sa<lb ed="#H" n="143"/>
+               <pc type="indent"/>luto 
+    </p>
+            <p xml:id="yyy8Uu-gxd715-d1e117">
+               <lb ed="#H" n="144"/>BSIGNATIO beneficiorum divinorum, est Dei 
+      benefi<lb ed="#H" n="145" break="no"/>Leium, quo certitudinem jam collatorum, &amp; adhuc 
+   conferen<lb ed="#H" n="146"/>
+               <pc type="indent"/>dorum beneficiorum salutis aeternae nobis confirmat per 
+      si<lb ed="#H" n="147" break="no"/>gna divina ac proinde certa, ad corroborandam fidem nostram 
+    </p>
+            <p xml:id="yyy8Uu-gxd715-d1e130">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Estque obsignatio illa tum externa, tum 
+      interna<lb ed="#H" n="149" break="no"/>Obsignatio externa, est quae sit per signa divina extrinsecus 
+      verbo<lb ed="#H" n="150" break="no"/>Dei addita, per juramentum divinum &amp; per visibilia dona Spiritus 
+      <lb ed="#H" n="151"/>Sanct. 
+    </p>
+            <p xml:id="yyy8Uu-gxd715-d1e143">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Notandus ordo. Fidus obsignat nobis Deus signis veluti sigillis: 
+      de<lb ed="#H" n="153" break="no"/>inde juramento: tertio accedunt dona eximia Spritus Sancti. 
+      Quem<lb ed="#H" n="154" break="no"/>Idmodum in rebus humanis inter partes antea dissidentes, fedus 
+      ini<lb ed="#H" n="155" break="no"/>tum &amp; scripto exaratum obsignatur sigillis, postea juramento, tum 
+      do<lb ed="#H" n="156" break="no"/>tis 
+    </p>
+            <p xml:id="yyy8Uu-gxd715-d1e160">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>Signa diuvina externa. sunt res incurrentes in sensus, quae de 
+      volun<lb ed="#H" n="158" break="no"/>ate Dei nos commonefaciunt, &amp; confirmant, obsignantque nobis 
+      <lb ed="#H" n="159"/>beneficia, quae verbo Dei sunt annunciata &amp; a Deo nobis dantur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd715-d1e171">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Omnium divinorum signorum communis est usus, ut homines 
+      <lb ed="#H" n="161"/>de voluntate ac beneficiis Dei commonefaciant, &amp; fidem 
+      promissio<lb ed="#H" n="162" break="no"/>num confirient atque obsignent. Ideo enim Deus verbo addit si 
+      <lb ed="#H" n="163"/>gna, ut infirmitati nostrae consulat, &amp; promissiones nobis confirmet.  
+    </p>
+            <p xml:id="yyy8Uu-gxd715-d1e184">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Id verum est de omnibus signis divinis, percurrendo a primo 
+      im<lb ed="#H" n="165" break="no"/>mortalitatis Sacramento in Paradiso, usque ad extrema signa ultimi 
+      <lb ed="#H" n="166"/>adventus Christi¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd715-d1e195">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Omnia enim in hoc scopo conveniunt tam universalia, quam 
+      pat<lb ed="#H" n="168" break="no"/>ticularia: tam in rebus naturalibus, quam in miraculis exhibita: tam 
+      <lb ed="#H" n="169"/>denique ordinaria, quam extraordinaria 
+    </p>
+            <p xml:id="yyy8Uu-gxd715-d1e206">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Signum exiernum vel naturale est, vel datum diuvinitus. 
+      <!--cod-MkL9py-0517.xml-->
+      <pb ed="#H" n="490"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>a lud ex parte Dei tum significentur bona hominibus promissa, &amp; 
+      ob<lb ed="#H" n="2" break="no"/>gnificat; id est, quod natura praeter se aliud ex se cognosci facit, non 
+      <lb ed="#H" n="3"/>ex arbitraria institutione. Hujus generis est Iris, vel imbres vel 
+      sere<lb ed="#H" n="4" break="no"/>nitatem significans, si Physice consideretur. Sic Aurora signum est, 
+      <lb ed="#H" n="5"/>naturale vicini Solis. Fumus est signum naturale ignis 
+    </p>
+            <p xml:id="yyy8Uu-gxd715-d1e230">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Signum datum diuvinitus, est signum, quod non natura, sed gratia, 
+      <lb ed="#H" n="7"/>instituto, voluntate &amp; ordinatione Dei id significat, cujus est signum: 
+      <lb ed="#H" n="8"/>ut Iris ex Dei instituto est signum; mundum non amplius periturum. 
+      <lb ed="#H" n="9"/>diluvio. 
+    </p>
+            <p xml:id="yyy8Uu-gxd715-d1e244">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Signum datum vel Sacramentum est, vel miraculum, vel signum 
+      <lb ed="#H" n="11"/>temporum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

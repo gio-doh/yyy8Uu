@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 28</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 28</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd3575"><!-- l10-c28 -->
+            <head xml:id="yyy8Uu-xd3575-Hd1e103">Caput 28</head>
+            <p xml:id="yyy8Uu-xd3575-d1e106">
+               <lb ed="#H" n="25"/>CAPUT XXVIII 
+      <lb ed="#H" n="26"/>In quo de αυταρεια.
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e113">
+               <lb ed="#H" n="27"/>υταρκεια, est virtus per quam contenti sumus praesentibus 
+      bo<lb ed="#H" n="28" break="no"/>nis juste acquisitis, ita ut etiam in exiguo acquiescamus laeto 
+   a<lb ed="#H" n="29" break="no"/>nimo, imo etiam paupertatem placide feramus, vel etiam 
+      ani<lb ed="#H" n="30" break="no"/>mo propter Christum relinquamus omnia, parati etiam ex facto 
+      <lb ed="#H" n="31"/>omnia relinquere, ubi res desideraverit. Latinis circumscriptione 
+      <lb ed="#H" n="32"/>quadam dicitur animus sua sorte contentus. Germanice optime 
+      no<lb ed="#H" n="33" break="no"/>minatur Derguagliateit.  
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e131">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Virtuti huic est studendum: 
+      <lb ed="#H" n="35"/>I. Quia a Deo mandata est. Hebr. 13. 5. Estote contenti 
+      praesen<lb ed="#H" n="36" break="no"/>tibus. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e142">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>II. Quia illa praeditos Deus nunquam destituet, Hebr. 13. vers. 5. 
+      <lb ed="#H" n="38"/>Dixit enim IESE, Nequaquam te deseram, neque unquam te 
+      derelin<lb ed="#H" n="39" break="no"/>quam, 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e154">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>III. Quia virtute hac praeditis pietas quae magnus quaestus est, 
+      <lb ed="#H" n="41"/>omnia supplet. 1. Tim. 6. v. 6. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e163">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>IV. Quia est indicium verae fidei acquiescentis voluntati Dei 
+      <lb ed="#H" n="43"/>Matth. 19. v. 21. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e172">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>V. Quia vitam efficit jucundam, Proverb. 15. v. 15. Boni corde. 
+      <lb ed="#H" n="45"/>sunt convivium juge, id est, iis qui acquiescunt laeto animo in sua 
+      sor<lb ed="#H" n="46" break="no"/>te tam sunt jucundi dies, tam suavis vita, quam si semper lautissimi 
+      <lb ed="#H" n="47"/>epulis alerentur.  
+      <lb ed="#H" n="48"/>VI. Quia melius est parum cum reverentia Jehovae, animum 
+      <lb ed="#H" n="49"/>hominis tranquillante; quam thesaurus amplus cum vexatione 
+      ani<lb ed="#H" n="50" break="no"/>mi, cujus possessor animo fluctuat &amp; seipse excruciat, Proverb. 15. v 
+      <lb ed="#H" n="51"/>16, 17. &amp; cap. 16. 8. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e194">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>VII. Quia ad eam exemplo suo nos alii fideles invitant; ut 
+      Pau<lb ed="#H" n="53" break="no"/>lus Apostolus qui Philipp. 4. 11. ait: ego didici, in quibus sum, iis ipsis 
+      <lb ed="#H" n="54"/>contentus esse¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e205">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Paupertas autem piis aequo animo ferenda: 
+      <lb ed="#H" n="56"/>I. Quia cedit illis bono, nimirum ad fidei probationem, coelestis 
+      <lb ed="#H" n="57"/>vitae meditationem, seriam resipiscentiam, &amp; ad mundi hujus odium 
+      <lb ed="#H" n="58"/>&amp; abrenunciationem meditandam. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e218">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>II. Quia paupertas veras divitias non adimit piis, repositas in 
+      <lb ed="#H" n="60"/>coelo, ut exemplum docet Lazari mendici Luc. 16. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e228">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>III. Quia illam etiam alii fideles experti sunt, ut David fugient 
+      <lb ed="#H" n="62"/>Saulem &amp; famelicus 1. Sam. 21. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e237">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>IV. Quia est omnibus hominibus connata. Nullus enim non 
+      <lb ed="#H" n="64"/>hominum nudus egressus est ex utero matris in mundum, Job. 1. ver.  
+      <lb ed="#H" n="65"/>21. Eccles. 5. 15. Infantem nudum cum te natura crearit, Paupertatis 
+      <lb ed="#H" n="66"/>onus patienter ferre memento. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e250">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>τῆ ἀυταχκεια opponitur anxia solicitudo de sustentatione 
+      vit<lb ed="#H" n="68" break="no"/>hujus corporalis, avaritia, simulatus contemtus divitiarum, 
+      fasti<lb ed="#H" n="69" break="no"/>dium rerum praesentium. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e261">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>Anxia &amp; perversa solicitudo de sustentatione vitae hujus 
+      corpora<lb ed="#H" n="71" break="no"/>is, de corporali victu &amp; amictu est omnibus modis fugienda, 
+      <lb ed="#H" n="72"/>I. Quia vetita est nobis a Christo, Matth. 6. v. 25. Propterea dici 
+      <lb ed="#H" n="73"/>vobis, ne estote soliciti de anima vestra, quid esuri sitis, aut quid 
+      bi<lb ed="#H" n="74" break="no"/>bituri: neque de corpore vestro, qua re sitis induendi. Et v. 31, 34. Luc 
+      <lb ed="#H" n="75"/>12. v. 22, 29. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e279">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>II. Quia ab ea nos revocant beneficia multo majora a Deo 
+      per<lb ed="#H" n="77" break="no"/>cepta: qualia sunt anima &amp; corpus, quae certe praestantiora sunt 
+      ali<lb ed="#H" n="78" break="no"/>mentis &amp; vestimentis. Matth. 6. v. 25. Si Deus animam &amp; corpus 
+      no<lb ed="#H" n="79" break="no"/>bis dedit: multo magis dabit nobis alimenta &amp; vestimenta. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e292">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>III. Quia ab ea nos dehortatur ipsa volucrium coeli sustentatio.  
+      <lb ed="#H" n="81"/>Si Deus volucres coeli sustentat: multo magis nos homines 
+      sustenta<lb ed="#H" n="82" break="no"/>bit, Matth. 6. v. 26. Intuemini in volucres coeli: non enim serunt, 
+      ne<lb ed="#H" n="83" break="no"/>que metunt, neque cogunt in horrea, sed Pater ille vester coelestis alit  
+      <lb ed="#H" n="84"/>eas, nonne vos multo praestatis eis: 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e309">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>IV. Quia anxia illa solicitudo est inutilis &amp; vana, Matth. 6. vers. 
+      <lb ed="#H" n="86"/>27. Quis autem ex vobis solicite cogitando potest apponere ad 
+      statu<lb ed="#H" n="87" break="no"/>ram suam cubitum unum 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e320">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>V. Quia ab ea nos dehortantur ipsa etiam lilia agrorum. Nam si 
+      <!--cod-MkL9py-0695.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>Deus liliis aliisque herbis augmenta &amp; ornatum tribuit: quanto 
+      ma<lb ed="#H" n="90" break="no"/>gis nos homines alet &amp; vestiet? Matth. 6. 28, 29, 30. Ac de vestitis 
+      <lb ed="#H" n="91"/>quid soliciti estis: discite quomodo lilia agrorum augescant: non 
+      fati<lb ed="#H" n="92" break="no"/>gantur, neque nent. Sed dico vobis, ne Solomonem quidem cum 
+      uni<lb ed="#H" n="93" break="no"/>versa gloria sua, sic amictum fuisse ut unum ex istis. Quod si 
+      herbam<lb ed="#H" n="94" break="no"/>agri, quae hodie extat; &amp; eras in clibanum coniicitur, Deus ita cit 
+      <lb ed="#H" n="95"/>cumvestit: nonne vos multo magis: 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e346">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>VI. Quia est indicium ἔλιργοπισίας aut etiam incredulitatis 
+      d<lb ed="#H" n="97" break="no"/>Deum, Matth. 6. 30, o exigua fide praedit. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e355">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>VII. Quia est vitium proprium Gentilium, qui Deum non 
+      no<lb ed="#H" n="99" break="no"/>verunt; quibus nequaquam similes esse debemus, Matth. 6. v. 32. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e364">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>VIII. Quia ab ea nos merito avocare debet consideratio 
+      pro<lb ed="#H" n="101" break="no"/>videntiae Dei cui sustentatio nostri curae est, Matth. 6. 32. Novit 
+      Pa<lb ed="#H" n="102" break="no"/>ter ille vester coelestis vos indigere his omnibus. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e375">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>IX. Quia ille crassum &amp; socordem animae, coelestisque vitae 
+      ne<lb ed="#H" n="104" break="no"/>glectum arguit, Matth. 6. 33. Quin potius quaerite primum regnum 
+      <lb ed="#H" n="105"/>Dei &amp; justitiam ejus. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e387">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>X. Quia non necessarias &amp; diuturnas molestias hominibus creat  
+      <lb ed="#H" n="107"/>ita ut sponte efficiantur ante tempus miseri, dum seipsos curis 
+      mace<lb ed="#H" n="108" break="no"/>rant, somno naturali privant, ita ut sanam etiam mente amittant, Mat 
+      <lb ed="#H" n="109"/>6. 24. Ne sitis igitur soliciti in crastinum: nam crastinus dies curam 
+      <lb ed="#H" n="110"/>habebit sui ipsius, sufficit sua diei afflictio. Proverb. 15. ver. 15. Omnes 
+      <lb ed="#H" n="111"/>dies pauperis, id est, hominis sua sorte minime contenti, sunt mali¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e405">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Avaritia, est peccatum, quum quis non est contentus iis quae Deus 
+      <lb ed="#H" n="113"/>dedit ad sustentationem hujus temporalis vitae, sed quo plus habet, e 
+      <lb ed="#H" n="114"/>plus appetit &amp; cumulat &amp; tenaciter asservat, nec in suos nec in aliorum 
+      <lb ed="#H" n="115"/>usus necessaria impendens ex diffidentia de providetia Dei &amp; fiducia 
+      <lb ed="#H" n="116"/>bonorum terrenorum, quasi sine abundantia illorum vivere non 
+      <lb ed="#H" n="117"/>posset &amp; a Deo sustentari. Graece nominatur πλεονεζια, id est, cupidi 
+      <lb ed="#H" n="118"/>tas plus habendi 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e425">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Est fugienda, propter sequentes rationes 
+      <lb ed="#H" n="120"/>I. Quia a Deo prohibetur, Matth. 6. v. 19. Ne thesauros 
+      recondi<lb ed="#H" n="121" break="no"/>te in terra, ubi tinea &amp; erosio corrumpit, &amp; ubi fures perfodiunt ac 
+      <lb ed="#H" n="122"/>furantur. Luc. 19. v. 15. ait Christus: Videte &amp; cavete ab avaritia. 
+      <lb ed="#H" n="123"/>Heb. 13. 5. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e441">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>II. Quia est idololatria. Coloss. 3. v. 5. sicut avarus est idololatra, 
+      <lb ed="#H" n="125"/>Ephes. 5. v. 5. quia confidit opibus suis, Marc. 10. 24. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e450">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>III. Quia nequit cum veri Dei famulatu &amp; cultu consistere, 
+      <lb ed="#H" n="127"/>Matth. 6. v. 24. Non potestis Deo servire &amp; mammonae. Luc. 16. 13. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e459">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>IV. Quia est radix omnium malorum: nam ad multa scelera 
+      de<lb ed="#H" n="129" break="no"/>testanda impellit, velut ad apostasiam, ad injustitiam, ad proditionem 
+      <lb ed="#H" n="130"/>etiam optime meritorum; ad mendacia I. Timoth. 6. v. 10. Id 
+      osten<lb ed="#H" n="131" break="no"/>dit exemplum Judae Ischariotae, qui avaritia inductus prodidit 
+      Domi<lb ed="#H" n="132" break="no"/>num &amp; Magistrum suum Christum. Periculosa cura est velle 
+      ditesce<lb ed="#H" n="133" break="no"/>re: &amp; grave onus innocentia subit incrementis opu occupata, Milite 
+      <lb ed="#H" n="134"/>qui sepulcri Christi custodes fuerunt, avaritia impulsi pecuniam 
+      ac<lb ed="#H" n="135" break="no"/>ceperunt, &amp; a discipulis Christi corpus furto sublatum mentiti sunt,  
+      <lb ed="#H" n="136"/>Matth. 28. 12, 13. 14, 15. Gechaxi minister Prophetae Elisaei mentitus. 
+      <lb ed="#H" n="137"/>est ex avaritia Naamani 1. Reg. 5. v. 22. 
+      <lb ed="#H" n="138"/>V. Quia nullius vita ex iis quae ipsi suppetunt, in eo sita est ut 
+      re<lb ed="#H" n="139" break="no"/>dundet, Luc. 12. v. 15. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e491">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>VI. Quia avaritia est malum insatiabile, ut Ecclesiastes ait cap. 7 
+      <lb ed="#H" n="141"/>v. 10. Qui amat pecuniam, non satiatur pecunia, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e500">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>VII. Quia est serio deprecanda. Psalm. 119. 36. 
+      <lb ed="#H" n="143"/>VIII. Quia sibi deditos efficit socios Gechazi &amp; Judae Iscariotae 
+      <lb ed="#H" n="144"/>proditoris Christi. Imo plerique avari sunt deteriores Juda Iscariota. 
+      <lb ed="#H" n="145"/>hic enim triginta argenteos non retinuit, sed reddidit, illi autem quae 
+      <lb ed="#H" n="146"/>per nefas aliis ademerunt, non restituunt, sed retinent. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e516">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>IX. Quia comitem habet poenam certissimam, tum in hac vita. 
+      <lb ed="#H" n="148"/>tum post hanc vitam: Proverb. 15. v. 27. conturbat domum suam qui 
+      <lb ed="#H" n="149"/>deditus est quaestui. I. Timoth. 6. 10. quidam dum appetunt 
+      pecu<lb ed="#H" n="150" break="no"/>niam, seipsos undiquaque transfixerunt doloribus multis. Dolor&amp; 
+      <lb ed="#H" n="151"/>cura sunt avaritiae messis, animum quodammodo perfodientes: sic 
+      <lb ed="#H" n="152"/>avari seipsos excarnificant. De poena avaritiae aeterna legitur 
+      Ephes<lb ed="#H" n="153" break="no"/>5. versic. 5. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e536">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Quod avaritia impediat ingressum in vitam aeternam, docet 
+      Chri<lb ed="#H" n="155" break="no"/>stus Matth. 19 v. 21, &amp; sequentibus. Exempla. Gechazi minister 
+      Pro<lb ed="#H" n="156" break="no"/>phetae Elisaei propter avaritiam divinitus ipse cum posteris lepra 
+      per<lb ed="#H" n="157" break="no"/>cussus fuit, 2. Reg. 5. vers. 20. &amp; sequentibus. Iudas Iscariotes seipsum 
+      <lb ed="#H" n="158"/>strangulavit, Matth. 27. 5. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e552">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>Inprimis autem ministris verbi Dei &amp; Magistratibus 
+      judicibus<lb ed="#H" n="160" break="no"/>que est fugienda atque cavenda, 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e561">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>I. Quia illis prae caeteris prohibetur, Matth. 10. 9. 10. Exod. 18. 
+      <lb ed="#H" n="162"/>verssc. 21. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e571">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>II. Quia in illis maxime reprehenditur, ut in Bileamo, Numer 
+      <lb ed="#H" n="164"/>22. 2. Petr. 2. 14, 15 Jesa. 56. 11. Jerem. 6. v. 13. Antiquitus clerici nihil 
+      <lb ed="#H" n="165"/>ultra decimas appetebant, iisque contenti vivebant: nunc Papa 
+      cle<lb ed="#H" n="166" break="no"/>ricorum caput, nonnisi tertia civium &amp; bonorum ac fundorum 
+      par<lb ed="#H" n="167" break="no"/>te, in omnibus Regnis &amp; provinciis accepta, acquiescit. Sic in 
+      Magi<lb ed="#H" n="168" break="no"/>stratibus reprehenditur I. Sam. 8 v. 3. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e589">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>Divitiae non sunt appetendae &amp; avare congerendae 
+      <lb ed="#H" n="170"/>I. Quia impedimento sunt praestandis cnaritatis in proximum &amp; 
+      <lb ed="#H" n="171"/>pietatis in Deum officiis, ut ostendit exemplum divitis illius 
+      adole<lb ed="#H" n="172" break="no"/>scentis Matth. 19. v. 21, 22. epulonis item illius Luc. 16. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e602">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>II. Quia plerisque sunt Satanae tendiculae quibus capti retinentur: 
+      <lb ed="#H" n="174"/>ne introeant in regnum coelorum, sicut Christus testatur Matth. 19. 
+      <lb ed="#H" n="175"/>v. 23, 24. Marc. 10. v. 24. 1. Timoth. 6. v 9. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e613">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>III. Quia illarum possessores doloribus &amp; curis multis undiqua 
+      <lb ed="#H" n="177"/>que seipsos transfigunt, 2. Timoth. 6. v. 10. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e622">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>IV. Quia illas jubet Christus deprecari in Oratione Dominica, 
+      <lb ed="#H" n="179"/>in petitione quarta, Panem nostrum quotidianum da nobis hodie 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e631">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>V. Quia illas fideles deprecantur, ut Propheta Agur filius Jalce¬ 
+      <!--cod-MkL9py-0696.xml-->
+      <pb ed="#H" n="667"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Proverb. 30. v. 8. Paupertatem aut divitias ne des mihi mihi: 
+      ale<lb ed="#H" n="2" break="no"/>me cibo demensi mei. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e650">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>VI. Quia facile possunt hominem adducere ad abnegandum 
+      <lb ed="#H" n="4"/>Deum, sicut Propheta Agur, Proverb. 30. v. 9. ait, Ne saturatus 
+      ab<lb ed="#H" n="5" break="no"/>negem, nimirum Dominum, &amp; dicam, Quis est Iehova? I. Tim. 6. 
+      <lb ed="#H" n="6"/>v. 10. Et testantur id exempla. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e663">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>VII. Quia illae potius relinquendae, si necessitas requirat, ut 
+      ex<lb ed="#H" n="8" break="no"/>pediti simus ad sequendum Christum &amp; tolerantiam crucis, Matth. 
+      <lb ed="#H" n="9"/>19. vers. 21. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e674">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>VIII. Quia corruptibiles sunt, Matth. 6. v. 8. 
+      <lb ed="#H" n="11"/>IX. Quia amitti multis modis possunt, vel per furtum, Matth. 6. 
+      <lb ed="#H" n="12"/>v. 19. vel per incendium, vel per bellum, vel per tyrannidem superio 
+      <lb ed="#H" n="13"/>rum, vel per speciem juris, vel per eorum a quibus census emti sunt 
+      <lb ed="#H" n="14"/>infidelitatem aut eversionem, vel per mortem corporalem quam 
+      ne<lb ed="#H" n="15" break="no"/>Reges quidem evitare queunt:  
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e692">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>X. Quia impediunt, imminuunt aut etiam tollunt desiderium 
+      the<lb ed="#H" n="17" break="no"/>saurorum coelestium, quos praestabat colligere, Matth. 6. v. 20. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e701">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>IX. Quia asperos reddunt pauperibus, Prov. 18. v. 23. 
+      Supplica<lb ed="#H" n="19" break="no"/>eloquitur pauper, dives autem respondet aspere. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e710">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Ergone illicitum est habere opes: 
+      <lb ed="#H" n="21"/>RESP. Habere opes; crimen non est, sed modus in habendo 
+      reti<lb ed="#H" n="22" break="no"/>nendus est. Nam quomodo impertiendum est, quomodo 
+      communi<lb ed="#H" n="23" break="no"/>candum, si impertiendi &amp; communicandi materia non relinquatur:  
+      <lb ed="#H" n="24"/>Ego nocenter magis habere, quam illud ipsum habere, sit crimen¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e727">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Distingui debet avaritia Lege Dei prohibita ab avaritia sancta 
+      a<lb ed="#H" n="26" break="no"/>laudabili, de qua Hieronymus secundo tomo epist. ad Ctesiphontem 
+      <lb ed="#H" n="27"/>adversus Pelagianos, pagina ducentesima quinquagesimaseptima 
+      <lb ed="#H" n="28"/>Peto, ut accipiam: &amp; cum accepero, rursus peto: Avarus sum ad 
+      ac<lb ed="#H" n="29" break="no"/>cipienda beneficia Dei, nec ille deficit in dando, nec ego satior in 
+      acci<lb ed="#H" n="30" break="no"/>piendo. Quanto plus bibero, tanto plus sitio. Legi enim a Psalmista 
+      <lb ed="#H" n="31"/>cantari: Gustato &amp; videte, quoniam suavis est Dominus. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e747">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Paupertas probrosa est deprecanda: 
+      <lb ed="#H" n="33"/>I. Quia illam jubet Christus ipse deprecari in oratione Dominica. 
+      <lb ed="#H" n="34"/>nac petitione, Panem nostrum quotidianum da nobis hodiet 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e758">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>II. Quia illam vere fideles sunt deprecati, ut Propheta Agur filius 
+      <lb ed="#H" n="36"/>Jahe Proverb. 30. v. 8. paupertatem aut divitias ne des mihi: ale 
+      me<lb ed="#H" n="37" break="no"/>cibo demensi mei. 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e769">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>III. Quia impellit ad furtum, &amp; ad abusum nominis divini, sicut  
+      <lb ed="#H" n="39"/>Propheta Agur ait Proverb. 30. v. 9. ne pauper factus furer, &amp; 
+      abu<lb ed="#H" n="40" break="no"/>ter nomine Dei mei. Paaperibus enim non timentibus Deum &amp; 
+      ho<lb ed="#H" n="41" break="no"/>nestam famam non curantibus moris est furari &amp; pejerare, quo 
+      rem<lb ed="#H" n="42" break="no"/>faciant  
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e785">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>IV. Quia illam Spiritus Sanctus jubet vitare. Sic enim legitur 
+      <lb ed="#H" n="44"/>Proverb. 20. v. 13. Ne diligito somnum, ut non efficiaris pauper, apert 
+      <lb ed="#H" n="45"/>oculos tuos, satiare cibo, id est, invigila rebus tuis &amp; effugies 
+      pauper<lb ed="#H" n="46" break="no"/>tatem: 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e798">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>V. Quia est debita poena pigritiae &amp; scelerum: quemadmodum 
+      <lb ed="#H" n="48"/>dicitur Proverb. 19. v. 15. Dedita pigritiae, quae injicit altum soporem. 
+      <lb ed="#H" n="49"/>&amp; dolosa anima esuriet, id est, &amp; pigri cessantes ab officio, &amp; fraudus 
+      <lb ed="#H" n="50"/>lenti contra officium venientes, egestate punientur 
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e812">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Simulatus contemtus divitiarum est in hypocritis, veluti in 
+      mo<lb ed="#H" n="52" break="no"/>nachis qui pauca deserunt ut multa consequantur  
+    </p>
+            <p xml:id="yyy8Uu-xd3575-d1e821">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Fastidium rerum praesentium, est peccatum quum quis non 
+      ac<lb ed="#H" n="54" break="no"/>quiescit in eo quod Deus largitur, sed quiritatur subinde etiam cum 
+      <lb ed="#H" n="55"/>contemtu boni quod Deus dedit, ut fecerunt Israelitae in deserto 
+      fa<lb ed="#H" n="56" break="no"/>stidientes Manna. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 48</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 48</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd1688"><!-- l10-c48 -->
+            <head xml:id="yyy8Uu-xd1688-Hd1e103">Caput 48</head>
+            <p xml:id="yyy8Uu-xd1688-d1e106">
+               <lb ed="#H" n="50"/>CAPTTTII 
+      <lb ed="#H" n="51"/>In quo de Taciturnitate
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e113">
+               <lb ed="#H" n="52"/>PTACITURNITAS, est virtus, quum reprehensionem recte 
+      iudi<lb ed="#H" n="53" break="no"/>cantium incurrentia tacemus. 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e120">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Estque vel modestiae, vel prudentiae, vel necessitatis. 
+      <lb ed="#H" n="55"/>Taciturnitas modestiae, est quum a sermone abstinemus, quando 
+      <lb ed="#H" n="56"/>nobis non convenit loqui, vel ob interdictum superioris, vel ob 
+      aeta<lb ed="#H" n="57" break="no"/>tem &amp; reverentiam aliorum, vel aliam ob causam justam, 2. Reg. 18. 
+      <lb ed="#H" n="58"/>v. 36. Jes. 36. v. 21. Praecipitur Prov. 10. v. 14. &amp; 30. v. 32. Notandum 
+      <lb ed="#H" n="59"/>illud, Non rogatus sile 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e138">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>Taciturnitas prudentiae, est quum a sermone prudenter 
+      abstine<lb ed="#H" n="61" break="no"/>mus, vitandarum inimicitiarum &amp; periculorum gratia. Tali tacitur.  
+      <lb ed="#H" n="62"/>nitate usi sunt Jabeschitae; curantes nunciari Ammonitis, se eras 
+      exi<lb ed="#H" n="63" break="no"/>turos ad illos sed reticentes adventum Israelitatum, ut Ammonitae 
+      <lb ed="#H" n="64"/>impatati opprimerentur, 1. Sam. 11, 10. De hac dicit Chrysostomus 
+      <lb ed="#H" n="65"/>homil. 11. in epist. ad Coloss. pag. milles. trecentes. nonages. tertia: Si 
+      <lb ed="#H" n="66"/>causa non sit, Graecum ne voces sceleratum &amp; exsecrandum: neque sis 
+      <lb ed="#H" n="67"/>contumeliosus: Sed si de dogmate quidem rogeris, responde id esse 
+      exse<lb ed="#H" n="68" break="no"/>erandum &amp; impium. Si nemo autem rogat neque cogat, non leviter 
+      <lb ed="#H" n="69"/>nec temere est dicendum, ne suscipias inimicitias. Quid enim necesse 
+      <lb ed="#H" n="70"/>est supervacaneas sibi comparare inimicitias? Rursus si quempiam 
+      <lb ed="#H" n="71"/>catechesi instituas, dic ut postulat subjectum argumentum: alioque 
+      <lb ed="#H" n="72"/>tace. Si sermosit sale conditus, etiamsi in diffluentem inciderit 
+      ani<lb ed="#H" n="73" break="no"/>mam, mollem restringit &amp; flaccidam: &amp; si in asperam, levigat 
+      duri<lb ed="#H" n="74" break="no"/>tiem. Si sit lepidus ac facetus, nec sit gravis ac molestus, nec rursus 
+      <lb ed="#H" n="75"/>mollis, sed &amp; austeritatem habeat &amp; uvoluptatem. Nam &amp; si sit 
+      supri<lb ed="#H" n="76" break="no"/>modum austerus, magis laedit quam prodest. Sin autem sit supra 
+      mo<lb ed="#H" n="77" break="no"/>dum lepidus &amp; urbanus, magis est molestus, quam iuvat. Quamobrem 
+      <lb ed="#H" n="78"/>oportet ubique esse modum. 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e185">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Taciturnitas necessitatis, est quum silemus coram iis, coram 
+      qui<lb ed="#H" n="80" break="no"/>bus aliqua loqui non expedit, ut quum a Deo prohibitum, vel 
+      peri<lb ed="#H" n="81" break="no"/>culosum vel infructuosum, vel quum citra laesionem gloriae Dei 
+      <lb ed="#H" n="82"/>&amp; nostrae conscientiae reticemus res arcanas, inprimis fidei nostra 
+      <lb ed="#H" n="83"/>concreditas, ne in perniciem nostram vel aliorum unquam divulo 
+      <lb ed="#H" n="84"/>gentur, vel saltem donec tempus sit ea retegendi. Exemplo est Samuel 
+      <lb ed="#H" n="85"/>veniens Baethlchemum, &amp; interrogatus de causa adventus, non 
+      apo<lb ed="#H" n="86" break="no"/>tuit praecipuam sui adventus causam apud cives, sed eam dissimulavit.  
+      <!--cod-MkL9py-0709.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="87"/>jussu Dei, 1. Sam. 16. Sic Apostoli &amp; alii Christiani de mysterio salu 
+      <lb ed="#H" n="88"/>cis non loquuti sunt coram quibusvis; atque etiamnum de iis non 
+      lo<lb ed="#H" n="89" break="no"/>quendum coram quibusvis, quia fert mandatum Christi, Matth. 7. v. 
+      <lb ed="#H" n="90"/>6. Paulus &amp; Silas prohibiti sunt a Spiritu Sancto loqui sermonem 
+      <lb ed="#H" n="91"/>Dei in Asia Actor. 16. v. 6. Sic de forma administrationis Reipublis. 
+      <lb ed="#H" n="92"/>non conquerendum apud quovis, ut monet Eccles. 10 v. 17. Ne 
+      qui<lb ed="#H" n="93" break="no"/>dem in conscientia tua regi maledicito, &amp; in concinibus cubilis 
+      tau<lb ed="#H" n="94" break="no"/>ne maledicito diviti, nam vel avis coelorum perferris vocem illam 
+      <lb ed="#H" n="95"/>&amp; ales indicaret verbum Mich. 7. 5. Ne creditote amico, ne 
+      considi<lb ed="#H" n="96" break="no"/>tote duci: ab ea quae cubat in sinu tua, observa fores oris tui. 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e233">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>Eaque adhibenda maxime in retinendis in corde nostro arcants 
+      <lb ed="#H" n="98"/>nobis concreditis, item in dissimulandis erratis atque peccatis 
+      pro<lb ed="#H" n="99" break="no"/>ximi¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e244">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Taciturnitati studendum: 
+      <lb ed="#H" n="101"/>I. Quia est mandata divinitus, Prov. 23. 9. Audiente stolido ne 
+      <lb ed="#H" n="102"/>loquaris: nam spernet te cum prudentia dictorum tuorum, Matth. 7. 
+      <lb ed="#H" n="103"/>6. Ne date quod sanctum est canibus, ne proiicite margaritas vestra 
+      <lb ed="#H" n="104"/>coram procis: ne quando conculcent eas pedibus suis, &amp; conversi 
+      lace<lb ed="#H" n="105" break="no"/>rent vos: 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e262">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>II. Quia est signum intelligentis animi, Prov. 10. 19. Cohibet 
+      la<lb ed="#H" n="107" break="no"/>bia sua intelligens. 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e271">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>III. Quia ejus exemplo Christus Dominus noster nobis praeivit. 
+      <lb ed="#H" n="109"/>IV. Quia fuit in sanctis Deoque probatis hominibus, ut in Nec 
+      <lb ed="#H" n="110"/>hemia qui non indicavit cuiquam, quid Deus indidisset animo ejus 
+      <lb ed="#H" n="111"/>ad faciendum Jerosolymis, Nechem. 2, 12. 16. 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e284">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Diversum est a Taciturnitate silentium patientiae, dum taciti 
+      ac<lb ed="#H" n="113" break="no"/>quiescimus judiciis Dei, de quo Amos. 5. 13. Idcirco intelligens tepore 
+      <lb ed="#H" n="114"/>illo silebit, quum tempus mali erit 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e296">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Contraria est ei loquacitas seu garrulitas, ac illa praesertim qua 
+      <lb ed="#H" n="116"/>infamia effertur proximi, vel arcana cocredita propalantur, vel 
+      alio<lb ed="#H" n="117" break="no"/>quin tacenda proferuntur.  
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e307">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Est procul pellenda: I. Quia prohibita est a Deo. 
+      <lb ed="#H" n="119"/>II. Quia est documentum stoliditatis, Prov. 10, 18. Qui profert 
+      <lb ed="#H" n="120"/>infamiam, est stolidus 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e318">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>III. Quia est occasio multorum peccatorum, Prov. 10. 19. 
+      Mul<lb ed="#H" n="122" break="no"/>titudine verborum non cessabit defectio¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e327">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Species garrulitatis est proditio seu propalatio arcanorum 
+      <lb ed="#H" n="124"/>Disparatur ab eadem silentium intempestivum &amp; impium, qui  
+      <lb ed="#H" n="125"/>quis silet tum, quum loquendum erat ad Dei gloriam &amp; aliorum 
+      ae<lb ed="#H" n="126" break="no"/>dificationem seu conservationem, &amp; avertendam ab innocentibus. 
+      <lb ed="#H" n="127"/>injuriam. 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e343">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>Est cavendum sedulo. I. Quia a Deo prohibitum est, Ezech. 24. 
+      <lb ed="#H" n="129"/>v. 27. Prov. 24. 11, a declinantibus ad necem an cohiberes te? Actor. 
+      <lb ed="#H" n="130"/>18. 9. Dixit Dominus nocte per visionem Paulo, Ne metue, sed 
+      loque<lb ed="#H" n="131" break="no"/>re; &amp; ne tacueris 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e356">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>II. Quia displicet Christo, ejusque iram provocat, Marc. 3. ver. 
+      <lb ed="#H" n="133"/>sic. 4, 5. 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e366">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>III. Quia etiam in Gentilibus reprehenditur, ut in Gallione 
+      <lb ed="#H" n="135"/>Actor. 18. v. 17. 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e375">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>Disparatur ab eadem silentium ex haesitatione ortum: quale fuit, 
+      <lb ed="#H" n="137"/>Israelitatum 1. Reg. 18. v. 21. 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e384">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>Disparatur ab eadem silentium hypocriticum, quum quis 
+      conti<lb ed="#H" n="139" break="no"/>nue tacet propterea quod existimet in continuo silentio cultum Dei 
+      <lb ed="#H" n="140"/>esse positum: Cujusmodi erat silentium Pattalorinchitatum, de 
+      qui<lb ed="#H" n="141" break="no"/>bus Augustinus de haeresibus ad Quodvult Deum capite 
+      sexagesi<lb ed="#H" n="142" break="no"/>mo tertio. 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e400">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Praeterea ab eadem disparatur silentium coactum, quale est eorum 
+      <lb ed="#H" n="144"/>qui veritatem oopugnantes &amp; innocentibus insidiantes, vi veritatis 
+      <lb ed="#H" n="145"/>victi ad metam silentii adiguntur: e quo numero fuerunt insidiatores 
+      <lb ed="#H" n="146"/>qui missi a Sacerdotibus &amp; scribis ad Jesum proposuerunt ei 
+      quaestio<lb ed="#H" n="147" break="no"/>nem de censu an Caesari dandus esset, sed constricti responso 
+      Christi<lb ed="#H" n="148" break="no"/>filuerunt, Luc. 20. 26. 
+      <lb ed="#H" n="149"/>Disparatur denique ab eadem silentium impositum poenae loco: 
+      <lb ed="#H" n="150"/>quale erat silentium Zachariae Sacerdoris patris Johannis Baptistae, 
+      <lb ed="#H" n="151"/>Luc. 1. 
+      <lb ed="#H" n="152"/>Haec de virtute moderante sermonem: sequitur de vir¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd1688-d1e426">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>tute moderante externos mores &amp; gestus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

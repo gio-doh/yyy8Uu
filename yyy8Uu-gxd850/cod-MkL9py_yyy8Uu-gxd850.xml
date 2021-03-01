@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd850"><!-- l7-c8 -->
+            <head xml:id="yyy8Uu-gxd850-Hd1e103">Caput 8</head>
+            <p xml:id="yyy8Uu-gxd850-d1e106">
+               <lb ed="#H" n="154"/>CAPUT VIII. 
+      <lb ed="#H" n="155"/>In quo de notis purae atque orthodoxae Ecclesiae.
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e113">
+               <lb ed="#H" n="156"/>ECCLESIA particularis, est pars Ecclesiae Catholicae, nempo 
+      <lb ed="#H" n="157"/>quivis coetus unius gentis, aut civitatis, aut pagi, aut domus, aut 
+      <lb ed="#H" n="158"/>cujuscunque denique particularis loci, Christum colens. Undo 
+      <lb ed="#H" n="159"/>&amp; quilibet coetus Christianorum vocatur Ecclesia Dei, sic ut cum 
+      u<lb ed="#H" n="160" break="no"/>na sit Ecclesia Catholica, particulares tamen Ecclesiae sint multae, 1 
+      <lb ed="#H" n="161"/>Thessal. 2. v. 14. qualis Ecclesia fuit Israelitica, Judaica, 
+      Jerosolymi<lb ed="#H" n="162" break="no"/>tana, Corinthiaca, Galatica &amp; qualis hodie est in quacunque 
+      Chri<lb ed="#H" n="163" break="no"/>tianitatis regione, gente, civitate, pago, domo, &amp;c. Nam &amp; 
+      domesti<lb ed="#H" n="164" break="no"/>cae Ecclesiae meminit Paulus, Rom. 16. 7. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e135">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Haec Ecclesia quatenus externam religionis professionem 
+      exter<lb ed="#H" n="166" break="no"/>numque religionis exercitium habet, visibilis est: ejusque membra 
+      <lb ed="#H" n="167"/>alii sunt proprie, alii aequivoce 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e146">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Proprie sunt ejus membra homines ad vitam aeternam electi &amp; 
+      ef<lb ed="#H" n="169" break="no"/>ficaciter vocati, qui non solum materialiter in externa societate 
+      Ec<lb ed="#H" n="170" break="no"/>clesiae sunt: sed etiam formaliter atque intrinsecus ex ea sunt Christo 
+      <lb ed="#H" n="171"/>per Spiritum Sanctum ac veram vivamque fidem aliisque electis ac 
+      <lb ed="#H" n="172"/>vitam aeternam communione cum Christo uniti. Idcirco propter 
+      e<lb ed="#H" n="173" break="no"/>lectos ad vitam aeternam efficaciter vocatos quaelibet Ecclesia 
+      parti<lb ed="#H" n="174" break="no"/>cularis est proprie Ecclesia Dei. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e167">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>Equivoce vero &amp; improprie dicuntur ejus membra, qui 
+      materia<lb ed="#H" n="176" break="no"/>liter solum in Ecclesia sunt, &amp; de Ecclesia dicuntur, licet formam non 
+      <!--cod-MkL9py-0562.xml-->
+      <pb ed="#H" n="533"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>A lumnam fidei nostrae futurum; ut loquitur IRENAEUS libro tertio 
+      <lb ed="#H" n="2"/>sentiuntur, sed tamen sunt vel hypocritae &amp; occulte infideles, vel 
+      ma<lb ed="#H" n="3" break="no"/>nifeste impie vivunt absque resipiscentia, illique vere fidelibus 
+      admi<lb ed="#H" n="4" break="no"/>sti sunt &amp; erunt usque ad novissimum diem, I. Johan. 2. 19. E nobis 
+      e<lb ed="#H" n="5" break="no"/>gressi sunt, sed non erant ex nobis: nam si fuissent ex nobis, permansis. 
+      <lb ed="#H" n="6"/>sent utique nobiscum: sed egressi sunt ex nobis, ut patefieret, non omne 
+      <lb ed="#H" n="7"/>esse ex nobis. Johan. 6. 70. 71. Respondit Iesus: Nonne ego vos duode 
+      <lb ed="#H" n="8"/>cim elegii &amp; tamen unus ex vobis est diabolus. Loquebatur autem 
+      di<lb ed="#H" n="9" break="no"/>Iuda Simonis filio Iscariota: futurum enim erat ut hic proderet eum, 
+      <lb ed="#H" n="10"/>quum esset unus ex illis duodecim. Matth. 13. idem docet Christus 
+      <lb ed="#H" n="11"/>parabolam seminantis &amp; gizaniorum 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e206">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Ideo Ecclesia quaelibet particularis comparatur aedificio habenti 
+      <lb ed="#H" n="13"/>pro fundamento Jesum Christum, super quod fundamentum 
+      mini<lb ed="#H" n="14" break="no"/>stri verbi Dei superaedificant aurum, argentum, lapides pretiosos, 
+      li<lb ed="#H" n="15" break="no"/>gna, foenum, stipulam, I. Cor. 3. v. 9, 10, 11, 12. id est, adducunt ad 
+      Ec<lb ed="#H" n="16" break="no"/>clesiam non tantum illos qui in persequutionibus constantes manent 
+      <lb ed="#H" n="17"/>instar auti, argenti &amp; lapidum pretiosorum: sed etiam illos qui in 
+      per<lb ed="#H" n="18" break="no"/>sequutionibus non manent constantes, sed deficiunt a Christo, sunt 
+      <lb ed="#H" n="19"/>que velut ligna, foenum, stipula quae in igne exuruntur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e228">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Ecclesia particularis est primo vel pura, vel impura 
+      <lb ed="#H" n="21"/>Ecclesia pura, est coetus qui veram religionem habet incorrupta 
+      <lb ed="#H" n="22"/>Haec etiam orthodoxa Ecclesia dicitur: Qualis erat Israelitatum 
+      tem<lb ed="#H" n="23" break="no"/>pore Davidis Regis Psalm. 111. 1. Christianorum Jerosolymis 
+      Apo<lb ed="#H" n="24" break="no"/>stolorum tempore: qualis vetus Romana Pauli tempore. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e244">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Ea licet loci respectu universalis &amp; Catholica dici proprie non 
+      <lb ed="#H" n="26"/>possit: tamen quia Catholicam profitetur fidem, id est, quam univer 
+      <lb ed="#H" n="27"/>si Prophetae &amp; Apostoli tradiderunt &amp; omnes vere fideles semperter 
+      <lb ed="#H" n="28"/>nuerunt: idcirco apud Patres vocatur Catholica. Patres enim 
+      Ca<lb ed="#H" n="29" break="no"/>tholicas dixere omnes illas Ecclesias, quae Catholicam 
+      profiteban<lb ed="#H" n="30" break="no"/>tur fidem. Et omnes illos vocarunt bonos Catholicos, qui fidem 
+      Ca<lb ed="#H" n="31" break="no"/>tholicam sincere profitentur. Sunt enim Catholici duplices, boni &amp; 
+      <lb ed="#H" n="32"/>mali, ut distinguit Augustinus septimo tomo, libro quinto de 
+      Ba<lb ed="#H" n="33" break="no"/>ptismo contra Donatistas, capite ultimo, ubi malos Catholicos 
+      no<lb ed="#H" n="34" break="no"/>minat eos qui quidem gloriantur, se esse Catholicos, quum revera 
+      <lb ed="#H" n="35"/>haeretici sint  
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e273">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Frequetissime dicitur vera Ecclesia sed per Synecdochen. 
+      Omni<lb ed="#H" n="37" break="no"/>enim pura Ecclesia Dei est etiam vera: sed non omnis vera est 
+      conti<lb ed="#H" n="38" break="no"/>nuo pura: nisi verum &amp; purum pro eodem sumantur, ut saepissime fit, 
+      <lb ed="#H" n="39"/>Sicut omne purum autum est etiam verum, sed non omne autum est. 
+      <lb ed="#H" n="40"/>continuo purum: nam autum scoriis permixtum verum quidem 
+      au<lb ed="#H" n="41" break="no"/>rum est, sed nondum purum, donec a scoriis separetur. Leprosus 
+      ho<lb ed="#H" n="42" break="no"/>mo est quidem verus homo, sed non purus. Ita sicut leprosus home 
+      <lb ed="#H" n="43"/>est quidem verus homo, sed impurus: ita est Ecclesia Romana adhuc 
+      <lb ed="#H" n="44"/>quide Ecclesia Christiana, sed leprosa &amp; impurissima. Clarius dice 
+      <lb ed="#H" n="45"/>Ecclesia vera, ambigue dicitur; vel quatenus opponitur impurae, vel  
+      <lb ed="#H" n="46"/>quatenus opponitur falsae. Si Ecclesia vera dicitur quatenus 
+      opponi<lb ed="#H" n="47" break="no"/>tur impurae, tum idem est quod pura ac orthodoxa: Sin vero 
+      opponi<lb ed="#H" n="48" break="no"/>tur falsae ac proinde nulli Ecclesiae, non est idem quod pura: nam 
+      ten<lb ed="#H" n="49" break="no"/>pore nascentis &amp; in terra versantis Christi, Ecclesia Judaica erat vera 
+      <lb ed="#H" n="50"/>Dei Ecclesia, sed non erat pura: quia &amp; doctrina &amp; disciplina ejus erat 
+      <lb ed="#H" n="51"/>corrupta. Nisi haec distinguantur, sequetur, fuisse tempus aliquod quo 
+      <lb ed="#H" n="52"/>nulla vera Ecclesia Dei fuit in mundo, quod est absurdissimum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e315">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Ecclesiae purae &amp; orthodoxae sunt duae notae essentiales: doctrina 
+      <lb ed="#H" n="54"/>divina sana ac incorrupta, qualis in Scripturis vere Canonicis, 
+      juxta<lb ed="#H" n="55" break="no"/>mentem Spiritus Sancti intellectis, comprehensa est; &amp; disciplina 
+      di<lb ed="#H" n="56" break="no"/>vina, tum in Sacramentorum legitima administratione, tum in 
+      man<lb ed="#H" n="57" break="no"/>datorum divinorum quoad sincerum cultum religiosum solius Dei 
+      <lb ed="#H" n="58"/>&amp; quoad vitae sanctimoniam, obedientia. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e334">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Sanam doctrinam Christi. Prophetarum &amp; Apostolorum, esse  
+      <lb ed="#H" n="60"/>purae &amp; orthodoxae Ecclesiae Christi notam, ex certissimis hisce 
+      testi<lb ed="#H" n="61" break="no"/>moniis liquet, Johan. 8. 31. ait Christus: Si vos manseritis in sermone 
+      <lb ed="#H" n="62"/>meo, vere discipuli mei eritis. Et cognoscetis veritatem, &amp; veritas vos 
+      <lb ed="#H" n="63"/>in libertatem vindicabit.  
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e350">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Quicunque sunt vere discipuli Christi, ii sunt pura ac orthodoxa 
+      <lb ed="#H" n="65"/>Dei Ecclesia: At quicunque manent in sermone Christi, ii vere sunt,  
+      <lb ed="#H" n="66"/>discipuli Christi: Ergo quicunque manent in sermone Christi, ii sunt:  
+      <lb ed="#H" n="67"/>pura ac orthodoxa Ecclesia Dei. Johan. 8. 47. Qui ex Deo est, verba 
+      <lb ed="#H" n="68"/>Dei audit: propterea vos non auditis, quia ex Deo non estis. Quicunt 
+      <lb ed="#H" n="69"/>audiunt, ii ex Deo sunt: Ergo, &amp;c. Johan. 14. 23. Si quis diligit me, 
+      ser<lb ed="#H" n="70" break="no"/>monem meum servabit. Quicunque diligunt Christum, in sunt 
+      pura<lb ed="#H" n="71" break="no"/>Ecclesia Dei: At quicunque sermonem Christi servant, ii diligunt  
+      <lb ed="#H" n="72"/>Christum: Ergo quicunque sermonem Christi servant, ii sunt 
+      pura<lb ed="#H" n="73" break="no"/>Dei Ecclesiae 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e376">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Similiter Johannis 10. 27. Oves meae vocem meam audiunt, &amp; 
+      e<lb ed="#H" n="75" break="no"/>go eas agnosco &amp; sequuntur me. Quicunque sunt oves Christi, i 
+      <lb ed="#H" n="76"/>sunt pura Ecclesia Christi: At quicunque vocem Christi audiunt, ii  
+      <lb ed="#H" n="77"/>sunt oves Christi: Ergo, &amp;c. Et cap. 18. versic. 37. Quisquis est ex 
+      ve<lb ed="#H" n="78" break="no"/>ritate, audit vocem meam. Quicunque sunt ex veritate, ii sunt 
+      pura<lb ed="#H" n="79" break="no"/>Ecclesia Christi: At quicunque audiunt vocem Christi, sunt ex veri 
+      <lb ed="#H" n="80"/>tate: Ergo, &amp;c. De primis fidelibus die Pentecostes conversis dicitur 
+      <lb ed="#H" n="81"/>Actor. 2. 42. Perdurabant in doctrina Apostolorum. Si perdurantes 
+      <lb ed="#H" n="82"/>in doctrina Apostolorum sunt pura atque orthodoxa Ecclesia, tunc 
+      <lb ed="#H" n="83"/>profecto doctrina Apostelorum est nota essentialis purae atque 
+      or<lb ed="#H" n="84" break="no"/>thodoxae Ecclesiae: Antecedens verum est: Ergo &amp; consequens. Gala 
+      <lb ed="#H" n="85"/>3. 7. Qui ex fide sunt, illi sunt filij Abrahami; ac proinde Ecclesia Dei. 
+      <lb ed="#H" n="86"/>orthodoxa. Ephes. 2. 20. dicuntur concives sanctorum ac domestici 
+      <lb ed="#H" n="87"/>Dei, superstructi super fundamentum Apostolorum ac Prophetarum 
+      <lb ed="#H" n="88"/>cujus imus angularis lapis est ipse Iesus Christus 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e413">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Hoc vero fundamentum est Evangelium de JESUCHRISG 
+      <lb ed="#H" n="90"/>quod Apostoli &amp; Prophetae primum praedicarunt, postea autem per 
+      <lb ed="#H" n="91"/>Dei voluntate in Scripturis nobis tradiderunt, fundamentum &amp; co¬ 
+      <!--cod-MkL9py-0562.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>ceneant illius, id est, qui quidem de doctrina, professione externa as¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e431">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>adversus haereses, cap. primo. 1. Timoth. 3. 15. dicitur Ecclesia Dei 
+      vi<lb ed="#H" n="94" break="no"/>vi, columna &amp; stabilimentum veritatis 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e440">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Ergo conservatio veritatis seu verae doctrinae de Christo est 
+      cer<lb ed="#H" n="96" break="no"/>cissima nota Ecclesia Dei vivi. Omne enim id cujus columna &amp; 
+      sta<lb ed="#H" n="97" break="no"/>bilimentum est Ecclesia Dei, (id est, quod Deus deposuit in Ecclesia 
+      <lb ed="#H" n="98"/>velut in columna &amp; sustentaculo firmissimo &amp; proinde in sola 
+      Eccle<lb ed="#H" n="99" break="no"/>sia conservatur &amp; reperitur) est nota Ecclesiae Dei purae atque ortho: 
+      <lb ed="#H" n="100"/>doxae: At veritatis, hoc est, verae doctrinae de Deo, de Christo ac in 
+      <lb ed="#H" n="101"/>summa de rebus divinis, columna &amp; firmamentum est Ecclesia Dei: 
+      Er<lb ed="#H" n="102" break="no"/>go veritas illa est nota certissima purae atque orthodoxae Ecclesiae Dei: 
+      <lb ed="#H" n="103"/>2. Johan. 9. Quisquis transgreditur, nec manet in doctrina Christi, 
+      <lb ed="#H" n="104"/>Deum non habet: qui manet in doctrina Christi, hic &amp; Patrem &amp; 
+      <lb ed="#H" n="105"/>Filium habet: Quicunque Patrem &amp; Filium habent, ii sunt vera ad 
+      <lb ed="#H" n="106"/>tura Ecclesia Christi: At quicunque manent in doctrina Christi, ii &amp; 
+      <lb ed="#H" n="107"/>atrem &amp; Filium habent: Ergo quicunque manent in doctrina 
+      Chri<lb ed="#H" n="108" break="no"/>sti, ii sunt vera ac pura Ecclesia 
+      Christi<lb ed="#H" n="109" break="no"/>Caeterum per doctrinam divinam, per doctrinam Christi 
+      intelli<lb ed="#H" n="110" break="no"/>gimus veram orthodoxam &amp; Catholicam fidem, quam Prophetae &amp; 
+      <lb ed="#H" n="111"/>Apostoli tradiderunt &amp; in scriptis Ecclesiae reliquerunt, Martyres 
+      <lb ed="#H" n="112"/>roboraverunt, &amp; fideles nunc usque custodiunt. Nam sine quo 
+      Eccle<lb ed="#H" n="113" break="no"/>sia nullo modo esse potest, id certe vera est ejus nota: At sine fide 
+      Ec<lb ed="#H" n="114" break="no"/>clesia nullo modo esse potest. Ergo illa est vera Ecclesiae nota. Ubi 
+      au<lb ed="#H" n="115" break="no"/>tem vera fides est, ibi etiam verbum Dei esse necesse est, quod est 
+      fun<lb ed="#H" n="116" break="no"/>damentum unicum fidei: verum autem &amp; indubitatum verbum Dei, 
+      <lb ed="#H" n="117"/>est quod jam in Scriptura Prophetica atque Apostolica 
+      comprehen<lb ed="#H" n="118" break="no"/>sum est, 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e498">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Porro orthodoxa Ecclesia credit in unum Deum essentia, trinum 
+      <lb ed="#H" n="120"/>personis αμουσίοις, Patrem, Filium &amp; Spiritum Sanctum, &amp; Jesum 
+      <lb ed="#H" n="121"/>Christum credit esse verum Deum &amp; verum hominem in una 
+      perso<lb ed="#H" n="122" break="no"/>na &amp; duabus distinctis naturis. Hanc fidem tenentes sunt Christiant 
+      <lb ed="#H" n="123"/>Catholici, ut olim definiverunt pii Imperatores Codic. de Summa 
+      <lb ed="#H" n="124"/>Trinitate &amp; fide Catholica. I. Cunctos populos, &amp; l. 2. Nullus 
+      haere<lb ed="#H" n="125" break="no"/>ticus. S. Is autem. I. 5: Cum recta. §. Credentes. Quo pertinent etiam 
+      <lb ed="#H" n="126"/>sequentes aliquot constitutiones 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e520">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Eandem esse notam orthodoxae Ecclesiae clare quoque docuerunt  
+      <lb ed="#H" n="128"/>Patres: Hieronymus ait in Psalmum centesimum trigesimum 
+      ter<lb ed="#H" n="129" break="no"/>tium. Ecclesia non in parietibus consistit, sed in dogmatum veritate 
+      <lb ed="#H" n="130"/>Ecclesia ibi est ubi fides vera est. Chrysostomus in Matth. hom, 
+      sexta<lb ed="#H" n="131" break="no"/>Ubi est fides, illic est Ecclesia: ubi non estfides ibi non est Ecclesia. Et 
+      <lb ed="#H" n="132"/>mox: Ecclesia est Hierusalem, cujus fundamenta sunt posita super 
+      <lb ed="#H" n="133"/>montes Scripturarum. Et idem in Acta homilia triges. tertia. Quum 
+      <lb ed="#H" n="134"/>Scripturas accipimus &amp; illae sint simplices &amp; verae, facile tibi 
+      fueri<lb ed="#H" n="135" break="no"/>pudicare. Si quis illis censentit, Christianus est: si quis contra illas 
+      pu<lb ed="#H" n="136" break="no"/>gnat, procul est ab hoc Canone. Augustinus in Psalmum 
+      quinquages<lb ed="#H" n="137" break="no"/>septimum: Ubi enim latet Ecclesia Christi: ibi latet veritas Christi. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e549">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>Nazianzenus Oratione ad Arianos: Ubi sunt isti qui Ecclesiam 
+      <lb ed="#H" n="139"/>multitudine definiune: Hi habent vulgus, nos fidem: illi aurum &amp; 
+      <lb ed="#H" n="140"/>argentum, nos repurgatam fidei doctrinam. Isidorus Pelusiota epist 
+      <lb ed="#H" n="141"/>ducentes. quadrages. septima: Discat Eusebius Pelusiotarum 
+      Anti<lb ed="#H" n="142" break="no"/>stes, quid sit Ecclesia: est enim absurdissimum, &amp; perquam gravea 
+      <lb ed="#H" n="143"/>ipsum qui ista ignorat, in hac opinione versari, ut episcopum se esse 
+      <lb ed="#H" n="144"/>existimet. Nam quod sanctorum coetus, ex recta fide atque optime 
+      <lb ed="#H" n="145"/>pivendi ratione collectus, Ecclesia sit, inter eos constat, qui 
+      sapien<lb ed="#H" n="146" break="no"/>tiam degustarunt. JOH. DRIBDO, Theologus Lovaniensis, 
+      quan<lb ed="#H" n="147" break="no"/>tumvis Papista, lib. quarto de dogmatibus variis, &amp; libris 
+      apocry<lb ed="#H" n="148" break="no"/>his, cap. quarto ait; Ecclesiam quae nunc est, ex Scripturis 
+      cognosci<lb ed="#H" n="149" break="no"/>mus apud eos esse, ubi est doctrina quatuor Evangeliorum. 
+      Lactan<lb ed="#H" n="150" break="no"/>tius libro divinarum Institutionum quarto, qui est de vera sapientia, 
+      <lb ed="#H" n="151"/>cap. decimotertio: Ecclesia, quae est verum templum Dei, quod non in 
+      <lb ed="#H" n="152"/>arietibus est, sed in corde ac fide hominum, qui credunt in eum, a 
+      <lb ed="#H" n="153"/>vocantur fideles. Athanasius contra Arianos disputatione seu 
+      ora<lb ed="#H" n="154" break="no"/>tione secunda, pag. centes. triges. sexta: Quomodo de numero Ecclesiae 
+      <lb ed="#H" n="155"/>Catholica habeantur, qui Apostolicam fidem excusserunt? Hilarius 
+      <lb ed="#H" n="156"/>in Psalmum quinquagesimum primum: Est autem Dei domus 
+      secun<lb ed="#H" n="157" break="no"/>sum Apostolum Petrum Ecclesia, &amp; omnes fidei Evangelicae sectato 
+      <lb ed="#H" n="158"/>res. Basilius in primum caput Jesaiae: De ea Ecclesia quae contaminat 
+      <lb ed="#H" n="159"/>que ex Deo sunt, ii sunt orthodoxa Ecclesia Christi: At qui verba Dei 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e601">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Sacramentorum puritatem, &amp; dogmata impietatis disseminat, potest. 
+      <lb ed="#H" n="161"/>merito dici: Quomodo facta est meretrix, civitas fidelis 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e610">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Hactenus prima nota purae atque orthodoxae Eccle¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e617">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>siae Dei 
+      <lb ed="#H" n="164"/>Altera nota est disciplina divina in Sacramentorum divinitus 
+      in<lb ed="#H" n="165" break="no"/>stitutorum legitimo usu, in religioso cultu solius Dei, &amp; in vitae 
+      san<lb ed="#H" n="166" break="no"/>ctimonia Evangelio Christi conveniente 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e631">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Sacramentorum a solo Christo institutorum rectam 
+      usurpatio<lb ed="#H" n="168" break="no"/>nem, esse signum infallibile verae &amp; purae Ecclesiae Christi, haec 
+      testi<lb ed="#H" n="169" break="no"/>monia demonstrant. Matth. 28. 19. Euntes docete omnes gentes: 
+      ba<lb ed="#H" n="170" break="no"/>ptigantes eos in nomen Patris, &amp; Filij, &amp; Spiritus Sancti. Marc. 16. 
+      <lb ed="#H" n="171"/>5. Qui crediderit &amp; baptigatus fuerit, salvus erit. Actor. 2. 38. 
+      Ba<lb ed="#H" n="172" break="no"/>tizetur unusquisque vestrum in nomine Iesu Christi in remissionem 
+      <lb ed="#H" n="173"/>peccatorum. Actor. 17. 47. Et jussit eos baptizare in nomine Domine 
+      <lb ed="#H" n="174"/>Iesu Christi. Luc. 22. 19. de Sacra Coena ait Christus ipse: Hoc facito. 
+      <lb ed="#H" n="175"/>in mei commemorationem. Acto. 2. 42. Perseverabant autem in 
+      do<lb ed="#H" n="176" break="no"/>ctrina Apostolorum &amp; communicatione &amp; fractione panis &amp; 
+      ora<lb ed="#H" n="177" break="no"/>tionibus. Ex his testimoniis sic colligimus: Quicquid Christus in 
+      Ec<lb ed="#H" n="178" break="no"/>clesia sua usurpari praecepit usque ad finem mundi, illius rectus usus 
+      <lb ed="#H" n="179"/>est verae puraeque Ecclesiae Dei signum: At Sacramenta Baptismi &amp; 
+      <lb ed="#H" n="180"/>Coenae Sacrae Christus in Ecclesia sua usurpari praecepit usque ad 
+      fi<lb ed="#H" n="181" break="no"/>nem mundi: Ergo eorum rectus usus est verae puraeque Ecclesiae Dei 
+      <lb ed="#H" n="182"/>signum. Quicui, que faciunt, quod Christus in Ecclesia sua fieri 
+      prae<lb ed="#H" n="183" break="no"/>cepit, ii sunt puia seciesia Christi: At quicunque utuntur 
+      Sacramen<lb ed="#H" n="184" break="no"/>tis, secundum institutionem Christi, ii faciunt quod Christus in Ec¬ 
+      <!--cod-MkL9py-0563.xml-->
+      <pb ed="#H" n="534"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>clesia sua fieri praecepit, Matth. 28. 19. Quicquid testatur nos ad 
+      po<lb ed="#H" n="2" break="no"/>pulum &amp; familiam Christi pertinere, ejus rectus usus signum est 
+      ve<lb ed="#H" n="3" break="no"/>rae Ecclesiae Christi: At Sacramenta Baptismi &amp; Coenae Domini 
+      te<lb ed="#H" n="4" break="no"/>stantur nos ad populum &amp; familiam Christi pertinere. Propterea e 
+      <lb ed="#H" n="5"/>nim dicuntur sacramenta, item tesserae &amp; symbola, quia ut ex militat  
+      <lb ed="#H" n="6"/>sacramento, tessera ac symbolo cognoscuntur milites in legionem 
+      <lb ed="#H" n="7"/>adscripti: sic ex sacramentis istis cognoscuntur Christiani. In 
+      ba<lb ed="#H" n="8" break="no"/>tismo enim nomen Christo profitentur &amp; in populum ejus 
+      adscri<lb ed="#H" n="9" break="no"/>buntur: &amp; in Bucharistia pasti, se ad Christi familiam pertinere 
+      osten<lb ed="#H" n="10" break="no"/>dunt. Sicut in veteri testamento Ecclesiae Dei symbola erant circum. 
+      <lb ed="#H" n="11"/>cisio &amp; esus Agni Paschalis, quibus Israelitae ab aliis populis 
+      discer<lb ed="#H" n="12" break="no"/>nebantur: ita &amp; in novo testamento sunt Baptismus &amp; Coena 
+      Domi<lb ed="#H" n="13" break="no"/>ni symbola, quibro Christiani ab aliis dignoscuntur. Quo Apostolis 
+      <lb ed="#H" n="14"/>ca Ecclesia ab aliis internoscebatur, id certe est signum verae 
+      Eccle<lb ed="#H" n="15" break="no"/>siae Christi: Atqui Sacramentorum Baptismi &amp; Coenae Domini 
+      u<lb ed="#H" n="16" break="no"/>surpatione Apostolica Ecclesia ab aliis dignoscebatur, Actor. 2. 42. 
+      <lb ed="#H" n="17"/>Quicunque salvi erunt, ii sunt vera ac pura Ecclesia Dei: At quicunque  
+      <lb ed="#H" n="18"/>credunt &amp; baptizati sunt, salvi erunt, Marc. 16. v. 6. Tit. 3. 5. 1. Petr. 3. 
+      <lb ed="#H" n="19"/>vers. 21. Ergo quicunque credunt &amp; baptigzati sunt, vera ac pura 
+      Eccle<lb ed="#H" n="20" break="no"/>sia Dei sunt. Nec aliud statuendum de Coena Domini, ab adultis &amp; 
+      <lb ed="#H" n="21"/>baptizatis fidelibus celebranda: sicut Concilium Agathense ait cap. 
+      <lb ed="#H" n="22"/>18. Seculares qui in Natali Domini. Pascha &amp; Pentecoste non 
+      com<lb ed="#H" n="23" break="no"/>municaverint, Catholici non credantur, nec inter Catholicos 
+      habe<lb ed="#H" n="24" break="no"/>antur. Citatur in Jure Canonico Distinct. secunda de Consecratio 
+      <lb ed="#H" n="25"/>ne, cap. Seculares. 15. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e735">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>Solum illum cultum religiosum, qui verbo Dei mandatus est, esse 
+      <lb ed="#H" n="27"/>indubitatum verae &amp; purae Ecclesiae Dei signum, evincunt haec testi 
+      <lb ed="#H" n="28"/>monia. Johan. 4. v. 23. Veri adoratores adorabunt Patrem Spiritu ad 
+      <lb ed="#H" n="29"/>veritate: etenim Pater tales quaerit qui ipsum adorent Deus est 
+      Spi<lb ed="#H" n="30" break="no"/>itus: &amp; qui adorant eum, oportet ut Spiritu ac veritate adorent. 
+      <lb ed="#H" n="31"/>Matth. 18. v. 19. 20. Si duo ex vobis consenserint in terra, de omni 
+      re<lb ed="#H" n="32" break="no"/>quam petierint, fiet eis a Patre meo, qui in caelis est. Ubi enim sunt 
+      <lb ed="#H" n="33"/>duo vel tres coacti in nomine meo, illic sum in medio eorum. Actor: 
+      <lb ed="#H" n="34"/>v. 42. Perdurabant autem in doctrina Apostolorum, &amp; communto 
+      <lb ed="#H" n="35"/>catione &amp; fractione panis ac precibus. Actor. 9. v. 14. veri 
+      Christiani<lb ed="#H" n="36" break="no"/>describuntur qui invocant nomen Christi. Ezech. 20. v. 18. 19. In 
+      sta<lb ed="#H" n="37" break="no"/>tutis patrum vestrorum ne ambuletis: Ego sum Iehova Deus vester. 
+      <lb ed="#H" n="38"/>in statutis meis ambulate, ac jura mea observate &amp; facite ea. Si illi, 
+      <lb ed="#H" n="39"/>sunt veri Christiani, qui sunt veri adoratores Patris, qui in nomineo 
+      <lb ed="#H" n="40"/>Christi convenientes Patrem invocant, qui nomen Christi invocant,  
+      <lb ed="#H" n="41"/>qui perdurant in precibus: tum certe verae &amp; orthodoxae Ecclesiae 
+      <lb ed="#H" n="42"/>nota est cultus religiosus, Verbo Dei praescriptus. Verum esse 
+      an<lb ed="#H" n="43" break="no"/>tecedens testimonia allegata ostendunt: Verum igitur est &amp; 
+      conse<lb ed="#H" n="44" break="no"/>quens. Cere quicunque sunt veri adoratores Dei, u sunt vera ac 
+      pura<lb ed="#H" n="45" break="no"/>Ecclesia Dei, 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e783">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>jam qui solum Deum invocant spiritu &amp; veritate, ii sunt veri ado 
+      <lb ed="#H" n="47"/>ratores Dei: Ergo, &amp;c. Quicunque faciunt id quod Deus a vera ad 
+      <lb ed="#H" n="48"/>pura Ecclesia requirit, ii sunt vera atque pura Ecclesia Dei: Jam qui 
+      <lb ed="#H" n="49"/>solum DEUM adorant eique soli serviunt, ii faciunt id quod Deus a 
+      <lb ed="#H" n="50"/>vera ac pura Ecclesia requirit: Dominum Deum tuum adorabis, &amp; 
+      <lb ed="#H" n="51"/>illi Soli servies, nimirum cultu religioso, Deut. 4. Matth. 4. ut in Vula 
+      <lb ed="#H" n="52"/>gata versione Latina recte habetur. Ergo illi sunt vera atque pura 
+      <lb ed="#H" n="53"/>Ecclesia Dei. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e805">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Consentiunt Patres; Lactantius divinarum Institutionum lib. 4. 
+      <lb ed="#H" n="55"/>qui est de vera sapientia, cap. 30. ait: Sola igitur Catholica Ecclesia 
+      es<lb ed="#H" n="56" break="no"/>quae verum cultum retinet. Hic est fons veritatis, hoc est domicilium 
+      <lb ed="#H" n="57"/>fidei, hoc templum Dei: quod si quis non intraverit, vel a quo si qui-  
+      <lb ed="#H" n="58"/>exiverit, a spe vitae ac salutis aeternae alienus est. Augustinus primo 
+      <lb ed="#H" n="59"/>tomo, lib. 1. de moribus Ecclesiae Catholicae, c. triges. Merito 
+      Ecclesi<lb ed="#H" n="60" break="no"/>Catholica, mater Christianorum verissima, non solum ipsum Deum, 
+      <lb ed="#H" n="61"/>cujus adeptio vita est beatissima, purissime atque castissime colendum 
+      <lb ed="#H" n="62"/>praedicas, nullam nobis adorandam creaturam inducens, cui servire. 
+      <lb ed="#H" n="63"/>jubeamur, &amp; ab illa incorrupta &amp; inviolabili aeternitate, cui soli 
+      ho<lb ed="#H" n="64" break="no"/>mo subiiciendus, cui soli rationalis anima cohaerendo non misera es: 
+      <lb ed="#H" n="65"/>excludens omne quod factum est, quod obnoxium commutationi, quod  
+      <lb ed="#H" n="66"/>subditum tempori, neque confundens, quod aeternitas, quod veritas, 
+      <lb ed="#H" n="67"/>quod denique pax ipsa distinguit, nec rursum separans quod majestas. 
+      <lb ed="#H" n="68"/>una conjungit, &amp;c. Idem enarratione Psalmi vigesimiprimi, 
+      exposi<lb ed="#H" n="69" break="no"/>tione secunda: Ubicunque timetur Deus &amp; laudatur: ibi est Ecclesia. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e844">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>Denique obedientiam in vitae &amp; morum integritate juxta 
+      volun<lb ed="#H" n="71" break="no"/>tatem &amp; verbum Dei declavatam, esse notam verae ac purae Ecclesiae 
+      <lb ed="#H" n="72"/>Dei, testimonia haec evincunt. Matt. 5. v. 3. &amp; sequentibus: Beati 
+      pau<lb ed="#H" n="73" break="no"/>peres spiritu: quoniam ipsorum est regnum coelorum. Beati qui luget: 
+      <lb ed="#H" n="74"/>quoniam ipsi solamen recipient. Beati qui sunt mites: quoniam ipse 
+      <lb ed="#H" n="75"/>terram haereditario jure obtinebunt. Beati qui esuriunt &amp; sitiunt 
+      <lb ed="#H" n="76"/>justitiam: quoniam ipsi saturabuntur. Beati qui sunt misericordes 
+      <lb ed="#H" n="77"/>quoniam ipsis misericordia tribuetur. Beati qui sunt mundo corde 
+      <lb ed="#H" n="78"/>quoniam ipsi Deum videbunt. Beati qui sunt pacifici: quoniam filij. 
+      <lb ed="#H" n="79"/>Dei vocabuntur. Et cap. 7. v. 24, 25 Quisquis igitur audit ex me 
+      ser<lb ed="#H" n="80" break="no"/>mones istos, &amp; eos praestat, assimilabo eum viro prudenti, qui 
+      aedifica<lb ed="#H" n="81" break="no"/>vit domum suam super potram: Decidit autem nimbus &amp; venerunt. 
+      <lb ed="#H" n="82"/>dumina, &amp; fiaverunt venti, &amp; inciderunt domui illi: sed non cecidit 
+      <lb ed="#H" n="83"/>fundata enim fuerat super petram. Luc. 14. v. 26, 27. Si quis venit ad 
+      <lb ed="#H" n="84"/>me, &amp; non odit patrem suum &amp; matrem, &amp; uxorem &amp; liberos, &amp; 
+      <lb ed="#H" n="85"/>scutres &amp; sorores, atque adeo etiam animam suam, non potest esse meus. 
+      <lb ed="#H" n="86"/>discipulus. Et quisquis non portat crucem suam, &amp; sequitur me, non 
+      <lb ed="#H" n="87"/>potest esse meus discipulus. Johan. decimo tertio versic. trigesime 
+      <lb ed="#H" n="88"/>quinto. Ex hoc omnes cognoscent vos esse discipulos meos, si 
+      chari<lb ed="#H" n="89" break="no"/>tatem habueritis alii in alios. Johan. decimoquarto vers. 21. Qui 
+      te<lb ed="#H" n="90" break="no"/>net mandata mea, &amp; servat illa, is est qui diligit me. Joan. 15. vers 8. 
+      <lb ed="#H" n="91"/>In hac re glorificatus fuerit Pater meus, ut fructum multum 
+      adfera<lb ed="#H" n="92" break="no"/>tis: &amp; critis mei discipuli. Et vers. 14. Vos amici mei eritis, si feccritis: 
+      <!--cod-MkL9py-0563.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>quaecunque ego mando vobis. Gal. 5. 24. Quicunque sunt Christi, carnem 
+      <lb ed="#H" n="94"/>crucifixerunt cum affectibus &amp; concupiscentiis. 1. Johan. 1. vers. 6, 7. 
+      <lb ed="#H" n="95"/>Si dixerimus nos communionem habere cum eo, &amp; in tenebris 
+      incedi<lb ed="#H" n="96" break="no"/>mus, mentimur, nec sincere agimus. Quod si in luce incedimus, sicut,  
+      <lb ed="#H" n="97"/>ipse est in luce, communionem habemus cum eo mutuam. I. Johan. 2. 
+      <lb ed="#H" n="98"/>versic. 3, 4, 5. Per hoc scimus quod ipsum nobimus, si mandata ipsius 
+      <lb ed="#H" n="99"/>observamus. Qui dicit, novi eum, &amp; mandata ejus non servat; mens 
+      <lb ed="#H" n="100"/>dax est, &amp; in eo veritas non est: Qui autem serunt sermonem ejus, 
+      ve<lb ed="#H" n="101" break="no"/>re in hoc charitas Dei adimpleta est: per hoc scimus, nos in ipso esse 
+      <lb ed="#H" n="102"/>Qui dicit se in eo habitare, debet sicut ille incessit, incedere. Et 5. Joh. 
+      <lb ed="#H" n="103"/>1. versic. 18, 19. Filioli mei, ne diligamus verbo neque lingua, sed facti 
+      <lb ed="#H" n="104"/>&amp; veritate. Et per hoc cognoscimus nos ex veritate esse, &amp; ceram ipso  
+      <lb ed="#H" n="105"/>secura reddemus corda nostra. Ex his testimoniis argumentimur it 
+      <lb ed="#H" n="106"/>hunc modum: Quicunque sunt beati &amp; quorum est regnum crelorum, 
+      <lb ed="#H" n="107"/>ii certe sunt vera ac pura Ecclesia Dei: Jam quicunque humilitate, 
+      <lb ed="#H" n="108"/>mansuetudine, justitia, misericordia, mundicie cordis, &amp; aliis 
+      virtuti<lb ed="#H" n="109" break="no"/>bus condecorati sunt, quae in regeneratis a Spiritu Sancto 
+      efficiun<lb ed="#H" n="110" break="no"/>tur, qui faciunt voluntatem Patris coelestis, qui fundati sunt super 
+      pe<lb ed="#H" n="111" break="no"/>ram quae est Christus, illi sunt beati, illorum est regnum coelorum 
+      <lb ed="#H" n="112"/>Ergo illi sunt vera ac pura Ecclesia Christi. Quicunque sunt veri 
+      disci<lb ed="#H" n="113" break="no"/>puli &amp; amici Christi, illi sunt vera ac pura Ecclesia Dei: Jam vero qui 
+      <lb ed="#H" n="114"/>Christum ita amant, ut ejus causa etiam res in hoc mundo 
+      charissi<lb ed="#H" n="115" break="no"/>nas deserant, &amp; constanter patientiam sub cruce Christi causa 
+      pro<lb ed="#H" n="116" break="no"/>bant, qui alios diligunt quantumvis inimicos, qui mandata 
+      Christ<lb ed="#H" n="117" break="no"/>tenent &amp; servant illa, qui bona opera studiose faciunt ut Pater coele 
+      <lb ed="#H" n="118"/>stis glorificetur; ii sunt veri discipuli &amp; amici Christi: Ergo hi tales 
+      <lb ed="#H" n="119"/>sunt vera ac pura Ecclesia Dei. Quicunque sunt Christi &amp; 
+      communio<lb ed="#H" n="120" break="no"/>nem cum eo habent, illi profecto sunt vera ac pura Ecclesia Dei: At 
+      <lb ed="#H" n="121"/>ut impietates mundi fugiunt, in luce bonorum operum incedunt 
+      ex<lb ed="#H" n="122" break="no"/>emplo Christi, &amp; charitatem sedulo exercent; ii sunt Christi &amp; 
+      com<lb ed="#H" n="123" break="no"/>munionem cum eo habent: Ergo, &amp;c. Per quod scimus, quod Deum 
+      <lb ed="#H" n="124"/>novimus, per quod cognoscimus nos ex veritate esse, illud certe est 
+      <lb ed="#H" n="125"/>nota verae ac purae Ecclesiae Dei: At per observationem mandato. 
+      <lb ed="#H" n="126"/>rum Dei scimus quod Deum novimus &amp; quod ex veritate sumus: 
+      Ob<lb ed="#H" n="127" break="no"/>servatio igitur mandatorum Dei est nota verae ac purae Ecclesiae Dei. 
+      <lb ed="#H" n="128"/>Hanc vere Christianae Ecclesiae notam tradit M. Minucius Felix 
+      in<lb ed="#H" n="129" break="no"/>Octavio: Nos denique (inquit ad hominem Ethnicum) non notaculo 
+      <lb ed="#H" n="130"/>corporis, ut putatis, sed innocentiae ac modestiae signo facile dignosci 
+      <lb ed="#H" n="131"/>mus. Sic mutuo, quod doletis, amore diligimus, quoniam odisse non 
+      <lb ed="#H" n="132"/>novimus: sic nos, quod invidetis, Fratres vocamus, ut unius Dei pa¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e990">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>Haec sunt Ecclesiae Dei verae ac purae sacrisicia, quibus dignoscitur) 
+      <lb ed="#H" n="134"/>entis omnes, ut consortes fidei: ut spei cohaeredes. 
+      <lb ed="#H" n="135"/>ab infidelibus. Quaelibet enim vera ac pura Ecclesia Dei debet 
+      ne<lb ed="#H" n="136" break="no"/>cessario habere aliquod sacrificium sive unum, sive plura. Sicutautem p 
+      <lb ed="#H" n="137"/>in Sacramentorum legitima administratione recolitur memoria 
+      u<lb ed="#H" n="138" break="no"/>nici illius sacrificii propitiatorii quod Christus ipsemet Deo 
+      Patri<lb ed="#H" n="139" break="no"/>obtulit ad expianda peccata nostra: Ita sincero cultu Dei &amp; vita 
+      san<lb ed="#H" n="140" break="no"/>cta comprehenduntur etiam sacrificia Eucharistica quae Deo de 
+      <lb ed="#H" n="141"/>bentur &amp; offerenda sunt ex verbi divini praescripto. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1015">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>Quaecunque igitur Ecclesia habet vere divinam doctrinam, 
+      eam<lb ed="#H" n="143" break="no"/>que sanam &amp; incorruptam, qualis in Scripturis divinitus Canonicis 
+      <lb ed="#H" n="144"/>recte intellectis traditur; &amp; divinam disciplinam observat in 
+      Sacra<lb ed="#H" n="145" break="no"/>mentis, toto cultu solius Dei &amp; vita inculpata: illa est vere pura atque 
+      <lb ed="#H" n="146"/>prthodoxa. Et quia disciplina divina complectitur sacrificia; 
+      quaecun<lb ed="#H" n="147" break="no"/>que Ecclesia habet optima, verissima ac purissima sacrificia, ea quoqe 
+      <lb ed="#H" n="148"/>est bona, vera ac pura Ecclesia. Optimum vero verissimum atque 
+      pu<lb ed="#H" n="149" break="no"/>rissimum sacrificium propitiatorium pro peccatis nostris est illud 
+      <lb ed="#H" n="150"/>uod a Christo ipso oblatum est Deo Patri &amp; in cruce consumma. 
+      <lb ed="#H" n="151"/>um: &amp; sacrificia Eucharistica optima, verissima ac purissima sunt ipsa 
+      <lb ed="#H" n="152"/>Ecclesia quae se ipsam offert Deo quotidie, religiosae preces &amp; bona 
+      <lb ed="#H" n="153"/>opera illa, quae Deus in Scriptura Sacra a nobis requirit:  
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1046">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Hae notae in dignoscenda aliqua Ecclesia, an sit pura, non sunt 
+      se<lb ed="#H" n="155" break="no"/>parandae, sed conjungendae: nec enim ex una aliqua earum particula, 
+      <lb ed="#H" n="156"/>buta vitae sanctimonia, de Ecclesia aliqua judicandum, sed ex notia 
+      <lb ed="#H" n="157"/>conjunctis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1059">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Hae notae purae atque orthodoxae Ecclesiae sunt essentiales &amp; 
+      inse<lb ed="#H" n="159" break="no"/>parabiles a pura Ecclesia; quarum defensionem adversus Papistas 
+      <lb ed="#H" n="160"/>cum refutatione notarum verae Ecclesiae quas astruunt Papistae &amp; 
+      in<lb ed="#H" n="161" break="no"/>rimis Bellarminus, vide in libris nostris de notis Ecclesiae purae atque.  
+      <lb ed="#H" n="162"/>orthodoxae, separatim conscriptis: 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1075">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>Pura autem dupliciter dicitur vel tota &amp; absolute: vel maxima ex 
+      <lb ed="#H" n="164"/>parte &amp; secundum quid. Suntque notae verae Ecclesiae, sed quatenus 
+      <lb ed="#H" n="165"/>est pura. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1086">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Tum harum notarum finis est, ut ostendant, quae Ecclesia 
+      particu<lb ed="#H" n="167" break="no"/>aris sit pura, quo sciamus an nos ei adiungere &amp; sacris ejus 
+      commu<lb ed="#H" n="168" break="no"/>nicare debeamus. Nam Ecclesiae Dei purae conjunctos nos esse 
+      ne<lb ed="#H" n="169" break="no"/>cessarium nobis est. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1099">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>I. Quia ad ejus conjunctionem nos Deus vocat.  
+      <lb ed="#H" n="171"/>II. Quia in sola Ecclesia Dei est communio sanctorum, Psalm. 
+      <lb ed="#H" n="172"/>33. 1. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1111">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>III. Quia in sola Ecclesia Dei est salus aeterna. Psalm. 133. vers. 3. 
+      <lb ed="#H" n="174"/>Illic mandat Iehova benedictionem suam, vitam usque in saculum. 
+      <lb ed="#H" n="175"/>Actor. 2. versic. 47. Dominus autem addebat quotidiae Ecclesiae; qui  
+      <lb ed="#H" n="176"/>salvi fierent. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1124">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Ecclesia impura, est coetus in quo religio est corrupta 
+      <lb ed="#H" n="178"/>Eaque vel minus est impura, vel magis, vel impurissime 
+      <lb ed="#H" n="179"/>Quo enim minus deflectit a sinceritate doctrinae, &amp; disciplinae in 
+      <lb ed="#H" n="180"/>&amp; Sacramentis, cultu divino &amp; moribus, eo minus est impura: contra 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1137">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>quo magis ab illa sinceritate abscedit, eo est impurior.  
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1144">
+               <lb ed="#H" n="182"/>
+               <pc type="indent"/>Etsi igitur in coetu aliquo, vel in doctrina, vel in Sacramentorum 
+      <lb ed="#H" n="183"/>administratione, cultu DEI &amp; moribus vitii quippiam obrepat  
+      <!--cod-MkL9py-0564.xml-->
+      <pb ed="#H" n="535"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>tamen coetus in Ecclesia Dei esse non desinit, dummodo 
+      fundamen<lb ed="#H" n="2" break="no"/>tum retineat, quod est Christus. Quemadmodum Corinthiis &amp; 
+      Ga<lb ed="#H" n="3" break="no"/>latis non detrahit Paulus Ecclesiae Dei nomen, etsi falsa dogmata 
+      <lb ed="#H" n="4"/>ipud ipsos spargi coepissent, &amp; quidam dissolute viverent 
+      <lb ed="#H" n="5"/>Nec propter disciplinae Ecclesiasticae neglectum vel cessationem, 
+      <lb ed="#H" n="6"/>statim Ecclesia est neganda 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1173">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Adhaec, quum de notis Ecclesiae purae agimus, non loquimur de 
+      <lb ed="#H" n="8"/>singulis Ecclesiae membris dignoscendis an sint electi, nec ne: sed d 
+      <lb ed="#H" n="9"/>coetibus totis, an sint puri, vel secus, de toto Ecclesiae cujusque 
+      corpo<lb ed="#H" n="10" break="no"/>re, cujus sanitas non ex unius membri, sed ex majoris aut meliori 
+      <lb ed="#H" n="11"/>saltem partis habitu &amp; valetudine aestimatur. Non igitur obstat,  
+      <lb ed="#H" n="12"/>quod in externa Ecclesiae societate quidam &amp; interdum multi sunt, in 
+      <lb ed="#H" n="13"/>quibus haec non reperiantur, cum semper nonnulli vel a doctrina 
+      pu<lb ed="#H" n="14" break="no"/>blice recepta dissentiant, vel Sacramentis non utantur, vel male 
+      vi<lb ed="#H" n="15" break="no"/>vant. Nam sicut rempublicam aliquam non ex quibusdam vitiosis &amp; 
+      <lb ed="#H" n="16"/>perversis civibus, sed ex legibus &amp; sanioris partis moribus judicat 
+      <lb ed="#H" n="17"/>mus: Ita Ecclesia non ex quorundam erroribus, infirmitatibus, 
+      fla<lb ed="#H" n="18" break="no"/>gitiis, sed ex legibus illius &amp; melioris partis moribus aestimanda est, 
+      <lb ed="#H" n="19"/>quum verae atque orthodoxae Ecclesiae semper in hac vita admixt  
+      <lb ed="#H" n="20"/>sint zizania &amp; paleae. Ut Ecclesia Judaica in qua nemo audebat pa 
+      <lb ed="#H" n="21"/>lam de Jesu loqui quod esset Christus, erat adhuc Ecclesia Dei 
+      pro<lb ed="#H" n="22" break="no"/>ter paucos illos qui in Jesum credebant, quod esset Christus, Joh. 7. 
+      <lb ed="#H" n="23"/>Neque enim potest illa esse Ecclesia, quae universa aut a Verbo Dei 
+      <lb ed="#H" n="24"/>Prophetico &amp; Apostolico deficit, aut rectam disciplinam in Sacra 
+      <lb ed="#H" n="25"/>mentis reliquoque cultu divino &amp; moribus plane deserit: talis enim 
+      <lb ed="#H" n="26"/>populus tanquam desperata adultera plane a spirituali conjugio Dei, 
+      <lb ed="#H" n="27"/>discedit, ideo Deus illum dimittit &amp; dat ei libellum repudii, ut de 
+      tri<lb ed="#H" n="28" break="no"/>bubus decem Israeliticis Deus loquitur Jer. 3. v. 3. Quocirca 
+      Israeli<lb ed="#H" n="29" break="no"/>ticus populus tum desiit esse Ecclesia Dei. Talis est quilibet 
+      coetu<lb ed="#H" n="30" break="no"/>Mahumetanus, quia Christum non habet amplius pro sponso, 
+      Ca<lb ed="#H" n="31" break="no"/>pite &amp; Deo suo. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1232">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Hodierna Ecclesia Romana est adhuc Ecclesia Christi, sed 
+      omni<lb ed="#H" n="33" break="no"/>um impurissima, sed omnium corruptissima, ac prope animam agens, 
+      <lb ed="#H" n="34"/>quia est in ea adhuc Deus vocans, sunt in ea vocati &amp; vocatio, quae 
+      <lb ed="#H" n="35"/>Ecclesiam constituunt, quia aliquid adhuc doctrinae Christi retinet,  
+      <lb ed="#H" n="36"/>quamvis multis erroribus permistum: &amp; quia Christianismi 
+      tesse<lb ed="#H" n="37" break="no"/>tam Baptismum, quantumvis multis naevis ac maculis foedatum, in 
+      <lb ed="#H" n="38"/>sua substantiali forma retinet; tum quia adhuc retinet invocationem: 
+      <lb ed="#H" n="39"/>Christi Mediatoris aliquam: alioquin ii qui in Papatu sunt 
+      baptiza<lb ed="#H" n="40" break="no"/>ti, extra Ecclesiam Christi, ac proinde nec baptismo Christi fuissent 
+      <lb ed="#H" n="41"/>baptizati: Summa, Romana hodierna Ecclesia habet corrupta 
+      o<lb ed="#H" n="42" break="no"/>mnia, sed non omnino. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1262">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Quemadmodum olim Jerosolymitana, ita hodie Romana 
+      Eccle<lb ed="#H" n="44" break="no"/>sia est similis vineae, quam Christus citcummunivit, elapidavit, ge 
+      <lb ed="#H" n="45"/>nerosis vitibus consevit, &amp; in ea turrim exstruxit, &amp; torcular 
+      exci<lb ed="#H" n="46" break="no"/>dit; sed quae non avas, verum labruscas edit. Jesa. 5. vers. 1. &amp; 
+      sequen<lb ed="#H" n="47" break="no"/>tibus 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1278">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Discernenda enim est Ecclesia Romana ab Ecclesia Papana 
+      seu<lb ed="#H" n="49" break="no"/>Antichristi factione, quae in Romana Ecclesia praevalet, &amp; eos qui  
+      <lb ed="#H" n="50"/>purius Christum profitentur pati non vult, sed opprimere conatur,  
+      <lb ed="#H" n="51"/>ut sola obtinea. 
+      <lb ed="#H" n="52"/>Et, ut adhuc apertius distinguam, Romana Ecclesia vel collectivae 
+      <lb ed="#H" n="53"/>est, vel repraesentativa. 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1296">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Collectivam, esse Ecclesiam Christi, quamvis doctrina &amp; moribus 
+      <lb ed="#H" n="55"/>contaminatissimam, nos minime negamus simpliciter.  
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1305">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Repraesentativam vero, negamus Ecclesiam Christi esse, quia non 
+      <lb ed="#H" n="57"/>pascit, sed depascit &amp; deglubit: non ducit, sed seducit &amp; rapit gregem 
+      <lb ed="#H" n="58"/>mon institutione justa, sed violenta usurpatione 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1316">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Itaque Romanam Ecclesiam collectivam agnoscimus pro 
+      Eccle<lb ed="#H" n="60" break="no"/>sia Christi: repraesentativam negamus, quum sit illud corpus 
+      Pseu<lb ed="#H" n="61" break="no"/>doprophetae, qui in domum Dei involavit: 
+      <lb ed="#H" n="62"/>Romana Ecclesia vel proprie dicitur vel abusive. Proprie dicta est 
+      <lb ed="#H" n="63"/>coetus Christianorum Romae degentium, membrum corporis illius 
+      <lb ed="#H" n="64"/>Ecclesiae Christianae. Abusive autem Ecclesiam Romanam 
+      Pontifi<lb ed="#H" n="65" break="no"/>cii appellant Papam &amp; Cardinales aliosque primates Romae 
+      imperi<lb ed="#H" n="66" break="no"/>tantes. Romana Ecclesia proprie dicta, est adhac Ecclesia Christi, sed  
+      <lb ed="#H" n="67"/>impurissima: abusive autem dicta, non est Ecclesia Christi, sed tuber 
+      <lb ed="#H" n="68"/>illud pestilentissimum quod Ecclesiam inficit &amp; perdit 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1342">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Quo autem sanior &amp; purior est Ecclesia aliqua, eo libentius nos 
+    </p>
+            <p xml:id="yyy8Uu-gxd850-d1e1350">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>ti 
+      <lb ed="#H" n="71"/>Proinde quum hodierna Romana Ecclesia sit impurissima, Papa 
+      <lb ed="#H" n="72"/>na autem Ecclesia sit Babylon illa spiritualis, est omnino deserenda 
+      <lb ed="#H" n="73"/>sicut Spiritus Dei jubet Apoc. 18. 4. Exite ex ea popule mi; ne parti 
+      <lb ed="#H" n="74"/>cipes sitis peccatorum eius, &amp; ex plagis eius accipiatis 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

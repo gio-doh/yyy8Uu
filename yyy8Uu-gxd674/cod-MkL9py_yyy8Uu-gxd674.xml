@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 22</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 22</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd674"><!-- l7-c22 -->
+            <head xml:id="yyy8Uu-gxd674-Hd1e103">Caput 22</head>
+            <p xml:id="yyy8Uu-gxd674-d1e106">
+               <lb ed="#H" n="76"/>CAPUT XXII. 
+      <lb ed="#H" n="77"/>In quo de haereticis &amp; schismaticis.
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e113">
+               <lb ed="#H" n="78"/>ISSIMULATI hostes Christi &amp; Ecclesiae purae, sunt qui Christum 
+      <lb ed="#H" n="79"/>sub ipsius nomine oppugnant
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e120">
+               <lb ed="#H" n="80"/>Isti nominantur fatui Proverb. 9. 6. Relinquite fatuos, &amp; 
+      <lb ed="#H" n="81"/>vivite. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e127">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Veniunt in nomine suo Joh. 5. 43. hoc est, quaerunt suam propria 
+      <lb ed="#H" n="83"/>gloriam, non Dei, sicut dicitur Joh. 7. 18. Qui a semetipso loquitur  
+      <lb ed="#H" n="84"/>gloriam propriam quaerit.  
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e139">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>Suntque vel Antichristi, vel Pseudochristi. 
+      <lb ed="#H" n="86"/>Antichristi, sunt dissimulati hostes Christi, qui doctrinae Christi, 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e148">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>&amp; nam suadent apostasiam 
+      <lb ed="#H" n="88"/>cujus se sectatores profitentur, quoquo modo adversantur, 1. Joh. 2. 
+      <lb ed="#H" n="89"/>18, 22. &amp; cap. 4. v. 3. 2. Joh. v. 7. 
+      <!--cod-MkL9py-0577.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>Iidem dicuntur etiam Pseudoprophetae, Matt. 7. v. 15. &amp; lupi graves 
+      <lb ed="#H" n="91"/>sictor. 20. v 6. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e168">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>Antichristus est duplex: aut enim uni vel alteri tantum parti 
+      do<lb ed="#H" n="93" break="no"/>ctrinae Christiana; aut fere toti ejus corpori adversatur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e177">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>Prioris generis sunt omnes haeretici, 1. Joh. 2. v. 18. &amp; 2. ep. 
+      Jo<lb ed="#H" n="95" break="no"/>hannis vers. 7. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e186">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Haereticus, est antichristus qui dogma aliquod erroneum pugnans 
+      <lb ed="#H" n="97"/>cum sacris literis &amp; fidei aliquem articulum oppugnans atque 
+      con<lb ed="#H" n="98" break="no"/>vellens, quod sibi sive sponte sua sive aliena seductione delegit, 
+      qua<lb ed="#H" n="99" break="no"/>vis convictus autoritate verbi divini etiam in conscientia sua, 
+      volun<lb ed="#H" n="100" break="no"/>taria animi obfirmatione pertinaciter tuetur, Rom. 16. vers. 17, 18. 
+      <lb ed="#H" n="101"/>cap. haeresis. 24. q 3. Item I. 1. &amp; 2. C. de summa Trinit. &amp; Nov. 115. 
+      <lb ed="#H" n="102"/>cap. 3. §. 14. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e206">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Haereticum hominem igitur tria haec conjuncta faciunt: error, 
+      e<lb ed="#H" n="104" break="no"/>victio &amp; contumacia. Error autem non quivis haereticum facit, veluti 
+      <lb ed="#H" n="105"/>qui tantum attingit dogma aliquod inferius, non ita ad fidem 
+      pro<lb ed="#H" n="106" break="no"/>prie simpliciterque necessarium; talis enim error est hominis 
+      miser<lb ed="#H" n="107" break="no"/>in via a via aberrantis, sed retinentis caput ac proinde cadentis sue 
+      <lb ed="#H" n="108"/>Domino &amp; suo Domino surrecturi, potest enim Deus eum stabilire 
+      <lb ed="#H" n="109"/>ut Paulus Apostolus loquitur Rom. 14. v. 4. Quapropter etiam 
+      ho<lb ed="#H" n="110" break="no"/>minem tali errore praeoccupatum nec veritas haereticum &amp; 
+      Anti<lb ed="#H" n="111" break="no"/>christum vocat, nec debet charitas, nec Domini jubet autoritas Sed 
+      <lb ed="#H" n="112"/>error ille haereticum facit, qui praecipuo alicui dogmati fidei 
+      Chri<lb ed="#H" n="113" break="no"/>stianae seu articulo aliquo fidei aut pluribus contrarius est &amp; sic in 
+      do<lb ed="#H" n="114" break="no"/>ctrinae Christianae fundamentum impingit: Haeresis enim est proprie 
+      <lb ed="#H" n="115"/>in quaestionibus fidei 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e240">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>Deinde non omnis qui errat in fide, haereticus est; potest enim ex 
+      <lb ed="#H" n="117"/>simplicitate &amp; ignorantia errate in fide. Nec quisquis sic errat, ut 
+      ta<lb ed="#H" n="118" break="no"/>men veriora &amp; meliora docentem paratus sit audire &amp; veritati 
+      lo<lb ed="#H" n="119" break="no"/>cum dare; nec omnis qui semel aut bis erroris evictus est: sed quisqui  
+      <lb ed="#H" n="120"/>in errore demonstrato &amp; autoritate verbi Dei evicto, est contumax 
+      <lb ed="#H" n="121"/>&amp; in eo persistit. Insignis est locus Augustini secundo tomo, episto 
+      <lb ed="#H" n="122"/>la centesima sexagesimasecunda, quem operaepretium est huc 
+      adscri<lb ed="#H" n="123" break="no"/>bi: Dixit quidem Apostolus Paulus: Haereticum hominem post unam 
+      <lb ed="#H" n="124"/>correptionem devita, sciens quia subversus est ejusmodi, &amp; peccat, &amp; cs. 
+      <lb ed="#H" n="125"/>a semetipso damnatus. Sed qui sententiam suam, quamvis falsam ate 
+      <lb ed="#H" n="126"/>perversam nulla pertinaci animositate defendunt, praesertim quam non 
+      <lb ed="#H" n="127"/>audacia praesumtionis suae pepererunt, sed a seductis atque in errorem 
+      la<lb ed="#H" n="128" break="no"/>psis parentibus acceperunt, quaerunt autem cauta solicitudine verita 
+      <lb ed="#H" n="129"/>tem, corrigi parati cum invenerint, nequaquam sunt inter haereticos 
+      de<lb ed="#H" n="130" break="no"/>putandi. Tales ergo vos nisi esse crederem, nullas fortasse vobis literas 
+      <lb ed="#H" n="131"/>mitterem. Quanquam &amp; ipsum haereticum quamlibet odios a superbi. 
+      <lb ed="#H" n="132"/>tumidum &amp; pervicacia malae contentionis insanum, sicut vitandum 
+      <lb ed="#H" n="133"/>monemus, ne infirmos &amp; parvulos fallat ita non abnuimus 
+      quibus<lb ed="#H" n="134" break="no"/>cunque modis possimus corrigendum. Unde factum est, ut etiam ad 
+      non<lb ed="#H" n="135" break="no"/>nullos Donatistarum primarios scriberemus, non communicatorias 
+      li<lb ed="#H" n="136" break="no"/>teras, quas jam olim propter suam perversitatem ab unitate Catholite  
+      <lb ed="#H" n="137"/>quae toto orbe diffusa est non accipiunt, sed tales privatas, qualibus 
+      no<lb ed="#H" n="138" break="no"/>bis uti etiam ad paganos licet, quas illi etsi aliquando legerunt, 
+      respon<lb ed="#H" n="139" break="no"/>dere tamen eis sive noluerunt, sive ut magis creditur nequiverunt. 
+      Ubi<lb ed="#H" n="140" break="no"/>nobis satis visum est implevisse nos officium charitatis, quam non 
+      so<lb ed="#H" n="141" break="no"/>lum nostris sed &amp; omnibus nos debere Spiritus Sanctus docet, qui nobis 
+      <lb ed="#H" n="142"/>ait per Apostolum: Vos autem Dominus multiplicet, &amp; abundare 
+      fa<lb ed="#H" n="143" break="no"/>ciat in charitate, in invicem &amp; in omnes. Monet etiam alio loco, in 
+      mo<lb ed="#H" n="144" break="no"/>destia corripiendos diversa sentientes, si forte, inquit, det illis Deus 
+      po<lb ed="#H" n="145" break="no"/>nitentiam ad cognoscendam veritatem, &amp; resipiscant de diaboli laqueis 
+      <lb ed="#H" n="146"/>captivati ab ipso in ipsius uoluntatem. Haec prolocutus sum, ne quis 
+      me<lb ed="#H" n="147" break="no"/>existimet impudentius vobis quam prudentius scripta misisse, &amp; hoc  
+      <lb ed="#H" n="148"/>modo vobiscum de negotio animae vestrae aliquid agere voluisse, quia 
+      no<lb ed="#H" n="149" break="no"/>trae communionis non estis, cum tamen si de negotio fundi, aut alicujus 
+      <lb ed="#H" n="150"/>pecuniariae liuis dirimendae vobis aliquid scriberem, nemo fortasse repre 
+      <lb ed="#H" n="151"/>henderet Vsque adeo charus est hic mundus hominibus, ut sibimetipsi, 
+      <lb ed="#H" n="152"/>viluerint. Erit ergo mihi ad defensionem testis haec epistola in judicio Dei, 
+      <lb ed="#H" n="153"/>qui novit quo animo fecerim, &amp; qui dixit: Beati pacifici, quia ipsi filii  
+      <lb ed="#H" n="154"/>Dei vocabuntur. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e329">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Quapropter etiam non omnis error mentis in fide est haeresis, sed 
+      <lb ed="#H" n="156"/>qui autoritate verbi Dei demonstratus &amp; evictus, pertinaciter 
+      defen<lb ed="#H" n="157" break="no"/>situr. Est enim propria forma haereseos, error mentis voluntate 
+      per<lb ed="#H" n="158" break="no"/>tinaci confirmatus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e342">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>Porro haeretici distinguuntur variis modis pro ratione haeresium: 
+      <lb ed="#H" n="160"/>quibus infecti sunt. Aut enim totaliter a doctrina verae fidei discedunt, &amp; 
+      <lb ed="#H" n="161"/>ut Simoniani, Menandriani, Gnostici: aut ex parte solum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e353">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Qui ex parte solum tenentur haereseos aut in causa capitis errant 
+      <lb ed="#H" n="163"/>aut in causa corporis, aut in causa adjunctorum. In causa capitis erant, 
+      <lb ed="#H" n="164"/>qui caput &amp; arcem fidei subruere tentant, id est, fidem de Deo &amp; 
+      in<lb ed="#H" n="165" break="no"/>primis de Christo Servatore nostro oppugnant 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e366">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>In causa corporis errant, qui male de Ecclesia sentiunm 
+      <lb ed="#H" n="167"/>Qui in causa adjunctorum errant, ii aut errores de rebus 
+      necessa<lb ed="#H" n="168" break="no"/>tio adjunctis Capiti vel corpori mystico pertinaci animositate de 
+      <lb ed="#H" n="169"/>fendunt; aut de rebus non aeque necessariis: aut denique de rebus 
+      me<lb ed="#H" n="170" break="no"/>diis, in quibus plurimum imperiti &amp; simplices errate solent, ut de 
+      cir<lb ed="#H" n="171" break="no"/>cumstantiis, ritibus, ceremoniis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e384">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Rurium horum omnium alii plus, alii minus errorum habent: &amp; 
+      <lb ed="#H" n="173"/>in iisdem erroribus alii gravius, alii levius a veritate aberrant 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e394">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Postremo haereticorum alii sunt errantes solum: alii in errorem 
+      in<lb ed="#H" n="175" break="no"/>ducentes alios, aut saltem conantes inducere 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e403">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Frrantes aut privatim Deo &amp; sibi cadunt: aut publice erroris sui 
+      <lb ed="#H" n="177"/>professione &amp; demonstratione aliis sunt offendiculo 
+      <lb ed="#H" n="178"/>Seducentes vero aut ex parte in errorem tentant abducere: aut 
+      ple<lb ed="#H" n="179" break="no"/>Non igitur omnes errantes, sed qui a fundamento discedunt &amp; in 
+      er<lb ed="#H" n="180" break="no"/>rore demonstrato persistunt, pertinaciter ab Ecclesia Dei fiunt alieni. 
+      <!--cod-MkL9py-0578.xml-->
+      <pb ed="#H" n="549"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Ecclesiae hae et cae similiter aliae aliis gravius &amp; periculosius errat: 
+      <lb ed="#H" n="2"/>Quedam nuni to capite doctrinae Christianae, quaedam in pluribus. 
+      <lb ed="#H" n="3"/>ac rurius, quaedam in principali aliquo capite, quaedam in minus 
+      <lb ed="#H" n="4"/>principili¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e434">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Sin vero ab haeresi in ἀπισίαν demergantur, tum plane Ecclesiae 
+      <lb ed="#H" n="6"/>Christi esse desinunt. Id autem fit, ubi Christus caput Ecclesiae, Salva 
+      <lb ed="#H" n="7"/>tor &amp; Mediator non agnoscitur: ubi mediatio illa, quam Christus 
+      Ec<lb ed="#H" n="8" break="no"/>clesiam, ut jugulum corpori caput conjungit, abscilsa est, ac proinde 
+      <lb ed="#H" n="9"/>publite Christus illis Ecclesiis repudium edixit, quae in alterius 
+      nu<lb ed="#H" n="10" break="no"/>stum invocant, salutemque aeternam non amplius per Christum 
+      quae<lb ed="#H" n="11" break="no"/>runt. Etemplum est in Asiaticis Ecclesiis, quae passim a Nestoriana 
+      <lb ed="#H" n="12"/>haeresi ad Mahumeranam impietatem desciverunt, &amp; Christo relicto 
+      <lb ed="#H" n="13"/>in Mohumetis thorum transierunt:. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e458">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Hae retices esse mitandum non est: quia futuros Sacrae Scriptura 
+      <lb ed="#H" n="15"/>praenunciarunt. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e467">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Haereticos fidem quotundam subvertere minime minime mira 
+      <lb ed="#H" n="17"/>dum: quia haereses ad hoc sunt, ut fides habendo tentationem, habeat,  
+      <lb ed="#H" n="18"/>etiam probationem, Deut. 13. v. 3, 4. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e478">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Haereticus cum schismatico non est confundendus: nec omnis 
+      <lb ed="#H" n="20"/>schismaticus in numero haereticorum censendus. Etsi enim 
+      haereti<lb ed="#H" n="21" break="no"/>ci plerunqu fiunt schismatici, &amp; vicissim schismatici plurimum fiunt 
+      <lb ed="#H" n="22"/>haeretici tamen differunt haereticus &amp; schismatiuus. Nam primo 
+      hae<lb ed="#H" n="23" break="no"/>retici falsis dogmatibus sinceritatem fidei corrumpentes non semper 
+      <lb ed="#H" n="24"/>sese ab Ecclesi i scindunt: schismatici vero, interdum etiam fidei 
+      pu<lb ed="#H" n="25" break="no"/>ritatem retinentes sine haereseos labe, fraternae societatis vinculum 
+      <lb ed="#H" n="26"/>disrumpunt ambitione honoris aut functionis alicujus in qua sibi 
+      a<lb ed="#H" n="27" break="no"/>lium praelatum frre nolunt, aut odio &amp; impatientia ordinis divini &amp; 
+      <lb ed="#H" n="28"/>disciplinae Ecclesiasticae, aut praetextu scandalorum quae passim 
+      com<lb ed="#H" n="29" break="no"/>mittantur. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e508">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>cunno haeretici proprie in veritatem dogmatum fidei impingunt,  
+      <lb ed="#H" n="31"/>qua haeretici: schismatici vero in charitatem, qua schesmatici: 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e517">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Qui autem in veritatem fidei &amp; charitatem simul impingunt, &amp; 
+      er<lb ed="#H" n="33" break="no"/>rorem fidei pertinaciter tuentes sese ab Ecclesia Dei discindunt, ii 
+      si<lb ed="#H" n="34" break="no"/>mul haeretici &amp; schismatici sum 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e528">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>Persaepe usu venit, ut alii diversum ab aliis sentiant orthodoxi, 
+      ar<lb ed="#H" n="36" break="no"/>tamen siue schismate: ut Hieronymus &amp; Augustinus 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e537">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Schismatici aut se in totum ab Ecclesia scindunt: aut ex parte etiam 
+      <lb ed="#H" n="38"/>ab hac aut ab illa Ecclesia singularium offensionum nomine¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e546">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>E 
+      <lb ed="#H" n="40"/>haereticua est, no: qui alicujus loci Scripturae interpretationem 
+      hu<lb ed="#H" n="41" break="no"/>manam. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e557">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Porro haeretici fuerunt Sacerdotes Jerosolymitani tempore 
+      Jere<lb ed="#H" n="43" break="no"/>miae, Jer. 5. v. 30, 31. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e567">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Et deinceps diversi haeretici in populo Judaico fuerunt, 
+      nomina<lb ed="#H" n="45" break="no"/>tissim Scribi &amp; Pharisaei, Sadducaei &amp; Essai, qui spem Israelis &amp; 
+      ex<lb ed="#H" n="46" break="no"/>spectationem Messiae a Deo promissi profitendo Messiam tamen 
+      <lb ed="#H" n="47"/>exhibitum oppugnabant: de quibus praedictum fuit Zachar. 11. v. 8. 
+      <lb ed="#H" n="48"/>De his Flavius Iosephus libro duodevigesimo Antiquitatum Judai¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e583">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>I 
+      <lb ed="#H" n="50"/>quaedam commemorabimus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e592">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>SCRIBT &amp; PHARISEI, erant haeretici in populo Judaico &amp; 
+      <lb ed="#H" n="52"/>communia plera que doginata &amp; facta habebant. AEdificabant 
+      sepul<lb ed="#H" n="53" break="no"/>era Prophetarum &amp; ornabant monumenta justorum, ut legitur 
+      <lb ed="#H" n="54"/>Matth. 23 29. ligabant onera gravia difficiliaque portatu, &amp; 
+      impo<lb ed="#H" n="55" break="no"/>nebant in humeros hominum, digito autem suo nolebant ea 
+      move<lb ed="#H" n="56" break="no"/>re, Matth. 3. 4, omnia opera sua faciebant ut spectarentur ab 
+      homi<lb ed="#H" n="57" break="no"/>nibus Matth. 23 v. 5: dilatabant phylacteria sua &amp; producebant sime 
+      <lb ed="#H" n="58"/>brias palliorum suorum Matt. 23. v. 1, praecludebant regnum caelorum 
+      <lb ed="#H" n="59"/>hominibus: ipsi enim non introibant, &amp; volentes introire non 
+      <lb ed="#H" n="60"/>permittebant, Matth. 23. 13. Nam quum regni caelestis ostium 
+      aper<lb ed="#H" n="61" break="no"/>tum esset per praedicationem Evangelii ab ipso Christo, Scribae &amp; 
+      <lb ed="#H" n="62"/>Pharisei exsecrabili simulatione verae religionis decipientes alios &amp; 
+      se<lb ed="#H" n="63" break="no"/>ipsos, praecludebant ostium illud: &amp; nec ipsi in Christum credebant,  
+      <lb ed="#H" n="64"/>&amp; alios pedem habentes in limine, a fide Evangelii arcebant, tum 
+      si<lb ed="#H" n="65" break="no"/>nistra Scripturae Sacrae interpretatione, tum excommunicationis 
+      <lb ed="#H" n="66"/>comminatione &amp; terrore. Exedebant insuper domos viduarum 
+      <lb ed="#H" n="67"/>idque in speciem longis u entes precibus; circumibant mare &amp; 
+      ter<lb ed="#H" n="68" break="no"/>ram, ut facerent unum proselytum, &amp; cum erat factus, faciebant es 
+      <lb ed="#H" n="69"/>filium gehennae duplo magis quam ipsi erant, Matth. 23. ver. 14, 153 
+      <lb ed="#H" n="70"/>perperam de juramento sentiebant, quemadmodum Christus 
+      osten<lb ed="#H" n="71" break="no"/>dit Matth. 23. 2 v. 6. usque ad 233 decimabant mentham &amp; anethum 
+      <lb ed="#H" n="72"/>&amp; cuminum &amp; omittebant quae graviora sunt Legis, judicium &amp; 
+      <lb ed="#H" n="73"/>misericordiam ac fidem; percolabant culicem, camelum autem 
+      de<lb ed="#H" n="74" break="no"/>glutiebant, ut legitur Matth. 23. v. 23. 24. hoc est, in minutis 
+      cere<lb ed="#H" n="75" break="no"/>moniarum servandis erant anxii, praecipua Legis ex professo neglis 
+      <lb ed="#H" n="76"/>gebant: Purgabant exteriorem poculi patinaeque partem, intus autem 
+      <lb ed="#H" n="77"/>illa plena erant rapina &amp; intemperantia Matt. 23. v. 27, ceremonias 
+      <lb ed="#H" n="78"/>externas &amp; traditiones a patribus profectas solicite observabant  
+      <lb ed="#H" n="79"/>praecepta vero moralia Legis divinae secure contemnebant &amp; 
+      viola<lb ed="#H" n="80" break="no"/>bant. Calat. 1. vers. 14. Docetur id passim in Novo Testamento, vel 
+      <lb ed="#H" n="81"/>uti quum Jesus Sabbatho per sata iret, discipuli ejus esurichant, 
+      coe<lb ed="#H" n="82" break="no"/>peruntque vellere spicas &amp; comedere. Pharisaei vero quum hoc 
+      vi<lb ed="#H" n="83" break="no"/>dissent, dixerunt Jesu, Ecce discipuli tui faciunt, quod non licet 
+      <lb ed="#H" n="84"/>facere Sabbatho. Sic ceremoniis addicti charitatis officia pro ni 
+      <lb ed="#H" n="85"/>hilo ducebant, &amp; condemnabant innocentes, ut videre est Matti. 
+      <lb ed="#H" n="86"/>12. vers. 1 &amp; sequentibus. Iidem indignissime ferebant Christum 
+      sa<lb ed="#H" n="87" break="no"/>nare Sabbatho: sed pro peccato non ducebant, quod Sabbatho 
+      con<lb ed="#H" n="88" break="no"/>silium caperent adversus Jesum, ut eum perderent Matth. 12. v. 10. 8 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e679">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>&amp; 
+      <lb ed="#H" n="90"/>edehat, Ecclzebuli principi daemoniorum adscriberent Matth. 12. 
+      <lb ed="#H" n="91"/>versic. 24. Iidem accusabant discipulos Jesu, quod transgrederen¬ 
+      <!--cod-MkL9py-0578.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>tur traditionem seniorum, non lavantes manus suas, quum ederent 
+      <lb ed="#H" n="93"/>panem: at ipsimet secute &amp; impie irritum faciebant mandatum Dei, 
+      <lb ed="#H" n="94"/>per traditionem suam, ut pluribus explicatur Matt. 15. v. 1. &amp; sequen 
+      <lb ed="#H" n="95"/>tibus. Quum tradidissent Jesum Pilato, non ingressi sunt Praetorium, 
+      <lb ed="#H" n="96"/>ne immundi fierent, sed Pascha edere possent: interim Jesum 
+      innocen<lb ed="#H" n="97" break="no"/>em accusabant falso &amp; ad necem deposcebant. Persequutiones 
+      ad<lb ed="#H" n="98" break="no"/>versus Christi Apostolos &amp; alios Christianos excitabant ut Acta 
+      A<lb ed="#H" n="99" break="no"/>postolica passim testantur &amp; epistolae Paulinae. Adversus Christum 
+      <lb ed="#H" n="100"/>ptias &amp; thorum aperte convolarunt, &amp; Deum non amplius per Chri¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e714">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>concilia &amp; conventus celebrarunt: quod doceret &amp; se esse Christum 
+      <lb ed="#H" n="102"/>profiteretur, aegerrime tulerunt: ministros ad illum capie ndum 
+      mi<lb ed="#H" n="103" break="no"/>serunt, ut legitur Johan. 7. v. 32. Dies observabant &amp; menses &amp; 
+      prae<lb ed="#H" n="104" break="no"/>stituta tempora &amp; annos, &amp; cogebant fideles citcumcidi, Gal. 4. v. 10. 
+      <lb ed="#H" n="105"/>&amp; ca. 6 v. 12, 13. Superstitiose ciborum delectum habebant, Ne 
+      ede<lb ed="#H" n="106" break="no"/>is, ajebant, neque gustaris, neque artigeris, ut docet Paulus Colossa 
+      <lb ed="#H" n="107"/>v. 21. Se errate &amp; seduci non posse prae se ferebant, summum judicium 
+      <lb ed="#H" n="108"/>in religione sibi sumebant, adversus Christum crudelitatem non 
+      <lb ed="#H" n="109"/>exercentes tanquam seductos reprehendebant, se pro norma fidei 
+      <lb ed="#H" n="110"/>proponebant, ab aliis id solum credi volebant quod ipsi crederent, 
+      <lb ed="#H" n="111"/>populum Christo adhaerentes negibant Legis notitiam habere 
+      <lb ed="#H" n="112"/>&amp; exsecrabilem esse statuebant, atque ita plebem 
+      contemneban<lb ed="#H" n="113"/>&amp; nihili faciebant, si quis iniquis praejudiciis ipsorum resisteret, 
+      et<lb ed="#H" n="114" break="no"/>iamsi ex ipsorum numero esset, superbe &amp; contumeliose rejiciebant  
+      <lb ed="#H" n="115"/>ut videre est Joh. 7. v. 45. usque ad finem capitis. Circumcisionis &amp; 
+      <lb ed="#H" n="116"/>legum Mofaicarum observationem tanquam necessariam ad saluti 
+      <lb ed="#H" n="117"/>urgebant Actor 15. v. 5. bonis operibus nos coram Deo justificari 
+      <lb ed="#H" n="118"/>asserebant Matt. 5. v. 26. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e758">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>SAODUCAEI, erant hae retici in populo Judaico quaedam habentes 
+      <lb ed="#H" n="120"/>dogmata cum Scribis &amp; Pharisaeis communia: sed peculiariter 
+      con<lb ed="#H" n="121" break="no"/>tendebant, non esse resurrectionem mortuorum Matt 22. v. 23. Marc. 
+      <lb ed="#H" n="122"/>12. 18. Luc. 20. 27. Iidem negabant esse Angelos &amp; spiritus, Act. 23. &amp; 
+      <lb ed="#H" n="123"/>Videntes miracula quae A postoli edebant repleti sunt invidia &amp; 
+      inje<lb ed="#H" n="124" break="no"/>perunt manus in Apostolos &amp; in custodia publica eos posuerunt 
+      A<lb ed="#H" n="125" break="no"/>cton 5 v17, 18 Ab illorum, ut &amp; Pharisaeorum fermento ut sibi 
+      fide<lb ed="#H" n="126" break="no"/>les caverent, Christus monuit Matt 16. 11, 12. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e781">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Sadducaei si denominentur a nomine appellativo CyPH 
+      justi<lb ed="#H" n="128" break="no"/>tum scribitur gemino ddisin vero a nomine proprio Sadoc vel Tzadoc, 
+      <lb ed="#H" n="129"/>quod nomen est hoc loco non summi Sacerdotis illius de quo Es: 
+      <lb ed="#H" n="130"/>Et, erant haeretici in populo Judaico, sic dicti ab Hebraeo POI 
+      <lb ed="#H" n="131"/>d est, δnος, sanctus, quan sancti &amp; a sanctitate nomen ducentes. 
+      D<lb ed="#H" n="132" break="no"/>iis Philo Judaeus in libro cui titulus Quod omnis probus liber, seut 
+      <lb ed="#H" n="133"/>Quod liber sit quisquis virtuti studet  
+      <lb ed="#H" n="134"/>A temporibus autem Apostolorum exstiterunt atque etiamnum 
+      <lb ed="#H" n="135"/>exsistunt varii haeretici, veluti Pharisaisantes de quibus Act. 15. &amp; in 
+      <lb ed="#H" n="136"/>epistola Pauli ad Galatas, Coloss. 2 v. 10. &amp; seqq. Angelolatrae 
+      Co<lb ed="#H" n="137" break="no"/>loss. 2. v 18. Nicolaitae Apocalyps. 2. v. 14, 15 Simoniani sic dicti a 
+      Si<lb ed="#H" n="138" break="no"/>mone Mago de quo Act. 8. v. 9. &amp; seqq. Cerinthiani, Ebionitae, 
+      Va<lb ed="#H" n="139" break="no"/>entiniani, Marcionitae, Sabelliani, Samosateniani, Ariani, 
+      Nesto<lb ed="#H" n="140" break="no"/>iani, Eutychiani, Pelagiani &amp; alii, quorum plerorumque patriar 
+      <lb ed="#H" n="141"/>chae fuerunt Philosophi Gentiles: &amp; contra quos scripserunt Irenaeus, 
+      <lb ed="#H" n="142"/>Tertullianus, Epiphanius, Augustinus &amp; superiore seculo Lamber 
+      <lb ed="#H" n="143"/>tus Danaeus 
+      <lb ed="#H" n="144"/>MORES haereticorum quales sint, passim Scriptura Sacra 
+      de<lb ed="#H" n="145" break="no"/>ribit. 
+      <lb ed="#H" n="146"/>Fascinant alios ne obsequantur veritati, Gal. 3. v. 1 
+      <lb ed="#H" n="147"/>Consilia ineunt de Christo e medio tollendo &amp; interficiendis 
+      cu<lb ed="#H" n="148" break="no"/>toribs ejus sinceris, Joh 5. 16, 18. &amp; c. 7. v. 30. &amp; c. 11. v. 13. &amp; 12. v. 16. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e833">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>Persequuntur Christum Jesum, tum in ipso, Joh. 5. v. 16. tum in 
+      <lb ed="#H" n="150"/>membris ipsius Act. 6. v. 9 &amp; seqq 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e842">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>Prohibent annunciare verbum Dei, Jet. 11. v. 21. Act. 4. v. 17, 18. 
+      <lb ed="#H" n="152"/>Ineunt cogitationes &amp; consilia de tollendis e medio praeconibus 
+      ve<lb ed="#H" n="153" break="no"/>ritatis, Jer. 11. v. 19. Joh. 8. v. 37, 40 Sic mores produnt animum, &amp; 
+      <lb ed="#H" n="154"/>mihi credite, semper junctus cum falso est dogmate caedis amor 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e855">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Christi nomen praedicant, commune tamen illis cum piis funda, 
+      <lb ed="#H" n="156"/>mentum non est, sed manet Ecclesiae proprium. Nominetenus 
+      inveni<lb ed="#H" n="157" break="no"/>tur Christus apud haereticos, reipsa non est: ideo haeretici caput 
+      <lb ed="#H" n="158"/>non tenen¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e868">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>Laudant tempora quibus idololatriae dediti fuerunt &amp; 
+      calamita<lb ed="#H" n="160" break="no"/>es publicas adscribunt omissioni seu neglectui suae idololatriae, Jera 
+      <lb ed="#H" n="161"/>14. 17, 18. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e879">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Queruntur ab aliis negligi religionem, quam ipsi gravissime 
+      vio<lb ed="#H" n="163" break="no"/>lant ac prope evertunt. Ita enim Pharisaei querebantur, a Christo, 
+      <lb ed="#H" n="164"/>discipulis ejus violari Sabbathum, cujus sanctitatem ipsi prope 
+      uni<lb ed="#H" n="165" break="no"/>versam tollebant.  
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e893">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Veritatem &amp; sermonem Christi accipiunt carnaliter, ludificantur,  
+      <lb ed="#H" n="167"/>exagitant, Joh. 7. 35, 36. &amp; c. 8. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e902">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Verbum Dei pervertunt &amp; alio sensu accipiunt, quam dictum est, 
+      <lb ed="#H" n="169"/>h2. v 20, 21, &amp; cap. 6. 52. &amp; cap. 7, 35, 36. &amp; cap. 8. v. 22, 33, 52, 57. 
+      <lb ed="#H" n="170"/>s. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e913">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Offenduntur &amp; ad iram concitantur verbo Dei, Joh. 6 41, 52. 
+      <lb ed="#H" n="172"/>Commendant majores &amp; Patres, &amp; se illorum discipulos ac 
+      secta<lb ed="#H" n="173" break="no"/>tores esse gloriantur, &amp; interim Christum &amp; doctrinam ejus damnant, 
+      <lb ed="#H" n="174"/>&amp; diabolo adscribunt: id fecerunt Judaei, qui dicebant Joh. 8. 39. Pate. 
+      <lb ed="#H" n="175"/>noster Abrahamus est, &amp; v. 52, 59. Nunc cognovimus te demonium 
+      habe<lb ed="#H" n="176" break="no"/>re, Abraham mortuus est &amp; Prophetae: tu dicis, Si quis sermonem meu 
+      <lb ed="#H" n="177"/>servaverit, non gustabit mortem in aeternum. Sustulerunt ergo lapide 
+      <lb ed="#H" n="178"/>ut iacerent in eum: Iesus autem occultavit se, &amp; exivite teplo, transiens 
+      <lb ed="#H" n="179"/>per medium eorum: &amp; sic praeteriit. Et Joh. 9. v. 28, 29. conviciati sunt.  
+      <lb ed="#H" n="180"/>ei, cui Christus visum dederat, &amp; dixerunt, Tu discipulus illius esto: nos 
+      <lb ed="#H" n="181"/>autem Mosis discipuli sumus. Nos scimus Deum esse loquutum Mosi: 
+      <lb ed="#H" n="182"/>hic autem unde sit, nescimus 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e944">
+               <lb ed="#H" n="183"/>
+               <pc type="indent"/>Accommodant se cupiditatibus impii Magistratus, ut olim 
+      fe<lb ed="#H" n="184" break="no"/>cerunt Baalitae ad votum regis Achabi loquentes &amp; consulentes 1. 
+      <lb ed="#H" n="185"/>Reg. 22. 6, 11, 12. 
+      <!--cod-MkL9py-0579.xml-->
+      <pb ed="#H" n="550"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Ano Pontifice, cap. 2.)quae est spiritualis illa Babylon, mater illa 
+      scor<lb ed="#H" n="2" break="no"/>2. Tim. 3. v 6. Simon Magus Haeresin condidit, Helenae meretricis 
+      <lb ed="#H" n="3"/>adiutus auxilio. Nicolaus Antiochenus omnium immundiciarum 
+      re<lb ed="#H" n="4" break="no"/>pertor, choros duxit femineos. Marcion Romam praemisit mulit 
+      <lb ed="#H" n="5"/>rem, quae decipiendos sibi animos praepatatet: Apelles Philomenem 
+      <lb ed="#H" n="6"/>suarum comitem habuit doctrinarum. Montanus immundi 
+      spiri<lb ed="#H" n="7" break="no"/>tus praedicator, multas Ecclesias per Priscam &amp; Maximillam, 
+      nobi<lb ed="#H" n="8" break="no"/>les &amp; opulentas feminas, primum auto corrupit, deinde haeresi pos 
+      <lb ed="#H" n="9"/>luit. Arius, ut orbem deciperet, sororem Principis ante decepit. 
+      Do<lb ed="#H" n="10" break="no"/>natus per Aphiricam ut infelices quosque faetentibus pollueret 
+      a<lb ed="#H" n="11" break="no"/>quis, Lucillae opibus adjutus est. In Hispania Agape Elpidium, 
+      mu<lb ed="#H" n="12" break="no"/>lier virum, caecum caeca duxit in foveam, successoremque sui 
+      Pri<lb ed="#H" n="13" break="no"/>scillianum habuit, Zoroastris magi studiosissimum, &amp; ex mago E 
+      <lb ed="#H" n="14"/>piscopum, cui juncta Galla, non gente, sed nomine, germanam huc 
+      <lb ed="#H" n="15"/>illucque currentem alterius &amp; vicinae haereseos reliquit 
+      hae<lb ed="#H" n="16" break="no"/>redem. 
+    </p>
+            <p xml:id="yyy8Uu-gxd674-d1e996">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Sic fuit de eAntichristo prioris generis: 
+      <lb ed="#H" n="18"/>sequitur.  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

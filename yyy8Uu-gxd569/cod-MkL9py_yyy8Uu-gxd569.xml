@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd569"><!-- l7-c7 -->
+            <head xml:id="yyy8Uu-gxd569-Hd1e103">Caput 7</head>
+            <p xml:id="yyy8Uu-gxd569-d1e106">
+               <lb ed="#H" n="66"/>
+               <!-- line coord error --> 
+               <lb ed="#H" n="67"/>CAPUT VII
+      <lb ed="#H" n="68"/>In quo de Ecclesia Catholica ex hominibus unius 
+      <lb ed="#H" n="69"/>temporis.
+    </p>
+            <p xml:id="yyy8Uu-gxd569-d1e119">
+               <lb ed="#H" n="70"/>ECCLESIA Catholica ex hominibus unius temporis, est coetus 
+      <lb ed="#H" n="71"/>eorum omnium qui doctrinam Evangelii de JESU CHRISTC 
+      <lb ed="#H" n="72"/>in carne jam manifestato per universum mundum profitentur.
+    </p>
+            <p xml:id="yyy8Uu-gxd569-d1e128">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Dicitur nolxuμδυη η μιλλεσα Hebr. 2. v. 5. id est, mundus illa 
+      futu<lb ed="#H" n="74" break="no"/>rus quem praedixerant Prophetae, priore Christi adventu inchoatus, 
+      <lb ed="#H" n="75"/>cujus complementum adhuc ex spectamus 
+    </p>
+            <p xml:id="yyy8Uu-gxd569-d1e139">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Dicitur Catholica seu universalis ad differentiam Judaicae: quia 
+      <lb ed="#H" n="77"/>haec duntaxat ex uno populo; illa ex omnibus populis est collecta: haec 
+      <lb ed="#H" n="78"/>in angustis Judaeae terminis fuit; illa per universas regiones &amp; populos 
+      <lb ed="#H" n="79"/>sparsa est: haec ad templum Jerosolymitanum alligata fuit, tanquam 
+      <lb ed="#H" n="80"/>arcem religionis &amp; cultus Dei &amp; summi sacerdotii, illa nulli loco, nul 
+      <lb ed="#H" n="81"/>lis personis, nulli certae sedi est alligata  
+    </p>
+            <p xml:id="yyy8Uu-gxd569-d1e158">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Haec Catholita visibilis dicitur ad differentiam Catholicae 
+      invisi<lb ed="#H" n="83" break="no"/>bilis 
+    </p>
+            <p xml:id="yyy8Uu-gxd569-d1e167">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>Ad Catholicam autem visibilem in terris se recipere debent, 
+      quot<lb ed="#H" n="85" break="no"/>quot invisibilis illius cives esse cupiunt: si modo visibilis Ecclesia non 
+      <lb ed="#H" n="86"/>sit ob persecutiones occulta, ut fuit tempore Eliae 
+    </p>
+            <p xml:id="yyy8Uu-gxd569-d1e178">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Differentiae inter visibilem &amp; invisibilem Ecclesiam istae sunt. In 
+      <lb ed="#H" n="88"/>visibilis est tantum bonorum societas: visibilis bonis malos permixtos 
+      <lb ed="#H" n="89"/>excipit.  
+      <!--cod-MkL9py-0561.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>Invisibilis solos electos habet: visibilis hullo discrimine electos &amp; 
+      <lb ed="#H" n="91"/>reprobos, quotquot introducit veritatis praedicatio¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd569-d1e198">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>Invisibilis partim in coelo est; partim in terris degit, ex iis constans 
+      <lb ed="#H" n="93"/>um qui jam cum capite suo Christo Domino in coelis triumphum 
+      <lb ed="#H" n="94"/>agunt, tum qui sub ipsius signis adversus Satanam, mudum, carnem 
+      <lb ed="#H" n="95"/>militant: visibilis autem est proprie eorum qui etiamnum decertant. 
+      <lb ed="#H" n="96"/>in terris non a partibus Christi tantum, verum &amp; ipsius nomine 
+      saepe<lb ed="#H" n="97" break="no"/>falso &amp; ementito. 
+    </p>
+            <p xml:id="yyy8Uu-gxd569-d1e216">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Invisibilis omnes ad unum electos coplectitur collectis in unum 
+      <lb ed="#H" n="99"/>omnibus temporibus: visibilis autem temporum &amp; locorum 
+      diffe<lb ed="#H" n="100" break="no"/>rentias admittit, neque enim in universum, nec eodem simul 
+      tempo<lb ed="#H" n="101" break="no"/>re, verum certis sui partibus &amp; temporibus spectatur  
+    </p>
+            <p xml:id="yyy8Uu-gxd569-d1e229">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Invisibilis multas habet oves in Ecclesiam visibilem nondum 
+      ad<lb ed="#H" n="103" break="no"/>luctas: visibilis lupos multos habet in invisibilem nunquam 
+      admit<lb ed="#H" n="104" break="no"/>tendos, sicut dicitur Roman. 9. v. 6, 7. Non omnes qui sunt ex patre 
+      <lb ed="#H" n="105"/>Israele, sunt Israel. Neque quia sunt semen Abrahami, ideo omne 
+      <lb ed="#H" n="106"/>sunt filij. Et 1. Johan. 2. 19. E nobis egressi sunt, sed non erant ex nobis. 
+      <lb ed="#H" n="107"/>nam si fuissent ex nobis, mansissent utique nobiscum: sed egressi sunt ex 
+      <lb ed="#H" n="108"/>nobis, ut manifestum fieret non omnes esse ex nobis. Hoc est quod 
+      di<lb ed="#H" n="109" break="no"/>cit Augustinus nono tomo, tractatu quadragesimo quinto in 
+      Johan<lb ed="#H" n="110" break="no"/>nem: Secundum istam praescientiam Dei &amp; praedestinationem, quam 
+      <lb ed="#H" n="111"/>multae oves foris, quam multi lupi intus? &amp; quam multae oves intus, 
+      <lb ed="#H" n="112"/>quam multi lupt foris: 
+    </p>
+            <p xml:id="yyy8Uu-gxd569-d1e259">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>invisibilis Ecclesia est perpetua &amp; non deficit, Psalm. 89. 37. 
+      Se<lb ed="#H" n="114" break="no"/>men ejus in saculum erit, &amp; solium ejus ut Sol coram me, ut Luna 
+      sta<lb ed="#H" n="115" break="no"/>bile erit in saculum. Matth. 16. v. 18. Super hanc petram aedificabo 
+      <lb ed="#H" n="116"/>Ecclesiam meam &amp; portae inferorum non praevalebunt ei. Semper 
+      <lb ed="#H" n="117"/>taque conservatur &amp; conservabitur inter horribiles opinionum &amp; 
+      <lb ed="#H" n="118"/>superstitionum confusiones, &amp; regnorum, imperiorum urbiumqui 
+      <lb ed="#H" n="119"/>rumas, etiamsi interdum in magnas angustias ob Antichristi &amp; 
+      alio<lb ed="#H" n="120" break="no"/>rum persequutorum violentiam redacta fuit: Visibilis vero Ecclesia 
+      <lb ed="#H" n="121"/>potest seduci &amp; deficere. 
+    </p>
+            <p xml:id="yyy8Uu-gxd569-d1e283">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Invisibilis Ecclesia latet in Ecclesia visibili ut pars in toto, si 
+      utram<lb ed="#H" n="123" break="no"/>que consideres ut coetum vocatorum externa vocatione, quae 
+      com<lb ed="#H" n="124" break="no"/>munis est invisibili &amp; visibili Ecclesiae 
+    </p>
+            <p xml:id="yyy8Uu-gxd569-d1e294">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Invisibilis Ecclesia est universalis, quatenus omnes electi ubicum 
+      <lb ed="#H" n="126"/>que locorum sint, &amp; quocunque tempore vixerint, unam habent 
+      ve<lb ed="#H" n="127" break="no"/>ritatem coelestem &amp; fidem: Visibilis Ecclesia est universalis, quoad 
+      <lb ed="#H" n="128"/>externam professionem unius doctrinae &amp; fidei &amp; cultus divini. 
+    </p>
+            <p xml:id="yyy8Uu-gxd569-d1e307">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>Invisibilis Catholicae Ecclesiae partes sunt invisibiles Ecclesiae 
+      par<lb ed="#H" n="130" break="no"/>ciculares: visibilis autem Catholicae Ecclesiae partes sunt visibiles 
+      Ec<lb ed="#H" n="131" break="no"/>clesiae particulares. 
+    </p>
+            <p xml:id="yyy8Uu-gxd569-d1e318">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>OEIICITUR: Si Ecclesia Catholica est vel visibilis vel invisibilis; 
+      <lb ed="#H" n="133"/>tum non est una Ecclesia sancta Catholica. At consequens est 
+      absur<lb ed="#H" n="134" break="no"/>dum &amp; repugnans Scripturae Sacrae &amp; Symbolis universalibus. Ergo 
+      <lb ed="#H" n="135"/>&amp; antecedens absurdum est. 
+    </p>
+            <p xml:id="yyy8Uu-gxd569-d1e331">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>RESPOND. Negatur connexae propositionis consequentia, 
+      ob<lb ed="#H" n="137" break="no"/>ambiguitatem antecedentis. Si enim distinctio Ecclesiae Catholicae 
+      <lb ed="#H" n="138"/>invisibilem &amp; invisibilem esset divisio generis in species: tum seque 
+      <lb ed="#H" n="139"/>retur, non esse unam sanctam Ecclesiam Catholicam. At distinctio 
+      <lb ed="#H" n="140"/>illa est solummodo ex adjunctis, quae dum statuimus, nequaquam 
+      ge<lb ed="#H" n="141" break="no"/>minam Ecclesiam aut sponsam Christi geminam, sed unicam 
+      dunta<lb ed="#H" n="142" break="no"/>tat, alio atque alio modo consideratam credimus, vel ut herbescente 
+      <lb ed="#H" n="143"/>&amp; hactenus visibilem, vel ut efformatis maturisque granis divitem&amp; 
+      <lb ed="#H" n="144"/>hactenus invisibilem: illam in area, hanc horreo reconditam: illam in 
+      <lb ed="#H" n="145"/>fodina, hanc perpurgatam: illam impuri mundi perturbationibus. 
+      <lb ed="#H" n="146"/>circumfusam, hanc coram sponso nulla ruga aut macula foedatam, 
+      <lb ed="#H" n="147"/>Non secus ac familiae nomine, generali quidem ratione mancipia 
+      <lb ed="#H" n="148"/>complectimur, proprie tamen solos liberos censemus. Et civitatis 
+      <lb ed="#H" n="149"/>appellatione civium unitatem intelligimus, pars licet aliqua 
+      saepissi<lb ed="#H" n="150" break="no"/>me turbas moliatur, &amp; separatim considerata, sit exterminationis 
+      <lb ed="#H" n="151"/>poena dignissima. 
+    </p>
+            <p xml:id="yyy8Uu-gxd569-d1e371">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Tantum de Ecclesia universali seu Catholica: 
+   sequi<lb ed="#H" n="153" break="no"/>tur de particulari.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 16</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 16</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd248"><!-- l7-c16 -->
+            <head xml:id="yyy8Uu-gxd248-Hd1e103">Caput 16</head>
+            <p xml:id="yyy8Uu-gxd248-d1e106">
+               <lb ed="#H" n="47"/>CAPUT XVI. 
+      <lb ed="#H" n="48"/>In quo de potestate judicandi 
+   controver<lb ed="#H" n="49" break="no"/>sias religionis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd248-d1e115">
+               <lb ed="#H" n="50"/>LIBERTAS seu potestas iudicandi controversias religionis, est jus 
+      <lb ed="#H" n="51"/>ac simul donum quod Deus Ecclesiae dedit in controversiis 
+      re<lb ed="#H" n="52" break="no"/>digionis dijudicandis, explicandis &amp; decidendis 1. Corinth. 14. 
+      <lb ed="#H" n="53"/>vers. 2 9, 30, 11, 32. 
+    </p>
+            <p xml:id="yyy8Uu-gxd248-d1e126">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Haec potestas tum privata est, tum publica 
+      <lb ed="#H" n="55"/>priva:a potestas iudicandi controversias est, quam potest, imo debe 
+      <lb ed="#H" n="56"/>unusquisque fidelium, sive Pastorum, sive auditorum, de dogmatum 
+      <lb ed="#H" n="57"/>explicatione privatim judicare, ut pro se recte cognoscat quaevis 
+      do<lb ed="#H" n="58" break="no"/>gmata ne decipiatur decipiatque 1. Cor. 10. 15. . Joh. 4. 11. Thessal 
+      <lb ed="#H" n="59"/>5. 21. Philipp. 1. 9, 10. 1. Corinth. 14. vers. 20 &amp; 2. 15. Johan. 10. 5. 
+      <lb ed="#H" n="60"/>Hebr 5. 14. 
+    </p>
+            <p xml:id="yyy8Uu-gxd248-d1e146">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Publica potestas judicandi controversias est, quam pollent publicam 
+      <lb ed="#H" n="62"/>vocationem &amp; autoritatem habentes; sive singuli sigillatim, sive 
+      plu<lb ed="#H" n="63" break="no"/>res coniunctins 
+    </p>
+            <p xml:id="yyy8Uu-gxd248-d1e158">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Unus enim sigillatim judicare potest, velut Episcopus, vel Pastor,  
+      <lb ed="#H" n="65"/>vel Doctor Ecclesiae 
+    </p>
+            <p xml:id="yyy8Uu-gxd248-d1e167">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Plures autem conjunctinm judicare possunt, cum causa aliqua 
+      dif<lb ed="#H" n="67" break="no"/>ficilior &amp; perplexior requirit plurium legitimam vocationem 
+      haben<lb ed="#H" n="68" break="no"/>tium, non tantum episcoporum, sed etiam aliorum peritorum 
+      Chri<lb ed="#H" n="69" break="no"/>stianorum, qui doctrina &amp; experientia valent, &amp; sensus exercitatos 
+      <lb ed="#H" n="70"/>habent cujuscunque ordinis erunt, cognitionem &amp; decisionem, legi 
+      <lb ed="#H" n="71"/>timo processu recte institutam. 
+    </p>
+            <p xml:id="yyy8Uu-gxd248-d1e185">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Id autem facere possunt vel in presbyterio, vel in colloquio, vel in 
+      <lb ed="#H" n="73"/>Synodo 
+    </p>
+            <p xml:id="yyy8Uu-gxd248-d1e194">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Caeterum haec potestas Ecclesiae est limitata, ut non debeat 
+      Eccle<lb ed="#H" n="75" break="no"/>sia privatuim suum spiritum sequi, nec absoluta autoritate decidere 
+      <lb ed="#H" n="76"/>quicquam, sed autoritate &amp; judicio Sacrae Scripturae Propheticae &amp; 
+      <lb ed="#H" n="77"/>npostolicae, quae sola est de controverssis Ecclesiasticis judicandi 
+      nor<lb ed="#H" n="78" break="no"/>ma unica, cum qua quicquid consentit, verum: quicquid pugnat, 
+      fal<lb ed="#H" n="79" break="no"/>lum esse st: tuendum est, 
+    </p>
+            <p xml:id="yyy8Uu-gxd248-d1e212">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/> Qua hoc est mandatum Domini, Joh. 5. 39. Jes. 8. 20. 2. Pet. 1. 19. 
+      <lb ed="#H" n="81"/>2. Quia ipsemet Christus, Apostoli &amp; ahi pii controversias de 
+      ca<lb ed="#H" n="82" break="no"/>nit bus religionis non aliunde, quam ex Sacra Scriptura deciderunt  
+      <lb ed="#H" n="83"/>Matth. 12. 29. 31. Marc. 12. 24, 26, 27. Matt. 22. 43. Luc. 24. 26. 17. 
+      <lb ed="#H" n="84"/>44. Act. 15. 14, 15. Rom 16. 25, 26. Act. 17. 2, 3, 11 &amp; 26. 22. &amp; 28. 23. 
+    </p>
+            <p xml:id="yyy8Uu-gxd248-d1e228">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>Quia aedificati sumus super fundamentum Prophetarum &amp; A 
+      <lb ed="#H" n="86"/>test,1 Corinth. 3. 11. 
+    </p>
+            <p xml:id="yyy8Uu-gxd248-d1e238">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>I. Quia Solus Deus in scripturis loquens est summus controver¬ 
+      <!--cod-MkL9py-0573.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="88"/>siarum de religione judex, cujus suprema, sufficiens ac proinde 
+      irre<lb ed="#H" n="89" break="no"/>fragabilis est autoritas, &amp; a quo appellare non liceat, utpote qui in 
+      <lb ed="#H" n="90"/>ententia dicenda non fallat  
+    </p>
+            <p xml:id="yyy8Uu-gxd248-d1e256">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Quod si de vera Scripturarum sententia quaeritur, ea quoque non 
+      <lb ed="#H" n="92"/>aliunde quam ex ipsis scripturis cognoscenda: quia illae possunt 
+      sapi<lb ed="#H" n="93" break="no"/>pentem reddere hominem Dei ad salutem, perfectum denique &amp; ac 
+      <lb ed="#H" n="94"/>omne opus bonum perfecte instructum. 2. Tim. 3. 15, 16, 17. 
+    </p>
+            <p xml:id="yyy8Uu-gxd248-d1e269">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Dijudicatio dogmatum religionis an illa ex Deo sint, non 
+      omni<lb ed="#H" n="96" break="no"/>lum hominum est, sed eorum qui volunt Dei voluntatem facere, Joh. 
+      <lb ed="#H" n="97"/>7. vers. 17. 
+    </p>
+            <p xml:id="yyy8Uu-gxd248-d1e280">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Proinde Ecclesia non habet potestatem novos fidei arriculos 
+      con<lb ed="#H" n="99" break="no"/>dendi, &amp; extra Scripturam aliquid statuendi praescribendique caeteris 
+      <lb ed="#H" n="100"/>quod sit credendum: quemadmodum Ecclesia Papana extra Scriptu 
+      <lb ed="#H" n="101"/>tam statuit &amp; credendum praecepit, Purga torium esse, Sanctos demore 
+      <lb ed="#H" n="102"/>tuos esse invocandos, Papam Remanum esse caput universae Ecclesiae. 
+      <lb ed="#H" n="103"/>Missam esse sacrificium propitiatorium, &amp; multa alia 
+    </p>
+            <p xml:id="yyy8Uu-gxd248-d1e298">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Tum Ecclesia errate potest, atque reipsa errat, quoties a Scriptura 
+      <lb ed="#H" n="105"/>Sacra recedit. 
+    </p>
+            <p xml:id="yyy8Uu-gxd248-d1e307">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Tantum de libertate seu de potestate iudicandi 
+   contro<lb ed="#H" n="107" break="no"/>versias de religione.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

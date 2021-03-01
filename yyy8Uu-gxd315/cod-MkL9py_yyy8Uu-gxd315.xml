@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 46</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 46</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd315"><!-- l6-c46 -->
+            <head xml:id="yyy8Uu-gxd315-Hd1e103">Caput 46</head>
+            <p xml:id="yyy8Uu-gxd315-d1e106">
+               <lb ed="#H" n="16"/>CAPUT XLVI 
+      <lb ed="#H" n="17"/>In quo de Stipulatione officii ex parte hominis 
+      <lb ed="#H" n="18"/>
+               <pc type="indent"/>Deo debiti.
+    </p>
+            <p xml:id="yyy8Uu-gxd315-d1e117">
+               <lb ed="#H" n="19"/>LTERUM capot federis, est ex nostra parte obligatio, qua 
+      <lb ed="#H" n="20"/>A<!-- line coord error -->
+      <lb ed="#H" n="21"/>RDEUS nos sibi obstrinxit, UTIPSIPOPULUSSIMUS 
+    </p>
+            <p xml:id="yyy8Uu-gxd315-d1e128">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>DEO populum esse, est ambulare coram Deo cum 
+      integri<lb ed="#H" n="23" break="no"/>tate, Genes. 17. 1. vivere in conscientia Dei sincere &amp; veluti sub oculis 
+      <lb ed="#H" n="24"/>Dei ut probos decet servos 
+    </p>
+            <p xml:id="yyy8Uu-gxd315-d1e139">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Quod sit viva in Deum fide, &amp; obedientia Legis continuo 
+      bono<lb ed="#H" n="26" break="no"/>rum operum studio declarata 
+    </p>
+            <p xml:id="yyy8Uu-gxd315-d1e149">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Nam &amp; per fidem incedimus, non per adspectum, 2. Corinth. c. 5. 
+      <lb ed="#H" n="28"/>vers. 7. 
+    </p>
+            <p xml:id="yyy8Uu-gxd315-d1e158">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Et ambulamus in Lege Jehovae Ps. 119. ut qui sumus opus DEI 
+      <lb ed="#H" n="30"/>conditi in Christo Jesu ad opera bona, quae praeparavit Deus ut in eit 
+      <lb ed="#H" n="31"/>incederemus, Ephes. 2. v. 16. 
+    </p>
+            <p xml:id="yyy8Uu-gxd315-d1e169">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Haec obligatio est stipulatio illa bonae conscientiae, qua nos Deo 
+      re<lb ed="#H" n="33" break="no"/>promittimus nos ipsius beneficia quae in federe gratiae promittit &amp; 
+      <lb ed="#H" n="34"/>federatis ex hibet vera fide accipere, atque etiam in vera justitia &amp; 
+      <lb ed="#H" n="35"/>sanctitate ipsi servire velle tota vita nostra, ad gratitudinem debitam 
+      <lb ed="#H" n="36"/>erga ipsum declarandam &amp; ad conservandam bonam conscientiam 
+      <lb ed="#H" n="37"/>erga ipsum. 1. Petr. 3. vers. 21. Cui res nunc correspondens exemplar 
+      Ba<lb ed="#H" n="38" break="no"/>ptismi nos quoque servat (non quo car :is sardes abjiciuntur, sed stipula 
+      <lb ed="#H" n="39"/>tio bonae conscientia apud Deum) per resurrectionem Iesu Christi. Psal. 
+      <lb ed="#H" n="40"/>I19. v. 7, 8. Celibrabo te recto animo, descendo jura justitiae tuae: S 
+      atu<lb ed="#H" n="41" break="no"/>ta tua observabo, ne derelisquas me admodum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd315-d1e195">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Bona autem conscientia esse non potest, donec correctus 
+      fueri<lb ed="#H" n="43" break="no"/>vetus homo noster, &amp; in Dei justitiam renovati simus 
+    </p>
+            <p xml:id="yyy8Uu-gxd315-d1e204">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Proinde sicut Deus in federe oratiae promittit vitam aeternam. 
+      <lb ed="#H" n="45"/>sub conditione fidei in Christum, esum efficacis per charitatem: ita 
+      <lb ed="#H" n="46"/>nos stipulamur gratiam, &amp; spondemus stipulanti Deo fidem &amp; bona 
+      <lb ed="#H" n="47"/>opera ex fide profecta. 
+    </p>
+            <p xml:id="yyy8Uu-gxd315-d1e217">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Hujus obligationis respectu, partium federatarum diversa est 
+      ra<lb ed="#H" n="49" break="no"/>tio. Nam respectu Dei est libera ipsius gratia &amp; misericordia, qu 
+      <lb ed="#H" n="50"/>mera sua voluntate fedus hoc nobiscum pepigit, quo e natura nostra 
+      <lb ed="#H" n="51"/>corrupta ad communionem gratiae &amp; gloriae Dei eveheremur. 
+      Cau<lb ed="#H" n="52" break="no"/>sa enim efficiens federis gratiae est Deus communiter quidem &amp; 
+      im<lb ed="#H" n="53" break="no"/>mediate Pater, Filius &amp; Spiritus Sanctus: singulariter vero &amp; 
+      me<lb ed="#H" n="54" break="no"/>diate CHRISTUS θεουνθρωπςος, qui ut electionis, ita &amp; gratiae Dei 
+      <lb ed="#H" n="55"/>in tempore communicatae fundamentum est, cui hoc fedus super  
+      <lb ed="#H" n="56"/>struitur, Ephes. 1. v. 3. 4. Actor. 3. vers. 1516, &amp; cap. 4. v. 11, 12. &amp; c. 10. 
+      <lb ed="#H" n="57"/>vers. 43. 
+    </p>
+            <p xml:id="yyy8Uu-gxd315-d1e244">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Solus autem Deus est causa efficiens &amp; autor federis gratiae: nec 
+      <lb ed="#H" n="59"/>enim duarum hic partium dispositio est, quae personarum &amp; juris 
+      ae<lb ed="#H" n="60" break="no"/>qualitatem, inter partes praesupponere solet; talis namque dispositio 
+      <lb ed="#H" n="61"/>inter Deum &amp; creaturam nequaquam cadere potest, sed Dei solius 
+      <lb ed="#H" n="62"/>est: imo creatura quae Legem transgressa est &amp; peccavit, timet &amp; 
+      fu<lb ed="#H" n="63" break="no"/>git Deum ut severum judicem &amp; ultorem peccati, nec redite in gra 
+      <lb ed="#H" n="64"/>tiam cum Deo potest aut vult, nisi quesita &amp; vocata &amp; reducta a Deo. 
+      <lb ed="#H" n="65"/>ipso, ut caput tertium Geneseos aperse docet vers 8. &amp; sequentibus 
+      <lb ed="#H" n="66"/>Deinde audiverunt vocem Iehova Dei itantem per hortum ipsum 
+      ad<lb ed="#H" n="67" break="no"/>ventum illius diei: quare abscondit se Adam &amp; uxor ejus a facie 
+      Ie<lb ed="#H" n="68" break="no"/>hovae Dei, inter arbores illius horti. Inclamavit autem Iehova DEVS 
+      <lb ed="#H" n="69"/>Adamum: &amp; dixit ei: ubi es? Qui dixit, vocem tuam audiebam in 
+      <lb ed="#H" n="70"/>hoc horto: extimui autem co quod nudus sim, &amp; abscendi me. Dixit.  
+      <lb ed="#H" n="71"/>vero Deius, quis indicavit tibi nudum esse te? in de fructu illius arborum 
+      <lb ed="#H" n="72"/>de quo interdixeram tibi ne comedas ex eo, comederu? Cui dixit Adam: 
+      <lb ed="#H" n="73"/>multer ista quam posuisti mecum, ipsa dedit mihi de fructu illius arboris 
+      <lb ed="#H" n="74"/>&amp; comedi. Tum dixit Iehova DEVS multeri, quid hoc est, quod fecistis 
+      <lb ed="#H" n="75"/>dixit autem multer, serpens iste seduxit me, &amp; comedi. Quapropter dixi  
+      <lb ed="#H" n="76"/>Iehova DEVS serpenti illi, cum feceris istud, maledictus esto prae 
+      omni<lb ed="#H" n="77" break="no"/>jumento, &amp; prae omni bestia agri: super ventrem tuum ito, &amp; pulvere 
+      <lb ed="#H" n="78"/>comedito omnibus diebus vitae tuae. Praeterea inimicitiam pono inter ter 
+      <lb ed="#H" n="79"/>&amp; mulieram hanc, similiterque inter semen tuum &amp; semen hujus: hoc 
+      <lb ed="#H" n="80"/>conteret tibi caput, tu autem conteres huic calcaneum. Propterea 
+      Apo<lb ed="#H" n="81" break="no"/>istolus Paulus ait 2. Corinth. 5. vers. 18. Deus reconciliavit nos sibi per 
+      <lb ed="#H" n="82"/>Iesum Christum: &amp; v. 19. Deus erat in Christo mundum reconcilian 
+      <lb ed="#H" n="83"/>ni. Quocirca Deus se nobis obstrinxit, ex mera gratia amando nos 
+      <lb ed="#H" n="84"/>&amp; promittendo, 
+    </p>
+            <p xml:id="yyy8Uu-gxd315-d1e307">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>Quod autem nos attinet, tota obligatio nostra quam sumus 
+      obstri<lb ed="#H" n="86" break="no"/>cti Deo est juris &amp; debiti 
+    </p>
+            <p xml:id="yyy8Uu-gxd315-d1e316">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>cinis summus federis gratiae est declaratio summae bonitatis, 
+      mi<lb ed="#H" n="88" break="no"/>sqticordiae &amp; justitiae divinae in salute nostra: subatternus finis est sa¬ 
+      <!--cod-MkL9py-0516.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>lus nostra aeterna, quam per fidem vivam in Christum Jesum uni¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd315-d1e332">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>cum sponsorem fedetis hujus consequimur. 
+    </p>
+            <p xml:id="yyy8Uu-gxd315-d1e339">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Pertinet fedus gratiae ad omnes homines electos in Christo, ac 
+      <lb ed="#H" n="92"/>proinde etiam ad Adamum, Evam &amp; alios fideles qui fuerunt ante 
+      <lb ed="#H" n="93"/>Abrahamum. Quad vero cum Abrahamo dicitur Deus illud iniisset 
+      <lb ed="#H" n="94"/>non sic intelligendum ac si aliud fedus cum ipso iniisset, quam cum 
+      <lb ed="#H" n="95"/>Adamo &amp; Eva post lapsum: sed quia fedus illud deinde ad solos 
+      A<lb ed="#H" n="96" break="no"/>brahami posteros vestigiis fidei Abrahami incedentes voluit 
+      perti<lb ed="#H" n="97" break="no"/>nere, exclusis ab eo omnibus infidelibus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd315-d1e359">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Hactenus de federe spirituali: restat de federe 
+      <lb ed="#H" n="99"/>
+               <pc type="indent"/>corporali a Deo cum hominibus. 
+      <lb ed="#H" n="100"/>
+               <pc type="indent"/>inito.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 49</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 49</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd2021"><!-- l10-c49 -->
+            <head xml:id="yyy8Uu-xd2021-Hd1e103">Caput 49</head>
+            <p xml:id="yyy8Uu-xd2021-d1e106">
+               <lb ed="#H" n="154"/>CAPUT XLIX. 
+      <lb ed="#H" n="155"/>In quo de Gravitate &amp; Civilitate morum
+    </p>
+            <p xml:id="yyy8Uu-xd2021-d1e113">
+               <lb ed="#H" n="156"/>VIRTUS moderans decorum in moribus &amp; gestibus externis. 
+      <lb ed="#H" n="157"/>vocatur dignitas morum, quae est virtus per quam moribus &amp; 
+      <lb ed="#H" n="158"/>gestibus externis nos gerimus, uti dignum est, 
+      <lb ed="#H" n="159"/>Ejus species sunt: gravitas morum, &amp; civilitas eorundem. 
+      <lb ed="#H" n="160"/>Gravitas morum, est virtus, quum quis ex agnitione officii se 
+      <lb ed="#H" n="161"/>gradus servat decorum conveniens personae &amp; dignitatem in 
+      exter<lb ed="#H" n="162" break="no"/>nis moribus &amp; gestibus totius corporis &amp; singulorum membrorum 
+      <lb ed="#H" n="163"/>ita ut animus gravis &amp; a levitate omni alienus inde eluceat, ad 
+      tuen<lb ed="#H" n="164" break="no"/>dam honestam existimationem &amp; autoritatem, ne officium 
+      contu<lb ed="#H" n="165" break="no"/>melia afficiatur, xοσμιοτης. 1. Tim. 3. 2. 
+    </p>
+            <p xml:id="yyy8Uu-xd2021-d1e137">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Opponitur ei levitas morum &amp; fastus 
+      <lb ed="#H" n="167"/>Levitas morum, est vitium quum quis non servat in moribus &amp; 
+      <lb ed="#H" n="168"/>gestibus decorum personae aut constantiam, aut non habens studium 
+      <lb ed="#H" n="169"/>retinendi existimationem honestam &amp; autoritatem: 
+    </p>
+            <p xml:id="yyy8Uu-xd2021-d1e150">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Fastus, est vitium quum quis propter officium aut dona sua sese 
+      <lb ed="#H" n="171"/>effert &amp; ostentat, &amp; moribus gestibusque suis alios contemnit &amp; 
+      ne<lb ed="#H" n="172" break="no"/>gligit, quaerens loca altiora &amp; applausum hominum, non studio 
+      glo<lb ed="#H" n="173" break="no"/>riae Dei &amp; salutis proximorum, sed mera cupiditate supra alios 
+      emi<lb ed="#H" n="174" break="no"/>nendi.
+    </p>
+            <p xml:id="yyy8Uu-xd2021-d1e167">
+      <!--cod-MkL9py-0710.xml-->
+               <pb ed="#H" n="681"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>CIVILITAS MORUM, est virtus, per quam moribus &amp; gestibus 
+      <lb ed="#H" n="2"/>elegantibus studemus, qui cum honestis consuetudinibus hominum; 
+      <lb ed="#H" n="3"/>quibuscum vivimus, conveniunt: Unde &amp; elegantia morum 
+      appel<lb ed="#H" n="4" break="no"/>datur  
+    </p>
+            <p xml:id="yyy8Uu-xd2021-d1e185">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Consuetudines illae vel patriae sunt vel peregrinae: in quarum usu 
+      <lb ed="#H" n="6"/>observandum decorum, ut nempe ibi usurpentur, ubi valent. Nam 
+      <lb ed="#H" n="7"/>qui peregrinas consuetudines in patriam suam adferunt, illisque se 
+      <lb ed="#H" n="8"/>ostentant, merito sunt ridiculi. Tum quod uno in loco civile putatur 
+      <lb ed="#H" n="9"/>in alio incivile judicatur.  
+    </p>
+            <p xml:id="yyy8Uu-xd2021-d1e201">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Porro civilitas morum pro hominum ratione variat: Quaedam 
+      e<lb ed="#H" n="11" break="no"/>nim decent omnes, cujuscunque sint aetatis, conditionis &amp; sexus: quae 
+      <lb ed="#H" n="12"/>dam certam aetatem, conditionem &amp; sexum: sic ut alia deceant 
+      pue<lb ed="#H" n="13" break="no"/>rum, alia juvenem, alia virum, alia senem; alia virilem, alia femineum. 
+      <lb ed="#H" n="14"/>sexum: ac rursus alia superiores, alia inferiores. Qua de re plura 
+      mo<lb ed="#H" n="15" break="no"/>nent, qui de civilitate morum, &amp; de Aulico praecepta tradiderunt  
+    </p>
+            <p xml:id="yyy8Uu-xd2021-d1e219">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Opponitur ei Rusticitas morum &amp; gesticulatio histriones potius. 
+      <lb ed="#H" n="17"/>decens quam homines elegantes &amp; civiles. 
+    </p>
+            <p xml:id="yyy8Uu-xd2021-d1e228">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Hactenus de virtute moderatrice actionum 
+      <lb ed="#H" n="19"/>
+               <pc type="indent"/>decentium. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

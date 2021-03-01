@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 45</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 45</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd0961"><!-- l10-c45 -->
+            <head xml:id="yyy8Uu-xd0961-Hd1e103">Caput 45</head>
+            <p xml:id="yyy8Uu-xd0961-d1e106">
+               <lb ed="#H" n="169"/>CAPUT XLV. 
+      <lb ed="#H" n="170"/>In quo de Vrbanitate. 
+    </p>
+            <p xml:id="yyy8Uu-xd0961-d1e113">
+               <lb ed="#H" n="171"/> TREANITAS, quae &amp; festivitas, est virtus δμιλητικη, per quam 
+      <lb ed="#H" n="172"/>veritatem dicimus aut ab aliis dictam accipimus cum quadam 
+      <lb ed="#H" n="173"/>venustate &amp; gratia, sive aperte, sive oblique, simplici aut 
+      figu<lb ed="#H" n="174" break="no"/>rato sermonis genere, eoque accommodato ad alios vel juste &amp; 
+      me<lb ed="#H" n="175" break="no"/>riio reprehendendos vel docendos vel consolandos, vel monendos 
+      <!--cod-MkL9py-0708.xml-->
+      <pb ed="#H" n="679"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>vel delectandos &amp; exhilarandos, servatis circumstantiis personarum, 
+      <lb ed="#H" n="2"/>loci, temporis &amp; aliarum, ita ut ratio habeatur honestatis &amp; decori &amp; 
+      <lb ed="#H" n="3"/>vitetur aliorum justa offensio, ἵυτραπιλία. 
+    </p>
+            <p xml:id="yyy8Uu-xd0961-d1e139">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Ea quandoque utendum 
+      <lb ed="#H" n="5"/>Quia afidelibus Deo probatis laudabiliter adhibita fuit, veluti a 
+      <lb ed="#H" n="6"/>Propheta Elia 1. Reg. 18. v. 27. a Jobo cap. 12. 3. a Paulo Apostolo ac 
+      <lb ed="#H" n="7"/>Corinthios scribente 1. Cor. 8. 1. &amp; 2. Cor. 11. 19. 
+    </p>
+            <p xml:id="yyy8Uu-xd0961-d1e152">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Haec virtus consistit in dexteritate dicendi veritatem cum ironia 
+      <lb ed="#H" n="9"/>aut joco decente, &amp; audiendi eandem absque offensione quae ex 
+      iro<lb ed="#H" n="10" break="no"/>nia aut joco accipi poterat. Joci enim sunt duplices: liciti &amp; illiciti 
+    </p>
+            <p xml:id="yyy8Uu-xd0961-d1e164">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>loci liciti, sunt qui possunt audientes non solum oblectare, sed et 
+      <lb ed="#H" n="12"/>iam erudire: veluti sunt joci honesti, liberales, conditi sale sapientiae 
+      <lb ed="#H" n="13"/>&amp; convenientes personis, locis atque temporibus 
+    </p>
+            <p xml:id="yyy8Uu-xd0961-d1e175">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>loci illiciti, sunt qui possunt auditorem juste offendere: quales 
+      <lb ed="#H" n="15"/>sunt joci illiberales, obscoeni, lascivi contumeliosi, comparati &amp; diret 
+      <lb ed="#H" n="16"/>cti ad ludibrium, qui facile possunt praebere occasionem rixis &amp; 
+      con<lb ed="#H" n="17" break="no"/>tentionibus. Opponitur urbanitati in defectu rusticitas &amp; 
+      insulsi<lb ed="#H" n="18" break="no"/>tas: in excessu scurrilitas, dicacitas &amp; obtrectatio¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd0961-d1e191">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Rusticitas, aγροικια, &amp; αγριότης, est vitium quum quis neque ipse  
+      <lb ed="#H" n="20"/>commode jocos proferre, neque aliorum jocos aequo animo audire 
+      <lb ed="#H" n="21"/>potest. Vitium istud est cavendum 
+    </p>
+            <p xml:id="yyy8Uu-xd0961-d1e202">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>I. Quia reddit hominem plane ineptum ad jucundam 
+      conversa<lb ed="#H" n="23" break="no"/>tionem cum aliis. 
+    </p>
+            <p xml:id="yyy8Uu-xd0961-d1e211">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>II. Quia est stupiditas in fatuis, immanitas in barbaris, agrestitas 
+      <lb ed="#H" n="25"/>in omnibus. 
+    </p>
+            <p xml:id="yyy8Uu-xd0961-d1e220">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>III. Quia est indicium inhumanitatis: est enim honestae 
+      recrea<lb ed="#H" n="27" break="no"/>tionis animi &amp; refocillationis virium corporis recusatio &amp; fuga. Qui 
+      <lb ed="#H" n="28"/>risum omnem &amp; remissionem animi aversantur &amp; moleste ferunt 
+      <lb ed="#H" n="29"/>nihilque ludieri &amp; jocularis admittere possunt, sunt tum in seipsos 
+      sae<lb ed="#H" n="30" break="no"/>vi, tum etiam in alios agrestes &amp; duri¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd0961-d1e237">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Scurrilitas, δαμολοχεα, est vitium quum quis in jocado &amp; modum 
+      <lb ed="#H" n="32"/>&amp; decorum excedit, non habita ratione aut honestatis, aut 
+      persona<lb ed="#H" n="33" break="no"/>rum, aut loci &amp; temporis, aut gestuum &amp; motus corporis, aut aliarum 
+      <lb ed="#H" n="34"/>circumstantiarum Hoc vitium non tantum in verbis, &amp; facetiis 
+      in<lb ed="#H" n="35" break="no"/>eptis &amp; inurbanis infacetisque sed etiam in gestu motuque corporis 
+      <lb ed="#H" n="36"/>corporis indecoro, quem quis ad risum aliis excitandum adhibet,  
+      <lb ed="#H" n="37"/>versatur. Displicere bonis omnibus &amp; improbari caverique debet.  
+    </p>
+            <p xml:id="yyy8Uu-xd0961-d1e257">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>I. Quia expresse verbo Dei est prohibita, Ephes. 4. 29. Nullus 
+      <lb ed="#H" n="39"/>sermo putris ex ore vestro egreditor.  
+    </p>
+            <p xml:id="yyy8Uu-xd0961-d1e266">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>II. Quia non convenit sanctis. Nam Ephes. 5. 4. vetatur 
+      obscoe<lb ed="#H" n="41" break="no"/>nitas, &amp; stultiloquium, &amp; scurrilitas quae non conveniunt: sed potius 
+      <lb ed="#H" n="42"/>gratiarumactio 
+    </p>
+            <p xml:id="yyy8Uu-xd0961-d1e277">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>III. Quia est mentis perversae character &amp; index latentis malis 
+      <lb ed="#H" n="44"/>tiae: sicut Dominus ait Matth. 12. v. 34. Progenies viperarum quomo, 
+      <lb ed="#H" n="45"/>do possitis bona loqui, quum sitis mali? nam ex redundantia cordis o. 
+      <lb ed="#H" n="46"/>loquitur. Et v. 35. malus homo ex malo thesauro profert mala 
+    </p>
+            <p xml:id="yyy8Uu-xd0961-d1e290">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>IV. Quia est impudentia in audacibus, molestia in histrionibus, 
+      <lb ed="#H" n="48"/>vanitas in omnibus. 
+    </p>
+            <p xml:id="yyy8Uu-xd0961-d1e299">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>V. Quia de ea reddenda erit ratio Christo iudici vivorum &amp; 
+      <lb ed="#H" n="50"/>mortuorum. Sicut Christus ait Matth. 12. v. 36, 37. Dico vobis, 
+      quod<lb ed="#H" n="51" break="no"/>cunque verbum otiosum loquuti fuerint homines, de eo reddituros 
+      ra<lb ed="#H" n="52" break="no"/>tionem in die judicij. Ex sermonibus enim tuis justificaberis, &amp; ex 
+      <lb ed="#H" n="53"/>sermonibus tuis condemnaberis. 
+    </p>
+            <p xml:id="yyy8Uu-xd0961-d1e316">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Damnantur ideo &amp; fugiendi sunt sales, quos homines iaculantur. 
+      <lb ed="#H" n="55"/>ut vel inane quiddam spectetur, vel exemplo vel maledicentia peccetur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

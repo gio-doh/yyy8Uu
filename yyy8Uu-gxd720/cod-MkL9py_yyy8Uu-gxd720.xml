@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 51</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 51</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd720"><!-- l6-c51 -->
+            <head xml:id="yyy8Uu-gxd720-Hd1e103">Caput 51</head>
+            <p xml:id="yyy8Uu-gxd720-d1e106">
+               <lb ed="#H" n="97"/>CAPUII 
+      <lb ed="#H" n="98"/>In quo de Sacramento federis gratiae in 
+      <lb ed="#H" n="99"/>genere.
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e115">
+               <lb ed="#H" n="100"/>TIACRAMENTUM federis gratiae, est Sacramentum, quo Deus 
+      <lb ed="#H" n="101"/>Psingulos fideles Sacramento utentes tum certos reddit, quod  
+      <lb ed="#H" n="102"/>fedus gratiae &amp; omnia beneficia, quae in eo federe promittuntur? 
+      <lb ed="#H" n="103"/>non tantum ad alios, sed etiam ad ipsos singulatim pertineant, qu 
+      <lb ed="#H" n="104"/>Sacramento secundum divinam institutionem utuntur; tum ipsos 
+      <lb ed="#H" n="105"/>admonet obligationis ipsorum, qua illi sunt obstricti: &amp; ipsi vicissim 
+      <lb ed="#H" n="106"/>fideles pietatem suam tam coram Deo &amp; Angelis, quam apud 
+      homi<lb ed="#H" n="107" break="no"/>nes testantur. Dicitur etiam signum invisibilis gratiae, quia federit 
+      <lb ed="#H" n="108"/>gratiam quasi sigillum obsignat: minime autem quia gratiam in 
+      se<lb ed="#H" n="109" break="no"/>continet vel efficit.  
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e139">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Dicitur frequentissime mysterium, quia significat res arcanas &amp; 
+      <lb ed="#H" n="111"/>ignotas illis qui verbo Dei de significatione &amp; usu eius non sunt 
+      edo<lb ed="#H" n="112" break="no"/>cti: quia in eo aliud videtur, aliud intelligitur  
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e150">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Ubiquitarii ideo mysterium dici putant, quia modus percepionis 
+      <lb ed="#H" n="114"/>corporalis sit imperscrutabilis. At falsa est haec causa: quia perceptio 
+      <lb ed="#H" n="115"/>corporalis fundamentum in Scriptura nullum habet, sed est 
+      huma<lb ed="#H" n="116" break="no"/>num figmentum &amp; somnium. Deinde verus modus perceptionis est 
+      <lb ed="#H" n="117"/>nobis patefactus, quod perceptio sit spiritualis, quod fiat fide: 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e167">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Aliud est Sacramentum, aliud Testamentum: quia 
+      Sacramen<lb ed="#H" n="119" break="no"/>tum est Testamenti sigillum 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e176">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>Sacramenta federis gratiae solis fidelibus instituta sunt a Deo. 
+      <lb ed="#H" n="121"/>Sicut verbum non acceptum fide est inanis sonitus: sic 
+      Sacra<lb ed="#H" n="122" break="no"/>mentum non acceptum fide, quae credit id quod ritus significat, est 
+      in<lb ed="#H" n="123" break="no"/>utilis ceremonia &amp; inane spectaculum. Ideo Sacramenta impiis &amp; 
+      <lb ed="#H" n="124"/>incredulis non sunt Sacramenta quantum ad ipsos attinet: quia ipsis 
+      <lb ed="#H" n="125"/>non sigilla justitiae fidei. Nec eorum externa perceptio prodest 
+      ii<lb ed="#H" n="126" break="no"/>qui destituti manent &amp; vacui veritate eorum interna. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e196">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Sacramenta quidem manent Sacramenta quod ad Deum attinet. 
+      <lb ed="#H" n="128"/>Sacramenta sunt signa gratiae conversis, sed amittunt vim &amp; 
+      ratio<lb ed="#H" n="129" break="no"/>nem Sacramenti, quod attinet ad infideles iis abutentes. Nam ex 
+      <lb ed="#H" n="130"/>presse dicitur Roman. 2. vers. 25. Si transgressor legis es, circumcisio 
+      <lb ed="#H" n="131"/>tua praeputium est. Et Jerem. 9. vers. 26. tota domus Israelis 
+      prae<lb ed="#H" n="132" break="no"/>putiati sunt corde. Et 1. Corinth. 11. 20. de Coena Domini 
+      uten<lb ed="#H" n="133" break="no"/>libus sine vera pietate: Hoc non est coenam Domini edere. Unde 
+      <lb ed="#H" n="134"/>recte dictum est ab Augustino in Johan. tractat. 80. Si carnaliter 
+      <lb ed="#H" n="135"/>accipis spirituale esse non desinit, sed tibi non est: &amp; a 
+      Chrysosto<lb ed="#H" n="136" break="no"/>mo super quartum caput ad Romanos homilia octava, σημειον κι τῶτο 
+      <lb ed="#H" n="137"/>εστιν, δζαν πξαγμα φαενεταμ παρογσοι, τοτεστον η πισις, ως αυ μῆη τοθτυυσ 
+      <lb ed="#H" n="138"/>χης θδιε κγ σημειον λοεπόν εἰναι σημειον υυνατει, κνος το ἐοσαι σημειον; 
+      <lb ed="#H" n="139"/>δνος δε σφραγις, οκ δνlος σοῦ σφραγιζομδης, hoc est: Signum &amp; 
+      ho<lb ed="#H" n="140" break="no"/>est, quum ipsa res penes te exstiterit, hoc est, ipsa fides; 
+      quandoqui<lb ed="#H" n="141" break="no"/>dem si hac carueris, ne ipsum quidem signum, signum esse potest: 
+      Cu<lb ed="#H" n="142" break="no"/>ius enim signum erit; cuius signaculum? quum non sit qui 
+      obsigne<lb ed="#H" n="143" break="no"/>tur. Et mox: ei το δικαροσυωκς ἐσί σημειον, δεκανοσυθκ δο κκ εχεις, 
+      <lb ed="#H" n="144"/>δδε σημειον ἔχι, hoc est, Si enim justitiae ea signum est, justitia autem 
+      <lb ed="#H" n="145"/>carueris, sit ut ne signum quidem habeus 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e242">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>Usus ergo legitimus, seu usurpatio legitima Sacramenti federis 
+      <lb ed="#H" n="147"/>gratiae, non est sola observatioritus externi sine fide referente ritum 
+      <lb ed="#H" n="148"/>ad finem illum, cujus gratia a Deo institutus est. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e253">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>Sacramentis enim federis gratiae non alia promissio est addita, 
+      <lb ed="#H" n="150"/>quam gratiae, quae semper habet adjunctam conditionem fidei, sive 
+      <lb ed="#H" n="151"/>expressam, sive intellectam 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e264">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Sacramenta non facit fides, sicut eadem fides non facit verbum 
+      au<lb ed="#H" n="153" break="no"/>dibile: sed fides est ustrumentum, medium, &amp; manus, qua 
+      acci<lb ed="#H" n="154" break="no"/>piuntur res significatae &amp; oblatae a Deo per verbum &amp; 
+      Sacra<lb ed="#H" n="155" break="no"/>menta 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e278">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Sacramenta ergo prosunt, hoc est, exhibent &amp; obsignant gratiam, 
+      <lb ed="#H" n="157"/>f 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e287">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Non ex opere operato, hoc est, naturali aptitudine ac vi externi 
+      <lb ed="#H" n="159"/>ipsius operis peracti etiam sine fide &amp; interno bono motu utentis: 
+      <lb ed="#H" n="160"/>vel, ut alii volunt, per modum assistentiae virtutis divinae adsignata. 
+      <lb ed="#H" n="161"/>ex pacto, etiam sine fide, &amp; interno motu utentis: Unde salsum est 
+      <lb ed="#H" n="162"/>Scholasticorum commentum, Sacramenta justificare ex opere 
+      ope<lb ed="#H" n="163" break="no"/>rato; neque enim Sacramerta utentibus justitiam infundunt ut cut 
+      <lb ed="#H" n="164"/>urceus effunditur in vas; aut vi sibi indita imprimunt gratiam, sicu 
+      <lb ed="#H" n="165"/>malleo impellitur clavus in parietem aut metallo imprimitur signum 
+      <lb ed="#H" n="166"/>aliquod.  
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e311">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Nec ex opere operantis, hoc est, ex devotione &amp; merito utem 
+      <lb ed="#H" n="168"/>tis 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e320">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>Sed ex promissione Dei instituentis Sacramentum &amp; ex fide 
+      viva<lb ed="#H" n="170" break="no"/>hominis utentis Sacramento 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e329">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Caeterum &amp; verbum &amp; Sacramenta fidem nostram ad Christum 
+      <lb ed="#H" n="172"/>tanquam unicum salutis nostrae fundamentum, deducunt  
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e338">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Sacramenta federis gratiae idem nunciant oculis, quod verbum; 
+      <lb ed="#H" n="174"/>Evangelii nunciat autibus. Hinc appellatur Sacramentum, 
+      Evange<lb ed="#H" n="175" break="no"/>lium visibile. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e350">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Igitur nihil aliud in Sacramentis nobis proponitur: offertur &amp; 
+      <lb ed="#H" n="177"/>datur &amp; obsignatur, quam in Evangelio promittitur &amp; annunm 
+      <lb ed="#H" n="178"/>ciatur: sed unum idemque, nempe Christus cum suis beneficiis 
+      <!--cod-MkL9py-0519.xml-->
+      <pb ed="#H" n="492"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>h autem ipe Christus. Matth. 3. 11. Ego baptizxo vos aqua, alius est qui  
+      <lb ed="#H" n="2"/>nempe Christum cum suis beneficiis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e372">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Atque eadem est Christi sive in simplici verbo; ut Ioh. 6. sive in 
+      Sa<lb ed="#H" n="4" break="no"/>cramentis perceptio, nempe spiritualis, id est quae Spiritus Sancti 
+      vir<lb ed="#H" n="5" break="no"/>tute &amp; unico fidei instrumeto peragitur. Non differt perceptio Christ. 
+      <lb ed="#H" n="6"/>in verbo &amp; Sacramentis reipsa: nam utrobique est eadem res, eader 
+      <lb ed="#H" n="7"/>substantia, nempe Christus cum suis beneficiis. Non differt modo 
+      <lb ed="#H" n="8"/>utrobique enim est spiritualis. Non differt instrumento perceptionisi, 
+      <lb ed="#H" n="9"/>nam utrobique instrumentum perceptionis est fides. Quomodo 
+      igi<lb ed="#H" n="10" break="no"/>tur differt perceptio Christi in simplici verbo &amp; Sacramentis? 
+      Exter<lb ed="#H" n="11" break="no"/>na tantum forma: quoniam videlicet in Sacramentis signa 
+      corpo<lb ed="#H" n="12" break="no"/>ralia verbo promissionis adiunguntur. In simplici verbo Deus 
+      per<lb ed="#H" n="13" break="no"/>praedicationem &amp; autes tantum nobiscum agit: in Sacramentis 
+      ve<lb ed="#H" n="14" break="no"/>ro adhibet praeterea signa in reliquos sensus etiam incurrentia: unde 
+      <lb ed="#H" n="15"/>sit ut vehementior &amp; expressior sit Sacramentalis, quam nuda per 
+      <lb ed="#H" n="16"/>simplex verbum communicatio 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e407">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Partes Sacramenti federis gratiae voce Sacramenti late accepta 
+      <lb ed="#H" n="18"/>sunt; signa, res &amp; verbum institutionis promissionisque: stricte 
+      ve<lb ed="#H" n="19" break="no"/>to accepta voce Sacramenti, partes eius duae sunt: res terrena, &amp; 
+      <lb ed="#H" n="20"/>actio externa seu ritus externus, Genes. 17. 11. Exod. 12. 8. &amp; seqque 
+      <lb ed="#H" n="21"/>Matth. 3. 11. &amp; 28. 9. Matth. 26. 26. &amp; seq. 1. Cor. 11. 23, 24, 25. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e423">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Res terrena sola perfectum &amp; integrum Sacramentum non est: 
+      <lb ed="#H" n="23"/>sed oportet actionem externam seu ceremoniam, &amp; usum rei terrenae 
+      <lb ed="#H" n="24"/>a Christo institutum accedere, cum vera fide coniunctum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e434">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Nihil enim habet rationem Sacramenti extra usum a Christo 
+      in<lb ed="#H" n="26" break="no"/>stitutum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e443">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Res terrena in Sacramento, est signum seu Symbolum, quo res 
+      <lb ed="#H" n="28"/>caelestis fidelibus promissa non tantum similitudine quadam reprae 
+      <lb ed="#H" n="29"/>sentatur &amp; significatur, sed etiam simul cum eo exhibetur, ita ut certe 
+      <lb ed="#H" n="30"/>reddantur fideles tam certo rem calestem spiritualiter adesse, eisque 
+      <lb ed="#H" n="31"/>dari, quam certo corporaliter ante oculos rem terrenam praesentem 
+      <lb ed="#H" n="32"/>vident, Gen. 17. 11. Rom. 4. 11 Ezech. 36. 25. Dicitur res 
+      terrena<lb ed="#H" n="33" break="no"/>quia est e terra: &amp; in terris, &amp; terreno modo, hoc est, corporaliter 
+      ac<lb ed="#H" n="34" break="no"/>cipitur? 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e466">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>ipse Christus, per Spiritum Sanctum fidei nostrae res promissat 
+      <lb ed="#H" n="36"/>prae sentes facit: fides autem eas accipi¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e475">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Fides non efficit eam praesentiam: sed ipse Christus. 
+      <lb ed="#H" n="38"/>Res caelestis per rem terrenam in Sacramento significata, nobisque  
+      <lb ed="#H" n="39"/>obsignata ac confirmata, est novum Testamentum, seu fedus gratiae, 
+      <lb ed="#H" n="40"/>sanguine Christi ratum factum: seu, quod eodem redit, Christus 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e488">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>I 
+      <lb ed="#H" n="42"/>caelestis, quia in caelis est, &amp; modo caelesti, id est, fide &amp; spiritu 
+      percipi<lb ed="#H" n="43" break="no"/>tur: &amp; vitam calestem in nobis alit. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e499">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Ergo non est in ministro aut terrenis elementis haerendum: sed ad 
+      <lb ed="#H" n="45"/>res promissas oculi fidei sunt convertendi. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e508">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>Propterea res terrena, more loquendi in Scriptura &amp; Ecclesia 
+      tri<lb ed="#H" n="47" break="no"/>to &amp; perspicuo, etiam saepe nomine rei caelestis appellatur; quia per 
+      <lb ed="#H" n="48"/>tem terrenam significatur, intelligitur &amp; obsignatur res caelestis. 
+      <lb ed="#H" n="49"/>Exod. 24. 8. sanguis victimarum dicitur sanguis federis. Genes. 17. 
+      <lb ed="#H" n="50"/>1o. Circumcisio nominatur fedus. Exod. 12. 11. Agnus paschalis 
+      ap<lb ed="#H" n="51" break="no"/>pellatur transitus. Tit. 3. 5. Baptismus nominatur lavacrum 
+      regene<lb ed="#H" n="52" break="no"/>rationis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e528">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Quomodo autem hae Sacramentales locutiones intelligi &amp; 
+      expli<lb ed="#H" n="54" break="no"/>cari debeant, ipsa Scriptura declarat: quia res terrena sit signum fede 
+      <lb ed="#H" n="55"/>ris, Gen. 17. 11. quia sit sigillum justitiae fidei, Rom. 4. 11. quia sit 
+      me<lb ed="#H" n="56" break="no"/>moriale mortis Christi Luc. 22. 19. 1. Cor. 11. 24 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e542">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>IIdque sit per metaphoram &amp; metonymiam sacramentalem, quam 
+      <lb ed="#H" n="58"/>nempe signum vel ponitur pro re signata, vel appellatur nomine rei 
+      <lb ed="#H" n="59"/>signatae. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e553">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>Sic fuit dere terrena: sequitur de actione externa. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e560">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>in Sacramento. 
+      <lb ed="#H" n="62"/>Actio externa in Sacramento, hoc est, ritus seu ceremonia quae in 
+      <lb ed="#H" n="63"/>Sacramento juxta institutionem Christi observari debet, est signum 
+      <lb ed="#H" n="64"/>actionis internae, quae a Deo &amp; anima fidelis hominis perficitur: 
+      <lb ed="#H" n="65"/>Deut. 30.6. Matth. 3. 11. Romi6. 3. 1. Cor. 6. 11. Coloss. 2. 11. Act. 22. 
+      <lb ed="#H" n="66"/>v. 16. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e578">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Actio haec duplex est: alia ministri Sacramentum administran 
+      <lb ed="#H" n="68"/>tis, alia fidelis Sacramento utentis: 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e587">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Actio ministri Sacramentum administrantis est duplex: sanctisi 
+      <lb ed="#H" n="70"/>catio rei terrenae, &amp; administratio ejusdem. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e596">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Sanctificatio rei terrenae, est actio ministri, quam destinat rem 
+      ter<lb ed="#H" n="72" break="no"/>renam ad sanctum usum ex mandato Dei, ad significandum, aeque 
+      <lb ed="#H" n="73"/>certo rem caelestem e Deo ipso ad salutem animarum nostrarum 
+      de<lb ed="#H" n="74" break="no"/>stinatam esse. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e610">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>Proinde doctrinae de federe Dei cum hominibus ante omnia 
+      ex<lb ed="#H" n="76" break="no"/>plicatio requititur: &amp; tum recitatio verborum institutionis Sacramenti 
+      <lb ed="#H" n="77"/>est necessaria, ut sic verbum Dei proponatur, quo ordinatum &amp; 
+      insti<lb ed="#H" n="78" break="no"/>tutum est a Deo ipso Sacramentum: quo res terrena sanctificetur, &amp; 
+      <lb ed="#H" n="79"/>ad sacrum usum consecretur, quia eam verbum mandati &amp; 
+      promissio<lb ed="#H" n="80" break="no"/>nis Dei continetur, Ideo ait Augustinus: Accedit verbum ad ele 
+      <lb ed="#H" n="81"/>mentum, &amp; sit Sacramentum 1. Corinth. 11. v. 23, 24, 25. 
+      Appel<lb ed="#H" n="82" break="no"/>latur etiam Consecratio &amp; Confectio Sacramenti, item μεζαβολη, 
+      mu<lb ed="#H" n="83" break="no"/>tatio signorum non quoad substantiam, quantitatem aut qualitatem 
+      <lb ed="#H" n="84"/>sed tantum quoad finem, officium seu usum; quia illius usus 
+      muta<lb ed="#H" n="85" break="no"/>tur, qui non amplius est corporalis, &amp; profanus, sed spirituals &amp; 
+      san<lb ed="#H" n="86" break="no"/>ctus, ad substantiam signi adjecta gratia, 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e641">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Administratio rei terrenae, est altera ministri actio, qua 
+      significa<lb ed="#H" n="88" break="no"/>tur, tam certo DEUM nobis promissa bona offerre &amp; dare: quam 
+      <lb ed="#H" n="89"/>certo rem terrenam a ministro verbi nobis offerri &amp; dari videmus, 1. 
+      <lb ed="#H" n="90"/>Cor. 11. 23. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e654">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Rem terrenam dispensat &amp; exhibet minister verbi: rem caelestem 
+      <!--cod-MkL9py-0519.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>Nihil aliud in Sacramentis percipimus, quam in simplici verbo, τ 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e667">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>baptizat Spiritu Sancto 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e674">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>Haec de actione ministri Sacramentum admi¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e681">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>nistrantis. 
+      <lb ed="#H" n="96"/>Actio fidelis Sacramento utentis, est perceptio rei terrenae, quas 
+      <lb ed="#H" n="97"/>gnificatur ipsum tam certo spiritualiter promissa bona caelestia acci 
+      <lb ed="#H" n="98"/>pere, quam certo rem terrenam corporaliter percipit. Rom. 4. v. 11 
+      <lb ed="#H" n="99"/>Matth. 26. v. 26. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e698">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Verba promissionis gratiae &amp; rem terrenam, accipimus ex ore &amp; 
+      <lb ed="#H" n="101"/>B 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e707">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Externa perceptio sit corpore, interna non nisi per fidem &amp; 
+      Spiri<lb ed="#H" n="103" break="no"/>tus Sancti in cordibus efficaciam: complectitur enim interna 
+      perce<lb ed="#H" n="104" break="no"/>ptio unionem cum Christo, iustificationem, regenerationem, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e718">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Rem terrenam accipimus corpore, hoc est, membris, actionibus &amp; 
+      <lb ed="#H" n="106"/>sensibus corporis, oculis, autibus, manibus, ore &amp; stomacho, visu, 
+      <lb ed="#H" n="107"/>auditu, tactu, gustu &amp; olfactu: res autem caelestes accipimus animo, 
+      <lb ed="#H" n="108"/>per fidem &amp; Spiritus Sancti efficaciam 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e731">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Ideo accipiunt rem terrenam non tantum fideles, sed etiam 
+      infide<lb ed="#H" n="110"/>: sed rem caelestem tantum fideles. 
+      <lb ed="#H" n="111"/>le¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e742">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Hae igitur sunt partes Sacramenti, quae ad cuiusque Sacramenti 
+      <lb ed="#H" n="113"/>stricta significatione sic dicti, quo fedus gratiae obsignatur, 
+      perfectio<lb ed="#H" n="114" break="no"/>nem requiruntur: cum quibus si in vero usu res caelestes &amp; actio 
+      in<lb ed="#H" n="115" break="no"/>terna &amp; caelestis coniungantur, nominatur haec coniunctio unio 
+      Sa<lb ed="#H" n="116" break="no"/>cramentalis, quae etiam Sacramentalium locutionum causa est. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e758">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Vnio Sacramentalis, est spiritualis coniunctio Sacramenti cum 
+      <lb ed="#H" n="118"/>rebus quarum est Sacramentum, seu est coniunctio signorum &amp; 
+      re<lb ed="#H" n="119" break="no"/>rum, id est, rei terrenae cum caelesti, &amp; actionis externae cum actione 
+      <lb ed="#H" n="120"/>interna, non physica &amp; localis, sed spiritualis, pactionalis &amp; relativa. 
+      <lb ed="#H" n="121"/>uae in ordinatione divina signi ad tem, &amp; spirituali exhibitione &amp; 
+      <lb ed="#H" n="122"/>perceptione signorum, vere coniuncta exsistit. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e777">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Ut autem Sacramenti stricte accepti duae sunt partes: ita etiam 
+      <lb ed="#H" n="124"/>unionis sacramentalis 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e786">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Prima pars est unio rei terrenae cum re caelesti. 
+      <lb ed="#H" n="126"/>Hanc rem caelestem non necesse est substantialiter &amp; corporaliter 
+      <lb ed="#H" n="127"/>esse in re terrena, vel in eo loco in quo res terrena est: quia haec unio 
+      <lb ed="#H" n="128"/>est mere spiritualis 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e799">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>Nec sequitur, si corporaliter praesens non est in terra, in re 
+      terrena<lb ed="#H" n="130" break="no"/>vel in loco, in quo est res terrena, propterea praesentem non esse: quia 
+      <lb ed="#H" n="131"/>etiam vere praesens est, quod spiritualiter praesens est. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e810">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>Altera pars unionis sacramentalis est coniunctio actionis externae 
+      <lb ed="#H" n="133"/>cum actione interna. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e819">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Nam in legitimo usu Sacramenti conjuncta est exhibitio &amp; 
+      per<lb ed="#H" n="135" break="no"/>ceptio signi &amp; rei signatae: signi quidem corporalis ex manu 
+      mini<lb ed="#H" n="136" break="no"/>stri; rei vero signatae spiritualis per fidem veram, ex manu ipsius 
+      <lb ed="#H" n="137"/>Christi. 
+      <lb ed="#H" n="138"/>Sacramentum enim non tantum terrena &amp; corporalis, sed etiam 
+      <lb ed="#H" n="139"/>caelestis &amp; spiritualis actio est in qua non tantum res terrena, quae in 
+      <lb ed="#H" n="140"/>terra est, sed etiam illae res quae in caelo &amp; quae in Deo &amp; quae in 
+      cordi<lb ed="#H" n="141" break="no"/>bus fidelium sunt, nobis sunt praesentes. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e841">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>Et Spiritus Sanctus nos cum Christo conjungens, etiam 
+      longissi<lb ed="#H" n="143" break="no"/>me distantia, quod ad loci intervallum attinet, copulat multo arctius 
+      <lb ed="#H" n="144"/>&amp; propius, quam vel anima cum corpore, vel vitis cum palmite est 
+      <lb ed="#H" n="145"/>coniuncta. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e855">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>Hactenus fuit de partibus Sacramenti federis gratiae: 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e862">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>sequuntur fines 
+      <lb ed="#H" n="148"/>Sacramenti federis gratiae sunt hi fines, omnibus speciebus 
+      Sacra<lb ed="#H" n="149" break="no"/>menti federis communes: 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e873">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>I. Ut sit monimentum, signum &amp; sigillum federis gratiae &amp; 
+      com<lb ed="#H" n="151" break="no"/>munionis cum Christo in federe promissae, atque adeo beneficiorum Dei 
+      <lb ed="#H" n="152"/>tum exhibitorum, tum exhibendorum: id est, ut commonefaciat, 
+      cer<lb ed="#H" n="153" break="no"/>tos reddat &amp; obsignet fideles de collatis vel conferendis in eos Christ. 
+      <lb ed="#H" n="154"/>beneficiis. Sic Pascha erat memoriale non modo praeteritae 
+      liberatio<lb ed="#H" n="155" break="no"/>nis ex AEgypto, sed etiam futurae liberationis per Christum. Sic sacra 
+      <lb ed="#H" n="156"/>Coena est memoriale non tantum redemtionis factae in cruce, sed 
+      et<lb ed="#H" n="157" break="no"/>iam perficiendae, cum veniet judicatum vivos &amp; mortuos, &amp; suos 
+      ele<lb ed="#H" n="158" break="no"/>ctos plene liberabit a peccato &amp; omnibus hostibus, resuscitans 
+      cor<lb ed="#H" n="159" break="no"/>pora eorum ex mortuis Luc. 21. 28. 1. Cor. 11. 26. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e899">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Hinc etiam intelligitur, quomodo Sacramenta nos servent, 
+      nimi<lb ed="#H" n="161" break="no"/>rum non ut causae efficientes vel instrumenta conferentia gratiam &amp; 
+      <lb ed="#H" n="162"/>salutem, &amp; quidem ex opere operato, sine bono motu utentis, ut 
+      im<lb ed="#H" n="163" break="no"/>pie docuerunt Papistae: sed velut signa &amp; sigilla obsignantia 
+      creden<lb ed="#H" n="164" break="no"/>tibus gratiam &amp; salutem, quae a Deo ipso confertur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e915">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>2. Ut nos admoneat obligationis quam nos Deo obstrinximus 
+      <lb ed="#H" n="166"/>hos futuros eius populum; ac proinde ut eo exerceatur, augeatur &amp; 
+      <lb ed="#H" n="167"/>confirmetur fides nostra. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e926">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>3. Ut eo excitemur ad recordationem Christi &amp; gratiarum 
+      actio<lb ed="#H" n="169" break="no"/>nem pro beneficiis redemtionis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e936">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>4. Ut sit vinculum mutuae dilectionis &amp; concordiae in Ecclesia; 
+      <lb ed="#H" n="171"/>hoc est, ut eius communicatione, mutua charitate magis ac magis 
+      in<lb ed="#H" n="172" break="no"/>ter nos devinciamur: unus panis, unum corpus multi sumus. I. 
+      Co<lb ed="#H" n="173" break="no"/>rinth. 10. 17. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e949">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Ut sit nervus publicorum congressuum &amp; conservationis 
+      mi<lb ed="#H" n="175" break="no"/>nisterii Ecclesiastici. Exod. 12. v. 16. 1. Cor. 11. 20. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e958">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>6. Ut sit nota professionis, qua tanquam tessera, Ecclesia ab 
+      infi<lb ed="#H" n="177" break="no"/>delibus discernatur. Exod. 12 v. 43. Nullus alienigena vescitor illo 
+      <lb ed="#H" n="178"/>Sic circumcisio discernebat Iudaeos ab aliis Gentibus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e969">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>It ab esu Deo immolatorum omnes impuri prohibebantur, 
+      com<lb ed="#H" n="180" break="no"/>minatione addita, quod quicunque immundus de iis edisset, eius 
+      ani<lb ed="#H" n="181" break="no"/>ma exscindenda foret e populo suo, Lev. 7. v. 20. ita nomo impurus 
+      <lb ed="#H" n="182"/>&amp; infideli Sacramento federis gratiae uti debet.  
+      <!--cod-MkL9py-0520.xml-->
+      <pb ed="#H" n="493"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>7. Ut sit testimonium confessionis &amp; societatis cum Ecclesia. Sextus 
+      <lb ed="#H" n="2"/>finis pertinet ad totam Ecclesiam: at septimus ad singulos fideles 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e993">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Qui non fuerit circumcisus, ejus anima exscindatur e populo DEI. 
+      <lb ed="#H" n="4"/>Genes. 17. 14. Qui non utitur Sacramentis cum possit, ostendit se 
+      <lb ed="#H" n="5"/>non esse membrum Ecclesiae &amp; socium confessionis. Sacramentum 
+      e<lb ed="#H" n="6" break="no"/>nim est testimonium, quod testatur, eum qui Sacramento utitur, 
+      perti<lb ed="#H" n="7" break="no"/>nere ad coetum Ecclesiae, habere societatem cum ea. Qui in coetu ali 
+      <lb ed="#H" n="8"/>quo (acramento utitur, is hoc usu testatur, se amplecti confessionem 
+      <lb ed="#H" n="9"/>illius coetus, &amp; habere societatem cum ipso¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e1013">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>8. Ut praebeat occasionem tum junioribus inquirendi &amp; 
+      discenc<lb ed="#H" n="11" break="no"/>beneficia DEI, tum parentibus aliisque ea explicandi. Exod. 13. 14. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e1023">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Sic etiam fuerunt fines federis gratiae iique. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e1030">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>communes. 
+      <lb ed="#H" n="14"/>Sacramentum federis gratiae duplex est, veteris Testamenti vel 
+      <lb ed="#H" n="15"/>Eaque conveniunt &amp; paria sunt significatione &amp; re significata: quia 
+      <lb ed="#H" n="16"/>eandem tem signatam ambo significant &amp; obsignant, nempe 
+      Chri<lb ed="#H" n="17" break="no"/>stem cum omnibus suis beneficis. Augustinus in Psal. 77. &amp; Tractat.  
+      <lb ed="#H" n="18"/>26. in Johan¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e1048">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Hinc Sacramenta veteris &amp; novi Testamenti inter se collata, 
+      dicun<lb ed="#H" n="20" break="no"/>tur antitypa 1. Pet. 3. v. 21 sicut ad Christum relata, sunt typi illius 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e1057">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Differunt vero aliquot modis: 
+      <lb ed="#H" n="22"/>I Signis Sacramentalibus: alia enim fuerunt signa externa in veteri 
+      <lb ed="#H" n="23"/>Testamento alia &amp; simpliciora sunt in novo¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e1068">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>2. Modo significa adi: nam Sacramenta vetera Christum 
+      exhiben<lb ed="#H" n="25" break="no"/>dum significabint: nova exhibitum significant 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e1077">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>3. Ampl tudine: nam vetera tantum ad posteros Abrahami 
+      perti<lb ed="#H" n="27" break="no"/>nuerunt: nova ad totam Ecclesiam ex quocunque populo collectam? 
+      <lb ed="#H" n="28"/>pertinent. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e1089">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>4. Claritate: nam vetera obscuriora fuerunt; nova clariora sunt  
+      <lb ed="#H" n="30"/>Hinc dicitur, vetera Sacramenta fuisse umbram, nostra esse imaginem 
+      <lb ed="#H" n="31"/>idque intelligendum de obscuritate veterum, &amp; claritate novorum 
+      Sa<lb ed="#H" n="32" break="no"/>crainentorum. Non enim possunt signa rerum exhibitatum non esse 
+      <lb ed="#H" n="33"/>clariora &amp; melius intelligi, signis rerum futurarum; sicut narratio 
+      pre<lb ed="#H" n="34" break="no"/>aeritorum est clarior praedictione futurorum. Sicut doctrina, sic etiam 
+      <lb ed="#H" n="35"/>signa veteris Testamenti sunt obscuriora, quam novi¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e1109">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>SEssi acia: nam per nova Sacramenta efficacius &amp; uberius Spiritus 
+      <lb ed="#H" n="37"/>Sancti gratia operatur. quam per vetera. Nam ut res figuratae, sic eari 
+      <lb ed="#H" n="38"/>communio seu perceptio non differt specie, sed tantum gradu. Col. 2. 
+      <lb ed="#H" n="39"/>In quo etiam circumcisi estis. Per Sacramenta enim novi Testamenti 
+      ex<lb ed="#H" n="40" break="no"/>pressius &amp; vehementius beneficia Christi reprae sentantur &amp; obsignan: 
+      <lb ed="#H" n="41"/>tur, qua per veteris Testamenti Sacramenta repraesentata fuerunt.  
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e1127">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>6. Duratione:nam vetera Sacramenta solummodo usque ad 
+      comple<lb ed="#H" n="43" break="no"/>mentum a Chr sto factum durare debuetunt: at nova usque ad fine mundi 
+      <lb ed="#H" n="44"/>sunt duratura. 1. Cor 11. v. 26. Ex his iisdem modis perspicitur etiam, 
+      <lb ed="#H" n="45"/>nostra Sacramenta esse praestantiora Sacramentis veteris Testamenti 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e1140">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>Sacramenta autem veteris Testamenti non fuerunt figurae Sacramen 
+      <lb ed="#H" n="47"/>torum novi Testamenti. 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e1149">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>I. Quia sic Sacramenta novi Testamenti fuissent res signata veteru 
+      <lb ed="#H" n="49"/>Sacramentorum: quod est absurdum Sic enim Sacramentorum Sacramenta 
+      <lb ed="#H" n="50"/>fuidsent, non aut signa federis cum Patribus a Deo initi: non signa gratiae 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e1160">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>2. Qui: sic fuissent signa rerum, quae Patribus neque cognitae, neque 
+      <lb ed="#H" n="52"/>a Deo datae fuissent 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e1170">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Qua firveteres credendo futurum baptismum &amp; coenam 
+      Do<lb ed="#H" n="54" break="no"/>mini, servati fuissent: nam profecto id credendo, quod ipsorum 
+      Sacra<lb ed="#H" n="55" break="no"/>menti significabant servati sunt 
+    </p>
+            <p xml:id="yyy8Uu-gxd720-d1e1181">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>4. Quia sic alia fuisset res significata veterum Sacramentorum, alia 
+      <lb ed="#H" n="57"/>novorum. Nam vererum res significata essent nova Sacramenta: 
+      no<lb ed="#H" n="58" break="no"/>vorum autem Christus cum suis beneficiis. Vide Zach. Ursini consu 
+      <lb ed="#H" n="59"/>der. part. 2. pag. 539. in octavo. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

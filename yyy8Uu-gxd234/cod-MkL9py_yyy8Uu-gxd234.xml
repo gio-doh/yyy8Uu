@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd234"><!-- l9-c10 -->
+            <head xml:id="yyy8Uu-gxd234-Hd1e103">Caput 10</head>
+            <p xml:id="yyy8Uu-gxd234-d1e106">
+               <lb ed="#H" n="168"/>CAPUT X 
+      <lb ed="#H" n="169"/>In quo De Charitate erga Deum;
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e113">
+               <lb ed="#H" n="170"/>SPEM in Deo sequitur ordine charitas erga Deum, quae spe 
+      poste<lb ed="#H" n="171" break="no"/>rior est ordine Quum enim per fidem promissionem de vita 
+   ae<lb ed="#H" n="172" break="no"/>terna admisimus, spes eam assequendi concipitur, atque hinc 
+      a<lb ed="#H" n="173" break="no"/>mor erga Deumoritur. Non enim amamus eum, a quo non speramus. 
+      <lb ed="#H" n="174"/>nos posse adipisci quae exoptamus &amp; quae ille promisit. 
+      <lb ed="#H" n="175"/>De charitate autem erga Deum duo sunt consideranda: Unum in 
+      <lb ed="#H" n="176"/>genere, An sit discrimen inter dilectionem, amorem &amp; charitatem: 
+      <lb ed="#H" n="177"/>Alterum in specie, quid sit charitas erga Deum, quae ejus causa, 
+      effe<lb ed="#H" n="178" break="no"/>cta, subjecta, adjuncta, dissentanea? &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e135">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>Differunt communiter dilectio, amor &amp; charitas: Dilectionem 
+      <lb ed="#H" n="180"/>enim minore faciunt amore, amorem majore dilectione, charitatem 
+      <!--cod-MkL9py-0629.xml-->
+      <pb ed="#H" n="600"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>majorem amore. Cicero epistolam ad Dolabellam: Quis erat qui 
+      pu<lb ed="#H" n="2" break="no"/>taret ad eum amorem, quem erga te habebam, posse aliquid 
+      accede<lb ed="#H" n="3" break="no"/>re? tantum tamen accessit, ut mihi denique nunc amare videar, an 
+      <lb ed="#H" n="4"/>tea dilexisse. Eodem sensu ad Filium scribit: Sed tamen ut scires, eum 
+      <lb ed="#H" n="5"/>a me non diligi solum, verum etiam amari, &amp;c. Dilectio &amp; 
+      electio<lb ed="#H" n="6" break="no"/>idem pene sunt: significantior tamen vox est dilectio, quia includit &amp; 
+      <lb ed="#H" n="7"/>judicium eligentis, &amp; actionem sejungentis electam rem ab aliis. 
+      Di<lb ed="#H" n="8" break="no"/>lectionem amor sequitur, per quam rei quam diligimus affectu 
+      uni<lb ed="#H" n="9" break="no"/>mur: Amor enim unit amantem cum amato. Amore autem 
+      majo<lb ed="#H" n="10" break="no"/>est charitas per quam ita complectimur rem amatam, ut omnibus. 
+      <lb ed="#H" n="11"/>modis enitamur, ne ea careamus unquam. Dilectio ergo est affectus 
+      <lb ed="#H" n="12"/>levior, amor vehementior, charitas ibi statuitur, ubi conjunctio 
+      a<lb ed="#H" n="13" break="no"/>ctior &amp; perpetua intercedit. Haec est usitata trium istarum vocum di 
+      <lb ed="#H" n="14"/>stinctio: at in rebus divinis discrimen istud non semper observatur. 
+      <lb ed="#H" n="15"/>in-primis quum de charitate erga Deum agitur: &amp; si quod 
+      discrimen<lb ed="#H" n="16" break="no"/>est, amor &amp; charitas erga Deum causa sunt dilectionis: haec vero est 
+      <lb ed="#H" n="17"/>fectum est charitatis &amp; amoris erga Deum. Sic autem definitur 
+      cha<lb ed="#H" n="18" break="no"/>ritas erga Deum: 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e190">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Charitas erga Deum, est virtus per quam creatura rationalis Deo 
+      <lb ed="#H" n="20"/>unita adhaeret, in eo se oblectat, in eo laetatur &amp; unice acquiescit, 
+      pro<lb ed="#H" n="21" break="no"/>pterea quod ipse sit summum bonum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e202">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Estque vel naturalis vel supernaturalis 
+      <lb ed="#H" n="23"/>Charitas naturalis erga Deum, est quae Adami natura a Deo 
+      con<lb ed="#H" n="24" break="no"/>creata erat ab origine. Nam si sine charitate a Deo creatus est, ejus 
+      <lb ed="#H" n="25"/>similitudinem in creatione sui nequaquam accepit. Si sine charitate 
+      <lb ed="#H" n="26"/>creatus est, justus &amp; innocens a Deo factus non est: creatura 
+      nam<lb ed="#H" n="27" break="no"/>que rationis capax &amp; liberi arbitrij, justitiae &amp; innocentiae, sine 
+      chari<lb ed="#H" n="28" break="no"/>tate erga Deum particeps esse non potest: colligitur ergo, quod A 
+      <lb ed="#H" n="29"/>dam antequam peccaret, charitatem habuit, sine qua justus &amp; 
+      inno<lb ed="#H" n="30" break="no"/>cens esse non potuit. Nec tamen illa Deum diligere potuit sine 
+      auxi<lb ed="#H" n="31" break="no"/>lio Dei moventis. Charitatem autem illam Adamus violatione 
+      prae<lb ed="#H" n="32" break="no"/>cepti Dei perdidit. Sed quia sine charitate erga Deum nemo intrat in 
+      <lb ed="#H" n="33"/>regnum coelorum: opus fuit alia ut justitia sic &amp; charitate erga Dei. 
+      <lb ed="#H" n="34"/>um eaque supernaturali, quam renati donarentur, auxilio gratiae 
+      sana<lb ed="#H" n="35" break="no"/>ta natura: sic ut impium dogma illorum sit, qui docent, posse 
+      homi<lb ed="#H" n="36" break="no"/>nem suis naturalibus viribus Deum supra omnia diligere. Definitur  
+      <lb ed="#H" n="37"/>autem charitas erga Deum supernaturalis in hunc modum: 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e241">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Charitas erga Deum supernaturalis, est virtus per Spiritum 
+      San<lb ed="#H" n="39" break="no"/>ctum cordibus, nostris infusa, quam toto corde, tota anima, tota 
+      men<lb ed="#H" n="40" break="no"/>te, totisque viribus, Deo uniti adhaeremus, uti summo nostro bono, 
+      <lb ed="#H" n="41"/>ita ut sicut ipsum aute &amp; super omnia amamus, sic etiam propter 
+      <lb ed="#H" n="42"/>ipsum alia, quae secundum voluntatem ejus diligenda sunt, amore non 
+      <lb ed="#H" n="43"/>stro complexis tamen in ipso solo cordibus nostris unice 
+      conquiesca<lb ed="#H" n="44" break="no"/>mus. Appellatur etiam charitas Dei, Johan. 5. v. 42. 1. Johan. 3. v. 17. 
+      <lb ed="#H" n="45"/>charitas Patris, I. Johan. 2 v. 15. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e263">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>Charitas erga Deum, ut &amp; charitas erga proximum, est virtus ac 
+      <lb ed="#H" n="47"/>proinde habitus, secundum Sacrae Scripturae doctrinam: etsi 
+      chari<lb ed="#H" n="48" break="no"/>tas seu amor sit affectus seu passio secundum Philosophorum 
+      senten<lb ed="#H" n="49" break="no"/>tiam, qui tria constituunt humanarum actionum principia 
+      intern<lb ed="#H" n="50" break="no"/>in hominibus exsistentia, δυναμιν, παθος κι ε8ιν. Nos Scripturam 
+      <lb ed="#H" n="51"/>Sacram ducem sequimur, quae refert charitatem seu amorem erga 
+      <lb ed="#H" n="52"/>Deum inter virtutes Theologicas, id est, quae infunduntur a Deo per 
+      <lb ed="#H" n="53"/>Spiritum Sanctum, &amp; immediate in Deum feruntur 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e285">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Causa efficiens illius alia est primaria, alia secundaria. 
+      <lb ed="#H" n="55"/>Primaria est Deus ipse, qui charitatem infundit cordibus nostris 
+      <lb ed="#H" n="56"/>per Spiritum Sanctum nos regenerantem, sicut dicitur, 1. Johan. 4. 
+      <lb ed="#H" n="57"/>vers. 7. Charitas ex Deo est. Unde charitatem sancti a Deo petunt,  
+      <lb ed="#H" n="58"/>velut Paulus Ephes. 6. vers. 23. Pax sit vobis fratribus, &amp; charitas 
+      <lb ed="#H" n="59"/>cum fide a Deo Patre &amp; Domino Iesu Christo. Et Galat. 5. vers. 22. 
+      <lb ed="#H" n="60"/>Fructus Spiritus est charitas. Subscribit Concilium Arausicanum. 
+      <lb ed="#H" n="61"/>alterum, canone vigesimoquinto sic pronuncians: Prorsus donum 
+      <lb ed="#H" n="62"/>Dei est, diligere Deum. Ipse ut diligeretur dedit, qui non dilectos 
+      di<lb ed="#H" n="63" break="no"/>ligit. Displicentes amati sumus, ut fieret in nobis, unde placeremus 
+      <lb ed="#H" n="64"/>Ergo charitas erga Deum est a Spiritu Sancto: ac proinde non est 
+      <lb ed="#H" n="65"/>Spiritus Sanctus ipse: sic ut Petrus Lombardus turpissime erraverit. 
+      <lb ed="#H" n="66"/>libro primo Sententiarum, Distinctione decimaseptima, capite 
+      se<lb ed="#H" n="67" break="no"/>cundo &amp; aliquot sequentibus contendens, charitatem Dei in nobis 
+      <lb ed="#H" n="68"/>esse ipsummet Spiritum Sanctum. Iste error damnatus est ab 
+      ipsa<lb ed="#H" n="69" break="no"/>met Sorbona Parisiensi &amp; primus positus inter articulos in quibus 
+      <lb ed="#H" n="70"/>Magister sententiarum non tenetur communiter ab omnibus; quem 
+      <lb ed="#H" n="71"/>tamen Guilielmus Occamus excusare conatus est. Atqui aliud est 
+      <lb ed="#H" n="72"/>charitas, aliud charitatis autor. Charitas in nobis erga Deum est, 
+      <lb ed="#H" n="73"/>Spiritu Sancto: Ergo non est ipsemet Spiritus Sanctus. Charita. 
+      <lb ed="#H" n="74"/>in nobis est virtus &amp; qualitas in nobis: Spiritus Sanctus est illius 
+      ef<lb ed="#H" n="75" break="no"/>fector. Charitas in nobis est res creata: Spiritus Sanctus est ejus 
+      <lb ed="#H" n="76"/>creator.  
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e340">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Secundaria causa efficiens illius est tum verbum Dei per quod in 
+      <lb ed="#H" n="78"/>nobis gignitur fides efficax per charitatem, tum fides salvifica quae 
+      <lb ed="#H" n="79"/>per agnitionem bonitatis Dei in nobis charitatem generat; charita; 
+      <lb ed="#H" n="80"/>enim erga Deum ex agnitione bonitatis Dei oritur. 1. Timoth. 8. v 
+      <lb ed="#H" n="81"/>5. Galat. 6. vers. 8. ac proinde quod tradunt Scholastici, charitatem 
+      <lb ed="#H" n="82"/>fide ac spe priorem esse, merum est deliramentum: tum natura 
+      no<lb ed="#H" n="83" break="no"/>stra Spiritus Sancti virtute regenita, atque sic &amp; arbitrium nostrum 
+      <lb ed="#H" n="84"/>per gratiam regenerationis liberatum, atque adeo imago &amp; similis 
+      <lb ed="#H" n="85"/>tudo Dei in nobis per spiritualem regenerationem instaurata: nam 
+      <lb ed="#H" n="86"/>quisquis diligit, ex Deo natus est, &amp; novit Deum 1. Johan. 4 vers. 7 
+      <lb ed="#H" n="87"/>Huc pertinet quod legitur Deuteron. 30. vers. 6. Circumcidet 
+      Ieho<lb ed="#H" n="88" break="no"/>va Deus tuus cor tuum &amp; cor seminis tui ad diligendum Iehovam. 
+      <lb ed="#H" n="89"/>Deum tuum ex toto corde tuo &amp; ex tota anima tua. Expresse autem 
+      <lb ed="#H" n="90"/>licimus causam instrumentalem charitatis esse nostram naturam 
+      <lb ed="#H" n="91"/>per Spiritum Sanctum regeneratam, ac proinde &amp; arbitrium 
+      no<lb ed="#H" n="92" break="no"/>strum per gratiam regenerationis liberatum: quia amor erga Deum; 
+      <!--cod-MkL9py-0629.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>naturalis in nobis, quales sumus post lapsum, nullus est. Ut enim 
+      na<lb ed="#H" n="94" break="no"/>tura sumus filij irae, ita etiam natura prorsus a Deo aversi sumus 
+      ejus<lb ed="#H" n="95" break="no"/>ue odio referti, donec ipse ex gratia corda nostra mutet. Perperam 
+      <lb ed="#H" n="96"/>igitur Papistae aliqui duplicem statuunt amorem quo Deum post 
+      la<lb ed="#H" n="97" break="no"/>plum prosequamur; unum, naturalem: alterum, infusum. Nutura 
+      <lb ed="#H" n="98"/>lem vocant, quo naturaliter a nobis Deus diligatur, priusquam nos 
+      <lb ed="#H" n="99"/>Spiritu suo regeneret, &amp; quo amore naturali tanquam 
+      praepatatio<lb ed="#H" n="100" break="no"/>ne nos mereamur regenerationis gratiam. Quae opinio improba est: 
+      <lb ed="#H" n="101"/>&amp; pestilens. Nam in hominibus post lapsum nullus potest esse 
+      amo<lb ed="#H" n="102" break="no"/>erga Deum nisi divina gratia infusus per Spiritum Sanctum. Qua 
+      <lb ed="#H" n="103"/>propter etiam Bellarminus ipsenmet nostram sententiam approbat 
+      <lb ed="#H" n="104"/>tertio tomo controversiarum, controversiae tertiae parte prima, libro 
+      <lb ed="#H" n="105"/>sexto, capite septimo, ubi ait sententiam hanc, (quae nostra est) esse 
+      <lb ed="#H" n="106"/>Augustini, imo etiam Scripturarum &amp; Conciliorum, quicquid 
+      ali<lb ed="#H" n="107" break="no"/>qui (nimirum Papistae, de illis enim loquitur Jminus considerate in 
+      <lb ed="#H" n="108"/>hac parte scripserint  
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e418">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Finis charitatis nostrae erga Deum supremus est Deus ipse. Nam 
+      <lb ed="#H" n="110"/>Deus diligendus est propter se. Subordinatus finis est ut propter Dei. 
+      <lb ed="#H" n="111"/>lum alia etiam diligamus quae ex Dei voluntate diligenda sunt, sicut 
+      <lb ed="#H" n="112"/>dicitur, 1. Johan. 4. vers. 21. Et hoc praeceptum habemus ab eo, ut qui  
+      <lb ed="#H" n="113"/>diligit Deum, diligat etiam &amp; fratrem suum 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e435">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Effecta charitatis erga Deum sunt actiones ejus internae &amp; 
+      ex<lb ed="#H" n="115" break="no"/>ternae 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e444">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>Interna prima ac principalis est diligere seu amare Deum, cui  
+      <lb ed="#H" n="117"/>conjungitur actio desiderandi seu appetendi eum, si quis eo nondum 
+      <lb ed="#H" n="118"/>fruatur aut nondum plene fruatur: &amp; gaudium de eo, si quis cum 
+      ha<lb ed="#H" n="119" break="no"/>beat praesentem, eoque fruatur, inque eo tanquam in fine acquiescat.  
+      <lb ed="#H" n="120"/>Hae enim tres sunt veri &amp; perfecti amoris actiones propriae atque 
+      in<lb ed="#H" n="121" break="no"/>separabiles; diligere: id est, affici &amp; inclinari erga objectum, hoc est 
+      <lb ed="#H" n="122"/>bonum cognitum: desiderare illud, hoc est, appetere &amp; studere ut ei 
+      <lb ed="#H" n="123"/>uniaris: denique in fruitione ejus tanqua finis adepti unice acquiescere. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e466">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Deus autem est a nobis diligendus, 
+      <lb ed="#H" n="125"/>I. Quia ipse nobis hoc mandat, Deut. 6. v. 5. Matth. 22. v. 23. 
+      Di<lb ed="#H" n="126" break="no"/>liges Dominum Deum tuum ex toto corde tuo &amp; ex tota anima 
+      tua<lb ed="#H" n="127"/>&amp; ex totis viribus tuis. Deut. 10. v. 12. Nunc itaque Israel, quid 
+      Ieho<lb ed="#H" n="128" break="no"/>va Deus tuus petit abs te; nisi ut timeas Iehovam Deum tuum, 
+      am<lb ed="#H" n="129" break="no"/>bules in omnibus viis ejus &amp; diligas eum? Deus. 11. v. 1. Diliges 
+      Ie<lb ed="#H" n="130" break="no"/>hovam Deum tuum. Et cap. 30. v.16. Praecipio tibi hodie, ut diligas 
+      <lb ed="#H" n="131"/>Iehovam Deum tuum ambulando in viis ejus &amp; observando 
+      praece<lb ed="#H" n="132" break="no"/>pta ejus, Josu. 22. v. 5. vel 8. juxta distinctionem Junij &amp; cap. 23. ver. 11 
+      <lb ed="#H" n="133"/>Attendetis igitur valde animis vestris, ut ametis Iehovam Deum 
+      <lb ed="#H" n="134"/>vestrum. Epist. Judae v. 21. Vos ipsos in charitate Dei conservate. 1. 
+      Ti<lb ed="#H" n="135" break="no"/>moth. 1. v. 5. Finis mandati est charitas 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e497">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>II. Quia est summum nostrum bonum, ac proinde bonus, mise 
+      <lb ed="#H" n="137"/>ricors, gratiosus, &amp;c. Hoc argumentum innuitur, quum dicitur: 
+      Di<lb ed="#H" n="138" break="no"/>liges Dominum DEUM TUUM. Est enim Deus noster, quia federe 
+      no<lb ed="#H" n="139" break="no"/>piscum inito declarat se esse summum bonum nostrum, ac proinde 
+      <lb ed="#H" n="140"/>bonum, misericordem, gratiosum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e513">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>III. Quia innumeris beneficiis nos affecit, singulis adhuc 
+      mo<lb ed="#H" n="142" break="no"/>mentis afficit &amp; in posterum afficere non desinet. Hoc argumento 
+      <lb ed="#H" n="143"/>pollicetur David Psalmo decimooctavo v. 2. se dilecturum Deum, 
+      <lb ed="#H" n="144"/>quia sit firmitas ejus, id est, autor &amp; donator firmitatis. Sic Psal. 31. v. 
+      <lb ed="#H" n="145"/>24. Diligite Iehovam omnes quos benignitate prosequitur: fideles 
+      cu<lb ed="#H" n="146" break="no"/>stodientem Iehovam, &amp; rependentem excellentissime, facientem res 
+      <lb ed="#H" n="147"/>magnificas. Psal. 37. v. 4. Oblecta te in Iehova qui dabit tibi 
+      petitio<lb ed="#H" n="148" break="no"/>nes cordis tui. Et Psal. 119. v. 1. Diligo, nam exaudit Iehova vocem 
+      <lb ed="#H" n="149"/>meam, deprecationes meus. Exod. 20. ver. 6. exercet benignitatem in 
+      <lb ed="#H" n="150"/>millesimos qui diligunt ipsum, Deut. 5. v. 10. Item c. 7. v. 9. Vt 
+      agno<lb ed="#H" n="151" break="no"/>scas Iehovam Deum tuum esse Deum ipsum; fortissimum, fidelissit 
+      <lb ed="#H" n="152"/>mum, observantem federis sui &amp; benignitatis suae erga diligentes se 
+      <lb ed="#H" n="153"/>&amp; observantes mandata sua in mille generationes. Dan. 9. v. 4. Psal. 
+      <lb ed="#H" n="154"/>145. v. 20. Servat Iehova omnes amantes ipsum. Sic amorem Deo. 
+      <lb ed="#H" n="155"/>debemus nomine gratitudinis ipsi praestandae 
+      <lb ed="#H" n="156"/>IV. Quia dilectio Dei est τεκμήριον verae cognitionis Dei, 1. 
+      Cor<lb ed="#H" n="157" break="no"/>8. v. 3. Si quis diligit Deum, hic cognitus fuit ab eo, id est, vera 
+      cogni<lb ed="#H" n="158" break="no"/>tione Dei donatus 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e557">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>V. Quia est certum signum unionis nostrae cum Deo, 1. Johan. 4. 
+      <lb ed="#H" n="160"/>v.16. Qui manet in charitate, in Deo manet &amp; Deus in eo¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e567">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>VI. Quia est nobis infallibile argumentum quod Deus nos 
+      dili<lb ed="#H" n="162" break="no"/>gat, 1. Joh. 4. 19. Nos diligimus eum, quoniam ipse prior dilexit nos: 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e576">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>VII. Quia ad dilectionem Dei nos impellere debent exempla 
+      <lb ed="#H" n="164"/>Primo quidem exemplum Christi, in cujus humana natura 
+      sempe<lb ed="#H" n="165" break="no"/>fuit &amp; est charitas erga Deum perfectissima: usque adeo ut illa 
+      mo<lb ed="#H" n="166" break="no"/>tus etiam pro nobis mortem oppetierit. Quo pertinet quod dixit 
+      Jo<lb ed="#H" n="167" break="no"/>han. 14. v. 31. Sed ut norit mundus, Patrem a me diligi: &amp; prout 
+      prae<lb ed="#H" n="168" break="no"/>repit mihi Pater, ita me faccre, surgite, abcamus hinc. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e594">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>Deinde ad eandem nos invitat exemplum sanctorum Angelorum 
+      <lb ed="#H" n="170"/>quorum similes esse debemus: Angeli enim amant Deum super 
+      o<lb ed="#H" n="171" break="no"/>mnia. Propterea orare jubemur, Fiat uoluntas tua sicut in caelo, sice 
+      <lb ed="#H" n="172"/>etiam in terrd 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e607">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Praeterea aliorum etiam sanctorum hominum exempla ad 
+      dili<lb ed="#H" n="174" break="no"/>gendum Deum nos provocant: ut Mathusalemi, Noachi, Abraha 
+      <lb ed="#H" n="175"/>mi, Isaaci, Jacobi, Josephi, Moses, Josuae, Danielis, Davidis, Pauli &amp; 
+      a<lb ed="#H" n="176" break="no"/>liorum sanctorum 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e620">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>VIII. Quia dilectionis Dei praemium est certum. Praemium 
+      di<lb ed="#H" n="178" break="no"/>lectionis est id quod amatur: Proinde &amp; dilectionis Dei est 
+      prae<lb ed="#H" n="179" break="no"/>mium Deus ipse. Anima vere amans Deum aliud praeter Deum sua 
+      <lb ed="#H" n="180"/>amoris praemium non requirit: aut si aliud requirit, illud profecto, 
+      <lb ed="#H" n="181"/>&amp; non Deum diligit Ideo David praeter Deum nihil requirit, Psalmi 
+      <lb ed="#H" n="182"/>73. vers. 25. Quis esset mihi in coelis praeterte? &amp; praeter te nullo 
+      dele<lb ed="#H" n="183" break="no"/>ctor in terra. Qui vero Deum habet, ab ipso omnia habet: sicut 
+      di<lb ed="#H" n="184" break="no"/>citur Deuteronom. 30. vers. 6. Circumcidet Iehova Deus tuus cor¬ 
+      <!--cod-MkL9py-0630.xml-->
+      <pb ed="#H" n="601"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>tuum &amp; cor semitisqui, ad diligendum Iehovam Deum tuum ex 
+      u<lb ed="#H" n="2" break="no"/>to corde tuo &amp; ex tein anima tua propter vitam tuam, &amp; ver. 19, 20. 
+      <lb ed="#H" n="3"/>Contestor hodie contra vos coelum &amp; terram, me vitam ac mortem 
+      <lb ed="#H" n="4"/>proposuisse tibi, benedictionem ac maledictionem: quare vitam 
+      ese<lb ed="#H" n="5" break="no"/>cturus es, ut vivas tu cum semine tuo, Diligendo Iehovam Deum 
+      <lb ed="#H" n="6"/>tuum, auscultando voci ejus, &amp; adhaerendo ei. Rom. 8. v. 28. 
+      Novi<lb ed="#H" n="7" break="no"/>mus autem, iis qui diligunt Deum, omnia simul adiumento esse ad 
+      <lb ed="#H" n="8"/>bonum. 1. Corinth. 2. v. 9. Praedicamus sicut scriptum est, quae oculus 
+      <lb ed="#H" n="9"/>non vidit, nec auris audivit, nec in mentem hominis venerunt, qua 
+      <lb ed="#H" n="10"/>praeparavit Deus iis a quibus ipse diligitur. Hebr. 11. v. 26. Jacob. 1. 
+      <lb ed="#H" n="11"/>vers. 12. Beatus est vir qui sustinet tentationem: quoniam probatus 
+      <lb ed="#H" n="12"/>compertus, accipiet coronam vitae, quam promisit Dominus iis a 
+      qui<lb ed="#H" n="13" break="no"/>bus ipse diligitur. Et cap. 2. v. 5. Audite fratres mei dilecti, nonne Deus 
+      <lb ed="#H" n="14"/>elegit pauperes mundi hujus ut fierent divites fide &amp; haeredes 
+      regni<lb ed="#H" n="15" break="no"/>quod promisit iis qui ipsum diligunt.  
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e681">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Ex his omnibus manifestum est, Deum esse diligendum 
+      <lb ed="#H" n="17"/>Ast non diligendus tantum est, sed etiam solus vere &amp; per se &amp; sim 
+      <lb ed="#H" n="18"/>pliciter diligendus, ut sequentia argumenta evincunt: 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e693">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>I. Quia ipse solus vere, simpliciter &amp; per se est, causaque omnis 
+      <lb ed="#H" n="20"/>Entis 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e702">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>II. Quia ipse solus est vere, &amp; per se &amp; simpliciter bonus: sicut  
+      <lb ed="#H" n="22"/>Christus dicit Matth. 19. v. 17. Nullus est bonus, nisi unus Deus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e711">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>III. Quia ipse solus est vere &amp; proprie summum nostrum bonum. 
+      <lb ed="#H" n="24"/>IV. Quia est diligendus ex toto corde, ex tota anima, ex tota 
+      <lb ed="#H" n="25"/>mente &amp; ex omnibus viribus nostris 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e722">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>V. Quia solus propter se amatur, omnia alia propter ipsum 
+      <lb ed="#H" n="27"/>VI. Quia in ipso solo vere est omnis vera virtus, ut sapientia, 
+      ju<lb ed="#H" n="28" break="no"/>stitia, misericordia, charitas, &amp;c. sic ut non tantum sapiens, justus; 
+      <lb ed="#H" n="29"/>&amp; misericors sit &amp; nos charos habeat, sed etiam ipsa sit sapientia, 
+      ju<lb ed="#H" n="30" break="no"/>stitia, misericordia, charitas 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e738">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>VII. Quia ipse solus nos vere diligit &amp; amat amore aeterno, 
+      ar<lb ed="#H" n="32" break="no"/>dentissimo &amp; constanti. Quo pertinet quod legitur 1. Johan. 4. v. 19. 
+      <lb ed="#H" n="33"/>Nos diligimus Deum quoniam ipse prior dilexit nos. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e749">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>VIII. Quia non solum ipse non potest vinci, sed etiam solus di 
+      <lb ed="#H" n="35"/>lectores suos reddit invictos. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e759">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>QUaeSTIO est: An Deus sit diligendus ideo, quod nobis 
+      beneface<lb ed="#H" n="37" break="no"/>re possit? 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e768">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>RESP. Nequaquam: nam etsi amor erga Deum non caret mere 
+      <lb ed="#H" n="39"/>cede, tamen non debet esse mercenarius, sed filialis. Esset autem 
+      <lb ed="#H" n="40"/>mercenarius, si Deum diligeremus propter mercedem seu spe mer 
+      <lb ed="#H" n="41"/>cedis consequendae: imo jam non diligeremus Deum, sed mercedem 
+      <lb ed="#H" n="42"/>Ac proinde sine intuitu mercedis diligendus Deus. Affectus est, non 
+      <lb ed="#H" n="43"/>contractus charitas. Deus gratis diligendus est, quia totum 
+      praemi<lb ed="#H" n="44" break="no"/>tum nostrum ipse erit, ut in coelo bonitate ejus &amp; pulchritudine 
+      per<lb ed="#H" n="45" break="no"/>fruamur. Non sine praemio diligitur Deus, etsi absque praemij 
+      intui<lb ed="#H" n="46" break="no"/>tu diligendus sit.  
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e792">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Porro ut nemo in Deum vere credit, nisi qui in Jesum Christum 
+      <lb ed="#H" n="48"/>credit: ita nemo vere Deum amat, nisi qui Jesum Christum amat 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e801">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>Ad dilectionem autem Jesu Chr isti impellere nos debet 
+      <lb ed="#H" n="50"/>I. Mandatum Dei, quod tum in generali mandato de diligendo 
+      <lb ed="#H" n="51"/>Deo continetur: Nam si Deus diligendus est certe &amp; Jesus Christus 
+      <lb ed="#H" n="52"/>tum speciatim exstat Johan. 15. vers. 9. ubi Christus dicit; manete in 
+      <lb ed="#H" n="53"/>illa mea charitate. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e817">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>II. Promissio gratiosa eximiorum bonorum quae destinata sunt:  
+      <lb ed="#H" n="55"/>diligentibus Christum, Johan. 14. v. 21. Qui diligit me, diligetur a 
+      <lb ed="#H" n="56"/>Patre meo: &amp; ego diligam eum, &amp; ei conspiciendum exhibebo meipsum. 
+      <lb ed="#H" n="57"/>Amplius incrementum cognitionis Christi est merces dilectionis 
+      <lb ed="#H" n="58"/>erga Christum 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e833">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>III. Comminatio inevitabilis poenae denunciatae non 
+      diligenti<lb ed="#H" n="60" break="no"/>bus Christum, 1. Corinth. 16. v. 22. Si quis non amat Dominum 
+      Ie<lb ed="#H" n="61" break="no"/>sum Christum, esto anathema, marancatha. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e845">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>IV. Dilectio Christi erga nos, Johannis 13. v. 1. Ante festum 
+      au<lb ed="#H" n="63" break="no"/>tem diem Paschae, sciens Iejus venisse horam illam digrediendi ex 
+      ho<lb ed="#H" n="64" break="no"/>mundo ad Patrem, quum dilexisset suos illos qui erant in mundo, 
+      us<lb ed="#H" n="65" break="no"/>que ad finem dilexit eos. &amp; cap. 15. v. 9. Prout dilexit me Pater, ita &amp; 
+      <lb ed="#H" n="66"/>ego dilexi vos. Gal. 2. v. 20. Vivo per fidem illam Filij Dei qui dilexit.  
+      <lb ed="#H" n="67"/>me &amp; tradidit semetipsum pro me. Quis non diligat cum a quo 
+      tan<lb ed="#H" n="68" break="no"/>topere dilectus fuit? 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e865">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>V. Exempla aliorum sanctorum amantium Christum, ut 
+      Petri<lb ed="#H" n="70" break="no"/>Johan. 21. v. 15, 16, 17. Pauli &amp; aliorum 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e874">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>VI. Excellentia amoris erga Christum. Nam amor erga 
+      Chri<lb ed="#H" n="72" break="no"/>stum est melior vino, imo omnibus rebus quae homini in hac vita. 
+      <lb ed="#H" n="73"/>gratissimae &amp; charissimae esse possint, Cantic. 1. v. 2. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e885">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>VII. Finis charitatis erga Christum: est enim γνώρισμα &amp; si 
+      <lb ed="#H" n="75"/>gnum verorum Dei filiorum: Sicut Christus ait ad Judaeos cap. 8. v 
+      <lb ed="#H" n="76"/>42. Si Deus Pater vester esset, diligeretis me. Est signum quod Pater. 
+      <lb ed="#H" n="77"/>nos diligat, Johan. 16. v. 27. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e898">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Sic est prima actio interna charitatis erga Deum 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e905">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Ei conjunctae sunt aliae actiones, nempe desiderate &amp; appeter. 
+      <lb ed="#H" n="80"/>Deum &amp; gaudium in Deo. Jesa. 26. v. 9. Psal. 42. v. 2, 3. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e915">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Dictum est de internis effectis charitatis erga¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e922">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Deum. 
+      <lb ed="#H" n="83"/>Externa effecta ejus sunt actiones omnes quaecunque ad cultum  
+      <lb ed="#H" n="84"/>Dei pertinent, ipsaque mandatorum Dei omnium obedientia, &amp; 
+      o<lb ed="#H" n="85" break="no"/>dium mali. Nam qui charitate erga Deum praeditus est, is humilis est 
+      <lb ed="#H" n="86"/>&amp; patiens, Dei mandata observat &amp; malum odit, sicut dicitur, 1. Joh; 
+      <lb ed="#H" n="87"/>2. vers. 5. Qui observat sermonem Dei, vere in hoc charitas Dei 
+      ad<lb ed="#H" n="88" break="no"/>impleta est. Et cap. 5. v. 3. Haec est enim charitus Dei, ut praecepta ejus 
+      <lb ed="#H" n="89"/>observemus: &amp; praecepta ejus gravia non sunt. Et 2. Joh. v. 6. Haec 
+      au<lb ed="#H" n="90" break="no"/>tem est charitas ut ambulemus secundum praecepta ipsius. Psal. 97. v5. 
+      <lb ed="#H" n="91"/>I0. Amantes Iehovae, odio habete malum, 
+      <!--cod-MkL9py-0630.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>Charitatis erga Deum efectus est etiam charitas erga proximum 
+      <lb ed="#H" n="93"/>&amp; inprimis erga demesticos sidei, ut dicitur 1. Joh. 3. 2. 17. 1. Joh. 4. v. 
+      <lb ed="#H" n="94"/>21. Hoc praeceptum habemus ab eo, ut qui diligit Deum, diligat et 
+      <lb ed="#H" n="95"/>iam &amp; fratrem suum, &amp; cap. 5. v. 1. Quisquis diligit eum qui genuit, 
+      <lb ed="#H" n="96"/>diligit etiam eum qui ex eo genitus est? 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e963">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>Atque haec externa effecta sunt etiam certissima signa charitatis 
+      <lb ed="#H" n="98"/>erga Deum, I. Johan. 4. v. 20. Si quis dixerit, dilego Deum, &amp; fratrem 
+      <lb ed="#H" n="99"/>suum oderit, mendax est. Qui enim non diligit fratrem suum quem 
+      <lb ed="#H" n="100"/>vidit, Deum quem non vidit, quomodo potest diligeret 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e976">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Similiter effecta ac proinde signa amoris erga Christum sunt.  
+      <lb ed="#H" n="102"/>I. Observatio mandatorum ejus, Johan. 14. v. 15. Si diligitis me; 
+      <lb ed="#H" n="103"/>praecepta mea servate. &amp; vers. 21. Qui tenet praecepta mea, &amp; 
+      obser<lb ed="#H" n="104" break="no"/>vat illa, is est qui diligit me, &amp; vers. 23. Si quis diligit me, sermonem 
+      <lb ed="#H" n="105"/>meum servabit. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e992">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>II. Gaudium ob discessum Christi ad Patrem, Johan. 14. v 28. S 
+      <lb ed="#H" n="107"/>diligeretis me, gauderetis utique quod dixerim, proficiscor ad Patrem. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1001">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>Adhaec charitas erga Deum timorem servilem foras ejicit in 
+      ju<lb ed="#H" n="109" break="no"/>stificatis 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1011">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Tantum de effectis charitatis erga Deum. 
+      <lb ed="#H" n="111"/>Subjectum 8, seu ij qui sunt praediti charitate erga Deum, sunt res 
+      <lb ed="#H" n="112"/>generati per Spiritum Sanctum, 1. Johan. 4. v. 7. Quisquis diligit, eo 
+      <lb ed="#H" n="113"/>Deo notus est, &amp; novit Deum. &amp; vers. 16. qui manet in charitate, in 
+      <lb ed="#H" n="114"/>Deo manet &amp; Deus in eo¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1027">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Subjectum eν ᾧ, id est, in quo inest charitas erga Deum, non est 
+      so<lb ed="#H" n="116" break="no"/>la voluntas hominis regenerati, sed etiam mens seu intellectus, ac 
+      <lb ed="#H" n="117"/>proinde tota anima, imo totus homo cum omnibus suis partibus, 
+      fa<lb ed="#H" n="118" break="no"/>cultatibus &amp; viribus: sicut Dominus ait Matth. 22. v. 37. Diliges 
+      Do<lb ed="#H" n="119" break="no"/>minum Deum tuum ex toto corde tuo, &amp; ex tota anima tua, &amp; ex 
+      to<lb ed="#H" n="120" break="no"/>ta cogitatione tua, &amp; ex omnibus viribus tuis. In hoc enim manda 
+      <lb ed="#H" n="121"/>to, quod est primum &amp; maximum, cor significat affectus, appetitus 
+      <lb ed="#H" n="122"/>&amp; inclinationes: anima significat partem volentem &amp; motus 
+      volun<lb ed="#H" n="123" break="no"/>catis: cogitatio significat mentem seu partem intelligentem: viret 
+      <lb ed="#H" n="124"/>hominis significant omnes actiones simul, internas &amp; externas, 
+      ani<lb ed="#H" n="125" break="no"/>mi &amp; corporis. Magna autem ratio est, cur non tantum voluntas; sed  
+      <lb ed="#H" n="126"/>etiam mens seu intellectus subjectum δεκτικον charitatis erga Deum 
+      <lb ed="#H" n="127"/>statuitur: quia dilectio Dei absque cognitione ejus esse non potest. 
+      <lb ed="#H" n="128"/>sicut dicitur, Ignoti nulla cupido. Nulla ergo nostri pars charitate 
+      er<lb ed="#H" n="129" break="no"/>ga Deum vacua esse debet, sed omnis nosterzelus, cogitatio, 
+      volun<lb ed="#H" n="130" break="no"/>tas, animi studium, &amp; corporis labor eo tendere debet, quo Deum 
+      <lb ed="#H" n="131"/>diligamus &amp; amemus: unde Paulis ait Rom. 6. vers. 12. Ne regnato 
+      <lb ed="#H" n="132"/>igitur peccatum in mortali vestro corpore, ut auscultetis ei in 
+      cupidi<lb ed="#H" n="133" break="no"/>tatibus corporis. Nihil est in ulla nostri parte, quod non sit diligendo 
+      <lb ed="#H" n="134"/>dicatum &amp; consocratum, sive vires, sive opus; sive affectum, sive ef 
+      <lb ed="#H" n="135"/>fectum; sive conatum, sive rem ipsam; sive vim &amp; facultatem ejus 
+      <lb ed="#H" n="136"/>spectes. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1079">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Subjectum seu objectum citca quod charitas haec versatur, est Deus 
+      <lb ed="#H" n="138"/>qui amandus est, non sicut aliquid quod videtur oculis, sed sicut 
+      ama<lb ed="#H" n="139" break="no"/>tur sapientia, &amp; veritas, &amp; sanctitas, &amp; justitia &amp; charitas, &amp; si quid a 
+      <lb ed="#H" n="140"/>liquid tale dicitur: non quemadmodum sunt ista in hominibus, sed 
+      <lb ed="#H" n="141"/>quemadmodum sunt in ipso fonte incorruptibili &amp; immutabili. 
+      A<lb ed="#H" n="142" break="no"/>mandus est Deus non tantum quatenus est bonus, misericors, 
+      gra<lb ed="#H" n="143" break="no"/>tiosus, clemens, benevolus erga nos, &amp; quatenus nos amat, &amp; bene 
+      <lb ed="#H" n="144"/>ficiis multis afficit; sed etiam quatenus est sapiens, justus, potens; 
+      et<lb ed="#H" n="145" break="no"/>iam quatenus nos judiciis suis, quantumvis severis, visitat &amp; castigat. 
+      <lb ed="#H" n="146"/>it enim verus amor liberorum erga parentes hoc efficit, ut diligam 
+      <lb ed="#H" n="147"/>suos parentes etiamsi a parentibus objurgentur, reprehendantur, 
+      ca<lb ed="#H" n="148" break="no"/>stigentur; etiamsi non omnia quae volunt impetrent ab illis; 
+      intelli<lb ed="#H" n="149" break="no"/>gunt enim probi liberi, id bono suo fieri, &amp; licet castigentur, licet non 
+      <lb ed="#H" n="150"/>omnia a parentibus obtineant, tamen se ab illis amari: ita vera 
+      cha<lb ed="#H" n="151" break="no"/>ritas erga Deum respicit in eum, etiam crucem imponentem, 
+      perse<lb ed="#H" n="152" break="no"/>quutionem, bella, morbos, &amp; alias calamitates immittentem, etiam 
+      <lb ed="#H" n="153"/>virga sua ferientem, imo etiam interficientem, ut exemplum 
+      Abra<lb ed="#H" n="154" break="no"/>hami, Josephi Patriarchae, Jobi, Davidis, Danielis, inprimis vero 
+      <lb ed="#H" n="155"/>Christi Servatoris nostri ostendit: exemplum item Pauli, &amp;c. Nam 
+      <lb ed="#H" n="156"/>Abrahamus quamvis jussus Isaacum offerre in sacrificium, Jobus 
+      <lb ed="#H" n="157"/>quamvis calamitatibus variis &amp; magnis afflictus, &amp; inprimis 
+      Chri<lb ed="#H" n="158" break="no"/>stus Dominus quamvis a Deo traditus in mortem, charitatem erga 
+      <lb ed="#H" n="159"/>Deum firmiter retinuit. Idem statuendum de aliis sanctis, inter quos 
+      <lb ed="#H" n="160"/>Hexcellunt Martyres veritatis coelestis, quos ab amore erga Deum 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1136">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>nulla vis, nullae promissiones, nullae minae, nulla damna rei familia 
+      <lb ed="#H" n="162"/>ris; nulla exsilia, nulli cruciatus, non gladius, non ignis, non 
+      suppli<lb ed="#H" n="163" break="no"/>cia aut terrores avertere potuerunt . 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1147">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>ADIUNCTA charitatis erga Deum jam consideranda sunt: de 
+      <lb ed="#H" n="165"/>quibus sequentes theses observandae: 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1156">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>I. Etsi charitas naturalis seu originalis, cum qua Adam conditur 
+      <lb ed="#H" n="167"/>a Deo fuerat, per lapsum Adami amissa est: tamen supernaturalis in 
+      <lb ed="#H" n="168"/>regeneratis per Spiritum Sanctum est inamissibilis ac perpetua, sic  
+      <lb ed="#H" n="169"/>ut ea Deum diligamus constanter usque ad finem vitae nostrae. Hoc 
+      <lb ed="#H" n="170"/>significat David cum ait futuro tempore Psalm. 18. v. 2. Diligam te 
+      <lb ed="#H" n="171"/>Iehova, firmitas mea. Sic legitur in quarto tomo operum Augustini 
+      <lb ed="#H" n="172"/>in libro de salutaribus documentis ad quendam Comitem, capite 
+      se<lb ed="#H" n="173" break="no"/>timo, &amp; citatur in Jure Canonico capitulo Charitas, Distinctione 
+      <lb ed="#H" n="174"/>secunda de Poenitentia: Charitas quae deseri potest, nunquam fuit  
+      <lb ed="#H" n="175"/>vera. Sic Ambrosius, super epist. 2. Corinth. ad cap. sextum, &amp; 
+      cita<lb ed="#H" n="176" break="no"/>tur capitulo Ficta charitas, Distinct, secunda de Poenitentia, ait: 
+      Cha<lb ed="#H" n="177" break="no"/>ritas semel habita, ulterius non amittitur. Et Prosper libr. 3. de vita 
+      <lb ed="#H" n="178"/>contemplativa, c. 13. ut citatur ibidem capitulo, charitas ait: Charitas 
+      <lb ed="#H" n="179"/>est, utnihi videtur, recta uoluntas, ab omnibus terrenis ac 
+      praesenti<lb ed="#H" n="180" break="no"/>bus prorsus aversa, juncta Deo inseparabiliter &amp; unita, igne quodam 
+      <lb ed="#H" n="181"/>Sancti Spiritus, a quo est &amp; ad quem refertur, incensa, 
+      inquina<lb ed="#H" n="182" break="no"/>menti omnis extranea, corruptionis nescia, nulli vitio mutabilitatis 
+      <!--cod-MkL9py-0631.xml-->
+      <pb ed="#H" n="602"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>obnexia, supra omnia, quae carnaliter diliguntur, excelsa, affectio 
+      <lb ed="#H" n="2"/>num omnium potentissima, divinae contemplationis avida, in 
+      omni<lb ed="#H" n="3" break="no"/>hus semper invicta. Ac rationes sunt invincibiles quibus adstruitur,  
+      <lb ed="#H" n="4"/>charitatem erga Deum regeneratis non posse unquam penitus 
+      defi<lb ed="#H" n="5" break="no"/>cere, sed esse perpetuam, 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1216">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Prima est; quia dona Dei ad salutem regeneratis data sunt duto 
+      <lb ed="#H" n="7"/>μιληζα, id est, ejusmodi quorum Deum poenitere non possit, ut 
+      Pau<lb ed="#H" n="8" break="no"/>lus docet Rom. 11. v. 29. Tale autem donum est charitas erga Deum 
+      <lb ed="#H" n="9"/>quia nemo destitutus charitate erga Deum servatus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1229">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Secunda: Si fides per charitatem efficax amitti nunquam penitus 
+      <lb ed="#H" n="11"/>a renatis potest, sed perpetua est; tum &amp; charitas erga Deum &amp; 
+      pro<lb ed="#H" n="12" break="no"/>ximum. Quod antecedit verum est: Ergo &amp; quod sequitur. Conse 
+      <lb ed="#H" n="13"/>quentia sumti probatur: quia fides vera &amp; salvifica nunquam potes. 
+      <lb ed="#H" n="14"/>esse sine charitate, quod &amp; Jus Canonicum ipsummet fatetur, capi 
+      <lb ed="#H" n="15"/>tulo Charitas est aqua, Distinct. secunda de Poenitentia: In 
+      Chri<lb ed="#H" n="16" break="no"/>stum vere credit, qui charitatem habet. In Christum quippe credere 
+      <lb ed="#H" n="17"/>est amando in ipsum tendere. Haec fides, ut definit Apostolus, quae per 
+      <lb ed="#H" n="18"/>dilectionem operatur: huic duntaxat remissio delictorum 
+      promitti<lb ed="#H" n="19" break="no"/>tur. Quod si charitas a fide Christianorum sejungi nequit, cui scilicet,  
+      <lb ed="#H" n="20"/>soli venia promittitur, quomodo qui charitatem non habuerit, fidem 
+      <lb ed="#H" n="21"/>Christianorum habuit, id est, in Christum credidit: 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1260">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Sed inimici perseverantiae sanctorum objiciunt nonnulla: 
+      <lb ed="#H" n="23"/>Primo ajunt tum electos tum reprobos charitatem quam 
+      habe<lb ed="#H" n="24" break="no"/>bant, criminaliter delinquendo amisisse. Quod ad electos attinet 
+      <lb ed="#H" n="25"/>producunt Adamum &amp; Evam, Mosen, Davidem, Petrum, quos ajunt 
+      <lb ed="#H" n="26"/>peccando charitatem erga Deum perdidisse. De reprobis adducunt  
+      <lb ed="#H" n="27"/>testimonia Patrum, veluti Augustini qui in libro de correptione &amp; 
+      <lb ed="#H" n="28"/>gratia cap. 9. ait: Apostolus sciens nonnullos diligere Deum &amp; in eo 
+      <lb ed="#H" n="29"/>bono usque ad finem non permanere, mox addidit; His qui secundum 
+      <lb ed="#H" n="30"/>propositum vocati sunt. Et Gregorij Magni lib. 8. Moralium cap. 35. 
+      <lb ed="#H" n="31"/>Multi bene incipiunt, qui in malo vitam finiunt. His verbis 
+      Gra<lb ed="#H" n="32" break="no"/>tianus capitulo Multi; Distinct. secunda de Poenitentia adjicit: 
+      No<lb ed="#H" n="33" break="no"/>autem bene incipit, qui nunquam ex charitate operatur. Quod si ex 
+      <lb ed="#H" n="34"/>charitate aliquando aliquid agit, &amp; charitatem aliquando in ipso 
+      <lb ed="#H" n="35"/>necesse est esse. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1295">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>RESPON. Quod ad electos attinet, committunt fallaciam 
+      secun<lb ed="#H" n="37" break="no"/>dum plura interrogata, quia non est omnium eorum, quorum 
+      exem<lb ed="#H" n="38" break="no"/>pla adducuntur, par ratio. Nam si Adamum &amp; Evam spectes, fate 
+      <lb ed="#H" n="39"/>inur illos charitatem per lapsum amisisse: sed illorum exemplum 
+      no<lb ed="#H" n="40" break="no"/>strae sententiae inconvenienter opponitur. Nos enim de charitate sua 
+      <lb ed="#H" n="41"/>pernaturali loquimur, ast Adami &amp; Evae fuit naturalis: nos de 
+      rege<lb ed="#H" n="42" break="no"/>neratis per Spiritum Sanctum asserimus charitatem in illis esse 
+      ina<lb ed="#H" n="43" break="no"/>missibilem &amp; perpetuam: Adamus autem &amp; Eva post lapsum demum 
+      <lb ed="#H" n="44"/>ne proinde post amissam originalem charitatem beneficium regene 
+      <lb ed="#H" n="45"/>rationis consequuti sunt. Moses vero, David, Petrus &amp; alij 
+      regene<lb ed="#H" n="46" break="no"/>rati, charitatem semel ipsis infusam a Spiritu Sancto per 
+      regenera<lb ed="#H" n="47" break="no"/>tionem, nunquam penitus amiserunt. Semper enim virtutem ipsam 
+      <lb ed="#H" n="48"/>seu habitum charitatis retinuerunt, etsi virtutem opere non semper 
+      <lb ed="#H" n="49"/>ut decebat, declararunt. Tum si habitus acquisitus non pendet ab 
+      a<lb ed="#H" n="50" break="no"/>ctu uno &amp; altero, nec evertitur opposito actu uno &amp; altero, ut ma 
+      <lb ed="#H" n="51"/>gno consensu Philosophi docent: multo minus potest habitus a 
+      Sp<lb ed="#H" n="52" break="no"/>ritu Sancto infusus ab opposito actu uno &amp; altero everti, quum ab a 
+      <lb ed="#H" n="53"/>ctibus, ut causa efficiente, non pendeat, sed a mera gratia Dei cujus 
+      <lb ed="#H" n="54"/>dona salvifica sunt ἀμεζαμεληζαιι 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1341">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Quod autem reprobos attinet, illorum nullus habuit, nullus 
+      ha<lb ed="#H" n="56" break="no"/>bet, nullus habebit charitatem veram per quam fides est effica; 
+      <lb ed="#H" n="57"/>Contrariae sententiae probatio ex testimoniis Augustini &amp; 
+      Gregori<lb ed="#H" n="58" break="no"/>Magni, petitione principij laborat: quia autoritas Augustini &amp; 
+      Gre<lb ed="#H" n="59" break="no"/>gorij non est genuinum probandi assertiones Theologicas 
+      princi<lb ed="#H" n="60" break="no"/>pium: deinde loquuntur de charitate reproborum erga Deum ααο 
+      <lb ed="#H" n="61"/>δόζαν, secundum opinionem sive ipsorum reproborum sive aliorum 
+      <lb ed="#H" n="62"/>de ipsis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1363">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Secundo objiciunt quod Dominus dicit Matth. 24. v. 12. 
+      Quoni<lb ed="#H" n="64" break="no"/>am multiplicata erit iniquitas, refrigescet charitas multorum. Inda 
+      <lb ed="#H" n="65"/>colligunt charitatem in regeneratis deficere posse 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1375">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>RESP. Homonymia est in nomine charitatis: nam in loco addus 
+      <lb ed="#H" n="67"/>cto non intelligitur charitas a Spiritu Sancto infusa, sed naturalis a 
+      <lb ed="#H" n="68"/>mor cognati sanguinis &amp; communis amor qui est inter homines ve¬l 
+      <lb ed="#H" n="69"/>ex consuetudine, vel ex beneficiorum communicatione, de quali 
+      cha<lb ed="#H" n="70" break="no"/>titate etiam Christus loquitur Luc. 6. v. 32. Quod si diligitis eos qui  
+      <lb ed="#H" n="71"/>vos diligunt, quae vobis erit gratia? nam &amp; peccatores diligunt eos 
+      a<lb ed="#H" n="72" break="no"/>quibus diliguntur: Qui amor tempore persecutionum ita 
+      refrige<lb ed="#H" n="73" break="no"/>icit, ut illum penitus quidam exuant, sic ut consanguinei se mutuo 
+      <lb ed="#H" n="74"/>prodant &amp; ad necem ob religionem offerant, ut vinere est 
+      Matthaei<lb ed="#H" n="75" break="no"/>24. v. 9, &amp; 10. Tunc tradent vos afflictioni &amp; trucidabunt vos: &amp; 
+      e<lb ed="#H" n="76" break="no"/>ritis exosi omnibus Gentibus propter nomen meum. Et tunc offendens 
+      <lb ed="#H" n="77"/>tur multi: &amp; alius alium prodet, &amp; odio habebit alius alium. Istud 
+      <lb ed="#H" n="78"/>clarius praedixit Dominus Matth. 10. v. 21, 22. Tradet frater fratrem 
+      <lb ed="#H" n="79"/>ad mortem, &amp; pater filium: &amp; insurgent liberi in parentes, &amp; mortes 
+      <lb ed="#H" n="80"/>multandos eos curabunt. Et eritis exosi omnibus propter nome meum: 
+      <lb ed="#H" n="81"/>verum qui sustinuerit ad finem usque, is servabitur. Et Luc. 21. ver.  
+      <lb ed="#H" n="82"/>16, 17. Prodemini autem etiam a parentibus &amp; fratribus &amp; 
+      cogna<lb ed="#H" n="83" break="no"/>tis &amp; amicis; &amp; morte mulctandos curabunt ex vobis: Et eritis exosu  
+      <lb ed="#H" n="84"/>omnibus propter nomen meum. Hoc est quod Christus dicit, refrige 
+      <lb ed="#H" n="85"/>icet charitas multorum. Loquitur ergo de charitate ergo cognatum 
+      <lb ed="#H" n="86"/>sanguinem qualis natura est etiam in infidelibus &amp; de charitate orta. 
+      <lb ed="#H" n="87"/>ex cohabitatione, conversatione officiis &amp; beneficiis: at nos agimus 
+      <lb ed="#H" n="88"/>de perpetuitate charitatis a Spiritu Sancto regeneratis infusae 
+      per<lb ed="#H" n="89" break="no"/>quam fides est efficax.  
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1432">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Tertio objiciunt quod legitur Apocal. 2. v. 4. Sed habeo aliquid R 
+      <lb ed="#H" n="91"/>adversum 1e, quod charitatem tuam primam omiseris: Ergo 
+      chari<lb ed="#H" n="92" break="no"/>tas vera ainitti potest. 
+      <!--cod-MkL9py-0631.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>RESP. Primo Christus in hac epistola non loquitur de vere 
+      rege<lb ed="#H" n="94" break="no"/>neratis, sed communiter de corpore Ecclesiae Ephesinae, in qua ut &amp; 
+      <lb ed="#H" n="95"/>in aliis particularibus Ecclessis multi erant non regenerati. Nam 
+      et<lb ed="#H" n="96" break="no"/>si Angelo, id est, pastori seu Episcopo Ephesinae Ecclesiae scribere 
+      ju<lb ed="#H" n="97" break="no"/>beat, reliquam tamen Ecclesiam simul comprehendit, in qua eram 
+      <lb ed="#H" n="98"/>etiam non regenerati ut jam dictum, &amp; ex regeneratis multi qui 
+      cha<lb ed="#H" n="99" break="no"/>ritatem primam omiserant.  
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1463">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Secundo loquitur Christus non de totali amissione, sed de 
+      omis<lb ed="#H" n="101" break="no"/>sione seu remissione pristini zeli &amp; fervoris, quem commendat v. 2, &amp; 
+      <lb ed="#H" n="102"/>3. Novi opera tua, &amp; laborem tuum &amp; tolerantiam tuam, &amp; quod 
+      <lb ed="#H" n="103"/>non possis ferre malos: &amp; exploraris eos qui se dicunt Apostolos esse &amp; 
+      <lb ed="#H" n="104"/>non sunt, &amp; comperisse eos esse mendaces. Et onere pressus fuisti, &amp; 
+      su<lb ed="#H" n="105" break="no"/>stines: &amp; propter nomen meum laborasti, &amp; non es defatigatus. Istam 
+      <lb ed="#H" n="106"/>charitatem, id est, zelum &amp; fervorem charitatis non penitus 
+      AMI<lb ed="#H" n="107" break="no"/>SISSE, sed OMISISSE Ephesios scribit, ideo monet ut ad illum 
+      red<lb ed="#H" n="108" break="no"/>cant. Cum enim Ephesij initio recepissent primum a Paulo, deinde 
+      <lb ed="#H" n="109"/>a Johanne &amp; aliis viris Apostolicis doctrinam Evangelij de Jesu 
+      Chri<lb ed="#H" n="110" break="no"/>sto, maximus fervor in omnibus eorum dictis &amp; factis apparebat, id  
+      <lb ed="#H" n="111"/>quod ex Actis Apostolicis &amp; epistola Pauli ad Ephesios scripta 
+      colli<lb ed="#H" n="112" break="no"/>gere licet: sed progressu temporis deferbuit ille fervor, &amp; in studi 
+      <lb ed="#H" n="113"/>pietatis frigidiores &amp; remissiores facti sunt. Hoc igitur ipsis 
+      expro<lb ed="#H" n="114" break="no"/>brat Christus &amp; corrigere jubet, 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1500">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Tantum de primo adjuncto. 
+      <lb ed="#H" n="116"/>II. Charitas erga Deum perfecta ac sincera esse debet, ut 
+      praecipi<lb ed="#H" n="117" break="no"/>tur Deut. 6. v. 5. Matth. 22. v. 37. Diliges Dominum Deum tuum ex 
+      <lb ed="#H" n="118"/>toro corde tuo, &amp;c. Ex toto enim corde Deum diligere, est eum solum 
+      <lb ed="#H" n="119"/>agnoscere &amp; habere pro summo nostro bono, sic ut in eo solo cor 
+      no<lb ed="#H" n="120" break="no"/>strum totum acquiescat, ne partem ejus ipsi, partem alteri 
+      tribua<lb ed="#H" n="121" break="no"/>mus, nihilque sit, quod ei aequare, nedum anteponere, vel in amoris 
+      <lb ed="#H" n="122"/>partem admittere velimus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1522">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Ratio idem docet: nam summum &amp; unicum bonum est summe 
+      <lb ed="#H" n="124"/>&amp; unice appetendum amandumque. Quod si remisse amet quis, non 
+      <lb ed="#H" n="125"/>amat summe, multo minus unice. Deus autem est summum &amp; 
+      uni<lb ed="#H" n="126" break="no"/>cum bonum nostrum. Deus igitur summe &amp; unice amandus 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1535">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>III. Est in nobis dum hic vivimus, imperfecta, id est, cui restat 
+      <lb ed="#H" n="128"/>semper aliquid quod addi possit; ut sequentia argumenta evincunt. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1545">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>Primum quia illa dum hic vivimus, semper procul adhuc abest a 
+      <lb ed="#H" n="130"/>modo &amp; gradu illo quem Lex requirit, sic ut Legi nequaquam 
+      satis<lb ed="#H" n="131" break="no"/>faciat. Nam Lex dicit; Diliges Dominum Deum tuum ex toto corde 
+      <lb ed="#H" n="132"/>tuo, &amp; ex tota anima tua &amp; ex tota cogitatione tua &amp; ex omnibus 
+      <lb ed="#H" n="133"/>viribus tuis. Quis autem regenitorum vere gloriari potest, se eo 
+      mo<lb ed="#H" n="134" break="no"/>do &amp; gradu Deum diligere, 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1563">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>Secundum: quia illa dum hic vivimus, destituitur vi tollendi a 
+      no<lb ed="#H" n="136" break="no"/>bis omne peccatum. Si dixerimus nos peccatum non habere, nosipsos 
+      <lb ed="#H" n="137"/>fallimus, &amp; veritas in nobis non est, ait Johannes de se &amp; aliis 
+      regene<lb ed="#H" n="138" break="no"/>ratis Deum diligentibus 1. epist. cap. 1. 8. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1576">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Tertium: quia illa dum hic vivimus, paulatim in nobis crescit &amp; 
+      <lb ed="#H" n="140"/>augetur, Philipp. 1. v. 9. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1585">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Quartum: Si fides in nobis imperfecta est, tum &amp; charitas. 
+      Ve<lb ed="#H" n="142" break="no"/>rum est prius: Ergo &amp; posterius. Connexum est certum; quia fides 
+      <lb ed="#H" n="143"/>est causa charitatis: impossibile est autem ut effectus sit praestantior  
+      <lb ed="#H" n="144"/>causa sua efficiente 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1598">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Quintum: Si cognitio Dei est imperfecta in hac vita, tum &amp; 
+      cha<lb ed="#H" n="146" break="no"/>ritas erga Deum. Nam tantum diligimus, quantum cognoscimus 
+      <lb ed="#H" n="147"/>Sciri enim aliquid vel credi, &amp; tamen non diligi potest: diligi autem 
+      <lb ed="#H" n="148"/>quod neque scitur neque creditur, non potest. Quanto major est 
+      no<lb ed="#H" n="149" break="no"/>titia, tanto est major dilectio: &amp; quantum deest cognitioni Dei, 
+      tan<lb ed="#H" n="150" break="no"/>tum perficiendae charitati erga Deum deesse statuendum est. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1616">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>Sextum: Si regeneratio nostra imperfecta est in hac vita, tum &amp; 
+      <lb ed="#H" n="152"/>G charitas erga Deum: Verum est antecedens: Ergo &amp; consequens. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1626">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Subscribunt &amp; orthodoxi Patres, veluti August. secundo 
+      tomo<lb ed="#H" n="154" break="no"/>epistolam vigesimanona: &amp; tertio tomo libro de Spiritu &amp; litera, 
+      capi<lb ed="#H" n="155" break="no"/>te ultimo. Bernardus super Cantic. Serm. quinquagesimo. Videan| 
+      <lb ed="#H" n="156"/>tur verba eorum in Symphonia nostra Catholica. Fatentur idem 
+      <lb ed="#H" n="157"/>nonnulli Papistae, ut Thomas Stapletonus libro sexto de universa 
+      <lb ed="#H" n="158"/>justificationis doctrina, capite septimo. Et Bellarminus tertio tomo 
+      <lb ed="#H" n="159"/>controversia tertia, parte secunda, libro quarto, capite undecimo, 
+      ubi<lb ed="#H" n="160" break="no"/>ait, dilectionem in hac vita imperfectam esse, quia potest crescere 
+      <lb ed="#H" n="161"/>&amp; quia major erit in patria. Idem tamen Bellarminus contendit, eam 
+      <lb ed="#H" n="162"/>in hac vita posse esse tam perfectam, ut praecepto adimplendo 
+      suffi<lb ed="#H" n="163" break="no"/>ciat. Sed jam videbimus tum aliorum, tum ipsius argumenta quae 
+      <lb ed="#H" n="164"/>doctrinae nostrae orthodoxae opponunt. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1657">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Objiciunt primo quod legitur, 1. Johan. 4. vers. 12. Si diligamus 
+      <lb ed="#H" n="166"/>alij alios, Deus in nobis habitat, &amp; charitas ejus adimpleta est in 
+      no<lb ed="#H" n="167" break="no"/>bis: Ergo charitas nostra erga Deum est in nobis dum hic vivimus 
+      <lb ed="#H" n="168"/>perfecta. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1670">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>RESPON. Negatur consequentia, quia committitur fallacia 
+      ho<lb ed="#H" n="170" break="no"/>monymiae in nomine complexo charitatis Dei, quod in dicto 
+      Johan<lb ed="#H" n="171" break="no"/>nis non accipitur de nostra charitate erga Deum, de qua jam 
+      quaeri<lb ed="#H" n="172" break="no"/>tur, sed de charitate Dei erga nos: &amp; sensus est, dilectionem nostram 
+      <lb ed="#H" n="173"/>erga proximum esse signum quod habitet Deus in nobis, &amp; quod 
+      <lb ed="#H" n="174"/>vere &amp; reipsa comprobetur in nobis quod Deus nos diligat perfecto 
+      <lb ed="#H" n="175"/>atque aeterno amore in CHRISTO. Res enim quaelibot dicitur 
+      ad<lb ed="#H" n="176" break="no"/>impleri ab effectu, quando vere &amp; reipsa innotescit &amp; comprobatu 
+      <lb ed="#H" n="177"/>ab effectu: ita charitate nostra erga proximum tanquam effectu, 
+      ve<lb ed="#H" n="178" break="no"/>re &amp; certo innotescit &amp; comprobatur nobis quod Deus nos diligat.  
+      <lb ed="#H" n="179"/>Quia nemo proximum suum diligit, nisi quem Deus prius dilexit 
+      <lb ed="#H" n="180"/>&amp; charitate erga se &amp; proximum donavit. Ergo charitas Dei ad 
+      <lb ed="#H" n="181"/>impleta est in nobis, quando sensus ejus diffusus est in cordibus 
+      no<lb ed="#H" n="182" break="no"/>stris, sic ut intime sentiamus &amp; vere pleneque cognoscamus quod  
+      <lb ed="#H" n="183"/>Deus charos nos habeat: sicut versic.16. Johannes subjicit; Et nos 
+      co<lb ed="#H" n="184" break="no"/>gnovimus &amp; credidimus charitatem quam habet Deus erga nos 
+      <!--cod-MkL9py-0632.xml-->
+      <pb ed="#H" n="603"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Eodem sensu dicitur de charitate Dei quam is nos diligit in Christo, 
+      <lb ed="#H" n="2"/>Rom. 5. v. 5. Charitas Dei diffusa est in cordibus nostris per Spiritum 
+      <lb ed="#H" n="3"/>Sanctum qui datus est nobis. Augustinus quidem hunc Pauli locum 
+      <lb ed="#H" n="4"/>accipit de charitate qua nos Deum diligimus, sed primo Paulus se 
+      <lb ed="#H" n="5"/>quentibus versibus diserte se explicat quod agat de charitate Dei 
+      ex<lb ed="#H" n="6" break="no"/>ga nos, quam ostendit dum Filium dedit pro nobis in mortem: nam 
+      <lb ed="#H" n="7"/>quum dixisset Apostolus, charitatem Dei diffusam esse in cordibus. 
+      <lb ed="#H" n="8"/>nostris, hanc illico rationem subjicit: Christus enim, quum nullis 
+      <lb ed="#H" n="9"/>adhuc viribus essemus, praestituto tempore pro impiis mortuus est, &amp;c. 
+      <lb ed="#H" n="10"/>Et multo manifestius v. 8. Commendat autem suam erga nos 
+      chari<lb ed="#H" n="11" break="no"/>tatem Deus, eo quod quum adhuc essemus peccatores, Christus pro 
+      no<lb ed="#H" n="12" break="no"/>bis mortuus sit. Secundo quia salutis nostrae certitudo nititur charita. 
+      <lb ed="#H" n="13"/>te Dei erga nos, ut videre est Johan. 3. v.16. Rom. 8. v. 37. Galat. 20. 
+      <lb ed="#H" n="14"/>2. Thessal. 2. v. 16. 1. Johan. 4. v. 10. Tertio quia si spes nostra nitere 
+      <lb ed="#H" n="15"/>tur nostra dilectione, millies confunderetur, quoniam nostra 
+      dile<lb ed="#H" n="16" break="no"/>ctio saepe est admodum frigida. Ambrosius in Commentar,. ad hunc 
+      <lb ed="#H" n="17"/>Pauli locum interpretatur de charitate qua Deus nos charos habet  
+      <lb ed="#H" n="18"/>Haymo ac Thomas Aquinas magis etiam probant, ut intelligatur  
+      <lb ed="#H" n="19"/>charitas quam nos a Deo diligimur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1757">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Instant &amp; ajunt: Charitas Dei, quae est in nobis, est illa qua nos 
+      <lb ed="#H" n="21"/>Deum diligimus: at Iohannes loquitur de charitate Dei quae est in 
+      <lb ed="#H" n="22"/>nobis: Ergo de illa qua nos Deum diligimus. Ait enim diserte: 
+      Chari<lb ed="#H" n="23" break="no"/>tas Dei adimpleta est in nobis 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1770">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>RESP. Major est particularis duntaxat: Nam &amp; charitas Dei 
+      <lb ed="#H" n="25"/>qua Deus nos diligit est in nobis quoad cognitionem &amp; vivum 
+      sen<lb ed="#H" n="26" break="no"/>sum ejus: Sicut Christus ait Johan. 17. v. 26. Notum ipsis feci nomer 
+      <lb ed="#H" n="27"/>tuum &amp; notum faciam: ut charitas qua dilexisti me, sit in eis, &amp; 
+      <lb ed="#H" n="28"/>ego in eis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1786">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Instant rursus &amp; urgent v. 17. &amp; 18. Per hoc adimpleta est charitas 
+      <lb ed="#H" n="30"/>nobiscum ut fiduciam habeamus in die judicij, quod qualis ille est, 
+      ta<lb ed="#H" n="31" break="no"/>les &amp; nos sumus in hoc mundo. Metus non est in charitate: integra 
+      <lb ed="#H" n="32"/>charitas foras ejicit metum, quoniam metus cruciatum habet: 
+      qui<lb ed="#H" n="33" break="no"/>autem metuit, non est consummatus in charitate. Aiunt Johannem 
+      <lb ed="#H" n="34"/>docere, quo quis plus charitatis habet erga Deum, eo minus metuer 
+      <lb ed="#H" n="35"/>diem judicij: De nostra proinde charitate loqui &amp; eam vocare 
+      per<lb ed="#H" n="36" break="no"/>fectam. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1809">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>RESP. Etiam v. 17. per charitatem intelligitur charitas Dei ergo 
+      <lb ed="#H" n="38"/>nos, quae perfecta seu adimpleta est nobiscum, quia plena copia effus 
+      <lb ed="#H" n="39"/>ac solide prestita est nobis in Christo ut veluti numeris omnibus 
+      con<lb ed="#H" n="40" break="no"/>stet, eo fine ut fiduciam habeamus in die judicij, vivo &amp; efficaci sensus 
+      <lb ed="#H" n="41"/>charitatis Dei erga nos diffuso in cordibus nostris per Spiritum 
+      San<lb ed="#H" n="42" break="no"/>ctum. Nam quo quis plenius sentit &amp; gustat in corde suo Dei erga 
+      <lb ed="#H" n="43"/>se amorem, eo minus timet diem judicij divini. Qui enim scit &amp; 
+      cre<lb ed="#H" n="44" break="no"/>dit atque reipsa sentit in corde suo se a Deo in Christo amore aeterne 
+      <lb ed="#H" n="45"/>&amp; perfecto amari, is non metuit se condemnatum iri ab eo: ac 
+      pro<lb ed="#H" n="46" break="no"/>inde non reformidat diem judicij, sed cum gaudio exspectat. 
+      Qua<lb ed="#H" n="47" break="no"/>propter nullus ad Dei tribunal tranquillo animo unquam accedet. 
+      <lb ed="#H" n="48"/>nisi qui statuet, gratuito se amari a Deo in Christo. Quod &amp; Paulus 
+      <lb ed="#H" n="49"/>docet cum ait Rom. 8. v. 31. Si Deus pro nobis, quis contra nos? &amp; ver. 
+      <lb ed="#H" n="50"/>38, 39. Nam mihi persuasum est, neque mortem, neque vitam, nequo 
+      <lb ed="#H" n="51"/>Angelos, naeque principatus, neque potestates, neque praesentia, neque 
+      fu<lb ed="#H" n="52" break="no"/>tura, neque sublimitatem, neque profunditatem, neque ullam rem 
+      a<lb ed="#H" n="53" break="no"/>liam conditam posse nos separare a charitate Dei, quae est in Christi. 
+      <lb ed="#H" n="54"/>Iesu Domino nostro. Similiter vers. 19. agit de charitate Dei erga nos: 
+      <lb ed="#H" n="55"/>Metus non est in charitate, quia hoc consequimur cognita Dei ergo 
+      <lb ed="#H" n="56"/>nos charitate, ut metu judicij divini non exagitemur. Amor Dei 
+      ex<lb ed="#H" n="57" break="no"/>ga nos est remedium quo a misero illo metu liberamur. Integra 
+      cha<lb ed="#H" n="58" break="no"/>ritas foras ejicit metum; quia hoc est singulare beneficium Dei, quod 
+      <lb ed="#H" n="59"/>nobis per Spiritum Sanctum penitus persuadet, quod nos perfecta 
+      <lb ed="#H" n="60"/>sempiternaque charitate in Christo complectatur, &amp; quia quo 
+      perfe<lb ed="#H" n="61" break="no"/>ctius per fidem perspecta ac cognita nobis est charitas illa Dei erga 
+      <lb ed="#H" n="62"/>nos, eo pacatiores fiunt conscientiae nostrae propulsato metu, quia 
+      <lb ed="#H" n="63"/>metus cruciatum habet, quo Deus nos liberat, quum sui amoris erga 
+      <lb ed="#H" n="64"/>nos sensum efficacem nobis indit. Qui autem metuit, non est 
+      con<lb ed="#H" n="65" break="no"/>summatus in charitate, quia metus &amp; trepidatio assidua conscientia. 
+      <lb ed="#H" n="66"/>est certum indicium, hominem non habere probe cognitam 
+      chari<lb ed="#H" n="67" break="no"/>tatem Dei erga se: charitas enim Dei probe cognita, animum 
+      tran<lb ed="#H" n="68" break="no"/>quillat. Sed etiamsi versum hunc de charitate nostra erga Deum 
+      in<lb ed="#H" n="69" break="no"/>telligeremus, tamen inde probari non posset, illam in nobis in hac 
+      <lb ed="#H" n="70"/>vita perfectam esse: tum quia Apostolus id non docet; non enim ait,  
+      <lb ed="#H" n="71"/>charitatem esse in nobis integram, sed de charitatis perfectae fructu 
+      <lb ed="#H" n="72"/>duntaxat disserit: tum quia etiam sanctissimi quique, dum hic vivunt,  
+      <lb ed="#H" n="73"/>habent aliquem metum judicij ultimi; Sunt enim simul jam in 
+      san<lb ed="#H" n="74" break="no"/>ctis hae duae contrariae qualitates, nempe charitas erga Deum &amp; me- 
+      <lb ed="#H" n="75"/>tus judicij divini &amp; aeternatum poenatum, in gradibus remissis, 
+      cre<lb ed="#H" n="76" break="no"/>scente paulatim charitate in Deum &amp; decrescente metu, &amp; succedente 
+      <lb ed="#H" n="77"/>laetitia in Deo, donec laetitia vincat &amp; perfecte ejiciat omnem 
+      trepi<lb ed="#H" n="78" break="no"/>dationem in altera vita, cum Deus absterget omnem lacrymam. 
+      Nul<lb ed="#H" n="79" break="no"/>lus ergo sanctorum in hac vita omnibus numeris perfectam habet  
+      <lb ed="#H" n="80"/>charitatem 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1909">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>OBIICITUR secando: Deus promisit Deuter. 30. v. 6. se effectus 
+      <lb ed="#H" n="82"/>rum ut tempore novi Testamenti diligatur ex toto corde &amp; tota 
+      ani<lb ed="#H" n="83" break="no"/>ma: Ergo charitas in nobis etiam in hac vita est perfecta. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1920">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>RESP. Negatur antecedens, Deus enim nusquam promisit, se in 
+      <lb ed="#H" n="85"/>hac vita perfectam &amp; absolutam omnibus numeris dilectionem sui, 
+      <lb ed="#H" n="86"/>sae hominibus inditurum, sed principium &amp; media se effecturum pro¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1931">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>mittit, quae ad perfectionem illius ordinantur. Nam Deus non dici 
+      <lb ed="#H" n="88"/>Deut. 30. Dilecturus es Deum toto corde: sed, circumcidet 
+      Domi<lb ed="#H" n="89" break="no"/>nus cor tuum &amp; seminis tui, ut diligas eum toto corde, &amp;c. Quod 
+      <lb ed="#H" n="90"/>promisit, praestat, sed ordine &amp; demenso suo, ut eo ordine sucressive 
+      <lb ed="#H" n="91"/>ad prae stationem partium nostrarum perducamur. Utque 
+      impletio<lb ed="#H" n="92" break="no"/>praecepti, Diliges Dominum Deum tuum ex toto corde tuo, &amp;c. ad vi¬ 
+      <!--cod-MkL9py-0632.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>Atam illam immortalem pertinet, si nos post lapsum consideres: ita &amp; 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1955">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>perfecta omnibus numeris charitas erga Deum in patria demum in 
+      <lb ed="#H" n="95"/>nobis futura est. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1964">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>OEIICIUNr tertio: Si non esset in hac vita in nobis charitas tam 
+      <lb ed="#H" n="97"/>perfecta ut praecepto divino adimplendo sufficeret, tum non possemus id 
+      <lb ed="#H" n="98"/>esse Christi discipuli &amp; amici: cum ipse dicat Joh. 13. v. 35. Ex hoc cog. 
+      <lb ed="#H" n="99"/>noscent omnes, vos esse discipulos meos, si charitatem habueritis 
+      ali<lb ed="#H" n="100" break="no"/>in alios: Et c. 15. v. 14. Vos amici mei eritis, si feceritis quae ego 
+      praecipi<lb ed="#H" n="101" break="no"/>vobis. Quid autem praecipiat, explicat ibidem dicens v. 17. Hoc est 
+      <lb ed="#H" n="102"/>praeceptum meum, ut diligatis alij alios. Valde autem absurdum est, 
+      <lb ed="#H" n="103"/>neminem posse esse Christi discipulum vel amicum: Ergo est in hac 
+      <lb ed="#H" n="104"/>vita in nobis charitas tam perfecta ut praecepto divino adimplendo 
+      <lb ed="#H" n="105"/>sufficiat.  
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e1991">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>RESP. Negatur sumti consequentia: Nam etiamsi in hac vit: 
+      <lb ed="#H" n="107"/>non est in nobis charitas tam perfecta ut praecepto divino 
+      adimplen<lb ed="#H" n="108" break="no"/>do satisfaciat: possumus tamen esse Christi discipuli &amp; amici, quale 
+      <lb ed="#H" n="109"/>sunt omnes illi qui credunt vera ac viva fide in Iesum Christum, 
+      in<lb ed="#H" n="110" break="no"/>quorum cordibus simul Spiritus Sanctus accendit sinceram 
+      charita<lb ed="#H" n="111" break="no"/>tem erga Deum &amp; proximum, ut videre est Actor. 2. v. 41. &amp; 
+      sequen<lb ed="#H" n="112" break="no"/>tibus usque ad finem capitis, item cap. 4. 32. Charitas enim non facit 
+      <lb ed="#H" n="113"/>discipulos &amp; amicos Christi, sed factos ostendit tanquam certum 
+      eo<lb ed="#H" n="114" break="no"/>rum signum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2015">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>OBIICIUNT quarto: Qui possunt in hac vita esse perfecti, in iis 
+      et<lb ed="#H" n="116" break="no"/>iam charitas in hac vita est perfecta: At iusti possunt in hac vita esse 
+      i<lb ed="#H" n="117" break="no"/>perfecti: Ergo, &amp;c. Assumtionem probare nituntur ex sequentibus 
+      di<lb ed="#H" n="118" break="no"/>ctis Gen 6 v. 9. Noc vir iustus fuit atque perfectus. Genes. 17. 1. Am 
+      <lb ed="#H" n="119"/>bula coram me &amp; esto perfectus. Matth. 5. v. 48. Estote perfecti. Matt. 
+      <lb ed="#H" n="120"/>19. vers. 21. Si vis perfectus esse. Philipp. 3. vers. 15. Quicunque perfecti 
+      <lb ed="#H" n="121"/>sumus 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2035">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>RESPON. Primo distinguendum est: Qui possunt esse in hac vita. 
+      <lb ed="#H" n="123"/>perfecti, nempe in se, idque perfectione non tantum partium &amp; 
+      sin<lb ed="#H" n="124" break="no"/>ceritatis, sed etiam graduum, in iis etiam in hac vita est charitas per 
+      <lb ed="#H" n="125"/>fecta nimirum perfectione jam dicta. At justos nimirum sua propria 
+      <lb ed="#H" n="126"/>ac sibi inhaerente justitia, posse in hac vita esse perfectos in se, non 
+      tan<lb ed="#H" n="127" break="no"/>tum perfectione partium &amp; sinceritatis, sed etiam graduum, negatur.  
+      <lb ed="#H" n="128"/>justificati autem propter Christum &amp; regenerati per Spiritum 
+      San<lb ed="#H" n="129" break="no"/>ctum, in conspectu Dei perfecti sunt in Christo non tantum partibus 
+      <lb ed="#H" n="130"/>verae pietatis quae omnes in ipsis inchoatae sunt, sed etiam gradibus. 
+      <lb ed="#H" n="131"/>verae &amp; integrae justitiae Christi ipsis imputatae, sicut dicitur Coloss. 2. 
+      <lb ed="#H" n="132"/>v. 10. In ipso estis completi. Hebr. 10. v. 14. Unica enim oblatione 
+      con<lb ed="#H" n="133" break="no"/>summavit in perpetuum eos qui sanctificantur:  
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2066">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Deinde quod ad testimonia attinet quae ad probationem 
+      assum<lb ed="#H" n="135" break="no"/>tionis allegantur, illa dissimilem rationem habent, Gen 6. v. 9. 
+      Noa<lb ed="#H" n="136" break="no"/>chus dicitur perfectus fuisse, sed perfectione partium, seu integritate 
+      <lb ed="#H" n="137"/>&amp; sinceritate opposita hypocrisi &amp; simulationi pietatis: quia 
+      habui<lb ed="#H" n="138" break="no"/>verum &amp; non simulatum affectum studiumque &amp; propositum 
+      obe<lb ed="#H" n="139" break="no"/>diendi Deo secundum omnia ipsius praecepta, &amp; repugnandi pravis 
+      <lb ed="#H" n="140"/>cupiditatibus. Gen. 17. v. 1. &amp; Matth. 5. v. 48. mandatum est de 
+      perfe<lb ed="#H" n="141" break="no"/>ctione consequenda, unde non sequitur, illam in nobis hac in vita esse 
+      <lb ed="#H" n="142"/>aut esse posse Matt. 9. v. 21. hypothesis est que nihil ponit in esse: nam 
+      <lb ed="#H" n="143"/>cum imprudenti fiducia adolescens Christo respondisset, se omnia 
+      <lb ed="#H" n="144"/>quae Lege Dei mandantur observasse a juventute sua, &amp; quaesivisset, 
+      <lb ed="#H" n="145"/>quo adhuc deficeretur; Christus ex hypothesi ei respondet, q. d. quic  
+      <lb ed="#H" n="146"/>quid praestitisse tibi videare, tamen unum tibi deest (non dicit 
+      uni<lb ed="#H" n="147" break="no"/>cum per remotionem, ut vocant plurium: sed anum positiva 
+      signifi<lb ed="#H" n="148" break="no"/>catione, non exclusis aut negatis aliis defectibus,) si vis perfectus ese 
+      <lb ed="#H" n="149"/>abi vende quae habes, &amp;c. non ut perfectionis modum simpliciter 
+      o<lb ed="#H" n="150" break="no"/>stenderet, sed ut hoc signo evinceret imperfectionem illius, qui cum 
+      <lb ed="#H" n="151"/>se Legem Dei affirmaret observasse, tamen nondum amare Deum &amp; 
+      <lb ed="#H" n="152"/>proximum eousque didicisset, ut renunciaret opibus suis: quante 
+      <lb ed="#H" n="153"/>minus sibi ipsi, &amp; mundo toti propter Deum &amp; proximum? Philip. 3. 
+      <lb ed="#H" n="154"/>v. 15. perfecti dicuntur non respectu obedientiae illius quam Lex 
+      re<lb ed="#H" n="155" break="no"/>quirit, sed respectu infirmorum qui minus habent cognitionis &amp; 
+      cer<lb ed="#H" n="156" break="no"/>titudinis, promptitudinisque ad obtemperandum Deo. Paulus non 
+      <lb ed="#H" n="157"/>ibsolute perfectum se esse dicit, sed comparate de perfectione majore 
+      <lb ed="#H" n="158"/>loquitur secundum gradum, quam aliorum sit, non de perfectione. 
+      <lb ed="#H" n="159"/>plena secundum statum: quemadmodum adultus secundum gradum 
+      <lb ed="#H" n="160"/>est puero perfectior. Quapropter eum locum recte vertit Beza, 
+      quot<lb ed="#H" n="161" break="no"/>quot itaque adulti sumus: sensum Apostoli vere exprimens. 
+      Imperi<lb ed="#H" n="162" break="no"/>tus puer vel omnia praesumit de se; adultus vero periculo facto 
+      infir<lb ed="#H" n="163" break="no"/>mitatis suae, eo perfectus est comparate, quod conscius est 
+      imperfe<lb ed="#H" n="164" break="no"/>ctionis suae &amp; ad justam perfectionem tendit. Quod paucis verbis 
+      <lb ed="#H" n="165"/>contraxit Theophylactus: Perfecti est (inquit) seipsum non 
+      existi<lb ed="#H" n="166" break="no"/>mare perfectum: haec enim est perfectio, non confidere: servata 
+      nimi<lb ed="#H" n="167" break="no"/>rum graduum in aetate nostra &amp; profectibus nostris comparatione. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2144">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>OEIICIUNT quinto. Qui servat sermonem Dei, vere in hoc 
+      cha<lb ed="#H" n="169" break="no"/>ritas Dei perfecta est, ut dicitur. I. Johan. 2. vers. 5. At veri discipuli 
+      <lb ed="#H" n="170"/>Christi in hac vita servant sermonem Dei: teste Christo qui ait Joh: 
+      <lb ed="#H" n="171"/>17. v. 6. de discipulis suis, Tut erant &amp; mihi eos dedisti: &amp; sermonem 
+      <lb ed="#H" n="172"/>tuum servarunt. Ergo in veris discipulis Christi in hac vita charitas 
+      <lb ed="#H" n="173"/>Dei perfecta est. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2162">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>RESP. Conceditur totum recte intellectum, nempe si charitas 
+      <lb ed="#H" n="175"/>erga Deum intelligatur perfecta partium &amp; sinceritatis perfectiones 
+      <lb ed="#H" n="176"/>quomodo perfectam in piis esse charitatem in hac vita ultro damus 
+      <lb ed="#H" n="177"/>Sed si intelligatur perfecta graduum perfectione, tum negatur 
+      con<lb ed="#H" n="178" break="no"/>sequentia quia sunt in arguimentatione quatuor termini propter 
+      am<lb ed="#H" n="179" break="no"/>biguitatem medij. Nam servare sermonem Dei in majore 
+      proposi<lb ed="#H" n="180" break="no"/>ione significat implere praecepta Legis Dei: legitima enim &amp; 
+      con<lb ed="#H" n="181" break="no"/>stans atque absoluta praeceptorum Legis Dei impletio, est 
+      perfecta<lb ed="#H" n="182" break="no"/>Dei charitas, qualis in hac vita in nemine mortalium reperitus. A. 
+      <lb ed="#H" n="183"/>in minore propositione &amp; in dicto Christi, servare sermonem Dei. 
+      <lb ed="#H" n="184"/>idem est quod amplecti &amp; in corde puro custodite Evangelij doctri¬ 
+      <!--cod-MkL9py-0633.xml-->
+      <pb ed="#H" n="604"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>nam quae homines efficit vere discipulos Christi &amp; Dei filios. 
+      Repro<lb ed="#H" n="2" break="no"/>bis effluit sermo Dei, sed apud electos radices agit; unde servare eum 
+      <lb ed="#H" n="3"/>dicuntur. Sic legitur Apoc. 22. v. 7. Beatus qui obseruat verba 
+      pro<lb ed="#H" n="4" break="no"/>phetiae hujus, nempe in mente sive animo per fidem: Loquitur enim 
+      <lb ed="#H" n="5"/>de observatione intellectus, non autem actionis vel operis. Sunt qui 
+      <lb ed="#H" n="6"/>locum 1. Johan. 2. vers. 5. exponunt de charitate qua nos prosequitu 
+      <lb ed="#H" n="7"/>Deus &amp; comparant hunc versum cum v. 1. capitis tertij, in quo 
+      dici<lb ed="#H" n="8" break="no"/>tur: Videte qualem charitatem dedit nobis Pater, nempe ut Filij Dei 
+      <lb ed="#H" n="9"/>vocemur: &amp; verbum τείελεῖωται distinguunt a verbo τειιλεταμ: ita ut 
+      <lb ed="#H" n="10"/>hoc significet perfectum seu consummatum esse: illud vero 
+      sanctifi<lb ed="#H" n="11" break="no"/>catum seu consecratum esse. Ita ut sensus Johannis sit; Qui observat 
+      <lb ed="#H" n="12"/>praecepta Dei, in illo charitatem Dei quam is diligit suos esse 
+      sanctifi<lb ed="#H" n="13" break="no"/>catam, &amp; illum in ea sanctificatum per communicationem Spiritus 
+      <lb ed="#H" n="14"/>Sancti in ipso habitantis Quae expositio si recipitur, sententiam 
+      Pa<lb ed="#H" n="15" break="no"/>bistarum plane evertit 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2231">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Istae sunt praecipuae objectiones adversariorum: ex quarum refur 
+      <lb ed="#H" n="17"/>tatione constat, charitatem nostram erga Deum in hac vita non esse 
+      <lb ed="#H" n="18"/>perfectam, utpote cui semper aliquid addi possit dum hic vivimus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2242">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Quod Papistae disputant de charitate animarum in Purgatorio 
+      <lb ed="#H" n="20"/>post hanc vitam, an illa perfecta sit, nugatorium est; quia animarum 
+      <lb ed="#H" n="21"/>Purgatorium quale Papani statuunt, nullum est: Proinde superva 
+      <lb ed="#H" n="22"/>canea &amp; inutilis est disputatio quam Bellarminus habet primo 
+      Con<lb ed="#H" n="23" break="no"/>troversiarum tomo, controversia sexta, libro secundo cap. tertio¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2258">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>QUAERITUR, Quum dictum sit &amp; probatum, charitatem in 
+      ha<lb ed="#H" n="25" break="no"/>vita esse imperfectam, ac proinde charitatem perfectissimam, id est 
+      <lb ed="#H" n="26"/>cui nihil addi potest, non esse hujus vitae: An defectus perfectae 
+      chari<lb ed="#H" n="27" break="no"/>tatis sit peccatum? Nos affirmamus: Papistae negant. Sententiam 
+      <lb ed="#H" n="28"/>nostram sic confirmamus 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2274">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Omnis ἀνομια est peccatum 
+      <lb ed="#H" n="30"/>Defectus charitatis perfectae est ἀνομια: 
+      <lb ed="#H" n="31"/>Ergo defectus charitatis perfectae est peccatum. 
+      <lb ed="#H" n="32"/>Major propositio est certa, nam cum definitio cum definito 
+      con<lb ed="#H" n="33" break="no"/>vertatur, sicut peccatum est ἀγομια, ita αἀνομιαν esse peccatum 
+      neces<lb ed="#H" n="34" break="no"/>se est 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2292">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>Minor etiam certa est: Nam primo Lex non requirit charitatem 
+      <lb ed="#H" n="36"/>defectu laborantem, sed omnibus numeris absolutissimam ac 
+      perfe<lb ed="#H" n="37" break="no"/>ctissimam: Deinde, quicquid Lege prohibetur, culpatur, damnatur,  
+      <lb ed="#H" n="38"/>id certe est ανομια: At defectus charitatis Lege prohibetur, culpatur,  
+      <lb ed="#H" n="39"/>damnatur: quia quicquid Lex requirit, id perfecte bonum esse vuli 
+      <lb ed="#H" n="40"/>cui nihil addi possit, cui id non desit quod ad perfectionem ejus exigi 
+      <lb ed="#H" n="41"/>tur: ac proinde Lex perfectionem cui nihil addi possit requirens, 
+      de<lb ed="#H" n="42" break="no"/>fectum prohibet, culpat, damnat: Unde consequitur, 
+      defectumil<lb ed="#H" n="43" break="no"/>lum ἀνομιαν esset 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2316">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Papistarum sententiam Thomas Stapletonus de universa 
+      Justifi<lb ed="#H" n="45" break="no"/>cationis doctrina hodie controversa sexto libro, capite septimo 
+      pro<lb ed="#H" n="46" break="no"/>bare conatur ex Augustino, qui libro de Spiritu &amp; litera cap. ult. ait: 
+      <lb ed="#H" n="47"/>Dici potest quaedam justitia minor huic vitae competens, de qua non 
+      <lb ed="#H" n="48"/>absurde dicitur ad eam etiam pertinere ne peccet. Neque enim si esse. 
+      <lb ed="#H" n="49"/>nondum potest tanta dilectio Dei, quanta illi cognitioni plenae 
+      perfe<lb ed="#H" n="50" break="no"/>ctaeque debetur, jam culpae deputandum est, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2337">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>RESP. Peccatur petitione principij: quia Patres non sunt 
+      legiti<lb ed="#H" n="52" break="no"/>mum principium Theologicorum dogmatum, sed sola Sacra 
+      Scri<lb ed="#H" n="53" break="no"/>ptura. Augustinus hoc quidem dicit, sed ex Sacra Scriptura non 
+      <lb ed="#H" n="54"/>probat.  
+      <lb ed="#H" n="55"/>Tantum de imperfectione charitatis nostrae in hac vita: se¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2353">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>quitur quarta Thesis de eiusdem adiunctis. 
+      <lb ed="#H" n="57"/>V. Charitas nostra durabit &amp; manebit etiam in futuro seculo, sic.  
+      <lb ed="#H" n="58"/>ut Paulus docet 1. Corinth. 13. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2364">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Declavata sunt adjuncta charitatis nostrae erga Deum: se¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2371">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>quitur de dissentaneis ejus 
+      <lb ed="#H" n="61"/>Dissentanea charitatis nostrae erga Deum quaedam diversa sunt:  
+      <lb ed="#H" n="62"/>tantum, quaedam opposita. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2382">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Diversae sunt a charitate omnes aliae virtutes Christianae, quae etsi 
+      <lb ed="#H" n="64"/>realiter, id est, ut res &amp; res differant a charitate, tamen unam cum ea 
+      si<lb ed="#H" n="65" break="no"/>mul esse possunt ac revera simul sunt in eodem subjecto. Opponitur  
+      <lb ed="#H" n="66"/>ei etiam, ut diversum quid, metus judicij divini &amp; poenatum aeterna. 
+      <lb ed="#H" n="67"/>rum, qualis in hac vita est in omnibus sanctis 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2398">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Quod ad opposita attinet, in excessu nihil charitati erga Deum 
+      <lb ed="#H" n="69"/>opponitur: quia in diligendo Deo excessu peccari non potest: 
+      nun<lb ed="#H" n="70" break="no"/>quam enim tam valde diligimus Deum, quam debemus. In 
+      diligen<lb ed="#H" n="71" break="no"/>do Deo modus est, non habere modum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2412">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>In defectu autem opponitur ei, odium adversus Deum, simulatus 
+      <lb ed="#H" n="73"/>amor erga Deum, amor mundi, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2421">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>De odio adversus Deum quaeritur, An sit, quid sit, quae ejus cause 
+      <lb ed="#H" n="75"/>effecta, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2430">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>An sit, non absque causa quaeritur: videtur enim plane ἀδυναζον, ut 
+      <lb ed="#H" n="77"/>quis Deum odisse possit, quum Deus summum sit bonum: Bonum. 
+      <lb ed="#H" n="78"/>autem amoris, non odij subjectum sit. Sed esse odium adversus De 
+      <lb ed="#H" n="79"/>tum, testatur Scriptura Sacra Exod. 20. v. 5. Ego Iehova Deus tuus, 
+      <lb ed="#H" n="80"/>Deus fortis, zelotes sum, visitans iniquitatem patrum in filios, in 
+      ne<lb ed="#H" n="81" break="no"/>potes &amp; in abnepotes, in eos qui odio prosequuntur me. Et Num. 17. 
+      <lb ed="#H" n="82"/>v. 35. Quum profectura esset arca, dicebat Moses; Surge Iehova, &amp; 
+      di<lb ed="#H" n="83" break="no"/>spargantur inimici tui, fugiantque osores tui a facie tua. Joh. 15. v. 18. 
+      <lb ed="#H" n="84"/>Si mundus vos odit (ait Christus,) scitis me prius quam vos, illis odit 
+      <lb ed="#H" n="85"/>hubitum. Et vers. 24, 25. Oderunt tum me tum Patrem meum. Sed. 
+      <lb ed="#H" n="86"/>oportet ut impleatur sermo qui in lege ipsorum scriptus est, Oderunt 
+      <lb ed="#H" n="87"/>me immerito. Quod vero ad dubitandi causam attinet: Bonum non 
+      <lb ed="#H" n="88"/>est simpliciter objectum odij, sed quia illud homines ut sibi adversum 
+      <lb ed="#H" n="89"/>atque malum considerant. Quum itaque impij Deum non 
+      apprelien<lb ed="#H" n="90" break="no"/>dant, quatenus is est summum bonum, sed eatenus tantuni quarenmus 
+      <!--cod-MkL9py-0633.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>ipsorum adversatur cupiditatibus. (ilas enim prohibet, &amp; punit ut 
+      <lb ed="#H" n="92"/>justus judex,) inde sit ut eum oderint impij homines &amp; cacodaemones. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2476">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>Qdium adversum Deum, est peccatum quum quis animo alieno 
+      <lb ed="#H" n="94"/>st, a Deo eumque fugit, ei peccatum accusanti &amp; punienti irascitur,  
+      <lb ed="#H" n="95"/>&amp; adversus eum inimicitias exercet malo isto orto ab eo quod sapit, 
+      <lb ed="#H" n="96"/>caro: sicut dicitur Rom. 8. v. 7. Quod sapit caro inimicitia est 
+      adver<lb ed="#H" n="97" break="no"/>sus Deum: Lege enim Dei non subjicitur ac ne potest quidem, 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2492">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Causae efficientes odij hominum adversus Deum aliae sunt 
+      caeter<lb ed="#H" n="99" break="no"/>nae, aliae internae. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2501">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Externae sunt: I. Diabolus qui impellit homines ad odium 
+      adver<lb ed="#H" n="101" break="no"/>sus Deum 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2511">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>II. Alij homines impij &amp; osores Dei, conantes alios sui similes 
+      <lb ed="#H" n="103"/>facere. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2520">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Causa interna est φροοημα τ σαρκος, quod Gen. 6. v. 5. dicitur, 
+      fi<lb ed="#H" n="105" break="no"/>gmentum cordis, id est, quod sapit caro seu corruptela totius animae a 
+      <lb ed="#H" n="106"/>ratione &amp; intelligentia usque ad affectus. Apostolus quidem 
+      expres<lb ed="#H" n="107" break="no"/>Se usurpat nomen φρονηματος, quod de excellentissima illa animi 
+      <lb ed="#H" n="108"/>parte proprie dicitur, ut intelligamus haerere hoc malum in ipso 
+      et<lb ed="#H" n="109" break="no"/>iam ἔγεμονιϰῳ: Synecdochice vero omnes animi partes 
+      complecti<lb ed="#H" n="110" break="no"/>tur ut intelligamus corruptelam totius animae. Ut igitur fideg 
+      salvifi<lb ed="#H" n="111" break="no"/>ia, est causa charitatis erga Deum: ita infidelitas est causa interna 
+      <lb ed="#H" n="112"/>odij adversus Deum, quam sit ut homines impij obtenebratam 
+      men<lb ed="#H" n="113" break="no"/>tem habentes, videre &amp; cognoscere non possint quam bonus sit Deus. 
+      <lb ed="#H" n="114"/>&amp; clemens erga omnes &amp; quod sit summum illud bonum; eadem 
+      <lb ed="#H" n="115"/>infidelitate sit ut non assentiantur verbo Dei &amp; promissionibus ejus 
+      <lb ed="#H" n="116"/>sed sint aversi a Deo &amp; justitia ejus, &amp; inclinati ad peccatum &amp; 
+      aman<lb ed="#H" n="117" break="no"/>tes iniquitatis, nec in Deo acquiescant quem sibi infestum sentiunt 
+      <lb ed="#H" n="118"/>atque iratum &amp; cui facti sunt dissimilimi. Ac proinde qui non 
+      agno<lb ed="#H" n="119" break="no"/>scunt Deum ut summum bonum, nec verbo ejus assentiuntur, 
+      ne<lb ed="#H" n="120" break="no"/>acquiescunt in eo &amp; dissimilimi ei exsistentes iniquitatem amant, illi 
+      <lb ed="#H" n="121"/>Deum odio habeant necesse est. Ita φρογημα τ σαρκος, id est, nativa &amp; 
+      <lb ed="#H" n="122"/>affectata ignorantia Dei &amp; voluntatis ejus, amor iniquitatis, 
+      per<lb ed="#H" n="123" break="no"/>suasio Deum esse adversarium, &amp; ultorem iniquitatis, opinio injuriae 
+      <lb ed="#H" n="124"/>a Deo acceptae, est causa interna odij adversus Deum; 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2570">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Abipso autem Deo &amp; Servatore nostro CHRISTO Domino, res 
+      <lb ed="#H" n="126"/>vera nullae sunt odij causae, sicut Christus ait Psal. 69. vers. 5. Oderunt 
+      <lb ed="#H" n="127"/>me immerito. Joh 15. v. 24, 25. Qdij istius impiorum adversus Deum 
+      <lb ed="#H" n="128"/>finis apud pios est, ut se eo solentur &amp; confirment adversus odia mun 
+      <lb ed="#H" n="129"/>di. Sic enim Christus ait Johan. 15. v. 18. Si mundus vos odit, scitis 
+      me<lb ed="#H" n="130" break="no"/>prius quam vos, illis odio habitum 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2588">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>Qdij istius effecta sunt, tristitia &amp; servilis metus ex praesentia Dei. 
+      <lb ed="#H" n="132"/>fuga a Deo, audacia ad perpetranda scelera, poena certissima. Sic A 
+      <lb ed="#H" n="133"/>dam &amp; Eva post lapsum timuerunt audita voce Dei &amp; fugerunt a Deo. 
+      <lb ed="#H" n="134"/>Gen, 3. v. 8, 9, 10. De audacia osorum Dei, qua omni metu posito &amp; 
+      <lb ed="#H" n="135"/>audentibus animis erigunt se ad scelera sua perpetranda, dicitur Psal. 
+      <lb ed="#H" n="136"/>83. v. 3. Ecce inimici tui perstrepunt, &amp; osores tui extollunt caput. De 
+      <lb ed="#H" n="137"/>boena odij adversus Deum legitur Exod. 20. v. 5. Sic Deuter. 7. v. 10. 
+      <lb ed="#H" n="138"/>dicitur, quod Deus rependat odio habentibus se cuique in faciem ejus 
+      <lb ed="#H" n="139"/>perdendo eum, qui non dilaturus est odio habenti se, in faciem ejus 
+      re<lb ed="#H" n="140" break="no"/>pendet ei. Proverb. 8. v. 36. Omnes osores mei, amant mortem. Psal. 
+      <lb ed="#H" n="141"/>21. v. 9, 10, 11. 1. Corinth. 16. v. 22. Si quis non amat Dominum 
+      Ie<lb ed="#H" n="142" break="no"/>sum Christum, esto anathema, maran¬
+      atha<lb ed="#H" n="143" break="no"/>Simulatus amor erga Deum, est peccatum, quum quis prae se fert 
+      <lb ed="#H" n="144"/>amorem erga Deum, quem tamen revera non amat: ut faciunt 
+      hy<lb ed="#H" n="145" break="no"/>pocrytae &amp; persequutores piorum sub specie &amp; praetextu conservandi. 
+      <lb ed="#H" n="146"/>defendendique religionem antiquam  
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2627">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Amor mundi, est peccarum quum quis res &amp; cupiditates eas quas 
+      <lb ed="#H" n="148"/>mundus amat magnifacit, &amp; confectatur, spreta voluntate Dei; quod 
+      <lb ed="#H" n="149"/>faciunt illi qui suas cupiditates aut voluptates, aut vitam aut gloriam 
+      <lb ed="#H" n="150"/>mundanam aut alias res anteferunt Deo &amp; ipsius voluntati &amp; gloriae 
+      <lb ed="#H" n="151"/>ac malunt ipsum negligere &amp; offendere, quam res illas, quae nobis 
+      <lb ed="#H" n="152"/>charae sunt, amittere, Matth. 10. v. 37. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2645">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Amor autem mundi est fugiendus: 
+      <lb ed="#H" n="154"/>I. Quia a Deo prohibitus est, 1. Johan. 2. v. 15. 
+      <lb ed="#H" n="155"/>II. Quia non potest conjunctus esse cum amore in Deum seu 
+      pu<lb ed="#H" n="156" break="no"/>gnat cum amore in Deum. 1. Johan. 2. v. 15. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2659">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>III. Quia quicquid mundi est proprium, non est a Deo, 1. Johan 
+      <lb ed="#H" n="158"/>2. versic. 16. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2668">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>IV. Quia mundus praeterit &amp; cupiditas ipsius, I. Joh. 2. v. 17. 
+      <lb ed="#H" n="160"/>Repugnantia a charitate erga Deum deinceps removenda 
+      <lb ed="#H" n="161"/>I. Charitas hominis erga Deum non est gratia gratum 
+      acceptum<lb ed="#H" n="162" break="no"/>que Deo hominem faciens, ut supra ostensum secundo libro, ea 21. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2681">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>II. Charitas nostra non est causa nec efficiens nec formalis, 
+      amo<lb ed="#H" n="164" break="no"/>ris Dei erga nos: causa enim amoris, quo nos Deus complectitur 
+      <lb ed="#H" n="165"/>non in nobis sed extra nos est. Hoc docet Paulus quum ait Rom. 8 
+      <lb ed="#H" n="166"/>v. 39. Nihil nos separabit a charitate quae est in Christo Iesu. 
+      Ratio<lb ed="#H" n="167" break="no"/>nes magnae sunt: 1. Charitas nostra est imperfecta: non ergo est 
+      cau<lb ed="#H" n="168" break="no"/>sa perfecta ejus amoris, quo nos Deus prosequitur, qui est 
+      perfectis<lb ed="#H" n="169" break="no"/>simus. 2. Quod posterius est natura, non potest ratio formalis est: 
+      <lb ed="#H" n="170"/>ejus quod praecessit. At nostra charitas est natura posterior charitatie 
+      <lb ed="#H" n="171"/>Dei erga nos, ut dicitur 1. Johan. 4. v. 19. Nos diligimus Deum, quo- 
+      <lb ed="#H" n="172"/>niam ipse prior dilexit nos. Nostra ergo charitas non potest causs  
+      <lb ed="#H" n="173"/>formalis esse charitatis Dei erga nos. 3. Finitum non potest esse 
+      es<lb ed="#H" n="174" break="no"/>ficiens ac formalis causa infiniti: At nostra charitas erga Deum est 
+      <lb ed="#H" n="175"/>finita, est exigua admodum &amp; tenuis: Non potest igitur causa esse in 
+      <lb ed="#H" n="176"/>finiti illius amoris, quo nos Deus diligit.  
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2716">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>III. Charitate nostra non justificamur apud Deum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2723">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>OEIICITUR Maxima virtus maxime justificat apud Deum 
+      <lb ed="#H" n="179"/>Nam cum nihil sit praestantius justitia, consentaneum videtur, ut  
+      <lb ed="#H" n="180"/>summum donum a prestantissima virtute promanet. At charitas 
+      no<lb ed="#H" n="181" break="no"/>stra est maxima virtus: Ergo maxime justificat apud Deum. 
+      Assum<lb ed="#H" n="182" break="no"/>tio probatur eo quod Paulus dicit 1. Corinth. 13. versic. 13. Nunc 
+      <!--cod-MkL9py-0634.xml-->
+      <pb ed="#H" n="605"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>vero manet fidis, stes, charitas, erinhic. &amp; axima autem harum 
+      cha<lb ed="#H" n="2" break="no"/>ritas. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2749">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>RESP. Major negatur: quia nititur hac falsa hypothesi, nos 
+      vir<lb ed="#H" n="4" break="no"/>tute nostra justificari coram Deo, quum Scriptura Sacra doceat, 
+      no<lb ed="#H" n="5" break="no"/>justificari apud Deum gratis, id est, pro nullo nostro merito. Deinde 
+      <lb ed="#H" n="6"/>in justificatione coram Deo quaeritur, quae res apprehendat 
+      Chri<lb ed="#H" n="7" break="no"/>stum, qui nostra est justitia. Fide autem Christus, non charitate 
+      ap<lb ed="#H" n="8" break="no"/>prehenditur: quia nobis ea conditiene Christus offertur &amp; 
+      justitia<lb ed="#H" n="9" break="no"/>nestraest, si credimus in Christum. Adhaec charitas est justificationis: 
+      <lb ed="#H" n="10"/>consequens: ergo non est causa illius, 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2772">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>IV. Charitas nostra erga Deum non vivificat, nec in 
+      justificatio<lb ed="#H" n="12" break="no"/>ne, nec postea: quia fide vivimus, quia fide vivificati sumus quum 
+      <lb ed="#H" n="13"/>inimici Dei &amp; impij essemus Rom. 4. v. 5. Gal. 2. v. 20. Ephes. 2. v. 5. 
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2783">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Haec de dissentaneis charitatis nostrae erga Deum 
+      <lb ed="#H" n="15"/>COMPARATA si spectes, charitas nostra erga Deum major est 
+      <lb ed="#H" n="16"/>fide &amp; spe, 1. Cor. 1. ver. 13. non simpliciter &amp; omni modo, sed κοτα α 
+      <lb ed="#H" n="17"/>nimirum tum quoad amplitudinem quatenus fructus ipsius longius 
+      <lb ed="#H" n="18"/>progreditur quam fidei &amp; spei, nempe etiam ad proximum, quum illa 
+      <lb ed="#H" n="19"/>non egrediantur credentis &amp; sperantis personam: tum quoad dius 
+      <lb ed="#H" n="20"/>turnitatem perpetuam. Nam charitas in altero etiam seculo perma. 
+      <lb ed="#H" n="21"/>net, ut Chrysostomus scribit homilia trigesimaquarta in epistolam 
+      <lb ed="#H" n="22"/>priorem ad Corinthios, at sidei &amp; spei nullum erit post universalem, 
+      <lb ed="#H" n="23"/>resurrectionem munus. Adeptis nobis plenam terum promissarum 
+      <lb ed="#H" n="24"/>quibus credidimus &amp; quas speramus possessionem, certe neque fide 
+      <lb ed="#H" n="25"/>am, neque spe opus erit: charitas vero &amp; in Deum quo tunc 
+      frue<lb ed="#H" n="26" break="no"/>mur, &amp; in Angelos bonos hominesque electos aeternae salutis socios, 
+      <lb ed="#H" n="27"/>quibus arctissime conjuncti erimus, tunc maxime vigebit.  
+    </p>
+            <p xml:id="yyy8Uu-gxd234-d1e2818">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Tantum de charitate erga Deum: sequitur  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

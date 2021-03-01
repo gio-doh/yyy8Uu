@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 15</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 15</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd1532"><!-- l9-c15 -->
+            <head xml:id="yyy8Uu-xd1532-Hd1e103">Caput 15</head>
+            <p xml:id="yyy8Uu-xd1532-d1e106">
+               <lb ed="#H" n="163"/>CAPUT XV. 
+      <lb ed="#H" n="164"/>In quo de oratione religiosa.
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e113">
+               <lb ed="#H" n="165"/>TULTUS Dei immediatus internus simul &amp; externus, est tum 
+      <lb ed="#H" n="166"/>oratio ad Deum religiosa, &amp; aclus pro gloria Dei: tum confessit 
+      <lb ed="#H" n="167"/>veritatis, &amp; cultus Dei in coetibus fidelium 
+      <lb ed="#H" n="168"/>Oratio ad Deum religiosa, est cultus Dei, quando Deum 
+      alloqui<lb ed="#H" n="169" break="no"/>mur cum vera atque humili cordis devotione de iis rebus, de quibus 
+      <lb ed="#H" n="170"/>llum compellari convenii secundum voluntatem ipsius, ex vera in 
+      il<lb ed="#H" n="171" break="no"/>lum fide, per Spiritum Sanctum, Ephes. 6. 18. 
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e131">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Orationis nomen est per se generale &amp; commune precationi, iu 
+      <lb ed="#H" n="173"/>ramento, voto, gratiarumactioni, celebrationi Dei, &amp;c. ut constat ex 
+      <lb ed="#H" n="174"/>titulo Psalmi nonagesimi, qui est PPyPI id est, oratio Mosis, in quam 
+      <lb ed="#H" n="175"/>non tantum precatio est, sed etiam celebratio gratiae Dei, 
+      narratio<lb ed="#H" n="176" break="no"/>instabilitatis vitae humanae &amp; miseriarum humanarum, accusatio nos 
+      <lb ed="#H" n="177"/>stricora Deo. Et exoratione Davidis 2. Sam. 1718. &amp; sequetibus; ex 
+      <!--cod-MkL9py-0637.xml-->
+      <pb ed="#H" n="608"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Sratione Israclitarum, Nehem 7. v. 6. &amp; seqq. &amp; oratione Danielis 
+      <lb ed="#H" n="2"/>9. ex Psalmis diversis: frequenter tamen per Synecdochen generis. 
+      <lb ed="#H" n="3"/>pro solaeprecatione accipi solet. Hoc capite generaliter accipitur 
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e162">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Oratio religiosa ad Deum ut in Veteri, ita etiam in Novo Testa. 
+      <lb ed="#H" n="5"/>mente fuit interdum directa ad unam personam Deitatis, interdum 
+      <lb ed="#H" n="6"/>ad omnes communiter. 
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e174">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Ad unam, veluti ad Patrem, ut Dan. 9. videre est. 
+      <lb ed="#H" n="8"/>Ad Filium, Psalma. 5. 7. Solium tuum, o Deus, in seculum &amp; 
+      sem<lb ed="#H" n="9" break="no"/>piternum, sceptrum rectum est sceptrum regni tui. Psal. 102. 25, 26. 
+      <lb ed="#H" n="10"/>Coloss. 3. 17. Quicquid egeritis sermone, aut facto, in nomine 
+      Domi<lb ed="#H" n="11" break="no"/>ni Iesu id facite, gratias agentes Deo &amp; Patri per eum. 
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e190">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Filius autem Dei est religiose adorandus. 
+      <lb ed="#H" n="13"/>I. Quia in eum credimus. Rom. 10. v. 14. Quomodo invocabunt. 
+      <lb ed="#H" n="14"/>eum, in quem non crediderint: 
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e201">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>II. Quia mandato Dei Patris jubetur adorari. Hebr. 1. 6. Quum 
+      <lb ed="#H" n="16"/>inducit primogenitum in orbem terrarum, dicit, Et adorent eum 
+      o<lb ed="#H" n="17" break="no"/>nnes Angeli Dei. 
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e212">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>III. Quia a vere sanctis religiose aderatus fuit, quorum exempla 
+      <lb ed="#H" n="19"/>merito imitamur; veluti a Magis, de quibus Matth. 2. 2, 11, a leprosos 
+      <lb ed="#H" n="20"/>Matth. 8. 2. a Centurione Capernaumi, Matth. 8. 5. a caecis 
+      duobu<lb ed="#H" n="21" break="no"/>Matth. 9. v. 27. ab eo qui caecus natus &amp; postea miraculose visu 
+      do<lb ed="#H" n="22" break="no"/>natus fuerat, Jehau. 9. 38. Act. 7. 59. orat Srephanus Martyr: 
+      Domi<lb ed="#H" n="23" break="no"/>ne Iesu, suscipe spiritum meum. Anocal. 22. 20. Veni Domine Iesus 
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e230">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Excipiunt hostes veritatis, Christum ab istis adoratum fuisse 
+      ci<lb ed="#H" n="25" break="no"/>vili tantum cultu, tanquum hominem operibus mirandis excellen 
+      <lb ed="#H" n="26"/>tem, aut prophetam: Eorum igitur exemplum perperam adduci au 
+      <lb ed="#H" n="27"/>probandum, Christum esse religiose adorandum 
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e243">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Defeusio nostra. Antecedens exceptionis negatur. Nam adoratio 
+      <lb ed="#H" n="29"/>civilis est absque ulla in eum fide qui externo cultu afficitur: neque 
+      <lb ed="#H" n="30"/>enim licet salutis fiduciam in nudis hominibus collocare, juxta dictu 
+      <lb ed="#H" n="31"/>Jerem. 17. 5. Maledictus qui consulit in homine. Haec vero adoratio 
+      <lb ed="#H" n="32"/>tqua memorati fideles Christum adoraverunt, conjunctam habuit  
+      <lb ed="#H" n="33"/>ecum fidem in Christum: imo ex fide illa, quam postulavit Christus. 
+      <lb ed="#H" n="34"/>adoratio illa fuit profecta. Ergo non tantum civili honore Christum 
+      <lb ed="#H" n="35"/>coluerunt, sed cultu qui soli Deo debetur.  
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e266">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Excipiunt rursus. Et si ea adoratione qua solus Deus adorandus est: 
+      <lb ed="#H" n="37"/>sti adoravissent Christum: tumen ex eorum exemplo nihil colligi 
+      <lb ed="#H" n="38"/>posse, eo quod non vecte fecerint Christum religiosa adoratione 
+      ado<lb ed="#H" n="39" break="no"/>rantes. 
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e279">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Defensio nostra. Sanctos illos qui Christum religiose adorarunt  
+      <lb ed="#H" n="41"/>tecte fecisse, inde liquet, quia Christus permisit hoc adorationis 
+      <lb ed="#H" n="42"/>renere se adorari, neque reprehendit ullos, quod se ita adorarent 
+      <lb ed="#H" n="43"/>Quod igitur Christus permisit se ea adoratione coli, quae soli 
+      debe<lb ed="#H" n="44" break="no"/>tur Deo, aut bene fecit, aut male. Si bene; ergo illi debebatur, ac 
+      pro<lb ed="#H" n="45" break="no"/>inde naturalis est Dei Filius. Sinenale: suisset igitur in Deum 
+      blasphe<lb ed="#H" n="46" break="no"/>mus, &amp; idololatriam non tam permisisset, quam probassec. Absit 
+      au<lb ed="#H" n="47" break="no"/>tem, ut haec de Filio Dei sentiamus, vel etiam cogitemus. 
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e301">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Ad Spiritum Sanctum oratio religiosa dirigi debet: 
+      <lb ed="#H" n="49"/>I. Quia in eum credimus, ut Symbolo Apostolico profitemur. 
+      <lb ed="#H" n="50"/>In quem autem credimus, eundem etiam religio: e adoraretenemur.  
+      <lb ed="#H" n="51"/>Rom. 10. v. 14. 
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e314">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>II. Quia mandatum nobis est, ut eum invocemus. Mandatum 
+      <lb ed="#H" n="53"/>continetur in Baptismi institutione: Baptizate eos in nomen Patris 
+      <lb ed="#H" n="54"/>&amp; Filij &amp; Spiritus Saucti, Foc est, obligate eos ad colendum &amp; 
+      in<lb ed="#H" n="55" break="no"/>vocandum Patrem, Filium &amp; Spiritum Sanctum 
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e327">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>III. Quia ipse distribuit dona privatim singulis, ut vult, 1. 
+      Co<lb ed="#H" n="57" break="no"/>rinth. 12. 
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e336">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>IV. Quia a vere fidelibus invocatus fuit, quorum nos exempla 
+      <lb ed="#H" n="59"/>optimo jure sequimur: de quibus cideatur supra tertio libro, capite 
+      <lb ed="#H" n="60"/>sexto. 
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e348">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Ad Patrem &amp; Filium directa est oratio Jacobi Patriarchae 
+      Genes<lb ed="#H" n="62" break="no"/>18. v. 15, 46. Deus ille ante cujus conspectum indesinenter ambula. 
+      <lb ed="#H" n="63"/>runt patres mei Abraham &amp; Isaac: Deus ille qui pascit me ex quo 
+      <lb ed="#H" n="64"/>die sum usque in diem hunc: Angelus ille qui vindicat me ab omni 
+      ma<lb ed="#H" n="65" break="no"/>lo, benedicat pueris istis &amp; vocetur in eis nomen meum &amp; nomen 
+      pa<lb ed="#H" n="66" break="no"/>trum meorum Abrahami &amp; Isaaci. Et Pauli I. Thessal. 3. v. 11. Ipse 
+      <lb ed="#H" n="67"/>vero Deus &amp; Pater noster &amp; Dominus noster Iesus Christus diriga. 
+      <lb ed="#H" n="68"/>viam nostram ad vos. 
+    </p>
+            <p xml:id="yyy8Uu-xd1532-d1e370">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Ad omnes tres personas Deitatis directus fuit hymnus Angelicus 
+      <lb ed="#H" n="70"/>Jesa. 6. v. 3. Sanctus, Sanctus, Sanctus, est Iehova exersituum: impleti  
+      <lb ed="#H" n="71"/>totam hanc terram glorinejus. De Deo Patre nullum est dubium. 
+      <lb ed="#H" n="72"/>Filio autem hymttim hunc dictum esse, manifestum est ex Johan. 12. 
+      <lb ed="#H" n="73"/>1. 1. Similiter Spirieni Sancto dictum esse apparet ex Acto. 28. 25, 26. 
+      <lb ed="#H" n="74"/>27. Sic mandata es: precatio ad omnes tres personas in Baptismi 
+      in<lb ed="#H" n="75" break="no"/>stitutione, &amp; directa ad eas, 4. Corinth. 23. versic. 13. Apocalyp.  
+      <lb ed="#H" n="76"/>versic. 4. 5. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

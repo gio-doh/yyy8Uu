@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 60</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 60</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd6159"><!-- l10-c60 -->
+            <head xml:id="yyy8Uu-xd6159-Hd1e103">Caput 60</head>
+            <p xml:id="yyy8Uu-xd6159-d1e106">
+               <lb ed="#H" n="131"/>CAPUT LX. 
+      <lb ed="#H" n="132"/>In quo de observantia.
+    </p>
+            <p xml:id="yyy8Uu-xd6159-d1e113">
+               <lb ed="#H" n="133"/>BSERVANTIA, θεργσια est virtus per quam homines 
+      ve<lb ed="#H" n="134" break="no"/>Daetate vel statu vel officio, vel donis quibus a Deo ornati 
+      <lb ed="#H" n="135"/>sunt, nobis superiores debito honore prosequimur &amp; colis 
+      <lb ed="#H" n="136"/>Idque credendo eis sermonis, sedis, actionisque omnis primatu, 
+      <lb ed="#H" n="137"/>vel gestibus idoneis pro ratione personarum, locorum &amp; temporum 
+      <lb ed="#H" n="138"/>vel reverenter eos alloquendo, ut David fecit erga Saulem quam: 
+      <lb ed="#H" n="139"/>vis hostem, 1. Sam. 24. 
+    </p>
+            <p xml:id="yyy8Uu-xd6159-d1e131">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Virtus haec exercenda: 
+      <lb ed="#H" n="141"/>I. Quia divinitus est mandata, Rom. 12. v. 10. Honore alii aliis 
+      <lb ed="#H" n="142"/>raeeuntes. Et cap. 13. v. 7. Reddite omnibus quod debetis, &amp;c. cui honos 
+      <lb ed="#H" n="143"/>debetur, honorem. 
+    </p>
+            <p xml:id="yyy8Uu-xd6159-d1e144">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>II. Quia favorem conciliat apud alios, ut ostendit exemplum 
+      Ja<lb ed="#H" n="145" break="no"/>cobi Patriarchae, qui observantia sua Esavi favorem sibi demeruit,  
+      <lb ed="#H" n="146"/>Gen. 33 
+    </p>
+            <p xml:id="yyy8Uu-xd6159-d1e156">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>III. Quia eam suo exemplo commendant fideles, ut Abrahamus 
+      <lb ed="#H" n="148"/>Gen. 23. v. 7. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

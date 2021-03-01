@@ -1,0 +1,2572 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 27</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 27</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd471"><!-- l6-c27 -->
+            <head xml:id="yyy8Uu-gxd471-Hd1e103">Caput 27</head>
+            <p xml:id="yyy8Uu-gxd471-d1e106">
+      <!--cod-MkL9py-0455.xml-->
+               <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>CAPUT XXVII. 
+      <lb ed="#H" n="91"/>In quo de officio CHRISTIMediatorio.
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e117">
+               <lb ed="#H" n="92"/>FEICIUM CHRISTI, est quod ipse solus inde ab initio  
+      <lb ed="#H" n="93"/>Pmundi est Mediator inter Deum &amp; electos ad vitam 
+   aeter<lb ed="#H" n="94" break="no"/>nam, a Deo impetrans &amp; efficaciter conferens electis omnia 
+      <lb ed="#H" n="95"/>quae ad aeternam ipsorum salutem requiruntur, atque adeo ipsam 
+      vi<lb ed="#H" n="96" break="no"/>tam aeternam. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e130">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>De Mediatore inter Deum &amp; electos deinceps acturi, primo de 
+      <lb ed="#H" n="98"/>nomine Mediatoris agemus: deinde ad rei ipsius explicationem 
+      acce<lb ed="#H" n="99" break="no"/>demus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e141">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>MEDIATOR, Graece μεσιτης, generali significatione dicitur i: 
+      <lb ed="#H" n="101"/>qui medius intervenit inter duos vel plures, aut ut testis &amp; cognitor 
+      <lb ed="#H" n="102"/>rerum quae dicuntur &amp; fiunt, aut ut internuncius &amp; interpres illorum 
+      <lb ed="#H" n="103"/>aut ut eos inter se uniat, sive dissidium aliquod hostile antea inter eos 
+      <lb ed="#H" n="104"/>fuerit, sive non. Nam etiam partes non dissidentes antea hostiliter,  
+      <lb ed="#H" n="105"/>posse mediante aliquo uniri &amp; consociari, innumera conjugia &amp; 
+      fe<lb ed="#H" n="106" break="no"/>dera inter homines, atque amicitiae exempla, aliquo mediante inita, 
+      <lb ed="#H" n="107"/>abunde evincunt. Itaque naturam mediationis &amp; humanitatem 
+      igi<lb ed="#H" n="108" break="no"/>norat, quisquis mediatorem ullum inter duos hostiliter antea non 
+      <lb ed="#H" n="109"/>dissidentos, intervenire negat. Quanquam Synecdochice mediator 
+      <lb ed="#H" n="110"/>frequentissime dicitur qui partes dissidentes conciliat.  
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e171">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>In doctrina Ecclesiae, tribus modis usurpatur: 
+      <lb ed="#H" n="112"/>Primo dicitur de Deo tanquam certo praesente in medio 
+      paciscen<lb ed="#H" n="113" break="no"/>tium de re quapiam, ut cognoscat de pacto illorum &amp; violatores ejus 
+      <lb ed="#H" n="114"/>uniat. Sic enim legitur in vulgata versione Latina, Judic. 11. vers. 9. 
+      <lb ed="#H" n="115"/>10. Jephthe dixit Galaaditis: Si vere venistis ad me, ut pugnem pro 
+      vo<lb ed="#H" n="116" break="no"/>bis contra filios Ammon, tradideritque eos Dominus in manus meas, egi 
+      <lb ed="#H" n="117"/>tero vester princeps? Qui responderunt ei: Dominus, qui haec audit, ipse 
+      <lb ed="#H" n="118"/>mediator ac testis est quod nostra promissa faciemus. Textus tamen 
+      <lb ed="#H" n="119"/>Hebraeus nomen mediatoris non habet, sed ad verbum redditur, 
+      Ie<lb ed="#H" n="120" break="no"/>hova erit audiens (seu cognitor] inter nos 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e197">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>Deinde dicitur de Mose quatenus is typus Christi &amp; internuncius, 
+      <lb ed="#H" n="122"/>interpres ac, ut vulgo nominant, referendarius fuit Dei ad populum, 
+      <lb ed="#H" n="123"/>&amp; hujus vicissim ad Deum. Sic enim legitur Gal. 3. v. 19. Lex ordinata 
+      <lb ed="#H" n="124"/>est per Angelos, per manum mediatoris, id est, opera Mosis, Joh. 1. 17. 
+      <lb ed="#H" n="125"/>Lex per Mosen data est. Act. 7. 38. Hic ille est qui conveniente populo in 
+      <lb ed="#H" n="126"/>deserto fuit cum Angelo ipsum alloquente in monte Sina, &amp; cum patribus 
+      <lb ed="#H" n="127"/>nostris, quique excepit viva eloquia quae nobis traderet. Quomodo 
+      Mo<lb ed="#H" n="128" break="no"/>ses μεσιτης &amp; internuncius fuerit, explicat Moses ipse Deut. 5. versic. 7 
+      <lb ed="#H" n="129"/>Facie ad faciem locutus est Iehova vobiscum in monte illo e medio ignis. 
+      <lb ed="#H" n="130"/>Me stante inter Iehovam &amp; vos tempore illo, ad referendum vobis 
+      ser<lb ed="#H" n="131" break="no"/>monem Iehovae; timebatis enim propter ignem illum, neque adscendisti 
+      <lb ed="#H" n="132"/>montem illum. Alii in loco ad Gal. 3. 19. per mediatorem intelligunt 
+      <lb ed="#H" n="133"/>Christum: sed eur Moses rotius intelligendus sit, rationes affert vero 
+      <lb ed="#H" n="134"/>eximius Theologus Theodorus Beza in majoribus annotationibus 
+      <lb ed="#H" n="135"/>ad Novum Testamentum 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e234">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>Tertio dicitur de aeterno Dei Filio, CHRISTO DOMINO, qui  
+      <lb ed="#H" n="137"/>inde ab initio mundi fuit atque est inter DEUM &amp; filios DEI set 
+      <lb ed="#H" n="138"/>creaturas rationales ad imaginem Dei conditas Mediator, per quem 
+      <lb ed="#H" n="139"/>solum illae statim initio habuerunt, &amp; habent beatitudinem, hoc est; 
+      <lb ed="#H" n="140"/>communionem &amp; fruitionem Dei tanquam summi boni. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e250">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Duplici autem significatione Christus mediator inter Deum &amp; 
+      <lb ed="#H" n="142"/>electos dicitur, lata &amp; stricta. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e259">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Lata significatione Mediator electorum dicitur respectu primae 
+      u<lb ed="#H" n="144" break="no"/>nionis creaturarum rationalium cum Deo, ut Caput ipsarum, in quo 
+      <lb ed="#H" n="145"/>illae sunt electae ad vitam aeternam &amp; per quod ad imaginem Dei 
+      cre<lb ed="#H" n="146" break="no"/>atae &amp; Deo primitus unitae fuerunt.  
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e272">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Respectu illius primae unionis fuit mediator tum Angelorum 
+      e<lb ed="#H" n="148" break="no"/>lectorum tum hominum integrorum: quia eligi non potuerunt ad 
+      <lb ed="#H" n="149"/>vitam aeternam, nisi in Filio Dei principe vitae, &amp; uniri Deo &amp; vita. 
+      <lb ed="#H" n="150"/>imaginisque Dei participes &amp; in amicitia cum Deo esse non 
+      pote<lb ed="#H" n="151" break="no"/>rant Angeli &amp; homines, nisi per aeternum Dei Filium, per quem 
+      cre<lb ed="#H" n="152" break="no"/>ati erant, cujus verbo omnipotente gubernabantur, &amp; 
+      sustentaban<lb ed="#H" n="153" break="no"/>tur per quem Deo cohaerebant 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e293">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Mansit vero Mediator Angelorum electorum, qui non per alium 
+      <lb ed="#H" n="155"/>uniti sunt Deo &amp; in unione cum Deo conservati, quam per eundem 
+      <lb ed="#H" n="156"/>in quo electi ad vitam aeternam &amp; per quem ad imaginem Dei creat  
+      <lb ed="#H" n="157"/>&amp; filii Dei facti fuerunt,  
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e306">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Manetque Mediator ipsorum in aeternum: nam opus habent 
+      ca<lb ed="#H" n="159" break="no"/>pite per cujus nexum solide &amp; indistracte Deo cohaereant.  
+      <lb ed="#H" n="160"/>Hominum vero integrorum mediator respectu primae illius 
+      uni<lb ed="#H" n="161" break="no"/>onis fuit ante lapsum: quia homines integri non per seipsos, sed per 
+      <lb ed="#H" n="162"/>Filium Dei erant Deo uniti &amp; conjuncti, quam diu ipsi vilum fuit 
+      <lb ed="#H" n="163"/>largiti illis gratiam persistendi in amicitia cum Deo. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e324">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Stricta significatione Mediator dicitur respectu instauratae unionis 
+      <lb ed="#H" n="165"/>seu redemtionis &amp; reconciliationis cum Deo illorum qui a 
+      DEO<lb ed="#H" n="166" break="no"/>abalienati erant &amp; in unionem cum eo reducendi erant.  
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e335">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Hoc respectu est Christus Mediator tantum hominum lapsorum 
+      <lb ed="#H" n="168"/>&amp; peccatorum, non autem Angelorum sanctorum. Nam sancti 
+      An<lb ed="#H" n="169" break="no"/>geli instauratione unionis, redemtione &amp; reconciliatione cum DEG 
+      <lb ed="#H" n="170"/>non eguerunt, sed soli homines. Hominibus autem lapsis &amp; per 
+      pec<lb ed="#H" n="171" break="no"/>catum separatis a Deo, inimicisque ejus factis, opus erat 
+      instauratio<lb ed="#H" n="172" break="no"/>ne unionis cum DEO, ad reconciliationem eorum cum ipso: ideo 
+      <lb ed="#H" n="173"/>discretionis causa Mediator reconciliationis &amp; redemtionis dicitur: 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e355">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>Hoc significato deinceps de Mediatore plenius agendum: sic 
+      au<lb ed="#H" n="175" break="no"/>tem describitur? 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e364">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>MEDIATOR RECONCILIATIONIS INTER 
+      <lb ed="#H" n="177"/>DEUM ET HOMINES LAPSOS, est persona, quae media 
+      <!--cod-MkL9py-0456.xml-->
+      <pb ed="#H" n="429"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>ut a Deo hominibus merito &amp; satisfactione sua impetret, &amp; iisdem 
+      <lb ed="#H" n="2"/>efficaciter conferat gratiam, remissionem peccatorum &amp; omnia ac 
+      <lb ed="#H" n="3"/>salutem necessaria atque adeo ipsam aeternam salutem. Isque 
+      appel<lb ed="#H" n="4" break="no"/>latur etiam Angelus ille federis gratiae, Malach. 3. 1. Angelus faciet 
+      Ie<lb ed="#H" n="5" break="no"/>hovae, Jes. 63. 9. &amp; absolute κατ ἔζοχιν Angelus, Exod. 23. 20. 
+      Nomi<lb ed="#H" n="6" break="no"/>natur etiam ταρακλητος, Paracletus, I. Joh. 2. 1. id est, Advocatus, 
+      <lb ed="#H" n="7"/>quia patronus est nobis reis coram judicio Dei, nos docens &amp; 
+      conso<lb ed="#H" n="8" break="no"/>lans, pro nobis intercedens &amp; satisfaciens, nos regens &amp; defendens. 
+      <lb ed="#H" n="9"/>A Latinis Patribus vocatur legatus &amp; nuncius Dei, ut a Lactantis 
+      <lb ed="#H" n="10"/>Divinarum institutionum lib. quarto qui est de vera Sapientia, cap. 
+      <lb ed="#H" n="11"/>viges. quinto: Item Sequester Dei &amp; hominum, &amp; a Tertulliano lib. 
+      <lb ed="#H" n="12"/>de resurrectione carnis, cap. quinquagef primo &amp; sexages. tertio; &amp; 
+      <lb ed="#H" n="13"/>libro adversus Praxean, cap. vicesimo septimo: Item Deus Sospitato 
+      <lb ed="#H" n="14"/>ub Arnobio adversus Gentes lib. primo, pagina quadrages. quinta: 
+      <lb ed="#H" n="15"/>item arbiter inter Deum &amp; homines ab Ambrosio¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e413">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Quod causam efficientem Mediatoris inter Deum &amp; homines 
+      la<lb ed="#H" n="17" break="no"/>psos attinet, a Jehova ipso est datus, non a nobis: Jehova illum nobis 
+      <lb ed="#H" n="18"/>suscitavit, non autem nos elegimus aut suppeditavimus. Hoc sic de 
+      <lb ed="#H" n="19"/>claramus. Mediator quisquis est, aut a partibus est dissidentibus, aut 
+      <lb ed="#H" n="20"/>foris advenit extra partes dissidentes. Foris non advenit inter Deum; 
+      <lb ed="#H" n="21"/>&amp; homines: quis enim audeat? quis possit? quis praestet tantum 
+      o<lb ed="#H" n="22" break="no"/>pus, inter Creatorem &amp; creaturam interveniendo? Nullus 
+      Angelo<lb ed="#H" n="23" break="no"/>rum, quia ipsimet Mediatore opus habent, per quem cohaereant  
+      <lb ed="#H" n="24"/>Deo: multo minus ulla alia creatura. Si ergo a partibus dissidentibus 
+      <lb ed="#H" n="25"/>aut a parte nostra est qui offendimus, aut a parte Dei qui offensus 
+      <lb ed="#H" n="26"/>aut ab utraque per communem conventionem. Non autem a nostra 
+      <lb ed="#H" n="27"/>parte: nam nos, postquam peccassemus &amp; Deum offendissemus, 
+      fu<lb ed="#H" n="28" break="no"/>gimus illum &amp; nos ab illo abscondimus, Genes. 3. 8, 9, 10. tum 
+      om<lb ed="#H" n="29" break="no"/>nes a natura sub peccato sumus &amp; nihil nisi malum cogitamus &amp; 
+      fa<lb ed="#H" n="30" break="no"/>cimus. Non ab utraque parte per consequens: nam ratio eadem uod D 
+      <lb ed="#H" n="31"/>nos attinet. Igitur a parte Jehovae, a quo solo dari potuit, Mediato 
+      <lb ed="#H" n="32"/>est datus. Huc pertinet illud Apostoli, 2. Cor. 5. 18. Haec omnia sunt ea 
+      <lb ed="#H" n="33"/>Deo, qui reconciliavit nos sibi per Christum. Et vers. 19. Deus erat in 
+      <lb ed="#H" n="34"/>Christo mundum reconcilians sibi. Errarunt proinde Gentiles qui sibri 
+      <lb ed="#H" n="35"/>pro arbitrio suo mediatores constituerunt per quos Deo accepti 
+      es<lb ed="#H" n="36" break="no"/>sent. Errant Papistae qui Patronos ipsi eligunt sibi, qui pro ipsis apud 
+      <lb ed="#H" n="37"/>Deum intercedant:. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e465">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Mediatorem autem apud Deum nacti sumus non ex nostro merito 
+      <lb ed="#H" n="39"/>sed ex gratia &amp; amore Dei erga nos, quia eum nobis suscitavit Jehova. 
+      <lb ed="#H" n="40"/>DEUS NOSTER, id est, ratione federis gratuiti, sed quatem nobiscum. 
+      <lb ed="#H" n="41"/>gratuitum fedus iniit. Hoc docet Christus cum ait Johan. 3. v. 16. 
+      Ita<lb ed="#H" n="42" break="no"/>enim Deus dilexit mundum, ut Filium illum suum unigenitum 
+      dede<lb ed="#H" n="43" break="no"/>rit, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e483">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Datus est nobis Mediator apud Deum juxta aeternum decretum 
+      <lb ed="#H" n="45"/>Dei, ut Paulus docet, Rom. 3 25. Quem praestituit Deus ut esset placa 
+      <lb ed="#H" n="46"/>mentum 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e494">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Errant proinde, qui propriis meritis salvari volunt, atque ita seipsos 
+      <lb ed="#H" n="48"/>pro mediatoribus Deo offerunt 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e503">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>Peccant vero gravissime qui Jehovam offendunt, &amp; peccatis suit 
+      <lb ed="#H" n="50"/>ad iram irritare pergunt. Atqui is qui Mediatorem nobis suscitavi 
+      <lb ed="#H" n="51"/>per quem ipsi appropinquaremus &amp; per quem nobis voluntatem 
+      su<lb ed="#H" n="52" break="no"/>am de reconciliatione nostri patefaceret &amp; de officio nostro 
+      edoce<lb ed="#H" n="53" break="no"/>ret, per quem nos tueretur &amp; conservaret &amp; bonis omnibus cumularet. 
+      <lb ed="#H" n="54"/>non erat amplius peccatis offendendus &amp; ad iram provocandus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e521">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Quin potius gratis animis celebrandus, &amp; reverenter colendus, 
+      <lb ed="#H" n="56"/>qui ultro nobis Mediatorem suscitavit, per quem tanquam Sumum 
+      <lb ed="#H" n="57"/>Prophetam nostrum mysteria salutis nobis reseraret, per quem 
+      tan<lb ed="#H" n="58" break="no"/>quam summum Sacerdotem &amp; Pontificem nostrum nos sibi 
+      recon<lb ed="#H" n="59" break="no"/>ciliaret, per quem tanquam aeternum Regem nostrum nos gratiose 
+      <lb ed="#H" n="60"/>gubernatet &amp; ad regnum gloriae suae adduceret. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e540">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Adhaec consolationem hinc petimus firmissimam, ut Jehovam 
+      <lb ed="#H" n="62"/>non amplius formidemus atque fugiamus, quemadmodum Adami 
+      <lb ed="#H" n="63"/>&amp; Eva formidarunt &amp; fugerunt, quum peccassent, &amp; absconderunt se 
+      <lb ed="#H" n="64"/>a facie Jehovae Dei inter arbores Paradisi. Nam pia mens in 
+      hun<lb ed="#H" n="65" break="no"/>modum ratiocinatur: 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e556">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Qui nonis suscitavit Mediatorem Christum, per quem nos sibi 
+      <lb ed="#H" n="67"/>reconciliaret, eum non est cur formidemus &amp; fugiamus: At Jehova 
+      <lb ed="#H" n="68"/>suscitavit nobis Mediatorem Christum: Ergo Jehovam non est cui 
+      <lb ed="#H" n="69"/>formidemus &amp; fugiamus 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e569">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>Quin &amp; hoc modo se solabitur: Qui nobis suscitavit Mediato 
+      <lb ed="#H" n="71"/>rem, is dabit nobis omna, quae in nomine Mediatoris illius ex vera 
+      <lb ed="#H" n="72"/>fide ab ipso petimus: At Jehova suscitavit nobis Mediatorem: Ergo 
+      <lb ed="#H" n="73"/>Jesiova dabit nobis omnia, quae in nomine Mediatoris Christi ex 
+      ve<lb ed="#H" n="74" break="no"/>ra fide ab ipso petimus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e585">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>Finis Mediatoris est ut efficiat sua autoritate &amp; virtute, quo Deus 
+      <lb ed="#H" n="76"/>homines lapsos in gratiam recipiat &amp; homines vicissim Deum ament 
+      <lb ed="#H" n="77"/>sitque inter Deum &amp; homines censtans &amp; aeterna pax atque 
+      concor<lb ed="#H" n="78" break="no"/>dia. Ratione hujus finis opus nobis erat Mediatore apud Deum, ut  
+      <lb ed="#H" n="79"/>sequentia argumenta evincunt: 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e601">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>I. Quia nobis Deus itatus erat, nobis ira ejus incumbebat, sub 
+      <lb ed="#H" n="81"/>qua pereundum erat &amp; manendum in aeternum, nisi liberatemur 
+      ab<lb ed="#H" n="82" break="no"/>illa. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e612">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>II. Quia nos ipsi non poteramus nos ab ira Dei liberare &amp; 
+      ser<lb ed="#H" n="84" break="no"/>vare, sed peccati nostri magnitudine, multiplicitate &amp; gravitate 
+      am<lb ed="#H" n="85" break="no"/>plius nos demergebamus in profundam irae Dei abyssum, 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e624">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>III. Quia nos Deum ejusque voluntatem erga nos per nos 
+      <lb ed="#H" n="87"/>ipsos cognoscere non poteramus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e633">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>IV. Quia nos justitiae Dei per nos ipsos satisfacere non 
+      possu<lb ed="#H" n="89" break="no"/>mus, imo in conspectum Dei prodire non audemus, sed 
+      exhorresci<lb ed="#H" n="90" break="no"/>mus Deum ut scelerum ultorem &amp; fugimus a facie &amp; voce ejus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e644">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>V. Quia nos ipsi per nos nequaquam possumus malum quod  
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e651">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>nos oppugnat vincere &amp; bonum recuperatum aeternum retine¬ 
+      <!--cod-MkL9py-0456.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>futer Deum peccatis irascentem &amp; homines peccatores intervenit, A: 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e664">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>res 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e671">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Nobis igitur opus erat Mediatore qui nobis Deum placatum red 
+      <lb ed="#H" n="96"/>deret, qui nos ab ira ejus liberaret, voluntatem ejus optimam nobis 
+      <lb ed="#H" n="97"/>patefaceret, pro nobis satisfaceret, malum quod nos oppugnat 
+      vince<lb ed="#H" n="98" break="no"/>ret, &amp; bonum nobis restitutum fortiter tueretur &amp; conservaret. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e685">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Quod personam Mediatoris attinet, oportebat eum esse verum. 
+      <lb ed="#H" n="100"/>hominem, sed justum &amp; sanctum: simulque verum Deum in una &amp; 
+      <lb ed="#H" n="101"/>eadem persona. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e696">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Mediatorem hominem esse verum oportebat, ut sequentia 
+      argu<lb ed="#H" n="103" break="no"/>menta evincunt 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e705">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>I. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e712">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Quia pro hominibus satisfacere Legi &amp; justitiae divinae 
+      de<lb ed="#H" n="106" break="no"/>buit. Nam justitia Dei postulat, ut eadem natura cui Lex data fuit, ea 
+      <lb ed="#H" n="107"/>perfectissime impleat &amp; quae in Legem peccavit, pro peccatis 
+      satisfa<lb ed="#H" n="108" break="no"/>ciat, Ezech 18 20. Anima quae peccavit ipsa morietur. Gen. 2. vers. 17. 
+      <lb ed="#H" n="109"/>Quocunque die comederis ex eo, morte morieris. 1. Cor. 15. v. 21. Quia per 
+      <lb ed="#H" n="110"/>hominem mors, per hominem quoque resurrectio mortuorum 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e730">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>II. Quia pro nobis pauper, contemtus &amp; infirmus esse &amp; 
+      san<lb ed="#H" n="112" break="no"/>quinem effundere morique debuit. Ratio est, quia Deus in alio sub 
+      <lb ed="#H" n="113"/>jecto non punit ea quae homo commisit, sicut noc homines propter 
+      <lb ed="#H" n="114"/>Angelorum lapsum punivit. Ideo praedictum fuit Zach. 9. v. 9. Exsul 
+      <lb ed="#H" n="115"/>ca valde filia TEijonis, clange filia Ierosolymorum, Ecce rex tuus 
+      adve<lb ed="#H" n="116" break="no"/>niet tibi, Iustus &amp; salute praeditus est, pauper, &amp; insidens asino, idque 
+      pul<lb ed="#H" n="117" break="no"/>o nato asinabus. Ps. 22. v. 1. &amp; sequentibus multis. Jes. 53. toto. Absque 
+      <lb ed="#H" n="118"/> 
+            </p>
+            <p xml:id="yyy8Uu-gxd471-d1e752">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>III. Quia debuit homines alloqui, ab illis intelligi, more 
+      ho<lb ed="#H" n="120"/> 
+               <lb ed="#H" n="121"/>2. 17. Nisi autem homo esset, ne quidem audire aut sustinere 
+      loquen<lb ed="#H" n="122" break="no"/>tem, nedum intelligere homines possent 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e766">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Sed justum &amp; sanctum hominem Mediatorem esse oportebat, ut 
+      <lb ed="#H" n="124"/>Paulus ait Hebr 7. 26, 27. Talis enim nos decebut Pontifex sanctius, sit 
+      <lb ed="#H" n="125"/> 
+               <lb ed="#H" n="126"/>Cui non est necesse quotidie, sicuti illis Pontificibus, prius pro peccotis suis 
+      <lb ed="#H" n="127"/>offerre victimas, &amp; deinde pro peccatis populi. 1. Petr. 1. 19. Ratio 
+      evi<lb ed="#H" n="128" break="no"/>dens est, quia qui peccator est. justitiae Dei pro peccatoribus 
+      satisfa<lb ed="#H" n="129" break="no"/>cere non potest, sed ipse Mediatore eget, per quem Deo 
+      reconcilie<lb ed="#H" n="130" break="no"/>tur. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e788">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>Eundem Mediatorem Deum esse simul oportuit:  
+      <lb ed="#H" n="132"/>I. Quia arcanum consilium &amp; decretum Dei de redemtione 
+      <lb ed="#H" n="133"/>nostra &amp; aliis mysteriis divinis ipsemet primus patefacere debuit, &amp; 
+      <lb ed="#H" n="134"/>ministerium Ecclesiae instituere¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e801">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>II. Quia Mediatoris obedientia quae Deo pro nobis 
+      praestan<lb ed="#H" n="136" break="no"/>da erat, remissionem peccatorum &amp; vitam aeternam nobis debuit 
+      <lb ed="#H" n="137"/>mereri. Obedientia autem non esset meritum apud Deum, nisi 
+      per<lb ed="#H" n="138" break="no"/>sona obodientiam praestans, esset Deus: &amp; nisi precium pro 
+      nobis<lb ed="#H" n="139" break="no"/>Deo solutum esset infiniti valoris, siquidem finiti ad infinitum nulla 
+      <lb ed="#H" n="140"/>est proportio. At vero omnis pura puta creatura est finita, &amp; obedi 
+      <lb ed="#H" n="141"/>entia ejus est finitae virtutis. Nulla igitur pura puta creatura 
+      potes<lb ed="#H" n="142" break="no"/>quicquam apud Deum mereri: nec Angeli boni meriti sunt, ut in 
+      <lb ed="#H" n="143"/>bono in quo creati erant confirmatentur: nec Adamus ante lapsum 
+      <lb ed="#H" n="144"/>quicquam sibi aut aliis mereri potuit aut potuisset unquam, etiamsi 
+      <lb ed="#H" n="145"/>integer permansisset. Quod igitur obedientia Mediatoris est 
+      meri<lb ed="#H" n="146" break="no"/>lum apud Deum, habet hoc a dignitate personae merentis quae est 
+      na<lb ed="#H" n="147"/> 
+            </p>
+            <p xml:id="yyy8Uu-gxd471-d1e834">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>III. Quia Mediatorem oportebat nostrum esse Servatorem, 
+      <lb ed="#H" n="149"/>S 
+      <lb ed="#H" n="150"/>si 
+      <lb ed="#H" n="151"/>posset, nisi solus Deus 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e847">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>IV. Quia Mediatorem oportebat coeli &amp; terrae dominium 
+      ob<lb ed="#H" n="153" break="no"/>inere, Spiritum Sanctum nobis dare, nos praesidio suo tueri &amp; 
+      con<lb ed="#H" n="154" break="no"/>se 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e858">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>rem abolere. Haec autem soli Deo competum 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e866">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Jam parum nobis profuisset, Mediatorem vel hominen, vel Deum 
+      <lb ed="#H" n="157"/> 
+               <lb ed="#H" n="158"/> 
+               <lb ed="#H" n="159"/>Mediatorem esse verum Deum &amp; verum hominem in una persona, 
+      <lb ed="#H" n="160"/> 
+            </p>
+            <p xml:id="yyy8Uu-gxd471-d1e882">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>I. Ut sic nostrum acciperet, quo transferret ad nos suum, &amp; quod  
+      <lb ed="#H" n="162"/>si 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e891">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>II. Ut proxime uniremur Deo. cujus unionis vinculum non 
+      <lb ed="#H" n="164"/> 
+               <lb ed="#H" n="165"/>personam. 
+      <lb ed="#H" n="166"/>III. Quia fieri cportuit, ut idem moreretur &amp; mortem 
+      vince<lb ed="#H" n="167" break="no"/>I. 
+      <lb ed="#H" n="168"/>perare. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e909">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>Quia apud utramque partem quae concilianda erat, gratia 
+      <lb ed="#H" n="170"/>IV. 
+      <lb ed="#H" n="171"/>valere debuit. Si tantum Deus fuisset, non tam pro nobis quam 
+      con<lb ed="#H" n="172" break="no"/>tra nos fuisset: si tantum homo fuisset, nimis videretur honoratus 
+      <lb ed="#H" n="173"/>qui pro nobis intercederet. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e925">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>V. Qui: hominem non tantum praeceptis, sed etiam exemplo 
+      <lb ed="#H" n="175"/>perducere ad Deum debebat, id est, ad beatam immortalitatem &amp; 
+      <lb ed="#H" n="176"/>communionem cum Deo Jam si Deus tantum fuisset, exempla 
+      vir<lb ed="#H" n="177" break="no"/>utis hominibus praebere non potuisset: si homo tantum, non posset 
+      <lb ed="#H" n="178"/>homines ad virtutem adducere, nisi autoritas ac virtus homine 
+      ma<lb ed="#H" n="179" break="no"/>jor accederet. Spiritus carnis expers, dux esse homini ad 
+      immortali<lb ed="#H" n="180" break="no"/>tatem non poterat, quoniam caro impedit spiritum quo minus 
+      se<lb ed="#H" n="181" break="no"/>quatur Deum: ideo Mediatorem esse oportuit Deum in carne, ut  
+      <lb ed="#H" n="182"/>caro eum sequi posset, utque is criperet morti hominem, cujus est 
+      do<lb ed="#H" n="183" break="no"/>minatio in carnem. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e951">
+               <lb ed="#H" n="184"/>
+               <pc type="indent"/>Ex his sequitur, quod Mediatorem nostrum apud Deum etiam 
+      ve<lb ed="#H" n="185"/> 
+            </p>
+            <p xml:id="yyy8Uu-gxd471-d1e961">
+               <lb ed="#H" n="186"/>
+               <pc type="indent"/>Μισος μι μεσιτης, Medius &amp; Mediator differu it, μισος, medius 
+      <!--cod-MkL9py-0457.xml-->
+      <pb ed="#H" n="430"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>proprie est &amp; dicitur quispiam ratione situs inter duo extrema &amp; 
+      respe<lb ed="#H" n="2" break="no"/>ctu loci, sicut inter tria &amp; quinque medius numerus est quatuor. Sic 
+      me<lb ed="#H" n="3" break="no"/>dius paries dicitur. Sic Christus medius fuit inter duos latrones, una 
+      cit<lb ed="#H" n="4" break="no"/>ipso crucifixos: Non omnis autem qui sic medius est inter alios, eorum 
+      il<lb ed="#H" n="5" break="no"/>lico mediator est: nam etsi Christus medius pependit inter latrones 
+      du<lb ed="#H" n="6" break="no"/>os, non tamen fuit utriusque Mediator apud Deum, sed tantum illius 
+      qui<lb ed="#H" n="7" break="no"/>suit conversus. In judicio universali Christus medius erit inter homines, 
+      <lb ed="#H" n="8"/>quorum alij a dextris, alij a sinistris ejus stabunt: nec tamen omnium 
+      <lb ed="#H" n="9"/>Mediatorem apud Patrem se esse declavabit, sed tantum eorum qui ¬ 
+      <lb ed="#H" n="10"/>dextris constituentur. Figurate autem medius dicitur, qui similitudine 
+      <lb ed="#H" n="11"/>quadam inter duo extrema intercedit: sicut liberalitas virtus 
+      media<lb ed="#H" n="12" break="no"/>dicitur inter avaritiam &amp; prodigalitatem, haec enim etsi incorpore 
+      <lb ed="#H" n="13"/>sunt, tamen inter se rationem quandam situs &amp; loci habent. Translate 
+      <lb ed="#H" n="14"/>etiam media dicuntur, quae diversarum naturarum separatarum 
+      rati<lb ed="#H" n="15" break="no"/>one &amp; conjunctione dicuntur media, quae mediae naturae sunt, ut aqueo 
+      <lb ed="#H" n="16"/>animalia &amp; aerea aliorum corporum &amp; animalium dicuntur media 
+      <lb ed="#H" n="17"/>quaedam diversarum naturarum coalitione,, compositione &amp; unione 
+      <lb ed="#H" n="18"/>constant, per quam duobus alijs communicant &amp; inter ea interjacent 
+      <lb ed="#H" n="19"/>ut nos homines inter Angelos &amp; bruta animalia sumus medij, quia 
+      u<lb ed="#H" n="20" break="no"/>trorumque naturam participamus, Angelorum nimirum in anima, bris 
+      <lb ed="#H" n="21"/>torum animalium in corpore: Sic bruta animalia inter homines &amp; 
+      <lb ed="#H" n="22"/>plantas media sunt. Qui sic medius est, non illico Mediator est: alioquin  
+      <lb ed="#H" n="23"/>homines essent mediatores inter Angelos &amp; bruta animalia: bruta 
+      ani<lb ed="#H" n="24" break="no"/>malia essent mediatores inter homines &amp; plantas. Itaque medium inter 
+      <lb ed="#H" n="25"/>extrema dupliciter esse potest vel secundum ordinem &amp; situm: vel 
+      se<lb ed="#H" n="26" break="no"/>cundum participationem utriusque extremi: &amp; ut verbis aliis rem 
+      ean<lb ed="#H" n="27" break="no"/>dem efferam medium vel loci ratione est vel substantiae. Angeli non 
+      <lb ed="#H" n="28"/>sunt medii inter Deum &amp; nos, quia utramque nempe Dei &amp; hominum 
+      <lb ed="#H" n="29"/>taturam non participant. Christum autem veteres dicunt esse medium 
+      <lb ed="#H" n="30"/>inter Deum &amp; nos. Lactantius Divinarum institutionum libro quarto 
+      <lb ed="#H" n="31"/>qui est de vera sapientia, capite vicesimo-quinto ait: Fuit &amp; Deus &amp; 
+      <lb ed="#H" n="32"/>homo inter Deum atque hominem medius constitutus. Petrus 
+      Lom<lb ed="#H" n="33" break="no"/>bardus Sententiarum tertio lib. Distinctione decima-nona, capite 
+      ulti<lb ed="#H" n="34" break="no"/>mo ex Augustino dicit: Si ergo Christus secundum vos, ô haerotici, ut 
+      <lb ed="#H" n="35"/>nam tantum habet naturam, unde medius erit? &amp; nisi ita sit medius, 
+      <lb ed="#H" n="36"/>ut Deus sit propter divinitatis naturam, &amp; homo propter humanita. 
+      <lb ed="#H" n="37"/>tis naturam: quomodo humana in eo reconciliantur divinis? Nam 
+      <lb ed="#H" n="38"/>ipse veniens prius in se humana sociavit divinis per utriusque naturae 
+      <lb ed="#H" n="39"/>conjunctionem in una persona. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1059">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Explicatum est quid, &amp; qualis sit Mediator noster 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1066">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>apud Deum: sequitur quis sit. 
+      <lb ed="#H" n="42"/>Mediator reconciliationis inter Deum &amp; nos homines est JESUS, 
+      <lb ed="#H" n="43"/>Nazarenus, Dominus noster, Rex Messias seu Christus ile Patriar 
+      <lb ed="#H" n="44"/>chis inde ab initio promissus, ut sequentia argumenta evincunt. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1079">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>In quo omnia illa inveniuntur &amp; complementum exacte 
+      sor<lb ed="#H" n="46" break="no"/>I. 
+      <lb ed="#H" n="47"/>tita sunt, quae de Rege Messia seu Christo illo, Patribus promisse 
+      <lb ed="#H" n="48"/>Deus in Veteri Testamento dixit &amp; praedixit, is est Mediator 
+      recon<lb ed="#H" n="49" break="no"/>ciliationis inter Deum &amp; homines. Hanc majorem, ne Judaei 
+      qui<lb ed="#H" n="50" break="no"/>dem negaverint.  
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1097">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>At in Iesu Nazareno omnia illa inveniuntur &amp; complementum 
+      <lb ed="#H" n="52"/>sortita sunt, quae de Rege Messia seu Christo illo, Patribus promisse 
+      <lb ed="#H" n="53"/>Deus in Veteri Testamento dixit &amp; praedixit. Assumtionem hanc 
+      <lb ed="#H" n="54"/>totum Novum Testamentum confirma. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1110">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Ergo Jesus Nazarenus Dominus noster est Mediator reconcilia 
+      <lb ed="#H" n="56"/>tionis inter Deum &amp; homines. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1120">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>II. De quo testes omni exceptione majores in coelo &amp; in terra 
+      <lb ed="#H" n="58"/>testantur, quod sit Filius ille Dei, is certe est Mediator inter DEUM. 
+      <lb ed="#H" n="59"/>&amp; nos homines 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1131">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>De Jesu Nazareno testes omni exceptione majores in coelo &amp; in 
+      <lb ed="#H" n="61"/>terra testantur, quod sit Filius ille Dei, ut legitur 1. Joh. 5. v. 5, 6, 7, 8 
+      <lb ed="#H" n="62"/>Qui est qui vincit mundum, nisi qui credit Iesum esse Filium Dei:
+      Hi<lb ed="#H" n="63" break="no"/>ille est qui venit per aquam &amp; sanguinem, nempe Iesus Christus: non 
+      <lb ed="#H" n="64"/>per aquam solum, sed per aquam &amp; sanguinem: &amp; Spiritus is est qui 
+      te<lb ed="#H" n="65" break="no"/>stificatur, Spiritum veritatem esse. Nam tres sunt qui testificantur in 
+      <lb ed="#H" n="66"/>coelo, Pater Sermo, &amp; Spiritus Sanctus: &amp; hi tres unum sunt. Et tres 
+      <lb ed="#H" n="67"/>sunt qui testificantur in terra, Spiritus, &amp; aqua, &amp; sanguis: &amp; hi tres in 
+      <lb ed="#H" n="68"/>unum consentiunt. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1155">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Ergo Iesus Nazarenus est Mediator inter Deum &amp; homines. 
+      <lb ed="#H" n="70"/>III. Quicunque est verus Deus &amp; verus homo in una persona. 
+      <lb ed="#H" n="71"/>is est Mediator inter Deum &amp; homines: Iesus Nazarenus est verus 
+      <lb ed="#H" n="72"/>Deus &amp; verus homo in una persona: Ergo est Mediator inter Deum; 
+      <lb ed="#H" n="73"/>&amp; homines. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1171">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Est autem Mediator secundum utramque naturam divinam &amp; 
+      <lb ed="#H" n="75"/>humanam: secundum divinam quidem naturam non absolute 
+      con<lb ed="#H" n="76" break="no"/>sideratam &amp; ut est communis Patri, Filio &amp; Spiritui Sancto, sed 
+      con<lb ed="#H" n="77" break="no"/>sideratam κατ δικονομιαν, id est, quatenus secundum eam voluntatia 
+      <lb ed="#H" n="78"/>illa dispensatione gratiae se submisit, forma servi accepta: secundum 
+      <lb ed="#H" n="79"/>humanam vero naturam absolute, omnia illa praestando quae in 
+      offi<lb ed="#H" n="80" break="no"/>cio Mediatorio illius sunt propria. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1191">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Quod autem Jesus Christus sit Mediator noster apud Deum 
+      se<lb ed="#H" n="82" break="no"/>cundum utramque naturam, divinam &amp; humanam, sequentibus 
+      ar<lb ed="#H" n="83" break="no"/>gumentis ex Scriptura Sacra petitis confirmamus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1202">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>di ipsam. Nemo tollit ipsam a me, ego pono ipsam a meipso, ut rursus 
+      acci<lb ed="#H" n="85" break="no"/>PRIMUM; Secundum quam naturam Christus sese 
+      exinanivi<lb ed="#H" n="86" break="no"/>pro nobis, secundum eam est Mediator noster apud Deum: Atqui 
+      <lb ed="#H" n="87"/>secundum utramque naturam sese exinanivit pro nobis: Ergo 
+      secun<lb ed="#H" n="88" break="no"/>dum utramque naturam est Mediator noster apud Deum 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1219">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Major est certissima; quia cum Adamus peccando affectasset 
+      ae<lb ed="#H" n="90" break="no"/>qualitatem cum Deo, peccatum illud a Mediatore expiari debuit ex¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1228">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>animam suam, ut homin is; ac proinde ponere animani est 
+      opu<lb ed="#H" n="92" break="no"/>inanitione infima suiipsius, &amp; contrario remedio contratium peccatum 
+      <lb ed="#H" n="93"/>eluere: &amp; sicut Augustinus dicit quaro tomo, in ex positione episto 
+      <!--cod-MkL9py-0457.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="94"/> 
+               <lb ed="#H" n="95"/>superbo diabolo superbia persuadente dejectus est, mediatore 
+      humili<lb ed="#H" n="96" break="no"/>Christo humilitate persuadente erigatur. Nam si Filius Dei in naturali 
+      <lb ed="#H" n="97"/>aequalitate Patris manere vellet, nec se exinaniret, formam servi accipi 
+      <lb ed="#H" n="98"/>ens, non esset Mediator Dei &amp; hominum. Proinde Christus inde a 
+      pri<lb ed="#H" n="99" break="no"/>mo momento exinanitionis suae coepit pro nobis sponsionem suam, 
+      <lb ed="#H" n="100"/>in Paradiso factam praestare: &amp; pretium redemtionis pro nobis 
+      per<lb ed="#H" n="101" break="no"/>solvere, quemadmodum Paulus testatur Hebr. 10. vers. 5, 6, 7. 
+      Qua<lb ed="#H" n="102" break="no"/>propter ingrediens mundum, dicit Christus Sacrificium &amp; oblationem 
+      <lb ed="#H" n="103"/>noluisti, corpus autem adaptasti mihi: Holocautomata &amp; hostiam 
+      pro<lb ed="#H" n="104" break="no"/>peccato non approbasti. Tunc dixi, Ecce adsum (in capite libri scriptum 
+      <lb ed="#H" n="105"/>est de me) ut faciam Deus uoluntatem tuam. Praedixit Idem 
+      Prophe<lb ed="#H" n="106" break="no"/>ta Jesaias cap. 9. vers. 6. his verbis: Puer natus est nobis, Filius 
+      datu<lb ed="#H" n="107" break="no"/>est nobis. Confirmat Angelus dicens Pastoribus Luc. 2. 10, 11. Ne 
+      me<lb ed="#H" n="108" break="no"/>tuite: ecce enim evangelixo vobis gaudium magnum, quod erit toti 
+      po<lb ed="#H" n="109" break="no"/>pulo: Quia natus est vobis hodie Servator, qui est Christus Dominus 
+      <lb ed="#H" n="110"/>in urbe Davidis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1280">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>Assumtionem planam facit testimonium Pauli Philip. 2. vers. 5. 6. 
+      <lb ed="#H" n="112"/>7. Itaque is sit affectus in vobis, qui fuit in Christo Iesu: Qui quum esset 
+      <lb ed="#H" n="113"/>in forma Dei, non duxit rapinam, parem esse cum Deo: Sed ipse sese 
+      in<lb ed="#H" n="114" break="no"/>anivit, forma servi accepta, similis hominibus factus: Et habitu 
+      inven<lb ed="#H" n="115" break="no"/>tus ut homo, ipse se submisit, factus obediens usque ad mortem, mortem 
+      <lb ed="#H" n="116"/>autem crucis. His verbis Apostolus testatur, quod Christus 
+      secun<lb ed="#H" n="117" break="no"/>dum utramque naturam se exinaniverit, secundum divinam, quia 
+      <lb ed="#H" n="118"/>quum in forma Dei esset &amp; aequalis Deo, formam servi accepit, id est 
+      <lb ed="#H" n="119"/>naturam humanam servilemque assumsit: secundum humanam, quia 
+      <lb ed="#H" n="120"/>in ea se submisit, factus obediens usque ad mortem, mortem autem 
+      <lb ed="#H" n="121"/>crucis. Unde sequitur Mediatorem secundum utramque naturam 
+      es<lb ed="#H" n="122" break="no"/>se: &amp; ut verbis utar Augustini ex modo allegata expositione ad 
+      Ga<lb ed="#H" n="123" break="no"/>latas, Sic itaque unicus Filius Dei Mediator Dei &amp; hominum factus est 
+      <lb ed="#H" n="124"/>cum Verbum Dei Deus apud Deum, &amp; majestatem suam usque ad 
+      hu<lb ed="#H" n="125" break="no"/>mana deposuit, &amp; humilitatem humanam usque ad divina subvexit, ut  
+      <lb ed="#H" n="126"/>Mediator esset inter Deum &amp; homines, homo per Deum ultra homines. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1319">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>SECUNDUM: Secundum quam naturam Christus Patris 
+      coe<lb ed="#H" n="128" break="no"/>testis voluntatem nobis patefecit, secundum eam est noster 
+      Media<lb ed="#H" n="129" break="no"/>tor apud Deum: At secundum utramque naturam id fecit: Ergo, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1330">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>Major propositio est verissima: Nam Mediatoris nostri apud Deum 
+      <lb ed="#H" n="131"/>officium est, referre ad nos voluntatem Patris, internuncium &amp; 
+      in<lb ed="#H" n="132" break="no"/>terpretem ep agere. Sic enim &amp; Moses dicitur μεσιτος, id est, 
+      Media<lb ed="#H" n="133" break="no"/>tor Gal. 3. 19, 20. quia internuncius fuit Dei quo is usus est ad 
+      per<lb ed="#H" n="134" break="no"/>ferendam Legem &amp; jussa sua ad populum. Docet hoc Moses ipse  
+      <lb ed="#H" n="135"/>Deuteronom. 5. vers. 4, 5. Facie ad faciem loquutus est Iehova 
+      vo<lb ed="#H" n="136" break="no"/>biscum in monte illo e medio ignis. Me stante inter Iehovam &amp; vos 
+      tem<lb ed="#H" n="137" break="no"/>pore illo, ad referendum vobis sermonem Iehovae: timebatis enim 
+      pro<lb ed="#H" n="138" break="no"/>ter ignem illum, &amp;c. 
+      <lb ed="#H" n="139"/>Hoc ipsemet etiam Bellarminus docet primo tomo, Controversia 
+      <lb ed="#H" n="140"/>secunda generali, quae est de Christo Capite totius Ecclesiae, quinto 
+      <lb ed="#H" n="141"/>libro, capite primo, sectione sexta¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1361">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>Minor etiam propositio certissima est. Nam primum Christus 
+      sta<lb ed="#H" n="143" break="no"/>tim in Paradiso, &amp; deinceps toto Veteris Testamenti tempore 
+      lo<lb ed="#H" n="144" break="no"/>quutus est cum Patriarchis &amp; Prophetis, illisque voluntatem Dei 
+      re<lb ed="#H" n="145" break="no"/>velavit, quod secundum divinam naturam eum fecisse necesse est 
+      <lb ed="#H" n="146"/>quandoquidem humanam postea demum assumsit. Deinde 
+      testimo<lb ed="#H" n="147" break="no"/>nia Novi Testamenti multa eam corroborant, veluti Matth. 11. vers. 
+      <lb ed="#H" n="148"/>27. Patrem non novit quisquam nisi Filius, &amp; cuicunque voluerit Filius 
+      <lb ed="#H" n="149"/>eum revelare. Johan. 1. vers. 16, 17, 18. Ex plenitudine ipsius omnes 
+      ac<lb ed="#H" n="150" break="no"/>cepimus, &amp; gratiam pro gratia: Nam Lex per Mosen data est: gratia 
+      <lb ed="#H" n="151"/>&amp; veritas per Iesum Christum praestita est Deum nemo vidit unquam: 
+      <lb ed="#H" n="152"/>unigenitus ille Filius qui est in sinu Patris, ille nobis enarravit. Johan. 
+      <lb ed="#H" n="153"/>3. v. 12, 13. Si terrena dixi vobis &amp; non creditis: quomodo si dixero 
+      vo<lb ed="#H" n="154" break="no"/>bis coelestia, credetis? Nullus enim adscendit in coelum, nisi qui descendit 
+      <lb ed="#H" n="155"/>e coelo, Filius hominis qui est in coelo. Sensus est: Nemo mysteria 
+      coe<lb ed="#H" n="156" break="no"/>lestia videt &amp; penitus cognoscit, eaque testari &amp; revelare potest, nisi 
+      <lb ed="#H" n="157"/>Filius Dei. Hebr. 1. vers. 1. Multis vicibus, multisque modis olim Deus 
+      <lb ed="#H" n="158"/>loquutus Patribus in Prophetis, ultimis diebus hisce locutus est nobis in 
+      <lb ed="#H" n="159"/>Filio. Haec qui secundum solam humanam naturam intelligunt, 
+      Dei<lb ed="#H" n="160" break="no"/>tati Christi detrahunt, quod illa nos doceat 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1408">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>TERTIUM: Secundum quam naturam Christus posuit pro 
+      no<lb ed="#H" n="162" break="no"/>bis animam, secundum eam est nobis Mediator: At secundum 
+      u<lb ed="#H" n="163" break="no"/>tramque naturam Christus posuit pro nobis animam: Ergo 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1419">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Major est evidens: quia ponere pro nobis animam est officium 
+      <lb ed="#H" n="165"/>Mediatoris nostri, ut epistola ad Hebraeos docet¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1428">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Minorem primo sic explicamus: Secundum divinam naturam 
+      po<lb ed="#H" n="167" break="no"/>suit Christus animam active; secundum humanam passive. Eandem 
+      <lb ed="#H" n="168"/>stabilit Christus Johan 10. vers. 17, 18. quum ait: Propterca Pater me 
+      <lb ed="#H" n="169"/>diligit, quia ego depono animam meam, ut eam rursus assumam. Nemi 
+      <lb ed="#H" n="170"/>tollit eam a me, sed ego depono eam per meipsum: potestatem habeo 
+      de<lb ed="#H" n="171" break="no"/>bonendi eam, &amp; potestatem habeo rursus eam assumendi. Hoc praeceptum 
+      <lb ed="#H" n="172"/>accepi a Patre meo. Et Paulus, cum ait Hebr. 9. vers. 14. quod 
+      Chri<lb ed="#H" n="173" break="no"/>stus per Spiritum aeternum seipsum obtulit inculpatum Deo. Subscribis 
+      <lb ed="#H" n="174"/>Theodoretus, qui in Epitome decretorum divinorum, capite Quod  
+      <lb ed="#H" n="175"/>Christus susceperit etiam animam cum corpore, ait: Iis, qui 
+      conji<lb ed="#H" n="176" break="no"/>ciebant passionem esse involuntariam, dicebat ante passionem, 
+      Potesta<lb ed="#H" n="177" break="no"/>tem habeo ponendi animam meam, &amp; potestatem habeo rursus 
+      accipien<lb ed="#H" n="178"/> 
+               <lb ed="#H" n="179"/>piam ipsam. Per haec autem aperte declavavit, quod alia quidem est quae 
+      <lb ed="#H" n="180"/>ponitur &amp; sumitur anima, alia autem, quae ponit &amp; sumit, diuinitas 
+      <lb ed="#H" n="181"/>Aliam autem dixi, non in duas personas dividens, sed naturarum 
+      osten<lb ed="#H" n="182" break="no"/>dens differentiam. Sic etiam alibi dixit: Propterea Pater me diligit, quia 
+      <lb ed="#H" n="183"/>ego pono animam meam pro ovibus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1472">
+               <lb ed="#H" n="184"/>
+               <pc type="indent"/>Subscribit Chrysostomus, qui docet quod Christus nt Deus ponat  
+      <lb ed="#H" n="185"/> 
+               <!--cod-MkL9py-0458.xml-->
+               <pb ed="#H" n="431"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Christi θεουθρικον, secundum utramque naturam ei competens. 
+      <lb ed="#H" n="2"/>Verba Chrysostomi sunt homilia quinquagesimanona in 
+      Johar<lb ed="#H" n="3" break="no"/>nem: Cum voluissent aliquando eum interimere, indicat, nisi ipse vel 
+      <lb ed="#H" n="4"/>let, incassum eos laborare: &amp; a primo secundum confirmat, a morte 
+      vi<lb ed="#H" n="5" break="no"/>delicet resurrectionem, hoc enim admirandum est. Siquidem utrumque  
+      <lb ed="#H" n="6"/>novum fuit, &amp; praeter communem consuetudinem. Attendamus erg 
+      <lb ed="#H" n="7"/>diligenter: Potestatem habeo, inquit, ponendi animam meam. Et quis-  
+      <lb ed="#H" n="8"/>non habet hanc potostatem? Quisque enim potest se interimere: sed non 
+      <lb ed="#H" n="9"/>ita intelligitur. Quomodo ergo? Sic habeo ponendi potestatem, ut nemo 
+      <lb ed="#H" n="10"/>me invito id facere possit: quod non contingit nebis, nos tantum 
+      inter<lb ed="#H" n="11" break="no"/>imere nosmetipsos possumus: sed si in latronum insidias inciderimus. 
+      <lb ed="#H" n="12"/>non habemus liberam faciendi quod volumus potestatem, velimus 
+      noli<lb ed="#H" n="13" break="no"/>mus, nos interficiunt. Christus autem etiam insidiis circumventus, sub 
+      <lb ed="#H" n="14"/>juris erat moriendi, nec ne. Et cum dixisset, Nemo tollit eam a me: 
+      ad<lb ed="#H" n="15" break="no"/>didit, Potestatem habeo ponendi eam: hoc est, ego solus habeo hanc 
+      pote<lb ed="#H" n="16" break="no"/>statem, quae vobis non est. Etenim alii multi, vitae nostrae sunt 
+      domini<lb ed="#H" n="17" break="no"/>quod a principio non dixit, neque enim creditum esset: sed cum a re ipso  
+      <lb ed="#H" n="18"/>testimonium confirmarit, cum multis circumventus insidiis 
+      compre<lb ed="#H" n="19" break="no"/>hendi non potuerit: sapius enim ex eorum manibus clapsus est, tun 
+      <lb ed="#H" n="20"/>inquit: Nemo tollit eam a me. Quod si verum, &amp; illud sequetur, sponi 
+      <lb ed="#H" n="21"/>ad hoc venisse, per quod &amp; aliud confirmatur, quandocuuque voluerit  
+      <lb ed="#H" n="22"/>vitam sumere, posse. Nam si ita mori humanas vires excedit, non est 
+      re<lb ed="#H" n="23" break="no"/>liquum dubitandum. Quod enim solus esset vitam ponendi Dominus, 
+      <lb ed="#H" n="24"/>etiam sumendi in sua esse potestate ostendit. Ecce quomodo a priori 
+      se<lb ed="#H" n="25" break="no"/>cundum confirmat, &amp; a morte indubitatam ostendit resurrectionem 
+      <lb ed="#H" n="26"/>Item Augustinus nono tomo, tractatu quadragesimo-septimo in 
+      Je<lb ed="#H" n="27" break="no"/>hannem: Pono, inquit, animam meam: quis posuit? quam ponit 
+      <lb ed="#H" n="28"/>CHRISTVS. Quid est Christus? Verbum &amp; homo, nec sic homo ut sola 
+      <lb ed="#H" n="29"/>caro: sed quia homo constat ex carne &amp; anima, totus est homo in 
+      Chri<lb ed="#H" n="30" break="no"/>sto, non enim partem deteriorem suscepisset, &amp; partem meliorem 
+      deseru<lb ed="#H" n="31" break="no"/>isset: &amp; pars quippe hominis melior est anima quam corpus. Quia ergo 
+      <lb ed="#H" n="32"/>totus homo in Christo, quid est Christus? Verbum, inquam, &amp; homo: 
+      <lb ed="#H" n="33"/>quid est verbum &amp; homo? Verbum, anima, caro. Et paulo post: Quis 
+      <lb ed="#H" n="34"/>posuit animam, &amp; iterum sumit eam? Christus ex eo quod Verbum es 
+      <lb ed="#H" n="35"/>ponit animam, &amp; sumit eam iterum. Et aliquanto post: Caro ponit. 
+      <lb ed="#H" n="36"/>animam suam, &amp; caro iterum sumit eam, non tamen sua potestate care 
+      <lb ed="#H" n="37"/>sed potestate inha bitantis carnem, nempe Verbi. Et rursus: Quando 
+      <lb ed="#H" n="38"/>Christus animam posuit? Quando Verbum voluit, principatus enim in 
+      <lb ed="#H" n="39"/>Verbo erat, ibi quando poneret caro animam, &amp; quando potestas erat. 
+      <lb ed="#H" n="40"/>sumeret, si ergo caro animam posuit, quomodo Christus animam posuit. 
+      <lb ed="#H" n="41"/>Non enim caro Christus? Ita plane &amp; caro Christus &amp; anima 
+      Chri<lb ed="#H" n="42" break="no"/>stus, &amp; Verbum Christus, nec tamen tria haec tres Christi, sed unus 
+      Chri<lb ed="#H" n="43" break="no"/>stus. Et mox: Ponit eam caro, sed ex potestate Verbi: sumit eam caro; 
+      <lb ed="#H" n="44"/>sed ex potestate Verbi. Ita etiam Augustinus cum actione carnis 
+      con<lb ed="#H" n="45" break="no"/>jungit actionem Verbi in anima deponenda, ut ostendat, in hoc eo 
+      <lb ed="#H" n="46"/>dem opere egisse utramque formam cum communione alterius. 
+      <lb ed="#H" n="47"/>Verbo operante quod Verbi est, &amp; carne exsequente quod carnis est. 
+      <lb ed="#H" n="48"/>Principatus autem operis in Verbo erat, quod animam suae humani 
+      <lb ed="#H" n="49"/>tatis posuit, quod illam in manus Patris deposuit; quod illam Patri 
+      <lb ed="#H" n="50"/>commmendavit &amp; tradidit. Nunquid enim corpus animam Patri 
+      <lb ed="#H" n="51"/>commendavit &amp; tradidit? inanime viventem? nunquid corpus 
+      ha<lb ed="#H" n="52" break="no"/>buit potestatem ponendi animam? quid habet corpus potestatis 
+      <lb ed="#H" n="53"/>quod per animam vitam habet &amp; motum: 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1602">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>QUA RTUM: Secundum quam naturam Christus nos 
+      recon<lb ed="#H" n="55" break="no"/>ciliavit Deo, secundum eam est Mediator noster apud Deum: Atqui 
+      <lb ed="#H" n="56"/>secundum utramque natura Christus nos reconciliavit Deo: Ergo, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1613">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Major est verissima: quia Deo nos reconciliare est officium 
+      Me<lb ed="#H" n="58" break="no"/>diatoris. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1623">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Minorem probamus: nam secundum humanam naturam 
+      Chri<lb ed="#H" n="60" break="no"/>stus precium pro nobis persolvit, sicut dicitur Rom. 5. v. 10, quum 
+      ini<lb ed="#H" n="61" break="no"/>mici essemus, reconciliati fuimus Deo per mortem Filii ejus. Et v. 11. 
+      per<lb ed="#H" n="62" break="no"/>Iesum Christum nunc reconciliationem recepimus. Et Col. 1. v. 21, 22. 
+      <lb ed="#H" n="63"/>Itaque vos quum essetis quondam abalienati &amp; hostes. mente operibus 
+      <lb ed="#H" n="64"/>malis intenta, nunc sane reconciliavit, In corpore illo carnis suae, 
+      pe<lb ed="#H" n="65" break="no"/>mortem: secundum divinam autem precio infinitam efficaciam 
+      tri<lb ed="#H" n="66" break="no"/>buit, secundum id quod dicitur Hebr. 9. v. 14. Per Spiritum aeternum. 
+      <lb ed="#H" n="67"/>seipsum obtulit inculpatum Deo, 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1647">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>EXCIPIUNTadversarii, reconciliare non semper esse 
+      Media<lb ed="#H" n="69" break="no"/>coris: nam si quis per seipsum reconciliet sibi inimicum, cum non 
+      di<lb ed="#H" n="70" break="no"/>ci Mediatorem. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1658">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>RESP. Negatur hoc: nam Mediator dicitur duobus modis, 
+      <lb ed="#H" n="72"/>propriae &amp; analogice. Proprii, qui partes alias reconciliat aliis, 
+      anulogi<lb ed="#H" n="73" break="no"/>ta, qui alias sibi: sicut justitia proprie est ejus qui suum alteri tribuit; 
+      <lb ed="#H" n="74"/>analogice vero ejus qui suum sibi. Christus autem perfectus 
+      Media<lb ed="#H" n="75" break="no"/>tor est perfecte utroque modo. Respectu Dei Patris, Christus 
+      pro<lb ed="#H" n="76" break="no"/>ptie est Mediator, respectu sui Mediator est analogice. Unum altero 
+      <lb ed="#H" n="77"/>non evertitur. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1678">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>QUINTUM: Secundum quam naturam Christus penetravit. 
+      <lb ed="#H" n="79"/>coelos pro nobis, secundum id est noster Mediator: At secundum ut 
+      <lb ed="#H" n="80"/>tramque natura suam Christus penetravit coelos pro nobis: Ergo, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1689">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Major certa est: nam praecursorem esse in coelum pro nobis est 
+      <lb ed="#H" n="82"/>Mediatoris nostri coelum nobis aperientis.: 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1698">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Minorem probamus: quia secundum divinitatem Christus 
+      pene<lb ed="#H" n="84" break="no"/>travit coelos, virtute sua: secundum humanitatem loci mutatione 
+      <lb ed="#H" n="85"/>Eodem pertinet dictum Hebr. 4. v. 14. Habemus Pontificem magnum 
+      <lb ed="#H" n="86"/>qui penetravit coels, Iesum Filium Dei: Et cap. 6. v. 20. Quo 
+      praecur<lb ed="#H" n="87" break="no"/>sor pro nobis ingreffus est Iesus, factus secundum ordinem Melchi sedech. 
+      <lb ed="#H" n="88"/>Pontisex in aeternum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1717">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>SEXTUM: Cujus naturae Christi typum gessit Sacerdos 
+      Mel<lb ed="#H" n="90" break="no"/>chisedech, secundum eam est Christus noster Mediator: At utriusque  
+      <lb ed="#H" n="91"/>naturae Christi typum gessit sacerdos Melchisedech: Ergo, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1728">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>Mejor certa est: quia Melchisedech fuit typus Christi, quatenus 
+      <lb ed="#H" n="93"/>Christus Mediator noster est. 
+      <!--cod-MkL9py-0458.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="94"/>Minor probatur ex capite septimo ad Hebraeos toto 
+      <lb ed="#H" n="95"/>SEPTIMUM; Secundum quam naturam Christus est medius 
+      <lb ed="#H" n="96"/> 
+               <lb ed="#H" n="97"/>num: At secundum utramque naturam Christus est medius 
+      inter<lb ed="#H" n="98" break="no"/>Deum &amp; nos: Ergo, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1752">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Major certa est: quia unire nos homines in seipso cum DEO est 
+      <lb ed="#H" n="100"/>t 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1761">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Minor etiam verissima est: quia unire nos homines in seipso cum 
+      <lb ed="#H" n="102"/>Deo non potest, nisi qui duabus naturis constat. Homo nudus nos 
+      u<lb ed="#H" n="103" break="no"/>n 
+      <lb ed="#H" n="104"/>i 
+      <lb ed="#H" n="105"/>it 
+      <lb ed="#H" n="106"/>ti 
+      <lb ed="#H" n="107"/>se 
+      <lb ed="#H" n="108"/>tiae, ut Angeli creati, hominem peccatorem Deo reconciliate &amp; in 
+      u<lb ed="#H" n="109" break="no"/>tionem cum eo reducere non potest: quia Angeli quoque opus 
+      habe<lb ed="#H" n="110" break="no"/>b 
+      <lb ed="#H" n="111"/>. 
+      <lb ed="#H" n="112"/>I. 
+      <lb ed="#H" n="113"/>ceduci ad jus dignitatemque filiorum Dei potuimus, quam per cum 
+      <lb ed="#H" n="114"/>qui natura seu nativitate est Filius Dei, quem &amp; verum Deum &amp; 
+      ve<lb ed="#H" n="115" break="no"/>ri 
+      <lb ed="#H" n="116"/>xhominum natura inter se coalescant. Hoc confirmat Jesaias cum ait 
+      <lb ed="#H" n="117"/>c. 
+      <lb ed="#H" n="118"/>P 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1805">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>OCTAVUM: Secundum quam naturam Christus mortem 
+      vi<lb ed="#H" n="120" break="no"/>e 
+      <lb ed="#H" n="121"/>Deum. At secundum utramque naturam Christus mortem vicit, ut 
+      <lb ed="#H" n="122"/>nos ab ea liberaret: Ergo, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1818">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Major firma est: quia mortem vincere ut nos ab ea liberemur est 
+      <lb ed="#H" n="124"/>6. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1828">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Minor etiam manifesta est: quia humanae quidem naturae Filius 
+      <lb ed="#H" n="126"/>
+      i<lb ed="#H" n="127" break="no"/>r. 
+      <lb ed="#H" n="128"/>t 
+      <lb ed="#H" n="129"/>vers. 18. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1844">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>NONUM: Secundum quam naturam Christus est Rex Ecclesie 
+      <lb ed="#H" n="131"/>s 
+      <lb ed="#H" n="132"/>i¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1855">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>Majorem probamus, quia regnum gratiae est regnum 
+      Mediatori<lb ed="#H" n="134" break="no"/>im, est officii Mediatoris nostri¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1864">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>Minorem probant haec dicta, Luc. 1. v. 33. Regnabit in domo Iacobi 
+      <lb ed="#H" n="136"/>in aeternum, &amp; regni ejus non erit finis. Joh. 3 v. 35. Pater diligit Filium, 
+      <lb ed="#H" n="137"/>&amp; omnia dedit ei inmanum. Act. 2. v. 36. Cerro sciat ergo teta domus 
+      <lb ed="#H" n="138"/>Israelis, quod Deus hunc fecerit Dominum. Eph. 5. v. 20 &amp; seq. 
+      Collo<lb ed="#H" n="139" break="no"/>cavit eum ad dextram suam in coelis, Longe supra omne imperium, &amp;c. 
+      <lb ed="#H" n="140"/>Phil. 2. v. 9, 10,11. Deus ipsum in summam extulit sublimitatem, &amp;c. 
+      <lb ed="#H" n="141"/>Matth. 28 v. 18. Data est mehi omnis potestas in coels &amp; in terra. Jus 
+      <lb ed="#H" n="142"/>ergo regni Christus secundum utramque naturam possidet, utraque 
+      <lb ed="#H" n="143"/>I 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1888">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>DECIMUM: Secundum quam naturam Christus renovat 
+      cor<lb ed="#H" n="145" break="no"/>da nostra &amp; dat Spiritum Sanctum, secundum illam est Mediator 
+      in<lb ed="#H" n="146" break="no"/>per Deum &amp; nos homines: At secundum utramque naturam Christus 
+      <lb ed="#H" n="147"/>renovat corda nostra &amp; dat Spiritum Sanctum: Ergo: &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1901">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Respondei Bellarminus per distinctionem: ait rinovare corda 
+      no<lb ed="#H" n="149"/> 
+               <lb ed="#H" n="150"/>hunc modum renovandi corda &amp; dundi Spiritum Sanctum non 
+      esse<lb ed="#H" n="151" break="no"/>I 
+      <lb ed="#H" n="152"/>gi 
+      <lb ed="#H" n="153"/>T 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1920">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>REPLICATIO nostra: Negatur distinctio. Nam primo 
+      me<lb ed="#H" n="155" break="no"/>I. 
+      <lb ed="#H" n="156"/>Quod si meritum: ergo res promeritae ab eadem mediatione sunt,  
+      <lb ed="#H" n="157"/>Secundo quod est causa causae, idem est causa causati; at formalis 
+      prin<lb ed="#H" n="158" break="no"/>cipii operatio est causa meriti; ergo &amp; rei promeritae, qualis est 
+      reno<lb ed="#H" n="159" break="no"/>vatio cordium &amp; donatio Spiritus S. Offundit erxo tenebras, qui 
+      da<lb ed="#H" n="160" break="no"/>r. 
+      <lb ed="#H" n="161"/>divinas fornmaliter; solus ergo dat Spiritum S. Mediatur autem dat 
+      <lb ed="#H" n="162"/>Spiritum S: dat ergo, qua Deus formaliter; Verbum caro factum, 
+      <lb ed="#H" n="163"/>ut Mediator est, personaliter. Hoc facit persona Christi secundum 
+      <lb ed="#H" n="164"/>formam Dei, quemadmodum alia facit, secundum formam serui 
+      as<lb ed="#H" n="165" break="no"/>si 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1951">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>UNDECIMUM: Si λετελίσμαζα, id est, opera Christi 
+      Media<lb ed="#H" n="167" break="no"/>toris, ut Mediatoris, sunt θεουθρικα, hoc est, divine- humana, in quibus 
+      <lb ed="#H" n="168"/>concurrit actio divina &amp; humana: tum Christus est secundum utra 
+      <lb ed="#H" n="169"/>que naturam Mediator inter Deum &amp; nos homines. Verum est 
+      an<lb ed="#H" n="170"/> 
+            </p>
+            <p xml:id="yyy8Uu-gxd471-d1e1967">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Propositio connexa est firmissima: quia quum tria sint genera 
+      o<lb ed="#H" n="172" break="no"/>perum Christi; quaedam pure diuvina, ut creare &amp; conservne omnes. 
+      <lb ed="#H" n="173"/>creaturas; quaedam pui e humana, ut comedere, bibere; quaedam: 
+      ar<lb ed="#H" n="174" break="no"/>tim divina, partim humana, ut ambulare super aquao, nam anibulare 
+      <lb ed="#H" n="175"/>hominis eret, dare autem aquis soliditatem, erat Dei: quodcunque op 
+      <lb ed="#H" n="176"/>duarum naturarum actionibus conturrentibus a Christo jeificitur? 
+      <lb ed="#H" n="177"/>id secundum utramque naturam perfici certum est. Ex actione enim. 
+      <lb ed="#H" n="178"/>naturali inducitur natura, ut ex effectu principium; quum natura siit 
+      <lb ed="#H" n="179"/>formale principium actionis suae naturalis: ac proiuide in quoc uno 
+      <lb ed="#H" n="180"/>opere Christi concurrunt duae naturales actiones, illud duplex 
+      prin<lb ed="#H" n="181" break="no"/>cipium formale operans habeat necesse est, nempe formani Dei &amp; 
+      <lb ed="#H" n="182"/>formam servi, non autem unicum principium formale ut 
+      Monothe<lb ed="#H" n="183" break="no"/>petae volebant. Quodcunque autem opus Christi habet duplex formale 
+      <lb ed="#H" n="184"/>principium operans, formam Dei &amp; formam seivi: illud a Christo 
+      <lb ed="#H" n="185"/>secundum utramque naturam perficitur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2004">
+               <lb ed="#H" n="186"/>
+               <pc type="indent"/>Assumtio certa est, Apotelesmata, id est, opera Christi Mediatoris 
+      <!--cod-MkL9py-0459.xml-->
+      <pb ed="#H" n="432"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>ut Mediatoris, sunt θεανορικα divine-humana, in quibus utriusque 
+      na<lb ed="#H" n="2" break="no"/>turae actio concurrit, divinae &amp; humanae: Etsi enim quodlibet λτυτεν 
+      <lb ed="#H" n="3"/>λισμα seu opus Mediatoris unum est, quia unica Mediatoris 
+      perso<lb ed="#H" n="4" break="no"/>na: tamen ad id δτο τολεσμα effi iendum duae eνlργιας id est, actione 
+      <lb ed="#H" n="5"/>concurrunt, Deitatis &amp; humanitatis, agente Deitate quae divina sun 
+      <lb ed="#H" n="6"/>&amp; humanitate, quae humana. Sicut hominis aliquod opus unum est, 
+      <lb ed="#H" n="7"/>sed in eo producendo, &amp; animae &amp; corporis actio concurrit, anima 
+      a<lb ed="#H" n="8" break="no"/>gente quae animae sunt, &amp; corpore agente quae corporis sunt. Ac ut 
+      <lb ed="#H" n="9"/>naturae earumque proprietates distinctae manent; ita etiam 
+      natura<lb ed="#H" n="10" break="no"/>rum actiones &amp; operationes, sic ut distincte agat utraque quod 
+      il<lb ed="#H" n="11" break="no"/>proprium est, Verbo scilicet operante quod Verbi est, &amp; carne 
+      exse<lb ed="#H" n="12" break="no"/>quente quod carnis Talia opera Christi Mediatoris sunt, docere ec 
+      <lb ed="#H" n="13"/>clesiam voluntatem Dei Patris, confirmare doctrinam suam 
+      mira<lb ed="#H" n="14" break="no"/>culis, redimere Ecclesiam, ponere animam pro salute mundi, 
+      mor<lb ed="#H" n="15" break="no"/>tem vincere, reconciliare nos Deo, resurgere ex aortuis, in coelum in 
+      <lb ed="#H" n="16"/>sanctuarium coeleste ingredi, regnare regno Mediatorio &amp; guberna. 
+      <lb ed="#H" n="17"/>re Ecclesiam, venire e coelo ad judicandum vivos &amp; mortuos 
+      Singu<lb ed="#H" n="18" break="no"/>la haec opera sunt Christi Mediatoris ut Mediatoris, in quibus agit 
+      <lb ed="#H" n="19"/>divinitas, agit humanitas actione distincta sua prout naturae sunt &amp; 
+      <lb ed="#H" n="20"/>manent distinctae in persona Christi, licet sint unitae 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2061">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Certum igitur est &amp; consequens, Christum esse Mediatorem 
+      se<lb ed="#H" n="22" break="no"/>cundum utramque naturam 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2070">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>DUODECIMUM: Si Christus ideo est officio Mediator 
+      inter<lb ed="#H" n="24" break="no"/>Deum &amp; nos homines, quia est medius persona seu substantia inter 
+      <lb ed="#H" n="25"/>Deum &amp; nos homines, id est, Deus &amp; homo; tum certe est Media; 
+      <lb ed="#H" n="26"/>tor secundum utramque naturam. Quod antecedit verum est: Ergo 
+      <lb ed="#H" n="27"/>&amp; quod sequitur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2087">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Connexi consequentia est firmissima: quia ideo Christus est 
+      me<lb ed="#H" n="29" break="no"/>dius persona ac substantia, ut posset esse medians officio &amp; 
+      operatio<lb ed="#H" n="30" break="no"/>ne. Unde Mediatio Christi duplex est, ὑσιώδuς κι ενεργητικη: hoc est 
+      <lb ed="#H" n="31"/>substantialis &amp; operativa. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2100">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Mediatio substantialis, est qua Christus persona est medius 
+      inter<lb ed="#H" n="33" break="no"/>Deum &amp; nos, naturam cum utrisque communem habens, ut officio 
+      <lb ed="#H" n="34"/>inter utrosque Mediator esset. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2111">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>Mediatio operativa, est qua Christus operatur ea quae sunt 
+      Medi<lb ed="#H" n="36" break="no"/>atoris, idque secundum utramque naturam. Nam qualis est substam 
+      <lb ed="#H" n="37"/>cia personae, talis est &amp; operatio: &amp; contra; qualis est operatio, 
+      tali<lb ed="#H" n="38" break="no"/>est operantis personae substantia: nam quicquid est, operatur eo ipsoe  
+      <lb ed="#H" n="39"/>quod est: quicquid est &amp; operatur, id operatur prout est. Est autem 
+      <lb ed="#H" n="40"/>Mediator θεονθρωπος, substantialiter Deus- homo substantiali me 
+      <lb ed="#H" n="41"/>diatione: Ergo Mediator, ut Mediator est, operationes Mediatorias 
+      <lb ed="#H" n="42"/>vere θεαυδρικα:, d vinas atque humanas operatur. Relata sunt 
+      neces<lb ed="#H" n="43" break="no"/>saria, μεσετεια κσεωδης κι ενεργητικη: mediatio substantialis est unica. 
+      <lb ed="#H" n="44"/>operativae causa, &amp; operativa est germanus illius substantialis 
+      medi<lb ed="#H" n="45" break="no"/>ationis effectus: unam qui tollit, ambas eadem opera tollit. Christus 
+      <lb ed="#H" n="46"/>proinde est Mediator ἀσιαδης κι ενιργητικος. Assumtionem ne Papan 
+      <lb ed="#H" n="47"/>quidem ipsi negant. Nobiscum idem statuerunt Orthodoxi Patres 
+      <lb ed="#H" n="48"/>quorum testimonia videantur in Symphonia nostra Catholica, cap. 
+      <lb ed="#H" n="49"/>9. Thes. 8. quibus adjiciantur &amp; ista: 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2148">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>LEOMAGNUS Episcopus Romanus, epistolam undecima, quae 
+      <lb ed="#H" n="51"/>est ad Julianum Episcopum Coensem in primo tomo Conciliorum 
+      <lb ed="#H" n="52"/>sic ait de Christo: Non esset Dei hominumque Mediator, qusi idem 
+      <lb ed="#H" n="53"/>Deus, idemque homo in utroque &amp; unus esset &amp; verus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2161">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>CYRILLUS ALEXANDRINUS libro duodecimo 
+      The<lb ed="#H" n="55" break="no"/>sauri, capite decimo: Mediator Dei &amp; hominum Iesus Christus est, 
+      <lb ed="#H" n="56"/>non solum quia reconciliavit homines Deo, verum etiam quia 
+      natura<lb ed="#H" n="57" break="no"/>iter &amp; substantialiter &amp; Deus &amp; homo in una hypostasi est. Hoc enim 
+      <lb ed="#H" n="58"/>modo naturam nostram sibi Deus reconciliavit. Nam aliter quomodo 
+      <lb ed="#H" n="59"/>unum Mediatorem Christum Paulus dixisset? Multi enim sanctorum 
+      <lb ed="#H" n="60"/>mediationis ministerio usi sunt, &amp; ipse Paulus clamat: Rogamus pro 
+      <lb ed="#H" n="61"/>Christo, reconciliamini Deo. Moses quoque mediator fuit: ministravit. 
+      <lb ed="#H" n="62"/>inim filiis Israel legem datam a Deo. Mediator etiam fuit Beatus 
+      Hie<lb ed="#H" n="63" break="no"/>remias, praecipue quando clamabat ad Deum: Recordare mei stantis 
+      co<lb ed="#H" n="64" break="no"/>ram te, ad loquendum pro ipsis bona. Quid multa? singuli Prophetarum 
+      <lb ed="#H" n="65"/>mediatores fuerunt, Apostolorum quoque singuli. Quomodo igitur unicus 
+      <lb ed="#H" n="66"/>Mediator Dei &amp; hominum Christus est, nisi nova inauditaque in 
+      alii<lb ed="#H" n="67" break="no"/>mediatio sua sit? Sed modum quoque perstringere non alienum est. Quod  
+      <lb ed="#H" n="68"/>gitur duo quaedam sicut medium conjungit, ab utroque necessario 
+      tangi<lb ed="#H" n="69" break="no"/>tur: &amp; hoc modo diversa per medium conjunguntur. Est autem 
+      Chri<lb ed="#H" n="70" break="no"/>stus Mediator Dei &amp; hominum, quia in eo uno Deus &amp; homo 
+      conjun<lb ed="#H" n="71" break="no"/>guntur. Non est tamen ipse aliquid tertium praeter Deum &amp; hominem, 
+      H<lb ed="#H" n="72" break="no"/>sed Deus vere &amp; homo vere: ipse enim est pax nostra 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2207">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>THEODORETUS in cap. 2. primae ad Timotheum: Vnus est 
+      <lb ed="#H" n="74"/>conciliator pacis, qui ea quae erant inter se disjuncta &amp; distantia 
+      con<lb ed="#H" n="75" break="no"/>junxit. Christum autem hominem nominavit, quoniam vocavit 
+      inter<lb ed="#H" n="76" break="no"/>cessorem. Homo enim factus fuit intercessor, &amp; quemadmodum qui 
+      duo<lb ed="#H" n="77" break="no"/>quospiam manus inter se conserentes ac confligentes vult reconcitiare, 
+      <lb ed="#H" n="78"/>se medium interponens, &amp; hunc quidem dextra, illum vero sinisti a 
+      te<lb ed="#H" n="79" break="no"/>nens, ad amicitiam deducit ac conjungit: ita ipse quum divinam 
+      na<lb ed="#H" n="80" break="no"/>turam humanae univisset, inviolabilem &amp; quae dissosvi non potest 
+      pa<lb ed="#H" n="81" break="no"/>cem conciliavit. Si autem, ut vult Arrius &amp; Eunomius, non est Patris 
+      <lb ed="#H" n="82"/>substantia particeps, quomodo est intercessor? Nobis enim unitus est 
+      <lb ed="#H" n="83"/>quoniam quod ad humanitatem attinet, est ejusdem nobiscum 
+      substan<lb ed="#H" n="84" break="no"/>tiae, sed Patri non itidem, siquidem, uti illi volunt, est ab ejus substantia 
+      <lb ed="#H" n="85"/>sejunctus. Atqui eum vocavit intercessorem diuvinus Apostolus: Ergo 
+      <lb ed="#H" n="86"/>etiam Patri fuit unitus, quod attinet ad di vinitatem: &amp; nobis 
+      simili<lb ed="#H" n="87" break="no"/>ter, quoad humanitatem 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2245">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>AUGUSTINUS primo tomo, libo decimo Confessionum, cap. 
+      <lb ed="#H" n="89"/>46. Mediutor avi, m inter Deum &amp; homines, oportebat ut haberet 
+      ali<lb ed="#H" n="90" break="no"/>quid simile Deo, aliquid simile hominibs ne in utroque hominibus simile, 
+      <lb ed="#H" n="91"/>longe esset a Deo, aut in ueroque Deo similis, longe esset ab hominibus, atque  
+      <lb ed="#H" n="92"/>ita Mediator non esset 
+      <!--cod-MkL9py-0459.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>IDEM tertio tomo, lib. de Fide ad Petrum Diaconum, capit. se 
+      <lb ed="#H" n="94"/>undo: Verbum autem caro factum, unus est Filius Dei, Dominus 
+      IE<lb ed="#H" n="95" break="no"/>SVSCHRISTVS, Mediator Dei &amp; hominum. Idcirco autem 
+      Media<lb ed="#H" n="96" break="no"/>tor, quia idem Deus atque homo verus, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2274">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>Ex his liquet propositionis connexae validissimam esse 
+      conse<lb ed="#H" n="98" break="no"/>quentiam. Assumtionem ne Papani quidem ipsi negant  
+      <lb ed="#H" n="99"/>DECIMUMTERTIUM: Secundum quam naturam 
+      Chri<lb ed="#H" n="100" break="no"/>stus est nobis a Patre datus caput, secundum eandem est Mediator 
+      in<lb ed="#H" n="101" break="no"/>er Deum &amp; nos: Atqui secundum utramque naturam Christus est; 
+      <lb ed="#H" n="102"/>nobis a Patre datus caput: Ergo secundum utramque naturam est. 
+      <lb ed="#H" n="103"/>Mediator inter Deum &amp; nos 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2294">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Major propositio est certissima: quia Mediatorem esse est officii 
+      il<lb ed="#H" n="105" break="no"/>lius qui a Deo Patre caput constitutus est super omnia ipsi Ecclesiae 
+      <lb ed="#H" n="106"/>Ideo Augustinus septimo tomo, libro secundo de peccato originali 
+      <lb ed="#H" n="107"/>contra Pelagium &amp; Celestium, cap. 26. eo ipso probat, Christum 
+      fuis<lb ed="#H" n="108" break="no"/>se caput etiam antiquorum justorum veteris Testamenti, quia &amp; 
+      <lb ed="#H" n="109"/>ipsorum Mediator. Verba Augustini sunt: Haec disputantes [
+      Pelagi<lb ed="#H" n="110" break="no"/>ani,) a gratia Mediatoris justos excludere conantur antiquos, tanquam  
+      <lb ed="#H" n="111"/>Dei &amp; illorum hominum non fuerit mediator homo Christus Iesus, 
+      <lb ed="#H" n="112"/>quia nondum exutero Virginis carne suscipta, homo nondum fuit, 
+      quan<lb ed="#H" n="113" break="no"/>do illi justi fuerunt. Quod si ita esset, nequaquam Apostolus diceret, Pet. 
+      <lb ed="#H" n="114"/>hominem mors, &amp; per hominem resurrectio mortuorum. Sicut enim in 
+      <lb ed="#H" n="115"/>Adam omnes moriuntur, sic &amp; in Christo omnes vivificabuntur, quam 
+      <lb ed="#H" n="116"/>doquidem illi antiqui justi, secundum istorum vaniloquia sibi 
+      sufficien<lb ed="#H" n="117" break="no"/>te natura, nec Mediatore homine Christo indiguerunt, per quem 
+      recon<lb ed="#H" n="118" break="no"/>iliarentur Deo, nec in eo vivificabuntur, ad cujus corpus &amp; membra 
+      <lb ed="#H" n="119"/>secundum id quod propter homines homo factus est, non pertinere mon 
+      <lb ed="#H" n="120"/>strantur. Si autem quemadmodum per Apostolos suos veritas loquitur.  
+      <lb ed="#H" n="121"/>Sicut in Adam omnes moriuntur, sic &amp; in Christo omnes 
+      vivificabun<lb ed="#H" n="122" break="no"/>tur, quia per illum hominem mors, &amp; per istum hominem 
+      resurrecti<lb ed="#H" n="123" break="no"/>mortuorum, quis audeat dubitare Christianus, etiam illos justos, qui re 
+      <lb ed="#H" n="124"/>centioribs generis humani temporibus Deo placuerunt, ideo in 
+      resurre<lb ed="#H" n="125" break="no"/>ctionem vitae aternae, non mortis aeternae, esse venturos, quia in 
+      CHRI<lb ed="#H" n="126" break="no"/>STQvivificabuntur? Ideo autem vivificari in CHRISTO, quoniam 
+      <lb ed="#H" n="127"/>ad corpus pertinent Christi, &amp; ideo pertinere ad corpus Christi, quia &amp; 
+      <lb ed="#H" n="128"/>ipsis caput est Christus? Ideo &amp; ipsis caput esse Christum, quia unus 
+      <lb ed="#H" n="129"/>Mediator est Dei &amp; hominum, homo CHRISTVSIESVS, Quod eit 
+      <lb ed="#H" n="130"/>non fuisset, nisi in ejus resurrectionem, per ejus gratiam credidissent. Et 
+      <lb ed="#H" n="131"/>hoc quomodo fieret, si eum in carne venturum esse nesciissent, neque ex 
+      ha<lb ed="#H" n="132" break="no"/>fide juste pieque vixissent? Nam si propterea illis non profuit incarnatio 
+      <lb ed="#H" n="133"/>Christi, quia nondum facta erat, nec nobis probis prodest judicium 
+      Chri<lb ed="#H" n="134" break="no"/>sti de vivis &amp; mortuis, quia nondum factum est. Si autem nos per hujus 
+      <lb ed="#H" n="135"/>nondum facti, sed futuri judicii fidem stabimus ad dexteram 
+      CHRI<lb ed="#H" n="136" break="no"/>STI, profecto illi per incarnationis ejus tunc nondum factae, sed futurae 
+      <lb ed="#H" n="137"/>idem membra sunt Christi. Neque enim putandum est, quod antiquis 
+      ju<lb ed="#H" n="138" break="no"/>stis sola quae semper erat, diuvinitas Christi, non etiam quae nondum erat, 
+      <lb ed="#H" n="139"/>ejus humanitas revelata profuerit 
+      <lb ed="#H" n="140"/>Minorem seu assumtionem qui negat, Christianus non est 
+      <lb ed="#H" n="141"/>RESPONDET Bellarminus duo: Primum etiam Patrem &amp; 
+      <lb ed="#H" n="142"/>Spiritum Sanctum fuisse &amp; esse caput bonorum Angelorum &amp; 
+      homi<lb ed="#H" n="143" break="no"/>num: inde igitur sequuturum, etiam Patrem &amp; Spiritum Sanctum esst. 
+      <lb ed="#H" n="144"/>Mediatores, quod est absurdum. Secundum, Filium etiam sanctorum 
+      <lb ed="#H" n="145"/>Angelorum &amp; hominum integrorum fuisse caput, nec tamon sanctorum 
+      <lb ed="#H" n="146"/>Angelorum fuisse aut esse Mediatorem, nec hominem ante lapsum 
+      Me<lb ed="#H" n="147" break="no"/>diatorem fuisse 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2394">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>REPLICATIO nostra: Ludit Bellarminus duplici 
+      homony<lb ed="#H" n="149" break="no"/>mia, quarum una est in nomine Capitis, altera in nomine Mediatoris. 
+      <lb ed="#H" n="150"/>Caput Angelorum &amp; hominum dicitur vel communiter vel 
+      particula<lb ed="#H" n="151" break="no"/>riter. Communiter caput Angelorum &amp; hominum est absolute 
+      na<lb ed="#H" n="152" break="no"/>tura Deus, essentialiter sumtus, id est, Pater, Filius &amp; Spiritus sanctus. 
+      <lb ed="#H" n="153"/>Hoc sensu qui caput est, nunquam Mediator appellatur, nec recte 
+      <lb ed="#H" n="154"/>appellari potest. Particulariter caput Angelorum &amp; hominum est;, 
+      <lb ed="#H" n="155"/>Christus, datus &amp; praefectus ipsis a Patre ut primogenitus omnis 
+      cre<lb ed="#H" n="156" break="no"/>aturae, secundum quendam modum aut secundum quid, nempe 
+      vo<lb ed="#H" n="157" break="no"/>luntatis dispositione &amp; dispensatione gratiae; quia ut per Filium 
+      cre<lb ed="#H" n="158" break="no"/>ati sunt Angeli &amp; homines tanquam per causam mediam quae 
+      divi<lb ed="#H" n="159" break="no"/>nam virtutem creandi habet a Patre, quanquam eandem cum Patre. 
+      <lb ed="#H" n="160"/>ut Sapientia &amp; Sermo Patris: ita etiam per Filium uniti sunt Deo 
+      u<lb ed="#H" n="161"/>&amp; in eo ab aeterno ex gratia electi a Patre ad vitam aeternam: per 
+      Fi<lb ed="#H" n="162" break="no"/>lium operatur Pater in utrisque, per Filium, inquam, per quem 
+      con<lb ed="#H" n="163" break="no"/>sistunt omnia, Coloss. 1. v. 17. ratione naturae &amp; gratiae. Hoc sensus 
+      <lb ed="#H" n="164"/>accepta voce, qui est caput Angelorum &amp; homiium, est etiam 
+      eo<lb ed="#H" n="165" break="no"/>rundem Mediator.  
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2438">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Mediator deinde vel primaevae est unionis cum Deo, vel instauratae, 
+      <lb ed="#H" n="167"/>Respectu primaevae unionis Christus, ut caput particulariter 
+      intelle<lb ed="#H" n="168" break="no"/>ctum, est Mediator communiter sanctorum Angelorum &amp; 
+      homi<lb ed="#H" n="169" break="no"/>num. Respectu vero instauratae unionis &amp; reconciliationis cum Deo. 
+      <lb ed="#H" n="170"/>est Christus ut caput redimens particulariter Mediator hominum: &amp; 
+      <lb ed="#H" n="171"/>hoc posteriore sensu dicitur Mediator redemtionis, item Mediator res 
+      <lb ed="#H" n="172"/>conciliationis: Estque sic tantum hominum lapsorum Mediator, non 
+      <lb ed="#H" n="173"/>integrorum; nedum bonorum Angelorum, quia Mediatore redem 
+      <lb ed="#H" n="174"/>tionis &amp; reconciliationis non egent: neque malorum Angelorum 
+      <lb ed="#H" n="175"/>quia nunquam redimendi, nunquam Deo reconciliandi sunt, Bellat 
+      <lb ed="#H" n="176"/>minus vero omnia conturbat &amp; permiscet: &amp; quae nos de Capite 
+      <lb ed="#H" n="177"/>particulariter sumto dicimus, ille de capite communiter dicto 
+      acci<lb ed="#H" n="178" break="no"/>pit: &amp; cum Christum ut caput particulariter dictum, affirmamus est 
+      <lb ed="#H" n="179"/>se communiter Mediatorem Angelorum &amp; hominum ratione 
+      pri<lb ed="#H" n="180" break="no"/>mavae unionis cum Deo qui elegit utrosque in Christo; ille nome 
+      <lb ed="#H" n="181"/>Mediatoris semper perticulariter capit, quam acceptione particulari, 
+      <lb ed="#H" n="182"/>ultro fatemur, Christum esse Mediatorem tantum hominum qui  
+      <lb ed="#H" n="183"/>peccaverunt. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2482">
+               <lb ed="#H" n="184"/>
+               <pc type="indent"/>DUPLICAT Bellarminus, primo si solus Filius fuisset caput 
+      <!--cod-MkL9py-0460.xml-->
+      <pb ed="#H" n="433"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Angelorum &amp; hominum, non esse indivisa opera Trinitatis, proinde nec 
+      <lb ed="#H" n="2"/>unam essentiam Trinitatis. Deinde, si Filius sit a Patre praefectus caput  
+      <lb ed="#H" n="3"/>Angelis &amp; hominibus, tum Filium fuisse Patris ministrum &amp; quasi 
+      vi<lb ed="#H" n="4" break="no"/>carium, etiam antequam esset homo; &amp; hoc ipsum voluisse Arianos. Tet 
+      <lb ed="#H" n="5"/>tio Filium Dei esse primogenitum omnis creaturae, quia genitus fuit a 
+      Pa<lb ed="#H" n="6" break="no"/>tre priusquam ulli creatura ifficeretur. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2509">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>TRIPLICATIO nostra. In primo fallaciam struit Bellarminus ex 
+      e<lb ed="#H" n="8" break="no"/>quivoco: nam solus Filius non est caput simpliciter, sed certo modo 
+      <lb ed="#H" n="9"/>Aliud est opus naturae, aliud voluntatis Oeconomiae seu 
+      dispensatio<lb ed="#H" n="10" break="no"/>nis gratiae. Natura &amp; simpliciter caput Angelorum &amp; hominum est. 
+      <lb ed="#H" n="11"/>Deus Pater, Filius &amp; Spiritus Sanctus: voluntatis autem dispositione 
+      <lb ed="#H" n="12"/>&amp; dispensationis gratia caput illorum est solus Christus. Illatio ergo 
+      <lb ed="#H" n="13"/>Bellarminiana est inconsequens. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2529">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>In secundo etiam faliere conatur Bellarminus ex ambiguitate: nam 
+      <lb ed="#H" n="15"/>Filius est datus &amp; praefectus a Patre caput Angelis &amp; hominibus, ut  
+      <lb ed="#H" n="16"/>principium a principsio, non autem ve administer &amp; vicarius Patris 
+      <lb ed="#H" n="17"/>prius nos statuimus, posterius affirmabat Arius 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2542">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Tertiam nobis non adversatur: nam Filius Dei est primogenitus 
+      o<lb ed="#H" n="19" break="no"/>mnis creaturae, tum ut primus ante tempora genitus: (nam tempus 
+      ante<lb ed="#H" n="20" break="no"/>creaturas non fuit;) tum ut caput autoritate primas a Patre tenens 
+      per<lb ed="#H" n="21" break="no"/>sonaliter, cum Patre essentialiter  
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2555">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Ex his quae dicta sunt manifestum est, Christum esse Mediatorem 
+      <lb ed="#H" n="23"/>inter Deum &amp; nos secundum utramque naturam, secundum divinam 
+      <lb ed="#H" n="24"/>quidem voluntatia dispensatione, secundum humanam vero 
+      simpli<lb ed="#H" n="25" break="no"/>citer.  
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2568">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>PAPISTAE contra contendunt, Christum fuisse Mediatorem solum 
+      <lb ed="#H" n="27"/>secundum naturam humanam, si sermo sit de principio quo seu format 
+      <lb ed="#H" n="28"/>sid est, quod proximum sit &amp; immediatum principium mediationis 
+      <lb ed="#H" n="29"/>idque statuunt Papistae naturam humanam, quum dicunt, solum 
+      se<lb ed="#H" n="30" break="no"/>cundum naturam humanam Christum fuisse Mediatorem,) non 
+      de<lb ed="#H" n="31" break="no"/>ipso supposito. Istius opinionis falsitatem primo monstrabimus: deinde 
+      <lb ed="#H" n="32"/>Bellarmini argumenta pro illa refellemus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2588">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Primo falsum est, Christum esse Mediatorem solum secundum 
+      hu<lb ed="#H" n="34" break="no"/>manam naturam ratione principii formalis: quum sit Mediator 
+      secu<lb ed="#H" n="35" break="no"/>dum utramque naturam &amp; ratione suppositi &amp; ratione duplicis 
+      prin<lb ed="#H" n="36" break="no"/>cipii formalis pro ut duplex est in Christo forma seu natura, quae 
+      prin<lb ed="#H" n="37" break="no"/>cipium est motus &amp; quietis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2605">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Sed ne aequivocatio errore pariat, principij vox distinguenda. 
+      Prin<lb ed="#H" n="39" break="no"/>cipium mediationis &amp; operum Mediatoris qua est Mediator, vel absos 
+      <lb ed="#H" n="40"/>lute dicitur, vel opposite. Principium absolutum &amp; commune 
+      mediatio<lb ed="#H" n="41" break="no"/>nis &amp; operum Mediatoris qua est Mediator, est persona Christi 
+      secu<lb ed="#H" n="42" break="no"/>dum utramque naturam suam, prout actiones dicuntur esse 
+      supposi<lb ed="#H" n="43" break="no"/>torum. Principium oppositum &amp; distinctum est haec aut illa natura i1 
+      <lb ed="#H" n="44"/>persona Christi pro modo cuiusque operationis ipsius. Estque vel 
+      pri<lb ed="#H" n="45" break="no"/>mariam vel secundarium. Primarium principium est natura divina τοῦν 
+      <lb ed="#H" n="46"/>λόγs, secundarium principium est natura humana subsistens in divina 
+      <lb ed="#H" n="47"/>&amp; ab ea principium habens essentiae, potentiae, &amp; operationum omni 
+      <lb ed="#H" n="48"/>um. Natura divina igitur est formale principium divinarum 
+      opera<lb ed="#H" n="49" break="no"/>ctim, non divisim, incofuse, inseparabiliter. Sunt autem opera 
+      Media<lb ed="#H" n="50" break="no"/>tionum: humana, est formale principium humanarum operationum 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2638">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Pauli non est abstracta, significans solam naturam humanam, sed  
+      <lb ed="#H" n="52"/>concreta denotans personam. Deinde vox illa hominis non est 
+      restri<lb ed="#H" n="53" break="no"/>ctiva in enunciatione Pauli, ut manifestum fit, ubi partes 
+      enunciatio<lb ed="#H" n="54" break="no"/>nis in ordinemrediguntur, nempe, Homo Iesus Christus est unicus 
+      Me<lb ed="#H" n="55" break="no"/>liator Dei &amp; hominum: in qua enunciatione homo non magis est 
+      termi<lb ed="#H" n="56" break="no"/>nus restrictivus, quam Deus in hac enunciatione, Deus suo sanguine. 
+      <lb ed="#H" n="57"/>redemt Ecclesiam. Quod autem homo in enunciatione Pauli non sit. 
+      <lb ed="#H" n="58"/>perminus restrictivus, patet inde, quia est subjectum enunciationis ac 
+      <lb ed="#H" n="59"/>persona denique est principium operationum communium 
+      conjun<lb ed="#H" n="60" break="no"/>toris alia divinae, alia humanae, alia communis operationis qua 
+      Media<lb ed="#H" n="61" break="no"/>tor est; opera enim multiplicantur ad multiplicationem principii 
+      for<lb ed="#H" n="62" break="no"/>malis. Proinde sic refellimus Papistarum opinionem. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2669">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Si Christi Mediatoris qua est Mediator, plurimae sunt divinae 
+      ope<lb ed="#H" n="64" break="no"/>rationes: tum Christus non est Mediator solum secundum humanam 
+      <lb ed="#H" n="65"/>naturam. Antecedens verum est: Ergo &amp; consequens. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2680">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Connexi consequentia est necessaria: quia divinarum operationum 
+      <lb ed="#H" n="67"/>formale principium non est natura humana Christi, sed divina: 
+      divi<lb ed="#H" n="68" break="no"/>nas operationes nemo potest facere nisi Deus formali principio, id est, 
+      <lb ed="#H" n="69"/>Deitate sua: &amp; ut signanter dicatur, Nullius diuinae operationis 
+      prin<lb ed="#H" n="70" break="no"/>cipium formale est natura humana Christ. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2696">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Assumptionem probamus inductione earum ipsarum operationum 
+      <lb ed="#H" n="72"/>quas Bellarminus Christo ut Mediatori tribuit, quae sunt, discernere. 
+      <lb ed="#H" n="73"/>&amp; iudicare causam, tanquam arbitrum: referre pactum a Deo initum 
+      <lb ed="#H" n="74"/>cum hominibus &amp; conditiones pacti, tanquam internuncium: intercede 
+      <lb ed="#H" n="75"/>re apud Deum iusse &amp; sufficienter, tanquam advocatum: solvere pro 
+      no<lb ed="#H" n="76" break="no"/>bis &amp; satisfacere, redimere nos &amp; reconciliare Deo: quibus adde, regnar  
+      <lb ed="#H" n="77"/>ad salutem fidelium eosque salvos facere, &amp;c. Eaque prosyllogistice sic 
+      pro<lb ed="#H" n="78" break="no"/>ponimus 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2718">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>I. Esse arbitrum inter Deum &amp; homines, &amp; iudicare sic fieri posse 
+      <lb ed="#H" n="80"/>pacem, si Deus primum ignosceret &amp; homo deinceps in fide 
+      perma<lb ed="#H" n="81" break="no"/>neret, est operatio Mediatoris: At haec eadem operatio Christi est 
+      di<lb ed="#H" n="82" break="no"/>nina. Nam arbitrium inter Deum &amp; homines supra humanitatem 
+      <lb ed="#H" n="83"/>est: idem ab initio mundi a Christo factum, non demum ab incarna. 
+      <lb ed="#H" n="84"/>to; quamvis ab incarnato Christo secundum humanitatem 
+      approba<lb ed="#H" n="85" break="no"/>tum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2739">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>II. Deinde esse internuncium federis gratiae inter Deum &amp; 
+      homi<lb ed="#H" n="87" break="no"/>nes est operatio Mediatoris: At esse internuncium federis gratiae 
+      inter<lb ed="#H" n="88" break="no"/>Deum &amp; homines est operatio principaliter Deitatis Christi, 
+      instru<lb ed="#H" n="89" break="no"/>mentaliter humanitatis Christi. Id probamus hoc epilogismo: Nemo, 
+      <lb ed="#H" n="90"/>primus &amp; summus internucius rerum divinarum ac proinde &amp; federis 
+      gu<lb ed="#H" n="91" break="no"/>tiae esse potest, nisi Deus per Deitate sua: Christus aute est primus &amp; 
+      Su<lb ed="#H" n="92" break="no"/>mus internuncius rerum divinarum ac proinde &amp; federis gratiae. Chri 
+      <lb ed="#H" n="93"/>stus ergo per Deitatem suam, velut principium formale est 
+      principa<lb ed="#H" n="94" break="no"/>liter rerum divinarum atque &amp; sic federia gratiae internuncius. Dei 
+      <lb ed="#H" n="95"/>monstratur maior propositio epilogismi ipso ordine rerum divina 
+      <lb ed="#H" n="96"/>rum &amp; natura Dei. Nam quemcunquo alium comminiscamur 
+      inte<lb ed="#H" n="97" break="no"/>nuncium, tandem ad Deum ipsum veniamus necesse est, eumque re 
+      <lb ed="#H" n="98"/>rum suarum agnoscamus interpretem, quod ipse que que 
+      cIstoses<lb ed="#H" n="99" break="no"/>uce naturae vidit libro primo Hetaphysicorum, ubi docet, scientia. 
+      <lb ed="#H" n="100"/>divinae scientem esse neminem nisi Deum, aut divinum hominem 
+      <!--cod-MkL9py-0460.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="101"/>id est, qui supernaturali vi &amp; modo sciens effectus est. Verha 
+      Aristote<lb ed="#H" n="102" break="no"/>lis ex versione Argyropili ista sunt: Neque tali scuntiam henorabilio. 
+      <lb ed="#H" n="103"/>rem ullam aliam putare oportet: eam enim honorabilissimam esse patet: 
+      <lb ed="#H" n="104"/>quae divinissima est. At haec sola dupliciter talis est: ea numque divina es 
+      <lb ed="#H" n="105"/>maxime, quam maxime Deus habet, &amp; ea rursus quae divinarum est 
+      <lb ed="#H" n="106"/>rerum, sola autem haec utramque conditionem hanc subiit; nam &amp; Deus 
+      <lb ed="#H" n="107"/>omnibus causa principium mve quoddam esse videtur, &amp; talen scentiam 
+      <lb ed="#H" n="108"/>aut solus aut maxime Deus habet: Omnes igitur magis haec necessaria 
+      <lb ed="#H" n="109"/>sunt, praestabilior vero nulla. Hi LARIUS quinto libro, de Trinitate  
+      <lb ed="#H" n="110"/>pagina septuagesima sic dicit: Non potest Deus nisi per Deum intelligi 
+      <lb ed="#H" n="111"/>Et mox: A Deo discendum est, quid de Deo intelligendum sit, quia non 
+      <lb ed="#H" n="112"/>nisi se autore cognoscitur: 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2807">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Assumtio epilogismi e Scripturis Sacris liquet, Joh 1. v. 18 dicitur 
+      <lb ed="#H" n="114"/>Deum nemo vidit unquam: Vnigenitus ille Filius qui es in sinu Patris, 
+      <lb ed="#H" n="115"/>ille exposuit. Et c. 3. v. 13. Nulb adscedit in caelum, nisi qui desced: ? caelo, 
+      Fi<lb ed="#H" n="116" break="no"/>lius hominis qui est in caelo, id est, Nemo primus &amp; summus est 
+      inter<lb ed="#H" n="117" break="no"/>i 
+      <lb ed="#H" n="118"/>Dei, qua Deus est: nemo mysteria caelestia penitus recognoscit &amp; 
+      ea<lb ed="#H" n="119" break="no"/>tanquam in numerato habet singula, nisi qui ea de caelo allata 
+      expo<lb ed="#H" n="120" break="no"/>suit. Filius hominis qui est in caelo, id est, cui praesentissima est rerum 
+      <lb ed="#H" n="121"/>6 
+      <lb ed="#H" n="122"/>terra ages versaretur in caelis &amp; nihil non in caelis cognosceret. Hoc 
+      si<lb ed="#H" n="123" break="no"/>explicatur a Johanne Baptista eodem cap. v. 31. 32. Qui superne venit 
+      <lb ed="#H" n="124"/>supra omnes est: qui e terra est, terrenus est, &amp; terrena loquitur: qui e caelo 
+      <lb ed="#H" n="125"/>venit, supra omnes est. Et quod vidit &amp; audivit, hoc tistatur. Non 
+      po<lb ed="#H" n="126" break="no"/>I 
+      <lb ed="#H" n="127"/>s 
+      <lb ed="#H" n="128"/>ctus esset; &amp; humanitati suae revelavit ex quo eam assumsit. De caetero 
+      <lb ed="#H" n="129"/>in humanitate, cum humanitate &amp; per humanitatem suam nunc est 
+      <lb ed="#H" n="130"/>internuncius, non omisso principio formali, nempe Deitate, ad opus 
+      <lb ed="#H" n="131"/>internuncii, sed assumto principio formali humanitatis suae, factus 
+      in<lb ed="#H" n="132" break="no"/>ternuncius secundum rationem suam utramque 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2855">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>III. Juste &amp; sufficienter intercedere pro peccatoribus apud Deum; 
+      <lb ed="#H" n="134"/>est opus Mediatoris. At haec operatio est divina, quia supernaturalis 
+      <lb ed="#H" n="135"/>ad quam praestandam ne tota quidem natura, ut natura est, ergo nec 
+      <lb ed="#H" n="136"/>humana Christi natura sola sufficiens est; alioquin Mediatorem 
+      suf<lb ed="#H" n="137" break="no"/>fecisset esse iustum hominem 
+      <lb ed="#H" n="138"/>IV. Satisfactionem praestare pro nobis quae constare coram Deo. 
+      <lb ed="#H" n="139"/>possit, redimere nos &amp; reconciliare nos Deo, est operatio Mediatoris. 
+      <lb ed="#H" n="140"/>At haec etiam est divina, sicut dicitur Actor 20. vers. 28. Deus suo 
+      pro<lb ed="#H" n="141" break="no"/>prio sanguine acquisivit Ecclesiam? 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2879">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>V. Regnare ad salutem fidelium eosque salvos facere est operatio 
+      <lb ed="#H" n="143"/>Mediatoris: hujus autem operationis primum principium non potest. 
+      <lb ed="#H" n="144"/>esse humanitas, sed necessario est Deitas Christi, sicut dicitur Jesa. 35. 
+      <lb ed="#H" n="145"/>4. Ecce Deus vester, ultio advenit, retributio Dei, ipse advenit servatur 
+      <lb ed="#H" n="146"/>rus vos. Hosc. 1. vers. 7. Salvabo vos per Iehovam Deum ipsorum 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2895">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Ergo Christi Mediatoris quam Mediator est, operationes aliquae 
+      <lb ed="#H" n="148"/>sunt divinae. Quod si verum est, ut certe verissimum est, sequitur 
+      Chri<lb ed="#H" n="149" break="no"/>stum esse Mediatorem per operationem non tantum secundum 
+      hu<lb ed="#H" n="150" break="no"/>manam naturam 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2908">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>Refutanda jam sunt argumenta Papistarum, quibus opinionem 
+      <lb ed="#H" n="152"/>suam stabilire conantur. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2918">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>I. Paulus Apostolus dicit 1. Timoth. 2. v. 5. Unus Deus, unus &amp; 
+      Me<lb ed="#H" n="154" break="no"/>di. 
+      <lb ed="#H" n="155"/>Fto 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2929">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>RESP. Plus colligitur quam ferat antecedes: nam vox hominis in dicto 
+      <lb ed="#H" n="157"/>P 
+      <lb ed="#H" n="158"/>σν¬ 
+      <lb ed="#H" n="159"/>ct 
+      <lb ed="#H" n="160"/>ni 
+      <lb ed="#H" n="161"/> 
+               <lb ed="#H" n="162"/>ni 
+      <lb ed="#H" n="163"/>
+      ve<lb ed="#H" n="164" break="no"/>te 
+      <lb ed="#H" n="165"/>quod restringendum adduntur nomina Iesus Christus, ut sciamus non 
+      <lb ed="#H" n="166"/>quemlibet hominem quem sibi quispiam erronea opinione pro 
+      pa<lb ed="#H" n="167" break="no"/>o 
+      <lb ed="#H" n="168"/>munc hominen solum qui dicitur Jesus Christus: sic ut Spixitus Sanctus 
+      <lb ed="#H" n="169"/>nm 
+      <lb ed="#H" n="170"/>si 
+      <lb ed="#H" n="171"/>I 
+      <lb ed="#H" n="172"/>qui in hoc homine non acquiescunt solo, cant sane &amp; certo suo periculo 
+      <lb ed="#H" n="173"/>meliores sibi quaerant mediatores Si Paulus Apostolus dixisset, unus 
+      <lb ed="#H" n="174"/>est Mediator Dei &amp; hominum, lesus Chrisius homo; tum nomen 
+      homi<lb ed="#H" n="175"/> 
+               <lb ed="#H" n="176"/>Sed quia nomen homo, praeponit nominibus, Iesus Christus, 
+      restrictio<lb ed="#H" n="177" break="no"/>I 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2981">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>rimendam naturam secundum quam Christus est Mediator. Quarte 
+      <lb ed="#H" n="179"/>gitur Paulus dicit, hominem Jesum Christum esse Mediatorem Dei, 
+      <lb ed="#H" n="180"/>&amp; hominum? Hanc ob causam ut confirmet, pro omnibus 
+      homini<lb ed="#H" n="181" break="no"/>bus esse faciendas preces, postulationes &amp; gratiarum actiones ad Dei. 
+      <lb ed="#H" n="182"/>um. Argumentis enini his ord ne utitur? 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e2997">
+               <lb ed="#H" n="183"/>
+               <pc type="indent"/>I. Quia pro omnibus hominibus jubet Deus orare. 
+      <lb ed="#H" n="184"/>II. Quia omnes homines Deus vult servari &amp; ad agnitionem 
+      ve<lb ed="#H" n="185" break="no"/>I 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3008">
+               <lb ed="#H" n="186"/>
+               <pc type="indent"/>III. Quia omnium hominum est unus Deus. 
+      <lb ed="#H" n="187"/>IV. Quia omnium hominum est unus Mediator, homo Jesus 
+      <lb ed="#H" n="188"/>Christus, ac proinde qui possit hominum infirmitatibus 
+      compati<lb ed="#H" n="189"/>&amp; homines pro hominibus orantes exaud at Quod denique hom, 
+      <lb ed="#H" n="190"/>non sit hoc loco terminus restrictivus, satis monstrat LEO primus, 
+      <lb ed="#H" n="191"/>Episcopus Romanus, epistolam ad Julianum Episcopum Coensem, 
+      <lb ed="#H" n="192"/>Conciliorum primo tomo, pagina septingi ntes. trigesima nonam; 
+      <!--cod-MkL9py-0461.xml-->
+      <pb ed="#H" n="434"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>ibi ait: Non esset Dei hominumque Mediator, nisi idem Deus, idemque 
+      A<lb ed="#H" n="2" break="no"/>homo in utroque &amp; unus esset &amp; verus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3039">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Instant Pagistae: Augusticum notasse, nomen hominis hic poni restra 
+      <lb ed="#H" n="4"/>ctionis gratia, libro sicur do, de peccato originali, capite vigesimooctavo &amp; 
+      <lb ed="#H" n="5"/>Sermons 11. de verbis Apostola 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3051">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>RESP. Augustinus non stabilit sententiam Papistarum, ut 
+      loca<lb ed="#H" n="7" break="no"/>ipsa recte considerata ostendunt. Septimo tomo, libro secundo de 
+      <lb ed="#H" n="8"/>peccato originali, capite vigesimooctato sic loquitur: Non autem 
+      pe<lb ed="#H" n="9" break="no"/>hoc Mediater est, quod aequalis est Patri: per hoc enim quantum Pater. 
+      <lb ed="#H" n="10"/>tantum &amp; ipse distat a nobis. Et quomodo erit medietas, ubi eadem ipsa 
+      <lb ed="#H" n="11"/>distantia est? Ideo Apostolus non ait, unus Mediator Dei &amp; hominum 
+      <lb ed="#H" n="12"/>Christus, sed homo Christus Iesus. Per hoc ergo Mediator, per quod homo, 
+      <lb ed="#H" n="13"/>inferior Patre, per quod nobis propinquior: superior nobis, per quod 
+      Patri<lb ed="#H" n="14" break="no"/>propinquier. Quod apert:us ita dicitur, Inferior Patre, quia in forme 
+      <lb ed="#H" n="15"/>servi: superior nobis, quia sine labe peccati. Haec omnia &amp; nos religiose 
+      <lb ed="#H" n="16"/>credimus atque confitemur. Non per hoc Christus Mediator est, quos 
+      <lb ed="#H" n="17"/>aequalis est Patri, id est, quatenus est aequalis Patri: nam Christus non 
+      <lb ed="#H" n="18"/>est Mediator secundum naturam divinam absolute consideratam 
+      <lb ed="#H" n="19"/>quatenus ea communis est Patri &amp; Filio, unde &amp; aequalitas persona. 
+      <lb ed="#H" n="20"/>tum Patris &amp; Filii: nec secundum personam divinam, quatenus ea 
+      <lb ed="#H" n="21"/>est aequalis Patri: sed secundum naturam divina considerata in Filic. 
+      <lb ed="#H" n="22"/>κατ εικονημιαι, id est, secundum dispensationem illam voluntatiam &amp; 
+      <lb ed="#H" n="23"/>gratiosam, qua qui natura erat idem cum Patre &amp; persona aequalis 
+      Pa<lb ed="#H" n="24" break="no"/>tri, dignatus est sese exinanire &amp; homo fieri. Proinde est Mediato 
+      <lb ed="#H" n="25"/>non quatenus est Deus solum, nec quatenus est homo solum, sed 
+      qua<lb ed="#H" n="26" break="no"/>tenus est Deus &amp; homo in una persona, hoc enim ostendit ipsa Jesus 
+      <lb ed="#H" n="27"/>Christi appellatio, addita nomini hominis. Per hoc ergo Midiator 
+      <lb ed="#H" n="28"/>per quod homo, id est, quod sit θεαυυρωπος, Deus homo factus. 
+      Nisie<lb ed="#H" n="29" break="no"/>nim Filius Dei esset homo factus, Mediator inter Deum &amp; ho¬ O 
+      <lb ed="#H" n="30"/>minem esse non potuisset: quia ad opera Mediatoris perficienda 
+      u<lb ed="#H" n="31" break="no"/>triusque naturae actio requirebatur, &amp; ex substantiali mediatione fluunt,  
+      <lb ed="#H" n="32"/>operationes Mediatoriae. Nisi homo esset factus, legi subjectus 
+      fieri<lb ed="#H" n="33" break="no"/>pati, crucifigi, mori, sanguinem pro nobs effundere atque ita pretium 
+      <lb ed="#H" n="34"/>redemtionis dare pro nonis non potuisset. Homo autem factus, 
+      infe<lb ed="#H" n="35" break="no"/>rior est Patre, nimirum qua Deus, non natura divina, sed voluntaria 
+      sui<lb ed="#H" n="36" break="no"/>exinanitioe qua est in forma servi; qua homo, natura: uperior est nobis 
+      <lb ed="#H" n="37"/>nimirum qua Deus, natura divina: quam homo, puritate naturae 
+      <lb ed="#H" n="38"/>humanae ut hic notat Augustinus, nec puritate solum sed etiam officio 
+      <lb ed="#H" n="39"/>Deconomico &amp; praerogativis ad illud pertinentibus. Summa: quia 
+      <lb ed="#H" n="40"/>Sermo ille caro factus est ratione efficii Mediatorii: ideo Paulus 
+      di<lb ed="#H" n="41" break="no"/>Cunum esse Mediatorem Dei &amp; hominum, hominem Jesum 
+      Chri<lb ed="#H" n="42" break="no"/>stum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3136">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Idem Augustinus decimo tomo, Sermone vndecimo de verbis 
+      <lb ed="#H" n="44"/>Apostoli ait: Vnus Mediator Dei &amp; hominum, Non ait, Christus 
+      le<lb ed="#H" n="45" break="no"/>sus, ne tu putares, secundum Verbum dictum, sed addidit. homo Media; 
+      <lb ed="#H" n="46"/>tor Dei &amp; hominum, homo Christus Iejus. Quid est Mediator? 
+      Pe<lb ed="#H" n="47" break="no"/>quem coniungeremur, per quem reconciliaremur, quia peccatis propriis  
+      <lb ed="#H" n="48"/>separati iacebamus, in morte eramus, prorsus perieramus. Non erat 
+      <lb ed="#H" n="49"/>Christus homo quando creatus est homo; ne periret homo, ille factus est 
+      <lb ed="#H" n="50"/>homo. Sententia est: Christus non est Mediator, quatenus est 
+      Ver<lb ed="#H" n="51" break="no"/>bum, id est, quatenus est Sermo sine carne, quemadmodum sine carne 
+      <lb ed="#H" n="52"/>fuit, quum Adamum primum hominem crearet: tum enim Christus 
+      <lb ed="#H" n="53"/>seu Sermo nondum erat homo, &amp; cum Sermo dicitur absolute, non 
+      <lb ed="#H" n="54"/>semper caro simul intelligitur, quia Sermo non natura habuit 
+      car<lb ed="#H" n="55" break="no"/>nem, sed voluntate assumsit eam: proinde est Mediator, quatenus est 
+      <lb ed="#H" n="56"/>homo factus quia non est homo factus nisi madiationis respectu. 
+      Ea<lb ed="#H" n="57" break="no"/>dem est nostra sententia. Christus non est Mediator secundum 
+      natu<lb ed="#H" n="58" break="no"/>tam divinam absolute considerata, hoc est, quatenus est Verbum sint 
+      <lb ed="#H" n="59"/>assumta carne, sed εικονομιϰώς consideratum, id est, quatenus Verbum 
+      <lb ed="#H" n="60"/>caro factum est voluntatia illa oeconomia nobisque hominibus tan 
+      <lb ed="#H" n="61"/>salutari. Non esse autem excludendam Deitatem Christi, quum 
+      di<lb ed="#H" n="62" break="no"/>citur Mediator homo Jesus Christus, ostendit Ambrosius in hunc 
+      lo<lb ed="#H" n="63" break="no"/>cum: Filius Dei, sinquit jussumta carne homo natus est, ut Mediator Dei 
+      <lb ed="#H" n="64"/>&amp; hominum homo esset Christus lejus; id est, non sine diuvinitate, quia in Deo. 
+      <lb ed="#H" n="65"/>homo erat &amp; Deus in homine: &amp; ut ex utraque esset Mediator, &amp; 
+      <lb ed="#H" n="66"/>utrumque reconciliaret, in se primum hoc fecit. Declarat idem 
+      Chry<lb ed="#H" n="67" break="no"/>sostomus in hunc locum Pauli multis verbis 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3195">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Instant rursus Papaei: Apostolus distinguit Mediatorem a Deo: Vnus 
+      <lb ed="#H" n="69"/>inquit, Deus, unus &amp; Mediator Dei &amp; hominum: Ergo Christus non est. 
+      <lb ed="#H" n="70"/>Mediator secundum naruram divinam, sed tantum secundum 
+      huma<lb ed="#H" n="71" break="no"/>nam, secundum quam Christus a Deo distinguitur. RESP. Syllogit 
+      <lb ed="#H" n="72"/>mus talis fuerit: Secundum quam naturam Christus distinguitur a Deo. 
+      <lb ed="#H" n="73"/>secundum illam naturam est Mediator Dei &amp; hominum. At secundum 
+      <lb ed="#H" n="74"/>humenam tantum naturam Christus distinguitur a Deo: Ergo 
+      secun<lb ed="#H" n="75" break="no"/>di illa tantum est Modiator. Assumtio est falsa: nam &amp; secundum naturam 
+      <lb ed="#H" n="76"/>humana distinguitur a Deo, &amp; secundum personam distinguitur a 
+      Pa<lb ed="#H" n="77" break="no"/>tre apud quem proprie est Mediator, &amp; ceconomia officii 
+      distingui<lb ed="#H" n="78" break="no"/>tur ab essentia Dei, ut Mediator est. Petsona Christi a persona Dei 
+      <lb ed="#H" n="79"/>Patris distinguitur secundum hypostaseos naturam realiter: 
+      secun<lb ed="#H" n="80" break="no"/>dum officium vero distinguitur a Deo non per naturam, sed per 
+      vo<lb ed="#H" n="81" break="no"/>coutariam oeconomiam seu dispensationem gratiae. Itaque eadem 
+      <lb ed="#H" n="82"/>Persona quae secundum naturam Deus est aequalis Patri, secundum 
+      <lb ed="#H" n="83"/>biuntatiam dispensationem &amp; Deo &amp; seipsa minor est: &amp; cum dici 
+      <lb ed="#H" n="84"/>i minor Patre secundum humanitatem, de persona divina dicitur,  
+      <lb ed="#H" n="85"/>nus in sese ex mniuit seipsam voluntarie, &amp; in humanitate 
+      assumta<lb ed="#H" n="86" break="no"/>lucta est minor naturaliter. Proinde Apostolus distinguit hoc in 
+      loce<lb ed="#H" n="87" break="no"/>c. dediatorem ratione personae a Deo, nempe Patre, non autem a tota 
+      <lb ed="#H" n="88"/>i imitate: alic qui sequeretur quaternitas personarum, si a tota Trini 
+      <lb ed="#H" n="89"/>aate Med:ator distingueretur.  
+      <lb ed="#H" n="90"/>Replicant: Primo Arianismum hoc confirmat, si unus Deus de Patre 
+      <!--cod-MkL9py-0461.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>intelligatur, quia Ariani hoc cupiunt, ut ubicunque legitur uhus Deus 
+      <lb ed="#H" n="92"/>aut absolute Deus, solus Pater intelligatur. Secundo, Patres per unum 
+      <lb ed="#H" n="93"/>Deum in hoc Pauli loco intelligunt totam Trinitatem, non solum 
+      Pa<lb ed="#H" n="94" break="no"/>trem; Ratio est, quia non solus Pater offensus &amp; reconciliandus fuerat.  
+      <lb ed="#H" n="95"/>sed etiam Filius &amp; Spiritus Sanstus: Tertio, non sequitur quaternitas, 
+      <lb ed="#H" n="96"/>quia Christus idem propter duas naturas &amp; numeratur inter 
+      per<lb ed="#H" n="97" break="no"/>sonas Trinitatis, cui debetur satisfactio, &amp; simul ipse est qui satisfacit. 
+      <lb ed="#H" n="98"/>ipse enim, ut homo est, Mediator est ad seipsum, ut Deus est, 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3271">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>RESP. Ad primum: Arianismum non confirmat qui nomen 
+      <lb ed="#H" n="100"/>E Dei unius seu nomen Dei absolute positum, nunc de essentia Dei tri¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3280">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>bus personis communi, nunc de singulis personis seorsim, nunc de 
+      <lb ed="#H" n="102"/>duabus personis accipit, ac proinde interdum de Patre solo, pro ut  
+      <lb ed="#H" n="103"/>circumstantiae cuiusque loci &amp; veritas postulant. Qui autem ubique 
+      <lb ed="#H" n="104"/>homen Dei unius, seu nomen Dei absolute positum, de solo Patre ac 
+      <lb ed="#H" n="105"/>cipiendum contendunt; illi Arianismum stabiliunt. Papistae igitur 
+      <lb ed="#H" n="106"/>sic argumentantes; Evangelici in hoc loco nomen Dei de solo Patre 
+      ac<lb ed="#H" n="107" break="no"/>cipiunt; Ergo Arianismum confirmant; ex puris particularibus 
+      con<lb ed="#H" n="108" break="no"/>ludunt contra leges bonae consequentiae 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3302">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Ad secundam: Non omnes Patres in hoc Pauli loco per unum Dei in 
+      <lb ed="#H" n="110"/>telligunt totam S. Trinitatem, sed Patrem, ut Chrysostomus, 
+      Oecu<lb ed="#H" n="111" break="no"/>mentus, Theophylactus, Ambrosius, Theodoretus. Sic enim 
+      Chrysosto<lb ed="#H" n="112" break="no"/>mus explicans hunc locum homilia septima in epistolam primam 
+      a<lb ed="#H" n="113" break="no"/>Timotheum: Vnus enim Deus, non plurimi, ut isti(nempe Gentiles. 
+      <lb ed="#H" n="114"/>putant, qui omnes salvos fieri vult, misitque Mediatorem Filium suum. 
+      <lb ed="#H" n="115"/>Quid ergo Filius? nonne Deus est? Nulli profecto dubium. Quomodo 
+      <lb ed="#H" n="116"/>igitur, inquit, anus? Ad distinctionem scilicet idolorum, non ad Filium 
+      <lb ed="#H" n="117"/>retulit, &amp;c. Similiter Oecumenius: Istud autem, unus Deus, non ad 
+      di<lb ed="#H" n="118" break="no"/>stinctionem ponitur Filij aut Spiritus Sancti, absit: sed eorum qui non 
+      <lb ed="#H" n="119"/>unt, dicuntur aute dii. Et nunc: Quaeritur aute cur Spiritus non meminerit? 
+      <lb ed="#H" n="120"/>Quam profecto quaestionem Oecumenius non fuisset adiecturus, 
+      <lb ed="#H" n="121"/>per voces, unus Deus, a Paulo omnes tres personas intellectas 
+      statuis<lb ed="#H" n="122" break="no"/>set. Eadem est sententia Theophylacti. Ambrosius in commentariis in 
+      <lb ed="#H" n="123"/>munc locum ait: Dei &amp; Christi unam significat esse uoluntatem in 
+      <lb ed="#H" n="124"/>salvandis hominibus: Unde Deum Patrem, quia ab ipso est omnis 
+      au<lb ed="#H" n="125" break="no"/>tor: tas, unum esse fatetur: &amp; unum Mediatorem Dei &amp; hominum 
+      <lb ed="#H" n="126"/>Christum Iesum. Missus enim a Patre factus arbiter reconciliavit Deum 
+      <lb ed="#H" n="127"/>&amp; homines reformando eos ad agnitionem eius. Ipse etiam septime 
+      <lb ed="#H" n="128"/>omo, libro secundo de peccato originali, capite vigesimo octavo 
+      per<lb ed="#H" n="129" break="no"/>unum Deum hoc Pauli loco intelligit Patrem: verba paulo ante sunt  
+      <lb ed="#H" n="130"/>recitata, quae Bellarminus studio dissimulavit. Quanquam non 
+      diffi<lb ed="#H" n="131" break="no"/>pemur, alibi Augustinum haec verba de tota S. Trinitate intellexisset 
+      <lb ed="#H" n="132"/>sed alii Patres propriam atque primariam loci hujus 
+      interpretatio<lb ed="#H" n="133" break="no"/>em de Patre esse docuerunt propter oppositionem personae Christi; 
+      <lb ed="#H" n="134"/>secundariam vero &amp; consectariam de Trinitate, quia Pater, Filius &amp; 
+      <lb ed="#H" n="135"/>Spiritus Sanctus sunt unus &amp; indivisus Deus 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3366">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>Quid ergo? num Christus est Mediator apud Patrem tantum? 
+      an<lb ed="#H" n="137" break="no"/>non est Mediator apud totam S. Trinitatem ac proinde etiam apud se &amp; 
+      <lb ed="#H" n="138"/>Spiritum Sanctum? RESP. Actus mediationis Christi inter duas, 
+      <lb ed="#H" n="139"/>partes intervenit, nempe inter Deum &amp; electos: &amp; ab utraque parte 
+      pro<lb ed="#H" n="140" break="no"/>aurat quae opus est. A Deo quidem sive (ut vulgo loquuntur) a partet 
+      <lb ed="#H" n="141"/>Dei procurat τα πεος ἡμῶς, quaecunque nobiscum vel apud nos 
+      perfi<lb ed="#H" n="142" break="no"/>cienda sunt: a nobis vero sive ex nostra parte, τα πρὼς διον, 
+      quaecun<lb ed="#H" n="143" break="no"/>que cum Deo, aut apud Deum oportet perfici. Nam quod Deum 
+      <lb ed="#H" n="144"/>attinet, communicavit per Mediatorem nobiscum omnia quae ad 
+      lu<lb ed="#H" n="145" break="no"/>em veritatis &amp; perfectionem justitiae ac proinde ad vitam aeternam. 
+      <lb ed="#H" n="146"/>pertinent: quod significatum fuit per Urim &amp; Tummim, id est, 
+      lumi<lb ed="#H" n="147" break="no"/>na &amp; perfectiones, quae in pectorali latentia Sacerdos summus 
+      gesta<lb ed="#H" n="148" break="no"/>bat, ex quibus Deus responsa dabat Ecclesiae. Quod vero nos attinet 
+      <lb ed="#H" n="149"/>pro nobis intercessit &amp; intercedit Christus apud Deum per 
+      satisfa<lb ed="#H" n="150" break="no"/>ctionem sufficientem loco nostro praestitam, cujus vis &amp; efficacia est 
+      <lb ed="#H" n="151"/>aeterna, &amp; sistit Ecclesiam sine labe &amp; macula coram Deo &amp; 
+      Pa<lb ed="#H" n="152" break="no"/>tre nostro, ablutam suo sanguine, &amp; indutam veste justitiae sus 
+      <lb ed="#H" n="153"/>sempiternae, purgatamque per Spiritum Sanctum, quod in Sum 
+      <lb ed="#H" n="154"/>mo Sacerdote significatum fuit in amiculi &amp; pectoralis sacri 
+      gesta<lb ed="#H" n="155" break="no"/>tione, quia inerant amiculo gemmae cum nominibus singularum 
+      <lb ed="#H" n="156"/>tribuum populi Israelitici, quam Ecclesiam typice Sacerdos Summus. 
+      <lb ed="#H" n="157"/>sistebat coram Domino 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3418">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Proprie quidem est Mediator arud Patrem, analogite vero apud se 
+      <lb ed="#H" n="159"/>ipsum: quemadmodum &amp; actus justitiae est proprie ad alterum, cum 
+      <lb ed="#H" n="160"/>quis suum ei tribuit, analogice vero est etiam ad seipsum, quum quis sui 
+      <lb ed="#H" n="161"/>lum sibi tribuit. Christus perfectus est Mediator perfecte utroque 
+      <lb ed="#H" n="162"/>modo. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3434">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>Est enim Christus Mediator etiam apud seipsum, ut Deus est 
+      os<lb ed="#H" n="164" break="no"/>fensus in natura, &amp; apud Spiritum Sanctum. Cyrillus tomo tertio, 
+      <lb ed="#H" n="165"/>libro de recta fide ad Reginam, folio centesimo vicesimo nono, Edit. 
+      <lb ed="#H" n="166"/>Basileens. Catandr. Anno 1528. Sicrificij modum non sicut unus 
+      <lb ed="#H" n="167"/>quidam ex nobis Sacerdotibus adfert serviliter, nihil ipse in hoc 
+      com<lb ed="#H" n="168" break="no"/>mune habens, ut illud suscipiat: sed sibi ipsi conciliat, &amp; per seipsum &amp; in 
+      <lb ed="#H" n="169"/>seipso Patri. Et thesauri libro decimo, cap. nono ait: Quicquid a 
+      Pa<lb ed="#H" n="170" break="no"/>tre ut homo petit, id quoque a seipso ut Deo, &amp; Spiritu Sancto 
+      pe<lb ed="#H" n="171" break="no"/>tit. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3458">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Neque vero est absurdum, offensum esse etiam apud se 
+      Mediato<lb ed="#H" n="173" break="no"/>rem in causa sua, si remittens gratiore de jure suo &amp; posita aut 
+      dissi<lb ed="#H" n="174" break="no"/>mulata offensa, offendentes sibi ipsi reconcilet &amp; aliis simul 
+      of<lb ed="#H" n="175" break="no"/>fensis: ut si rex aliquis &amp; Filius ejus a subditis rebellibus offensi 
+      <lb ed="#H" n="176"/>fuerint, quid ni filius Regis ex communi patris &amp; suo consilio possit in 
+      <lb ed="#H" n="177"/>se suscipere partes Mediatoris, ut subditos non tantum patri suo Regi, 
+      <lb ed="#H" n="178"/>sed etiam sibi, qui non minus ofsensus a subditis fuerat quam pater, res 
+      <lb ed="#H" n="179"/>RXconciliet? Hoc certe fieri solere experientia docet: &amp; in hac ipsa causa. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3480">
+               <lb ed="#H" n="180"/>
+               <pc type="indent"/>de qua jam agimus, factum Christus ipse docet Matthaei 
+      vigesimopri<lb ed="#H" n="181" break="no"/>mo, vers. 33 &amp; sequentibus, maxime ubi dicitur vers. 37. Postrem. 
+      <!--cod-MkL9py-0462.xml-->
+      <pb ed="#H" n="435"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>autem misit ad eos filium suum, dicens, Reverebuntur filium meum 
+      <lb ed="#H" n="2"/>Idem est Marc. 12. 6. Luc 20. 13. Nam quum aequaliter essent 
+      offensi<lb ed="#H" n="3" break="no"/>ab hominibus Pater, Filius &amp; Spiritus Sanctus, communi illorum 
+      <lb ed="#H" n="4"/>consilio missus est Filius qui Mediatoris partes in se suscipiens, ita 
+      ho<lb ed="#H" n="5" break="no"/>mines Patri reconciliavit, ut simul eosdem sibi &amp; Spiritui Sancto res 
+      <lb ed="#H" n="6"/>conciliaverit. Hoc ipsum docet Joh. 3. v.16. Ita Deus dilexit mundum. 
+      <lb ed="#H" n="7"/>ut Filium suum unigenitum dederit, ut quisquis credit in eum non 
+      pere<lb ed="#H" n="8" break="no"/>ar, sed habeat vitam aeternam. Romanor. 8. 3. Quum enim Legis 
+      impo<lb ed="#H" n="9" break="no"/>tentia nihil posset in carne, Deus suo ipsius Filio misso conformato 
+      carni<lb ed="#H" n="10" break="no"/>peccato obnoxiae, idque pro peccato, condemnavit peccatum in carne: 
+      E<lb ed="#H" n="11" break="no"/>vers. 32. Is quidem qui proprio Filio non pepercit, sed pro nobis omnibus. 
+      <lb ed="#H" n="12"/>tradidit eum, qui non etiam cum eo omnia nobis gratificabitur? 2. 
+      Co<lb ed="#H" n="13" break="no"/>rinth. 5. v. 18. 19, 20. Haec autem omnia sunt ex Deo, qui 
+      reconciliavi<lb ed="#H" n="14" break="no"/>nos sibi per Iesum Christum, deditque ministerium reconciliationis: Nem 
+      <lb ed="#H" n="15"/>pe quia Deus erat in Christo mundum reconcilians sibi non imputandi. 
+      <lb ed="#H" n="16"/>eis peccata ipsorum: posuitque in nobis sermonem hunc reconciliationis, 
+      Ita<lb ed="#H" n="17" break="no"/>que nomine Christi legatione fungimur, velut Deo vos precante per nos 
+      <lb ed="#H" n="18"/>oramus Christi nomine, reconciliamini Deo. Christus igitur Mediato 
+      <lb ed="#H" n="19"/>ris munus peregit &amp; sacrificium obtulit ut Deus homo in Oecono 
+      <lb ed="#H" n="20"/>mia seu dispensatione voluntatia gratiae: &amp; sacrificium accepit, ut 
+      <lb ed="#H" n="21"/>Deus offensus in natura 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3541">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Hac de re actum est etiam supra tertio libro, capite nono, fol 229. 
+      <lb ed="#H" n="23"/>&amp; sequenti bus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3551">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Ad tertium: Omnino sequeretur quaternitas personarum in 
+      Dei<lb ed="#H" n="25" break="no"/>tate, si in hoc Pauli loco persona Christi esset opposita tribus personia 
+      <lb ed="#H" n="26"/>Deitatis. Nam si unus Deus, est Pater, Filius &amp; Spiritus Sanctus, 
+      Me<lb ed="#H" n="27" break="no"/>diator vero alius est, &amp; tamen Deus; quatuor personae plane futurae 
+      <lb ed="#H" n="28"/>sunt. At respectu essentiae citra oppositionem personalem, id 
+      mini<lb ed="#H" n="29" break="no"/>me sequitur omnium. Nam Deus unus, est Pater, Filius, &amp; Spiritu 
+      <lb ed="#H" n="30"/>Sanctus unitate essentiae: &amp; unus, id est, una persona est Mediator Dei 
+      <lb ed="#H" n="31"/>&amp; hominum, Christus Jesus, Deus homo natura, Mediator 
+      oecono<lb ed="#H" n="32" break="no"/>mia ac dispositione voluntatis suae 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3575">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Responsionem hanc claudat Chrysost. qui in hoc ipso loco Pauli 
+      <lb ed="#H" n="34"/>explicando docet Mediatorem Dei &amp; hominum oportere esse Deum 
+      <lb ed="#H" n="35"/>&amp; hominem ac proinde Mediatorem secundum utramque naturam. 
+      <lb ed="#H" n="36"/>Verba Chtysostomi sunt homilia septima in primam epistolam ad 
+      <lb ed="#H" n="37"/>Timotheum: Enimvero Mediator utrisque eis debet societate conjungi, 
+      <lb ed="#H" n="38"/>quorum Mediator est. Id quippe Mediatoris est proprium, utrorumque 
+      <lb ed="#H" n="39"/>participem fieri, quorum fuerit Mediator. Quod si unum quidem socies 
+      <lb ed="#H" n="40"/>tate contingat, ab alio vero fuerit separatus, Mediator jam dici non 
+      po<lb ed="#H" n="41" break="no"/>test. Nisi igitur consors sit paternae naturae, mediato profecto non est, 
+      <lb ed="#H" n="42"/>quippe quum a Patris sit substantia separatus. Quemadmodum enim 
+      <lb ed="#H" n="43"/>humanae naturae consortium accepit, quando ad homines venit: ita &amp; a 
+      <lb ed="#H" n="44"/>Dei substantia non abscessit, quoniam a Deo venit. Nam quia duarum 
+      <lb ed="#H" n="45"/>naturarum medius fuit, ambarum oportuit esse participem. 
+      Quemad<lb ed="#H" n="46" break="no"/>modum enim loci cujuslibet medium utramque partem contingat nes 
+      <lb ed="#H" n="47"/>cesse est: ita &amp; naturarum ambarum medium, oportuit 
+      utrasquenatu<lb ed="#H" n="48" break="no"/>ras contingere, atque connectere. Quemadmodum igitur homo factus 
+      <lb ed="#H" n="49"/>est, ita etiam Deus erat. Homo quippe purus mediator nunquam 
+      peni<lb ed="#H" n="50" break="no"/>tus fieret: oportebat enim hujusmodi mediatorem cum Deo colloqui.  
+      <lb ed="#H" n="51"/>Deus item solus Mediator esse non potest, neque enim ipsum suscepissent 
+      <lb ed="#H" n="52"/>hi quorum Mediator accederet. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3623">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Sic responsum est ad primum aergumentum 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3630">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Papistarum. 
+      <lb ed="#H" n="55"/>SECUNDUM est ex testimoniis Patrum, Cyrilli, Chrysostomi, Augu 
+      <lb ed="#H" n="56"/>stini. Sed primo probatio haec sumta est ex alieno principio: nam in 
+      <lb ed="#H" n="57"/>rebus Theologicis solum verbum Dei, in Sacra Scriptura a Prophe 
+      <lb ed="#H" n="58"/>cis &amp; Apostolis traditum, est unicum &amp; genuinum principium 
+      pro<lb ed="#H" n="59" break="no"/>bandi. Deinde Patres allegati, etiamsi eos admitteremus, nostrae 
+      sen<lb ed="#H" n="60" break="no"/>tentiae non repugnant, quia hoc tantum docent, Sermonem non esse 
+      <lb ed="#H" n="61"/>Mediatorem, nempe absque humanitate assumta: quia Sermo fuit sine 
+      <lb ed="#H" n="62"/>carne, quum aeterna sit hypostasis: non est igitur Mediator in 
+      quan<lb ed="#H" n="63" break="no"/>tum Deus &amp; in quantum aequalis Patri, id est, consideratus tantum ut 
+      <lb ed="#H" n="64"/>Deus, quemadmodum ab aeterno fuit usque ad tempus incarnationis: 
+      <lb ed="#H" n="65"/>sed est Mediator quatenus homo factus, quatenus exinanitus &amp; 
+      vo<lb ed="#H" n="66" break="no"/>luntata liberrima inferior Patre factus forma servi assumta, quia u 
+      <lb ed="#H" n="67"/>Mediatoris officium impleret, non tantum Deus, sed etiam homo est 
+      <lb ed="#H" n="68"/>se debuit. Summa, nihil aliud Patres volunt, quam Christum non 
+      es<lb ed="#H" n="69" break="no"/>se Mediatorem quatenus simpliciter Verbum, quatenus simpliciter 
+      <lb ed="#H" n="70"/>Deus est: sed quatenus Verbum oικονομικως exinanitum, quatenus 
+      <lb ed="#H" n="71"/>Deus ho mo factus. Nam inquantum Christus Deus factus est 
+      ho<lb ed="#H" n="72" break="no"/>mo, intantum est Mediator: non inquantum Deus est solum, nam 
+      <lb ed="#H" n="73"/>absque humanitate non esset medius inter Patrem &amp; nos homines. 
+      <lb ed="#H" n="74"/>nec inquantum est homo solum, nam humanitas non est hypostasis 
+      <lb ed="#H" n="75"/>sed tantum natura in persona Filii Dei subsistens, operationes autem 
+      <lb ed="#H" n="76"/>personales, quales sunt reconciliare homines Deo, sufficiens pretium 
+      <lb ed="#H" n="77"/>solvere pro peccatis sunt personae, agente in ea utraque natura quod 
+      <lb ed="#H" n="78"/>suum est. Una est quaelibet operatio θεαυθρικη quae est a supposito seu 
+      <lb ed="#H" n="79"/>persona, a naturis vero tanquam duplici principio formali sunt 
+      actio<lb ed="#H" n="80" break="no"/>nes naturales ad operationem θεαυορικbν perficiendam concurren 
+      <lb ed="#H" n="81"/>tes. Ac proinde Christus est Mediator Dei &amp; hominum, ut θεαγυμω¬ 
+      <lb ed="#H" n="82"/>xos &amp; secundum utramque naturam. Hoc adeo verum est, ut Patres 
+      <lb ed="#H" n="83"/>ex operibus Mediatoriis Christi collegerint duas in ipso esse naturas 
+      <lb ed="#H" n="84"/>divinam &amp; humanam, ipsumque non tantum hominem, sed etiam 
+      <lb ed="#H" n="85"/>verum Deum esse, ut abunde docet Cyrilli Alexandrini liber ad 
+      Re<lb ed="#H" n="86" break="no"/>ginas de recta fide in Christum. En speciment Pnus enim Deus, unus 
+      <lb ed="#H" n="87"/>&amp; Mediator Dei &amp; hominum, homo Christus Iesus, qui dedit seipsum 
+      <lb ed="#H" n="88"/>precium pro omnibus. Ex confesso salutaris est mors Christi, sed si non esset 
+      <lb ed="#H" n="89"/>Deus, quomodo ipse &amp; solus sufficiet ad hoc ut sit preciu? sed sufficit solus 
+      <lb ed="#H" n="90"/>pro omnibus mortuus, quia &amp; super omnes est. Deus igitur est, morte suae 
+      <lb ed="#H" n="91"/>carnis a mundo depellens mortem. 
+      <!--cod-MkL9py-0462.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>TERTIO conantur opinionem suam Papini probare rationibus, 
+      <lb ed="#H" n="93"/>quas ordine bona fide subducemus secundum leges syllogisticas. 
+      Pri<lb ed="#H" n="94" break="no"/>ma ratio: Si Mediator debet esse medius, id est, ditans ab utraque parte 
+      <lb ed="#H" n="95"/>dissidente aliquo modo; Christus autem ut Deus, non distat a Deo ullo 
+      <lb ed="#H" n="96"/>modo, id est, nec natura, nec iustitia, nec ullo alio modo: ab hominibus. 
+      <lb ed="#H" n="97"/>autem distat, ut homo justus: tum non ut Deus, sed ut homo justus 
+      Me<lb ed="#H" n="98" break="no"/>diator est inter Deum &amp; homines peccatores. Omnia quae actecedunt 
+      <lb ed="#H" n="99"/>vera sunt: Ergo &amp; quod sequitur. RESP. Primo Mediatoris definitio  
+      <lb ed="#H" n="100"/>est ambigua: itaque melius sic Mediator definietur: Asediator, est qui 
+      <lb ed="#H" n="101"/>est medius, natura quidem cum utraque parte quae concilianda est, 
+      <lb ed="#H" n="102"/>communicans, sed aliquo tamen modo ab utraque parte distans. Nam 
+      <lb ed="#H" n="103"/>in Mediatore nostro requititur primo ut cum parte utraque ei 
+      conve<lb ed="#H" n="104" break="no"/>niat, sicut Propheta Jesatas ait, quod sit Immanuel, nobiscum Deus, θ
+      e<lb ed="#H" n="105"/>ἄνόρωπος. Quassant fundamentum salutis nostrae, qui convenientiam 
+      <lb ed="#H" n="106"/>Mediatoris cum utraque parte concilianda negant. Secundo 
+      nega<lb ed="#H" n="107" break="no"/>tur. Christum ut Deum non distare a Deo ullo modo, nam distat 
+      ali<lb ed="#H" n="108" break="no"/>quo modo a Deo, qua Deus, nimirum Oeconomia voluntatia, quod  
+      <lb ed="#H" n="109"/>cum esset in forma Dei, ipse Deus &amp; in forma Dei manens exinanivit. 
+      <lb ed="#H" n="110"/>se forma servi assumta: imo a seipso ut Deo absolute considerato 
+      di<lb ed="#H" n="111" break="no"/>stat quodam modo, quatenus exinanivit se, Manens enim Deus, 
+      exi<lb ed="#H" n="112" break="no"/>nanivit se forma servi assumta¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3767">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Replicant: Definitio Mediatoris convenit Christo, ut homo justus est. 
+      <lb ed="#H" n="114"/>non autem ut Deus est. Nam ut homo distat a Deo, ut justus convenit. 
+      <lb ed="#H" n="115"/>cum Deo, &amp; contra, ut homo, convenit cum caetoris hominibus; ut justus 
+      <lb ed="#H" n="116"/>distat ab omnibus hominibus. Omnes enim nascuntur natura filij irae 
+      <lb ed="#H" n="117"/>RESP. Negatur, definitionem Mediatoris convenire Christo, ut 
+      ho<lb ed="#H" n="118" break="no"/>mo est justus, non autem ut Deus est: nam convenit Christo ut est 
+      <lb ed="#H" n="119"/>θε ὀνορωπος: nam natura cum utraque parte conveniens, modo 
+      ab<lb ed="#H" n="120" break="no"/>utraque parte differt. Modus autem est illa εἰκονομια sive dispensatio 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3789">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>ratiosa quam Sermo factus caro atque ita Immanuel, sibi humanas 
+      <lb ed="#H" n="122"/>nostras, &amp; nobis res suas divinas oixeιν, approprians, in uno corpore 
+      <lb ed="#H" n="123"/>nos reconciliavit Deo per crucem. Alioquin respectu naturae, quam 
+      <lb ed="#H" n="124"/>Deus, convenientiam habet cum Deo: qua homo, nobiscum: &amp; 
+      con<lb ed="#H" n="125" break="no"/>tra, qua Deus, distat a nobis: qua homo, a Deo. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3806">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>Secunda ratio: Si Christus est Mediator secundum utramque 
+      natu<lb ed="#H" n="127" break="no"/>ram, vel secundum utramque coniunctim sumtas, vel secundum utram, 
+      <lb ed="#H" n="128"/>que seorsim acceptas. Non secundum utramque simul: Christus enim se 
+      <lb ed="#H" n="129"/>cundum utramque naturam simul sumtam, distat quidem a caeteris 
+      ho<lb ed="#H" n="130" break="no"/>minibus &amp; etiam a Deo Patre &amp; Spiritu Sancto, at non distat a Deo 
+      <lb ed="#H" n="131"/>Filio, nec persona nec natura, &amp; tamen etiam ab illo distare debet, cum 
+      <lb ed="#H" n="132"/>&amp; ipse sit pars offensa, ad cuius placationem Mediatore opus sit. Nec 
+      se<lb ed="#H" n="133" break="no"/>cundum utram que naturam scorsim, quia non secundum divinam 
+      scor<lb ed="#H" n="134" break="no"/>sim acceptam, cum illa sit pars offensa, &amp; secundum illam nihil diste 
+      <lb ed="#H" n="135"/>Christus a Deo. Restat ergo, ut solum secundum humanam sit 
+      Media<lb ed="#H" n="136" break="no"/>tor.  
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3835">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>RESP. Primo negatur prima pars assumtionis: nam nisi Christus 
+      <lb ed="#H" n="138"/>utramque naturam simul haberet &amp; utraque simul ageret, non foret 
+      <lb ed="#H" n="139"/>inter Deum &amp; homines Mediator. Est Mediator ratione unionis 
+      na<lb ed="#H" n="140" break="no"/>turarum: quia ostendit in seipso collatas &amp; unitas divinitatem ac 
+      huma<lb ed="#H" n="141" break="no"/>nitatem, quae secundum naturam valde discretae sunt &amp; magnum 
+      ha<lb ed="#H" n="142" break="no"/>bent interstitium, &amp; coniungit nos per se Deo ac Patri. Nam Deo est 
+      co<lb ed="#H" n="143" break="no"/>gnatus, quandoquide n ex eo est &amp; in eo: sed &amp; nobis quoque cognatus 
+      <lb ed="#H" n="144"/>est, quandoquidem ex nobis est &amp; in nobis. Neque nobis alienus est 
+      se<lb ed="#H" n="145" break="no"/>cundum humanitatem Emmanuel, sed per omnia absque solo peccato 
+      as<lb ed="#H" n="146" break="no"/>similatus, ut ait Cyrillus Alexandrinus primo libro Dialogorum de 
+      <lb ed="#H" n="147"/>Trinitate. Est Mediator ratione operationis Mediatoriae &amp; 
+      Thean<lb ed="#H" n="148" break="no"/>Aricae: agit enim utraque forma cum alterius communione, quod 
+      propri<lb ed="#H" n="149" break="no"/>um est, Verbo scilicet operante quod Verbi est, &amp; carne exsequente quod  
+      <lb ed="#H" n="150"/>Carnis est, ut ait Leo Magnus Romanus Episcopus in laudatissima 
+      il<lb ed="#H" n="151" break="no"/>la ad Flavianum epistola. Deinde quod rationem partis hujus in 
+      as<lb ed="#H" n="152"/> 
+               <lb ed="#H" n="153"/>nec persona, nec natura, sed differt tamen modo seu Oeconomia: quia 
+      <lb ed="#H" n="154"/>dem &amp; peccato hominum offensus est ut Deus &amp; voluntatie praestat 
+      <lb ed="#H" n="155"/>mediationem ut θεαγδρωπος, id est, Deus &amp; homo simul in unitate 
+      <lb ed="#H" n="156"/>personae. Nunquid non ergo distant &amp; differunt, esse Filium Dei &amp; 
+      <lb ed="#H" n="157"/>Deum simpliciter: &amp; esse Filium Dei &amp; hominis, &amp; θεανδρωπον,  
+      <lb ed="#H" n="158"/>num non differt natura simpliciter considerata a seipsa considerat  
+      <lb ed="#H" n="159"/>cατ εικονμιαν illam voluntatiam? Tertio secundum naturam 
+      huma<lb ed="#H" n="160" break="no"/>nam solum, seu ut homo est, non est Christus Mediator suiipsius u 
+      <lb ed="#H" n="161"/>Deus est: nam mediatio est operatio personae: Christus ut homo 
+      so<lb ed="#H" n="162" break="no"/>lum non est persona, sed quiddam naturae nostrae in persona τοῦ λόγι 
+      <lb ed="#H" n="163"/>subsistens: Ergo Christi ut hominis solum non est mediatio. Mediae 
+      <lb ed="#H" n="164"/>tionem esse operationem personae, certissimum est: quia omnis 
+      ope<lb ed="#H" n="165" break="no"/>ratio Christi Theandrica est operatio personae: mediatio autem 
+      <lb ed="#H" n="166"/>est operatio Christi Theandrica. Imo ut recte Nicolaus Lyranus in 
+      <lb ed="#H" n="167"/>Jesaiae 42. caput ait, Humanitas Christi est instrumentum Divinitati 
+      <lb ed="#H" n="168"/>coniunctum: &amp; ideo non movetur ad aliquid, nisi secundum motum 
+      di<lb ed="#H" n="169" break="no"/>vinitatis. Quae ratio est corporis nostri ad animam in nobis, eadem 
+      <lb ed="#H" n="170"/>est humanae naturae ad Deitatem in persona Christi. Corpus autem 
+      <lb ed="#H" n="171"/>nostrum est instrumentum animae, &amp; nihil agit, nisi qua agitur ab 
+      ani<lb ed="#H" n="172" break="no"/>ma ut principio suo. Ergo &amp; humana natura in Christo est 
+      instru<lb ed="#H" n="173" break="no"/>mentum Deitatis cui est unita, &amp; nihil agit nisi qua agitur a Deitate 
+      <lb ed="#H" n="174"/>tanquam ab agente principali suo. Si nihil, profecto nec divinum 
+      il<lb ed="#H" n="175" break="no"/>lud &amp; salutare mediationis opus, opus creatione majus 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3924">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Instat. Si Christus etiam ut Deus est, Mediator est sui ipsius ut Deus 
+      <lb ed="#H" n="177"/>est: tum apertissima contradictio involvitur: sequitur enim inde, 
+      Chri<lb ed="#H" n="178" break="no"/>stum a seipso distare &amp; non distare, eodem modo consideratum. Non 
+      igi<lb ed="#H" n="179" break="no"/>tur Christus secundum utramque naturam sumtam simul esse potest 
+      Me<lb ed="#H" n="180" break="no"/>diator.  
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3940">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>RESP. Negatur conexi consequetia Nam Christus cum sit offensus 
+      <lb ed="#H" n="182"/>ut Deus simpliciter, offensam aute solvat non ut Deussimpliciter, sed ut 
+      <lb ed="#H" n="183"/>θεαγλρωες ut Deus, homo: est etia Mediator no simpiciter ut Deus. 
+      <!--cod-MkL9py-0463.xml-->
+      <pb ed="#H" n="436"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>sed ut Deus incarnatus, ut θεανοοωπος, Mediator inquam sui ipsius 
+      u<lb ed="#H" n="2" break="no"/>Deus est simpliciter. Christus ergo in mediationis opere non eodem 
+      <lb ed="#H" n="3"/>modo consideratur, sed re vera modo a seipso distat: nam profecto 
+      <lb ed="#H" n="4"/>Christus Deus simpliciter consideratus differt a seipso Teo 
+      incar<lb ed="#H" n="5" break="no"/>nato. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e3969">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Verissimum est &amp; ab omnibus etiam Philosophis receptum axioma. 
+      <lb ed="#H" n="7"/>Una eademque res vel persona a seipsa diversa est &amp; dstinguitur 
+      mo<lb ed="#H" n="8" break="no"/>do &amp; ratione: velut Ecclesia una &amp; eadem iam antiqua a primum in 
+      <lb ed="#H" n="9"/>cipiente: Una eademque urbs antiqua a seipsa primum exstructa &amp; 
+      no<lb ed="#H" n="10" break="no"/>va: Vnus idemque homo senex a seipso juvene: unus idemque homo 
+      do<lb ed="#H" n="11" break="no"/>ctus a seipso antea indocto: unus idemque iam dives a seipso antea pat. 
+      <lb ed="#H" n="12"/>re: Ita unus idemque Filius Dei Christus ματ oικονομιαν quatenus in 
+      <lb ed="#H" n="13"/>carnatu differt &amp; distinguitur a seipso καο εκυτὸν considerato. Cerre 
+      <lb ed="#H" n="14"/>unumquodque re unum est, modo &amp; ratione duplex vel multiplex esse 
+      <lb ed="#H" n="15"/>potest. Ratio est, quia in vnoquoque consideratur tum res seu essentia, 
+      <lb ed="#H" n="16"/>quae semper una est: tum modus rei: qui diversus &amp; varius esse 
+      po<lb ed="#H" n="17" break="no"/>test. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4000">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Proinde unus idemque Christus ut est Deus. homo, est Nediator 
+      <lb ed="#H" n="19"/>fui ipsius ut est Deus simpliciter offensus communiter cum Patre &amp; 
+      <lb ed="#H" n="20"/>Spiritu Sancto 
+      <lb ed="#H" n="21"/>naturam, omnes tres personae essent Mediatores. At consequens est ab 
+      sur<lb ed="#H" n="22" break="no"/>dun: Ergo &amp; antecedens. Connexi consequetia sic probatur: nam cum 
+      <lb ed="#H" n="23"/>natura divina sit communis tribus, quicquid secundum illam convenit 
+      <lb ed="#H" n="24"/>uni personae, id convenit omnibus trib. Unde est illa maxima sanctorum 
+      <lb ed="#H" n="25"/>Patrum: Opera Trinitatis esse indivisa 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4023">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>RESP. Primo argumentatio est vitiosa ob falsum connexum. Nam 
+      <lb ed="#H" n="27"/>si illud esset verum, bona esset &amp; haec argumentatio: Si Christus aliqui 
+      <lb ed="#H" n="28"/>modo se exinanivisset secundum ditinam naturam, omnes tres perso 
+      <lb ed="#H" n="29"/>nae essent exinanitae. At hoc est absurdum: Ergo &amp; illud. Quid vero? 
+      an<lb ed="#H" n="30" break="no"/>non Christus aliquo modo se exinanivit secundum divinam naturam: 
+      <lb ed="#H" n="31"/>Certe exinanitio personae Filii convenit secundum naturam divinam 
+      <lb ed="#H" n="32"/>quia secundum hanc assumsit formam servi: non aute secundum 
+      hu<lb ed="#H" n="33" break="no"/>manam naturam, quia haec est forma servi assumta. Augustin. septim. 
+      <lb ed="#H" n="34"/>tomo, lib. 1. de praedest. sanctor cap. 15. ait. Pro nobis ipsa diuvinitas, quo- 
+      <lb ed="#H" n="35"/>usque se deponeret humilius, non habuit, qua quod suscepit naturam 
+      ho<lb ed="#H" n="36" break="no"/>minis cum infirmitate carnis usque ad mortem crucis. Et tertio tomo 
+      i1<lb ed="#H" n="37" break="no"/>quaestiunculis de Trinitate dicit: Utique diuvinitas suae carnis conceptione. 
+      <lb ed="#H" n="38"/>concepta est, &amp; nativitate nata, sensitque humani affectus mertem quam 
+      <lb ed="#H" n="39"/>sponte susceperat  
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4058">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Deinde probatio connexi plane est aliena nec probat connexum. 
+      <lb ed="#H" n="41"/>Nam propositio connexa loquitur de natura divina singulariter &amp; 
+      in<lb ed="#H" n="42" break="no"/>dividualiter subsistente in Filio: probatio loquitur de natura Deitatis 
+      <lb ed="#H" n="43"/>communi simpliciter omnibus tribus personis. Atqui aliter se habet  
+      <lb ed="#H" n="44"/>natura divina ut est communis Patri, Filio &amp; Spiritui Sancto: aliter ut 
+      <lb ed="#H" n="45"/>singulariter subfistit in qualibet persona. Jam Mediatio non conveni 
+      <lb ed="#H" n="46"/>personae Christi secundum naturam communem Deitatis, id est, 
+      es<lb ed="#H" n="47" break="no"/>sentiam simpliciter: sed secundum naturam divinam singulariter 
+      sub<lb ed="#H" n="48" break="no"/>sistentem in Christo. Quapropter etiam maxima Patrum veterum 
+      de<lb ed="#H" n="49" break="no"/>operibus Trinitatis indivisis αωρον διουγσως adducitur: quia 
+      Mediatio<lb ed="#H" n="50" break="no"/>non est opus Trinitatis, sed solius Medirtoris Christi¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4087">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Quarta ratio: Sacrificare &amp; sacrificando satisfacere, interpellare 
+      pro<lb ed="#H" n="52" break="no"/>nobis, advocatum nostrum esse, dare semetipsum redemptionem pro 
+      nobi<lb ed="#H" n="53" break="no"/>conveniunt Christo tantum secundum humanam naturam, &amp; non 
+      se<lb ed="#H" n="54" break="no"/>cundum divinam: At sacrificare &amp; caetera iam memorata sunt propria 
+      <lb ed="#H" n="55"/>officia Christi Mediatoris: Ergo Christus est Mediator tantum secundum 
+      <lb ed="#H" n="56"/>humanam naturam &amp; non secundum divinam. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4105">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Maiorem propositionem probat Bellarminus, dupliciter, ratione 
+      <lb ed="#H" n="58"/>&amp; testimoniis Patrum. Ratio est, quia divinitatem Filij facere 
+      Sacer<lb ed="#H" n="59" break="no"/>dotem est apertissimus Arianismus: nam omnis sacerdos est minor eo, 
+      cu<lb ed="#H" n="60" break="no"/>jus est sacerdos: officium enim eius est ministrare. Testimonia vero 
+      pro<lb ed="#H" n="61" break="no"/>fert ex Ambrosio, Hieronymo, Fulgertio &amp; Augustino 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4121">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>RESP. Primo major propositio negatur. Nam sacrificare &amp; 
+      sa<lb ed="#H" n="63" break="no"/>crificando satisfacere, interpellare pro nobis, advocatum nostrum es 
+      <lb ed="#H" n="64"/>se, dare semetipsum redemtionem pro nobis, conveniunt Christo 
+      se<lb ed="#H" n="65" break="no"/>cundum personam sive suppositum in utraque natura. De 
+      humana<lb ed="#H" n="66" break="no"/>non est disceptatio inter nos &amp; Papistas: de divina tantum quaeritur.  
+      <lb ed="#H" n="67"/>At secundum eam de Christo ait Paulus Hebr. 9. 14. Christus per 
+      Spi<lb ed="#H" n="68" break="no"/>ritum aeternum seipsum obtulit inculpatum Deo. Quid potest dici 
+      cla<lb ed="#H" n="69" break="no"/>rius? PER SPIRITUM AETERNUM seipsum obtulit Christus: 
+      ergo<lb ed="#H" n="70" break="no"/>per Deitatem suam. Actor. 20 28. legitur: quod Deus suo sanguine. 
+      <lb ed="#H" n="71"/>redemit Ecclesiam. Redimere Ecclesiam: quod certe competit secundum 
+      <lb ed="#H" n="72"/>utranique naturam. Ergo principium quo seu principium formal 
+      <lb ed="#H" n="73"/>sacrificii Christi &amp; redemtionis nostrae per illud, non est sola natura 
+      <lb ed="#H" n="74"/>humana, sed etiam divina. At certe in sacrificio illo iλασικς, praeter 
+      <lb ed="#H" n="75"/>formam servi, ipsa etiam Deitas Filii, quod suum est, cooperata est 
+      <lb ed="#H" n="76"/>formaliter, sed distincte, non confu: e, quod sibi proprium est, sive opus 
+      <lb ed="#H" n="77"/>ipsum sive effectum mundo salutarem spectes. Nam sacrificium illud 
+      <lb ed="#H" n="78"/>nec meritum esse potuisset salutis nostrae, nec salutem nobis praestare 
+      <lb ed="#H" n="79"/>aeternam: nisi in eo vi sua Deitas Christi cooperata fuisset humanitati  
+      <lb ed="#H" n="80"/>formaliter &amp; principaliter, id est, ut principium formale &amp; primum: 
+      <lb ed="#H" n="81"/>alioquin salutis nostrae aeternae principium non esset Deitas Christi, 
+      <lb ed="#H" n="82"/>sed fosmanitas: quo nihil potest cogitari, nihil dici absurdius 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4171">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Deinde quod primam probationem majoris attinet, nimirum, 
+      <lb ed="#H" n="84"/>quo a Denuitatem Filii facere sacerdotem sit apertissimus Arianismus, 
+      <lb ed="#H" n="85"/>&amp;c. illa prorsus est aliena. Nam propositio major agit de persona 
+      se<lb ed="#H" n="86" break="no"/>cundum hanc vel illa naturam: probatio autem de Divinitate, id est, de 
+      <lb ed="#H" n="87"/>natura in abstracto. Atqui nos non affirmamus, Deitatem 
+      Chri<lb ed="#H" n="88" break="no"/>sti esse sacerdotem; &amp; quod Cyrillus Alexandrinus in defensione 
+      <lb ed="#H" n="89"/>Anathematismi decimi objectioni Orientalium respondit, idem 
+      <lb ed="#H" n="90"/>&amp; ego respondeo: Dicis indignum esse. Deo at suer ficet, 
+      adsupu<lb ed="#H" n="91" break="no"/>lor &amp; ego: scilicet si solum sit &amp; absque carne Verbum, dixeris 
+      <!--cod-MkL9py-0463.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>AI 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4203">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>humanitatem, &amp; in dignitatibus ultra creaturam, sicut Deum 
+      <lb ed="#H" n="94"/>Videantur similia in declaratione ejusdem anathematismi &amp; de 
+      <lb ed="#H" n="95"/>fensione adversus reprehensiones Theodoreti. Persona CHRISTI 
+      <lb ed="#H" n="96"/> 
+               <lb ed="#H" n="97"/>perans: sacrificium fuit personae divinae licet in natura 
+      huma<lb ed="#H" n="98" break="no"/>na peractum. Et quod plus refert, Apostolus epistolam ad 
+      He<lb ed="#H" n="99"/> 
+               <lb ed="#H" n="100"/>portuisse esse Deum, sed Deum hominem factum. 
+      CHR1<lb ed="#H" n="101" break="no"/>STUS victimam quae est humana natura ejus PER 
+      SPIRI<lb ed="#H" n="102" break="no"/>I 
+      <lb ed="#H" n="103"/> 
+               <lb ed="#H" n="104"/>a 
+      <lb ed="#H" n="105"/> 
+               <lb ed="#H" n="106"/> 
+               <lb ed="#H" n="107"/>bere nequaquam potuisset. Arianismus nihil ad nos, qui non 
+      Fi<lb ed="#H" n="108"/> 
+               <lb ed="#H" n="109"/>absque humanitate dicimus, qui Arianorum error impius erat: sed  
+      <lb ed="#H" n="110"/>Filium Dei qua se exinanire dignatus est forma servi accepia 
+      <lb ed="#H" n="111"/>qua θεουνόρωπος est dispensatione voluntatis suae liberrima, 
+      sacer<lb ed="#H" n="112" break="no"/>ne ipsi Nestoriani &amp; idololatrae sint, dum humanitatem solam 
+      <lb ed="#H" n="113"/>principium formale tam divini operis, quod salutis aeternae 
+      causa<lb ed="#H" n="114" break="no"/>est, faciunt, &amp; creaturae soli adscribunt salutis nostrae causam prae 
+      <lb ed="#H" n="115"/> 
+               <lb ed="#H" n="116"/> 
+               <lb ed="#H" n="117"/>qua Verbum solum, sed qua verbum caro factum, Ambiguitate verborum quibus 
+      <lb ed="#H" n="118"/> 
+               <lb ed="#H" n="119"/>sse Sacerdotem conditione humana, secundum formam servi, 
+      secun<lb ed="#H" n="120"/> 
+               <lb ed="#H" n="121"/>Patres id tribuant Verbo quod caro factum est, non autem 
+      Ver<lb ed="#H" n="122" break="no"/>bo ut est Verbum, quod impie volebant Ariani, contra quos 
+      Pa<lb ed="#H" n="123" break="no"/>Tertia ratio: si Christus esset aliquo modo Mediator secundum divina C 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4275">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>tres citati agunt. Quod de sacrificio dictum, idem de aliis 
+      operi<lb ed="#H" n="125" break="no"/>bus Christi Theandricis intelligendum 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4284">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>Quinta ratio: Si operatio propria Mediatoris convenit 
+      Chri<lb ed="#H" n="127" break="no"/>sto ratione utriusque naturae sequitur confusio operationum, &amp; 
+      <lb ed="#H" n="128"/>consequenter naturarum in Christo, quae est haeresis Monothelis 
+      <lb ed="#H" n="129"/>tarum &amp; Eutychianorum damnata in VI. Synodo, act. decimoses 
+      <lb ed="#H" n="130"/>timo. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4300">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>RESP. Negatur connexi istius consequentia: nam cum 
+      Media<lb ed="#H" n="132" break="no"/>E 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4309">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>convenit Christo ratione utriusque naturae utraque agente cum alto 
+      <lb ed="#H" n="134"/>rius communione, non confuse, sed distincte quod proprium est, 
+      <lb ed="#H" n="135"/>Verbo operante quod Verbi est, &amp; Carne exsequente quod Carnis 
+      <lb ed="#H" n="136"/>est. Si confuse ageret utraque natura, ac proinde specie non esset 
+      di<lb ed="#H" n="137" break="no"/>stincta utriusque naturae actio, tum sequeretur confusio operationum 
+      <lb ed="#H" n="138"/>&amp; naturarum Christi. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4327">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Replicant adversarii: Si una operatio tribuatur utrique naturae, &amp; 
+      <lb ed="#H" n="140"/>Mediatoris quidem operatio quae est Christi ut homo est, exempli gratiqe  
+      <lb ed="#H" n="141"/>sacrificare. tribuatur etiam Deitati Christi: tum certe sit confusio 
+      opera<lb ed="#H" n="142" break="no"/>tionum &amp; naturarum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4341">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>RESP. Fallaciam struunt adversarii homonymiis. Nam prime 
+      <lb ed="#H" n="144"/>una operatio dicitur aequivoce, vel una numero vel una specie. Omnia 
+      <lb ed="#H" n="145"/>enim operatio consideratur vel absolute vel opposite: absolute quum 
+      <lb ed="#H" n="146"/>ribuitur personae: opposite, cum tribuitur alteri naturae. Nam cum 
+      <lb ed="#H" n="147"/>operati sit personae, certe una operatio numero tribuitur 
+      perso<lb ed="#H" n="148" break="no"/>nae absolute. Cum autem formae seu naturae duae sint in persona 
+      <lb ed="#H" n="149"/>Christi, a quibus species constituitur cujusque operationis, ideo 
+      <lb ed="#H" n="150"/>pro diversitate formatum tanquam principiorum, duas species 
+      o<lb ed="#H" n="151" break="no"/>perationis agnoscere necesse est. Sic una eademque operatio, &amp; 
+      <lb ed="#H" n="152"/>unica est numero, &amp; duplex est specie, divina Deitatis, humana 
+      <lb ed="#H" n="153"/>humanitatis: In una eademque numero operatione Theandrica, 
+      <lb ed="#H" n="154"/>&amp; divina natura &amp; humana suam propriam habent &amp; specialem 
+      <lb ed="#H" n="155"/>operationem seu actionem singulae: &amp; divina natura utitur 
+      operatio<lb ed="#H" n="156"/> 
+               <lb ed="#H" n="157"/>natura participat operationem divinae, sicut instrumentum 
+      operatio<lb ed="#H" n="158" break="no"/>nem principalis agentis sui participat. Exempli gratia: Salvas 
+      <lb ed="#H" n="159"/>tio humani generis est operatio Christi Mediatoris Theandrica. 
+      <lb ed="#H" n="160"/>quae perficitur a Mediatore utraque natura. Est ergo operatio u 
+      <lb ed="#H" n="161"/>na numero respectu personae: non enim est alia salvatio qua 
+      sal<lb ed="#H" n="162" break="no"/>vat humanitas Christi &amp; Divinitas ejus: concurrit tamen 
+      du<lb ed="#H" n="163" break="no"/>plex operatio specie, quia agit in salvatione humani generis 
+      utra<lb ed="#H" n="164" break="no"/>que forma &amp; natura in Christo quod suum est proprium. Sic de 
+      satis<lb ed="#H" n="165" break="no"/>factione pro nobis ait Thomas Aquinas parte tertia Summae, 
+      quae<lb ed="#H" n="166" break="no"/>stione prima, articulo secundo: Aliqua satisfactio potest dici sufficiens 
+      <lb ed="#H" n="167"/>dupliciter. Vno modo perfecte, quia est condigna per quandam 
+      adaequatio<lb ed="#H" n="168" break="no"/>nem ad recompensationem commissa culpae, &amp; sic hominis puri 
+      satisfa<lb ed="#H" n="169" break="no"/>ctio sufficiens esse non potuit, quia tota humana natura erat per pec- 
+      <lb ed="#H" n="170"/>catum corrupta: nec bonum alicujus personae vel etiam plurium potera 
+      <lb ed="#H" n="171"/>per aequiparantiam totius naturae detrimentum recompensere. Tum 
+      et<lb ed="#H" n="172" break="no"/>tam quia peccotum contra Deum commissum quandam infinitatem 
+      ha<lb ed="#H" n="173" break="no"/>bet ex infixitate divinae matestatis: tanto enim offensa est grauior, quan 
+      <lb ed="#H" n="174"/>to major est ille in quem delinquitur. Unde oportuit ad condignam satis. 
+      <lb ed="#H" n="175"/>factionem ut actio satisfacientis haberet efficaciam infinitam, utputa Dei 
+      <lb ed="#H" n="176"/>&amp; hominis exsistens 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4419">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Deinde cum dicitur, sacrificare esse proeprium Christi ut homo est, 
+      iti<lb ed="#H" n="178" break="no"/>dem ambiguum est. Nam illud ut homo est, vel idem valet quod 
+      <lb ed="#H" n="179"/>quatenus caro factus est, quomodo veteres Patres recte dicunt, 
+      Fili<lb ed="#H" n="180" break="no"/>um Dei esse sacerdotem &amp; sacrificasse non qua Verbum est, ut volebam 
+      <lb ed="#H" n="181"/>Ariani, sed qua homo est, id est, quam est Verbum caro factum, quam 
+      <lb ed="#H" n="182"/>est θεογόρωπος, quod &amp; nos approbamus: vel idem valet quod 
+      <!--cod-MkL9py-0464.xml-->
+      <pb ed="#H" n="437"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>tota actione proficiscente a sola humanitate Christi ut unico 
+      princi<lb ed="#H" n="2" break="no"/>pio quo seu principio formali, &amp; non simul a divinitate ut 
+      principio<lb ed="#H" n="3" break="no"/>primo in eadem persona Christi, quod volunt Papistae &amp; nos merite 
+      <lb ed="#H" n="4"/>improbamus, tum quia sic dividuntur in hunc modum operatio  
+      <lb ed="#H" n="5"/>nes naturarum in una &amp; eadem operatione personali Theandrica, 
+      <lb ed="#H" n="6"/>etiam naturae cum Nestorio dividuntur &amp; duae personae statur 
+      <lb ed="#H" n="7"/>untur, una Dei Verbi, altera Christi hominis: tum quia actionem 
+      <lb ed="#H" n="8"/>sacrificandi seu offerendi Deo Paulus expresse tribuit Christo etiam 
+      <lb ed="#H" n="9"/>secundum divinam naturam, quum dicit Hebr. 9 v. 14. Per SPIRI. 
+      <lb ed="#H" n="10"/>TUM AETERNUM seipsum OBTULIT incu patum Deo. Quis obtulit,  
+      <lb ed="#H" n="11"/>Christus. Quid obtulit? Seipsum, id est, humanam suam naturam, quae 
+      <lb ed="#H" n="12"/>erat victima &amp; substantia sacrificii. Per quid obtulit, id est, secundum 
+      <lb ed="#H" n="13"/>quam naturam obtulit? Per humanamne solum? Minime: sed 
+      et<lb ed="#H" n="14" break="no"/>iam PERSPIRITUM AETERNUM, id est, per divinam naturam, seu 
+      u<lb ed="#H" n="15" break="no"/>nos eodem sensu dicimus, secundum divinam naturam, seu 
+      concur<lb ed="#H" n="16" break="no"/>rente actioc deitatis cum actioc humanitatis ad ide apotelesma 
+      perficien<lb ed="#H" n="17" break="no"/>dum in unitate personae. Sacrificium ergo Christi est opus θεανθεικον, quod 
+      <lb ed="#H" n="18"/>Christus peregit non ut est Deus solum, nec ut est homo solum, sed ut 
+      <lb ed="#H" n="19"/>est θεανορωπος, Deus &amp; homo in una persona, sine confusione &amp; sint 
+      <lb ed="#H" n="20"/>divulsione operationum ad naturas ejus pertinetium &amp; hoc opus simul 
+      <lb ed="#H" n="21"/>producentium. Licet unum opus sit, quod persona Christi θεανθρω πῳ 
+      <lb ed="#H" n="22"/>obtulit Deo Patri seipsum sacrificium, &amp; utraque natura obtulit: 
+      ta<lb ed="#H" n="23" break="no"/>men substantia sacrificii fuit humanitas se sacrificari passa: adeo ut 
+      u<lb ed="#H" n="24" break="no"/>traque natura sacrificaverit, humana fuerit sacrificium seu victima: 
+      di<lb ed="#H" n="25" break="no"/>gnitas vero &amp; efficacia sacrificii tum a persona est communiter, tum 
+      <lb ed="#H" n="26"/>a Deitate (quae principium formale est personae singulariter  
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4500">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Instat Beliarminus: St ita esset, non posset Deitas appellari sacerdos &amp; 
+      <lb ed="#H" n="28"/>Pontifex, ut tamen Sarnicius appellavit, &amp; 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4509">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>RESP. Primo Deitas in abstracto non debet nec potest appellar  
+      <lb ed="#H" n="30"/>Sacerdos nisi admodum improprie: sed persona quae est Deus &amp; 
+      ho<lb ed="#H" n="31" break="no"/>mo, est Sacerdos in utraque natura simul. A communi indiviso 
+      trans<lb ed="#H" n="32" break="no"/>ire ad divisum est contra leges Logicas. Deinde quod Sarnicius Dei. 
+      <lb ed="#H" n="33"/>tatem nominaverit sacerdotem, unde probabitur? Bellarminus 
+      te<lb ed="#H" n="34" break="no"/>stem adducit Stancarum: sed testis iste est suspectus, quia adversarius 
+      <lb ed="#H" n="35"/>Sarnicii, &amp; impotenti affectu in eum raptus fuit. Quod si id 
+      Sarnici<lb ed="#H" n="36" break="no"/>us dixerit (ut demus sic esse) fallaciam accentus Stancarus 
+      commise<lb ed="#H" n="37" break="no"/>rit, in verbis Sarnicii, est Pontifex &amp; Sacerdos divina natura, sacrifici. 
+      <lb ed="#H" n="38"/>um vero humana, voces divina natura, &amp; humana, accipiens casu 
+      no<lb ed="#H" n="39" break="no"/>minativo, quum Sarnicius dixerit &amp; intellexerit casu ablativo, divina 
+      <lb ed="#H" n="40"/>natura, item humana: ita ut sententia integra Sarnicii fuerit, 
+      Chri<lb ed="#H" n="41" break="no"/>stum esse Pontificem &amp; Sacerdotem divina natura, sacrificium vero 
+      <lb ed="#H" n="42"/>humana. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4544">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Ex his quae dicta sunt hactenus patet, Christum esse Mediatorem. 
+      <lb ed="#H" n="44"/>Dei &amp; hominum non tantum secundum humanam, sed secundum 
+      <lb ed="#H" n="45"/>ytramque naturam in unitate personae ut θεανδξωπον Deum-
+      homi<lb ed="#H" n="46" break="no"/>nem. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4557">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>QUAESTIO hic incidit: An Christus ante assumtam carnem vero 
+      <lb ed="#H" n="48"/>substiterit &amp; mediator fuerit? Causa dubitandi est, quia qui suo demum 
+      <lb ed="#H" n="49"/>tempore excitandus erat, is non videtur antea substitisse, aut Mediato 
+      <lb ed="#H" n="50"/>fuisse 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4571">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>RESP. Christus ante carnem assumtam vere substitit &amp; inde ad 
+      <lb ed="#H" n="52"/>initio Mediator fuit omnium electorum. Quod vero suo temporo 
+      <lb ed="#H" n="53"/>excitandus erat, intelligendum est per communicationem idioma 
+      <lb ed="#H" n="54"/>tum propter Oeconomiam illam &amp; dispensationem salutiferam qua 
+      <lb ed="#H" n="55"/>Sermo ille caro factus est, 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4587">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Rursus QUAERITUR: Quum Christus sit Mediator secundum 
+      u<lb ed="#H" n="57" break="no"/>tramque naturam, quomodo potuerit ante assumtam humanam 
+      natu<lb ed="#H" n="58" break="no"/>ram esse Midiator. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4598">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>RESPON. Christus etiam ante assumtam humanam naturam fuit 
+      <lb ed="#H" n="60"/>Mediator secundum utramque naturam, quia tum Mediator 
+      homi<lb ed="#H" n="61" break="no"/>num fuit, quatenus incarnandus: sicut nunc Mediator est noster, 
+      qua<lb ed="#H" n="62" break="no"/>tenus incarnatus. Adhaec in Dei notitia &amp; praedestinatione &amp; 
+      acce<lb ed="#H" n="63" break="no"/>ptatione, duae naturae pro unitis habebantur, quum apud eum facta &amp; 
+      <lb ed="#H" n="64"/>facienda, praesentia &amp; futura eodem sint loco. Explicat hoc Augustinus 
+      <lb ed="#H" n="65"/>septimo tomo, libro secundo de peccato originali, capite 
+      vigesimo<lb ed="#H" n="66" break="no"/>quarto: Vm est enim Deus, &amp; unus Mediator Dei &amp; hominum homo 
+      Chri<lb ed="#H" n="67" break="no"/>stus Iesus, Quoniam non est aliud nomen sub caelo datum hominibus, 
+      in<lb ed="#H" n="68" break="no"/>quo oporteat nos salvos fieri, &amp; in illo definivit Deus fidem omnibus, 
+      <lb ed="#H" n="69"/>suscitans illum a mortuis. Itaque sine ista fide, hoc est, sine fide unius 
+      <lb ed="#H" n="70"/>Mediatoris Dei &amp; hominum hominis Christi Iesu, sine fide, inquom, 
+      re<lb ed="#H" n="71" break="no"/>surrectionis eius, quam Deus hominibus definivit, quae utique sine incar 
+      <lb ed="#H" n="72"/>natione cius ac morte non potest veraciter credi: sine fide ergo incarna 
+      <lb ed="#H" n="73"/>tionis &amp; mortis &amp; resurrectionis Christi, nec antiquos justos, ut iusti 
+      es<lb ed="#H" n="74" break="no"/>sent a peccatis, potuisse mundari, &amp; Dei gratia iustificari, veritas 
+      Chri<lb ed="#H" n="75" break="no"/>stiana non dubitat: sive in eis iustis quos Sancta Scriptura commemorat;  
+      <lb ed="#H" n="76"/>sive in eis iustis, quos quidem illa non commemorat, sed tamen fuisse 
+      cre<lb ed="#H" n="77" break="no"/>dendi sunt, vel ante diluvium, vel inde usque ad datam legem, vel ipsia 
+      <lb ed="#H" n="78"/>legis tempore, non solum in filijs Israei, sicut fuerunt Prophetae, sed etiam 
+      <lb ed="#H" n="79"/>extra eundem populum, sicut fuit Iob. Et ipsorum enim corda eadem 
+      mun<lb ed="#H" n="80" break="no"/>dabantur Mediatoris fide, &amp; diffundebatur in eis charitas per Spiritum 
+      <lb ed="#H" n="81"/>Sanctis, qui ubi vult spirat, non merita sequens, sed etiam ipsa merita faci. 
+      <lb ed="#H" n="82"/>ens. Et cap. 26. Sicut in Adam omnes moriuntur, sic &amp; in Christo 
+      o<lb ed="#H" n="83" break="no"/>mnes vivificabuntur, quia per illum hominem mors, &amp; per istum 
+      homi<lb ed="#H" n="84" break="no"/>nem resurrectio mortuorum, quis audeat dubitare Christianus, etiam 
+      il<lb ed="#H" n="85" break="no"/>los iustos, qui recentioribus generis humani temporibus Deo placuerunt, 
+      <lb ed="#H" n="86"/>ideo in resurrectionem vitae aternae, non mortis aeternae esse venturos, quid  
+      <lb ed="#H" n="87"/>in Christo vivificabuntur. Ideo autem vivificari in Christo, quoniam ad 
+      <lb ed="#H" n="88"/>corpus pertinent Christi, &amp; ideo pertinere ad corpus Christi, quia &amp; ipsis 
+      <lb ed="#H" n="89"/>caput est Christus? Ideo &amp; ipsis Caput esse Christum, quia unus Medias 
+      <lb ed="#H" n="90"/>tor est Dei &amp; hominum, homo Christus Iesus: Quod eis non fuisset, nisi in 
+      <lb ed="#H" n="91"/>eius resurrectionem, per eius gratiam credidissent. Et hoc quomodo fieret, si 
+      e<lb ed="#H" n="92" break="no"/>um in carne venturum esse nescivissent, neque ex hac fide iuste pieque vi¬ 
+      <!--cod-MkL9py-0464.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>xissent? Nam si propterea illis non profuit incarnatio Christi, quia nondum 
+      <lb ed="#H" n="94"/>facta erat, nec nobis prodest iudicium Chrisci de vivis &amp; mertuis, quid  
+      <lb ed="#H" n="95"/>nondum factum est. Si aute nos per huius nondum facti, sed futuri judici 
+      <lb ed="#H" n="96"/>fidem stabimus ad dextram Christi, profecto illi per incarnationis ejus 
+      <lb ed="#H" n="97"/>tunc nondum factae, sed futurae fidem membra sunt Christi. Neque enim 
+      <lb ed="#H" n="98"/>putandum est, quod antiquis iustis sola quae semper erat, diuvinitas 
+      Chri<lb ed="#H" n="99" break="no"/>ti, non etiam quae nondum erat, eius humanitas revelata profuerit, 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4696">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Sic expedita est quaestio de causa efficiente Media¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4703">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>toris inter Deum &amp; nos: 
+      <lb ed="#H" n="102"/>Fines mediationis sequuntur: e quibus primus &amp; proximus est, ut 
+      <lb ed="#H" n="103"/>Christus esset Iesus noster, id est, Salvator aut Servator, &amp; ut 
+      Latini<lb ed="#H" n="104" break="no"/>Patres veteres loquebantur, Sospitator. Rationem nominis adfert 
+      <lb ed="#H" n="105"/> 
+               <lb ed="#H" n="106"/> 
+               <lb ed="#H" n="107"/>ergo est noster Jesus &amp; Salvator: quia est noster mediator. Est aute 
+      no<lb ed="#H" n="108" break="no"/>ster Salvator, dum obedientia praestans Deo Patri pro nobis usque ad 
+      <lb ed="#H" n="109"/>mortem crucis, factus est nobis autor aeterni boni &amp; liberavit nos a 
+      <lb ed="#H" n="110"/>malo culpae &amp; poenae. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4729">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>Duobus autem modis est Servator noster: merito &amp; efficacia. 
+      <lb ed="#H" n="112"/>MERITUM Christi Servatoris, est perfectissima illa obedientia qua 
+      <lb ed="#H" n="113"/>pene satisfecit Legi Dei loco nostro sufficiens pro omnibus 
+      homini<lb ed="#H" n="114"/> 
+            </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4743">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Idque pendet &amp; fluit ex mero Dei beneplacito: quia illius causa 
+      ef<lb ed="#H" n="116" break="no"/>iciens ωροηγυμινη fuit voluntas Dei Patris, hoc est, ordinatio eius 
+      ab<lb ed="#H" n="117" break="no"/>aeterno facta: sicut legitur Heb. 10. v. 10. qua voluntate sanctificati sua 
+      <lb ed="#H" n="118"/> 
+               <lb ed="#H" n="119"/>nereri potuit. Deinde in merito Christi non statuitur primum 
+      prin<lb ed="#H" n="120" break="no"/>cipium salutis nostrae: sed conscendendum est ad Dei voluntatem &amp; 
+      <lb ed="#H" n="121"/>ordinationem, quae prima causa est, Hebr. 10. v. 10. quia nmero 
+      bene<lb ed="#H" n="122" break="no"/>lacito Mediatorem Deus statuit, qui nobis salutem acquireret. Tum 
+      <lb ed="#H" n="123"/>dignitas &amp; vis meriti Christi pendet a persona merente quae est 
+      Divi<lb ed="#H" n="124"/> 
+               <lb ed="#H" n="125"/>nihil apud Deum mereri potuisset. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4772">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>ffecta meriti Christi sunt beneficia Dei quae nobis merito suo 
+      <lb ed="#H" n="127"/>Christus impetravit, nempe reconciliatio cum Deo, fides, 
+      remissio<lb ed="#H" n="128" break="no"/>peccatorum, regeneratio per Spiritum Sanctum, salus &amp; vita aeterna. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4783">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>EETICACIA Christi Servatoris, est virtus ipsius per quam 
+      no<lb ed="#H" n="130" break="no"/>bis applicat meritum suum &amp; confert beneficia merito suo nobis 
+      par<lb ed="#H" n="131"/> 
+               <lb ed="#H" n="132"/>servat &amp; perseverantia nos donat ut ad finem in gratia in quam nos 
+      ad<lb ed="#H" n="133" break="no"/>duxit permaneamus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4799">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Est vero perfectus Servator noster, initium, medium &amp; 
+      consumma<lb ed="#H" n="135" break="no"/>ionem salutis nobis praestans: tum quia meritum eius est 
+      perfectissi<lb ed="#H" n="136" break="no"/>mum, propter personae dignitatem, &amp; supplicii, quod pro nobis 
+      susti<lb ed="#H" n="137" break="no"/>nuit gravitatem: tum quia salutem nobis perfectissime confert. Hoc 
+      <lb ed="#H" n="138"/>locet Scriptura Colossens. 2. 10. Et estis in eo completi, qui est caput  
+      <lb ed="#H" n="139"/>omnis imperii ac potestatis. Hebr. 7. vers. 24. 25. At iste propterea quod 
+      <lb ed="#H" n="140"/>in aeternum manet, perpetuum habet Sacerdotium: Unde &amp; servare. 
+      <lb ed="#H" n="141"/> 
+               <lb ed="#H" n="142"/>it 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4823">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Porro Christuss OLUS est hoc modo Servator noster: quia solus 
+      <lb ed="#H" n="144"/>est Mediator noster apud Deum. Hoc testantur Apostoli qui dicunt 
+      <lb ed="#H" n="145"/>A 
+      <lb ed="#H" n="146"/>es 
+      <lb ed="#H" n="147"/> 
+               <lb ed="#H" n="148"/>OBIICITURI. Etiam Deus Pater &amp; Spiritus Sanctus nos servant; 
+      <lb ed="#H" n="149"/>E 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4843">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>RESP. Proceditur ex ambiguo: quia in modo servandi est 
+      discri<lb ed="#H" n="151" break="no"/>nen. Pater servat nos per Filium tanquam fons salutis: Spiritus 
+      San<lb ed="#H" n="152" break="no"/>6t 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4855">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>ei servat nos suo merito, tanquam solus Mediator, solvens pro 
+      no<lb ed="#H" n="154" break="no"/>b 
+      <lb ed="#H" n="155"/>n 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4866">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>OEIICITURII. Beatissima Virgo Maria est salvatrix mundi: Ergo 
+      <lb ed="#H" n="157"/>non solus Christus. Antecedens probatur in hunc modum 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4875">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Si tanta est Christi in servos suos indulgentia, ut illis Salvatoris 
+      titu<lb ed="#H" n="159"/> 
+               <lb ed="#H" n="160"/>ginem per quam Salus mundi nata est; Salvatricem nostram esse profitea 
+      <lb ed="#H" n="161"/>mur: Antecedens verum est;. Ergo &amp; consequens. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4888">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Assumtum probant adversarii ex Propheta Obadia, ex actis 
+      Aposto<lb ed="#H" n="163" break="no"/>icis, &amp; epistola ad Romanos &amp; prima epistola ad Timotheum. In 
+      <lb ed="#H" n="164"/>Prophetia Obadiae versu ultimo, Apostoli nominantur Salvatores 
+      <lb ed="#H" n="165"/>seu Servatores. Actorum 13. vers. 45. 46. 47. haec leguntur: Visa autem 
+      <lb ed="#H" n="166"/>turba, Iudaei repleti sunt invidia, &amp; contradicebant eis quae a Paulo dicet 
+      <lb ed="#H" n="167"/>bantur, contradicentes ac blasphemantes. Tunc loquendi libertate ust 
+      <lb ed="#H" n="168"/>Paulus ac Barnabas dixerunt, Vobis necesse fuit primum exponi 
+      sermo<lb ed="#H" n="169" break="no"/>nem Dei: postquam autem illum repellitis, &amp; indignos vos ipsos decerni 
+      <lb ed="#H" n="170"/>tis aeterna vita, ecce convertimus nos ad Gentes. Ita enim nobis praecepit.  
+      <lb ed="#H" n="171"/>Dominus, dicens, Constitui te ut sis Lux Gentium, ut sis saluti usque 
+      <lb ed="#H" n="172"/>id altimas terras. Hic aiunt, Paulum ac Barnabam aliosque 
+      Aposto<lb ed="#H" n="173" break="no"/>los constitutos a Domino, ut essent saluti usque ad ultimas terras. 
+      Et<lb ed="#H" n="174" break="no"/>Rom. 11. v. 13. 14. ait Paulus de se: Nam (quod vobis dico Gentibus, 
+      qua<lb ed="#H" n="175" break="no"/>tenus ego quidem sum Apostolus Gentium) ministerium meum illustros 
+      <lb ed="#H" n="176"/>Vt experiar si quo modo ad aemulationem provocem consanguineos meos, 
+      <lb ed="#H" n="177"/>&amp; salvos faciam aliquos ex ipsis. Et priori ad Timotheum 4.16. 
+      <lb ed="#H" n="178"/>scribit Paulus ad Timotheum: Intentus esto tibi ipsi &amp; doctrinae: &amp; 
+      per<lb ed="#H" n="179" break="no"/>mane in istis: id enim si feceris, &amp; teipsum salvum facies, &amp; eos qui 
+      te<lb ed="#H" n="180" break="no"/>audierint. Hic aiunt aperte dici, Paulum &amp; Timotheum se &amp; alios 
+      sal<lb ed="#H" n="181" break="no"/>vos facere: ac proinde Christum communicare cum suis titulum Sale 
+      <lb ed="#H" n="182"/>vatori¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4938">
+               <lb ed="#H" n="183"/>
+               <pc type="indent"/>RESPON. Primo cavenda est fallacia homonymiae in nomine 
+      <!--cod-MkL9py-0465.xml-->
+      <pb ed="#H" n="438"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Salvatoris. Christus enim dicitur Salvator, quia nos salvos fecit 
+      meri<lb ed="#H" n="2" break="no"/>ro suo, efficacia, annunciatione salutis &amp; vocatione ad eam &amp; 
+      exem<lb ed="#H" n="3" break="no"/>plo: Apostoli vero &amp; alii servi Jesu Christi, dicuntur Salvatores, 
+      tan<lb ed="#H" n="4" break="no"/>quam ministri &amp; praecones Evangelii, quod est potentia Dei ad 
+      salu<lb ed="#H" n="5" break="no"/>tem cuivis credenti, item quia exemplo suo lucrifecerunt alios. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e4962">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Deinde, assumtio negatur eo sensu accepta quo a Papistis 
+      accipi<lb ed="#H" n="7" break="no"/>tur. Papistae enim Apostolos vocant Salvatores, quorum meritis &amp; 
+      in<lb ed="#H" n="8" break="no"/>tercessione salvemur: Neque vero hoc sensu accepta assumtio ex 
+      alle<lb ed="#H" n="9" break="no"/>gatis iocis probari potest. Ut enim Christus ad sui communionem nos 
+      <lb ed="#H" n="10"/>admittit: ita etiam Paulum, Barnabam, Timotheum &amp; alios prae 
+      <lb ed="#H" n="11"/>cones Evangelii in communionem salutis admisit. Ita autem ad 
+      <lb ed="#H" n="12"/>mittit nos ad sui communionem, ut fructum eorum quae ipso fecit &amp; 
+      <lb ed="#H" n="13"/>praestitit, percipiamus, non ut officium quod ipsi soli proprium est. 
+      <lb ed="#H" n="14"/>nobis arrogemus. Nos in communionem sacerdotii &amp; regni ejus 
+      <lb ed="#H" n="15"/>veninius, quod ad fructum &amp; effectum attinet, non quod ad 
+      mu<lb ed="#H" n="16" break="no"/>nus &amp; officium, quo solus ipse fuugitur. Nec enim sacerdotes sumus, 
+      <lb ed="#H" n="17"/>ut vel corpus Christi, vel nos ipsos offeramus pro redemtione generis 
+      <lb ed="#H" n="18"/>humani: neque Reges sumus, ut populo Dei imperemus. Sic membra 
+      <lb ed="#H" n="19"/>ndhaerent capiti, ut ab eo percipiant sensum, motum, vigorem 
+      om<lb ed="#H" n="20" break="no"/>nem, tanquam effecta &amp; fructus capitis: ipsa tamen membra 
+      <lb ed="#H" n="21"/>propterea nec sunt, nec dici possunt caput, nec officio capitis, 
+      <lb ed="#H" n="22"/>quantumvis praestantia sint, funguntur. Quapropter etiamsi Paulus 
+      <lb ed="#H" n="23"/>de se dicat quae Actor. 13147. &amp; Rom. 11. v. 14 leguntur: tamen 
+      titu<lb ed="#H" n="24" break="no"/>lum Salvatoris, ideo sibi non arrogatineatitulum Salvatoris, 
+      Timo<lb ed="#H" n="25" break="no"/>theo aut Barnabae, aut alii praeter Christum tribuit. Salus enim 
+      <lb ed="#H" n="26"/>aeterna nec a Paulo, nec a Timotheo, nec a Barnaba aut aliis 
+      Aposto<lb ed="#H" n="27" break="no"/>tis vel aliis Evangelistis pendebat, sed ab Evangelio, quod illis 
+      com<lb ed="#H" n="28" break="no"/>missum erat annunciandum mundo vniverso. Evangelium enim 
+      <lb ed="#H" n="29"/>est potentia Dei ad salutem cuivis credenti, ut Paulus Apostolus docet 
+      <lb ed="#H" n="30"/>Roman. 1 versic.16. Quis autem dat vim &amp; efficaciam 
+      praedi<lb ed="#H" n="31" break="no"/>ationi Evangelii, ut eo convertantur homines, &amp; salvi fiant? Num 
+      <lb ed="#H" n="32"/>Paulus &amp; alii Apostoli? Minime, sed Deus ipse, sicut Paulus ait, 
+      prior<lb ed="#H" n="33" break="no"/>ad Corinthios 3. vers. 5, 6, 7. Quis igitur est Paulus, quis autem Apollo. 
+      <lb ed="#H" n="34"/>nisi ministri per quos credidistis, &amp; ut cuique Dominus dedit? Ego 
+      plan<lb ed="#H" n="35" break="no"/>tavi, Apollos rigavit, sed Deus dedit crescendi vim. Itaque neque is qui 
+      plan<lb ed="#H" n="36" break="no"/>tat, est aliquid; neque qui rigat: sed Deus qui dat crescendi vim. Ergo 
+      <lb ed="#H" n="37"/>Paulus, Barnabas, Timotheus &amp; Apostoh salvos facere homines 
+      di<lb ed="#H" n="38" break="no"/>cebantur, &amp; Salvatores a Propheta Obadia nominantur, respectu 
+      Ev<lb ed="#H" n="39" break="no"/>angelii, quod praedicabant, ac proinde ut ministri Christi vocando &amp; 
+      <lb ed="#H" n="40"/>adducendo homines per praedicationem Evangelii ad salutem per 
+      <lb ed="#H" n="41"/>Christum partam, non autem salutem comparando seu impetrando 
+      <lb ed="#H" n="42"/>a Deo Patre, &amp; efficaciter illis conferendo, quod proprium est officii 
+      <lb ed="#H" n="43"/>Christi solius. Apostoli igitur &amp; praecones Evangelii sunt organ 
+      <lb ed="#H" n="44"/>vocationis hominum ad salutem. Ac sancta quidem organa sua sic 
+      <lb ed="#H" n="45"/>honorat Dominus, ut illis quodam modo effectionem tribuat rei 
+      illi<lb ed="#H" n="46" break="no"/>as, quam ipse proprie efficit, &amp; ideo cooperatios suos vocat: sed 
+      vni<lb ed="#H" n="47" break="no"/>cam virtutem suam in illis vult agnosci: ut quum dicitur gloriosus 
+      <lb ed="#H" n="48"/>Deus in sanctis suis, ad ipsum unum laus &amp; gloria salutis nostrae 
+      refe<lb ed="#H" n="49" break="no"/>ratur. Unde etiam nemo Apostolos vocaverit Salvatores nostros hoc  
+      <lb ed="#H" n="50"/>sensu, qui meritorum suorum intercessione &amp; efficacia sua nos 
+      sal<lb ed="#H" n="51" break="no"/>vent. 
+      <lb ed="#H" n="52"/>Deinde, dato, sed non concesto assumtionem veram esse, tamen nul 
+      <lb ed="#H" n="53"/>la esset connexi consequentia: quia ut publica Evangelii praedicatio 
+      <lb ed="#H" n="54"/>mulieribus commissa non fuit, atque ita nec Mariae: ita argumentum 
+      <lb ed="#H" n="55"/>ab Apostolis &amp; Evangelistis ductum ad Mariam nullum est. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e5076">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>REPLICANT Papistae duo: Prius est, Christum solum originaliter 
+      <lb ed="#H" n="57"/>esse Salvatorem: Posterius est, Mariam Virginem multos potuisse 
+      priva<lb ed="#H" n="58" break="no"/>tim sua doctrina &amp; vitae exemplo ad salutem adducere. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e5087">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>RESPON Quod ad prius attinet: Christus sic origine est Salvator 
+      <lb ed="#H" n="60"/>ut etiam sit perfector consummatorque salutis, sicut Paulus dicit 
+      Co<lb ed="#H" n="61" break="no"/>loss. 2. 10. Estis in eo consummati qui est caput omnis imperii ac 
+      potesta<lb ed="#H" n="62" break="no"/>tis: quemadmodum &amp; fidei salvificae dux &amp; consummator est, ut dicit 
+      <lb ed="#H" n="63"/>tur Hebr. 12. v. 2. Ipse igitur unus est Redemtor ac Salvator. Quod ad 
+      <lb ed="#H" n="64"/>posterius attinet, ex eo non sequitur, Mariam matrem Christi recte di 
+      <lb ed="#H" n="65"/>ci Salvatricem, quia potuerunt &amp; aliae piae mulieres multos privatim 
+      <lb ed="#H" n="66"/>sua doctrina &amp; vitae exemplo ad salutem adducere, an ideo salvatrices. 
+      <lb ed="#H" n="67"/>dicentur? Nonne Paulus ad quosvis fideles dicit 1. Corinth. 7. versic 
+      <lb ed="#H" n="68"/>16. Unde enim seis mulier, si virum salvum facies? aut unde scis vir, si  
+      <lb ed="#H" n="69"/>multerem salvam facies; 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e5116">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>TREPLICANT: Maria omnes alias mulieres antecellit. RESPON 
+      <lb ed="#H" n="71"/>Non sufficit haec praecellentia, ut officium &amp; nomen Christo soli 
+      com<lb ed="#H" n="72" break="no"/>petens, ei commune esse possit. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e5127">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>NSTANT. Qui alios salvat, est eorum Salvator: Servi Christi alios 
+      <lb ed="#H" n="74"/>salvant: Ergo sunt eorum Salvatores. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e5136">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>RESPON. Ex coniugatis ambiguis vitlosa est argumentatio. Nam 
+      <lb ed="#H" n="76"/>salvare dicitur in Scriptura multis modis, ut &amp; Salvator. Nam 
+      salva<lb ed="#H" n="77" break="no"/>re non tantum est, sua satisfactione &amp; merito cripere e morte aeterna 
+      <lb ed="#H" n="78"/>&amp; vitam aeternam a Deo impetraressed etiam per praedicationem 
+      Ev<lb ed="#H" n="79" break="no"/>angelii ad salutis a Christo comparatae communionem vocare, q 1ve 
+      <lb ed="#H" n="80"/>sensu Paulus hoc verbo utitur Roman. 11. versic. 14. 1. Timoth. 4. 16. 
+      <lb ed="#H" n="81"/>Et sancta severitate absterrere ab interitu sempiterno, sicut Iudas in 
+      e<lb ed="#H" n="82" break="no"/>pistola sua Catholica versic. 25, ait; Illos vero salvate, de igne 
+      rapien<lb ed="#H" n="83" break="no"/>tes. Salvator itidem δμεογυμως dicitur: vel proprie de Deo, ut &amp; de 
+      Do<lb ed="#H" n="84" break="no"/>mino Jesu Christo: vel figurate de hominibus, iisque vel typis 
+      Salvato<lb ed="#H" n="85" break="no"/>ris Christi exhibendi, qui a Deo excitati fuerunt, ut populum Dei a 
+      <lb ed="#H" n="86"/>periculis vel hostibus liberatent, veluti Genes. 41. versic. 45. Iudic. 3. 
+      <lb ed="#H" n="87"/>pesic. 19. 2. Reg. 13. v. 5. Nehem. 9. vers. 27. vel administris saluti 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e5169">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Nam qui potest ille vere disi Mediator, qui ipse Mediator eget, velus 
+      <lb ed="#H" n="89"/>pstrae aeternae per doctrinam Evangelii de Christo jam exhibito, ut  
+      <lb ed="#H" n="90"/>badiae vel Abdiae versiculo ultimo: Et adscendent Salvatores (seu 
+      <lb ed="#H" n="91"/>revatores) in montem Tzionis, ad iudicandu n montem Esavit &amp; erit, 
+      <lb ed="#H" n="92"/>ad va regnum. Christus est Salvator, salutem nobis merendo &amp; 
+      effi<lb ed="#H" n="93" break="no"/>coriter conferendo: Apostoli fuerunt Salvatores, salutem a Christo 
+      <!--cod-MkL9py-0465.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="94"/>partam annunciando per Evangelii praedicationem. Marla autem 
+      <lb ed="#H" n="95"/>neutro modo salvatrix dici potest: nam illa salutem aeternam nobi 
+      <lb ed="#H" n="96"/>nec meruit, nec conferre potest; &amp; munere docendi Euangelium in 
+      <lb ed="#H" n="97"/>Ecclesia functa non est. 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e5201">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Manet igitur fixum firmumque, solum Christum esse Jesum, id est, 
+      <lb ed="#H" n="99"/>Salvatorem nostrum eo modo quo explicatum est, 
+    </p>
+            <p xml:id="yyy8Uu-gxd471-d1e5210">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Haec de primo fine Mediationis Christi. 
+      <lb ed="#H" n="101"/>Finis ultimus est gloria Dei Patris, ut docetur Joh. 17. 1. Iesus dixit:  
+      <lb ed="#H" n="102"/>Pater glorifica Filium tuum, ut &amp; te Filius taus glorificet. Et vers. 4. 
+      E<lb ed="#H" n="103" break="no"/>go te glorificavi in terra: opus consummavi quod dedisti mihi ut facerem 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

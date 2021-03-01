@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 31</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 31</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd8706"><!-- l9-c31 -->
+            <head xml:id="yyy8Uu-xd8706-Hd1e103">Caput 31</head>
+            <p xml:id="yyy8Uu-xd8706-d1e106">
+               <lb ed="#H" n="74"/>CAPUT XXXI. 
+      <lb ed="#H" n="75"/>In quo de observationibus sacris.
+    </p>
+            <p xml:id="yyy8Uu-xd8706-d1e113">
+               <lb ed="#H" n="76"/>BSERVATIONES sacrae, sunt ceremoniae pertinentes ad 
+      ju<lb ed="#H" n="77" break="no"/>COstam dispositionem eorum qui sancte Deum colunt.  
+    </p>
+            <p xml:id="yyy8Uu-xd8706-d1e120">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Suntque vel communes totius Ecclesiae, vel propriae 
+      ministro<lb ed="#H" n="79" break="no"/>rum Ecclesiae 
+    </p>
+            <p xml:id="yyy8Uu-xd8706-d1e129">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Communes totius Ecclesiae observationes versantur in 
+      frequenta<lb ed="#H" n="81" break="no"/>tione sacrorum coetuum &amp; exercitiis publicis religionis &amp; pietatis 
+    </p>
+            <p xml:id="yyy8Uu-xd8706-d1e139">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Coetibus sacris interesse assidue &amp; libenter debemus: 
+      <lb ed="#H" n="83"/>I. Quia id Deus mandat, Psal. 149. 1. 
+      <lb ed="#H" n="84"/>II. Quia ad id Christus Dominus nos suo exemplo invitat. Nam 
+      <lb ed="#H" n="85"/>solitus est non tantum in magnis festis diebus Jerosolymam ex 
+      Ga<lb ed="#H" n="86" break="no"/>lilaea adscendere, sed etiam Sabbatho aliisque diebus in templo &amp;
+      i<lb ed="#H" n="87" break="no"/>synagogis adesse, ut hac etiam in parte obedientiam Patri probaret. 
+      <lb ed="#H" n="88"/>nobis vero exemplum praeberet. 
+      <!--cod-MkL9py-0668.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>III. Quia ad id exemplo suo nos invitan alii fideles. Psal. 95, 6. 
+      <lb ed="#H" n="90"/>Psal. 122. v. 1. Jesa. 2. v. 3. 
+    </p>
+            <p xml:id="yyy8Uu-xd8706-d1e168">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>IV. Quia est beneficium Dei ingens, si cui conceditur sacros 
+      <lb ed="#H" n="92"/>coetus frequentare, sicut David ait Psal 5. 8. Ego autem instructus 
+      am<lb ed="#H" n="93" break="no"/>plitudine benignitatis tuae ingrediar domum tuam. Id beneficium 
+      <lb ed="#H" n="94"/>summe desiderant &amp; sibi a Deo dari petunt fideles, ut David Ps. 42. 
+      <lb ed="#H" n="95"/>5. &amp; 43. 34. 
+    </p>
+            <p xml:id="yyy8Uu-xd8706-d1e184">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>V. Quia praestat nos inveniri a Christo in templo &amp; exercitiis 
+      ve<lb ed="#H" n="97" break="no"/>rae religionis &amp; pietatis, quam in convivio, quam in taberna vinaria 
+      <lb ed="#H" n="98"/>aut cerevisiaria. Nullibi libentius inveniri a Christo optare 
+      debe<lb ed="#H" n="99" break="no"/>mus, quam in templo: hoc enim gratiose nos alloquitur, paterne 
+      <lb ed="#H" n="100"/>nobis consulit, donum fidei salvificae largitur &amp; auget, Joh. 5. v. 24. 
+    </p>
+            <p xml:id="yyy8Uu-xd8706-d1e200">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Frequentationi sanctorum coetuum opponitur contemtus &amp; 
+      deser<lb ed="#H" n="102" break="no"/>tio sanctarum congregationum, quae prohibetur Heb 10. v. 25. 
+    </p>
+            <p xml:id="yyy8Uu-xd8706-d1e209">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Opponitur etiam frequentatrosacrorum coetuum hypocritica, quam 
+      <lb ed="#H" n="104"/>sit absque fide in Christum &amp; absque resipiscentia, &amp; non ad gloriam 
+      <lb ed="#H" n="105"/>Dei, sed solummodo ad aucupandam opinionem &amp; famam 
+      pietati<lb ed="#H" n="106"/>&amp; sanctitatis apud homines; qualis fuit Israelitatum, de quibus Deus 
+      <lb ed="#H" n="107"/>queritur Jesa. 1. v. 12. Quod advenitis, an ut compareatis in conspectu 
+      <lb ed="#H" n="108"/>meo? quis quaesivit hoc a manu vestra, ut conculcetis atria mea? 
+      nem<lb ed="#H" n="109" break="no"/>pe tantum corpore praesentes, non autem animum vestrum integrum 
+      <lb ed="#H" n="110"/>sistentes &amp; offerentes mihi. Ut Ezech. 14. v. 1. &amp; sequentibus: 
+      Qua<lb ed="#H" n="111" break="no"/>lis item fuit fratrum seu cognatorum Christi, de quibus Johannis 7 
+      <lb ed="#H" n="112"/>vers. 10. 
+    </p>
+            <p xml:id="yyy8Uu-xd8706-d1e235">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Aut quae sit maligno &amp; doloso animo ad aucupandam 
+      occasio<lb ed="#H" n="114" break="no"/>nem nocendi fidis praeconibus verbi Dei, quali animo Pharisaei 
+      sae<lb ed="#H" n="115" break="no"/>pe Christum adierunt: aut ad observandos sermones praeconum. 
+      <lb ed="#H" n="116"/>verbi Dei, deridendi, exagitandi &amp; calumniandi cauta per convivia 
+      <lb ed="#H" n="117"/>&amp; tabernas vinarias, &amp; alios congressus, ut fecerunt Judaei Ezech. 12. 
+      <lb ed="#H" n="118"/>v. 26, 27. 
+    </p>
+            <p xml:id="yyy8Uu-xd8706-d1e254">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>At quae sit tantum delectationis ergo, non pietatis &amp; reverentiae 
+      <lb ed="#H" n="120"/>Dei nomine; proinde qui isto fine conciones accedunt, ii neque 
+      con<lb ed="#H" n="121" break="no"/>cionibus credunt, neque obsequuntur, ut fecerunt Judaei ad 
+      concio<lb ed="#H" n="122" break="no"/>nes Ezechielis accedentes, de quibus Ezech. 3. v. 30, 31 32. 
+    </p>
+            <p xml:id="yyy8Uu-xd8706-d1e267">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>Exercitia publica religionis &amp; pietatis consistunt in meditatione 
+      <lb ed="#H" n="124"/>verbi Dei, perceptione Sacramentorum, precatione &amp; gratiarum. 
+      <lb ed="#H" n="125"/>actione ad Deum, deductione funerum, matrimoniorum 
+      consecra<lb ed="#H" n="126" break="no"/>tione, collatione eleemosynartum ad subventionem &amp; 
+      consolatio<lb ed="#H" n="127" break="no"/>nem egenorum, aegrotantium, vinctorum, captivorum, viduarum, 
+      <lb ed="#H" n="128"/>pupillorum, incendia aut naufragium perpessorum, aut aliis modis 
+      <lb ed="#H" n="129"/>auxilio nostro egentium, &amp; c. 1. Cor. 14. capite fere toto, &amp; cap. 16. 1. 
+      <lb ed="#H" n="130"/>2. Jac. 1. 27. Matth. 9. v. 2. &amp; cap. 12. v. 22. 
+    </p>
+            <p xml:id="yyy8Uu-xd8706-d1e289">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>Propriae observationes sacrae ministrorum Ecclesiae, sunt illae actiones 
+      <lb ed="#H" n="132"/>quae a ministris Ecclesiae sunt perficiendae prout vocatio ipsorum 
+      <lb ed="#H" n="133"/>exigit in administrando officio divino coram populo Dei; de quibus 
+      <lb ed="#H" n="134"/>Apostolus agit 1, Cor. 12. &amp; 14. 
+      <lb ed="#H" n="135"/>De observationibus sacris &amp; ritibus legitimis tum communibus 
+      <lb ed="#H" n="136"/>tum propriis in Ecclesia Israclitica a Deo praescriptis multa in libris 
+      <lb ed="#H" n="137"/>Mosis leguntur.  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

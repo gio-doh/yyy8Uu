@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd815"><!-- l8-c10 -->
+            <head xml:id="yyy8Uu-gxd815-Hd1e103">Caput 10</head>
+            <p xml:id="yyy8Uu-gxd815-d1e106">
+               <lb ed="#H" n="118"/>CAPUT X. 
+      <lb ed="#H" n="119"/>In quo de meritis humanis.
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e113">
+               <lb ed="#H" n="120"/>SEcuNDo bona opera nostra non sunt proprie loquendo merita 
+      <lb ed="#H" n="121"/>nihil minus faceret, destitutus vera fide, &amp; charitate erga Deum &amp;  
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e120">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>seu meritoria vitae aeterne. Nam meritum in bonam partem 
+      acce<lb ed="#H" n="123" break="no"/>tum. (est etiam meritum malum,) proprie loquendo, est opus 
+      <lb ed="#H" n="124"/>perfecte bonum, &amp; non debitum, &amp; tantummodo ex nostro in 
+      <lb ed="#H" n="125"/>profectum &amp; utilitatem alicuius praestitum, cui sua natura debetur 
+      <lb ed="#H" n="126"/>merces, proportione ei respondens. Haec enim in merito bono 
+      pro<lb ed="#H" n="127" break="no"/>prie dicto requiruntur. 1. ut sit perfecte bonum. 2. ut non sit debitum 
+      <lb ed="#H" n="128"/>3. ut tantum ex nostro praestetur. 4. ut fiat in commodum &amp; 
+      emolu<lb ed="#H" n="129" break="no"/>mentum alterius. 5. ut sua natura sit tale, cui merces debeatur. 6. ut 
+      <lb ed="#H" n="130"/>merces cum eo proportionem habeat in valores 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e144">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>At nostra bona opera primo in hac vita non sunt absolute &amp; 
+      per<lb ed="#H" n="132" break="no"/>fecte bona, non sunt absolute iusta ac pura. 1. quia etiam sanctissimi 
+      <lb ed="#H" n="133"/>quique multa faciunt mala &amp; per se peccata, propter quae rei sunt 
+      co<lb ed="#H" n="134" break="no"/>ram Deo, &amp; digni, ut abiiciantur in poenas aeternas, Jacob. 3. vers. 2. In 
+      <lb ed="#H" n="135"/>multis labimur omnes. &amp; cap. 2. vers. 10. qui impegerit in uno, omnium 
+      <lb ed="#H" n="136"/>factus est reus. David commisit adulterium, interfecit Uriam, conatur 
+      <lb ed="#H" n="137"/>est scelus tegere, numeravit populum. Petrus Apostolus ter 
+      abnega<lb ed="#H" n="138" break="no"/>vit Christum Dominum. 2. quia multa omittunt bona, quae facere 
+      te<lb ed="#H" n="139" break="no"/>nentur secundum Legem. 3. quia opera ipsorum bona semper sum 
+      <lb ed="#H" n="140"/>Ex his constat, quicquid externe fit, sed non animo sincero, sive id 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e171">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>conjuncta cum naevis, ac inquinata peccatis. In optimis eorum 
+      operi<lb ed="#H" n="142" break="no"/>bus nunquam est ea rectitudinis perfectio, quae esse debebat. Fides 
+      e<lb ed="#H" n="143" break="no"/>nim, regeneratio, &amp; dilectio Dei &amp; proximi, unde bona opera 
+      profi<lb ed="#H" n="144" break="no"/>ciscuntur, manent in nobis imperfecta in hac vita: Ex causa igitur 
+      im<lb ed="#H" n="145" break="no"/>perfecta, non possunt sequi perfecti effectus: Rom. 7. v. 23. Video 
+      ali<lb ed="#H" n="146" break="no"/>am Legem in membris meis, rebellantem legi mentis mea. Haec est 
+      cau<lb ed="#H" n="147" break="no"/>sa. cur opera piorum non possint consistere in iudicio Dei: Psal. 143. 
+      <lb ed="#H" n="148"/>2. Ne ingrediaris in iudicium cum servo tuo, quia coram te, non 
+      iustifica<lb ed="#H" n="149" break="no"/>itur ullus vivens, Deuteron. 27. vers. 26. Maledictus omnis, qui non 
+      <lb ed="#H" n="150"/>manserit in omnibus, quae scripta sunt in libro Legis, &amp;c. Quum igitur 
+      <lb ed="#H" n="151"/>omnia sint imperfecta, agnoscamus potius &amp; deploremus naevos &amp; 
+      <lb ed="#H" n="152"/>imbecillitatem nostram, atque ad perfectionem tanto maiore 
+      studie<lb ed="#H" n="153" break="no"/>contendamus potius, quam meritoria opera iactemus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e204">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Argumento isti contradicunt Papistae aliquot objectionibus quas 
+      <lb ed="#H" n="155"/>prdine refellemus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e213">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>PRIMA: Quibuscunque Lex Dei est absolute possibilis, eorum etiam 
+      <lb ed="#H" n="157"/>bona opera sunt vere bona atque absolute iusta ac perfecta: Iustis 
+      homini<lb ed="#H" n="158" break="no"/>bus lex Dei est absolute possibilis: Ergo iustorum hominum bona opero 
+      <lb ed="#H" n="159"/>sunt vere bona atque absolute iusta ac perfecta 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e226">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Assumtionem probat Bellarminus lib. 4. de iustificatione. c. 11. his 
+      <lb ed="#H" n="161"/>testimoniis, Matth. 11. v. 30. lugum meum suave est, &amp; onus meum 
+      le<lb ed="#H" n="162" break="no"/>ve. &amp; I. Joh. 5 v. 3. mandata eius gravia non sunt.  
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e237">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>RESP. Primo amoliedarum ambiguitatum gratia recte explicanda 
+      <lb ed="#H" n="164"/>est conclusio objectionis. Per justos homines hic intelligimus iustificat 
+      <lb ed="#H" n="165"/>tos per Christum &amp; renatos per Spiritum Sanctum: deinde bona 
+      ope<lb ed="#H" n="166" break="no"/>ra eorundem agnoscimus esse vere bona, id est, non falso &amp; simulati  
+      <lb ed="#H" n="167"/>bona, sed non absolute &amp; simpliciter pura ac iusta: sicut autum cui ad 
+      <lb ed="#H" n="168"/>auc permistae sunt scoriae verum quidem est autum, sed non purum 
+      <lb ed="#H" n="169"/>Deinde assumtio negatur hominibus quidem in statu integritatis erat 
+      <lb ed="#H" n="170"/>possibilis integra totius Legis obedientia secundum omnes partes &amp; 
+      <lb ed="#H" n="171"/>gradus, sicut Angelis. Hominibs autem lapsis &amp; non regeneratis adeo 
+      <lb ed="#H" n="172"/>mpossibilis, est Legis impletio, ut obedientiam Deo placentem, n 
+      <lb ed="#H" n="173"/>quidem inchoare possint, secundum haec testimonia: Gen. 6. 5. omne 
+      <lb ed="#H" n="174"/>figmentum cogitationum cordis hominis tantummodo malum est 
+      omni<lb ed="#H" n="175" break="no"/>tempore. Et c 8. v. 21. Figmetum cordis hominis est malum a pueritia 
+      i<lb ed="#H" n="176" break="no"/>psius. Jer. 13 v. 23. An mutare potest AEthiops cutem suam, aut pardus 
+      li<lb ed="#H" n="177" break="no"/>ventes maculas suas? etiam vos possetis benefacere, edocti ma efacere. 
+      <lb ed="#H" n="178"/>Matt. 7. v. 18 No potest arbor mala bonos fructus ferre. Rom. 8. v. 7. In 
+      <lb ed="#H" n="179"/>telligetia carnis, inimicitia est adversus Deum: Legi enim Dei non 
+      sub<lb ed="#H" n="180" break="no"/>iicitur: nam ne potest quidem. Et c. 14. 23. Quicquid non est ex fide, 
+      pec<lb ed="#H" n="181" break="no"/>catum est, 2. Cor. 3. v. 5. non quod idonet simus per nos ipsos ad 
+      cogitan<lb ed="#H" n="182" break="no"/>dum quitquam, velut ex nobis ipsis. Renatis vero Lex sit possibilis. 
+      <!--cod-MkL9py-0600.xml-->
+      <pb ed="#H" n="571"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>1. quo ad disciplinam externam. 2. quo ad imputationem justitiae 
+      <lb ed="#H" n="2"/>Christi perfectissimae: nam quia Christus loco nostro Legem totam 
+      <lb ed="#H" n="3"/>absolutissime implevit, perinde Deus id acceptat ac si a nobis 
+      abso<lb ed="#H" n="4" break="no"/>lutissime impleta esset. 3. quo ad inchoationem obedientiae internae 
+      <lb ed="#H" n="5"/>&amp; externae in hac vita. Iisdem renatis quamvis instructis gratia 
+      Chri<lb ed="#H" n="6" break="no"/>sti Lex Dei est absolute impossibilis respectu Dei in praesente vita, 
+      <lb ed="#H" n="7"/>nempe quo ad absolute perfectam Legis divinae obedientiam 
+      inter<lb ed="#H" n="8" break="no"/>nam &amp; externam: quia Christus hic perfecte non vult 
+      communica<lb ed="#H" n="9" break="no"/>re gratiam electis suis, sed eos quotidie clamare jubet, remitte nobis 
+      <lb ed="#H" n="10"/>peccata nostra, &amp; jubet nos ad perfectionem tendere Hebr. 12. v. 1, 
+      <lb ed="#H" n="11"/>28. &amp; monet, semper dum hic sumus futuram luctam carnis &amp; 
+      spiri<lb ed="#H" n="12" break="no"/>tus Gal. 5. v. 17. &amp; esse in renatis luctam illam testatur Paulus suo 
+      ex<lb ed="#H" n="13" break="no"/>emplo Rom. 7. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e320">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Posset quidem gratia Christi efficere, ut renatis Lex Dei in hac 
+      vi<lb ed="#H" n="15" break="no"/>ta esse absolute possibilis: si Deus vellet. Deus autem non vult agere 
+      <lb ed="#H" n="16"/>omnia prout potest, sed prout ordinat sapientia sua. Est autem illud 
+      <lb ed="#H" n="17"/>divinae plane sapientiae, quod Deus omnipotens ordinem 
+      instaura<lb ed="#H" n="18" break="no"/>tionis nostrae successivum esse velit, donec ad metam perfectionis in 
+      <lb ed="#H" n="19"/>gloria veniamus deposita peccati carne. Hanc sapientiam coelestem 
+      <lb ed="#H" n="20"/>negat Romanae sedis sapientia: contra haec dicta Psal 143. v. 3. Ne 
+      in<lb ed="#H" n="21" break="no"/>grediaris in judicium cum servo tuo, quia in conspectu tuo non 
+      ju<lb ed="#H" n="22" break="no"/>stificabitur ullus vivens. Rom. 3. 20. Ex operibus Legis nulla caro 
+      justi<lb ed="#H" n="23" break="no"/>ficabitur in conspectu Dei. Idem repetitur Gal. 2. 16. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e347">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Tertio loca a Bellatmino allata ad probandam minorem, sunt 
+      im<lb ed="#H" n="25" break="no"/>pertinentia. Christus enim Matth. 11. 30. non vult, hominibus 
+      rena<lb ed="#H" n="26" break="no"/>tis legis impletionem esse absolute possibilem: nam non agit illic de 
+      <lb ed="#H" n="27"/>Lege, aut de obsequio a nobis praestando Legi, sed agit de 
+      commu<lb ed="#H" n="28" break="no"/>nione cum ipso, ut jugum ipsius Christi efficiatur nostrum. Iugum 
+      <lb ed="#H" n="29"/>Christi, est doctrina &amp; disciplina Christi conjuncta cum 
+      afflictioni<lb ed="#H" n="30" break="no"/>bus &amp; castigationibus quae ab ea dependent, quod jugum in nos 
+      at<lb ed="#H" n="31" break="no"/>tollimus, quum doctrinam &amp; disciplinam Christi recipimus, ei nos 
+      <lb ed="#H" n="32"/>subjicimus, eam servamus, nec detrectamus crucem &amp; afflictionem 
+      <lb ed="#H" n="33"/>multiplicem ejus causa subire, ferre &amp; perferre. Hoc jugum renatis 
+      <lb ed="#H" n="34"/>in Christum vere credentibus non molestum est sensu, sed suave: non 
+      <lb ed="#H" n="35"/>grave, sed leve. De jugo Christus loquitur, non de operibus jugum 
+      <lb ed="#H" n="36"/>Christi portantium: de sensu, non de motu sive actu &amp; operatione 
+      <lb ed="#H" n="37"/>nostra. Praecepta Dei sunt aspera &amp; gravia actu propter infirmitatem 
+      <lb ed="#H" n="38"/>carnis nostrae &amp; ἀκρίβειαν illorum: jugum Christi est suave sensu, &amp; 
+      <lb ed="#H" n="39"/>leve onus illius propter συζυγίαν Christi in nobis habitantis per 
+      Spi<lb ed="#H" n="40" break="no"/>ritum Sanctum. Hinc sit ut vere fideles non tantum libenter 
+      recipi<lb ed="#H" n="41" break="no"/>ant doctrinam Christi, sed etiam ultro disciplinae ejus se subjiciant,  
+      <lb ed="#H" n="42"/>imo &amp; cum gaudio pro Christo patiantur. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e393">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Quod attinet locum 1. Joh. 5. v. 3. Haec est charitas Dei, ut mandata 
+      <lb ed="#H" n="44"/>ejus servemus: &amp; mandata ejus non sunt gravia: in eo mandata 
+      gra<lb ed="#H" n="45" break="no"/>via non intelliguntur impossibilia, sed molesta, ingrata, injucunda, 
+      <lb ed="#H" n="46"/>acerba. Christiano enim homini ac vere fideli mandata Dei sunt 
+      ju<lb ed="#H" n="47" break="no"/>cunda atque grata. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e409">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Instat: Qui possunt diligere Deum &amp; proximum, iis lex Dei est 
+      ab<lb ed="#H" n="49" break="no"/>solute possibilis: At renati possunt diligere Deum &amp; proximum: Ergo 
+      <lb ed="#H" n="50"/>illis lex Dei est absolute possibilis. Major probatur sequentibus dictis, 
+      <lb ed="#H" n="51"/>Joh. 14. v. 23. Si quis diligit me, sermonem meum servabit. Rom. 13. 8. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e422">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>Qui diligit proximum, Legem implevit. Gal. 5. 24. Omnis lex in uno 
+      ser<lb ed="#H" n="53" break="no"/>mone impletur, Diliges proximum tuum, sicut teipsum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e431">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>RESP. Est distinguendum: Qui possunt diligere Deum &amp; 
+      pro<lb ed="#H" n="55" break="no"/>ximum, nimirum perfectione ea quam lex requirit, iis lex Dei est 
+      ab<lb ed="#H" n="56" break="no"/>solute possibilis. At renatos posse diligere perfectione ea quam Lex 
+      <lb ed="#H" n="57"/>requirit, negatur. Deinde testimonia allegata non probant majorem 
+      <lb ed="#H" n="58"/>ita restrictam: nam Johan. 14. 23. tantum docetur, dilectionis erga 
+      <lb ed="#H" n="59"/>Christum effectum &amp; τεκμήριον, esse observationem sermonis 
+      Chri<lb ed="#H" n="60" break="no"/>sti: ac proinde quanto plus quispiam Christum amat, tanto magis 
+      <lb ed="#H" n="61"/>studet Christi sermonem servare. In dicto Rom. 13. vers. 8. &amp; Gal. 5. 
+      <lb ed="#H" n="62"/>v. 14. Paulus non agit de tota Lege verum synecdochice Legis 
+      no<lb ed="#H" n="63" break="no"/>mine intelligit secundam Decalogi tabulam, &amp; tantum de officiis 
+      lo<lb ed="#H" n="64" break="no"/>quitur quae nobis erga proximum demandantur, ut contextus 
+      indi<lb ed="#H" n="65" break="no"/>cat. Nihil enim hic ait de cultu DEI immediato. Dilige 
+      proxi<lb ed="#H" n="66" break="no"/>mum tuum, quemadmodum lex praescribit, &amp; secundae tabulae 
+      <lb ed="#H" n="67"/>legis satisfacies. Sed hoc praestare minime potes. Nihil ergo est, quod  
+      <lb ed="#H" n="68"/>te tuae charitatis opinione vendites, quae quidem etsi tanta esset, 
+      quan<lb ed="#H" n="69" break="no"/>ta in ullum unquam hominem (Christum excipio) cecidisset, longe 
+      <lb ed="#H" n="70"/>tamen a Legis praescripto abesset, nec te justum efficere posset coram 
+      <lb ed="#H" n="71"/>Deo: nam ad absolutam Legis impletionem pertinet praecipue Dei 
+      <lb ed="#H" n="72"/>dilectio perfectissima. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e477">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Instat rursus. Aliqui justi servarunt mandata Dei: Ergo justis Lex 
+      <lb ed="#H" n="74"/>Dei est absolute possibilis. Antecedens probatur exemplis. Psal. 118. 
+      <lb ed="#H" n="75"/>qui Hebraeis est 119. v. 10. inquit David: In toto corde meo exquisivi 
+      <lb ed="#H" n="76"/>te. De Asa, Ezechia, Josia similiter dicitur quod toto corde Deum 
+      quae<lb ed="#H" n="77" break="no"/>siverint De Josua dicitur cap. 11. vers. 15. quod universa compleverit 
+      <lb ed="#H" n="78"/>quae Dominus Mosi praeceperat, quod non praeterierit de universis 
+      man<lb ed="#H" n="79" break="no"/>datis nec unum quidem verbum, quod jusserat Dominus Mosi. Luc. 1 v. 
+      <lb ed="#H" n="80"/>6. de Zacharia &amp; Elisabetha dicitur: Erant justi ambo ante Deum, 
+      <lb ed="#H" n="81"/>incedentes in omnibus mandatis &amp; justificationibus Domini sine 
+      que<lb ed="#H" n="82" break="no"/>rela. De Apostolis Dominus ait Johan. 17. vers. 6. Tui erant, &amp; mihi 
+      <lb ed="#H" n="83"/>eos dedisti, &amp; sermonem tuum servaverunt. Eosdem etiam vocat 
+      ami<lb ed="#H" n="84" break="no"/>cos Luc. 12. vers. 4. Dico autem vobis amicis meis. Et Johan. 15. vers. 15. 
+      <lb ed="#H" n="85"/>Vos autem dixi amicos. Et tamen ibidem jam dixerat, solos amicos 
+      <lb ed="#H" n="86"/>esse, qui praecepta custodiunt, Apostolus vero Paulus Rom. 7. versic. 
+      <lb ed="#H" n="87"/>19, 20. de praecepto, Non concupisces, verba faciens: Quod nolo, 
+      in<lb ed="#H" n="88" break="no"/>quit, facio, si autem quod nolo facio, jam non ego operor illud, sed quod 
+      <lb ed="#H" n="89"/>habitat in me peccatum. Ubi aperte demonstrat, se non peccare, dum 
+      <lb ed="#H" n="90"/>invitus concupiscit, quia non ipse illud opus facit, proinde servare se 
+      <lb ed="#H" n="91"/>legem, quae quum jubet, non concupisces, voluntati praecipit, ne 
+      ve<lb ed="#H" n="92" break="no"/>lit concupiscere, non sensui, qui legis capax non est. Unde ibidem ad¬ 
+      <!--cod-MkL9py-0600.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>dit vers. 25. Ego ipse mente servio Legi Dei. At si mente serviebat Legi, 
+      <lb ed="#H" n="94"/> 
+               <lb ed="#H" n="95"/>cum aliquo mentis consensu. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e537">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>RESP. Primo antecedens enthymematis istius est ambiguum: 
+      <lb ed="#H" n="97"/>Nam aliqui justi servarunt mandata Dei, id est, serio ac non 
+      simula<lb ed="#H" n="98" break="no"/>to studio, non secundum aliqua tantum, sed secundum omnia DEI 
+      <lb ed="#H" n="99"/>praecepta vitam instituerunt: nemo tamen Legem Dei secundum 
+      o<lb ed="#H" n="100" break="no"/>mnes ejus partes &amp; gradus perfecte implevit. Deinde ambigua est 
+      et<lb ed="#H" n="101" break="no"/>am probatio antecedentis, in qua toto corde, toto animo, tota 
+      volun<lb ed="#H" n="102" break="no"/>tate est idem quod sincero ac non simulato studio. Josu. 11. versic. 15. 
+      <lb ed="#H" n="103"/>sermo est de Josua secundum quid, cum omnia, quae Deus Mosi 
+      man<lb ed="#H" n="104" break="no"/>daverat, fecisse dicitur, nimirum quae ad expeditionem illam bellicam 
+      <lb ed="#H" n="105"/>attinent, quae ibi describitur: non autem agitur ibi de universae Legis 
+      <lb ed="#H" n="106"/>impletione. Locus Luc. 1. v. 6. de Zacharia &amp; Elisabetha supra est 
+      ex<lb ed="#H" n="107" break="no"/>plicatus sexto libro, capite trigesimo-sexto, columna 2989. Joh. 17. 
+      <lb ed="#H" n="108"/>6. cum de Apostolis dicitur, quod sermonem Dei servaverint, non est 
+      <lb ed="#H" n="109"/>sententia quod impleverint perfecte omnibus numeris praecepta Dei, 
+      <lb ed="#H" n="110"/>sed quod doctrinam Dei a Christo annunciatam amplexi sint fide &amp; 
+      <lb ed="#H" n="111"/>bona conscientia &amp; eam professi sint atque propagaverint. Luc. 12. v. 
+      <lb ed="#H" n="112"/>4. &amp; Johan 15. v. 15. non docetur, discipulos Christi implevisse legem 
+      <lb ed="#H" n="113"/>Dei omnibus partibus &amp; gradibus alioqui non fuisset necesse 
+      Chri<lb ed="#H" n="114" break="no"/>stum pro ipsis mori &amp; sanguinem effundere in remissionem 
+      pecca<lb ed="#H" n="115" break="no"/>torum ipsorum. Locus ad Rom. 7. 19, 20, 25. probat potius, Paulum 
+      <lb ed="#H" n="116"/>non implevisse Legem Dei. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e587">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Sic responsum est ad primam obiectionem. 
+      <lb ed="#H" n="118"/>SECUNDA: Quicunque non peccant in bonis operibus quae faciunt, 
+      <lb ed="#H" n="119"/>eorum bona opera non sunt imperfecta atque impura: Iusti non peccant 
+      <lb ed="#H" n="120"/>in bonis operibus quae faciunt: Ergo, &amp;c. Minor probatur exemplo 
+      <lb ed="#H" n="121"/>Jobi, de quo dicitur Job. 1. vers. 22. In omnibus his non peccavit Iob 
+      la<lb ed="#H" n="122" break="no"/>biis suis, nec stultum aliquid contra Deum loquutus est: &amp; cap. 2. vers. 
+      <lb ed="#H" n="123"/>3. Deus ipse ait de Jobo ad Satanam: Nunquid considerasti servum 
+      <lb ed="#H" n="124"/>meum lob, quod non sit illi similis in terra; vir simplex &amp; rectus, &amp; 
+      <lb ed="#H" n="125"/>recedens a malo, &amp; adhuc retinens innocentiam? 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e611">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>RESP. Sophisticum est accipere simpliciter, quae secundum quid 
+      <lb ed="#H" n="127"/>dicuntur. De Jobo autem haec dicuntur in Scriptura secundum quid. 
+      <lb ed="#H" n="128"/>q. d. hactenus neque facto, neque dicto indice ullius impatientiae 
+      Jo<lb ed="#H" n="129" break="no"/>bus Deum offendit, sed totis viribus sese a malo subtraxit, ne aliorum 
+      <lb ed="#H" n="130"/>vitiis inficeretur, studens religioni erga Deum, &amp; justitiae erga 
+      homi<lb ed="#H" n="131" break="no"/>nes absque fuco &amp; simulatione. Nequaquam vero accipienda haec 
+      <lb ed="#H" n="132"/>sunt simpliciter, ac si nunquam in uliis bonis operibus suis peccasset. 
+      <lb ed="#H" n="133"/>Nam caput tertium &amp; multa quae sequuntur, item trigesimum-
+      octa<lb ed="#H" n="134" break="no"/>vum &amp; sequentia aliquot in eodum libro Jobi abunde testantur, Jobi 
+      <lb ed="#H" n="135"/>patientiam nutasse &amp; a Deo graviter increpatum, quod in sermonibus 
+      <lb ed="#H" n="136"/>suis imperite &amp; sine consilio sensa animi sui effunderet, quod etiam 
+      <lb ed="#H" n="137"/>consilium Dei obscurate niteretur. Atqui Jobus non tantum 
+      inno<lb ed="#H" n="138" break="no"/>centiam suam tueri conabatur, sed etiam Dei sapientiam, bonitatem, 
+      <lb ed="#H" n="139"/>justitiam, potentiam asserere volebat, quod certe bonum opus erat: 
+      <lb ed="#H" n="140"/>sed etsi initio patientissime omnia ferret &amp; contra Deum neque 
+      di<lb ed="#H" n="141" break="no"/>ctis neque factis, neque animo, neque ore impatientia peccaret: 
+      au<lb ed="#H" n="142" break="no"/>ctis tamen calamitatibus, bonum opus illud contaminavit 
+      immodi<lb ed="#H" n="143" break="no"/>cis querelis de sua afflictione &amp; parum consideratis sermonibus de 
+      <lb ed="#H" n="144"/>Dei judiciis. 
+      <lb ed="#H" n="145"/>TERTIA objectio: Qui bona opera sua nomine justitiae ornanda 
+      <lb ed="#H" n="146"/>censent, &amp; in judicio Dei ea posse consistere confidunt, illorum cerre 
+      ope<lb ed="#H" n="147" break="no"/>ra bona sunt perfecte bona &amp; pura: At justi bona opera sua nomine 
+      ju<lb ed="#H" n="148" break="no"/>stitiae suae ornanda censent &amp; confidunt ea in judicio Dei posse 
+      consiste<lb ed="#H" n="149" break="no"/>re: Ergo, &amp;c. Minor probatur exemplo Davidis, qui ait Psalm. 7. vers.  
+      <lb ed="#H" n="150"/>9. ludica me Domine secundum justitiam meam, &amp; secundum 
+      inno<lb ed="#H" n="151" break="no"/>centiam meam super me. Psalm. 16. qui Hebraeis est 17. vers. 1. &amp; 
+      se<lb ed="#H" n="152" break="no"/>quentibus: Exaudi Domine justitiam meam. De vultu tuo judicium 
+      <lb ed="#H" n="153"/>meum prodeat. Oculi tui videant aequitatem. Probasti cor meum &amp; 
+      vi<lb ed="#H" n="154" break="no"/>sitasti nocto, igne me examinasti &amp; non est inventa in me iniquitas. Ps. 
+      <lb ed="#H" n="155"/>17. qui Hebraeis est 18. vers. 21, 22. Retribuet mihi Dominus secundum 
+      <lb ed="#H" n="156"/>justitiam meam &amp; secundum puritatem manuum mearum retribuet 
+      <lb ed="#H" n="157"/>mihi, quia custodivi vias Domini, nec impie gessi a Deo meo. Psalm. 25. 
+      <lb ed="#H" n="158"/>qui Hebraeis est 26. vers. 1. Iudica me Domine, quoniam ego in 
+      inno<lb ed="#H" n="159" break="no"/>centia mea ingressus sum. Psalm. 118. qui Hebraeis est 119. versiculo 
+      <lb ed="#H" n="160"/>centesimo vigesimo-primo: Feci judicium &amp; iustitiam, non 
+      calumni<lb ed="#H" n="161" break="no"/>entur me superbi. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e694">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>RESP. Fallacia nectitur a dicto secundum quid. Nam David de 
+      <lb ed="#H" n="163"/>bonis operibus suis non simpliciter loquitur, sed comparate ad 
+      ope<lb ed="#H" n="164" break="no"/>ra adversariorum suorum, nec id etiam absolute, sed in certa aliqua 
+      <lb ed="#H" n="165"/>causa in qua innocens erat, nempe quod a Saule &amp; aulicis ejus 
+      accu<lb ed="#H" n="166" break="no"/>saretur conjurationis &amp; criminis laesae majestatis Quod vero replicat 
+      <lb ed="#H" n="167"/>Bellarminus, verba Davidis generalia esse, fallere conatur: nam 
+      Da<lb ed="#H" n="168" break="no"/>vid non loquitur universaliter, sed indefinite: circumstantiae autem 
+      <lb ed="#H" n="169"/>omnes evincunt, restringenda esse verba ejus ad certam causam in 
+      <lb ed="#H" n="170"/>qua falso accusabatur  
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e718">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>QUA RTA objectio: Matth. 6. v. 22. Si oculus tuus simplex fuerit, 
+      <lb ed="#H" n="172"/>totum corpus tuum lucidum erit. Et Luc. 11 36. St ergo corpus tuum 
+      luci<lb ed="#H" n="173" break="no"/>dum fuerit, non habens aliquam partem tenebrarum, erit lucidum 
+      to<lb ed="#H" n="174" break="no"/>tum, &amp; sicut lucerna fulgoris illuminabit te. Hoc loco, ait Bellarminus, 
+      <lb ed="#H" n="175"/>describitur opus perfecte bonum, quod videlicet sit bonum ex genere suo, 
+      <lb ed="#H" n="176"/>&amp; ex intentione, aliisque circumstantiis. Nam oculus simplex, est intentio 
+      <lb ed="#H" n="177"/>recta, corpus lucidum, est opus bonum, de quo dicitur Matth. 5. vers. 16. 
+      <lb ed="#H" n="178"/>Sic luceat lux vestra, ut videant opera vestra bona, &amp;c. Tale autem 
+      o<lb ed="#H" n="179" break="no"/>pus pronunciat Dominus esse lucidum totum, nec ullam habere partem 
+      <lb ed="#H" n="180"/>tenebrarum. At si illud opus peccatum esset mortale natura sua, ut 
+      Lu<lb ed="#H" n="181" break="no"/>therani dicunt, magnam partem haberet tenebrarum, imo esset tene¬ 
+      <!--cod-MkL9py-0601.xml-->
+      <pb ed="#H" n="572"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>broesum totum, ut Dominus ibidem dicit de opere quod mala intentione 
+      A<lb ed="#H" n="2" break="no"/>soedatur. Sicut enim mala intentio, ita quodlibet aliud vitium reddit. 
+      <lb ed="#H" n="3"/>opus malum, quamvis ex genere suo bonum esset. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e760">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>ESP. Primo Bellarminus depravat hunc locum falsa interpre 
+      <lb ed="#H" n="5"/>tatione: nam sententia ejus est: Quoniam oculi sunt praecipui men 
+      <lb ed="#H" n="6"/>cis indices, ideo pro toto hominis ingenio apud Hebraeos oculus 
+      po<lb ed="#H" n="7" break="no"/>nitur. Itaque mentis ipsius judicium hic significatur: cui comparam 
+      <lb ed="#H" n="8"/>do potius quam accumulandis opibus incumbere nos oportuit: ut  
+      <lb ed="#H" n="9"/>sicut oculis corpus, ita etiam recta ratibne sid est, Spiritu Dei) 
+      illu<lb ed="#H" n="10" break="no"/>strata tota vita nostra regeretur. Simplicem ergo intelligit oculum 
+      <lb ed="#H" n="11"/>seu vultum qui purum &amp; integrum animum intuentibus testetur: 
+      ni<lb ed="#H" n="12" break="no"/>mirum purum &amp; integrum: cui opponitur improbus, id est, male 
+      af<lb ed="#H" n="13" break="no"/>fectae mentis testis, id est, aliquo vitio inquinatus. Lucidum autem 
+      <lb ed="#H" n="14"/>corpus vocat, quod luce oculorum, id est, recto cernentis judicio 
+      illu<lb ed="#H" n="15" break="no"/>stratur: cui opponitur tenebrosum, id est, quod in tenebris positum 
+      <lb ed="#H" n="16"/>est, vitiosis videlicet affectibus luminibus mentis officientibus 
+      <lb ed="#H" n="17"/>QUINTA objectio ex 1. Corinth. 3. v. 12, 13, 14, 15. Si quis super 
+      <lb ed="#H" n="18"/>aedificat supra fundamentum hoc, aurum; argentum, lapides preciosos 
+      <lb ed="#H" n="19"/>ligna, foenum, stipulam; uniuscujusque opus quale sit, ignis probabit. Si 
+      <lb ed="#H" n="20"/>cujus opus manserit, quod superaedificavit, mercedem accipiet: si cujus 
+      <lb ed="#H" n="21"/>opus arserit, detrimentum patietur, &amp;c. Quo locoindicantur esse 
+      quae<lb ed="#H" n="22" break="no"/>dam opera supra fundamentum verae fidei aedificata adeo bena, ut nihil 
+      <lb ed="#H" n="23"/>omnino habeant vitii. Id enim primum ostendit comparatio ad aurum, 
+      <lb ed="#H" n="24"/>argentum, lapides preciosos. Deinde quod illa opera in igne diuvini iudici. 
+      <lb ed="#H" n="25"/>manere dicantur, &amp; mercedem accipere. Certe enim peccata nec aurum 
+      <lb ed="#H" n="26"/>dici possunt, nec in diuvini judicii igne subsisterent, nec mercedem, sed 
+      poe<lb ed="#H" n="27" break="no"/>nam, supplciumque perciperent 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e818">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>RESP. Et hunc locum corrumpit Bellarminus falsa 
+      interpreta<lb ed="#H" n="29" break="no"/>tione: verum autem sensum ejus vide superiore libro, capite ultimo 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e827">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>SEXTA objectio Jacob. 2. vers 2. dicit Apostolus; In multis 
+      os<lb ed="#H" n="31" break="no"/>fendimus omnes: Ergo non omnia opera justorum sunt imperfecta &amp; De 
+      <lb ed="#H" n="32"/>impura 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e838">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>RESP. Non istud sequitur, sed hoc potius, possibile esse ut 
+      vi<lb ed="#H" n="34" break="no"/>bonus faciat malum: non enim qui bonus est nihil nisi bonum facit 
+      <lb ed="#H" n="35"/>in eo statu in quo bonitas nondum est perfecta, qualis est status hujus 
+      <lb ed="#H" n="36"/>vitae 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e851">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>SEPTIM Aobjectio: Iustis proponuntur cohortationes &amp; ad 
+      mo<lb ed="#H" n="38" break="no"/>nitiones ut non peccent: veluti Psal. 4. Irascimini &amp; nolite peccare. Jesa. 
+      <lb ed="#H" n="39"/>I. Quiescite agere perverse, discite bene facere. Joh. 5. Noli amplius 
+      pec<lb ed="#H" n="40" break="no"/>care, &amp; c. Ergo bona opera justorum non sunt imperfecta &amp; impura 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e864">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>RESP. Ex eo potius sequitur, justos peccatis obnoxios esse &amp;E 
+      <lb ed="#H" n="42"/>saepe peccare. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e873">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>OCTAVA objectio: Quae opera placent Deo, ea sunt perfecta 
+      <lb ed="#H" n="44"/>ac simpliciter pura: Justorum opera placent Deo: Malach. 3. Plate 
+      <lb ed="#H" n="45"/>bit Deo sacrificium Iuda. Actor. 10. Qui timet Deum &amp; operatur 
+      ju<lb ed="#H" n="46" break="no"/>stitiam, acceptus est illi. 1. Pet. 2. Offerentes spirituales hostias 
+      acceptabi<lb ed="#H" n="47" break="no"/>les Deo, &amp;c. Ergo, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e890">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>RESP. Quae opera placent Deo propter se seu ob suam digni 
+      <lb ed="#H" n="49"/>tatem propriam, illa sunt perfecta ac simpliciter pura. Sed justorum 
+      <lb ed="#H" n="50"/>opera placere Deo propter se seu ob illorum dignitatem, negatur  
+      <lb ed="#H" n="51"/>Nam sicut nemo hominum placet Deo, nisi propter CHRISTUM: 
+      <lb ed="#H" n="52"/>ita nulla opera hominum placent Deo nisi propter Christum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e906">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>NONA objectio: Iustorum opera nominantur absolute bona 
+      ope<lb ed="#H" n="54" break="no"/>na, Matth. 5. Vt videant vestra bona opera, 1. Tim. 6. divites fieri in 
+      o<lb ed="#H" n="55" break="no"/>peribus bonis. Tit. 3. Curent operibus bonis praeesse, qui credunt DEG 
+      <lb ed="#H" n="56"/>Ephes. 2. Creati in Christo Iesu in operibus bonis: Ergo sunt perfecta. 
+      <lb ed="#H" n="57"/>itque 
+      pura<lb ed="#H" n="58" break="no"/>RESP. Sophistarum est ea quae secundum quid dicuntur, 
+      sim<lb ed="#H" n="59" break="no"/>pliciter accipere. Opera nostra dicuntur bona non quod absolute &amp; 
+      <lb ed="#H" n="60"/>simpliciter sint bona; quis enim hominum in hac vita eo perfectionis 
+      <lb ed="#H" n="61"/>veniat? Sed quia bona esse debent jussu &amp; autoritate Dei. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e930">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Sic explicatum &amp; defensum est primum argumentum 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e937">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>quo confirmatur, bona opera nostra non esse me¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e944">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>ritoria vitae aternae: sequun¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e951">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>tur alia. 
+      <lb ed="#H" n="66"/>II. Bona opera nostra sunt debita Deo: sicut Dominus ait: 
+      <lb ed="#H" n="67"/>Luc. 17. v. 10. Quum feceritis omnia quae praecepta sunt vobis, dicite, 
+      ser<lb ed="#H" n="68" break="no"/>vi inutiles sumus: nam quod debuimus facere fecimus. Unde sic 
+      argu<lb ed="#H" n="69" break="no"/>mentamur: Quicquid pro debito exigitur, meritum non est; Bona 
+      <lb ed="#H" n="70"/>nostra opera pro debito exiguntur: Ergo bona opera nostra non sunm 
+      <lb ed="#H" n="71"/>merita. Majorem probat Dominus comparatione v. 7. &amp; sequenti 
+      <lb ed="#H" n="72"/>bus: Quis autem vestrum habet servum arantem, aut pascentem, qui 
+      <lb ed="#H" n="73"/>regresso ab agro, dicat statim, Accede, &amp; recumbe? Imo nonne dicit ei, 
+      <lb ed="#H" n="74"/>Para quod coenem, &amp; praecinctus ministra mihi usquedum edero ac 
+      bi<lb ed="#H" n="75" break="no"/>bero: &amp; postea edito tu &amp; bibito? Num gratiam habet servo illi, quid  
+      <lb ed="#H" n="76"/>fecit quae ipsi edicta fuerant? non puto, Si dominus servo, quem non 
+      fe<lb ed="#H" n="77" break="no"/>cit, &amp; cui nullam agendi vim praebuit, gratiam tamen pro omnibus 
+      <lb ed="#H" n="78"/>officiis nullam debet, quia servus contra domino debet, quicquid 
+      o<lb ed="#H" n="79" break="no"/>mnino praestare potest: quanto minus nobis Deus aliquid debebit,  
+      <lb ed="#H" n="80"/>quos &amp; creavit, &amp; redemit, &amp; viribus donavit? Si fecimus quod 
+      debui<lb ed="#H" n="81" break="no"/>mus, gratiam non meremur, quia debuimus, antequam fecimus: 
+      me<lb ed="#H" n="82" break="no"/>rentur enim aliquid, qui faciunt quod non debent. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e996">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>III. Opera nost: a quatenus sunt bona, non sunt proprie nostra 
+      <lb ed="#H" n="84"/>sed sunt gratuita Dei dona 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1005">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>IV. Nulla opera nostra Deo prosunt, Jobi 22. 2. &amp; 34. 7. Psal. 
+      <lb ed="#H" n="86"/>16. 2. &amp; Psal. 50. v. 9. &amp; sequentibus Rom. 11. 35. Unde quum feceris 
+      <lb ed="#H" n="87"/>mus omnia quae praecepta funt nobis, servi inutiles sumus, ut Chri 
+      <lb ed="#H" n="88"/>stus ipse docet Luc. 17 10 Nulla igitur opera nostra quicquam sua 
+      <lb ed="#H" n="89"/>natura de Deo mereri possunt &amp; eum obligare ad praemium 
+      dan<lb ed="#H" n="90" break="no"/>dum. 
+      <!--cod-MkL9py-0601.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>V. Inter bona opera nostra &amp; vitam aeternam nulla est 
+      propor<lb ed="#H" n="92" break="no"/>tio. Omne meritum necesse est aequari praemio. At illi beatae vitae in 
+      <lb ed="#H" n="93"/>qua cum Deo &amp; de Deo vivitur, nullus potest aequari labor, nulla 
+      o<lb ed="#H" n="94" break="no"/>pera comparati, praesertim cum Apostolus dicat Rom. 8. v. 18. Non 
+      <lb ed="#H" n="95"/>sunt condignae passiones hujus temporis ad futuram gloriam quae 
+      reve<lb ed="#H" n="96" break="no"/>labitur in nobis: quemadmodum docet Gregorius Magnus Papa 
+      <lb ed="#H" n="97"/>Romanus in explanatione septimi Psalmi poenitentialis, super verba, 
+      <lb ed="#H" n="98"/>Auditam fac mihi mane misericordiam tuam, 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1044">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>VI. Angeli boni nihil apud Deum promereri possunt, nec 
+      ho<lb ed="#H" n="100" break="no"/>mines integri in primo suo statu potuissent: multo minus opera 
+      no<lb ed="#H" n="101"/> 
+            </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1055">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>VII. Ne quidem Christus ipse quicquam apud Deum nobis 
+      <lb ed="#H" n="103"/>meritus fuisset, aut mereri potuisset, nisi simul verus Deus esset 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1064">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>IIX. Si bona opera essent meritoria, sequerentur multa 
+      ab<lb ed="#H" n="105" break="no"/>surda. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1073">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Primo, bona opera praecederent gratiam Dei. 
+      <lb ed="#H" n="107"/>Secundo, esset de quo gloriaremur apud Deum; 
+      <lb ed="#H" n="108"/>Tertio, turbaretur certitudo fidei de justificatione &amp; salute nostra 
+      <lb ed="#H" n="109"/>per Christum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1087">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Quario, Christus frustra esset mortuus. 
+      <lb ed="#H" n="111"/>Quinto, irrita esset promissio gratiae 
+      <lb ed="#H" n="112"/>Sexto, Christus non esset perfectus Servator 
+      <lb ed="#H" n="113"/>Septimo, diversi modi justificandi &amp; salutem consequendi 
+      intro<lb ed="#H" n="114" break="no"/>ducerentur: aliter enim justificatus &amp; servatus esset Abraham: aliter 
+      <lb ed="#H" n="115"/>nos justificaremur &amp; servaremur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1105">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>Repudianda igitur Papistarum opinio de MERITO quod duplex  
+      <lb ed="#H" n="117"/>faciunt, de condigno, &amp; de congruo. Biel in 2. dist. 27. q. unica, notab. 3 
+      <lb ed="#H" n="118"/>Bonavent. in lib. 1. Sententiar. dist. 41. quaest. 1. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1116">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Meritum de condigno, vocant opus bonum a voluntate elicitum 
+      <lb ed="#H" n="120"/>ad praemium alicui secundum debitum justitiae retribuendum, qui 
+      <lb ed="#H" n="121"/>consistit in quadam proportione meriti ad praemium &amp; aequalitate. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1127">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Meritum de congruo seu meritum congrus, nominant opus bonum. 
+      <lb ed="#H" n="123"/>quod homo nondum renatus ante fidem facit per se, quod ex se qui  
+      <lb ed="#H" n="124"/>dem imperfectum est &amp; nihil meretur, sed tamen propter quod sit, 
+      <lb ed="#H" n="125"/>congruum misericordiae Dei dare homini operanti quod in se est, 
+      <lb ed="#H" n="126"/>conversionem &amp; vitam aeternam. Sic Biel ait: Animam bono motu 
+      in<lb ed="#H" n="127" break="no"/>Deum ex arbitrij libertate elicito primam gratiam mereri posse de 
+      con<lb ed="#H" n="128" break="no"/>gruo. Hoc autem sic probat, quia actum facientis quod in se est, Deus 
+      <lb ed="#H" n="129"/>acceptet ad tribuendam gratiam primam. Richardus similiter in 2. 
+      di<lb ed="#H" n="130" break="no"/>stinct. 27. in 2. p. q. 1. Ex divina libertate (inquit) homini facienti 
+      <lb ed="#H" n="131"/>quod in se est, gratia datur. Et q. 3. planius: Idem actus sit a gratia &amp; 
+      <lb ed="#H" n="132"/>libero arbitrio: primo modo non est meritorius vitae aeternae de condigno 
+      <lb ed="#H" n="133"/>sed de congruo. Congruum enim videtur, ut homini operanti pro Deo 
+      se<lb ed="#H" n="134" break="no"/>cundum suam virtutem Deus praemium reddat quod decet 
+      excellentis<lb ed="#H" n="135" break="no"/>simam virtutem &amp; bonitatem. Bonaventura in 2. distinction. 28. p. 
+      <lb ed="#H" n="136"/>2. q. 1. Tenendum est igitur, quod liberum arbitrium si excitetur per 
+      a<lb ed="#H" n="137" break="no"/>liquod donum gratia gratis datae potest ad gratiam gratum facientem 
+      <lb ed="#H" n="138"/>se de congruo disponere. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1169">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Jam autem recentiores quosdam Papistas opinionis istius 
+      pu<lb ed="#H" n="140" break="no"/>det. Thomas Stapletonus de universa justificationis doctrina hodie 
+      <lb ed="#H" n="141"/>controversa, libro secundo, capite quarto ait, Meritum de congruo 
+      re<lb ed="#H" n="142" break="no"/>spectu primae gratiae jam olim explosum esse &amp; quorundam duntaxat.  
+      <lb ed="#H" n="143"/>Scholasticorum fuisse ait: at neque Concilium Tridentinum, nequi 
+      <lb ed="#H" n="144"/>Pontifex ullus Romanus meritum congrui explosit. Parum autem 
+      <lb ed="#H" n="145"/>refert quid Stapletonus aut quivis disputator privatim censeat, cum 
+      <lb ed="#H" n="146"/>res ista nullo sit publico judicio Ecclesiae Romanae constituta. Bellar  
+      <lb ed="#H" n="147"/>minus in judic. de libr. Concord. mendac. 8. confidenter affirmat,  
+      <lb ed="#H" n="148"/>quod omnes falsissimum esse intelligunt, Scholasticos illis operibus 
+      <lb ed="#H" n="149"/>quae ex fide &amp; auxilio Dei fiunt, non tale meritum tribuere ut ei 
+      ex<lb ed="#H" n="150" break="no"/>ustitia merces respondeat: sed meritum duntaxat impetrationis, quod 
+      <lb ed="#H" n="151"/>Scholastici meritum de congruo, non de condigno, nominare solent  
+      <lb ed="#H" n="152"/>Sic Bellarminus meritum de congruo retinet, sed illud in operibus 
+      <lb ed="#H" n="153"/>cum fide factis constituit: merito autem de condigno nullum locum: 
+      <lb ed="#H" n="154"/>relinquere videtur. Vult enim mercedem non deberi meritis ex 
+      justi<lb ed="#H" n="155" break="no"/>tia, sed tantum impetrari, &amp; meritum impetrationis vocat, quod 
+      vete<lb ed="#H" n="156" break="no"/>res Scholastici meritum de condigno semper appellabant, Ita 
+      merce<lb ed="#H" n="157" break="no"/>dem tantum impetrari, non meritis nostris tribui concedit. Sic tol 
+      <lb ed="#H" n="158"/>untur merita operum: atque utinam nomen ipsum meriti, quoc 
+      <lb ed="#H" n="159"/>gratiae usque adeo infestum est, ex omnibus Christianorum scholis 
+      <lb ed="#H" n="160"/>&amp; Ecclesiis tollatur. Sed Scholasticorum longe diversa est sententia, 
+      <lb ed="#H" n="161"/>quod Bellarminus ignorare non potuit. 
+      <lb ed="#H" n="162"/>Idem ait meritum nostrum vel ex nobis esse vel ex Deo. Atqui ex 
+      <lb ed="#H" n="163"/>nobis esse non potest: quia ex nobis ipsis, ut ex nobis, nihil boni o¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1228">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>peris prodire potest. Quod vero est ex Deo, id Dei donum est, non 
+      <lb ed="#H" n="165"/>meritum nostrum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1238">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>E contrario Papani contendunt, bona opera nostra esse meritoria 
+      <lb ed="#H" n="167"/>vitae aeternae: &amp; istam opinionem suam conantur confirmare 
+      sequen<lb ed="#H" n="168" break="no"/>tibus argumentis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1249">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>PRIMUM: Bona opera nostra vocantur in Sacris literis merita 
+      <lb ed="#H" n="170"/>vel expresse vel aequipollentibus vocibus: Ergo sunt meritoria vitae ae 
+      <lb ed="#H" n="171"/>ternae. Antecedens entliymematis istius probatur ex Ecclesiastici cap. 
+      <lb ed="#H" n="172"/>16. v.16. ubi legitur: Omnis misericordia faciet locum unicuique 
+      secun<lb ed="#H" n="173" break="no"/>dum meritum operum suorum 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1265">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>RESP. Primo antecedens entliymematis negatur: nam vox 
+      me<lb ed="#H" n="175" break="no"/>citi non tribuitur bonis operibus in Scriptura; nec minus nova vox,  
+      <lb ed="#H" n="176"/>quam res ipsa. Deinde probatio ejus laborat petitione principii, quia 
+      <lb ed="#H" n="177"/>sumta est ex libro apocrypho. Tertio testimonium aliegatum vitiose 
+      <lb ed="#H" n="178"/>versione est depravatum. Graecus textus ita habet: Πασn ἐλεημοσυν α, 
+      <lb ed="#H" n="179"/>ποιήστ. τόπον, ἵἰαςος κς ζα εργα αυτῳ δυξησῶ. Verti igitur debet: Omni 
+      <lb ed="#H" n="180"/>misericordi beneficentiae dabit locum: unusquisque secundum opera sub 
+      <lb ed="#H" n="181"/>nvinturus est. Dicit, secundum opera, non autem secundum meritum 
+      <lb ed="#H" n="182"/>operum, aut pro merito &amp; dignitate operum, id est, sicut merentur oper 
+      <!--cod-MkL9py-0602.xml-->
+      <pb ed="#H" n="573"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>neque propter opera. Ista enim differunt, ut docet Gregorius Magnus A 
+      <lb ed="#H" n="2"/>Papa Romanus in explanatione septimi Psalmi poenitentialis, super  
+      <lb ed="#H" n="3"/>verba, Auditam fac mihi mane misericordiam tuam, ubi sic scribit 
+      <lb ed="#H" n="4"/>Si illa sanctorum felicitas misericordia est &amp; non meritis acquiritur. 
+      <lb ed="#H" n="5"/>subi erit quod scriptum est, Et tis reddes unicuique secundum opera sua? Si 
+      <lb ed="#H" n="6"/>secundum opera redditur, quomodo misericordia aestimabitur? Sed 
+      ali<lb ed="#H" n="7" break="no"/>ud est secundum opera reddere, &amp; aliud est propter ipsa opera reddere. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1311">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Instant: Hebr. 13. 16. dicitur: Beneficentiae &amp; communionis nolite 
+      <lb ed="#H" n="9"/>oblivisci: talibus enim hostiis promeretur Deus: Ergo bona opera 
+      no<lb ed="#H" n="10" break="no"/>stra sunt merita. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1322">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>RESP. Primo barbara est versio, quia promeretur passive in ea 
+      B<lb ed="#H" n="12" break="no"/>bonitur quum passivum verbum non sit, quod vel pueri norunt. In 
+      <lb ed="#H" n="13"/>Graeco est δαρισείτας, quod Latine est delectatur. Placent enim 
+      bo<lb ed="#H" n="14" break="no"/>na opera Deo propter Christum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1335">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Instant rursus: Patres orthodoxi bona opera nostra appellant 
+      meri<lb ed="#H" n="16" break="no"/>ta, &amp; dicunt nos promereri Deum fide &amp; vivendo ex fide: veluti 
+      Au<lb ed="#H" n="17" break="no"/>gustinus nono tomo, tractatu tertio in Evangelium Iohannis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1347">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>RESP. Peccant Papistae petitione principii: Patres enim non 
+      <lb ed="#H" n="19"/>sunt principium dogmatum religionis Christianae. Deinde Patres ad 
+      <lb ed="#H" n="20"/>tales loquendi modos adducti sunt vitiosa versione Bibliorum: 
+      pro<lb ed="#H" n="21" break="no"/>inde &amp; illi loquendi modi sunt vitiosi. Tertio etiamsi Patres bona ope 
+      <lb ed="#H" n="22"/>ra vocent merita, &amp; dicant nos promereri Deum: tamen non docen 
+      <lb ed="#H" n="23"/>bona opera esse meritoria vitae aeternae. Augustinus enim loco 
+      alle<lb ed="#H" n="24" break="no"/>gato etsi bona opera nostra vocet merita, etsi dicat, cum promerueris 
+      <lb ed="#H" n="25"/>Deum vivendo ex fide, accipies praemium immortalitatem &amp; vitam 
+      ae<lb ed="#H" n="26" break="no"/>ternam: tamen expresse addit, Non pro merito quidem accipies vitam 
+      <lb ed="#H" n="27"/>aeternam, sed tantum pro gratia. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1373">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>SECUNDUM argumentum Papistarum: Si vita aterna est mer 
+      <lb ed="#H" n="29"/>ces, tum datur propter merita operum. Antecedens verum est: Ergo &amp; 
+      <lb ed="#H" n="30"/>consequens. Antecedens probatur ex Matth. 5. v. 12. Gaudete &amp; 
+      exu<lb ed="#H" n="31" break="no"/>tate, quia merces vestra copiosa est in coelis 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1386">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>RESP. Luditur homonymia in nomine mercedis. Est enim mer 
+      <lb ed="#H" n="33"/>ces duplex: gratuita &amp; debita: sicut Ambrosius ait epistolam prima 
+      li<lb ed="#H" n="34" break="no"/>bri primi, ubi ait: Alia est merees liberalitatis &amp; gratiae: aliud 
+      virtu<lb ed="#H" n="35" break="no"/>tis stipendium, laboris remuneratio. Quae distributio nititur illo loco 
+      <lb ed="#H" n="36"/>Pauli Rom. 4. 4 Ei qui operatur, merces non imputatur ex gratia, sed 
+      <lb ed="#H" n="37"/>est ex debito. Papistae perinde faciunt ac si cum Deo negotiatione. 
+      <lb ed="#H" n="38"/>seu mercaturam exercerent, non secus ac si vitam aeternam operibus 
+      <lb ed="#H" n="39"/>suis a Deo emerent. Si vita aterna esset merces debita, tum daretu 
+      <lb ed="#H" n="40"/>propter merita operum nostrorum. Sed debita merces non est, ve 
+      <lb ed="#H" n="41"/>rum gratuita: non ergo datur pro meritis operum. Vita quidem 
+      no<lb ed="#H" n="42" break="no"/>stra aeterna praesupponit meritum, non nostrum, sed Christi, cujus 
+      <lb ed="#H" n="43"/>merces est penes ipsum Jes 62. 11. De loco Matth. 20. 8. vidae sexto 
+      li<lb ed="#H" n="44" break="no"/>bro, capite trigesimo-sexto 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1419">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>TERTIUM argumentum: Si secundum opera Deus reddet 
+      uni<lb ed="#H" n="46" break="no"/>cuique mercedem, tum bona opera sunt meritoria vitae aternae: Illud est 
+      <lb ed="#H" n="47"/>Ergo &amp; hoc. Assumtum probatur his locis, Matth. 16. Filius hominis: 
+      <lb ed="#H" n="48"/>reddet unicuique secundum opera sua. Rom. 12. Apoc. ult.  
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1432">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>RESP. Negatur connexum: quia aliud est secundum opera, 
+      ali<lb ed="#H" n="50" break="no"/>ud propter merita operum, ut paulo ante explicatum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1441">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>QUA RTUM: Bonis operibus reddetur praemium ex justitia: Ergo 
+      <lb ed="#H" n="52"/>bona opera sunt meritoria vitae aternae. Antecedens probatur ex 2. Ti. 
+      <lb ed="#H" n="53"/>moth. 3. 8. Bonum certamen certavi, cursum consummavi, fidem 
+      ser<lb ed="#H" n="54" break="no"/>vavi: in reliquo reposita est mihi corona justitiae, quam reddeot mihi 
+      Do<lb ed="#H" n="55" break="no"/>minus in illa die justus judex 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1458">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>RISP. Homonymia est in verbo reddere, quod hoc in loco 
+      Pau<lb ed="#H" n="57" break="no"/>li non accipitur proprie sed figurate. Nam si propriam verbi 
+      signifi<lb ed="#H" n="58" break="no"/>cationem spectes, nemini quicquam Deus reddet; Quis enim 
+      prior<lb ed="#H" n="59" break="no"/>dedit ei &amp; reddetur ei? ait Paulus Rom. 11. 35. Quum igitur Paulus 
+      <lb ed="#H" n="60"/>neget, cuiquam redditum iri a Deo quicquam, necesse est in hoc loco 
+      <lb ed="#H" n="61"/>verbum reddi improprie usurpari. Deinde reddet Deus coronam  
+      <lb ed="#H" n="62"/>gloriae, non quia debet, sed quia ex gratia promisit, ut dicitur Jacob. 1. 
+      <lb ed="#H" n="63"/>12. BASILIUS MAGNUS concione in Psalmum centes. 
+      deci<lb ed="#H" n="64" break="no"/>mum.quartum, pagin. centesima trigesima- septima Edit. Froben 
+      <lb ed="#H" n="65"/>1566. Convertere in requiem tuam, quia Dominus benefecit tibi: 
+      Pro<lb ed="#H" n="66" break="no"/>posita est enim aterna requies his qui legitime in hac vita decertarunt. 
+      <lb ed="#H" n="67"/>quae non secundum operum debitum acmetitum retribuitur, sed juxta 
+      <lb ed="#H" n="68"/>munificentissimi Dei gratiam his qui in ipsum speraverunt exhibetur.  
+      <lb ed="#H" n="69"/>Hoc ipsum metaphora coronae indicat: Paulus enim similitudine 
+      u<lb ed="#H" n="70" break="no"/>titur ab eo quod ingerendo bello fit, in quo olim moris erat 
+      destin<lb ed="#H" n="71" break="no"/>re coronas illis, qui praeclare certassent. Dabanturque coronae illae 
+      ul<lb ed="#H" n="72" break="no"/>tra stipendia, &amp; considerabantur, ut donum Imperatoris exercitus 
+      <lb ed="#H" n="73"/>virtutem militum honorantis. Tum vita atque gloria aeterna vocatur 
+      <lb ed="#H" n="74"/>corona justitiae, quia justis datur, justaque sententra Judicis, ut 
+      Theo<lb ed="#H" n="75" break="no"/>doretus exponit. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1506">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>QUINTUM, 2. Thessal. 1. v. 5. dicitur: Quae res demonstratio est 
+      <lb ed="#H" n="77"/>justi judicii Dei, ut digni habeamini regno Dei, pro quo etiam ista 
+      pati<lb ed="#H" n="78" break="no"/>mini. Ergo propteropera digni habemur vita aterna. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1517">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>RESP. Imo Paulus nihil hic loquitur de operibus, sed tantum  
+      <lb ed="#H" n="80"/>de passionibus fidelium. Deinde digni habentur fideles, non ex meri 
+      <lb ed="#H" n="81"/>tis seu operibus, sed ex gratia qua Deus dignos facit ad participan 
+      <lb ed="#H" n="82"/>dam sortem sanctorum in luce, ut dicitur Coloss. 1. v. 12. Ideo hoc 
+      ca<lb ed="#H" n="83" break="no"/>pite v. 11. precatur Paulus, ἵνα αζιώση, ut dignos faciat Deus 
+      Thessalo<lb ed="#H" n="84" break="no"/>nicenses vocatione, id est, gloria ad quam vocati sunt.  
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1535">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>Replicatur. Si passiones fidelium merentur regnum Dei; multo 
+      ma<lb ed="#H" n="86" break="no"/>gis opera: Illud est: Ergo &amp; hoc.  
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1544">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>RESP. Falsum est assumtum: Primo, quia Paulus non 
+      docet<lb ed="#H" n="88" break="no"/>passiones nostras mereti regnum Dei: Deinde, quia non possunt 
+      me<lb ed="#H" n="89" break="no"/>teri, quum nulla sit proportio inter passiones &amp; gloriam regni coele 
+      <lb ed="#H" n="90"/>stis, ut Paulus ait Roman. 8. 18. Statuo minime esse paria, quae 
+      praesen<lb ed="#H" n="91" break="no"/>ti tempore perpetimur, gloriae in nobis retegendae. Item secunda epistola 
+      <lb ed="#H" n="92"/>ad Corinthios, capite quarto, versiculo decimo-septimo: Momenta. 
+      <!--cod-MkL9py-0602.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>nea enim levitas afflictionis nostrae, excellentis gloriae pondus aternum 
+      <lb ed="#H" n="94"/>conficit nobis. 
+      <lb ed="#H" n="95"/>SEXTUM, Apocal. 3. vers. 4. dicitur: Habes tamen aliquot capita. 
+      <lb ed="#H" n="96"/>etiam Sardibus quae non inquinarunt vestimenta sua, ideoque incedent 
+      <lb ed="#H" n="97"/>mecum albati: digni enim sunt: Ergo propter bona opera digni habemut. 
+      <lb ed="#H" n="98"/>vita aterna. 
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1579">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>RESP. Sententia loci hujus est: Incedent mecum albati, id est; 
+      <lb ed="#H" n="100"/>plene glorificabuntur, gloria plenae regenerationis &amp; sanctificationis 
+      <lb ed="#H" n="101"/>amicientur: quia digni sunt facti glorificatione per gratuitam 
+      justi<lb ed="#H" n="102" break="no"/>ficationem. Quos enim justificavit, hos &amp; glorificavit, Rom. 8. 
+      Digni<lb ed="#H" n="103" break="no"/>enim sunt, scilicet, non natura sua, sed ex gratia, qua Deus dignos 
+      fe<lb ed="#H" n="104" break="no"/>cit &amp; idoneos ad participandam sortem sanctorum, Coloss. 1. 12. 2. 
+      <lb ed="#H" n="105"/>Thessal. 1. v. 5. 11. Illi cum Christo regnabunt, quos Deus gratuita 
+      <lb ed="#H" n="106"/>sua bonitate praedestinavit ad regnum: quia enim tales 
+      praedestinan<lb ed="#H" n="107" break="no"/>do praepatavit, ut regno digni essent, praepatavit utique secundum 
+      <lb ed="#H" n="108"/>propositum vocandos, ut obediant: praeparavit justificandos, ut ac 
+      <lb ed="#H" n="109"/>cepta gratia recte credant &amp; bene vivant: praepatavit etiam 
+      glorifi<lb ed="#H" n="110" break="no"/>candos, ut Christi cohaeredes effecti, regnum coelorum sine fine 
+      pos<lb ed="#H" n="111" break="no"/>sideant.  
+    </p>
+            <p xml:id="yyy8Uu-gxd815-d1e1613">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Aliorum argumentorum refutationem vide supea sexto libro 
+      ca<lb ed="#H" n="113" break="no"/>pite trcesimo-sexto quod est de Justificatione nostri apud Deum; 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

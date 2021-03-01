@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 50</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 50</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd403"><!-- l6-c50 -->
+            <head xml:id="yyy8Uu-gxd403-Hd1e103">Caput 50</head>
+            <p xml:id="yyy8Uu-gxd403-d1e106">
+      <!--cod-MkL9py-0518.xml-->
+               <pb ed="#H" n="491"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>CAPUT L. 
+      <lb ed="#H" n="2"/>In quo de Sacramentis federis operum.
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e119">
+               <lb ed="#H" n="3"/>QUOD ad species Sacramenti attinet, est Sacramentum 
+      ve<lb ed="#H" n="4" break="no"/>spirituulis federis, vel corporalis. 
+      <lb ed="#H" n="5"/>
+               <!-- line coord error -->
+            </p>
+            <p xml:id="yyy8Uu-gxd403-d1e130">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Sacramentum spiritualis federis, est Sacramentum, quo  
+      <lb ed="#H" n="7"/>Deus promissionem vitae aeternae nobis confirmat &amp; obsignat, nosque 
+      <lb ed="#H" n="8"/>sibi in aeternum consecrat.  
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e141">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>Idque est vel federis operum, vel federis gratiae. 
+      <lb ed="#H" n="10"/>Sacramentum federis operum, est Sacramentum, quod Deus in 
+      <lb ed="#H" n="11"/>statu primaevae integritatis primis parentibus dederat, quo ipsis s 
+      <lb ed="#H" n="12"/>gnificabatur &amp; obsignabatur, eos perpetuo felici illa vita, in qua 
+      con<lb ed="#H" n="13" break="no"/>diti erant, fruituros, si Dei praecepto obtemperatent. 
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e158">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Eratque duplex: arbor vita, &amp; arbor scientiae boni &amp; 
+      ma<lb ed="#H" n="15" break="no"/>Arbor vitae, erat Sacramentum, quo primis parentibi, 
+      nostri<lb ed="#H" n="16" break="no"/>re vitae in 
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e169">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>tur immortalitas vitae, ipsis a Filio Dei continuanda, si in obsequio 
+      <lb ed="#H" n="18"/>Dei perstarent. Nominatur etiam sacramentum immortalitatis 
+      <lb ed="#H" n="19"/>quia immortalitatis erat symbolum &amp; memoriale iis quibus eius 
+      <lb ed="#H" n="20"/>fructu vesci licebat 
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e182">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Arbor vitae non ideo dicta fuit, quod sua virtute &amp; qualitate 
+      ali<lb ed="#H" n="22" break="no"/>qua insita praestaret hominibus immortalitatem, quam sibiipsa dare 
+      <lb ed="#H" n="23"/>non poterat: sed quod Adamo &amp; Evae esset sacramentum &amp; 
+      artha<lb ed="#H" n="24" break="no"/>bo immortalitatis, ut eam videlicet secure sibi promitterent, quam 
+      <lb ed="#H" n="25"/>diu obedientiam Legi praestantes ederent ex illius fructu. Hoc 
+      in<lb ed="#H" n="26" break="no"/>licatur Apoc. 2. vers. 7. his verbis: Qui habet aurem, audiat quid  
+      <lb ed="#H" n="27"/>Spiritus dicat Ecclesiis, victori dabo edere ex arbore illavitae quae es, 
+      <lb ed="#H" n="28"/>in medio Paradisi Dei: Quibus verbis anagogice indicatur, quidnam 
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e204">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>. 
+      <lb ed="#H" n="30"/>illam beatam, &amp; vere vitam quam Christus nobis in regno caelorum 
+      <lb ed="#H" n="31"/>promisit. Paradisus enim, Eden, significavit regnum caelorum, ut  
+      <lb ed="#H" n="32"/>docet Christus ipse his verbis: Hodie mecum eris in Paradiso. Si 
+      <lb ed="#H" n="33"/>milem allusionem a symbolo ad rem significatam vide Proverb. 3. 
+      <lb ed="#H" n="34"/>ubi dicitur Sapientia lignum vitae omnibus apprehendentibus eam, 
+      <lb ed="#H" n="35"/>Et Apoc. 22. v. 2. Ex utraque parte fluminis est arbor vitae in caelest. 
+      <lb ed="#H" n="36"/>urbe Jerosolyma: &amp; v. 14. Beati qui praestant ejus praecepta, ut sit ei 
+      <lb ed="#H" n="37"/>jus inarborem vitae. 
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e228">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Elementum sacramentale erat arbor ipsa in sensus externos 
+      in<lb ed="#H" n="39" break="no"/>currens, qua significabatur Christus verus autor &amp; conservator vitae: 
+      <lb ed="#H" n="40"/>erat igitur arbor vitae non per se, sed spirituali significatione, ad 
+      Chri<lb ed="#H" n="41" break="no"/>stum deducente 
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e241">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Nam Filius Dei non tantum post sapsum, sed etiam ante lapsum 
+      <lb ed="#H" n="43"/>vivificavit hominem, ut Joh. 1. v. 4. docetur: In ipso vita erat, &amp;c. 
+      <lb ed="#H" n="44"/>Coloss. 3. v. 4. Christus est vita illa nostra. 
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e253">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Porro vita haec non fuit tantum corporalis, qua primi parentes 
+      <lb ed="#H" n="46"/>nostri &amp; omnes ipsorum posteri corpus floridum &amp; vegetum, quod 
+      <lb ed="#H" n="47"/>diuturnitate aetatis nunquam lauguesceret, retinuissent: sed multe 
+      <lb ed="#H" n="48"/>magis vita spiritualis, qua animae ipsorum vivifica cum Deo 
+      commu<lb ed="#H" n="49" break="no"/>nicatione fruentes, in perpetua beatitudinis possessione mansissent, 
+      <lb ed="#H" n="50"/>&amp; ratione, intelligentia, aliisque dotibus semper excelluissent 
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e271">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Ritus Sacramentalis ad usum arboris huius requisitus, erat relis 
+      <lb ed="#H" n="52"/>giosa comestio fructus arboris huius, qua significabatur &amp; obsigna 
+      <lb ed="#H" n="53"/>batur primis parentibus nostris communicatio &amp; continuatio vitae 
+      <lb ed="#H" n="54"/>per Filium Dei. 
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e284">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Tantum de arbore vitae, 
+      <lb ed="#H" n="56"/>Arbor scientiae boni &amp; mali, erat Sacramentum, quo primis 
+      pa<lb ed="#H" n="57" break="no"/>rentibus nostris significabatur &amp; obsignabatur, eos in perpetuum 
+      <lb ed="#H" n="58"/>immortali vita summo cum ipsorum bono coniuncta fruituros, si  
+      <lb ed="#H" n="59"/>obedientiam Deo constanter praestarent ab esu fructuum arboris 
+      <lb ed="#H" n="60"/>huius abstinendo: contra autem, si non obedirent, eos magno suo 
+      <lb ed="#H" n="61"/>malo in mortem ruituros 
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e304">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Mors haec non est tantum corporalis, qua corpus vita temporal 
+      <lb ed="#H" n="63"/>&amp; sensu ac motu privatur, divulsa ab illo anima: sed praecipue spiri 
+      <lb ed="#H" n="64"/>tualis, qua anima separatur a vivifica communione cum Deo, &amp; 
+      or<lb ed="#H" n="65" break="no"/>batur beatitudine &amp; excellentibus illis dotibus, quibus fuerat ornata. 
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e317">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Elementum Sacramentale erat arbor ipsa in sensus externos 
+      in<lb ed="#H" n="67" break="no"/>currens, qua significabatur Christus positus ad bonum iis qui ipsum 
+      <lb ed="#H" n="68"/>colunt obedientia; ad malum vero iis qui eum violant sua 
+      inobedi<lb ed="#H" n="69" break="no"/>entia. Unde arbor scientiae boni &amp; mali vocatur Sacramentum 
+      obe<lb ed="#H" n="70" break="no"/>dientiae: item Sacramentum probationis, quia institutum a Deo era 
+      <lb ed="#H" n="71"/>ut obedientia hominis per abstinentiam a fructu vetito probaretur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e335">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Ut autem caeterorum Sacramentorum veritas est Christus Filius 
+      <lb ed="#H" n="73"/>Dei: ita etiam huius Sacramenti 
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e345">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Ritus sacramentasis ad eius usum requisitus erat positus in 
+      absti<lb ed="#H" n="75" break="no"/>nendo ab esu fructuum arboris illius 
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e354">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Ad hoc autem prohibuerat Deus vesci fructibus arboris 
+      scientia<lb ed="#H" n="77" break="no"/>boni &amp; mali, ut ostenderet, hominem non in sua potestate, sed Deo 
+      <lb ed="#H" n="78"/>subditum esse debere, &amp; ordinem suae salutis per obedientiam 
+      custo<lb ed="#H" n="79" break="no"/>dire, per inobedientiam corrumpere. 
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e367">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Hinc &amp; arborem quam tangi vetuit, appellavit arborem scientiae 
+      <lb ed="#H" n="81"/>boni &amp; mali, metonymice ab eventu, quia homo, ex fructu arboris 
+      <lb ed="#H" n="82"/>illius comedens sciturus &amp; experturus erat quantum bonum 
+      amisis<lb ed="#H" n="83" break="no"/>set &amp; in quantum ruisset malum per suam inobedientiam: ac proin 
+      <lb ed="#H" n="84"/>de si eam contra vetitum tangeret, experiretur poenam peccati, &amp; eo 
+      <lb ed="#H" n="85"/>modo dignosceret, quid interesset inter obedientiae bonum &amp; 
+      inter<lb ed="#H" n="86" break="no"/>inobedientiae malum; ut docet August. tom. 16. lib. de natura boni, 
+      <lb ed="#H" n="87"/>adversus Manichaeos. Cum quo consentit, quod idem tomo 8, 
+      in<lb ed="#H" n="88" break="no"/>Enarratione Psal 70. ait: Arbor scientiae boni &amp; mali sic vocata 
+      <lb ed="#H" n="89"/>est, quia homo qui nollet bonum a malo discernere, per praeceptum, 
+      <!--cod-MkL9py-0518.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>discreturus erat per experimentum, ut rangendo vetitum, inveni 
+      <lb ed="#H" n="91"/>ret supplicium. Ita his Sacramentis informabatur homo tum de 
+      <lb ed="#H" n="92"/>mutabili natura sua, ut sibi a se metueret, tum de immutabili 
+      constan<lb ed="#H" n="93" break="no"/>tia Dei, ut studiosissime adhaereret Deo, seque in fide &amp; obsequio 
+      il<lb ed="#H" n="94" break="no"/>lius continere 
+    </p>
+            <p xml:id="yyy8Uu-gxd403-d1e408">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Hactenus de Sacramento federis operum: 
+      <lb ed="#H" n="96"/>sequitur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

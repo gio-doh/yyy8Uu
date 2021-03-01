@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 59</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 59</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd002"><!-- l6-c59 -->
+            <head xml:id="yyy8Uu-gxd002-Hd1e103">Caput 59</head>
+            <p xml:id="yyy8Uu-gxd002-d1e106">
+               <lb ed="#H" n="135"/>CAPUT LIX. 
+      <lb ed="#H" n="136"/>In quo de Signis Temporum.
+    </p>
+            <p xml:id="yyy8Uu-gxd002-d1e113">
+               <lb ed="#H" n="137"/>ATIRACULIS sunt cognata signa temporum, hoc est, insi 
+      <lb ed="#H" n="138"/>gnes eventus nobis a Deo ob oculos statuti, quibus ostendit 
+      <lb ed="#H" n="139"/>adesse tempora de quibus per servos suos praedixit &amp; nos 
+      <lb ed="#H" n="140"/>praemonitos voluit, ut signorum illorum exhibitione nobis obsignes 
+      <lb ed="#H" n="141"/>veritatem verbi sui, &amp; inprimis praedictionum, promissionum &amp; 
+      <lb ed="#H" n="142"/>comminationum suarum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd002-d1e129">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Signa temporum sunt duplicia: quaedam declarant quomodo Deus 
+      <lb ed="#H" n="144"/>rga homines affectus sit, quaedam quod ultimus Christi adventus 
+      im<lb ed="#H" n="145" break="no"/>mineat. 
+    </p>
+            <p xml:id="yyy8Uu-gxd002-d1e140">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>Priora signa temporum, tum praesentem erga homines affectionem 
+      <lb ed="#H" n="147"/>Dei ostendunt, tum futuram 
+    </p>
+            <p xml:id="yyy8Uu-gxd002-d1e150">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Utraque rursus vel favoris sunt, vel irae 
+      <lb ed="#H" n="149"/>Signa favoris diuvini erant opera quae Christus edebat, ut &amp; 
+      resur<lb ed="#H" n="150" break="no"/>rectio ejus tertio die ex mortuis: testabantur enim, venisse jam 
+      tem<lb ed="#H" n="151" break="no"/>pora illa, de quibus tam multa sancti Prophetae praedixerunt, quibus 
+      <lb ed="#H" n="152"/>ex intima misericordia sua Deus populum suum invisere voluit 
+      exhi<lb ed="#H" n="153" break="no"/>bito Christo Servatore mundi. Sic &amp; nunc signa favoris divini sunt,  
+      <lb ed="#H" n="154"/>idmiranda Ecclesiae vel singulorum piorum liberatio e 
+      praelentissi<lb ed="#H" n="155" break="no"/>mis periculis: oloriosa martyria sauctorum qui nullis promissis, 
+      nul<lb ed="#H" n="156" break="no"/>lis damnis, nullis tormentis ac ne mortis quidem terrore a fide 
+      Chri<lb ed="#H" n="157" break="no"/>sti abduci potuerunt sed victoriam de persequutoribus spiritualem 
+      <lb ed="#H" n="158"/>obtinuerunt: generalis multis in locis &amp; inopinata reformatio 
+      Ec<lb ed="#H" n="159" break="no"/>clesiae Dei &amp; religionis, rerumpublicarum, scholarum invitis hostibus 
+      <lb ed="#H" n="160"/>Dei &amp; veritatis coelestis, frustraque renitentibus clam &amp; palam, 
+      pri<lb ed="#H" n="161" break="no"/>vatim &amp; publice: magna &amp; insperata incrementa Ecclesiae, Actor 9ω 
+      <lb ed="#H" n="162"/>SI. 
+      <lb ed="#H" n="163"/>Generalis Reformatio Ecclesiae Dei &amp; religionis non est postre 
+      <lb ed="#H" n="164"/>mum inter signa temporum: qualis fuit tempore Mosis post eductum 
+    </p>
+            <p xml:id="yyy8Uu-gxd002-d1e192">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>copulum Israeliticum ex AEgypto, iterum per Samuelem, iterum per 
+      <lb ed="#H" n="166"/>Ezechiam 2. Reg. 18. rursus per Josiam 2. Reg. carite vigesimo 
+      se<lb ed="#H" n="167" break="no"/>cundo &amp; vigesimo tertio: deinde per Ezram &amp; Nehemjam, 
+      postea<lb ed="#H" n="168" break="no"/>per CHRISTUM Dom: num in carne manifestatum &amp; per 
+      Apo<lb ed="#H" n="169" break="no"/>stolos. Reformatio Ecclesiae Dei &amp; Religionis quam Deus 
+      superio<lb ed="#H" n="170" break="no"/>re seculo instituit in Germania, Gallia, Anglia &amp; multis aliis regnis 
+      <lb ed="#H" n="171"/>ac populis est profecto summe netandum signum temporum: nam 
+      <lb ed="#H" n="172"/>Deus per unum &amp; alterum hominem contemptibilem, solo verb 
+      <lb ed="#H" n="173"/>suo sono, Antichiistian: regni fundamenta parvo momento 
+      validis<lb ed="#H" n="174" break="no"/>ime concusiit, quantumvis adversus omnium temporum injurias 
+      so<lb ed="#H" n="175" break="no"/>ide caementata viderentur. At quibus temporibus concussit? Quunm 
+      <lb ed="#H" n="176"/>eges suas Papa non aliter quam Deus ipse universo orbi 
+      praescribe<lb ed="#H" n="177" break="no"/>ret, quum Imperatores servitent Papae, &amp; Reges eum adorarent 
+      po<lb ed="#H" n="178" break="no"/>tentissimi &amp; ad ejus nutum contremiscerent 
+      <!--cod-MkL9py-0539.xml-->
+      <pb ed="#H" n="512"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Causa instrumentalis fuit verbum Dei linguis primariis traditum. 
+      IA<lb ed="#H" n="2" break="no"/>Ideo Deus reformaturus religionem in toto mundo per Apostolos 
+      <lb ed="#H" n="3"/>&amp; adjutores eorum, dono linguarum multatum eos ornavit &amp; 
+      in<lb ed="#H" n="4" break="no"/>struxit. Ita superiore seculo generalem reformationem instituturus 
+      <lb ed="#H" n="5"/>primo linguae Hebraicae cognitionem per Johannem Reuchlinum, 
+      <lb ed="#H" n="6"/>tum Graecae per Budaeum &amp; alios, &amp; Latinae elegantiam pulsa 
+      bar<lb ed="#H" n="7" break="no"/>barie Scholasticorum per Erasmum Roterodanium reduxit: 
+      dein<lb ed="#H" n="8" break="no"/>de religionis instauratio sequuta invitis Romanis Pontificibus &amp; 
+      <lb ed="#H" n="9"/>Cardinalibus &amp; Episcopis, &amp; frustra renitentibus &amp; reformationem: 
+      <lb ed="#H" n="10"/>impedire conantibus brachiis ipsorum 
+    </p>
+            <p xml:id="yyy8Uu-gxd002-d1e255">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Signa irae divinae, sunt, poenae, tum publicae, tum privatae: interitus 
+      <lb ed="#H" n="12"/>hostium &amp; persequutorum Ecclesiae: confusio haereticorum; tragici 
+      <lb ed="#H" n="13"/>exitus Apostatarum; ingens annonae caritas &amp; horrenda fames; 
+      pe<lb ed="#H" n="14" break="no"/>stilentiae; clades bellicae; Imperatorum, Regum, Principum, Magna 
+      <lb ed="#H" n="15"/>tum, aut certorum alioquin hominum inopinati obitus: amissio 
+      ve<lb ed="#H" n="16" break="no"/>rae religionis: perturbationes Ecclesiae; haereses: schismata; 
+      terrae<lb ed="#H" n="17" break="no"/>motus, magnae inundationes; inconsueta &amp; supra modum supraque 
+      <lb ed="#H" n="18"/>memoriam hominum acria frigora: aestus vehementissimi supra 
+      or<lb ed="#H" n="19" break="no"/>dinarium naturae modum: inusitati ventorum turbines totum mun 
+      <lb ed="#H" n="20"/>dum pervadentes, quibus turres dejiciantur, aedificia concutiantur 
+      <lb ed="#H" n="21"/>aut etiam subvertantur, cujusmodi Anno 1606. die 16, 17, 18, &amp; I9. 
+      <lb ed="#H" n="22"/>Martii stylo antiquo fuerunt  
+    </p>
+            <p xml:id="yyy8Uu-gxd002-d1e286">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>posteriora sunt signa finis mundi, &amp; extremi diei &amp; ultimi adventus 
+      <lb ed="#H" n="24"/>Christi, de quibus Matth. 24. Luc. 21. 
+    </p>
+            <p xml:id="yyy8Uu-gxd002-d1e295">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Inter illa signa finis mundi &amp; extremi diei est Iudaicus populus, 
+      <lb ed="#H" n="26"/>quem post destructam politiam Mofaicam Dominus praedixit 
+      sem<lb ed="#H" n="27" break="no"/>per duraturum, &amp; inter Christianos nansurum, (licet ante mundi 
+      fi<lb ed="#H" n="28" break="no"/>nem multi ex iis sint etiam ad Christum convertendi Rom. 11.) ut sit, 
+      <lb ed="#H" n="29"/>Christianis perpetuum monimentum &amp; signum, tum irae divinae 
+      <lb ed="#H" n="30"/>tum veritatis &amp; certitudinis praedictionum de fine mundi: siquidem 
+      <lb ed="#H" n="31"/>ex complemento unius praedictionis colligimus certo futurum 
+      com<lb ed="#H" n="32" break="no"/>plementum caeterarum etiam praedictionum, Luc. 21. v. 3. 
+    </p>
+            <p xml:id="yyy8Uu-gxd002-d1e317">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Inter signa illa finis mundi sunt etiam signa in Sole, Luna, stellis 
+      <lb ed="#H" n="34"/>terra &amp; mari, quae licet etiam inde ab initio mundi sint visa, manent  
+      <lb ed="#H" n="35"/>tamen &amp; sunt signa finis mundi. Quemadmodum enim morbi 
+      cor<lb ed="#H" n="36" break="no"/>poris sunt signa mortalitatis nostrae, &amp; mortis revera sequuturae suo 
+      <lb ed="#H" n="37"/>tempore, ita ut licet infans vel adolescens, vel alius homo quivis ex 
+      <lb ed="#H" n="38"/>morbo convaluerit, tamen propterea mortalis esse non desinat; ac 
+      et<lb ed="#H" n="39" break="no"/>iamsi longissime vivat, etiamsi Mathusalemi aetatem attingat, 
+      tan<lb ed="#H" n="40" break="no"/>dem tamen moritur: Sic etiam Eclipses &amp; alia signa a Christo me 
+      <lb ed="#H" n="41"/>morata, non desinunt esse signa finis mundi, licet illis toties jam 
+      con<lb ed="#H" n="42" break="no"/>spectis mundus nondum finem habeat. Habet mundus aetates suas, 
+      <lb ed="#H" n="43"/>ut homo quilibet: &amp; quum extremum senium ejus venerit, tandem 
+      <lb ed="#H" n="44"/>dissolvetur 
+    </p>
+            <p xml:id="yyy8Uu-gxd002-d1e349">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Tantum de signis diuvinis extrinsecus verbo Dei 
+      <lb ed="#H" n="46"/>
+               <pc type="indent"/>additis: sequitur  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

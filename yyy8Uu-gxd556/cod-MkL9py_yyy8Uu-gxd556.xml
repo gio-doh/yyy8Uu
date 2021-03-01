@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 62</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 62</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd556"><!-- l6-c62 -->
+            <head xml:id="yyy8Uu-gxd556-Hd1e103">Caput 62</head>
+            <p xml:id="yyy8Uu-gxd556-d1e106">
+               <lb ed="#H" n="145"/>CAPUT LXII. 
+      <lb ed="#H" n="146"/>In quo de obsignatione beneficiorum DEI 
+      <lb ed="#H" n="147"/>interna. 
+    </p>
+            <p xml:id="yyy8Uu-gxd556-d1e115">
+               <lb ed="#H" n="148"/>BSIGNATIO beneficiorum Dei interna, est quae sit per 
+      te<lb ed="#H" n="149" break="no"/>Pstimonium internum in corde uniuscujusque vere 
+   creden<lb ed="#H" n="150" break="no"/>tis 
+    </p>
+            <p xml:id="yyy8Uu-gxd556-d1e124">
+               <lb ed="#H" n="151"/>Testimonium illud internum est geminum: unum Spiritus 
+      no<lb ed="#H" n="152" break="no"/>stri; alterum Spiritus Sancti 
+    </p>
+            <p xml:id="yyy8Uu-gxd556-d1e131">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Testimonium interaum Spiritus nostri est conscientia nostra per 
+      <lb ed="#H" n="154"/>sanguinem Christi mundata quae nobis testatur, quod filii Dei simus 
+      <lb ed="#H" n="155"/>&amp; vitae aeternae haeredes; quum fide viva, charitate non ficta &amp; spe 
+      vi<lb ed="#H" n="156" break="no"/>tae aeternae donati simus a Deo. Romanor. capite octavo, versiculo, 
+      <lb ed="#H" n="157"/>decimo- sexto: Ipse Spiritus testatur, una cum spiritu nostro nos esse 
+      fi<lb ed="#H" n="158" break="no"/>lios Dei. 1. Joliannis capite quinto, versiculo decimo: Qui credit in 
+      <lb ed="#H" n="159"/>Filium Dei, habet testimonium in seipso: qui non credit Deo, menda 
+      <lb ed="#H" n="160"/>cem eum fecit, quia non credidit testimonio quod testificatus est Deu 
+      <lb ed="#H" n="161"/>de Filio suo. 
+    </p>
+            <p xml:id="yyy8Uu-gxd556-d1e156">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Testimonium internum Spiritus Sancti, est revelatio interna per: 
+      <lb ed="#H" n="163"/>Spiritum Sanctum, unicuique fidelium facta, dum corda nostra 
+      per<lb ed="#H" n="164" break="no"/>fundit ineffabili quodam sensu charitetis Dei, quam nos complectitur 
+      <lb ed="#H" n="165"/>in Christo Jesu Domino &amp; Servatore nostro, pro nobis in mortem? 
+      <lb ed="#H" n="166"/>tradito, ut certitudinem salutis aeternae nobis obsignet. Romanor. 
+      ca<lb ed="#H" n="167" break="no"/>pite quinto, versiculo quinto: Spes non pudefucit, eo quod charitas Dei 
+      <lb ed="#H" n="168"/>fsuia est, id est, abundanter &amp; opulenter testificata. in cordibus nostris 
+      <lb ed="#H" n="169"/>per Spiritum Sanctum qui datus est nobis. Et cap. 8. 16. 
+      <!--cod-MkL9py-0540.xml-->
+      <pb ed="#H" n="513"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Hoc testimonio interno Spiritus Sancti omnium efficacissime 
+      <lb ed="#H" n="2"/>gertitudo tum omnium beneficiorum divinorum ad salutem 
+      aeter<lb ed="#H" n="3" break="no"/>mam pertinentium, tum etiam externorum &amp; aliorum internorum 
+      <lb ed="#H" n="4"/>signorum infallibiliter nobis confirmatur, 2. Corinth. 1. vers. 21, 22. 
+      <lb ed="#H" n="5"/>Qui nos confirmat vobiscum in Christum, &amp; qui unxit nos, Deus est 
+      <lb ed="#H" n="6"/>Qui etiam obsignavit nos, &amp; indidit arrhabonem Spiritus cordibus 
+      no<lb ed="#H" n="7" break="no"/>istris. Item cap. 5. 5. Ephes. 1. vers. 13. 14. Per quod etiam Evangelium 
+      <lb ed="#H" n="8"/>posteaquam credidistis obsignati estis Spiritu illo promissionis sancto 
+      <lb ed="#H" n="9"/>Qui est arrhabo haereditatis nostrae, dum in libertatem vindicemur, ad 
+      <lb ed="#H" n="10"/>daudem gloriae ipsius. Et cap. 4. 30. Ne tristitia afficite Spiritum illum 
+      <lb ed="#H" n="11"/>sanctum Dei, per quem obsignati estis in diem redemtionis. Apoc. 2. 17. 
+      <lb ed="#H" n="12"/>Ei qui vicerit tribuam ut edat ex Manna illo abscondito, &amp; dabo illi 
+      cal<lb ed="#H" n="13" break="no"/>eclum album, &amp; in calculo nomen novum scriptum, quod nemo 
+      novi<lb ed="#H" n="14" break="no"/>nisi qui accipit. Calculus iste albus est testimonium internum Spiritu 
+      <lb ed="#H" n="15"/>Sancti, quo nobis Christus Dominus declarat &amp; obsignat nos esse 
+      e<lb ed="#H" n="16" break="no"/>lectos ad vitam &amp; absolutos a condemnatione aeterna, nosque esse 
+      <lb ed="#H" n="17"/>per Spiritum Sanctum novos homines factos, &amp; in filios Dei 
+      adop<lb ed="#H" n="18" break="no"/>tatos, sic ut non amplius filii irae &amp; diaboli, sed filii Dei simus &amp; vero 
+      <lb ed="#H" n="19"/>nominemur, 1. Joh. 31. Videte qualem charitatem dedit nobis Pater, ut 
+      <lb ed="#H" n="20"/>filij Dei nominemur. De hoc testimonio Spiritus Sancti Bernardis 
+      <lb ed="#H" n="21"/>praeclare in epistolam centesima-septima ait: Prodit in lucem ad 
+      miseri<lb ed="#H" n="22" break="no"/>consolationem, magnum censilium quod ab aterno latuerat in sinu 
+      ae<lb ed="#H" n="23" break="no"/>ternitatis, quod nolit videlicet Deus mortem peccatoris, sed magis ut 
+      <lb ed="#H" n="24"/>convertatur &amp; vivat. Habes homo hujus arcani indicem Spiritum 
+      ju<lb ed="#H" n="25" break="no"/>tificantem: eoque ipso testificantem spiritui tuo, quod filius Dei &amp; ipse sis 
+      <lb ed="#H" n="26"/>Et mox: Iustus autem quis est, nisi qui amanti se Deo, vicem rependit. 
+      <lb ed="#H" n="27"/>amoris? Quod non sit nisi revelante spiritu per fidem homini aeternum 
+      <lb ed="#H" n="28"/>Dei propositum super sua salute futura. Quae sane revelatio non est 
+      ali<lb ed="#H" n="29" break="no"/>ud quam infusio gratiae spiritualis: per quam dum facta carnis 
+      mortifi<lb ed="#H" n="30" break="no"/>cantur, homo ad regnum praeparatur, quod caro &amp; sanguis non possident; 
+      <lb ed="#H" n="31"/>simul accipiens in uno spiritu, &amp; unde se praesumat amatum &amp; unde 
+      <lb ed="#H" n="32"/>redamet, ne gratis amaturus sit. Hocitaque est illud sacrum secretumque  
+      <lb ed="#H" n="33"/>consilium, quod a Patre Filius in Spiritu Sancto accipiens, suis quos 
+      no<lb ed="#H" n="34" break="no"/>vit per eundem Spiritum justificando eos communicar, &amp; 
+      communican<lb ed="#H" n="35" break="no"/>do justificat, quando id quisque accipit in sui justificatione, ut incipiat &amp; 
+      <lb ed="#H" n="36"/>ipse cognoscere sicut &amp; cognitus est, cum videlicet datur &amp; ipsi 
+      praesenti<lb ed="#H" n="37" break="no"/>re aliquid de sua ipsius futura beatitudine, quemadmodum ab aterno. 
+      <lb ed="#H" n="38"/>latuit in praedestinante, plenius appariturum in beatificante. 
+    </p>
+            <p xml:id="yyy8Uu-gxd556-d1e267">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>Hactenus dictum est de spiritualibus Dei 
+   bene<lb ed="#H" n="40" break="no"/>ficiis: sequitur  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

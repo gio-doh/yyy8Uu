@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd443"><!-- l7-c10 -->
+            <head xml:id="yyy8Uu-gxd443-Hd1e103">Caput 10</head>
+            <p xml:id="yyy8Uu-gxd443-d1e106">
+      <!--cod-MkL9py-0565.xml-->
+               <pb ed="#H" n="536"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>CAPUT X.  
+      <lb ed="#H" n="2"/>In quo de gubernatione Ecclesiae.
+    </p>
+            <p xml:id="yyy8Uu-gxd443-d1e119">
+               <lb ed="#H" n="3"/>TERTIO, Ecclesia particularis habet vel invisibilem tantum, vel  
+      <lb ed="#H" n="4"/>simul invisibilem &amp; visibilem gubernationem. 
+    </p>
+            <p xml:id="yyy8Uu-gxd443-d1e126">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Est enim gubernatio Ecclesiae duplex: invisibilis &amp; 
+      visi<lb ed="#H" n="6" break="no"/>bilis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd443-d1e135">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Invisibilis gubernatio, est interna gubernatio, qua DEUS Pater 
+      <lb ed="#H" n="8"/>omnipotens Ecclesiae est pater, ex quo tota familia in coelis &amp; in terra 
+      <lb ed="#H" n="9"/>nominatur, &amp; qui est super omnes, per omnes &amp; in omnibus, 
+      gene<lb ed="#H" n="10" break="no"/>rans, fovens &amp; educans electos in communione illa sanctissima 
+      se<lb ed="#H" n="11" break="no"/>cum &amp; inter ipsos in Ecclesia: Christus vero caput est Ecclesiae a 
+      Pa<lb ed="#H" n="12" break="no"/>tre datus, per quem Pater immediate Ecclesiam gubernat, autor ex 
+      <lb ed="#H" n="13"/>sistens &amp; gubernator communionis: Sanctus autem Spiritus omnia 
+      <lb ed="#H" n="14"/>in omnibus pro bona sua voluntate efficiens communionem perficit 
+      <lb ed="#H" n="15"/>&amp; obsignat, Ephes. 3. v. 15. &amp; 4. v. 6, 11, 12. 1. Corinth 12. v. 4. seqe. 
+      <lb ed="#H" n="16"/>Ephes. 1. v. 13. 1. Reg. 19. v. 18. Rom. 11. v. 4. 
+    </p>
+            <p xml:id="yyy8Uu-gxd443-d1e162">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Visibilis gubernatio, est externa gubernatio, qua adspectabiliter 
+      <lb ed="#H" n="18"/>reguntur fideles, ut in communionem cum Deo &amp; inter se 
+      adducan<lb ed="#H" n="19" break="no"/>tur, &amp; in ea retineantur, augescant, &amp; suos faciant progressus usque 
+      <lb ed="#H" n="20"/>ad metam, donec pervenerint in patriam, Ephes. 4. v. 12, 13 
+    </p>
+            <p xml:id="yyy8Uu-gxd443-d1e175">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Eaque omnis a Deo constituta sit necesse est: sicut solus 
+      Paterfa<lb ed="#H" n="22" break="no"/>milias jus habet suae domus constituendae, 
+    </p>
+            <p xml:id="yyy8Uu-gxd443-d1e184">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Estque διακονια, id est, ministerium, non autem dominium in 
+      Ec<lb ed="#H" n="24" break="no"/>clesiam, Actor. 1. v. 17. Annumerabatur enim nobiscum, &amp; sortitus 
+      <lb ed="#H" n="25"/>erat sortem ministerij hujus. Coloss. 4. v. 17. Et dicite Archippo, Vide 
+      <lb ed="#H" n="26"/>ut ministerium quod accepisti in Domino, impleas. 1. Petr. 5. v. 3. 
+      Pa<lb ed="#H" n="27" break="no"/>scite Dei gregem, non ut dominantes cleris, sed ut qui sitis exemplaria 
+      <lb ed="#H" n="28"/>gregis 
+    </p>
+            <p xml:id="yyy8Uu-gxd443-d1e202">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Visibilis gubernatio tum publica est, tum privata. 
+      <lb ed="#H" n="30"/>Publica, quam publice Ecclesia Dei gubernatur, maxime in 
+      con<lb ed="#H" n="31" break="no"/>ventibus publicis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd443-d1e213">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Estque vel Ecclesiastica, vel politica. Sic enim placet Deo 
+      Eccle<lb ed="#H" n="33" break="no"/>siam suam in hac vita gubernate non tantum spirituali regimine, sed 
+      <lb ed="#H" n="34"/>etiam corporali. Nam cum homo anima &amp; corpore constet, duplici 
+      <lb ed="#H" n="35"/>eget regimine. 
+    </p>
+            <p xml:id="yyy8Uu-gxd443-d1e226">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Ecclesiastica gubernatio, est spiritualis gubernatio Ecclesiae in 
+      <lb ed="#H" n="37"/>conventibus Ecclesiae, observato ab omnibus fidelibus ordine 
+      divi<lb ed="#H" n="38" break="no"/>nitus instituto, ut ad supernaturalem &amp; coelestem finem adducantur. 
+      <lb ed="#H" n="39"/>quem assequuntur quum ad Christum adducuntur, salutem animae 
+      <lb ed="#H" n="40"/>in ipso &amp; propter ipsum percepturi: 
+    </p>
+            <p xml:id="yyy8Uu-gxd443-d1e243">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>Haec est vel propria, vel communis. 
+      <lb ed="#H" n="42"/>Propria, quae pertinet ad officia singularum personarum quae sunt, 
+      <lb ed="#H" n="43"/>in Ecclesia, Rom. 12. v. 6, 7. 8. Habentes autem diversa dona pro 
+      gra<lb ed="#H" n="44" break="no"/>tia quae nobis data est, sive prophetiam, prophetemus, pro proportione 
+      <lb ed="#H" n="45"/>fidei: Sive ministerium, versemur in ministrando: tum is qui docet, 
+      <lb ed="#H" n="46"/>in docendo: Tum qui exhortatur, in exhortatione: qui distribuit 
+      <lb ed="#H" n="47"/>cum simplicitate: qui praeest, cum diligentia: qui miseretur, cum 
+      hi<lb ed="#H" n="48" break="no"/>laritate. 
+    </p>
+            <p xml:id="yyy8Uu-gxd443-d1e265">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>Eae personae sunt vel ministri Ecclesiae, vel plebs Ecclesiastica. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

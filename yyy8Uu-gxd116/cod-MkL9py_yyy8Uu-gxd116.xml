@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd116"><!-- l7-c9 -->
+            <head xml:id="yyy8Uu-gxd116-Hd1e103">Caput 9</head>
+            <p xml:id="yyy8Uu-gxd116-d1e106">
+               <lb ed="#H" n="75"/>CAPUT IX. 
+      <lb ed="#H" n="76"/>In quo de Ecclesia particulari veteris &amp; 
+   novi<lb ed="#H" n="77" break="no"/>Testamenti.
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e115">
+               <lb ed="#H" n="78"/>TXPLICATA est prima distributio Ecclesiae particularis. 
+   Si<lb ed="#H" n="79"/>
+               <pc type="indent"/>CUNDO, Ecclesia particularis vel veteris Testamenti est, 
+      ve<lb ed="#H" n="80" break="no"/>I. 
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e126">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>novi, Ephes. 2. 17. 
+      <lb ed="#H" n="82"/>Ecclesia veteris Testamenti, est quae ante Christi adventum fuit. 
+      <lb ed="#H" n="83"/>inde ab initio mundi: qualis fuit Adami &amp; Evae in Paradiso; &amp; post. 
+      <lb ed="#H" n="84"/>ejectionem e Paradiso ejusdem Adami, Evae, Abelis credentium in 
+      <lb ed="#H" n="85"/>Semen illud mulieris, quae Ecclesia continuata est in familia Sethi 
+      <lb ed="#H" n="86"/>post Enoschi, Noachi, Semi, Abrahami, Isaaci, Jacobi &amp; posterorum 
+      <lb ed="#H" n="87"/>ejus Israelitatum; unde Ecclesia Israelitica, &amp; postea Israelitis a Je 
+      <lb ed="#H" n="88"/>hova plane deficientibus, tandem Ecclesia Judaica dicta fuit.  
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e148">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Ecclesia novi Testamenti, est quae post Christi adventum fuit,; at 
+      <!--cod-MkL9py-0564.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>A que etiamnum est, credens in Christum jam exhibitum &amp; manife¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e162">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>statum in carne, Ephes. 2. 13. 15. 
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e169">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>Eaque ortum habuit inde a primo momento conceptionis 
+      Chri<lb ed="#H" n="93" break="no"/>sti, &amp; progressus fecit per varias persequutiones, quas Christus in 
+      <lb ed="#H" n="94"/>&amp; membris suis pertulit &amp; perfert. Unde κατ ἔξοχν Christiana 
+      Ec<lb ed="#H" n="95" break="no"/>clesia dicitur, &amp; fideles in Christo Jesu dicuntur Christiani: quia in 
+      re<lb ed="#H" n="96" break="no"/>gnum &amp; in sacerdotium &amp; in prophetiam unguntur, Chrysostomus 
+      <lb ed="#H" n="97"/>homil. decimanona in Matthaeum in opere imperfecto: sed 
+      Chri<lb ed="#H" n="98" break="no"/>stiani dicuntur Synecdochice, quia alioquin omnes electi quotquot,  
+      <lb ed="#H" n="99"/>ab initio mundi in Christum crediderunt, Christiani fuerunt  
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e191">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Felicior fuit, quam Ecclesia Veteris Testamenti, Matth. 13. v. 16, 
+      <lb ed="#H" n="101"/>17. Vestri beati sunt oculi, quod videant: &amp; aures vestra, quod 
+      au<lb ed="#H" n="102" break="no"/>diant. Amen enim dico vobis, multi Prophetae &amp; justi desiderarunt 
+      <lb ed="#H" n="103"/>videre, quae videtis, &amp; non viderunt: &amp; audire, quae auditis, &amp; non 
+      <lb ed="#H" n="104"/>audierunt. Luc. 10. vers. 23, 24. Hebr. 11. vers. 40. Atque omnes 
+      hi<lb ed="#H" n="105" break="no"/>testimonio per fidem ornati, non obtinuerunt promissum illud: Quo 
+      <lb ed="#H" n="106"/>niam Deus de nobis melius quiddam providerat, ne absque nobis 
+      con<lb ed="#H" n="107" break="no"/>summarentur. 1. Petr. 1. vers. 10, 11, 12. 
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e213">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>Ea principio fuit tantum gentis Iudaeorum, deinde omnium 
+      Gen<lb ed="#H" n="109" break="no"/>tium 
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e222">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Ecclesia Christiana gentis Iudaeorum, est coetus ille fidelium, quos 
+      <lb ed="#H" n="111"/>principio inde a primo momento conceptionis Christi, Deus Pate 
+      <lb ed="#H" n="112"/>vocavit ad Christum incarnatum, donec aliae etiam Gentes 
+      vocaren<lb ed="#H" n="113" break="no"/>tur. Jerem. 23. v. 
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e235">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Haec est mulier illa parturiens, mirifice, subito &amp; gloriose gignens 
+      <lb ed="#H" n="115"/>multos liberos, Jesa. 66. vers. 7. 8. cujus partui insidiatus est 
+      Draco<lb ed="#H" n="116" break="no"/>Apocal. 12. id est, quae peperit Ecclesiam Christianam aliarum 
+      Gen<lb ed="#H" n="117" break="no"/>tium: nec enim de Maria matre Christi in capite illo agitur, sed de 
+      <lb ed="#H" n="118"/>Ecclesia Christiana Jerosolymitana: Nam ex Tiione debuit 
+      prod<lb ed="#H" n="119" break="no"/>ire sceptrum regni Christi, Psal. 110. 2. Jesa. 2. v. 3. 
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e254">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>Haec jussa est surgere &amp; lucere, Jesa. 60. v. 1. hoc est, lucem 
+      Evan<lb ed="#H" n="121" break="no"/>gelij diffundere per universum orbem. 
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e263">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Ejusque viva membra sunt vere filij Abrahami, qui incedunt per 
+      <lb ed="#H" n="123"/>restigia fidei Patris nostri Abrahami, Rom. 4. v. 12. &amp; cognoscuntur. 
+      <lb ed="#H" n="124"/>ex imitatione operum bonorum Abrahami. Qui autem opera 
+      Abra<lb ed="#H" n="125" break="no"/>hami non faciunt, non sunt filij Abrahami, etiamsi secundum carnem. 
+      <lb ed="#H" n="126"/>semen ejus essent, Johan. 8. vers. 37. &amp; sequentibus. Rom. 9. vers. 7. 8. 
+      <lb ed="#H" n="127"/>Neque qui sunt semen Abrahami, ideo omnes sunt filij; sed in 
+      lsaaco<lb ed="#H" n="128" break="no"/>vocabitur tibi semen, Hoc est, non qui filij carnis, ij filij Dei: sed qui  
+      <lb ed="#H" n="129"/>sunt filij promissionis, censentur in semino 
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e285">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>Ecclesia Christiana omnium Gentium, est quae ex Judaeis &amp; aliis  
+      <lb ed="#H" n="131"/>populis omnibus adunata est in Christo. Significata fuit Actor. 10. 
+      <lb ed="#H" n="132"/>vers. 11, 12. per vas illud quod erat velut linteum magnum e coelo 
+      de<lb ed="#H" n="133" break="no"/>scendens &amp; quatuor extremis devinctum, quod demittebatur in 
+      ter<lb ed="#H" n="134" break="no"/>ram, in quo erant quaevis quadrupedia terrae &amp; ferae &amp; reptilia &amp; 
+      vo<lb ed="#H" n="135" break="no"/>lucres coela 
+      <lb ed="#H" n="136"/>Fidelium autem multitudo repente fidem Christo dedit, Actor. 2. 
+      <lb ed="#H" n="137"/>v.41, 47. &amp; capitibus sequentibus: ut merito comparentur rori 
+      stil<lb ed="#H" n="138" break="no"/>lanti e coelo. Psal. 110. v. 3 
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e309">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Electi inprimis ex Gentibus infinito numero accurrerunt &amp; 
+      Ec<lb ed="#H" n="140" break="no"/>clesiae Christi se adiunxerunt, ut testantur Acta &amp; Epistosae 
+      Aposto<lb ed="#H" n="141" break="no"/>lorum, sicut praedictum fuit Jesa. 2. vers. 2, 3. &amp; 60. cap. v. 3. &amp; sequens 
+      <lb ed="#H" n="142"/>tibus 
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e322">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Gentium illa accessio ad Ecclesiam Christi, primo fideles Judaeos 
+      <lb ed="#H" n="144"/>commovit &amp; conturbavit, Actor. 10 &amp; 11. De ea praedictum erat Jesu 
+      <lb ed="#H" n="145"/>80. v. 6. Agmen camelorum operiet te, dromades Midianis &amp; Hephae, 
+      <lb ed="#H" n="146"/>omnes e Scheba venient; aurum &amp; thus adferent, laudesque Iehova 
+      <lb ed="#H" n="147"/>praedicabunt. Postea autem utrisque laetitiam &amp; solatium attulit, Act 
+      <lb ed="#H" n="148"/>11. v. 18. His autem auditis, quieverunt &amp; glorificaverunt Deum, 
+      <lb ed="#H" n="149"/>dicentes. Nempe etiam gentibus Deus resipiscentiam dedit ad vitam: 
+      <lb ed="#H" n="150"/>ut praedictum erat, Jes. 66. vers. 10, 11. Laetamini cum urbe 
+      Ieruscha<lb ed="#H" n="151" break="no"/>laimorum, &amp; exsultate in ea omnes amantes eam; gaudete cum ea 
+      <lb ed="#H" n="152"/>gaudio quicunque lugebatis de ea: Vt sugatis &amp; saturemini ubero 
+      <lb ed="#H" n="153"/>consolationum ejus; ut exprimatis &amp; delicias agatis e splendore 
+      glo<lb ed="#H" n="154" break="no"/>riae ejus 
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e353">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Ut communio sanctorum cum Deo salvifica est, ita eorundem 
+      <lb ed="#H" n="156"/>communio inter se bona est &amp; amoena, Psal. 133. v. 1. 
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e363">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>Ecclesia autem Christiana in Novo Testamento primis ortus sua 
+      <lb ed="#H" n="158"/>temporibus ita erat in Republica civili, ut tamen Reipublicae pars 
+      <lb ed="#H" n="159"/>non censeretur, adeo ut separatas penitus rationes suas haberet a 
+      ra<lb ed="#H" n="160" break="no"/>tionibus Reipublicae. Persequutionibus enim gravissimis subjecta 
+      e<lb ed="#H" n="161" break="no"/>rat, facultatibus spoliabatur, carceribus vel exsiliis mulctabatur, 
+      au<lb ed="#H" n="162" break="no"/>omni suppliciorum genere &amp; tormentorum diritate passim 
+      afficie<lb ed="#H" n="163" break="no"/>batur per aliquot secula ab iis qui Rempublicam regebant. Ita 
+      Ec<lb ed="#H" n="164" break="no"/>clesia a reliquis mundi hominibus, non tam loco quam institutis 
+      se<lb ed="#H" n="165" break="no"/>treta vivebat: sanctimoniam, pietatem, integritatem illibatam 
+      tan<lb ed="#H" n="166" break="no"/>to servabat commodius, quanto erat ab hujus vitae commereiis 
+      ma<lb ed="#H" n="167" break="no"/>gis seducta &amp; remota: mundo enim sic utebantur prime lli fideles 
+      <lb ed="#H" n="168"/>sanquam non uterentur, quod Paulus monet, quum interiri 
+      flagran<lb ed="#H" n="169" break="no"/>re pietatis zelo, morum innocentia, mutuo inter se amore ac dileetio 
+      <lb ed="#H" n="170"/>ne sincera, humilitate non ficta, jugi futurae beatitudinis ini 
+      ditatio<lb ed="#H" n="171" break="no"/>ne, fide atque obedientia erga potestates civiles, quantum per 
+      con<lb ed="#H" n="172" break="no"/>scientiam licebat, postremo in tolerandis pro vera religione 
+      crucia<lb ed="#H" n="173" break="no"/>tibus constantia inenarrabili, &amp; plusquam humana, tlicatrum 
+      uni<lb ed="#H" n="174" break="no"/>verso mundo quotidie fierent: &amp; ipsos etiam hostes in 
+      admiratio<lb ed="#H" n="175" break="no"/>nem sui vel invitos raperent: hujusmodi fuerunt nascentis 
+      Christia<lb ed="#H" n="176" break="no"/>nismi primordia: haec prima Ecclesiae Christi aetas: quam supplicia 
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e411">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>beatam, ignominia gloriosam, auti contemtus auteam, corona¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd116-d1e418">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>martyrij, non autem regni, reddebat 
+   au<lb ed="#H" n="179" break="no"/>gustam. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

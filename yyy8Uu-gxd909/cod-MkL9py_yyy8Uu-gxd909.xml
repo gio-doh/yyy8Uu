@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd909"><!-- l8-c4 -->
+            <head xml:id="yyy8Uu-gxd909-Hd1e103">Caput 4</head>
+            <p xml:id="yyy8Uu-gxd909-d1e106">
+               <lb ed="#H" n="46"/>CAPUT IV 
+      <lb ed="#H" n="47"/>In quo de forma bonorum operum.
+    </p>
+            <p xml:id="yyy8Uu-gxd909-d1e113">
+               <lb ed="#H" n="48"/>TTORMA bonorum operum est congruentia eorum cum 
+      vo<lb ed="#H" n="49" break="no"/>luntate Dei patefacta in Lege Dei seu Decalogo, qui propter 
+      <lb ed="#H" n="50"/>ea etiam bonorum operum norma &amp; regula ad quam exigi de 
+      <lb ed="#H" n="51"/>bent, appellatur, &amp; in Evangelio. Psalmo 1. vers. 2. &amp; 19 vers. 8. &amp; 119. 
+      <lb ed="#H" n="52"/>vers. 1, 1. Beati integri via, qui ambulant in lege Iehovae: Benti custodi 
+      <lb ed="#H" n="53"/>entes testimonia ejus, ex toto animo quaerentes eum: &amp; passim in tote 
+      <lb ed="#H" n="54"/>Psalmo. Ezechiel. 20. v. 18, 19. Matth. 5. Galat. 5. Congruentia illa 
+      <lb ed="#H" n="55"/>in eo consistit, ut bona opera non tantum sint mandata Lege Dei 
+      <lb ed="#H" n="56"/>fiantque ex fide ad gloriam Dei, sed etiam ut nihil in iis sit vitii &amp; 
+      <lb ed="#H" n="57"/>culpae &amp; defectus, sed in eo bonitatis constituta gradu, quem Lex 
+      <lb ed="#H" n="58"/>requitit: utque eo prorsus modo fiant, quem Deus praeser bit, &amp; non 
+      <lb ed="#H" n="59"/>alio. Cultus enim legitimi regula est voluntas non honorantis, sed  
+      <lb ed="#H" n="60"/>honorandi; non servi, sed Domini: adeo ut opera etiam ab ipso Deo 
+      <lb ed="#H" n="61"/>praecepta, si non eo quo praecipit modo siant, prorsus ei displiceant  
+      <lb ed="#H" n="62"/>Jes. 1. v. 11. Jer. 7. v. 21. Ezecha o v. 19. Ego sum lehova Deus vester, 
+      in<lb ed="#H" n="63" break="no"/>statutis meis ambulate; &amp; jura mea observate, ac facite ipsa. 
+    </p>
+            <p xml:id="yyy8Uu-gxd909-d1e150">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Proinde forma bonorum operum non est proprium naturalis 
+      ra<lb ed="#H" n="65" break="no"/>tionis juditium. Num. 15 v. 39. Recordemini omnium mandatorum 
+    </p>
+            <p xml:id="yyy8Uu-gxd909-d1e159">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>t 
+      <lb ed="#H" n="67"/>strum , oculos vestros. 
+      <lb ed="#H" n="68"/>. Neque uoluntas uniuscuiusque propria: quia ἔθελ θρνσκειας, id est, pro 
+      <lb ed="#H" n="69"/>pria voluntate excogitatos cultus Deus damnat, Coloss. 2. v. 23. 
+    </p>
+            <p xml:id="yyy8Uu-gxd909-d1e173">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>Neque traditiones Majorum aut Patrum: nam Jesa. 29. vers. 30. 
+      cau<lb ed="#H" n="71" break="no"/>sa judiciorum Dei in homines indicatur esse superbia hominum, nen 
+      <lb ed="#H" n="72"/>acquiescens praeceptis Dei, sed humana anteponens: Dixit enim 
+      <lb ed="#H" n="73"/>Dominus, propterea quod appropinquans populus iste, ore suo &amp; 
+      <lb ed="#H" n="74"/>labiis suis honorant me, cor autem suum procul amovet a me: estque 
+      re<lb ed="#H" n="75" break="no"/>vereitia eorum erga me, quam praecepto hominum odocti sunt, Matt. 15. 
+      <lb ed="#H" n="76"/>9. Frustra me coiunt, docentes doctrinas quae sunt mandata 
+      homi<lb ed="#H" n="77" break="no"/>num. Ezech. 20. vers. 18. In statutis patrum vestrorum ne 
+      ambule<lb ed="#H" n="78" break="no"/>tis &amp; jura idorum ne observetis. Huc facit quod Christus Mat 
+      <lb ed="#H" n="79"/>thaei 5. aliquoties veterum traditionibus opponit veritatem suam 
+      <lb ed="#H" n="80"/>divinam. 
+    </p>
+            <p xml:id="yyy8Uu-gxd909-d1e202">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Neque exempla aliorum, maxime non proba sed mala: ao proinde nec 
+      <lb ed="#H" n="82"/>consuitudo quantumvis antiqua: nam in Ecclesia Dei non exemplis 
+      <lb ed="#H" n="83"/>lud legibus vivitur Unde Ps. 1. v. 1. beatus praedicatur qui non insistit. 
+      <lb ed="#H" n="84"/>via ceceatorum. Tum si solus Christus audiendus est, non debemus 
+      <lb ed="#H" n="85"/>attendere. quid aliquis ante nos faciedum putaverit, sed quid qui an¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd909-d1e218">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>&amp; 
+      <lb ed="#H" n="87"/>nem sequi oportet, sed Dei veritatem 
+    </p>
+            <p xml:id="yyy8Uu-gxd909-d1e227">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Neque hominum aliorum quantumvis maxime propinquorum, in 
+      <!--cod-MkL9py-0592.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>timorum &amp; charissimorum consilia &amp; suasiones ad faciendi. 
+      <lb ed="#H" n="90"/>cum Dei voluntate pugnans: quo pertinet illud Christi 
+      Mati<lb ed="#H" n="91" break="no"/>29, 30. Quod si oculus tuus dexter facit ut tu offendas, eruc eun 
+      <lb ed="#H" n="92"/>iice abs te. expedit enim tibi ut pereat unum ex membris tuis, ac nam 
+      <lb ed="#H" n="93"/>tum corpus tuum coniiciatur in gehennam Et si dextra tua manus 
+      fa<lb ed="#H" n="94" break="no"/>cit ut tu offendas, exscinde eam, &amp; abiice abs te, expedet enim tebi ut 
+      per<lb ed="#H" n="95" break="no"/>eat unum ex membris tuis, ac non totum corpus tuum coniiciatur in: 
+      e<lb ed="#H" n="96" break="no"/>hennam. Deut. 13. v. 6, 7. 8, 9. Si clam incitet te frater tuus, filius 
+      ma<lb ed="#H" n="97" break="no"/>tris tuae, aut filius tuus, aut filia tua, aut uxor charissima tibi, aut 
+      ami<lb ed="#H" n="98" break="no"/>cus tuus qui est sicut tu ipse, dicendo, eamus &amp; colamus deos alienos, &amp;c. 
+      <lb ed="#H" n="99"/>Ne acquiescito illi, neque auscultato illi, neque parcito oculus tuus illi, neque  
+      <lb ed="#H" n="100"/>clementia utitor, neque celato illum, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd909-d1e264">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Neque externa operum species aut apparentia 
+      <lb ed="#H" n="102"/>I. quia bonorum operum vera atque essentialis forma est interna. 
+      <lb ed="#H" n="103"/>II. quia externa operum species est in operibus Tharisaicis &amp; 
+      hy<lb ed="#H" n="104" break="no"/>pocriticis splendida &amp; praeclara judicio humano: nec tamen 
+      propter<lb ed="#H" n="105" break="no"/>ea opera illa sunt vere bona ac Deo placentia. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

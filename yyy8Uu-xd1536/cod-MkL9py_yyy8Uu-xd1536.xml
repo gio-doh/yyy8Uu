@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 21</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 21</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd1536"><!-- l10-c21 -->
+            <head xml:id="yyy8Uu-xd1536-Hd1e103">Caput 21</head>
+            <p xml:id="yyy8Uu-xd1536-d1e106">
+               <lb ed="#H" n="155"/>CAPUT XXI 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e111">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>In quo de Sobrietate. 
+      <lb ed="#H" n="157"/>OERIETATIS vox vel late vel stricte capitur. Late capitur non 
+      <lb ed="#H" n="158"/>Ptantum pro cibi &amp; potus, sed etiam aliarum voluptatum mode 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e122">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>ratione, sic ut aequipolleat voci temperantic. Stricte capitur 
+      duo<lb ed="#H" n="160" break="no"/>bus modis: vel pro moderatione in usu cibi &amp; potus: vel strictissime 
+      <lb ed="#H" n="161"/>pro moderatione in potu; &amp; tum distinguitur ab abstinentia nimii 
+      <lb ed="#H" n="162"/>cibi &amp; opponitur ebrietati. Jam a nobis prima significatione stricta 
+      <lb ed="#H" n="163"/>accipitur, &amp; sic definitur: 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e138">
+               <lb ed="#H" n="164"/>
+               <pc type="indent"/>Sobrietas, est continentia a superfluo cibo &amp; potu, proficiscens 
+      ex<lb ed="#H" n="165" break="no"/>haritate in Deum ut ad cultum Dei semper aptiores simus. Graece 
+      <lb ed="#H" n="166"/>dicitur θηφαλιητης, 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e150">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Virturi huic studendum 
+      <lb ed="#H" n="168"/>I. Quia a Deo est mandata in Decalogo. Item 1. Thessal. 5. v. 6. 
+      <lb ed="#H" n="169"/>Sobrij simus. 1. Tim. 3. v. 2. &amp; 11. Tit. 2. v. 2. 
+      <lb ed="#H" n="170"/>II. Quia maxime decet filios lucis &amp; diei, id est, quibus illuxit,  
+      <lb ed="#H" n="171"/>Evangelij doctrina qua nobis Sol justitiae Christus patesit. Hoc 
+      ar<lb ed="#H" n="172" break="no"/>gumento utitur Paulus cum ait 1. Thess 5. 8. At nos qui sumus diei 
+      <lb ed="#H" n="173"/>sobrij simus 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e170">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>III. Quia nos reddit magis idoneos ad sanctas preces ad Deum 
+      <lb ed="#H" n="175"/>Sicut 1. Petr. 4. 7. dicitur: Estote sobrij ad preces 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e179">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>IV. Quia omnium finis imminet: sobrietate igitur nobis opus 
+      <lb ed="#H" n="177"/>est, ne imparati opprimamur. Hoc argumentum exstat 1. Petr. 4. v. 7. 
+      <lb ed="#H" n="178"/>Omnium autem finis imminet. Estote igitur temperantes &amp; sobrij ad 
+      <lb ed="#H" n="179"/>preces; 
+      <!--cod-MkL9py-0692.xml-->
+      <pb ed="#H" n="663"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>V. Quia necessaria est nobis ad perveniendum ad spem nostram 
+      <lb ed="#H" n="2"/>in coelis repositam. 1. Petr. 1. v. 13. Quapropter succincti lumbis 
+      men<lb ed="#H" n="3" break="no"/>tis vestrae, &amp; sobrij (rnφorres) ad finem usque sperate in eam quae vobis. 
+      <lb ed="#H" n="4"/>defertur gratiam, quum revelabitur Iesus Christus. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e207">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>VI. Quia necessaria est ad praecavendas &amp; vitandas insidias dia 
+      <lb ed="#H" n="6"/>boli nos perdere cupientis. 1. Petr. 5. 8. Sobrij estote, vigilate: nam 
+      ad<lb ed="#H" n="7" break="no"/>versarius ille vester diabolus, ut leo rugiens, obambulat, quaeren 
+      <lb ed="#H" n="8"/>quem absorbeat. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e220">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>VII. Quia corporis &amp; animi bona confirmat. Conservat enim 
+      <lb ed="#H" n="10"/>bonam valetudinem &amp; formam corporis: tuetur vim ingenii, acume 
+      <lb ed="#H" n="11"/>judicii, felicitatem memoriae, prudentiam, sapientiam. Flammas 
+      im<lb ed="#H" n="12" break="no"/>purarum libidinum supprimit, totam hanc vitam castam &amp; honestam 
+      <lb ed="#H" n="13"/>reddit: summa. Sobrietas est mater sanitatis &amp; dulcis nutricula 
+      sene<lb ed="#H" n="14" break="no"/>ctutia 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e238">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>VIII. Quia est aliarum virtutum servatrix: tutela castitatis: pu 
+      <lb ed="#H" n="16"/>dicitiae munimentum: amicitiae &amp; pacis altrix: criminum &amp; 
+      vitio<lb ed="#H" n="17" break="no"/>rum fugatrix  
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e250">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Sobrietati opponitur tum cupedia &amp; ingluvies, tum abstinentia 
+      <lb ed="#H" n="19"/>noxia. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e259">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Cupedia, est vitium, cum quis cibum &amp; potum exquisitum 
+      lautum<lb ed="#H" n="21" break="no"/>que expetit, ad satisfaciendum gulae, quamvis immaturis etiam 
+      ani<lb ed="#H" n="22" break="no"/>malibus vescendum esset. Schlecrerpafftigateit.  
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e270">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Caveri debet ubique, maxime vero in convictu cum superioribus. 
+      <lb ed="#H" n="24"/>I. Quia prohibetur a Deo, Exod. 23. v. 19. Prov. 23. v. 3. 
+      <lb ed="#H" n="25"/>II. Quia plurimum nocet: facultates enim exhaurit &amp; pauperta 
+      <lb ed="#H" n="26"/>tem probrosam attrahit. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e283">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Ingluvies, est vitium cum quis corpus nimis multis alimentis onerat  
+      <lb ed="#H" n="28"/>ultra necessitatem cum bonae valetudinis laesione &amp; detrimento, 
+      Ec<lb ed="#H" n="29" break="no"/>cles. 10. v. 19. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e294">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>Atqui cibo &amp; potu ad ingluviem non est abutendum: cibus &amp; 
+      po<lb ed="#H" n="31" break="no"/>tus non sunt abusu aliquo a nobis perdenda: 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e303">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>I. Quia sunt Jehovae, ut dicitur Psal. 24. 1. Iehovae est terra &amp; ploe 
+      <lb ed="#H" n="33"/>nitudo ejus. Quicquid autem Jehovae est, eo ad ingluviem non est 
+      ab<lb ed="#H" n="34" break="no"/>utendum, id non est abusu aliquo a nobis perdendum. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e315">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>II. Quia sunt dona Dei, quae magnifacienda, non corrumpenda 
+      <lb ed="#H" n="36"/>non perdenda. Quis pater aequo animo ferret, dona a se liberis suis 
+      <lb ed="#H" n="37"/>data, ab illis corrumpii 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e326">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>III. Quia ad sustentationem &amp; conservationem vitae humanae 
+      <lb ed="#H" n="39"/>data sunt  
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e335">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Estque duplex: voracitas &amp; ebrietas. 
+      <lb ed="#H" n="41"/>Voracitas, est vitium cum quis corpus nimio &amp; nimis exquisito 
+      <lb ed="#H" n="42"/>aut immaturo cibo saginat &amp; explet. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e346">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Est autem vitanda, 
+      <lb ed="#H" n="44"/>I. Quia a Deo prohibetur in Decalogo: &amp; repreheditur in 
+      Israe<lb ed="#H" n="45" break="no"/>litis, Num. 11 v. 17, 19, 20. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e357">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>II. Quia est noxia: nam &amp; valetudini corporis obest atque affigit, 
+      <lb ed="#H" n="47"/>humi divinae particulam autae 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e366">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Ebriositas seu temulentia est vitium, cum quis nimio potu se 
+      in<lb ed="#H" n="49" break="no"/>gurgitat, sive sponte sua, sive a compotoribus provocatus. Synec.  
+      <lb ed="#H" n="50"/>dochice dicitur vinolentia, 1. Petr. 4. v. 3. Metonymice ebrietas. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e378">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Haec summopere est vitanda, 
+      <lb ed="#H" n="52"/>I. Quia est a Deo prohibita, Prov. 23. v. 20, 31. Luc. 21. v. 34. 
+      Ro<lb ed="#H" n="53" break="no"/>man. 13. v. 13. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e389">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>2. Quia valde dedecet servos Dei, quos coram ipso ebrios 
+      com<lb ed="#H" n="55" break="no"/>parere quam indignum est: 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e398">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>3. Quia ebrietatis sectatores Christo sunt indigni. 
+      <lb ed="#H" n="57"/>. Quia corda gravat tanquam onus quoddam &amp; deprimit ne se 
+      <lb ed="#H" n="58"/>ad Deum attollant. Luc. 21. 34. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e409">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>5. Quia impedit meditationem operum Dei nunquam non 
+      ne<lb ed="#H" n="60" break="no"/>cessariam. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e418">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>6. Quia impedit seriam cogitationem de magno illo die 
+      Domi<lb ed="#H" n="62" break="no"/>ni, &amp; praepatationem sui ad illum, Luc. 21. v. 34, 35. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e427">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>7. Quia efficit homines stupidos animo &amp; corpore, &amp; 
+      improvi<lb ed="#H" n="64" break="no"/>dos, ut ne quidem vitae hujus pericula evitare possint, Prov. 23. versic. 
+      <lb ed="#H" n="65"/>34, 35. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e439">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>8. Quia impedit preces ad Deum. Ebrius enim an precabitur? 
+      <lb ed="#H" n="67"/>aut qua devotione precabitur: 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e448">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>9. Quia accendit iras, rixas, altercationes, pugnas: in praelia 
+      tru<lb ed="#H" n="69" break="no"/>dit inermem, Prov. 20. v. 1. &amp; cap. 29. v. 36. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e457">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>0. Quia est hostis pudicitiae, accendit libidines. Prov. 23 v. 31, 32, 
+      <lb ed="#H" n="71"/>83. ut exemplum Lothi testatur, Genes. 19. v. 33. &amp; sequentibus, 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e466">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>II. Quia est scandalum aliis, praesertim junioribus, seu sint 
+      Eccle<lb ed="#H" n="73" break="no"/>sie Dei juncti, sive non sint: &amp; occasio illis est vel abalienandi se a 
+      ver<lb ed="#H" n="74" break="no"/>Ecclesia, vel non adiungendi se illi, ut exempla docent 
+      Anabaptista<lb ed="#H" n="75" break="no"/>rum &amp; infidelium. Vae autem illi per quem veniunt scandala. 
+      <lb ed="#H" n="76"/> 
+               <lb ed="#H" n="77"/>12. Quia ludibrio exponit ebrium, ut Noachi exemplum docet, 
+      <lb ed="#H" n="78"/>Gen. 9. v. 21, &amp; sequentibus, 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e486">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>13. Quia illam nemo paterfamilias &amp; frugi ferret in servo suo: &amp; 
+      <lb ed="#H" n="80"/>qua fronte, quam conscientia, qui servum non vult habere ebriosum 
+      <lb ed="#H" n="81"/>ipse vult ebriosus esse? Ecce dono Dei habes servum &amp; te habet Deus. 
+      <lb ed="#H" n="82"/>servum. Quemadmodum vis ut tibi serviat servus tuus: ita &amp; tu 
+      servi<lb ed="#H" n="83" break="no"/>re Deo tuo debes. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e502">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>14. Quia aeternas poenas accersit non resipiscentibus &amp; causa est 
+      <lb ed="#H" n="85"/>ne homo consistere possit coram Filio hominis in extremo illo 
+      die<lb ed="#H" n="86" break="no"/>maxime si homo ebrius interierit. 1. Cor. 6. versic. 10. Gal. 5. 21. Luc. 
+      <lb ed="#H" n="87"/>21. 34, 35, 36. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e516">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>15. Quia etiam corporales poenas in hac vita attrahit, Jes. 5. vers. 
+      <lb ed="#H" n="89"/>11, 12. ut paupertatem, Prov. 23. v. 21. delirium, unde ebrietas 
+      volun<lb ed="#H" n="90" break="no"/>taria insania esse dicitur: &amp; varios eosque saepe concatenatos mor 
+      <lb ed="#H" n="91"/>Dos 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e529">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>16. Quia est indicium insipientiae, Proverb. 20. v. 1. Quisquis 
+      ob<lb ed="#H" n="93" break="no"/>errat in vino, non sapit. 
+      <!--cod-MkL9py-0692.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="94"/>Inprimis Principibus &amp; Magistratibus ebrietas fugienda est: 
+      <lb ed="#H" n="95"/>I. Quia illis prae caeteris prohibetur, Proverb. 31. 4. 
+      <lb ed="#H" n="96"/>II. Quia facitut Principes &amp; Magistratus obliviscantur legum 
+      <lb ed="#H" n="97"/>juris: Prov. 31. v. 5. 
+      <lb ed="#H" n="98"/>III. Quia inducit ad afficiendos injuria afflictos &amp; pauperes 
+      <lb ed="#H" n="99"/>Prov. 31. v. 5. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e555">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Convivia ebriosorum sunt studiose fugienda: quia plerunque sunt:  
+      <lb ed="#H" n="101"/>theatra &amp; occasio ebrietatis &amp; contentionum: nam vino 
+      invalescen<lb ed="#H" n="102" break="no"/>te contentiones fervent. Huc facit quod dicitur Prov. 17. 1. Melior 
+      <lb ed="#H" n="103"/>est bucca cibi sicci, qui cum est tranquillitate, quam domus 
+      plena<lb ed="#H" n="104" break="no"/>mactatis animalibus in qua sit contentio. 
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e571">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Abstinentia noxia, est peccatum cum quis abstinet a cibo &amp; 
+      potu<lb ed="#H" n="106" break="no"/>ive omni, sive necessario, corporis valetudinem temere affligens aut 
+      <lb ed="#H" n="107"/>ex errore haeretico, aut ex superstitione &amp; hypocrisi, aut ex 
+      pertina<lb ed="#H" n="108" break="no"/>cia quadam. Qualis abstinentia fuit Severianorum qui vinum non 
+      <lb ed="#H" n="109"/>bibebant, eo quod fabulosa vanitate de Satana &amp; terra germinasse 
+      <lb ed="#H" n="110"/>asserebant vitem, ut refert Augustinus libro de haeresibus ad 
+      Quod<lb ed="#H" n="111" break="no"/>vult Deum, cap. 24. Qualis fuit Encratitarum discipulorum 
+      Tatia<lb ed="#H" n="112" break="no"/>ni, qui vinum non approbabant, ipsum quoque diabolicum esse 
+      cau<lb ed="#H" n="113" break="no"/>sati, atque illos qui eo utebantur iniquos &amp; peccatores vocitabant, ut  
+      <lb ed="#H" n="114"/>scribit Nicetas Choniates lib. 4. de haeresibus. Qualis post Christum 
+      <lb ed="#H" n="115"/>xhibitum est Judaeorum a certis cibi &amp; potus generibus ex 
+      supersti<lb ed="#H" n="116" break="no"/>tione quadam abstinentium, &amp; ex illa abstinentia justificationem 
+      co<lb ed="#H" n="117" break="no"/>ram Deo sibi frustra pollicentium, Coloss. 2. v. 18. 21, 22, 23. 
+      Eremi<lb ed="#H" n="118" break="no"/>tae ex hypocrisi quadam vino omni abstinent: sic monachi aliique 
+      hy<lb ed="#H" n="119" break="no"/>pocritae opinionem sanctitatis ex nimia abstinentia venantur. Ex 
+      <lb ed="#H" n="120"/>pertinacia vero peccant, qui omnem cibum &amp; potum recusant, ut 
+      vi<lb ed="#H" n="121" break="no"/>am hanc tanto citius sibi abrumpant.  
+    </p>
+            <p xml:id="yyy8Uu-xd1536-d1e613">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Abea differt abstinentia a certo cibi genere &amp; a vino imperata 
+      di<lb ed="#H" n="123" break="no"/>vinitus alioquin necessitate quadam absque hypocrisi &amp; 
+      superstitio<lb ed="#H" n="124" break="no"/>ne: qualis fuit abstinentia Israelitatum in veteri Testamento a cibis 
+      <lb ed="#H" n="125"/>impuris, Levit. 11. Deuter. 14. Rechabitatum a vino Jerem. 35. 
+      aegro<lb ed="#H" n="126" break="no"/>iantium aut male affectorum a certis cibis &amp; potibus valetudinem 
+      <lb ed="#H" n="127"/>laedentibus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

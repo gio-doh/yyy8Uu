@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 63</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 63</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd732"><!-- l6-c63 -->
+            <head xml:id="yyy8Uu-gxd732-Hd1e103">Caput 63</head>
+            <p xml:id="yyy8Uu-gxd732-d1e106">
+               <lb ed="#H" n="41"/>CAPUT LXIII 
+      <lb ed="#H" n="42"/>In quo de corporalibus Beneficiis Dei.
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e113">
+               <lb ed="#H" n="43"/>YIORPORALIA beneficia Dei, sunt bona externa, quae ad 
+      <lb ed="#H" n="44"/>hanc vitam corporalem pertinent, a Deo data, ut tum 
+      necessa<lb ed="#H" n="45" break="no"/>riae nostrae sustentationi dum in hac vita sumus, tum 
+      oblecta<lb ed="#H" n="46" break="no"/>mento quoque ac hilaritati honeste inservirent: ut conservatio Re 
+      <lb ed="#H" n="47"/>rumpublicarum, pax publica, 2. Chron. 20. v. 29, 30. conservatio 
+      vi<lb ed="#H" n="48" break="no"/>tae corporalis, defensio adversus homines improbos &amp; hostes 
+      exta<lb ed="#H" n="49" break="no"/>nos, ereptio e periculis corporalibus, peritia rei bellicae, Psal. 144. v. 1. 
+      <lb ed="#H" n="50"/>liberatio a morbis, bona valetudo, somnus quietus, Psal. 3. v. 6. &amp; 4. 
+      <lb ed="#H" n="51"/>8. 9 honesta familia, probi liberi, divitiae, amici, gloria in mundo, gra 
+      <lb ed="#H" n="52"/>tia apud homines, Dan. 1. Prover 16. 7. victoria corporalis adversus 
+      <lb ed="#H" n="53"/>hostes, omnia denique hujus vitae adjumenta, Psal. 21. v. 4, 5, 6, 7. &amp; 
+      <lb ed="#H" n="54"/>13. v. 18, 19. &amp; 65. v. 10. &amp; seqq. &amp; 107. v. 2. &amp; seqq item 108. vers. 11 
+      <lb ed="#H" n="55"/>14. sie 111. v. 5, 6. &amp; 113. v. 7, 8, 9. 
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e144">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Eaque Deus exhibet vel immediate per se, vel mediate, per creatu 
+      <lb ed="#H" n="57"/>ras suas, quae omnes ad ministerium ipsius praesto sunt,  
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e153">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Beneficiorum Dei corporalium fines communes, propter quos 
+      <lb ed="#H" n="59"/>Deus illa exhibet, sunt  
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e163">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>I. Gloria Dei, hoc est, ut cognoscamus, Jehovam esse DEUM 
+      <lb ed="#H" n="61"/>nostrum, Deuteronom. capite vigesimo-nono, versiculo sexto: hoc 
+      <lb ed="#H" n="62"/>est, federis sui nobiscum initi memorem &amp; observantem: utque eum 
+      <lb ed="#H" n="63"/>propterea laudemus &amp; celebremus.
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e176">
+               <lb ed="#H" n="64"/>II. Institutio nostra, ut Deus per illa nos commonefaciat de 
+      spi<lb ed="#H" n="65" break="no"/>titualibus beneficiis. Sic vita haec animalis est praeparatio &amp; gradus 
+      <lb ed="#H" n="66"/>ad vitam spiritualem atque coelestem. Vide plura in commentariis 
+      <lb ed="#H" n="67"/>nostris in trigesimum-sextum caput Ezechielis 
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e187">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Deus cripit pios e periculis e quibus evadere non posse 
+      videban<lb ed="#H" n="69" break="no"/>tur humanitus: sicut Davidem circumclusum a Saule &amp; hominibus 
+      <lb ed="#H" n="70"/>ejus, cumque humanitus nullum effugium pateret, cripuit e 
+      mani<lb ed="#H" n="71" break="no"/>bus Saulis, allato nuncio de irruptione Pelischthaeorum, 1. Sam. 23. v. 
+      <lb ed="#H" n="72"/>26, 27. 
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e203">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Sreptionis piorum e periculis, &amp; liberationis eorum e morbis 
+      ali<lb ed="#H" n="74" break="no"/>isque malis: fines speciales sunt: 
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e212">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>Ut pudefiant piorum osores, hostesque qui quaerunt illorum 
+      <lb ed="#H" n="76"/>exitium &amp; malo illorum delectantur, Psal 40. v. 15,16. Pudefiant &amp; 
+      <lb ed="#H" n="77"/>rubore perfundantur pariter quaerentes animam meum ad perdendum 
+      <lb ed="#H" n="78"/>tam: agantur retrorsum &amp; ignominia afficiantur, qui delectantur 
+      ma<lb ed="#H" n="79" break="no"/>lo meo, Desolentur pro mercede pudoris sui; qui dicunt de me, euge, eugi 
+      <lb ed="#H" n="80"/>Psalm. 70. vers. 2. 3. 4. Deus ad cripiendum me; Iehova, ad auxilium 
+      <lb ed="#H" n="81"/>meum festina. Pudefiant &amp; rubore perfundantur quaerentes animam 
+      <lb ed="#H" n="82"/>meam, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e234">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>II. Ut pii omnes exhilarentur, &amp; in fide Deum confirmati 
+      cele<lb ed="#H" n="84" break="no"/>brent eum, Ps. 40. v. 4. Indidit ori meo canticum novum, laudationem 
+      <lb ed="#H" n="85"/>Deo nostro: videntes multi reverebuntur, &amp; confident in Iehova. Et I7. 
+      <lb ed="#H" n="86"/>Gaudeant &amp; laetentur in te omnes quaerentes te; ac dicant jugiter, 
+      ma<lb ed="#H" n="87" break="no"/>gnificetur Iehova, amantes salutis tua, Ps. 70. v. 5. 
+      <!--cod-MkL9py-0540.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="88"/>Liberationis piorum ab hostibus effectus est fortitudo animi it 
+      <lb ed="#H" n="89"/>piis excitata, sic ut in hostes suos intrepide o culos suos figant &amp; 
+      faci<lb ed="#H" n="90" break="no"/>em opponant, Ps. 54. 8. 
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e261">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Liberationis tempus opportunum atque optimum soli Deo 
+      no<lb ed="#H" n="92" break="no"/>tum est, ipsique relinquendum; 
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e270">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>Quum de piis videtur actum quum res eorum stant in acie 
+      nova<lb ed="#H" n="94" break="no"/>culae, cum interitui sunt proximi; tum Deus λτμηρανῆς illis 
+      succur<lb ed="#H" n="95" break="no"/>it, eosque liberat via aperta per invia, suppeditatis mediis de quibus 
+      <lb ed="#H" n="96"/>nemo hominum cogitaverat: veluti quum populus Israeliticus 
+      sta<lb ed="#H" n="97" break="no"/>set ad mare rubrum &amp; tergo ejus jam instaret exercitus Pharaonis, 
+      <lb ed="#H" n="98"/>Exod. 14. v. 5. &amp; seqq. quum David a Saule obsessus esset, 1. Sam. 23. 
+      <lb ed="#H" n="99"/>26, 17. quum socii Danielis im fornace Babylonica essent Dan. 3. 21. 
+      <lb ed="#H" n="100"/>&amp; seqq. cum Daniel ipse in fovea leonum esset, Dan. 5. 17. &amp; 
+      sequen<lb ed="#H" n="101" break="no"/>tibs quum populus Judaicus Hamanis astu &amp; crudeli consilio totus 
+      <lb ed="#H" n="102"/>tollendus esset, Ester. 7 &amp; seqq. cum idem populus ab Antiocho 
+      Epi<lb ed="#H" n="103" break="no"/>phane exscindendus esset, Dan. 12. v. 1 
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e299">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Divitiae dantur homini a Deo, Prov. 10. v. 22. Benedictio Iehovae. 
+      <lb ed="#H" n="105"/>ipsa ditat  
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e308">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Idque ad quatuor usus: 1. Ad honorem Dei, id est, propagatione 
+      <lb ed="#H" n="107"/>&amp; conservationem ministerii Ecclesiastici &amp; Scholarum, Prov. 3. v. 9. 
+      <lb ed="#H" n="108"/>Honora Iehovam de substantia tua, &amp; de praecipuo totius proventus tuit 
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e319">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Ad conservationem boni publici, seu Reipublicae, Rom. 13. 
+      <lb ed="#H" n="110"/>v. 6. 
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e328">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>Ad honestam sustentationem suiipsius &amp; suae domus, Prov. 31. 
+      <lb ed="#H" n="112"/>8. &amp; cap. 30. v. 14, 15. 
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e338">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>4. Ad subsidium pauperum, Prov. 31. 20. 
+      <lb ed="#H" n="114"/>Proles numerosa quibusdam datur in poenam, sicut Jobus dicit 
+      ca<lb ed="#H" n="115" break="no"/>pite 27. 14 Si multiplicantur filij eius, multiplicantur ad gladium: &amp; 
+      <lb ed="#H" n="116"/>prognati ejus non saturantur pane 
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e351">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>E subjectis beneficia corporalia sunt vel publica, vel privata. 
+      <lb ed="#H" n="118"/>Bona corporalia sunt piis &amp; impiis communia: ut Christus docet 
+      <lb ed="#H" n="119"/>Matth. 5. 45. &amp; ostendunt exempla, ut Cajino dedit Deus copiosos 
+      li<lb ed="#H" n="120" break="no"/>beros &amp; nepotes, divitias itidem, Gen. 4. v 17. &amp; sequentibus Chami 
+      <lb ed="#H" n="121"/>Deus a diluvio conservavit, Gen. 7. 1. Esavo opes magnas dedit. 
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e367">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Achabo Regi impio paenas prorogavit 1. Reg. 21. 25. 
+      <lb ed="#H" n="123"/>Victoria datur a Deo interdum etam hostibus Ecclesiae 
+      propter<lb ed="#H" n="124" break="no"/>peccata Magistratus &amp; populi, 1. Sam. 31. &amp; 1. Chron. 10. 
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e378">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Imo impii homines plerunque diu rebus secundis utuntur, ut 
+      legi<lb ed="#H" n="126" break="no"/>tur Ps. 73. v. 4. &amp; sequentibus 
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e387">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Ideo quoad animalem vitam equales sumus omnes, 1. Cor. 15. v. 46. 
+      <lb ed="#H" n="128"/>Bona corporalia quod adjuncta attinet, sunt temporalia, incerta, 
+      a<lb ed="#H" n="129" break="no"/>missibilia, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd732-d1e398">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>Hactenus dictum est de beneficiis Dei: sequitur  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

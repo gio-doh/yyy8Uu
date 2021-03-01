@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 58</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 58</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd5728"><!-- l10-c58 -->
+            <head xml:id="yyy8Uu-xd5728-Hd1e103">Caput 58</head>
+            <p xml:id="yyy8Uu-xd5728-d1e106">
+               <lb ed="#H" n="5"/>CAPUT LIIX.  
+      <lb ed="#H" n="6"/>In quo de officio dominorum &amp; servorum.
+    </p>
+            <p xml:id="yyy8Uu-xd5728-d1e113">
+               <lb ed="#H" n="7"/>URA rei familiaris complectitur officia dominorum &amp; 
+   ser<lb ed="#H" n="8" break="no"/>vorum.
+    </p>
+            <p xml:id="yyy8Uu-xd5728-d1e120">
+               <lb ed="#H" n="9"/>Officium dominorum, est 1. curam rei familiaris, quam solic  
+      <lb ed="#H" n="10"/>te gerere. Itaque injustus est qui familiaris curam abjicit. De hoc 
+      <lb ed="#H" n="11"/>officio dominorum multa passim in Proverb. Salomonis. Pigritia 
+      <lb ed="#H" n="12"/>igitur &amp; luxuries fugienda. Eccles. 10. v. 18, 19. Temeratiae spon 
+      <lb ed="#H" n="13"/>sionibus facultates in periculum non adducendae: sed ab eo qui 
+      te<lb ed="#H" n="14" break="no"/>mere fidem pro alio interposuit, pignus exigendum Prov. 20. 16. 
+    </p>
+            <p xml:id="yyy8Uu-xd5728-d1e136">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>2. Servos &amp; ancillas, DEI amantes &amp; pietati studentes alere 
+      <lb ed="#H" n="16"/>Psalm. 101. versic. 6, 7. eosdemque in officio continere. Prov. 29. 
+      <lb ed="#H" n="17"/>vers. 25. 
+    </p>
+            <p xml:id="yyy8Uu-xd5728-d1e148">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>S. Moderate uti suo in servos imperio. Eph. 6. v. 5. 
+      <lb ed="#H" n="19"/>Id sit dupliciter: primo si domini servos non gravent nimiis 
+      labo<lb ed="#H" n="20" break="no"/>ribus, semperque meminerint, eos non esse asinos sed homines. Deinde, 
+      <lb ed="#H" n="21"/>sullis placide imperent; placide etiam eos cum officium neglexerunt,  
+      <lb ed="#H" n="22"/>objurgent, ne verbis durioribus exasperentur; &amp; verberibus 
+      inhu<lb ed="#H" n="23" break="no"/>mane &amp; crudeliter eos ne laedant, aut vulnerent, meminerintque 
+      si<lb ed="#H" n="24" break="no"/>bi etiam esse Dominum in caelis, apud quem non est personarum. 
+      <lb ed="#H" n="25"/>respectus. Eph. 6. 9. Ideo etiam servitutis duritiem &amp; tristitiam 
+      mi<lb ed="#H" n="26" break="no"/>tigare voluit olim Deus in populo suo, jubens servum Hebraeut. 
+      <lb ed="#H" n="27"/>pretio emtum post sex annos servitutis gratia dimitti, Exod. 21. 2. 
+      <lb ed="#H" n="28"/>Quin etiam mancipia, id est, servos &amp; ancillas pretio emtos 
+      crudeli<lb ed="#H" n="29" break="no"/>ter tractari Deus vetuit, &amp; pro oculo aut dente servi ancillaeve 
+      excus<lb ed="#H" n="30" break="no"/>so, liberos eos dimitti imperavit, Exod. 21. 26, 27. 
+    </p>
+            <p xml:id="yyy8Uu-xd5728-d1e181">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>4. Remunerati benefice labores servorum, ut ne compulsi 
+      neces<lb ed="#H" n="32" break="no"/>sitate furentur. 
+    </p>
+            <p xml:id="yyy8Uu-xd5728-d1e190">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Officium servorum, est, I suos dominos omni honore dignos 
+      du<lb ed="#H" n="34" break="no"/>cere, &amp; non despicere. 1. Tim. 6. v. 1, 2. 
+    </p>
+            <p xml:id="yyy8Uu-xd5728-d1e199">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>2. Ex animo imperatos a dominis labores perficere. Ephes. 6. 
+      <lb ed="#H" n="36"/>vers. 5. 
+      <lb ed="#H" n="37"/>3. Esse fideles in commissis sibi a dominis ut bona eorum 
+      con<lb ed="#H" n="38" break="no"/>servent, Tit. 2. 10. 
+    </p>
+            <p xml:id="yyy8Uu-xd5728-d1e212">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>t. Morum integritatem custodite, ne uxor, ne filii &amp; filiae vel 
+      <lb ed="#H" n="40"/>alii conservi corrumpantur.  
+    </p>
+            <p xml:id="yyy8Uu-xd5728-d1e221">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>Causae cur servis hoc officium praestandum, sunt. Prima, quia 
+      of<lb ed="#H" n="42" break="no"/>ficium illud mandat Dominus, quum ita ait per Apostolum, 
+      Colos<lb ed="#H" n="43" break="no"/>sen. 3. vers. 22 Servi auscultate Dominis vestris, Itaque illi qui 
+      ser<lb ed="#H" n="44" break="no"/>viunt, non tam homines respicere debent, quam Deum. Is enim 
+      <lb ed="#H" n="45"/>est qui illis hoc onus imposuit, quique illis mandat ut dominis 
+      <lb ed="#H" n="46"/>auscultent, donec Deo visum fuerit, libertate corporali eos 
+      do<lb ed="#H" n="47" break="no"/>nare. 
+    </p>
+            <p xml:id="yyy8Uu-xd5728-d1e242">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Secunda, quia officium illud non praejudicat quicquam libertati 
+      <lb ed="#H" n="49"/>spirituali, non illam adimit, imo ne imminuit quidem: quia ausculo 
+      <lb ed="#H" n="50"/>tant in statu suo servili dominis secundum carnem, qui in spiritum 
+      <lb ed="#H" n="51"/>ipsorum nullum jus obtinent. Quod est optimum &amp; 
+      praestantissi<lb ed="#H" n="52" break="no"/>mum, liberum est; Servitus tantum est carnis, ac proinde non 
+      per<lb ed="#H" n="53" break="no"/>petua, sed ad breve tempus: dominium cui subsunt est secundum 
+      car<lb ed="#H" n="54" break="no"/>nem seu carnale, ac proinde temporale &amp; breve. Quicquid enim est 
+      <lb ed="#H" n="55"/>carnale, est caducum &amp; non diuturnum. 
+    </p>
+            <p xml:id="yyy8Uu-xd5728-d1e264">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Tertia, quia id requirit timor Dei. Qui enim Deum timet, 
+      offi<lb ed="#H" n="57" break="no"/>cium sibi injunctum a Deo, studiose &amp; non invitus facit. Qui Deum; 
+      <lb ed="#H" n="58"/>timet, nihil mali facit, etiamsi nemo videat,  
+    </p>
+            <p xml:id="yyy8Uu-xd5728-d1e275">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Quarta, quia officium illud Domino potius exhibetur, quam 
+      ho<lb ed="#H" n="60" break="no"/>minibus: quia Domino Christo serviunt. Deum enim &amp; Servato.  
+      <lb ed="#H" n="61"/>rem, nostrum Christum servi Christiani honorant, &amp; doctrinam ejus 
+      <lb ed="#H" n="62"/>ornant, quum fideliter Dominis suis serviunt, Tit. 2. v. 10. Ephes. 6. 
+      <lb ed="#H" n="63"/>v. 5, 6. Col. 3. 23. 
+    </p>
+            <p xml:id="yyy8Uu-xd5728-d1e291">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Quinta, quia recepturi sunt a Domino mercedem haereditatis, 
+      <lb ed="#H" n="65"/>hoc est, quam obsequio &amp; fidelitati ipsorum gratuito rependet ut 
+      fi<lb ed="#H" n="66" break="no"/>liis &amp; haeredibus: nam haec haereditas ex adoptione est. 
+      Colossen<lb ed="#H" n="67" break="no"/>3. v. 2.4. 
+    </p>
+            <p xml:id="yyy8Uu-xd5728-d1e304">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Sexta, quia qui injuriam intulerit, referet injuriam quam 
+      intule<lb ed="#H" n="69" break="no"/>rit, hoc est, luet pro illa poenas, nimirum sive servus sit, sive 
+      domi<lb ed="#H" n="70" break="no"/>nus. Coloss. 3. 25. Servus enim infert injuriam domino, fraudulem 
+      <lb ed="#H" n="71"/>ter opus sibi demandatum faciens aut intervertens aliquid quod 
+      he<lb ed="#H" n="72" break="no"/>ti est. Jam si inique egerit, non solum hominem offendit, sed &amp; 
+      <lb ed="#H" n="73"/>Deum quem in admissa adversus carnalem Dominuin fraude 
+      con<lb ed="#H" n="74" break="no"/>temsit. Herus vero infert injuriam, si servum fidelem iniusta 
+      saevi<lb ed="#H" n="75" break="no"/>tia premat, &amp; indignis modis tractet, operasque eius non 
+      compen<lb ed="#H" n="76" break="no"/>set benevole 
+    </p>
+            <p xml:id="yyy8Uu-xd5728-d1e328">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>ffustitia distributiva Oeconomica declavata est: 
+      <lb ed="#H" n="78"/>sequitur politica. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

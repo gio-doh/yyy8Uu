@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd5819"><!-- l10-c5 -->
+            <head xml:id="yyy8Uu-xd5819-Hd1e103">Caput 5</head>
+            <p xml:id="yyy8Uu-xd5819-d1e106">
+               <lb ed="#H" n="172"/>CAPUT V. 
+      <lb ed="#H" n="173"/>In quo de Charitate erga inimicos.
+    </p>
+            <p xml:id="yyy8Uu-xd5819-d1e113">
+               <lb ed="#H" n="174"/>THARITAS erga homines tum vivos est, tum mortuos 
+      <lb ed="#H" n="175"/>ICharitas erga homines vivos, tum erga quosvis est, tum erga 
+      <lb ed="#H" n="176"/>cirtos.
+    </p>
+            <p xml:id="yyy8Uu-xd5819-d1e122">
+               <lb ed="#H" n="177"/>Charitus erga quosvis homines, est qua diligimus absque diserimine 
+      <lb ed="#H" n="178"/>tam alienus quam propinquos, tam exteros quam domesticos, tam 
+      <lb ed="#H" n="179"/>ignoros qua notos, tam iniiseos quam amicos. 
+      <!--cod-MkL9py-0682.xml-->
+      <pb ed="#H" n="653"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Quod charitas erga amicos gerenda sit, omnes homines etiam 
+      <lb ed="#H" n="2"/>natura duce agnoscunt: 
+    </p>
+            <p xml:id="yyy8Uu-xd5819-d1e142">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Sed eandem etiam erga inimicos exercendam, παραδοζον videtur  
+      <lb ed="#H" n="4"/>Confirmamus autem sequentibus argumentis: 
+    </p>
+            <p xml:id="yyy8Uu-xd5819-d1e152">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>I. Quia a Deo praecipitur, Matth. 5. v. 44. Ego dico vobis, diligit 
+      <lb ed="#H" n="6"/>inimicos vestros, benedicite iis qui devovent vos, &amp; benedicite iis, qui 
+      <lb ed="#H" n="7"/>odorunt vos, &amp; precamini pro iis qui vobis infesti sunt, &amp; persequun  
+      <lb ed="#H" n="8"/>tur vos. Rom. 12. 14. Benedicite iis qui vos insectantur, benedicite, 
+      in<lb ed="#H" n="9" break="no"/>quam, &amp; ne deprecamini, Et 20. Itaque si esurit inimicus tuus, cibu 
+      <lb ed="#H" n="10"/>eum: si sitit, da ei potum, &amp;c. Exod. 23. v. 4, 5. 
+    </p>
+            <p xml:id="yyy8Uu-xd5819-d1e170">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>II. Quia inimicum ita afficit ut eum reddat amicum, Prov. 25. v. 
+      <lb ed="#H" n="12"/>21, 22. Si esuriat osor tuus, ciba eum pane; &amp; si sitiat, da ei bibendam 
+      <lb ed="#H" n="13"/>iquam: Nam velut prunas coacervabis super caput eius, &amp; Iehova 
+      re<lb ed="#H" n="14" break="no"/>pendet tibi. Rom. 12. 20. 
+    </p>
+            <p xml:id="yyy8Uu-xd5819-d1e183">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>III. Quia ad eam nos incitant exempla Dei Patris, Christi 
+      Ser<lb ed="#H" n="16" break="no"/>vatoris nostri &amp; aliorum hominum fidelium. Exemplum Dei Patria 
+      <lb ed="#H" n="17"/>proponit Christus Matth. 5. v. 48. Estote igitur perfecti, ut Pater 
+      ve<lb ed="#H" n="18" break="no"/>ster, qui in caelis est, perfectus est: &amp; commemorat Paulus Apostolus. 
+      <lb ed="#H" n="19"/>Rom. 5. 8. Commpdat suam erga nos charitatem Deus, eo quod quum 
+      <lb ed="#H" n="20"/>adhuc essemus poccatores, Christus pro nobis mortuus est. Et v. 16. quum 
+      <lb ed="#H" n="21"/>inimici essemus, reconciliati fuimus Deo per mortem Filii eius. Jam 
+      <lb ed="#H" n="22"/>qualis est Pater, tales liberos ejus esse oportet. Exemplum 
+      Christi<lb ed="#H" n="23" break="no"/>commemorat idem Paulus Rom. 5. 6. Christus quum nullis adhuc 
+      <lb ed="#H" n="24"/>viribus essemus, praestituto tempore pro impiis mortuus est. Idem 
+      bene<lb ed="#H" n="25" break="no"/>fecit hostibus suis multis modis ut historia Evangelica passim 
+      testa<lb ed="#H" n="26" break="no"/>tur: Evangelium illis praedicavit, male affectos sanavit, Malcho 
+      au<lb ed="#H" n="27" break="no"/>riculam a Petro abscissam restituit, pro interfectoribus suis oravit 
+      <lb ed="#H" n="28"/>Exempla fidelium non pauca exstant. Iosephus Patriarcha dilexit &amp; 
+      <lb ed="#H" n="29"/>beneficiis affecit fratres suos a quibus odio habitus fuerat, ut 
+      libe<lb ed="#H" n="30" break="no"/>Genesis testatur: Moses dilexit Iiraelitas a quibus saepe injuriose tra 
+      <lb ed="#H" n="31"/>ctabatur. David dilexit Saulem a quo persecutionem patiebatur, I 
+      <lb ed="#H" n="32"/>Paulus Apostolus Judaeos a quibus multa passus erat, nihilominus 
+      <lb ed="#H" n="33"/>dilexit, ut caput nonum &amp; undecimum ad Romanos testatur. 
+      Ste<lb ed="#H" n="34" break="no"/>phanus protomartyr oravit pro inimicis suit 
+    </p>
+            <p xml:id="yyy8Uu-xd5819-d1e231">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>V. Quia maxime decet filios Dei, imo filiorum Dei est signum 
+      <lb ed="#H" n="36"/>ut Christus docet Matth. 5. v. 44. 45. Diligite inimicos vestros, &amp;c. Vt. 
+      <lb ed="#H" n="37"/>sitis filii Patris illius vestri qui est in coelis, facit enim ut sol suus exoria. 
+      <lb ed="#H" n="38"/>tur super malos ac bonos, &amp; pluit super justes &amp; injustos. 
+    </p>
+            <p xml:id="yyy8Uu-xd5819-d1e244">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>V. Quia per eam filii Dei praestant siliis hujus seculi: sicut 
+      Chri<lb ed="#H" n="40" break="no"/>stus ait Matth. 5. 46, 47. Nam si dilexeritis eos qui diligunt vos, quam 
+      <lb ed="#H" n="41"/>mercidem habebitis? nonne &amp; pubiicani idem faciunt? Et si complexi 
+      <lb ed="#H" n="42"/>fueritis fratres vestros solum, quid amplius facitis? nonne &amp; publicant 
+      <lb ed="#H" n="43"/>ita faciunt: 
+    </p>
+            <p xml:id="yyy8Uu-xd5819-d1e260">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>VI. Quia illa medium est perveniendi ad perfectionem qua 
+      <lb ed="#H" n="45"/>Deo similes fimus, Matth. 5. S4. 
+    </p>
+            <p xml:id="yyy8Uu-xd5819-d1e270">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>Sic est de charitate erga homines in communi: sequitur  
+    </p>
+            <p xml:id="yyy8Uu-xd5819-d1e277">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>charitatis illius distributio¬  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

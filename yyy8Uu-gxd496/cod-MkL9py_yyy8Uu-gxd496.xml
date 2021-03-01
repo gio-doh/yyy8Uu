@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 14</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 14</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd496"><!-- l7-c14 -->
+            <head xml:id="yyy8Uu-gxd496-Hd1e103">Caput 14</head>
+            <p xml:id="yyy8Uu-gxd496-d1e106">
+               <lb ed="#H" n="20"/>CAPUT XIV. 
+      <lb ed="#H" n="21"/>In quo de Conciliis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e113">
+               <lb ed="#H" n="22"/>VIBERTAS seu potestas conventuum Ecclesiasticorum, est jus 
+      <lb ed="#H" n="23"/>quod Deus Ecclesiae dedit, ut fideles in nomine Christi 
+   conve<lb ed="#H" n="24" break="no"/>nirent ad communem suam aedificationem. De hac dicit 
+      Do<lb ed="#H" n="25" break="no"/>minus ipse Matth. 18. v. 20. Ubi sunt duo vel tres in nomine meo, illis  
+      <lb ed="#H" n="26"/>sum in medio eorum. Et exemplum ostenditur Luc. 24. vers. 53. Eran 
+      <lb ed="#H" n="27"/>discipuli Christi omni tempore in templo, laudantes &amp; benedicentes: 
+      <lb ed="#H" n="28"/>Deo. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e131">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Conventus Ecclesiastici vel ordinarii sunt vel extraordinarii, 
+      <lb ed="#H" n="30"/>Ordinarii sunt, qui stato qualibet septimana die, aut etiam singulis, 
+      <lb ed="#H" n="31"/>diebus fiunt.  
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e142">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Suntque tum conciones sacrae, tum Scholae bonarum literarum. 
+      <lb ed="#H" n="33"/>Conciones sacrae sunt coetus fidelium qui ad exercendum cultum 
+      <lb ed="#H" n="34"/>Dei religiose conveniunt.
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e154">
+               <lb ed="#H" n="35"/>SCHOLAE bonarum literarum, sunt coetus in quibus juventur 
+      <lb ed="#H" n="36"/>pie docetur &amp; discit artes liberales &amp; in primis salvificam e Verb 
+      <lb ed="#H" n="37"/>Dei doctrinam, ad verae religionis in Ecclesia Dei conservationem &amp; 
+      <lb ed="#H" n="38"/>propagationem, dum perpetuum de legitimis scriptis Propheticis &amp; 
+      <lb ed="#H" n="39"/>Apostolicis, verisque illorum interpretationibus testimonium 
+      ju<lb ed="#H" n="40" break="no"/>venturi inculcatur &amp; commendatur: ad ministerii Ecclesiastici 
+      con<lb ed="#H" n="41" break="no"/>servationem, dum adolescentes idonei ad ministerium educantur &amp; 
+      <lb ed="#H" n="42"/>exercentur: ad promovendum regnum Christi &amp; electorum salutem: 
+      <lb ed="#H" n="43"/>&amp; denique ad rerumpublicarum &amp; Oeconomiarum evidentem 
+      uti<lb ed="#H" n="44" break="no"/>litatem. Unde Scholae dictae sunt seminatia Ecclesiarum, rerumpubli. 
+      <lb ed="#H" n="45"/>carum &amp; Oeconomiarum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e180">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>Extraordinarii conventus Ecclesiastici, sunt qui requirente aliqui 
+      <lb ed="#H" n="47"/>evidente necessitate praeter ordinarios conventus instituuntur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e189">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Suntque vel Consistoria vel Colloquia vel Concilia Ecclesiasticat 
+      <lb ed="#H" n="49"/>Consistorium Ecclesiasticum, est coetus in quo presbyteri Ecclesiae 
+      <lb ed="#H" n="50"/>unius conveniunt ob negotia Ecclesiastica: 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e200">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Collaquium Ecclesiasticum, hoc in loco appellamus coetum in quo 
+      <lb ed="#H" n="52"/>vicinarum Ecclesiarum deputati conveniunt, ut de negotiis 
+      Eccle<lb ed="#H" n="53" break="no"/>siam spectantibus colloquantur &amp; deliberent. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e211">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Concilium Ecclesiasticum seu synodus Ecclesiastica, est publicus 
+      con<lb ed="#H" n="55" break="no"/>ventus piorum virorum, a diversis Ecclesiis etiam diversarum 
+      provin<lb ed="#H" n="56" break="no"/>ciarum legitime missorum vel congregatorum, ut inter eos de 
+      rebu<lb ed="#H" n="57" break="no"/>sacris &amp; ad fidelium aedificationem pertinentibus communi 
+      Eccle<lb ed="#H" n="58" break="no"/>siarum consensu agatur &amp; statuatur, pro potestate quae illis est a Deo 
+      <lb ed="#H" n="59"/>concessa. Dicitur etiam Ecclesia repraesentativa 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e229">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>Concilia primo vel sunt Prophetarum aut Apostolorum vel aliorum 
+      <lb ed="#H" n="61"/>Episcoporum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e239">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Concilia a Prophetis &amp; Apostolis celebrata divinam habent auto 
+      <lb ed="#H" n="63"/>ritatem, sic ut nefas sit eis ulla in re quicquam derogare. Tale fuit 
+      Con<lb ed="#H" n="64" break="no"/>cilium Israeliticum, cui Elias Propheta praefuit, 2. Reg. 18. Tale fuit 
+      A<lb ed="#H" n="65" break="no"/>postolicum, quod Act. 15, describitur 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e252">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Concilia aliorum Episcoporum, quae post Apostolos sunt celebra 
+      <lb ed="#H" n="67"/>ta vel adhuc celebrantur, Propheticis &amp; Apostolicis conciliis 
+      nequa<lb ed="#H" n="68" break="no"/>quam sunt paria autoritate: nec eorum autoritas Scripturarum 
+      Sa<lb ed="#H" n="69" break="no"/>crarum autoritati est, exaequanda. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e265">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>Secundo, Concilium vel particulare est, vel Universale. 
+      <lb ed="#H" n="71"/>Particulare Concilium, est quod aliquarum certarum Ecclesiarum 
+      <lb ed="#H" n="72"/>nomine collectum est. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e276">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Idque est vel dioecesanum, vel provinciale, vel nationalo 
+      <lb ed="#H" n="74"/>Dioecesanum Concilium, est in quo ex una dioecesi, Ecclesiae, reli 
+      <lb ed="#H" n="75"/>gionis &amp; disciplinae divinae causa conveniunt. Hujusmodi concilia &amp; 
+      <lb ed="#H" n="76"/>τθπας συγοδει vεl σωοδοσ τοπικαι dicuntur  
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e289">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Provinciale Concilium, est in quo legati Ecclesiarum unius 
+      provin<lb ed="#H" n="78" break="no"/>ciae conveniunt. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e298">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Nationale Concilium, est in quo legati Ecclesiarum integrae 
+      alicu<lb ed="#H" n="80" break="no"/>us nationis seu integri regni conveniunt. Concilia provincialia &amp; 
+      na<lb ed="#H" n="81" break="no"/>tionalia dicuntur συνοδαι καν ἐπαρχιας, 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e310">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Concilium Vniversale est quod universae Ecclesiae nomine 
+      colle<lb ed="#H" n="83" break="no"/>ctum est: quale fuit Israeliticum, 1. Reg. 18. vers. 19. Nicenum adversus 
+      <lb ed="#H" n="84"/>Arium: Constantinopolitanum adversus Macedonianos: Ephesinum 
+      <lb ed="#H" n="85"/>adversus Nestorium: Chalcedonense contra Eutychen, &amp; alia quae 
+      Oe<lb ed="#H" n="86" break="no"/>cumenica appellari consueverunt, item generalia. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e326">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Vniversale Concilium dicitur ambigue, vel quod est orthodoxum, 
+      <lb ed="#H" n="88"/>&amp; hoc sensu Milevitanum concilium, quod alioqui particulare erat  
+      <lb ed="#H" n="89"/>tamen universale dicitur tomo primo conciliorum, pag. quingentes. 
+      <!--cod-MkL9py-0570.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>quinquages. quarta &amp; quinta: similiter Carthaginense pag. 
+      quingen<lb ed="#H" n="91" break="no"/>tes. quinquages. octava. Vel quod ex universae Christianae Ecclesiae 
+      <lb ed="#H" n="92"/>consensu &amp; legatis est collectum. 
+      <lb ed="#H" n="93"/>Generale Concilium similiter non semper pro Oecumenico 
+      conci<lb ed="#H" n="94" break="no"/>lio sumitur, sed aliquando pro nationali, sicut in conciliis Romanis 
+      <lb ed="#H" n="95"/>ub Symmacho habitis, semper legitur Symmachus concilio 
+      genera<lb ed="#H" n="96" break="no"/>i praesidens, &amp; tamen Episcopi tantum Italiae illis conciliis 
+      interfue<lb ed="#H" n="97" break="no"/>runt Sic Toletanum tertium, c. 18. dicitur generale, in quo erant 
+      tan<lb ed="#H" n="98" break="no"/>tum Hispaniae Episcopi¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e361">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>(non probum. 
+      <lb ed="#H" n="100"/>Tertio concilium vel legitimum &amp; probum est, vel illegitimum &amp; 
+      <lb ed="#H" n="101"/>Concilium probum &amp; legitimum, est quod legibus Verbi Dei est 
+      <lb ed="#H" n="102"/>consentaneum. Leges aute &amp; conditiones concilii legitimi sunt aliquot,  
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e374">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Prima est, ut convocatum sit vel per Magistratum politicum, 1. Rega 
+      <lb ed="#H" n="104"/>18. 19, 20, maxime si sit fidelis. Josu. 23 &amp; 24. 1. Chron 2:. &amp; 28, 29. 
+      <lb ed="#H" n="105"/>2. Chron. 29. v. 4. vel per ipsos Episcopos seu pastores, si Magistratus 
+      <lb ed="#H" n="106"/>sit infidelis, aut religionem Christianam plane non curet, vel ei 
+      ad<lb ed="#H" n="107" break="no"/>versetur, Actor. 15. 2. Concilium Nicenum primum &amp; alia convocat  
+      <lb ed="#H" n="108"/>sunt a Constantino Magno, sicut Eusebius libro primo de vita 
+      Con<lb ed="#H" n="109" break="no"/>stantini Magni ait: Ecclesiae tamen Dei peculiarem solicitudinem 
+      im<lb ed="#H" n="110" break="no"/>pertiens (Constantinus Magnus,) quum per varia loca exorirentur 
+      in<lb ed="#H" n="111" break="no"/>ter Episcopos dissensiones ipse ceu communis aliquis Episcopus a Dei 
+      <lb ed="#H" n="112"/>constitutus συυο κς τῶν θεο λειτμργον σωικρθτει, synodes ministrorum 
+      <lb ed="#H" n="113"/>Dei indicebat &amp; congregabat. Constantinopolitanum concilium 
+      pri<lb ed="#H" n="114" break="no"/>mum a Theodosio Magno coactum, alia ab aliis Imperatoribus. 
+      <lb ed="#H" n="115"/>qua de re videatur Symphonia nostra Theologica, cap. decimoocta. 
+      <lb ed="#H" n="116"/>vo, thesi vigesimatertia 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e409">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Secunda conditio legitimi concilii est, ut habeant in concilio 
+      vo<lb ed="#H" n="118" break="no"/>cem deliberativam seu consultativam &amp; decisivam quicunque sunt 
+      ab<lb ed="#H" n="119" break="no"/>Ecclesiis delecti &amp; delegati, non tantum ab una, sed etiam ab altera 
+      <lb ed="#H" n="120"/>parte dissidentium, quorum videlicet res agitur 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e422">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>Legati autem Ecclesiarum debent esse tum in primis pii, doctis 
+      <lb ed="#H" n="122"/>prudentes, modesti, humiles, mansueti, &amp; veritatis amantes &amp; 
+      pacifi<lb ed="#H" n="123" break="no"/>ci Pastores &amp; Theologi, maxime praecipui defensores dogmatum 
+      pu<lb ed="#H" n="124" break="no"/>gnantium: tum ipsi quoque Imperatores, Reges. Principes &amp; alii 
+      vi<lb ed="#H" n="125" break="no"/>i idonei, id est, pii, sancti &amp; docti, sive Scholarum sint moderatores; 
+      <lb ed="#H" n="126"/>sive politici ordinis, quos ad deliberationem, collationem &amp; 
+      dictio<lb ed="#H" n="127" break="no"/>nem sententiarum, pari cum caeteris jure convenit admitti. Quod &amp; 
+      <lb ed="#H" n="128"/>in concilio Apostolleo factum, Actor. 15. 2. Laicos fuisse in concilioe 
+      <lb ed="#H" n="129"/>Niceno admissos testantur Histor. Triparti libro secundo, capite  
+      <lb ed="#H" n="130"/>tertio: item Tomus primus conciliorum Colon. excus. pag. trecentes. 
+      <lb ed="#H" n="131"/>triges. quarta, Gelasius Cigicenus, Ruffinus. Videatur Symphonia 
+      <lb ed="#H" n="132"/>nostra Catholica, cap. decimooctavo. thesi vigesimaquarta. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e454">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>Tertia conditio legitimi concilii est, ut locus concilii sit opportus 
+      <lb ed="#H" n="134"/>nus, tutus, &amp; sine periculo accessuris omnibus, idque propter 
+      senten<lb ed="#H" n="135" break="no"/>ias dicendas, quas omnino liberas esse oportet. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e465">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>Quarta conditio est, ut summus quidem concilii praeses sit 
+      Chri<lb ed="#H" n="137" break="no"/>stus, in cujus nomine congregatur, qui etiam supremus judex est in 
+      <lb ed="#H" n="138"/>controversiis religionis, qua de re videatur Symphonia nostra 
+      Ca<lb ed="#H" n="139" break="no"/>tholica cap. primo, thesi nona. Ministerialis praeses sit etiam idoneus, 
+      <lb ed="#H" n="140"/>tum Ecclesiasticus tum Politicus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e481">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Ecclesiasticus praeses est qui disceptationi sacrae praeest, hoc est, qui  
+      <lb ed="#H" n="142"/>moderatur totam concilii actionem, indicit tempus conveniendi, 
+      <lb ed="#H" n="143"/>convocat coetum, proponit agenda, sententias interrogat &amp; 
+      Nota<lb ed="#H" n="144" break="no"/>riis adhibitis colligit: si qui Sacrae Scripturae aut Patrum 
+      ortho<lb ed="#H" n="145" break="no"/>doxorum loci perperam aliegentur, eorum verum sensum exponis 
+      <lb ed="#H" n="146"/>&amp; ostendit, ipse quoque post alios sententiam dicit, eodem jure quo 
+      <lb ed="#H" n="147"/>caeteris 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e501">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Praeses Ecclesiasticus is erit, qui ex numero Episcoporum seu 
+      Pasto<lb ed="#H" n="149" break="no"/>rum a toto concilio erit electus &amp; probatus, sive concilium generale 
+      <lb ed="#H" n="150"/>sit, sive speciale 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e512">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>Nam Pontificis Romani non est, omnibus generalibus conciliis 
+      <lb ed="#H" n="152"/>praesidere, ut sequentia argumenta evincunt: 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e521">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>I. Quia nullum tale privilegium Pontifici Romano a Christo 
+      <lb ed="#H" n="154"/>datum est 
+      <lb ed="#H" n="155"/>2. Quia exempla ostendunt, eum jus praesidendi generalibus 
+      con<lb ed="#H" n="156" break="no"/>ciliis non habuisse. Praefuerunt enim illis alii, quam Romani 
+      Episco<lb ed="#H" n="157" break="no"/>pi: qua de re videatur Symphonia nostra Catholica, cap. decimoocta. 
+      <lb ed="#H" n="158"/>vo, Thesi vigesimaquint:  
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e540">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>Hodie vero multo minus est ejus praesidere, quia est reus, quia 
+      ac<lb ed="#H" n="160" break="no"/>Hcusatur de idololatria, haeresibus innumeris, totius cultus diuini pro¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e549">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>hanatione, &amp; aliis criminibus a maxima Christianitatis parte. 
+      Nul<lb ed="#H" n="162" break="no"/>lo igitur jure in sua propria causa potest praesidere. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e558">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>Politicus praeses est Imperator, Rex seu Princeps &amp; summus 
+      Ma<lb ed="#H" n="164" break="no"/>gistratus fidelis, qui concilium conuocauit, aut eius nomine legati 
+      ip<lb ed="#H" n="165" break="no"/>sius. Sic praesedit in concilio Niceno Constantiunus Magnus. 12. q. 1. 
+      <lb ed="#H" n="166"/> Futuram 
+      <lb ed="#H" n="167"/>Eiusque officium est curare ἀυταζιαν, hoc est, bonum ordinem &amp; 
+      <lb ed="#H" n="168"/>pacem concilii, illudque tueri ab omni vi externa &amp; confusione interna. 
+      <lb ed="#H" n="169"/>coercete rixantes Episcopos, cogere ad esse non sistentes secum 
+      evo<lb ed="#H" n="170" break="no"/>tantur, continere coadunatum concilium, ne ipso inscio &amp; non 
+      per<lb ed="#H" n="171" break="no"/>mittente dissoluatur, Episcopos sui officii metas transgredientes &amp; 
+      <lb ed="#H" n="172"/>umultuantes ad officium reuocare, quod ex majoris melirisque 
+      par<lb ed="#H" n="173" break="no"/>tis synodi sententiis &amp; suffragiis a Praeside Ecclesiastico juxta Sacram 
+      <lb ed="#H" n="174"/>Scripturam Canonicam fuerit collectum &amp; conclusum approbare, 
+      <lb ed="#H" n="175"/>decreta a Concilio iuxta sacrarum litterarum praescriptum facta ab 
+      <lb ed="#H" n="176"/>omnibus subsignari jubere, eadem publico dicto sanicire &amp; cutare 
+      <lb ed="#H" n="177"/>servari per totam suam ditionem, demque decretis Conciii 
+      legiti<lb ed="#H" n="178" break="no"/>me factis rebellantes punire. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e597">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>Distingui oportet causam Ecclesiasticam ab actu erdinis 
+      extern<lb ed="#H" n="180" break="no"/>Ad causam Ecclesiasticam, hoc est, tem fidei &amp; Ecclesiae electivus 
+      pro<lb ed="#H" n="181" break="no"/>ses est: actus vero ordinis externi est plane politicus, ideo 
+      Magistra<lb ed="#H" n="182" break="no"/>tus summus illius conservandi causa praeses est 
+      <!--cod-MkL9py-0571.xml-->
+      <pb ed="#H" n="542"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Edicta Imperatorum &amp; Regum, quibus Synodorum praesertimA 
+      <lb ed="#H" n="2"/>Oecumenicarum decreta confirmantur, Graeci vocant δα ιαγμαζα 
+      <lb ed="#H" n="3"/>θεισματα, χρυσοθολακθγαζαρασ σωοδικας γε φασεις, edicta, aureas 
+      <lb ed="#H" n="4"/>ballas ad synodales sententas regis autoricate muniendas: id enim est 
+      <lb ed="#H" n="5"/>xυνον, sancire ut vim Legis aliquid habeat, quod unius est ac solius 
+      <lb ed="#H" n="6"/>Principis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e630">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Jus pronunciandi quid sanctum sit, quid non, est Patrum Synodi: 
+      <lb ed="#H" n="8"/>at sancire derreta Synodi est Principis. Res divinae administrantur. 
+      <lb ed="#H" n="9"/>synodali xρισει, judicio: eaedem confirmantur regia imxρiσes, judicie 
+      <lb ed="#H" n="10"/>quasi secundo 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e643">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Quod si Magistratus non sit fidelis, vel concilium plane non curet, 
+      <lb ed="#H" n="12"/>tum cotius concilii consensu praeses politicus est eligendus, qui 
+      re<lb ed="#H" n="13" break="no"/>ctum ordinem &amp; pacem concilii tueatur, &amp; caetera curet, quae 
+      summi<lb ed="#H" n="14" break="no"/>Magistratus officium tamen non attingant, ut quod de edictis &amp; 
+      poe<lb ed="#H" n="15" break="no"/>nis dictum est, 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e660">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Quinta conditio legitimi Concilii est, ut liberum sit concilium 
+      <lb ed="#H" n="17"/>hoc est, ut concessum sit cuique etiamsi laicus, vel etiam infidelis si 
+      <lb ed="#H" n="18"/>concilio proponere, in quo aedificari &amp; instrui quoad religionem 
+      pos<lb ed="#H" n="19" break="no"/>sit. Quivis enim audiri potest &amp; debet modo id ordine &amp; rite fiat. Tum 
+      <lb ed="#H" n="20"/>ut quivis liberum habeat aditum &amp; abitum. Qui autem haereseωs vel  
+      <lb ed="#H" n="21"/>sceleris alicujus convictus fuerit, &amp; pertinax manserit, poena 
+      Ecclesia<lb ed="#H" n="22" break="no"/>stica afficiatur, hoc est, depositione ab officio Ecclesiastico, vel 
+      Ab<lb ed="#H" n="23" break="no"/>stentione, vel Excommunicatione 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e682">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Sexta conditio est, ut σuζoτmois demotis controversiis ab Episcopi 
+      <lb ed="#H" n="25"/>seu Pastoribus &amp; presbyteris caeterisque Ecclesiarum legatis, citra 
+      <lb ed="#H" n="26"/>praejudicium domi paratum fiat; utque pars utraque dissentientium 
+      <lb ed="#H" n="27"/>audiatur, absens vero &amp; non audita pars neutiquam damnetur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e695">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Aσυζητήσει seu colloquio absint contentiones &amp; rixae, ut 
+      consula<lb ed="#H" n="29" break="no"/>tur aedificationi quae inter rixandum nulla est. Exemplum est in 
+      Jer<lb ed="#H" n="30" break="no"/>Propheta, cui cum contradixisset in publico conventu Chananj 
+      <lb ed="#H" n="31"/>Pseudopropheta, redarguit eum modeste Propheta Jeremias 
+      con<lb ed="#H" n="32" break="no"/>tentionem fugiens, donec Deus servo suo occasionem exhiberet ac 
+      <lb ed="#H" n="33"/>aedificandum commodam, Jerem. 28. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e713">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Forma &amp; ratio legitima atque fructuosa colloquii de religioni 
+      <lb ed="#H" n="35"/>controversiis describitur ab Augustino in secundo tomo, epistola 
+      cen<lb ed="#H" n="36" break="no"/>tesima quinquagesima secunda, quae est ad populum Donatianae 
+      fa<lb ed="#H" n="37" break="no"/>ctionis: Canthaginem venimus, &amp; nos &amp; Episcopi vestri, &amp; quod 
+      priu<lb ed="#H" n="38" break="no"/>nolebant &amp; indignum esse dicebant, in unum convenimus. Electi sunt ex 
+      <lb ed="#H" n="39"/>nobis &amp; ex ipsis, septe hinc &amp; septem inde qui pro causa omnium loquerens 
+      <lb ed="#H" n="40"/>tur. Electi sunt alii septem hinc &amp; septem inde, cum quibus ubi opus erat  
+      <lb ed="#H" n="41"/>consilium pertractarent. Electi sunt quatuor hinc &amp; quatuor inde, 
+      qui<lb ed="#H" n="42" break="no"/>gestis conscribendis custodes essent, ne infalsatum aliquid ab aliquo 
+      dice<lb ed="#H" n="43" break="no"/>retur. Dati sunt etiam a nobis &amp; ab ipsis notarii quatuor hinc &amp; quatuo 
+      <lb ed="#H" n="44"/>inde, ut bini cum exceptoribus ludicis alternarent, ne aliquis nostrums 
+      <lb ed="#H" n="45"/>dixissealiquid causaretur, quod non fuisset exceptu. Huic tantae 
+      diligen<lb ed="#H" n="46" break="no"/>tiae etiam illud est additum, ut &amp; nos &amp; ipsi, quem admodum ipse Iudex 
+      <lb ed="#H" n="47"/>vοrbis nostris subscriberemus, no quisquam diceret in illis gestis aliquio  
+      <lb ed="#H" n="48"/>vel postea fuisse corruptum. Cum enim adhuc viventibus eis qui 
+      subscri<lb ed="#H" n="49" break="no"/>pserunt innotuerint eadem gesta omnibus locis in quibus oportet ut 
+      inno<lb ed="#H" n="50" break="no"/>tescant, sic etiam ad posteros confirmata veritas perdurabit.  
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e755">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Septima conditio Concilii legitimi est, ut finis concilii sit legitia 
+      <lb ed="#H" n="52"/>mus. Is autem duplex est. 1. Ut puram doctrinam in Sacra 
+      Scri<lb ed="#H" n="53" break="no"/>prura traditam adversus haereticos asserat, &amp; publico suo 
+      testimoni<lb ed="#H" n="54" break="no"/>approbet: ac proinde sit non judex, sed index pot us judicii divini 
+      ex<lb ed="#H" n="55" break="no"/>Scriptura Sacra 2. Ut Politiae Ecclesiasticae decreta pro divers 
+      <lb ed="#H" n="56"/>temporum, locorum &amp; personarum ratione constituat vel constitut. 
+      <lb ed="#H" n="57"/>confirmet. Non est autem concilii videre, ut personae errantes 
+      sup<lb ed="#H" n="58" break="no"/>plicio cap: tali puniantur: nec sanguinaria chirurgia Ecclesiam 
+      decet<lb ed="#H" n="59" break="no"/>salubrior est diaet:  
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e779">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>Octavo, ut nihil definiatur, nihil decidatur, nisi ex Sacrae Scripturae 
+      <lb ed="#H" n="61"/>tanquam unicae NORMAEVERITATIS in Ecclesia, judicio, quod ju 
+      <lb ed="#H" n="62"/>dicium &amp; publicum est &amp; Dei ipsius, qui in Scriptura loquitur, &amp; 
+      solu<lb ed="#H" n="63" break="no"/>potestatem habet praescribendi Ecclesiae, quid sit credendum &amp; faci 
+      <lb ed="#H" n="64"/>endum in Ecclesia. In Synodis sola vox Dei audiri debet &amp; ab ejus 
+      <lb ed="#H" n="65"/>decisione omnibus pendendum: alioqui vocem decisivam a qua 
+      veri<lb ed="#H" n="66" break="no"/>tatis autoritas dependeat nullus hominum in Synodo, ac ne ipsa qui 
+      <lb ed="#H" n="67"/>dem Synodus tota habet. Vox illa Dei sonat in Scriptura Prophetica. 
+      <lb ed="#H" n="68"/>&amp; Apostolica, quae tum Conciliis omnibus, tum singulis etiam 
+      pri<lb ed="#H" n="69" break="no"/>vatis est magistra fidei secundum Deum; Cui Scripturae judicio 
+      pu<lb ed="#H" n="70" break="no"/>blico si subscribat concilium, ipsum recte judicat, 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e809">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Proinde decreta Concilii Scripturis Sacris consentanea acceptan 
+      <lb ed="#H" n="72"/>da sunt, sed Scripturis ipsis neutiquam exaequanda. Ideo nondum in 
+      <lb ed="#H" n="73"/>telligentibus eorum aeritatem, licet ea examinate an cum Scripturia 
+      <lb ed="#H" n="74"/>consentiant, ut factum est de Symbolo Niceno, Historia tripartita, lib.  
+      <lb ed="#H" n="75"/>secundo, cap. undecimo: &amp;, quod amplius, ut factum est de doctrina 
+      <lb ed="#H" n="76"/>Apostoli Pauli a Beroeensibus, Actor. 17. 11 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e827">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Extraordinarium fuit, quod Elija Propheta mitaculo cum 
+      pro<lb ed="#H" n="78" break="no"/>phetis Bahalis spopondit, ut nempe is esset Deus qui igne testaretur 
+      <lb ed="#H" n="79"/>se esse Deum 1. Reg. 18. v. 24. Nam Prophetae Baalis non 
+      comple<lb ed="#H" n="80" break="no"/>ctebantur Scripturam Sacram 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e840">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Sic fuit de Concilio legitimo &amp; probo. 
+      <lb ed="#H" n="82"/>Concilium non probum &amp; illegitimum, est quod legibus Verbo Dei 
+      <lb ed="#H" n="83"/>praescriptis repugnat: hoc est, in quo illa desunt, quae in concilio 
+      legi<lb ed="#H" n="84" break="no"/>timo requiti Scriptura Sacra docet. Tale concilium vocatur etia pseu 
+      <lb ed="#H" n="85"/>dosynadus: cujusmodi est synodus Nicena secuda, quae falso dicitur 
+      se<lb ed="#H" n="86" break="no"/>ptima synodus generalis: item concilium Constantiense, Lateranensia. 
+      <lb ed="#H" n="87"/>aliquot, Florentinum, Tridentinum, quod postremum cur non sit 
+      le<lb ed="#H" n="88" break="no"/>igitimum libro primo expositum cap. trigesimo tertio¬  
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e862">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Dissentanea Conciliorum Episcopalium. 
+      <lb ed="#H" n="90"/>Concilia non habent potestatem condendi novos articulos fido 
+      <!--cod-MkL9py-0571.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>vel proferendi alia dogmata, quam sunt a Deo puaescripta in 
+      prophae<lb ed="#H" n="92" break="no"/>ticis &amp; Apostolicis libris 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e880">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>II. Quia Deus etiam ipsos Prophetas prohibet aliquid afferre ex 
+      <lb ed="#H" n="94"/>seipsis, sed injungit ipsis ut loquantur ex ore Domini. Ezechiel. 3. ver. 
+      <lb ed="#H" n="95"/>17 Fili hominis, ait Dominus, speculatorum te dedi domui Israel:aus 
+      <lb ed="#H" n="96"/>dies igitur ex ore meo verbum, &amp; annuntiabis illis ex me. Idem es 
+      <lb ed="#H" n="97"/>apud Jeremiam aliis verbis Jerem. 23. versicul. 28. Propheta, inquit,  
+      <lb ed="#H" n="98"/>apud quem est somnium, narret somnium: &amp; qui habet verbum meum, 
+      <lb ed="#H" n="99"/>loquatur verbum meum verum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e900">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>2. Quia ipsis etiam Apostolis a Christo injungitur, ut doceant  
+      <lb ed="#H" n="101"/>omnes Gentes servare, quae ipse praecepit Matth. 28 19. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e910">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>3. Quia ipse etiam Christus, quamvis Magister &amp; Doctor 
+      omni<lb ed="#H" n="103" break="no"/>um constitutus, nihil docuit, nisi quod Pater ipsi mandavit; sicut 
+      profi<lb ed="#H" n="104" break="no"/>retur ipsemet Joh 7. v16. Mea dectrina non est mea, sed eius qui misit 
+      <lb ed="#H" n="105"/>me Patris. Jam si Prophetae, si Apostoli, si Christus denique ipse 
+      han<lb ed="#H" n="106" break="no"/>in se legem recepit, ne quid docerent aliud, quam Deus mandasset. 
+      <lb ed="#H" n="107"/>multo magis ea conciliis est imposita 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e928">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>A 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e935">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Quia Moses, Prophetae, Christus ipse &amp; Apostoli, dogmata: 
+      <lb ed="#H" n="110"/>sua ex Scriptura probarunt: quod ipse Bellarminus faretur libro I. 
+      <lb ed="#H" n="111"/>de Verbo Dei, cap. 2. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e946">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>5. Quia Prophetae ipsi nullam novam doctrinam protulerunt, sed  
+      <lb ed="#H" n="113"/>Legis duntaxat interpretes fuerunt  
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e955">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>6. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e962">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Quia concilium Apostolicum nihil tradidit, extra Prophetas, 
+      <lb ed="#H" n="116"/>ut videre est Actor. 15. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e972">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>7. Quia solus Deus nobis in spirituali doctrina est magister: ut 
+      <lb ed="#H" n="118"/>solus est verax qui nec mentiri nec fallere potest. 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e981">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>OBIICITUR: Prophetae &amp; Apostoli addiderunt multa libris Mosis. 
+      <lb ed="#H" n="120"/>Er¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e990">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>o habet Ecclesia potestatem etiem addendi aliqua Sacris Scripturus 
+      <lb ed="#H" n="122"/>RESP. In propositione omissa est elenchus fnlsorum patium: 
+      <lb ed="#H" n="123"/>nam falso fingitur eadem potestas &amp; autoritas competere Ecclesia 
+      <lb ed="#H" n="124"/>cum Prophetis &amp; Apostolis Alii ministri Ecclesiae non sunt Prophe 
+      <lb ed="#H" n="125"/>tae &amp; Apostoli. Quod attinet ad assumtionem, sciendum est in libris 
+      <lb ed="#H" n="126"/>Mosis vel dogmata contineri vel historiam. Si dogmata spectes, nulla 
+      <lb ed="#H" n="127"/>nova sunt addita a Prophetis &amp; Apostolis, sed tradita a Mose ab illis 
+      <lb ed="#H" n="128"/>tantum declarata. At si historia ipectes, est addita, sed ad illustranda 
+      <lb ed="#H" n="129"/>dogmata, non evertenda. Est igitur sophisma falsorum parium: nam 
+      quie<lb ed="#H" n="130" break="no"/>quid Prophetis &amp; Apostolis licuit, id aliis ministris non continuo licet  
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e1016">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>II. Concilia Episcopalia neminem obligant, si a Scriptura 
+      Sacra<lb ed="#H" n="132" break="no"/>discedant: ut haec argumenta ostendunt: Primum quia Cociliis etiam 
+      <lb ed="#H" n="133"/>probatissimis Patres Orthodoxi alios adstringere in controversiis 
+      fi<lb ed="#H" n="134" break="no"/>dei noluerunt. Quod enim Concilium Universale probatius est 
+      Ni<lb ed="#H" n="135" break="no"/>reno primo? ad illud tamen noluit Augustinus revocare adversarios 
+      <lb ed="#H" n="136"/>fidei, sed ad Sacram Scripturam Nam 6. tomo, li. 3. contra Maximi 
+      <lb ed="#H" n="137"/>num Arianorum Episcopum, c. 14. ait: Nec ego Nicenum, nec tu debo 
+      <lb ed="#H" n="138"/>Ariminense tanquam praetudicaturus proferre Concilium: Nec ego 
+      hu<lb ed="#H" n="139" break="no"/>jus autoritate, nec tu illius detineris: Scripturarum autoritatibus, non 
+      <lb ed="#H" n="140"/>quorumcumque propriis, sed utrisque communibus testibus, res cum re, 
+      <lb ed="#H" n="141"/>causa cum causa; ratio cum ratione concertet. Utrique legimus; Vt simus 
+      <lb ed="#H" n="142"/>in vero Filio eius Iesu Christo: ipse est verus Deus &amp; vita aterna. 
+      Vtri<lb ed="#H" n="143" break="no"/>que tanti ponderis molibus cedamus 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e1049">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Secundum argumentum est Si ne Apostolis quide, imo ne 
+      Ange<lb ed="#H" n="145" break="no"/>lis quidem e caelo, aliquid praeter id quod Scripturae Sacrae docent 
+      an<lb ed="#H" n="146" break="no"/>munciantibus obediendum est: multo minus Conciliis Episcopalibus. 
+      <lb ed="#H" n="147"/>Antecedes est Apostoli Pauli Gal. 1, 8, 9. Sed etiamsi nos, aut Angelus 
+      <lb ed="#H" n="148"/>e caelo evangelizet vobis praeter id, quod vobis ovagelizavimus, anathe 
+      <lb ed="#H" n="149"/>ma esto. Vt ante diximus, etiam nunc iterum dico, Si quis vobis 
+      evange<lb ed="#H" n="150" break="no"/>lizaverit praeter id quod accepistis, anathema esto. Sic 
+      CHRTSOST0<lb ed="#H" n="151" break="no"/>MuS ait homil. 2. in secundam epist. ad Timoth. Plus aliquid dicam, 
+      <lb ed="#H" n="152"/>ne Paulo quidem obedire oportet, si quid dixerit proprium, si quid 
+      huma<lb ed="#H" n="153" break="no"/>num, sed Apostolo Christum in se loquentem circumferenti 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e1075">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>Tertium argumentum, quia Conciliorum codices sunt corrupti &amp; 
+      <lb ed="#H" n="155"/>falsati. Nam ipsimet Pontifices Romani falsarunt canones Niceni 
+      <lb ed="#H" n="156"/>Concilii &amp; Milevitani. Vide Symphoniam nostram Catholicam 
+      de<lb ed="#H" n="157" break="no"/>cimooctavo cap. thesi vigesimaprima 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e1089">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>Quartum, quia Conciliis si a Sacra Scriptura deflectant, antepo 
+      <lb ed="#H" n="159"/>nenda est etiam unius hominis quantumvis laici sententia in sacris 
+      li<lb ed="#H" n="160" break="no"/>teris fundata: sicut Gerson ait Tractatu de Examinatione doctrina 
+      <lb ed="#H" n="161"/>rum parte prima principali, consideratione quinta: Examinator 
+      hu<lb ed="#H" n="162" break="no"/>iusmodi doctrinarum est per modum doctrinae quilibet in sacris literis 
+      suffi<lb ed="#H" n="163" break="no"/>cienter eruditus. Et paulo post: Iungatur huic considerationi cum 
+      sua<lb ed="#H" n="164" break="no"/>declavatione duplex veritas. Prima staret quod aliquis simplex non 
+      au<lb ed="#H" n="165" break="no"/>porizatus, esset tam excelleter in sacris literis eruditus: quod plus esset 
+      cre<lb ed="#H" n="166" break="no"/>dendum in casu doctrinali suae assertioni quam Papae declavationi. 
+      Con<lb ed="#H" n="167" break="no"/>stat enim plus esse credendum Evangelio quam Papae. Si doceat igitur talis 
+      <lb ed="#H" n="168"/>eruditus veritatem aliqua in Evangelio contineri, ubi &amp; Papa nesciret. 
+      <lb ed="#H" n="169"/>vel ultro erraret: patet cuius praeferedum sit iudicium. Altera veritas: 
+      Ta<lb ed="#H" n="170" break="no"/>lis eruditus deberet in casu, si &amp; dum celebraretur generale Concilium: cui  
+      <lb ed="#H" n="171"/>&amp; ipse praesens esset illi se opponere, si sentiret maiore partem ad oppositum 
+      <lb ed="#H" n="172"/>Evangelii malitia vel ignorantia declinare. Exemplum beatissimus 
+      de<lb ed="#H" n="173" break="no"/>dit Hilarius. Idipsum diserte scribit Panormitanus extra. de elect. c. si 
+      <lb ed="#H" n="174"/>gnificasti: Plus credendum est vel simplici Laico Scripturam proferenti, 
+      <lb ed="#H" n="175"/>quam toti simul concilio¬  
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e1133">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Plura de Conciliis videantur in prima parte nostrae Sylloges 
+      The<lb ed="#H" n="177" break="no"/>sium Theologicarum 
+    </p>
+            <p xml:id="yyy8Uu-gxd496-d1e1142">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Hucusque de libertate conventuum 
+   Ecclesiastico<lb ed="#H" n="179"/>
+               <pc type="indent"/>rum: sequitur,
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

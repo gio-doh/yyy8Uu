@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 53</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 53</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd143"><!-- l6-c53 -->
+            <head xml:id="yyy8Uu-gxd143-Hd1e103">Caput 53</head>
+            <p xml:id="yyy8Uu-gxd143-d1e106">
+               <lb ed="#H" n="157"/>CAPUT LIII. 
+      <lb ed="#H" n="158"/>In quo de Paschate.
+    </p>
+            <p xml:id="yyy8Uu-gxd143-d1e113">
+               <lb ed="#H" n="159"/>ASCHA, fuit Sacramentum Veteris Testamenti, quo fideles 
+      <lb ed="#H" n="160"/>comesto agno Paschali admonebantur tum praeteritae ereptionis 
+      <lb ed="#H" n="161"/>corporalis in AEgypto a caede primogenitorum &amp; ex servitute 
+      <lb ed="#H" n="162"/>Pharaonica seu AEgyptiaca, tum futurae spiritualis liberationis per 
+      <lb ed="#H" n="163"/>Christum. Exod duodecimo, vers. primo, secundo, tertio, quinto, &amp; 
+      <lb ed="#H" n="164"/>uvndecimo. 
+    </p>
+            <p xml:id="yyy8Uu-gxd143-d1e129">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>aschatis stricta significatione accepti partes duae fuerunt: Agnus 
+      <lb ed="#H" n="166"/>Paschalis, &amp; actio ad eius usum pertinens. 
+    </p>
+            <p xml:id="yyy8Uu-gxd143-d1e138">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Agnus Paschalis spirituali significatione denotabat CHRISTUI 
+      <lb ed="#H" n="168"/>num DEI, auferentem peccata mundi, in priori ad Corinthios 
+      <lb ed="#H" n="169"/>quinto, versiculo septimo, octa:o &amp; decimo tertio¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd143-d1e150">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Actio in paschate erat vel administrantis, vel percipientis 
+      <lb ed="#H" n="171"/>Actio administrantis erat duplex: tum sanctificatio agni paschalis 
+      <lb ed="#H" n="172"/>um mactatio, assatio, &amp; praebitio ciusdem ad edendum. Exod. 12. 
+      <lb ed="#H" n="173"/>v. 3. 4. 5. 21. 
+      <!--cod-MkL9py-0521.xml-->
+      <pb ed="#H" n="494"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>A3. v. 25. explicans hoc Sacramentum ait de Christo, quod illum praestia 
+      <lb ed="#H" n="2"/>sanecum usum, nimirum ut fieret Sacramentum seu Symbolum 
+      ere<lb ed="#H" n="3" break="no"/>ptions popili Israentici, cum a cede primogenitorum, tum a morte 
+      e<lb ed="#H" n="4" break="no"/>verni per Christum, verum illum Agnum Dei pro nobis mactandum. 
+      <lb ed="#H" n="5"/>Excid. 12. 3. &amp; seqq. Ioh. 19 1. Cor. 5. v 7. 
+    </p>
+            <p xml:id="yyy8Uu-gxd143-d1e181">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Ad hunc finem explicatio institutionis Sacramenti Paschae 
+      praece<lb ed="#H" n="7" break="no"/>pta fuit, Exod. 12. v 26, 27. 
+    </p>
+            <p xml:id="yyy8Uu-gxd143-d1e190">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Altera actio erat mactatio, assatio &amp; praebitio agni paschalis 
+      adeden<lb ed="#H" n="9" break="no"/>dum, quae fi:bat a Patrefamilias, &amp; significabatur DeumFilium suum, 
+      <lb ed="#H" n="10"/>exhibiturum, ut pro peccatis mundi mactaretur, &amp; animarum 
+      nostra<lb ed="#H" n="11" break="no"/>rum cibus sieret, 1. Cor. 5. v. 7. 
+    </p>
+            <p xml:id="yyy8Uu-gxd143-d1e203">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Fidelis percipientis actio erat comestio agniPaschalis, qua significat 
+      <lb ed="#H" n="13"/>batur participatio Christi mactandi pro peccatis mundi, I. Cor. 5, 7. 8 
+    </p>
+            <p xml:id="yyy8Uu-gxd143-d1e212">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Adiuncta erat gratiarum actio, qua recolebatur ad laudem Dei 
+      be<lb ed="#H" n="15" break="no"/>neficium creptionis primogenitorum a caede, &amp; eductionis populi Dei. 
+      <lb ed="#H" n="16"/>ex servitute AEgyptiaca, &amp; futurae liberationis ex spirituali AEgypto, 
+      <lb ed="#H" n="17"/>hoc est, ex servitute peccati, sacrificio Messiae, Exod. 12. v. 24, 26. &amp; 13. 
+      <lb ed="#H" n="18"/>v. 8, 9, 10. 
+    </p>
+            <p xml:id="yyy8Uu-gxd143-d1e228">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Qua propter Pascha seu comestio agni Paschalis erat simul 
+      sacrii<lb ed="#H" n="20" break="no"/>cium aucharisticum, propter adiunctam gratiarum actionem: erat 
+      et<lb ed="#H" n="21" break="no"/>iam sacrisicium propitiatorium, non proprium &amp; reale, sed 
+      soulum<lb ed="#H" n="22" break="no"/>modo significativum futuri sacrificii propitiatorii 
+    </p>
+            <p xml:id="yyy8Uu-gxd143-d1e242">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Quotannis Pascha renovabatur: tum ut posteri acceptorum 
+      bene<lb ed="#H" n="24" break="no"/>ficiorum identidem commonefierent:tum ut ad maiorem 
+      beneficio<lb ed="#H" n="25" break="no"/>rum exspectationem excitarentur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd143-d1e253">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>plura de agno Paschali videantur in Exegesi Analytica illustrium 
+      a<lb ed="#H" n="27" break="no"/>liquot vaticiniorum Veteris Testamenti in lectionibus de capite 
+      duodeci<lb ed="#H" n="28" break="no"/>mo Exodi. 
+    </p>
+            <p xml:id="yyy8Uu-gxd143-d1e264">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Sic est de ordinariis Sacramentis Veteris Testamentia 
+      <lb ed="#H" n="30"/>sequitur
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

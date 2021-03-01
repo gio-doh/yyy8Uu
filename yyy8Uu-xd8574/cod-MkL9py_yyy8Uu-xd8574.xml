@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd8574"><!-- l10-c13 -->
+            <head xml:id="yyy8Uu-xd8574-Hd1e103">Caput 13</head>
+            <p xml:id="yyy8Uu-xd8574-d1e106">
+               <lb ed="#H" n="89"/>CAPUT XIII. 
+      <lb ed="#H" n="90"/>In quo de luctu pro Mortuis.
+    </p>
+            <p xml:id="yyy8Uu-xd8574-d1e113">
+               <lb ed="#H" n="91"/>CHARITAS erga mortuos, est quum affectum cordis bonum 
+      <lb ed="#H" n="92"/>in illos, quamvis non amplius nobiscum in terra degentes, res 
+      <lb ed="#H" n="93"/>tinemus, &amp; quibuscunque in rebus decet, ex animo 
+      declara<lb ed="#H" n="94" break="no"/>mus, propter viventes quibus illi conjuncti fuerunt  
+    </p>
+            <p xml:id="yyy8Uu-xd8574-d1e124">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Eaque est erga illos conservanda, 
+    </p>
+            <p xml:id="yyy8Uu-xd8574-d1e131">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Quia a Deo mandata est, Hebr. 12. v. 1, 
+      <lb ed="#H" n="97"/>2. Quia illam exempla probata piorum nobis cormendant: u 
+      <lb ed="#H" n="98"/>Abrahami, Isaaci, Josephi David etiam in Saulem hostem suum 
+      cha<lb ed="#H" n="99" break="no"/>ritatem retinuit, 2. Sam? 
+    </p>
+            <p xml:id="yyy8Uu-xd8574-d1e145">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Partes ejus sunt: luctus &amp; cura pro mortuis: charitas erga posteros 
+      <lb ed="#H" n="101"/>&amp; propinques mortuorum, &amp; honor mortuorum. 
+    </p>
+            <p xml:id="yyy8Uu-xd8574-d1e154">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>LUCTUS pro mortuis, est charitas, per quam discessum eorum 
+      <lb ed="#H" n="103"/>vivis, qui nobis chari in hac vita fuerunt, lugemus, ad testandam 
+      a<lb ed="#H" n="104" break="no"/>morem nostru erga illos etiam defunctos. 
+    </p>
+            <p xml:id="yyy8Uu-xd8574-d1e165">
+               <lb ed="#H" n="105"/>
+               <pc type="indent"/>Isque non est illicitus per se 
+      <lb ed="#H" n="106"/>I. Quia mandatus. Rom. 12. v. 15. Flete cum flentibus, 
+      <lb ed="#H" n="107"/>2. Quia exempla Deo probata habet, ut Abrahami, qui Inxit  
+      <lb ed="#H" n="108"/>obitum uxoris Sarae, Gen. 23. v. 2. Et Isaaci, qui deploravit obitum 
+      <lb ed="#H" n="109"/>matris, Gen. 24. 67. &amp; Josephi, qui deflevit obitum patris Jacobi, 
+      Ge<lb ed="#H" n="110" break="no"/>nes. 50. vers. 1. 
+    </p>
+            <p xml:id="yyy8Uu-xd8574-d1e183">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>Sic Israelitae planxerunt Samuelem mortuum, 1. Sam. 28. vers. 3. 
+      <lb ed="#H" n="112"/>David &amp; comitatus ejus luxit Saulis &amp; Jonathanis mortem, 2. Sam. 
+      <lb ed="#H" n="113"/>I. v. 11, 12, 17. &amp; sequentibus usque ad finem capitis: David iterum 
+      <lb ed="#H" n="114"/>&amp; tolus populus Abnerum, 2. Sam. 3. v. 31. &amp; sequentibus. Totus 
+      po<lb ed="#H" n="115" break="no"/>bulus &amp; Jeremias Propheta luxerunt propter Josiam regem defum 
+      <lb ed="#H" n="116"/>ctum. 2. Chron. 35. 24, 25. Thren. Jeremiae. Imo Elisaeus luxit Elijam 
+      <lb ed="#H" n="117"/>Prophetam &amp; magistratum a se sublatum, 2. Reg cap. secundo, 
+      ver<lb ed="#H" n="118" break="no"/>sic. duo-decimo¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd8574-d1e205">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Sed tamen luctus hic moderatus esse debet, seu modus in eo ad 
+      <lb ed="#H" n="120"/>hibendus, I. Thessal 4. 14. Levit. 21. v. 4, 5. Deuter. 14. 1. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

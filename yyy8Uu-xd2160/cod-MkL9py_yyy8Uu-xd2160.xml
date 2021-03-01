@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 50</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 50</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd2160"><!-- l10-c50 -->
+            <head xml:id="yyy8Uu-xd2160-Hd1e103">Caput 50</head>
+            <p xml:id="yyy8Uu-xd2160-d1e106">
+               <lb ed="#H" n="20"/>CAPUT L. 
+      <lb ed="#H" n="21"/>In quo de lustitia universali.
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e113">
+               <lb ed="#H" n="22"/>CTIONES necessariae, sunt quae omnino ad humanam 
+      societa<lb ed="#H" n="23" break="no"/>tem tuendam requiruntur in quibus JUSTITIA elucet 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e120">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Justitiae vox interdum proprie accipitur, interdum tropice 
+      <lb ed="#H" n="25"/>Proprie, est habitus voluntatis bonus. 
+      <lb ed="#H" n="26"/>Tropice vel metonymice effecta significat ex habitu illo bono 
+      pro<lb ed="#H" n="27" break="no"/>manantia, vel ironice iniustitiam: Exemplum talis ironiae est Jesa. 57. 
+      <lb ed="#H" n="28"/>16. Ego indicabo justitiam tuam, &amp; facta tua quae non profutura 
+      <lb ed="#H" n="29"/>sunt tibi. 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e138">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>ustitia autem in hoc capite intelligitur habitus nobis inhaerens 
+      <lb ed="#H" n="31"/>seu justitia personae, non autem facti seu causae &amp;, sic definitur 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e148">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>justitia, est virtus inclinans ad volendum &amp; faciendum id, quod re 
+      <lb ed="#H" n="33"/>quiritur jure, quo secundum voluntatem Dei obstringimur. 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e157">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Justus est igitur, qui vult &amp; facit quod iure requiritur 
+      <lb ed="#H" n="35"/>Jus autem intelligimus tum divinum sive naturale sive scriptum; 
+      <lb ed="#H" n="36"/>tum humanum, juri divino consentaneum. Evangelium enim non 
+      <lb ed="#H" n="37"/>collit politias honestas &amp; leges politicas voluntati divinae in verbo 
+      <lb ed="#H" n="38"/>Dei patefactae congruentes. Quad si ius humanum cum divine 
+      <lb ed="#H" n="39"/>pugnet, nequaquam sequendum: OPORTET enim DEOMAGIS 
+      <lb ed="#H" n="40"/>OBEDIRS QUAM HOMINIBUS, Actor. 4. v. 19. &amp; cap. 5. v. 29. 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e177">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>Justitia vel universalis est vel particularis. 
+      <lb ed="#H" n="42"/>Justitia universalis, est conformitas seu congruentia universae 
+      no<lb ed="#H" n="43" break="no"/>strae naturae &amp; vitae omniumque actionum nostrarum cum Lege, 
+      <lb ed="#H" n="44"/>divina atque omnibus iustis Legique divinae consentientibus legit 
+      <lb ed="#H" n="45"/>ad nos pertinentibus. Psalm. 119. 142, 144. Usitate in Scriptura 
+      Sa<lb ed="#H" n="46" break="no"/>cra appellatur Sanctitas, item Sanctimonia, quae quidem propriissi 
+      <lb ed="#H" n="47"/>me in Deum competit. Quod enim apud homines iustum vocatur,  
+      <lb ed="#H" n="48"/>illud cum ad Deum transfertur, sanctum dicitur &amp; est. Nihil autem 
+      <lb ed="#H" n="49"/>est iustius Deo: proinde etiam vere &amp; proprie ipse solus sanctus est, id 
+      <lb ed="#H" n="50"/>est, universali perfectissimaque iustitia iustus, in quo nihil vitii, nihil 
+      <lb ed="#H" n="51"/>iniqui, nihil mali esse potest. Proinde SANCTITAS, seu sanctimonia. 
+      <lb ed="#H" n="52"/>est universalis perfectissimaque iustitia, cui nihil vitii, nihil iniqui, 
+      ni<lb ed="#H" n="53" break="no"/>hil labis est admistum. 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e210">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Porro iustitia universalis &amp; sanctitas omnes virtutes in sese 
+      conti<lb ed="#H" n="55" break="no"/>net, ut videre est Ezech. 18. v. 5. &amp; sequentibus Hebr. 7. 26. ubi 
+      Pau<lb ed="#H" n="56" break="no"/>lus dicit, Pontificem nostrum sanctum esse, &amp; sequentibus verbis 
+      ex<lb ed="#H" n="57" break="no"/>plicat: unde intelligimus, sanctum esse, qui universali perfectissimaque 
+      <lb ed="#H" n="58"/>justitia iustus &amp; omni virtute ornatus est, sine macula, sine labe, sine 
+      <lb ed="#H" n="59"/>ullo vitio.  
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e228">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>sustitiae universali sive Sanctitati serio &amp; continue studendum: 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e235">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Quia a Deo nobis mandata est Psalm. 4. v. 6. Sacrificate 
+      sacri<lb ed="#H" n="62" break="no"/>ficia justitiae. Levit. 19. 2. Estote sancti, Jes. 56. 1. 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e245">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>2. Quia Deo summe placet Psalm. 11. 7. Iustus Iehova, quae 
+      justa<lb ed="#H" n="64" break="no"/>sunt, liligit. Jes. 61. 8. Ego Iehova amo ju¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e254">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Quia multiplicem utilitatem affert. Nam liberat a morte, 
+      Pro<lb ed="#H" n="66" break="no"/>verb. 10. 2. &amp; 11.4. famam honestam conciliat Prov. 10. 7. erectum 
+      <lb ed="#H" n="67"/>conservat in vitae huius cursu, Proverb. 11. 5, 6. 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e265">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>I. Quia ei operam dantes sunt Deo accepti Actor. 10. 35. 
+      <lb ed="#H" n="69"/>5. Quia benedictionem Dei habet comitem. Psalm. 5. v. 13. 
+      Pro<lb ed="#H" n="70" break="no"/>verb. 10, 6. 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e276">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>6. Quia nos similes Deo reddit 1. Joh. 3. 7. Qui exercet iustitiam 
+      <lb ed="#H" n="72"/>justus est, sicut ille iustus est. Levit. 19. 2. Estote sancti, quia &amp; ego 
+      san<lb ed="#H" n="73" break="no"/>ctus sum, ego Iehova Deus vester. 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e287">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>7. Quia est signum regenerationis, 1. Johan. 3. 10. Quisquis non 
+      <lb ed="#H" n="75"/>dat operam iustitiae, non est ex Deo, 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e296">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>8. Quia sine ea Deum nemo videbit, Hebr. 12. v. 14. 
+      <lb ed="#H" n="77"/>9. Quia acceptior est. Deo quam sacrisicium, Prov. 21. 6. 
+      <lb ed="#H" n="78"/>Opponuntur ei, iniustitia universalis &amp; iustitia hypocritica. 
+      <lb ed="#H" n="79"/>Iniustitia universalis, est discrepantia actionum &amp; vitae a Lege, 
+      <lb ed="#H" n="80"/>divina atque aliis iustis Legibus Legique divinae consentientibus. 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e313">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Ea est sedulo fugienda, 
+      <lb ed="#H" n="82"/>I. Quia prohibita est a Deo in Decalogo &amp; passim. 
+      <lb ed="#H" n="83"/>II. Quia signum est hominis non regenerati, I. Joh. 3. 10. 
+      Quis<lb ed="#H" n="84" break="no"/>quis non dat operam iustitiae, non est ex Deo. 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e326">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>II. Quia reprehenditur a sanctis hominibus in quovis; ut a 
+      Pau<lb ed="#H" n="86" break="no"/>lo in Corinthiis 1. Cor. 6. v. 8. At vos iniuria afficitis &amp; fraudatis 
+      <lb ed="#H" n="87"/>idque fratres. 
+      <!--cod-MkL9py-0710.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="88"/>IV Quia arcet ab haereditate regni coelorum, 1. Cor. 6. versic. 9. 
+      <lb ed="#H" n="89"/>An ignoratis iniustos non esse Dei haereditatem possessuros. 
+      <lb ed="#H" n="90"/>Iustitia hypocratica, est peccatum, quum quispiam iustus vider 
+      <lb ed="#H" n="91"/>vult, quum non sit, ut qui falso sibi persuadeat, se legibus omnibus 
+      <lb ed="#H" n="92"/>ad se pertinentibus plene satisfecisse, etiam plura praestitisse, quam 
+      le<lb ed="#H" n="93" break="no"/>gibus requiritur, sic ut opera supererogationis venditet. Dicitur 
+      et<lb ed="#H" n="94" break="no"/>iam iustitia Pharifaica, Matth. 5. v. 20. 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e357">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Est cavenda: I. Quia a Deo prohibetur, Eccles. 7. 16. Ne sis 
+      iu<lb ed="#H" n="96" break="no"/>stus nimium 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e366">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>II. Quia non prodest quicquam ad regnum coelorum, Matth. 5. 
+      <lb ed="#H" n="98"/>v. 20. Dico enim vobis (ait Christus) nisi abundaverit vestra 
+      iusti<lb ed="#H" n="99" break="no"/>tia plusquam illa Scribarum &amp; Pharisaeorum, vos nequaquam 
+      in<lb ed="#H" n="100" break="no"/>gressuros in regnum coelorum. 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e379">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>III. Quia homini exitium affert, Eccles. 7. 16. quare 
+      desolatio<lb ed="#H" n="102" break="no"/>nem tibi accerseres. 
+    </p>
+            <p xml:id="yyy8Uu-xd2160-d1e388">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Haec de iustitia universali: sequitur de iustitia 
+      <lb ed="#H" n="104"/>particulari. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

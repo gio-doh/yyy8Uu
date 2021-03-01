@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd4750"><!-- l10-c2 -->
+            <head xml:id="yyy8Uu-xd4750-Hd1e103">Caput 2</head>
+            <p xml:id="yyy8Uu-xd4750-d1e106">
+               <lb ed="#H" n="16"/>CAPUT II 
+      <lb ed="#H" n="17"/>In quo de Charitate erga proximum in 
+      <lb ed="#H" n="18"/>communi. 
+    </p>
+            <p xml:id="yyy8Uu-xd4750-d1e115">
+               <lb ed="#H" n="19"/>VTIRTUS moralis vel affectuum est moderatrix vel actionum 
+    </p>
+            <p xml:id="yyy8Uu-xd4750-d1e120">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Virtus moderatrix affectuum versatur circa affectus, 
+      ve<lb ed="#H" n="21" break="no"/>vehementiores vel sedatiores. 
+      <lb ed="#H" n="22"/>Virtus moderatrix affectuum vehementiorum, est vel charitas 
+      er<lb ed="#H" n="23" break="no"/>ga proximum, vel fortitudo animi, vel temperantia. 
+    </p>
+            <p xml:id="yyy8Uu-xd4750-d1e133">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>De charitate erga proximum prius agendum quam de aliis 
+      virtu<lb ed="#H" n="25" break="no"/>tibus secundae tabulae Decalogi: tum quia causa est aliarum: (fide 
+      <lb ed="#H" n="26"/>enim salvifica per charitatemest efficax, Galat. 5. vers. 6.) tum qui  
+      <lb ed="#H" n="27"/>subjecto est latior &amp; necessitate, utilitate atque dignitate praestantior  
+      <lb ed="#H" n="28"/>omnibus aliis virtutibus quae in secunda tabula Decalogi requirum 
+      <lb ed="#H" n="29"/>tur: adeo quidem ut ipsa synecdochice impletio Legis, si Decalogi 
+      <lb ed="#H" n="30"/>tabulam secundam respicias censeatur, &amp; sine ea nulla alia virtus 
+      <lb ed="#H" n="31"/>quicquam sit: ut sequentia loca Scripturae ostendunt. Matth. 22. 
+      <lb ed="#H" n="32"/>vers. 37, 38. 39, 40. Iesus autem dixit ei: Diliges Dominum Deu, 
+      <lb ed="#H" n="33"/>tuum ex toto corde tuo, &amp; ex tota anima tua, &amp; ex tota cogitatione. 
+      <lb ed="#H" n="34"/>tua. Istud est primum &amp; magnum mandatum: Secundum autem 
+      <lb ed="#H" n="35"/>simile est huic, Diliges proximum tuum ut teipsum. Ab istis duobus 
+      <lb ed="#H" n="36"/>mandatis tota Lex &amp; Prophetae pendent. Roman. 13. vers. 8, 9, 10 
+      <lb ed="#H" n="37"/>Nemini quicquam debete, nisi hoc, ut alii alios diligatis: Nam qui 
+      di<lb ed="#H" n="38" break="no"/>ligit alterum, Legem implevit. Siquidem illud, Non moechaberis, Non 
+      <lb ed="#H" n="39"/>occides, Non furaberis, Non falsum testimonium dices, Non concupisces: 
+      <lb ed="#H" n="40"/>&amp; si quod aliud est praeceptum, in hoc sermone summatim 
+      comprehen<lb ed="#H" n="41" break="no"/>ditur: nempe, Diliges proximum tuum sicut teipsum. Charitas 
+      pro<lb ed="#H" n="42" break="no"/>ximum non afficit malo. Itaque charitas est completio Legis, Galat. 5. 
+      <lb ed="#H" n="43"/>versic. 13, 14. Vos enim ad libertatem vocati estis, fratres: tantum 
+      no<lb ed="#H" n="44" break="no"/>libertatem arripite ut datam carni occasionem, sed ex charitate 
+      servi<lb ed="#H" n="45" break="no"/>te alii aliis. Nam tota Lex uno dicto completur, isto videlicet, Diliges 
+      <lb ed="#H" n="46"/>proximum tuum, ut teipsum. 1. Corinth. 13. vers. 1. &amp; sequentibus 
+      <lb ed="#H" n="47"/>Si linguis hominum loquar &amp; Angelorum, charitatem autem non 
+      <lb ed="#H" n="48"/>habeam, factus sum aes resonans, att, ymbalum tinniens. Et si habeam 
+      <lb ed="#H" n="49"/>prophetiam, &amp; noverim mysteria omnia, omnemque cognitionem: &amp; sit 
+      <lb ed="#H" n="50"/>habeam iptam fidem, adeo ut montes transferam, charitatem autem 
+      <lb ed="#H" n="51"/>non habeam, nihil sum. Et si in sumam alendis egenis omnia quae 
+      mi<lb ed="#H" n="52" break="no"/>hi suppetunt, &amp; si tradam corpus meum ut comburar, charitatem 
+      au<lb ed="#H" n="53" break="no"/>tem non habeam, hoc nihil mihi prodest. Charitas iram cohibet, 
+      beni<lb ed="#H" n="54" break="no"/>gna est charitas, non invidet charitas, non agit perperam, non inflatur 
+      <lb ed="#H" n="55"/>Non agit indecore, non quaerit quae sua sunt, non exacerbatur, non 
+      co<lb ed="#H" n="56" break="no"/>gitat malum. Non gaudet injustitia, gratulatur autem veritati 
+      <lb ed="#H" n="57"/>Omnia tegit, omnia credit, omnia sperat, omnia sustinet. Charitas 
+      <lb ed="#H" n="58"/>nunquam excidit: sed &amp; prophetiae evanescent, &amp; linguae cessabunt, &amp; 
+      <lb ed="#H" n="59"/>cognitio evanescer. Videatur vigesimum caput secundi libri Ethices. 
+      <lb ed="#H" n="60"/>Christianae Lamberti Danaei. 
+    </p>
+            <p xml:id="yyy8Uu-xd4750-d1e219">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Quapropter primo loco agendum de charitate erga proximum, 
+      <lb ed="#H" n="62"/>quae in hunc modum definitur: 
+    </p>
+            <p xml:id="yyy8Uu-xd4750-d1e228">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>CHARITAS ERGA PROXIMUM, est virtus, per quam post. 
+      <lb ed="#H" n="64"/>Deum ii diliguntur, qui ex mandato Dei diligi debent. 
+    </p>
+            <p xml:id="yyy8Uu-xd4750-d1e237">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>PROXIMUS NOSTER, est quilibet cui vel officium, vel auxilium 
+      <lb ed="#H" n="66"/>nostrum exhibere debemus, aut cujus officio auxiliove nos indige 
+      <lb ed="#H" n="67"/>mus, Luc. 10. v. 36, 37. 
+    </p>
+            <p xml:id="yyy8Uu-xd4750-d1e248">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Recte quoque Augustinus tertio tomo, libro primo de doctrina 
+      <lb ed="#H" n="69"/>Christiana, capite tricesimo: Proximus, est vel cui a nobis 
+      praeben<lb ed="#H" n="70" break="no"/>dum est, vel a quo nobis praebendum est officium misericordiae. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 31</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 31</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd164"><!-- l6-c31 -->
+            <head xml:id="yyy8Uu-gxd164-Hd1e103">Caput 31</head>
+            <p xml:id="yyy8Uu-gxd164-d1e106">
+               <lb ed="#H" n="158"/>CAPUT XXXI. 
+      <lb ed="#H" n="159"/>In quo de Promissionibus &amp; 
+   comminatio<lb ed="#H" n="160" break="no"/>nibus divinis.
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e115">
+               <lb ed="#H" n="161"/>PRAECEDENTE capite expositae sunt duae distributiones 
+      prae<lb ed="#H" n="162" break="no"/>dictionum divinarum: hoc capite tertiam expediemus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e122">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>TERTIO igitur praedictio rerum futurarum vel promissio 
+      <lb ed="#H" n="164"/>est, vel comminatio. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e131">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>PROMISSIO DEI, est denunciatio futurorum bonorum. 
+      <lb ed="#H" n="166"/>nobis dandorum, ut ex ea consolationem habeamus, &amp; fiducia nostra 
+      <lb ed="#H" n="167"/>in Deum confirmetur. Synecdochice appellatur verbum Ps. 56. 5, 11. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e143">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Finis ejus est consolatio nostra &amp; confirmatio nostrae fiduciae in 
+      <lb ed="#H" n="169"/>Deo. Psalm. 56. v. 5, 11. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e152">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>Estque duplex vel conditionalis, vel absoluta 
+      <lb ed="#H" n="171"/>Promissio Dei conditionalis, est quae habet annexam conditionem, 
+      <lb ed="#H" n="172"/>hoc est, qua Deus promittit se nobis daturum bonum aliquod, si nos 
+      <lb ed="#H" n="173"/>etiam praestiterimus, quae a nobis requirit, seu si satisfecerimus 
+      con<lb ed="#H" n="174" break="no"/>ditioni quam nobis proponit. Levit. 26. Ezech. 18. 9, 10. Si in statutis. 
+      <lb ed="#H" n="175"/>meis fideliter ambulaverit, iuraque mea observaverit colendo veritatem 
+      <lb ed="#H" n="176"/>iustus, hic omnino vivet, dictum Domini Iehovi. Quod si genuerit filium 
+      <lb ed="#H" n="177"/>ffractorem, effusorem sanguinis, qui faciat fratri praeter ullum istorum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e174">
+               <lb ed="#H" n="178"/>
+               <pc type="indent"/>Estque vel legalis, vel Evangelica. 
+      <lb ed="#H" n="179"/>Promissio legalis, est promissio quam lex proponit habens annexam  
+      <lb ed="#H" n="180"/>conditionem perfectae obedientiae a nobis praestandae. 
+      <!--cod-MkL9py-0474.xml-->
+      <pb ed="#H" n="447"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Lex enim ad unguem jubet conditionem impleri, neque aliter 
+      pro<lb ed="#H" n="2" break="no"/>missa persolvit, nisi conditio integre praestita fuerit,  
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e196">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Perfecta igitur impletio conditionis a lege imperatae, praemia 
+      <lb ed="#H" n="4"/>quae lex promittit, impetrasset, etsi non meruisset: nam impetrare &amp; 
+      <lb ed="#H" n="5"/>mereri differunt: nec ulla pura puta creatura quicquam de Deo 
+      me<lb ed="#H" n="6" break="no"/>teri potest. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e209">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Sed perfecta impletio conditionis legalis nec ab hominibus 
+      inte<lb ed="#H" n="8" break="no"/>gris, nempe Adamo &amp; Eva est praestita, nec ab hominibus peccate 
+      <lb ed="#H" n="9"/>corruptis praestari potest. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e220">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Promissio legalis etsi conditionem habet adjunctam naturae 
+      cor<lb ed="#H" n="11" break="no"/>ruptae impossibilem: tamen non est inutilis aut ludificatoria 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e230">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Habet enim suos usus tum apud reprobos, tum apud electos 
+      <lb ed="#H" n="13"/>Apud reprobos habet hos usus. I. Quia illa docentur, per Deum; 
+      <lb ed="#H" n="14"/>non stare, quin, si ipsi servare velint conditiones, serventur &amp; ipsi. 
+      <lb ed="#H" n="15"/>Quod si non possint, vitio suo id fieri sentiant, non Dei: itaque 
+      inex<lb ed="#H" n="16" break="no"/>cusabiles reddantur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e246">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>2. Quia in illa attestatur Deus quam indigni sint sua benignitate 
+      <lb ed="#H" n="18"/>Quis enim aequissimum &amp; convenientissimum esse neget, 
+      Domi<lb ed="#H" n="19" break="no"/>num iis benefacere a quibus colitur, a bonis autem promissis 
+      exclu<lb ed="#H" n="20" break="no"/>dere majestatis suae contemtores. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e259">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Apud electos vero istos habet usus; 
+      <lb ed="#H" n="22"/>. Ut in cognitionem suae miseriae atque infirmitatis 
+      adducan<lb ed="#H" n="23" break="no"/>tur, eaque penitus intellecta se conferant ad Christum, qui solus 
+      <lb ed="#H" n="24"/>conditionem illam Legi adjectam, nobis autem corruptis 
+      impossi<lb ed="#H" n="25" break="no"/>bilem, perfectissime implevit, &amp; in quo recepti in gratiam, 
+      ade<lb ed="#H" n="26" break="no"/>tique jam justificationem illa eadem promissa possint obtinere, 
+      <lb ed="#H" n="27"/>Rom. 10. 4. Gal. 4. 4. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e279">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>2. Ut incitentur ad petendum auxilium a Deo, ad invocandum 
+      <lb ed="#H" n="29"/>ejus Spiritum, per quem in rectam viam dirigantur, &amp; studeant 
+      con<lb ed="#H" n="30" break="no"/>ditionem implere per gratia, quae impossibilis ipsis est per naturam 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e290">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Promissio Evangelica, est promissio de continuanda ac perficienda, 
+      <lb ed="#H" n="32"/>in nobis salute, quam Evangelium proponit, habens annexam 
+      con<lb ed="#H" n="33" break="no"/>ditionem fidei. Haec appellatur etiam promissio gratiae, seu concio de 
+      re<lb ed="#H" n="34" break="no"/>conciliatione cum Deo. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e303">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>Evangelium enim promittit remissionem peccatotum, justitiam 
+      <lb ed="#H" n="36"/>&amp; vitam aeternam, sed tantum credentibus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e313">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Promissio Evangelica est universalis, sed credentibus: omnes 
+      e<lb ed="#H" n="38" break="no"/>nim qui credunt in Christum, accipiunt remissionem peccatorum &amp; 
+      <lb ed="#H" n="39"/>vitam aeternam, Actor. 10. 43. Johan. 3. 16. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e324">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Ad incredulos vero non pertinet sua efficacia, hoc est, non est rata  
+      <lb ed="#H" n="41"/>cuiquam sine fidei interventu. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e333">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Promissio gratiae est generalis praedicatione seu annunciatione, sed 
+      <lb ed="#H" n="43"/>specialis efficaci applicatione, hoc est, pertinet ad electos &amp; reprobos 
+      <lb ed="#H" n="44"/>praedicatione, sed ad solos electos vere credentes efficaci 
+      applicatio<lb ed="#H" n="45" break="no"/>ne: vel quod eodem redit, Promissio Evangelica est universalis, quo 
+      <lb ed="#H" n="46"/>ad praedicationem, quod scilicet praedicetur &amp; praedicanda sit 
+      pro<lb ed="#H" n="47" break="no"/>miscue electis &amp; reprobis; sed non est universalis quo ad propositum 
+      <lb ed="#H" n="48"/>Dei &amp; quo ad illius complementum in hominibus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e353">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>OEIICITUR I. Quibuscunque praestat Deus media ad fructum 
+      <lb ed="#H" n="50"/>ferendum sufficientia, ad eosdem pertinet promissio Evangelica efficaci  
+      <lb ed="#H" n="51"/>applicatione: At reprobis praestat Deus media ad fructum ferendum 
+      suf<lb ed="#H" n="52" break="no"/>ficientia. Ergo, &amp;c. Assumtio probatur ex Jes. 5. 4. Quid faciendum fuit 
+      <lb ed="#H" n="53"/>amplius vineae meae, quod non fecerim in ea¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e369">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>RESP. Quibuscunque praestat Deus media ad fructum 
+      feren<lb ed="#H" n="55" break="no"/>dum sufficientia, nimirum si ea acceptent, ad eosdem pertinet 
+      promi<lb ed="#H" n="56" break="no"/>sio Evangelica efficaci applicatione. Remedium aliquod purgans est 
+      <lb ed="#H" n="57"/>sufficiens ad purgandum, si &amp; naturae hominis vis interna respondea. 
+      <lb ed="#H" n="58"/>&amp; medicamentum sumatur. At reprobis praestare Deum media ad 
+      fru<lb ed="#H" n="59" break="no"/>ctum ferendum sufficientia, nimirum ita ut ipsi ea acceptent, 
+      nega<lb ed="#H" n="60" break="no"/>tur. Nec vero minor sic restricta, ex loco Jesaiae potest probari: nam 
+      <lb ed="#H" n="61"/>in eo tantum promissio Evangelica est gratuita, hoc est, gratis &amp; 
+      <lb ed="#H" n="62"/>citra omne nostrum meritum vitam promittens aeternam. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e393">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Ideo ipsa est fundamentum fidei salvificae. Rom. 10.8. 
+      <lb ed="#H" n="64"/>Est una &amp; eadem in Evangelii concione &amp; in Sacramentis, sicut  
+      <lb ed="#H" n="65"/>una est gratia quae in Evangelio promittitur &amp; offertur, &amp; in 
+      Sacra<lb ed="#H" n="66" break="no"/>mentis significatur &amp; obsignatur. Unde patet malam esse Bellarmin 
+      <lb ed="#H" n="67"/>distinctionem in promissionem gratiae praecedentem &amp; sequentem. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e410">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Hactenus de promissione conditionali: sequitur de 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e417">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>absoluta. 
+      <lb ed="#H" n="70"/>Promissio Dei absoluta, est quae conditione caret, ac rata est 
+      simpli<lb ed="#H" n="71" break="no"/>citer per se, sine interventu alicujus nostrae praepatationis vel actionis 
+      <lb ed="#H" n="72"/>aut meriti. Talis fuit promissio missionis Messiae Servatoris mundi. 
+      <lb ed="#H" n="73"/>quam hominum infidelitas non impedivit, Jes. 7. v. 13, 14. item 
+      pro<lb ed="#H" n="74" break="no"/>missio de educendo populo Israelitico ex servitute AEgyptiaca, qui  
+      <lb ed="#H" n="75"/>non merebatur ut inde educeretur. Talis fuit promissio nativitatis 
+      <lb ed="#H" n="76"/>Johannis Baptistae, quam Deus praestitit, etiamsi ei non credidisset 
+      <lb ed="#H" n="77"/>Zacharias. Luc. 1. v. 13 &amp; sequentibus 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e441">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Promissio Dei absoluta de iis est rebus, quas Deus ipse per se, vel 
+      <lb ed="#H" n="79"/>extra nos sine nobis complet? vel in nobis, sed sine ulla praecedente aut 
+      <lb ed="#H" n="80"/>nostri intellectus ratione, aut nostrae voluntatis consensione 
+      per<lb ed="#H" n="81" break="no"/>ficit.  
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e454">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Ad primum genus pertinet promissio de mittendo Christo pro 
+      sa<lb ed="#H" n="83" break="no"/>lute mundi: de non amplius perdenda universa terra diluvio, Gen. 9. 
+      <lb ed="#H" n="84"/>v. 11. de augenda posteritate Abrahami instar stellarum &amp; arenae 
+      ma<lb ed="#H" n="85" break="no"/>ris, Gen. 22. 17. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e467">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Ad alterum genus pertinet promissio de illuminandis per Spiritum 
+      <lb ed="#H" n="87"/>Sanctum electis qui adhuc sunt in tenebris, deque donanda illis fide 
+      <lb ed="#H" n="88"/>&amp; vera Dei agnitione, qualis promissio est Jer. 31. 33. Indum Legem 
+      <lb ed="#H" n="89"/>meam menti eorum, &amp; cordi eorum inscribum eam: &amp; ero eis Deus, &amp; 
+      <lb ed="#H" n="90"/>ipsi erunt mihi populus, Ose. 2. 25. Vocabo populum qui meus non erat 
+      <!--cod-MkL9py-0474.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>populum meum; &amp; eam quae dilecta non erat, dilectam. Tales sunt 
+      pro<lb ed="#H" n="92"/> 
+               <lb ed="#H" n="93"/> 
+               <lb ed="#H" n="94"/>quae initium conversionis ac salutis aeternae promittunt. Nam illa 
+      <lb ed="#H" n="95"/>Deus perficit in nobis per se sine nobis, nulla antecedente nostra 
+      prae<lb ed="#H" n="96" break="no"/>paratione vel conditionis alicujus praestatione, cum antequam Deus 
+      <lb ed="#H" n="97"/>in nobis inchoaverit bonum, praestari a nobis nihil boni possit. Ideo 
+      <lb ed="#H" n="98"/>haec promissio Evangelica absoluta merito vocatur. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e504">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Quicquid ergo Deus cum conditione promittit, expleta 
+      conditio<lb ed="#H" n="100" break="no"/>ne praestat: quicquid vero absolute promittit, absolute praestat &amp; 
+      prae<lb ed="#H" n="101"/> 
+               <lb ed="#H" n="102"/>omnium mortuorum, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e518">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Quaedam promissiones divinae diverso respectu sunt &amp; absolutae &amp; 
+      <lb ed="#H" n="104"/>conditionales: qualis fuit promissio Exod. 3. 17. de introducendis in 
+      <lb ed="#H" n="105"/> 
+               <lb ed="#H" n="106"/>tici fuit absoluta ac tandem re comprobata: verum si singulos spectes 
+      <lb ed="#H" n="107"/> 
+               <lb ed="#H" n="108"/>rum, si Deo se morigeros praeberent. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e536">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Rursus promissio Dei vel spiritualis est, vel corporalis 
+      <lb ed="#H" n="110"/>Promissio spiritualis est, quam Deus bona spiritualia se daturum 
+      de<lb ed="#H" n="111" break="no"/>nunciat.  
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e547">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Promissio corporalis, est qua Deus bona corporalia se daturum 
+      de<lb ed="#H" n="113" break="no"/>nunciat, quatenus saluti nostrae expediat. Psalm. 121. 4, 5, 6, 7. 8 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e556">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Eaque est intelligenda cum exceptione castigationis &amp; crucis. Psal. 
+      <lb ed="#H" n="115"/>89. v. 28 &amp; sequentibus 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e565">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>Promissio corporalis non tantum ad pios, sed etiam ad reprobos 
+      <lb ed="#H" n="117"/>pertinet: ut 1. Reg 21, 29. promisit Deus se temporariam 
+      poeniten<lb ed="#H" n="118" break="no"/>tiam Achabi temporatio beneficio compensaturum 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e576">
+               <lb ed="#H" n="119"/>
+               <pc type="indent"/>Adhaec promissio est vel veteris Testamenti, vel 
+      novi<lb ed="#H" n="120" break="no"/>Utriusque eadem est substantia, quod ad aeternam salutem 
+      atti<lb ed="#H" n="121" break="no"/>net: &amp; idem fundamentum, Christus, 2. Corinth. 1. 20. Quotquot es 
+      <lb ed="#H" n="122"/>nim sunt promissiones Dei, in ipso sunt Etiam, &amp; in ipso sunt Amen, ad 
+      <lb ed="#H" n="123"/>Dei gloriam per nos 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e593">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Promissio Dei est certa ac minime fallax, minime ludificatoria. 
+      <lb ed="#H" n="125"/>Psalm. 12. 7. ubi comparatur argento purgato in catino lectissimo, 
+      <lb ed="#H" n="126"/>terrae, septies defoecato. Jesa. 55. 10, 11. Nam quum descendit pluvi 
+      <lb ed="#H" n="127"/>aut nix de caelo, rurjus illius, non reuertitur, sed inebriat terram ipsam, 
+      <lb ed="#H" n="128"/>facitque ut pariat ipsa &amp; producat, ut edat semen sutori, &amp; panem 
+      com<lb ed="#H" n="129" break="no"/>redenti: Sic erit verbum meum quod egressum fuerit ex ore meo, non 
+      <lb ed="#H" n="130"/>revertetur ad me vacuum; sed faciet id quo delector, &amp; prosperabitur  
+      <lb ed="#H" n="131"/>id quod emiseros 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e615">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>Omnes etiam promissiones Dei sunt conclusae, fundatae, ratae ac 
+      <lb ed="#H" n="133"/>firmae in Christo, 2 Corinth. 1. 10. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e624">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>in promissiones Dei nobis adhuc recumbendum. Vide Instit. 
+      Cal<lb ed="#H" n="135" break="no"/>vini lib. 2. cap. 9. sect. 3. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e633">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>Quaelibet divina promissio est dilectionis Dei erga nos 
+      testimo<lb ed="#H" n="137" break="no"/>nium. Vide Instit. Calvini lib 3. cap. 2. 8. 32. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e642">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>Tantum de promissione: sequitur de comminatio¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e649">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>ne divina. 
+      <lb ed="#H" n="140"/>Comminatio Dei, est denunciatio futurorum malorum, quibus 
+      <lb ed="#H" n="141"/>Deus vel suos castigare, vel impios punire se velle ostendit, ut eos ad 
+      <lb ed="#H" n="142"/>resipiscentiam impellat, &amp; malis denunciatis cripiat. Qua de re 
+      prae<lb ed="#H" n="143"/> 
+               <lb ed="#H" n="144"/>ctor morte improbi: sed ut conuertatur &amp; vivat. Recte Theodoretur 
+      <lb ed="#H" n="145"/>in c. 3. Jonae ait: Quoniam conservure Deus gaudet, minatur tristia, n 
+      <lb ed="#H" n="146"/>i 
+      <lb ed="#H" n="147"/>poenas minatur, ne in poenas inferat. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e674">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Estque conditionalis, vel absoluta. 
+      <lb ed="#H" n="149"/>Comminatio conditionalis, est quae habet sive expresse sive tacite 
+      <lb ed="#H" n="150"/>annexam exceptionem seu conditionem sive resipiscentiae, quae si prae 
+      <lb ed="#H" n="151"/>tetur, comminatio vel aufertur, vel differtur, &amp; tempus resipiscentia 
+      <lb ed="#H" n="152"/>conceditur, imo &amp; resipiscentiae donum tribuitur: sive voluntatis &amp; 
+      <lb ed="#H" n="153"/>potentiae divinae, quum Deus si velit, perficere possit quae 
+      commina<lb ed="#H" n="154" break="no"/>tus est Jerem. 18. 7, 8. Quo momento eloquar contra gentem &amp; contra 
+      <lb ed="#H" n="155"/>regnum, me convulsurum &amp; demoliturum &amp; perditurum esse: Si 
+      con<lb ed="#H" n="156" break="no"/>pertatur gens illa a malo suo, contra quam loquutus fuero; poenitebit 
+      <lb ed="#H" n="157"/>quoque me eius mali quod cogitaveram facere ei. Talis erat commina 
+      <lb ed="#H" n="158"/>tio facta Abimolecho Regi Geraris. Genes. 20. 3. Venit enim Deus ad 
+      <lb ed="#H" n="159"/>Abimelechum in somnio nocturno &amp; dixit ei, Ecce tu illico moriturus 
+      <lb ed="#H" n="160"/>es propter hanc mulierem quam accepisti, quum sit marito iuncta. 
+      post<lb ed="#H" n="161" break="no"/>modum expressa est conditio v. 7. Nunc itaque restitue uxorem illius 
+      <lb ed="#H" n="162"/>viri, propheta enim est, quumque oraverit pro te, vivito: quod si non 
+      re<lb ed="#H" n="163" break="no"/>stitueris, scito te omnino moriturum, te, inquom, &amp; eos omnes qui tui  
+      <lb ed="#H" n="164"/>sunt. Qualis erat, quae per Jonam Ninevitis Jonae 3. versicul. 5. Ad. 
+      <lb ed="#H" n="165"/>buc quadraginta dies, deinde Ninive subvertetur, &amp; per Jesaiam 
+      <lb ed="#H" n="166"/>Ezechiae fuit denunciata, 2. Reg. 20. versicul. 1. Brevi morieris ac non 
+      <lb ed="#H" n="167"/>vives. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e722">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Comminatio absoluta, est quae simpliciter definitivam Dei 
+      sen<lb ed="#H" n="169" break="no"/>tentiam denunciat, cujus executio perficitur simpliciter. Talis erat  
+      <lb ed="#H" n="170"/>comminatio Dei per Nathanem Davidi facta 2. Sam. 12. versicul. 14. 
+      <lb ed="#H" n="171"/>Filius iste qui natus est tibi, omnino moruetur. Nam etsi resipiscentia 
+      <lb ed="#H" n="172"/>documenta Davidederet, comminationem tamen placuit Deo 
+      im<lb ed="#H" n="173" break="no"/>plere. Talis fuit comminatio facta Salomoni de laceratione regm 
+      <lb ed="#H" n="174"/>ejus, quam Deus non revocavit ob resipiscentiam Salomonis, 1. Reg 
+      <lb ed="#H" n="175"/>12. v. 11. &amp; 2. Chron. 11. v. 17. Tali fuit comminatio facta Beltschat 
+      <lb ed="#H" n="176"/>zari Regi Babyloniae per scripturam incognitam, Dan: 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e746">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Rursus comminatio vel spiritualis est, vel corporalis. 
+      <lb ed="#H" n="178"/>Comminatio spiritualis, est qua Daus mala spiritualia se immissa 
+      <lb ed="#H" n="179"/>rum denunciat. 
+      <!--cod-MkL9py-0475.xml-->
+      <pb ed="#H" n="448"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Comminationum divinarum fines &amp; usus sunt: 
+      <lb ed="#H" n="2"/>I. Ut homines in obsequio Dei contineant, ne adversus Deum 
+      <lb ed="#H" n="3"/>peccent. Hoc fine comminatio prima facta in Paradiso Gen. 2. v. 17. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e770">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>II. Ut peccatores, si minis non moveantur, &amp; obstinate in vitiis 
+      <lb ed="#H" n="5"/>pergant, discant in calamitatibus suam potius nequitiam accusare &amp; 
+      <lb ed="#H" n="6"/>detestari quam Deum iniquae saevitiae insimulare. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e781">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>III. Ut si docilitatem non exuerunt, peccatorum taedio capti in 
+      <lb ed="#H" n="8"/>viam redeant, &amp; mala quae Deus est comminatus resipiscentia 
+      prae<lb ed="#H" n="9" break="no"/>veniant. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e792">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Effecta comminationum divinarum sunt haec: I. Movent ad 
+      prae<lb ed="#H" n="11" break="no"/>standam Deo obedientiam 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e802">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>II. Impellunt &amp; adducunt quosdam ad resipiscentiam ut a 
+      pecca<lb ed="#H" n="13" break="no"/>tis desistant &amp; mandatis divinis obtemperent, ut ostendit exemplum 
+      <lb ed="#H" n="14"/>Josiae Regis. Reg 22. v. 11. Ninevitarum Jon. 3. v. 6, 7. 8, 9. 
+      <lb ed="#H" n="15"/>III. Reprobos magis indurant, sed per accidens, ipsorum nempo 
+      <lb ed="#H" n="16"/>vitio, ut exemplum Pharaonis testatur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e818">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Subjecta quod attinet, comminationes divinae tum subditos 
+      attin<lb ed="#H" n="18" break="no"/>gunt, tum judices, Principes, Reges, Magistratus denique omnes. 
+      <lb ed="#H" n="19"/>Quapropter quod ad subditos attinet, non possunt se excusare coram 
+      <lb ed="#H" n="20"/>Deo, quum vel impiis edictis Magistratuum obsequuntur vel mala 
+      <lb ed="#H" n="21"/>ipsorum exempla sequuntur: scire enim debent, ad se etiam 
+      commi<lb ed="#H" n="22" break="no"/>nationes divinas pertinere; proinde si peccent, non eximi a culpa 
+      ve<lb ed="#H" n="23" break="no"/>poena, quia non valebit subterfugium quod Magistratui obedierint  
+      <lb ed="#H" n="24"/>quod putarint se recte agere, si ejus essent religionis, cujus Magistra 
+      <lb ed="#H" n="25"/>tus ipse esset, vel si ea facerent, quae Magistratus faceret ipse. Quod 
+      <lb ed="#H" n="26"/>vero ad Magistratus attinet, Deus suis comminationibus ipsos quo- 
+      <lb ed="#H" n="27"/>que in ordinem cogit, ne quis mortalium suo splendore obscuret 
+      au<lb ed="#H" n="28" break="no"/>toritatem divinae Legis. Scimus enim ut Reges, Principes &amp; 
+      Magi<lb ed="#H" n="29" break="no"/>stratus omnes putent se clypeum habere ad scelerum suorum 
+      defer<lb ed="#H" n="30" break="no"/>sionem adversus ministrorum Verbi admonitiones, reprehensione. 
+      <lb ed="#H" n="31"/>&amp; poenatum denunciationes. Atqui comminationes divinae, quas 
+      <lb ed="#H" n="32"/>ministri Verbi proferunt, aeque Gubernatores constringunt, atqui 
+      <lb ed="#H" n="33"/>subdiros. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e860">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Si adiuncta spectes, comminationes divinae sunt certae, id est, 
+      cer<lb ed="#H" n="35" break="no"/>to implentur, quantumvis exsequutio illarum interdum differatur; 
+      <lb ed="#H" n="36"/>quemadmodum certo Nebucadnetzari, quae Deus ipsi 
+      commina<lb ed="#H" n="37" break="no"/>tus fuerat, evenerunt, licet integrum annum suspensa fuissent. Non 
+      <lb ed="#H" n="38"/>es proin contemnenda Dei lenitas, non ludendum cum ipsius 
+      in<lb ed="#H" n="39" break="no"/>dulgentia. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e878">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Quod non semper exsequutioni mandantur: id sapientem DEII 
+      <lb ed="#H" n="41"/>clementiam demonstrat, non autem instabilitatem voluntatis 
+      divi<lb ed="#H" n="42" break="no"/>nae. Siquidem tacita exceptione resipiscentiae, minarum terrore, stra 
+      <lb ed="#H" n="43"/>ta consilio Dei via ad destinatum officium &amp; salutem peccatores, non 
+      <lb ed="#H" n="44"/>gratiose selum invitat, sed &amp; Spiritus Sancti efficacia pertrahit 
+      ac<lb ed="#H" n="45" break="no"/>perducit 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e896">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>Eaedem sunt necessariae, ac proinde identidem repetendae. Multo 
+      <lb ed="#H" n="47"/>rum enim magna est securitas &amp; durities, quos vel millies necesse est 
+      <lb ed="#H" n="48"/>comminat: onibus terreri &amp; emollir. 
+    </p>
+            <p xml:id="yyy8Uu-gxd164-d1e907">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>Hactenus fuit de patefactione Dei: sequitur de 
+   vo<lb ed="#H" n="50" break="no"/>catione divina.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 73</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 73</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd283"><!-- l6-c73 -->
+            <head xml:id="yyy8Uu-gxd283-Hd1e103">Caput 73</head>
+            <p xml:id="yyy8Uu-gxd283-d1e106">
+               <lb ed="#H" n="157"/>CAPUT LXXIII 
+      <lb ed="#H" n="158"/>In quo de manifestatione gloriae Dei post hanc 
+      <lb ed="#H" n="159"/>vitam.
+    </p>
+            <p xml:id="yyy8Uu-gxd283-d1e115">
+               <lb ed="#H" n="160"/>MANIFESTATIO gloriae Dei in omnem aeternitatem, erit 
+      opu<lb ed="#H" n="161" break="no"/>DIDEI post hanc vitam, quum Christus regnum tradet DEO &amp; 
+      <lb ed="#H" n="162"/>Patri, &amp; ipse quoque Christus secundum humanitatem se subjiciet 
+      <lb ed="#H" n="163"/>DEO Patri, ut DEUS Pater sit omnia in omnibus, 1. Cor. 15. vers. 24. 
+      <lb ed="#H" n="164"/>Deinde erit finis, quum regnum tradiderit Deo ac Patri: quum 
+      ab<lb ed="#H" n="165" break="no"/>pleverit omne imperium, &amp; omnem potentiam &amp; virtutem. Et vers. 
+      <lb ed="#H" n="166"/>28. Postquam vero subjecta fuerint oi omnia, tunc &amp; ipse Filius 
+      sub<lb ed="#H" n="167" break="no"/>ficietur ei qui subjecit ipsi omnia, ut Deus sit omnia in omnibus. 
+      E<lb ed="#H" n="168" break="no"/>phes. 2. v. 7. 2. Thess. 1. v. 16. 
+    </p>
+            <p xml:id="yyy8Uu-gxd283-d1e137">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>Quum Apostolus dicit, Deus erit omnia in omnibus, non docet 
+      <lb ed="#H" n="170"/>quodnam sit coelum electorum, sed qualis futura sit conditio 
+      Eccle<lb ed="#H" n="171" break="no"/>liae post resurrectionem, disserit: nempe talis, ut Deus ipse, 
+      resigna<lb ed="#H" n="172" break="no"/>to jam per Christum Mediatorem regno, in omnibus electis, sine 
+      <!--cod-MkL9py-0545.xml-->
+      <pb ed="#H" n="518"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>opera Mediatoris, sine verbo, sine Sacramentis, nulla in nobis 
+      aud<lb ed="#H" n="2" break="no"/>versus illum reluctante concupiscentia, immediate per sese, eoque 
+      por<lb ed="#H" n="3" break="no"/>fectissime regnaturus sit.  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

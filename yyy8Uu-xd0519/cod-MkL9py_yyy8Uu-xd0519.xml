@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd0519"><!-- l9-c12 -->
+            <head xml:id="yyy8Uu-xd0519-Hd1e103">Caput 12</head>
+            <p xml:id="yyy8Uu-xd0519-d1e106">
+               <lb ed="#H" n="23"/>CAPUT XII. 
+      <lb ed="#H" n="24"/>In quo de Humilitate coram Deo. 
+      <lb ed="#H" n="25"/>T  TUMILITAS coram Deo, est virtus, cum nos verbo &amp; manda¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e115">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>TItis Dei ultro &amp; ex animo subjicientes, submittimus sub poten¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e122">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>ti manu Dei &amp; nos ipsos, id est, nostram indignitatem coram 
+      <lb ed="#H" n="28"/>Deo agnoscentes, humanam nostram imbecillitatem, rerumque 
+      se<lb ed="#H" n="29" break="no"/>cundarum instabilitatem considerantes, animis non efferimur, sed  
+      <lb ed="#H" n="30"/>omnem fiduciam nostrarum virtutum &amp; virium abjicimus, &amp; 
+      agno<lb ed="#H" n="31" break="no"/>scimus quod omnia bona, quae in nobis sunt &amp; per nos fiunt, non ex 
+      <lb ed="#H" n="32"/>dignitate aut facultate aliqua nostra, sed ex gratuita Dei bonitate 
+      <lb ed="#H" n="33"/>exsistant, atque ita nos comparamus, ut qui commutatis rebus se 
+      <lb ed="#H" n="34"/>cundis cum adversis, miserias ac calamitates jam jamque instantes 
+      <lb ed="#H" n="35"/>exspectemus. I. Cor. 4. v. 7. Job. 1. v. 21. 1. Chron. 29. v. 12, 14, 17. 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e146">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Humilitatis commendatio exstat in Joh. Cal. instit. libro secundo, 
+      <lb ed="#H" n="37"/>cap. secundo, sect. decima 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e156">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Huic virtuti studendum: 
+      <lb ed="#H" n="39"/>I. Quia a Deo praecipitur primo praecepto Decalogi &amp; passim in 
+      <lb ed="#H" n="40"/>Scriptura. 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e167">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>2. Quia est Deo grata, Jesa. 66. v. 2. In hunc respicio in pauperem 
+      <lb ed="#H" n="42"/>&amp; contritum spiritu. 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e176">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>3. Quia cum ea conjuncta est sapientia. Prov. 11. v. 2. 
+      <lb ed="#H" n="44"/>14. Quia affert homini quicquid ipsi utile &amp; gratum &amp; suave est, 
+      sic<lb ed="#H" n="45" break="no"/>ut dicitur Proverb. 3. v. 34. Deus humilibus dat gratiam. Provert 
+      <lb ed="#H" n="46"/>16. v. 19. Melius est submissum esse spiritu cum mansuetis, quam 
+      par<lb ed="#H" n="47" break="no"/>tiri spolium eum superbis. 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e192">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>5. Quia coram Deo nihil sumus, imo minus nihilo, Jesa. 40. v. 15, 
+      <lb ed="#H" n="49"/>16, 17. Humilitas oritur ex cognitione sui: γνδδι σεανλον. Nam cui 
+      co<lb ed="#H" n="50" break="no"/>gnita est misera post lapsum Adae cognitio nostra, is pudore obrutus 
+      <lb ed="#H" n="51"/>vere sibi ipsi displicebit. 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e205">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>6. Quia comitem habet beatitudinem, sicut Christus ait Matth. 
+      <lb ed="#H" n="53"/>Severs. 3. Beati pauperes spiritu. Intelligit per pauperes spiritu corde 
+      <lb ed="#H" n="54"/>suo revera humiles, qui agnoscunt se natura sua vel ex se nihil 
+      boni<lb ed="#H" n="55" break="no"/>habere, nudos &amp; egentes esse omnium bonorum &amp; a Deo ea gratui. 
+      <lb ed="#H" n="56"/>to accipere, Luc. 9. v. 48. 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e221">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>7. Quia sine ea nihil sunt bona opera. Miranda quippe actio cum 
+      <lb ed="#H" n="58"/>eiatione animi, non elevat, sed gravat, sed deprimit. Qui enim 
+      sin<lb ed="#H" n="59" break="no"/>humilitate virtutes congregat, quasi in vento pulverem comportat  
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e233">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>8. Quia est vera ad sublimitatem via: sicut Christus dicit, Qui 
+      se<lb ed="#H" n="61" break="no"/>ipsum humiliai, exaltabitur. Proverb. 15. v. 33. ante honorem 
+      abje<lb ed="#H" n="62" break="no"/>ctio. Et cap. 18. v. 12. An teit honorem abjectio 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e244">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>9. Quia ad illam Christus suo exemplo nos invitat: veluti Johan. 
+      <lb ed="#H" n="64"/>12. ver. 4. &amp; sequentibus: Ad eandem invitant nos exempla aliorum 
+      <lb ed="#H" n="65"/>sanctorum, ut Abrahami qui agnoscit se pulverem &amp; cinerem esse. 
+      <lb ed="#H" n="66"/>Apostoli Actor. 3. vers. 12. profitentur, miraculum sanati claudi non 
+      <lb ed="#H" n="67"/>factum ipsorum virtute &amp; pietate 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e260">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>10. Quia illa propria est Christianorum; Augustinus secundo 
+      <lb ed="#H" n="69"/>tomo, Epistolam quinquagesimasexta, pag. centes. septuages. ait: Nec 
+      <lb ed="#H" n="70"/>aliam tibi ad capessendam &amp; obtinendam veritatem viam munias, 
+      <lb ed="#H" n="71"/>quam quae munita est ab illo qui gressuum nostrorum tanquam Deus 
+      <lb ed="#H" n="72"/>videt infirmitacem. Ea est aute 1. humilitas, 2. humilitas, 3. humilitas, 
+      <lb ed="#H" n="73"/>&amp; quoties interrogares hoc dicerem, non quo alia non sint praecept. 
+      <lb ed="#H" n="74"/>quae dicantur, sed nisi humilitas omnia quaecunque benefacimus &amp; 
+      <lb ed="#H" n="75"/>praecesserit &amp; comitetur &amp; consequuta fuerit, &amp; proposita quam in 
+      <lb ed="#H" n="76"/>ti, camur, &amp; apposita cui adhaereamus, &amp; imposita qua reprimamur: 
+      <lb ed="#H" n="77"/>jam nobis de aliquo bono facto gaudentibus, totum extorquet de 
+      ma<lb ed="#H" n="78" break="no"/>ni superbia: vitia quippe caetera in peccatis, superbia vero etiam in 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e289">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>pecte factis timenda est, ne illa quae laudabiliter facta sunt, ipsius 
+      lau<lb ed="#H" n="80" break="no"/>dis cupiditate amittantur. Itaque sicut rhetor ille nobilissimus cum 
+      <lb ed="#H" n="81"/>interrogatus esset, quid ei primum videretur in eloquentia praeceptis 
+      <lb ed="#H" n="82"/>observari oportere, pronunciationem dicitur respondisse, quum quae 
+      <lb ed="#H" n="83"/>reretur quid secundo, eandem pronunciationem, quid tertio, nihil 
+      a<lb ed="#H" n="84" break="no"/>liud quam pronunciationem dixisse: si interrogares, &amp; quoties 
+      inter<lb ed="#H" n="85" break="no"/>rogares de praeceptis Christianae religionis, nihil me aliud respondere 
+      <lb ed="#H" n="86"/>nisi humititatem liberet, etsi forte alia dicere necessitas cogeret. 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e311">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>Humilitas coram Deo est vel occulta, in sensu animi: vel 
+      manise<lb ed="#H" n="88" break="no"/>sta, in sermone, aut in cultu corporis, aut in gestu ejusde, aut in factis. 
+      <!--cod-MkL9py-0635.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>Humilitati opponitur superbia &amp; simulata humilitas. 
+      <lb ed="#H" n="90"/>Superbia, quae &amp; arrogantia dicitur, est peccatum, quum quis De: 
+      <lb ed="#H" n="91"/>um &amp; verbum illius contemnit &amp; deridet, praeceptis Dei non acquie 
+      <lb ed="#H" n="92"/>scit, sed humana anteponit, &amp; elata manu adversus Deum peccat, &amp; 
+      <lb ed="#H" n="93"/>nec mandatis, nec promissionibus, nec minis divinis, imo nec 
+      casti<lb ed="#H" n="94" break="no"/>gationibus &amp; calamitatibus cor suum emolliri, flecti &amp; domari 
+      pati<lb ed="#H" n="95" break="no"/>tur, sed Deo adversari pergit, tum sine agnitione propriae 
+      infirmita<lb ed="#H" n="96" break="no"/>tis, sese admiratur &amp; magnifacit propter aliquas dotes, &amp; animo in 
+      <lb ed="#H" n="97"/>ssatus est propter res secundas sibi ex voto fluentes, &amp; propria 
+      sapien<lb ed="#H" n="98" break="no"/>ia, prudentia, sanctitate &amp; viribus turget, sibique tribuit majora 
+      vi<lb ed="#H" n="99" break="no"/>ribus, &amp; alios despicit, Jes. 3. v. 4. &amp; sequentibus: &amp; 29. v. 13. Matth. 
+      <lb ed="#H" n="100"/>5. v. 8. Proverb. 8. v. 13. &amp; cap. 16. v. 1. Apoc. 3. v. 7. Gal. 6. v. 3. 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e350">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Eaque est vel occulta, in sensu animi; vel manifesta, in sermones 
+      <lb ed="#H" n="102"/>qualis erat Nebucadnetzaris Magni, Dan. 3. v. 15. &amp; 4. v. 30. &amp; 
+      juve<lb ed="#H" n="103" break="no"/>nis illius Matth. 19. v. 20. aut in cultu corporis, qualis erat Herodia 
+      <lb ed="#H" n="104"/>Actor. 12. vers. 21. aut in gestu corporis, aut in factis superbis, ut fuit, 
+      <lb ed="#H" n="105"/>Nebucadnetzaris Magni, Dan. 5. vers. 20. &amp; Belschatzaris Dan. 5. 
+      <lb ed="#H" n="106"/>versic. 23. 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e369">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>Est autem fugienda, ob sequentes rationes: quarum est, 
+      <lb ed="#H" n="108"/>I. Quia a Deo prohibetur, Prov. 3. v. 7. Ne esto sapiens judicio tuo. 
+      <lb ed="#H" n="109"/>Psal. 75. v. 5, 6. Dicens insanientibus, ne insaniatis, &amp; improbis, ne 
+      at<lb ed="#H" n="110" break="no"/>tollatis cornu: Ne attollatis contra excelsum cornu vestrum; ne 
+      lo<lb ed="#H" n="111" break="no"/>quamini collo duro. 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e385">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>II. Quia oritur ex vana fiducia rerum quae vel non habentur 
+      ve<lb ed="#H" n="113" break="no"/>non diu retinentur. Nam quidam superbiunt ex opinione pietatis, 
+      <lb ed="#H" n="114"/>virtutis, dignitatis, opulentiae, quum nihil horum possideant, 1. Joh. 
+      <lb ed="#H" n="115"/>1. v. 8. quidam ex possessione divitiarum, Proverb. 18. v. 11 
+      dignita<lb ed="#H" n="116" break="no"/>tum, regnorum, principatuum, quibus facillime vel per mortem vel 
+      <lb ed="#H" n="117"/>per alios casus privantur, ut ostendunt exempla tot Regum, 
+      Impe<lb ed="#H" n="118" break="no"/>ratorum &amp; Principum, qui morte vel uliis modis exuti sunt regnis, 
+      <lb ed="#H" n="119"/>imperiis, Principatibus 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e407">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>III. Quia comitem habet ignominiam, Proverb. 11. v. 2. 
+      Adve<lb ed="#H" n="121" break="no"/>nienti superbiae ovenit ignominia. Testatur exemplum 
+      Nebucad<lb ed="#H" n="122" break="no"/>netzaris Magni¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e418">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>IV. Quia Deum habet adversarium, Proverb. 3. v. 34. Derisoret 
+      <lb ed="#H" n="124"/>ipse deridet, Jacob. 4. v. 6. Deus superbis resistit. 1. Petr. 5. vers. 5. 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e427">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>V. Quia accersit magnas calamitates &amp; ruinam. Certe qui super  
+      <lb ed="#H" n="126"/>biunt, magnae alicui calamitati &amp; ruinae exitioque vicini esse solent.  
+      <lb ed="#H" n="127"/>Proverb. 15. ver. 25. Domum superborum evellit Iehova. Et cap. 16. 
+      <lb ed="#H" n="128"/>vers. 18. Ante confractionem (id est, gravem aliquam calamitatem, 
+      <lb ed="#H" n="129"/>superbia, &amp; ante lapsum alti sunt spiritus. Et cap. 18. v. 12. ante 
+      con<lb ed="#H" n="130" break="no"/>fractionem attollit se animus viri. Jesa. 8. v. 6. &amp; 10. v. 12. &amp; 
+      sequen<lb ed="#H" n="131" break="no"/>tibus. Testatur exemplum Herodis Agrippae Act. 12. v. 21, 22, 23. 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e447">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>VI. Quia illam inprimis a se amoveri fideles precantur, Psal. 19. 
+      <lb ed="#H" n="133"/>vers. 24. 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e457">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>VII. Quia est scopulus virtutum, in quem allidentes non 
+      pauci<lb ed="#H" n="135" break="no"/>naufragium fecerunt. 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e466">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>VIII. Quia mendacem facit Deum, 1. Johan. 1. v. 10 id est, 
+      reddi<lb ed="#H" n="137" break="no"/>sermonem Dei, nos peccati arguentis, vanum quantum in se est. Si 
+      <lb ed="#H" n="138"/>non peccavimus, quorsum sacrificiis olim &amp; promissione expiationis 
+      <lb ed="#H" n="139"/>per Christum futurae vel nunc Christo &amp; Evangelio fuisset opus; 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e479">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>IX. Quia servos facit. Nam etsi quis liber est, si superbus sit, 
+      ser<lb ed="#H" n="141" break="no"/>vus est, &amp; quod pejus est, malae dominae, ipsius superbiae. 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e488">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>Simulata humilitas, est peccatum quum quis humilitatis laudem 
+      <lb ed="#H" n="143"/>venatur negatione eorum quae in animo sibi tribuit seu vere seu fala 
+      <lb ed="#H" n="144"/>νo, &amp; recusatione eorum quae expetit &amp; consequi clam conatur. 
+      Grae<lb ed="#H" n="145" break="no"/>ce dicitur αυκοπανυργία, 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e501">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>Istud vitium est hypocrytatum, Coloss. 2. v. 23. ut Pharisaeorum 
+      <lb ed="#H" n="147"/>Matth. 6. v.16. Anabaptistarum &amp; Monachorum, qui volunt esse 
+      hu<lb ed="#H" n="148" break="no"/>miles sine despectu, pauperes sine defectu, divites sine labore, ut 
+      Bern<lb ed="#H" n="149" break="no"/>ar dus ait. 
+    </p>
+            <p xml:id="yyy8Uu-xd0519-d1e514">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>Hucusque de Humilitate: sequitur  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

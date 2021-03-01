@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 47</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 47</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd1543"><!-- l10-c47 -->
+            <head xml:id="yyy8Uu-xd1543-Hd1e103">Caput 47</head>
+            <p xml:id="yyy8Uu-xd1543-d1e106">
+               <lb ed="#H" n="8"/>CAPUT XLVII. 
+      <lb ed="#H" n="9"/>In quo de Gravitate in sermone.
+    </p>
+            <p xml:id="yyy8Uu-xd1543-d1e113">
+               <lb ed="#H" n="10"/>THRAVITAS in sermone, est virtus, per quam in loquendo ea que 
+      <lb ed="#H" n="11"/>Inecessaria &amp; salutaria sunt &amp; in primis quae alios ad pietatem 
+      <lb ed="#H" n="12"/>&amp; honestos mores forment, &amp; his contrarios corrigant, serva 
+      <lb ed="#H" n="13"/>mus convenientem personae nostrae dignitatem, ut tueamur autori 
+      <lb ed="#H" n="14"/>tatem &amp; honestam existimationem nostram ne officium nostrum 
+      <lb ed="#H" n="15"/>contumelia afficiatur &amp; ut vita tota sit digna Evangelio Jesu Christi. 
+    </p>
+            <p xml:id="yyy8Uu-xd1543-d1e129">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Huic virtuti est opera danda: 
+      <lb ed="#H" n="17"/>I. Quia mandatur a Deo, Coloss. 3. versic. 5, 6. Mortificate igitur 
+      <lb ed="#H" n="18"/>membra vestra terrestria, scortationem, impuritatem, mollitiem, 
+      cu<lb ed="#H" n="19" break="no"/>piditatem malam, &amp; avaritiam, quae est idololatria. Ob quae venit 
+      <lb ed="#H" n="20"/>ira Dei super homines contumaces. 
+    </p>
+            <p xml:id="yyy8Uu-xd1543-d1e145">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>II. Quia laudatur a Spiritu Dei, Proverb. 10. v. 20, 21. Velut 
+      ar<lb ed="#H" n="22" break="no"/>gentum lectissimum est lingua iusti, animus improborum perparvi 
+      <lb ed="#H" n="23"/>est. Labra iusti pascunt multos, stulti vero dementia moriuntur.  
+    </p>
+            <p xml:id="yyy8Uu-xd1543-d1e157">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>III. Quia est iusti hominis indicium, Prov. 10. v. 31. Os 
+      iustiab<lb ed="#H" n="25" break="no"/>unde profert sapientiam: lingua vero perversitatum rescissa est. 
+    </p>
+            <p xml:id="yyy8Uu-xd1543-d1e166">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>IV. Quia alios informat ad disciplinam, Proverb. 16. v. 23. 24. 
+      <lb ed="#H" n="27"/>V. Quia vitam conservat suis discipulis, Proverb. 16. 22. 
+      <lb ed="#H" n="28"/>Gravitatis in sermone ornamentum serviens ad majorem eius 
+      <lb ed="#H" n="29"/>profectum est facundia sive loquentia, quae permagnam vim habet  
+      <lb ed="#H" n="30"/>ad informandos alios in pietate &amp; virtute, Proverb. 16. v. 21. 
+      Suavi<lb ed="#H" n="31" break="no"/>tas labiorum addit disciplinam. Et cap. 18. 4. Velut aquae profunda 
+      <lb ed="#H" n="32"/>sunt verba ore viri praestantis enunciata: torrens eructans est scatus 
+      <lb ed="#H" n="33"/>rigo (id est, os profundens &amp; communicans praeclara &amp; utilia 
+      docu<lb ed="#H" n="34" break="no"/>menta) praediti sapientia. 
+    </p>
+            <p xml:id="yyy8Uu-xd1543-d1e190">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>Contraria est ei levitas in sermone, quae est peccatum, quum quis 
+      <lb ed="#H" n="36"/>mniloquio seu turpiloquio indulget, ad nocendum proximo aut non 
+      <lb ed="#H" n="37"/>servat in dictis decorum personae conveniens, ex negligentia 
+      reti<lb ed="#H" n="38" break="no"/>nendi famam &amp; existimationem. Vocatur etiam eruditio stultorum, 
+      <lb ed="#H" n="39"/>Proverb. 16. v. 22. 
+    </p>
+            <p xml:id="yyy8Uu-xd1543-d1e206">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Ba fugienda: I. Quia prohibetur a Deo. 
+      <lb ed="#H" n="41"/>II. Quia est noxia, Proverb. 10. v. 13, 14. parit contemtum, Prov. 
+      <lb ed="#H" n="42"/>10. v. 20. animus improborum, sermone ipsorum explicatus, nihili 
+      <lb ed="#H" n="43"/>sit: mortem denique accersit. Prov. 10. v. 21. est scaturigo stultitiae ad 
+      <lb ed="#H" n="44"/>proinde &amp; mortis, Prov. 16. v. 22. 
+    </p>
+            <p xml:id="yyy8Uu-xd1543-d1e222">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>III. Quia est signum dementiae, Prov. 10. v. 21. &amp; cap. 18. 13. Qui 
+      <lb ed="#H" n="46"/>respondet aliquid, cum nondum audierit, id stultitia est ei &amp; 
+      igno<lb ed="#H" n="47" break="no"/>minia 
+    </p>
+            <p xml:id="yyy8Uu-xd1543-d1e233">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Tantum de studio loquendi bona ac 
+   saluta<lb ed="#H" n="49"/>
+               <pc type="indent"/>ria: sequitur  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

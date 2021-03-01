@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 24</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 24</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd2775"><!-- l10-c24 -->
+            <head xml:id="yyy8Uu-xd2775-Hd1e103">Caput 24</head>
+            <p xml:id="yyy8Uu-xd2775-d1e106">
+               <lb ed="#H" n="144"/>CAPUT XXIV. 
+      <lb ed="#H" n="145"/>In quo de Parsimonia.
+    </p>
+            <p xml:id="yyy8Uu-xd2775-d1e113">
+               <lb ed="#H" n="146"/>PARSIMONIA, est moderatio sumtuum, ut tantum honesti &amp; 
+      <lb ed="#H" n="147"/>necessatii fiant, idque animo promto &amp; cum laetitia: Eccles. 2. v. 
+      <lb ed="#H" n="148"/>ult. &amp; c. 5. v. 18, 19, 20. residui autem ad futuros usus asserventur 
+      <lb ed="#H" n="149"/>Johan. 6. v. 12. Vocatur etiam frugalitas, a qua frugi homines 
+      appel<lb ed="#H" n="150" break="no"/>lantur.  
+    </p>
+            <p xml:id="yyy8Uu-xd2775-d1e126">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>Ei studendum: 
+      <lb ed="#H" n="152"/>I. Quia mandatur a Christo Johan. 6. 12. 
+      <lb ed="#H" n="153"/>II. Quia eam suadet Christus cum iubet petere panem 
+      quoti<lb ed="#H" n="154" break="no"/>dianum, Matth. 6. v. 11. 
+    </p>
+            <p xml:id="yyy8Uu-xd2775-d1e139">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>III. Quia remedium est adversus inopiam optimum: alioquin  
+      <lb ed="#H" n="156"/>ad inopiam redactis, quamvis etiam non suo vitio, omnes ignoscunt. 
+      <lb ed="#H" n="157"/>nemo succurrit. 
+    </p>
+            <p xml:id="yyy8Uu-xd2775-d1e151">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>IV. Quia praecavet ne quid donorum Dei pereat, Joh. 6. v. 12. 
+      <lb ed="#H" n="159"/>V. Quia conservat &amp; auget rem familiarem. Frugalitati enim 
+      <lb ed="#H" n="160"/>Deus benedicit, Johan. 6. v. 13. 
+    </p>
+            <p xml:id="yyy8Uu-xd2775-d1e162">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>VI. Quia illius exemplis praelucent nobis homines laudatissimi: 
+      <lb ed="#H" n="162"/>velut Apostoli, Johan. 6. 13. 
+    </p>
+            <p xml:id="yyy8Uu-xd2775-d1e171">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>Bono autem tempore parsimoniautendum: nam sera parsimonia. 
+      <lb ed="#H" n="164"/>in fundo est. Non enim tantum minimum in imo, sed etiam 
+      pessi<lb ed="#H" n="165" break="no"/>mum remanet. 
+    </p>
+            <p xml:id="yyy8Uu-xd2775-d1e182">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Cum parsimonia non pugnat necessaria cura &amp; cultus corporis, 
+      <lb ed="#H" n="167"/>Matth. 6. 17. Cum ea pugnant sordities &amp; luxurie: 
+    </p>
+            <p xml:id="yyy8Uu-xd2775-d1e191">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Sordities, est tam parce opibus uti, ut nec vitae generi suus hono 
+      <lb ed="#H" n="169"/>deferatur: nec quicquam fere ex facultatibus suis, nisi molestiam &amp; 
+      <lb ed="#H" n="170"/>durum laborem capere. Hoc vitium appellat August. tenacitatem 
+      <lb ed="#H" n="171"/>epist. 29. Hanc fugiendam docet Salomon in Eccles. c. 2. v. 22. &amp; 
+      se<lb ed="#H" n="172" break="no"/>quentibus, &amp; cap. 3. v. 9. &amp; sequentibus aliquot.  
+    </p>
+            <p xml:id="yyy8Uu-xd2775-d1e207">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Luxuries, est vitium, cum quis opes suas non necessario &amp; 
+      immo<lb ed="#H" n="174" break="no"/>dico vitae splendori impedit, in nimis sumtuoso vestitu, &amp; victu, aedisi 
+      <lb ed="#H" n="175"/>ciis, supellectili domestica, hortis, &amp;c. Ea fugienda tum viris tum feminis 
+    </p>
+            <p xml:id="yyy8Uu-xd2775-d1e219">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>I. Quia a Deo prohibetur 1. Petr. 3. v. 3. II. Quia Deo summo, 
+      <lb ed="#H" n="177"/>pere displicet. III. Quia certas poenas luxuriosis attrahit. Nam &amp; 
+      <lb ed="#H" n="178"/>privatim illorum opes quantuvis maximas sensim dissipat &amp; tande per 
+      <lb ed="#H" n="179"/>dit: &amp; publicis iudiciis Dei punitur, veluti bellis, per quae luxurion 
+      de<lb ed="#H" n="180" break="no"/>dicias suas amittunt, malis gravissimis durissimisque afficiuntur &amp; sui 
+      <!--cod-MkL9py-0694.xml-->
+      <pb ed="#H" n="665"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Erigendi facultatem nullam neque viri neque mulieres deinceps 
+      <lb ed="#H" n="2"/>consequuntur, Jes. 3. v. 17. &amp; sequentibus 
+    </p>
+            <p xml:id="yyy8Uu-xd2775-d1e245">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>IV. Quia in divitibus etiam culpatur: ut in divite illo Luc. 16. 
+      <lb ed="#H" n="4"/>versic. 19. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

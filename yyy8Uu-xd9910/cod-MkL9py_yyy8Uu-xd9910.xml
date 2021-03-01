@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 66</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 66</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd9910"><!-- l10-c66 -->
+            <head xml:id="yyy8Uu-xd9910-Hd1e103">Caput 66</head>
+            <p xml:id="yyy8Uu-xd9910-d1e106">
+               <lb ed="#H" n="59"/>CAPUT LXVI 
+      <lb ed="#H" n="60"/>In quo de Iustitia Principis seu 
+   Magistra<lb ed="#H" n="61"/>
+               <pc type="indent"/>tus logata. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e117">
+               <lb ed="#H" n="62"/>OFFICIUM Magistratus in corporalibus rebus hanc vitam 
+      <lb ed="#H" n="63"/>concernentibus conspicitur tum in togata, tum in bellica 
+   justi<lb ed="#H" n="64" break="no"/>tiae 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e126">
+               <lb ed="#H" n="65"/>Iustitia Principis seu Magistratus togata, est per quam subditorum 
+      <lb ed="#H" n="66"/>commoda tempore pacis recte administrantur. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e133">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Eaque conspicitur in legibus: in gubernationis administris &amp; 
+      do<lb ed="#H" n="68" break="no"/>nesdicis, in pace: nenda; in jure dicendo reddendoque; in tributorum &amp; 
+      <lb ed="#H" n="69"/>vectigalium insta exactione: in publicis motibus praecavendis aut se 
+      <lb ed="#H" n="70"/>agnais, in munitionum &amp; civitatum aedificatione; in comparatione. 
+      <lb ed="#H" n="71"/>armorum omnis generis necessariorum ad defensionem subditorum 
+      <lb ed="#H" n="72"/>ο¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e152">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Cena ad leges attinet, occupatur officium Magistratus politici tum 
+      <lb ed="#H" n="74"/>inei etcon? observationis ligum divinarum civiliumque antea latarit 
+      <lb ed="#H" n="75"/>tum in nov rum lecum promulgatione &amp; iusta exsequutione; tum in 
+      <lb ed="#H" n="76"/>les mn xiaruim abrogatione. Magistratus enim politicus in 
+      Christi<lb ed="#H" n="77" break="no"/>ana republica tum leges politicas a Deo latas, quantum communes 
+      <lb ed="#H" n="78"/>sunt omnibus Gentibus &amp; naturali aequitate nituntur, sequi in reipu 
+      <lb ed="#H" n="79"/>icae administi atione &amp; judiciis debet: sed praeterea jus habet 
+      feren<lb ed="#H" n="80" break="no"/>di lrges in sua Republica facientes ad conservationem salutis 
+      popu<lb ed="#H" n="81" break="no"/>di: Deinde quuim felicitas status publici consistat in bene 
+      praecipien<lb ed="#H" n="82" break="no"/>ll18. hine obtemperando, legibus, quibus praecipitur quid 
+      facien<lb ed="#H" n="83" break="no"/>du n sit, opus est 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e181">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>Leges sunto paucae &amp; pauciores erunt lites forenses. 
+      <lb ed="#H" n="85"/>Quinium legum politicarum mensura ac regula esto Lex Dei: 
+      <lb ed="#H" n="86"/>quia haec est lex prima &amp; suprema &amp; perfectissima. Quemadmodum 
+      <!--cod-MkL9py-0723.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="87"/>omnis veritatis creatae mensura ac regula est veritas increata, quae est 
+      <lb ed="#H" n="88"/>prima ac suprema ac perfectissima 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e201">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Quaecunque ergo lex, quodcunque statutum, quodcunque 
+      edi<lb ed="#H" n="90" break="no"/>ctum cum Lege &amp; voluntate Dei pugnat, jure a piis improbatur &amp; 
+      <lb ed="#H" n="91"/>rejicitur: Quales fuerunt leges, qualia edicta improbi Pharaonis 
+      <lb ed="#H" n="92"/>Exod. 1. v. 11, 16, 22. Homri Regis Israelitatum Miche. 6 v.16. 
+      Nebu<lb ed="#H" n="93" break="no"/>cadnetzaris Magni Dan. 3. vers. 4, 5, 6. Darij Medi Danc. sexto, 
+      versi<lb ed="#H" n="94" break="no"/>culo decimo¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e219">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>Legum promulgatio felicitatem subditorum spectare debet. 
+      <lb ed="#H" n="96"/>Ea felicitas non tantum sita est in negotiis ad hanc vitam 
+      perti<lb ed="#H" n="97" break="no"/>nentibus, sed etiam vel maxime in hoc, ut primo loco verus Dei cul 
+      <lb ed="#H" n="98"/>tus vigeat, a quo uno vera omnis felicitas promanat, Deut. 17. vers.  
+      <lb ed="#H" n="99"/>8. 2. Sam. 6. &amp; I. Reg. 2. 27. &amp; 11. 11. Ps. 75. 11. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e235">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Princeps potest jure se opponere Pontifici Romano 
+      excommu<lb ed="#H" n="101" break="no"/>nicationem injustam promulganti, ob leges justas a Principe in 
+      Re<lb ed="#H" n="102" break="no"/>publica sua latas: nam Pontifex excommunicans injuste Principem 
+      <lb ed="#H" n="103"/>&amp; Rempublicam, obsistit potestati ordinatae a Deo. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e248">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Paulus Apostolus jure restitit Petro, Galat. 3. Ergo &amp; princeps 
+      se<lb ed="#H" n="105" break="no"/>cularis potest jure resistere Pontifici Romano. Nec dici potest, 
+      ex<lb ed="#H" n="106" break="no"/>mplum Pauli esse singulare &amp; non imitandum: quia omnia 
+      quae<lb ed="#H" n="107" break="no"/>scripta sunt, ad nostram doctrinam scripta sunt; ergo etiam ad 
+      imi<lb ed="#H" n="108" break="no"/>tationem recte factorum 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e265">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Exsequutio iusta legum, est earum in effectum productio, ad 
+      con<lb ed="#H" n="110" break="no"/>servationem publicae disciplinae &amp; pacis. Roman. cap. undecimo, 
+      ver<lb ed="#H" n="111" break="no"/>siculo tertio¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e276">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Estque duplex, defensio bonorum &amp; coercitio malorum: 
+      <lb ed="#H" n="113"/>Defensionis bonorum duae sunt partes: procuratio &amp; 
+      conservatio<lb ed="#H" n="114" break="no"/>boni status subditorum, &amp; praesidium eorum qui justam habent 
+      cau<lb ed="#H" n="115" break="no"/>iam adversus iniquitatem aliorum, Ps. 75. v. 3. 4. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e289">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>Coercitio malerum, est altera exsequutionis legum pars, quam 
+      poe<lb ed="#H" n="117" break="no"/>nae sontibus irrogantur. Ezech. 7. 26. Ps 101. v. 8. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e298">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Scelera a Deo prohibita, ineprimis publice grassantia, Magistra 
+      <lb ed="#H" n="119"/>tus puniet: cujusmodi sunt idololatria, blasphemia in Deum, 
+      perju<lb ed="#H" n="120" break="no"/>rium, caedes malitiosae, scortationes, furta, latrocinia, usurae, falsa 
+      te<lb ed="#H" n="121" break="no"/>stimonia &amp; similia 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e311">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>I. Quia illa puniri vult Deus. 
+      <lb ed="#H" n="123"/>II. Quia sunt causa publicarum calamitatum &amp; ruinae 
+      Reipu<lb ed="#H" n="124" break="no"/>blicae &amp; regiminis, nisi a Magistratu puniantur: ut testatur diluvium 
+      <lb ed="#H" n="125"/>universale, Sodoma &amp; Gomorrha, respublica Israelitica sub Judici 
+      <lb ed="#H" n="126"/>bus &amp; deinceps sub regibus, tot monarchiae eversae, tot urbes 
+      deva<lb ed="#H" n="127" break="no"/>tatae. Hoc inculcant omnia scripta Prophetarum 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e329">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>Poenatum &amp; suppliciorum quibus Magistratus sontes afficit 
+      fi<lb ed="#H" n="129" break="no"/>nes sunt isti¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e339">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>I. Ut Dei voluntas &amp; justitia fiat  
+      <lb ed="#H" n="131"/>II. Ut auferatur malum e medio populi Dei, Deut. 13. v. 5. Ps. 
+      <lb ed="#H" n="132"/>IOI. v. 8 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e350">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>III. Ut omnes videntes &amp; audientes timeant, nec pergant ulli 
+      <lb ed="#H" n="134"/>scelera committere quae lege prohibentur, Deut. 13. 11. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e359">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>In poenis adhibetur vel severitas, vel clementia 
+      <lb ed="#H" n="136"/>Severitas, est quam secundum jus strictum sine mitigatione poena 
+      <lb ed="#H" n="137"/>delicto legitimo modo dicta sontibus dolosis irrogatur: Exempl 
+      <lb ed="#H" n="138"/>causa homicidae, qui astu vel deliberato consilio quempiam occidit. 
+      <lb ed="#H" n="139"/>Exod. 21. 12. Qui percutit quemquam, nimirum astu &amp; consilio 
+      deli<lb ed="#H" n="140" break="no"/>berato, ut moriatur, omnino morte plectitor, seu ut ex Hebraeo sonat,  
+      <lb ed="#H" n="141"/>moriendo ut moriatur fiat, quam praecipiendi forma juris exsequend. 
+      <lb ed="#H" n="142"/>necessitas inviolabilis ostenditur, veniaeque dandae interdictum, sic 
+      <lb ed="#H" n="143"/>ut Magistratus hanc legem Dei exsequi debeat, nec ullo studio aut 
+      <lb ed="#H" n="144"/>affectu indulgere delinquenti 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e385">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Boni judices, quum de capite &amp; fortunis hominum consultant  
+      <lb ed="#H" n="146"/>suam saepius debent interrogare conscientiam, an ullius rei acriori 
+      <lb ed="#H" n="147"/>sensu tangantur, quae eos a recta via transversos agat 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e396">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Huc pertinet τὸ αυυπεπονθυς αλλῳ, lus talionis, quum quis tale 
+      ali<lb ed="#H" n="149" break="no"/>quid patitur ab alio, quale fecit. Ab Imperatoribus in l. 8. C. Theod. 
+      <lb ed="#H" n="150"/>de exhib. reis appellatur poena reciproca, a Theoph. in S. poena. 
+      In<lb ed="#H" n="151" break="no"/>stit. de injur. nominatur τυλοπἀδεια. Hoc jus etiam Rhadamanto, 
+      <lb ed="#H" n="152"/>&amp; autoribus duodecim tabularum placuit. Quin etiam probatur 
+      le<lb ed="#H" n="153" break="no"/>ge Mofaica, Exod. 21. vers. 23, 24, 25. Levit. 24. vers. 19, 20. Deut.  
+      <lb ed="#H" n="154"/>19. vers. 21. ubi praescribitur, ut detur vita pro vita, manus pro manus 
+      <lb ed="#H" n="155"/>dens pro dente, oculus pro oculo, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e418">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Ita Samuel usus est jure talionis in puniendo Agago Rege Ama 
+      <lb ed="#H" n="157"/>lebitarum. 1. Sam. 15. versic. 33. Dixit Samuel Agago: Quemadmo. 
+      <lb ed="#H" n="158"/>dum orbavit mulieres gladius tuus, sic orbabitur inter mulieres mater 
+      <lb ed="#H" n="159"/>tua, dilaniavitque Samuel Agagum coram Iehova Gilgale. Ita 
+      accusa<lb ed="#H" n="160" break="no"/>tores Danielis qui non conquieverant donec Daniel in foveam seo 
+      <lb ed="#H" n="161"/>num conjectus esset, justa sententia Regis Darii conjecti sunt una 
+      <lb ed="#H" n="162"/>cum uxoribus &amp; liberis suis in foveam leonum, Dan. 6. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e439">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>Clementia, est virtus propria superioris in inferiorem, quam justis &amp; 
+      <lb ed="#H" n="164"/>sufficientibus de causis, sontibus poena vel mitigatur, vel plane 
+      re<lb ed="#H" n="165" break="no"/>mittitur. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e450">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Justae exsequutioni Legum opponitur crudelitas seu tyrannis: &amp; 
+      <lb ed="#H" n="167"/>nimia mollities seu indulgentia publica. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e459">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Crudeluas seu tyrannis, est qua vel innocentes occiduntur aut 
+      du<lb ed="#H" n="169" break="no"/>rissime tractantur, aut nocentes rigidius quam jus est: ut rex Saul 
+      <lb ed="#H" n="170"/>jussit Sacerdotes Dei tyrannice occidi. 1 Sam 22. Manasses rex Judea 
+      <lb ed="#H" n="171"/>sanguinem innoxium fudit quam-plurimum 2. Reg. 21. 16. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e472">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>Impii Reges &amp; Magistratus inprimis crudeles sunt in servos 
+      <lb ed="#H" n="173"/>Dei qui peccata ipsorum redarguunt, ut Jarobeamus, 2. Reg. cap. 13. 
+      <lb ed="#H" n="174"/>vers. 4. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e483">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>Nimia mollities seu indulgentia publica est, quae legum vincuh 
+      <lb ed="#H" n="176"/>non modo relaxat, sed etiam dissolvit, &amp; quia verbo &amp; voluntati Dei 
+      <lb ed="#H" n="177"/>adversatur, fatalis est, ut exemplum praeposterae clementiae Saulis in 
+      <lb ed="#H" n="178"/>Agagum docet, primo libro Samuelis, capite decimo-quinto, versi 
+      <!--cod-MkL9py-0724.xml-->
+      <pb ed="#H" n="695"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>cula nono. &amp; Achabi in Benhadadum, primo libro Regum, capite 
+      <lb ed="#H" n="2"/>vigesimo, versiculo quadragesimo-secundo 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e507">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Haec de exsequutione legum bonarum: sequitur  
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e515">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>de abrogatione legum noxia¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e522">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>rum. 
+      <lb ed="#H" n="6"/>Quemadmodum ad officium boni Principis &amp; Magistratus 
+      per<lb ed="#H" n="7" break="no"/>tinet, bonas leges antea latas observare, novas promulgare &amp; 
+      utras<lb ed="#H" n="8" break="no"/>que exsequi: ita ejusdem officium est, leges noxias abrogare. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e535">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>ex noxia est quae veritatem inauditam damnat; quae vetat 
+      audi<lb ed="#H" n="10" break="no"/>re homines, quod auditum damnare non possint. Tertullian. Apolo 
+      <lb ed="#H" n="11"/>getico adversus Gentes, capite 
+      primo<lb ed="#H" n="12" break="no"/>Et capite quarto ejusdem Apologetici ait Tertullianus: Si lex tuae 
+      <lb ed="#H" n="13"/>erravit, puto ab homine concepta est: neque enim de coelo ruit. 
+      Mirami<lb ed="#H" n="14" break="no"/>ni hominem aut errare potuisse in lege condenda, aut resipuisse in 
+      repro<lb ed="#H" n="15" break="no"/>banda? Nonne &amp; ipsius Lycurgi leges a Lacedemoniis emendatae, 
+      tan<lb ed="#H" n="16" break="no"/>tum autori suo doloris incusserunt, ut in secessu inedia de semet ipso 
+      ju<lb ed="#H" n="17" break="no"/>dicarit. Nonne &amp; vos quotidie experimentis illuminantibus tenebra 
+      <lb ed="#H" n="18"/>antiquitatis totam illam veterem &amp; squalentem sylvam Legum 
+      no<lb ed="#H" n="19" break="no"/>vis Principalium rescriptorum &amp; edictorum securibus truncatis &amp; 
+      cae<lb ed="#H" n="20" break="no"/>ditis? Nonne vanissimas Papias leges quae ante liberos suscipi cogunt, 
+      <lb ed="#H" n="21"/>quam Iuliae matrimonium contrahi, post tantae autoritatis senectutem 
+      <lb ed="#H" n="22"/>heri Severus constantissimus Principum exclusit? Sed &amp; judicatos i1 
+      <lb ed="#H" n="23"/>partes secari a creditoribus leges erant: consensu tamen publico crude 
+      <lb ed="#H" n="24"/>litas postera erasa est, &amp; in pudoris notam capitis poena conversa est, 
+      <lb ed="#H" n="25"/>bonorum adhibita proscriptione; suffundere maluit hominis 
+      sangui<lb ed="#H" n="26" break="no"/>nem quam effundere. Quot adhuc vobis repurgandae leges latent, quas 
+      <lb ed="#H" n="27"/>neque annorum numerus, neque conditorum dignitas commendat, sed ae 
+      <lb ed="#H" n="28"/>quitas sola? &amp; ideo cum iniquae recognoscuntur, merto damnantur: 
+      <lb ed="#H" n="29"/>licet damnent cum iniquas dicimus, imo si Nomen puniunt, etiam 
+      stul<lb ed="#H" n="30" break="no"/>tas 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e587">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Haec de legibus. 
+      <lb ed="#H" n="32"/>Electio &amp; constitutio tum administrorum gubernationis tum 
+      do<lb ed="#H" n="33" break="no"/>mesticorum principis seu Magistratus, ut perquam necessaria est, ita 
+      <lb ed="#H" n="34"/>&amp; legitiina esse debet 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e600">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>Administri gubernationis sunt; Senatus seu Consilium; &amp; Iudices 
+      <lb ed="#H" n="36"/>alisque his subordinati 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e609">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Differunt Senatus seu Consilium, &amp; Judicium seu Judices: &amp; id 
+      <lb ed="#H" n="38"/>optiina quaque Republica distinguuntur. Consilium ad publicam 
+      <lb ed="#H" n="39"/>Reipublicae administrationem requiritur: Iudicium ad privatas 
+      cau<lb ed="#H" n="40" break="no"/>sas &amp; lites cognoscendas decidendasque. Sic in Republica Israelitica 
+      <lb ed="#H" n="41"/>aliud fuit Consilium: aliud Judicium. Consilium nominabatur σ
+      ui<lb ed="#H" n="42"/>εδριον, Consessus, distinctumque erat synedrium politicum ab 
+      Eccle<lb ed="#H" n="43" break="no"/>siastico. De politico Synedrio, consessu, Consitio sive Senatu agitur? 
+      <lb ed="#H" n="44"/>Numeror. 11. De Judicio sive Judicibus Exod 18. Deuter. 1. Discere 
+      <lb ed="#H" n="45"/>nuntur eadem Matth. 5. versic. 22. Quicunque irascitur fratri so 
+      teme<lb ed="#H" n="46" break="no"/>re, tenebitur juditio: quicunque vero dixerit fratri suo, raca, tenebitur 
+      <lb ed="#H" n="47"/>consessu, &amp;c. Sic Romae alia fuit Senatus in consiliis alia 
+      centumvira<lb ed="#H" n="48" break="no"/>lis judicii in litibus autoritas: Sic Athenis, sic Lacedaemone. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e641">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>Celeberrimi quique Reges nihil sine consilio puocerum faciebant,  
+      <lb ed="#H" n="50"/>veluti David, Salomon, Assuerus seu Xerxes magnus 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e650">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Porro eligendi &amp; constituendi sunt a Principe seu Magistratur 
+      <lb ed="#H" n="52"/>summo, tum Senatores seu Confiliarii, tum Judices atque adeo 
+      om<lb ed="#H" n="53" break="no"/>nes gubernationis administri tales, qui sint Dei timentes, sapientes 
+      <lb ed="#H" n="54"/>prudentes, temperantes, veraces. justi, &amp;c Exod. 18. 21. Genes. 41. v. 
+      <lb ed="#H" n="55"/>33. 2. Chron. 19 v. 5. &amp; sequentibus, Psalm. 101. 4, 5, 6, 7. Proverb. 16. 
+      <lb ed="#H" n="56"/>13. Daniel. 2. v. 48, 49 &amp; 6. 2, 3. Vide Francisci Junii Commenta. 
+      <lb ed="#H" n="57"/>riuni in Psalmum centesimum-primum. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e670">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Quae damna improbi Senatores seu Consiliarii, &amp; Judices aliiqui 
+      <lb ed="#H" n="59"/>gubernationis administri adferant Reipublicae, docetur Chabbac. 1. 
+      <lb ed="#H" n="60"/>v. 4. Ps. 10. &amp; 12. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e681">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>Hic igitur explicanda monita, necessaria tum Senatui seu 
+      Consi<lb ed="#H" n="62" break="no"/>liariis, tum Judicibus &amp; aliis administris gubernationis. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e690">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Consiliarii Judicesque &amp; administri gubernationis alii, 
+      praeser<lb ed="#H" n="64" break="no"/>tim qui ab exili loco repente ad summos honores sunt exaltati, 
+      su<lb ed="#H" n="65" break="no"/>perbiam, ambitionem &amp; impiorum maleficorumque hominum de 
+      <lb ed="#H" n="66"/>fensionem, piorumque Dei cultorum &amp; innocentium hominum 
+      op<lb ed="#H" n="67" break="no"/>pressionem omnibus modis fugiant. Nam superbi, ambitiosi &amp; fau 
+      <lb ed="#H" n="68"/>tores impiorum ac maleficorum, &amp; oppressores piorum atque 
+      inno<lb ed="#H" n="69" break="no"/>centium hominum de dignitate &amp; autoritate sua deturbantur just. 
+      <lb ed="#H" n="70"/>judicio Dei, &amp; tandemmiserrimo luctuosoque fato pereunt, atque 
+      <lb ed="#H" n="71"/>ita producti in theatrum fiunt exempla inconstantiae rerum 
+      huma<lb ed="#H" n="72" break="no"/>narum, ut Achitophel consiliarius Davidis, Joabus, Schebna 
+      praefe<lb ed="#H" n="73" break="no"/>ctus praetorio in regno Judaeae sub ChiaLija, Jes. 22. versic. 15, 16, 17. 
+      <lb ed="#H" n="74"/>18, 19, 25. Epatchi &amp; Satrapae Darii Medi Danielem opprimere 
+      co<lb ed="#H" n="75" break="no"/>nantes Dan. 6. Haman sub Rege Achaschvero; Sejanus sub 
+      Tibe<lb ed="#H" n="76" break="no"/>rio Imperatore; Claudius &amp; Henricus Guisii in Gallia sub Carolo 
+      <lb ed="#H" n="77"/>IX. &amp; Henrico III. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e727">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Quin etam caveant, ne sint administri injustitiae &amp; crudelitatis 
+      <lb ed="#H" n="79"/>Principis seu Magistratus adversus pios &amp; innoventes: nam tales 
+      ju<lb ed="#H" n="80" break="no"/>dicium Dei non effugiunt, ut ostendit exemplum Doegi, de quo Ps. 
+      <lb ed="#H" n="81"/>52. exemplum item praetorianorum Nebucadnetzaris Magni, qui 
+      <lb ed="#H" n="82"/>socios Danielis in fornacem conjecerant, Dan. 3 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e744">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Multo minus absque scitu, voluntate &amp; jussu Principis seu 
+      Magi<lb ed="#H" n="84" break="no"/>stratus summi quenquam interficiant, aut injuste tractent. Exempl 
+      <lb ed="#H" n="85"/>sit Joabus qui occidit Abnerum &amp; Amasam inscio &amp; postea 
+      impro<lb ed="#H" n="86" break="no"/>bante Davide, &amp; vicissim occisus est jussu Davidis a Salomone Rege, 
+      <lb ed="#H" n="87"/>1. Reg. 2. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e760">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Sed potius crudelitati Principis subtrahant innocentes, eosque oc 
+      <lb ed="#H" n="89"/>cultent, pascant, conservent, ut fecit Hobadja praefectus domui Acha¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e769">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/> 
+               <!--cod-MkL9py-0724.xml-->
+               <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>bi, 1. Reg. 18. 3. 4. Non sint autores Principi suo ut belium injustum 
+      <lb ed="#H" n="92"/>moveat &amp; copiis nagnis confidat, 1. Regum capite 10. versiculo 23. 
+      <lb ed="#H" n="93"/>24. 25. 
+      <lb ed="#H" n="94"/>Maneant fidi Principi seu Magistratui suo legitimo, nec ab eo 
+      per<lb ed="#H" n="95" break="no"/>fide deficiant: nam perfidi &amp; defectores puniuntur a Deo, ut 
+      Achi<lb ed="#H" n="96" break="no"/>tophei qui a Davide Rege defecerat ad Absolonem, 2. Samuel. cap. 
+      <lb ed="#H" n="97"/>17 vers. 23. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e795">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>VUAERITUR, MAn quis bona conscientia possit in aula impii &amp; 
+      <lb ed="#H" n="99"/>idololatrici Regis seu Principis vivere &amp; fungi officio aliquo aulico; 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e804">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Ad quaestionem hanc cum distinctione respondendum: nam vel 
+      <lb ed="#H" n="101"/>subditus est quis regis seu Princicipis impii &amp; idololatrici aut alioqu 
+      <lb ed="#H" n="102"/>legitime vocatus ad officium aliquod, vel non. Si est subditus aut 
+      a<lb ed="#H" n="103" break="no"/>ioquin legitime vocatus, potest in aula Regis seu Principis idolola; 
+      <lb ed="#H" n="104"/>trici vivere &amp; fungi aliquo officio bona conscientia in iis rebus &amp; 
+      ne<lb ed="#H" n="105" break="no"/>potiis quae voluntati Dei non repugnant, ut fuit Iosephus Patriarcha, 
+      <lb ed="#H" n="106"/>Gen. 41. v. 39, 40. &amp; Hobadjia praefectus domui regis Achabi 1. Reg. 
+      <lb ed="#H" n="107"/>capite 18. versiculo 3. Daniel &amp; amici ejus Dan. capite 2 versiculo 
+      <lb ed="#H" n="108"/>18, 49. &amp; capite 5. versiculo 29. &amp; capite 6. versiculo 2, 3. Si quis 
+      au<lb ed="#H" n="109" break="no"/>tem nec subditus nec legitime vocatus est, is si ultro sese ingerat, 
+      pro<lb ed="#H" n="110" break="no"/>cul. dubio peccat.  
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e833">
+               <lb ed="#H" n="111"/>
+               <pc type="indent"/>IUDICES inecprimis justitiae studeant in causis &amp; litibus 
+      forensi<lb ed="#H" n="112" break="no"/>bus cognoscendis decidendisque: id enim praecipitur Exod. 23. vers. 
+      <lb ed="#H" n="113"/>6, 7. 8, 9. Deuteron. 1. vers. 16, 17. &amp; cap. 16. v. 18 19, 20. 2. Chron. 19. 
+      <lb ed="#H" n="114"/>v. 6, 7. Psalm. 82 v. 3. 4. Jesa. 1. vers. 17. absit injustitia, absit favor 
+      ini<lb ed="#H" n="115" break="no"/>quus in judicio, absit rigor injustus &amp; nimius. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e850">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>Injustitia in judicio, est non tantum quum adimitur alicui quod 
+      <lb ed="#H" n="117"/>psius est, sed etiam quum processus in dijudicatione causarum a 
+      le<lb ed="#H" n="118" break="no"/>ibus deflectit: veluti si una tantum pars audiatur, altera non item 
+      <lb ed="#H" n="119"/>quod nequaquam faciendum: 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e863">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>I. Quia Lege Dei est vetitum. 
+      <lb ed="#H" n="121"/>II. Quia justitia causae cognosci nequit, nisi utroque 
+      litiganti<lb ed="#H" n="122" break="no"/>um audito, Proverb. capite 18. versiculo 17. Iustus videtur qui primus 
+      <lb ed="#H" n="123"/>est in lite sua; donec adveniente proximo ejus, pervestiget illum. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e876">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Favor iniquus in judicio, est peccatum cum judices alteri partium 
+      <lb ed="#H" n="125"/>litigantium plus aequo favent, velut pauperibus misericordiae specie, 
+      <lb ed="#H" n="126"/>vel divitibus ob amicitiam aut dona aut metum offensionis &amp; 
+      inimi<lb ed="#H" n="127" break="no"/>citiarum, vel ob alias causas. Vocatur etiam σωροσυποληθία, id est, 
+      <lb ed="#H" n="128"/>personarum acceptio, quae est tribuete justa iniustis, vel praemia non 
+      <lb ed="#H" n="129"/>meritis; veluti si judex relinquens cauiae meritum de qua judicat, al 
+      <lb ed="#H" n="130"/>teri contra alterum suffragatur, quia invenit aliquid in persona quod 
+      <lb ed="#H" n="131"/>honore vel miseratione sit dignum. Vocatur etiam δαροφαγια, id est, 
+      <lb ed="#H" n="132"/>munorum acceptatio 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e900">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>Caveri debet favor iniquus in judicio: 
+      <lb ed="#H" n="134"/>I. Quia prohibetur a Deo Exodi capite vigesimo-tertio, 
+      versi<lb ed="#H" n="135" break="no"/>culo tertio &amp; sexto: Levit. capite decimo-nono, versiculo 
+      decimo<lb ed="#H" n="136" break="no"/>quinto 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e913">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>II. Quia Deo displicet: ut displicuit in judicibus Jezreelis, qui 
+      <lb ed="#H" n="138"/>Nabothum in gratiam Regis Achabi damnaverant &amp; lapidaverant, 
+      <lb ed="#H" n="139"/>1. Reg. 21. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e924">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>III. Quia malus est, Proverb. capite decimo-octa to, versiculo 
+      <lb ed="#H" n="141"/>quinto 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e934">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>IV. Quia exsecrabilis est omnibus, Proverb. capite 24. versic. 
+      <lb ed="#H" n="143"/>23. 24. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e943">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>V. Quia punitur a Principe seu Magistratu summo: aut hoc 
+      <lb ed="#H" n="145"/>connivente vel ignorante, a Deo ipso, ut Haman qui injuste rmorti 
+      <lb ed="#H" n="146"/>adjudicaverat Judaeos &amp; in iis Mardochaeum, justo supplicio punitus 
+      <lb ed="#H" n="147"/>est a Rege Achaschvero, Esther. 7. vers. 9, 10. Huc pertinet quod dicit 
+      <lb ed="#H" n="148"/>Ecclesiastes cap. 5. vers. 8. Si oppressionem pauperis, interversienemque 
+      <lb ed="#H" n="149"/>juris ac justitiae videris in ipsa provincia; ne mireris de ista uoluntate: 
+      <lb ed="#H" n="150"/>nam altus superior alto observat, imo altissimus superior istis. 
+      <lb ed="#H" n="151"/>Caveri ab iisdem debet δυχοφαγια, munerum captatio &amp; accepta. 
+      <lb ed="#H" n="152"/>tio.  
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e967">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Quia prohibetur a Deo, Exod. 23. v. 8. Deuter. 16. v. 19. 
+      <lb ed="#H" n="154"/>II. Quia coarguitur a Deo Jesa. 1. v. 23. Prov. 17. v. 23. 
+      <lb ed="#H" n="155"/>III. Quia munera excaecant oculatos, (d est, sapientes) &amp; 
+      per<lb ed="#H" n="156" break="no"/>vertunt verba justorum, Exod. 23. v. 7. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e980">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>OBJECTIO. Proverb. 18. 16. dicitur: Donum hominis in later 
+      <lb ed="#H" n="158"/>collocat eum, &amp; ante faciem magnatum deducit eum: Ergo δυροφα¬ 
+      <lb ed="#H" n="159"/>γία est licita. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e991">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>RESP. Salomon Proverb. 18. v. 16. docet quid fieri soleat, non 
+      <lb ed="#H" n="161"/>quid sit faciendum 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1000">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Rigor injustus &amp; nimius in iudicio, est peccatum quum vel insons 
+      <lb ed="#H" n="163"/>contra ius damnatur &amp; opprimitur, vel necens gravius damnatur &amp; 
+      <lb ed="#H" n="164"/>premitur quam juri sit cinsentancum, etiamsi id sub praetextu juris 
+      <lb ed="#H" n="165"/>fiat. Caveri debet a judicibus 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1014">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>I. Quia prohubetur a Deo. Prov. 17. v. 26. 
+      <lb ed="#H" n="167"/>II. Quia summuni jus summa saepe injuria est. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1023">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Haec de administris gubernationis. 
+      <lb ed="#H" n="169"/>Domesticos Principis seu Mogistratus vocamus, qui officia praestant 
+      <lb ed="#H" n="170"/>domestica in minister ic domesticis, aut quasi domestica, ut pote 
+      <lb ed="#H" n="171"/>quibus mugis operam quam consilium Princeps seu Migiitratus 
+      <lb ed="#H" n="172"/>xigit: ut sunt ministri domestici, cubicularii, custodes corporis, 
+      quae<lb ed="#H" n="173" break="no"/>stores, satellites &amp; viatores, praetoriani, praesidiatii. Et hi quoque ut 
+      ju<lb ed="#H" n="174" break="no"/>sti, temperantes, veraces, sinceri sint, omniumque virtutum studiosit 
+      <lb ed="#H" n="175"/>Princeps seu Magistratus curabit, ne domus ipsius male audiat 
+      pro<lb ed="#H" n="176" break="no"/>ter domesticos ipsius. Proverb. 16. 13. Imo ut domesticos sapientes 
+      <lb ed="#H" n="177"/>pios, temperantes, justos, castos habeat, institutione &amp; exemplo illis 
+      <lb ed="#H" n="178"/>praeibit: sicut Regina Schebae dicebor Salomoni, . Reg. 10. 8. Brati 
+      <lb ed="#H" n="179"/>homines tui, beati servi tui, isti: qui stanies coram te iugiter audiunt,  
+      <lb ed="#H" n="180"/>sapientiam tuam, Habet Princeps seu Magistratus exemplum 
+      lau<lb ed="#H" n="181" break="no"/>datissimum, quod imitetur, Dav dis Regis, Psal. 101. 
+      <!--cod-MkL9py-0725.xml-->
+      <pb ed="#H" n="696"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>in hunce tuenda non minus omnem operam Princeps seu 
+      Magi<lb ed="#H" n="2" break="no"/>tratus impendet, Augustinus tertio tomo, sententia centes. 
+      sexagesi<lb ed="#H" n="3" break="no"/>ma-tertia: PAx domestica est ordinata cohibitantium imperandi 
+      e<lb ed="#H" n="4" break="no"/>bediendique concordia. Imperant enim qui consulunt, sicut vir uxori, 
+      pa<lb ed="#H" n="5" break="no"/>rentes filius, domini servis. Obediunt autem quibus consulitur, sicut  
+      <lb ed="#H" n="6"/>mulieros maritis, filii parentibus, dominis servi. Sed in Domino 
+      justi<lb ed="#H" n="7" break="no"/>viventes ex fide, &amp; ab illa adhuc civitate peregrinantes, etiam qui 
+      im<lb ed="#H" n="8" break="no"/>perant, serviunt eis, quibus videntur imperare: quia non dominand 
+      <lb ed="#H" n="9"/>cupiditate imperant, sed officio consulendi, nec principandi supirbia, sed  
+      <lb ed="#H" n="10"/>providendi beneficio 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1086">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Ius dicere reddere Princeps seu Magistratus sumtus non 
+      detrecta<lb ed="#H" n="12" break="no"/>bit: id enim decet &amp; expedit eum facere, imo debet  
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1095">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>I. Quia id ei a Deo injunctum &amp; mandatum. 
+      <lb ed="#H" n="14"/>II. Quia id officium &amp; vocatio ejus requitit: hoc fine Princeps, 
+      <lb ed="#H" n="15"/>hoc fine Magistratus est, 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1106">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>III. Quia non alia res imperium magis asserit &amp; ostendit. quam 
+      <lb ed="#H" n="17"/>haec in bona vitamque aliorum potestas. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1115">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>IV. Quia contra potentes saepe causae aguntur aut potentes 
+      de<lb ed="#H" n="19" break="no"/>liquerunt: nec minores illi aut delegati judices satis in eos oris, aut 
+      <lb ed="#H" n="20"/>roboris semper habent: Princeps autem sua autoritate &amp; potentia 
+      il<lb ed="#H" n="21" break="no"/>los coercere valet, Prov. 20. 8 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1129">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>V. Quia saepe veritas subtiliter &amp; sagaciter inquirenda &amp; erus 
+      <lb ed="#H" n="23"/>enda, quod plerunque omnium facillime &amp; dexterrime Princeps aut 
+      <lb ed="#H" n="24"/>summus Magistratus potest: Proverb. 16. 10. ut exemplum 
+      osten<lb ed="#H" n="25" break="no"/>dit Regis Salomonis, 1. Reg. 3. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1142">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>VI. Quia Princeps seu Magistratus summus habet exempla 
+      <lb ed="#H" n="27"/>proba aliorum Regum &amp; Principum quos imitetur: ut Mosis, 
+      Sa<lb ed="#H" n="28" break="no"/>muelis, Davidis, Salomonis &amp; aliorum: 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1153">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Tributa &amp; vectigalia exigenda ac colligenda sunt sine peccato, sie 
+      <lb ed="#H" n="30"/>ne oppressione subditorum vel peregrinorum: 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1162">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>I. Quia haec est voluntas Dei 
+      <lb ed="#H" n="32"/>II. Quia idcirco magna tributa atque vectigalia minus ad 
+      uti<lb ed="#H" n="33" break="no"/>litatem Reipublicae proficiunt, quia cum peccati aliqua admistione 
+      <lb ed="#H" n="34"/>colliguntur.  
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1175">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>III. Quia etsi carnis judicium sequentibus, parum videtur rei 
+      <lb ed="#H" n="36"/>publicae accedere utilitatibus, si exigua tributa &amp; vectigalia colligam 
+      <lb ed="#H" n="37"/>tur: tamen certum est inde multum tempublicam adjuvari, si 
+      sub<lb ed="#H" n="38" break="no"/>diti non exhauriantur. Moderata durant  
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1188">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>IV. Quia vectigalium atque tributorum magnitudo &amp; 
+      aucti<lb ed="#H" n="40" break="no"/>alienat tandem subditorum animos &amp; ad reballionem 
+      defectionem<lb ed="#H" n="41" break="no"/>quem incitat: ut expertus est Rechabeamus filius Salomonis. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1200">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Facultates subditis neque per vim, neque sub specie juris 
+      cripien<lb ed="#H" n="43" break="no"/>dae, multo minus vita: quam in re peccarunt Achabus &amp; lzebel, I. 
+      Re<lb ed="#H" n="44" break="no"/>gum 21. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1211">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Ad officium Principis seu Magistratus pertinet etiam publicorum 
+      <lb ed="#H" n="46"/>operum curatio, id est, munitionum civitatumque exaedificatio &amp; 
+      com<lb ed="#H" n="47" break="no"/>paratio armorum omnis generis ad defensionem subditorum adversus. 
+      <lb ed="#H" n="48"/>hostes. Docent exempla laudatissima. Davidis 2. Sam. 5. versic. 9, 10. 
+      <lb ed="#H" n="49"/>I1i. Salomonis 1. Reg. 9. versic. 15. &amp; sequentibus. Asae 2. Chron. 14. 
+      <lb ed="#H" n="50"/>versic. 6, 7, 8. Iosaphati, 2. Chronicor. 17. versic. 12, 13. VXχiae, 
+      <lb ed="#H" n="51"/>2. Chron. 26. versic. 14, 15. Ezechiae, 2. Chron. 32. vers. 2. &amp; 
+      sequen<lb ed="#H" n="52" break="no"/>tibus 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1233">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Ad praecautionem aut sedationem publicorum motuum inter 
+      subdi<lb ed="#H" n="54" break="no"/>tos, plurimum momenti adfert ultronea cognitio gravaminum 
+      pu<lb ed="#H" n="55" break="no"/>blicorum, onerum allevatio, patientia &amp; dissimulatio injuriarum 
+      <lb ed="#H" n="56"/>ἄμτησείια perpetua inj uriarum idatatum, honorum collatio, 
+      cle<lb ed="#H" n="57" break="no"/>mentia, fides in servandis promissis, improbatio &amp; punitio 
+      homici<lb ed="#H" n="58" break="no"/>diorum &amp; scelerum quamvis a potentibus commissorum 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1251">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Vltronea cognitio gravaminum publicorum est Principi seu 
+      Magi<lb ed="#H" n="60" break="no"/>stratui necessaria, ad conservandam seu conciliandam subditorum 
+      <lb ed="#H" n="61"/>benevolentiam &amp; promtam obedientiam. Exemplum ejus est in 
+      <lb ed="#H" n="62"/>dlaudato illo Rege AEgypti qui Josephum Proregem constituerat: 
+      <lb ed="#H" n="63"/>Genes. cap. 41. versic. 55. In Josepho Genes. cap. 47. vers. 15, 18. Eam 
+      <lb ed="#H" n="64"/>recusantes vel negligentes Principes regna sua amiserunt, ut 
+      Sarda<lb ed="#H" n="65" break="no"/>napalus, 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1271">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>Qnerum publicorum allevatio interdum etiam est necessaria: nis 
+      <lb ed="#H" n="67"/>enim subditis communi eam consensu efflagitantibus fiat, animos 
+      <lb ed="#H" n="68"/>eorum a Principe seu Magistratu alienat &amp; mutationi regiminis 
+      oc<lb ed="#H" n="69" break="no"/>casionem praebet, ut exemplum ostendit Rechabeami filii Salomo, 
+      <lb ed="#H" n="70"/>nis, 1. Reg. 12. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1287">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>Eaque sit tum moderando vel plane remittendo tributa: Exem. 
+      <lb ed="#H" n="72"/>plum est in Nechemia Principe populi Judaici, Nechem. 5. vers. 14. 
+      <lb ed="#H" n="73"/>15. 18. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1299">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Tum necessariam alimoniam aut pecuniam aut alia 
+      commoda<lb ed="#H" n="75" break="no"/>subministrando subditis; Exemplum est in Nechemia, Nechem c. 5. 
+      <lb ed="#H" n="76"/>vers. 17, 18. Exemplum itidem est in Nerva Imperatore; Tum 
+      libe<lb ed="#H" n="77" break="no"/>tando pauperiores sub.litos ab onere servitutis, aeris alieni, 
+      oppigne<lb ed="#H" n="78" break="no"/>rationis bonorum, Nechem. 5. v. 1, &amp; seque  
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1315">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Patientia &amp; dissimulatio prudens injuriarum Principi saepe est ne 
+      <lb ed="#H" n="80"/>cessaria, ut testatur exemplum Mosis quo nullus Principum 
+      patien<lb ed="#H" n="81" break="no"/>tior fuit &amp; prudentior in dissimulandis injuriis sibi illatis. Exemplum 
+      <lb ed="#H" n="82"/>itidem Gideonis Jud. 8. vers. 1. 2, 3. &amp; Saulis 1. Sam. 10 vers. 27. &amp; cap. 
+      <lb ed="#H" n="83"/>II. vers. 12. 13 D. vidis 2. Sam. 19. vers. 22, 23, 24. Ejusdem Davidi 
+      <lb ed="#H" n="84"/>occiso Abnere &amp; Amasa a Joabo, in quem tum nihil potuit David in 
+      <lb ed="#H" n="85"/>stituere quin totum populum commoveret &amp; peri: htaretur egnum 
+      <lb ed="#H" n="86"/>2. Samuel. cap. 3. versic. 38, 39 &amp; cap. 20. vers. 23. &amp; 1. Reg. cap. 2. 
+      ver<lb ed="#H" n="87" break="no"/>sic. 5. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1339">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Aecrns cia perpetua injuriarum ad motus sedandos est perquam  
+      <lb ed="#H" n="89"/>utilis. Eam sanxic rex David post seditionem ab Absalomo silios 
+      ex<lb ed="#H" n="90" break="no"/>citatam, 2. Sam. 19. v. 12, 11. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1350">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Collatio honorum &amp; dignitatum non minorem ad sopiendas 
+      sedi<lb ed="#H" n="92" break="no"/>tiones efficaciam habet, 2. Sam. 19. 14, 15. 
+      <!--cod-MkL9py-0725.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>Clementia Principis seu Magistratus non tantum decora est, sed 
+      et<lb ed="#H" n="94" break="no"/>iam utilis, imo necessaria saepe ad praecavendos aut sedandos publi  
+      <lb ed="#H" n="95"/>cos motus: ut ostendit exemplum Davidis parcentis illis qui partes 
+      <lb ed="#H" n="96"/>Schebahi filii Bicri secuti erant, &amp; contenti solius Schebalii poena: 
+      <lb ed="#H" n="97"/>Sam. 20. parcentis etiam illis qui Absolomo adhaeserant 2. Samuel. 
+      <lb ed="#H" n="98"/>cap. 19. Hac clementia populum ad officium &amp; subjectionem 
+      redu<lb ed="#H" n="99" break="no"/>xit. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1379">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Fides itidem in servandis promissis non tantum conveniens est 
+      prin<lb ed="#H" n="101" break="no"/>cipi seu Magistratui, verum etiam necessaria ad praecavendam rebele 
+      <lb ed="#H" n="102"/>ionem, seditionem &amp; motus publicos subditorum. David rex factus 
+      <lb ed="#H" n="103"/>servabit fidem promissam Jonathani, unde Beniaminitae &amp; alii Israe 
+      <lb ed="#H" n="104"/>ditae libentius in obsequio ejus fuerunt. Idem servavit fidem filiis 
+      <lb ed="#H" n="105"/>Barzillai Gilhaditae 1. Reg. 2. v. 7. 
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1397">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Improbatio &amp; punitio sceierum a potentibus perpetratorum &amp; ipsa 
+      <lb ed="#H" n="107"/>necessaria Principi seu Magistratui ad continendos in subjectione 
+      <lb ed="#H" n="108"/>voluntaria alios subditos. Exemplo suo id docuit David cum Joabus 
+      <lb ed="#H" n="109"/>Abnerum interfecisset, 2. Samuel. cap. 3. versic. 28. &amp; sequentibus 
+      <lb ed="#H" n="110"/>I. Regum capite secundo, versiculo vigesimo-octavo, ubi poena 
+      Joa<lb ed="#H" n="111" break="no"/>bi memoratur  
+    </p>
+            <p xml:id="yyy8Uu-xd9910-d1e1416">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Sic fuit de justitia Magistratus togata: 
+   reli<lb ed="#H" n="113"/>
+               <pc type="indent"/>quum est de bellica. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

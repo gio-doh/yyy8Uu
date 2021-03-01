@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd828"><!-- l9-c3 -->
+            <head xml:id="yyy8Uu-gxd828-Hd1e103">Caput 3</head>
+            <p xml:id="yyy8Uu-gxd828-d1e106">
+      <!--cod-MkL9py-0608.xml-->
+               <pb ed="#H" n="579"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>CAPU II 
+      <lb ed="#H" n="2"/>In quo de fasa religione; ubi &amp; de idololatria 
+   ac<lb ed="#H" n="3" break="no"/>religione simulata in genere.
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e122">
+               <lb ed="#H" n="4"/>TTTdisparata verae religioni seu pietati opponitur falsa religio, &amp; 
+      <lb ed="#H" n="5"/>
+               <pc type="indent"/>religio simulata. 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e131">
+               <lb ed="#H" n="6"/>Religio falsa, Graece ψδιδοθρήσκεια, est vitium animo 
+      in<lb ed="#H" n="7" break="no"/>haerens, a diaboli astutia ortum, per quod homines in cultu Dei a 
+      ver<lb ed="#H" n="8" break="no"/>bo Dei, quod jam in Scripturis Propheticis &amp; Apostolicis 
+      compre<lb ed="#H" n="9" break="no"/>hensum est, discedentes erroneas opiniones de Deo &amp; falsas rationes 
+      <lb ed="#H" n="10"/>eum colendi sectantur Nominatur etiam superstitio¬  
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e144">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Religio vera differt a 
+      falsa<lb ed="#H" n="12" break="no"/>1. Vera est a Deo, 2. Petr. 1. v. 3. Prout divina vis ipsius omnia 
+      nobi<lb ed="#H" n="13" break="no"/>donavit quae ad vitam &amp; pietatem pertinent, per agnitionem illius 
+      qui<lb ed="#H" n="14" break="no"/>vocavit nos ad gloriam ac virtutem. Falsa a Diabolo, Jac. 3. versic. 15. 
+      <lb ed="#H" n="15"/>Non est enim ista sapientia superne descendens, sed terrena, animalis, 
+      dae<lb ed="#H" n="16" break="no"/>moniacae, 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e163">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>2. Vera colit verum Deum modo verbo Dei praescripto: falsa vel fin 
+      <lb ed="#H" n="18"/>git alium Deum ab eo qui se patefecit verbo &amp; operibus, vel verum 
+      <lb ed="#H" n="19"/>Deum aliter colit quam ipse vult &amp; mandat.  
+      <lb ed="#H" n="20"/>8. Vera habet Legem Dei integra: falsa doctrinam Legis integram 
+      <lb ed="#H" n="21"/>non habet, &amp; quicquid ex ea habet, id multis modis corrumpit: 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e179">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>4. Vera habet Evangelium, idque perfectum: falsa illud vel 
+      igno<lb ed="#H" n="23" break="no"/>rat, vel depravat, 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e188">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>5. Sola vera religio habet testimonia &amp; solatia quae pacatas &amp; 
+      quie<lb ed="#H" n="25" break="no"/>tas reddunt conscientias: falsa non habet. Sola enim Christiana 
+      reli<lb ed="#H" n="26" break="no"/>gio docet, quodnam sit illud remedium, per quod perpetuum illud 
+      dissi<lb ed="#H" n="27" break="no"/>dium inter Deum &amp; nos per &amp; propter peccata ortum Iesa. 59. v. 2. 
+      <lb ed="#H" n="28"/>tollitur, &amp; vera ἔυθυυια, hoc est, tranquillitas animi nobis restituitur.  
+      <lb ed="#H" n="29"/>De illo remedio dicitur Rom. 5. v. 1, 2. Iustificati ex fide pacem 
+      habe<lb ed="#H" n="30" break="no"/>mus apud Deum per Dominum nostrum Iesum Christum: Per quem 
+      et<lb ed="#H" n="31" break="no"/>iam fide adducti fuimus in hanc gratiam in qua stamus 
+      <lb ed="#H" n="32"/>6. Vera religio est pacifica, &amp; benignitatis, misericordiae, mansuetur 
+      <lb ed="#H" n="33"/>dinis, charitatisque autor: falsa religio est turbulenta, &amp; 
+      crude<lb ed="#H" n="34" break="no"/>ditatis, immisericordiae, odii, cedium, rapinarum, omnisque iniustitiae 
+      cau<lb ed="#H" n="35" break="no"/>sa. Testantur de vera religione exempla vere fidelium, persecutionem 
+      <lb ed="#H" n="36"/>patientium omni tempore: de falsa vero religione exempla 
+      infideli<lb ed="#H" n="37" break="no"/>um Gentilium, haereticorum item &amp; Antichristianorum 
+      persecutio<lb ed="#H" n="38" break="no"/>nem fidelibus moventium quovis tempore 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e225">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>Religio falsa seu superstitio est tum idololatria &amp; ἔδελοθρήσκειας 
+      <lb ed="#H" n="40"/>tum Iudaismus, Samaritanismus, Mahumetanismus 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e234">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>IDOLOLATRIA, est falsa religio, quum cultus soli Deo debitus 
+      ex<lb ed="#H" n="42" break="no"/>hibetur idolo. Idolum autem intelligitur Deus alius preter Iehovam 
+      <lb ed="#H" n="43"/>qui se patefecit verbo &amp; operibs suis. Estque tum simulacrum quo 
+      nu<lb ed="#H" n="44" break="no"/>men representatur &amp; colitur: cuiusmodi fuit vitulus ab Aarone fusus, 
+      <lb ed="#H" n="45"/>&amp; a populo Israelitico in deserto cultus, Mose in monte 
+      commoran<lb ed="#H" n="46" break="no"/>le, ut legitur Exod. 32. v. 4. Act. 7. v. 41. Unde memorantur Apoc. 9.  
+      <lb ed="#H" n="47"/>v. 20, aurea &amp; argentea, &amp; aerea, &amp; lapidea, &amp; lignea idola, quae nec 
+      vi<lb ed="#H" n="48" break="no"/>dere possunt, nec audire, nec ambulare: Tum numen seu simulacro 
+      effi<lb ed="#H" n="49" break="no"/>ctum &amp; cultum, ut plerunque: seu adoratum absque simulaero, ut 
+      non<lb ed="#H" n="50" break="no"/>nunquam: unde omnes populorum dii dicuntur esse idola, 1. Chr. 16. 
+      <lb ed="#H" n="51"/>v. 26. Sic Paulus 1. Cor. 8. v. 4. dicens: De esu igitur eorum quae idolis. 
+      <lb ed="#H" n="52"/>immolantur, scimus idolum nihil esse in mundo, &amp; nullum esse Deum 
+      <lb ed="#H" n="53"/>alium, nisi unum: per idola non intelligit simulacra, sed numina ipsa 
+      si<lb ed="#H" n="54" break="no"/>mulaeris representata: quamvis enim eoram simulaeris Gentiles 
+      im<lb ed="#H" n="55" break="no"/>molarent: tamen non simulacris, sed numinib per ea representatis immo, 
+      <lb ed="#H" n="56"/>labant. No aute omnes dii Gentium imaginibus fuerunt repraesentati &amp; 
+      <lb ed="#H" n="57"/>culti: velut apud Seras homines iustitiae amantissimos, lege cautum e 
+      <lb ed="#H" n="58"/>rat ne coleretur simulacra, ut autor est Bardesanes Syrus omnium Chal 
+      <lb ed="#H" n="59"/>daeorum doctissimus apud Euseb praeparat. Evang. li. 6. c. 8. Perse non 
+      <lb ed="#H" n="60"/>solum simulacra nulla deorum ipsi statuebant: sed etiam eos, qui 
+      sta<lb ed="#H" n="61" break="no"/>tuerent, stultitiae damnabant, teste Herodoto in Clione: Hermes 
+      Tris<lb ed="#H" n="62" break="no"/>megistus in Ascanio affirmat Solem Deum esse: statuas explodit: 
+      ta<lb ed="#H" n="63" break="no"/>quam ab errore proavorum profectas. Romani veteres, qui eosdem 
+      <lb ed="#H" n="64"/>habebant deos quos posteri, sine simulacris ex interdicto Numae Pom. 
+      <lb ed="#H" n="65"/>pilii eos plusquam 100 &amp; 70. annos coluerunt, ut refert ex Varrone 
+      <lb ed="#H" n="66"/>August. l.4. de civit. Dei, c. 31. Imo etiam idolum est omne id in quo, 
+      <lb ed="#H" n="67"/>loco unius Dei aut praeter unum illum &amp; verum Deum, qui se in suo 
+      <lb ed="#H" n="68"/>verbo patefecit, homo spem reponit: ut mammona seu pecunia, 
+      sicu<lb ed="#H" n="69" break="no"/>dicit Christus Matt. 6. v. 24. Nemo potest duobus dominis servire: aut eo 
+      <lb ed="#H" n="70"/>nim unum habebit odio &amp; alterum contemnet. Non potestis Deo 
+      servi<lb ed="#H" n="71" break="no"/>re &amp; mammonae: Ut propria prudentia, scientia, pietas, justitia, 
+      sancti<lb ed="#H" n="72" break="no"/>tas, urbs munita, robur corporis, forma venusta fedus cum vicinis, 
+      a<lb ed="#H" n="73" break="no"/>micorum copia, Princeps aut quivis alius homo, in quo quis fiduciam 
+      <lb ed="#H" n="74"/>ponit. Quicunque seipsos admitantur, &amp; suae propriae prudentiae, 
+      scien<lb ed="#H" n="75" break="no"/>tiae, pietati, iustitiae, sanctitati, fortitudini confidunt, ex seipsis idola 
+      fa<lb ed="#H" n="76" break="no"/>ciunt. Totum hoc potest illustrare locus insignis Tertul. li. de 
+      idolo<lb ed="#H" n="77" break="no"/>latria, c. 3. Idolum aliquandiu retro non erat. Prius quam huius monstra 
+      <lb ed="#H" n="78"/>artifices ebullissent, sola templa &amp; vacuae aedes erant: sicut in hodiernum 
+      <lb ed="#H" n="79"/>quibusdam locis vetustatis vestigia permanent. Tamen idololatria 
+      age<lb ed="#H" n="80" break="no"/>batur non in isto nomine, sed in isto opere. Nam &amp; hodie extra templum 
+      <lb ed="#H" n="81"/>&amp; sine idolo agi potest. At ubi artifices statuarum &amp; imaginum &amp; 
+      om<lb ed="#H" n="82" break="no"/>nis generis simulacrorum diabolus seculo intulit, jude illud negotium 
+      hu<lb ed="#H" n="83" break="no"/>manae calamitatis, &amp; nomen de idolis consequutum est &amp; profectum. 
+      Ex<lb ed="#H" n="84" break="no"/>inde iam caput facta est idololatriae ars omnis quae idolum quoquo mode 
+      <lb ed="#H" n="85"/>edit. Neque enim interest an plastes effingat, an caelator exscuipat, an 
+      Phry<lb ed="#H" n="86" break="no"/>gio detexat: quia nec de materia refert, an gypso, an coloribus, an lapide 
+      <lb ed="#H" n="87"/>an aere, an argento, an filo formetur idolum. Quando enim &amp; sine idolo 
+      <lb ed="#H" n="88"/>idololatria fiat: utique cum adest idolum, nihil interest quale sit, qua 
+      de<lb ed="#H" n="89" break="no"/>materia, qua de effigie sit consecratum. Haec Tertullianus 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e345">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Idololatria ergo, est quum cultus soli Deo debitus exhibetur ide 
+      <lb ed="#H" n="91"/>lo, sive idolum illud colatur pro Deo: sive cum Deo, ita ut unus actus 
+      <!--cod-MkL9py-0608.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>A religiosi cultus Deo &amp; idolo exhibeatur communiter, atque sic Deo 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e362">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>creatura aequetur: veluti Papistae cum una &amp; eadem δεζολογίαᾳ laudant 
+      <lb ed="#H" n="94"/>Deum &amp; B. Viiginem Mariam, committunt idololatriam, 
+      <lb ed="#H" n="95"/>Vera religio non potest cum idolorum cultu consistere. Proinde qui 
+      <lb ed="#H" n="96"/>veram religionem sunt amplexi, eos idola amovere necesse est: Sicut 
+      <lb ed="#H" n="97"/>Iosua populum Iudaicum docuit c. 24. v. 22, 23. 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e378">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Quaeritur hic: An etiam imagines veri Dei, item Trinitatis, Christi, 
+      <lb ed="#H" n="99"/>Beatae Virginis Mariae, &amp; Sanctorum demortaorum sint idola. 
+      <lb ed="#H" n="100"/>RESP. Omnes imagines manu humana factae, quaecunque 
+      religio<lb ed="#H" n="101" break="no"/>se coluntur aut cultae sunt, sunt idola; 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e391">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Idololatria ergo est quum cultus soli Deo debitus exhibetur idolo 
+      <lb ed="#H" n="103"/>sive proprie sic dicto sive figurate 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e400">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Incidit hic quaestio: An etiam idololatria sit, si quis Christum 
+      ne<lb ed="#H" n="105" break="no"/>gans esse Deum αμουσιον Patri, tamen divino cultu veneretur. 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e409">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>RESP. Est idololatria: nam quicquid praeter Deum honore, 
+      so<lb ed="#H" n="107" break="no"/>li Deo debito colitur, idolum est. Unde Ariani haeretici a sanctis 
+      pa<lb ed="#H" n="108" break="no"/>tribus Athanasio contra Arianos oratione prima, &amp; Gregorio 
+      Nys<lb ed="#H" n="109" break="no"/>seno oratione in laudem Basilii Magni, danati sunt idololatriae, quod 
+      <lb ed="#H" n="110"/>Christum creaturam esse contendentes, non Deum Patri αμουσιον,  
+      <lb ed="#H" n="111"/>divino tamen cultu persequerentur. Et in Act. 6. Synodi Nicenae 
+      se<lb ed="#H" n="112" break="no"/>cundae dicitur, Arianos iuste a Catholica Ecclesia idololatras 
+      appel<lb ed="#H" n="113" break="no"/>lari. Et quoniam Nestorius divinum item cultum Christo deferebat,  
+      <lb ed="#H" n="114"/>quem merum hominem esse volebat, non Deum; eadem Nicaena. 
+      <lb ed="#H" n="115"/>bynodus in Act. 7. epistola Synod. ad Constantinum &amp; Irenen, dicit 
+      <lb ed="#H" n="116"/>se fidenter anathematizare Nestorii idololatriam in homine. 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e438">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Idololatria duplex est: Vna est tectior &amp; subtilior, cum verus quide 
+      <lb ed="#H" n="118"/>Deus colitur, sed alio modo quam se in verbo suo coli praecepit. Exem. 
+      <lb ed="#H" n="119"/>pli gratia: qui colunt Deum per statuas &amp; imagines, sunt idololatrae 
+      <lb ed="#H" n="120"/>etiamsi centies millies negarent se colere alium praeter verum Deum 
+      <lb ed="#H" n="121"/>Fingunt enim Deum corporeum &amp; qui velit coli ad statuas: proinde 
+      <lb ed="#H" n="122"/>mutat Deum, mutata eius essentia &amp; voluntate. Ita cultus Iehovae 
+      per<lb ed="#H" n="123" break="no"/>vitulum auteum ab Aarone fusum erat idololatria: Similiter cultus 
+      <lb ed="#H" n="124"/>Iehovae per vitulos auteos Jarobeami Regis Israelitatum collocato 
+      <lb ed="#H" n="125"/>Dane &amp; Bethele fuit idololatria: etiamsi &amp; Aaron &amp; Iarobeam 
+      prae<lb ed="#H" n="126" break="no"/>tenderent se eo modo colere Iehovam qui populum Israeliticum ex 
+      <lb ed="#H" n="127"/>AEgypto eduxerat, Exod. 32. 4, 5. 1. Reg. 12. v. 28. 
+      <lb ed="#H" n="128"/>Idololatriae autores, propagatores, propugnatores &amp; administri 
+      prae<lb ed="#H" n="129" break="no"/>tendunt commoda populi, quum sua spectent &amp; quaerant compendia 
+      <lb ed="#H" n="130"/>ac lucra, ut Jarobeamus Rex Israelitarum 1. Reg. 12. v. 26. &amp; seq. ut 
+      De<lb ed="#H" n="131" break="no"/>metrius Actor. 19. v. 24. &amp; seqq. Iidem praeficiunt sacris idololatrici: 
+      <lb ed="#H" n="132"/>etia ex insimis populi qui modo volunt, &amp; reliciunt sacerdotes a Deo. 
+      <lb ed="#H" n="133"/>constitutos, ut fecit Jarobeamus 1. Reg. 12 v. 31. 2. Chr. 11. v. 14, 15. 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e481">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Idololatria est omnibus modis fugienda 
+      <lb ed="#H" n="135"/>I. Quia severissime est a Deo prohibita in Decalogo Exod, 26. 
+      <lb ed="#H" n="136"/>II. Quia peccatum horredum est: nam non simplex est peccatum, sed 
+      <lb ed="#H" n="137"/>duo mala gravissima complectitur, nempe aversionem a Deo, &amp; 
+      con<lb ed="#H" n="138" break="no"/>versionem ad alia pro Deo: ut patet verbis Jer. 2. v. 12, 13. Olstupescit  
+      <lb ed="#H" n="139"/>coeli de hac re: &amp; horrescites desolemini valde, dictum Iehovae: Nam 
+      du<lb ed="#H" n="140" break="no"/>mala fecit populus meus: me dereliquerunt scaturiginem aquarum 
+      vive<lb ed="#H" n="141" break="no"/>tium, ut effoderent sibi cisternas, cisternas fractas, quae non capiunt aquas 
+      <lb ed="#H" n="142"/>Quo ergo mala concurrunt in idololatria, aversio a Dei, &amp; conversio 
+      <lb ed="#H" n="143"/>ad alia, DDeo: quorum malorum prius formale posterius quasi materiale 
+      <lb ed="#H" n="144"/>est, ut ipsi docet Scholastici. Priy ergo gravius omnino &amp; magis 
+      phor<lb ed="#H" n="145" break="no"/>rescendum est. Aversio a Deo est exsecrabilior invocatione sanctorum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e512">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>III. Quia inter omnia peccata omnium frequentissime &amp; gravissi 
+      <lb ed="#H" n="147"/>me in Sacra Scriptura accusatur, ut libri historici &amp; Prophetici 
+      Vete<lb ed="#H" n="148" break="no"/>ris Testamenti in primis ostendum 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e523">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>IV. Quia Deum maxime ad ira provocat &amp; poenas exitiumque at 
+      <lb ed="#H" n="150"/>trahit totis familiis, imo etiam totis regnis, ut libri vet. Test. docent ex 
+      <lb ed="#H" n="151"/>emplis populorum qui in terra Canaan ante Israelitas habitatunt, 
+      exe<lb ed="#H" n="152" break="no"/>plis item Israelitatum in deserto Deut. 4. 3. &amp; postea in terra, pmissa 
+      <lb ed="#H" n="153"/>tempore Iudicum, exemplis regni decem tribuum Israeliticarum &amp; 
+      re<lb ed="#H" n="154" break="no"/>gni Iudaici. Propter idololatriam Achabi &amp; Israelitatum siccitas in 
+      <lb ed="#H" n="155"/>Israele fuit per annos tres &amp; mensos sex, 1. Reg. 17. 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e543">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>V. Quia ab uno scelere ad alia impellit multo graviora, vt videre est 
+      <lb ed="#H" n="157"/>n exemplo Achabi 1. Reg. 16. v. 30 &amp; seqque 
+      <lb ed="#H" n="158"/>VI. Quia est defectio a Deo, quae in Magistratibus punitur defectione 
+      <lb ed="#H" n="159"/>subditorum ab eis: ut Moabitae defecerunt a regno Israelis ob 
+      idolo<lb ed="#H" n="160" break="no"/>latriam, 2. Reg. 1. v. 1. 
+      <lb ed="#H" n="161"/>Idololatre sunt crudeles, ut Iezebel regina 1. Reg. 18. 4. 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e561">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Hactenus de idololatria tectiore &amp; subtiliore: 
+      <lb ed="#H" n="163"/>Altera idololatria est apertior &amp; crassior, cum religiose colltur pro Deo. 
+      <lb ed="#H" n="164"/>id q non est Deus: qualis fuitolim atque etianum est idololatria 
+      Gentili<lb ed="#H" n="165" break="no"/>um, demonia, homines &amp; alias res creatas colentium: qualis ite est hodi 
+      <lb ed="#H" n="166"/>Papistarum in cultu religioso non tantum rerum creatarum, ut sanctorum Ange 
+      <lb ed="#H" n="167"/>lorum &amp; hominum &amp; imaginum seu statuarum quibrs Angeli vel homines. 
+      <lb ed="#H" n="168"/>sancti aut etiam scelerati (quales fuerunt Georg. Cappadox, Franciscus 
+      <lb ed="#H" n="169"/>Bernatdonis, Dominicus &amp; similes qui nequaquam sancti fuerunt) 
+      ef<lb ed="#H" n="170" break="no"/>finguntur, sed etiam crucis, reliquiarum, imo &amp; eorum qui nunquam 
+      fue<lb ed="#H" n="171" break="no"/>runt in rerum natura ut fictitii Christophori, &amp; Catharinae fictitiae. 
+      Spe<lb ed="#H" n="172" break="no"/>cies eius exsecrabilissimae sunt fedus cum Diabolo &amp; Magia diabolica. 
+      <lb ed="#H" n="173"/>Fedus cum diabolo, est ex secrabilissima idololatria quum quispia 
+      polli<lb ed="#H" n="174" break="no"/>itatione rei alicuius a diabolo accepta, eius promissis fidem adhibeta 
+      <lb ed="#H" n="175"/>eique obedientia, pmittit, falso de eius potentia in prestadis promissis 
+      per<lb ed="#H" n="176" break="no"/>suasus. Esse idololatriam certum est: I. quia qui fedus cum 
+      diabo<lb ed="#H" n="177" break="no"/>lo init, facit sibi ex diabolo deum quendam eoque idolum, tribuens et 
+      <lb ed="#H" n="178"/>quod veri Dei proprium est, nempe immutabilem veritatem &amp; 
+      pote<lb ed="#H" n="179" break="no"/>tiam absolutam quum diabolus sit mendax &amp; pater mendacii, &amp; nihil 
+      <lb ed="#H" n="180"/>possit nisi quantum Deus ei concedit. II quia colit eum ista 
+      confede<lb ed="#H" n="181" break="no"/>ratione &amp; fiducia sua in eum. Exempla fedus cum diabolo 
+      percus<lb ed="#H" n="182" break="no"/>serunt aliquot Pontifices Romani ut Pontificatum assequerentur &amp; 
+      <lb ed="#H" n="183"/>alia quae volebant  
+      <!--cod-MkL9py-0609.xml-->
+      <pb ed="#H" n="580"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>MAGIA diabolica, est exsecrabilissima idololatria, quum quispiam A 
+      <lb ed="#H" n="2"/>malorum spirituum consortio, consiliis, artibus ad secreta futuraque 
+      <lb ed="#H" n="3"/>cognoscenda, aut ad falsa miracula edenda fallendorum hominum 
+      <lb ed="#H" n="4"/>gratia utitumr 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e628">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Superstitio etiam est cum certis vocibus recitatis aut scriptis &amp; 
+      ap<lb ed="#H" n="6" break="no"/>pensis de collo tribuitur vis sanandi morbos, inferendi morbos, &amp;c. 
+      <lb ed="#H" n="7"/>Atqui veoes vim talem nec a natura habent, nec ab ordinatione Dei. 
+      <lb ed="#H" n="8"/>Non a natura: quia si voces a natura non sunt ortae nec a natura 
+      quic<lb ed="#H" n="9" break="no"/>quam significant, sed ab hominum instituto, voluntate, consensu: tum 
+      <lb ed="#H" n="10"/>multo minus a natura habent effectus naturales 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e647">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Superstitio igitur erat in eligendo cultu Dei, vel iis quibus cultum 
+      <lb ed="#H" n="12"/>divinum impendit: vel modum excedit in colendo, &amp; serviliter, 
+      mu<lb ed="#H" n="13" break="no"/>liebriter, pueriliter se gerit, 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e658">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Proprius ei timor sinistrorum eventuum in vita &amp; actionibus, &amp; 
+      <lb ed="#H" n="15"/>hinc inquietudo: quae animos deprimunt, &amp; ad nullam tem seriam aut 
+      <lb ed="#H" n="16"/>altam patiuntur applicari¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e669">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Itaque cum omnibus, tum maxime Principi &amp; Magistratui cuivis 
+      <lb ed="#H" n="18"/>fugienda: etsi in rebus tristibus aut adversis saepe se insinuat, in frivolis 
+      <lb ed="#H" n="19"/>aut parvis se ostendit: 
+      <lb ed="#H" n="20"/>Nec populo utilis: quia tum viles &amp; formidolosos animos reddit, tum 
+      <lb ed="#H" n="21"/>ad motus aut rebellionem proniores. 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e685">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Nec Principi aut Magistratui Christiano fas illam approbare aut 
+      <lb ed="#H" n="23"/>fovere, 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e694">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Tantum de falsa religione. 
+      <lb ed="#H" n="25"/>Religio simulata, est cum externus cultus praestatur, vel potius simu 
+      <lb ed="#H" n="26"/>latur, absque interna veritate: qualis est hypocritatum religio quam 
+      <lb ed="#H" n="27"/>Deus damnat Jesa. 1. v. 11, &amp; seqque 
+    </p>
+            <p xml:id="yyy8Uu-gxd828-d1e707">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Hactenus fuerunt disparata religionis verae seu pietatis: 
+      <lb ed="#H" n="29"/>
+               <pc type="indent"/>sequuntur contraria. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

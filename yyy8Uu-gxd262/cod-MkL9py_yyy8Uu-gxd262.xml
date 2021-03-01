@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 60</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 60</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd262"><!-- l6-c60 -->
+            <head xml:id="yyy8Uu-gxd262-Hd1e103">Caput 60</head>
+            <p xml:id="yyy8Uu-gxd262-d1e106">
+               <lb ed="#H" n="47"/>CAPUT LX 
+      <lb ed="#H" n="48"/>In quo de Iuramento Divino.
+    </p>
+            <p xml:id="yyy8Uu-gxd262-d1e113">
+               <lb ed="#H" n="49"/>TURAMENTUM divinum est asseveratio verbo Dei addita, 
+      <lb ed="#H" n="50"/>non quod voluntas Dei sit mutabilis, aut verbum Dei dubium 
+      <lb ed="#H" n="51"/>ον sed quod infirmitati nostrae de Deo ex hominum moribus 
+      judi<lb ed="#H" n="52" break="no"/>canti consuli ita Deus velit, ut si cui non sufficiant verba nuda DEI 
+      <lb ed="#H" n="53"/>satisfaciant juramenta, Psal. 110. 4. Iuravit Iehova, &amp; non poenitebit. 
+      <lb ed="#H" n="54"/>eum, tu es sacerdos in aeternum, secundum ordinem Melchisedebi. Jesa. 
+      <lb ed="#H" n="55"/>14. 24. Iuravit Iehova exercituum dicendo: nisi quemadmodum 
+      pro<lb ed="#H" n="56" break="no"/>posui mihi ita fuerit; &amp; quemadmodum consilium inivi, illud 
+      exstite<lb ed="#H" n="57" break="no"/>rit. 
+    </p>
+            <p xml:id="yyy8Uu-gxd262-d1e135">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Notatu dignum est Tauleri dictum: O beatos quorum causa Deus 
+      <lb ed="#H" n="59"/>jurat? o miseros qui ne juranti quidem Deo credunt, 1 
+    </p>
+            <p xml:id="yyy8Uu-gxd262-d1e144">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>Alioqui omnia verba Dei tam certa sunt, ac si a Deo jurato facta 
+      <lb ed="#H" n="61"/>fuissent. Ideo ut eleganter dixit Philo Omnia verba Dei sunt 
+      iura<lb ed="#H" n="62" break="no"/>menta, nimirum quoad certitudinem, neque per se ulla 
+      confirmatio<lb ed="#H" n="63" break="no"/>ne indigent, ut quorum veritas effectu ipso, quasi nativae lucis 
+      splen<lb ed="#H" n="64" break="no"/>dore emisso seipsam comprobet ac tueatur. Quod autem Deus 
+      jura<lb ed="#H" n="65" break="no"/>mento utitur, facit id nostrae infirmitatis causa, ne ullam dubitandi 
+      <lb ed="#H" n="66"/>materiam nobis relinquat. Unde intelligimus, quanta sit ejus erga 
+      <lb ed="#H" n="67"/>nos indulgentia, quum imbecillitatem nostram adhibito hoc 
+      reme<lb ed="#H" n="68" break="no"/>dio sublevet, quum alioquin omnibus sufficere debeat, eum 
+      simplici<lb ed="#H" n="69" break="no"/>ter loqui. Jurat Deus, ut si non credimus ipsi promittenti, credamus 
+      <lb ed="#H" n="70"/>saltem pro nostra salute juranti. Quod igitur verbo suo juramentum 
+      <lb ed="#H" n="71"/>addit, ad confirmationem &amp; consolationem piorum facit. 
+    </p>
+            <p xml:id="yyy8Uu-gxd262-d1e176">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Deus autem per seipsum jurat: quia nullus major ipso. Quod 
+      do<lb ed="#H" n="73" break="no"/>cet &amp; explicat Paulus Apostolus Hebr. 6. v. 13, 14, 15, 16, 17, 18. Deus 
+      <lb ed="#H" n="74"/>enim pollicitus Abrahamo, quum non posset per quemquam maiorem 
+      <lb ed="#H" n="75"/>jurare, juravit per seipsum, Dicens, Certe benedicens benedicam tibi, &amp; 
+      <lb ed="#H" n="76"/>nultiplicans multiplicabo te. Atque ita patiente anima fretus, nactus est 
+      <lb ed="#H" n="77"/>promissum. Nam homines quidem per eum jurant, qui sit maior: atque 
+      <lb ed="#H" n="78"/>iisdem omnis controversiae terminus, est iusiurandum ad confirmatio 
+      <lb ed="#H" n="79"/>nem adhibitum. Qua in re Deus volens ex abundanti haeredibus 
+      pro<lb ed="#H" n="80" break="no"/>missionis ostendere immutabilitatem consilij sui, sidciessit iureiurando: 
+      <lb ed="#H" n="81"/>Vt per duas res immutabiles, in quibus fieri non potest, ut mentitus sit. 
+      <lb ed="#H" n="82"/>Deus, validam consolationem habeamus nos qui cursum eon corripimus 
+      <lb ed="#H" n="83"/>ut spem propositam retineamus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd262-d1e207">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>Ita per seipsum jurat DEUS Ezech. capite trigesimo-tertio, ver 
+      <lb ed="#H" n="85"/>siculo undecimo: Vivo ego, dicit Dominus, si delector morte improbi, 
+      <lb ed="#H" n="86"/>sed delector cum reveriitur improbus a via sua, ut vivat. Quum 
+      <lb ed="#H" n="87"/>DEUS jurat per vitam suam, per seipsum jutat: in DEO enim. 
+      <!--cod-MkL9py-0539.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="88"/>vivere &amp; esse, vita &amp; essentia reipsa non differunt, sed idem sunt, 
+    </p>
+            <p xml:id="yyy8Uu-gxd262-d1e227">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Juramentum DEI vel sermone tantum constat, vel etiam symbolo 
+      <lb ed="#H" n="90"/>externo. 
+    </p>
+            <p xml:id="yyy8Uu-gxd262-d1e236">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>turamenti divini sermone tantum constantis exemplum est Jesa. 
+      <lb ed="#H" n="92"/>49. 18. Vivo ego, dicit Iehova, istis omnibus tanquam ornamento 
+      ve<lb ed="#H" n="93" break="no"/>sticris 
+    </p>
+            <p xml:id="yyy8Uu-gxd262-d1e247">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>uramenti quod Deus &amp; symbolo humanitatis &amp; sermone suo 
+      <lb ed="#H" n="95"/>praestitit, mentio sit Deuteron. 32. vers. 40. Attollo ad coelos manum 
+      <lb ed="#H" n="96"/>meam, &amp; dico, vivo ego in seculum Jesa. 62. vers. 8. Iuravit Ithova per 
+      <lb ed="#H" n="97"/>dexteram suam &amp; brachium roboris sui, si dabo frumentum amplius 
+      ci<lb ed="#H" n="98" break="no"/>bo inimicis tuis, &amp; si bibent alienigenae mislum tuum, in quo 
+      laborave<lb ed="#H" n="99" break="no"/>ri 
+    </p>
+            <p xml:id="yyy8Uu-gxd262-d1e265">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Formula juramenti qua Deus utitur fere constat ellipsi seu 
+      omis<lb ed="#H" n="101" break="no"/>sione &amp; reticentia exsecrationis: veluti Jesa. 22. v. 14. Si remittetur vos 
+      <lb ed="#H" n="102"/>bis haec iniquitas, donec moriamini, dicit Dominus Iehova exercituum. 
+      <lb ed="#H" n="103"/>Ea reticentia &amp; omissione Dominus religionem inferre voluit, ne 
+      <lb ed="#H" n="104"/>nimium licentiosi essemus in juramentis, ad quae audacter &amp; temere 
+      <lb ed="#H" n="105"/>prorumpimus. Fraenum ergo sibi injicere debent homines, ne 
+      teme<lb ed="#H" n="106" break="no"/>re in exsecrationes prosiliant vel horrendis diris devoveant caput suum: 
+      <lb ed="#H" n="107"/>sed proterviam suam hinc temperate discant  
+    </p>
+            <p xml:id="yyy8Uu-gxd262-d1e288">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>in Evangelio Iesu Christi saepe occurrit haec jurandi formula, qua 
+      <lb ed="#H" n="109"/>Christus Dominus utitur; Amen dico vobis, &amp; cum geminatione, n 
+      <lb ed="#H" n="110"/>Amen amen dico vobis: ut quod dicit, esse verum sine dubitatione 
+      <lb ed="#H" n="111"/>credatur. Poterat &amp; debebat credi simplici ejus verbo: sed quodj 
+      ura<lb ed="#H" n="112" break="no"/>mentum addit, in eo se infirmitati humanae attemperat. Quum 
+      au<lb ed="#H" n="113" break="no"/>tem Christus jurat, Amen Amen dico vobis, per seipsum jurat: ipse e 
+      <lb ed="#H" n="114"/>nim est Amen, testis ille fidelis &amp; verax, ut legitur Apocal. 3. versic. 14. 
+      <lb ed="#H" n="115"/>Ipse est veritas, in qua omnis veritas consistit &amp; extra quam nulla 
+      es<lb ed="#H" n="116" break="no"/>veritas: Christus ergo jurat per veritatem, quae ipse est. Exsecratio 
+      <lb ed="#H" n="117"/>nem sui nullam addidit, ut exemplo suo doceret, qualiter se 
+      Christia<lb ed="#H" n="118" break="no"/>ni in juramentis gerere &amp; quam religiose sibi cavere debeant, ne sibi 
+      <lb ed="#H" n="119"/>ipsis dira imprecentur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd262-d1e319">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>Huc usque de Iuramento Divino: sequitur  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

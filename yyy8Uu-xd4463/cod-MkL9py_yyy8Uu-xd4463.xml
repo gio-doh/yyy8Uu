@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 54</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 54</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd4463"><!-- l10-c54 -->
+            <head xml:id="yyy8Uu-xd4463-Hd1e103">Caput 54</head>
+            <p xml:id="yyy8Uu-xd4463-d1e106">
+               <lb ed="#H" n="167"/>CAPUTLIV. 
+      <lb ed="#H" n="168"/>In quo de iustitia coniugum communtinter se
+    </p>
+            <p xml:id="yyy8Uu-xd4463-d1e113">
+               <lb ed="#H" n="169"/>PONIUGII officia versantur in justitia conjugum inter se. 
+      <lb ed="#H" n="170"/>&amp; justitia parentum &amp; liberorum. 
+    </p>
+            <p xml:id="yyy8Uu-xd4463-d1e120">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>justitia coniugalis, vel communis est utriusque coniugis, vel 
+      <lb ed="#H" n="172"/>alterius propria 
+    </p>
+            <p xml:id="yyy8Uu-xd4463-d1e129">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Communis iustitia utriusque coniugis est, ut divinarum atque 
+      hu<lb ed="#H" n="174" break="no"/>manarum rerum communionem habeant, hoc est, quo per partes id 
+      <lb ed="#H" n="175"/>exponatur  
+    </p>
+            <p xml:id="yyy8Uu-xd4463-d1e141">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>1. Ut uno corde &amp; animo simul Deo serviant, cumque una 
+      invo<lb ed="#H" n="177" break="no"/>cent &amp; diligant, &amp; ad id se mutuo exhortentur, &amp; sint domestica Dei 
+      <!--cod-MkL9py-0714.xml-->
+      <pb ed="#H" n="685"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Ecclesia: ut fecerunt Abrahamus &amp; Sara: Isaacus &amp; Rebecca: 
+      Za<lb ed="#H" n="2" break="no"/>charias sacerdos &amp; Elisabetha Luc. 1. v. 5, 6 
+    </p>
+            <p xml:id="yyy8Uu-xd4463-d1e161">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>2. Ut ambo conjugalem amorem integrum &amp; impollutum 
+      con<lb ed="#H" n="4" break="no"/>servent, quod sit si tum anio animogum quae prior est, tum unio 
+      cor<lb ed="#H" n="5" break="no"/>porum quae posterior est, illibata maneat. 1. Cor. 7. 3. 4, 1 
+    </p>
+            <p xml:id="yyy8Uu-xd4463-d1e172">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>3. Ut consuetudine jucunda cohabitent, &amp; pacifice una vivant, ne 
+      <lb ed="#H" n="7"/>scandalo sint aliis, neve vita eorum sit cum tristitia, aut extranea 
+      so<lb ed="#H" n="8" break="no"/>latia quaerere cogantur, unde infamiam facile possint incurrere, I 
+      <lb ed="#H" n="9"/>Gor. 7. 15. Ad pacificum autem conjugium consequendum 
+      pluri<lb ed="#H" n="10" break="no"/>mum momenti adfert, si ambo ejusdem sint religionis orthodoxae 
+      <lb ed="#H" n="11"/>ut supra dictum. Prov. 15. v. 17. Melius est cibarum oleris ubi est 
+      dile<lb ed="#H" n="12" break="no"/>ctio, quam bovis saginati ubi est odium, Et cap. 17. 1. Melior est buccea. 
+      <lb ed="#H" n="13"/>cibi sicci, qui cum est tranquillitas, quam domus plena mactatis anima 
+      <lb ed="#H" n="14"/>libus, in qua sit contentio 
+    </p>
+            <p xml:id="yyy8Uu-xd4463-d1e196">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>4. Ut alter alteri debitam benevolentiam reddat. 1. Cor. 7. v. 3. 
+      <lb ed="#H" n="16"/>4, 5. Uxori vir debitam beneuolentiam reddito: similiter autem &amp; 
+      <lb ed="#H" n="17"/>uxor viro. Vxor proprium corpus non habet in potestate, sed vir: sit 
+      <lb ed="#H" n="18"/>militer autem &amp; vir proprium corpus non habet in potestate, sed uxor.  
+      <lb ed="#H" n="19"/>Ne fraudate alter alterum, nisi si quid ex consensu ad tempus, ut 
+      vace<lb ed="#H" n="20" break="no"/>tis jejunio &amp; precibus: &amp; rarsum simul convenite, ne tentet vos 
+      Sata<lb ed="#H" n="21" break="no"/>nas propter continentiam vestram. Proinde conjugatis continentiam 
+      <lb ed="#H" n="22"/>perpetuam vovere ne quidem ex mutuo consensu licet: quia nec 
+      do<lb ed="#H" n="23" break="no"/>num nec vocationem a Deo habent, nec sui corporis potestatem 
+      di<lb ed="#H" n="24" break="no"/>vino, naturali, publico &amp; privato jure, sed contra ut ad conjugium 
+      <lb ed="#H" n="25"/>ita ad actus illius omni jure, ac non privata solum sponsione &amp; 
+      obli<lb ed="#H" n="26" break="no"/>gatione vocati sunt. Hoc jure statuimus adversus Papistas, qui 
+      con<lb ed="#H" n="27" break="no"/>tendunt, conjugatis licere ex mutuo consensu suscipere votum 
+      per<lb ed="#H" n="28" break="no"/>petuae continentiae. 
+    </p>
+            <p xml:id="yyy8Uu-xd4463-d1e231">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>5. Ut non quaerant dissolutionem conjugii, 1. Cor. 7. 27. Nam etsi 
+      <lb ed="#H" n="30"/>alter conjugum corporis alterius potestatem habet: tamen quia jure 
+      <lb ed="#H" n="31"/>divino &amp; naturali, &amp; publico civili habet, non potest privatus conju 
+      <lb ed="#H" n="32"/>gum consensus de jure illo derogare; Sed quod omni jure 
+      constitu<lb ed="#H" n="33" break="no"/>tum est, &amp; suo ore pronunciavit Christus Mat th. 19. Quae Deus 
+      con<lb ed="#H" n="34" break="no"/>junxit, homo ne separet: idem non uni solum conjugi seorsim, sed utri 
+      <lb ed="#H" n="35"/>que etiam conjunctim dicitur, non esse penes conjuges potestatem 
+      <lb ed="#H" n="36"/>faciendae separationis quocunque modo 
+    </p>
+            <p xml:id="yyy8Uu-xd4463-d1e253">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>6. Ut bona habeant communia 
+      <lb ed="#H" n="38"/>7. Ut in rebus secundis una laetentur &amp; sibi gratulentur: &amp; 
+      vicis<lb ed="#H" n="39" break="no"/>sim in rebus adversis συμπυδειαν mutuam declarent  
+    </p>
+            <p xml:id="yyy8Uu-xd4463-d1e265">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>8. Ut sancte susciant &amp; educent sobolem, eodem animo 
+      respici<lb ed="#H" n="41" break="no"/>antes Dei gloriam, non mundi vanitatem 
+    </p>
+            <p xml:id="yyy8Uu-xd4463-d1e274">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>9. Ut ἐπιεικειαᾳ erga se invicem utantur in tolerandis defectibus 
+      <lb ed="#H" n="43"/>cum studio sanandi eos. 
+    </p>
+            <p xml:id="yyy8Uu-xd4463-d1e283">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>to. Ut conjugum alter alteri autor sit monitis &amp; exemplo ad 
+      ve<lb ed="#H" n="45" break="no"/>tam pietatem &amp; virtutem, 1. Cor. 7. v. 16. 1. Pet. 3. v. 1, 7. 
+    </p>
+            <p xml:id="yyy8Uu-xd4463-d1e292">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>II. Ut alter alterius vitam tueatur &amp; conservet. Sic Michol 
+      con<lb ed="#H" n="47" break="no"/>servavit Davidem quum Saul illum interfectum vellet: Sic Abigail 
+      <lb ed="#H" n="48"/>studuit conservandae vitae Nabalis 
+    </p>
+            <p xml:id="yyy8Uu-xd4463-d1e303">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>12. Ut absit a conjuge utroque zelotypia, ne sibi continuam 
+      cordi<lb ed="#H" n="50" break="no"/>anxietatem pariant, &amp; mutuum incitamentum non servandi fidem 
+      <lb ed="#H" n="51"/>conjugalem poaebeant. Zelotypia enim, est in conjugibus adulterii 
+      <lb ed="#H" n="52"/>suspicio, affectus vehementissimus &amp; charitati maxime adversans &amp; 
+      <lb ed="#H" n="53"/>societatem conjugalem conturbans. 
+    </p>
+            <p xml:id="yyy8Uu-xd4463-d1e319">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Si secus fiat, conjuges damna multa experimento acerbissimo 
+      ad<lb ed="#H" n="55" break="no"/>discunt: ita ut vel turbulentum &amp; triste sit matrimonium, vel 
+      divor<lb ed="#H" n="56" break="no"/>tium plerunque subsequatur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

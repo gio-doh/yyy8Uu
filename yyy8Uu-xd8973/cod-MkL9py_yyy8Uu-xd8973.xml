@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 15</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 15</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd8973"><!-- l10-c15 -->
+            <head xml:id="yyy8Uu-xd8973-Hd1e103">Caput 15</head>
+            <p xml:id="yyy8Uu-xd8973-d1e106">
+               <lb ed="#H" n="38"/>CAPUT XV. 
+      <lb ed="#H" n="39"/>In quo de voto pro beata corporum 
+      <lb ed="#H" n="40"/>resurrectio<lb ed="#H" n="41" break="no"/>ne.
+    </p>
+            <p xml:id="yyy8Uu-xd8973-d1e117">
+               <lb ed="#H" n="42"/>YTOTUM pro beata corporum resurrectione, est charitas ergo 
+      <lb ed="#H" n="43"/>mortuos, per quam optamus illis &amp; a Deo petimus, ut in 
+      ex<lb ed="#H" n="44" break="no"/>tremo illo die eorum corpora ad vitam aeternam resurgant.
+    </p>
+            <p xml:id="yyy8Uu-xd8973-d1e126">
+               <lb ed="#H" n="45"/>Idque cum fide non pugnat  
+    </p>
+            <p xml:id="yyy8Uu-xd8973-d1e131">
+               <lb ed="#H" n="46"/>I. Quia praeceptum est a Christo: Nam quum jubet nos 
+      ora<lb ed="#H" n="47" break="no"/>re, ut regnum Patris nostri qui in coelis est veniat, non tantum 
+      re<lb ed="#H" n="48" break="no"/>gnum gratiae, sed etiam regnum gloriae intelligit, quod sine 
+      corpo<lb ed="#H" n="49" break="no"/>rum resurrectione non veniet.  
+    </p>
+            <p xml:id="yyy8Uu-xd8973-d1e143">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>Ergo quum orantes dicimus, Veniat regnum tuum, etiam pro 
+      re<lb ed="#H" n="51" break="no"/>suscitatione corporum ex mortuis futura oramus: Non tam unde 
+      <lb ed="#H" n="52"/>regnum gloriae &amp; resurrectionem fidelium acceleremus, quibus 
+      an<lb ed="#H" n="53" break="no"/>te secula suum praestitutum tempus, quam ut fidem nostram testemur. 
+      <lb ed="#H" n="54"/>gloriae Dei salutisque nostrae consummationem exoptantes 
+      <lb ed="#H" n="55"/>2. Quia habemus promissionem de resurrectione carnis ad 
+      vi<lb ed="#H" n="56" break="no"/>tam aeternam. 
+    </p>
+            <p xml:id="yyy8Uu-xd8973-d1e163">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Quicquid autem nobis &amp; aliis, etiam defunctis in Christi fide 
+      <lb ed="#H" n="58"/>promissum est, pro ejus praestatione preces concipere aequum est. 
+    </p>
+            <p xml:id="yyy8Uu-xd8973-d1e172">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>3. Quia nititur probatis exemplis, Apocalyps. 22. versic. 17. 
+      Et<lb ed="#H" n="60" break="no"/>Spiritus &amp; Sponsa dicunt, Veni. Et versic. 20. ait Johannes; Veni Dei 
+      <lb ed="#H" n="61"/>mine Iesu. 
+    </p>
+            <p xml:id="yyy8Uu-xd8973-d1e183">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Quid hoc aliud est, quam revela te in gloria tua, resuscita omnes. 
+      <lb ed="#H" n="63"/>mortuos, introduc fideles tuos in regnum gloriae, introduc sponsam 
+      <lb ed="#H" n="64"/>tuam in coelestem illam civitatem: 
+    </p>
+            <p xml:id="yyy8Uu-xd8973-d1e194">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Atque haec est vera ac fidelis cura pro mortuis, a qua dissentit 
+      Eth<lb ed="#H" n="66" break="no"/>nica cura pro mortuis: Etlinicorum enim mos fuit, ut lugentes ipsi 
+      <lb ed="#H" n="67"/>parentalibs suis quam superstitiosissime occupati exhiberent aliis 
+      sili<lb ed="#H" n="68" break="no"/>cernia. Graecis πριoci:appellata Latinis parentalia id est, convivia 
+      <lb ed="#H" n="69"/>in quibus parentibus justa celebrarentur; eaque exhibebant etiam 
+      <lb ed="#H" n="70"/>religiosis suis &amp; sacerdotibus, ut pro mortuis orarent. Impiam istam 
+      <lb ed="#H" n="71"/>consuetudinem Christiani infirmi &amp; non recte instituti retinebam 
+      <lb ed="#H" n="72"/>vel imitabantur, ne minus officiosi viderentur erga parentes 
+      defun<lb ed="#H" n="73" break="no"/>ctos, quam ipsi Gentiles. 
+    </p>
+            <p xml:id="yyy8Uu-xd8973-d1e218">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Quam consuetudinem CHRVSOSTOMUS reprehendit. 
+      <lb ed="#H" n="75"/>commentariis prioribus in Matthaeum homilia trigesima-secunda 
+      <lb ed="#H" n="76"/>Nihil autem hujusmodi de futuris rebus scribitur, quin imo totum 
+      op<lb ed="#H" n="77" break="no"/>positum. Effugit, inquit, doler tristitia, gemitus: Et rursum: Ab 
+      Ori<lb ed="#H" n="78" break="no"/>ente atque Occidente venient, &amp; recumbent in sinu Abrahae, Isaac &amp; 
+      la<lb ed="#H" n="79" break="no"/>cob: Et alibi: thalamus sunt, quae illic sunt, spiritalis, inextinguibilis, 
+      <lb ed="#H" n="80"/>fulgidaeque lucerna, coelestis vita. 
+    </p>
+            <p xml:id="yyy8Uu-xd8973-d1e239">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Cur ergo defanctum exagitas? Cur committis, ut timeant mortem 
+      <lb ed="#H" n="82"/>alij, atque formident: Cur cousum praebes, ut nonnulli Deum incusare. 
+      <lb ed="#H" n="83"/>audea:t, quud mala nobis tanta invexerit? Ino vero tur post mertem 
+      <lb ed="#H" n="84"/>tuorum paperes convocus? Cur presbyteros, ut pro eo velint arare, 
+      ob<lb ed="#H" n="85" break="no"/>sceras: Non ignoro te responsurum, ut desunctus requiem adipiscatur  
+      <lb ed="#H" n="86"/>ue propitium judicem inviniat: his ergo de rebus flendum atque 
+      ululan<lb ed="#H" n="87" break="no"/>dum orbitraris? oans auds quam maxime tibupse retugnas: Ham 
+      <lb ed="#H" n="88"/>quusidA olisse in pruta fictentia putes, ingente: tamin adver, us 
+      te<lb ed="#H" n="89" break="no"/>ipsum flaetus suscuas tempestatis, 
+      <!--cod-MkL9py-0687.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>Attamen ad impiam istam consuetudinem &amp; a Chrysostomo 
+      <lb ed="#H" n="91"/>traviter reprehensam revocant Papistae Christianos 
+      <lb ed="#H" n="92"/>Precationes etiam pro mortuis, ut eis peccata remittantur, utque 
+      <lb ed="#H" n="93"/>liberentur e loco in quo sunt, Deo sunt ingratae &amp; mortuis 
+      inuti<lb ed="#H" n="94" break="no"/>les 
+    </p>
+            <p xml:id="yyy8Uu-xd8973-d1e278">
+               <lb ed="#H" n="95"/>
+               <pc type="indent"/>I. Quia non sunt conceptae ad formam precum in sacris literis 
+      <lb ed="#H" n="96"/>traditatum. 
+    </p>
+            <p xml:id="yyy8Uu-xd8973-d1e287">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>II. Quia sunt peccatum: nam non sunt ex fide. Quod non sint 
+      <lb ed="#H" n="98"/>ex side, patet: quia nullum Dei mandatum, nullum promissum, 
+      nul<lb ed="#H" n="99" break="no"/>lum exemplum probatum in Scriptura Sacra habent  
+    </p>
+            <p xml:id="yyy8Uu-xd8973-d1e298">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>III. Quia mortui resipiscere amplius nequeunt: In hac enim 
+      <lb ed="#H" n="101"/>vita est tempus gratiae, non post hanc vitam 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

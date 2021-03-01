@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 37</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 37</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd8010"><!-- l10-c37 -->
+            <head xml:id="yyy8Uu-xd8010-Hd1e103">Caput 37</head>
+            <p xml:id="yyy8Uu-xd8010-d1e106">
+               <lb ed="#H" n="160"/>CAPUT XXXVII. 
+      <lb ed="#H" n="161"/>In quo de Magnificentia. 
+    </p>
+            <p xml:id="yyy8Uu-xd8010-d1e113">
+               <lb ed="#H" n="162"/>TTAGNITICENTIA, μεγαλοπξίπεια, est virtus quae in magnis 
+      <lb ed="#H" n="163"/>DTlargisionibus vel faciendis vel rejiciendis mediocritatem 
+      ob<lb ed="#H" n="164" break="no"/>serva. 
+    </p>
+            <p xml:id="yyy8Uu-xd8010-d1e122">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Eafunrel publica est, vel privata. 
+      <lb ed="#H" n="166"/>Pauia, quum ad publicos usus magni sumtus conferuntur.  
+      <lb ed="#H" n="167"/>ciii: vel in pios usus &amp; res sacras &amp; fovendas optimas disciplinas 
+      <!--cod-MkL9py-0703.xml-->
+      <pb ed="#H" n="674"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>impenduntur: ut sunt donaria seu legata ad alendos ministros 
+      Ec<lb ed="#H" n="2" break="no"/>clesiae, optimarum disciplinarum doctores, pauperes, stipendiarios 
+      <lb ed="#H" n="3"/>studiosos, &amp;c. ad exstruenda aut conservanda aut instauranda 
+      publi<lb ed="#H" n="4" break="no"/>ca aedificia sacra templorum, Scholarum, collegiorum, 
+      xenodochio<lb ed="#H" n="5" break="no"/>rum. Exempla sunt Exod. 35. &amp; I. Chron. 29. Ezrae 2. v. 68, 69. 
+      Vespa<lb ed="#H" n="6" break="no"/>sianus Imperatοr, etsi caetera parcus, ingenia artesque fovit vel 
+      ma<lb ed="#H" n="7" break="no"/>xime, &amp; primus e fisco (ait Suetonius) Latinis Graecisque. 
+      Rhetori<lb ed="#H" n="8" break="no"/>bus annua centena Romae constituit, id est, bis mille &amp; quingentos 
+      <lb ed="#H" n="9"/>Philippicos. Antoninus Pius non Romae tantum, sed per omnes 
+      pro<lb ed="#H" n="10" break="no"/>vincias Rhetoribus &amp; Philosophis, honores ac salaria detulit. 
+      Qui<lb ed="#H" n="11" break="no"/>bus Alexander Severus addidit Grammaticos, Medicos, Mathema. 
+      <lb ed="#H" n="12"/>ticos 
+    </p>
+            <p xml:id="yyy8Uu-xd8010-d1e166">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Vel tribuuntur in usus politicos aut Reipubl. conservandae, 
+      au<lb ed="#H" n="14" break="no"/>gendae &amp; condecorandae causa: ut ad aedificationem curiae, 
+      grana<lb ed="#H" n="15" break="no"/>riorum publicorum, armamentarij, fori, molarum, murorum, 
+      pro<lb ed="#H" n="16" break="no"/>pugnaculorum, item donaria ad alendos annuis sumptibus duces 
+      <lb ed="#H" n="17"/>copiarum &amp; milites, vel alios qui Reipubl. prosunt. PERICLES A 
+      <lb ed="#H" n="18"/>thenis magnam vim pecuniae in opera &amp; ornatum urbis contulit.  
+    </p>
+            <p xml:id="yyy8Uu-xd8010-d1e185">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Aut honeste recreandi &amp; reficiendi populi gratia: ut epulae publi 
+      <lb ed="#H" n="20"/>cae, quales fuerant Davidis, 2. Sam. 6 v. 19. 
+    </p>
+            <p xml:id="yyy8Uu-xd8010-d1e194">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Talis magnificentia est laudabilis, si ad Dei gloriam referatur: se 
+      <lb ed="#H" n="22"/>cus monstrosa &amp; exsecrabilis superbia fuerit, ut Regis Ahasveri 
+      <lb ed="#H" n="23"/>Esther. 1. 
+    </p>
+            <p xml:id="yyy8Uu-xd8010-d1e205">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Magnificentia privata, est quum quis dona magna in quempiam 
+      <lb ed="#H" n="25"/>privatim confert, aut ea recusat 
+    </p>
+            <p xml:id="yyy8Uu-xd8010-d1e214">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>Alexander Magnus in Historiam animalium scribendam 
+      contu<lb ed="#H" n="27" break="no"/>lit Aristoteli octingenta talenta, id est, nostrae pecuniae 
+      quadringen<lb ed="#H" n="28" break="no"/>ta &amp; octoginta millia Philippicorum. Hiero rex Syracusanus 
+      Archi<lb ed="#H" n="29" break="no"/>melo Poetae mille modios tritici Athenas donum misit pro 
+      brevie<lb ed="#H" n="30" break="no"/>pigrammate. Augustus Caesar Horatio servos, suppellectilem &amp; 
+      fun<lb ed="#H" n="31" break="no"/>dos totos dedit. Vespasianus Imperator Salejo Basso, eximio 
+      Poeta<lb ed="#H" n="32" break="no"/>una donatione quingenta donavit, id est, duodecim millia 
+      Philippi<lb ed="#H" n="33" break="no"/>corum &amp; quingentos, censum tunc equestrem. Antoninus 
+      Caracalla<lb ed="#H" n="34" break="no"/>Imperator, delectatus elegantia carminum Oppiani, quae illi 
+      inscri<lb ed="#H" n="35" break="no"/>pta legimus, in singulos versus singulos aureos jussit rependi, &amp; 
+      ver<lb ed="#H" n="36" break="no"/>sus numera, stupebis. Diocletianus Imperator sexcenta annua, id est, 
+      <lb ed="#H" n="37"/>quindecim millia Philippicorum assignavit Eumenio Rhetori, 
+      in<lb ed="#H" n="38" break="no"/>schola Augustodunensi Doctori. 
+    </p>
+            <p xml:id="yyy8Uu-xd8010-d1e247">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>Recusationis magnorum donorum exemplum est in Elisaeo 
+      Pro<lb ed="#H" n="40" break="no"/>pheta, qui magno animo recusavit munus a Naamane Syro oblatum, 
+      <lb ed="#H" n="41"/>2. Reg. 5. v. 15, 16. 
+    </p>
+            <p xml:id="yyy8Uu-xd8010-d1e258">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Ouponitur ei, largitio profusa, &amp; parvificentia. 
+      <lb ed="#H" n="43"/>Largitio profusa, ἀπεινοκαλια κι ζαναυσια est vitium, quum quis 
+      <lb ed="#H" n="44"/>nimio luxu facultates suas profundit, vel nulla vel levi de causa 
+      se<lb ed="#H" n="45" break="no"/>ipsum ita exhauriens ut non habeat unde deinceps liberalitatem 
+      ex<lb ed="#H" n="46" break="no"/>ercere possit. Qualem ἀπεροκαλίαν pollicebatur Herodes 
+    </p>
+            <p xml:id="yyy8Uu-xd8010-d1e275">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Parvisicentia, μικροπρεπεια, est vitium, quum quis longe minus 
+      <lb ed="#H" n="48"/>quam personae, dignitati &amp; facultatibus ejus conveniens sit, largitur  
+      <lb ed="#H" n="49"/>tubi plus largiendum erat, &amp; cum magnos alias sumtus sustinuerit,  
+      <lb ed="#H" n="50"/>saepe in exiguo decorum perdit, sumtusque omnes cunctanter facit, 
+      <lb ed="#H" n="51"/>&amp; semper opinatur se plus expendere quam expendendum erat.  
+    </p>
+            <p xml:id="yyy8Uu-xd8010-d1e291">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>Hec de virtute moderante communicationem 
+      <lb ed="#H" n="53"/>facultatum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

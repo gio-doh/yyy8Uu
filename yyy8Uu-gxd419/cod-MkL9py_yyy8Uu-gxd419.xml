@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd419"><!-- l9-c9 -->
+            <head xml:id="yyy8Uu-gxd419-Hd1e103">Caput 9</head>
+            <p xml:id="yyy8Uu-gxd419-d1e106">
+      <!--cod-MkL9py-0627.xml-->
+               <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>CAPT II 
+      <lb ed="#H" n="93"/>In quo de spe in Deo. 
+      <lb ed="#H" n="94"/>IPES IN DEO, est virtus a Spiritu Sancto cordibus nostris 
+      infu<lb ed="#H" n="95" break="no"/>Psa, quam futura beneficia Dei, in¬primis vero complementum in¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e122">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>choatae salutis &amp; vitam aeternam gratis dandam propter 
+      Chri<lb ed="#H" n="97" break="no"/>stum, &amp; mitigationem praesentis crucis, vel liberationem ab illa ju 
+      <lb ed="#H" n="98"/>xta consilium Dei, indubitato exspectamus nixi divinis tantum 
+      gra<lb ed="#H" n="99" break="no"/>tuitisque promissionibus &amp; meritis Christi gratiaque Dei in Christo 
+      <lb ed="#H" n="100"/>per fidem jam apprehensis, 1. Petr. 1. v. 13. Psal. 40. v. 2. Psal. 52. v. 11. 
+      <lb ed="#H" n="101"/>Psal. N3o. vers. 7. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e140">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Spes in Deo est a nobis collocanda, ut sequentia argumenta 
+      o<lb ed="#H" n="103" break="no"/>stendunt: 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e149">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>I. Quia id Deus a nobis requirit, ut Psal. N3o. v. 7. Exspectationem 
+      <lb ed="#H" n="105"/>habeat seu speret Israel in Iehova. Psal. 27. v. 14. Exspecta Iehovam, 
+      <lb ed="#H" n="106"/>confirmare, &amp; fortificabit cor tuum: itaque exspecta Iehovam 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e161">
+               <lb ed="#H" n="107"/>
+               <pc type="indent"/>II. Quia spes in Deo collocata adfert ingens emolumentum, 
+      sic<lb ed="#H" n="108" break="no"/>ut dicitur Jesa. 40. v. 30, 31. Defetiscuntur quidem pueri &amp; defati 
+      <lb ed="#H" n="109"/>gantur, &amp; juvenes prorsus impingunt: At exspectantes Iehovam 
+      mu<lb ed="#H" n="110" break="no"/>tant vires, adscendunt pennis velut aquilae: currunt, neque 
+      defatigan<lb ed="#H" n="111" break="no"/>tur, pergunt, nec defetiscuntur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e177">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>III. Quia apud Jehovam est benignitas, &amp; plurimum apud eum 
+      <lb ed="#H" n="113"/>redemtionis &amp; ipse redimet Ecclesiam ab omnibus iniquitatibus 
+      <lb ed="#H" n="114"/>jus, Psal. N3o. v. 7, 8. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e188">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>IV. Quia auxilium nostrum &amp; scutum nostrum est, Psal. 33. v. 20. 
+      <lb ed="#H" n="116"/>&amp; Psal. 25. vers. 15. Oculi mei jugiter ad Iehovam respiciunt: quia ipse  
+      <lb ed="#H" n="117"/>educit e reti pedes meos. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e199">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>V. Quia spes in Deo non pudefacit, Rom. 5. v. 5. hoc est, non 
+      fru<lb ed="#H" n="119" break="no"/>stratur sperantes; Nam frustrationem pudor semper consequitur: 
+      <lb ed="#H" n="120"/>Solent enim qui sua spe frustrantur, quum res longe aliter acciderint,  
+      <lb ed="#H" n="121"/>quam speratant, pudore suffundi. Sic metonymia effecti ponitur 
+      pu<lb ed="#H" n="122" break="no"/>defactio pro frustratione. Psal. 42. v. 12. &amp; 43. v. 5. Spera in Deo: Nam 
+      <lb ed="#H" n="123"/>adhuc celebraturus sum eum, omnimodam salutem faciei meae, &amp; 
+      <lb ed="#H" n="124"/>Deum meum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e219">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>VI. Quia spem in Deo &amp; alij sancti posuerunt &amp; pudefacti non 
+      <lb ed="#H" n="126"/>sunt, quorum exemplum nos imitari decet, Jesa. 33. v. 2. Iehova, 
+      gra<lb ed="#H" n="127" break="no"/>tiam fac nobis, te exspectamus. Ita exemplum est in Davide, Psal. 
+      ao<lb ed="#H" n="128" break="no"/>vers. 2. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e232">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>Spei in Deo causa efficiens princeps est Deus bonorum omnium. 
+      <lb ed="#H" n="130"/>largitor: sicut dicitur 1. Petr. 1. ver. 3. Benedictus esto Deus &amp; Pater. 
+      <lb ed="#H" n="131"/>Domini nostri Iesu Christi, qui ex multa sua misericordia regenuit.  
+      <lb ed="#H" n="132"/>nos in spem vivam. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e246">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>Causa instrumentalis ejus est fides salvifica ex qua nascitue, 
+      dicen<lb ed="#H" n="134" break="no"/>te Apostolo Hebr. 11. v. 1. Fides est hypostasis seu subsistentia eorum. 
+      <lb ed="#H" n="135"/>quae sperantur, id est, est fundamentum sper. Ideo enim futura bona 
+      <lb ed="#H" n="136"/>speramus &amp; per patientia constanter exspectamus, quia divinis 
+      pro<lb ed="#H" n="137" break="no"/>missionibus credinius. Causa impellens ad eam sunt beneficia antea 
+      <lb ed="#H" n="138"/>a Deo accepta. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e264">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Finis sper summus est gloria Dei in quo spe ponimus: subalternus 
+      <lb ed="#H" n="140"/>est beatitudo &amp; salus aeterna fidelium, ut dicitur Jesa. 30. ver. 18. Deus 
+      <lb ed="#H" n="141"/>uris est Iehova, beati omnes qui exspectant eum. Unde spes salutis 
+      <lb ed="#H" n="142"/>est galea qua munimur adversus hostes, I. Thes. 5. v. 8. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e277">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Effecta spei multa sunt: nam spes in Deo collocata reddit homi 
+      <lb ed="#H" n="144"/>nem magis ac magis pium: efficit ut homo de se humiliter sentiat 
+      <lb ed="#H" n="145"/>totus autem a Deo pendeat: efficit ut nihil suis operibus, sed 
+      omni<lb ed="#H" n="146" break="no"/>gratuitae bonitati tribuat: efficit ut homo certus sit de futuris bonis 
+      <lb ed="#H" n="147"/>per solam Dei misericordiam &amp; propter meritum Christi 
+      consequen<lb ed="#H" n="148" break="no"/>dis; efficit ut forti animo feramus adversa omnia &amp; constanter 
+      perse<lb ed="#H" n="149" break="no"/>veremus in officio tum erga Deum, tum erga proximum faciendo 
+      <lb ed="#H" n="150"/>efficit bonum eum qui illam habet, &amp; opera ejus bona: efficit 
+      gau<lb ed="#H" n="151" break="no"/>dium in mediis afflictionibus, Rom. 12. v. 12. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e301">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Spei Christianae subjectum &amp; sunt Christiani, iique soli. Ut enim 
+      fi<lb ed="#H" n="153" break="no"/>des salvifica est tantum verorum Christianorum: ita etiam spes 
+      Chri<lb ed="#H" n="154" break="no"/>stiana; vnde spes piorum dicitur: idque tum viventium adhuc in terra, 
+      <lb ed="#H" n="155"/>quibus spes simpliciter tribuitur: tum etiam sanctorum 
+      defuncto<lb ed="#H" n="156" break="no"/>um &amp; jam quo ad animas in coelum translatorum, spem tamen ad 
+      <lb ed="#H" n="157"/>huc aliquam habentium: nam sperant &amp; exspectant futuram 
+      resurre<lb ed="#H" n="158" break="no"/>ctionem &amp; gloriam corporum suorum, sperant conjunctionem 
+      uni<lb ed="#H" n="159" break="no"/>versalem omnium sanctorum &amp; supremam gloriae Dei 
+      manifesta<lb ed="#H" n="160" break="no"/>tionem, quam credunt, sicut Hebr. 11. v. 1. fides dicitur ὑπυςασις τῳίο 
+      <lb ed="#H" n="161"/>λπιζομδμων: Quo pertinet quod legitur Apocal. 6. v. 9, 10, 11. Quum 
+      <lb ed="#H" n="162"/>vero aperuisset sigillum quintum, vidi sub altari animas eorum 
+      qui<lb ed="#H" n="163" break="no"/>mactati fuerant propter verbum Dei, &amp; propter testimonium quod 
+      <lb ed="#H" n="164"/>tuebantur. Clamabant autem voce magna dicentes, Usquequo 
+      Do<lb ed="#H" n="165" break="no"/>mine, qui sanctus es &amp; verax, non judicas ac sanguine nostrum 
+      vin<lb ed="#H" n="166" break="no"/>dicas, eum reposcendo ab iis qui habitant in terra? Tum datae sunt 
+      sin<lb ed="#H" n="167" break="no"/>gulis stolae albae, &amp; dictum est eis, ut requiescerent adhuc palulum 
+      <lb ed="#H" n="168"/>temporis, usquequo compleantur etiam conversi eorum &amp; fratres 
+      eo<lb ed="#H" n="169" break="no"/>rum, qui trucidandi sunt sicut &amp; ipsi  
+      <lb ed="#H" n="170"/>Subjectum ejus recipiens proximum est cor, ut Scriptura loquitur,  
+      <lb ed="#H" n="171"/>uod est sedes affectuum, non sensitivae partis, sed intellectivae, hoc est; 
+      <lb ed="#H" n="172"/>voluntas ipsa, quae &amp; appetitus mentis appellatur  
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e351">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Spei locus simpliciter est in terra viventibus adhuc anima &amp; 
+      cor<lb ed="#H" n="174" break="no"/>pore: in coelo secundum quid animabus justorum sperantibus 
+      extre<lb ed="#H" n="175" break="no"/>mum complementum promissionum divinarum: complemento ille 
+      <lb ed="#H" n="176"/>praestito nullus in coelo deinceps spei locus erit. In inferno autem 
+      <lb ed="#H" n="177"/>damnatis neque jam neque deinceps in aeternum ullius boni spes est 
+      <lb ed="#H" n="178"/>erit ve¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e369">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>Subjecta quibus tanquam fulcris spes piorum nititur, tria sunt: S 
+      <lb ed="#H" n="180"/>promissienes Dei gratuitae: gratia Dei in Christo: &amp; meritum 
+      Chri<lb ed="#H" n="181" break="no"/>sti. Synecdochice Christus fide vera apprehensus est totius spei 
+      no<lb ed="#H" n="182" break="no"/>strae immobile fundamentum, quo niti firmiter possumus &amp; inchoatae 
+      <!--cod-MkL9py-0628.xml-->
+      <pb ed="#H" n="599"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>falutis complementum exspectare. Proinde Apostolus Christum 
+      vo<lb ed="#H" n="2" break="no"/>cavit spem nostram, 1. Tim. 1. v. 1. &amp; spem illam gloriae Col. 1. v. 27. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e394">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Subjectum citca quod spes piorum occupatur seu objectum in 
+      <lb ed="#H" n="4"/>quod fertur est primo DEUS, unde Deus spei dicitur Rom. 15. v. 13. &amp; 
+      <lb ed="#H" n="5"/>spes ipsa in censum refertur virtutum Theologicarum, id est, quae a 
+      <lb ed="#H" n="6"/>Spiritu Sancto cordibus nostris infusae, feruntur immediate in Deum; 
+      <lb ed="#H" n="7"/>Hinc toties in Scriptura dicitur, Deum esse spem nostram, velut, 
+      <lb ed="#H" n="8"/>Psal. 71. v. 5. &amp; fideles profitentur, se in Deo spem ponere, ut Psal. 62. 
+      <lb ed="#H" n="9"/>v. 6, 8. &amp; 73. v. 21. Quum vero Deum dicimus esse spei objectum, 
+      in<lb ed="#H" n="10" break="no"/>telligimus simul, bonitatem, gratiam, clementiam, potentiam, 
+      justi<lb ed="#H" n="11" break="no"/>tiam Dei: nec solum Patrem, sed etiam Filium &amp; Spiritum Sanctum 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e418">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>Deinde objectum spei sunt beneficia a Deo promissa, nempe 
+      ve<lb ed="#H" n="13" break="no"/>nia, gratia &amp; gloria; quam fideles certo a Deo exspectant: vnde 
+      spe<lb ed="#H" n="14" break="no"/>triplex a Patribus antiquis statuitur, veniae, grattiae &amp; gloriae, 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e429">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Spes veniae, est qua exspectamus veniam &amp; remissionem omnium. 
+      <lb ed="#H" n="16"/>peccatorum nostrorum propter meritum Christi. De hac dicitur 2. 
+      <lb ed="#H" n="17"/>Corinth. 3. v. 12. Itaque quum hujusmodi spem habeamus, multa in 
+      <lb ed="#H" n="18"/>loquendo cvidentia utimur, id est, quum in Christo speremus, ipsum 
+      <lb ed="#H" n="19"/>sanaturum quos Lex vulneraverat parrhesia utimur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e445">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Spes gratiae, est qua exspectamus gratiam &amp; ex ea omnia beneficia 
+      <lb ed="#H" n="21"/>alia tum spiritualia tum corporalia quibus in statu gratiae nos Deus. 
+      <lb ed="#H" n="22"/>ifficit &amp; se affecturum nos promisit, etiamsi supra naturam essent, 
+      <lb ed="#H" n="23"/>sicut ad Rom. 4. vers. 18. dicitur de Abrahamo quod contra spem sub 
+      <lb ed="#H" n="24"/>spe credidit. Eadem spes mandatur Chabalt. 2. v. 3. Adhuc visio ad 
+      con<lb ed="#H" n="25" break="no"/>stitutum tempus, quam effabitur suo tempore, neque fullet: si cunctabi 
+      <lb ed="#H" n="26"/>tur, exspecta eam, nam veniendo veniet, ac non tardabit. De eadem 
+      <lb ed="#H" n="27"/>intelligenda &amp; haec. Psal. 25. v. 3. Etiam ulli exspectantes te, ne 
+      erube<lb ed="#H" n="28" break="no"/>scant. &amp; v. 21. Integritas &amp; rectum custodiant me, quia exspecto te¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e469">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Spes gloriae, est qua exspectamus resurrectionem carnis &amp; vitam ac 
+      <lb ed="#H" n="30"/>salutem aeternam in statu gloriae secundum promissionem a Deo 
+      fa<lb ed="#H" n="31" break="no"/>ctam. De hac spe multa leguntur in novo Testamento, ut Act. 2. 1 
+      <lb ed="#H" n="32"/>26. caro mea commorabitur cum spe: &amp; cap. 23. v. 6. ait Paul. de spo 
+      <lb ed="#H" n="33"/>&amp; resurrectione mortuorum ego in judicium vocor. Et cap. 24. v. 15. 
+      <lb ed="#H" n="34"/>spem habeo in Deo, fore, quam etiam ij ipsi exspectant, resurrectionem 
+      <lb ed="#H" n="35"/>mortuorum. Roman. 5. v. 2. gloriamur sub spe gloriae Dei. 
+      Nomina<lb ed="#H" n="36" break="no"/>tur etiam spes Evangelj Coloss. 1. v. 23 quia Evangelium 
+      promittit<lb ed="#H" n="37" break="no"/>vitam &amp; gloriam aeternam propter Christum. Spes salutis 1. Thess 
+      <lb ed="#H" n="38"/>v. 8. Spes vitae aternae. Tit. 3. v. 7. Metonymice autem ipsa vita &amp; 
+      glo<lb ed="#H" n="39" break="no"/>ria aeterna quam speramus, nominatur spes. ut Rom. 8. ver. 24. Spes si 
+      <lb ed="#H" n="40"/>cernatur non est spes. Sic vita aeterna nominatur spes justitiae Gal. 
+      <lb ed="#H" n="41"/>v. 5. quia per Christum gratis justificatos manet. Vita &amp; gloria 
+      aeter<lb ed="#H" n="42" break="no"/>na nominatur spes vocationis. Ephes. 1. ver. 18. beata spes. Tit. 2. v. 13: 
+      <lb ed="#H" n="43"/>spes viva 1. Petr. 1. v. 3. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e506">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Vita autem &amp; salus aeterna, quae nobis in Evangelio Jesu 
+      Christi<lb ed="#H" n="45" break="no"/>est patefacta, oblata &amp; promissa, est perseveranter ad finem usque 
+      spe<lb ed="#H" n="46" break="no"/>randa: 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e518">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>I. Quia Deus id mandat, 1. Petr. 1. vers. 11. 
+      <lb ed="#H" n="48"/>II. Quia in tantae rei exspectatione defatigari non debemus, 
+      <lb ed="#H" n="49"/>quam summo desiderio ipsi etiam Angeli exspectant. 1. Petr. 1. v. 12. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e529">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>III. Quia tantum beneficium Deus ipse ad nos usque 
+      deferen<lb ed="#H" n="51" break="no"/>dum curat, 1. Petr. 1. vers. 13. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e538">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>IV. Quia si totus mundus instaurationem exspectat: multo ma 
+      <lb ed="#H" n="53"/>gis nos eam constanter exspectare convenit, Roman. 8. vers. 19, 20, 
+      <lb ed="#H" n="54"/>21, 22, 23. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e549">
+               <lb ed="#H" n="55"/>
+               <pc type="indent"/>Adiuncta spet. I. Spei adjuncta esse debet praepatatio animi, ne in 
+      <lb ed="#H" n="56"/>cursu spei impediamur, 1. Petr. 1. vers. 13. ἀναζασαμδνον ζασ εσφυας τ 
+      <lb ed="#H" n="57"/>ανοιασ υμῶν: succinctis lumbis mentis vestrae: Sumta est similitudo 
+      <lb ed="#H" n="58"/>ex more veterum, quum enim logioribus tunicis &amp; vestibus 
+      uteren<lb ed="#H" n="59" break="no"/>tur, non poterant nisi fuccincti iter facere: Sic opus est animi praepa 
+      <lb ed="#H" n="60"/>ratione ad ingrediendum iter sper 
+      <lb ed="#H" n="61"/>II. Spei conjunctam esse necesse est puram &amp; sanctam vitam, 
+      at<lb ed="#H" n="62" break="no"/>que inprimis sobrietatem, 1. Petr. 1. v. 13 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e571">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>III. Spem oportet constantem esse usque ad finem, tantisper dum 
+      <lb ed="#H" n="64"/>re sperata potiamur, 1. Petr. 1. v. 13. σελεἰως ἐλπίσατt, ad finem usque 
+      <lb ed="#H" n="65"/>sperate 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e582">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>IV. Spei tempus quo durat est, dum revelabitur Jesus Christus, &amp; 
+      <lb ed="#H" n="67"/>obtineamus plene salutem promissam: non autem erit in aeterna 
+      fe<lb ed="#H" n="68" break="no"/>licitate postquam Christus totam Ecclesiam ad Patrem adduxerit,  
+      <lb ed="#H" n="69"/>eamque ei stiterit, Rom. 8. v. 23, 24. 1. Cor. 13. v. 13. 1. Petr. 1. v. 13 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e596">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>V. Spes salutis aeternae certa est &amp; firma, id est, complementum 
+      <lb ed="#H" n="71"/>salutis nostrae, resurrectionem videlicet ex mortuis, adventum 
+      glo<lb ed="#H" n="72" break="no"/>riae magni Dei ac Servatoris nostri Jesu Christi, plenam denique 
+      caele<lb ed="#H" n="73" break="no"/>stis haereditatis possessionem certo &amp; constanter exspectat,  
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e609">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>Certa autem est &amp; firma non tantum quod ad objectum attinet 
+      <lb ed="#H" n="75"/>in quod respicit, nimirum, bonitatem, gratiam, clementiam, 
+      poten<lb ed="#H" n="76" break="no"/>tiam Dei, per quae nihil stat quin unusquisque servetur: sed etiam quo- 
+      <lb ed="#H" n="77"/>ad subjectum, videlicet voluntatem sperantis cui inest, quam Deus 
+      <lb ed="#H" n="78"/>verbo &amp; Spiritu suo ita confirmat, ne unquam ab eo deficiat.  
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e625">
+               <lb ed="#H" n="79"/>
+               <pc type="indent"/>Verum spei certitudo unde est. 
+      <lb ed="#H" n="80"/>RESPONSIO: Sicut non ex humanis promissionibus nascitur: I 
+      <lb ed="#H" n="81"/>sic neque humanis meritis alitur, aut nititur, sed primo solam 
+      divina<lb ed="#H" n="82" break="no"/>rum promissionum veritate, multis modis confirmata &amp; in cordibus. 
+      <lb ed="#H" n="83"/>nostris obsignata. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e641">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>Secundo, solam ejusdem promittentis Dei efficaci omnipotentia, 
+      <lb ed="#H" n="85"/>tum erga omnes credentes declarata, tum vero maxime in Christo 
+      <lb ed="#H" n="86"/>palam exserta, quum nimirum illum suscitavit a mortuis &amp; sedere 
+      fe<lb ed="#H" n="87" break="no"/>cit in supercoelestibus ad dexteram suam, 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e654">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Tertio solam Christi in quem credimus &amp; in quo speramus, 
+      obe<lb ed="#H" n="89" break="no"/>dientia atque meritis, quibus nititur, quibus sustentatur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e663">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Spei in Deo collocandae contraria est tum desperatio &amp; dubitatis 
+      <lb ed="#H" n="91"/>de accipiendis beneficiis Dei, tum spes in creaturis aut figmentis 
+      hu<lb ed="#H" n="92" break="no"/>manis. 
+      <!--cod-MkL9py-0628.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>Desperatio, est peccata sua majora aestimare, quam meritum Filij. 
+      <lb ed="#H" n="94"/>Dei, &amp; misericordiam Dei in Filio Dei Mediatore oblatam 
+      repudia<lb ed="#H" n="95" break="no"/>re; ideoque non exspectare a Deo beneficia credentibus promissa, sed  
+      <lb ed="#H" n="96"/>horribili sensu irae Dei &amp; metu futurae abjectionis in poenas aeternas: 
+      <lb ed="#H" n="97"/>cruciari, ac Deum tanquam crudelem tyrannum exhorrescere atque 
+      <lb ed="#H" n="98"/>odisse, Gen. 4. v. 13. 1. Thess. 4. v. 12. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e693">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Dubitatio de accipiendis beneficiis Dei, est peccatum, quum quis 
+      <lb ed="#H" n="100"/>ambigit de vita aeterna, &amp; defensione ac liberatione in 
+      rentatio<lb ed="#H" n="101" break="no"/>nibus. 
+      <lb ed="#H" n="102"/>Spes in creaturis, aut figmentis humanis, est peccatum, quum quis 
+      <lb ed="#H" n="103"/>auxilium &amp; vitae aeterne donum exspectat a rebus creatis, aut 
+      figmen<lb ed="#H" n="104" break="no"/>tis humanis, quod a solo Deo per Mediatorem Christum 
+      exspectan<lb ed="#H" n="105" break="no"/>dum erat: quemadmodum Papistae in sanctis &amp; reliquiis spem ponunt. 
+      <lb ed="#H" n="106"/>Nam in Antiphona Salve Regina, dicunt ad Mariam, spes nostra 
+      sal<lb ed="#H" n="107" break="no"/>ve; in Breviario Romano, ad completorium: Et in cantico 
+      Ambro<lb ed="#H" n="108" break="no"/>ij &amp; Augustini in laudem Mariae transformato dicunt: In te dulcit 
+      <lb ed="#H" n="109"/>Maria speramus, nos defendas in aeternum, Officio N. Virginis 
+      re<lb ed="#H" n="110" break="no"/>formato, &amp; jussu Pij V: edito, in exemplari Rorschachij excuso, anno 
+      <lb ed="#H" n="111"/>1598. Ibidem lectione secunda diei Dominici, dicunt ad eandem: 
+      Ti<lb ed="#H" n="112" break="no"/>es unica spes nostra. In hymno, Vexilla Regis prodeunt, dicunt ad 
+      li<lb ed="#H" n="113" break="no"/>gnum crucis: O crux ave SPES UNICA hoc passionis tempore. Papi 
+      <lb ed="#H" n="114"/>stis opponimus quod scribit Augustinus quarto tomo, libro de cater 
+      <lb ed="#H" n="115"/>chizandis rudibus, cap. vigesimoquinto: Nec tamen etiam in istis 
+      bo<lb ed="#H" n="116" break="no"/>nis qui te vel praecedunt vel comitantur ad Dominum, spem tuam 
+      col<lb ed="#H" n="117" break="no"/>locare debes: quia nec in teipso debes quantumcunque profeceris, sed in 
+      <lb ed="#H" n="118"/>ills qui eos &amp; te justificando tales facit. Securus es enim de Deo quod 
+      <lb ed="#H" n="119"/>non mutatur, de homine autem imprudenter securus es. Et capite 
+      vi<lb ed="#H" n="120" break="no"/>gesimoseptimo: Ipsa Trinitas Deus est, in quo Deo, spes omnis 
+      ponen<lb ed="#H" n="121" break="no"/>da est: in homine non est ponenda, qualiscunque ille fuerit: Aliud est 
+      <lb ed="#H" n="122"/>inim ille a quo justificamur.  
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e750">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>In figmentis autem humanis spem collocat, quum quis propter 
+      <lb ed="#H" n="124"/>bullas seu diplomata impij Antichristi Romani, ipsiusque 
+      indulgen<lb ed="#H" n="125" break="no"/>tias, vel propter sua bona aliqua opera, praesertim a Deo non 
+      praece<lb ed="#H" n="126" break="no"/>pta, ut peregrinationes votivas ad sepulchra sanctorum, 
+      aedificatio<lb ed="#H" n="127" break="no"/>nes monasteriorum, donationes Ecclesiasticas, vel assumtum 
+      mona<lb ed="#H" n="128" break="no"/>chalem cucullum, &amp;c. se vitam aeternam adepturum falso sperat  
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e768">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>Spei in Deo repugnant impedimenta ejus: Ifalsae &amp; vanae 
+      opinio<lb ed="#H" n="130" break="no"/>nes, quum sibi temere pollicentur &amp; frustra exspectant homines ea 
+      <lb ed="#H" n="131"/>quae Deus non promisit, 1. Petr. 1. v. 13. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e779">
+               <lb ed="#H" n="132"/>
+               <pc type="indent"/>II. Intemperantia: qui enim vel cibo vel potu vel aliis carnis 
+      ille<lb ed="#H" n="133" break="no"/>cebris, vel mundi curis sunt ebrij, in illis spes locum habere nequit,  
+      <lb ed="#H" n="134"/>1. Petr. 1. vers. 13. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e790">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>III. Merita humana: Nam spes non nascitur, nec pendet a nostris 
+      <lb ed="#H" n="136"/>meritis seu operibus: alioqui enim saepe falleret.  
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e799">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Spes comparatur anchorae Hebr. 6. v. 19. quoniam sicut anchora. 
+      <lb ed="#H" n="138"/>in profundum maris projecta totam navim firmat: ita etiam spes in 
+      <lb ed="#H" n="139"/>ipsa usque coelorum adyta penetrat 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e811">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Conveniunt fides salvifica &amp; spes: 
+      <lb ed="#H" n="141"/>I. In causa efficiente communi: nam utraque est donum a Spiritu 
+      <lb ed="#H" n="142"/>Sancto animis nostris infusum 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e822">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>II. In adjuncta certitudine: nam par est utriusque certitudo. 
+      Quan<lb ed="#H" n="144" break="no"/>tum habemus fidei, tantundem etiam habemus spei. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e831">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Differunt vero fides &amp; spes: nam 
+      <lb ed="#H" n="146"/>Fides ex se gignit spem, sic ut spes sit posterior fide ejusque comes 
+      <lb ed="#H" n="147"/>individua, 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e842">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Fides est certa de veritate Dei persuasio, quod nec mentiri nobis, 
+      <lb ed="#H" n="149"/>nec fallere, nec irrita esse queat: Spes exspectat fore, ut promissiones. 
+      <lb ed="#H" n="150"/>suas Deus praestet. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e853">
+               <lb ed="#H" n="151"/>
+               <pc type="indent"/>Fides credit promissioni divinae: Spes patienter exspectat 
+      praesta<lb ed="#H" n="152" break="no"/>tionem promissionis 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e862">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Fides Deum veracem credit: Spes exspectat ut in temporis 
+      occa<lb ed="#H" n="154" break="no"/>sione veritatem exhibeat,  
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e872">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Fides credit Deum nobis esse Patrem: Spes exspectat ut se talem 
+      <lb ed="#H" n="156"/>ra nos semper gerat 
+      <lb ed="#H" n="157"/>Fides datam nobis vitam aeternam credit: Spes exspectat ut 
+      ali<lb ed="#H" n="158" break="no"/>quando reveletur.  
+      <lb ed="#H" n="159"/>Fides accipit praesentia beneficia Dei vel etiam in spe posita, 
+      reprae<lb ed="#H" n="160" break="no"/>sentat ac veluti oculis subjicit: Spes exspectat futura 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e890">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Fides fundamentum est, cui Spes incumbit. 
+      <lb ed="#H" n="162"/>Fides alit spes ac sustinet. Ut enim exspectare a Deo nemo 
+      quica<lb ed="#H" n="163" break="no"/>uam potest, nisi qui prius ejus promissis crediderit: ita rursus fide 
+      <lb ed="#H" n="164"/>nostrae imbecillitatem, ne velut fessa concidat, sustineri ac foveri 
+      pa<lb ed="#H" n="165" break="no"/>pienter sperando &amp; exspectando oportet. Ita Spes estfidei alimentum 
+      <lb ed="#H" n="166"/>&amp; roburi. 
+    </p>
+            <p xml:id="yyy8Uu-gxd419-d1e908">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>Haec de spe: sequitur
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

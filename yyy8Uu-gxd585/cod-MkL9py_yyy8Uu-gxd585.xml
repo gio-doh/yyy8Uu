@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 68</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 68</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd585"><!-- l6-c68 -->
+            <head xml:id="yyy8Uu-gxd585-Hd1e103">Caput 68</head>
+            <p xml:id="yyy8Uu-gxd585-d1e106">
+               <lb ed="#H" n="103"/>CAPUT LXVIII. 
+      <lb ed="#H" n="104"/>In quo de raptu omnium fidelium in nubes in 
+      <lb ed="#H" n="105"/>occursum Domini. 
+    </p>
+            <p xml:id="yyy8Uu-gxd585-d1e115">
+               <lb ed="#H" n="106"/>APTUS omnium fidelium in nubes in occursum Domini, est 
+      o<lb ed="#H" n="107" break="no"/>pus Dei, quo fideles, tum ex mortuis resuscitati, tum vivi sec 
+      <lb ed="#H" n="108"/>
+               <!-- line coord error -->
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>immutati, simul repente &amp; oculi momento subvehuntur in 
+      nu<lb ed="#H" n="110" break="no"/>bes in occursum Domini in aera, I. Thess. 4 17. Deinde nos vivi, qui 
+      <lb ed="#H" n="111"/>reliqui erimus, rapiemur simul cum eis in nubes, in occursum Domini in 
+      <lb ed="#H" n="112"/>aera. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

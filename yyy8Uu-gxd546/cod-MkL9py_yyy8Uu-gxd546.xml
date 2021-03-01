@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd546"><!-- l8-c2 -->
+            <head xml:id="yyy8Uu-gxd546-Hd1e103">Caput 2</head>
+            <p xml:id="yyy8Uu-gxd546-d1e106">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>CAPTI 
+      <lb ed="#H" n="85"/>In quo de causis efficientibus bonorum operum 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e115">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>IEPINITAsunt bona opera &amp; varia ipsorum nomina explicata: 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e122">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>CAUSAE EPPICIENTES bonorum operum aliae sunt, 
+      prin<lb ed="#H" n="88" break="no"/>cipales, aliae instrumentales;
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e131">
+               <lb ed="#H" n="89"/>Principalis causa, a qua in nobis &amp; per nos efficiuntur bona opera 
+      <lb ed="#H" n="90"/>est DEUS2. Cor. 3. v. 5. Pater, per Filium, virtute Spiritus Sancti, 
+      <!--cod-MkL9py-0589.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>Causa efficiens impulsiva, est gratia Dei, qua non tantum nos de 
+      <lb ed="#H" n="92"/>nuo creat seu regenerat, sed etiam regeneratos continue gubernat, ut 
+      <lb ed="#H" n="93"/>numquodque bonum opus sigillatim quoad principium, medium &amp; 
+      <lb ed="#H" n="94"/>finem in nobis &amp; per nos efficiendossine qua gratia, (quae gratia 
+      re<lb ed="#H" n="95" break="no"/>generationis &amp; gratia Christi appellatur) ne unicum quidem 
+      bo<lb ed="#H" n="96" break="no"/>num opus facere possumus: sic ut bona opera non sint, quae sine 
+      gra<lb ed="#H" n="97" break="no"/>tia fiunt: Omnes ergo fideles bona opera faciunt, qui gratiam 
+      Chri<lb ed="#H" n="98" break="no"/>sti acceperunt. Heb. 13. v. 20, 21. Deus vero pacis, qui magnum illum 
+      <lb ed="#H" n="99"/>vium, per sanguinem pacti aeterni, pastorem, Dominum nostrum Iesum, 
+      <lb ed="#H" n="100"/>ex mortuis reduxit, Compingat vos ad omne opus bonum, ad 
+      praestan<lb ed="#H" n="101" break="no"/>dam ipsius uoluntatem, efficiens in vobis quod gratum sit in conspectu 
+      <lb ed="#H" n="102"/>suo, per Iesum Christum: tutsit gloria in sacula seculorum. Amen. Jes. 59. 
+      <lb ed="#H" n="103"/>v. 11. De me autem, hoc erit fedus meum cum istis, ait Iehova, spiritu 
+      <lb ed="#H" n="104"/>meus qui est inte, &amp; verba mea quae posui in ore tuo: non recedent ex 
+      o<lb ed="#H" n="105" break="no"/>re tua, aut ex ore seminis tui, aut ex ore seminis seminis tui, ait Iehova. 
+      <lb ed="#H" n="106"/>ex hoc tempore usque in seculu. Jer. 31. v. 33, 34. Nam hoc illud est fedus, quod 
+      <lb ed="#H" n="107"/>pangam cum domo Israelis post dies hos, dictum Iehovae, indam 
+      le<lb ed="#H" n="108" break="no"/>gem meam menti eorum, &amp; cordi eorum inscribum eam; &amp; ero eis 
+      <lb ed="#H" n="109"/>Deus &amp; ipsi erunt mihi populus. Non autem solum docebunt amplius 
+      <lb ed="#H" n="110"/>quisque amicum suum &amp; quisque fratrem suum, dicendo cognoscite 
+      Ie<lb ed="#H" n="111" break="no"/>hovam: Nam quotquot erunt cognoscent me a minimo eorum usque 
+      <lb ed="#H" n="112"/>ad maximum eorum, dictum Iehovae, me condonare iniquitatem 
+      ipso<lb ed="#H" n="113" break="no"/>rum, &amp; peccati ipsorum non recordari amplius. Ezechiet. 36. v. 27. Et  
+      <lb ed="#H" n="114"/>spiritum meum ponori in medio vestri; quo faciam ut in staiutis meis 
+      <lb ed="#H" n="115"/>ambuletis, &amp; jura mea observetis, facientes ea. Hinc vocantur etiam 
+      <lb ed="#H" n="116"/>opera Dei. Joh. 6. v. 28, 29. Dixerunt ergo ad eum, Quid faciemus ut 
+      <lb ed="#H" n="117"/>operemur operibus Dei? Respondit Iesus, &amp; dixit eis, Hoc illud est 
+      opu<lb ed="#H" n="118" break="no"/>Dei, ut credatis in eum quem ille misit. Quia is illorum autor est, ac 
+      pro<lb ed="#H" n="119" break="no"/>pterea ipsi placent atque accepta sunt. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e206">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>Caeterum gratia Dei nobis ad singulos actus bonos est necessaria, 
+      <lb ed="#H" n="121"/>sita ut sine illa ne unicum quidem bonum opus facere possimus, sicut  
+      <lb ed="#H" n="122"/>Dominus ait Joh. 15. 5. Sine me nihil potestis facere. Ideohomo sibi 
+      re<lb ed="#H" n="123" break="no"/>lictus, id est, vel ad momentum non gubernatus a gratia Dei, non 
+      <lb ed="#H" n="124"/>potest non peccare &amp; se &amp; alios perdere. Videatur Hieronymus 
+      se<lb ed="#H" n="125" break="no"/>cundo epistolarum tomo, epistolam ad Ctesiphontem adversus 
+      Pela<lb ed="#H" n="126" break="no"/>gianos, in qua prolixe hac de re agit 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e226">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Instrum etales sunt aliquot. Prima, est doctrina caelestis, quam ad 
+      o<lb ed="#H" n="128" break="no"/>tera instituimur, nempe VERBUM DEI, Lex &amp; Evangelium, quo nos 
+      <lb ed="#H" n="129"/>voluntatem suam &amp; quaenam sint vere bona opera Deus docet, &amp; 
+      <lb ed="#H" n="130"/>per quod nos regenerat ad illa, nobisque ob oculos ponit ea quibus 
+      <lb ed="#H" n="131"/>impelli ad bona opera debeamus. Psalm. 1. v. 1, 2. Beatus est vir ille, 
+      <lb ed="#H" n="132"/>qui non ambulat in consilio impiorum, &amp; viae peccatorum non 
+      insi<lb ed="#H" n="133" break="no"/>stit; ac in consessu derisorum non desidet: Sed cuius oblectatio est in lege 
+      <lb ed="#H" n="134"/>Iehova; &amp; qui de lege illius meditatur interdiu ac noctu Psal. 17. v. 4,7. 
+      <lb ed="#H" n="135"/>Ad opera humana instituenda: ex verbo labiorum tuorum, ego obser 
+      <lb ed="#H" n="136"/>vo semitas effractoris. Contineo gressus meos in orbitis tuis: ne 
+      dimove<lb ed="#H" n="137" break="no"/>antur pedes mei. Psal. 119. fere toto. Prover. 1. primis sex versib. 
+      Pro<lb ed="#H" n="138" break="no"/>verbia Salomonis filii Davidis, Regis Israelitarum: Ad sciendum 
+      sapi<lb ed="#H" n="139" break="no"/>entiam &amp; eruditionem, ad intelligendum dicta prudentiae: Ad 
+      perci<lb ed="#H" n="140" break="no"/>piendum eruditionem intelligentiae; justitiae, jurisque &amp; omnis recti: A 
+      <lb ed="#H" n="141"/>dandum fatuis astutiam, puero scientiam &amp; sollertiam: Quibus 
+      audi<lb ed="#H" n="142" break="no"/>tis sapiens adjiciat disciplinam, &amp; intelligens industria consilia 
+      compo<lb ed="#H" n="143" break="no"/>ret: Ad docendum proverbium &amp; interpretationem, verba sapientum &amp; 
+      <lb ed="#H" n="144"/>caenigmata eorum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e270">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Multa autem sunt quae in Verbo Dei proponuntur, quibus ad 
+      bo<lb ed="#H" n="146" break="no"/>na operafacienda impelli debeamus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e279">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>I. Est consideratio naturae &amp; attributorum Dei, veluti 
+      omniscien<lb ed="#H" n="148" break="no"/>tiae, justitiae &amp; omnipotentiae Dei. Quibus enim est negotium cum 
+      <lb ed="#H" n="149"/>omniscio, justo &amp; omnipotente Deo, &amp; qui ipsorum Pater atqui 
+      <lb ed="#H" n="150"/>Dominus est, ii certe bonis operibus studere serio debent. 1. Pet. 1. 
+      <lb ed="#H" n="151"/>versic. 17, Et, si patrem cognominatis eum, qui citra personarum 
+      re<lb ed="#H" n="152" break="no"/>spectum judicat ex cujusque opere, cum timore versamini commora 
+      <lb ed="#H" n="153"/>tionis vestra tempore. Lucae 6. versic. 46. Quid autem vocatis me 
+      Do<lb ed="#H" n="154" break="no"/>mine, Domine: &amp; non facitis quae dico? Malach. 1. vers. 6. Filius 
+      hono<lb ed="#H" n="155" break="no"/>rat Patrem &amp; servus Dominum suum: quod si pater sum, ubi est hono 
+      <lb ed="#H" n="156"/>meus? &amp; si Dominus sum, ubi reverentia meit ait Iehova exercituum 
+      <lb ed="#H" n="157"/>vobis o Sacerdotes, contemtores nominis mei, qui dicitis, qua in re 
+      con<lb ed="#H" n="158" break="no"/>temnimus nomentuum? 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e310">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>II. Opera Dei, quae efficit, tum in natura, tum speciatim in 
+      humam<lb ed="#H" n="160" break="no"/>no genere ac peculiariter per gratiam in Ecclesia sua: sic David Psal 
+      <lb ed="#H" n="161"/>29. exhortatur ad laudandum Deum, ad humilitatem coram Deo, ac 
+      <lb ed="#H" n="162"/>psius adorationem, sumto exhortationis argumento a tonitru, a 
+      ju<lb ed="#H" n="163" break="no"/>diciis, a beneficiis Dei 
+      <lb ed="#H" n="164"/>III. Mandatum Dei: Quicquid enim Deus nobis mandat; id  
+      <lb ed="#H" n="165"/>modis omnibus faciendum. Atqui bona opera Deus nobis mandat  
+      <lb ed="#H" n="166"/>esa. 1. vers. 17. Discite benefacere. Ad quae veiba Hieronymus in 
+      Con<lb ed="#H" n="167" break="no"/>mentariis: Virtus ergo discenda est, nec naturae tantum, bonum sufficit 
+      <lb ed="#H" n="168"/>ad justitiam, nisi quis erudiatur congruis disciplinis. 1. Thessal 4. v. 1. 
+      <lb ed="#H" n="169"/>rem ipsam nec in corde possederunt, nec opere exercuerunt prout 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e339">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>&amp; seqq. Quod reliquum est igitur fratres, rogamus vos &amp; precamur 
+      pe<lb ed="#H" n="171" break="no"/>Dominum Iesum, ut sicut accepistis a nobis quomodo oporteat vos 
+      am<lb ed="#H" n="172" break="no"/>bulare, &amp; placere Deo: magis excellatis, Nostis enim quae mandata 
+      de<lb ed="#H" n="173" break="no"/>derimus vobis per Dominum Iesum. Nam haec est uoluntas Dei; nempo 
+      <lb ed="#H" n="174"/>sanctificatio vestri, id est; ut abstineatis a scortatione: Vi sciat 
+      ve<lb ed="#H" n="175" break="no"/>strum unusquisque suum vas possidere in sanctificatione &amp; honore: 
+      <lb ed="#H" n="176"/>Non in morbo cupiditatis, sicut Gentes quae non noverunt Deum Tit.  
+      <lb ed="#H" n="177"/>2. vers. 11, 12. Illuxit enim gratia illa Dei salutifera quibusvis 
+      homi<lb ed="#H" n="178" break="no"/>nibus. Erudiens nos ut abnegata impietate &amp; mundanis cupiditatibus; 
+      <lb ed="#H" n="179"/>temperanter, &amp; iuste, &amp; pievivamus in praesenti seculo. 2. Tim. 3 15, 16: 
+      <lb ed="#H" n="180"/>Teque a puero sacras literas novisse, quae te possunt sapientem reddere 
+      <lb ed="#H" n="181"/>ad salutem per fidem quae est in Christo Iesu. Tota Scriptura diuvini 
+      <lb ed="#H" n="182"/>tus est inspirata; &amp; itilis ad dectrinam, ad redargutionem, ad corre¬ 
+      <!--cod-MkL9py-0590.xml-->
+      <pb ed="#H" n="561"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>ctignem, ad disciplinam in iustitia. 1. Pet. 4. 2. Voluntati Dei, quod in 
+      <lb ed="#H" n="2"/>curne reli quum est temporis vivat. 2 Pet.3 vers. 1. Hasce iam 
+      alte<lb ed="#H" n="3" break="no"/>ras vobis literas scribo, dilecti, quibus siateram mentem vestram per 
+      <lb ed="#H" n="4"/>submonitionem expergefacio. Qui autem mandatum Dei 
+      asperna<lb ed="#H" n="5" break="no"/>cur, Deum ipsum aspernatur I. Thess. 4. v. 8 Proinde qui haec asperna 
+      <lb ed="#H" n="6"/>tur, non aspernatur hominem, sed Deum, qui etiam dedit nobis Spiritum 
+      <lb ed="#H" n="7"/>suum sanctum, 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e395">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>IV. Promissiones Dei, praemia pollicentis bona opera facientis 
+      <lb ed="#H" n="9"/>bus. Exod 15. v. 26. Dixit enim, si sedulo attendens ad vocem Iehovi 
+      <lb ed="#H" n="10"/>Dei tui, quod rectum videtur in oculis eius feceris, &amp; si aurem accom 
+      <lb ed="#H" n="11"/>modans ad praecepta eius, observaveris omnia statuta eius, nullum 
+      mor<lb ed="#H" n="12" break="no"/>bum quem imposui Aegypto, imponam tibi, sed ego Ichova ero curator 
+      <lb ed="#H" n="13"/>tuus. Prov. 23. ver. 17, 18 Ezech 18. vers. 5, 6, 7. 8, 9. item ver. 14, 11. 
+      <lb ed="#H" n="14"/>16, 17. 1. Tim. 4. v. 8 Nam corporalis exercitatio ad pauca utilis est: 
+      at<lb ed="#H" n="15" break="no"/>ptetas ad omnia utilis est, ut quae promissionem habeat vitae praesentis 
+      ac<lb ed="#H" n="16" break="no"/>futurae. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e419">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>V. Meditatio finis ad quem sumus electi, creati, redemti, vocati  
+      <lb ed="#H" n="18"/>justificati, regeniti seu sanctificati. Ephes. 1. vers. 4. Sicut elegit nos in 
+      <lb ed="#H" n="19"/>ipso ante iactum mundi fandamentum, ut simus sancti &amp; inculpati in 
+      <lb ed="#H" n="20"/>conspectu eius cum charitate. Genes. 1. vers. 27. Itaque creavit Deus 
+      ho<lb ed="#H" n="21" break="no"/>minem ad imaginem suam, ad imaginem, inquom, Dei creavit eum: 
+      <lb ed="#H" n="22"/>marem &amp; foeminam creavit eos. 2. Corinth. 6. versic. 20. Nam emti 
+      e<lb ed="#H" n="23" break="no"/>stis pretio: glorificate igitur Dum in corpore vestro, &amp; in spiritu vestros 
+      <lb ed="#H" n="24"/>quae sunt Dei. Tic. 3. v. 14. Discant autem etiam nostri bene agendo prae 
+      <lb ed="#H" n="25"/>tre ad necessarios usus, ut non sint fructus expertes. 1 Pet. 1. 18, 19. Vt quo 
+      <lb ed="#H" n="26"/>sciatis vos non corruptibilibus rebus, argento vel auro, fuisse redemtos ex 
+      <lb ed="#H" n="27"/>vana illa vestra conversatione, a patribus tradita: Sed pretioso sangui. 
+      <lb ed="#H" n="28"/>te, utpote agni inculpati &amp; incontaminati, nempe Christi. Psal. N3o. v. 
+      <lb ed="#H" n="29"/>4. Nam apud te est condonatio, ut reverenter colaris. 1. Thess. 4 v. 7. 
+      <lb ed="#H" n="30"/>Nos enim vocavit nos Deus ad impuritatem, sed ad sanctificationem 
+      <lb ed="#H" n="31"/>Roman. 6. v 22. Nunc vero liberati a peccato, servi autem facti Deo, 
+      <lb ed="#H" n="32"/>hube: is fructum vestrum in sanctimoniam: finem autem, utam aetero 
+      <lb ed="#H" n="33"/>nam. 1. Corinth. 6. v. 11 Et haec eratis quidam: sed abluti estis, sed 
+      san<lb ed="#H" n="34" break="no"/>ctificati estis, sed iustificati estis: in nomine Domini Iesu, &amp; per Spiritum 
+      <lb ed="#H" n="35"/>Dei nostr:. 1J. h. 1. v. 6. Si dixerimus nos communionem habere cum eo, 
+      <lb ed="#H" n="36"/>&amp; in tenebris ambulamus, mentimur, nec sincere agimus. Ephes. 2. 
+      <lb ed="#H" n="37"/>jer. 10. Nam ipsius sumus opus conditi in Christo Iesu ad opera bona 
+      <lb ed="#H" n="38"/>quae praeparavit Deus ut in eis ambulemus. Et c. 4. v. 20. &amp; sequentibus 
+      <lb ed="#H" n="39"/>Vos autem non ita didiristis Christum: Si modo de eo audivistis, &amp; per 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e474">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>P 
+      <lb ed="#H" n="41"/>conversationem attinet, veterem illum hominem qui de seductricibus. 
+      <lb ed="#H" n="42"/>cupiditatibus se se corrumpit: Renovari vero spiritu mentis vestrae. Et 
+      in<lb ed="#H" n="43" break="no"/>duere novum illum hominem, qui secundum Deum conditus est ad 
+      ju<lb ed="#H" n="44" break="no"/>stitiam &amp; sanctimoniam veram. Quapropter deposito mendacio, 
+      loqui<lb ed="#H" n="45" break="no"/>mini veritatem quisque proximo su: nam sumus alii aliorum membra. 
+      <lb ed="#H" n="46"/>Irascimini, &amp; ne peccate: sol ne occidat super exacerbatione vestra. Nec 
+      <lb ed="#H" n="47"/>locum date Diabolo, &amp;c. 1. Joh. 3. v. 9. Quisquis natus est ex Deo, 
+      pecca<lb ed="#H" n="48" break="no"/>to non dat operam: quoniam semen ipsius in eo manei: nec potest 
+      pecca<lb ed="#H" n="49" break="no"/>re, eo quod ex Deo natus est. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e500">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>VI. Exempla quae nos ad imitationem invitant: ac primo 
+      qui<lb ed="#H" n="51" break="no"/>dem exemplum Di qui nobis ut pater filiis imitandus Matth. 5. ver. 
+      <lb ed="#H" n="52"/>sic. 48 Estote igitur vos perfσt, ut Pater vester ille, qui est in caelis 
+      perse<lb ed="#H" n="53" break="no"/>ctus est: Levit. 9. vers 2. Alloquere totum coetum filiorum Israelis 
+      edi<lb ed="#H" n="54" break="no"/>pens eis, sancei estote: quia sanctus sum, ego Iehova Deus vester. Et cap.  
+      <lb ed="#H" n="55"/>2I. vers. 8. Itaque sanctificabis illum, quia cibum Dei tui ipse offert, 
+      <lb ed="#H" n="56"/>lanctus esto tibi, quia sanctus est, ego lehova sum sanctificator vister 
+      <lb ed="#H" n="57"/>Ephes. 5. versic 1. Estote igitur imitatores Dei, ut filii dilecti. I. 
+      Jo<lb ed="#H" n="58" break="no"/>han. 3. ver. 7. Filioli nemo vos seducat: qui exercet justitiam, 
+      ju<lb ed="#H" n="59" break="no"/>stus est, sicut ille iustus est. 1. Pet 1. versiculo 15, 16, 17. Sicut is 
+      <lb ed="#H" n="60"/>qui vos vicavit sanctus est, ipsi quoque sancti in omni conversatione red 
+      <lb ed="#H" n="61"/>damini. Propterea quod scriptum est. Sancti estote, nam ego sanctus 
+      sam<lb ed="#H" n="62" break="no"/>Et, si Tatrem cognominatis eum, qui cura personarum respectum 
+      judi<lb ed="#H" n="63" break="no"/>cat ex cuiusque opere, cum timore versamini commorationis vestrae 
+      <lb ed="#H" n="64"/>tempore 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e537">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Deinde incitat nos exemplum Christi capitis nostri, cui nos ut 
+      men<lb ed="#H" n="66" break="no"/>bra decet conformes fieri, Matth. 11. ver. 29. Attollite iugum 
+      me<lb ed="#H" n="67" break="no"/>um in vos, &amp; discite a me quod mitis sim &amp; summissus corde: &amp; 
+      inve<lb ed="#H" n="68" break="no"/>nietis requiem animabus vestris Eph. 5. v. 2. Et ambulate in 
+      charita<lb ed="#H" n="69" break="no"/>re, sicut &amp; Christus dilexit vos, &amp; tradidit semetipsum pro nobis obla¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e553">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>ti 
+      <lb ed="#H" n="71"/>Vt ambuletis sicut Domino convenit, cui per omnia placeatis, omnis 
+      o<lb ed="#H" n="72" break="no"/>peris boni fructum proferentes, &amp; crescentes in agnitione Dei. Rom. 13: 
+      <lb ed="#H" n="73"/>v. ult. Sed induimini Domino Iesu Christo, &amp; carnis curam ne habete 
+      <lb ed="#H" n="74"/>ad explendas cupiditates. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e570">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>Praeterea provocant nos exempla aliorum sanctorum tum Ango 
+      <lb ed="#H" n="76"/>lorum tum hominum quos imitari par est. Matth. 6. v 10. Fiat 
+      vo<lb ed="#H" n="77" break="no"/>luntas tua, sicut in caelo, sic etiam in terra. 1. Cor 4. 16, 17. Precor vos 
+      i<lb ed="#H" n="78" break="no"/>gitur, imitatores mei estote. Propterea misi vobis Timotheum, qui est 
+      fi<lb ed="#H" n="79" break="no"/>lius meus dilectus &amp; fidelis in Domino, qui vobis in memoriam revoca 
+      <lb ed="#H" n="80"/>bit quae sint viae meae in Christo, sicut ubique in omnibus Ecclesius doceo. 2. 
+      <lb ed="#H" n="81"/>Thess. 3. 7. Ipsi scitis quomodo oporteat nos imitari: quonia non 
+      inordi<lb ed="#H" n="82" break="no"/>nase nos gessimus inter vos. Heb. 13. 7. Momores estote ductorum vestro 
+      <lb ed="#H" n="83"/>rum, qui loquuti sunt vobis sermonem Dei: quorum imitamini fidem, 
+      <lb ed="#H" n="84"/>contemplantes quis fuerit exitus conversationis ipsorum 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e596">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>VII. Communio nostra cum Deo &amp; Christo. 1 Joh. 1. v. 5, 6, 7. 
+      <lb ed="#H" n="86"/>Hic est igitur nuncius ille quem audivimus ex ipso, &amp; renunciamus 
+      vo<lb ed="#H" n="87" break="no"/>bis, Deum lucem esse, nec tenebras in eo esse ullas. Si dixerimus nos 
+      com<lb ed="#H" n="88" break="no"/>munionem habere cum eo, &amp; in tenebris ambulamus, metimur, nec 
+      sin<lb ed="#H" n="89" break="no"/>cere agimus. Quod si in luce ambulamus, sicut ipse est in luce, comunione 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e612">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>E 
+      <lb ed="#H" n="91"/>ab omni peccato, Et c. 2. 6. Qui dicit se in eo habitare, debet, prout ille. 
+      <lb ed="#H" n="92"/>ambulavit, ita &amp; ipse ambulare. Et c. 3. 24. Nam qui observat ejus prae¬ 
+      <!--cod-MkL9py-0590.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>cepta, in eo habitat, &amp; ipse in eo: per hoc novimus ei habitare in nobis. 
+      <lb ed="#H" n="94"/>nempe ex Spiritu que nobis dedit. Rom. 6. 3, 4, 5. An ignoratis, nos 
+      quot<lb ed="#H" n="95" break="no"/>quot baptizati sumus in Christum Iesum, in mortem eius esse 
+      Laptiza<lb ed="#H" n="96" break="no"/>tos? Consepulti sumus igitur ei per baptismum in mortemtut sicut 
+      susci<lb ed="#H" n="97" break="no"/>tatus est Christus ex mortuis in gloriam Patris, ita &amp; nos nova vita 
+      am<lb ed="#H" n="98" break="no"/>bulemus. Nam si cum eo plantati coaluimus assimilatione mortis eius. 
+      <lb ed="#H" n="99"/>nimirum etiam resurrectionis assimilatione cum eo coalescemus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e643">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>IIX. Beneficia Dei magna &amp; innumera quibro nos tum 
+      commu<lb ed="#H" n="101" break="no"/>niter, tum singulariter tota vita nostra affecit, adhuc quotidie afficit &amp; 
+      <lb ed="#H" n="102"/>deinceps quoque afficiet. 1. Sam. 12. 26. Timete Iehova ut colatis eit 
+      ve<lb ed="#H" n="103" break="no"/>re, ex toto animo vestro: nam considerate res magnas quas fecit erga vos 
+      <lb ed="#H" n="104"/>Ro. 24. An divitias benignitatis eius &amp; tolerantiae ac irae cohibitae 
+      co<lb ed="#H" n="105" break="no"/>temnis, ignorans benignitate Dei ad resipiscentiam te deducere? Ro. 12. 
+      <lb ed="#H" n="106"/>I. Adhortor igitur vos fratres, per miserationes Dei, ut sistatis corpora 
+      <lb ed="#H" n="107"/>vi stra hostiamvivam, sanctam, placente Deo, rationalem illum cultum 
+      <lb ed="#H" n="108"/>vestrum. Jes. 1. v. 2. &amp; 3. Audite caeli, &amp; auribs percipe terra; nam Iehova 
+      <lb ed="#H" n="109"/>loquitur: filios educavi &amp; extuli, ipsi aute deficientes rebellaverunt in 
+      <lb ed="#H" n="110"/>me. Agnoscit bos possessorem suum, &amp; asinus praesepe domini sui: Israe 
+      <lb ed="#H" n="111"/>non agnoscit, populus meus non animadvertit. 1. Joh. 3. 2, 3. Dilecti acunt 
+      <lb ed="#H" n="112"/>filii Dei sumus, sed nondum manifestum factum est quod erimus: scimus 
+      <lb ed="#H" n="113"/>autem fore, ut quum ipse factus fuerit manifestus, similes ei simus: quo- 
+      <lb ed="#H" n="114"/>niamvidebimus eum sicuti est. Et quisquis habet hanc spem in eo sitam, 
+      <lb ed="#H" n="115"/>castum se conservat, sicut &amp; ille castus est 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e682">
+               <lb ed="#H" n="116"/>
+               <pc type="indent"/>Ineprimis beneficium redemtionis nostri per sanguinem Christi. 
+      <lb ed="#H" n="117"/>1. Petr. 1. 18, 19. Vt qui sciatis ves non corruptibilib. rebus argento vel 
+      au<lb ed="#H" n="118" break="no"/>ro fuisse redemtos ex vana illa vistra conversatione, a patribus 
+      tradi<lb ed="#H" n="119" break="no"/>ta: Sed pretioso sanguine, utpoto agni inculpati &amp; incontaminati, nempo 
+      <lb ed="#H" n="120"/>Christi. Tit. 2. 14. Qui dedit semetipsum pro nobis, ut redimeret nos 
+      ab<lb ed="#H" n="121" break="no"/>omni iniquitate, &amp; purificaret sibiipsi populum peculiarem, accensum 
+      <lb ed="#H" n="122"/>studio bonorum operum: &amp; regenerationis Rom. 6. 11. Ita etiam vos 
+      <lb ed="#H" n="123"/>colligite, vos tum mortuos esse peccato, tum vero vivere Deo per Christa. 
+      <lb ed="#H" n="124"/>Iesum Dominum nostrum: &amp; adoptionis in filios Dei, 1. Pet. 1. v. 14. V. 
+      <lb ed="#H" n="125"/>filii obedientes, qui vos non configuretis pristinis, quae in ignorantia 
+      ve<lb ed="#H" n="126" break="no"/>stra viguerunt, cupiditatibus: &amp; fidei salvificae. 1. Pet 1. v. 21. Per eum 
+      <lb ed="#H" n="127"/>credentes in Deum, qui suscitavit eum ex mortuis, &amp; gloriam ei dedit 
+      <lb ed="#H" n="128"/>ut fides ac spes vestra in Deo esset. Eph. 5. 8. Eratis enim olim tenebra. 
+      <lb ed="#H" n="129"/>nunc autem lux in Domino: ut filii lucis incedite. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e717">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>IX. Manifestatio &amp; confirmatio &amp; veluti obsignatio electionis 
+      <lb ed="#H" n="131"/>gratiosae ad vitam aeternam, vocationis efficacis, fidei vivificae, jut 
+      <lb ed="#H" n="132"/>stificationis, regenerationis &amp; adoptionis in numerum filiorum 
+      <lb ed="#H" n="133"/>Dei. Nam bona opera sunt signa infallibilia quae unicuique vere 
+      fi<lb ed="#H" n="134" break="no"/>delium confirmant beneficia memorata. Qui enim sincere &amp; 
+      con<lb ed="#H" n="135" break="no"/>stanter bonis operibus studet, is est electus ad vitam aeternam, 
+      effi<lb ed="#H" n="136" break="no"/>faciter vocatus ad Christum, fide salvifica donatus, justificatus 
+      co<lb ed="#H" n="137" break="no"/>tam Deo, regeneratus &amp; sanctificatus per Spiritum Sanctum, filius 
+      <lb ed="#H" n="138"/>Dei, &amp; c. 2. Petr. 1, 10. Studete vocationem &amp; electionem vestram 
+      fir<lb ed="#H" n="139" break="no"/>mam efficere. 1. Joh. 3. 7, 9, 10. Qui exercet justitiam, justus est, sicut 
+      il<lb ed="#H" n="140" break="no"/>le justus est 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e747">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>X. Terrores quos Deus immittit. Exod. 20. v. 20. Edixit vero Mo. 
+      <lb ed="#H" n="142"/>ses populo ipsi, ne timeatis, nam ut tentaret vos, venit Deus ipse, &amp; ut sit 
+      <lb ed="#H" n="143"/>timor eius ante faciem: vestram, ne peccatis. Ita cum Deus somnia 
+      <lb ed="#H" n="144"/>terribilia immittit, ad studium bonorum operum nos excitat  
+      <lb ed="#H" n="145"/>Dan. 4. ver. 27. Quapropter o Rex, consilium: meum placeat tibi, &amp; 
+      pec<lb ed="#H" n="146" break="no"/>cata tua iustitia abrumpe &amp; iniquitates tuas gratia erga afflictos: si 
+      for<lb ed="#H" n="147" break="no"/>re erit prorogatio tranquillitati tuae. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e767">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>XI. Instabilitas rerum humanarum, quia res secundae non 
+      perpe<lb ed="#H" n="149" break="no"/>tuo durant, &amp; aetas paulatim ingravescit, &amp; senium accedit. 
+      Ecclesia<lb ed="#H" n="150" break="no"/>stae 12. v 3 &amp; seqq. Recordare Creatoris tui diebus juventutis tuae: 
+      tan<lb ed="#H" n="151" break="no"/>tisper dum non adveniunt dies ipsius mali, &amp; pertingunt anni quibus 
+      <lb ed="#H" n="152"/>dicas, non est mihi in istis delectatio: Tantisper dum non obtenebrescit.  
+      <lb ed="#H" n="153"/>sol, &amp; lux, lunaque ac stellae; neque recurrunt densae nubes tost pluviam: Quo 
+      <lb ed="#H" n="154"/>tempore commovebuntur custodes illi domus, &amp; pervertent sese valem 
+      <lb ed="#H" n="155"/>tes robore, &amp; intermittent molitrices illae quum mandent, &amp; obtenebre 
+      <lb ed="#H" n="156"/>scent illi qui spectant per speculas, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e791">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>XII. Morbi &amp; aliae afflictiones, quibinos Deus domat, humiliat &amp; 
+      <lb ed="#H" n="158"/>ad pietatem excitat. Ps. 119. v. 67. Quum nondum affligerer, ego 
+      erra<lb ed="#H" n="159" break="no"/>bam: nunc autem sermonem tuum observo: Et. v 71. Bono mihi suit 
+      me<lb ed="#H" n="160" break="no"/>affligi, ut discerem statuta tua, 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e804">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>XIII. Brevitas hujus vitae 1. Pet. 1. v. 17. Et, si patrem cognomina. 
+      <lb ed="#H" n="162"/>tis eum, qui citra personarum respectum judicat ex cuius qopere, cum 
+      ti<lb ed="#H" n="163" break="no"/>more versamini commorationis vestrae tempore. 1. Cor. 7. v 29. Hoc aut 
+      <lb ed="#H" n="164"/>tem ajo, fratres, quoniam oportunum tempus est &amp; angustum in 
+      poste<lb ed="#H" n="165" break="no"/>rum ut &amp; qui habent uxores, sint ut non habentes 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e820">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>XIV. Meditatio mortis. Ps. 90. 12. Numerare dies nostros ita doce 
+      <lb ed="#H" n="167"/>nos, ut inducamus animum sapientem. Ecclesiastae 12. v. 5, 6, 7. Qui  
+      <lb ed="#H" n="168"/>tempore commovebuntur custodes illi domus, &amp; pervertent sese valentes 
+      <lb ed="#H" n="169"/>robore, &amp; intermittent molitrices illae quum mandent, &amp; obtenebrescent 
+      <lb ed="#H" n="170"/>illi qui spectant per speculas: Occludenturque valvae foro, deiecta sonora 
+      <lb ed="#H" n="171"/>molitione; &amp; surget ad vocem avicula, deprimeturque omnia canora: 
+      Et<lb ed="#H" n="172" break="no"/>am a re alia timebunt, &amp; contritionibus in via: &amp; efflorescetem 
+      amy<lb ed="#H" n="173" break="no"/>gdalum, &amp; pinguefacientem selocustam, irritam faciet animus iste 
+      <lb ed="#H" n="174"/>apperes: quii abit homo in locum seculi sui, circumituris in platea luget ibus 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e844">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>XV. Cogitatio continua cerro instantis finis mundi &amp; ultime 
+      illi<lb ed="#H" n="176" break="no"/>us diei &amp; adventus Christi, &amp; horrendi illius extremiss universalis 
+      in<lb ed="#H" n="177" break="no"/>dicii. Ecclesiastae 11. 7, 8. Est quidem dulcis haec lux, &amp; bonum hisce 
+      ocu<lb ed="#H" n="178" break="no"/>lis aspicere hunc solem: Sed si annos multos vivens homo in eis omnib. 
+      <lb ed="#H" n="179"/>caetetur: attamen recordari eum oportet dies tenebrarum, multos esse 
+      il<lb ed="#H" n="180" break="no"/>os, quicquid evenit vanitate esse. Et c. 12. v. ult. Nam omne opus Deus 
+      <lb ed="#H" n="181"/>ipse adducet in judicium cum omnire occulta; sive bonum sive malum. 
+      <lb ed="#H" n="182"/>Matth. 3. vers. 10. Omnis arbor non ferens fructum bonum. 
+      <lb ed="#H" n="183"/>exciditur &amp; in ignem conjicitur &amp; v. 11. cujus ventilabrum est in 
+      ma<lb ed="#H" n="184" break="no"/>nu sua &amp; qui perpurgabit aream suam: &amp; coget tritici suum i1 
+      <!--cod-MkL9py-0591.xml-->
+      <pb ed="#H" n="562"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>horreum, paleam aute exuret igni inextincto Et c. 12. 36, 37. Sed 
+      di<lb ed="#H" n="2" break="no"/>co vobis, quodcunque verbum otiojum loquuti fuerint homines, de eo 
+      red<lb ed="#H" n="3" break="no"/>dituros rationem in die judicii: Ex sermonibs enim tuis justificaboris, &amp; 
+      <lb ed="#H" n="4"/>ex sermonibus tuis condemnaberis. Et 25c. toto, ubi Christus tum 
+      bo<lb ed="#H" n="5" break="no"/>na opera fidelium recenset, tum mala infidelium. Luc. 21. v. 34, 35. 
+      <lb ed="#H" n="6"/>36 Cavete vobis nequando graventur corda vestra crapula &amp; ebrieta. 
+      <lb ed="#H" n="7"/>te, &amp; solicitudinibus huius vitae: &amp; repente vobis superveniat dies ille 
+      <lb ed="#H" n="8"/>Nam ut laqueus invadet in omnes, qui habitat in superficie totius 
+      ter<lb ed="#H" n="9" break="no"/>rae. Excubate igitur, omni tempore deprecantes ut digni habeamini quo 
+      <lb ed="#H" n="10"/>effugiatis ista omnia quae futura sunt: &amp; consistatis ante Filium 
+      hom<lb ed="#H" n="11" break="no"/>nis. Act 17. v. 30, 31. Deus igitur temporibus istius ignorantiae 
+      conm<lb ed="#H" n="12" break="no"/>vendo dissimulatis, nunc mandat omnib. ubique hominibus ut resipiscant 
+      <lb ed="#H" n="13"/>Eo quod statuit diem quo juste judicaturus est orbem terrarum, per eum. 
+      <lb ed="#H" n="14"/>virum quem definiit, fide ejus rei palaim facta omnibus, illo ex mortuis. 
+      <lb ed="#H" n="15"/>suscitato. Act 24. v. 25. disserens Paulus coram Felice de iustitia &amp; 
+      <lb ed="#H" n="16"/>continentia, simul etiam disseruit de iudicio futero. 2. Cor. 4 14. 
+      Sci<lb ed="#H" n="17" break="no"/>entes fore ut qui suscitavit Dominum Iesum, nos quoque per Iesum 
+      susci<lb ed="#H" n="18" break="no"/>tet, &amp; sistat vobiscum. Et cap. 5. v. 9, 10,11. Qua propter etiam 
+      conten<lb ed="#H" n="19" break="no"/>dimus ut hic praesentes, &amp; hinc absetes, ipsi placeamus. Omnes enim 
+      no<lb ed="#H" n="20" break="no"/>manifestos fieri oportet coram tribunali Christi, ut unusquisque reportet 
+      <lb ed="#H" n="21"/>quae in corpore fecerit, congruenter ad id quod fecerit, sive bonam, sive 
+      <lb ed="#H" n="22"/>malum. Scientes igitur terrorem illum Domini, homines ad fidem 
+      ad<lb ed="#H" n="23" break="no"/>ducimus, Deo autem manifesti sumus: &amp; spero nos etiam conscientiis 
+      <lb ed="#H" n="24"/>vestris manifestos esse. Tit 2. v. 12, 13. Erudiens nos ut abnegata 
+      impie<lb ed="#H" n="25" break="no"/>tate &amp; mundanis cupiditatibus, temperanter &amp; iuste &amp; pie vivamus 
+      <lb ed="#H" n="26"/>in praesenti seculo: Exspectantes beatam illam spem &amp; illustrem illum 
+      <lb ed="#H" n="27"/>adventum gloriae magni illius Dei acServatoris nostri, nempe Ie 
+      uChri<lb ed="#H" n="28" break="no"/>sti. Heb. 10. v 25, 26, 27. Non deserentes aggregationem nostri mutus 
+      <lb ed="#H" n="29"/>am, sicuti mos est quibusdam, sed adhortantes alii alios: idque eo magis 
+      <lb ed="#H" n="30"/>quod videtis illum diem appropinquare. Nam si ultro peccaverimus 
+      <lb ed="#H" n="31"/>post acceptam cognitionem veritatis, non adhuc pro peccatis reliqua est 
+      <lb ed="#H" n="32"/>hostia: Sed horreda quaedam exspectatio iudici, &amp; ignis fervor, qui 
+      de<lb ed="#H" n="33" break="no"/>voraturus est adversarios. Jacob. 5. v. 7. 8, 9. Patiente igitur anime 
+      <lb ed="#H" n="34"/>estote, fratres, usque ad Domini adventum. Ecce, agricola exspectat. 
+      <lb ed="#H" n="35"/>pretiosum fructum terrae, patiente animo eum exspoctans, dum accipia 
+      <lb ed="#H" n="36"/>pluviam matutinam &amp; serotinam. Patiente animo estote &amp; vos, &amp; 
+      <lb ed="#H" n="37"/>stabilite corda vestra, quoniam adventus Domini appropinquat. Ne su 
+      <lb ed="#H" n="38"/>spirate alius adversus alium, fratres; ut ne condemnemini: ecce, iudex 
+      <lb ed="#H" n="39"/>ante fores adstat. 1. Pet. 1 7. Et, si patrem cognominatis eum, qui citra 
+      <lb ed="#H" n="40"/>personarum respectum tudicat ex cuiusque opere, cum timore versamino 
+      <lb ed="#H" n="41"/>commorationis vestrae tempore. Et c. 4. v. 5. Qui reddituri sunt rationem 
+      <lb ed="#H" n="42"/>ei qui paratus est ad judicandum vivos &amp; mortuos. Et v. 7. Omnium 
+      <lb ed="#H" n="43"/>autem finis imminet: Estote igitur temperantes &amp; sobria ad preces. 2. Pet. 
+      <lb ed="#H" n="44"/>3. 10. 11, 12, 13, 14. Veniit autem sicut fur in nocte dies ille Domini, qui 
+      <lb ed="#H" n="45"/>caeli cum stridore praeteribunt, lemenia vero astuantia solventar, terra 
+      <lb ed="#H" n="46"/>que &amp; quae in ea sunt opero exurentur Quum igitur haec omnia 
+      dissel<lb ed="#H" n="47" break="no"/>venda sint, quales eportet esse vos in sanctis conversationibus &amp; pietatis 
+      <lb ed="#H" n="48"/>ffitiis, Exspectantes &amp; properantes ad advenatum diei Dei, in quo 
+      cael<lb ed="#H" n="49" break="no"/>conflagrantes sosventur, &amp; clementa astuantia liquescent? Sed caelos 
+      no<lb ed="#H" n="50" break="no"/>vos ac terram novam secundue. promissum exspectamus, in quibus in 
+      <lb ed="#H" n="51"/>stitia inhabitat. Qupropter dilcti, quum haec exspictetis, studete ut in 
+      <lb ed="#H" n="52"/>contaminati &amp; inculpati beo inviniamini eum pace. 1. Joh. 4. 17. Pe. 
+      <lb ed="#H" n="53"/>hoc adimpl tur charitas nobiscum, ut fiduciam habeamus in die uudicii, 
+      <lb ed="#H" n="54"/>quod qualis ille est, tales &amp; nos sumus in hoc mundo Apoc. 1. v. 3. Beatus 
+      <lb ed="#H" n="55"/>qui ligit, &amp; beati qui audiunt verta prophetiae huius, &amp; observant ea quae 
+      <lb ed="#H" n="56"/>in ea scripta sunt: praestitutum enim tempus illud: rope est, 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e999">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Chrysostomi locus homilia vigesimasecunda ad populum 
+      Antio<lb ed="#H" n="58" break="no"/>chenum, dignus est qui huc adscribatur: Vt animam tuam velut Dei 
+      <lb ed="#H" n="59"/>habitaculum praepares, memento horrendi multum, &amp; tremendi illius 
+      <lb ed="#H" n="60"/>dier, in quo omnes Christ. throno assistentes, rerum hic gestarum 
+      ratio<lb ed="#H" n="61" break="no"/>nes reddemus, ante omnium oculo poccata nostra ponentur, &amp; rursum 
+      <lb ed="#H" n="62"/>revelobuntur, &amp; ignorantibus ostendentur actiones, ubi ignis fluvius, &amp; 
+      <lb ed="#H" n="63"/>insopitus vermis, ubi omnia nuda &amp; praecipitata. Ubi cordium nostrorum 
+      <lb ed="#H" n="64"/>libri aperientur, &amp; in medio marefeste logentur etiam occulta, nocturna, &amp; 
+      <lb ed="#H" n="65"/>diurna, ex gneraniia &amp; oblivione facta, quae mebris effecimus, quaeque  
+      <lb ed="#H" n="66"/>nunc latent revelabuntur. Cogita igitur, quod omnino nos hinc ad 
+      in<lb ed="#H" n="67" break="no"/>fallibilem migrare iudicem oportet: ubi non tantum actiones, verum &amp; 
+      <lb ed="#H" n="68"/>verba, &amp; cogitata iudicantur: ubi terribiles etiam eorum quae videntur 
+      <lb ed="#H" n="69"/>esse parva, poenas dabimus. Haec semper recordare, &amp; in extinctae nunqua 
+      <lb ed="#H" n="70"/>obliviscaris flammae. Praevide venisatem iudicare vivos &amp; mortuos. I 
+      <lb ed="#H" n="71"/>Cogites Angelorum millia, &amp; myriadas tunc tudici assistentes: nunc 
+      au<lb ed="#H" n="72" break="no"/>ditus vocem tubarum, &amp; tremendam illam condemnantu vocem prae 
+      <lb ed="#H" n="73"/>veniat. Praevideat oculus hos quide velut zigania colligari, &amp; in 
+      cliba<lb ed="#H" n="74" break="no"/>nos proiici, alios manib, &amp; pedibs. vinctos il exteriores mitti tenebras: &amp; 
+      <lb ed="#H" n="75"/>alios insopito vermi, &amp; luctui, &amp; dentiu stridori traditos: hunc quidem 
+      <lb ed="#H" n="76"/>de intempestivo risu tudicar, huncvero quod proximum affecit iniuria, 
+      <lb ed="#H" n="77"/>vel quod fratrem seandalizavit: hunc qu dem de incertis damnari 
+      cri<lb ed="#H" n="78" break="no"/>minibs. hunc vero de otioso verbo poenas exigi: hunc vero de mala senten 
+      <lb ed="#H" n="79"/>tia iudicium subire, hunc vero propter convicium regno exclud:quenda 
+      <lb ed="#H" n="80"/>autem propter servatam iram intolerabilia patientem, illum vero in 
+      i<lb ed="#H" n="81" break="no"/>gnominiam resurgentem aeternam:hos autem Christi cognitione 
+      priva<lb ed="#H" n="82" break="no"/>ri, &amp; audire, Amen dicovobis, nescio vos: quoniam fecerunt quae Christus. 
+      <lb ed="#H" n="83"/>prohibuit. His igitur sic se habentibus quales nos oportet ess?vel quales 
+      e<lb ed="#H" n="84" break="no"/>mittere lacrymas, &amp; dicere: Quis dabi capiti meo aquam, &amp; oculis meis 
+      <lb ed="#H" n="85"/>fontem latrymarum, &amp; lugebo dies ac noctes? Sed ut exspectatam effigis 
+      <lb ed="#H" n="86"/>mus poeram, venite praeoccupemus facie Domini in confessione, &amp; vitea 
+      <lb ed="#H" n="87"/>diligentia propitiatio: es Domini Dei invocemus. In inferno (namque 
+      aun<lb ed="#H" n="88" break="no"/>quis cofitebitur tibi Omnia nobis duplicia Deus dedit, duos oculos, duas 
+      <lb ed="#H" n="89"/>aures, duas manus, duos pedes. Si gitur horum al erum laedatur, per 
+      al<lb ed="#H" n="90" break="no"/>terum necessitatem consolamur. Animam ve¬o unam d dit nobis: si  
+      <lb ed="#H" n="91"/>hanc perdiderimus quacunque vivomus? Huius igitur providentiam 
+      fa<lb ed="#H" n="92" break="no"/>ciamus, nihil ipsius saluti praeferetes: quoniam haec etia est quae cum cor¬ 
+      <!--cod-MkL9py-0591.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>pore iudicatur, &amp; simul defenditur, &amp; comparet ante Christi tribunat 
+      <lb ed="#H" n="94"/>Si tunc dixeris, pecuniae me allexerunt: dicit tibi iudex; Non audisti, que 
+      <lb ed="#H" n="95"/>utilitas, si quis totum mundum lucretur, animae autem suae 
+      decrimen<lb ed="#H" n="96" break="no"/>tum patiatur? Si dixeris, diabolus me decepit: dicet tibi &amp; ipse, quod  
+      <lb ed="#H" n="97"/>nihil profuit Evae, quia dixit, serpens me decepit. Haec igitur mente ter 
+      <lb ed="#H" n="98"/>nentes, Venite excitemus nos ipsos priusquam obruamur, 
+      priusquamve<lb ed="#H" n="99" break="no"/>niat dies Domini magnus, &amp; appareat, de quo Propheta dicit; Ecce 
+      ve<lb ed="#H" n="100" break="no"/>nit, &amp; quis sustinebit, vel quis tolerabit diem adventus eius? 
+      Tremen<lb ed="#H" n="101" break="no"/>da dies illa tumultus, &amp; tenebrarum. Sed dices. Quomodo igitur licet  
+      <lb ed="#H" n="102"/>praedicta mala effugere? dicum. Non tantum corpus tuum 
+      custodia<lb ed="#H" n="103" break="no"/>purum, sed cum mala passus benefeceris, si accuseris, continons sis &amp; 
+      <lb ed="#H" n="104"/>patiens: cum ieiunaveris, ne glorieris: non enim ciborum 
+      absti<lb ed="#H" n="105" break="no"/>nentia ieiunium operatur, sed abstinentia peccatorum. Scriutare enim 
+      <lb ed="#H" n="106"/>Scripturas. Vide quomodo primum virgam nuceam videt propheta. 
+      <lb ed="#H" n="107"/>postea lebetem super ardentem, demonstrans quod non sustinentem 
+      vir<lb ed="#H" n="108" break="no"/>gae castigationem ignis suscipit. Sic &amp; per Mosen demonstrabat ignis 
+      <lb ed="#H" n="109"/>columnam rebus ciamans, quod legem audiens, videt lucem, inobediens: 
+      <lb ed="#H" n="110"/>autem suscipit ignem. Legite Saivatoris Scripturas, &amp; discite, quo- 
+      <lb ed="#H" n="111"/>modo cos hinc illuc migrantes adiuvare potest nemo. Non frater 
+      fra<lb ed="#H" n="112" break="no"/>trem redimet ex interminabilibus tormentis: non amicus amicum, non 
+      <lb ed="#H" n="113"/>parentes filios, non filiit parentes. Et quid dico homines miserabiles, 
+      <lb ed="#H" n="114"/>um neque si Noe veniat, &amp; lob, &amp; Daniel, tunc iudicantem exorare 
+      pos<lb ed="#H" n="115" break="no"/>sint? Sed dices: Unde horum demonstritio? Vide non indutum veste 
+      nu<lb ed="#H" n="116" break="no"/>ptiali ex sponsali domo expul sum, neminem pro illo intercedentem. Vide 
+      <lb ed="#H" n="117"/>talentum habentem creditum, &amp; non negociatum, &amp; quomodo pro ipse  
+      <lb ed="#H" n="118"/>supplicat nemo. Respice mihi quinque virgines exclujas, &amp; aequales pro 
+      i<lb ed="#H" n="119" break="no"/>psis non deprecatas, quas &amp; stuitas Chr stus iuncuvavit, quontaus post. 
+      <lb ed="#H" n="120"/>calcatas uoluptate, post extinctum concupicertiae fornacem, est iiiu 
+      <lb ed="#H" n="121"/>nium, &amp; lectum humi stratum &amp; vigiliam, tunc stuitae sant inventae, &amp; 
+      <lb ed="#H" n="122"/>mer to quide: propterea quod servato magno virginitatis munere 
+      <lb ed="#H" n="123"/>mandatum humilitatis parvum non coestodierunt. Vide mihi in 
+      tudi<lb ed="#H" n="124" break="no"/>cii die iudicem oves a de tris constituentem, &amp; in fruct oses haedos a sit 
+      <lb ed="#H" n="125"/>nistris: &amp; a dexiris quidem positis dicentem. Vecite benedicti Patris mei 
+      <lb ed="#H" n="126"/>accipite paratum vobisr gnum. A sinistris vero positos in tenebi as 
+      ex<lb ed="#H" n="127" break="no"/>teriores repellintem, &amp; eictis posse iuccurrere neminem. Verus enin 
+      <lb ed="#H" n="128"/>sermo dicens: Ecce homo, &amp; opus eius. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e1164">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>XVIII. Spes vicae ateruae, in qua perfectam imaginem Dei 
+      recu<lb ed="#H" n="130" break="no"/>perabimus &amp; Deum videbimus, sicuti est.  Joh. . v. 2. &amp; 3. Duecti, 
+      <lb ed="#H" n="131"/>nunc fiui Dei sumus, sed nondum manif stump ctum si qued erimus 
+      <lb ed="#H" n="132"/>scimus autem fore ut quum i, s factus fuerit manifestus, sim les ei sit 
+      <lb ed="#H" n="133"/>mus: quoniam videbimus eum sicuti est Et quisquis habet hanc spem in 
+      <lb ed="#H" n="134"/>eo, castum se conservet, sicut &amp; ille castus ist 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e1182">
+               <lb ed="#H" n="135"/>
+               <pc type="indent"/>Tantum de prima causa instrumentali bonorum ope¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e1189">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>rum, nimirum doctrina 
+      caelesti<lb ed="#H" n="137" break="no"/>Secunda causair strumetalis, est fides viva, per quam in justificatis 
+      <lb ed="#H" n="138"/>per Christum, &amp; regeneratis per Spiritum Sanctum: producuntur ce 
+      <lb ed="#H" n="139"/>terae virtutes fidelium, &amp; actiones bonae a virtutibusiilis inanines. 
+      <lb ed="#H" n="140"/>sicut dicitur Jac. 2. 22. quod fides sit administr i onorum operum Huc 
+      <lb ed="#H" n="141"/>pertinent loca . Pet. 1. 5. Qui virtutis Dei praesidio custodomini per sut 
+      <lb ed="#H" n="142"/>ad salutem paratam revelari praestituto tempore ultimo. 1 Joh. 2. v. 3, 4. 
+      <lb ed="#H" n="143"/>Et per hoc scimus quod ipsum novimus, si praecopta ipsius obserzemus. 
+      <lb ed="#H" n="144"/>Qui dicit, novi eum, &amp; praecepta eius non observat, mendux est, &amp; in eo 
+      <lb ed="#H" n="145"/>veritas non est. Et c. 3. v. 3. Et quisquis habet hanc spem in eo sitam, 
+      ca<lb ed="#H" n="146" break="no"/>stum, se conservat, sicut &amp; ille castus est. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e1218">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Fides autem est causa bonorum operum, non quatenus est qualitas 
+      <lb ed="#H" n="148"/>hobis inhaerens: sed quatenus est instrumentum appichendens 
+      Chri<lb ed="#H" n="149" break="no"/>stum, qui pe. Spiritum Sanctum non regenerat, reformat, sanctific at  
+      <lb ed="#H" n="150"/>atque imaginem Dei in nobis instautat. Act 15 v. 9. Nihi que discrevit 
+      <lb ed="#H" n="151"/>inter nos &amp; illes, fide ab ipso purificatis cordibus eorum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e1234">
+               <lb ed="#H" n="152"/>
+               <pc type="indent"/>Eadem fides est causa bonorum operum non proxima, se remota. 
+      <lb ed="#H" n="153"/>Nam est proxima causa justificationis: deine est causa eorum qui  
+      <lb ed="#H" n="154"/>ustificationem consequuntur, nimirum regenerationis seu 
+      sanctifi<lb ed="#H" n="155" break="no"/>cationis &amp; bonorum operum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e1248">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Omnia proinde opera quae fiunt absque fide Sunt mala, sunt peccata, 
+      <lb ed="#H" n="157"/>Rom 14 Et talia sunt omnia opera, quaecunque homines faciunt ante 
+      <lb ed="#H" n="158"/>justificationem suam coram Deo. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e1259">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>Tertia instrumentalis causa bonorum operum est natura nostra 
+      <lb ed="#H" n="160"/>per Spiritum Saectum regenerata, hoc est, homines ipsi regene 
+      <lb ed="#H" n="161"/>rati, qui sunt Dei instrumenta per quae is operatur, qui acti a 
+      Spi<lb ed="#H" n="162" break="no"/>ritu Sancto ipsi quoque agunt, ac proinde actionum bonarum i 
+      <lb ed="#H" n="163"/>psi quoque sunt causae cooperantes, Matthaei 3. versic 8. Forte igitur 
+      <lb ed="#H" n="164"/>fructus convenientes resipi, centiae. Ephes. 2. vers 10. Nam it sius 
+      su<lb ed="#H" n="165" break="no"/>mus opus, conditi in Christo Iesu ad opera bona, quae praeparivit Deus ut 
+      <lb ed="#H" n="166"/>in eis ambulemus. 2 Corinth. 5. versic. 17 Si quis igitur est in Christo. 
+      <lb ed="#H" n="167"/>nova creatura est: vetera praeterierunt: eice nova facta sunt omria 
+      <lb ed="#H" n="168"/>Roman. 6. versic. 4, 5, 6. Consepu ti sumus igituret per baptismum in 
+      <lb ed="#H" n="169"/>mortem: ut sicut suscitatus est Christus ex mortuis in gloriam Patris, 
+      <lb ed="#H" n="170"/>ita &amp; nos nova vita ambulemus. Nam si cum eo plantati coaluimus 
+      <lb ed="#H" n="171"/>assimilatione mortis eius, nimirum etiam resurrectionis assimilatione. 
+      <lb ed="#H" n="172"/>cum eo coalescemus: Illud scientes, veterem illum nostum hominem cit 
+      <lb ed="#H" n="173"/>eo crucifixum esse, ut aboleatur corpus peccati, ne nos amplius serviamia 
+      <lb ed="#H" n="174"/>peccato. Gal 5. 22. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e1298">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>Agunt autem regenerati anima &amp; corpore. 
+      <lb ed="#H" n="176"/>Anima quidem, dum mente, intellectu. voluntate &amp; affectibus 
+      <lb ed="#H" n="177"/>sanctis Deo servium Legique ipsius, Roman. 7. versic. 25. 
+      Gra<lb ed="#H" n="178" break="no"/>tias ago Deo per Iesum Christum Dominum zostrum. Nempe igitus 
+      <lb ed="#H" n="179"/>ipse exo ment quidem servio Legi Dei, carne v so egi peccat: Libe 
+      <lb ed="#H" n="180"/>rum ergo arbitrium in renatis est causa efficiens instrumentalis 
+      bo<lb ed="#H" n="181" break="no"/>norum operum, sed quatenus liberatum per Christum &amp; regenes 
+      <lb ed="#H" n="182"/>tatum per Spiritum Sanctum, &amp; a gratia regenerationis semper 
+      ino<lb ed="#H" n="183" break="no"/>lum &amp; adjutum aut potius promotum. 
+      <!--cod-MkL9py-0592.xml-->
+      <pb ed="#H" n="563"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Cerpora vero dum memora iliius sisunt arma justitiae Deo. Rom. 
+      <lb ed="#H" n="2"/>8. v. 12, 13. Ne regnato igitur poccatum in mortali vestro corpore, ut 
+      au<lb ed="#H" n="3" break="no"/>sculttis ei in copiditatibus corporis: Neque sistite membra vestra 
+      arme<lb ed="#H" n="4" break="no"/>injustitiae peccato: sed sistite vos Deo, ut ex mortuis vivos, &amp; membra 
+      <lb ed="#H" n="5"/>vestra arma justitia Deo. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e1340">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Unde infideles &amp; non justificati coram Deo per Christum 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e1347">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>&amp; 
+      <lb ed="#H" n="8"/>non regenerati per Spiritum Sanctum, non possunt facere vere 
+      bo<lb ed="#H" n="9" break="no"/>na opera: quia sunt malae arbores: &amp; opera eorum non sunt bona; 
+      <lb ed="#H" n="10"/>sed mala, sed peccata. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e1360">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Quarta causa instrumentalis bonorum operum, est assidua ac 
+      conti<lb ed="#H" n="12" break="no"/>nua illorum exercitatio, qua sit ut in illis abundantiores &amp; 
+      praestan<lb ed="#H" n="13" break="no"/>tiores fiamus indies, nec nos ab illis per ullas tentationes avocari &amp; 
+      <lb ed="#H" n="14"/>averti patiamur, sed instar bonorum militum in iis fortiter progre, 
+      <lb ed="#H" n="15"/>diamur. 1. Timoth 4. vers. 7 Exerce teipsum ad pietatem. Tit. 2. v. 8. 
+      <lb ed="#H" n="16"/>Sermonem sanum, qui damnari non possit: ut qui se ex adverso opponit, 
+      <lb ed="#H" n="17"/>eruhescat, nihil habens quod de vobis dicat mali. I. Timoth. 1. v. 18. 
+      <lb ed="#H" n="18"/>19. Hoc mandatum commendo tibi, fili Timothee, nempe ut secundum 
+      <lb ed="#H" n="19"/>praegressas dete prophetias, milites per eas bonam illam militiam. 
+      Reti<lb ed="#H" n="20" break="no"/>nens fidem &amp; bonam conscientiam, quam expulsa nonnulli naufragium 
+      <lb ed="#H" n="21"/>fidei fecerunt. 
+    </p>
+            <p xml:id="yyy8Uu-gxd546-d1e1390">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Sic fuit de causis efficientibus bonorum operum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

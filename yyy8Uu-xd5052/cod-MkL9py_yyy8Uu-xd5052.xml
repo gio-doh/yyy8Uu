@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 56</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 56</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd5052"><!-- l10-c56 -->
+            <head xml:id="yyy8Uu-xd5052-Hd1e103">Caput 56</head>
+            <p xml:id="yyy8Uu-xd5052-d1e106">
+               <lb ed="#H" n="158"/>CAPUT LVI
+      <lb ed="#H" n="159"/>In quo de officio mariti &amp; uxoris proprio
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e113">
+               <lb ed="#H" n="160"/>USTITIA alterius conjugis propria peculiariter vel ad mariti 
+      of<lb ed="#H" n="161" break="no"/>ficium proprium pertinet, vel ad uxoris officium proprium 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e120">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Mariti officium proprium est: 1. tueri urorem, ejus 
+      defenso<lb ed="#H" n="163" break="no"/>rem, protectorem &amp; tutorem agere Coloss. 3. vers. 19. Hinc dicitu 
+      <lb ed="#H" n="164"/>maritus esse uxori operimentum oculorum apud omnes, Genes. 20. 
+      <lb ed="#H" n="165"/>16. expandere alam vestis suae super uxorem, Ruth. 3. 9. 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e133">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>2. Uxori debitam benevolentiam reddere. I. Corinth. 7. 
+      ver<lb ed="#H" n="167" break="no"/>sicul. 3. 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e143">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>3. Uxorem decenter rtactare in vestitu, ornamentis &amp; aliis 
+      neces<lb ed="#H" n="169" break="no"/>ariis. Non enim sicut ancilla, sed ut socia tractanda est: quia non 
+      de<lb ed="#H" n="170" break="no"/>pedibus, sed de latere viri formata est 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e154">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>4. Pacis conjugalis autorem &amp; conservatorem esse, &amp; si opus est, 
+      <lb ed="#H" n="172"/>rudenter, leniter, uxorem corrigere, admonitionibus benevolentiae 
+      <lb ed="#H" n="173"/>plenis, non iracunde &amp; aspere odiosis reprehensionibus, nec verbis 
+      <lb ed="#H" n="174"/>injuriosis &amp; contumeliosis, multo minus verberibus, ne 
+      exacerbe<lb ed="#H" n="175" break="no"/>ur uxor &amp; refractaria reddatur: neve ipse matitus autoritatis suae 
+      <lb ed="#H" n="176"/>pacturam faciat apud alios. Nam qui alios ad pacem &amp; concordiam 
+      <!--cod-MkL9py-0715.xml-->
+      <pb ed="#H" n="686"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>salutatiter exhortetur &amp; addicat, qui ipse domi suae cum uxore 
+      pa<lb ed="#H" n="2" break="no"/>cem &amp; concordiam colere &amp; tueri non novit? Hoc praeceptum 
+      ma<lb ed="#H" n="3" break="no"/>xime ad ministros Ecclesiae in conjugio viventes &amp; ad presbyteros 
+      <lb ed="#H" n="4"/>Ecclesiae pertinet, ut &amp; ad Reipublicae gubernatores, qui alios 
+      dis<lb ed="#H" n="5" break="no"/>sidentes ad concordiam revocare debent, ne iis accidat, quoc 
+      <lb ed="#H" n="6"/>Gorgiae Oratori apud: Graecos &amp; Philippo Regi Macedonum 
+      <lb ed="#H" n="7"/>Gorgias excellens Orator, laudatus pluribus in locis in scriptis 
+      Ci<lb ed="#H" n="8" break="no"/>ceronis, exhortatus erat aliquando Graecos dissidentes ad pacem &amp; 
+      <lb ed="#H" n="9"/>concordiam oratione admirabili artificio elaborata. Cui quum 
+      fi<lb ed="#H" n="10" break="no"/>nem impesuisset, quidam Melanthus nomine surrexit coram 
+      coet<lb ed="#H" n="11" break="no"/>qui aderat, &amp; in hunc modum loquutus est: Ecce Gorgias 
+      eloquen<lb ed="#H" n="12" break="no"/>te oratione nos conatus est ad pacem adducere &amp; concordiam, qui 
+      <lb ed="#H" n="13"/>numerb infiniti sumus: &amp; non novit tam belie perorare domi suae, 
+      <lb ed="#H" n="14"/>quo possit efficere ut uxor &amp; ancilla ejus cum ipso pacate vivant,  
+      <lb ed="#H" n="15"/>quum tres duntaxat sint numero. Nam videre est eos semper rixari 
+      <lb ed="#H" n="16"/>&amp; continue dissidere. Quapropter mihi videtur magna esse ejus 
+      te<lb ed="#H" n="17" break="no"/>meritas, quod nos ad concordiam exhortatur, quam domi suae 
+      ha<lb ed="#H" n="18" break="no"/>pere nequit. PHILIPPUS vero rex Macedonum Alexandri Magn 
+      <lb ed="#H" n="19"/>pater quodam tempore cum Olympiade conjuge &amp; filio 
+      Alexan<lb ed="#H" n="20" break="no"/>dro dissidebat. Advenit tunc ad eum Demaratus Corinthius, 
+      ro<lb ed="#H" n="21" break="no"/>Satusque a Philippo, Ecquid consentirent iam inter se Graeci? ore 
+      <lb ed="#H" n="22"/>libero respondit, Scilicet tibi convenit de Graecorum concordia agere, 
+      <lb ed="#H" n="23"/>qui dissides ipse a proximis tuis. Sensit eum vera dicere Philippus: ac 
+      <lb ed="#H" n="24"/>se rediit, &amp; cum suis in gratiam, 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e230">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>5. Non obsequi uxori potius quam Deo: nam Adamus non 
+      <lb ed="#H" n="26"/>recte fecit dum Evae potius auscultavit quam Deo, Gen. 3. v. 6, 17. 
+      <lb ed="#H" n="27"/>Abrahamus etiam peccavit quod suasu uxoris suae duxit etiam 
+      Aga<lb ed="#H" n="28" break="no"/>tam Genes. 16. 2, 3. Salomon rex graviter peccavit in gratiam 
+      uxo<lb ed="#H" n="29" break="no"/>rum 1. Reg 11 3. 4, 5. &amp; rex Achabus vendiderat se ad faciendum 
+      <lb ed="#H" n="30"/>quod malum est in oculis Jehovae, quia seducebat eum Izebel uxor  
+      <lb ed="#H" n="31"/>ejus, 1. Reg. 21. 25. 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e250">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>6. Non odisse uxorem si illa sterilis sit, sed potius consolari, eo 
+      <lb ed="#H" n="33"/>nomine sese afflictantem: Ita de Elltana patre Samuelis Propheta 
+      <lb ed="#H" n="34"/>legitur, ipsum consolatum esse uxorem suam Channam 1. 
+      Samue<lb ed="#H" n="35" break="no"/>lis 1. vers. 8. Channa quare fles? &amp; quare non comedis? &amp; quare 
+      <lb ed="#H" n="36"/>male se habet cor tuum? annon mel er sum tibi quam decem filij? 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e266">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Vxoris officium proprium est: PRIMUM, matito proprio 
+      <lb ed="#H" n="38"/>subjectam esse, 1. Corinth 14. 34. Ephes. 5. 22. Coloss. 3 vers. 18. 
+      <lb ed="#H" n="39"/>1. Pet. 3. 1. 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e277">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Subjectio uxoris complectitur amorem erga matitum, Ruth. 1. 
+      <lb ed="#H" n="41"/>versic. 8. reverentiam erga eundem, Genes. 24. versic. 64, 65. Eph. 
+      <lb ed="#H" n="42"/>5. versic. 33. obedientiam quam paret imperio ejus, 1. Petri. 3. versic. 
+      <lb ed="#H" n="43"/>6. sociatatem in recte colendo &amp; invocando Deo ad quam a 
+      mati<lb ed="#H" n="44" break="no"/>to seu monitis seu exemplo invitatur, aut etiam ad quam ipsa 
+      ma<lb ed="#H" n="45" break="no"/>ritum exemplo suo adduxit, 1. Petri 3. 1. adjumentum quod marit: 
+      <lb ed="#H" n="46"/>praestare tenetur in liberis recte educandis, in paranda &amp; 
+      conservan<lb ed="#H" n="47" break="no"/>da re familiari, in levandis viri curis, afflictionibus, morbis, in 
+      tuen<lb ed="#H" n="48" break="no"/>da vita ejus, &amp;c. Genes. 2. versic. 18. Proverb. 31. 10. &amp; 
+      sequenti<lb ed="#H" n="49" break="no"/>bus. Exempla, Genes. 31. versic. 14, 15, 16. 1. Samuel. 19. versic. 
+      <lb ed="#H" n="50"/>ri. 1. Samuel. 15. versic. 18. &amp; seqq.  
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e307">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Causae hujus officii sunt: 1. quia ad subjectionem uxorem 
+      horta<lb ed="#H" n="52" break="no"/>tur Apostolus Eph. 5. 22. Col. 3. 18. 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e316">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>2. Est a proprietatis jure, quia nihil est tam proprium uxori, 
+      <lb ed="#H" n="54"/>quam maritus suus: quocirca ejus gratia libenter omnia subire 
+      de<lb ed="#H" n="55" break="no"/>bet &amp; praestare. 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e327">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>3. Quia sic decet in Domino, qui hanc δlαριαν instituit sibi 
+      pro<lb ed="#H" n="57" break="no"/>batam. Ita subjectionem mulierum confirmat Paulus Colossen. 
+      <lb ed="#H" n="58"/>IS autoritate Dei, ut illae cogitent, se non bominibus praestare 
+      obse<lb ed="#H" n="59" break="no"/>quium, sed Deo, quum propter Deum matitis suis obediunt: Ac 
+      <lb ed="#H" n="60"/>proinde cavendum, ne dum matitis rebelles sunt, Deo ipsi hujus 
+      sub<lb ed="#H" n="61" break="no"/>ectionis autori resistant 
+      <lb ed="#H" n="62"/>I. Quia mulier post virum demum a Deo creata est, I1. Timoth. 
+      <lb ed="#H" n="63"/>2. 13. 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e349">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>5. Quia mulier est ex viro, non vir ex muliere, 1. Cor. 118. 
+      <lb ed="#H" n="65"/>6. Quia mulier est creata propter virum, non vir propter 
+      mulie<lb ed="#H" n="66" break="no"/>rem, 1. Cor. 11. v. 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e360">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>7. Quia mulieris caput vit est, Eph. 5. 23. 
+      <lb ed="#H" n="68"/>8. Quia mulier primum seducta, causa transgressionis marito 
+      <lb ed="#H" n="69"/>fuit, Genes. 3. 16. 1. Tim. 2. v. 14. Sic quae prima in defectione a Deo. 
+      <lb ed="#H" n="70"/>fuit, est postrema in honore¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e373">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>. Quia mulier imitati in subjectione Ecclesiam Dei debet 
+      quae<lb ed="#H" n="72" break="no"/>sese Christo subjicit, Eph. 5 21. 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e383">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>10. Quia &amp; Sata surjecta fuit Abrahamo, quam imitari uxores 
+      <lb ed="#H" n="74"/>debent sactae siliae Sarae. 1. Pet. 3. v. 6. 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e392">
+               <lb ed="#H" n="75"/>
+               <pc type="indent"/>II. Ut multer promti:udine subjectionis suae maritum si a 
+      ver<lb ed="#H" n="76" break="no"/>religione alienus sit, Christo lucrifaciat. 1. Pet. 3. v. 1, 2. 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e401">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>SECUNDUM officium uxoris proprium; castam &amp; pudicam, vero 
+      <lb ed="#H" n="78"/>cundam &amp; taciturnam, piam &amp; discretam esse, &amp; non luxuriosam, 
+      <lb ed="#H" n="79"/>Genes. 20. vers. 16. 1. Petri 3. 2, 3, 4, 5, 6. non contentiosam: nam 
+      <lb ed="#H" n="80"/>virum familiamque exodit rixosa mulier, ut stillicidium lapidem, 
+      <lb ed="#H" n="81"/>Prov. 19. 13. 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e417">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>TERTIUM, Domi se continere ad familiam regen¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e424">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>dam, non divagari, Proverb. 31. 13. &amp; se¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd5052-d1e431">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>quentibus. 
+      <lb ed="#H" n="85"/>Hactenus de justitia coniugum inter se: sequitur de 
+      <lb ed="#H" n="86"/>
+               <pc type="indent"/>justitia parentum &amp; liberorum.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

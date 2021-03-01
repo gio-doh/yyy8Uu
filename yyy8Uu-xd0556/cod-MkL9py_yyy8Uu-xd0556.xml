@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 43</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 43</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd0556"><!-- l10-c43 -->
+            <head xml:id="yyy8Uu-xd0556-Hd1e103">Caput 43</head>
+            <p xml:id="yyy8Uu-xd0556-d1e106">
+               <lb ed="#H" n="52"/>CAPUT XLIII. 
+      <lb ed="#H" n="53"/>In quo de Constantia in veritate.
+    </p>
+            <p xml:id="yyy8Uu-xd0556-d1e113">
+               <lb ed="#H" n="54"/>YONSTANTIA in veritate, est virtus in agnita &amp; approbati 
+      <lb ed="#H" n="55"/>Lveritate contra omnes tentationes, oppugnationes &amp; 
+   perse<lb ed="#H" n="56" break="no"/>quutiones ad finem vitae usque perseverans, a recto judicio 
+      ani<lb ed="#H" n="57" break="no"/>mi per Spiritum Sanctum illustrato confirmatoque proficiscens 
+    </p>
+            <p xml:id="yyy8Uu-xd0556-d1e124">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Haec inprimis in vera religione &amp; fide est unicuique nostrum 
+      pro<lb ed="#H" n="59" break="no"/>banda: 
+    </p>
+            <p xml:id="yyy8Uu-xd0556-d1e133">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>I. Quia illa a Deo nobis praecepta est lege Decalogi, Non dices fal 
+      <lb ed="#H" n="61"/>sum testimonium contra proximum tuum. Item Epnes. 4. v. 15. Sine 
+      <lb ed="#H" n="62"/>cere nos gerentes in charitate, prorsus adolescamus in eum, qui est 
+      ca<lb ed="#H" n="63" break="no"/>put, nempe Christus. I. Thessal. 5. v. 21. Quod bonum fuerit, retinete. 
+      <lb ed="#H" n="64"/>Hebr. 6. v. 11. Cupimus ut unusquisque vestrum idem studium ad 
+      fi<lb ed="#H" n="65" break="no"/>nem usque ostenaat, ad certam spei persuasionem 
+    </p>
+            <p xml:id="yyy8Uu-xd0556-d1e152">
+               <lb ed="#H" n="66"/>
+               <pc type="indent"/>II. Quia est a Deo indesinenter petenda. 
+      <lb ed="#H" n="67"/>III. Quia illius praemium est salus aeterna, Matth. 24. v. 10. Qui  
+      <lb ed="#H" n="68"/>perseveraverit usque ad finem, servabitur  
+    </p>
+            <p xml:id="yyy8Uu-xd0556-d1e163">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>IV. Quia est signum firmae spei in Deo, Hebr. 6. v. 11 
+      <lb ed="#H" n="70"/>V. Quia ad eam nos invitant aliorum fidelium exempla. Mechaii  
+      <lb ed="#H" n="71"/>his Propheta non suasionibus cubicularij Regis Achabi, non 
+      con<lb ed="#H" n="72" break="no"/>sensu Prophetarum ejusdem Achabi, non indignatione ejusdem 
+      po<lb ed="#H" n="73" break="no"/>tuit dimoveri a constantia in dicenda veritate 1. Reg. 22. v. 13. &amp; 
+      se<lb ed="#H" n="74" break="no"/>quentibus. Hebr. 6. v. 12. Vt ne sitis segnes, sed imitatores eorum, qui  
+      <lb ed="#H" n="75"/>per fidem &amp; patientem animum haereditario jure obtinent 
+      promis<lb ed="#H" n="76" break="no"/>sionem. 
+    </p>
+            <p xml:id="yyy8Uu-xd0556-d1e185">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>VI. Quia constantiam ipsi infideles praestant in falsa sua 
+      religio<lb ed="#H" n="78" break="no"/>ne &amp; idololatria: sicut Deus ait Jer. 2. vers. 10, 11. Peragrate regione. 
+      <lb ed="#H" n="79"/>itthaeorum &amp; videte; aut ad Redarem mittite &amp; animadvertite. 
+      <lb ed="#H" n="80"/>valde: videte, inquom, an fuerit quid hujusmodi: An mutaverit. 
+      <lb ed="#H" n="81"/>gens deos, quamvis illi non sunt dij? Quanto magis nos constantiam 
+      <lb ed="#H" n="82"/>probare in vera religione aequum est: 
+    </p>
+            <p xml:id="yyy8Uu-xd0556-d1e203">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Opposita ei est inconstantia in veritate, &amp; pertinacia in errore 
+      <lb ed="#H" n="84"/>Inconstantia in veritate, est peccatum, quum quis mutat aut 
+      dese<lb ed="#H" n="85" break="no"/>tit veras sententias praeter rationem 
+    </p>
+            <p xml:id="yyy8Uu-xd0556-d1e214">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Eaque est fugienda; quia prohibita est a Deo in praecepto nono 
+      <lb ed="#H" n="87"/>Decalogi: Non dices falsum testimonium. Ephes. 4. v. 14. Vt ne simus 
+      <lb ed="#H" n="88"/>amplius pueri, qui fluctuemus &amp; circumferamur quovis vento do¬ 
+      <!--cod-MkL9py-0707.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>ctrinae, in hominum alea, per veteratoriam ad artificiose fallendam 
+      <lb ed="#H" n="90"/>versutiam. Matth. 24. v. 4. Videte ne quis vos seducat,  
+    </p>
+            <p xml:id="yyy8Uu-xd0556-d1e234">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Pertinacia in errore, est peccatum, quum quis etiamsi de 
+      error<lb ed="#H" n="92" break="no"/>convictus sit, tamen cedere non vult de sententia, sed rigide 
+      perseve<lb ed="#H" n="93" break="no"/>rat in falsis opinionibus aut iniustis &amp; inutilibus actionibus, cui 
+      ori<lb ed="#H" n="94" break="no"/>go a superbia, nimio pretio sui &amp; gloriae ostentationisque vento. ἀ
+      u<lb ed="#H" n="95"/>δαδεια, pervicacia, obstinatio, terebrositas. Gallis opiniastrete. 
+    </p>
+            <p xml:id="yyy8Uu-xd0556-d1e251">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Plane vitanda est: 
+      <lb ed="#H" n="97"/>I. Quia prohibita est a Deo praecepto Decalogi, Non dices falsum 
+      <lb ed="#H" n="98"/>testimonium 
+    </p>
+            <p xml:id="yyy8Uu-xd0556-d1e262">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>II. Quia reprehenditur a Spiritu Dei, Proverb. 18. v. 1. 
+      <lb ed="#H" n="100"/>III. Quia est index animi stolidi. Proverb. 18. v. 2. Non delectatur 
+      <lb ed="#H" n="101"/>stolidus intelligentia, sed iis quae exsistunt in animo ipsius 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

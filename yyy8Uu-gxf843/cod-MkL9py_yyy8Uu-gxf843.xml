@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxf843"><!-- l8-c3 -->
+            <head xml:id="yyy8Uu-gxf843-Hd1e103">Caput 3</head>
+            <p xml:id="yyy8Uu-gxf843-d1e106">
+               <lb ed="#H" n="23"/>CAPUT III 
+      <lb ed="#H" n="24"/>In quo de materia bonorum operum.
+    </p>
+            <p xml:id="yyy8Uu-gxf843-d1e113">
+               <lb ed="#H" n="25"/>ATERIA bonorum operum sunt, tum habitus animi, tum 
+      <lb ed="#H" n="26"/>ex illis prodeuntes actus ipsi seu officia ipsa, quae prae 
+      <lb ed="#H" n="27"/>standa sunt, quae sola non sufficiunt ad censum bonorum 
+      o<lb ed="#H" n="28" break="no"/>perum, sicut Augustinus ait libro quarto contra Julianum 
+      Pelagia<lb ed="#H" n="29" break="no"/>num, capite tertio, bona opera finibus metienda sunt, non officus. 
+      Pluri<lb ed="#H" n="30" break="no"/>bus hoc explicat primo tomo, de moribus Manichaeorum libr. 2. 
+      <lb ed="#H" n="31"/>capite decimotertio: Finis quo referuntur ea quae facimus, id est, 
+      pro<lb ed="#H" n="32" break="no"/>pter quem facimus, quicquid facimus, si non solum inculpabilis, sed 
+      et<lb ed="#H" n="33" break="no"/>iam laudabilis fuerit, tunc demum etiam facta nostra laude aliqua 
+      di<lb ed="#H" n="34" break="no"/>gna sunt: Sia ille jure meritoque culpatur quem spectamus &amp; 
+      intue<lb ed="#H" n="35" break="no"/>mur, cum in aliquo versamur officio, id quoque officium nemo 
+      impro<lb ed="#H" n="36" break="no"/>bandum vituperandumque dubitaverit. De Catilina memoriae proditum 
+      <lb ed="#H" n="37"/>est, quod frigus, sitim, famem ferre poterat. Haec erant illi spurco 
+      sacrile<lb ed="#H" n="38" break="no"/>goque cum Apostolis nostris communia. Unde ergo discernitur parricid. 
+      <lb ed="#H" n="39"/>iste ab Apostolis nostris, nisi fine illo quem diversissimum sequebatur: 
+      <lb ed="#H" n="40"/>Namque ille ista tolerabat, ut immoderatissimas ad immanissimas 
+      exple<lb ed="#H" n="41" break="no"/>ret cupiditates: Illi econtra, ut eas premerent, &amp; dominanti rationi 
+      ser<lb ed="#H" n="42" break="no"/>vire cogerent. 
+    </p>
+            <p xml:id="yyy8Uu-gxf843-d1e155">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Materiam hanc, vocant alii bonorum operum substantiam, ac 
+      <lb ed="#H" n="44"/>quam necesse est accedere formam seu modum &amp; finem, ut vere sint 
+      <lb ed="#H" n="45"/>bona opera 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

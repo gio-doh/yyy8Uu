@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 24</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 24</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd3dd"><!-- l6-c24 -->
+            <head xml:id="yyy8Uu-gxd3dd-Hd1e103">Caput 24</head>
+            <p xml:id="yyy8Uu-gxd3dd-d1e106">
+               <lb ed="#H" n="47"/>CAPUT XXIV
+      <lb ed="#H" n="48"/>In quo de apparitionibus Christi post resurrectionem 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e113">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>APPARITIONES Christi per dies quadraginta in terris post 
+      re<lb ed="#H" n="50" break="no"/>surrectionem, fuerunt secundus gradus exaltationis Christi, 
+      <lb ed="#H" n="51"/>
+               <!-- line coord error -->
+               <lb ed="#H" n="52"/>dum Christus ex mortuis resuscitatus se multoties vivum ex 
+      <lb ed="#H" n="53"/>hibuit, spacio dierum quadraginta, quibus post resurrectionem in 
+      <lb ed="#H" n="54"/>terris conversatus est, repressis adhuc claritatis &amp; gloriae suae coelestis. 
+      <lb ed="#H" n="55"/>radiis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e135">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Apparitiones illae fuerunt multiplices: Nam ipso die resurrectio 
+      <lb ed="#H" n="57"/>nis apparuit Christus quinquies: I. Mariae Magdalenae soli, ex qui 
+      <lb ed="#H" n="58"/>septem daemonia ejecerat, Marc. 16, 9. Joh. 20. ut ostenderet, se etiam 
+      <lb ed="#H" n="59"/>muliebris sexus Redemtorem esse, &amp; ob peccatores venisse, ut eos a 
+      <lb ed="#H" n="60"/>tyrannide Satanae liberaret: utque abesset omnis suspicio fraudis &amp; 
+      <lb ed="#H" n="61"/>violentiae, ne quis vere dicere posset humanam vi ipsum e sepulero ex 
+      <lb ed="#H" n="62"/>sisse. In illa apparitione noluit se tangi a Maria Magdalena: Nam 
+      <lb ed="#H" n="63"/>quia videbat, eam carnalem sui praesentiam plus aequo admirari, 
+      vo<lb ed="#H" n="64" break="no"/>suit animum ejus a terrestribus officijs &amp; honoribus, cujusmodi an 
+      <lb ed="#H" n="65"/>tea ei praestare solita erat, avocare ad coelestia &amp; erigere animum ejus 
+      <lb ed="#H" n="66"/>ad amplexus fidei. II. Eaedem Mariae Magdalenae &amp; alteri 
+      Maria<lb ed="#H" n="67" break="no"/>redeuntibus a sepulcro, Matth. 28. 9. Eidem mulieres jussae sunt 
+      pri<lb ed="#H" n="68" break="no"/>mae resurrectionem Christi nunciare discipulis, Matth. 28. 8. Marc 
+      <lb ed="#H" n="69"/>16. 7. Idque fecerunt Marc. 16. v. 10. quia voluit Deus per infirma 
+      in<lb ed="#H" n="70" break="no"/>strumenta Apostolos expergefacere, &amp; per mulierculas eos 
+      pudefa<lb ed="#H" n="71" break="no"/>cere, qui sibi magni &amp; fortes videntur. III. Duobus discipulis nem 
+      <lb ed="#H" n="72"/>pe Cleopae &amp; socio ejus, Emaunta euntibus, a quibus primo non 
+      co<lb ed="#H" n="73" break="no"/>gnitus, quia oculi eorum tenebantur, deinde eos de sua resurrectione 
+      <lb ed="#H" n="74"/>&amp; aliis regni sui mysteriis instruxit, postea in fractione panis apertis 
+      <lb ed="#H" n="75"/>eorum oculis agnitus est, quo facto rursus αφαντος εγρλεζο ἀπ ἀυτῳο 
+      <lb ed="#H" n="76"/>inconspicuus factus est, id est, non conspectus amplius ab eis: nec enim 
+      <lb ed="#H" n="77"/>in sese invisibilis factus est, quia etsi κι συγκαζρεινασιν, id est, secundum 
+      <lb ed="#H" n="78"/>demissionem sui seu dispensationem factum, quod illis apparuit &amp; 
+      Scri<lb ed="#H" n="79" break="no"/>pturas exposuit, repressis gloriae suae radiis: tanien quod visibilis &amp; 
+      <lb ed="#H" n="80"/>palpabilis fuit, id non factum κδ συγκαζαβατον, sed secundum 
+      corpo<lb ed="#H" n="81" break="no"/>ris immotam atque perpetuam veritatem, quam gloria non destruit. 
+      <lb ed="#H" n="82"/>sed illustrat atque ornat. Ideo ἀφανος factus est tantum discipulorum 
+      <lb ed="#H" n="83"/>respectu, propterea additum ἀ αυτον, ab eis, ut intelligatur, cum 
+      al<lb ed="#H" n="84" break="no"/>ipsis videri desusse, qui tamen per se visibilis erat: Quod factum ve 
+      <lb ed="#H" n="85"/>propter repentinam discessionem ab ipsis, vel quod oculi eorum ite 
+      <lb ed="#H" n="86"/>rum tenerentur. IV. Simoni Petro soli, Luc. 24. v. 34. 1. Cor. 15. v. 7. 
+      <lb ed="#H" n="87"/>V. Apostolis &amp; iisdem discipulis, quibus Eaunta euntibus 
+      appa<lb ed="#H" n="88" break="no"/>ruerat, Luci 24. v. 35, 36. Joh. 20. v. 19. Sed excepto Thoma, qui 
+      di<lb ed="#H" n="89" break="no"/>citur Didymus, Joh. 20. v. 24. Apparuit aute τῶν θυρῶν κεκλεισμδυα, 
+      <lb ed="#H" n="90"/>fanuis clausis, id est, non per januas clausas, sed quum januae fuissent 
+      <lb ed="#H" n="91"/>clausae, nec quispiam hominum ei aperuisset, Januae enim patuerunt ipsi 
+      <!--cod-MkL9py-0446.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>ultro &amp; cesserunt ut Domno suo &amp; Deo: Divinitati enim omais sunt 
+      <lb ed="#H" n="93"/>rervia, ait Cyrillus in hunc locum. Qui autem dicant, Christum per 
+      <lb ed="#H" n="94"/>anuas clausas manentes corpore suo penetrasse, vim faciant verbis 
+      <lb ed="#H" n="95"/>svangelistae &amp; scopo Christi repugnant. Ideo enim apparebat 
+      Chri<lb ed="#H" n="96" break="no"/>stus, ut discipulos territos adhuc &amp; trepidos de sua resurrectione 
+      cer<lb ed="#H" n="97" break="no"/>tiores redderet: non igitur ea fecit, quae veritatem corporis humam 
+      <lb ed="#H" n="98"/>ndimunt, quum alioquin ob subitum ejus adventum putarent, se 
+      spi<lb ed="#H" n="99" break="no"/>ritum videre. Propterea inter spiritum &amp; corpus humanum statuit 
+      <lb ed="#H" n="100"/>discrimen tale, quod non competit rei per solidum corpus 
+      penetranti<lb ed="#H" n="101" break="no"/>Tenetrationem enim suliderum corporum admittit veritas naturae 
+      <lb ed="#H" n="102"/>quam Christus nequaquam tollit. Spiritus, inquit, carnem &amp; osst non 
+      <lb ed="#H" n="103"/>nabet, sicut me videtis habere. Ait, Palpate me &amp; videte. Itaque 
+      re<lb ed="#H" n="104" break="no"/>surrectio non abolevit veritatem naturae humanae, quae absque 
+      pro<lb ed="#H" n="105" break="no"/>prietatibus suis essentialibus consistere nequit.  
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e252">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Hae sunt quinque apparitiones ipso die resurrectionis, 
+      <lb ed="#H" n="107"/>factae
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e262">
+               <lb ed="#H" n="108"/>Sequentibus diebus rursus aliquoties apparuit.
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e267">
+               <lb ed="#H" n="109"/>I. Octavo die a resurrectione apparuit Apostolis Thoma 
+      praesen<lb ed="#H" n="110" break="no"/>Johan. 20. v. 26. &amp; sequentibus.
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e274">
+               <lb ed="#H" n="111"/>II. Apud mare Tyberiadis septem discipulis piscantibus, Johan. 
+      <lb ed="#H" n="112"/>21. vers. 1, 2. 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e281">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>III. Undecim simul discipulis in monte quodam Galilaeae, uti 
+      con<lb ed="#H" n="114" break="no"/>stituerat eis Jesus, Matth. 28 v. 16. 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e290">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>IV. Plusquam quingentis fratribus simul, I. Corinth. 15. v. 6.
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e297">
+               <lb ed="#H" n="116"/>V. Jacobo Apostolo seorsim, 1. Corinth. 15. v. 7. 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e303">
+               <lb ed="#H" n="117"/>VI. Ipso die adscensionis Apostolis, in monte Oliveti non procul 
+      <lb ed="#H" n="118"/>Bethania, quando sublatus est in coelum ab oculis eorum, Luc. 24. 
+      <lb ed="#H" n="119"/>vers 50. Actor. 1. v. 13. 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e312">
+               <lb ed="#H" n="120"/>
+               <pc type="indent"/>De his apparitionibus Paulus Apostolus in hunc modum scribit. 
+      <lb ed="#H" n="121"/>I. Cor. 15. v. 3. &amp; seqq. Tradidi enim vobis inprimis quod Sy 
+      accepi<lb ed="#H" n="122" break="no"/>Christum videlicet mortuum esse pro peccatis nastris, secunum 
+      Scri<lb ed="#H" n="123" break="no"/>pturas: Et sepultum fuisse, &amp; suscitatum tertio die, serunsum 
+      Scri<lb ed="#H" n="124" break="no"/>pturas: Et visum fuisse Cephae, deinde duodecim illis: Pifica visus est 
+      <lb ed="#H" n="125"/>amplius quam quingentis fratribus semel: ex quibus plerique naneni 
+      <lb ed="#H" n="126"/>isque adhuc, quidam autem obdormierunt. Postea visus 
+      e<lb ed="#H" n="127" break="no"/>inde Apostolis omnibus. Ultimo vero omnium, velut abortivo, visus 
+      <lb ed="#H" n="128"/>est etiam mihi, 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e336">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>Evangelistae &amp; Paulus non servant eundem ordinem in 
+      recensen<lb ed="#H" n="130" break="no"/>dis Christi apparitionibus, &amp; alij alias apparitiones notant. I. ut non 
+      <lb ed="#H" n="131"/>tam ordo &amp; numerus apparitionum (quarum plures esse potuerunt,, 
+      <lb ed="#H" n="132"/>quam veritas resurrectionis, in qua spes salutis nostrae posita est, 
+      spe<lb ed="#H" n="133" break="no"/>tetur. II. Ut varietas illa convinceret, Apostolos &amp; Evangelistas non 
+      <lb ed="#H" n="134"/>ex composito scripsisse historiam de Christo, sed Spiritum Sanctum 
+      <lb ed="#H" n="135"/>singulis illis inspirasse quae voluit, ad veritatem resurrectionis 
+      Chri<lb ed="#H" n="136" break="no"/>sti asserendam 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e358">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Causa efficiens princeps apparitionum Christi post 
+      resurrectio<lb ed="#H" n="138" break="no"/>nem ex mortuis fuit Deus Pater ipse, sicut Petrus ait Act. 10. v. 4. 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e367">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Finales causae apparitionum Christi post resurrectionem hae 
+      fue<lb ed="#H" n="140" break="no"/>runt: 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e376">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>I. Ut resurrectionis suae sidem amplissimam facerct, ita ut nemo 
+      de<lb ed="#H" n="142" break="no"/>ea dubitare posset, Actor. 1. v. 3. Quibus etiam sese, postquam passus 
+      <lb ed="#H" n="143"/>fuit, exhibuit vivum cum multis certissimis segnis, ter dies 
+      quadra<lb ed="#H" n="144" break="no"/>ginta conspectus ab eis, &amp; dicens quae ad regnum Dei spectant. 1. Cor. 
+      <lb ed="#H" n="145"/>15. vers. 4, 5, 6, 7 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e393">
+               <lb ed="#H" n="146"/>
+               <pc type="indent"/>II. Ut testatum faceret se visibile, palpabile, organicum, finitum &amp; 
+      <lb ed="#H" n="147"/>circumscriptum illud corpus, quod in cruce clavis trasfixum, &amp; cujus 
+      <lb ed="#H" n="148"/>latus lancea vulneratum fuisset, etiam post resurrectionem in gloria 
+      <lb ed="#H" n="149"/>retinere. Ideo ostendit discipulis manus ac latus situm: ideo se videri 
+      <lb ed="#H" n="150"/>&amp; palpari jussit: &amp; discipuli viderunt, ac crediderunt, Luc. 24. Joh. 20. 
+      <lb ed="#H" n="151"/>20. Unde consequitur, corpus Christi propter glorificationem non 
+      <lb ed="#H" n="152"/>esse ubique nec per glorificationem esse realiter transfusas essentiales. 
+      <lb ed="#H" n="153"/>proprietates Deitatis in humanam naturam: nec humanam natus 
+      <lb ed="#H" n="154"/>tam suas proprietates essentiales &amp; characteres creaturae amisisse 
+      <lb ed="#H" n="155"/>Summa, Christus suo corpori gloriam dedit, sed naturam non 
+      abs<lb ed="#H" n="156" break="no"/>tulit,  
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e422">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>III. Ut discipulos suos commonefaceret eorum quae ad regnum 
+      <lb ed="#H" n="158"/>Dei spectant, adaperiens ipsis Scripturas Sacras, ut sensum &amp; usum 
+      <lb ed="#H" n="159"/>illarum intelligerent, &amp; aliis explicare possent, Actor. 1. v. 3. Luc. 24. 
+      <lb ed="#H" n="160"/>ver. 32. Nonne cor nostrum ardebat in nobis, dum loqueretur nobis 
+      im<lb ed="#H" n="161" break="no"/>via, &amp; dum adaperiret nobis Scripturas: Et v. 44. Dixit eis; Hi sunt 
+      <lb ed="#H" n="162"/>sermones quos loquutus sum vobis, quum adhuc essem vobiscum, 
+      o<lb ed="#H" n="163" break="no"/>portere impleri omnia quae scripta sunt in Lege Mosis; &amp; Prophetis, &amp; 
+      <lb ed="#H" n="164"/>psalmis de me.
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e444">
+               <lb ed="#H" n="165"/>IV. Ut solemniter institueret ministerium praedicationis 
+      Evan<lb ed="#H" n="166" break="no"/>gelij per universum orbem terrarum, utpote cui data sit omnis 
+      pote<lb ed="#H" n="167" break="no"/>stas in coelo &amp; in terra. Joh. 20. v. 21, 22, 23. Pax vobis: sicut misit me 
+      <lb ed="#H" n="168"/>Pater, ita &amp; ego mitto vos. Et quum haec dixisset, afflavit eos: &amp; dixi  
+      <lb ed="#H" n="169"/>eis: Accipito Spiritum Sanctum, si quorum vemiseritis peccate, 
+      re<lb ed="#H" n="170" break="no"/>mittuntur eis: si quorum retinueritis, retenta sunt, Matth. 28. v. 14. 
+      <lb ed="#H" n="171"/>19. Data est mihi omnis potestas in coelo &amp; in terra: Profecti ergo 
+      do<lb ed="#H" n="172" break="no"/>cete omnes gentes, baptizantes eos in nomine Patris &amp; Filij &amp; 
+      Spiri<lb ed="#H" n="173" break="no"/>tus Sancti. Marc. 16. v15. Profecti in mundum universum, 
+      praedica<lb ed="#H" n="174" break="no"/>te Evangelium omni crentura. 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e468">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>V. Ut illis denunciaret ut exspectarent Spiritus Sancti effusiuncio 
+      <lb ed="#H" n="176"/>in ipsos, Actor. 1. v. 4. Et cum illis conveniens denunciavit cis ne 
+      alis<lb ed="#H" n="177" break="no"/>rederent Hierosolymis, sed ut exspectarent promissione Patris, Quam. 
+      <lb ed="#H" n="178"/>inquit, audistis ex ine¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e481">
+               <lb ed="#H" n="179"/>
+               <pc type="indent"/>Quod ad subjectu attinet, apparitiones illae factae sunt non teri 
+      po<lb ed="#H" n="180" break="no"/>bulo, nec Summis Pontificibus, Sacerdotibus &amp; primoribus populi 
+      <lb ed="#H" n="181"/>nec Pontio Pilero aut Regi Herodi; sed ncipulis Christi: sicur 
+      Jus<lb ed="#H" n="182" break="no"/>trus Apostolus dicit ad Cornelium Citunonem Actor. 10. ver. 31. 
+      <!--cod-MkL9py-0447.xml-->
+      <pb ed="#H" n="420"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>40, 41, 42. Nos sumus testes omnium quae &amp; in regione Iudaeorum &amp; 
+      <lb ed="#H" n="2"/>Hierosolymis fecit, quem interemerunt suspensum in ligno. Hunc 
+      au<lb ed="#H" n="3" break="no"/>tem Deus suscitavit tertio die, fecitque ut conspicuus fieret: Non toti 
+      <lb ed="#H" n="4"/>populo, sed testibus quos ipse prius designaverat, nimirum nobis, 
+      qui<lb ed="#H" n="5" break="no"/>comedimus ac bibimus una cum eo, posteaquam resurrexit a mor 
+      <lb ed="#H" n="6"/>tuis. Praecepit autem nobis ut praedicemus populo, &amp; cum testificatio 
+      <lb ed="#H" n="7"/>ne denunciemus eum esse qui definitus sit a Deo judex vivorum 
+      ac<lb ed="#H" n="8" break="no"/>mortuorum. Johan. 14. v. 14. 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e518">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>Id factum ideo: I. Ut intelligeremus, regnum Christi non esse 
+      ex<lb ed="#H" n="10" break="no"/>hoc mundo, Johan. 18. v. 36. 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e528">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>II. Ut sciremus, regnum Christi non pendere ex humano patro. 
+      <lb ed="#H" n="12"/>cinio. 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e537">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>III. Ut declararetur, regnum gratiae Dei non venire cum pompa 
+      <lb ed="#H" n="14"/>non cum observatione externa, non objici oculis corporis, sed 
+      men<lb ed="#H" n="15" break="no"/>tis &amp; fidei. Quo pertinent haec dicta, Luc. 17. v. 20, 21. Interrogatus 
+      <lb ed="#H" n="16"/>a Pharisaeis quanao venturum esset regnum Dei, respondit eis, &amp; 
+      di<lb ed="#H" n="17" break="no"/>xit, Non veniet regnum Dei, ita ut observari possit: Neque dicent, 
+      Ecco<lb ed="#H" n="18" break="no"/>hic, aut ecce illic, ecce enim, regnum Dei intus habetis, Johan. 20. vers. 
+      <lb ed="#H" n="19"/>29. Beati qui non viderunt, &amp; crediderunt. 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e557">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>IV. Ut summi Pontifices, Sacerdotes &amp; primores populi aliique 
+      <lb ed="#H" n="21"/>contemtores Christi &amp; misericordiae Dei, inciperent in eo ipso judi 
+      <lb ed="#H" n="22"/>cium Dei experiri. Non enim digni erant, quibus Christus post 
+      re<lb ed="#H" n="23" break="no"/>surrectionem appareret, qui eum docentem antea audire noluerant  
+      <lb ed="#H" n="24"/>&amp; solenniter coram Pilato repudiaverant. Hoc ipsum praedixerat 
+      <lb ed="#H" n="25"/>ipsis Dominus Matth. 23. vers. 39. Dico enim vobis, nequaquam 
+      me<lb ed="#H" n="26" break="no"/>videbitis ab hoc tempore, usquedum dicatis, Benedictus qui venit in 
+      <lb ed="#H" n="27"/>nomine Domini. His enim verbis, comminatur irapiis Judaeis resu 
+      <lb ed="#H" n="28"/>piscere nolentibus, perpetuam subtractionem gratiosae suae 
+      praesen<lb ed="#H" n="29" break="no"/>tiae, ab hoc tempore, quo ipsius benignitatem aspernantes etiam in 
+      <lb ed="#H" n="30"/>crucem eum egerunt. Negat igitur se deinceps amplius ab ipsis 
+      vi<lb ed="#H" n="31" break="no"/>sum iri, donec eum viderint sedentem ad dextram potentiae Dei &amp; 
+      ve<lb ed="#H" n="32" break="no"/>nientem in nubibus coeli, ut praedixit Matth. 26. v. 64. ac ipsi serio, 
+      li<lb ed="#H" n="33" break="no"/>cet sero tandem agnoscant, ipsum esse vere Filium illum Dei, ac 
+      imi<lb ed="#H" n="34" break="no"/>tantes electos, ipsi in majestate sua adventanti gratulentur ac dicant  
+      <lb ed="#H" n="35"/>Benedictus qui venit in nomine Domini: sed nullo suo cum 
+      conmodo<lb ed="#H" n="36" break="no"/>quum ipsum agnoscere &amp; suscipere nolucrint hoc tam gratioso 
+      tem<lb ed="#H" n="37" break="no"/>pore visitationis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd3dd-d1e601">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Haec de apparitionibus Christi post resurrectionem ipsius 
+      <lb ed="#H" n="39"/>
+               <pc type="indent"/>ex mortuis: sequitur
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

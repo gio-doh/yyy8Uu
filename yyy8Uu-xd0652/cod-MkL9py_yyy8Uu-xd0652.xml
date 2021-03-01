@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 33</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 33</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd0652"><!-- l9-c33 -->
+            <head xml:id="yyy8Uu-xd0652-Hd1e103">Caput 33</head>
+            <p xml:id="yyy8Uu-xd0652-d1e106">
+               <lb ed="#H" n="37"/>CAPUT XXXIII. 
+      <lb ed="#H" n="38"/>In quo deMinistrorum Ecclesiae consecratione.
+    </p>
+            <p xml:id="yyy8Uu-xd0652-d1e113">
+               <lb ed="#H" n="39"/>UPERIORIBUS capitibus explicatae sunt observationes 
+      sa<lb ed="#H" n="40" break="no"/>Perae in Ecclesia: restant aliae ceremoniae seu actiones religiosa 
+      <lb ed="#H" n="41"/>ad Sacra, quae vocant, pertinenter 
+    </p>
+            <p xml:id="yyy8Uu-xd0652-d1e122">
+               <lb ed="#H" n="42"/>SACRA vocamus, quae ecclesiae ministerio, quo maxime 
+      exter<lb ed="#H" n="43" break="no"/>nus cultus Dei exercetur, destinata ac consecrata sunt; ut sunt 
+      mini<lb ed="#H" n="44" break="no"/>fere Ecclesiae, quorum consecratio verbo Dei consentanea esse debet,  
+      <lb ed="#H" n="45"/>loca sacra, tempora sacra, instrumenta sacra, velati altaria, &amp; mensae 
+      <lb ed="#H" n="46"/>sacrae, vasa saera &amp; instrumenta alia, vestes sacrae, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-xd0652-d1e135">
+               <lb ed="#H" n="47"/>
+               <pc type="indent"/>Ministrorum Eccl siae consecratio, est ceremonia qua illi initiantur 
+      <lb ed="#H" n="48"/>&amp; inaugurantur sancto ministerio Ecclesiae, &amp; in ejus possessionem. 
+      <lb ed="#H" n="49"/>mittuntur, secundum praescriptum Dei. Vocatur etiam ritus 
+      ordi<lb ed="#H" n="50" break="no"/>nandi ministros Ecclesiae: item Confirmatio ministrorum Ecclesiae. 
+    </p>
+            <p xml:id="yyy8Uu-xd0652-d1e149">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Consecratio illa alia fuit in veteri Testimento: alia est in novo. 
+      <lb ed="#H" n="52"/>In Veteri Testamento consecratio fuit solennis summorum 
+      Ponti<lb ed="#H" n="53" break="no"/>ficum &amp; caeterorum sacerdotum, &amp; describitur Levit. 8 
+    </p>
+            <p xml:id="yyy8Uu-xd0652-d1e160">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Perficiebatur rebus &amp; ritibus mysticas &amp; spirituales 
+      significatio<lb ed="#H" n="55" break="no"/>nes habentibus, quas explicat sive Origenes sive Cyrillus 
+      Alexandri<lb ed="#H" n="56" break="no"/>nus Commentaiis in Leviticum, &amp; Franciscus Junius in 
+      Analytica<lb ed="#H" n="57" break="no"/>explicatione Levitici. 
+    </p>
+            <p xml:id="yyy8Uu-xd0652-d1e173">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Inter alia consecratio fiebat lotionibus, perfusione olei, sanguinis 
+      <lb ed="#H" n="59"/>illitione, adspersione olei &amp; sanguinis, &amp;c. quae usque ad Christum 
+      <lb ed="#H" n="60"/>dutaverunt &amp; abrogata sunt prestatione rerum per illa significatarum. 
+    </p>
+            <p xml:id="yyy8Uu-xd0652-d1e184">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>In Novo Testamento cemoniae illae sunt sublatae a Christo, qui 
+      A<lb ed="#H" n="62" break="no"/>postolos consecravit ministerio Ecclesiae, verbo suo eos instruendo 
+      <lb ed="#H" n="63"/>informando &amp; sanctificando, precibus Patri suo coelesti 
+      commen<lb ed="#H" n="64" break="no"/>dando Joh. 17. loco materialis olei ungendo eos oleo spirituali, oleo 
+      <lb ed="#H" n="65"/>inquam, Spiritus Sancti, cum assians eos, dedit eis Spiritum sanctum 
+      <lb ed="#H" n="66"/>&amp; simul &amp; mandatum remittendi peccata ac retinendi: unica hac 
+      <lb ed="#H" n="67"/>afflatus ceremonia usus, Joh. 20. v. 22, 23. 
+    </p>
+            <p xml:id="yyy8Uu-xd0652-d1e204">
+               <lb ed="#H" n="68"/>
+               <pc type="indent"/>Apostoli in consecratione ministrorum Ecclesiae, usi sunt itidem 
+      <lb ed="#H" n="69"/>verbo Dei in eligendo &amp; vocando, &amp; precibus ad Deum, Act. 14. v. 
+      <lb ed="#H" n="70"/>3. Sed loco afflatus soli Christo convenientis, eo quod sit 
+      symbo<lb ed="#H" n="71" break="no"/>lum communicationis Spiritus Sancti, usi sunt manuum 
+      impositio<lb ed="#H" n="72" break="no"/>ne, ut habetur in Actis Apostolicis, Actor. 6. v. 6 &amp; cap. 13. 3. 1. Tim 
+      <lb ed="#H" n="73"/>4. v. 14. &amp; 2. Tim. 1. 6. tum quia ministri ecclesiae sic Deo quasi reprae 
+      <lb ed="#H" n="74"/>sentabantur &amp; offerebantur, tum quia illis quibus manus 
+      impone<lb ed="#H" n="75" break="no"/>bant Apostoli cum precibus, Deus Spiritum Sanctum dabat, ut 
+      le<lb ed="#H" n="76" break="no"/>gitur Act. 8. v. 15, 16, 17. &amp; cap. 19. v. 6. tum quia sic populo 
+      ministe<lb ed="#H" n="77" break="no"/>tu dignitas commendabatur. Sic triplex erat ratio, cur manuum 
+      im<lb ed="#H" n="78" break="no"/>positio fieret: prima ratio est, ut intelligeret is cui manus 
+      imponeban<lb ed="#H" n="79" break="no"/>tur, se totum Deo &amp; Ecclesiae asseri &amp; destinari, &amp; in se a Deo 
+      ma<lb ed="#H" n="80" break="no"/>bus injici, ut jam abrenuncians rebus omnibus suis &amp; mundi 
+      nego<lb ed="#H" n="81" break="no"/>iis totus muneri suo ad Dei gloriam incumberet atque inserviret 
+      <lb ed="#H" n="82"/>unde preces adiungebantur, ut cum Dominus ipse talem praestaret. 
+      <lb ed="#H" n="83"/>&amp; cfficeret.  
+    </p>
+            <p xml:id="yyy8Uu-xd0652-d1e243">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>Secunda ratio est ut Spiritus Sacti dona in electum effunderentur,  
+      <lb ed="#H" n="85"/>eumque quatenus quaque mensura Dominus ipse videbat 
+      condu<lb ed="#H" n="86" break="no"/>cere, impleret. Quod ipium etiam tota Ecclesia pro electo summis 
+      <lb ed="#H" n="87"/>votis a Deo pecebat 
+    </p>
+            <p xml:id="yyy8Uu-xd0652-d1e257">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Tertia ratis est ejusmodi symbalo ministerii Ecclesiastici dignitas 
+      <lb ed="#H" n="89"/>popalo cominendaretur. 
+      <!--cod-MkL9py-0672.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>Ve a igitur consecratio, ordinatio &amp; confirmatio ministrorum 
+      <lb ed="#H" n="91"/>Ecclesiae sit per verbum Dei &amp; preces, tanquam essentiales 
+      consecra<lb ed="#H" n="92" break="no"/>tionis partes &amp; a Deo expresse praeceptas 
+    </p>
+            <p xml:id="yyy8Uu-xd0652-d1e277">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>Manuum autem impositio est in rerum indifferentium numero: 
+      <lb ed="#H" n="94"/>primo quia a Deo expresse praecepta non est. Secundo quia non 
+      requi<lb ed="#H" n="95" break="no"/>ritur in omnibus personis Ecclesiasticis, velut in acoluthis &amp; 
+      subdia<lb ed="#H" n="96" break="no"/>conis ordinandis, ut Papistae ipsi fatentur, Canone Subdiaconus &amp; 
+      ca<lb ed="#H" n="97" break="no"/>hone sequente, distinct. 24. Tertio quia vis tota impositionis 
+      manu<lb ed="#H" n="98" break="no"/>am a precibus pendet: illis omissis nihil omnino valet, ut videre est 
+      <lb ed="#H" n="99"/>in canone. Quorundim, Distinct. 24. Quod si in aliquibus Ecclesiis 
+      <lb ed="#H" n="100"/>impositio manuum recepta est &amp; usitata, improbari minime debet,  
+      <lb ed="#H" n="101"/>quum exemplo Apostolico nitatur: sed a verbo Dei &amp; precibus 
+      mi<lb ed="#H" n="102" break="no"/>nime separanda est, sine quibus vana est &amp; inutilis ceremonia 
+    </p>
+            <p xml:id="yyy8Uu-xd0652-d1e303">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Pontificii ritus consecrationis multos habent; partim a Mose, 
+      <lb ed="#H" n="104"/>partim a Christo, partim ab Apostolis acceptos, partim a propria 
+      au<lb ed="#H" n="105" break="no"/>toritate invectos, de quibro vide Distinctionem vigesimam-tertiam 
+      <lb ed="#H" n="106"/>in prima parte Decreti Gratiani in Jure Canonico: &amp; Petrum 
+      Lom<lb ed="#H" n="107" break="no"/>bardum Magistrum sententiarum quarto libro, distinctione 
+      vigesi<lb ed="#H" n="108" break="no"/>ma:quarta, quae est de Ordinibus Ecclesiasticis &amp;&amp; alios complures. 
+    </p>
+            <p xml:id="yyy8Uu-xd0652-d1e321">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Quapropter consecratio seu ordinatio ministrorum Ecclesiae 
+      du<lb ed="#H" n="110" break="no"/>plex est: legitima &amp; illegitima: illa est, quae verbo Dei consentanea 
+      <lb ed="#H" n="111"/>est: haec, quae a legibus verbo Dei praescriptis, dissentit 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

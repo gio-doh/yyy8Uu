@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 70</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 70</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd906"><!-- l6-c70 -->
+            <head xml:id="yyy8Uu-gxd906-Hd1e103">Caput 70</head>
+            <p xml:id="yyy8Uu-gxd906-d1e106">
+               <lb ed="#H" n="34"/>CAPUTII 
+      <lb ed="#H" n="35"/>In quo de fine mundi
+    </p>
+            <p xml:id="yyy8Uu-gxd906-d1e113">
+               <lb ed="#H" n="36"/>TTUNDUM habiturum finem irrisores &amp; Epicuri de grege 
+   por<lb ed="#H" n="37" break="no"/>ci negant, sed perpetuum futurum contendunt, quoniam 
+      ha<lb ed="#H" n="38" break="no"/>ctenus continuus est naturae cursus qualis ab initio fuit. 
+      <lb ed="#H" n="39"/>Sed refellit istos prima mundi creatio, diluvium universale &amp; 
+      ve<lb ed="#H" n="40" break="no"/>ritas Dei. Nam mundus initio per Dei sermonem exstitit: idem 
+      mun<lb ed="#H" n="41" break="no"/>dus olim aqua inundatus periit: eundem igne periturum Dominus 
+      <lb ed="#H" n="42"/>praedixit: mundus igitur finem est habiturus. Argumenta haec 
+      le<lb ed="#H" n="43" break="no"/>guntur, 2. Petr. 3. v. 5, 6, 7. Illud enim volentes ipsos fugit, coelos jam 
+      <lb ed="#H" n="44"/>olim exstitisse per Dei sermonem, &amp; terram ex aqua &amp; in 
+      aquo<lb ed="#H" n="45" break="no"/>consistentem. Quamobrem is qui tum erat mundus, aqua inundatu 
+      <lb ed="#H" n="46"/>persit. Qui vero nunc sunt coeli &amp; terra, eodem sermone reconditi. 
+      <lb ed="#H" n="47"/>sorvantur igni in diem damnationis &amp; exitij impiorum hominum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd906-d1e142">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Confirmant idem testimonia sequentia, Matt. 5. v. 18. Amen 
+      quip<lb ed="#H" n="49" break="no"/>pe dico vobis (ait Christus) usque dum praeterierit coelum &amp; terra, &amp;c. 
+      <lb ed="#H" n="50"/>Luc. 21. v. 33. Coelum &amp; terra praeteribunt. 1. Cor. 7. v. 31. Praeteris 
+      <lb ed="#H" n="51"/>hubitus hujus mundi. I. Johan. 2. v. 17. Mundus praeterit &amp; 
+      cupidi<lb ed="#H" n="52" break="no"/>tas ipsius. 
+    </p>
+            <p xml:id="yyy8Uu-gxd906-d1e158">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Ergo coelum sidereum non est natura sua incorruptibile: sed quod  
+      <lb ed="#H" n="54"/>jam non corrumpitur, ut elementa, id habet a potentia &amp; voluntato 
+      <lb ed="#H" n="55"/>Dei, qui illud conserva¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd906-d1e170">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Quomodo futurus sit finis &amp; supremus interitus mundi, 
+      exponi<lb ed="#H" n="57" break="no"/>tur, 2. Petr. 3. v. 10. Caeli cum stridore praeteribunt, elementa vero ae 
+      <lb ed="#H" n="58"/>stuantia solventur, terraque &amp; opera quae in ea sunt exurentur. Et vero 
+      <lb ed="#H" n="59"/>12. coeli conflagrantes solventur &amp; elementa aestuantia liquescent. 
+      <lb ed="#H" n="60"/>Sententia est: Coeli transibunt a mutabilitate ad immutabilitatem 
+      <lb ed="#H" n="61"/>a forma priore ad formam &amp; speciem longe augustiorem. Coelum 
+      <lb ed="#H" n="62"/>proinde seu aetherea regio incendio illo postremo, tanquam autum 
+      <lb ed="#H" n="63"/>in fornace, purgabitur, abstersisque omnibus maculis &amp; sordibus. 
+      <lb ed="#H" n="64"/>purior reddetur: praestantioribus qualitatibus exornabitur, ac 
+      pos<lb ed="#H" n="65" break="no"/>in omnem aeternitatem durabit, aosque vicissitudine &amp; mutatione 
+      <lb ed="#H" n="66"/>ulla, ut sanctorum &amp; electorum habitaculum sit, eisque inserviat ad 
+      <lb ed="#H" n="67"/>sempiternam felicitatem. Ergo coeli praeteribunt &amp; solventur, non 
+      <lb ed="#H" n="68"/>quod in nihilum redigentur &amp; novi substantia creabuntur: sed quia 
+      <lb ed="#H" n="69"/>in melius mutabuntur; ut loquitur Hieronymus in Psal. 102. noc 
+      <lb ed="#H" n="70"/>est, in meliorem ac praestantiorem formam, sublatis iis omnibus, 
+      <lb ed="#H" n="71"/>quae imperfecta &amp; caduca sunt, quasi quibusdam mortalitatis 
+      sordi<lb ed="#H" n="72" break="no"/>bus &amp; fecibus vel scoriis detersis, ac per ignem expurgatis, 
+      restituen<lb ed="#H" n="73" break="no"/>tur, alterabuntur &amp; innovabuntur, ac in omnem aeternitatem 
+      in<lb ed="#H" n="74" break="no"/>staurabuntur. Sic erunt coeli novi: quia renovati: sed novis 
+      qualita<lb ed="#H" n="75" break="no"/>tibus, non substantia. Sic &amp; Patres explicuerunt: ut Augustinus de 
+      <lb ed="#H" n="76"/>Civitate Dei, lib. 20. cap. 16. Illa conflagratione mundana 
+      elemen<lb ed="#H" n="77" break="no"/>torum corruptibilium qualitates quae corporibus nostris 
+      corrupti<lb ed="#H" n="78" break="no"/>bilibus congruebant, ardendo penitus interibunt: atque ipsa 
+      sub<lb ed="#H" n="79" break="no"/>stantia eas qualitates habebit, quae corporibus immortalibus 
+      mi<lb ed="#H" n="80" break="no"/>rabili mutatione conveniant: ut scilicet mundus in melius 
+      innova<lb ed="#H" n="81" break="no"/>tus, apte accommodetur hominibus, etiam carne in melius 
+      innova<lb ed="#H" n="82" break="no"/>tis. Eusebius diserte ait: α παθτελῶς ωρος φθρρον ὀ κόσμος χωρήσει, αλ¬ 
+      <lb ed="#H" n="83"/>λα ωρος ανακαινισμόν 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

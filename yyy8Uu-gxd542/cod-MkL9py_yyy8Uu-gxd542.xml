@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 67</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 67</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd542"><!-- l6-c67 -->
+            <head xml:id="yyy8Uu-gxd542-Hd1e103">Caput 67</head>
+            <p xml:id="yyy8Uu-gxd542-d1e106">
+      <!--cod-MkL9py-0543.xml-->
+               <cb ed="#H" n="b"/>
+               <lb ed="#H" n="90"/>CAPUT LXVII. 
+      <lb ed="#H" n="91"/>In quo de immutatione superstitum quos ultimus. 
+      <lb ed="#H" n="92"/>ille dies deprehendet.
+    </p>
+            <p xml:id="yyy8Uu-gxd542-d1e119">
+               <lb ed="#H" n="93"/>MMUTATIO superstitum quos ultimus ille dies deprehendet in 
+      <lb ed="#H" n="94"/>hac vita, est opus Dei, quo illi qui in adventu Domini ad judicium 
+      <lb ed="#H" n="95"/>universale adhuc vivi in terris reliqui erunt, momento &amp; jactu 
+      o<lb ed="#H" n="96" break="no"/>culi, ad ultimam tubam mutabuntur, ut renoventur &amp; deposita 
+      cor<lb ed="#H" n="97" break="no"/>ruptione &amp; mortalitate consequantur incorruptibilitatem &amp; 
+      immu<lb ed="#H" n="98" break="no"/>tabilitatem. 1. Cor. 15. v. 51, 52, 53. Ecce, mysterium vobis dico, Non 
+      o<lb ed="#H" n="99" break="no"/>mnes quidem obdormiemus: sed omnes mutabimur, momento &amp; jactu 
+      <lb ed="#H" n="100"/>oculi, ad ultimam tubam. Canet enim tuba, &amp; mortui excitabuntus 
+      <lb ed="#H" n="101"/>incorrupti, &amp; nos mutabimur. Oportet enim corruptibile istud induere 
+      <lb ed="#H" n="102"/>incorruptibilitatem, &amp; mortale istud induere immortalitatem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

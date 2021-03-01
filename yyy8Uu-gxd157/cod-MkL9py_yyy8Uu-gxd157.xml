@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 45</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 45</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd157"><!-- l6-c45 -->
+            <head xml:id="yyy8Uu-gxd157-Hd1e103">Caput 45</head>
+            <p xml:id="yyy8Uu-gxd157-d1e106">
+               <lb ed="#H" n="136"/>CAPUT XLV. 
+      <lb ed="#H" n="137"/>In quo de accessoriis bonis federis gratiae.
+    </p>
+            <p xml:id="yyy8Uu-gxd157-d1e113">
+               <lb ed="#H" n="138"/>CCESSORIA vero bona federis gratiae, sunt hujus vita. 
+      <lb ed="#H" n="139"/>temporalis adjumenta &amp; commoda quae Deus addit suis 
+      fe<lb ed="#H" n="140" break="no"/>deratis pro suo sanctissimo arbitrio, &amp; prout saluti cujusque 
+      fe<lb ed="#H" n="141" break="no"/>derati ac inprimis gloriae suae novit expedire. Sic Deus Abrahamo, 
+      <lb ed="#H" n="142"/>Isaaco &amp; Jacobo atque adeo toti populo Israelitico promisit &amp; dedit. 
+      <lb ed="#H" n="143"/>bona corporalia velut additamentum bonorum spiritualium in 
+      fe<lb ed="#H" n="144" break="no"/>dere gratiae promissorum, ut passim Vetus Testamentum testatur.  
+      <lb ed="#H" n="145"/>Bona corporalia, inquam, fidelibus Veteris Testamenti a DEC 
+      <lb ed="#H" n="146"/>data, accessoria duntaxat fuerunt: non autem principalia. Fedus 
+      e<lb ed="#H" n="147" break="no"/>nim gratiae a Deo cum fidelibus Veteris Testamenti initum 
+      praeci<lb ed="#H" n="148" break="no"/>pue ad bona spiritualia &amp; spem beatae immortalitatis futuramque 
+      <lb ed="#H" n="149"/>vitam aeternam spectabat, ut Petrus docet Actor. 15. vers. 11. cum ait 
+      <lb ed="#H" n="150"/>Per gratiam Domini nostri IESV CHRISTI credimus nos servutum  
+      <lb ed="#H" n="151"/>iri, quemadmodum &amp; Patres: ut item caput undecimum epistolae 
+      <lb ed="#H" n="152"/>Pauli ad Hebraeos, caput quartum, nonum, decimum &amp; undecimum 
+      <lb ed="#H" n="153"/>ad Romanos, caput tertium &amp; quartum ad Galatas &amp; plurima alia 
+      <lb ed="#H" n="154"/>Scripturae Sacrae loca testantur
+    </p>
+            <p xml:id="yyy8Uu-gxd157-d1e152">
+               <lb ed="#H" n="155"/>Proinde graviter errant, qui putant, Deum in federe cum 
+      Abra<lb ed="#H" n="156" break="no"/>hamo, Isaaco, Jacobo, &amp; posteris illorum inito terrena bona 
+      solum<lb ed="#H" n="157" break="no"/>modo aut principaliter saltem promisisse, nimirum carnis delicias, 
+      <lb ed="#H" n="158"/>ventris saturitatem, florentes opes, externam potentiam, liberorum. 
+      <lb ed="#H" n="159"/>foecunditatem &amp; quicquid animalis homo in precio habet: non 
+      au<lb ed="#H" n="160" break="no"/>tem spiritualia bona &amp; coelestem beatitatem; quasi Deo nihil aliud 
+      <lb ed="#H" n="161"/>propositum fuisset, quam populum Israeliticum tanquam aliquem 
+      <lb ed="#H" n="162"/>porcorum gregem in hac terra saginare. Quem errorem prolixe 
+      refel<lb ed="#H" n="163" break="no"/>lit Ioh. Calvinus Institutionis Christianae religionis secundo libro, 
+      ca<lb ed="#H" n="164" break="no"/>pite decimo. 
+    </p>
+            <p xml:id="yyy8Uu-gxd157-d1e176">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Finis autem propter quem Deus bona corporalia spiritualibus in 
+      <lb ed="#H" n="166"/>Veteri Testamento adjecit, erat, ut fideles in spe vitae aeternae melius 
+      <lb ed="#H" n="167"/>alerentur, quam Deus contemplandam sub beneficiis terrenis ad 
+      <lb ed="#H" n="168"/>quodammodo degustandam exhibebat. Quapropter in terrena, quam 
+      <lb ed="#H" n="169"/>fruebantur, possessione terrae Chanaan, veluti in typo, futuram quam 
+      <lb ed="#H" n="170"/>sibi in coelis praeparatam credebant, haereditatem sunt intuiti. 
+    </p>
+            <p xml:id="yyy8Uu-gxd157-d1e195">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>In Novo Testamento Deus fidelibus itidem praeter spiritualia &amp; 
+      <lb ed="#H" n="172"/>aeterna bona quae eis praestat, adjicit etiam in hac vita terrena 
+      com<lb ed="#H" n="173" break="no"/>moda, non ut nobis sint typi futurae felicitatis quemadmodum 
+      fide<lb ed="#H" n="174" break="no"/>libus Veteris Testamenti fuerunt, sed ut sint divinae benevolentia 
+      <!--cod-MkL9py-0516.xml-->
+      <pb ed="#H" n="489"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>endicium aliquod &amp; paternae curae pro nobis, Deo providentia sua 
+      A<lb ed="#H" n="2" break="no"/>ita res omnes moderante, ut liberrima voluntate det bona 
+      corpora<lb ed="#H" n="3" break="no"/>Na fidelibus suis, aliis plura, aliis pauciora; ut discamus ad spiritualia 
+      <lb ed="#H" n="4"/>potius respicere &amp; aeternae 
+    </p>
+            <p xml:id="yyy8Uu-gxd157-d1e223">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Ac licet non pauci fidelium in hac vita egestate &amp; penuria 
+      pre<lb ed="#H" n="6" break="no"/>mantur &amp; rebus necessariis ad commodiorem sustentationem 
+      desti<lb ed="#H" n="7" break="no"/>tmantur: inde tamen colligere minime debent, se federe gratiae 
+      <lb ed="#H" n="8"/>cum Deo exclusos esse, nec propter paupertatem, morbos, duram 
+      <lb ed="#H" n="9"/>servitutem aut subjectionem, aliasque afflictiones dolere: sed potius 
+      <lb ed="#H" n="10"/>gaudere, quod principalibus ac sempiternis bonis in federe gratiae 
+      <lb ed="#H" n="11"/>promissionis certo fruantur &amp; coelestes opes beatitudinemque 
+      fi<lb ed="#H" n="12" break="no"/>nem nullum habituram in Christo federis gratiae sponsore &amp; propter  
+      <lb ed="#H" n="13"/>ipsum sint consequuturi.  
+    </p>
+            <p xml:id="yyy8Uu-gxd157-d1e247">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Hucusque de uno capite federis gratiae nempe ex 
+      <lb ed="#H" n="15"/>
+               <pc type="indent"/>parie DEI.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

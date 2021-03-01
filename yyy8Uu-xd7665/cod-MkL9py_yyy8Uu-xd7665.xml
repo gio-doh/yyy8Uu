@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 35</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 35</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd7665"><!-- l10-c35 -->
+            <head xml:id="yyy8Uu-xd7665-Hd1e103">Caput 35</head>
+            <p xml:id="yyy8Uu-xd7665-d1e106">
+               <lb ed="#H" n="59"/>CAPUT XXXV. 
+      <lb ed="#H" n="60"/>In quo de exmeixeia.
+    </p>
+            <p xml:id="yyy8Uu-xd7665-d1e113">
+               <lb ed="#H" n="61"/>TΠiexeia, est virtus mansuetudini cognata, stricti juris quod 
+      poe<lb ed="#H" n="62" break="no"/>Lnas peccatis aequat, moderatrix, propter causam probabilem; ut  
+      <lb ed="#H" n="63"/>cum propter factum aut officium, vel propter salutem publicam aut 
+      <lb ed="#H" n="64"/>privatam eorum qui peccant, aut propter scandalum vitandum, 
+      ali<lb ed="#H" n="65" break="no"/>quid remittitur de nostro jure in peccatis puniendis aut persequendi. 
+      <lb ed="#H" n="66"/>injuriis. 
+    </p>
+            <p xml:id="yyy8Uu-xd7665-d1e129">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Est exercenda: 
+      <lb ed="#H" n="68"/>I Quia praecepta nobis est a Deo, Gal. 6. v. 1. Philipp. 4. v. 5. 
+      <lb ed="#H" n="69"/>II. Quia maxime decet homines qui ex infirmitate variis lapsibus 
+      <lb ed="#H" n="70"/>&amp; ipsi sunt obnoxij. 
+    </p>
+            <p xml:id="yyy8Uu-xd7665-d1e142">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>III. Quia illa unusquisque nostrum indigere ab aliis potest. 
+      <lb ed="#H" n="72"/>Opponitur ei nimia indulgentia &amp; rigor importunus. 
+      <lb ed="#H" n="73"/>Nimia indulgentia, est peccatum, quum quis non movetur iis 
+      re<lb ed="#H" n="74" break="no"/>bus, quibus oportebat moveri ex officio ad poenam irrogandum 
+      de<lb ed="#H" n="75" break="no"/>linquentibus secundum mandatum Dei, sed impunita quaevis 
+      promi<lb ed="#H" n="76" break="no"/>scue peccata sinit.  
+    </p>
+            <p xml:id="yyy8Uu-xd7665-d1e161">
+               <lb ed="#H" n="77"/>
+               <pc type="indent"/>Rigor importunus, est peccatum cum quis erga delinquentes &amp; 
+      <lb ed="#H" n="78"/>lapsos inmodice durus est, censuras &amp; reprehensiones illorum 
+      spiri<lb ed="#H" n="79" break="no"/>su mansuetudinis minime temperans 
+      <lb ed="#H" n="80"/>Hactenus de virtute affectuum moderatrice: sequitur de 
+    </p>
+            <p xml:id="yyy8Uu-xd7665-d1e174">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>virtute actionum moderatrices.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

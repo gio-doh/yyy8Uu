@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd301"><!-- l8-c8 -->
+            <head xml:id="yyy8Uu-gxd301-Hd1e103">Caput 8</head>
+            <p xml:id="yyy8Uu-gxd301-d1e106">
+               <lb ed="#H" n="173"/>CAPUT VIII. 
+      <lb ed="#H" n="174"/>In quo de adiunctis bonorum operum.
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e113">
+               <lb ed="#H" n="175"/>DJUNCTA bonorum operum nostrorum sunt duplicia: alia si 
+      <lb ed="#H" n="176"/>opera illa in se spectemus: alia si ea relate consideremus 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e120">
+               <lb ed="#H" n="177"/>
+               <pc type="indent"/>Bona opera nostra in se, in hac vita sunt omnia tum 
+      imper<lb ed="#H" n="178" break="no"/>fecta, tum impura. 
+      <!--cod-MkL9py-0595.xml-->
+      <pb ed="#H" n="566"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Imperfecta sunt tam partibus, quam gradibus. 
+      <lb ed="#H" n="2"/>Partibus sant imperfecta, quia semper restat aliquid quod eis 
+      <lb ed="#H" n="3"/>possit. Multa enim omittimus, quae Lex Dei praecipit, multa commit 
+      <lb ed="#H" n="4"/>timus quae prohibet.  
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e144">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Gradibus non sunt perfecta, quia longe absunt ab illa exacta 
+      <lb ed="#H" n="6"/>ma excellentia, quam Legis ax ἐφεια requirit. Ergo neque fide 
+      <lb ed="#H" n="7"/>charitas, neque virtus alia ulla in nobis perfecta est in hac vita 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e156">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Eadem bona opera nostra in hac vita sunt contaminata &amp; 
+      <lb ed="#H" n="9"/>quia semper illis mala admiscemus &amp; vitia ex reliquiis carni 
+      <lb ed="#H" n="10"/>promanant quidem pura a Spiritu Sancto, sed a nobis vitio carnis 
+      no<lb ed="#H" n="11" break="no"/>strae impurantur, sicut aqua purissima ex fonte limpidissi io fluens: 
+      <lb ed="#H" n="12"/>canalium &amp; meatuum impuritate inquinatur  
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e172">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Verum quicquid defectus &amp; vitii in bonis operibus nes 
+      <lb ed="#H" n="14"/>tur, id credentibus in Jesum Christum non imputatur, 
+      se<lb ed="#H" n="15" break="no"/>donatur. Inhaeres concupiscentia facit, ut in omni actione r 
+      <lb ed="#H" n="16"/>na peccemus. Imo vita a iustis seu regeneratis in hac viti. 
+      <lb ed="#H" n="17"/>per peccatur ex natura rei &amp; actionum ipsarum, licet 
+      <lb ed="#H" n="18"/>non reputentur. Peccamus autem in quavis actione que 
+      <lb ed="#H" n="19"/>cimus quam debuimus: &amp; multum nostrarum affeo tionum, id est 
+      <lb ed="#H" n="20"/>sordium admiscemus. Quapropter Jesalas capit. 64. nostras iustitia; 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e194">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>anno menstruato similes esse pronunciavit.  
+      <lb ed="#H" n="22"/>Bonorum operum nostrorum relate considerato rum adjuncta sunt,  
+      <lb ed="#H" n="23"/>itidem duplicia: alia si Deum spectes: alia si homine 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e205">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Si Deum spectes primo bona opera nostra placem tatque accepta sunt 
+      <lb ed="#H" n="25"/>Deo, non propter ullam ipsorum aut nostram puerfectionem aut digi 
+      <lb ed="#H" n="26"/>nitatem, sed propter Christum. 1. Petr. 2. vers. 5. 11, quo dilecti sumus &amp; 
+      <lb ed="#H" n="27"/>placemus Deo, &amp; cuius perfectione seu perfect a institia atque 
+      obedi<lb ed="#H" n="28" break="no"/>entia &amp; intercessione illorum defectus &amp; vitia te: guntur: &amp; quoniam 
+      il<lb ed="#H" n="29" break="no"/>la Deus; non qualia sunt in sese, sed ut Spiritus ( ui in nobis effecta &amp; 
+      fi<lb ed="#H" n="30" break="no"/>dei nostraa testimonia sunt, gratis approba¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e225">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Secundo, bona opera nostra remuneratioriem habent atque 
+      habe<lb ed="#H" n="32" break="no"/>bunt a Deo non ex illorum aut nostro merit o, sed ex gratia ipsius qui 
+      <lb ed="#H" n="33"/>non nostra bona, sed sua dona coronat: nequi: ex pacto &amp; promissione, 
+      <lb ed="#H" n="34"/>non enim sumus sub Lege, sed sub gratia, no n vivimus sub foedere ille, 
+      <lb ed="#H" n="35"/>legali, in quo promittit Deus vitam aeternam sub conditione operum. 
+      <lb ed="#H" n="36"/>Legis, sed sumus sub foedere gratiae, in quo prornittit Deus vitam aeter. 
+      <lb ed="#H" n="37"/>nam sub conditione fidei apprehendentis meritum Christi, Hebr. 10. 
+      <lb ed="#H" n="38"/>v. 15. &amp; cap. 11. 6. Deus ergo conatus nostros bonos, etsi tenues admo 
+      <lb ed="#H" n="39"/>dum &amp; plenas errorum atque offensionum pro sua immensa 
+      miseri<lb ed="#H" n="40" break="no"/>cordia in bonam partem accipit, &amp; remuneratur: quicquid aut 
+      admis<lb ed="#H" n="41" break="no"/>sum aut admixtum fuit mali, propter Christum ignoscit. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e254">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Si homines spectes, adjuncta bonorum operum sunt duplicia, alia 
+      <lb ed="#H" n="43"/>nestri respectu, alia proximi¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e264">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Nostri respectu alia sunt anteceditia, alia conexa, alia consequentia. 
+      <lb ed="#H" n="45"/>ANTECEDENTIA adiuncta bonorum operum, sunt quae praecunt 
+      o<lb ed="#H" n="46" break="no"/>perationi bonorum operum, eaque dirigunt &amp; gubernant, ut bene 
+      fi<lb ed="#H" n="47" break="no"/>ant: quum non satis sit bona opera fieri, nisi &amp; bene fiant:  
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e277">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Suntque tum sapientia &amp; prudentia, tum bona conscientia in studio 
+      <lb ed="#H" n="49"/>bonorum operum &amp; promptitudo ad illa 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e286">
+               <lb ed="#H" n="50"/>
+               <pc type="indent"/>SAPIENTIA adiuncta studio operum bonorum, est notitia per quam 
+      <lb ed="#H" n="51"/>intelligimus tum voluntatem Dei, quae opera ei placeant, &amp; quid nobi 
+      <lb ed="#H" n="52"/>praecipiat, quid prohibeat: tum nativam nostram infirmitatem ad 
+      bo<lb ed="#H" n="53" break="no"/>na opera facienda &amp; ad peccata cavenda. Ut enim tota fere sapientiae 
+      <lb ed="#H" n="54"/>nostrae summa, quae vera demum ac solida sapientia censeri debeat,  
+      <lb ed="#H" n="55"/>duabus partibus constat, Dei cognitione &amp; nostri: Ita etiam in 
+      studio<lb ed="#H" n="56" break="no"/>bonorum operum necessaria est nobis cognitio, tum voluntatis Dei 
+      <lb ed="#H" n="57"/>bonae illius, placentis ac perfectae: tum nostri, sic ut maxime hic locum 
+      <lb ed="#H" n="58"/>habeat illud γνώδε σεαυτὸν. Et quia sapientia dirigit actiones pias &amp; 
+      ho<lb ed="#H" n="59" break="no"/>nestas: sapiens est qui versatur in integritate coram Deo &amp; hominibus. 
+      <lb ed="#H" n="60"/>qui omnia cultus divini opera &amp; omnia vitae instituta moresque ad 
+      vo<lb ed="#H" n="61" break="no"/>luntatem Dei componit. Rom. 12. v. 2. Transformate vos per 
+      renova<lb ed="#H" n="62" break="no"/>tionem mentis vestrae, ad hoc ut probetis quae sit voluntas Dei, bona illa, 
+      pla<lb ed="#H" n="63" break="no"/>cens ac perfecta Pro. 2. 8, 9, 10. Custodiendo itinera iuris: &amp; viam eorum 
+      <lb ed="#H" n="64"/>quos benigne accepit conservat. Tunc intelliges iustitiam &amp; ius: &amp; quic.  
+      <lb ed="#H" n="65"/>quid rectum est, omnem orbitam bonam: Quum venerit sapientia in 
+      ani<lb ed="#H" n="66" break="no"/>mum tuum, &amp; scientia menti tuae amoena erit, Et c. 10. 1. Filius 
+      sapien<lb ed="#H" n="67" break="no"/>latitia afficit patrem, filius vero stolidus moestitiae est matri suae. Et v. 5. 
+      Co<lb ed="#H" n="68" break="no"/>portat in aestate filius intelligens: somno sopitus est in messe filius 
+      pudefaci<lb ed="#H" n="69" break="no"/>ens. Et v. 8. 13, 14 Sapiens animo accipit praecepta: staltus vero labiis 
+      seip<lb ed="#H" n="70" break="no"/>sum conturbat. Labiis prudentis adest praesens sapientia, ut virga 
+      corpori<lb ed="#H" n="71" break="no"/>dementis. Sapientes recondunt scientiam: ori autem stulti contritio propin. 
+      <lb ed="#H" n="72"/>qua est. Eccl. c. 8. 5, 6 Tempus ac rationem novit cor sapientis. Nam cuiqe  
+      <lb ed="#H" n="73"/>voluntati est tempus ac ratio. Rom. 16, 19. Volo vos sapientes quidem es 
+      <lb ed="#H" n="74"/>se in rebus bonis. Ephes. 5 15. Videte igitur quomodo accurate ambuletis 
+      <lb ed="#H" n="75"/>non ut insipientes, sed ut sapientes. Jacobi 3. 13. 17. Quis sapiens &amp; 
+      sci<lb ed="#H" n="76" break="no"/>entia praeditus est inter vos? demonstret ex bona conversatione opera sua. 
+      <lb ed="#H" n="77"/>cum lenitate sapiente. Quae autem superne est sapientia, primum 
+      qui<lb ed="#H" n="78" break="no"/>dem casta est, deinde pacifica, aequa, obsequens, plena misericordiae &amp; 
+      jru<lb ed="#H" n="79" break="no"/>ctuum bonorum absque disceptatione, &amp; minime simulata. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e356">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Datur a Deo, Prov. 2. 6. Iehovah dat sapientiam, ex ore eius scientia. 
+      <lb ed="#H" n="81"/>&amp; intelligentia procedit. Abeo impetranda est precibus ex vera fide 
+      pro<lb ed="#H" n="82" break="no"/>fectis Jacob. 1v. 5, 6, 7. 8. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e367">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>Conservat a malis omnibus spiritualibus &amp; corporalibus, quae 
+      alio<lb ed="#H" n="84" break="no"/>quin homini impendent, tum per maleficia propria, tum per 
+      allecta<lb ed="#H" n="85" break="no"/>menta &amp; seductiones aliorum, Proverb. 2.16. &amp; seqq. Quum veneri 
+      <lb ed="#H" n="86"/>sapientia in animum tuum, &amp; scientia menti tuae amoena erit: Solertia. 
+      <lb ed="#H" n="87"/>observabit te, intelligentia custodiet te, Eripiendo te a via mali, ac viris 
+      lo<lb ed="#H" n="88" break="no"/>quentibus perversitates. Qui derelinquunt itinera recti, ut ambulent 
+      po<lb ed="#H" n="89" break="no"/>vias tenebrarum, Qui latantur faciendo malum, exsultant in perversita. 
+      <lb ed="#H" n="90"/>bus pessimis. Qui itineribus suis perversi sunt, &amp; perfracti orbitis suis, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e389">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Robur confert sapienti, magis quam decem dominatores qui 
+      <lb ed="#H" n="92"/>unt in eadem civitate, Ecclesiasiae capite septimo v. decimonono, 
+      <!--cod-MkL9py-0595.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>Est mater prudentiae Prov. 16. v. 21. Sapiens animo vocahitur prudeus. 
+      <lb ed="#H" n="94"/>Nulla est vera virtus sine sapientia, Rom. 1. v. 21. 22. Augustinus 
+      se<lb ed="#H" n="95" break="no"/>ptimo tomo, libro quarto contra Iulianum Pelagianum, capite tertio, 
+      <lb ed="#H" n="96"/>pagina septingentesima: Nec in istis est vera iustitia, qua iustus ex fide: 
+      <lb ed="#H" n="97"/>vivit. Fides ex auditiu, auditus autem per verbum Christi, finis legis 
+      Chri<lb ed="#H" n="98" break="no"/>stus ad iustitia omni credeti. Quomodo sunt vere iusti, quibs vilis est 
+      hum<lb ed="#H" n="99" break="no"/>litas veri iusti? Quo enim propinquarat intelligentia, inde superbia recesse. Ron 
+      <lb ed="#H" n="100"/>riut quia cognoscentes Deim, non sicut Deii glorificaverunt, aut gratias 
+      ege<lb ed="#H" n="101" break="no"/>runt: sed evanuerunt in cogitationibus suis, &amp; obscuratum est insipiens cor Ron 
+      <lb ed="#H" n="102"/>eorum, Dicentes enim se esse sapientes, stulti facti sunt. Quomodo est in 
+      ei<lb ed="#H" n="103" break="no"/>vera iustitia, in quibus non est vera sapientia? Quam si eis tribuemus, 
+      ni<lb ed="#H" n="104" break="no"/>hil erit causae cur eos non ad illud regnum pervenire dicamus de quo 
+      scri<lb ed="#H" n="105" break="no"/>ptum est: Concupiscentia sapientiae deducit ad regnum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e432">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Sapientia non cuivis contingit, sed intelligenti, Prov. 17. v. 24. 
+      Sapi<lb ed="#H" n="107" break="no"/>entia est in conspectu intelligentis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e441">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>Cognitio nostri non requiritur, ut scientes nativam ignorantiam &amp; 
+      <lb ed="#H" n="109"/>infirmitatem nostram quod nihil boni ne quidem cogitare &amp; intelligi 
+      <lb ed="#H" n="110"/>re, nedum facere possimus seriis precibus apud Deum instemus, ut ille 
+      <lb ed="#H" n="111"/>nos voluntatem suam doceat, &amp; facultate instruat illam faciendi. Hinc 
+      <lb ed="#H" n="112"/>sunt precationes illae, Ps 25. vers. 4, 5. &amp; passim in Psalmis, maxime per 
+      <lb ed="#H" n="113"/>totum Psa lmum centesimum decimumnonum 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e459">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>Contratia sapietiae est insipietia seu stultitia, quam Graeci μωροκακιαν, 
+      <lb ed="#H" n="115"/>nominat, quae est rerum appetedarum &amp; vitandarum non quaelibet, sed 
+      vi<lb ed="#H" n="116" break="no"/>tiosa ignorantia: Est ignoratia earum rerum, quas scire ex officio unus 
+      <lb ed="#H" n="117"/>quisque debet, id est, voluntatis Dei &amp; infirmitatis nostrae, Jerem. 5. 
+      <lb ed="#H" n="118"/>vers. quarto, stulre agunt, quia ignorant viam Iehovae, ius Dei sui. Talis 
+      <lb ed="#H" n="119"/>iustitia, talis stoliditas non solum est privatio sapientiae, sed etiam 
+      con<lb ed="#H" n="120" break="no"/>trarius habitus animum stupidum sapientiae contrariis &amp; pravis 
+      opinioni<lb ed="#H" n="121" break="no"/>bus imbuens &amp; ad repugnandum Deo &amp; nocendum hominibus pronus. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e481">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Stultitia eiusmodi est admodum noxia. Nam pervertit viam hominis: 
+      <lb ed="#H" n="123"/>Proverb. 19. id est, est causa infortuniorum quae homini accidunt &amp; 
+      re<lb ed="#H" n="124" break="no"/>rum male gestarum, efficit ut male succedant conatus &amp; negotia. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e492">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Absapientia vero disparatur sapientia carnis, sapientia mundi huius, 
+      <lb ed="#H" n="126"/>δζοσοφια, opinio sapientiae, quum quispiam falso existimat, se egregit 
+      <lb ed="#H" n="127"/>intelligere quid verum sit aut falsum, quid bonum aut malum, &amp; 
+      prae<lb ed="#H" n="128" break="no"/>clare tenere omnia quae sibi facienda &amp; omittenda sint, quum tamet 
+      <lb ed="#H" n="129"/>non intelligat 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e508">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>Est fugienda: I. Quia prohibita est a Deo, Proverbiorum 
+      tertio<lb ed="#H" n="131" break="no"/>versiculo septimo: Ne esto sapiens in oculis tuis, Ecclesiastae 7. v. 26. Ne. 
+      <lb ed="#H" n="132"/>sis sapiens nimium 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e520">
+               <lb ed="#H" n="133"/>
+               <pc type="indent"/>II. Quia hominem praecipitat in perniciem, Ecclesiastae septimo 
+      <lb ed="#H" n="134"/>versiculo decimosexto. quare desolationem tibi arcesseres? Prov. 16. v. 
+      <lb ed="#H" n="135"/>vigesimoquinto. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e531">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>Hec de sapientia directice bonorum operum: sequitur  
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e538">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>de prudentia. 
+      <lb ed="#H" n="138"/>Prudentia Graece dicitur φρονήσις, quae differt a συφροσνη, id est, 
+      so<lb ed="#H" n="139" break="no"/>brietate: Sic φρονιμoς est prudens: συφραν, temperans. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e549">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Definitur prudentia in hunc modum 
+      <lb ed="#H" n="141"/>PRUDENTIA, est recta ratio rerum agendarum per quam praevide 
+      <lb ed="#H" n="142"/>mus quo quidque tempore, quoque modoagendum vel faciendum 
+      <lb ed="#H" n="143"/>qui denique eventus consiliorum &amp; negotiorum susceptorum futuru 
+      <lb ed="#H" n="144"/>sit, Ecclesiastae 3. versiculo 4, 5, 6, 7. 8. &amp; cap. 8. 4, 5. Matth. 7. 24. Eph. 
+      <lb ed="#H" n="145"/>5, 15, 16, 17. Ideo per eam praevidemus, quid agendum, quomodo, quo 
+      <lb ed="#H" n="146"/>loco, quo tempore, coram quibus, ut omnia convenienti loco, tempor 
+      <lb ed="#H" n="147"/>&amp; modo, ac in summa, secundum Legem Dei fiant, &amp; quid boni vel 
+      <lb ed="#H" n="148"/>nali ex iis quae agimus sequuturum sit vel sequi possit. Psalmo 
+      centesi<lb ed="#H" n="149" break="no"/>modecimonono vers. 19. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e575">
+               <lb ed="#H" n="150"/>
+               <pc type="indent"/>Prudentia utendum est in negotiis omnibus, quae consilio recte 
+      fieri<lb ed="#H" n="151" break="no"/>possunt, ad evitanda adversa, etiam quum scimus certo, Deum nobis 
+      <lb ed="#H" n="152"/>adiutorem esse. Id docuit Deus exemplo suo: nam populum Israeliti 
+      <lb ed="#H" n="153"/>cum a Pharaone dimissum non duxit via regionis Pelischthaeorum. 
+      <lb ed="#H" n="154"/>quod propinqua esset: dicebat enim Deus: ne poeniteat hunc populum, 
+      <lb ed="#H" n="155"/>quum viderint bellum &amp; revertantur in AEgyptum: sed citcumduxit 
+      e<lb ed="#H" n="156" break="no"/>lum via ipsa deserti ad mare algosum, Exod. 13. v. 17, 15. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e595">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>Per eam recte consulimus nobis &amp; aliis, ut Iithro socer Mosis 
+      con<lb ed="#H" n="158" break="no"/>silium dat ei de recta gubernatione populi Israelitici, Exod. 18. v. 17, &amp; 
+      <lb ed="#H" n="159"/>seq. Sic Propheta Nathan confilium dedit Batsebae reginae matri 
+      Sa<lb ed="#H" n="160" break="no"/>lomonis ad conservandam suam &amp; Salomonis vitam. 1 Reg. 1. v. 12. &amp; 
+      <lb ed="#H" n="161"/>seqq. Sic consulit Christus Dominus, quomodo evitari possint morbi 
+      <lb ed="#H" n="162"/>&amp; aliae afflictioes, loh. 5. 14. Ne pecca amplius, ut ne quid deter tibi fiat,  
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e614">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>Eius causa efficiens &amp; dator est Deus. 
+      <lb ed="#H" n="164"/>Causa eius efficiens proxima est sapientia, a qua oritur prudentia, 
+      <lb ed="#H" n="165"/>quae oculus vitae nostrae est. Nam universam vitam modo ac ratione 
+      <lb ed="#H" n="166"/>gubernat, rerum delectum habet &amp; secundis iuxta atque adversis rebus 
+      <lb ed="#H" n="167"/>uti novit 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e630">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Causae eius instrumetales sunt, Natura, usus, doctrina. Natura multum 
+      <lb ed="#H" n="169"/>potest: sed usus si accesserit, etiam mediocris natura attollitur, &amp; in consiliis 
+      <lb ed="#H" n="170"/>actionibusque se probat. Quod si doctrina adjugatur, illa est optima 
+      re<lb ed="#H" n="171" break="no"/>gendi imperandique ratio: ac proinde gubernatoribus aliorum 
+      inpri<lb ed="#H" n="172" break="no"/>mis conveniens. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e646">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Effecta. Piudentia insimos extollit ad honores, Prov. 17. 2. 
+      <lb ed="#H" n="174"/>Prudentia non est virtus moralis: quia omnis virtus moralis nos 
+      bo<lb ed="#H" n="175" break="no"/>nos efficit: at prudentia sola neutiquam dicimur bon¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e657">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Prudentiae partes duae sunt: Perspicientia, &amp; rectum iudicium 
+      <lb ed="#H" n="177"/>Perspicietia, est notitia rerum eventuumque seu accurata &amp; solers 
+      conside<lb ed="#H" n="178" break="no"/>ratio, quid in unaquaque actioe atque adeo in totius vitae ratioe Deo 
+      acce<lb ed="#H" n="179" break="no"/>ptum ac rinde honestum seu decens atque utile sit, ac e contrario quid. 
+      <lb ed="#H" n="180"/>Deo displiceat ac pinde quid inhonestum, dedecens &amp; damnosum sic: it 
+      <lb ed="#H" n="181"/>quae sint aliorum: Sulia &amp; cogitationes: etsi enim adeo profundaesint 
+      ho<lb ed="#H" n="182" break="no"/>minis cogitationes, ut nemo noverit eas, nisi spiritus hominis qui est in 
+      <lb ed="#H" n="183"/>ipso 1. Cor. 2 v. 11, eas tamen timatur, observat, recognoscit, &amp; 
+      expisca<lb ed="#H" n="184" break="no"/>tur prudens, Proverbior vigesimo, versiculo quinto, vigesimoseptimo. 
+      <!--cod-MkL9py-0596.xml-->
+      <pb ed="#H" n="567"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Alias circumspectio. Philippens. 1. versiculo decimo. Heb. 5. vers. 14. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e690">
+               <lb ed="#H" n="2"/>
+               <pc type="indent"/>Rectum iudicium, est per quod recte omnia &amp; singula estimantes &amp; 
+      <lb ed="#H" n="3"/>discernentes, volumus &amp; eligimus id, quod Deo acceptum, atque si 
+      <lb ed="#H" n="4"/>honestum &amp; vere utile est. Ps. 119. v. 30, 173. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e701">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Quod Deo acceptum &amp; honestum est, id solum vere utile est. 
+      <lb ed="#H" n="6"/>Prudentia igitur diriguntur consilia &amp; deliberationes in diiudica 
+      <lb ed="#H" n="7"/>tione &amp; electione rerum Deo placentium, honestarum &amp; utilium: o 
+      <lb ed="#H" n="8"/>mnesque actiones: item ut convenientia loci, temporis &amp; personarum 
+      <lb ed="#H" n="9"/>aliarumque circumstantiarum observetur. Proverb. 22 v. 1 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e718">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Sic Paulus λατρείαν vult esse λόγικμσ, Romanorum 
+      duodecimo<lb ed="#H" n="11" break="no"/>Sic idem opportunitatem nos observare jubet in virtutum 
+      exerci<lb ed="#H" n="12" break="no"/>tio, Rom. 13. v. 11 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e729">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Prudentiae est recte aestimare res &amp; personas, praeferre 
+      praeponen<lb ed="#H" n="14" break="no"/>das, postponere posthabendas, 2. Corinth. 4. versi. 18 cap. 5. v. 8. &amp; 16. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e738">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>Non pauca praecepta &amp; exempla prudentiae occurrunt in 
+      Scriptu<lb ed="#H" n="16" break="no"/>ris divinis, in quibus nimirum una res melior pronunciatur &amp; 
+      ante<lb ed="#H" n="17" break="no"/>bonitur alteri, velutiProverb. 3. v. 14, 15. Ecclesiastae 7. v. 1. &amp; sequentibu 
+      <lb ed="#H" n="18"/>In Ethnicis etiam prudentia commendatur, ut in Nerva Cocceio, qui  
+      <lb ed="#H" n="19"/>publicae utilitati atque saluti societatem sauguinis postposuit, cum 
+      <lb ed="#H" n="20"/>Traianum hominem peregrinum atque alienigenam Caesarem &amp; 
+      <lb ed="#H" n="21"/>collegam imperii designavit, existimans virtutem hominis, non 
+      ge<lb ed="#H" n="22" break="no"/>nus aut patriam spectari oportere, ut Dion autor est: 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e760">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Prudentiae est declinare ac refugere homines sibi adversos, 
+      quem<lb ed="#H" n="24" break="no"/>admodum faciunt serpentes, Matth. 10. vers. 16. Ita Ieremias abibat,  
+      <lb ed="#H" n="25"/>itinere suo fugiens contentionem &amp; consulens aedificationi piorum, 
+      <lb ed="#H" n="26"/>quae inter rixandum nulla est, donec Deus commoditatem exhiberet. 
+      <lb ed="#H" n="27"/>servo suo ad aedificandum, Ieremiae vigesimooctavo vers. 11. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e776">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Prudentiae est diffidere, id est, non facile nec temere cuivis credere, 
+      <lb ed="#H" n="29"/>etiam propinquis &amp; popularibus, etiamsi bonis verbis blandiantur: 
+      <lb ed="#H" n="30"/>Haec prudentia mandatur a Deo. veluti Ier. 9. v. 4. Quisque ab amic 
+      <lb ed="#H" n="31"/>suo cavete, &amp; ulli fratri ne confiditote: nam omnis frater omnino 
+      sup<lb ed="#H" n="32" break="no"/>plantat, &amp; omnis amicus cum detractione ambulat. Et cap. 12. v. 9. 
+      <lb ed="#H" n="33"/>Quandoquidem etiam fratres tui &amp; domestici patrestui, etiam ipsi 
+      per<lb ed="#H" n="34" break="no"/>nde agunt in te, ipsi quoque convocant post te multitudinem, ne credito 
+      i<lb ed="#H" n="35" break="no"/>stis, quamvis alloquantur te bonis verbis. Mich. 7. v. 5. 6. Ne creditote 
+      <lb ed="#H" n="36"/>amico: ne confiditote duci: ab ea quae cubat in sinu tuo observa fores 
+      ori<lb ed="#H" n="37" break="no"/>tui. Nam filius turpitudine afficit patrem, filia insurgit in matrem suam, 
+      <lb ed="#H" n="38"/>nurus in socrum suam, inimici cujusque sunt domestici ipsius, Matth. 
+      <lb ed="#H" n="39"/>7. vers. 15. Caveto vobis a pseudoprophetis &amp; 10. vers. 16. 17. Ecce eg 
+      <lb ed="#H" n="40"/>mitto vos ut oves in medium luporum: estote igitur prudentes ut serpen 
+      <lb ed="#H" n="41"/>tes, &amp; simplices ut columbae. Cavete vero ab hominibus, tradent es 
+      <lb ed="#H" n="42"/>enim vos in consessus, &amp; in conventibus suis flagellabunt vos. 1. Joh. 4. 
+      <lb ed="#H" n="43"/>vers 1. Dilecti, ne cuivis spiritui credite, sed probate spiritus, an ex Dei 
+      <lb ed="#H" n="44"/>sint. Ea est in Christo nostro Domino: nam quamvis multi 
+      credidis<lb ed="#H" n="45" break="no"/>sent in nomen ejus, spectantes signa quae edebat; tamen ipse non 
+      <lb ed="#H" n="46"/>credebat eis semetipsum, Johan. 2. v. 23. 24. Sic non patiebatur sibi 
+      <lb ed="#H" n="47"/>imponi a Pharisaeis &amp; Herodianis Matth. 22. vers. 16. 17. 18. Eadem 
+      <lb ed="#H" n="48"/>fuit in sanctis Deoque probatis hominibus, ut in Nechemia qui non 
+      <lb ed="#H" n="49"/>credidit hostibus &amp; falsis fratribus qui aedificationem 
+      Jerosolymo<lb ed="#H" n="50" break="no"/>rum impedire conabantur, Nechem. 6. capite toto. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e831">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Si te inter hostes verae religionis &amp; persecutores versantem, (quum 
+      <lb ed="#H" n="52"/>nec Propheta, nec Apostolus sis, neque vocatio peculiaris id 
+      requi<lb ed="#H" n="53" break="no"/>rat,) nomo roget de religione, neque cogat de ea dicere, non leviter 
+      <lb ed="#H" n="54"/>nec temere est dicendum, ne margaritas ante porcos projicias &amp; ne 
+      <lb ed="#H" n="55"/>suscipias inimicitias supervacaneas, Matth. 7. 6. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e848">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Prudentiae est simulare &amp; dissimulare aliquid, modo id fiat salva 
+      <lb ed="#H" n="57"/>gloria Dei &amp; citra fraudem veritatis &amp; charitatis, itemque justitiae &amp; 
+      <lb ed="#H" n="58"/>vocationis. Proinde simulatio &amp; dissimulatio res est media sive 
+      indif<lb ed="#H" n="59" break="no"/>ferens, id est, modo bonis &amp; certis rationibus bona, modo mala aliis. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e861">
+               <lb ed="#H" n="60"/>
+               <pc type="indent"/>Utrumque trib. modis dignoscitur, nimirum re, in qua dissimulatio 
+      <lb ed="#H" n="61"/>adhibetur; modo dissimulationis &amp; fine. Nam si in re media, modus 
+      <lb ed="#H" n="62"/>&amp; finis bonus est, per se non potest dici mala dissimulatio, contra, si res 
+      <lb ed="#H" n="63"/>sit similiter necessaria &amp; quae non erat dissimulanda, si ite modus &amp; 
+      fi<lb ed="#H" n="64" break="no"/>nis dissimulationis malus sit, non potest dici bona, 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e877">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>In rebus politicis &amp; externis &amp; mediis, quae neminem offendunt, 
+      <lb ed="#H" n="66"/>sed commune iuvant, licita est &amp; bona dissimulatio: sed in rebus 
+      di<lb ed="#H" n="67" break="no"/>vinis in quibus gloria &amp; ius Dei &amp; salus aeterna nostra &amp; proximi 
+      agi<lb ed="#H" n="68" break="no"/>tur, nullus dissimulationi locus est, 
+      <lb ed="#H" n="69"/>Modus aute dissimulatiois duplex est: nam aut dissimulat verum aut fals 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e893">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>Verum cum dissimulatur, tolerabilius est vulgo, quam si falsum dicatur  
+      <lb ed="#H" n="71"/>Sed tamen in utroque observandum est illud: primum, utrum serit 
+      <lb ed="#H" n="72"/>dicitur, an non serio. Deinde si non serio, utrum ioco, an alia species 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e904">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Si serio adhibetur dissimulatio, videndum utrum dissimuletur 
+      ve<lb ed="#H" n="74" break="no"/>rum, aut falsum simuletur in praeiudicium, (ut loquuntur) id est, in 
+      frau<lb ed="#H" n="75" break="no"/>dem veritatis ipsius aut personarum. Nam si alterutrum sit sine 
+      dam<lb ed="#H" n="76" break="no"/>no veritatis aut personae ullius, non potest ea dissimulatio damnari. 
+      <lb ed="#H" n="77"/>Verbi gratia: Deus dissimulat multa consilia sua hominibus: &amp; cum 
+      <lb ed="#H" n="78"/>retegit, partem dicit, partem apud se continetclausam. Dissimulat 
+      au<lb ed="#H" n="79" break="no"/>tem bono nostro, quod alioquin plene dicturus esset. Eadem ratione 
+      <lb ed="#H" n="80"/>parentes liberis, &amp; alii aliis similiter dissimulant, quae opus est dissimus 
+      <lb ed="#H" n="81"/>lari, non malo, sed bono eorum quibus cum agitur. Atque haec 
+      qui<lb ed="#H" n="82" break="no"/>dem dissimulatio &amp; simulatio juris &amp; libertatis est, qua pro suo ture 
+      <lb ed="#H" n="83"/>Deus &amp; parentes &amp; alii utuntur in causis consimilibus. 
+      <lb ed="#H" n="84"/>Sed quia saepe accidit ut res per se liberae, tamen extra libertate nostram 
+      <lb ed="#H" n="85"/>positae sint, pptereaveniendum estin causis veri &amp; falsi ad leges illas cuas, 
+      <lb ed="#H" n="86"/>ne quid in fraude veritatis aut charitatis fiat: In causis vero iusti &amp; 
+      in<lb ed="#H" n="87" break="no"/>iusti, ne quid in fraudem iustitiae vel vocationis eorum qui has artes 
+      <lb ed="#H" n="88"/>occupandas putant: idque tribus modis, sermone, opere aut specie 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e943">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Nunc exempla adferamus, Gene. 19. dissimulatio &amp; simulatio non 
+      <lb ed="#H" n="90"/>falsa, sed honesta atque civilis est, cum Angeli apparent humana 
+      spo<lb ed="#H" n="91" break="no"/>cie, recusant commoditatem a Loto sibi obiatam &amp; se pernoctaturo. 
+      <lb ed="#H" n="92"/>facile in platea praedicant. Gtn. 42. Iosephus usus est dissimulatione, 
+      <!--cod-MkL9py-0596.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>A alienum se fingens fratribus &amp; alloquens eos duriter: nam printum 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e964">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>visum erat Iosepho explorare veritatem &amp; complementum 
+      lomnio<lb ed="#H" n="95" break="no"/>lum quae divinitus ante ipsi obvenerant: Deinde visum erat eadem 
+      ra<lb ed="#H" n="96" break="no"/>tione explorare fratrum animos: tertio visum erat, totam paternae 
+      fa<lb ed="#H" n="97" break="no"/>miliae rationem immutatam, ex sermonibus eorum agnoscete. Moses. 
+      <lb ed="#H" n="98"/>Exod. 4. v. 18. veniam petens a socero redeundi in AEgyptum, prudent 
+      <lb ed="#H" n="99"/>ter vocationem divinam dissimulavit, ne quod sibi impedimentum a 
+      <lb ed="#H" n="100"/>ocero familiaque adferretur. Idem Moses &amp; Aaron, inssu Dei, postus 
+      <lb ed="#H" n="101"/>averunt a Pharaone populum Israeliticum ex AEgypto dimitti, ut in 
+      <lb ed="#H" n="102"/>deserto sacrificaret: quae una causa dimissionis erat: alias vero causas 
+      <lb ed="#H" n="103"/>ut nempe populus e durissima servitute liberaretur, &amp; in terra Canaam 
+      <lb ed="#H" n="104"/>introduceretur. prudenter apud Pharaonem dissimularunt Exod. 3. v. 
+      <lb ed="#H" n="105"/>18. 1. Samuel16. Samuel Dei mandato Bethlchemum ad Iischaium 
+      <lb ed="#H" n="106"/>proficiscitur, dissimulata publice praecipua adventus sui causa, &amp; 
+      una<lb ed="#H" n="107" break="no"/>tantum indicata trepidis senioribus civitatis. I. Samuel. 21. David 
+      si<lb ed="#H" n="108" break="no"/>mulavit insaniam seu amentiam Ierem. 38. vers. 27. Propheta a Regi 
+      <lb ed="#H" n="109"/>Sedechia discedens &amp; interrogatus a Principibus Iudee, tantum 
+      par<lb ed="#H" n="110" break="no"/>em sermonis cum Rege Sedechia habiti explicat, partemque reticet. 
+      <lb ed="#H" n="111"/>quam exponi fuisset inutile &amp; damnosum. Nehem. 2. vers. 12, 16. 
+      Io<lb ed="#H" n="112" break="no"/>han. 7. CHRISTUS civili modestia atque prodentia erga suos 
+      agna<lb ed="#H" n="113" break="no"/>tos est usus: Nam illis urgentibus ut abiret Ierosolyma &amp; sese daret in 
+      <lb ed="#H" n="114"/>coronam populi, respondit Christus suum tempus nondum advenis. 
+      <lb ed="#H" n="115"/>se, se nondum adscendere ad festum. Illa Christi negatio, quae simples 
+      <lb ed="#H" n="116"/>videtur esse, tamen secundum quid dicitur, &amp; implexam habet 
+      dissi<lb ed="#H" n="117" break="no"/>mulationem simulationemque per illud tempus ex causa necessatia. 
+      <lb ed="#H" n="118"/>Luc. 24. vers. 28. simulabat Christus se longius iturum &amp; non 
+      mansu<lb ed="#H" n="119" break="no"/>rum cum duobus discipulis Emaunte. Lucas Evangelista capite 3. in 
+      <lb ed="#H" n="120"/>Senealogia Christi, Cainanis nomen positum medio loco inter 
+      Sa<lb ed="#H" n="121" break="no"/>lam &amp; Arpaxadum versiculo 36. retinuit ex LXXII. interpretum 
+      <lb ed="#H" n="122"/>Graecorum fide, quorum versionem sequi maluit, ut Beda ad eum 
+      lo<lb ed="#H" n="123" break="no"/>cum docet, quam intempestiva mutatione nascenti Ecclesiae 
+      Novi<lb ed="#H" n="124" break="no"/>Testamenti &amp; illucescente primum Evangelii veritate, materiam 
+      ri<lb ed="#H" n="125" break="no"/>xae obtrudere. Lucas igitur id officii cum Graecorum 
+      interpretatio<lb ed="#H" n="126" break="no"/>ni, tum receptae in vulgus opinioni tribuit, prout multa in Scripturis 
+      <lb ed="#H" n="127"/>δοζαστιϰως sunt enunciata &amp; opinioni vulgi accommodata: neque 
+      in<lb ed="#H" n="128" break="no"/>tempestivo certamine de causa alicuius nominis voluisse committere, 
+      <lb ed="#H" n="129"/>ut Ecclesiae pax aut piarum mentium quies in discrimen vocaretur. 
+      <lb ed="#H" n="130"/>nutaret eorum fides, vel periclitaretur Scripturae autoritas. Scivit 
+      fal<lb ed="#H" n="131" break="no"/>sum esse, sed quod tem tantum unam historicam variaret, non autem 
+      <lb ed="#H" n="132"/>fidei Christiane fundamentum aut articulos eius fundamentales 
+      con<lb ed="#H" n="133" break="no"/>velleret. Haec igitur est συγχώρκσις αναμαρτηιςος, id est, concessio pec- 
+      <lb ed="#H" n="134"/>cato vaeans. Sed nonne Lucas errorem falsum hoc pacto confirma 
+      <lb ed="#H" n="135"/>vit? Minime omnium. Nam &amp; publicus error a privato differt, &amp; in 
+      <lb ed="#H" n="136"/>veteratus a recente novoque. Lucas autem errorem neque publicum 
+      <lb ed="#H" n="137"/>ex privato fecit, neque nascentem aluit: sed publicum errorem iamdit. 
+      <lb ed="#H" n="138"/>inveteratum, verum non offendentem fidei Catholicae veritatem, 
+      per<lb ed="#H" n="139" break="no"/>tulit: quin autore Spiritu Dei, ex duobus malis vidit eligendum 
+      mi<lb ed="#H" n="140" break="no"/>nus, Malum quide fuit illud, quod septuagintaduo interpretes ausi 
+      sum<lb ed="#H" n="141" break="no"/>a veritate historiae discedere, quocunque tandem studio aut 
+      consilio<lb ed="#H" n="142" break="no"/>fecerint: ac proinde ipsorum facto falsum invaluit in Sacra historia 
+      <lb ed="#H" n="143"/>Sed cum ille error historicus per se fidei salvificae non afferat dam 
+      <lb ed="#H" n="144"/>num, gravius malum eventurum fuisse vidit, si illud inveteratumatqui 
+      <lb ed="#H" n="145"/>apud omnes receptum intempestive tentaret eximere. Quod malum 
+      <lb ed="#H" n="146"/>gravissimum certe, nimirum quod ita propter causam quae non 
+      attin<lb ed="#H" n="147" break="no"/>git fundamentum ullum fidei proprie &amp; per se, periclitata fuisset 
+      Scri<lb ed="#H" n="148" break="no"/>pturae autoritas, piorum fides nutavisset tempore nascentis Evangelii, 
+      <lb ed="#H" n="149"/>&amp; conturbata fuisset Ecclesiae aedificatio. Quis enim ista omnia 
+      peri<lb ed="#H" n="150" break="no"/>cula futura fuisse dubitet, si per illud tempus quaestionem eiusmodi 
+      <lb ed="#H" n="151"/>nondum necessariam pertinaciter intulisset in Ecclesiam Dei, ac non 
+      <lb ed="#H" n="152"/>potius modeste prudenterque in tempus oportunius distulisset. At 
+      <lb ed="#H" n="153"/>haec videtur esse carnis prudetia. Imo vero non carnis est, Sed Spirit haec 
+      <lb ed="#H" n="154"/>prudetia si quam veritatis diminutionem feras saluti non adversante, ubi non 
+      <lb ed="#H" n="155"/>potest corrigi sine perturbatioe Ecclesie. Indulgentur infirmis &amp; tegum; 
+      <lb ed="#H" n="156"/>tur cora illis errores, qui in hominibs valetioribus castigantur: neque id 
+      in<lb ed="#H" n="157" break="no"/>firmis, aut in doctrina solum: sed etiam iis quos pervicax σκληροκαρονα 
+      ob<lb ed="#H" n="158" break="no"/>tinet, etia in ipsa inris &amp; iustitiae causa toleratur aliquid ne Ecclesia 
+      scin<lb ed="#H" n="159" break="no"/>datur, aut aedificatiois via obstruatur: queadmodum Christ? Matt. 19. 
+      do<lb ed="#H" n="160" break="no"/>cuit, &amp; exepla ostedunt. Denique si quid a veritate historiae &amp; juris, aut a 
+      <lb ed="#H" n="161"/>bitate vitae deflectic: illud fit καlα θείαν τινα συγχαρησιν, ad veritatem &amp; 
+      ju<lb ed="#H" n="162" break="no"/>stitia puta caeteris in reb. quas pluris interest exponi Ecclesiae Dei, apud 
+      <lb ed="#H" n="163"/>homines obtinedam. Mi enim concedit atque supponitur, maius ut 
+      obti<lb ed="#H" n="164" break="no"/>neatur alioquin ut iustitia per se, sic etiam veritas omnibs in reb. colendi. 
+      <lb ed="#H" n="165"/>est: Sed ita ut cum pace &amp; charitate, quoad eius fieri potest, temperetur.  
+      <lb ed="#H" n="166"/>Summa, quod septuaginta olim mutaverunt M osen, indigne factum, quod 
+      <lb ed="#H" n="167"/>Evagelistae &amp; Apostoli mutatum receperunt &amp; usurpaversnt, sapieter factum 
+      <lb ed="#H" n="168"/>per Spiritum Dei &amp; convenmenter suis temporibsqu aute ja sine periculo 
+      Ec<lb ed="#H" n="169" break="no"/>clesiae demostratur veritas, id tepestivum est &amp; dignum laude officium Atque 
+      <lb ed="#H" n="170"/>nanc virorum Dei modestia in feredis errorib. alienis, qui sine offensa 
+      con<lb ed="#H" n="171" break="no"/>scientiae ad pace &amp; aedificationem publica tollerati possut, seculo nostro 
+      di<lb ed="#H" n="172" break="no"/>gnetur dare Dominus, &amp; fervere illum conrentionis spiritum extinguere, qui  
+      <lb ed="#H" n="173"/>nihil fratribus condonate, nihil publicae pacis aedificationi, &amp; charitati,  
+      <lb ed="#H" n="174"/>fectionis vinculo, tribuere, nihil tegere &amp; dissimulare potest in eo quod 
+      <lb ed="#H" n="175"/>tegit peccata nostra, &amp; misericordia maxima toleravit tepora 
+      ignora<lb ed="#H" n="176" break="no"/>tionis nostiae. Act. 21. Paulus uno eodeque facto sua coditionem dissimu. 
+      <lb ed="#H" n="177"/>avit &amp; se voti Nagireatus teneri simulavit Hac simulationem sancta 
+      fu<lb ed="#H" n="178" break="no"/>isse, nec ullo pacto danari a piis oportere duob, argumentis 
+      demostra<lb ed="#H" n="179" break="no"/>mus. Unum est pcerto connilio Apostolorum qui aderat, &amp; Ecclesiae Dei res 
+      <lb ed="#H" n="180"/>illa gesta est: alterum est ysi ullum ea in re peccatum exstitisset plurimum 
+      cau<lb ed="#H" n="181" break="no"/>sae Paulus habuisset, gnoscedi &amp; defsedi illud in singulis suis 
+      defensio<lb ed="#H" n="182" break="no"/>nibs sed de ea re verbu nullum. Act. 23. cum Paulus puudetissime 
+      conmitte<lb ed="#H" n="183" break="no"/>ret inter se Pharisaeos &amp; Sadducaeos dices se accusatum esse, pyter spe 
+      re<lb ed="#H" n="184" break="no"/>surrectionis ex mortuis: dixit q verum erat, sed multum veri dissimulavit. 
+      <!--cod-MkL9py-0597.xml-->
+      <pb ed="#H" n="568"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>&amp; fecit sine fraude veritatis Nam ut in eo consensubaulus multum de 
+      <lb ed="#H" n="2"/>charitate erga istos homines coniuratos in Christum cogitaret, 
+      tan<lb ed="#H" n="3" break="no"/>quam ad pietatem revocaturus ipsos, non fuit locus, Augustin. quarti 
+      <lb ed="#H" n="4"/>tomo, libro de fide &amp; oper. ait c. 3. Est ratio dissimulandi &amp; tolerandi 
+      ma<lb ed="#H" n="5" break="no"/>los in Ecclesia; &amp; est rursus ratio castigandi &amp; corripiendi, non admit. 
+      <lb ed="#H" n="6"/>tendi, vel a communione remittendi. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1185">
+               <lb ed="#H" n="7"/>
+               <pc type="indent"/>Similiter prudentis est multa dissimulare quae audit aut videt, 
+      qua<lb ed="#H" n="8" break="no"/>si non audisset, aut vidisset.  
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1194">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>Ac proinde aliorum errata veluti connivens dissimulet, quum 
+      nem<lb ed="#H" n="10" break="no"/>sit qui non peccet Eccl. 7 20. 
+      <lb ed="#H" n="11"/>Insuper, ut si prudens es, aliorum in te maledicta &amp; contumelias 
+      dis<lb ed="#H" n="12" break="no"/>simulato: quia tibi istudconsulit Deus in li. Eccl c. 7. v. 21 quia tu quo- 
+      <lb ed="#H" n="13"/>que sepe aliis maledixisti, cuius te conscietia tua convincit, Eccl 7. v. 22. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1210">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Prudentis etiam est dissimulare scientiam &amp; reconditam 
+      habece<lb ed="#H" n="15" break="no"/>quam depromat ubi opus est Prov. 10. v. 14. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1219">
+               <lb ed="#H" n="16"/>
+               <pc type="indent"/>Prudentis est in reb indifferentib &amp; non necessariis ita se gerere, 
+      ne<lb ed="#H" n="17" break="no"/>det scandalum, si videat, pximum per incapacitatem suam inde 
+      acce<lb ed="#H" n="18" break="no"/>pturum illud. Quo pertinet illud Pauli 1. Cor. 8. v. 13 Si esca 
+      scandali<lb ed="#H" n="19" break="no"/>zat fratrem meum, non manducabo carnem in aeternum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1232">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Sed si doctrina vel factum necessaria sunt, intermitti non d ebent, etiam 
+      <lb ed="#H" n="21"/>aliquis scandalum inde accipiat Quantum sine peccato possumus 
+      vi<lb ed="#H" n="22" break="no"/>tare proximorum scandalum, debemus: Si autem de veritate scandali 
+      <lb ed="#H" n="23"/>sumitur, utilius permittitur, nasci scandalum, quam veritas relinqua 
+      <lb ed="#H" n="24"/>tur, ait Greg. Mag. hom. 7. in Ezech. Ex his igitur exemplis 
+      confi<lb ed="#H" n="25" break="no"/>citur simulationem &amp; dissimulationem, modo citra fraudem veritatis 
+      <lb ed="#H" n="26"/>&amp; charitatis, itemque justitiae &amp; vocationis adhibeatur, in homine 
+      Chri<lb ed="#H" n="27" break="no"/>stiano minime damnandam esse: maxime si observatio illa accesserit,  
+      <lb ed="#H" n="28"/>ut videant pii, quotiescunque de dissimulatione cogitant, apud quos ad 
+      <lb ed="#H" n="29"/>hibeant ipsam Nam alia est simulationis ratio apud ignorates, quam 
+      <lb ed="#H" n="30"/>apud scientes: alia apud infirmos, quam apud firmos: alia apud amicos, 
+      <lb ed="#H" n="31"/>quam apud inimicos: alia anud simplices, quam apud malitiosos: alia 
+      <lb ed="#H" n="32"/>apud eos de quorum salute spes est, alia apud desperatos. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1266">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Haec de modo dissimulationis. 
+      <lb ed="#H" n="34"/>Fnis dissimulationis est diversus  factorum diversitate. Nam 
+      spe<lb ed="#H" n="35" break="no"/>ctatur vel aedificatio Ecclesiae aut singulorum piorum, vel explora 
+      <lb ed="#H" n="36"/>tio rerum nece ssario cognoscendarum: vel aversio periculorum. 
+      <lb ed="#H" n="37"/>vel studium vitandi ἀλαζοίαν, &amp;c. Mala autem simulatio aut 
+      dis<lb ed="#H" n="38" break="no"/>simulatio, est in reb divinis, in quibro gloria Dei &amp; salus nostra atque 
+      p<lb ed="#H" n="39" break="no"/>timi agitur: Item cujus modus &amp; finis est malus: cujusmodi fuit 
+      dissi<lb ed="#H" n="40" break="no"/>mulatio Aaronis qui populi consilio &amp; voluntati obsequutus, dissimu 
+      <lb ed="#H" n="41"/>avit grande peccatum esse facere idolum, dissimulavit etiam sensum 
+      <lb ed="#H" n="42"/>suae conscientiae, Exod. 32. Sic mala fuit simulatio Petri Apostoli de 
+      <lb ed="#H" n="43"/>qua Gal. 2. v. 11, 12. &amp; seque  
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1295">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Haec de prudentia quae in simulando dissimulandoque  
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1302">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>necessaria est. 
+      <lb ed="#H" n="46"/>Prudentia in electione malorum singularis requiritur.  
+      <lb ed="#H" n="47"/>Inter duo mala minus malum est eligendum. Sed haec regula est 
+      <lb ed="#H" n="48"/>intelligenda de malo poenae, pugnante cum bono utili, non autem de 
+      <lb ed="#H" n="49"/>malo culpae, pugnante cum bono honesto. Nam si Deus 
+      utrum<lb ed="#H" n="50" break="no"/>que malum prohibeat, neutrum est faciendum 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1320">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Ideo in malis culpae nulla debet fieri electio: id est, mala culpae &amp; 
+      <lb ed="#H" n="52"/>peccata nullo modo eligenda, sed omnia sunt ex aequo fugienda 
+      <lb ed="#H" n="53"/>In malis poenae electio fieri potest: ut si bello captus, vel in latronem 
+      <lb ed="#H" n="54"/>incidens optionem habeat, pecuniane velit se redimere, an vitam 
+      pro<lb ed="#H" n="55" break="no"/>fundere, praestat pecuniam amittere, quam vitam. 
+      <lb ed="#H" n="56"/>Sic 2. Sam. 24. 12 Davidi, cum numerato populo peccasset, 
+      offer<lb ed="#H" n="57" break="no"/>Dominus optionem triplicis poenae, e qua unam eligeret quam vel 
+      <lb ed="#H" n="58"/>let, nempe, vel septennem famem in toto regno: vel bellum, quo 
+      fu<lb ed="#H" n="59" break="no"/>geret tribus mensibus coram hostibus suis eum persequentibus: vel 
+      <lb ed="#H" n="60"/>triduanam pestem: Delibera nunc (ait Propheta Gad) &amp; despie 
+      <lb ed="#H" n="61"/>quid referam ei qui me misit. Ait ergo David ad Gad: Supra modum 
+      <lb ed="#H" n="62"/>angor: sed praestat incidere in manum Domini (quoniam multae sunt 
+      mi<lb ed="#H" n="63" break="no"/>serationes eius) quam in manus hominum 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1353">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Malorum, quorum insonti omnino vel propter verae religionis 
+      <lb ed="#H" n="65"/>professionem optio datur, nulla debet fieri electio, sed exspectandum 
+      <lb ed="#H" n="66"/>&amp; patienter perferendum quicquid Tyrannus decreverir ne si suppli 
+      <lb ed="#H" n="67"/>cium &amp; mortem ultro eligas, te suspicioni admissi alicuius sceleris in 
+      <lb ed="#H" n="68"/>volvas, &amp; calumniis tuae famae ad posteritatem aspergendis 
+      occasio<lb ed="#H" n="69" break="no"/>nem praebeas, te supplicium ultro electurum non fuisse, si nullius cul 
+      <lb ed="#H" n="70"/>bae conscius tibi fuisses. Talis prudentiae spiritualis exemplum est i1 
+      <lb ed="#H" n="71"/>historia Gallica, in Principe Condaeo. Carolus IX. Galliae Rex, 
+      An<lb ed="#H" n="72" break="no"/>no 1572. post cruentas illas nuptias Parisienses Principem Condae 
+      <lb ed="#H" n="73"/>um ad se accersit, &amp; tres illi conditiones proponit, ex quibus unam 
+      eli<lb ed="#H" n="74" break="no"/>geret: Missam, mortem aut perperuum c. ree:em. Condaeus illi 
+      re<lb ed="#H" n="75" break="no"/>apondit, se nunquam, Deo ita bene favente, commissurum utprimum 
+      <lb ed="#H" n="76"/>eligat: ex duobus reliquis alterum Regis voluntati &amp; arbitrio 
+      relin<lb ed="#H" n="77" break="no"/>quere: Deum vero rem omnem sua providentia gubernaturum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1388">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Quum igitur persequutores Ecclesiae dant spacium ad 
+      deciberan<lb ed="#H" n="79" break="no"/>dum, utrum velis facultatibus privari, in exsilium eiici, proscribi, 
+      au<lb ed="#H" n="80" break="no"/>etiam misere interfici: an vero edictis quibus idololatriam suam 
+      im<lb ed="#H" n="81" break="no"/>perant, parere deliberandum non est, nec oblatum deliberandi 
+      spati<lb ed="#H" n="82" break="no"/>um acceprandum: sed simpliciter idololatria &amp; obedientia impio 
+      edi<lb ed="#H" n="83" break="no"/>cto recusanda: exemplo sociorum Danielisipsiusque Danielis. Cypriam 
+      <lb ed="#H" n="84"/>referente Iugustino, cum ad supplicium duceretur, Praeses ei dixit, ut qui 
+      <lb ed="#H" n="85"/>voluisset eum evadere, Jam do tibi spatium ad deliberandum, utrum 
+      ve<lb ed="#H" n="86" break="no"/>lis decernas, an ita misere interfici, an parere, ac liber dimitti? 
+      Re<lb ed="#H" n="87" break="no"/>lpondit vir Dei; in te tam sancta deliberatio non habt locum, 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1415">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>Praeterea prudentis est, sapienter verba ponderate &amp; facere Pro 
+      <!--cod-MkL9py-0597.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>verbiorum decimo, versiculo decimotertio. Recta ac salutaria 
+      eofi<lb ed="#H" n="90" break="no"/>silia aliis dare, ut fecit Iithro socer Mosis. Exod. 18. v. 19. &amp; 
+      sequenti<lb ed="#H" n="91" break="no"/>bus 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1433">
+               <lb ed="#H" n="92"/>
+               <pc type="indent"/>Prudentiae opponuntur tum prudentia carnalis, versutia, &amp; opinie 
+      <lb ed="#H" n="93"/>prudentiae: tum imprudentia, illa aut disparata, haec ut adversa¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1442">
+               <lb ed="#H" n="94"/>
+               <pc type="indent"/>Prudentia carnalis, est cum vel aliis vel nobis ipsis concedimus, 
+      <lb ed="#H" n="95"/>&amp; fuademus ea quae caro &amp; sanguis dictant, &amp; non quae spiritus Deia 
+      <lb ed="#H" n="96"/>qualis est prudentia Petri &amp; aliorum discipulorum Christo dissuaden 
+      <lb ed="#H" n="97"/>tium profectionem in ludaeum, Ioh. 11. &amp;. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1455">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Versutia, est observatio nostri commodi in aliqua re cum alterius 
+      <lb ed="#H" n="99"/>detrimento. Vocatur etiam calliditas, item prudentia Proverb. 23. s. 
+      <lb ed="#H" n="100"/>A&amp; versuti dicuntur prudentes, Luc. 16. 8. sed καια χρνσικώςς quum sit 
+      <lb ed="#H" n="101"/>carnalis prudentia. Prudentia enim proprie sic dicta est in bonis: at 
+      <lb ed="#H" n="102"/>versutia in malis operibus 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1471">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Exemplum versutiae seu calliditatis est in Achabo qui voluit 
+      elu<lb ed="#H" n="104" break="no"/>dere Prophetiam Michajehu Propheta, I. Regum vigesimosecundo 
+      <lb ed="#H" n="105"/>versiculo trigesime 
+      <lb ed="#H" n="106"/>Astutia est υtσον quiddam, nunc in bonam, nunc in malam 
+      par<lb ed="#H" n="107" break="no"/>tem accipitur, ut Augustinus docet secundo tomo, epistola 
+      vigesima<lb ed="#H" n="108" break="no"/>nona 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1489">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>Opinio prudentiae, est quum quis existimat se probe suis &amp; aliorum: 
+      <lb ed="#H" n="110"/>consilio &amp; monitis non egere &amp; proinde tenere, quo loco &amp; tempore, 
+      <lb ed="#H" n="111"/>reb. consulere posse aliorum, &amp; qua ratione quid faciendum 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1501">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Est autem fugienda: I. Quia prohibita est a Deo. Roman. 12. v. 16. 
+      <lb ed="#H" n="113"/>Non elate de vobis ipsis sentientes, sed humilibus obsecundantes. Ne 
+      esto<lb ed="#H" n="114" break="no"/>re prudentes apud vosmetipsos. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1512">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Imprudentia quae &amp; temeritas, est ignorantia rerum eventuumque 
+      <lb ed="#H" n="116"/>&amp; iudicium in iis pravum, unde in consiliis actionibusque errores, &amp; 
+      <lb ed="#H" n="117"/>ii interdum non tantum privatim, sed etiam publice perniciosi 
+      comi<lb ed="#H" n="118" break="no"/>antur. Cavenda est: I Quid prohibetur a Christo. Matth. 7. 6. 
+      <lb ed="#H" n="119"/>II. Quia est causa peccandi, Proverbiorum decimonono secunde 
+      <lb ed="#H" n="120"/>EEque cuius non dignoscit animus quod non est bonum, ac praeceps 
+      pedi<lb ed="#H" n="121" break="no"/>bus peccat. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1532">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>III. Quia summos deiicit, Matthaei septimo, versiculo 
+      vigesimo<lb ed="#H" n="123" break="no"/>sexto, &amp; vigesimoseptimo. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1541">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Imprudentia &amp; temeritas est leviter se immiscere negotia alienis 
+      <lb ed="#H" n="125"/>&amp; fidem suam pro alio interponere. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1550">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>Dictum est de prudentia: sequitur de bona¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1557">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>conscientia. 
+      <lb ed="#H" n="128"/>Bona conscientia in studio bonorum operum, est certa notitia, ex 
+      ver<lb ed="#H" n="129" break="no"/>bo Dei, opera illa, quae facturi sumus, aut facimus, esse a Deo 
+      manda<lb ed="#H" n="130" break="no"/>ta, nosque habere vivam fidem &amp; serium propositum obediendi Deo 
+      <lb ed="#H" n="131"/>secundum omnia ipsius mandata, &amp; nos atque obedientiam nostram 
+      <lb ed="#H" n="132"/>quantumvis imperfectam, &amp; vix inchoatam, placere Deo, non quia 
+      <lb ed="#H" n="133"/>Legi ipsius satisfaciat, sed quia peccata &amp; defectus in nobis reliqui, 
+      no<lb ed="#H" n="134" break="no"/>bis propter imputatam Christi justitiam non imputentur, Act. 23. 1. 
+      <lb ed="#H" n="135"/>Intentis autem in consessum oculis Paulus, ait, Viri fratres, ego omni 
+      con<lb ed="#H" n="136" break="no"/>scientia bona servivi Deo ad hunc usque diem. 2. Cor. 1. v, 12. Nam 
+      gloria<lb ed="#H" n="137" break="no"/>tio nostra haec est, testimonium videlicet conscietiae nostrae, quod cum 
+      simpli<lb ed="#H" n="138" break="no"/>citate &amp; sinceritate Dei, non cum sapientia carnali, sed cum gratia Dei, 
+      ver<lb ed="#H" n="139" break="no"/>sati sumus in mudo, plurimum aute apud vos. 2. Tim. 1. v. 3. Gratia habea 
+      <lb ed="#H" n="140"/>Deo, quem colo cum maioribus cum munda conscientia, prout continus 
+      <lb ed="#H" n="141"/>am tui memoriam tenco in deprecationibus meis nocte ac die: 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1595">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>Opponitur ei mala conscientia, &amp; simulatum studium bonae 
+      consci<lb ed="#H" n="143" break="no"/>entiae. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1604">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Mala conscientia hominem accusat peccati &amp; vacuitatis fidei vivae 
+      <lb ed="#H" n="145"/>&amp; serii studii obediendi Deo: ideo ubi illa est, ibi vere bonum opus non 
+      <lb ed="#H" n="146"/>est. Exemplo sunt Pharisaei &amp; Scribae qui adulteram ad Christum ad 
+      <lb ed="#H" n="147"/>duxerant, Johan. 8. v. 9. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1617">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>Simulatum studium bonae conscientiae, est hypocritarum, qui vel igi. 
+      <lb ed="#H" n="149"/>norant vel scire nolunt voluntate Dei, &amp; tamen praetendunt se per 
+      co<lb ed="#H" n="150" break="no"/>scientia hoc vel illud facere teneri, vel facere non posse, quum nihil 
+      mi<lb ed="#H" n="151" break="no"/>nus curet, qua bonam conscientia. Exemplo sunt Pontifices &amp; Sacer¬e 
+      <lb ed="#H" n="152"/>dotes lerosolymitani, qui prae se ferebant studium conservande bonae 
+      con<lb ed="#H" n="153" break="no"/>scientiae, non ingrediendo praetorium Pilati: &amp; interim postulatores &amp; 
+      <lb ed="#H" n="154"/>autores erant necis Christi. Similiter hodierni Pontifices Romani &amp; 
+      <lb ed="#H" n="155"/>pseudepiscopi, alisque clerici Romani praetendunt, se non posse bona 
+      con<lb ed="#H" n="156" break="no"/>scientia consulere vel assentiri ut Imperatores, Reges &amp; Principes, 
+      Ma<lb ed="#H" n="157" break="no"/>gistratus suis ditionibus aut urbibus Evangelicae religionis libertatem 
+      <lb ed="#H" n="158"/>concedant, ac interim conscientiae nullam rationem habent, dum 
+      Im<lb ed="#H" n="159" break="no"/>peratores Reges, Principes, Magistratus ad caedes injustas 
+      subdito<lb ed="#H" n="160" break="no"/>rum infiammam 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1650">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Sic fuit de pura conscientia. 
+      <lb ed="#H" n="162"/>PROMTITUDO ad hona opera, est propensio animi qua ad recte 
+      a<lb ed="#H" n="163" break="no"/>gendi studium non inviti ferimur, ne innata carnis infirmitate, cum 
+      <lb ed="#H" n="164"/>qua perpetuo luctandum est, vel in principio deficiamus. Eam 
+      conmen<lb ed="#H" n="165" break="no"/>dat Christus in discipulis suis cum ait Matth. 26. 41. Spiritus quidem 
+      <lb ed="#H" n="166"/>promtus est De eadem Exod, 35, 21. Rom. 1. v. 15. 2. Cor. 8. v. 11, 12. &amp; 
+      <lb ed="#H" n="167"/>c. 9. 2. Nemo inv tus bene facit, etiamsi bonum est, quod facit? 
+      <lb ed="#H" n="168"/>Sic explicata sunt adiuncta bonorum operum antecedentia. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1672">
+               <lb ed="#H" n="169"/>
+               <pc type="indent"/>CONNEXA adjuncta bonorum operum nostri respectu sunt, 
+      since<lb ed="#H" n="170" break="no"/>ritas &amp; hilaritas 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1681">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Sinceritas quae &amp; simplicitas Christiana &amp; integritas dicitur, est 
+      per<lb ed="#H" n="172" break="no"/>quam serio, &amp; integro animo agimus quae Deus requirit, sine 
+      simula<lb ed="#H" n="173" break="no"/>tione, tanquam coram oculis Dei scrutatoris cordium &amp; renum Deus 
+      <lb ed="#H" n="174"/>teron. 18. vers 13. Integer esto cum lehova Deo tuo. Matth. 10. vers. 16. 
+      <lb ed="#H" n="175"/>Estote igitur prudentes ut serpentes, &amp; simplices ut columbae. Luc. 1. ver. 
+      <lb ed="#H" n="176"/>sic ulo sex o. Erant autem iusti aibo in conspectu Dei, incedentes in 
+      om<lb ed="#H" n="177" break="no"/>nibus praeceptu &amp; rilibu: Domini inculpa: e. 2. Cointh 1 versiculo 12. 
+      <!--cod-MkL9py-0598.xml-->
+      <pb ed="#H" n="569"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Nam gloriatio nostra haec est, testimonium conscientiae nostrae, quod cum 
+      <lb ed="#H" n="2"/>simplicitate &amp; sinceritate Dei, non cum sapientia carnali, sed cum gratia 
+      <lb ed="#H" n="3"/>Dei versati sumus in mundo, plurimum autem apud vos. Et cap. 7. v. 12. 
+      <lb ed="#H" n="4"/>Itaque et si scripsi vobis, non scripsi vobis eius respectu qui iniuriam fecerat, 
+      <lb ed="#H" n="5"/>nec eius respectu qui iniuria affectus fuerat: sed ut apud vos manifestum 
+      <lb ed="#H" n="6"/>fieret studium illud nostrum pro vobis in conspectu Dei. Et cap. 11. 3. 
+      Sec<lb ed="#H" n="7" break="no"/>metuo ne quo modo, sicut serpens ille Evam seduxit calliditate sua, ita; 
+      <lb ed="#H" n="8"/>corruptae cogitationes vestrae degenerent a simplicitate quae est in Christo. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1726">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>Eique summe studendum 
+      <lb ed="#H" n="10"/>I. Quia a Deo mandatur.  
+      <lb ed="#H" n="11"/>II. Quia securitatem affert, Prov. 10. 9. Qui ambulat in integritate, 
+      <lb ed="#H" n="12"/>ambulat secure. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1739">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Hilaritas, est per quam sponte &amp; libenter cum gaudio obedimus 
+      <lb ed="#H" n="14"/>praeceptis Dei. Psal. 40. 9. Facere uoluntatem tuam, Deus mi, delector 
+      <lb ed="#H" n="15"/>&amp; Lex tua est in visceribus meis. Et Psal. 105. 3. Laudibus vos efferte in 
+      <lb ed="#H" n="16"/>nomine sancto eius, laetetur animus quaerentium Iehovam. Et 110. 3. 
+      Po<lb ed="#H" n="17" break="no"/>puli tui oblationes uoluntariae die copiarum tuarum in decoris locis 
+      san<lb ed="#H" n="18" break="no"/>ctitatis inde ab utero, futuraesunt: tibi aderit ros iuventae tuae accuratissi 
+      <lb ed="#H" n="19"/>me. Et I19. 14. De via testimoniorum tuorum gaudeo, ut super omnibus. 
+      <lb ed="#H" n="20"/>opibus. Jes. 64. 5. Occurris gaudenti &amp; exercenti iustitiam, id est, ei qui 
+      <lb ed="#H" n="21"/>cum gaudio incumbit iustitiae. Colossens. 3. 23. Quicquid feceritis, ex 
+      a<lb ed="#H" n="22" break="no"/>nimo praestate, tanquam Domino, &amp; non hominibus. 1. Petr. 1. 13. 
+      Qua<lb ed="#H" n="23" break="no"/>propter succincti lumbis mentis vestrae, sobrij ad finem usque sperate in 
+      e<lb ed="#H" n="24" break="no"/>am quae vobis defertur gratiam, quum revelabitur Iesus Christus, I. Thess. 
+      <lb ed="#H" n="25"/>5.16. Semper gaudete 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1772">
+               <lb ed="#H" n="26"/>
+               <pc type="indent"/>Ei opponitur praecipitantia &amp; coactio: illa ut disparata, haec ut 
+      con<lb ed="#H" n="27" break="no"/>traria. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1781">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Praecipitantia, est inconsideratus impetus aliquid faciendi sub 
+      prae<lb ed="#H" n="29" break="no"/>textu obediendi Deo, cum tamen nondum cognoveris, an id quod facis 
+      <lb ed="#H" n="30"/>a Deo sit praeceptum. Qualis est in idololatris, qui propensi sunt &amp; 
+      hi<lb ed="#H" n="31" break="no"/>lares ad exercendam idolomaniam &amp; quaevis a sacrificulis praecepta. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1794">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Coactio, est quum quis invitus obedit vel metu poenae vel pudore 
+      co<lb ed="#H" n="33" break="no"/>ram aliis: ideo talis quoque obedientia Deo ingrata est. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1803">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>CONSEQUENTIA adjuncta bonorum operum nostri 
+      respe<lb ed="#H" n="35" break="no"/>ctu sunt, studium excellendi in bonis operibus &amp; constantia in obsequid  
+      <lb ed="#H" n="36"/>Dei. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1815">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Studium excellendi in bonis operibs est, cum enitimur in illis magis 
+      a<lb ed="#H" n="38" break="no"/>magis excellere, ac cum alios tum nos ipsos quotidie superate, I. 
+      Thess<lb ed="#H" n="39" break="no"/>4. vers. 1. Quod reliquum est igitur, fratres, rogamus vos &amp; precamur 
+      pe<lb ed="#H" n="40" break="no"/>Dominum Iesum, ut sicut accepistis a nobis quomodo oporteat vos 
+      ambu<lb ed="#H" n="41" break="no"/>lare, &amp; placere Deo, magis excellatis. Tit. 3. 1. Ipsis suggere, ut sese 
+      subiici<lb ed="#H" n="42" break="no"/>ant principatibus ac potestatibus, ut obtemperent, ut ad omne opus bonum 
+      <lb ed="#H" n="43"/>sint parati. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1835">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>constantia in obsequio Dei, est perpetua voluntas ac studium 
+      conti<lb ed="#H" n="45" break="no"/>nuum obediendi verbo Dei: seu est in Verbi Divini obedientia 
+      perman<lb ed="#H" n="46" break="no"/>sio stabilis etiam in persecutionibus, Dan. 1. v. 8. Statuens Daniel cum 
+      <lb ed="#H" n="47"/>animo suo, ut non contaminaret se portione cibi regii &amp; vino potionum ex 
+      <lb ed="#H" n="48"/>ius: requisivit a principe aulicorum, ut non contaminaret se. Psal. 119. 
+      <lb ed="#H" n="49"/>17. Beneficium confer in servum tuum. Et v. 33. Doce me, Iehova, viam 
+      <lb ed="#H" n="50"/>statutorum tuorum, quam custodiam in finem usque. Et v. 44,. 45. 
+      E<lb ed="#H" n="51" break="no"/>observabo legem tua iugiter, in saculum &amp; sempiternum: Indesinenterque 
+      <lb ed="#H" n="52"/>ambulabo in ipsa latitudine, quia mandata tua quaero. Item vers. 51. 61. 
+      <lb ed="#H" n="53"/>Superbis deridentibus me admodum, a lege tua me non declinare. Tur 
+      <lb ed="#H" n="54"/>bis improborum dispoliantibus me: legis tuae non obliviscor. Et v. 83, 87. 
+      <lb ed="#H" n="55"/>Quamvis sim similis utri ad fumum: statutorum tuorum non oblitus sum 
+      <lb ed="#H" n="56"/>Propemodum consumserunt me deiectum in terram: ego vero non derelis 
+      <lb ed="#H" n="57"/>qui mandata tua. Et v 95, 97. Me exspectantibus improbis ad perdendum 
+      <lb ed="#H" n="58"/>me, testimonia tua cosidero. Quam diligo legem tuam:toto die est medita 
+      <lb ed="#H" n="59"/>tio mea. Et vers. 109. 110. Anima mea in manu mea iugiter versante 
+      <lb ed="#H" n="60"/>tamen legis tuae non obliviscor. Ponentibus improbis laqueum mihi,a 
+      <lb ed="#H" n="61"/>mandatis tuis non aberro. Exempla. David constans fuit in proposi 
+      <lb ed="#H" n="62"/>to non interficiendi Saulem quamvis hostem. Christus Dominus 
+      <lb ed="#H" n="63"/>constanter dilexit suos discipulos usque ad mortem Johan. 13. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1883">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Ei opponitur inconstantia in obsequio Dei, &amp; pervicacia in peccatis 
+      <lb ed="#H" n="65"/>inconstantia in obsequio Dei, est levitas animi temerarie deferenti 
+      <lb ed="#H" n="66"/>exercitia bonorum operum a Deo mandatorum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1894">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Pervicacia in peccatis, est durities animi refractarii Deo &amp; verbo 
+      e<lb ed="#H" n="68" break="no"/>ius permanens in flagitiis &amp; sceleribus contra conscientiam. 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1903">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Hactenus dictum est de bonorum operum adiunctis nostri 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1910">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>respectu: sequitur de adiunctis corundem pro¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd301-d1e1918">
+               <lb ed="#H" n="71"/>
+               <pc type="indent"/>ximi respectu. 
+      <lb ed="#H" n="72"/>Adiuncta bonorum operum proximi respectu sunt: studium 
+      placen<lb ed="#H" n="73" break="no"/>di proximo ad aedificationem &amp; cura vitandei scandala. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

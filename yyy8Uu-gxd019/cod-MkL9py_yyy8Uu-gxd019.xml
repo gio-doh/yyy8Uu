@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd019"><!-- l7-c1 -->
+            <head xml:id="yyy8Uu-gxd019-Hd1e103">Caput 1</head>
+            <p xml:id="yyy8Uu-gxd019-d1e106">
+      <!--cod-MkL9py-0546.xml-->
+               <pb ed="#H" n="519"/>
+               <cb ed="#H" n="c"/>
+               <lb ed="#H" n="66"/>IN homine Ec CLESIAE considerati 
+      de<lb ed="#H" n="67" break="no"/>bet, tum origo, tum acceptio. 
+      <lb ed="#H" n="68"/>Si originem spectes, Ecclesia, eκnλήσίa 
+      <lb ed="#H" n="69"/>vox est Graeca origine, communiter si 
+      <lb ed="#H" n="70"/>nificans coetum evocatorum seu 
+      convo<lb ed="#H" n="71" break="no"/>atorum ex aliorum multitudine, ab 
+      ex<lb ed="#H" n="72"/>μαλεῖν, quod est evocare ex aliis seu 
+      con<lb ed="#H" n="73" break="no"/>vocare. Johan. 10. ver. 16. nominatur τ
+      vi<lb ed="#H" n="74" break="no"/>un, grex, Actor. 20. v. 28. ποιμνlον, grex. 
+      <lb ed="#H" n="75"/>ut &amp; 1. Petr. 5. v. 2. πομμνιον γ θεό, grex Dei, 
+      <lb ed="#H" n="76"/>Graecis etiam συναγυγη interdum appellatur, hoc est, congregatio 
+      <lb ed="#H" n="77"/>Hebraice modo θηp, Rahal, id est, coetus convocatus, modo naμis 
+      <lb ed="#H" n="78"/>Hedah, hoc est, congregatio dicitur. Latinis etiam Concio vocatur,  
+      <lb ed="#H" n="79"/>iconciendo, id est, convocando. Germanice interdum Rirchsa 
+      <lb ed="#H" n="80"/>Graeco κυριακη, hoc est, Dominica, sic dicta quod sit DOMINI 
+      po<lb ed="#H" n="81" break="no"/>culium seu populus: interdum Gemeiub Gottes / hoc est, commu 
+      <lb ed="#H" n="82"/>nitas Dei seu coetus in commune congregatus in nomine Dei. 
+   Bo<lb ed="#H" n="83"/>
+               <!-- line coord error --> 
+               <lb ed="#H" n="84"/>apud German. Nirch: modo gbor /ob sebranj quod colligatur 
+      ver<lb ed="#H" n="85" break="no"/>bo nimirum Dei. 
+    </p>
+            <p xml:id="yyy8Uu-gxd019-d1e161">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Usitatissima autem est Latinis Theologis appellatio Ecclesia, quae 
+      <lb ed="#H" n="87"/>proprie, ut dictum, idem valet, quod coetus evocatorum, isque vel  
+      <lb ed="#H" n="88"/>profanus ad profanum finem convocatus, seu legitime seu per 
+      sedi<lb ed="#H" n="89" break="no"/>tionem ut Actor. 19. v. 32. Erat a εκκλήσια, hoc est, concio confusa &amp; 
+      <lb ed="#H" n="90"/>plerique nesciebant cujus rei causa convenissent. Vel est coetus sanctus 
+      <lb ed="#H" n="91"/>ad sanctum finem convocatus, ut quum de multitudine electorum 
+      <lb ed="#H" n="92"/>Dei Angelorum &amp; hominum in filiorum Dei dignitatem vocato. 
+      <lb ed="#H" n="93"/>rum accipitur: &amp; quum de coetu hominum usurpatur significat 
+      coe<lb ed="#H" n="94" break="no"/>tum omnium fidelium, pastorum &amp; ovium conjunctim, Ephes. 5. v 
+      <lb ed="#H" n="95"/>23, 24, 25. &amp; passim. Synecdochice vel solos pastores &amp; presbyteros 
+      <lb ed="#H" n="96"/>ac praepositos coetui, ut Matth. 18. v. 17. Dic Ecclesiae, quae Ecclesia 
+      re<lb ed="#H" n="97" break="no"/>praesentativa appellatur; vel solas oves, ut Actor. 20. v. 28. vos 
+      Spiri<lb ed="#H" n="98" break="no"/>tus ille Sanctus constituit Episcopos ad pascendam Ecclesiam Dei. 
+      Me<lb ed="#H" n="99" break="no"/>tonymice vero significat locum seu aedificium in quo fideles 
+      conveni<lb ed="#H" n="100" break="no"/>unt; Patres tamen quum proprie loqui volunt, distinguunt exxλήσίαν 
+      <lb ed="#H" n="101"/>&amp; exκλήσιμσηριον: illam vocant, vere fideles verbo Dei congregatos; 
+      <lb ed="#H" n="102"/>hoc vero, nominant aedificium Ecclesiae coetibus habendis 
+      destina<lb ed="#H" n="103" break="no"/>tum. Discrimen hoc explicat perspicue Isidorus Pelusiota 
+      Chrysosto<lb ed="#H" n="104" break="no"/>mi discipulus secundo epistolarum libro, epistolam 247. Discat Euse 
+      <lb ed="#H" n="105"/>bius Pelusiotarum, &amp;c. Lactantius item quarto libro divinarum In 
+      <!--cod-MkL9py-0546.xml-->
+      <pb ed="#H" n="519"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="106"/>stitutionum, cap. 13. Ecclesia est verum templum Dei, quod non in 
+      pa<lb ed="#H" n="107" break="no"/>rietibus est, sed in corde ac fide hominum, qui credunt in eum ac 
+      vo<lb ed="#H" n="108" break="no"/>cantur fideles. Rxζαχρισιϰώς sive abusive pro falsis Christianis 
+      usurpa<lb ed="#H" n="109" break="no"/>tur, quales sunt Papistae, &amp; pro Conciliabul is Papanis, cujusmodi fuit 
+      <lb ed="#H" n="110"/>Constantiense, Florentinum, Tridentinum. Duriore catachresi a 
+      Pa<lb ed="#H" n="111" break="no"/>pistis Ecclesia dicitur solus clerus Papanus, &amp; interdum solius 
+      Ro<lb ed="#H" n="112" break="no"/>manae Ecclesiae clerus: &amp; magis intolerabili catachresi seu abusu a 
+      Pa<lb ed="#H" n="113" break="no"/>pistis usurpatur interdum ad designandum Papam Romanum, quum 
+      <lb ed="#H" n="114"/>unus homo quantumvis sanctissimus non possit esse Ecclesia: multo 
+      <lb ed="#H" n="115"/>minus vero Antichristus potest Ecclesia dici. Est &amp; illa usurpatio 
+      vo<lb ed="#H" n="116" break="no"/>cis Ecclesiae ἀκυρος, quum unius &amp; alterius hominis affectui in 
+      dis<lb ed="#H" n="117" break="no"/>creto nomen Ecclesiae praetenditur. Locus insignis est, secundo 
+      tomo<lb ed="#H" n="118" break="no"/>pistolarum Hieronymi, epistolam ad Theophilum adversus errores. 
+      <lb ed="#H" n="119"/>ohannis Jerosolymitani: Ex quo perspicuum est, inquit, dolorem 
+      pro<lb ed="#H" n="120" break="no"/>prium causam Ecclesiae non putandum: nec stomachum unius 
+      homi<lb ed="#H" n="121" break="no"/>nis, imo per illum aliorum generali Ecclesiae vocabulo nuncupandum 
+    </p>
+            <p xml:id="yyy8Uu-gxd019-d1e250">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>In praesentia intelligimus Ecclesiae nomine sanctum coetum, non 
+      <lb ed="#H" n="123"/>autem prophanum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 42</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 42</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd0355"><!-- l10-c42 -->
+            <head xml:id="yyy8Uu-xd0355-Hd1e103">Caput 42</head>
+            <p xml:id="yyy8Uu-xd0355-d1e106">
+               <lb ed="#H" n="177"/>CAPUT XLII. 
+      <lb ed="#H" n="178"/>In quo de Sinceritate in veritate.
+    </p>
+            <p xml:id="yyy8Uu-xd0355-d1e113">
+               <lb ed="#H" n="179"/>PINCERITAS seu SIMPLICITAS priidens in veritate, est 
+      vir<lb ed="#H" n="180" break="no"/>Qtus, per quam vera tum in religione divina, tum in disciplinis, 
+      <!--cod-MkL9py-0707.xml-->
+      <pb ed="#H" n="678"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>tum quae sunt in communi vita, proprie &amp; perspicue dicimus &amp; 
+      faci<lb ed="#H" n="2" break="no"/>mus, absque amibiguitate. 
+    </p>
+            <p xml:id="yyy8Uu-xd0355-d1e131">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Ei studendum solicite: I. Quia a Deo nobis mandata est, Philipp. 
+      <lb ed="#H" n="4"/>2. versic. 13. 
+    </p>
+            <p xml:id="yyy8Uu-xd0355-d1e140">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>II. Quia signum est veri civis coelorum, Psal. 15. v. 2. 
+      <lb ed="#H" n="6"/>Simplicitati opponitur, tum δτλοτης in sermone &amp; moribus, tum 
+      <lb ed="#H" n="7"/>simplicitas imprudens, &amp; simulata simplicitas 
+    </p>
+            <p xml:id="yyy8Uu-xd0355-d1e152">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>λiστλότης in sermone &amp; moribus, est peccatum, quum quis aliud 
+      o<lb ed="#H" n="9" break="no"/>re loquitur &amp; forinsecus agit, aliud vero in corde habet, ad alios 
+      deci<lb ed="#H" n="10" break="no"/>piendos. 
+    </p>
+            <p xml:id="yyy8Uu-xd0355-d1e163">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Vitium istud est sedulo fugiendum: I. Quia a Deo interdictum est. 
+      <lb ed="#H" n="12"/>II. Quia detestabile est fidelibus, Psal. 12. v. 2. Defecerunt veraces 
+      <lb ed="#H" n="13"/>ex filiis hominum. Vanum loquuntur alter cum altero labio 
+      blandi<lb ed="#H" n="14" break="no"/>tiarum, duplice corde loquuntur  
+    </p>
+            <p xml:id="yyy8Uu-xd0355-d1e176">
+               <lb ed="#H" n="15"/>
+               <pc type="indent"/>III. Quia detestabile est ipsis etiam infidelibus: Locus est notatu 
+      <lb ed="#H" n="16"/>dignus apud Homerum nono Iliados: 
+    </p>
+            <p xml:id="yyy8Uu-xd0355-d1e185">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>Exθεοσ γαρ μοι κεινος, αμως ἀιδασ πυλασεν  
+      <lb ed="#H" n="18"/>Oς χ ἔτεχον υξο κώθει ενι φρεσιν, ἀλλο α π ειπη. 
+    </p>
+            <p xml:id="yyy8Uu-xd0355-d1e194">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>id est, 
+      <lb ed="#H" n="20"/>Inimicus est enim mihi ille, similiter atque inferorum fores, 
+      <lb ed="#H" n="21"/>Qui aliud quidem abscondit in corde, aliud vero dicit:  
+    </p>
+            <p xml:id="yyy8Uu-xd0355-d1e205">
+               <lb ed="#H" n="22"/>
+               <pc type="indent"/>Simplicitas imprudens in veritate, est quum quis sive ultro, sive 
+      <lb ed="#H" n="23"/>subdole, &amp; ironice interrogatus dicit veritatem, de re aut persona 
+      <lb ed="#H" n="24"/>quapiam, non loco &amp; tempore debito, aut coram illis qui vera dicere 
+      <lb ed="#H" n="25"/>tem ludos habent, aut in discrimen adducere cupiunt, vel quod aegre 
+      <lb ed="#H" n="26"/>ferant veritatem de re aut persona quapiam dici, vel quod alioquin  
+      <lb ed="#H" n="27"/>veritatem oderint.  
+    </p>
+            <p xml:id="yyy8Uu-xd0355-d1e224">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Ea peccatur saepe cum alias, tum in conviviis, eorum praesertim. 
+      <lb ed="#H" n="29"/>qui moleste ferunt ab aliis, qui inferioris sunt status &amp; conditionis: 
+      <lb ed="#H" n="30"/>aut aetatis, aut pauperiores, veritatem dici; quique eo fine 
+      interroga<lb ed="#H" n="31" break="no"/>ta aliis proponunt, ut eos respondentes simpliciter, aliorum qui ad 
+      <lb ed="#H" n="32"/>sunt ludibrio exponant &amp; pro stultis habeant  
+    </p>
+            <p xml:id="yyy8Uu-xd0355-d1e240">
+               <lb ed="#H" n="33"/>
+               <pc type="indent"/>Cavenda est semper. 
+      <lb ed="#H" n="34"/>I. Quia a Christo prohibetur Matth. 7. vers. 6. Ne date quod 
+      san<lb ed="#H" n="35" break="no"/>ctum est canibus, nec projicite Margaritas vestras coram porcis. 
+    </p>
+            <p xml:id="yyy8Uu-xd0355-d1e251">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>II. Quia occasionem praebet ut veritas ludibrio habeatur, quod 
+      <lb ed="#H" n="37"/>ne fiat procurandum, sicut Christus dicit Matth. 7. vers. 6. Nequando 
+      <lb ed="#H" n="38"/>conculcent eas pedibus suis. 
+    </p>
+            <p xml:id="yyy8Uu-xd0355-d1e262">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>III. Quia irritat hostes veritatis ad crudelitatem, ut Dominus 
+      di<lb ed="#H" n="40" break="no"/>cit Matth. 27. v. 6. &amp; conversi lacerent vos. 
+    </p>
+            <p xml:id="yyy8Uu-xd0355-d1e271">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>V. Quia &amp; Christus Dominus eam cavit. Nam interrogatus a 
+      <lb ed="#H" n="42"/>Pharisaeis &amp; Scribis non semper ad interrogata respondit. 
+    </p>
+            <p xml:id="yyy8Uu-xd0355-d1e280">
+               <lb ed="#H" n="43"/>
+               <pc type="indent"/>Simulata simplicitas, est peccatum quum quis prae se fert studium 
+      <lb ed="#H" n="44"/>ingenuae simplicitatis in dicenda veritate, quum tamen plus a 
+      sim<lb ed="#H" n="45" break="no"/>plicitate deflectat, quam virum bonum decet. Exemplum est in 
+      Da<lb ed="#H" n="46" break="no"/>vide 1. Sam. 27. v. 10. qui interroganti Acischo Regi Gathi, in quem 
+      <lb ed="#H" n="47"/>irruisset, (traductus infirmitate carnis &amp; metuens sibi ab Acischo, 
+      <lb ed="#H" n="48"/>respondit, se irruisse in meridianum tractum Judaeae, aut in 
+      meridia<lb ed="#H" n="49" break="no"/>num tractum Jerachmeelis, aut in meridianum tractum Renaei: Nam 
+      <lb ed="#H" n="50"/>intelligebat Acisch Davidem in Judaeam irripuisse, contra vero sen 
+      <lb ed="#H" n="51"/>tiebat David, se involasse in tractus Judaeae conterminos. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

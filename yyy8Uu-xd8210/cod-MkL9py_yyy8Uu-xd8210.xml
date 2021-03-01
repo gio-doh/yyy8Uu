@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 38</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 38</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd8210"><!-- l10-c38 -->
+            <head xml:id="yyy8Uu-xd8210-Hd1e103">Caput 38</head>
+            <p xml:id="yyy8Uu-xd8210-d1e106">
+               <lb ed="#H" n="54"/>CAPUT XXXVIII. 
+      <lb ed="#H" n="55"/>In quo de studio loquendi bona ac salutaria.
+    </p>
+            <p xml:id="yyy8Uu-xd8210-d1e113">
+               <lb ed="#H" n="56"/>TTIRTUS moderans sermonem Graece dicitur αφετη δμιλετηκή, 
+      <lb ed="#H" n="57"/>quae ad conversationem cum hominibus fovendam 
+      conservan<lb ed="#H" n="58" break="no"/>damque pertinet. 
+      <lb ed="#H" n="59"/>Eaque duplex est: studium loquendi bona, &amp; taciturnitas. 
+      <lb ed="#H" n="60"/>Studium loquendi bona ac saliuttaria, est virtus per quam ea quis  
+      <lb ed="#H" n="61"/>loquitur quae scit Deo placere &amp; hominibus prodesse, Prov. 10. v. 31. 
+    </p>
+            <p xml:id="yyy8Uu-xd8210-d1e129">
+               <lb ed="#H" n="62"/>
+               <pc type="indent"/>Virtus haec est confectanda 
+      <lb ed="#H" n="63"/>I. Quia a Deo mandatur. Ephes. 4. v. 29. Nullus sermo putris ex 
+      <lb ed="#H" n="64"/>ore vestro egreditor: sed si quis est commodus ad aedificationis usum, 
+      <lb ed="#H" n="65"/>ut gratiam auditoribus adferat. Coloss. 4. v. 6. Sermo vester semper 
+      <lb ed="#H" n="66"/>cum gratia sit sale conditus. 
+    </p>
+            <p xml:id="yyy8Uu-xd8210-d1e145">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>II. Quia a Spiritu Sancto laudatur, Prov. 10. v. 11. Os justi est 
+      sca<lb ed="#H" n="68" break="no"/>turigo vitae. Et cap. 18. v. 4. 
+    </p>
+            <p xml:id="yyy8Uu-xd8210-d1e155">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>III. Quia utilis est &amp; salutaris humano generi, Prov. 10. v. 32. &amp; 
+      <lb ed="#H" n="70"/>12. ver. 14. De fructu oris sui vir saturabitur bono, id est, sermonis sui 
+      <lb ed="#H" n="71"/>fructum amplissimum &amp; optimum percipiet. &amp; v. 18. lingua 
+      sapien<lb ed="#H" n="72" break="no"/>tum est medicina, id est, oratio sapientum est salutaris ipsis &amp; aliis. 
+      <lb ed="#H" n="73"/>Proverb. 18. v. 20, 21 
+    </p>
+            <p xml:id="yyy8Uu-xd8210-d1e171">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>IV. Quia signum est justi hominis, Prov. 10. v. 31. Os justi 
+      abun<lb ed="#H" n="75" break="no"/>de profert sapientiam. Et cap. 15. v. 28. 
+    </p>
+            <p xml:id="yyy8Uu-xd8210-d1e180">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Contraria est ei maledicentia, quae est vitium, quum quis ea 
+      lo<lb ed="#H" n="77" break="no"/>quitur quae Deo displicent &amp; hominibus obsunt,  
+    </p>
+            <p xml:id="yyy8Uu-xd8210-d1e189">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Vitati debet: I. Quia a Deo prohibetur? 
+      <lb ed="#H" n="79"/>II. Quia totis etiam urbibus obest, Prov. 11. v. 11. Benedictione 
+      <lb ed="#H" n="80"/>rectorum effertur u. bs: ore autem improborum destruitur.: 
+    </p>
+            <p xml:id="yyy8Uu-xd8210-d1e200">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>III. Quia obest etiam autori suo, Prov. 10. v. 32. Labia justi 
+      expe<lb ed="#H" n="82" break="no"/>rientur benevolentiam, os vero improborum poenam perversitatum. 
+      <lb ed="#H" n="83"/>Et cap. 17. 1. 20, Perversus lingua sua incidet in malum. Et c. 18. v. 7. 
+    </p>
+            <p xml:id="yyy8Uu-xd8210-d1e211">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>IV. Quia signum est insipientis &amp; mali animi, Prover. 10. v. 31. &amp; 
+      <lb ed="#H" n="85"/>cap. 15. v. 28. 
+    </p>
+            <p xml:id="yyy8Uu-xd8210-d1e221">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>V. Quia est homicidij instar coram Deo, Prov. 12. v. 17. Est qui  
+      <lb ed="#H" n="87"/>ffert verba, quae sunt veluti consossiones gladij. id est, maledici ver¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd8210-d1e230">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>ba sunt perniciosa, ut gladij cuspides: ita lingua etiam 
+      <lb ed="#H" n="89"/>homo occiditur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

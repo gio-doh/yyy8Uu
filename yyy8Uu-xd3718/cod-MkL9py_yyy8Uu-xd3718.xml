@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 24</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 24</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd3718"><!-- l9-c24 -->
+            <head xml:id="yyy8Uu-xd3718-Hd1e103">Caput 24</head>
+            <p xml:id="yyy8Uu-xd3718-d1e106">
+               <lb ed="#H" n="92"/>CAPUT XXIV. 
+      <lb ed="#H" n="93"/>In quo de Gratiarum actione erga 
+      <lb ed="#H" n="94"/>Deum. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e115">
+               <lb ed="#H" n="95"/>RATIARUM ACTIOERGA DEUM, est cultus Dei 
+      <lb ed="#H" n="96"/>quum Deo pro bonis datis vel promissis debitam laudem 
+      red<lb ed="#H" n="97" break="no"/>dimus non tanutm verbis, sed eriam factis, Psal. 50. 15. 
+      Invo<lb ed="#H" n="98" break="no"/>ca me tempore angustiae, cripiam te ut honore afficias me¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e126">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Vocatur etiam gratitudo erga Deum, idque Synecdochice, nam 
+      <lb ed="#H" n="100"/>alioquin totus cultus Dei immediatus &amp; mediatus, in operibus tum 
+      <lb ed="#H" n="101"/>prima tum secunda Decalogi tabulam a nobis requisitis consistens 
+      <lb ed="#H" n="102"/>praestatur a nobis nomine gratitudinis Deo debitae pro redemtione 
+      <lb ed="#H" n="103"/>nostri per Christum. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e142">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Bonorum a Deo datorum vel promissorum nomine intelligimus 
+      <lb ed="#H" n="105"/>non tantum ea, quae carni nostrae grata sunt, sed etiam afflictiones 
+      <lb ed="#H" n="106"/>quibus nos Deus vel paterne castigat, vel gratiose probat, vel verita 
+      <lb ed="#H" n="107"/>em suam caelestem obsignare vult. Pfalm. 119. 71. Bonum est mihi 
+      Ie<lb ed="#H" n="108" break="no"/>nova, quod humiliasti me. Tum etiam judicia Dei, quae exercet in 
+      im<lb ed="#H" n="109" break="no"/>pios, ad ostendendam suam gloriam, &amp; ad fidelium consolationem: 
+      <lb ed="#H" n="110"/>Sic Christus gloriam tribuit Patri, quod mysteria Evangelii 
+      occulta<lb ed="#H" n="111" break="no"/>verit a sapientibus &amp; intelligentibus Matth. 11. 25. Sic laudatur Deus 
+      <lb ed="#H" n="112"/>ob judicia in Babylonicam meretricem exserta, Apoc. 19. 1, 2, 3. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e167">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Ad gratiarum actionem &amp; gratitudinem erga Deum incitare nos 
+      <lb ed="#H" n="114"/>debet: 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e176">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>1. Mandatum Dei 
+      <lb ed="#H" n="116"/>2. Assidua meditatio tum beneficiorum, quae Deus in nos 
+      con<lb ed="#H" n="117" break="no"/>ulit, tum periculorum &amp; malorum a quibus Deus liberavit. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e187">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Seneficia quae Deus in nos contulit vel singularia sunt erga nos, 
+      <lb ed="#H" n="119"/>vel communia nobis cum aliis, Psalmo trigesimo Deum celebrat 
+      Da<lb ed="#H" n="120" break="no"/>vid beneficii erga se singularis nomine, v. 2. 3. 4. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e198">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>3. Exemplum aliorum fidelium. 
+      <lb ed="#H" n="122"/>I. AEdificatio aliorum nostro exemplo. 
+      <lb ed="#H" n="123"/>Partes gratiarum actionis erga Deum sunt: tum Recordatio 
+      ope<lb ed="#H" n="124" break="no"/>rum Dei, &amp; meditatio de illis: tum recta aestimatio eorundem, &amp; 
+      Cele<lb ed="#H" n="125" break="no"/>bratio Dei. Psalm. 77. 12, 13, 14, 15. Psalm. 143. v. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e214">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>Recordatio operum Dei, est pars gratiarumactionis seu gratitudinis 
+      <lb ed="#H" n="127"/>erga Deum, quum nobis &amp; aliis subinde in memoriam revocamus 
+      <lb ed="#H" n="128"/>opera Dei &amp; beneficia, quae inde ab aeterno &amp; ab initio mundi usque 
+      <lb ed="#H" n="129"/>ad hoc tempus fecit &amp; praestitit, &amp; deinceps faciet &amp; praestiturus est in 
+      <lb ed="#H" n="130"/>aeternum: sic ut gratam eorum memoriam simul obedientia &amp; 
+      obser<lb ed="#H" n="131" break="no"/>vatione mandatorum Dei in Lege &amp; Evangelio praescriptorum 
+      o<lb ed="#H" n="132" break="no"/>stendamus. Deut. 8. 18. Psalm. 105. 5 Joh. 5. 14 Ecce sanus factus es, 
+      <lb ed="#H" n="133"/>ne pecca amplius q d. Christus, retine perpetuo in memoria beneficium 
+      <lb ed="#H" n="134"/>sanationis, quod a Deo accepisti, &amp; gratum animum declara 
+      fugien<lb ed="#H" n="135" break="no"/>do peccata in posterum. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e240">
+               <lb ed="#H" n="136"/>
+               <pc type="indent"/>Parentes liberis, grandiores natu junioribus opera Dei &amp; 
+      benefi<lb ed="#H" n="137" break="no"/>cia commemorare debent. 
+      <lb ed="#H" n="138"/>I. Quia id Deus jubet Exod. 13. 
+      <lb ed="#H" n="139"/>2. Quia id alii quoque fideles fecerunt, quod commendatur Ps. 44. 
+      <lb ed="#H" n="140"/>v. 2. &amp; 78. v. 1. &amp; sequentibus 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e257">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Opposita est Recordationi operum &amp; beneficiorum divinorum 
+      <lb ed="#H" n="142"/>primo: Obisi vio Dei, &amp; operum eius; quam non tantum illi peccant qui  
+      <lb ed="#H" n="143"/>rorsus memoriam Dei &amp; operum ejus deposuerunt, sed etiam 
+      illi<lb ed="#H" n="144" break="no"/>qui non meminerunt fructuose, religiose, pie, ut officio praestando 
+      <lb ed="#H" n="145"/>ex doctrinae norma, cujus menioria custos est, doceant reipsa, se Dei 
+      <lb ed="#H" n="146"/>&amp; operum ejus, de quibus sit sermo, meminisse. Qualis oblivio 
+      pro<lb ed="#H" n="147" break="no"/>hibetur Deut. 4. v. 23. &amp; 6. v. 12. &amp; 8. v. 11 &amp; sequentibus, Psalm. 78. 
+      <lb ed="#H" n="148"/>7. &amp; 103. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e279">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>Exemplum oblivionis hujusmodi est in Israelitis contumacibus, 
+      <lb ed="#H" n="150"/>de quibus legitur Deut. 32. 18. Psalm. 78. v. 10, 11 &amp; 106. 21. 
+      Israeli<lb ed="#H" n="151" break="no"/>tae obliti dicuntur Jehovae &amp; operum ejus, non quod nullam Dei &amp; 
+      <lb ed="#H" n="152"/>operum ejus memoriam retinerent &amp; haberent, sed quia non ita 
+      me<lb ed="#H" n="153" break="no"/>minerant ut oportuit, quum Deum ex praescripto Legis non 
+      colue<lb ed="#H" n="154" break="no"/>tint, sed Legem nefarie violaverint multis modis 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e297">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>Opposita est secundo &amp; illegitima &amp; hypocritica recordatio Dei. 
+      <lb ed="#H" n="156"/>ialem exprobrat Jesaias Israelitis cap. 48 ver. 1, 2. Iurant per nomen 
+      <lb ed="#H" n="157"/>Iehovae, &amp; Dei Israelis mentionem faciunt, non fideliter, neque 
+      iuste<lb ed="#H" n="158" break="no"/>Quamvis a civitate sancta se vocent &amp; Deo Israelis innitantur, id est; 
+      <lb ed="#H" n="159"/>le niti glorientur.  
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e313">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>Meditatio seu consideratio verbi &amp; operum Dei, est pars 
+      gratiarum<lb ed="#H" n="161" break="no"/>actionis &amp; gratitudinis erga Deum, cum interdiu &amp; noctu, tum 
+      ver<lb ed="#H" n="162" break="no"/>bum Dei, tum magnitudinem &amp; excellentiam operum &amp; 
+      beneficio<lb ed="#H" n="163" break="no"/>rum judiciorumque divinorum consideramus &amp; vero cordis moti 
+      <lb ed="#H" n="164"/>admiramur, &amp; Dei in illis sapientiam, voluntatem, bonitatem, 
+      mise<lb ed="#H" n="165" break="no"/>ricordiam, justitiam, potentiam, atque virtutes alias intuemur, 
+      con<lb ed="#H" n="166" break="no"/>cemplamur, magis magisque agnoscimus &amp; animis nostris 
+      imprimi<lb ed="#H" n="167" break="no"/>mus, ad accendendum augendumque in nobis amorem in Deum tam 
+      <lb ed="#H" n="168"/>munificum benefactorem. Psalm. 48. 10. 11. Psalm. 8. toto. &amp; 16. 7. 
+      <lb ed="#H" n="169"/>1. &amp; 107. 45. Hosc. 14. v. ult. Marc. 7. 37. Matth. 9. 8, 33. 
+      <lb ed="#H" n="170"/>Opponitur ei neglectus verbi &amp; operum Dei, qui neglectus 
+      cer<lb ed="#H" n="171" break="no"/>tas poenas attrahit, Jet. 12. ver. 11, 12, 13. desolabitur tota haec terra, quia 
+      <lb ed="#H" n="172"/>nemo est qui reponat in corde, &amp;c. 
+      <lb ed="#H" n="173"/>Recta aestimatio operum Dei, est pars gratiarumactionis, cum omnia 
+      <lb ed="#H" n="174"/>uaecunque Deus facit, approbamus quod bona sint, ac propterea 
+      <lb ed="#H" n="175"/>placere nobis sinimus, nosque minores &amp; indignos cunctis beneficiis 
+      <lb ed="#H" n="176"/>ejus serio agnoscimus &amp; ingenue profitemur. Cen. 52. 9, 10. Ps. 8. 
+      Sic<lb ed="#H" n="177" break="no"/>decet nos etiam approbare judicia Dei, providentiam ipsius, &amp; 
+      gu<lb ed="#H" n="178" break="no"/>bernationem tempestatum, serenitatis, pluviarum, bellorum. vale¬ 
+      <!--cod-MkL9py-0660.xml-->
+      <pb ed="#H" n="631"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>tudinis nostaae, rei familiaris, &amp; caeteratum rerum omnium. Marc. 7. A 
+      <lb ed="#H" n="2"/>v. 37. Ps. 119. v. 71. 
+      <lb ed="#H" n="3"/>Celehratio Dei est pars gratiarum actionis seli gratitudinis erga 
+      <lb ed="#H" n="4"/>Deum cum Deum in omnibus operibus ipsius laudamus, &amp; beneficia 
+      <lb ed="#H" n="5"/>ab ipso accepta commemoramus: tum alios ad videnda, 
+      cognoscen<lb ed="#H" n="6" break="no"/>da &amp; consideranda opera Dei, &amp; laudandum ipsum cohortamur. 1. 
+      <lb ed="#H" n="7"/>Chron. 29. v. 10. &amp; seqq. Ps. 9. 2. Ps. 30. &amp; 33. &amp; 34. Ps. 46. 9, 10. &amp; Ps. 
+      <lb ed="#H" n="8"/>47. toto. &amp; 64. 10. &amp; 66. toto. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e383">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>Deo non tantum pauperes &amp; inferioris ordinis homines, verum. 
+      <lb ed="#H" n="10"/>ttiam potentissimi &amp; generosissimi quique gloriam &amp; laudem 
+      ce<lb ed="#H" n="11" break="no"/>dere debent. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e394">
+               <lb ed="#H" n="12"/>
+               <pc type="indent"/>I. Quia ad id David eos exhortatur. Psal. 29. v. 1, 2. 
+      <lb ed="#H" n="13"/>II. Quia Dei opera id requirunt. Ps. 29. toto, Ps. 33 
+      <lb ed="#H" n="14"/>III. Quia celebratio Dei decet rectos Psal. 33. 1. 
+      <lb ed="#H" n="15"/>IV. Quia est bona Ps. 92. 1. 
+      <lb ed="#H" n="16"/>V. Quia verbum Dei est rectum Psal. 33. 4. 
+      <lb ed="#H" n="17"/>Fit autem celebratio Dei tum animo: tum verbis, quum per nos 
+      <lb ed="#H" n="18"/>psos Deum laudamus, &amp; alios ad eum nobiscum laudandum exhori 
+      <lb ed="#H" n="19"/>tamur: sive id fiat cantu, sive simplici pronunciatione absque cantu 
+      <lb ed="#H" n="20"/>Exo. 15. 1. Ps. 33. 1, 2, 3. &amp; 34 v. 1, 2, 3. 4. Canendum vero Deo novum 
+      <lb ed="#H" n="21"/>canticum Ps. 33. 3. id est, quod non senescit, sed perpetuo durat in 
+      Ec<lb ed="#H" n="22" break="no"/>clesia, quasi renovatum indies aliis hymnis &amp; canticis, secundum o 
+      <lb ed="#H" n="23"/>casiones quas Deus nobis suppeditat veluti singulis momentis ac 
+      <lb ed="#H" n="24"/>celebrandam bonitatem suam, 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e428">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Tum factis, quum tota vita nostra composita est ad glorificam 
+      <lb ed="#H" n="26"/>dum Deum. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e437">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Inter alia facta, quibus gratitudinem erga Deum declaramus est &amp; 
+      <lb ed="#H" n="28"/>hoc, quum ad conservandum &amp; propagandum purum purum cultum Dei, 
+      <lb ed="#H" n="29"/>e bonis &amp; facultatibus nobis divinitus concessis impendimus pro 
+      vi<lb ed="#H" n="30" break="no"/>ribus: quo pertinet hortatio Prov. 3. v. 9. Honora Iehovam de 
+      substa<lb ed="#H" n="31" break="no"/>tia tua, &amp; de praecipuo totius proventus tui. Hinc decimae a Deo 
+      <lb ed="#H" n="32"/>ordinatae fuerunt ad alendos Sacerdotes &amp; Levitas, item 
+      oblatio<lb ed="#H" n="33" break="no"/>nes variae Praetur illas fuerunt oblationes extraordinariae, sed 
+      volun<lb ed="#H" n="34" break="no"/>tariae, quarum exempla sunt Exo. 35. &amp; 1. Chron. 25. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e459">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>Huic parti pietatis facta est singularis promissio, Prov. 3. v. 10. 
+      <lb ed="#H" n="36"/>Argumenta celebrationis Dei sunt tum attributa Dei, tum opera 
+      <lb ed="#H" n="37"/>ejus, ut compendio quodam docent Psalmi multi, veluti 33. totus 
+      <lb ed="#H" n="38"/>103. &amp; sequentes aliquot. 111. &amp; 112. &amp; 117. &amp; 135. &amp; 136. &amp; 145. &amp; 
+      se<lb ed="#H" n="39" break="no"/>quentes ad finem usque libri. Argumenta etiam celebrationis Dei. 
+      <lb ed="#H" n="40"/>previter complexa est beata Virgo Maria Luc. 1. ver. 46. &amp; 
+      sequenti<lb ed="#H" n="41" break="no"/>bus: Et Zacharias pater Johannis Baptistae Luc. 1. v. 68. &amp; seqq. Et 
+      <lb ed="#H" n="42"/>Paulus Apostolus Eph. 1. 3. &amp; sequentibus. Coloss. 1. ver. 12. &amp; 
+      se<lb ed="#H" n="43" break="no"/>quentibus. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e483">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Gratiarumactio erga Deum, si locum spectes, vel privata est, vel 
+      <lb ed="#H" n="45"/>publicat 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e492">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>Privata, est quae sit domi, aut in alio privato loco. Ps. 149. 5. 
+      <lb ed="#H" n="47"/>Publica, est quae fit in coetu pablico. Ps. 111. 1. &amp; 149. 1. 
+      <lb ed="#H" n="48"/>Ea ardentissimo studio desideratur &amp; obitur a vere fidelib. Ps. 42. 
+      <lb ed="#H" n="49"/>fere toto, &amp; Ps. 43. v. 3. 4. Interturbatio seu privatio ejus moeroremo 
+      <lb ed="#H" n="50"/>luctum piis a fert, Ps. 42. Sophon. 3. v. 18. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e508">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Adjuncta gratiarumactionis Deo debitae sunt multa: 
+      <lb ed="#H" n="52"/>Tempus. Ps. 92. v. 3. &amp; 113. v. 2. &amp; 119. 62, 264. 
+      <lb ed="#H" n="53"/>Laetitia vera ac sancta, quae est Ps 92. v. 7. 
+      <lb ed="#H" n="54"/>Gratiarumactio continua esse debet. Ps. 34. 2. &amp; 72. v. 7. 
+      <lb ed="#H" n="55"/>Celebrationi Dei &amp; gratitudini in illum opponitur blasphemia in 
+      <lb ed="#H" n="56"/>Deum, in, patitudo adversus Deum, hypocritica gratiarumactio, 
+      falsa<lb ed="#H" n="57" break="no"/>gratiarumactio¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e529">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Blasphemia in Deum, est peccatum cum quis de Deo, a quo 
+      tan<lb ed="#H" n="59" break="no"/>multa accepit beneficia, pugnautia cum ipsius natura &amp; voluntate di 
+      <lb ed="#H" n="60"/>cit, sive ex ignorantia, sive ex odio veritatis &amp; ipsius Dei. Hujus 
+      spe<lb ed="#H" n="61" break="no"/>cies est maledicere Christo, ad quod scelus persecutores olim 
+      compel<lb ed="#H" n="62" break="no"/>labant Christianos, ut ex historia beati Martyris Polycarpi &amp; 
+      epi<lb ed="#H" n="63" break="no"/>stola Plinii secundi ad Trajanum Imperatorem constat.  
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e547">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Ingratitudo erga Deum, est peccatum, cum bona quaecunque 
+      ha<lb ed="#H" n="65" break="no"/>bemus, quibus fruimur, non referuntur Deo accepta, ut fecerunt Is 
+      <lb ed="#H" n="66"/>raelitae, Hos. 2. vers. 5, 8. item cum quis non recordatur sed oblivi  
+      <lb ed="#H" n="67"/>scitur beneficiorum a Deo acceptorum, ut par erat: item cum 
+      qui<lb ed="#H" n="68" break="no"/>utitur Dei donis sine gratiarum actione: item cum quis ex 
+      desi<lb ed="#H" n="69" break="no"/>dia dona Dei supprimit &amp; ad gloriam Dei aliorumque usum non 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e565">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>t 
+      <lb ed="#H" n="71"/>impendit, ut servus ille qui talentum unum acceperat Matth. 25. 
+      <lb ed="#H" n="72"/>vers. 25. item cum quis negat aut reprehendit opera &amp; beneficia 
+      <lb ed="#H" n="73"/>Dei, vel cum quis extenuat &amp; parvi pendit opera &amp; beneficia Dei, ut 
+      <lb ed="#H" n="74"/>fecerunt Israelitae, Num. 11. vers. 6. aut cum quis res terrenas &amp; 
+      vi<lb ed="#H" n="75" break="no"/>les praeponit caelestibus &amp; eximiis, ut iidem Israelitae fecerunt, Num. 
+      <lb ed="#H" n="76"/>11. vers. 4, 5. aut cum quis beneficia Dei pro maleficiis habet, ut 
+      ii<lb ed="#H" n="77" break="no"/>dem similiter fecerunt, Num. 13. v. 32. Deuteron. 1. vers. 27 aut cum 
+      <lb ed="#H" n="78"/>quis non est contentus eo quod Deus dat, &amp; Deo quid aut 
+      quan<lb ed="#H" n="79" break="no"/>tum dare debeat praescribit: &amp; maxime cum quis pro beneficiis 
+      ac<lb ed="#H" n="80" break="no"/>ceptis, Deo maleficia reponit, ut fecerunt Israelitae de quibus quere¬t 
+      <lb ed="#H" n="81"/>dae exstant passim. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e596">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Summo studio fugienda: 
+      <lb ed="#H" n="83"/>I. Quia a Deo gravissime prohibetur? 
+      <lb ed="#H" n="84"/>II. Quia severe a Deo reprehen ditur, in Saule 1. Sam. 15. v. 17. 
+      <lb ed="#H" n="85"/>18, 19. in Salomone 1. Reg. 11. v. 9. in Israelitis Jesa 1. v. 2, 3. Rom 1. 
+      <lb ed="#H" n="86"/>v. 21. 1. Cor 4. v. 7. in novem leprosis a Christo sanatis Luc. 17. v. 17.  
+      <lb ed="#H" n="87"/>18. Matth. 25. v. 26. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e614">
+               <lb ed="#H" n="88"/>
+               <pc type="indent"/>III. Quia causa est ut gloria Dei, ut Christus Dominus discedat  
+      <lb ed="#H" n="89"/>ab ingratis, Ezech. 11. v. 22, 25. Joh. 11. 53, 54. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e623">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>IV. Quia poenas accersit teporales &amp; aeternas; quales sunt 
+      amis<lb ed="#H" n="91" break="no"/>sio commodorum corporal um, Hose. 2. v. 9, 10, 11, 12, 13. 
+      praesentis<lb ed="#H" n="92" break="no"/>simus interitus Num. 14. v. 35, 36, 37. abjectio in tenebras extimas, 
+      <lb ed="#H" n="93"/>Matth. 15. v. 30. 
+      <!--cod-MkL9py-0660.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="94"/>Hypocritica gratiarum actio erga Deum, est quum quis gratias 
+      qui<lb ed="#H" n="95" break="no"/>dem Deo agit pro bonis quae habet aut se habere jactat, sed aut non 
+      <lb ed="#H" n="96"/>fert accepta Deo, aut non soli Deo; aut etiamsi fateatur se a Deo illa 
+      <lb ed="#H" n="97"/>habere, tamen fiduciam in illis collocat coram Deo &amp; alios homines 
+      <lb ed="#H" n="98"/>despicit. Cujusmodi gratiarumactio fuit Pharisaei illius Luc. 18. 
+      <lb ed="#H" n="99"/>vers. 11, 12. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e655">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Falsa gratiarumactio ad Deum, est quae pro gratiarum actione 
+      <lb ed="#H" n="101"/>Deo exhibita habetur, quum non sit: quemadmodum Papistae 
+      salu<lb ed="#H" n="102" break="no"/>cationem Angelicam Luc. 1. 28. fingunt esse gratiarumactionem, qua 
+      <lb ed="#H" n="103"/>Deum summis habendis laudibs &amp; gratiis agendis celebrent, quod  
+      <lb ed="#H" n="104"/>sanctissimam Virginem omnium caelestium donorum munere 
+      cu<lb ed="#H" n="105" break="no"/>mulaverit, ipsique Virgini singularem illam gratulentur felicitatem, ut 
+      <lb ed="#H" n="106"/>habet Catechismus Romanus quarta parte, capite quinto, ubi in 
+      <lb ed="#H" n="107"/>margine adscriptum est, Salutationem Angelicam ad 
+      gratiarumacti<lb ed="#H" n="108" break="no"/>onem pertinere. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e679">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>QUAESTIO proinde oritur hinc duplex. 1 An salutatio illa 
+      Angeli<lb ed="#H" n="110" break="no"/>ca sit gratiarumactio? 2. An beata Virgo Maria jam in caelo triumphans, 
+      <lb ed="#H" n="111"/>sit adhuc sulutatione illa Angelica compellanda: 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e690">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Ad primam quaestionem responsio: Salutatio Angeli Gabrielis ad 
+      <lb ed="#H" n="113"/>Mariam, non est gratiarumactio: quia est salutatio, ut expresse 
+      dici<lb ed="#H" n="114" break="no"/>tur Luc. 1. 29. Maria perturbata est super ejus sermone: &amp; cogitabat, 
+      <lb ed="#H" n="115"/>qualis esset salutatio ista. Salutatio autem est exoptatio salutis, ac 
+      pro<lb ed="#H" n="116" break="no"/>inde precatio qua a Deo salutem ac prosperitatem precamur ei quem 
+      <lb ed="#H" n="117"/>salutamus. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e708">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Ad secundam quaestionem responsio: Beata Virgo jam in caelo 
+      tri<lb ed="#H" n="119" break="no"/>umphaus, non est amplius salutatione illa Angelica compellanda: I. 
+      <lb ed="#H" n="120"/>Quia Angelus illam salutans &amp; dicens, Ave Maria, &amp;c. pro ea 
+      ora<lb ed="#H" n="121" break="no"/>vit, ut Deus eam gaudio &amp; pace cumularet. Tali oratione pro 
+      seMa<lb ed="#H" n="122" break="no"/>ria amplius non indiget: 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e724">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>II. Quia qui Mariam adhuc salutant innuunt, eam nondum 
+      ae<lb ed="#H" n="124" break="no"/>ternae beatitudinis gaudio &amp; Dei visione fruit 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e733">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>III. Quia si injuriam facit Martyri, qui orat pro martyre, ut 
+      <lb ed="#H" n="126"/>Innocentius terrius, Romanus Pontifex dicit in Decretalibus 
+      Gre<lb ed="#H" n="127" break="no"/>gonii, tertio libro, titulo quadragesimoprimo de Celebratione 
+      <lb ed="#H" n="128"/>Missarum, cap. Cum Marthae: tum certe magis sunt injutii in Beatam 
+      <lb ed="#H" n="129"/>Virginem, quam in quenquam alium omnium sanctorum, quicunt 
+      <lb ed="#H" n="130"/>que adhuc pro ea orant; quod omnino faciunt Papistae qui quotidie 
+      <lb ed="#H" n="131"/>Mariam salutant. Nam Johannes vicesimus secundus instituit, ut 
+      <lb ed="#H" n="132"/>ter in singulos dies tintinnabula ad vesperum pulsarentur, ac tum 
+      <lb ed="#H" n="133"/>unusquisque Salutationem Angelicam Divae Virgini sacram 
+      reti<lb ed="#H" n="134" break="no"/>taret, ut refert Polydorus Virgilius de inventoribus rerum libro 
+      6<lb ed="#H" n="135" break="no"/>capite 12. &amp; aucta est superstitio ista per rosarium, psalterium &amp; 
+      coro<lb ed="#H" n="136" break="no"/>nam Beatae Virginis majorem in modum, ita ut pro nullo hominum 
+      <lb ed="#H" n="137"/>crebrius Papistae orent. quam pro Maria, dum eam salutant: hoc 
+      e<lb ed="#H" n="138" break="no"/>nim certo certius est, salutationem esse precationem pro illo, qui 
+      salu<lb ed="#H" n="139" break="no"/>tatur, ut Deus ei salutem &amp; alia bona largiatur. Quapropter Beatam 
+      <lb ed="#H" n="140"/>Virginem inprimis dedecorant ista quam labe, quum salutatione An 
+      <lb ed="#H" n="141"/>gelica ad precandum utuntur, quod Papistas facere, testatur 
+      Cate<lb ed="#H" n="142" break="no"/>chismus Romanus parte quarta, capite pro quibus oradum sit, quod  
+      <lb ed="#H" n="143"/>numero est quintum, quaest. 8. 
+    </p>
+            <p xml:id="yyy8Uu-xd3718-d1e780">
+               <lb ed="#H" n="144"/>
+               <pc type="indent"/>Sc fuit de gratiarum actione: sequitur de voto. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

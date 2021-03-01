@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 19</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 19</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd8275"><!-- l9-c19 -->
+            <head xml:id="yyy8Uu-xd8275-Hd1e103">Caput 19</head>
+            <p xml:id="yyy8Uu-xd8275-d1e106">
+               <lb ed="#H" n="51"/>CAPUT XIX. 
+      <lb ed="#H" n="52"/>In quo de gestibus precantium Deum.
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e113">
+               <lb ed="#H" n="53"/>ESTUS EXTERNI in precando sunt, situs corporis: capitis 
+      <lb ed="#H" n="54"/>rnuditas: expansio manuum: oculorum vel elevatio ad caelum 
+      <lb ed="#H" n="55"/> vel depressio versus terram: tunsio pectoris: Iacrymae: Vox. 
+      <lb ed="#H" n="56"/>clara, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e124">
+               <lb ed="#H" n="57"/>
+               <pc type="indent"/>Quod ad situm corporis attinet, perinde est quomodo corpus 
+      con<lb ed="#H" n="58" break="no"/>stitutum sit ad orandum, perinde est sive stantes, sive sedentes, sivi 
+      <lb ed="#H" n="59"/>mumi procum bentes sive in lecto decumbentes precemur, 
+      dummo<lb ed="#H" n="60" break="no"/>do animus Deo praesens peragat intentionem suam. Vide August. 
+      <lb ed="#H" n="61"/>tom. 4 pag 465. 
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e140">
+               <lb ed="#H" n="62"/>Stans precatus est Rex Salomon 1. Reg. 8. v. 22. Christus 
+      Domi<lb ed="#H" n="63" break="no"/>nus Joh. 11. 41. publicanus Luc. 18. 11. 
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e148">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Iaceis in lecto precatus est David 2. Sam. 7. 18. Ps. 6. v. 7. Ezechis 
+      <lb ed="#H" n="65"/>us 2. Reg. 20. 2, 3. &amp; patalyticus Matth. 9. 2. &amp; jacentes precantu 
+      <lb ed="#H" n="66"/>morbo in lectum conjecti¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e159">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Sedens super lectum suum precatus est Isaacus Gen. 27. v. 30, 31. &amp; 
+      <lb ed="#H" n="68"/>Jacobus Patriarcha Gen. 48. v. 15, 16, 20. 
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e168">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Ambulantes precantur fideles in itineribus, ut David cum 
+      fuge<lb ed="#H" n="70" break="no"/>ret crudelitatem Saulis, ut confessores veritatis caelestis fuga se 
+      cripi<lb ed="#H" n="71" break="no"/>entes e persecutorum manibus Vectus curru precatus est Josaphatus 
+      <lb ed="#H" n="72"/>1. Reg. 22 v. 32. 2. Chron. 18. v. 31 
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e181">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>udaei versus Occidentem faciem convertebant quum precaban 
+      <lb ed="#H" n="74"/>tur. ex adverso Jerosolymorum Dan. 6. v. 11. adorantes Orientem 
+      <lb ed="#H" n="75"/>versus improbabantur Ezech. 8. v. 16. Christiani autem veteres vul 
+      <lb ed="#H" n="76"/>tu ad Orientem converso precabantur. Sed perinde est versus 
+      quam<lb ed="#H" n="77" break="no"/>cunque plagam caeli vultum convertant fideles, dum modo cum vera 
+      <lb ed="#H" n="78"/>fide ad thronum gratiae accedant. Videatur Commentarius noster in 
+      <lb ed="#H" n="79"/>caput octavum Ezechielis, 
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e201">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Procidere in faciem seu humi in genua procumbere, quum fieri 
+      po<lb ed="#H" n="81" break="no"/>test, non tantum decet, ut humilitatem nostram &amp; observantiam 
+      ex<lb ed="#H" n="82" break="no"/>ga Deum tanto magis testemur: sed etiam expedit, ut ad humilitate  
+      <lb ed="#H" n="83"/>coram Deo &amp; majorem venerationem tanto magis nos excitemus 
+      <lb ed="#H" n="84"/>Elias Propheta precaturus pronum se abjecit in terram &amp; posuit 
+      fa<lb ed="#H" n="85" break="no"/>ciem suam inter genua sua 1. Reg. 18. 42. Christus ipse Matt. 26. 39. 
+      <lb ed="#H" n="86"/>fideles communiter Pl. 95. 6. Venite incurvemus nos &amp; 
+      procumba<lb ed="#H" n="87" break="no"/>mus: flectamus genua coram Iehova qui fecit nos. 
+      <!--cod-MkL9py-0649.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="88"/>Fideles plerunque precantur Deum capite nudo, quia non erubescunt; 
+      <lb ed="#H" n="89"/>ut Tertullianus in Apologetico c. 30. ait 
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e232">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>Manus suas expandit versus caelum Salomon ante altare Jehova. 
+      <lb ed="#H" n="91"/>prans, 1 Reg. 8. 22. David Psalm. 28. 2. ait: Audi voce deprecationum 
+      <lb ed="#H" n="92"/>mearum, dum vociferor ad te; dum attollo manus meas ad adytum 
+      <lb ed="#H" n="93"/>sanctitatis tuae. Et Ps. 141. 2. ait: Statuatur oratio mea, ut suffitus 
+      coram<lb ed="#H" n="94" break="no"/>te; elatio manuum mearum, ut munus vespertinum. Et Ps. 143. 6. 
+      Pan<lb ed="#H" n="95" break="no"/>do manus meas ad te. Et Paulus Apostolus ait I. Timoth. 2. vers. 8. 
+      <lb ed="#H" n="96"/>Volo viros orare in quovis loco, puras manus attollentes absque ira &amp; 
+      dis<lb ed="#H" n="97" break="no"/>ceptatione. 
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e255">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Oculos in caelum elevavit Christus precaturus Matth. 14. v, 19. 
+      Jo<lb ed="#H" n="99" break="no"/>han. 11. 41. &amp; cap. 17. 1. Contra publicanus resipiscens nolebat vel o 
+      <lb ed="#H" n="100"/>culos in caelum attollere Luc. 18. 13. Uterque recte: Christus ex certa 
+      <lb ed="#H" n="101"/>animi fiducia: publicanus ex serio suorum peccatorum sensu. 
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e268">
+               <lb ed="#H" n="102"/>
+               <pc type="indent"/>Tunsio pectoris ex vehementi cordis dolore &amp; affectu adhibetur,  
+      <lb ed="#H" n="103"/>sicut publicanus resipiscens Luc. 18. 13. caedebat pectus suum, dicens 
+      <lb ed="#H" n="104"/>Deus, propitius esto mihi peccatori. Sic Christo in cruce mortuo omni 
+      <lb ed="#H" n="105"/>turba quae simul ad hoc spectaculum accesserat, spectans quae facta 
+      fue<lb ed="#H" n="106" break="no"/>rant, caedens pectora sua revertebatur, Luc 23. v. 48. nam pectora 
+      tun<lb ed="#H" n="107" break="no"/>dendo, piaculi reatum deprecati sunt, quod sentirent piaculum 
+      inju<lb ed="#H" n="108" break="no"/>sta &amp; nefanda caede contractum esse. 
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e288">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>LACRTMAEcum precibus piorum conjunctae sunt interdum, ut  
+      <lb ed="#H" n="110"/>ostendunt exempla, Channae matris Samuelis 1. Sam. 1. v. 10. 
+      Davi<lb ed="#H" n="111" break="no"/>lis Ps. 6. v. 9. 
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e299">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Lacrymae illae piorum profluunt vel a cogitatione peccatorum 
+      <lb ed="#H" n="113"/>quum dolemus quod Deum illis offedimus, ut David Ps. 6. v. 7. 
+      Ezra<lb ed="#H" n="114" break="no"/>v. 10. 1. vel a gravitate afflictionum Ps. 77. 3: 
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e310">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>VOX CLARA, est quidem adjumentum ad attentionem in 
+      pre<lb ed="#H" n="116" break="no"/>cando &amp; vehementiam Ps. 5. 2, 3. &amp; 77. 2. clamor enim ardorem 
+      ve<lb ed="#H" n="117" break="no"/>hemensque studium in precando innuit &amp; accendit: non tamen 
+      sem<lb ed="#H" n="118" break="no"/>per est necessaria: non enim tam vox externa oris, quam gemitus &amp; 
+      <lb ed="#H" n="119"/>clamor cordis requititur; sicut Deus Mosi dixit Exod. 14. 15. Quid 
+      <lb ed="#H" n="120"/>clamas ad me? Non tamen Moses ore corporis tum inclamabat Deum, 
+      <lb ed="#H" n="121"/>sed in silentio vocis coram Deo corde¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e330">
+               <lb ed="#H" n="122"/>
+               <pc type="indent"/>Inprimis vox clara adhibetur si cantu precemur, ut fit plurimum 
+      <lb ed="#H" n="123"/>a publicis conventibus Ecclesiasticis: 
+      <lb ed="#H" n="124"/>De aliis gestibus idololatricis &amp; superstitiosis, ut quod Baalitici 
+      <lb ed="#H" n="125"/>sacerdotes incidebant sese pro ratione irsorum gladiis &amp; spi culis, usque  
+      <lb ed="#H" n="126"/>adeo ut perfunderent se sanguine, ut legitur 1. Reg. 18. v. 28. idque ex 
+      <lb ed="#H" n="127"/>E more Gentium; suo loco dicetur 
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e349">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>Dictum est de adiunctis adminiculis religiosae preca¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd8275-d1e356">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>tionis: sequitur de dissentaneis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd7481"><!-- l10-c10 -->
+            <head xml:id="yyy8Uu-xd7481-Hd1e103">Caput 10</head>
+            <p xml:id="yyy8Uu-xd7481-d1e106">
+               <lb ed="#H" n="137"/>CAPUT X 
+      <lb ed="#H" n="138"/>In quo de Hospitalitate.
+    </p>
+            <p xml:id="yyy8Uu-xd7481-d1e113">
+               <lb ed="#H" n="139"/>TTOSPITALITAS, φιλοθενίκ, est charitas erga proximum. 
+      <lb ed="#H" n="140"/>per quam peregrinos &amp; advenas, ac praec que exsulantes 
+   pro<lb ed="#H" n="141" break="no"/>ter veritatis divinae professionem publicam patriae calamita 
+      <lb ed="#H" n="142"/>tem, hospitio excipimus &amp; officiis hoso calibus pro facultate nostra 
+      <lb ed="#H" n="143"/>complectimur, prout in Domino convinit sanctis, abique murmus 
+      <lb ed="#H" n="144"/>rationibus, ut consolationem a nobis hoc pacto accipiant, &amp; in veri 
+      <lb ed="#H" n="145"/>tate coelesti confirmentur conserventurque, Ron. 16. 2, 3. epist Joh. 
+      <lb ed="#H" n="146"/>v. 5, 6. 1. Petr. 4 v. 9. 
+    </p>
+            <p xml:id="yyy8Uu-xd7481-d1e133">
+               <lb ed="#H" n="147"/>
+               <pc type="indent"/>Est hilariter exercenda. 
+      <lb ed="#H" n="148"/>I. Quia a Deo mandata est, Rom. 12. v. 13. Hospitalitatem 
+      se<lb ed="#H" n="149" break="no"/>ctantes. 1. Petr. 4 9. Hospitales estote alij erga alios. Jesa. 16. 3. 4. 
+      Dispo<lb ed="#H" n="150" break="no"/>ne tanquam noctis umbram tuam ipso meridie: abusode propuisos, 
+      va<lb ed="#H" n="151" break="no"/>gantem ne prodito. Commorentur apud te propulsi mei, esto latibulum 
+      <lb ed="#H" n="152"/>ipsis a conspectu vastatoris. 3. epist. Joh. v. 8. Nos debemus recipere 
+      hu<lb ed="#H" n="153" break="no"/>jusmodo 
+    </p>
+            <p xml:id="yyy8Uu-xd7481-d1e153">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>II. Quia Deo magnopere placet, Jes. 58. 7. 
+      <lb ed="#H" n="155"/>III. Quia multam utilitatem adfert, Jes. 58. 8. Hebr. 13. 2. 
+      Ho<lb ed="#H" n="156" break="no"/>spitalitatis ne estote immemores: per hanc enim quidam inscij 
+      excepe<lb ed="#H" n="157" break="no"/>runt Angelos hospitio. 
+    </p>
+            <p xml:id="yyy8Uu-xd7481-d1e167">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>IV. Quia probatis exemplis nobis commendatur, ut 
+      Abraha<lb ed="#H" n="159" break="no"/>mi Gen. 18. v. 1. &amp; sequentibus: Lothi Gen 19. v. 1, 2, 3. Phaebes qua 
+      <lb ed="#H" n="160"/>ministra erat Ecclesiae Cenchreensis, Rom. 16. 2. Gaji. 3. Joh. v. 5, 6. 
+    </p>
+            <p xml:id="yyy8Uu-xd7481-d1e178">
+               <lb ed="#H" n="161"/>
+               <pc type="indent"/>Opponuntur ei inhospitaelitas, quae graviter reprehenditur in 
+      Dio<lb ed="#H" n="162" break="no"/>trephe 3. Jeh. 10. &amp; inconsiderata hospitalias, quam sic profunduntur  
+      <lb ed="#H" n="163"/>sumtus in hospites, ut fons beneficentiae exhauriatur &amp; nobis 
+      nostris<lb ed="#H" n="164" break="no"/>que necessaria non suppetant. 
+    </p>
+            <p xml:id="yyy8Uu-xd7481-d1e191">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Haec de charitate erga quosvis homines. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

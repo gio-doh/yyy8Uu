@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 74</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 74</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd346"><!-- l6-c74 -->
+            <head xml:id="yyy8Uu-gxd346-Hd1e103">Caput 74</head>
+            <p xml:id="yyy8Uu-gxd346-d1e106">
+               <lb ed="#H" n="4"/>CAPUT LXXIV. 
+      <lb ed="#H" n="5"/>In quo de plena Dei patefactione post hanc 
+      <lb ed="#H" n="6"/>vitam.
+    </p>
+            <p xml:id="yyy8Uu-gxd346-d1e115">
+               <lb ed="#H" n="7"/>MANIEESTATIO gloriae Dei complectitur plenam Dei 
+      pate<lb ed="#H" n="8" break="no"/>factionem, &amp; consummatam beatificationem electorum 
+    </p>
+            <p xml:id="yyy8Uu-gxd346-d1e122">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>Plena Dei patefactio, erit opus Dei post hanc vitam, quam 
+      <lb ed="#H" n="10"/>do Deus longissime perfectius &amp; clarius, quam in hac vita, 
+      cogno<lb ed="#H" n="11" break="no"/>scendum sese electis praebebit, 1. Cor. 13. v. 10, 11, 12. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

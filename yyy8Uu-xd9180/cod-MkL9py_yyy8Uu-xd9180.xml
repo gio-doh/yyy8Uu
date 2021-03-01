@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 16</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 16</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd9180"><!-- l10-c16 -->
+            <head xml:id="yyy8Uu-xd9180-Hd1e103">Caput 16</head>
+            <p xml:id="yyy8Uu-xd9180-d1e106">
+               <lb ed="#H" n="102"/>CAPUT XVI 
+      <lb ed="#H" n="103"/>In quo de charitate erga posteros 
+   mor<lb ed="#H" n="104" break="no"/>tuorum. 
+    </p>
+            <p xml:id="yyy8Uu-xd9180-d1e115">
+               <lb ed="#H" n="105"/>CHARITAS erga posteros &amp; propinquos mortuorum, est quum 
+      <lb ed="#H" n="106"/>ob charitatem quam complexi fuimus viventes &amp; retinemu. 
+      <lb ed="#H" n="107"/>erga mortuos, benevolentiam &amp; officia utilia ac necessara 
+      ex<lb ed="#H" n="108" break="no"/>hibemus etiam posteris &amp; propinquis illorum superstitibus. Ea enim 
+      <lb ed="#H" n="109"/>est verae charitatis natura, ut morte ejus quem diligimus non 
+      ab<lb ed="#H" n="110" break="no"/>rumpatur, sed veluti haereditatio jure ad posteros &amp; propinquosejus 
+      <lb ed="#H" n="111"/>continuetur.  
+    </p>
+            <p xml:id="yyy8Uu-xd9180-d1e133">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Ita David declaravit charitatem suam erga Jonathanem, post 
+      <lb ed="#H" n="113"/>mortem ejus benefaciendo Mephiboscheto filio Jonathanis. Sic 
+      fi<lb ed="#H" n="114" break="no"/>deles ob amorem in defunctum, convivia exhibebant, vel cibos 
+      mit<lb ed="#H" n="115" break="no"/>tebant posteris defuncti ad eos consolandos, Jerem. 16. 7. Ezech. 24. 
+      <lb ed="#H" n="116"/>17. Tobi. 4. 18. Nam qui mortuorum necessariis benefacit, mortuis 
+      <lb ed="#H" n="117"/>ipsis dicitur benefacere 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

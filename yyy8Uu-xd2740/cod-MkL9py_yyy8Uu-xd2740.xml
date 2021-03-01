@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 52</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 52</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd2740"><!-- l10-c52 -->
+            <head xml:id="yyy8Uu-xd2740-Hd1e103">Caput 52</head>
+            <p xml:id="yyy8Uu-xd2740-d1e106">
+               <lb ed="#H" n="13"/>CAPUT LII 
+      <lb ed="#H" n="14"/>In quo de justitia distributiva in genere.
+    </p>
+            <p xml:id="yyy8Uu-xd2740-d1e113">
+               <lb ed="#H" n="15"/>YNsocietate justitia particularis est, tum distributiva, tum 
+      com<lb ed="#H" n="16" break="no"/>mutativa. 
+    </p>
+            <p xml:id="yyy8Uu-xd2740-d1e120">
+               <lb ed="#H" n="17"/>
+               <pc type="indent"/>JUSTITIA distributiva, est quae versatur in distributione 
+      offi<lb ed="#H" n="18" break="no"/>ciorum, honorum, praemiorum, poenatum, ut unicuique consentanea 
+      <lb ed="#H" n="19"/>pro conditione, statu &amp; dignitate cujusque praestentur. δικανοσμθη δα¬ 
+      <lb ed="#H" n="20"/>νεμιιικη. Ro. 13. v. 7. Cui honorem, honorem, cui tributum, tributum 
+      <lb ed="#H" n="21"/>Rom. 12. v. 10. Sic justitia distributiva requirit, ut cuique justus &amp; 
+      de<lb ed="#H" n="22" break="no"/>bitus locus assignetur: ut Josephus Patriarcha, quum fratres suos 
+      <lb ed="#H" n="23"/>convivio exciperet, pro aetate cujusque loca illis designavit, Genes. 
+      <lb ed="#H" n="24"/>44. 33. 
+    </p>
+            <p xml:id="yyy8Uu-xd2740-d1e142">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Eaque est Primo vel erga alios, vel erga nos ipsos. Proprie quidem 
+      <lb ed="#H" n="26"/>est erga alios: metaphorice &amp; secundum similitudinem quandam en 
+      <lb ed="#H" n="27"/>ga nos ipsos. 
+    </p>
+            <p xml:id="yyy8Uu-xd2740-d1e154">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Secundo justitia distributiva, vel remunerans est, vel puniens. 
+      <lb ed="#H" n="29"/>Iustitia remunerans, est justitia distributiva, per quam recte factis 
+      <lb ed="#H" n="30"/>debita praemia redduntur, ut virtutum studium alatur augeaturque. 
+    </p>
+            <p xml:id="yyy8Uu-xd2740-d1e165">
+               <lb ed="#H" n="31"/>
+               <pc type="indent"/>Iustitia puniens, est justitia distributiva, per quam male factis 
+      de<lb ed="#H" n="32" break="no"/>bita poena irrogatur, ut vitia magis magisque coerceantur &amp; 
+      eradi<lb ed="#H" n="33" break="no"/>centur.  
+    </p>
+            <p xml:id="yyy8Uu-xd2740-d1e176">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Tertio justitia distributiva vel Oeconomica est, vel politicat 
+      <lb ed="#H" n="35"/>Iustitia Oeconomica, est quae in societate domestica officiorum 
+      oe<lb ed="#H" n="36" break="no"/>conomicorum praestatione &amp; communicatione exerceri debet, ac 
+      <lb ed="#H" n="37"/>familiae honestam conservationem. 
+    </p>
+            <p xml:id="yyy8Uu-xd2740-d1e189">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Haec sita est in sanctitate conjugij, &amp; cura rei familiaris. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

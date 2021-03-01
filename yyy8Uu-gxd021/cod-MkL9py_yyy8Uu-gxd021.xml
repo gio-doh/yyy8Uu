@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd021"><!-- l7-c12 -->
+            <head xml:id="yyy8Uu-gxd021-Hd1e103">Caput 12</head>
+            <p xml:id="yyy8Uu-gxd021-d1e106">
+               <lb ed="#H" n="55"/>CAPUI 
+      <lb ed="#H" n="56"/>In quo de plebe 
+      Ecclesiastica<lb ed="#H" n="57" break="no"/>TPLEES ECCLESIAE, sunt praeter Ecclesiae ministros alia omnia 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e115">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Ecclesiae membra, quae usitate nominantur Auditores verbi Dei. 
+      <lb ed="#H" n="59"/>item idiotae 1. Corinth. 14. v. 16. grex 1. Pet. 5. v. 3. item sedentes. 
+      <lb ed="#H" n="60"/>Vula 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e126">
+               <lb ed="#H" n="61"/>
+               <pc type="indent"/>po Laici 
+      <lb ed="#H" n="62"/>Officium eorum triplex est; erga Deum: erga pastores &amp; 
+      do<lb ed="#H" n="63" break="no"/>ctores Ecclesiae: &amp; erga se invicem 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e137">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Officium auditorum verbi Dei erga Deum est, 
+      <lb ed="#H" n="65"/>I. Verbum Dei cupide, libenter &amp; religiose audire &amp; amplecti., 
+      <lb ed="#H" n="66"/>Jacob. 1. v. 19, 21. 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e149">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>II. Obedientiam erga Deum fide &amp; bonis operibus testari, Jac. 
+      <lb ed="#H" n="68"/>1. vers. 22. 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e158">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>III. Doctrinam veritatis &amp; ministerium Ecclesiae pro virili 
+      pro<lb ed="#H" n="70" break="no"/>movere donis sibi a Deo datis, opera &amp; quomodocunque possunt 
+      us<lb ed="#H" n="71" break="no"/>que ad mortem. 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e169">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>Officium eorundem erra fidos Pastores &amp; Doctores suos est, 
+      <lb ed="#H" n="73"/>I. Libenter doctrinae &amp; illorum institutioni, tum in publicis 
+      con<lb ed="#H" n="74" break="no"/>cionibus &amp; coetibus, tum in privatis exhortationibus seu 
+      visitationi<lb ed="#H" n="75" break="no"/>bus attendere &amp; ex animo obedire, Hebr. 13. v. 17. Officium hoc tam 
+      <lb ed="#H" n="76"/>praeclarum est, ut ipsi etiam auditores, imo etiam mulieres dicantur 
+      <lb ed="#H" n="77"/>prophetare, quando prophetiae, id est, interpretationi literarum 
+      sa<lb ed="#H" n="78" break="no"/>crarum attendunt, &amp; verum sensum usumque illarum discunt &amp; 
+      per<lb ed="#H" n="79" break="no"/>cipiunt, animoque approbant. 1. Cor. 11. v. 4, 7. 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e191">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>II. Spiritum non extinguere, sed pie judicare &amp; explorare 
+      audi<lb ed="#H" n="81" break="no"/>ta, an cum sacris literis conveniant, &amp; quod bonum est retinere, 1. 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e200">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>Thess. 5. v. 19, 20. 1. Cor. 10. v. 15. Actor. 17. v. 11, 12. 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e207">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>III. Pietatem &amp; vitam piorum doctorum sanctam imitari, I. 
+      Co<lb ed="#H" n="84" break="no"/>rinth. 4. v. 6. &amp; v.16. Precor vos igitur, imitatores mei estote. 
+      Philipp<lb ed="#H" n="85" break="no"/>3. v. 17. Estote simulimitatores mei, fratres, &amp; eos considerate, qui ita; 
+      <lb ed="#H" n="86"/>incedunt, sicut habetis nos pro exemplari. Hebr. 13. v. 7. 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e221">
+               <lb ed="#H" n="87"/>
+               <pc type="indent"/>IV. Affectum filialem erga eos gerere, ac proinde eos 
+      magnifa<lb ed="#H" n="88" break="no"/>cere, honorare, amare, precibus Deo commendare, gratitudinem ex 
+      <lb ed="#H" n="89"/>ga eos declarare, securitati &amp; incolumitati ipsorum, inprimis 
+      peri<lb ed="#H" n="90" break="no"/>culosis persequutionum saevarum temporibus prospicere, 
+      omnibus<lb ed="#H" n="91" break="no"/>que modis operam dare, ut eorum sint spes &amp; gaudium, &amp; corona &amp; 
+      <lb ed="#H" n="92"/>gloria, I. Cor. 4. v. 1. Sic de nobis reputet homo, ut de ministris Christi. 
+      <!--cod-MkL9py-0569.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>&amp; dispensatoribus mysteriorum Dei. Hebr. 13. v. 18. Orate pro nobis 
+      <lb ed="#H" n="94"/>&amp;c. Act. 12. v. 5. Petrus igitur servabatur in custodia: preces autem 
+      <lb ed="#H" n="95"/>assiduae fiebant ab Ecclesia ad Deum pro ipso. Philipp. 2. v. 29. Excipi 
+      <lb ed="#H" n="96"/>te igitur eum (Epaphroditum) in Domino cum omni gaudio: &amp; 
+      ta<lb ed="#H" n="97" break="no"/>les in pretio habete. 1. Corinth. 16. vers. 10, 13. Quod si venerit 
+      Timo<lb ed="#H" n="98" break="no"/>theus, videte ut tuto sit apud vos: opus enim Domini operatur ut &amp; 
+      <lb ed="#H" n="99"/>ego. Ne quis igitur illum pro nihilo habeat: sed prosequimini eum 
+      <lb ed="#H" n="100"/>cum pace, ut veniat ad me. 1. Thess. 2. v. 19, 20. Nam quae est nostra 
+      <lb ed="#H" n="101"/>spes aut gaudium, aut corona de qua glorier? annon &amp; vos in 
+      conspe<lb ed="#H" n="102" break="no"/>ctu Domini nostri Iesu Christi in ejus adventu? Itaque vos estis gloria 
+      <lb ed="#H" n="103"/>&amp; gaudium. 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e267">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Causae officij hujus sunt magnae. 1. quia pij Pastores Ecclesiarum 
+      <lb ed="#H" n="105"/>excubant pro animabus auditorum suorum tanquam rationem 
+      red<lb ed="#H" n="106" break="no"/>dituri, Hebr. 13. v. 17. 2. quia sunt firmamentum Ecclesiae &amp; Reipus 
+      <lb ed="#H" n="107"/>blicae, sicut de Elia Propheta Elisaeus ait, Currus Israelis &amp; equiter 
+      <lb ed="#H" n="108"/>ejus 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e283">
+               <lb ed="#H" n="109"/>
+               <pc type="indent"/>V. Malos Pastores &amp; falsos doctores vitare, Philipp. 2. v. 2. 
+      Exple<lb ed="#H" n="110" break="no"/>te meum gaudium, ut itidem sitis affecti; eandem charitatem 
+      haben<lb ed="#H" n="111" break="no"/>res, unanimes, &amp; sententiis uni¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e294">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Officium auditorum verbi Dei erga se invicem est. 
+      <lb ed="#H" n="113"/>I. Non deserere congregationes ne quidem tempore 
+      persecutio<lb ed="#H" n="114" break="no"/>num, Hebr. 10. v. 25. 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e305">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>II. Sese mutuo observare &amp; acuere ad charitatem &amp; bona opera. 
+      <lb ed="#H" n="116"/>Hebr. 10. v. 24. 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e314">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>III. Sese mutuo amare &amp; juvare consilio &amp; ope, 1. Tim. 5. v. 17, 18. 
+      <lb ed="#H" n="118"/>Hoc officium praestare tenentur non solum privati homines, sed 
+      <lb ed="#H" n="119"/>magistratibus subditi: sed etiam, &amp; quidem inprimis Magistratur 
+      <lb ed="#H" n="120"/>ipsi, si modo sint Christiani 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e328">
+               <lb ed="#H" n="121"/>
+               <pc type="indent"/>Ex adverso Ecclesia graviter peccat, si aliam religionem, alios 
+      cul<lb ed="#H" n="122" break="no"/>tus Dei postulet &amp; institui sibi velit quam Deus praescripsit, ut 
+      Israe<lb ed="#H" n="123" break="no"/>ditae fecerunt in deserto, Exod. 32. 
+    </p>
+            <p xml:id="yyy8Uu-gxd021-d1e339">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Hactenus de propria Ecclesiastica gubernatione: 
+   sequi<lb ed="#H" n="125" break="no"/>tur de communi. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

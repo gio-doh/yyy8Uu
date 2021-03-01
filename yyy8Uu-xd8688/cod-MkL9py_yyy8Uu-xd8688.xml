@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 14</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 14</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd8688"><!-- l10-c14 -->
+            <head xml:id="yyy8Uu-xd8688-Hd1e103">Caput 14</head>
+            <p xml:id="yyy8Uu-xd8688-d1e106">
+               <lb ed="#H" n="121"/>CAPUT XIV 
+      <lb ed="#H" n="122"/>In quo de sepultura honesta
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e113">
+               <lb ed="#H" n="123"/>PURA PRO MORTUIS est charitas erga illos, per quam 
+      <lb ed="#H" n="124"/>llis praestamus quae verae fidei non repugnant 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e120">
+               <lb ed="#H" n="125"/>
+               <pc type="indent"/>Eaque consistit in sepultura honesta, &amp; voto pro beata 
+      corpo<lb ed="#H" n="126" break="no"/>rum resurrectione. 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e129">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>SEPULTURA honesta, est quum corpora mortua prout decet: 
+      <lb ed="#H" n="128"/>terrae mandantur 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e139">
+               <lb ed="#H" n="129"/>
+               <pc type="indent"/>Et perficitur vel praeeunte combustione corporum vel absque 
+      combu<lb ed="#H" n="130" break="no"/>stione eorum. 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e148">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>Combustio adhibita fuit in sepultura Saulis &amp; filiorum ejus, quo 
+      <lb ed="#H" n="132"/>um corpora Jabeschitae a muro Betschanis ad quem affixa a 
+      Phili<lb ed="#H" n="133" break="no"/>staeis fuerant, ablata combusserunt, tum quia jam dudum soli &amp; 
+      aer<lb ed="#H" n="134" break="no"/>exposita computruerant; tum quia hac ratione prospiciebatur 
+      ne<lb ed="#H" n="135" break="no"/>rursus corpora illa ludibrio exponerentur; deinde demum ossa 
+      sepo<lb ed="#H" n="136" break="no"/>liverunt sub nemore ad Jabeschum, 1. Samuel. cap. 21. versic. 12, 13. 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e166">
+               <lb ed="#H" n="137"/>
+               <pc type="indent"/>Eandem rationem, puta ut ludibriis eximerentur cadavera, 
+      vete<lb ed="#H" n="138" break="no"/>res Gentiles observaverunt; quemadmodum de L. Sylla Dictatore 
+      <lb ed="#H" n="139"/>testantur Tullius lib. 2. de Legibus, Plin. lib. 7. natural. hist. cap. 54. 
+      <lb ed="#H" n="140"/>&amp; Plutarchus. 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e179">
+               <lb ed="#H" n="141"/>
+               <pc type="indent"/>Plerunque autem semper citra combustionem fidelium corpora. 
+      <lb ed="#H" n="142"/>tumulata sunt, atque etiamnum tumulantur? 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e188">
+               <lb ed="#H" n="143"/>
+               <pc type="indent"/>Olim autem corpora aromatibus condiebantur, ut videre est 
+      Ge<lb ed="#H" n="144" break="no"/>nes. 50. idque factum, propter spem resurrectionis. 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e197">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Nobis vero Christianis mos ille condiendi aromatibus corpora 
+      <lb ed="#H" n="146"/>necessarius non est, quia veritatis de resurrectione universali lux 
+      ple<lb ed="#H" n="147" break="no"/>nissima nobis fulget, &amp; certior firmiorque esse debet fides 
+      resurre<lb ed="#H" n="148" break="no"/>ctionis nostrorum corporum ex Christi a mortuis resurrectione, 
+      <lb ed="#H" n="149"/>quam ut illam titibus supervacaneis confirmari oportea. 
+      <lb ed="#H" n="150"/>Sepultura religiosa inter Christianos esse debet &amp; 
+      honesta<lb ed="#H" n="151" break="no"/>I. Quia semper apud vere fideles religiose observata fuit: Sic 
+      <lb ed="#H" n="152"/>enim Abrahamus sepelivit Saram, Genes. 23. Josephus 
+      Arimathae<lb ed="#H" n="153" break="no"/>ensis &amp; Nicodemus Christum, Matth. 26. v. 59, 6c. fideles 
+      Christia<lb ed="#H" n="154" break="no"/>ni Stephanum protomartyrem, Act. 8. 2. 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e224">
+               <lb ed="#H" n="155"/>
+               <pc type="indent"/>II. Ut ne contra humanitatis legem negligantur aut etiam in 
+      <lb ed="#H" n="156"/>festentur corpora defunctorum, quae quum viverent, organa &amp; 
+      tem<lb ed="#H" n="157" break="no"/>pla Spiritus Sancti fuerunt, prima episto: a ad Corinthios cap. 2. vers.  
+      <lb ed="#H" n="158"/>16. &amp; cap. 6. v. 19. 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e237">
+               <lb ed="#H" n="159"/>
+               <pc type="indent"/>III. Ut corpora defunctorum quiescant in sepulcris tanquam  
+      <lb ed="#H" n="160"/>in tabernaculo 
+      <lb ed="#H" n="161"/>OBJICITUR. Matth. 8. v. 22. Christus cu dim discipulorum 
+      suo<lb ed="#H" n="162" break="no"/>rum dicenti, Domine permitte mihi primum abire, &amp; sepelire patrem 
+      <lb ed="#H" n="163"/>meum, ait Sequere me &amp; fine ut mortui sepeliant moriuos suos. Ergo 
+      <lb ed="#H" n="164"/>Christus damnat sepulturae officium 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e255">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>RESP. Christi verba sunt intelligenda &amp;ς E: non damnat enim 
+      <lb ed="#H" n="166"/>sepulturae officium, sed docet eos qui in mando subsidunt, atque ut se 
+      <lb ed="#H" n="167"/>praebeant hominibus morigeros, Deum praetereunt aut deserunt, si¬ 
+      <!--cod-MkL9py-0687.xml-->
+      <pb ed="#H" n="658"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>miles esse mortuis, qui se in habenda mortuorum cura frustra &amp; 
+      inu<lb ed="#H" n="2" break="no"/>tiliter occupant: eos vero qui vocatione vitae instruuntur, caeteras oc 
+      <lb ed="#H" n="3"/>cupationes prae vocatione sua nihili facere oportere. 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e279">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>Locus sepulturae honestus &amp; ab infidelibus sejunctus deligendus, 
+      <lb ed="#H" n="5"/>est citra superstitionem exemplo Abrahami, Isaaci, Jacobi, qui 
+      reli<lb ed="#H" n="6" break="no"/>giose caverunt, ne in sepultura cum infidelibus &amp; idololatris 
+      com<lb ed="#H" n="7" break="no"/>miscerentur: Ideo Jacobus Rachelem non sepelivit in oppido 
+      E<lb ed="#H" n="8" break="no"/>phratha, sed in via ad Ephratham, Genes. 48. 7. 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e295">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>acobus Patriarcha voluit sepeliri in terra promissa, Genes. 49. v. 
+      <lb ed="#H" n="10"/>29. &amp; Josephus in eandem voluit deportari ossa sua Genes 50. v. 25. 
+      <lb ed="#H" n="11"/>sosu. 24. 32. ut hoc pacto suam de Dei promissionibus populo 
+      Israe<lb ed="#H" n="12" break="no"/>litico implendis fidem testarentur, &amp; in eadem fideles alios 
+      confir<lb ed="#H" n="13" break="no"/>marent, Hebr. 11. 22. 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e311">
+               <lb ed="#H" n="14"/>
+               <pc type="indent"/>Sepulcieta Christianorum nuncupantur Graece κοιμητήρια, 
+      Cae<lb ed="#H" n="15" break="no"/>miteria, id est, dormitoria, ubi corpora fidelium resurrectionem ex 
+      <lb ed="#H" n="16"/>spectantia quiescunt: Xι γκοιμῶν, quod est dormire. Dormire ex 
+      <lb ed="#H" n="17"/>nim fideles mortui in Scripturis dicuntur. Johann. cap. 11. versic. 11. 
+      <lb ed="#H" n="18"/>I. Corinth. cap. 11. versicul. 30. 1. Thessaloniens. capite 4. versiculo 
+      <lb ed="#H" n="19"/>13, 14, 15. 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e330">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>Coemiteria Christianorum sunt sacra, non magicis susurris, aut 
+      <lb ed="#H" n="21"/>lustralibus aquis ab Ethnicismo mutuatis consecrata: sed propter 
+      <lb ed="#H" n="22"/>corporum, quae sanguine Christi sunt redemta ac sanctificata, &amp; 
+      Spi<lb ed="#H" n="23" break="no"/>titus Sancti templa fuerunt, dignitatem 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e343">
+               <lb ed="#H" n="24"/>
+               <pc type="indent"/>Vetus Ecclesia Christiana multam reverentiam, ab idololatria &amp; 
+      <lb ed="#H" n="25"/>superstitione remotam, in sepeliendis Christianis adhibuit: 
+      ceremo<lb ed="#H" n="26" break="no"/>nias quasdam ad locorum, temporum, personarum, consideratione 
+      <lb ed="#H" n="27"/>accommodatas adhibuit, ita tamen ut Ecclesiae aliae aliis legem non 
+      <lb ed="#H" n="28"/>praescriberent. 
+    </p>
+            <p xml:id="yyy8Uu-xd8688-d1e359">
+               <lb ed="#H" n="29"/>
+               <pc type="indent"/>Amoveantur ergo omnis idololatriae &amp; superstitionis vestigia: 
+      <lb ed="#H" n="30"/>mortuorum corpora cum Dei timore &amp; mortis accurata piaque 
+      me<lb ed="#H" n="31" break="no"/>ditatione in dormitorio illo recondantur: superstitum juxta 
+      praescri<lb ed="#H" n="32" break="no"/>ptum verbi Dei, cura habeatur  
+      <lb ed="#H" n="33"/>In his omnibus moderatio Christiana adhibenda: nam alioqui  
+      <lb ed="#H" n="34"/>pompa funeris, agmina exequiarum, sumtuosa diligentia sepulturae, 
+      <lb ed="#H" n="35"/>monumentorum opulenta constructio, vivorum sunt qualiacunque 
+      <lb ed="#H" n="36"/>solatia, non adjutoria mortuorum 
+      <lb ed="#H" n="37"/> 
+               <!-- line coord error -->
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

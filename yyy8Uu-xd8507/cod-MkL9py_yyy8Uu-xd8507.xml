@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 64</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 64</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd8507"><!-- l10-c64 -->
+            <head xml:id="yyy8Uu-xd8507-Hd1e103">Caput 64</head>
+            <p xml:id="yyy8Uu-xd8507-d1e106">
+               <lb ed="#H" n="154"/>CAPUT LXIV. 
+      <lb ed="#H" n="155"/>In quo de iusta principatus seu Magistratus 
+      <lb ed="#H" n="156"/>adeptione. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e115">
+               <lb ed="#H" n="157"/>IUSTITIA particularis publica, est quam Magistratus, 
+      tan<lb ed="#H" n="158" break="no"/>quam persona publica ad communem subditorum siatum 
+      feli<lb ed="#H" n="159" break="no"/>I cem &amp; incolumem conservandum exercere debet, pro fine 
+      ulti<lb ed="#H" n="160" break="no"/>mo sibi proponens gloriam Dei a quo omnis potestas est, Psal. 72. 
+      <lb ed="#H" n="161"/>v. 2. 1. Timoth. 2. vers. 2. Jerem. 22. vers. 3. Proverb. 16. v. 12, 13. 
+      <lb ed="#H" n="162"/>Psal. 101. v. 1. Benignitatem &amp; jus eantubo: tibi, o Ichoa, psallam 
+      <lb ed="#H" n="163"/>Neque enim Principatus ipse sinis est, absit, aut altitudo illa &amp; 
+      splen<lb ed="#H" n="164" break="no"/>dor: sed proximus quidem, salus, felicitas &amp; bonum populi; summus 
+      <lb ed="#H" n="165"/>gloria Dei. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e137">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>Justitiae Magistratus studere debet I. quia justitia stabilitur 
+      thro<lb ed="#H" n="167" break="no"/>nus Prov. 16. 12. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e146">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>justitiam princeps in se suisque colat &amp; servet &amp; eandem erga alios 
+      <lb ed="#H" n="169"/>exerceat tum per se tum per administros gubernationis &amp; 
+      domesti<lb ed="#H" n="170" break="no"/>cos suos. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e158">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Eaque versatur tum in Principatus sive Magistratus iusta 
+      adeptio<lb ed="#H" n="172" break="no"/>ne, tum in recta eiusdem administratione 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e167">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Iusta Principatus seu Magistratus adeptio, est quae legibus funda, 
+      <lb ed="#H" n="174"/>mentalibns Reipublicae est congrua. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e176">
+               <lb ed="#H" n="175"/>
+               <pc type="indent"/>Eaque vel electione fit, vel successione haereditaria. 
+      <lb ed="#H" n="176"/>Electio vel di vina est, vel humana. 
+      <lb ed="#H" n="177"/>Electione divina consequuti sunt Principatum populi Dei, Moses 
+      <lb ed="#H" n="178"/>Exod. 3. Iosua. Num. 27. 18. Saul David, Iehu. Nam regna &amp; Reges. 
+      <lb ed="#H" n="179"/>a Deo dantur &amp; ab eodem tolluntur: &amp; causae quaedam mediae, sed 
+      <lb ed="#H" n="180"/>inopiffatae his interveniunt.  
+      <!--cod-MkL9py-0721.xml-->
+      <pb ed="#H" n="692"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Saepe infimi ad regna &amp; Principatus evehuntur a Deo, ut Saul, ut 
+      <lb ed="#H" n="2"/>David, ut Jarobeamus 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e205">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Saepe e vinculis prodeunt ad regnandum, ut dicit Ecclesiastes 
+      car<lb ed="#H" n="4" break="no"/>4. v. 14. Exemplo est Iosephus in AEgypto Genes. 41. Matthias 
+      Cor<lb ed="#H" n="5" break="no"/>vinus rex Ungariae. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e216">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>Electione humana Principatum adeptus est Homri, quem 
+      Israeli<lb ed="#H" n="7" break="no"/>tae regem constituerunt, 1. Reg. 16. Sedechias, quem Nebucadnetzar 
+      <lb ed="#H" n="8"/>Magnus regem constituit loco Jehojacinis 2. Reg. 24. v. 19. Sic Im 
+      <lb ed="#H" n="9"/>peratores solent eligi a septem Electoribus Imperii: Sic eligi 
+      juben<lb ed="#H" n="10" break="no"/>tur Magistratus inferiores Exod. 18. v. 13. &amp; sequentibus 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e232">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Successio haereditaria, est alter modus justae adeptionis Principatus 
+      <lb ed="#H" n="12"/>seu Magistratus, quum quis jure sanguinis seu propinquitatis, vel 
+      vi<lb ed="#H" n="13" break="no"/>ta vel officio necessitate quadam abcunti, succedit: ut Salomon 
+      Da<lb ed="#H" n="14" break="no"/>vidi, Rehabeam Salomoni, Azarjae seu Uizijae, aut, ut communiter 
+      <lb ed="#H" n="15"/>appellatur, Ochoziae lepra percusso quamvis adhuc vivo successit 
+      Io<lb ed="#H" n="16" break="no"/>thamus, 2. Reg. 15. v. 5. &amp; 2. Chron. 16. v. 21. Joachazo filio Josiae 
+      sub<lb ed="#H" n="17" break="no"/>stitutus est Iehojabimus frater, 2. Reg. 23. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e253">
+               <lb ed="#H" n="18"/>
+               <pc type="indent"/>Haec praeferenda est electioni: quia Deus ipse illam praetulit, ut  
+      <lb ed="#H" n="19"/>patet ex constitutione regni Davidis &amp; posterorum ejus, 1. Reg. 11. 
+      <lb ed="#H" n="20"/>86. quia melior tutiorque electione 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e264">
+               <lb ed="#H" n="21"/>
+               <pc type="indent"/>Regem &amp; Principem haereditatio jure succedere in regno &amp; 
+      prin<lb ed="#H" n="22" break="no"/>cipatu est melius &amp; tutius, quam eligi: quod in hunc modum asseritur; 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e273">
+               <lb ed="#H" n="23"/>
+               <pc type="indent"/>Quicquid antoritate divina est probatius, &amp; rationibus praestabilis, 
+      <lb ed="#H" n="24"/>id melius &amp; tutius esse extra controversiam est, 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e282">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Atqui Regem &amp; Principem haereditario jure succedere in 
+      regno<lb ed="#H" n="26"/>&amp; principatu, est autoritate divina probatius, &amp; rationibus 
+      praesta<lb ed="#H" n="27" break="no"/>bilius 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e293">
+               <lb ed="#H" n="28"/>
+               <pc type="indent"/>Ergo Regem &amp; Principem haereditatio jure succedere in regno &amp; 
+      <lb ed="#H" n="29"/>principatu est melius &amp; tutius. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e302">
+               <lb ed="#H" n="30"/>
+               <pc type="indent"/>Major propositio per se patet: Minor est bimembris: utrumque 
+      <lb ed="#H" n="31"/>membrum ordine probabitur.  
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e312">
+               <lb ed="#H" n="32"/>
+               <pc type="indent"/>Successionem haereditariam in regno seu principatu esse autoritate 
+      <lb ed="#H" n="33"/>divina probatiorem, sic ostenditur: 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e321">
+               <lb ed="#H" n="34"/>
+               <pc type="indent"/>Quicquid a Deo ipso in regno &amp; principatu praestantissimo totius 
+      <lb ed="#H" n="35"/>mundi institutum est, id profecto divina voluntate est probatius: 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e330">
+               <lb ed="#H" n="36"/>
+               <pc type="indent"/>Successio haereditatia in regno seu principatu praestantissimo 
+      to<lb ed="#H" n="37" break="no"/>tius mundi instituta est: Ergo successio haereditatia in regno 
+      seu<lb ed="#H" n="38" break="no"/>Principatu est voluntate divina probatior.  
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e341">
+               <lb ed="#H" n="39"/>
+               <pc type="indent"/>Assumtio probatur exemplo regni domus Davidis, in quo ex 
+      de<lb ed="#H" n="40" break="no"/>ereto &amp; instituto Dei fuit haereditaria successio; ut videre est 2. Sam. 
+      <lb ed="#H" n="41"/>7. v. 12, &amp; sequentibus, Psal. 89 30. &amp; Psal. 132. 11, 12. Hoc adeo 
+      cer<lb ed="#H" n="42" break="no"/>tum est, ut Deus Christum etiam Dominum voluerit 
+      haereditatio<lb ed="#H" n="43" break="no"/>jure regnum adire Davidis, Luc. 1. 32, 33. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e357">
+               <lb ed="#H" n="44"/>
+               <pc type="indent"/>Eandem successionem haereditariam in regno seu principatu esse 
+      rati<lb ed="#H" n="45" break="no"/>onibus praestabiliorem, firmatur sequentibus argumentis: 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e366">
+               <lb ed="#H" n="46"/>
+               <pc type="indent"/>I. Quicquid est naturale, id melius est &amp; tutius: Successio 
+      hae<lb ed="#H" n="47" break="no"/>reditaria in principatu est naturalis: Ergo est melior &amp; tutior.  
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e376">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Probatio assumtionis in prima ratione: Quicquid primum in 
+      na<lb ed="#H" n="49" break="no"/>tura fuit, id naturae est convenientius: At haereditatia successio in 
+      <lb ed="#H" n="50"/>gubernatione hominum prima in natura fuit, non electio: Ergo illa 
+      <lb ed="#H" n="51"/>est naturae convenientior, quam electio¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e389">
+               <lb ed="#H" n="52"/>
+               <pc type="indent"/>Assumtio certa est (nam primus homo habuit potestatem 
+      guber<lb ed="#H" n="53" break="no"/>nandi alios homines naturale, &amp; post eum primogenitus, sicut Deus 
+      <lb ed="#H" n="54"/>ad Cajinum dicit de Abele &amp; per consequens de aliis Abele 
+      juniori<lb ed="#H" n="55" break="no"/>bus Gen. 4. v. 7. Erga te est appetitus illius, &amp; tupraees illi. qd. &amp; 
+      na<lb ed="#H" n="56" break="no"/>turae lege, quia junior est te; &amp; animo, quia frater: &amp; vocatione, quia 
+      <lb ed="#H" n="57"/>tibi subjectus, te colit Aber 
+      <lb ed="#H" n="58"/>II. Qualis est Oeconomiae ratio: talis etiam est ratio regni 
+      seu<lb ed="#H" n="59" break="no"/>principatus. At Oeconomiae ratio talis est, ut in ejus gubernatione 
+      <lb ed="#H" n="60"/>successio haereditatia melior &amp; tutior sit: Ergo &amp; regni 
+      principatus<lb ed="#H" n="61" break="no"/>que talis est ratio, ut in ejus gubernatione sucgessio haereditatia 
+      me<lb ed="#H" n="62" break="no"/>lior sit &amp; tutior.  
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e418">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Major probatur e natura comparatorum. Regnum enim set 
+      <lb ed="#H" n="64"/>principatus est imago potestatis patriae. Amor, honor &amp; obedientia. 
+      <lb ed="#H" n="65"/>quam liberi exhibent patri, &amp; quam deinceps omnes juniores 
+      exhi<lb ed="#H" n="66" break="no"/>bent primogenito, est effectus juris naturae cordibus humanis im 
+      <lb ed="#H" n="67"/>pressae: similis ratio est in regno &amp; principatu. Quod sit in familia, id 
+      <lb ed="#H" n="68"/>fit in regno ejusdem naturae, vir unus utrobique imperat, caeteri 
+      na<lb ed="#H" n="69" break="no"/>turali obligatione obediunt. Liberi non eligunt sibi, sed accipiunt  
+      <lb ed="#H" n="70"/>gubernatorem naturalem qui cum tali praerogativa natus est: ita 
+      <lb ed="#H" n="71"/>&amp; illud regnum in quo quis cum praerogativa repudiatus est, ac 
+      <lb ed="#H" n="72"/>naturam propius accedit. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e444">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Minor probatur judicio fidelium &amp; Dei illud approbantis. Nam 
+      <lb ed="#H" n="74"/>Abraham in Oeconomia sua maluit successorem filium, quam 
+      Eli<lb ed="#H" n="75" break="no"/>hezerum Damascenum qui praeerat omnibus quae Abrahamo erant  
+      <lb ed="#H" n="76"/>Gen. 15. 2. Idipsum approbavit Deus v. 4. Iste non erit tuus haeres: sed  
+      <lb ed="#H" n="77"/>qui prodibit e visceribus tuis, is haeres tuus futurus est. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e460">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>III. Quicquid excludit inter regnum, id est melius &amp; tutius: 
+      <lb ed="#H" n="79"/>Successio haereditatia excludit interregnum: Ergo est melior &amp; tutior  
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e469">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>Major probatur: Quicquid tollit competitionem &amp; bellorum 
+      <lb ed="#H" n="81"/>materiem, id est melius ea tutins 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e479">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>At quicquid excludit interregnum, tollit competitionem &amp; 
+      bel<lb ed="#H" n="83" break="no"/>lorum materiem: 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e488">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>Ergo quicquid excludit interregnum, id estmelius &amp; tutius. 
+      <lb ed="#H" n="85"/>Ccrtra si electione populi, constituatur rex vel princeps, saepe 
+      po<lb ed="#H" n="86" break="no"/>puius &amp; regnum dividitur, ut factum quum E a Rex Israelitatum a 
+      <lb ed="#H" n="87"/>Zimri interfectus esset: nam divisus est populus Israeliticus in 
+      par<lb ed="#H" n="88" break="no"/>tes: pars una populi sequebatur Thibnin filium Ginathi ut eum 
+      con<lb ed="#H" n="89" break="no"/>stitueret regem, pars vero altera sequebatur Homrin, 1. Reg. 12. 21. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e506">
+               <lb ed="#H" n="90"/>
+               <pc type="indent"/>IV. Quicquid conjunctam habet charitatem utrimque 
+      majo<lb ed="#H" n="91" break="no"/>tem, &amp; subditorum in principem, &amp; principis in subditos, certo &amp; 
+      ve<lb ed="#H" n="92" break="no"/>teri jure: id melius est &amp; tutius, 
+      <!--cod-MkL9py-0721.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>Successio haereditaria conjunctam habet talem charitatem: 
+      Er<lb ed="#H" n="94" break="no"/>0. Assumtionem probant exempla, AEgyptii, Galli, Scoti, pro tegit, 
+      <lb ed="#H" n="95"/>suis haereditariis, quantumvis infantibus &amp; in cunis adhuc jacentibs 
+      <lb ed="#H" n="96"/>non dubitarunt capita sua periculis certissimis objicere 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e530">
+               <lb ed="#H" n="97"/>
+               <pc type="indent"/>Et principes haereditatii magis amant subditos, quia minus timent, 
+      <lb ed="#H" n="98"/>quia liberis suis conservatos cupiunt: At electivi principes minus 
+      a<lb ed="#H" n="99" break="no"/>mant subditos, quia magis timent se facile destitutum iri ab iis a 
+      qui<lb ed="#H" n="100" break="no"/>bus sunt instituti: quia susque deque ferunt etiamsi una cum ipsis 
+      <lb ed="#H" n="101"/>subditi omnes pereant, ut exemplum Neronis docet, qui optabat se 
+      <lb ed="#H" n="102"/>moriente totum orbem perire. Franciscus I. rex Galliae Anno 1541. 
+      <lb ed="#H" n="103"/>Rupellanis qui seditionem contra officiarios Regis concitarant 
+      ig<lb ed="#H" n="104" break="no"/>hovit, civitati &amp; opib, illorum parcens: Carolus V. Gandavinses ob 
+      <lb ed="#H" n="105"/>similem causam prope perdidit. Ludovicus XII. rex Galliae cum ad 
+      <lb ed="#H" n="106"/>regnum pervenisset noluit ulcisci injurias illatas antea ab iis quijam 
+      <lb ed="#H" n="107"/>facti erant ejus subditi 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e559">
+               <lb ed="#H" n="108"/>
+               <pc type="indent"/>V. Quicquid principatum diuturniorem efficit, id est melius &amp; 
+      <lb ed="#H" n="109"/>tutius: Successio haereditatia principatum diuturniorem efficit. 
+      Er<lb ed="#H" n="110" break="no"/>go: Assumtionem probant exempla: Ut regnum Judaicum in de 
+      <lb ed="#H" n="111"/>mo Davidis, diutius duravit, quam regnum decem tribuum 
+      Israeliti<lb ed="#H" n="112" break="no"/>carum. Regnum Galliae inde ab Hugone Capeto, id est, abAnno 
+      <lb ed="#H" n="113"/>Christi 988. ab una familia pendens perduravit.  
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e577">
+               <lb ed="#H" n="114"/>
+               <pc type="indent"/>De hac observentur Theses sequentes: 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e585">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Thesis I. 
+      <lb ed="#H" n="116"/>Certi legitimique liberi sunt praeferendi incertis seu nothis. Ita 
+      Isa<lb ed="#H" n="117" break="no"/>acus successit Abrahamo, non Ismael, Genes. 21. v. 10. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e596">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Quod si nothi imperium consequantur, magnis calamitatibus 
+      <lb ed="#H" n="119"/>causa praebetur: ut ostendit exemplum Abimelechi, qui Sichemita 
+      <lb ed="#H" n="120"/>rum imperium nactus, omnes fratres uno excepto occidit: sequuia 
+      <lb ed="#H" n="121"/>sunt deinde mutua odia, grassationes &amp; pugnae Abimelechi &amp; 
+      Siche<lb ed="#H" n="122" break="no"/>mitatum, qui illis excisi sunt, ut narratur Jud. 9. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e612">
+               <lb ed="#H" n="123"/>
+               <pc type="indent"/>QUAERITUR, An recte fecerint Gileaditae quod Iephthem filium 
+      <lb ed="#H" n="124"/>nothum Gilhadis praetulerint certis &amp; legitimis filiis? ut legitur 
+      Iu<lb ed="#H" n="125" break="no"/>dic. 11 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e623">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>RESP. Vocationis Jephthae ad principatum autor extra 
+      ordi<lb ed="#H" n="127" break="no"/>nem Deus fuit, ut patet ex sponsione Gileaditatum, quum alioquin 
+      <lb ed="#H" n="128"/>spurii ordinarie functionem publicam in populo Dei obire 
+      neque<lb ed="#H" n="129" break="no"/>ant, ex lege Deuter. 23. vers. 1 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e636">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>Thesis II. 
+      <lb ed="#H" n="131"/>Liberi aetate primi sunt praeserendi caeteris ob dignitatem 
+      primo<lb ed="#H" n="132" break="no"/>geniturae; sicut Isaacus successit Abrahamo, Genes. 25. versicul. 5, 6. 
+      <lb ed="#H" n="133"/>Iehoram filius primogenitus Josaphati successit patri Josaphato, 
+      <lb ed="#H" n="134"/>Chronicor. 21. versicul. 1, 2, 3. nisi Deus ostendat se aetate posteriores 
+      <lb ed="#H" n="135"/>ad Principatum adhiberi velle, ut videre est in exemplo lacobi 
+      Patri<lb ed="#H" n="136" break="no"/>archae in quem Deus transtulit jus primogeniturae Genes. 25. versic 
+      <lb ed="#H" n="137"/>31. &amp; sequentibus: &amp; cap. 27. vers. 31. Item in exemplo Salomonis quo 
+      <lb ed="#H" n="138"/>aetate erat inferior Adonija, 1. Regumi, &amp; 2. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e660">
+               <lb ed="#H" n="139"/>
+               <pc type="indent"/>Thesis III. 
+      <lb ed="#H" n="140"/>Frater interdum succedit fratri, ut Iehoram filius Achabi rex 
+      de<lb ed="#H" n="141" break="no"/>cem tribuum, successit fratri suo Achaxjae, 2. Reg. 1. v. 17. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e672">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>Thesis 1V. 
+      <lb ed="#H" n="143"/>Patruus aut fratris filius interdum succedit, ut Tzidejas sive 
+      Sede<lb ed="#H" n="144" break="no"/>chias Jehojacini, 2. Reg. 24. vers. 19. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e683">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Thesis Vi 
+      <lb ed="#H" n="146"/>Insigne documentum est divinae providentiae, quod interdum 
+      le<lb ed="#H" n="147" break="no"/>itimus haeres principatus e carcere ad regium thronum conscendit, 
+      <lb ed="#H" n="148"/>ut Ludovicus XII. Galliae rex, &amp; Elizabetha Angliae Regina. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e696">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>Justae adeptioni Principatus &amp; Magistratus per electionem 
+      ve<lb ed="#H" n="150" break="no"/>successionem, opponitur injusta ejusdem usurpatio per fraudem vel 
+      <lb ed="#H" n="151"/>vim ex ambitione imperandi manantem, divina providentia sic 
+      ulci<lb ed="#H" n="152" break="no"/>scente peccata hominum. Reges Edomaeorum de quibus Genes. 36. 
+      <lb ed="#H" n="153"/>v. 31. &amp; sequentibus, non jure successionis haereditariae, sed vel electi 
+      <lb ed="#H" n="154"/>one vel tyrannide ad gubernationem pervenerunt. Sic Reges &amp; 
+      <lb ed="#H" n="155"/>Principes tyrannice imperio suo subjecerunt Israelitas ut liber 
+      Judi<lb ed="#H" n="156" break="no"/>cum testatur &amp; caeteri libri historici veteris Testamenti. Abimelech 
+      <lb ed="#H" n="157"/>raude &amp; vi consequutus est principatum Judic. 9. Bahaschavi 
+      occu<lb ed="#H" n="158" break="no"/>pavit regnum decem tribuum, 1. Reg. 15. 27. Item Zimri, 1. Reg. 16. 
+      <lb ed="#H" n="159"/>v. 11. Athalia femina impia mater Achaxjae Regis Judaeae vi regnum 
+      <lb ed="#H" n="160"/>invasit grassata caede in stirpem regiam 2. Reg. 11. Ut Reges decem 
+      <lb ed="#H" n="161"/>tribuum per conspirationem interemtos &amp; propinquos ipsorum 
+      pu<lb ed="#H" n="162" break="no"/>nivit Deus ob ipsorum peccata: ita caedes stirpis regum Judaeae fuit 
+      <lb ed="#H" n="163"/>praemium conjugii Jorami filii Josaphati cum uxore idololanica, 2. 
+      <lb ed="#H" n="164"/>Reg. 8. v. 18, 26. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e735">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Occupantes aliena regna per vim injustam, vicissim iis per vim 
+      <lb ed="#H" n="166"/>privantur, ut Bahasa &amp; Ela filius ejus, I. Reg. 16. 9. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e744">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>e his quaeritur, cur regnum ipsis ademtum cum exstirpatione 
+      toti<lb ed="#H" n="168" break="no"/>us familiae, ob Iarobeam regis domum excisam quum tamen Deus 
+      prae<lb ed="#H" n="169" break="no"/>dixerit per Prophetam Ahijam excisionem totius familiae regiae, 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e755">
+               <lb ed="#H" n="170"/>
+               <pc type="indent"/>RESP. Quia Bahasa in exstirpatione familiae Jarobeami non 
+      <lb ed="#H" n="171"/>Dei voluntatem, sed suam ambitionem spectavit: 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e765">
+               <lb ed="#H" n="172"/>
+               <pc type="indent"/>ustam adeptionem Principatus seu Magistratus polluit injusta 
+      <lb ed="#H" n="173"/>consanguineorum &amp; aliorum procerum caedes. Iehoram rex Judaeae 
+      <lb ed="#H" n="174"/>filius Josaphati fratres suos &amp; aliquos e Principibus Israelis 
+      regni<lb ed="#H" n="175" break="no"/>stabiliendi causa interfecit, 2. Chron. 21. v. 4. 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e778">
+               <lb ed="#H" n="176"/>
+               <pc type="indent"/>Ambitio regni injusta est infelix &amp; ambitiosis perniciosa; ut 
+      ex<lb ed="#H" n="177" break="no"/>empla ostendunt, Schebahi filii Bicri 2. Sam. 20. Bimri 1. Reg. 16. v. 
+      <lb ed="#H" n="178"/>18, 19, 20. Rudolphi Suevi Hentico IV. Imperatori imperium 
+      eri<lb ed="#H" n="179" break="no"/>pere volenti. Henrici Ducis Guisii in Gallia anno Christi 1588. 
+      <!--cod-MkL9py-0722.xml-->
+      <pb ed="#H" n="693"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Imo etiam illi infelices sunt &amp; saepe tragice pereunt, qui jus 
+      haere<lb ed="#H" n="2" break="no"/>ditatium praetendentes, Principatum occupant aut occupare 
+      conan<lb ed="#H" n="3" break="no"/>tur, ut filii, fratres, patrui. Exemplo est Absalomus filius Davidis 2. 
+      <lb ed="#H" n="4"/>Samuelis 18. Adonias ejusdem Davidis filius, qui Salomoni fratre 
+      <lb ed="#H" n="5"/>praeripere regnum conabatur I. Regum 1. &amp; 2. Conradus filius 
+      <lb ed="#H" n="6"/>Henrici IV. Imperatoris conatus patri imperium adimere: 
+      Henri<lb ed="#H" n="7" break="no"/>cus V. Imperator patrem Henricum IV. imperio exuens. Adolphus 
+      <lb ed="#H" n="8"/>Egmondanus aegre ferens patris sui Arnoldi Geldriae Ducis diutur? 
+      <lb ed="#H" n="9"/>num imperium &amp; vitam 
+    </p>
+            <p xml:id="yyy8Uu-xd8507-d1e817">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Hactenus de iusta Principatus seu Magistratus 
+      <lb ed="#H" n="11"/>
+               <pc type="indent"/>adeptione. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

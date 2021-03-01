@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 26</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 26</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd3088"><!-- l10-c26 -->
+            <head xml:id="yyy8Uu-xd3088-Hd1e103">Caput 26</head>
+            <p xml:id="yyy8Uu-xd3088-d1e106">
+               <lb ed="#H" n="51"/>CAPUT XXVI 
+      <lb ed="#H" n="52"/>In quo de Honestate.
+    </p>
+            <p xml:id="yyy8Uu-xd3088-d1e113">
+               <lb ed="#H" n="53"/>PTONESTAS, Graece σεμνοτης est virtus quae versatur tum in 
+      <lb ed="#H" n="54"/>moderando vestitu &amp; cultu &amp; incessu corporis, ne quid in eo 
+      <lb ed="#H" n="55"/>sordidum vel lascivum vel affectatum vel inhonestum 
+      appa<lb ed="#H" n="56" break="no"/>reat, tum in cavendis lascivis ludis &amp; jocis, ut omnia allectamenta ses 
+      <lb ed="#H" n="57"/>incitamenta &amp; occasiones ad illicitae Veneris appetitus amoveantur  
+    </p>
+            <p xml:id="yyy8Uu-xd3088-d1e126">
+               <lb ed="#H" n="58"/>
+               <pc type="indent"/>Virtuti huic studendum: 
+      <lb ed="#H" n="59"/>I. Quia a Deo mandatur, Exod. 20. v. 26. 1. Cor. 11. v. 10. 
+      <lb ed="#H" n="60"/>II. Quia est altera teperantiae famula, &amp; illius velut in animis 
+      no<lb ed="#H" n="61" break="no"/>stris obstetrix. Nam temperaniae praepatat nostros animos; dum 
+      af<lb ed="#H" n="62" break="no"/>fectus rectae rationi contrarios, ex animis nostris evellit jam insitos 
+      <lb ed="#H" n="63"/>aut ne inserantur, obstat &amp; impedit.  
+    </p>
+            <p xml:id="yyy8Uu-xd3088-d1e144">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Honestati opponuntur inhonestas &amp; ζαναυσίη 
+      <lb ed="#H" n="65"/>Inhonestas, Graece ἀσίλγεια, est vitium cum quis ea sibi 
+      permitti<lb ed="#H" n="66" break="no"/>aut facit in vestitu cultuque &amp; incessu corporis &amp; sermonibus 
+      quae<lb ed="#H" n="67" break="no"/>naturali honestati repugnant. Hoc vitio igitur peccatur vel in vestit 
+      <lb ed="#H" n="68"/>&amp; cultus corporis nimio pretio, nitore, forma, ornamentis, mollitie 
+      <lb ed="#H" n="69"/>additione varia fucis praeter decorum sexus aut personae nobis a Deo. 
+      <lb ed="#H" n="70"/>impositae &amp; praeter rationem aetatis, loci, temporis, &amp; aliarum circum. 
+      <lb ed="#H" n="71"/>stantiarum: vel in lascivis ludis &amp; jocis ex studio placendi hominibus. 
+      <lb ed="#H" n="72"/>impudicis. 
+    </p>
+            <p xml:id="yyy8Uu-xd3088-d1e169">
+               <lb ed="#H" n="73"/>
+               <pc type="indent"/>Hujus vitii est si mulier vestem virilem, vir vestem muliebrem 
+      in<lb ed="#H" n="74" break="no"/>duat: si quis fucis pingat faciem, si vir comam studiose alat, si mulier 
+      <lb ed="#H" n="75"/>retecto capite in coetibus sacris compareat:  
+    </p>
+            <p xml:id="yyy8Uu-xd3088-d1e180">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Est studiose fugienda, 
+      <lb ed="#H" n="77"/>I. Quia a Deo prohibita est? 
+      <lb ed="#H" n="78"/>II. Quia illam cavendam etiam Gentiles ipsi statuerunt. Sic 
+      e<lb ed="#H" n="79" break="no"/>nim Romani quoque idololatriae Dialibus suis Flaminicis caverant. 
+      <lb ed="#H" n="80"/>ne scalas nisi quae Graece vocabantur plus tribus gradibus 
+      adscende<lb ed="#H" n="81" break="no"/>rent, teste Gellio lib. 10. cap. 15. 
+      <lb ed="#H" n="82"/>Hucusque de virtute affectuum vehementiorum mode 
+      <lb ed="#H" n="83"/>ratrice: sequitur  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

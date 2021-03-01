@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxd255"><!-- l9-c2 -->
+            <head xml:id="yyy8Uu-gxd255-Hd1e103">Caput 2</head>
+            <p xml:id="yyy8Uu-gxd255-d1e106">
+               <lb ed="#H" n="151"/>CAPUT II. 
+      <lb ed="#H" n="152"/>In quo repugnantia verae religioni exponuntur.
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e113">
+               <lb ed="#H" n="153"/>TIDISSENTANBA religionis verae spectemus: ei opponuntur que 
+      <lb ed="#H" n="154"/>dam ut repugnantia quaedam ut contraria, &amp;c.
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e120">
+               <lb ed="#H" n="155"/>REPUGNANTIA verae religioni multa sunt: Primo nulla plane 
+      <lb ed="#H" n="156"/>vera religio homini animali tribui potest: 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e127">
+               <lb ed="#H" n="157"/>
+               <pc type="indent"/>I. Quia illa cum veritate conjuncta est: hic autem mendax est. 
+      <lb ed="#H" n="158"/>2. Quia vera religio non solum in agnitione Dei posita est, sed 
+      et<lb ed="#H" n="159" break="no"/>iam in ardentissima charitate erga eum, studioque summo ei obedient 
+      <lb ed="#H" n="160"/>di: neutrum autem homini Vυχικῳ competit, 1. Cor. 2. v. 6, &amp; sequ. 
+      Ec<lb ed="#H" n="161" break="no"/>nomine Paulus dicit Gentes fuisse αθεος, serviisse iis qui natura non 
+      <lb ed="#H" n="162"/>sunt Dii, Gal. 4. v. 8 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e146">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>Deinde religio vera non est ἐμπορικη, hoc est, institoria seu 
+      merca<lb ed="#H" n="164" break="no"/>toria, in qua nimirum turpis lucri compendia queruntur, 
+      nundinatio<lb ed="#H" n="165" break="no"/>ne &amp; venditione gratiae divinae, remissionis peccatorum, celi &amp; salutis 
+      e<lb ed="#H" n="166" break="no"/>terne, dignitatum &amp; functionum Ecclesiasticarum, dispensationis de 
+      <lb ed="#H" n="167"/>Lege divina in coniugiis, rerum consecratarum, veluti sphaerularum 
+      pre<lb ed="#H" n="168" break="no"/>catoriarum quib. Deo preces adnumerantur, rosarum autearum, 
+      gla<lb ed="#H" n="169" break="no"/>diorum &amp; pileorum a Papa nocte ac die Nativitatis Domini 
+      conse<lb ed="#H" n="170" break="no"/>cratorum, &amp;c. item reliquiarum &amp; aliarum rerum. 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e168">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>Religio enim nundinatoria est propria seductorum, haereticorum 
+      <lb ed="#H" n="172"/>&amp; Antichristi, Matt. 21. 12, 13. Et introivit Iesus in templum Dei, &amp; 
+      e<lb ed="#H" n="173" break="no"/>jecit omnes qui vendebant, &amp; qui emebant in templo, mensasque numula 
+      <lb ed="#H" n="174"/>riorum, &amp; cathedras vendentium columbas subvertit. Et dixit eis, 
+      Scri<lb ed="#H" n="175" break="no"/>tum est, Domus mea, domus precationis vocabitur: at vos fecistis eam 
+      spe<lb ed="#H" n="176" break="no"/>luncam latronum. Act. 8. v. 18. &amp; seqq. Quum autem conspexisset Simon 
+      <lb ed="#H" n="177"/>per impositionem manuum Apostolorum dari S. S. obtulit eis pecunias, 
+      <lb ed="#H" n="178"/>Dicens, Date etiam mihi potestate istam, ut cuicumque imposuero manus 
+      <lb ed="#H" n="179"/>recipiat Spiritum Sanctum: Petrus autem dixit ei, Pecunia tua: eciu 
+      per<lb ed="#H" n="180" break="no"/>cat, qui donum Dei existimaris pecuntis acquiri: Non est tibi pars neque  
+      <lb ed="#H" n="181"/>sors in hoc negotio: cor enim tuum non est rectum in Dei conspectu. Tit. 1 
+      <lb ed="#H" n="182"/>v. 11. Quibus oportet os obthurare, qui totas domos subvertunt, docentes 
+      <lb ed="#H" n="183"/>quae non oportet, turpis lucri gratia. 2. Pet 2. v3 Et per avaritio fictis ser¬ 
+      <!--cod-MkL9py-0607.xml-->
+      <pb ed="#H" n="578"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>monibus vos negotiabintur, quibus damnatio jam olim non otiatur, &amp;  
+      <lb ed="#H" n="2"/>quorum exitium non dormitat. Apocal. 18. versic.11. &amp; sequentibus 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e212">
+               <lb ed="#H" n="3"/>
+               <pc type="indent"/>Et prohibetur Episcopis Ecclesiae, 1. Tim. 3. v. 3. Oportet 
+      Epr<lb ed="#H" n="4" break="no"/>scopum esse irreprehensum, turpem quaestum facietem, sed aquum, 
+      alie<lb ed="#H" n="5" break="no"/>num abavaritia. Et vers. 8. Diaconos itidem venerandos, non bilingues, 
+      <lb ed="#H" n="6"/>non multo vino addictos, non turpem quaestum facientes. Tit. 1. v. 7. 
+      O<lb ed="#H" n="7" break="no"/>portet Episcopum inculpatum esse, tanquam Dei dispensatorem, non sit 
+      <lb ed="#H" n="8"/>bi pertinaciter placentem, non iracundum, non vinosum, non 
+      percusso<lb ed="#H" n="9" break="no"/>rem, non turpem quaestum facientem, 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e232">
+               <lb ed="#H" n="10"/>
+               <pc type="indent"/>Praeterea vera religio non est apud Philosophos Gentiles quaerer: 
+      <lb ed="#H" n="11"/>da, qui sunt in rebus divinis caeci, Rom. 1. v. 21. &amp; sequentibus: 1. Ce 
+      <lb ed="#H" n="12"/>rinth. 1. vers. 19. &amp; seq. Coloss. 2. vers. 8. Videte nequis sit qui vos 
+      <lb ed="#H" n="13"/>depradetur per philosophiam: &amp; inanem seductionem secundum 
+      tradi<lb ed="#H" n="14" break="no"/>tionem hominum, secundum elementa mundi, &amp; non secundu Christum. 
+      <lb ed="#H" n="15"/>Non habet pro regula ac norma nostram voluntatem aut 
+      intentio<lb ed="#H" n="16" break="no"/>nem bonam: Num. 15. v. 39 recordemini omnium mandatorum 
+      Iehe<lb ed="#H" n="17" break="no"/>vae &amp; faciatis ea, ac non attenta observatione sequamini cor vistrum &amp; 
+      <lb ed="#H" n="18"/>oculos vestros: nec aliorum quamvis multorum exepla: Exod. 32. 
+      mu<lb ed="#H" n="19" break="no"/>ti Lavitae non sequuti sunt exemplum Aaronis, aliorumque Levitarum 
+      <lb ed="#H" n="20"/>&amp; Israelitatum idololatria vituli aurei per cantium, ut videre est Deut, 
+      <lb ed="#H" n="21"/>33 v. 9. Ezech. 44. v, 1. Ruth noluit fratriae suae Horpae exemplum sequi  
+      <lb ed="#H" n="22"/>&amp; religionem Israeliticam relinquere, Ruth. 1. v. 15,16. Et Apostol 
+      <lb ed="#H" n="23"/>Christi noluerunt Christum deserere aliorum multorum exemplo, 
+      <lb ed="#H" n="24"/>Joh. 6. v. 66. 67, 68, 69. 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e269">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>Nec habet pro regula &amp; norma autoritatem atque exempla 
+      Majo<lb ed="#H" n="26" break="no"/>rum Jer. 9. v 14. sequuntur sentertiam animi sui &amp; Baalimos, quod 
+      do<lb ed="#H" n="27" break="no"/>cuerunt ipsos maiores ipserum. Nam Majores potuerunt esse idolola; 
+      <lb ed="#H" n="28"/>trae, sicut ad populum Israeliticum Deus per Iosuam dicit, losuae c. 24. 
+      <lb ed="#H" n="29"/>2. Ultra flumen Euphratem habitabant maiores vestri olim, utpote 
+      The<lb ed="#H" n="30" break="no"/>rach pater Abrahami &amp; pater Nachoris, colebantque deos alienos. 
+      Stepha<lb ed="#H" n="31" break="no"/>nus Hiero Martyr Christi in oratione quae A. 7. describitur, 
+      comme<lb ed="#H" n="32" break="no"/>morat diligenter Patrum quorundam etiam horrenda scelera, ut do 
+      <lb ed="#H" n="33"/>ceat, non temes e acquiescendum esse in Patrum autoritate &amp; 
+      exem<lb ed="#H" n="34" break="no"/>plis. Maiorum proinde quorumvis exemplum in religione non 
+      se<lb ed="#H" n="35" break="no"/>quendum, sed Dei mandatum. Non debet commisceri cum 
+      dog<lb ed="#H" n="36" break="no"/>matib &amp; ceremoniis humano arbitrio excogitatis: sic enim Christu 
+      <lb ed="#H" n="37"/>ait, Matt 15. 9. Frustra me colunt docentes doctrinas quae sunt mandata 
+      <lb ed="#H" n="38"/>hominum: Et Apostolus Heb. 13. v. 9. Doctrinis variis &amp; peregrinis ne 
+      <lb ed="#H" n="39"/>circumferemini. Imo non debet coniungi cum ceremoniis typicis 
+      ab<lb ed="#H" n="40" break="no"/>ipsomet Deo institutis, sed possea veritate in Christo exhibita abroga 
+      <lb ed="#H" n="41"/>tis: sicut Paulus Apostolus ait Heb. 13. v 10. Habemus altare, ex quo 
+      <lb ed="#H" n="42"/>non habent ius edendi qui tabernaculo deserviunt, id est, non possunt,  
+      <lb ed="#H" n="43"/>Christi fieri participes, qui legales ritus obstinate retinent. Non est 
+      <lb ed="#H" n="44"/>aestimanda qualicumque antiquitate &amp; duratione, ne consuetudine qui  
+      <lb ed="#H" n="45"/>tumvis diuturna. Ps. 95. 8, 9, 0. Ezech. 20. 18, 19 Edixi enim filiis 
+      il<lb ed="#H" n="46" break="no"/>lorum in deserto, in statutis patrum vestrorum ne ambuletis, &amp; tura 
+      il<lb ed="#H" n="47" break="no"/>lorum ne observetis: neque stercoreis diis illorum vos polluatis: Ego sum 
+      Io<lb ed="#H" n="48" break="no"/>hova Deus vester, in statutis meis ambulate: &amp; jura mea observate, ad 
+      <lb ed="#H" n="49"/>facite ipsa. Zach. 1. v4. Ne sitis similes maioribus vestris, quibro 
+      proclama<lb ed="#H" n="50" break="no"/>verant Prophetae priores, dicendo, Sic ait Iehova exercituum, revertimini 
+      <lb ed="#H" n="51"/>iam a viis vestris pessimis &amp; ab actionibs vestris pessimis: Non enim au 
+      <lb ed="#H" n="52"/>scultarunt, naque attenderunt ad me, dictum Iehovae. Neque ex 
+      homi<lb ed="#H" n="53" break="no"/>num eam amplectentium &amp; sectantium, aut ad eam deficientium 
+      au<lb ed="#H" n="54" break="no"/>toritate, dignitate, potentia, multitudine, eruditione. Neque ex 
+      felici<lb ed="#H" n="55" break="no"/>ate externa ac temporali, neque ex ubertate &amp; tranquillitate rerum 
+      <lb ed="#H" n="56"/>Eadem non pendet a Romani Pontificis aut sedis Romanae autori 
+      <lb ed="#H" n="57"/>tate, iudicio, testimonio, confirmatione. Neque per Romanorum 
+      <lb ed="#H" n="58"/>duntaxat pontificum, sed etiam aliorum Episcoporum successione. 
+      <lb ed="#H" n="59"/>&amp; consensum olim ostendebatur. Neque ab hominum aliorum 
+      cu<lb ed="#H" n="60" break="no"/>juscunque sint ordinis, dignitatis &amp; status autoritate &amp; approbatione 
+      <lb ed="#H" n="61"/>pendet. Neque eius exercendae potestas &amp; libertas nititur privilegiis 
+      <lb ed="#H" n="62"/>&amp; concessionibs humanis, sed Christi sive Dei solius mandato &amp; aute 
+      <lb ed="#H" n="63"/>ritate, Matt. 10. 7. Iter facientes vero proclamate, dicentes, 
+      Appropin<lb ed="#H" n="64" break="no"/>quavit regnum caelorum. Item v. 23. Quum autem persequentur vos in 
+      <lb ed="#H" n="65"/>ea urbe fugite in aliam, Amen enim dico vobis, nequaquam obieritis ut 
+      <lb ed="#H" n="66"/>bes Israelis quin venerit Filius hominis. Et v. 27. Quod dico vobis in 
+      ten<lb ed="#H" n="67" break="no"/>bris, dicite in luce: &amp; quod in aurem auditis, praedicate in solariis. c. 28. 
+      <lb ed="#H" n="68"/>18, 19. Accedens autem ad eos Iesus, loquutus est eis dicens, Data est mihi 
+      <lb ed="#H" n="69"/>omnis autoritas in caelo &amp; in terra: Profecti ergo docete omnes gentes, 
+      ba<lb ed="#H" n="70" break="no"/>ptizantes eos in nomen Patris &amp; Filij &amp; Spiritus Sancti. Act 5. v. 20. 
+      <lb ed="#H" n="71"/>te, &amp; vos sistentes loquimini populo in templo omnia verba vitae huius. 
+      <lb ed="#H" n="72"/>Et c. 10. v. 42. Mandavit autem nobis ut praedicemus populo, &amp; cum 
+      te<lb ed="#H" n="73" break="no"/>stificatione denunemus eum esse qui definitus sit a Deo tudex vivorum 
+      <lb ed="#H" n="74"/>ac mortuorum. Neque in periculis deserenda aut negligenda, aut 
+      e<lb ed="#H" n="75" break="no"/>ius exercitium intermittendum a piis propter edicta severa Regum. 
+      <lb ed="#H" n="76"/>Principum vel aliorum Magistratuum, Dan. 6. v. 11. Daniel autem 
+      <lb ed="#H" n="77"/>cum cognovisset exaratum esse scriptum illud ingressus est domum suam. 
+      <lb ed="#H" n="78"/>cui fenestrae at ertae erant in caenaculo eius ex adverso Ieruschelem:: &amp; 
+      te<lb ed="#H" n="79" break="no"/>poribus trib. de die ipse procumbens in genua sua orabat &amp; confitebatur 
+      co<lb ed="#H" n="80" break="no"/>ram Deo suo, quemadmodum fecerat antea. Act. 4. v. 18, 19. Itaque voca  
+      <lb ed="#H" n="81"/>is ipsis denunciarunt ne omnino loquerentur neve docerent in nomine. 
+      <lb ed="#H" n="82"/>Iesu. Petrus autem &amp; lohannes respondentes dixerunt eis, An iustum sit 
+      <lb ed="#H" n="83"/>in conspectu Dei vobis potius auscultare quam Deo, judicate. Et cap. 5. v 
+      <lb ed="#H" n="84"/>28. 29. Nonne etiam atque etiam demandavimus vobis ne doceretis 
+      no<lb ed="#H" n="85" break="no"/>mine isto? &amp; ecce, replevistis Hierosolymam doctrina vestra, &amp; vultis i1 
+      <lb ed="#H" n="86"/>nos inducere sanguinem hominis istius. Respondens autem Petrus &amp; A 
+      <lb ed="#H" n="87"/>postoli dixeruns, obedire oportet Deo potius quam hominibus. Ita enim 
+      <lb ed="#H" n="88"/>Deus imperat, ratio suadet, exempla proba firmant. Mandatum Dei 
+      <lb ed="#H" n="89"/>est Matt. 10 v. 26, 27. Ne eos timete: uthil enim est opertum quod non sit 
+      <lb ed="#H" n="90"/>ret, gendum, &amp; athil occultum quod non sit cognoscendum. Quod dice 
+      <lb ed="#H" n="91"/>vobis in tenebris, dicite in luces &amp; quod in aurem auditis, praedicate in 
+      so<lb ed="#H" n="92" break="no"/>lariu. Et 2. 28. v. 19. Do, ete omnes geutes. Marci 10. v. 15. praedicute Ev. 
+      <!--cod-MkL9py-0607.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="93"/>angelium omni creaturae, Heb. 10, 25 Non deserentes aggregationem 
+      no<lb ed="#H" n="94" break="no"/>tri mutuam, sicuti est mos quibusdam, sed adhortantes alij alios 
+      <lb ed="#H" n="95"/>Ratio est, quia quicquid eo facit, ne in Deum, in naturam, in 
+      religio<lb ed="#H" n="96" break="no"/>nem veram, in patriam &amp; gentem nostram in nos ipsos, &amp; in 
+      liberta<lb ed="#H" n="97" break="no"/>em publicam Ecclesiae peccemus: id nequaquam ob interdicta 
+      pote<lb ed="#H" n="98" break="no"/>tum intermittendum. At religionis verae exercitium eo facit? 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e438">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Erga Deum enim religionis verae exercitio officium fieri oportes 
+      <lb ed="#H" n="100"/>re constat ex reipsa &amp; ex contrari¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e448">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Ex reipsa. quia omnes sciunt Dei cultum rebus omnibus 
+      antepo<lb ed="#H" n="102" break="no"/>nendum esse: unde fuit vetus illud adagium, Us QUe ADARAS 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e457">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Ex contrario: quia impium est &amp; in Deum opinione etiam Gentii. 
+      <lb ed="#H" n="104"/>contumeliosissimum verae Religionis exercitium vetare: impiis aute 
+      <lb ed="#H" n="105"/>mandatis ne specie quidem, pia &amp; proba mens assentiri debet. 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e468">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>Erga naturam religionis verae exercitio officium faciendum: quia 
+      <lb ed="#H" n="107"/>illud ipsum officium jnris naturalis est, quod ius naturale non 
+      homi<lb ed="#H" n="108" break="no"/>nes genuerunt, sed hominibus natura ingeneravit, eosque tantisper 
+      <lb ed="#H" n="109"/>obstrictos tenet, dum in rerum natura sum 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e481">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Propter ipsam religionem veram praestandum hoc officium: quia 
+      <lb ed="#H" n="111"/>praeter illum religionis naturalem sensum imbuti sunt Christiani 
+      jure<lb ed="#H" n="112" break="no"/>supernaturali gratiae. quo jure tam obstringuntur singuli pii in 
+      consci<lb ed="#H" n="113" break="no"/>entia, qua conscientia pui sunt, quam obstringuntur singuli homines 
+      <lb ed="#H" n="114"/>in natura sua qua homines sunt.  
+      <lb ed="#H" n="115"/>Propter patriam &amp; genteni nostram officium hoc praestandum: quia 
+      <lb ed="#H" n="116"/>patriae &amp; gentis nostrae praecipuum ornamentum &amp; decus est vera 
+      <lb ed="#H" n="117"/>religio, ac proinde ad hanc conservandam exemplo praelucendum 
+      po<lb ed="#H" n="118" break="no"/>pularibus, etiamsi certum dignitatis, facultatum &amp; vitae 
+      discrimen<lb ed="#H" n="119" break="no"/>subeundum foret. Propter nos ipsos officium hoc faciendum: quia 
+      <lb ed="#H" n="120"/>etsi quantum ad corpus &amp; vitam praesentem attinet expedire videatur. 
+      <lb ed="#H" n="121"/>si interdicto religionis parcatur: tamen nos docet conscientia id 
+      ma<lb ed="#H" n="122" break="no"/>is expedire, quod Deo, naturae, religioni ipsi, patriae &amp; saluti aeternae 
+      <lb ed="#H" n="123"/>animarum nostrarum debemus. Propter libertatem publicam 
+      Ec<lb ed="#H" n="124" break="no"/>clesiae praestandum hoc officium: quia non est praeiudicandum aliis 
+      fi<lb ed="#H" n="125" break="no"/>delibus ubicunque terrarum versantur: qui exemplo nostro si impie 
+      <lb ed="#H" n="126"/>edicto pareamus, oppugnari, urgeri, premi &amp; opprimi possent: nec 
+      li<lb ed="#H" n="127" break="no"/>bertas Christiana in bonum commune data, servituti impiae in malum 
+      <lb ed="#H" n="128"/>subiicienda. Etsi Ecclesia Christi partibs in multa &amp; diversa loca 
+      distri<lb ed="#H" n="129" break="no"/>buta sit, uno tamen Spiritu fovetur, una charitatis &amp; libertatis 
+      consci<lb ed="#H" n="130" break="no"/>entiarum lege continetur. Quapropter religionis verae exercitium 
+      <lb ed="#H" n="131"/>ob interdicta Regum, Principum, aliorumve Magistratuum 
+      neuti<lb ed="#H" n="132" break="no"/>quam intermittendum. Exempla eaque proba idem firmant. Socii 
+      Da<lb ed="#H" n="133" break="no"/>nielis Schadrach, Meschach &amp; Abednego perseveratunt in religione 
+      <lb ed="#H" n="134"/>vera eiusque confessione, contemto edicto Nebucadnetzaris Magne 
+      <lb ed="#H" n="135"/>Daniel 3. DANIEI. Propheta perrexit quotidie in precibus ad Deum 
+      <lb ed="#H" n="136"/>ehovam habendis, non curato edicto regio quo invocatio DEI ad 
+      <lb ed="#H" n="137"/>dies triginta vetita fuerat Dan. 6. Apostoli &amp; alii fideles Christiani 
+      <lb ed="#H" n="138"/>continuarunt in templo Ierosolymitano conventus ad docendum &amp; 
+      <lb ed="#H" n="139"/>audiendum Evangelium Iesu Christi contra interdictum summorum 
+      <lb ed="#H" n="140"/>nontificum, primorum &amp; Seniorum populi Iudaici, Act. 4. &amp; 5. 
+      Ca<lb ed="#H" n="141" break="no"/>holici in civitate Edessa non intermiserunt congregationes sacras 
+      <lb ed="#H" n="142"/>namvis Imperator Valens eas severissime prohibuisset, ut refert 
+      <lb ed="#H" n="143"/>Theodoretus Historiae Ecclesiasticae lib. 4. c. 16. 
+      <lb ed="#H" n="144"/>Quin ne Gentiles quidem in periculis religionem suam, quae tamen 
+      <lb ed="#H" n="145"/>falsa erat, negligendam censuerunt: ut exemplum ostendit OEABIL. 
+      <lb ed="#H" n="146"/>obsessis Romanis in arce Capitolina a Gallis: &amp; PAUSANIAE 
+      Spar<lb ed="#H" n="147" break="no"/>anorum Regis in pugna nobili ad Plataeas cum Petsis. Quanto 
+      mi<lb ed="#H" n="148" break="no"/>nus igitur vera religio negligenda, 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e570">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>Insuper religio vera non formidat homines quantumvis potentes 
+      <lb ed="#H" n="150"/>&amp; crudeles, Matt 10. v. 28. Ne metuite vobis ab iis qui interimunt 
+      cor<lb ed="#H" n="151" break="no"/>jus, animam autem non possunt interimere: sed metuite potius eum 
+      qui<lb ed="#H" n="152" break="no"/>potest animam &amp; corpus perdere in gehenna. 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e583">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Non debet mutari a quoquam regum &amp; Principum, nec a 
+      Conci<lb ed="#H" n="154" break="no"/>liis ullis, imo nec a toto genere humano, imo ne quidem ab Angelis 
+      <lb ed="#H" n="155"/>Sal. 1. v. 8. 9. Sed etiam si nos aut Angelus e caelo evangelixet vobis 
+      prae<lb ed="#H" n="156" break="no"/>ter id quod vobis Evangelizavimus, anathema esto. Vt ante diximus, et 
+      <lb ed="#H" n="157"/>iam nunc iterum dico: Si quis vobis evangelizaverit praeter id quod 
+      <lb ed="#H" n="158"/>accepistis, anathema esto. Non potest impediri humana autoritate, 
+      <lb ed="#H" n="159"/>edictis, potentia, astu, sicut Christus ait Matt. 10. v 26. Itaque ne ipsos 
+      me<lb ed="#H" n="160" break="no"/>tuite: Nihil enim est opertum quod non detegatur, &amp; nihil occulti quod 
+      <lb ed="#H" n="161"/>non innotescat. Act. 4. v. 18 &amp; 19. &amp; c. 5. v. 25. 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e608">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Non potest consistere cum hypocrisi &amp; falsitate, quibro in religione 
+      <lb ed="#H" n="163"/>nililest exsecrabilius, Ps. 32 v. 2. Beatus homo, cui non imputat Iehova 
+      <lb ed="#H" n="164"/>benignitate, &amp; cuius spiritui non inest dolus, Matt. vigesimotertio, ver 
+      <lb ed="#H" n="165"/>siculo decimotertio. Vae vobis Scribae &amp; Pharisaei hypocritae, quoniam 
+      <lb ed="#H" n="166"/>exeditis domos viduarum, idque in speciem utentes longis precibus: 
+      pro<lb ed="#H" n="167" break="no"/>pterea auferetis graviorem condemnationem. 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e626">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>Non est inconstans 
+      <lb ed="#H" n="169"/>Non est in multas sectas dissecta: quia est unica. Si 
+      accre<lb ed="#H" n="170" break="no"/>scunt sectae, eae non sunt de religione. Adventitia sunt vitia haec  
+      <lb ed="#H" n="171"/>non innata bona. Quanquam catachresi quadam fectae vocentur  
+      <lb ed="#H" n="172"/>vulgo religiones 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e642">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Nobis vero liberum &amp; fas non est quamcunque velimus 
+      religio<lb ed="#H" n="174" break="no"/>nem amplecti: sed illa tantum amplectenda quae nobis a Deo manda, 
+      <lb ed="#H" n="175"/>a est &amp; in Scripturis Sanctis praescripta. 
+      <lb ed="#H" n="176"/>Religio vera non est hostis ullius regiminis legitimi &amp; 
+      divini<lb ed="#H" n="177" break="no"/>tus instituti, ac proinde nec Monarchiae, quam nequaquam tollit,  
+      <lb ed="#H" n="178"/>sed potius stabiit, ut testatur Paulus Romanorum decimotertio, 
+      ver<lb ed="#H" n="179" break="no"/>siculo primo &amp; sequentibus &amp; Petrus priori epistola secundo, 
+      verfi<lb ed="#H" n="180" break="no"/>culo decimotertio, decimoquarto, &amp; ostendit exemplum Monarchis 
+    </p>
+            <p xml:id="yyy8Uu-gxd255-d1e664">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>Dauidis, Salomonis, Ezechiae, Iosiae, Constantini Magni, 
+      <lb ed="#H" n="182"/>Theodosii Magni 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

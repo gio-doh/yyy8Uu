@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 34</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 34</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-gxz843"><!-- l6-c34 -->
+            <head xml:id="yyy8Uu-gxz843-Hd1e103">Caput 34</head>
+            <p xml:id="yyy8Uu-gxz843-d1e106">
+               <lb ed="#H" n="81"/>CAPUT XXXIV. 
+      <lb ed="#H" n="82"/>In quo de donatione Spiritus Sanctis
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e113">
+               <lb ed="#H" n="83"/>APITA (sive articuli) federis duo sunt: Unum ex parte Dei, 
+      <lb ed="#H" n="84"/>alterum ex nostra parte, Psal. 110. 3. 
+      <lb ed="#H" n="85"/>
+               <!-- line cord error -->
+            </p>
+            <p xml:id="yyy8Uu-gxz843-d1e124">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Ex parte Dei est gratuita promissio, qua DEUS nobis pollis 
+      <lb ed="#H" n="87"/>cetur SE DEUM NOSTRUM IORE, nempe citra omne nostrum 
+      me<lb ed="#H" n="88" break="no"/>ritum, tantum propter Christum Dominum. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e135">
+               <lb ed="#H" n="89"/>
+               <pc type="indent"/>Promissio verbis brevissima, at sensu amtlissima 
+      <lb ed="#H" n="90"/>Hac enim comprehenduntur omnes quae in Scripturis divinis 
+      <!--cod-MkL9py-0478.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>sparsae sunt promissiones de beatitudine tum temporaria, tum 
+      sem<lb ed="#H" n="92" break="no"/>piterna. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e154">
+               <lb ed="#H" n="93"/>
+               <pc type="indent"/>Proinde ubi DEUS dicit, se fore nostrum DEUM, perinde est ac si 
+      <lb ed="#H" n="94"/>diceret, se fore nostrum summum bonum, se non tantum in hac vita 
+      <lb ed="#H" n="95"/> 
+            </p>
+            <p xml:id="yyy8Uu-gxz843-d1e165">
+               <lb ed="#H" n="96"/>
+               <pc type="indent"/>Ergo bona quae Deus federatis suis promittit, sunt duplicia: prin 
+      <lb ed="#H" n="97"/>cipalia &amp; accessoria. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e174">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>Principalia, sunt beneficia ad caelestem aeternamque vitam 
+      pertine<lb ed="#H" n="99"/> 
+               <lb ed="#H" n="100"/> 
+            </p>
+            <p xml:id="yyy8Uu-gxz843-d1e185">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>Eaque sunt; donatio Spiritus Sancti, commurio sanctorum, 
+      conserua<lb ed="#H" n="102" break="no"/>tio in hac communione, &amp; donatio vitae aeternae. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e194">
+               <lb ed="#H" n="103"/>
+               <pc type="indent"/>Donatio Spiritus Sancti, est beneficium Dei, per quod nobis 
+      con<lb ed="#H" n="104" break="no"/>fert Spiritum Sanctum, qui nos Christi &amp; omnium beneficiorum 
+      e<lb ed="#H" n="105" break="no"/>us participes faciat, Act. 2. Heb. 12. 26. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e205">
+               <lb ed="#H" n="106"/>
+               <pc type="indent"/>opiritus Sanctus mittitur a Patre per Filium Act. 2. 33. &amp; venit il 
+      <lb ed="#H" n="107"/>
+      i<lb ed="#H" n="108" break="no"/>b 
+      <lb ed="#H" n="109"/>i 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e219">
+               <lb ed="#H" n="110"/>
+               <pc type="indent"/>Spiritus Sanctus donatur gratis: &amp; ut verbis Cypriani utar: Vt 
+      spo<lb ed="#H" n="111"/> 
+               <lb ed="#H" n="112"/> 
+            </p>
+            <p xml:id="yyy8Uu-gxz843-d1e230">
+               <lb ed="#H" n="113"/>
+               <pc type="indent"/>Cognitionis Spiritus Sancti duae sunt partes: Prima, personae 
+      Spi<lb ed="#H" n="114" break="no"/>titus Sancti, secunda, officii ipsius 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e239">
+               <lb ed="#H" n="115"/>
+               <pc type="indent"/>Si personam ejus spectes, est verus Deus ab aeterno exsistens, unus 
+      <lb ed="#H" n="116"/> 
+               <lb ed="#H" n="117"/>Marc. 16. 1. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e250">
+               <lb ed="#H" n="118"/>
+               <pc type="indent"/>Officium vero Spiritus Sancti est quod per eum Pater &amp; Filius 
+      <lb ed="#H" n="119"/>virtutem suam exserunt &amp; suae voluntatis decreta exsequuntur in 
+      <lb ed="#H" n="120"/>creandis, sustentandis &amp; movendis rebus omnibus: praecipue 
+      ve<lb ed="#H" n="121" break="no"/>ro in movendis cordibus audientium Verbum Dei, &amp; docendis 
+      do<lb ed="#H" n="122"/> 
+               <lb ed="#H" n="123"/> 
+            </p>
+            <p xml:id="yyy8Uu-gxz843-d1e268">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>Spiritus Sanctus est doctor veritatis, Dei villicus, Christi 
+      vicari<lb ed="#H" n="125" break="no"/>us, vicaria vis a Christo missa, ut loquitur Tertullianus libro de 
+      Prae<lb ed="#H" n="126" break="no"/>scriptionibus adversus haereticos, c. 13. &amp; 28. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e279">
+               <lb ed="#H" n="127"/>
+               <pc type="indent"/>Effecta Spiritus Sancti sunt duplicia: alia enim efficit in mundo, 
+      <lb ed="#H" n="128"/>hoc est, nondum regenitis; alia in Ecclesia, hoc est, hominibus 
+      rege<lb ed="#H" n="129" break="no"/>neratis, Joh. 16. v. 8 &amp; seqq 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e291">
+               <lb ed="#H" n="130"/>
+               <pc type="indent"/>Effecta quae in mundo efficit sunt aliquot: 
+      <lb ed="#H" n="131"/>rimum est: arguere mundum de peccato. eo quod non credunt in 
+      <lb ed="#H" n="132"/>Christum. Joh.168. Arguere, est convincere adversarium 
+      argumen<lb ed="#H" n="133" break="no"/>is, &amp; ita causam de qua agitur contra illum obtinere. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e304">
+               <lb ed="#H" n="134"/>
+               <pc type="indent"/>Arguit autem Spiritus Sanctus mundum de peccato duobus 
+      mo<lb ed="#H" n="135" break="no"/>dis. Primo enim Judaeos, a quibus fuit rejectus &amp; in crucem actus 
+      <lb ed="#H" n="136"/>Christus, manifeste convicit festo Pentecostes &amp; deinceps, eos 
+      gra<lb ed="#H" n="137" break="no"/>viter peccasse, quod in Jesum illum non crediderint, sed illum 
+      oc<lb ed="#H" n="138" break="no"/>ciderint, in quem credere debuissent, tanquam in promissum 
+      il<lb ed="#H" n="139" break="no"/>um Servatorem Mundi. Unde Actor. 2. vers. 37. Judaei convicti 
+      <lb ed="#H" n="140"/>de suo peccato, dicunt: Quid faciemus viri fratres? Deinde &amp; quosvit 
+      <lb ed="#H" n="141"/>alios peccati convincit. Incredulitatem autem solam 
+      nomina<lb ed="#H" n="142" break="no"/>Christus, quia hac manente, caetera peccata quoque detinentur: &amp; hac 
+      <lb ed="#H" n="143"/>emissa, caetera quoque remittuntur. Nam ubi est vera fides in 
+      Chri<lb ed="#H" n="144" break="no"/>stum: ibi est omnium peccatorum remissio¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e333">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Secundum effectum Spiritus Sancti in mundo est, arguere 
+      mun<lb ed="#H" n="146"/> 
+               <lb ed="#H" n="147"/>conspiciendus sit. Hoc autem fecit, quum demonstravit &amp; 
+      confir<lb ed="#H" n="148" break="no"/>navit justitiam &amp; innocentiam Christi. Quum enim mundus 
+      vi<lb ed="#H" n="149" break="no"/>deret effusum per Christum Spiritum Sanctum, potenter opus 
+      <lb ed="#H" n="150"/> 
+               <lb ed="#H" n="151"/>nnocentem, injuste &amp; inique tanquam impium &amp; blasphemum 
+      <lb ed="#H" n="152"/> 
+               <lb ed="#H" n="153"/> 
+               <lb ed="#H" n="154"/>Deo Patre, sed ab eo dilectum &amp; dextera ejus sursum sublatum i1 
+      <lb ed="#H" n="155"/>caelum, in quod nemo jus ingrediendi habet, nisi justus. Cognovit 
+      <lb ed="#H" n="156"/>esum illum Sanctum &amp; innocentem passum &amp; mortuum, 
+      sempiter<lb ed="#H" n="157" break="no"/>nam justitiam in mundum adduxisse, Daniel. 9. vers 24. quam quis¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e366">
+               <lb ed="#H" n="158"/>
+               <pc type="indent"/>uis non apprehendit, sed ex operibus Legis justitiam sectatur, ad 
+      <lb ed="#H" n="159"/>Legem justitiae non pervenit, nec Christum videt per fidem quam 
+      so<lb ed="#H" n="160" break="no"/>lam servamur; nec visurus est, donec venturus est in gloria &amp; majestatie 
+      <lb ed="#H" n="161"/>Patris sui ad judicium, &amp; videbunt eum plangentes qui transfixerunt. 
+      <lb ed="#H" n="162"/>ipsum. Joh. 19. 37. Semel oblatus est in seipso ut attolleret multorum 
+      <lb ed="#H" n="163"/>peccata, secundo absque peccato conspicietur iis qui ipsum exspectant ad 
+      <lb ed="#H" n="164"/>salutem, Heb 9 v. 28. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e386">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>Tertium effectum Spiritus Sancti in mundo est, arguere mundum 
+      <lb ed="#H" n="166"/>de judicio, eo quod princeps huius mundi iudicatus est. Hoc 
+      prae<lb ed="#H" n="167" break="no"/>stitit Spiritus Sanctus, quum convicit mundum, Christum esse 
+      ju<lb ed="#H" n="168" break="no"/>dicem illum potentia instructum insuperabili, qui diabolum 
+      prin<lb ed="#H" n="169" break="no"/>cipem hujus mundi una cum omnibus administris ipsius devici: 
+      <lb ed="#H" n="170"/>&amp; damnavit: Christo datum esse omne judicium, hoc est, omnem 
+      <lb ed="#H" n="171"/>in caelo &amp; in terra potestatem, quam diabolum superatum &amp; 
+      conde<lb ed="#H" n="172" break="no"/>mnatum ejecit foras e cordibus hominum, in quibus ipse regnum 
+      <lb ed="#H" n="173"/>erexit &amp; obtinet. Loca huc pertinentia. Johan. 12. vers. 31. Nunc 
+      iudi<lb ed="#H" n="174" break="no"/>cium adest mundi huius: nunc princeps ille mundi huius eiicietur 
+      fo<lb ed="#H" n="175" break="no"/>ras. Et cap. 14. v. 30. Venit princeps mundi huius, sed in me non habet. 
+      <lb ed="#H" n="176"/>quicquam. Coloss. 2. v. 15. Exspoliata imperia ac potestates traduxit.  
+      <lb ed="#H" n="177"/>pala n, triumphatis illis per eam. (nimirum crucem, quae fuit instar 
+      <lb ed="#H" n="178"/>triumphalis currus. 
+      <lb ed="#H" n="179"/>Ergo diabolus salutem aeternam nobis cripere non potest: ergo 
+      <lb ed="#H" n="180"/>nos sibi subjicere &amp; mancipare nequit. Judicium quo princeps hujus 
+      <lb ed="#H" n="181"/>mundi judicatus est, nostra est ab solutio.  
+      <!--cod-MkL9py-0479.xml-->
+      <pb ed="#H" n="452"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>Haec effecta sunt quae Spiritus Sanctus in mun¬ 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e436">
+               <lb ed="#H" n="2"/>
+               <pc type="indent"/>do operatur.  
+      <lb ed="#H" n="3"/>Effecta quae idem operatus est atque etiamnum operatur in 
+      Eccle<lb ed="#H" n="4" break="no"/>sia haec sunt:  
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e448">
+               <lb ed="#H" n="5"/>
+               <pc type="indent"/>Primum est, docere intus veritatem Evangelii, eamque electis Dei 
+      <lb ed="#H" n="6"/>patefacere plene &amp; sufficienter ad salutem aeternam. Hoc a Christo 
+      <lb ed="#H" n="7"/>promissum fuit Joh. 16. 12, 13. his verbis: Adhuc multa habeo quae 
+      vo<lb ed="#H" n="8" break="no"/>bis dicam, sed nunc non potestis portare. Quum autem venerit ille, id est; 
+      <lb ed="#H" n="9"/>Spiritus ille veritatis, introducetvos in omnem veritatem: non enim 
+      lo<lb ed="#H" n="10" break="no"/>quetur a semetipso, sed quaecunque audierit, loquetur 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e466">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Promissa est introductio in omnem veritatem, hoc est, plenissimae 
+      <lb ed="#H" n="12"/>perfectissima revelatio doctrinae Evangelii. Haec enim doctrina 
+      Ev<lb ed="#H" n="13" break="no"/>angelii appellatur o λόγος τῆς ἀληθειας, sermo ille veritatis, Ephes. 1. 
+      <lb ed="#H" n="14"/>vers. 13. Coloss. 1. v. 5. &amp; veritas, 2. Thess 2. v. 12. 1. Tim. 2. v. 4. Tit. 1. 
+      <lb ed="#H" n="15"/>v. 1. &amp; passim. Ea plenissime revelata fuit Apostolis post missionem &amp; 
+      <lb ed="#H" n="16"/>effusionem Spiritus Sancti e caelis in eos. Cum hoc videtur pugnare 
+      <lb ed="#H" n="17"/>quod Apostolus Paulus scribit I. Cor. 13. v. 8. &amp; seq q. Charitas 
+      nun<lb ed="#H" n="18" break="no"/>quam excidit: sed &amp; Prophetiae evanescent, &amp; linguae cessabunt, &amp; 
+      co<lb ed="#H" n="19" break="no"/>nitio abolebitur. Ex parte enim cognoscimus, &amp; ex parte prophetamus 
+      <lb ed="#H" n="20"/>Postquam autem advenerit quod perfectum est, tunc quod est aliqua 
+      <lb ed="#H" n="21"/>tenus abolebitur. Quum essem infans, ut infans loquebar, ut infans 
+      sa<lb ed="#H" n="22" break="no"/>piebam, ut infans ratiocinabar: postquam autem factus sum vir, ut eo 
+      <lb ed="#H" n="23"/>vanida sustuli quae infantis erant. Videmus enim nunc per speculum &amp; 
+      <lb ed="#H" n="24"/>aenigma, tum autem coram cernemus: nunc cognosco aliquatenus, tunc 
+      <lb ed="#H" n="25"/>vero amplius cognoscam prout ampliore cognoscendi facultate donatu 
+      <lb ed="#H" n="26"/>fuero Nam hinc ita colligi posse videtur: 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e505">
+               <lb ed="#H" n="27"/>
+               <pc type="indent"/>Qui ex parte cognoverunt &amp; ex parte prophetarunt, ii non sunt 
+      in<lb ed="#H" n="28" break="no"/>troducti in omnem veritatem: Atqui Apostoli ex parte cognoverumt. 
+      <lb ed="#H" n="29"/>&amp; ex parte prophetarunt, sicut Paulus de se &amp; aliis ait in prima 
+      per<lb ed="#H" n="30" break="no"/>sona, ex parte cognoscimus, ex parte prophetamus: Et mox etiam 
+      singu<lb ed="#H" n="31" break="no"/>lariter de se ait; nunc cognosco aliquatenus, tunc vero amplius 
+      cognorca<lb ed="#H" n="32" break="no"/>prout ampliore cognoscendi facultate donatus fuero. Ergo Apostoli non 
+      <lb ed="#H" n="33"/>sunt introducti in omnem veritatem: Ergo promissio Christi non est? 
+      <lb ed="#H" n="34"/>ipsis praestita. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e527">
+               <lb ed="#H" n="35"/>
+               <pc type="indent"/>RESP. Primo, Major est inconsequens ab accidente ad 
+      substanti<lb ed="#H" n="36" break="no"/>am. Non sequitur si accidens sit imperfectum, etiam substantiam est, 
+      <lb ed="#H" n="37"/>imperfectam: ut imperfecta est Dei cognitio in nobis, sed num 
+      pro<lb ed="#H" n="38" break="no"/>pterea imperfectus est Deus qui cognoscitur? sic si imperfecta est in 
+      <lb ed="#H" n="39"/>nobis cognitio &amp; prophetia seu explicatio Evangelii; num continuo 
+      <lb ed="#H" n="40"/>Evangelium imperfectum censendum erit? 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e545">
+               <lb ed="#H" n="41"/>
+               <pc type="indent"/>Deinde, Minor laborat fallacia a dicto secundum quid: Nam 
+      Apos<lb ed="#H" n="42" break="no"/>Paulus loco citato non simpliciter agit de cognitione Evangelii, sed  
+      <lb ed="#H" n="43"/>conparate, comparans nimirum cognitionem quae in hac vita est cum 
+      <lb ed="#H" n="44"/>illa quae post hanc vitam erit Apostolorum cognitio, qua in hac vit:. 
+      <lb ed="#H" n="45"/>donati fuerunt cum aliorum fidelium cognitione, quae in hanc iti 
+      <lb ed="#H" n="46"/>dem vitam cadit comparata, fuit perfecta, absoluta, integra: Eadem 
+      <lb ed="#H" n="47"/>tamen si cum cognitione illa, quam in caelis post hanc vitam itidem 
+      <lb ed="#H" n="48"/>Apostoli adepturi sunt comparetur, si gradus &amp; amplitudinem 
+      spe<lb ed="#H" n="49" break="no"/>ctes, est illustrior, amplior, excelletior: Proinde recte Apostolus 
+      Pau<lb ed="#H" n="50" break="no"/>lus, ut de aliis fidelibus, ita de se &amp; aliis Apoitolis dixit; Ex parte cog. 
+      <lb ed="#H" n="51"/>noscimus &amp; ex parte prophetamus. Quapropter non continuo se 
+      <lb ed="#H" n="52"/>quitur, illos non esse introductos in omnem veritatem: 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e576">
+               <lb ed="#H" n="53"/>
+               <pc type="indent"/>Tertio, promissio etiam Joh. 16. facta intelligi debet secundum 
+      <lb ed="#H" n="54"/>quid: Spiritus ille veritatis introducet in omnem veritatem: OMNER 
+      <lb ed="#H" n="55"/>scilicet partibus, sic ut nihil sitis ignoraturi eorum multorum quae 
+      <lb ed="#H" n="56"/>nunc non potestis portare: sed non gradibus, quae cognitio omnis 
+      per<lb ed="#H" n="57" break="no"/>fecta suis gradibus, ipsis etiam Apostolis reservata fuit in caelum, id  
+      <lb ed="#H" n="58"/>alteram ilsam vitam. Deinde introducet vos in OMNEM scil. in hac vi 
+      <lb ed="#H" n="59"/>ta necessariam, quanta sufficit ad salutem, non in omnem simpliciter 
+      <lb ed="#H" n="60"/>veritatem, scilicet, tam facti quam juris: Nam Spiritus Sanctus tam 
+      fa<lb ed="#H" n="61" break="no"/>ctum, quam jus tenet, &amp; ut neminem in errorem juris, ita etiam 
+      ne<lb ed="#H" n="62" break="no"/>minem in errorem facti inducit Plena fuit revelatio Evangelii in hac 
+      <lb ed="#H" n="63"/>vita: sed plenior revelatio in futurum seculum dilata fuit. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e606">
+               <lb ed="#H" n="64"/>
+               <pc type="indent"/>Unde consequitur, etiamsi Apostoli respectu futurae vitae ex parte 
+      <lb ed="#H" n="65"/>cognoverint:tamen si doctrinam ipsam Evangelii in se &amp; per se 
+      spe<lb ed="#H" n="66" break="no"/>ctes, &amp; cognitionem quam ante acceptum Spiritum Sanctum 
+      conse<lb ed="#H" n="67" break="no"/>quuti sunt conferas. ipsos in omnem veritatem, quam antea portare 
+      <lb ed="#H" n="68"/>non poterant, introductos fuisse 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e622">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Hactenus primum Spiritus Sancti effectum, quod in 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e629">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>Ecclesia operatur explicatum est: sequitur  
+      <lb ed="#H" n="71"/>Secundum, quod est, ea quae ventura sunt, renunciare, id est, futuri 
+      <lb ed="#H" n="72"/>statum regni Christi atque adeo Ecclesiae in hac vita militantis &amp; in 
+      al<lb ed="#H" n="73" break="no"/>tera triumphaturae, declarare. Hoc Spiritum Sanctum fecisse, testatur 
+      <lb ed="#H" n="74"/>abunde totum Vetus Testamentum, liber Actorum Apostolicorum, 
+      <lb ed="#H" n="75"/>testantur Epistolae Paulinae &amp; liber Apocalypseωs 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e647">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Tertium effectum Spiritus zancti, quod in Ecclesia operatur, est 
+      <lb ed="#H" n="77"/>glorificare Christum, quod facit, dum testatur, Jesum Nazarenum est. 
+      <lb ed="#H" n="78"/>Christum illum &amp; Filium illum Dei, Matth. 3. v. 16, 17. Joh. 1. v. 32, 
+      <lb ed="#H" n="79"/>93. &amp; quia nullam novam doctrinam adfert, sed a Christo traditam 
+      <lb ed="#H" n="80"/>docet, &amp; animis hominum insculpit: 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e663">
+               <lb ed="#H" n="81"/>
+               <pc type="indent"/>Quartum effectum, est fidem selvificam in cordibus electorum 
+      crea<lb ed="#H" n="82" break="no"/>re. Nec obstat quod per fidem recipere Spiritum Sanctum dicimur; 
+      <lb ed="#H" n="83"/>quod sit duplici de causa. Primum, quia fides prius a nobis sentitur 
+      <lb ed="#H" n="84"/>quam intelligamus Dei Spiritum in nobis inhabitare. Deinde, quia 
+      per<lb ed="#H" n="85" break="no"/>fidem augentur in nobis dona reliqua Spiritus Sancti, aliaque indies 
+      <lb ed="#H" n="86"/>adduntur ex demenso donationis Christi. Ideo Spiritum Sanctum 
+      e<lb ed="#H" n="87" break="no"/>usque dona accip unt fideles in hac vita, sed ex parte, hic hoc, ille i 
+      <lb ed="#H" n="88"/>ud donum, sed imperfecte singuli, in quibus lucta est novi hominis 
+      <lb ed="#H" n="89"/>cum vetere spiritus cum carne. Iraque non mirum est. si non omnes. 
+      <lb ed="#H" n="90"/>fideles in omnibus consentiunt, si duo aut plures inter se differunt sen¬ 
+      <!--cod-MkL9py-0479.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>tentiis &amp; voluntatibus, quum unus &amp; idem homo a se sententia &amp; 
+      vo<lb ed="#H" n="92" break="no"/>luntate discrepet, prout fidei &amp; cognitionis aliorumque donorum 
+      Spi<lb ed="#H" n="93" break="no"/>ritus Sancti incrementa paulatim fiunt. Itaque ex dissensione duorum 
+      <lb ed="#H" n="94"/>piorum in interpretatione Scripturae aut sententiis quibusdam, non 
+      <lb ed="#H" n="95"/>est illico concludendum, alterum non habere Spiritum Sanctum 
+      <lb ed="#H" n="96"/>aut Spiritum Sanctum a seipso dissidere: sed hoc potius, Spiritum 
+      <lb ed="#H" n="97"/>Sanctum distribuere dona sua ut vult, alii haec, alii illa: alii majore, 
+      a<lb ed="#H" n="98" break="no"/>lii minore mensura: alii hodie, alii cras 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e711">
+               <lb ed="#H" n="99"/>
+               <pc type="indent"/>Quintum effectum Spiritus Sancti, est regenerate nos, hoc 
+      faci<lb ed="#H" n="100" break="no"/>quum indit novas qualitates, novas inclinationes cordibus 
+      homi<lb ed="#H" n="101" break="no"/>num, hoc est, efficit in nobis resipiscentiam &amp; conversionem ad Deum 
+      <lb ed="#H" n="102"/>&amp; virtutes utraque tabulam a Deo praeceptas: ut haec testimonia 
+      osten<lb ed="#H" n="103" break="no"/>dunt, Jch. 3. v. 5. Nisi quis renatus fuerit ex aqua &amp; spiritu, non potest. 
+      <lb ed="#H" n="104"/>ingredi in regnum Dei, Matth. 3. 11. Ego quidem baptixe vos aqua in 
+      <lb ed="#H" n="105"/>resipiscentiam, is vero qui post me venit baptizabit vos Spiritu 
+      San<lb ed="#H" n="106" break="no"/>sto &amp; igni. Hic baptismus, qui sit a Christo per Spiritum 
+      San<lb ed="#H" n="107" break="no"/>ctum, est ipsa renovatio, eaque per externum baptismum Johannis &amp; 
+      <lb ed="#H" n="108"/>aliorum ministrorum significata, Gal. 5. v. 22. Fructus Spiritus est 
+      <lb ed="#H" n="109"/>churitas, gaudium, pax, irae cohibitio, benignitas, bonitas, fides, lenitas 
+      <lb ed="#H" n="110"/>continentia. Eph. 5. 9. fructus Spiritus situs est in omni bonitate &amp; 
+      iu<lb ed="#H" n="111" break="no"/>stitia &amp; veritate 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e745">
+               <lb ed="#H" n="112"/>
+               <pc type="indent"/>Sextum est, conjungere nos cum Christo, ut simus ejus membra, &amp; 
+      <lb ed="#H" n="113"/>ab eo vivificemur, omniumque beneficiorum ejus sic fiamus 
+      partici<lb ed="#H" n="114" break="no"/>nes 1. Cor. 12. v. 13. Per unum Spiritum nos omnes in unum corpus 
+      ba<lb ed="#H" n="115" break="no"/>ptizati sumus. 1. Joh. 3. 24. Per hoc novimus, eum habitare in nobis. 
+      <lb ed="#H" n="116"/>nempe ex Spiritu quem dedit nobis. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e761">
+               <lb ed="#H" n="117"/>
+               <pc type="indent"/>Septimum effectum, est regere nos. Est autem regi a Spiritus Sancto 
+      <lb ed="#H" n="118"/>institui consilio in actionibus vitae &amp; vocationis, &amp; flecti ad sequendum 
+      <lb ed="#H" n="119"/>jecta, &amp; ad faciendum officia dilectionis erga Deum &amp; proximum 
+      <lb ed="#H" n="120"/>Sub hoc continentur omnes virtutes Christianae, primae &amp; secunda 
+      <lb ed="#H" n="121"/>tabulae, Rom. 8. 14. Qui Spiritu Dei ducuntur, hi sunt fitit Dei. Act. 2. 
+      <lb ed="#H" n="122"/>v. 4. Apostoli coeperunt loqui aliis linguis, prout Spiritus ille dabat eis 
+      e<lb ed="#H" n="123" break="no"/>loqui. Et c. 16. 6, 7. Phrygia peragrata&amp; Galatica regione, prohibiti sunt 
+      <lb ed="#H" n="124"/>a Spiritu Sancto loqui sermonem Dei in Asia. Quum venissent in 
+      My<lb ed="#H" n="125" break="no"/>siam, tentabant versus Bithyniam, sed non sivit eos ire Spiritus Iesus 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e785">
+               <lb ed="#H" n="126"/>
+               <pc type="indent"/>Octavum Spiritus Sancti effectum, est consolari nos in periculis &amp; 
+      <lb ed="#H" n="127"/>fflictionibus Apostoli fugientes prius ac latitantes metu Judaeorum 
+      <lb ed="#H" n="128"/>accepto Spiritu Sancto prodierunt in publicum &amp; laetati sunt quum 
+      <lb ed="#H" n="129"/>passi essent aliquid propter confessionem Evangelii, Actor. 5 41. Joh. 
+      <lb ed="#H" n="130"/>14. vers.16. Alium consolatorem dabit vobis, qui manebit vobiicum in 
+      <lb ed="#H" n="131"/>aeternum. 
+      <lb ed="#H" n="132"/>Nonum, est confirmare nos vacillantes in fide, &amp; facere certos de 
+      sa<lb ed="#H" n="133" break="no"/>lute aeterna, hoc est, continuare &amp; conservare beneficia Christi usque ad 
+      <lb ed="#H" n="134"/>finem Sic Apostolos reddidit animosos, qui prius fuerant infirmi, &amp; 
+      <lb ed="#H" n="135"/>multis dubitationibus involuti: quod ostendit collatio concionis Petra 
+      <lb ed="#H" n="136"/>in Pentecoste &amp; orationis euntium Emaunta, Luc. 24. 21. Nos aut 
+      <lb ed="#H" n="137"/>sperabamus illum esse, qui redemturus esset Israelem, &amp;c. De hoc 
+      lo<lb ed="#H" n="138" break="no"/>quitur Christus Joh. 16. 22. Gaudebit cor vestrum, &amp; gaudium vestrum 
+      <lb ed="#H" n="139"/>nemo tollet a vobis. Joh. 14. v.16. Manebit vobiscum in aeternum 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e820">
+               <lb ed="#H" n="140"/>
+               <pc type="indent"/>Decimo, effecta Spiritus Sancti sunt varia dona spiritualia, ad 
+      aedi<lb ed="#H" n="141" break="no"/>ficationem Ecclesiae necessaria, qualia commemorantur 1. Cor. 12. v. 
+      <lb ed="#H" n="142"/>ῆ, 5, 6, 7. 8, 9, 10, 11. Dona Spiritus Sancti sunt duplicia: quaedam sunt 
+      <lb ed="#H" n="143"/>communia electis &amp;reprobis: quaedam electorum propria. Quae 
+      commu<lb ed="#H" n="144" break="no"/>nia sunt electis &amp; reprobis itidem sunt duplicia; Quaedam datur 
+      cer<lb ed="#H" n="145" break="no"/>is temporibus, ut facultas miraculosa linguarum, fides miraculorum, 
+      <lb ed="#H" n="146"/>&amp;c. quae in jaciendis fundamentis regni Christi erant necessaria: 
+      <lb ed="#H" n="147"/>Quaedam omnibus temporibus Ecclesiae sunt necessaria, ut donum 
+      <lb ed="#H" n="148"/>linguarum absque miraculo datum, donum interpretationis, scientiae 
+      <lb ed="#H" n="149"/>artes, eloquentia &amp; alia quae ad conservationem ministerii pertinent. 
+      <lb ed="#H" n="150"/>Dona electorum propria sunt quae nomine sanctificationis internae &amp; 
+      <lb ed="#H" n="151"/>adoptionis comprehenduntur, ut fides salvifica, justificatio coram 
+      <lb ed="#H" n="152"/>Deo, regeneratio, &amp; 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e853">
+               <lb ed="#H" n="153"/>
+               <pc type="indent"/>Haec sunt Spiritus Sancti praecipua effecta ad communionen 
+      Chri<lb ed="#H" n="154" break="no"/>sti pertinentia, quorum respectu varia habet in Scripturis Sacris 
+      e<lb ed="#H" n="155" break="no"/>logia. Hinc enim vocatur1 Spiritus q. θε ias seu adoptionis, quia nos 
+      <lb ed="#H" n="156"/>certos facit de paterna Dei erga nos benevolentia, &amp; nobis est testis 
+      <lb ed="#H" n="157"/>gratuitae bonitatis &amp; misericordiae, quam nos Pater complectitur in 
+      <lb ed="#H" n="158"/>Filio unigenito. Ideo per hunc Spiritum clamamus Aboa Pater. 
+      <lb ed="#H" n="159"/>Rom. 8. v. 15, 16. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e873">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>2. Arrhabo &amp; sigillum haereditatis nostrae, quia nos certos reddit 
+      <lb ed="#H" n="161"/>de salute nostra, 2. Cor. 1 21, 22 Qui nos ofirmatvobiscum in Chrsiu, 
+      <lb ed="#H" n="162"/>&amp;qui unxit nos, Deus est, qui etiam obsignavit nos, &amp; dedit arrhabone 
+      <lb ed="#H" n="163"/>Spiritus in cordibs nostris. Eph. 1. 13. Postquam credidestis, obsignati estis 
+      <lb ed="#H" n="164"/>Spiritu illo promissionis sancto, qui est arrhabo haereditatis nostrae 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e890">
+               <lb ed="#H" n="165"/>
+               <pc type="indent"/>3. Vita seu spiritus vitae, quia veterem nostrum hominem 
+      mortifi<lb ed="#H" n="166" break="no"/>cat, &amp; novum vivificat, Rom. 8. 2. Lex Spiritus vitae, quae est in Christo. 
+      <lb ed="#H" n="167"/>Iosu, liberavit me a legepiccati &amp; mortis. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e901">
+               <lb ed="#H" n="168"/>
+               <pc type="indent"/>4. Aqua, quia nos refrigerat pene mortuos in peccatis, expurgat 
+      <lb ed="#H" n="169"/>peccata &amp; faecundat nos, ut fructum justitiae feramus Deo, Ezech. 36. 
+      <lb ed="#H" n="170"/>25 &amp; c. 47. 1. Joel. 2 v. 28. Joh. 3. 8. &amp; cap. 4. 14. &amp; 17. cap. 37. v. 38, 39. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e912">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>5. Ignis, quia assidue gliscentes in nobis concupiscentias &amp; vitia 
+      <lb ed="#H" n="172"/>exurit &amp; excoquit, &amp; corda nostra amore Dei &amp; proximi accendit. 
+      <lb ed="#H" n="173"/>Matth. 3. v. 1. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e923">
+               <lb ed="#H" n="174"/>
+               <pc type="indent"/>6. Fons aquae vivae, quia ex ipso &amp; per ipsum omnes caelestes 
+      divi<lb ed="#H" n="175" break="no"/>tiae ad nos manant, Joh. 2. v. 14. Apoc. 7. 17. &amp; 21. v. 4. Zach. 13. v 1, 
+      <lb ed="#H" n="176"/>7. Sporitus o ecum, quia ad precandum nos excitat &amp; instruit: 
+      <lb ed="#H" n="177"/>Zach. 12. vi runc. O Effandum, uper domum Davd &amp; super 
+      ha<lb ed="#H" n="178" break="no"/>bitators! rissatens S aritum gratiae &amp; precum, &amp; adspitrient ad 
+      me<lb ed="#H" n="179" break="no"/>Rom. 8 26. Spiritus sublevat infirmitates nostras: quid enim precemut. 
+      <lb ed="#H" n="180"/>ut oportet non novimus, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e943">
+               <lb ed="#H" n="181"/>
+               <pc type="indent"/>8. Olei latitiae, quia letos, alacres &amp; vegetos reddit: Propterra un 
+      <lb ed="#H" n="182"/>xit te Deus, Deus tuus, oleo laetitiae, prae cosortibstuis. Ps. 45. 8. Heb. 1. 9. 
+      <!--cod-MkL9py-0480.xml-->
+      <pb ed="#H" n="453"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>9. 
+      <lb ed="#H" n="2"/>rificat per eam conscientias &amp; corda, &amp; ita nos consolatur, ut in 
+      affli<lb ed="#H" n="3" break="no"/>ctionibus etiam gloriemur, Joh. 14. v. 16, 26, &amp; 15 26. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e965">
+               <lb ed="#H" n="4"/>
+               <pc type="indent"/>I0. Advocatus, item intercessor, tum quia consolatur nos, tum quia 
+      <lb ed="#H" n="5"/>interpellat pro nobis gemitibus ineffabilibus, Rom 8 26. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e975">
+               <lb ed="#H" n="6"/>
+               <pc type="indent"/>II. Spire, us verit itis, sapientiae, intelligentiae, consilii, gaudii, laeti 
+      <lb ed="#H" n="7"/>iae, fidei, tin cris Dei, fortitudinis, gratiae, &amp;c. Jes. 11. 2. Zach. 12. 10. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e984">
+               <lb ed="#H" n="8"/>
+               <pc type="indent"/>Subjecta &amp; adjuncta donationis Spiritus Sancti videantur in 
+      Ex<lb ed="#H" n="9" break="no"/>plicationibus Catecheticis Catecheseos Heidelbergensis Zachariae 
+      <lb ed="#H" n="10"/>Ursini a D. Pareo editis. 
+    </p>
+            <p xml:id="yyy8Uu-gxz843-d1e995">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Hec de donatione Spiritus Sancti: sequitur  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 23</title>
+            <author ref="#per-jjska2">Amandus Polanus von Polansdorf</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 23</title>
+               <date when="2021-02-28">February 28, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="H" n="cod-MkL9py">Hanau, 1615</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-28" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="yyy8Uu-xd2503"><!-- l9-c23 -->
+            <head xml:id="yyy8Uu-xd2503-Hd1e103">Caput 23</head>
+            <p xml:id="yyy8Uu-xd2503-d1e106">
+               <lb ed="#H" n="58"/>CAPUT XXIII 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e111">
+               <lb ed="#H" n="59"/>URAMENTUM, est religiosa invocati: Dei, qua ipsum sine 
+      do<lb ed="#H" n="60" break="no"/>lo praemeditate in testem eorum quae dicimus aut promittimus, 
+      <lb ed="#H" n="61"/>tanquam unicum cordium scrotatorem, appellamus: ut illi quibus 
+      <lb ed="#H" n="62"/>juramus, propter interjectum Dei nomen de veritate nostrorum 
+      ver<lb ed="#H" n="63" break="no"/>borum ne dubitent. Deut. 6. v. 13. &amp; 10. v. 20, 21. Rom. 1. v. 9. 2. Cor. 
+      <lb ed="#H" n="64"/>t. 23. &amp; cap. 11. 31. Philipp. 1. 8. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e127">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Per solius veri Dei nomen est iuramentum praestandum: ut ex his 
+      ar<lb ed="#H" n="66" break="no"/>gumentis liquet:  
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e136">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>I. Quia sic Deus praecepit, Deut. 6. v. 13. Iehovam Deum tuum 
+      ti<lb ed="#H" n="68" break="no"/>meto, &amp; ilum colito: &amp; per nomen eius turato, Jes. 45. 23. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e146">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>II. Quia solus Deus est religiose invocandus. 
+      <lb ed="#H" n="70"/>III. Quia solus Deus est inspector cordium, omniscius, 
+      omni<lb ed="#H" n="71" break="no"/>praesens, qui possit scire, quod jurans verum dicat 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e157">
+               <lb ed="#H" n="72"/>
+               <pc type="indent"/>V. Quia solus Deus est omnipotens, qui possit defendere veri 
+      <lb ed="#H" n="73"/>tatem eamque testantes, &amp; punire perjuros 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e166">
+               <lb ed="#H" n="74"/>
+               <pc type="indent"/>luramentum per Dei nomen, quum vel Magistratus id exigit, ve. 
+      <lb ed="#H" n="75"/>alioqui necessitas postulat, pie praestari potest &amp; licitum est: ut sequentes 
+      <lb ed="#H" n="76"/>rationes evincunt. 
+      <lb ed="#H" n="77"/>I Quia verbo Dei praecipitur, Deuter. 6. v. 13. &amp; cap. 10. v. 20. 
+      <lb ed="#H" n="78"/>Jesa. 6 16. 
+      <lb ed="#H" n="79"/>II. Quia juramenti finis est bonus &amp; voluntati Dei consentaneus. 
+      <lb ed="#H" n="80"/>pertinet enim ad confirmationem fidei &amp; veritatis ad decisionem 
+      li<lb ed="#H" n="81" break="no"/>tium &amp; controversiarum, Haebr. 6. v. 16. quo gloria Dei illustretur &amp; 
+      <lb ed="#H" n="82"/>aliorum saluti consulatur.  
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e190">
+               <lb ed="#H" n="83"/>
+               <pc type="indent"/>III. Quia est moralis cultus Dei perpetuus: est enim 
+      invocatio<lb ed="#H" n="84" break="no"/>Dei. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e199">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>IV. Quia nititur exemplis probis, nimirum Dei ipsius, Christ 
+      <lb ed="#H" n="86"/>Domini, sanctorum Angelorum &amp; fidelium Veteris &amp; Novi 
+      Testa<lb ed="#H" n="87" break="no"/>menti, Matth. 5. v. 18. Rom. 1. ver. 9 &amp; cap. 9. ver. 1. &amp; 2. Corinth. 
+      <lb ed="#H" n="88"/>1. ver. 23. Philipp. 1. v. 8. 1. Thessal. 1. vers. 10. 
+      <!--cod-MkL9py-0657.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="89"/>OBJICIUNT Anabaptistae: Iuramentum Christianis est 
+      prohi<lb ed="#H" n="90" break="no"/>bitum: Ergo ab illis pre praestari non potest: Ergo non est illis licitum 
+      An<lb ed="#H" n="91" break="no"/>tecedens probare conantur testimoniis Christi &amp; Jacobi. Christus 
+      <lb ed="#H" n="92"/>dicit Matt. 5. 34. 35. 36. 37. Ego vero dico vobis, ne jurute omnino: neque 
+      <lb ed="#H" n="93"/>per caelum, quia thronus Dei est: Neque per terram, quia scabellum est 
+      pe<lb ed="#H" n="94" break="no"/>dum ejus: neque per Hierosolymam, quia urbs est magni regis. Neque per 
+      ca<lb ed="#H" n="95" break="no"/>put tuum jures, quia non potes unum capillum album aut nigrum 
+      face<lb ed="#H" n="96" break="no"/>re. Esto autem sermo vester, etiam etiam, non non, quod autem supra 
+      <lb ed="#H" n="97"/>haec redundat, a malo est. Apostolus vero Jacobus cap. 5. 12. ait: 
+      Anter<lb ed="#H" n="98" break="no"/>omnia vero fratres mei, ne jurate neque per caelum, neque per terram, neque 
+      <lb ed="#H" n="99"/>aliud ullum iusiurandum: sit autem vestrum est, est; &amp; non, non: ne in 
+      <lb ed="#H" n="100"/>condemnationem incidatis 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e243">
+               <lb ed="#H" n="101"/>
+               <pc type="indent"/>RESP. Anabaptistae simpliciter accipiunt, quod secundum quid 
+      <lb ed="#H" n="102"/>dicitur. Quum enim ex aliis Scripturae locis tum veteris tum 
+      novi<lb ed="#H" n="103" break="no"/>Testamenti constet, juraftum per nomen Dei probari a Deo: 
+      se<lb ed="#H" n="104" break="no"/>quitur non omne juramentum a Christo &amp; Jacobo esse prohibitum 
+      <lb ed="#H" n="105"/>sed tantum pugnans cum Lege Dei, quam Scribae &amp; Pharisaei 
+      cor<lb ed="#H" n="106" break="no"/>cumpebant partim falsa interpretatione, partim additamentis. Nam 
+      <lb ed="#H" n="107"/>quod dixit Deus, Non sumes nomen Dei tui in vanum, hoc Scribae 
+      <lb ed="#H" n="108"/>&amp; Pharisaei interpretabantur, Non peierabis: tanquam si dixissent; 
+      <lb ed="#H" n="109"/>Quocunque modo libuerit, licet uti nomine Jehovae Dei tui, modo 
+      <lb ed="#H" n="110"/>non pejeres. Additamentum fuit, Sed reddes Domino quae turaveris, 
+      <lb ed="#H" n="111"/>id est, quod si forte non poteris ea praestare, quae jurasti, hoc 
+      impru<lb ed="#H" n="112" break="no"/>dens factum tuum expiato muneribus Domino oblatis. Utrumqui 
+      <lb ed="#H" n="113"/>reprehendit Christus, sed prius quidem disertis verbis, posterius 
+      ve<lb ed="#H" n="114" break="no"/>ro (ut loquuntur) tacite, per consequentiam. In interpretatione a 
+      <lb ed="#H" n="115"/>Christo reprehenduntur ista. Prin um, quod abusum nominis divini 
+      Ii<lb ed="#H" n="116" break="no"/>nac doctrina sua Phatisaei &amp; Scribae non solum ferebant; sed etiam re 
+      <lb ed="#H" n="117"/>impie comprobabant. Secundo, quod obliquum abusum excusabant pr 
+      <lb ed="#H" n="118"/>torum, qui dissimulato Dei nomine, perres creatas jurare se posse 
+      sta<lb ed="#H" n="119" break="no"/>tuebant. Tertio, quod utrumque hunc abusum, extra necessitatem &amp; 
+      <lb ed="#H" n="120"/>causam justam atque legitimam jurisjurandi, in familiari 
+      sermone<lb ed="#H" n="121" break="no"/>patiebantur usurpari. Hoc enim proprie significatur nomine λόγος 
+      <lb ed="#H" n="122"/>quo Matthaeus utitur versic. 37. Ac primum quidem &amp; secundum 
+      re<lb ed="#H" n="123" break="no"/>prehensionis caput his verbis ostendit, Ne turetis omnino, puta sive 
+      di<lb ed="#H" n="124" break="no"/>recte nomen Dei assumentes, sive oblique pro Dei nomine 
+      appella<lb ed="#H" n="125" break="no"/>tionem rerum creatarum adhibentes. Quod posterius quia amplius 
+      <lb ed="#H" n="126"/>&amp; fac ilius ab hominibus excusatur, prudentissime Christus aliquot  
+      <lb ed="#H" n="127"/>illius exempla attulit; ut omnia ejusdem generis prohiberi quoqui 
+      <lb ed="#H" n="128"/>ostenderet, quamvis ab ipso non fuerint hoc loco expressa. Deinde 
+      <lb ed="#H" n="129"/>vero ad tertium venit reprehensionis caput, in his verbis, Esto autem 
+      <lb ed="#H" n="130"/>ermo vester, Etiam, etiam; Non, non: ut ab omni levi, temeratio, &amp; 
+      <lb ed="#H" n="131"/>ptioso sermone sanctissimum Dei nomen vindicaret, ne ab ullo sint 
+      <lb ed="#H" n="132"/>vocatione justa &amp; necessitate usurpari posset. Additamentum vero, 
+      <lb ed="#H" n="133"/>his rebus positis, sua infirmitate corruit. Nam ex ea regula, quam 
+      po<lb ed="#H" n="134" break="no"/>stremis verbis hic tradit Christus, continuo manifesta iniquitas illius 
+      <lb ed="#H" n="135"/>&amp; falsitas convincitur, quod autem supra haec redundat, a malo est 
+      <lb ed="#H" n="136"/>Hinc enim assurgit haec argumentatio: Quod a maligno est, probari 
+      <lb ed="#H" n="137"/>Deo non potest: Pejerate autem a maligno est: Non igitur Deo 
+      <lb ed="#H" n="138"/>probari potest Huic adjungenda est, autore Christo, altera 
+      argumen<lb ed="#H" n="139" break="no"/>tatio: Merces meretricis, pretium canis, sacrificium improbi, &amp; alia 
+      <lb ed="#H" n="140"/>hujusmodi sunt abominationi Jehovae: Pretium autem vel munus 
+      <lb ed="#H" n="141"/>pejerantis, est munudimprobi: Est igitur abominationi 
+      Domino<lb ed="#H" n="142" break="no"/>contra quam Pharisaeis esse videbatur, maximam licentiam cuique 
+      <lb ed="#H" n="143"/>ad pejerandum attribuentibus ad commoditatem sui καπηληημα¬ 
+      <lb ed="#H" n="144"/>a O¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e344">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Instant Anabaptistae: Christus dicit, Ne iuretis omnino: &amp; Jacobus 
+      <lb ed="#H" n="146"/>Neque aliud ullum juramentum iurate: Ergo omne juramentum 
+      <lb ed="#H" n="147"/>Christ. anis prohibetur. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e355">
+               <lb ed="#H" n="148"/>
+               <pc type="indent"/>RESP. Fallacia est a dicto secundum quid ad dictum 
+      simplici<lb ed="#H" n="149" break="no"/>ter. Nam in verbis Christi, particula emnino restringenda est ad 
+      for<lb ed="#H" n="150" break="no"/>mulas temerarii juramenti quas Pharisaei fingebant esse licitas: id 
+      <lb ed="#H" n="151"/>pater ex distributione mox addita, neque per caelum, neque per 
+      ter<lb ed="#H" n="152" break="no"/>ram, &amp; c. Jacobus etiam omne duntaxat juramentum temeratium seu 
+      <lb ed="#H" n="153"/>falsum prohiberi indicat, Manet igitur, juramentum per nomen Dei. 
+      <lb ed="#H" n="154"/>exigente Magistratu aut necessitate, pie praestari posse &amp; licitum esse 
+      <lb ed="#H" n="155"/>fidelibus 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e377">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Juramentum licitum est de rebus cum verbo Dei 
+      consentienti<lb ed="#H" n="157" break="no"/>bus, nempe de rebus veris, certo cognitis, licitis, possibilibus, 
+      gravi<lb ed="#H" n="158" break="no"/>bus necessariis, utilibus, dignis tali confirmatione, id est, postulanti 
+      <lb ed="#H" n="159"/>bus juramentum propter gloriam Dei &amp; salutem proxim 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e390">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>utamentum aliquot modis distribuitur: Est enim. I. vel simplex 
+      <lb ed="#H" n="161"/>vel compositum, 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e399">
+               <lb ed="#H" n="162"/>
+               <pc type="indent"/>Simplex, quod est absque imprecatione 
+      <lb ed="#H" n="163"/>Compositum, quod cum impiecatione est conjunctum 
+      <lb ed="#H" n="164"/>Partes ejus duae sunt: Contestatio Dei, &amp; imprecatio vindictae divina 
+      <lb ed="#H" n="165"/>Contestatio Dei, est qua jurans Deum suae asseverationis testem 
+      ci<lb ed="#H" n="166" break="no"/>tat, Rom. 1. v. 9. Deut. 6. v 13. &amp; 10. v. 29 Josu. 23. 7. Jes. 65. v. 16. Jer. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e415">
+               <lb ed="#H" n="167"/>
+               <pc type="indent"/>.v. 7. &amp; 12. v. 16. 2. Cor. 118 Gal. 120. 
+      <lb ed="#H" n="168"/>Imprccatio vindictae diuvinae, est qua jurans se devovet, &amp; ad poenam. 
+      <lb ed="#H" n="169"/>perjurii obligat, ut anathema sit coram Deo, &amp; Deus cum puniat, si 
+      <lb ed="#H" n="170"/>sciens faliat. 1. Reg. 2 v. 13: 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e429">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>II. Juramentum est vel assertorium, quo confirmatur res 
+      praeteri<lb ed="#H" n="172" break="no"/>ta aut praesens: vel promissorium quo aliquid futurum promitttitur.  
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e438">
+               <lb ed="#H" n="173"/>
+               <pc type="indent"/>Omne vero promissum, jurejurando firmatum, de iis quae quis &amp; 
+      <lb ed="#H" n="174"/>bonam conscientia perque Legem Dei promittere, &amp; reipsa non solum 
+      <lb ed="#H" n="175"/>ante, sed etiam post puomissionem praestare potest; ita cbligat 
+      con<lb ed="#H" n="176" break="no"/>scientiam apud Deum, ut sine ullo prorsus dolo jure Gentium, 
+      Lege<lb ed="#H" n="177" break="no"/>que Dei, ipsis etiam hostibus, ut Turcis, haereticis &amp; latronibus 
+      ne<lb ed="#H" n="178" break="no"/>cessario sei vare teneatur, atque eo a nemine hominum liberati 
+      pos<lb ed="#H" n="179" break="no"/>sit: sicut Psal. 15. v. 4. de germano cive Ecclesiae Dei &amp; vero haerede cae¬ 
+      <!--cod-MkL9py-0658.xml-->
+      <pb ed="#H" n="629"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>li dicitur, Iuravit damno suo &amp; non mutat. Quin etiam hosti &amp; fidem 
+      <lb ed="#H" n="2"/>frangenti, fides data est servanda, ut David fecit servans fidem 
+      pro<lb ed="#H" n="3" break="no"/>missam Sauli, 2. Samuel. 9. 5. Imo etiam illi, qui fraude &amp; dolo 
+      pro<lb ed="#H" n="4" break="no"/>nissionem aliquam obtinuit: Ita duces Israelitarum conservarunt 
+      vi<lb ed="#H" n="5" break="no"/>tam Gibeonitis, quantumvis astutia horum circumventi, Josu. 9. 15. 
+      <lb ed="#H" n="6"/>Et multo magis fides servanda, si quis nulla circumventus fraude 
+      ju<lb ed="#H" n="7" break="no"/>ramento legitimo se obstrinxit, sicut Jonathan filius Saulis Davidi. 
+      <lb ed="#H" n="8"/>fecit, qui maluit amittere regnum, quam violare jus jurandum 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e482">
+               <lb ed="#H" n="9"/>
+               <pc type="indent"/>III. Juramentum e causis efficientibus, est vel delatum, vel 
+      spon<lb ed="#H" n="10" break="no"/>taneum. 
+      <lb ed="#H" n="11"/>Iuramentum delatum, est quod ab aliquo alteri defertur ad 
+      con<lb ed="#H" n="12" break="no"/>testandam invocato Dei nomine veritatem. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e495">
+               <lb ed="#H" n="13"/>
+               <pc type="indent"/>Estque vel iudiciale, vel extratudiciale. 
+      <lb ed="#H" n="14"/>Iuramentum iudiciale, est quod a Magistratu seu judice seu parte 
+      <lb ed="#H" n="15"/>adversa judicialiter defertur, quando ex aliis documentis veritas 
+      cau<lb ed="#H" n="16" break="no"/>sae alicujus liquere non potest. Graece dicitur ἐπακτὸν juramentum. 
+      <lb ed="#H" n="17"/>Vocatur etiam juramentum publicum &amp; solenne. De eo sermo est 
+      <lb ed="#H" n="18"/>Hebr. 6.16. Exemplum causarum in quibus juramentum judiciale 
+      <lb ed="#H" n="19"/>defertur, Exod. 22. 8, 11. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e515">
+               <lb ed="#H" n="20"/>
+               <pc type="indent"/>QUAERITUR; Si magistratus hostis verae religionis deferat alicui: 
+      <lb ed="#H" n="21"/>orthodo xae religioni addicto iuramentum, quo eum obstringat, ut 
+      veri<lb ed="#H" n="22" break="no"/>tatem dicat de omnibus rebus de quibus interrogatus fuerit, an 
+      iura<lb ed="#H" n="23" break="no"/>mentum tale praestare &amp; ad omnia interrogata quae novit, respondere 
+      <lb ed="#H" n="24"/>teneatur;  
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e531">
+               <lb ed="#H" n="25"/>
+               <pc type="indent"/>RESP. Juramentum praestare potest, sed addita expresse 
+      exce<lb ed="#H" n="26" break="no"/>tione; nempe, se de omnibus dicturum veritatem, &amp; de omnibus 
+      re<lb ed="#H" n="27" break="no"/>ponsurum, exceptis iis, ad quae respondendo peccaret adversus gloria 
+      <lb ed="#H" n="28"/>Dei &amp; charitatem in Deum &amp; proximum: Exempli gratia; si per 
+      ju<lb ed="#H" n="29" break="no"/>ramentum interrogaretur, quinam praeter ipsum sint ejusdem cum 
+      i<lb ed="#H" n="30" break="no"/>pso religionis? quibus in aedibus, &amp; quando conventus instituti sint  
+      <lb ed="#H" n="31"/>aut instituantur concionum causa? ad talia rogata respondere non 
+      te<lb ed="#H" n="32" break="no"/>netur, neque enim bonam conscientia potest: quia respondendo pecca 
+      <lb ed="#H" n="33"/>ret contra gloriam Dei, praejudicium enim adferret divinae religion 
+      <lb ed="#H" n="34"/>cujus exercitium etiam clandestinum impediretur: peccaret contra 
+      <lb ed="#H" n="35"/>charitatem in Deum &amp; proximum; proderet enim &amp; in difficultate 
+      <lb ed="#H" n="36"/>magnas conjiceret fratres, quorum incolumitati etiam cum 
+      faculta<lb ed="#H" n="37" break="no"/>tum &amp; vitae suae dispendio consulere debet. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e565">
+               <lb ed="#H" n="38"/>
+               <pc type="indent"/>Iuramentum extraiudiciale, est quod extra forensem seu 
+      judicia<lb ed="#H" n="39" break="no"/>lem actionem a quopiam juratur. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e574">
+               <lb ed="#H" n="40"/>
+               <pc type="indent"/>Ad juramentum delatum pertinet adiuratio, quatenus illa est actio 
+      <lb ed="#H" n="41"/>qua per Deum aut exigimus ab aliquo juramentum, quo se ad aliquio 
+      <lb ed="#H" n="42"/>faciendum obstringat: aut nos eum citra juramenti exactionem ad ad 
+      <lb ed="#H" n="43"/>liquid vel mandando vel rogando obstringimus: idque ut certior fiat  
+      <lb ed="#H" n="44"/>petitio nostra, religiosa adjuratione firmata. Exempli gratia. 
+      Genes<lb ed="#H" n="45" break="no"/>24. Abrahamus adjuravit servum suum, id est, exegit ab eo 
+      juramen<lb ed="#H" n="46" break="no"/>tum, ut non acciperet Isaaco filio uxorem de filiabus Cananaeorum. 
+      <lb ed="#H" n="47"/>sed ex cognatione. 1. Reg. 2. Rex Salomon adjuravit Semejum 
+      pe<lb ed="#H" n="48" break="no"/>Jehovam, ne egrederetur huc aut illuc 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e598">
+               <lb ed="#H" n="49"/>
+               <pc type="indent"/>De adiuratione vide plura lebro primo Hieronymi Zanchii orthodox. 
+      <lb ed="#H" n="50"/>de Operibus Redemtionis in tertium praeceptum, 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e607">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Hec de juramento delato. 
+      <lb ed="#H" n="52"/>luramentum spontaneum, est quod sit ad asserendam gloriam Dei, 
+      <lb ed="#H" n="53"/>&amp; promovendam aliorum salutem, non delatum ab alio, sed sponte, 
+      <lb ed="#H" n="54"/>quum necessitas &amp; vocatio nostra exigit ut Deum festem allegemus. 
+      <lb ed="#H" n="55"/>nos vera dicere; ut Paulus fecit Rom. 9. 1. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e623">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>IV. Juramentum vel directum est vel obliquum, 
+      <lb ed="#H" n="57"/>Iuramentum directum, est in quo expresse assumitur Dei nomen 
+      <lb ed="#H" n="58"/>per quod juratur.  
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e634">
+               <lb ed="#H" n="59"/>
+               <pc type="indent"/>Iuramentum obliquum seu indirectum, est in quo creaturis 
+      nomi<lb ed="#H" n="60" break="no"/>natis Dei nomen dissimulatum intelligitur: cujusmodi erat apud 
+      Ju<lb ed="#H" n="61" break="no"/>daeos juramentum per caelum, per terram, per templum, &amp;c. Matth. 
+      <lb ed="#H" n="62"/>5. vers 34, 35. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e648">
+               <lb ed="#H" n="63"/>
+               <pc type="indent"/>Jurisjurandi religioni opponuntur, recusatio legitimi iuramenti, 
+      <lb ed="#H" n="64"/>impium turamentum, &amp; impletio impii iuramenti. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e657">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Recusatio legitimi iuramenti, est peccatum, cum quis recusat prae 
+      <lb ed="#H" n="66"/>stare juramentum, quod vel magistratus juste exigit, vel alioqui 
+      ne<lb ed="#H" n="67" break="no"/>cessitas hoc pacto fidem firmari &amp; veritatem stabiliri postulat: quo &amp; 
+      <lb ed="#H" n="68"/>gloria Dei illustretur &amp; aliorum saluti consulatur. Legitime enim 
+      <lb ed="#H" n="69"/>per Deum jurare, Christianis licet, ut supra confirmatum  
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e673">
+               <lb ed="#H" n="70"/>
+               <pc type="indent"/>Impium iuramentum, est peccatum, cum contra Legem Dei juratur.  
+      <lb ed="#H" n="71"/>Estque vel temerarium, vel idololatricum vel iniquum, vel periurium; 
+      <lb ed="#H" n="72"/>luramentum temerarium, est cum quis sine judicio, temere &amp; sine 
+      <lb ed="#H" n="73"/>causa, ex levitate quadam &amp; profana consuetudine jurat. Vocatur vno 
+      <lb ed="#H" n="74"/>nomine Deieratio, vel Deiurium. Cujusmodi fuit juramentum 
+      Sau<lb ed="#H" n="75" break="no"/>lis 1. Sam. 14. 40, 45. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e691">
+               <lb ed="#H" n="76"/>
+               <pc type="indent"/>Iuramentum idololatricum, est cum juratur, per sanctos aut alias 
+      <lb ed="#H" n="77"/>creaturas: ut sit a Papistis 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e700">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Quod Papistae per creaturas jurent, patet ex Thoma Aquinate se 
+      <lb ed="#H" n="79"/>cunda secundae quaest 89. 4. 6 item ex juramentorum, quibus 
+      utun<lb ed="#H" n="80" break="no"/>tur, formulis, quas plerunque haec clausula finit: Ita me Deus adiuver 
+      <lb ed="#H" n="81"/>&amp; mater Dei cum omnibus sanctis: Vel, ita me Deus adiuvet &amp; omne 
+      <lb ed="#H" n="82"/>ancti. 
+      <lb ed="#H" n="83"/>At per nullum sanctorum esse juramentum faciendum, sequenti 
+      <lb ed="#H" n="84"/>bus argumentis probatur. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e720">
+               <lb ed="#H" n="85"/>
+               <pc type="indent"/>I. Juramentum faciendum est per solum Deum 
+      <lb ed="#H" n="86"/>Nullus autem sanctorum est Deus. Quanquam quid non aude 
+      <lb ed="#H" n="87"/>impietas? Jovius Histor. lib 24. deos tutelares appellat eos: &amp; LE6 
+      <lb ed="#H" n="88"/>X. Pontifex Romanus nomen DEAE tribuit Mariae lib. 8. epistol. 
+      il<lb ed="#H" n="89" break="no"/>lius nomine a Bembo scriptarum epist. 17. ut inter Papanos &amp; 
+      Gen<lb ed="#H" n="90" break="no"/>tiles nihil sit dicriminis in deorum dearumque culti 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e739">
+               <lb ed="#H" n="91"/>
+               <pc type="indent"/>Propositionis veritatem sequentia confirmant testimonia: Deut.  
+      <!--cod-MkL9py-0658.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="92"/>6. v. 13. Iehovam Deum tuum timeto &amp; ipsum colito; ac per nomen eius. 
+      <lb ed="#H" n="93"/>iurato. Et c. 10. v. 20, 21. Iehovam Deum tuum timeto, eum colite; &amp; ei 
+      <lb ed="#H" n="94"/>adhaereto, ac per nomen eius iurato. Ipse est laus tua, idemque Deus tuus 
+      <lb ed="#H" n="95"/>Jes. 45. ver. 23. Per me turavi, prodiut ex ore meo iuste verbum, quod non 
+      <lb ed="#H" n="96"/>rovocabitur, mihi incurvatum iri omne geniu, juraturam omnem 
+      lin<lb ed="#H" n="97" break="no"/>guam. Et c. 65. v. 16. Qui iurat in terra, jurabit in Deo amen 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e763">
+               <lb ed="#H" n="98"/>
+               <pc type="indent"/>II. Per nullas creaturas est jurandum: Matth. 5. vers. 34. &amp; 
+      se<lb ed="#H" n="99" break="no"/>quentibus 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e772">
+               <lb ed="#H" n="100"/>
+               <pc type="indent"/>Sancti sunt tantum creaturae 
+      <lb ed="#H" n="101"/>Ergo per sanctos non est jurandum. 
+      <lb ed="#H" n="102"/>Additur in Assumtione tantum, ut excipiatur Christus, qui non 
+      <lb ed="#H" n="103"/>est tantum creatura, sed etiam verus natura Deus 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e785">
+               <lb ed="#H" n="104"/>
+               <pc type="indent"/>Major evidens est; nam ipsum quoque Jus Canonicum illam 
+      asse<lb ed="#H" n="105" break="no"/>rit causa 22. quaest. 1. in aliquot canonibus. Can. Considera dicitur:  
+      <lb ed="#H" n="106"/>Considera quod Salvator non per Deum jurare prohibuit, sed per caelum 
+      <lb ed="#H" n="107"/>&amp; terram, etiam per Ierosolymam &amp; per caput tuum. Et mox ex 
+      Con<lb ed="#H" n="108" break="no"/>cilio Carthaginensi IV. Clericum per creaturas turantem, accrrime est. 
+      <lb ed="#H" n="109"/>obiurgandum, si perstiterit in vitio, excommunicandum decernimus. Et  
+      <lb ed="#H" n="110"/>mox iterum can. Si quis, ex deci etis Pii Papae, dicitur: Et si quis per 
+      cre<lb ed="#H" n="111" break="no"/>aturas iuraverit, acerrime castigetur &amp; iuxta id quod Synodus 
+      diiudi<lb ed="#H" n="112" break="no"/>caverit poeniteat. Si quis autem talem hominem non manifestaverit, non 
+      <lb ed="#H" n="113"/>est dubium, quin divina condemnatione coerceatur. Sed si Episcepus ista 
+      <lb ed="#H" n="114"/>emendare neglexerit, acerrime corripiatur. Et paulo post, Can. Mover. 
+      <lb ed="#H" n="115"/>te, ait Gratianus: JURA RE PERCREATURAS MAIUM EST. 
+      <lb ed="#H" n="116"/>QUIA A DEOPROHIBITUM. Et mox ibidem: Deus per 
+      crea<lb ed="#H" n="117" break="no"/>turas iurare prohibuit, ne vel more Gentilium aliquod Numen Deitatis 
+      <lb ed="#H" n="118"/>crenturis inesse crederetur, vel ne creaturas contemtibiles iudicando, per 
+      <lb ed="#H" n="119"/>eas promissa pro ruhilo duceremus. 
+      <lb ed="#H" n="120"/>Et paulo post: Dupiiciter reus est, qui per creaturas iurat 
+      mendaci<lb ed="#H" n="121" break="no"/>ter: quia &amp; contra prohibitionem turat per quod sibi iurare non licet, (a 
+      <lb ed="#H" n="122"/>quo peccato est immunis, qui nonnisi per Creatorem jurat.) &amp; 
+      pro<lb ed="#H" n="123" break="no"/>timum dolo capit, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e833">
+               <lb ed="#H" n="124"/>
+               <pc type="indent"/>III. Quod idololatricum est, faciendum non est 
+      <lb ed="#H" n="125"/>Juramentum per sanctos demortuos est idololatricum: ut 
+      ipsum<lb ed="#H" n="126" break="no"/>met Jus Canonicum fatetur Causa 22. q. 1. can Et iurabunt: ubi 
+      di<lb ed="#H" n="127" break="no"/>citur; Quod per mortuos iuret oninis idololatra 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e846">
+               <lb ed="#H" n="128"/>
+               <pc type="indent"/>Ergo juramentum per sauctos demortuos non est faciendum. 
+      <lb ed="#H" n="129"/>IV. Quicquid a Deo severissime punitur, id neutiquam est 
+      faci<lb ed="#H" n="130" break="no"/>endum. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e858">
+               <lb ed="#H" n="131"/>
+               <pc type="indent"/>uramentum per creaturas a Deo severissime punitur: sicut Deus 
+      <lb ed="#H" n="132"/>Sophon. 1. 4. &amp; 5. comminatur ie exscindere ve le eos qui jurant per 
+      <lb ed="#H" n="133"/>Jehovam &amp; per Melechum suum, hoc est, qui in juranientis cum 
+      <lb ed="#H" n="134"/>Deo conjunxerint creaturas: Una enim creatura exempl causa 
+      no<lb ed="#H" n="135" break="no"/>minata veluti Melecho, (per quem Sol intelligitur, a Gentilibus 
+      pro<lb ed="#H" n="136" break="no"/>deo habitus &amp; cultus) per Synecdochen speciei omnes creaturae 
+      in<lb ed="#H" n="137" break="no"/>telliguntur.  
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e878">
+               <lb ed="#H" n="138"/>
+               <pc type="indent"/>V. Qui non sunt scrutatores cordium, &amp; videre nequeunt, 
+      an<lb ed="#H" n="139" break="no"/>mentiri vel fallere velimus: per cos non est jurandum. Qui enim jurat 
+      <lb ed="#H" n="140"/>per eos, qui cordis arcana non vident;is ludificatur illos qui 
+      juramen<lb ed="#H" n="141" break="no"/>tum ab ipso exigunt.  
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e891">
+               <lb ed="#H" n="142"/>
+               <pc type="indent"/>At sancti non sunt cordium scrutatores, &amp; videre nequeunt, an 
+      <lb ed="#H" n="143"/>mentiri vel fallere velimus. Solus enim Deus est καρδιογνωςσης, solus 
+      <lb ed="#H" n="144"/>Deus cordium recessus intimos intuetur.  
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e902">
+               <lb ed="#H" n="145"/>
+               <pc type="indent"/>Ergo, &amp;c. 
+      <lb ed="#H" n="146"/>VI. Per quem juramus, eum etiam invocamus. Nam 
+      juramen<lb ed="#H" n="147" break="no"/>tum est invocatio ejus, per quem juratur, ut sit testis eorum quae 
+      dici<lb ed="#H" n="148" break="no"/>mus aut promittimus. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e915">
+               <lb ed="#H" n="149"/>
+               <pc type="indent"/>At sancti demortui non sunt invocandi: 
+      <lb ed="#H" n="150"/>Ergo, &amp;c. 
+      <lb ed="#H" n="151"/>VII. Pet quem jurandum est, is etiam est religioso cultu 
+      colen<lb ed="#H" n="152" break="no"/>dus. Nam juramentum est pars cultus religiosi: ut supra adducta ex 
+      <lb ed="#H" n="153"/>Deuteronomio &amp; Jesaia testimonia ostendunt.  
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e931">
+               <lb ed="#H" n="154"/>
+               <pc type="indent"/>At sancti demortui non sunt religioso cultu colendi: Quia cultus 
+      <lb ed="#H" n="155"/>religiosus Deo soli debetur. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e941">
+               <lb ed="#H" n="156"/>
+               <pc type="indent"/>Ergo, &amp;c. 
+      <lb ed="#H" n="157"/>IIX. Per quem jurandum est, eum ubique esse &amp; jurantes 
+      au<lb ed="#H" n="158" break="no"/>dire necesse est. Nam stultum est jurare per eum, qui non audiat quae 
+      <lb ed="#H" n="159"/>dicuntur.  
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e954">
+               <lb ed="#H" n="160"/>
+               <pc type="indent"/>At sancti demortui non sunt ubique &amp; jurantes non audiunt Nam 
+      <lb ed="#H" n="161"/>ubique esse &amp; ubique audire quae dicuntur vel promittuntur est Dei 
+      <lb ed="#H" n="162"/>solius proprium. Ergo, &amp;c. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e965">
+               <lb ed="#H" n="163"/>
+               <pc type="indent"/>X. Per quem jurandum est, eum jus &amp; facultatem habere 
+      opor<lb ed="#H" n="164" break="no"/>et eos perdendi qui mentiuntur. Nam per quem jurant, cum 
+      obte<lb ed="#H" n="165" break="no"/>stantur, ut poenam perjurii sumat, se pejerent 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e976">
+               <lb ed="#H" n="166"/>
+               <pc type="indent"/>At sancti demortui jus &amp; facultatem non habent eos perdendi qui  
+      <lb ed="#H" n="167"/>jerant. Hoc enim jus, haec facultas est solius Dei 
+      <lb ed="#H" n="168"/>Ergo per sanctos demortuos non est jurandum. 
+      <lb ed="#H" n="169"/>Ex his omnibus liquet, Papanos in juramentis per sanctos, 
+      idolo<lb ed="#H" n="170" break="no"/>latriam committere. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e992">
+               <lb ed="#H" n="171"/>
+               <pc type="indent"/>OUIECTIO: Per salutem seu vitam Pharaonis Iosephus Patriarcha 
+      <lb ed="#H" n="172"/>juravit, Gen. 42. v. 25. Ergo per homines &amp; alias creoturas licet jurare. 
+      <lb ed="#H" n="173"/>RESP. Negatur antecedens: quia oratio Josephi non est 
+      juramenn<lb ed="#H" n="174" break="no"/>tum, sed affirmationis genus apud nationes omnes pias &amp; impius 
+      re<lb ed="#H" n="175" break="no"/>ceptum olim, evidentiae seu vehementiae causa, cum collatione 
+      alicu<lb ed="#H" n="176" break="no"/>jus rei certae &amp; manifestae, ut sententia sit, ea quae asseverantur, tam est 
+      <lb ed="#H" n="177"/>se certa quam est certum, vivere eum, quem nominat asseverans. 
+      Si<lb ed="#H" n="178" break="no"/>milia exempla: 1. Sam. 1. ver. 26. dixit: hanna mater Samuelis ad 
+      sa<lb ed="#H" n="179" break="no"/>cerdotem Helin; Vivit anima tua Domine mi, sum mulur ille 
+      questa<lb ed="#H" n="180" break="no"/>bat tecum hic supplicando Iehovam. 1. Sami, 7. vers. 55. Abner Rect 
+      <lb ed="#H" n="181"/>Sauli interroganti de Pavide dixit: Vivit anima tua, Rex, non nnui Et  
+      <lb ed="#H" n="182"/>cap. 20. ait David ad Jonathanem: Certe vivit Iehova &amp; vinit anit 
+      <lb ed="#H" n="183"/>ma tua, quasipassus inter me &amp; mortem est. Et cap. 25. v. 26. dicit Abi¬ 
+      <!--cod-MkL9py-0659.xml-->
+      <pb ed="#H" n="630"/>
+               <cb ed="#H" n="a"/>
+               <lb ed="#H" n="1"/>gail ad Davidem: Nanc ergo Domine mi, per viventem Iehovam &amp; A 
+      <lb ed="#H" n="2"/>vitam tuam, &amp;c. Sententia ergo verborum Josephi est: Quam vero 
+      <lb ed="#H" n="3"/>vivit aut salvus est Pharao, aut ego eum salvum esse volo, tam vere haec 
+      <lb ed="#H" n="4"/>dico. Quod si quis insiet, orationem Josephi esse juramentum; tum 
+      <lb ed="#H" n="5"/>respondeo, inesse in ea metonymiam effecti, ut per salutem &amp; vitam 
+      <lb ed="#H" n="6"/>Pharaonis intelligatur causa efficiens &amp; autor salutis &amp; vitae 
+      Pharao<lb ed="#H" n="7" break="no"/>nis, id est, Deus: nam Josephum virum a Deo donatum salvifica fide, 
+      <lb ed="#H" n="8"/>urasse per creaturam, nequaquam est verisimile. Sic Genes. 31. 53. 
+      <lb ed="#H" n="9"/>lacob iuravit per pavorem patris sui Isaaci, id est, Deum quem 
+      pave<lb ed="#H" n="10" break="no"/>bat Isaacus. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1053">
+               <lb ed="#H" n="11"/>
+               <pc type="indent"/>Hucusque de juramento idololatrico. 
+      <lb ed="#H" n="12"/>luramentum iniquum, est quum aliquis jurat se facturum quod 
+      il<lb ed="#H" n="13" break="no"/>licitum est &amp; verbo Dei repugnans, aut plane sibi impossibile: ut s 
+      <lb ed="#H" n="14"/>quis iratus jurat, se occisurum alterum: ideo ipso jure nullum est, 
+      ne<lb ed="#H" n="15" break="no"/>servandum. Quale fuerat juramentum Davidis de trucidando 
+      Naba<lb ed="#H" n="16" break="no"/>le &amp; tota ejus familia, 1. Sam. 25. v. 21, 22. quapropter David pruden 
+      <lb ed="#H" n="17"/>ti oratione Abigajile revocatus juramentum i- lud non est 
+      exsequu<lb ed="#H" n="18" break="no"/>tus, eodem capite v. 34. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1076">
+               <lb ed="#H" n="19"/>
+               <pc type="indent"/>Perjurium dicitur a pejerando. Pejerare autem non est, quodvis 
+      <lb ed="#H" n="20"/>falsum jurate; sed scienter falsum jurare, aut quod ex animi sententia. 
+      <lb ed="#H" n="21"/>juraris, sicut verbis concipitur more nostro, id non praestare, cum 
+      pos<lb ed="#H" n="22" break="no"/>sis &amp; debeas, pejerate est. Dixi primum, pejerate non esse, 
+      quodvi<lb ed="#H" n="23" break="no"/>falsum jurate: nam qui non animo fallendi &amp; non scienter jurat 
+      fal<lb ed="#H" n="24" break="no"/>sum, quod putat verum esse, non pejerat. Deinde dixi, sicut verois 
+      <lb ed="#H" n="25"/>concipitur more nostro, hoc est, juxta sensum verborum communiter 
+      <lb ed="#H" n="26"/>a nobis intellectum: nam cum Romanus ille sancte promisisset 
+      An<lb ed="#H" n="27" break="no"/>tiocho Regi, se daturum mediam partem navium, (quod Antiochus 
+      <lb ed="#H" n="28"/>intellexetat juxta morem &amp; usum communem omnium Gentium 
+      <lb ed="#H" n="29"/>de totius classis parte media navium integratum,) postea autem 
+      di<lb ed="#H" n="30" break="no"/>midiam singularum navium dissectarum partem exhibuit, pejeravit.  
+      <lb ed="#H" n="31"/>Tertio dixi. praestare, quum possis &amp; debias: nam qui juravit se aliquic 
+      <lb ed="#H" n="32"/>facturum quod per se malum non est, postea autem non potest 
+      prae<lb ed="#H" n="33" break="no"/>stare gravibus causis vel divinitus impeditus, is non pejeravit; velut  
+      <lb ed="#H" n="34"/>quum Apostolus Paulus sancte promisisset se venturum Corinthum, 
+      <lb ed="#H" n="35"/>postea autem non venit impeditus divinitus, nequaquam censendus 
+      <lb ed="#H" n="36"/>est pejerasse. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1120">
+               <lb ed="#H" n="37"/>
+               <pc type="indent"/>Perjurium ergo, est peccatum, quum quis contra jus divinum 
+      na<lb ed="#H" n="38" break="no"/>turale &amp; scriptum, interposito juramento, aut asserit quod certo novit 
+      <lb ed="#H" n="39"/>rel putat se aliter habere: aut promittit quod vel animo cogitat non 
+      <lb ed="#H" n="40"/>prestare, vel etsi quum juraret cogitaverat facere, postea tamen, quum 
+      <lb ed="#H" n="41"/>possit &amp; debeat, non praestat. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1136">
+               <lb ed="#H" n="42"/>
+               <pc type="indent"/>Perjurium vel assertorium est, vel promissorium. 
+      <lb ed="#H" n="43"/>Periurium assertorium, est quum quis interposito juramento 
+      asse<lb ed="#H" n="44" break="no"/>rit animo fallendi quod certo novit vel putat se aliter habere 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1147">
+               <lb ed="#H" n="45"/>
+               <pc type="indent"/>Species ejus duae sunt: Prima, est si quis aut falsum pro vero jure 
+      <lb ed="#H" n="46"/>sciens esse falsum, aut verum tanquam falsum jurando neget, sciens 
+      <lb ed="#H" n="47"/>esse verum. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1158">
+               <lb ed="#H" n="48"/>
+               <pc type="indent"/>Altera species, est si quis aut verum juret, putans esse falsum: aut 
+      fal<lb ed="#H" n="49" break="no"/>sum neget, putans esse verum. Hoc quoque perjurium peccatum est, 
+      <lb ed="#H" n="50"/>ex accidenti, quia sit animo fallendi. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1169">
+               <lb ed="#H" n="51"/>
+               <pc type="indent"/>Periurium promissorium, est quum quis jurejurando promittit quod  
+      <lb ed="#H" n="52"/>vel animo cogitat non praestare, vel etsi quum juraret cogitaverat 
+      fa<lb ed="#H" n="53" break="no"/>cere, postea tamen, quum possit &amp; debeat, non praesta¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1181">
+               <lb ed="#H" n="54"/>
+               <pc type="indent"/>Istius quoque duae sunt species: Prima, est quum quis jurejurando 
+      <lb ed="#H" n="55"/>promittit, quod animo cogitat non praestat facto ipso¬ 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1190">
+               <lb ed="#H" n="56"/>
+               <pc type="indent"/>Altera species, est quum quis quod ex animi sententia promiserat  
+      <lb ed="#H" n="57"/>illud mutata voluntate postmodum non praestat, quum possit &amp; 
+      de<lb ed="#H" n="58" break="no"/>beat praestare: velut quum quis vitae redimendae causa latroni jurat  
+      <lb ed="#H" n="59"/>certam summam pecuniae se numerarurum, latrone nemini detecto; 
+      <lb ed="#H" n="60"/>postea autem, ut pecuniam, quam poterat numerare, retineat, 
+      rem<lb ed="#H" n="61" break="no"/>aliis revelat. Istius speciei e: at perjurium Sichemitarum, qui 
+      Abi<lb ed="#H" n="62" break="no"/>melecho j raverant fidelitatem &amp; subjectionem, postea vero 
+      mu<lb ed="#H" n="63" break="no"/>tarunt voluntatem: item Israelitarum a Davide deficientium ad 
+      Ab<lb ed="#H" n="64" break="no"/>salomum. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1214">
+               <lb ed="#H" n="65"/>
+               <pc type="indent"/>Utrumque perjurii genus tum assertorium, tum promissorium 
+      <lb ed="#H" n="66"/>duplex rursum est, nempe, vel privatum, vel publicum. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1223">
+               <lb ed="#H" n="67"/>
+               <pc type="indent"/>Privatum, est quod committitur contra juramentum privatim 
+      <lb ed="#H" n="68"/>alicui praestitum. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1232">
+               <lb ed="#H" n="69"/>
+               <pc type="indent"/>Publicum, est quod committitur contra juramentum publice 
+      so<lb ed="#H" n="70" break="no"/>lenniter juratum, puta in judicio vel in homagii solennis 
+      exhibitio<lb ed="#H" n="71" break="no"/>ne, quae sit a subditis Magistratui. Tale perjurium publicum fuit 
+      <lb ed="#H" n="72"/>Sedechiae Regis Judaeae, irritum facientis fedus cum Nebucadnet.  
+      <lb ed="#H" n="73"/>gare Magno initum, spreto jurejurando ipsi in nomin Jehova 
+      <lb ed="#H" n="74"/>praestito. Simile fuit perjurium Ottocari Bohemiae Regis, qui  
+      <lb ed="#H" n="75"/>juramentum fidelitatis Rodolpho Romanorum Imperatori 
+      ju<lb ed="#H" n="76" break="no"/>tatum, uxore regina instigante violans Imperatori 
+      rebella<lb ed="#H" n="77" break="no"/>vit. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1256">
+               <lb ed="#H" n="78"/>
+               <pc type="indent"/>Omne autem perjurium, sive assertorium, sive promissorium, sive 
+      <lb ed="#H" n="79"/>privatum, sive publicum sit, nobis summa religione cavendum est. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1266">
+               <lb ed="#H" n="80"/>
+               <pc type="indent"/>I. Quia prohibitum est a Deo in Decalogo, Exod. 20. v. 7. Levit. 
+      <lb ed="#H" n="81"/>19. vers. 12. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1275">
+               <lb ed="#H" n="82"/>
+               <pc type="indent"/>II. Quia per illud prophanatur nomen Dei, quod sanctum nobis 
+      <lb ed="#H" n="83"/>esse debebat, Levit. 19. 12. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1284">
+               <lb ed="#H" n="84"/>
+               <pc type="indent"/>III. Quia certum infortunium &amp; ultionem divinam 
+      inevitabi<lb ed="#H" n="85" break="no"/>em accersit. Exemplum est in Sedechia Rege Judaeae, Ezech. 17. 
+    </p>
+            <p xml:id="yyy8Uu-xd2503-d1e1293">
+               <lb ed="#H" n="86"/>
+               <pc type="indent"/>Tantum de per jurio. 
+      <lb ed="#H" n="87"/>Impletio impii juramenti, est peccatum cum quis impium 
+      juramen<lb ed="#H" n="88" break="no"/>tum implet sub specie religionis, quum tamen minime sit religiosus: 
+      <lb ed="#H" n="89"/>ut Herodes Johannis Baptidae interfector, implevit quod impie 
+      ju<lb ed="#H" n="90" break="no"/>raverat Hetodiadi, Matth. 14. v. 9. 
+      <!--cod-MkL9py-0659.xml-->
+      <cb ed="#H" n="b"/>
+               <lb ed="#H" n="91"/>Hucusque de invocatione Dei: sequitir  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>
